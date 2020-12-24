@@ -1,6 +1,7 @@
 {
   "LV": {
     "continent": "Europe",
+    "address_format": "{{recipient}}\n{{street}}\n{{region}}\n{{city}} {{postalcode}}\n{{country}}",
     "alpha2": "LV",
     "alpha3": "LVA",
     "country_code": "371",
