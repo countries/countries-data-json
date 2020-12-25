@@ -65,7 +65,7 @@ function validate_yaml_data {
     if [ ! -f "data/countries/ZW.yaml" ]; then unknown_error; fi
     if [ ! -f "data/subdivisions/AD.yaml" ]; then unknown_error; fi
     if [ ! -f "data/subdivisions/ZW.yaml" ]; then unknown_error; fi
-    if [ ! find data -name "*.yaml" -type f -print0 | xargs -0 -P 8 yq type > /dev/null ]; then unknown_error; fi
+    find data -name "*.yaml" -type f -print0 | xargs -0 -P 8 yq type > /dev/null || unknown_error
 }
 
 function validate_json_data {
@@ -73,7 +73,7 @@ function validate_json_data {
     if [ ! -f "data/countries/ZW.json" ]; then unknown_error; fi
     if [ ! -f "data/subdivisions/AD.json" ]; then unknown_error; fi
     if [ ! -f "data/subdivisions/ZW.json" ]; then unknown_error; fi
-    if [ ! find data -name "*.json" -type f -print0 | xargs -0 -P 8 jq type > /dev/null ]; then unknown_error; fi
+    find data -name "*.json" -type f -print0 | xargs -0 -P 8 jq type > /dev/null || unknown_error
 }
 
 function convert_yaml_to_json {

@@ -25,7 +25,7 @@ jobs:
 
       # Install prerequisites
       - name: Installing prerequisites
-        run: sudo apt install python-pip jq && pip install yq
+        run: sudo apt install python3-pip jq && sudo pip3 install yq
 
       # Update country data
       - name: Auto Update Country Data
