@@ -77,7 +77,7 @@ function validate_json_data {
 }
 
 function convert_yaml_to_json {
-    find data -name "*.yaml" -type f -print0 | xargs -0 -P 8 -I {} sh -c 'cat $0 | $HOME/.local/bin/yq . > ${0%.*}.json && echo >> ${0%.*}.json && rm $0' {}
+    find data -name "*.yaml" -type f -print0 | xargs -0 -P 8 -I {} sh -c 'cat $0 | yq . > ${0%.*}.json && echo >> ${0%.*}.json && rm $0' {}
 }
 
 function commit_changes {
