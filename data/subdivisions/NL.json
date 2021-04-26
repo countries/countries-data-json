@@ -1,6 +1,16 @@
 {
   "DR": {
+    "name": "Drenthe",
+    "code": null,
     "unofficial_names": "Drenthe",
+    "geo": {
+      "latitude": 52.9476012,
+      "longitude": 6.623058599999999,
+      "min_latitude": 52.6121857,
+      "min_longitude": 6.1198503,
+      "max_latitude": 53.2037415,
+      "max_longitude": 7.0929356
+    },
     "translations": {
       "en": "Drenthe",
       "af": "Drenthe",
@@ -54,20 +64,34 @@
       "tr": "Drenthe",
       "uk": "Дренте",
       "ur": "درینتے",
-      "vi": "Drenthe"
+      "vi": "Drenthe",
+      "cy": "Drenthe",
+      "ceb": "Provincie Drenthe",
+      "sr_Latn": "Drente",
+      "zh": "德伦特省",
+      "yue_Hans": "德伦特",
+      "jv": "Drenthe",
+      "sq": "Drenthe",
+      "ccp": "𑄓𑄳𑄢𑄬𑄚𑄴𑄗𑄬",
+      "ga": "Drenthe",
+      "so": "Drenthe",
+      "yue": "德倫特",
+      "mk": "Дренте"
     },
-    "geo": {
-      "latitude": 52.9476012,
-      "longitude": 6.623058599999999,
-      "min_latitude": 52.6121857,
-      "min_longitude": 6.1198503,
-      "max_latitude": 53.2037415,
-      "max_longitude": 7.0929356
-    },
-    "name": "Drenthe"
+    "comments": null
   },
   "FL": {
+    "name": "Flevoland",
+    "code": null,
     "unofficial_names": "Flevoland",
+    "geo": {
+      "latitude": 52.5279781,
+      "longitude": 5.595350799999999,
+      "min_latitude": 52.2526254,
+      "min_longitude": 5.1221244,
+      "max_latitude": 52.8440468,
+      "max_longitude": 6.011667099999999
+    },
     "translations": {
       "en": "Flevoland",
       "af": "Flevoland",
@@ -121,20 +145,34 @@
       "tr": "Flevoland",
       "uk": "Флеволанд",
       "ur": "فلیولانت",
-      "vi": "Flevoland"
+      "vi": "Flevoland",
+      "cy": "Flevoland",
+      "ceb": "Provincie Flevoland",
+      "sr_Latn": "Flevoland",
+      "zh": "弗莱福兰省",
+      "yue_Hans": "傅利禾兰",
+      "jv": "Flevoland",
+      "sq": "Flevoland",
+      "ccp": "𑄜𑄳𑄢𑄬𑄞𑄮𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Flevoland",
+      "so": "Flevoland",
+      "yue": "傅利禾蘭",
+      "mk": "Флеволанд"
     },
-    "geo": {
-      "latitude": 52.5279781,
-      "longitude": 5.595350799999999,
-      "min_latitude": 52.2526254,
-      "min_longitude": 5.1221244,
-      "max_latitude": 52.8440468,
-      "max_longitude": 6.011667099999999
-    },
-    "name": "Flevoland"
+    "comments": null
   },
   "FR": {
+    "name": "Friesland",
+    "code": null,
     "unofficial_names": "Friesland",
+    "geo": {
+      "latitude": 53.1641642,
+      "longitude": 5.7817542,
+      "min_latitude": 52.8006928,
+      "min_longitude": 4.8455655,
+      "max_latitude": 53.5145975,
+      "max_longitude": 6.4274762
+    },
     "translations": {
       "en": "Friesland",
       "af": "Friesland",
@@ -187,22 +225,37 @@
       "tr": "Frizya",
       "uk": "Фрисландія",
       "ur": "فریسلانت",
-      "vi": "Friesland"
+      "vi": "Friesland",
+      "cy": "Fryslân",
+      "ceb": "Provincie Friesland",
+      "sr_Latn": "Frizija",
+      "zh": "弗里斯兰省",
+      "yue_Hans": "菲士兰",
+      "jv": "Friesland",
+      "sq": "Friesland",
+      "ccp": "𑄜𑄳𑄢𑄭𑄠𑄬𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Friesland",
+      "hy": "Ֆրիսլանդիա",
+      "so": "Friesland",
+      "yue": "菲士蘭",
+      "mk": "Фризија"
     },
-    "geo": {
-      "latitude": 53.1641642,
-      "longitude": 5.7817542,
-      "min_latitude": 52.8006928,
-      "min_longitude": 4.8455655,
-      "max_latitude": 53.5145975,
-      "max_longitude": 6.4274762
-    },
-    "name": "Friesland"
+    "comments": null
   },
   "GE": {
+    "name": "Gelderland",
+    "code": null,
     "unofficial_names": [
       "Gueldre"
     ],
+    "geo": {
+      "latitude": 52.045155,
+      "longitude": 5.871823399999999,
+      "min_latitude": 51.7336076,
+      "min_longitude": 4.9938809,
+      "max_latitude": 52.5220087,
+      "max_longitude": 6.833041799999999
+    },
     "translations": {
       "en": "Gelderland",
       "af": "Gelderland",
@@ -258,23 +311,37 @@
       "tr": "Gelderland",
       "uk": "Гелдерланд",
       "ur": "خیلدرلنت",
-      "vi": "Gelderland"
+      "vi": "Gelderland",
+      "cy": "Gelderland",
+      "ceb": "Provincie Gelderland",
+      "sr_Latn": "Helderland",
+      "zh": "海尔德兰省",
+      "yue_Hans": "希德兰",
+      "jv": "Gelderland",
+      "sq": "Gelderland",
+      "ccp": "𑄉𑄬𑄣𑄴𑄓𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Gelderland",
+      "so": "Gelderland",
+      "yue": "希德蘭",
+      "mk": "Гелдерланд"
     },
-    "geo": {
-      "latitude": 52.045155,
-      "longitude": 5.871823399999999,
-      "min_latitude": 51.7336076,
-      "min_longitude": 4.9938809,
-      "max_latitude": 52.5220087,
-      "max_longitude": 6.833041799999999
-    },
-    "name": "Gelderland"
+    "comments": null
   },
   "GR": {
+    "name": "Groningen",
+    "code": null,
     "unofficial_names": [
       "Groningue",
       "Groninga"
     ],
+    "geo": {
+      "latitude": 53.2193835,
+      "longitude": 6.566501799999999,
+      "min_latitude": 53.1786842,
+      "min_longitude": 6.4625995,
+      "max_latitude": 53.26472589999999,
+      "max_longitude": 6.6669044
+    },
     "translations": {
       "en": "Groningen",
       "af": "Groningen",
@@ -329,20 +396,34 @@
       "tr": "Groningen",
       "uk": "Гронінген",
       "ur": "خرونیگین",
-      "vi": "Groningen"
+      "vi": "Groningen",
+      "cy": "Groningen",
+      "ceb": "Provincie Groningen",
+      "sr_Latn": "Groningen",
+      "zh": "格罗宁根省",
+      "yue_Hans": "古罗宁亨",
+      "jv": "Provinsi Groningen",
+      "sq": "Groningen",
+      "ccp": "𑄉𑄳𑄢𑄮𑄚𑄨𑄚𑄴𑄎𑄬𑄚𑄴",
+      "ga": "Groningen",
+      "so": "Groningen",
+      "yue": "古羅寧亨",
+      "mk": "Гронинген"
     },
-    "geo": {
-      "latitude": 53.2193835,
-      "longitude": 6.566501799999999,
-      "min_latitude": 53.1786842,
-      "min_longitude": 6.4625995,
-      "max_latitude": 53.26472589999999,
-      "max_longitude": 6.6669044
-    },
-    "name": "Groningen"
+    "comments": null
   },
   "LI": {
+    "name": "Limburg",
+    "code": null,
     "unofficial_names": "Limburg",
+    "geo": {
+      "latitude": 51.4427238,
+      "longitude": 6.0608726,
+      "min_latitude": 50.75038379999999,
+      "min_longitude": 5.5660666,
+      "max_latitude": 51.778577,
+      "max_longitude": 6.226801399999999
+    },
     "translations": {
       "en": "Limburg",
       "af": "Limburg, Nederland",
@@ -397,20 +478,33 @@
       "tr": "Limburg, Hollanda",
       "uk": "Лімбург",
       "ur": "لمبرخ",
-      "vi": "Limburg"
+      "vi": "Limburg",
+      "cy": "Limburg",
+      "sr_Latn": "Limburg",
+      "zh": "林堡省",
+      "yue_Hans": "林堡",
+      "jv": "Limburg",
+      "sq": "Limburgu",
+      "ccp": "𑄣𑄨𑄟𑄝𑄢𑄴𑄉𑄴",
+      "ga": "Limburg",
+      "so": "Limburg",
+      "yue": "林堡",
+      "mk": "Лимбург"
     },
-    "geo": {
-      "latitude": 51.4427238,
-      "longitude": 6.0608726,
-      "min_latitude": 50.75038379999999,
-      "min_longitude": 5.5660666,
-      "max_latitude": 51.778577,
-      "max_longitude": 6.226801399999999
-    },
-    "name": "Limburg"
+    "comments": null
   },
   "NB": {
+    "name": "Noord-Brabant",
+    "code": null,
     "unofficial_names": "Noord-Brabant",
+    "geo": {
+      "latitude": 51.4826537,
+      "longitude": 5.2321687,
+      "min_latitude": 51.2209373,
+      "min_longitude": 4.190081,
+      "max_latitude": 51.8307142,
+      "max_longitude": 6.047724
+    },
     "translations": {
       "en": "North Brabant",
       "af": "Noord-Brabant",
@@ -466,20 +560,34 @@
       "tr": "Kuzey Brabant",
       "uk": "Північний Брабант",
       "ur": "شمالی برابانٹ",
-      "vi": "Noord-Brabant"
+      "vi": "Noord-Brabant",
+      "cy": "Noord-Brabant",
+      "ceb": "Provincie Noord-Brabant",
+      "sr_Latn": "Severni Brabant",
+      "zh": "北布拉班特省",
+      "yue_Hans": "北布拉班",
+      "jv": "Brabant Lor",
+      "sq": "Brabanta Veriore",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄝𑄳𑄢𑄝𑄚𑄴𑄑𑄴",
+      "ga": "Brabant Thuaidh",
+      "so": "Waqooyiga Brabant",
+      "yue": "北布拉班",
+      "mk": "Северен Брабант"
     },
-    "geo": {
-      "latitude": 51.4826537,
-      "longitude": 5.2321687,
-      "min_latitude": 51.2209373,
-      "min_longitude": 4.190081,
-      "max_latitude": 51.8307142,
-      "max_longitude": 6.047724
-    },
-    "name": "Noord-Brabant"
+    "comments": null
   },
   "NH": {
+    "name": "Noord-Holland",
+    "code": null,
     "unofficial_names": "Noord-Holland",
+    "geo": {
+      "latitude": 52.5205869,
+      "longitude": 4.788474,
+      "min_latitude": 52.1657716,
+      "min_longitude": 4.4937415,
+      "max_latitude": 53.1833322,
+      "max_longitude": 5.328279999999999
+    },
     "translations": {
       "en": "North Holland",
       "af": "Noord-Holland",
@@ -536,20 +644,34 @@
       "tr": "Kuzey Hollanda",
       "uk": "Північна Голландія",
       "ur": "شمالی ہولانت",
-      "vi": "Noord-Holland"
+      "vi": "Noord-Holland",
+      "cy": "Noord-Holland",
+      "ceb": "Provincie Noord-Holland",
+      "sr_Latn": "Severna Holandija",
+      "zh": "北荷兰省",
+      "yue_Hans": "北荷兰",
+      "jv": "Holland Lor",
+      "sq": "Hollanda e Veriut",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄦𑄮𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "An Ollainn Thuaidh",
+      "so": "Waqooyiga Holland",
+      "yue": "北荷蘭",
+      "mk": "Северна Холандија"
     },
-    "geo": {
-      "latitude": 52.5205869,
-      "longitude": 4.788474,
-      "min_latitude": 52.1657716,
-      "min_longitude": 4.4937415,
-      "max_latitude": 53.1833322,
-      "max_longitude": 5.328279999999999
-    },
-    "name": "Noord-Holland"
+    "comments": null
   },
   "OV": {
+    "name": "Overijssel",
+    "code": null,
     "unofficial_names": "Overijssel",
+    "geo": {
+      "latitude": 52.4387814,
+      "longitude": 6.5016411,
+      "min_latitude": 52.118023,
+      "min_longitude": 5.7778252,
+      "max_latitude": 52.85423489999999,
+      "max_longitude": 7.0727632
+    },
     "translations": {
       "en": "Overijssel",
       "af": "Overijssel",
@@ -603,20 +725,34 @@
       "tr": "Overijssel",
       "uk": "Оверейсел",
       "ur": "اوفریسل",
-      "vi": "Overijssel"
+      "vi": "Overijssel",
+      "cy": "Overijssel",
+      "ceb": "Provincie Overijssel",
+      "sr_Latn": "Overejsel",
+      "zh": "上艾瑟尔省",
+      "yue_Hans": "上艾修",
+      "jv": "Overijssel",
+      "sq": "Overijssel",
+      "ccp": "𑄃𑄮𑄞𑄢𑄨𑄌𑄴𑄥𑄬𑄣𑄴",
+      "ga": "Overijssel",
+      "so": "Overijssel",
+      "yue": "上艾修",
+      "mk": "Оверејсел"
     },
-    "geo": {
-      "latitude": 52.4387814,
-      "longitude": 6.5016411,
-      "min_latitude": 52.118023,
-      "min_longitude": 5.7778252,
-      "max_latitude": 52.85423489999999,
-      "max_longitude": 7.0727632
-    },
-    "name": "Overijssel"
+    "comments": null
   },
   "UT": {
+    "name": "Utrecht",
+    "code": null,
     "unofficial_names": "Utrecht",
+    "geo": {
+      "latitude": 52.09073739999999,
+      "longitude": 5.1214201,
+      "min_latitude": 52.02611109999999,
+      "min_longitude": 4.9697758,
+      "max_latitude": 52.1422624,
+      "max_longitude": 5.1952072
+    },
     "translations": {
       "en": "Utrecht",
       "af": "Utrecht",
@@ -669,20 +805,36 @@
       "tr": "Utrecht",
       "uk": "Утрехт",
       "ur": "اوتریخت",
-      "vi": "Utrecht"
+      "vi": "Utrecht",
+      "cy": "Utrecht",
+      "ceb": "Provincie Utrecht",
+      "sr_Latn": "Utreht",
+      "zh": "乌得勒支省",
+      "yue_Hans": "宇德历",
+      "jv": "Provinsi Utrecht",
+      "sq": "Utrecht",
+      "ccp": "𑄅𑄪𑄑𑄳𑄢𑄬𑄌𑄴𑄑𑄴",
+      "ga": "Utrecht",
+      "so": "Utrecht",
+      "sl": "Utrecht",
+      "yue": "宇德歷",
+      "az": "Utrext vilayəti",
+      "mk": "Утрехт"
     },
-    "geo": {
-      "latitude": 52.09073739999999,
-      "longitude": 5.1214201,
-      "min_latitude": 52.02611109999999,
-      "min_longitude": 4.9697758,
-      "max_latitude": 52.1422624,
-      "max_longitude": 5.1952072
-    },
-    "name": "Utrecht"
+    "comments": null
   },
   "ZE": {
+    "name": "Zeeland",
+    "code": null,
     "unofficial_names": "Zeeland",
+    "geo": {
+      "latitude": 51.4940309,
+      "longitude": 3.8496815,
+      "min_latitude": 51.2003318,
+      "min_longitude": 3.357962,
+      "max_latitude": 51.75842100000001,
+      "max_longitude": 4.279691
+    },
     "translations": {
       "en": "Zeeland",
       "af": "Zeeland",
@@ -736,20 +888,33 @@
       "tr": "Zelanda",
       "uk": "Зеландія",
       "ur": "زی لینڈ",
-      "vi": "Zeeland"
+      "vi": "Zeeland",
+      "cy": "Zeeland",
+      "ceb": "Provincie Zeeland",
+      "sr_Latn": "Zeland",
+      "zh": "泽兰省",
+      "yue_Hans": "西兰",
+      "sq": "Zeeland",
+      "ccp": "𑄎𑄩𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Zeeland",
+      "so": "Zeeland",
+      "yue": "西蘭",
+      "mk": "Зеланд"
     },
-    "geo": {
-      "latitude": 51.4940309,
-      "longitude": 3.8496815,
-      "min_latitude": 51.2003318,
-      "min_longitude": 3.357962,
-      "max_latitude": 51.75842100000001,
-      "max_longitude": 4.279691
-    },
-    "name": "Zeeland"
+    "comments": null
   },
   "ZH": {
+    "name": "Zuid-Holland",
+    "code": null,
     "unofficial_names": "Zuid-Holland",
+    "geo": {
+      "latitude": 52.0207975,
+      "longitude": 4.4937836,
+      "min_latitude": 51.656067,
+      "min_longitude": 3.8393205,
+      "max_latitude": 52.3282742,
+      "max_longitude": 5.1492625
+    },
     "translations": {
       "en": "South Holland",
       "af": "Suid-Holland",
@@ -806,19 +971,34 @@
       "tr": "Güney Hollanda",
       "uk": "Південна Голландія",
       "ur": "جنوبی ہولانت",
-      "vi": "Zuid-Holland"
+      "vi": "Zuid-Holland",
+      "cy": "Zuid-Holland",
+      "ceb": "Provincie Zuid-Holland",
+      "sr_Latn": "Južna Holandija",
+      "zh": "南荷蘭省",
+      "yue_Hans": "南荷兰",
+      "jv": "Holland Kidul",
+      "sq": "Hollanda e Jugut",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄦𑄮𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "An Ollainn Theas",
+      "so": "Koofurta Holland",
+      "yue": "南荷蘭",
+      "mk": "Јужна Холандија"
     },
-    "geo": {
-      "latitude": 52.0207975,
-      "longitude": 4.4937836,
-      "min_latitude": 51.656067,
-      "min_longitude": 3.8393205,
-      "max_latitude": 52.3282742,
-      "max_longitude": 5.1492625
-    },
-    "name": "Zuid-Holland"
+    "comments": null
   },
   "BQ1": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Bonaire",
       "ar": "بونير",
@@ -873,10 +1053,32 @@
       "uk": "Бонайре",
       "ur": "بونایر",
       "vi": "Bonaire",
-      "zh": "波内赫"
-    }
+      "zh": "波内赫",
+      "cy": "Bonaire",
+      "ceb": "Bonaire (pulo ug munisipyo espesyal)",
+      "sr_Latn": "Boner",
+      "yue_Hans": "博奈尔岛",
+      "ccp": "𑄝𑄧𑄚𑄭𑄠𑄢𑄴",
+      "pa": "ਬੋਨੇਅਰ",
+      "kk": "Бонэйр",
+      "yue": "博奈爾島",
+      "yo": "Bonaire",
+      "mk": "Бонер"
+    },
+    "comments": null
   },
   "BQ2": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Saba",
       "ar": "سابا",
@@ -922,10 +1124,32 @@
       "tr": "Saba",
       "uk": "Саба",
       "ur": "صبا",
-      "vi": "Saba"
-    }
+      "vi": "Saba",
+      "ceb": "Saba Island",
+      "sr_Latn": "Saba",
+      "zh": "薩巴",
+      "yue_Hans": "萨巴岛",
+      "ccp": "𑄥𑄝",
+      "pa": "ਸਾਬਾ",
+      "kk": "Саба",
+      "yue": "薩巴島",
+      "bs": "Saba",
+      "mk": "Саба"
+    },
+    "comments": null
   },
   "BQ3": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Sint Eustatius",
       "ar": "سينت أوستاتيوس",
@@ -978,23 +1202,72 @@
       "tr": "Sint Eustatius",
       "uk": "Сінт-Естатіус",
       "ur": "سینٹ ایوسٹائیس",
-      "vi": "Sint Eustatius"
-    }
+      "vi": "Sint Eustatius",
+      "ceb": "Sint Eustatius",
+      "sr_Latn": "Sveti Eustahije",
+      "zh": "圣尤斯特歇斯",
+      "yue_Hans": "圣犹士坦岛",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄃𑄨𑄅𑄪𑄌𑄴𑄑𑄑𑄨𑄠𑄌𑄴",
+      "pa": "ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ",
+      "kk": "Синт-Эстатиус",
+      "yue": "聖猶士坦島",
+      "mk": "Свети Евстахиј"
+    },
+    "comments": null
   },
   "AW": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Aruba"
-    }
+      "en": "Aruba",
+      "ccp": "𑄃𑄢𑄪𑄝"
+    },
+    "comments": null
   },
   "CW": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Curaçao"
-    }
+      "en": "Curaçao",
+      "ccp": "𑄇𑄨𑄅𑄪𑄢𑄇𑄃𑄮"
+    },
+    "comments": null
   },
   "SX": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Sint Maarten"
-    }
+      "en": "Sint Maarten",
+      "ccp": "𑄥𑄨𑄠𑄚𑄴𑄑𑄴 𑄟𑄢𑄴𑄑𑄬𑄚𑄴"
+    },
+    "comments": null
   }
 }
 

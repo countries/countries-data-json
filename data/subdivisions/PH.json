@@ -1,6 +1,16 @@
 {
   "ABR": {
+    "name": "Abra",
+    "code": null,
     "unofficial_names": "Abra",
+    "geo": {
+      "latitude": 17.5951122,
+      "longitude": 120.7982528,
+      "min_latitude": 17.154255,
+      "min_longitude": 120.463118,
+      "max_latitude": 17.979682,
+      "max_longitude": 121.124898
+    },
     "translations": {
       "en": "Abra",
       "ar": "أبرا",
@@ -34,20 +44,29 @@
       "th": "จังหวัดอาบรา",
       "tr": "Abra",
       "ur": "ابرا (صوبہ)",
-      "vi": "Abra"
+      "vi": "Abra",
+      "lv": "Abra",
+      "ceb": "Abra",
+      "lt": "Abra",
+      "zh": "阿布拉省",
+      "ccp": "𑄃𑄝𑄳𑄢",
+      "uk": "Провінція Абра",
+      "mk": "Абра"
     },
-    "geo": {
-      "latitude": 17.5951122,
-      "longitude": 120.7982528,
-      "min_latitude": 17.154255,
-      "min_longitude": 120.463118,
-      "max_latitude": 17.979682,
-      "max_longitude": 121.124898
-    },
-    "name": "Abra"
+    "comments": null
   },
   "AGN": {
+    "name": "Agusan del Norte",
+    "code": null,
     "unofficial_names": "Agusan del Norte",
+    "geo": {
+      "latitude": 8.9456259,
+      "longitude": 125.5319234,
+      "min_latitude": 8.6575759,
+      "min_longitude": 125.2066434,
+      "max_latitude": 9.4591,
+      "max_longitude": 125.7669111
+    },
     "translations": {
       "en": "Agusan del Norte",
       "ar": "أغوسان ديل نورت",
@@ -81,20 +100,29 @@
       "th": "อกูซาน เดล นอร์เต้",
       "tr": "Agusan del Norte",
       "ur": "اگوسان شمالی",
-      "vi": "Agusan del Norte"
+      "vi": "Agusan del Norte",
+      "lv": "Agusana del Norte",
+      "ceb": "Agusan del Norte",
+      "lt": "Šiaurės Agusanas",
+      "zh": "北阿古桑省",
+      "ccp": "𑄃𑄉𑄪𑄥𑄚𑄴 𑄓𑄬𑄣𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Агусан",
+      "mk": "Северен Агусан"
     },
-    "geo": {
-      "latitude": 8.9456259,
-      "longitude": 125.5319234,
-      "min_latitude": 8.6575759,
-      "min_longitude": 125.2066434,
-      "max_latitude": 9.4591,
-      "max_longitude": 125.7669111
-    },
-    "name": "Agusan del Norte"
+    "comments": null
   },
   "AGS": {
+    "name": "Agusan del Sur",
+    "code": null,
     "unofficial_names": "Agusan del Sur",
+    "geo": {
+      "latitude": 8.6051665,
+      "longitude": 125.916739,
+      "min_latitude": 7.936757,
+      "min_longitude": 125.239547,
+      "max_latitude": 9.231869,
+      "max_longitude": 126.361955
+    },
     "translations": {
       "en": "Agusan del Sur",
       "ar": "أغوسان ديل سور",
@@ -127,20 +155,29 @@
       "th": "อกูซาน เดล เซอ",
       "tr": "Agusan del Sur",
       "ur": "اگوسان جنوبی",
-      "vi": "Agusan del Sur"
+      "vi": "Agusan del Sur",
+      "lv": "Agusana del Sura",
+      "ceb": "Agusan del Sur",
+      "lt": "Pietų Agusanas",
+      "zh": "南阿古桑省",
+      "ccp": "𑄃𑄉𑄪𑄥𑄚𑄴 𑄓𑄬𑄣𑄴 𑄥𑄢𑄴",
+      "uk": "Південний Агусан",
+      "mk": "Јужен Агусан"
     },
-    "geo": {
-      "latitude": 8.6051665,
-      "longitude": 125.916739,
-      "min_latitude": 7.936757,
-      "min_longitude": 125.239547,
-      "max_latitude": 9.231869,
-      "max_longitude": 126.361955
-    },
-    "name": "Agusan del Sur"
+    "comments": null
   },
   "AKL": {
+    "name": "Aklan",
+    "code": null,
     "unofficial_names": "Aklan",
+    "geo": {
+      "latitude": 11.8166109,
+      "longitude": 122.0941541,
+      "min_latitude": 11.311094,
+      "min_longitude": 121.848633,
+      "max_latitude": 11.9994645,
+      "max_longitude": 122.57729
+    },
     "translations": {
       "en": "Aklan",
       "ar": "ولاية أكلان",
@@ -176,20 +213,29 @@
       "tr": "Aklan",
       "uk": "Аклан",
       "ur": "اکلان",
-      "vi": "Aklan"
+      "vi": "Aklan",
+      "lv": "Aklana",
+      "ceb": "Aklan",
+      "lt": "Aklanas",
+      "zh": "阿克兰省",
+      "ccp": "𑄃𑄇𑄴𑄣𑄚𑄴",
+      "bs": "Aklan",
+      "mk": "Аклан"
     },
-    "geo": {
-      "latitude": 11.8166109,
-      "longitude": 122.0941541,
-      "min_latitude": 11.311094,
-      "min_longitude": 121.848633,
-      "max_latitude": 11.9994645,
-      "max_longitude": 122.57729
-    },
-    "name": "Aklan"
+    "comments": null
   },
   "ALB": {
+    "name": "Albay",
+    "code": null,
     "unofficial_names": "Albay",
+    "geo": {
+      "latitude": 13.1774827,
+      "longitude": 123.5280072,
+      "min_latitude": 12.986531,
+      "min_longitude": 123.2739775,
+      "max_latitude": 13.525534,
+      "max_longitude": 124.220096
+    },
     "translations": {
       "en": "Albay",
       "ar": "ألباي",
@@ -223,20 +269,30 @@
       "th": "อัลเบย์",
       "tr": "Albay",
       "ur": "البائی",
-      "vi": "Albay"
+      "vi": "Albay",
+      "lv": "Albaja",
+      "ceb": "Albay",
+      "lt": "Albajus",
+      "zh": "阿尔拜省",
+      "ccp": "𑄃𑄣𑄴𑄝𑄬",
+      "hy": "Ալբայ",
+      "uk": "Албай",
+      "mk": "Албај"
     },
-    "geo": {
-      "latitude": 13.1774827,
-      "longitude": 123.5280072,
-      "min_latitude": 12.986531,
-      "min_longitude": 123.2739775,
-      "max_latitude": 13.525534,
-      "max_longitude": 124.220096
-    },
-    "name": "Albay"
+    "comments": null
   },
   "ANT": {
+    "name": "Antique",
+    "code": null,
     "unofficial_names": "Antique",
+    "geo": {
+      "latitude": 11.380579,
+      "longitude": 122.0635005,
+      "min_latitude": 10.4172679,
+      "min_longitude": 121.2828827,
+      "max_latitude": 12.117357,
+      "max_longitude": 122.325029
+    },
     "translations": {
       "en": "Antique",
       "ar": "آنتيك",
@@ -270,20 +326,29 @@
       "th": "แอนติค",
       "tr": "Antique",
       "ur": "اینٹیک (صوبہ)",
-      "vi": "Antique"
+      "vi": "Antique",
+      "lv": "Antike",
+      "ceb": "Antique",
+      "lt": "Antikė",
+      "zh": "安蒂克省",
+      "ccp": "𑄃𑄚𑄴𑄑𑄨𑄇𑄴",
+      "uk": "Антік",
+      "mk": "Антике"
     },
-    "geo": {
-      "latitude": 11.380579,
-      "longitude": 122.0635005,
-      "min_latitude": 10.4172679,
-      "min_longitude": 121.2828827,
-      "max_latitude": 12.117357,
-      "max_longitude": 122.325029
-    },
-    "name": "Antique"
+    "comments": null
   },
   "APA": {
+    "name": "Apayao",
+    "code": null,
     "unofficial_names": "Apayao",
+    "geo": {
+      "latitude": 18.0120304,
+      "longitude": 121.1710389,
+      "min_latitude": 17.623744,
+      "min_longitude": 120.9254531,
+      "max_latitude": 18.541674,
+      "max_longitude": 121.4897879
+    },
     "translations": {
       "en": "Apayao",
       "ar": "آبايو",
@@ -317,20 +382,29 @@
       "th": "อพาเยา",
       "tr": "Apayao",
       "ur": "اپایاؤ",
-      "vi": "Apayao"
+      "vi": "Apayao",
+      "lv": "Apajao",
+      "ceb": "Apayao",
+      "lt": "Apajao",
+      "zh": "阿巴尧省",
+      "ccp": "𑄃𑄛𑄬𑄠𑄃𑄮",
+      "uk": "Апаяо",
+      "mk": "Апајао"
     },
-    "geo": {
-      "latitude": 18.0120304,
-      "longitude": 121.1710389,
-      "min_latitude": 17.623744,
-      "min_longitude": 120.9254531,
-      "max_latitude": 18.541674,
-      "max_longitude": 121.4897879
-    },
-    "name": "Apayao"
+    "comments": null
   },
   "AUR": {
+    "name": "Aurora",
+    "code": null,
     "unofficial_names": "Aurora",
+    "geo": {
+      "latitude": 16.991944,
+      "longitude": 121.636944,
+      "min_latitude": 16.9357138,
+      "min_longitude": 121.5742779,
+      "max_latitude": 17.0173518,
+      "max_longitude": 121.7060828
+    },
     "translations": {
       "en": "Aurora",
       "ar": "أورورا",
@@ -365,20 +439,29 @@
       "th": "จังหวัดออโรรา",
       "tr": "Aurora",
       "ur": "آرورا (صوبہ)",
-      "vi": "Aurora"
+      "vi": "Aurora",
+      "lv": "Aurora",
+      "ceb": "Aurora",
+      "lt": "Aurora",
+      "zh": "奥罗拉省",
+      "ccp": "𑄃𑄧𑄅𑄪𑄢𑄮𑄢",
+      "uk": "Провінція Аврора",
+      "mk": "Аурора"
     },
-    "geo": {
-      "latitude": 16.991944,
-      "longitude": 121.636944,
-      "min_latitude": 16.9357138,
-      "min_longitude": 121.5742779,
-      "max_latitude": 17.0173518,
-      "max_longitude": 121.7060828
-    },
-    "name": "Aurora"
+    "comments": null
   },
   "BAN": {
+    "name": "Bataan",
+    "code": null,
     "unofficial_names": "Bataan",
+    "geo": {
+      "latitude": 14.6416842,
+      "longitude": 120.4818446,
+      "min_latitude": 14.3725568,
+      "min_longitude": 120.2426195,
+      "max_latitude": 14.9283039,
+      "max_longitude": 120.6115616
+    },
     "translations": {
       "en": "Bataan",
       "ar": "باتان",
@@ -413,20 +496,28 @@
       "tr": "Bataan",
       "uk": "Батаан",
       "ur": "باتان",
-      "vi": "Bataan"
+      "vi": "Bataan",
+      "lv": "Bataana",
+      "ceb": "Bataan",
+      "lt": "Bataanas",
+      "zh": "巴丹省",
+      "ccp": "𑄝𑄑𑄳𑄃𑄚𑄴",
+      "mk": "Батаан"
     },
-    "geo": {
-      "latitude": 14.6416842,
-      "longitude": 120.4818446,
-      "min_latitude": 14.3725568,
-      "min_longitude": 120.2426195,
-      "max_latitude": 14.9283039,
-      "max_longitude": 120.6115616
-    },
-    "name": "Bataan"
+    "comments": null
   },
   "BAS": {
+    "name": "Basilan",
+    "code": null,
     "unofficial_names": "Basilan",
+    "geo": {
+      "latitude": 6.4296349,
+      "longitude": 121.9870165,
+      "min_latitude": 6.2788594,
+      "min_longitude": 121.4296532,
+      "max_latitude": 6.906267000000001,
+      "max_longitude": 122.3269363
+    },
     "translations": {
       "en": "Basilan",
       "ar": "باسيلان",
@@ -463,20 +554,28 @@
       "tr": "Basilan",
       "uk": "Басілан",
       "ur": "باسیلان",
-      "vi": "Basilan"
+      "vi": "Basilan",
+      "lv": "Basilana",
+      "ceb": "Basilan",
+      "zh": "巴西兰省",
+      "ccp": "𑄝𑄥𑄨𑄣𑄧𑄚𑄴",
+      "gl": "Basilán",
+      "mk": "Басилан"
     },
-    "geo": {
-      "latitude": 6.4296349,
-      "longitude": 121.9870165,
-      "min_latitude": 6.2788594,
-      "min_longitude": 121.4296532,
-      "max_latitude": 6.906267000000001,
-      "max_longitude": 122.3269363
-    },
-    "name": "Basilan"
+    "comments": null
   },
   "BEN": {
+    "name": "Benguet",
+    "code": null,
     "unofficial_names": "Benguet",
+    "geo": {
+      "latitude": 16.5577257,
+      "longitude": 120.8039474,
+      "min_latitude": 16.186448,
+      "min_longitude": 120.468057,
+      "max_latitude": 16.9382421,
+      "max_longitude": 120.904165
+    },
     "translations": {
       "en": "Benguet",
       "ar": "بينغويت",
@@ -511,20 +610,28 @@
       "tr": "Benguet",
       "uk": "Бенґет",
       "ur": "بینگیت",
-      "vi": "Benguet"
+      "vi": "Benguet",
+      "lv": "Bengveta",
+      "ceb": "Benguet",
+      "lt": "Bengetas",
+      "zh": "本格特省",
+      "ccp": "𑄝𑄬𑄚𑄴𑄉𑄪𑄠𑄬𑄖𑄴",
+      "mk": "Бенгет"
     },
-    "geo": {
-      "latitude": 16.5577257,
-      "longitude": 120.8039474,
-      "min_latitude": 16.186448,
-      "min_longitude": 120.468057,
-      "max_latitude": 16.9382421,
-      "max_longitude": 120.904165
-    },
-    "name": "Benguet"
+    "comments": null
   },
   "BIL": {
+    "name": "Biliran",
+    "code": null,
     "unofficial_names": "Biliran",
+    "geo": {
+      "latitude": 11.466667,
+      "longitude": 124.483333,
+      "min_latitude": 11.4556383,
+      "min_longitude": 124.4320654,
+      "max_latitude": 11.5656392,
+      "max_longitude": 124.5410156
+    },
     "translations": {
       "en": "Biliran",
       "ar": "بيليران",
@@ -559,20 +666,31 @@
       "th": "จังหวัดบีลีรัน",
       "tr": "Biliran",
       "ur": "بیلیران",
-      "vi": "Biliran"
+      "vi": "Biliran",
+      "lv": "Bilirana",
+      "ceb": "Biliran",
+      "lt": "Biliranas",
+      "zh": "比利兰省",
+      "ccp": "𑄝𑄨𑄣𑄨𑄢𑄚𑄴",
+      "gl": "Biliran",
+      "uk": "Біліран",
+      "az": "Biliran adası",
+      "mk": "Билиран"
     },
-    "geo": {
-      "latitude": 11.466667,
-      "longitude": 124.483333,
-      "min_latitude": 11.4556383,
-      "min_longitude": 124.4320654,
-      "max_latitude": 11.5656392,
-      "max_longitude": 124.5410156
-    },
-    "name": "Biliran"
+    "comments": null
   },
   "BOH": {
+    "name": "Bohol",
+    "code": null,
     "unofficial_names": "Bohol",
+    "geo": {
+      "latitude": 9.849991099999999,
+      "longitude": 124.1435427,
+      "min_latitude": 9.4856913,
+      "min_longitude": 123.719351,
+      "max_latitude": 10.2562504,
+      "max_longitude": 124.6197582
+    },
     "translations": {
       "en": "Bohol",
       "ar": "بوهول",
@@ -615,20 +733,31 @@
       "th": "โบฮอล",
       "tr": "Bohol",
       "ur": "بوہول",
-      "vi": "Bohol"
+      "vi": "Bohol",
+      "lv": "Bohola",
+      "ceb": "Bohol",
+      "sr_Latn": "Bohol",
+      "zh": "保和省",
+      "jv": "Bohol",
+      "ccp": "𑄝𑄦𑄪𑄣𑄴",
+      "uk": "Бохол, Бохоль",
+      "az": "Bohol",
+      "mk": "Бохол"
     },
-    "geo": {
-      "latitude": 9.849991099999999,
-      "longitude": 124.1435427,
-      "min_latitude": 9.4856913,
-      "min_longitude": 123.719351,
-      "max_latitude": 10.2562504,
-      "max_longitude": 124.6197582
-    },
-    "name": "Bohol"
+    "comments": null
   },
   "BTG": {
+    "name": "Batangas",
+    "code": null,
     "unofficial_names": "Batangas",
+    "geo": {
+      "latitude": 13.7564651,
+      "longitude": 121.0583076,
+      "min_latitude": 13.5261516,
+      "min_longitude": 121.0278529,
+      "max_latitude": 13.8518358,
+      "max_longitude": 121.1820692
+    },
     "translations": {
       "en": "Batangas",
       "ar": "باتانغاس",
@@ -664,20 +793,28 @@
       "tr": "Batangas",
       "uk": "Батангас",
       "ur": "باتھانگاس",
-      "vi": "Batangas"
+      "vi": "Batangas",
+      "lv": "Batangasa",
+      "ceb": "Batangas",
+      "lt": "Batangasas",
+      "zh": "八打雁省",
+      "ccp": "𑄝𑄑𑄁𑄉𑄌𑄴",
+      "mk": "Батангас"
     },
-    "geo": {
-      "latitude": 13.7564651,
-      "longitude": 121.0583076,
-      "min_latitude": 13.5261516,
-      "min_longitude": 121.0278529,
-      "max_latitude": 13.8518358,
-      "max_longitude": 121.1820692
-    },
-    "name": "Batangas"
+    "comments": null
   },
   "BTN": {
+    "name": "Batanes",
+    "code": null,
     "unofficial_names": "Batanes",
+    "geo": {
+      "latitude": 20.4485074,
+      "longitude": 121.9708129,
+      "min_latitude": 20.2578335,
+      "min_longitude": 121.778977,
+      "max_latitude": 21.1206112,
+      "max_longitude": 122.034889
+    },
     "translations": {
       "en": "Batanes",
       "ar": "باتانيس",
@@ -713,20 +850,30 @@
       "th": "บาตาเนส",
       "tr": "Batanes",
       "ur": "باتانیس",
-      "vi": "Batanes"
+      "vi": "Batanes",
+      "lv": "Batanesa",
+      "cy": "Batanes",
+      "ceb": "Batanes",
+      "lt": "Batanesas",
+      "zh": "巴丹群島省",
+      "ccp": "𑄝𑄑𑄚𑄬𑄌𑄴",
+      "uk": "Батанес",
+      "mk": "Батанес"
     },
-    "geo": {
-      "latitude": 20.4485074,
-      "longitude": 121.9708129,
-      "min_latitude": 20.2578335,
-      "min_longitude": 121.778977,
-      "max_latitude": 21.1206112,
-      "max_longitude": 122.034889
-    },
-    "name": "Batanes"
+    "comments": null
   },
   "BUK": {
+    "name": "Bukidnon",
+    "code": null,
     "unofficial_names": "Bukidnon",
+    "geo": {
+      "latitude": 8.0515054,
+      "longitude": 124.9229946,
+      "min_latitude": 7.3991609,
+      "min_longitude": 124.4961241,
+      "max_latitude": 8.593256,
+      "max_longitude": 125.444464
+    },
     "translations": {
       "en": "Bukidnon",
       "ar": "بوكيدنون",
@@ -761,20 +908,29 @@
       "th": "บูคิดนอน",
       "tr": "Bukidnon",
       "ur": "بوکیدنون",
-      "vi": "Bukidnon"
+      "vi": "Bukidnon",
+      "lv": "Bukidnona",
+      "ceb": "Bukidnon",
+      "lt": "Bukidnonas",
+      "zh": "布基农省",
+      "ccp": "𑄝𑄪𑄇𑄨𑄖𑄴𑄚𑄧𑄚𑄴",
+      "uk": "Букіднон",
+      "mk": "Букиднон"
     },
-    "geo": {
-      "latitude": 8.0515054,
-      "longitude": 124.9229946,
-      "min_latitude": 7.3991609,
-      "min_longitude": 124.4961241,
-      "max_latitude": 8.593256,
-      "max_longitude": 125.444464
-    },
-    "name": "Bukidnon"
+    "comments": null
   },
   "BUL": {
+    "name": "Bulacan",
+    "code": null,
     "unofficial_names": "Bulacan",
+    "geo": {
+      "latitude": 14.7942735,
+      "longitude": 120.8799008,
+      "min_latitude": 14.7098374,
+      "min_longitude": 120.8245333,
+      "max_latitude": 14.8234278,
+      "max_longitude": 120.9149916
+    },
     "translations": {
       "en": "Bulacan",
       "ar": "بولاكان",
@@ -809,20 +965,29 @@
       "th": "แอนซี อีทอยเร่",
       "tr": "Bulacan",
       "ur": "بولاکان",
-      "vi": "Bulacan"
+      "vi": "Bulacan",
+      "lv": "Bulakana",
+      "ceb": "Bulacan",
+      "lt": "Bulakanas",
+      "zh": "布拉干省",
+      "ccp": "𑄝𑄪𑄣𑄇𑄚𑄴",
+      "uk": "Булакан",
+      "mk": "Булакан"
     },
-    "geo": {
-      "latitude": 14.7942735,
-      "longitude": 120.8799008,
-      "min_latitude": 14.7098374,
-      "min_longitude": 120.8245333,
-      "max_latitude": 14.8234278,
-      "max_longitude": 120.9149916
-    },
-    "name": "Bulacan"
+    "comments": null
   },
   "CAG": {
+    "name": "Cagayan",
+    "code": null,
     "unofficial_names": "Cagayan",
+    "geo": {
+      "latitude": 18.2489629,
+      "longitude": 121.8787833,
+      "min_latitude": 17.5081239,
+      "min_longitude": 120.9600601,
+      "max_latitude": 19.9662652,
+      "max_longitude": 122.33802
+    },
     "translations": {
       "en": "Cagayan",
       "ar": "كاغايان",
@@ -857,20 +1022,29 @@
       "th": "คากายัน",
       "tr": "Cagayan",
       "ur": "کاگایان",
-      "vi": "Cagayan"
+      "vi": "Cagayan",
+      "lv": "Kagajana",
+      "ceb": "Cagayan",
+      "lt": "Kagajanas",
+      "zh": "卡加延省",
+      "ccp": "𑄇𑄳𑄠𑄉𑄬𑄃𑄨𑄠𑄚𑄴",
+      "uk": "Кагаян",
+      "mk": "Кагајан"
     },
-    "geo": {
-      "latitude": 18.2489629,
-      "longitude": 121.8787833,
-      "min_latitude": 17.5081239,
-      "min_longitude": 120.9600601,
-      "max_latitude": 19.9662652,
-      "max_longitude": 122.33802
-    },
-    "name": "Cagayan"
+    "comments": null
   },
   "CAM": {
+    "name": "Camiguin",
+    "code": null,
     "unofficial_names": "Camiguin",
+    "geo": {
+      "latitude": 9.1732164,
+      "longitude": 124.7298765,
+      "min_latitude": 9.0787702,
+      "min_longitude": 124.6333946,
+      "max_latitude": 9.2580606,
+      "max_longitude": 124.806468
+    },
     "translations": {
       "en": "Camiguin",
       "ar": "كاميغويين",
@@ -905,20 +1079,29 @@
       "th": "คามิควิน",
       "tr": "Camiguin",
       "ur": "کامیگوین",
-      "vi": "Camiguin"
+      "vi": "Camiguin",
+      "lv": "Kamigina",
+      "ceb": "Camiguin",
+      "lt": "Kamiginas",
+      "zh": "卡米金省",
+      "ccp": "𑄇𑄬𑄟𑄨𑄉𑄪𑄃𑄨𑄚𑄴",
+      "uk": "Камігін",
+      "mk": "Камигин"
     },
-    "geo": {
-      "latitude": 9.1732164,
-      "longitude": 124.7298765,
-      "min_latitude": 9.0787702,
-      "min_longitude": 124.6333946,
-      "max_latitude": 9.2580606,
-      "max_longitude": 124.806468
-    },
-    "name": "Camiguin"
+    "comments": null
   },
   "CAN": {
+    "name": "Camarines Norte",
+    "code": null,
     "unofficial_names": "Camarines Norte",
+    "geo": {
+      "latitude": 14.1390265,
+      "longitude": 122.7633036,
+      "min_latitude": 13.835935,
+      "min_longitude": 122.301291,
+      "max_latitude": 14.4930237,
+      "max_longitude": 123.1175996
+    },
     "translations": {
       "en": "Camarines Norte",
       "ar": "كامارينز نورتي",
@@ -952,20 +1135,29 @@
       "th": "กามารีเนสเหนือ",
       "tr": "Camarines Norte",
       "ur": "کامارینز شمالی",
-      "vi": "Camarines Norte"
+      "vi": "Camarines Norte",
+      "lv": "Kamarines Norte",
+      "ceb": "Camarines Norte",
+      "lt": "Kamarines Nortė",
+      "zh": "北甘馬粦省",
+      "ccp": "𑄇𑄬𑄟𑄬𑄢𑄭𑄚𑄴𑄥𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Камарінес",
+      "mk": "Северен Камаринес"
     },
-    "geo": {
-      "latitude": 14.1390265,
-      "longitude": 122.7633036,
-      "min_latitude": 13.835935,
-      "min_longitude": 122.301291,
-      "max_latitude": 14.4930237,
-      "max_longitude": 123.1175996
-    },
-    "name": "Camarines Norte"
+    "comments": null
   },
   "CAP": {
+    "name": "Capiz",
+    "code": null,
     "unofficial_names": "Capiz",
+    "geo": {
+      "latitude": 11.3888799,
+      "longitude": 122.6277455,
+      "min_latitude": 11.1436509,
+      "min_longitude": 122.1992869,
+      "max_latitude": 11.645162,
+      "max_longitude": 123.1000324
+    },
     "translations": {
       "en": "Capiz",
       "ar": "كابيز",
@@ -998,20 +1190,29 @@
       "th": "คาปิซ",
       "tr": "Capiz",
       "ur": "کاپیز",
-      "vi": "Capiz"
+      "vi": "Capiz",
+      "lv": "Kapiza",
+      "ceb": "Capiz",
+      "lt": "Kapizas",
+      "zh": "卡皮茲省",
+      "ccp": "𑄇𑄳𑄠𑄛𑄨𑄌𑄴",
+      "uk": "Капіз",
+      "mk": "Капиз"
     },
-    "geo": {
-      "latitude": 11.3888799,
-      "longitude": 122.6277455,
-      "min_latitude": 11.1436509,
-      "min_longitude": 122.1992869,
-      "max_latitude": 11.645162,
-      "max_longitude": 123.1000324
-    },
-    "name": "Capiz"
+    "comments": null
   },
   "CAS": {
+    "name": "Camarines Sur",
+    "code": null,
     "unofficial_names": "Camarines Sur",
+    "geo": {
+      "latitude": 13.5250197,
+      "longitude": 123.3486147,
+      "min_latitude": 13.2638826,
+      "min_longitude": 122.550947,
+      "max_latitude": 14.1279977,
+      "max_longitude": 123.97699
+    },
     "translations": {
       "en": "Camarines Sur",
       "ar": "كامارينس سور",
@@ -1046,20 +1247,30 @@
       "th": "คามาไลเนส เซอ",
       "tr": "Camarines Sur",
       "ur": "کامارینز جنوبی",
-      "vi": "Camarines Sur"
+      "vi": "Camarines Sur",
+      "lv": "Dienvidkamarinesa",
+      "ceb": "Camarines Sur",
+      "lt": "Kamarines Suras",
+      "zh": "南甘馬粦省",
+      "ccp": "𑄇𑄬𑄟𑄬𑄢𑄭𑄚𑄴 𑄥𑄢𑄴",
+      "hy": "Հարավային Կամարինես",
+      "uk": "Південний Камарінес",
+      "mk": "Јужен Камаринес"
     },
-    "geo": {
-      "latitude": 13.5250197,
-      "longitude": 123.3486147,
-      "min_latitude": 13.2638826,
-      "min_longitude": 122.550947,
-      "max_latitude": 14.1279977,
-      "max_longitude": 123.97699
-    },
-    "name": "Camarines Sur"
+    "comments": null
   },
   "CAT": {
+    "name": "Catanduanes",
+    "code": null,
     "unofficial_names": "Catanduanes",
+    "geo": {
+      "latitude": 13.7088684,
+      "longitude": 124.2421597,
+      "min_latitude": 13.5181658,
+      "min_longitude": 124.0169811,
+      "max_latitude": 14.1005278,
+      "max_longitude": 124.4218897
+    },
     "translations": {
       "en": "Catanduanes",
       "ar": "كاتاندوانه",
@@ -1095,20 +1306,30 @@
       "tr": "Catanduanes",
       "uk": "Катандуанес",
       "ur": "کاتاندوانیس",
-      "vi": "Catanduanes"
+      "vi": "Catanduanes",
+      "lv": "Katanduanesa",
+      "ceb": "Catanduanes",
+      "lt": "Katandvanesas",
+      "zh": "卡坦端内斯省",
+      "ccp": "𑄇𑄑𑄚𑄴𑄓𑄪𑄠𑄬𑄚𑄴𑄌𑄴",
+      "gl": "Catanduanes",
+      "ml": "കടാൻദുവാനിസ്",
+      "mk": "Катандуанес"
     },
-    "geo": {
-      "latitude": 13.7088684,
-      "longitude": 124.2421597,
-      "min_latitude": 13.5181658,
-      "min_longitude": 124.0169811,
-      "max_latitude": 14.1005278,
-      "max_longitude": 124.4218897
-    },
-    "name": "Catanduanes"
+    "comments": null
   },
   "CAV": {
+    "name": "Cavite",
+    "code": null,
     "unofficial_names": "Cavite",
+    "geo": {
+      "latitude": 14.4791297,
+      "longitude": 120.8969634,
+      "min_latitude": 14.3646447,
+      "min_longitude": 120.5212855,
+      "max_latitude": 14.5002355,
+      "max_longitude": 120.9209909
+    },
     "translations": {
       "en": "Cavite",
       "ar": "كاويته",
@@ -1143,20 +1364,29 @@
       "tr": "Cavite",
       "uk": "Кавіте",
       "ur": "کاویت",
-      "vi": "Cavite"
+      "vi": "Cavite",
+      "lv": "Kavite",
+      "ceb": "Cavite",
+      "lt": "Kavitė",
+      "zh": "甲米地省",
+      "ccp": "𑄇𑄞𑄨𑄖𑄴",
+      "hy": "Կավիտե",
+      "mk": "Кавите"
     },
-    "geo": {
-      "latitude": 14.4791297,
-      "longitude": 120.8969634,
-      "min_latitude": 14.3646447,
-      "min_longitude": 120.5212855,
-      "max_latitude": 14.5002355,
-      "max_longitude": 120.9209909
-    },
-    "name": "Cavite"
+    "comments": null
   },
   "CEB": {
+    "name": "Cebu",
+    "code": null,
     "unofficial_names": "Cebu",
+    "geo": {
+      "latitude": 10.3156992,
+      "longitude": 123.8854366,
+      "min_latitude": 10.2594378,
+      "min_longitude": 123.7633896,
+      "max_latitude": 10.498277,
+      "max_longitude": 123.9326476
+    },
     "translations": {
       "en": "Cebu",
       "ar": "سيبو",
@@ -1200,20 +1430,28 @@
       "tr": "Cebu",
       "uk": "Себу",
       "ur": "سیبو",
-      "vi": "Cebu"
+      "vi": "Cebu",
+      "lv": "Sebu",
+      "ceb": "Sugbo",
+      "sr_Latn": "Sebu",
+      "zh": "宿霧省",
+      "ccp": "𑄥𑄬𑄝𑄪",
+      "mk": "Себу"
     },
-    "geo": {
-      "latitude": 10.3156992,
-      "longitude": 123.8854366,
-      "min_latitude": 10.2594378,
-      "min_longitude": 123.7633896,
-      "max_latitude": 10.498277,
-      "max_longitude": 123.9326476
-    },
-    "name": "Cebu"
+    "comments": null
   },
   "COM": {
+    "name": "Compostela Valley",
+    "code": null,
     "unofficial_names": "Compostela Valley",
+    "geo": {
+      "latitude": 7.512514999999999,
+      "longitude": 126.1762615,
+      "min_latitude": 7.078257199999999,
+      "min_longitude": 125.674365,
+      "max_latitude": 7.9994319,
+      "max_longitude": 126.2988501
+    },
     "translations": {
       "en": "Compostela Valley",
       "ar": "كامبوستلا ولي",
@@ -1246,20 +1484,29 @@
       "th": "คอมโพสเตลา",
       "tr": "Compostela Vadisi",
       "ur": "وادی کومپوستیلا",
-      "vi": "Compostela Valley"
+      "vi": "Compostela Valley",
+      "lv": "Kompostelas ieleja",
+      "ceb": "Compostela Valley",
+      "lt": "Kompostelos slėnis",
+      "zh": "康波斯特拉谷省",
+      "ccp": "𑄇𑄧𑄟𑄴𑄛𑄪𑄌𑄑𑄬𑄣 𑄞𑄬𑄣𑄨",
+      "uk": "Долина Компостела",
+      "mk": "Долина Компостела"
     },
-    "geo": {
-      "latitude": 7.512514999999999,
-      "longitude": 126.1762615,
-      "min_latitude": 7.078257199999999,
-      "min_longitude": 125.674365,
-      "max_latitude": 7.9994319,
-      "max_longitude": 126.2988501
-    },
-    "name": "Compostela Valley"
+    "comments": null
   },
   "DAO": {
+    "name": "Davao Oriental",
+    "code": null,
     "unofficial_names": "Davao Oriental",
+    "geo": {
+      "latitude": 7.3171585,
+      "longitude": 126.5419887,
+      "min_latitude": 5.5511669,
+      "min_longitude": 125.938116,
+      "max_latitude": 8.0013469,
+      "max_longitude": 126.6015399
+    },
     "translations": {
       "en": "Davao Oriental",
       "ar": "دافاو أورينتال",
@@ -1292,20 +1539,29 @@
       "th": "จังหวัดดาเวาโอเรียนเต็ล",
       "tr": "Davao Oriental",
       "ur": "داوائو شرقی",
-      "vi": "Davao Oriental"
+      "vi": "Davao Oriental",
+      "lv": "Austrumdavao",
+      "ceb": "Davao Oriental",
+      "lt": "Rytų Davao",
+      "zh": "东达沃省",
+      "ccp": "𑄓𑄞𑄃𑄮 𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Східний Давао",
+      "mk": "Источен Давао"
     },
-    "geo": {
-      "latitude": 7.3171585,
-      "longitude": 126.5419887,
-      "min_latitude": 5.5511669,
-      "min_longitude": 125.938116,
-      "max_latitude": 8.0013469,
-      "max_longitude": 126.6015399
-    },
-    "name": "Davao Oriental"
+    "comments": null
   },
   "DAS": {
+    "name": "Davao del Sur",
+    "code": null,
     "unofficial_names": "Davao del Sur",
+    "geo": {
+      "latitude": 6.766268699999999,
+      "longitude": 125.3284269,
+      "min_latitude": 5.367669999999999,
+      "min_longitude": 125.1010209,
+      "max_latitude": 7.565537000000001,
+      "max_longitude": 125.7164231
+    },
     "translations": {
       "en": "Davao del Sur",
       "ar": "دافاو ديل سور",
@@ -1338,22 +1594,31 @@
       "th": "จังหวัดดาเวา เดล เซอร์",
       "tr": "Davao del Sur",
       "ur": "داوائو جنوبی",
-      "vi": "Davao del Sur"
+      "vi": "Davao del Sur",
+      "lv": "Dienviddavao",
+      "ceb": "Davao del Sur",
+      "lt": "Pietų Davao",
+      "zh": "南達沃省",
+      "ccp": "𑄓𑄞𑄃𑄮 𑄓𑄬𑄣𑄴 𑄥𑄢𑄴",
+      "uk": "Південний Давао",
+      "mk": "Јужен Давао"
     },
-    "geo": {
-      "latitude": 6.766268699999999,
-      "longitude": 125.3284269,
-      "min_latitude": 5.367669999999999,
-      "min_longitude": 125.1010209,
-      "max_latitude": 7.565537000000001,
-      "max_longitude": 125.7164231
-    },
-    "name": "Davao del Sur"
+    "comments": null
   },
   "DAV": {
+    "name": "Davao del Norte",
+    "code": null,
     "unofficial_names": [
       "Davao"
     ],
+    "geo": {
+      "latitude": 7.561769899999999,
+      "longitude": 125.6532848,
+      "min_latitude": 6.894526000000001,
+      "min_longitude": 125.250456,
+      "max_latitude": 7.997327,
+      "max_longitude": 125.944498
+    },
     "translations": {
       "en": "Davao del Norte",
       "ar": "دافاو ديل نورت",
@@ -1386,20 +1651,29 @@
       "th": "ดาเวา เดล เหนือ",
       "tr": "Davao del Norte",
       "ur": "داوائو شمالی",
-      "vi": "Davao del Norte"
+      "vi": "Davao del Norte",
+      "lv": "Ziemeļdavao",
+      "ceb": "Davao del Norte",
+      "lt": "Šiaurės Davao",
+      "zh": "北達沃省",
+      "ccp": "𑄓𑄞𑄃𑄮 𑄓𑄬𑄣𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Давао",
+      "mk": "Северен Давао"
     },
-    "geo": {
-      "latitude": 7.561769899999999,
-      "longitude": 125.6532848,
-      "min_latitude": 6.894526000000001,
-      "min_longitude": 125.250456,
-      "max_latitude": 7.997327,
-      "max_longitude": 125.944498
-    },
-    "name": "Davao del Norte"
+    "comments": null
   },
   "DIN": {
+    "name": "Dinagat Islands",
+    "code": null,
     "unofficial_names": "Dinagat Islands",
+    "geo": {
+      "latitude": 10.1281816,
+      "longitude": 125.6095474,
+      "min_latitude": 9.8547497,
+      "min_longitude": 125.465279,
+      "max_latitude": 10.4716027,
+      "max_longitude": 125.7067526
+    },
     "translations": {
       "en": "Dinagat Islands",
       "de": "Dinagat Islands",
@@ -1418,20 +1692,28 @@
       "ru": "Острова Динагат",
       "sv": "Dinagatöarna",
       "ur": "جزائر دیناگات",
-      "vi": "Quần đảo Dinagat"
+      "vi": "Quần đảo Dinagat",
+      "ceb": "Kapupud-ang Dinagat",
+      "zh": "迪纳加特群岛",
+      "ccp": "𑄓𑄨𑄚𑄉𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "uk": "Острови Дінагат",
+      "th": "จังหวัดคาปูลูอังดีนากัต",
+      "mk": "Динагат"
     },
-    "geo": {
-      "latitude": 10.1281816,
-      "longitude": 125.6095474,
-      "min_latitude": 9.8547497,
-      "min_longitude": 125.465279,
-      "max_latitude": 10.4716027,
-      "max_longitude": 125.7067526
-    },
-    "name": "Dinagat Islands"
+    "comments": null
   },
   "DVO": {
+    "name": "Davao Occidental",
+    "code": null,
     "unofficial_names": "Davao Occidental",
+    "geo": {
+      "latitude": 12.879721,
+      "longitude": 121.774017,
+      "min_latitude": 4.5870339,
+      "min_longitude": 116.7029193,
+      "max_latitude": 19.5740241,
+      "max_longitude": 126.6043837
+    },
     "translations": {
       "en": "Davao Occidental",
       "es": "Dávao Occidental",
@@ -1443,20 +1725,28 @@
       "ko": "서다바오 주",
       "nl": "Davao Occidental",
       "ur": "داوائو غربی",
-      "vi": "Davao Occidental"
+      "vi": "Davao Occidental",
+      "ceb": "Davao Occidental",
+      "zh": "西達沃省",
+      "ccp": "𑄓𑄞𑄃𑄮 𑄃𑄧𑄇𑄴𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Західне Давао",
+      "th": "จังหวัดคันลูรังดาเบา",
+      "mk": "Западен Давао"
     },
-    "geo": {
-      "latitude": 12.879721,
-      "longitude": 121.774017,
-      "min_latitude": 4.5870339,
-      "min_longitude": 116.7029193,
-      "max_latitude": 19.5740241,
-      "max_longitude": 126.6043837
-    },
-    "name": "Davao Occidental"
+    "comments": null
   },
   "EAS": {
+    "name": "Eastern Samar",
+    "code": null,
     "unofficial_names": "Eastern Samar",
+    "geo": {
+      "latitude": 11.5000731,
+      "longitude": 125.4999908,
+      "min_latitude": 10.690784,
+      "min_longitude": 125.1116951,
+      "max_latitude": 12.370305,
+      "max_longitude": 125.969378
+    },
     "translations": {
       "en": "Eastern Samar",
       "ar": "سامار الشرقية",
@@ -1490,20 +1780,29 @@
       "th": "ซามาร์ตะวันออก",
       "tr": "Doğu Samar",
       "ur": "مشرقی سامار",
-      "vi": "Đông Samar"
+      "vi": "Đông Samar",
+      "lv": "Austrumu Samara",
+      "ceb": "Sidlakang Samar",
+      "lt": "Rytų Samaras",
+      "zh": "東薩馬省",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄧𑄟𑄢𑄴",
+      "uk": "Східний Самар",
+      "mk": "Источен Самар"
     },
-    "geo": {
-      "latitude": 11.5000731,
-      "longitude": 125.4999908,
-      "min_latitude": 10.690784,
-      "min_longitude": 125.1116951,
-      "max_latitude": 12.370305,
-      "max_longitude": 125.969378
-    },
-    "name": "Eastern Samar"
+    "comments": null
   },
   "GUI": {
+    "name": "Guimaras",
+    "code": null,
     "unofficial_names": "Guimaras",
+    "geo": {
+      "latitude": 10.5928661,
+      "longitude": 122.6325081,
+      "min_latitude": 10.389255,
+      "min_longitude": 122.4749851,
+      "max_latitude": 10.7544428,
+      "max_longitude": 122.741077
+    },
     "translations": {
       "en": "Guimaras",
       "ar": "غيماراس",
@@ -1538,20 +1837,29 @@
       "tr": "Guimaras",
       "uk": "Гуймарас",
       "ur": "گوئماراس",
-      "vi": "Guimaras"
+      "vi": "Guimaras",
+      "lv": "Gimarasa",
+      "ceb": "Guimaras",
+      "lt": "Gimarasas",
+      "zh": "吉馬拉斯省",
+      "ccp": "𑄉𑄭𑄪𑄟𑄢𑄌𑄴",
+      "gl": "Guimarás",
+      "mk": "Гимарас"
     },
-    "geo": {
-      "latitude": 10.5928661,
-      "longitude": 122.6325081,
-      "min_latitude": 10.389255,
-      "min_longitude": 122.4749851,
-      "max_latitude": 10.7544428,
-      "max_longitude": 122.741077
-    },
-    "name": "Guimaras"
+    "comments": null
   },
   "IFU": {
+    "name": "Ifugao",
+    "code": null,
     "unofficial_names": "Ifugao",
+    "geo": {
+      "latitude": 16.8330792,
+      "longitude": 121.1710389,
+      "min_latitude": 16.598261,
+      "min_longitude": 120.881094,
+      "max_latitude": 17.071433,
+      "max_longitude": 121.5859809
+    },
     "translations": {
       "en": "Ifugao",
       "ar": "ايفوغايو",
@@ -1585,20 +1893,29 @@
       "th": "จังหวัดอีฟูเกา",
       "tr": "Ifugao",
       "ur": "ایفوگاؤ",
-      "vi": "Ifugao"
+      "vi": "Ifugao",
+      "lv": "Ifugao",
+      "ceb": "Ifugao",
+      "lt": "Ifugao",
+      "zh": "伊富高省",
+      "ccp": "𑄃𑄭𑄜𑄪𑄉𑄃𑄮",
+      "uk": "Іфугао",
+      "mk": "Ифугао"
     },
-    "geo": {
-      "latitude": 16.8330792,
-      "longitude": 121.1710389,
-      "min_latitude": 16.598261,
-      "min_longitude": 120.881094,
-      "max_latitude": 17.071433,
-      "max_longitude": 121.5859809
-    },
-    "name": "Ifugao"
+    "comments": null
   },
   "ILI": {
+    "name": "Iloilo",
+    "code": null,
     "unofficial_names": "Iloilo",
+    "geo": {
+      "latitude": 10.7201501,
+      "longitude": 122.5621063,
+      "min_latitude": 10.6792844,
+      "min_longitude": 122.494087,
+      "max_latitude": 10.7818569,
+      "max_longitude": 122.6001559
+    },
     "translations": {
       "en": "Iloilo",
       "ar": "إلويلو",
@@ -1633,20 +1950,29 @@
       "th": "อิโลยโล",
       "tr": "Iloilo",
       "ur": "الوئیلو",
-      "vi": "Iloilo"
+      "vi": "Iloilo",
+      "lv": "Iloilo",
+      "ceb": "Iloilo",
+      "lt": "Iloilas",
+      "zh": "伊洛伊洛省",
+      "ccp": "𑄃𑄨𑄣𑄮𑄃𑄨𑄣𑄮",
+      "uk": "Ілоіло",
+      "mk": "Илоило"
     },
-    "geo": {
-      "latitude": 10.7201501,
-      "longitude": 122.5621063,
-      "min_latitude": 10.6792844,
-      "min_longitude": 122.494087,
-      "max_latitude": 10.7818569,
-      "max_longitude": 122.6001559
-    },
-    "name": "Iloilo"
+    "comments": null
   },
   "ILN": {
+    "name": "Ilocos Norte",
+    "code": null,
     "unofficial_names": "Ilocos Norte",
+    "geo": {
+      "latitude": 18.1647281,
+      "longitude": 120.7115592,
+      "min_latitude": 17.698466,
+      "min_longitude": 120.4290068,
+      "max_latitude": 18.650944,
+      "max_longitude": 120.980399
+    },
     "translations": {
       "en": "Ilocos Norte",
       "ar": "إيلوكوس نورت",
@@ -1681,20 +2007,29 @@
       "th": "โลคอส นอร์ท",
       "tr": "Ilocos Norte",
       "ur": "ایلوکوس شمالی",
-      "vi": "Ilocos Norte"
+      "vi": "Ilocos Norte",
+      "lv": "Ziemeļilokosa",
+      "ceb": "Ilocos Norte",
+      "lt": "Šiaurės Ilokų regionas",
+      "zh": "北伊羅戈省",
+      "ccp": "𑄃𑄨𑄣𑄮𑄇𑄮𑄌𑄴 𑄟𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Ілокос",
+      "mk": "Северен Илокос"
     },
-    "geo": {
-      "latitude": 18.1647281,
-      "longitude": 120.7115592,
-      "min_latitude": 17.698466,
-      "min_longitude": 120.4290068,
-      "max_latitude": 18.650944,
-      "max_longitude": 120.980399
-    },
-    "name": "Ilocos Norte"
+    "comments": null
   },
   "ILS": {
+    "name": "Ilocos Sur",
+    "code": null,
     "unofficial_names": "Ilocos Sur",
+    "geo": {
+      "latitude": 17.2278664,
+      "longitude": 120.5739579,
+      "min_latitude": 16.655479,
+      "min_longitude": 120.3427526,
+      "max_latitude": 17.9007002,
+      "max_longitude": 120.860186
+    },
     "translations": {
       "en": "Ilocos Sur",
       "ar": "إيلوكوس سور",
@@ -1728,20 +2063,29 @@
       "th": "อิโลคอส ซูร์",
       "tr": "Ilocos Sur",
       "ur": "ایلوکوس جنوبی",
-      "vi": "Ilocos Sur"
+      "vi": "Ilocos Sur",
+      "lv": "Dienvidu Ilokosa",
+      "ceb": "Ilocos Sur",
+      "lt": "Pietų Ilokų regionas",
+      "zh": "南伊羅戈省",
+      "ccp": "𑄃𑄨𑄣𑄮𑄇𑄮𑄌𑄴 𑄥𑄢𑄴",
+      "uk": "Південий Ілокос",
+      "mk": "Јужен Илокос"
     },
-    "geo": {
-      "latitude": 17.2278664,
-      "longitude": 120.5739579,
-      "min_latitude": 16.655479,
-      "min_longitude": 120.3427526,
-      "max_latitude": 17.9007002,
-      "max_longitude": 120.860186
-    },
-    "name": "Ilocos Sur"
+    "comments": null
   },
   "ISA": {
+    "name": "Isabela",
+    "code": null,
     "unofficial_names": "Isabela",
+    "geo": {
+      "latitude": 16.9753758,
+      "longitude": 121.8107079,
+      "min_latitude": 16.3794739,
+      "min_longitude": 121.3364481,
+      "max_latitude": 17.5454246,
+      "max_longitude": 122.5278068
+    },
     "translations": {
       "en": "Isabela",
       "ar": "ايزابلا",
@@ -1775,20 +2119,28 @@
       "th": "จังหวัดอิซาเบลา",
       "tr": "Isabela",
       "ur": "آئزابیلا (صوبہ)",
-      "vi": "Isabela"
+      "vi": "Isabela",
+      "lv": "Isabela",
+      "ceb": "Isabela",
+      "lt": "Izabela",
+      "zh": "伊莎貝拉省",
+      "ccp": "𑄃𑄨𑄥𑄝𑄬𑄣",
+      "mk": "Изабела"
     },
-    "geo": {
-      "latitude": 16.9753758,
-      "longitude": 121.8107079,
-      "min_latitude": 16.3794739,
-      "min_longitude": 121.3364481,
-      "max_latitude": 17.5454246,
-      "max_longitude": 122.5278068
-    },
-    "name": "Isabela"
+    "comments": null
   },
   "KAL": {
+    "name": "Kalinga",
+    "code": null,
     "unofficial_names": "Kalinga",
+    "geo": {
+      "latitude": 17.4740422,
+      "longitude": 121.3541631,
+      "min_latitude": 17.1616239,
+      "min_longitude": 120.909971,
+      "max_latitude": 17.6889911,
+      "max_longitude": 121.682251
+    },
     "translations": {
       "en": "Kalinga",
       "ar": "كالينغا",
@@ -1822,20 +2174,30 @@
       "th": "คาลินก้า",
       "tr": "Kalinga",
       "ur": "کالینگا",
-      "vi": "Kalinga"
+      "vi": "Kalinga",
+      "lv": "Kalinga",
+      "ceb": "Kalinga",
+      "lt": "Kalinga",
+      "zh": "卡林阿省",
+      "ccp": "𑄇𑄣𑄨𑄁𑄉",
+      "uk": "Провінція Калінга",
+      "or": "କଳିଙ୍ଗ (ରାଜ୍ୟ), ଫିଲିପାଇନ୍ସ",
+      "mk": "Калинга"
     },
-    "geo": {
-      "latitude": 17.4740422,
-      "longitude": 121.3541631,
-      "min_latitude": 17.1616239,
-      "min_longitude": 120.909971,
-      "max_latitude": 17.6889911,
-      "max_longitude": 121.682251
-    },
-    "name": "Kalinga"
+    "comments": null
   },
   "LAG": {
+    "name": "Laguna",
+    "code": null,
     "unofficial_names": "Laguna",
+    "geo": {
+      "latitude": 14.2956294,
+      "longitude": 121.4961581,
+      "min_latitude": 14.2647886,
+      "min_longitude": 121.4209908,
+      "max_latitude": 14.3487163,
+      "max_longitude": 121.630674
+    },
     "translations": {
       "en": "Laguna",
       "ar": "لاغونا",
@@ -1872,20 +2234,28 @@
       "tr": "Laguna",
       "uk": "Лагуна",
       "ur": "لاگونا (صوبہ)",
-      "vi": "Laguna"
+      "vi": "Laguna",
+      "lv": "Laguna",
+      "ceb": "Laguna",
+      "lt": "Laguna",
+      "zh": "內湖省",
+      "ccp": "𑄣𑄳𑄠𑄉𑄪𑄚",
+      "mk": "Лагуна"
     },
-    "geo": {
-      "latitude": 14.2956294,
-      "longitude": 121.4961581,
-      "min_latitude": 14.2647886,
-      "min_longitude": 121.4209908,
-      "max_latitude": 14.3487163,
-      "max_longitude": 121.630674
-    },
-    "name": "Laguna"
+    "comments": null
   },
   "LAN": {
+    "name": "Lanao del Norte",
+    "code": null,
     "unofficial_names": "Lanao del Norte",
+    "geo": {
+      "latitude": 7.8721811,
+      "longitude": 123.8857747,
+      "min_latitude": 7.6934621,
+      "min_longitude": 123.621328,
+      "max_latitude": 8.3414729,
+      "max_longitude": 124.573305
+    },
     "translations": {
       "en": "Lanao del Norte",
       "ar": "لاناو ديل نورتي",
@@ -1918,20 +2288,29 @@
       "th": "ลานาว เดล เหนือ",
       "tr": "Lanao del Norte",
       "ur": "لاناؤ شمالی",
-      "vi": "Lanao del Norte"
+      "vi": "Lanao del Norte",
+      "lv": "Ziemeļlanao",
+      "ceb": "Lanao del Norte",
+      "lt": "Šiaurės Lanao",
+      "zh": "北拉瑙省",
+      "ccp": "𑄣𑄚𑄃𑄮 𑄓𑄬𑄣𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Ланао",
+      "mk": "Северен Ланао"
     },
-    "geo": {
-      "latitude": 7.8721811,
-      "longitude": 123.8857747,
-      "min_latitude": 7.6934621,
-      "min_longitude": 123.621328,
-      "max_latitude": 8.3414729,
-      "max_longitude": 124.573305
-    },
-    "name": "Lanao del Norte"
+    "comments": null
   },
   "LAS": {
+    "name": "Lanao del Sur",
+    "code": null,
     "unofficial_names": "Lanao del Sur",
+    "geo": {
+      "latitude": 7.823176,
+      "longitude": 124.4198243,
+      "min_latitude": 7.3995557,
+      "min_longitude": 123.8264541,
+      "max_latitude": 8.2121889,
+      "max_longitude": 124.807193
+    },
     "translations": {
       "en": "Lanao del Sur",
       "ar": "لاناو ديل سور",
@@ -1964,20 +2343,29 @@
       "th": "ลาเนา เดล เซอร์",
       "tr": "Lanao del Sur",
       "ur": "لاناؤ دل سور",
-      "vi": "Lanao del Sur"
+      "vi": "Lanao del Sur",
+      "lv": "Lanaodelsura",
+      "ceb": "Lanao del Sur",
+      "lt": "Pietų Lanao",
+      "zh": "南拉瑙省",
+      "ccp": "𑄣𑄚𑄃𑄮 𑄓𑄬𑄣𑄴 𑄥𑄢𑄴",
+      "uk": "Південний Ланао",
+      "mk": "Јужен Ланао"
     },
-    "geo": {
-      "latitude": 7.823176,
-      "longitude": 124.4198243,
-      "min_latitude": 7.3995557,
-      "min_longitude": 123.8264541,
-      "max_latitude": 8.2121889,
-      "max_longitude": 124.807193
-    },
-    "name": "Lanao del Sur"
+    "comments": null
   },
   "LEY": {
+    "name": "Leyte",
+    "code": null,
     "unofficial_names": "Leyte",
+    "geo": {
+      "latitude": 11.366667,
+      "longitude": 124.483333,
+      "min_latitude": 11.2012197,
+      "min_longitude": 124.3958759,
+      "max_latitude": 11.4561949,
+      "max_longitude": 124.5601559
+    },
     "translations": {
       "en": "Leyte",
       "ar": "مقاطعة ليتة",
@@ -2011,20 +2399,29 @@
       "th": "เกาะเลย์เต",
       "tr": "Leyte",
       "ur": "لیئتے (صوبہ)",
-      "vi": "Leyte"
+      "vi": "Leyte",
+      "lv": "Leite",
+      "ceb": "Leyte",
+      "lt": "Leitė",
+      "zh": "雷伊泰省",
+      "ccp": "𑄣𑄬𑄠𑄖𑄴",
+      "uk": "Провінція Лейте",
+      "mk": "Лејте"
     },
-    "geo": {
-      "latitude": 11.366667,
-      "longitude": 124.483333,
-      "min_latitude": 11.2012197,
-      "min_longitude": 124.3958759,
-      "max_latitude": 11.4561949,
-      "max_longitude": 124.5601559
-    },
-    "name": "Leyte"
+    "comments": null
   },
   "LUN": {
+    "name": "La Union",
+    "code": null,
     "unofficial_names": "La Union",
+    "geo": {
+      "latitude": 16.6158906,
+      "longitude": 120.3209373,
+      "min_latitude": 16.207748,
+      "min_longitude": 120.2801715,
+      "max_latitude": 16.91881,
+      "max_longitude": 120.5744889
+    },
     "translations": {
       "en": "La Union",
       "ar": "لا يونيون",
@@ -2058,20 +2455,29 @@
       "th": "ลา ยูเนียน",
       "tr": "La Union",
       "ur": "لا یونین",
-      "vi": "La Union"
+      "vi": "La Union",
+      "lv": "Laūniona",
+      "ceb": "La Union",
+      "lt": "La Junion",
+      "zh": "聯合省",
+      "ccp": "𑄣 𑄃𑄨𑄅𑄪𑄚𑄨𑄠𑄧𑄚𑄴",
+      "uk": "Ла Уніон",
+      "mk": "Ла Унион"
     },
-    "geo": {
-      "latitude": 16.6158906,
-      "longitude": 120.3209373,
-      "min_latitude": 16.207748,
-      "min_longitude": 120.2801715,
-      "max_latitude": 16.91881,
-      "max_longitude": 120.5744889
-    },
-    "name": "La Union"
+    "comments": null
   },
   "MAD": {
+    "name": "Marinduque",
+    "code": null,
     "unofficial_names": "Marinduque",
+    "geo": {
+      "latitude": 13.4767171,
+      "longitude": 121.9032192,
+      "min_latitude": 13.1990285,
+      "min_longitude": 121.80645,
+      "max_latitude": 13.5706939,
+      "max_longitude": 122.1491437
+    },
     "translations": {
       "en": "Marinduque",
       "ar": "ماريندوك",
@@ -2108,20 +2514,30 @@
       "tr": "Marinduque",
       "uk": "Маріндук",
       "ur": "ماریندوک",
-      "vi": "Marinduque"
+      "vi": "Marinduque",
+      "lv": "Marinduke",
+      "ceb": "Marinduque",
+      "lt": "Marindukė",
+      "zh": "馬林杜克省",
+      "ccp": "𑄟𑄢𑄨𑄚𑄴𑄓𑄪𑄇𑄪",
+      "gl": "Marinduque",
+      "ml": "മാറിൻദ്യൂഖ്",
+      "mk": "Мариндуке"
     },
-    "geo": {
-      "latitude": 13.4767171,
-      "longitude": 121.9032192,
-      "min_latitude": 13.1990285,
-      "min_longitude": 121.80645,
-      "max_latitude": 13.5706939,
-      "max_longitude": 122.1491437
-    },
-    "name": "Marinduque"
+    "comments": null
   },
   "MAG": {
+    "name": "Maguindanao",
+    "code": null,
     "unofficial_names": "Maguindanao",
+    "geo": {
+      "latitude": 6.9422581,
+      "longitude": 124.4198243,
+      "min_latitude": 6.649818499999999,
+      "min_longitude": 123.943766,
+      "max_latitude": 7.651929099999999,
+      "max_longitude": 125.120551
+    },
     "translations": {
       "en": "Maguindanao",
       "ar": "ماغوييندانايو",
@@ -2156,20 +2572,29 @@
       "th": "จังหวัดมากูอินดาเนา",
       "tr": "Maguindanao",
       "ur": "ماگوئنداناؤ",
-      "vi": "Maguindanao"
+      "vi": "Maguindanao",
+      "lv": "Magvindanao",
+      "ceb": "Maguindanao",
+      "lt": "Magindanas",
+      "zh": "馬京達瑙省",
+      "ccp": "𑄟𑄬𑄉𑄭𑄪𑄚𑄴𑄓𑄚𑄃𑄮",
+      "uk": "Магінданао",
+      "mk": "Магинданао"
     },
-    "geo": {
-      "latitude": 6.9422581,
-      "longitude": 124.4198243,
-      "min_latitude": 6.649818499999999,
-      "min_longitude": 123.943766,
-      "max_latitude": 7.651929099999999,
-      "max_longitude": 125.120551
-    },
-    "name": "Maguindanao"
+    "comments": null
   },
   "MAS": {
+    "name": "Masbate",
+    "code": null,
     "unofficial_names": "Masbate",
+    "geo": {
+      "latitude": 12.366667,
+      "longitude": 123.616667,
+      "min_latitude": 12.2440624,
+      "min_longitude": 123.4894181,
+      "max_latitude": 12.4616029,
+      "max_longitude": 123.6398035
+    },
     "translations": {
       "en": "Masbate",
       "ar": "ماسبات",
@@ -2205,20 +2630,31 @@
       "th": "จังหวัดมัสบาเต",
       "tr": "Masbate",
       "ur": "ماسبات",
-      "vi": "Masbate"
+      "vi": "Masbate",
+      "lv": "Masbate",
+      "ceb": "Masbate",
+      "lt": "Masbatė",
+      "zh": "馬斯巴特省",
+      "yue_Hans": "马士弼",
+      "ccp": "𑄟𑄌𑄴𑄝𑄬𑄖𑄴",
+      "uk": "Масбате",
+      "yue": "馬士弼",
+      "mk": "Масбате"
     },
-    "geo": {
-      "latitude": 12.366667,
-      "longitude": 123.616667,
-      "min_latitude": 12.2440624,
-      "min_longitude": 123.4894181,
-      "max_latitude": 12.4616029,
-      "max_longitude": 123.6398035
-    },
-    "name": "Masbate"
+    "comments": null
   },
   "MDC": {
+    "name": "Mindoro Occidental",
+    "code": null,
     "unofficial_names": "Mindoro Occidental",
+    "geo": {
+      "latitude": 13.1024111,
+      "longitude": 120.7651284,
+      "min_latitude": 12.1530185,
+      "min_longitude": 120.0174402,
+      "max_latitude": 13.8989589,
+      "max_longitude": 121.250199
+    },
     "translations": {
       "en": "Occidental Mindoro",
       "ar": "أوكسيدنتال ميندورو",
@@ -2253,20 +2689,28 @@
       "tr": "Occidental Mindoro",
       "uk": "Західний Міндоро",
       "ur": "غربی میندورو",
-      "vi": "Occidental Mindoro"
+      "vi": "Occidental Mindoro",
+      "lv": "Rietumu Mindoro",
+      "ceb": "Kasadpang Mindoro",
+      "lt": "Vakarų Mindoras",
+      "zh": "西民都洛省",
+      "ccp": "𑄃𑄧𑄇𑄴𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴 𑄟𑄨𑄚𑄴𑄓𑄮𑄢𑄮",
+      "mk": "Западен Миндоро"
     },
-    "geo": {
-      "latitude": 13.1024111,
-      "longitude": 120.7651284,
-      "min_latitude": 12.1530185,
-      "min_longitude": 120.0174402,
-      "max_latitude": 13.8989589,
-      "max_longitude": 121.250199
-    },
-    "name": "Mindoro Occidental"
+    "comments": null
   },
   "MDR": {
+    "name": "Mindoro Oriental",
+    "code": null,
     "unofficial_names": "Mindoro Oriental",
+    "geo": {
+      "latitude": 13.0564598,
+      "longitude": 121.4069417,
+      "min_latitude": 12.1951624,
+      "min_longitude": 120.8007199,
+      "max_latitude": 13.5314771,
+      "max_longitude": 121.5576218
+    },
     "translations": {
       "en": "Oriental Mindoro",
       "ar": "أورينتال ميندورو",
@@ -2301,20 +2745,28 @@
       "tr": "Oriental Mindoro",
       "uk": "Східний Міндоро",
       "ur": "شرقی میندورو",
-      "vi": "Oriental Mindoro"
+      "vi": "Oriental Mindoro",
+      "lv": "Austrumu Mindoro",
+      "ceb": "Sidlakang Mindoro",
+      "lt": "Rytų Mindoras",
+      "zh": "東民都洛省",
+      "ccp": "𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴 𑄟𑄨𑄚𑄴𑄓𑄮𑄢𑄮",
+      "mk": "Источен Миндоро"
     },
-    "geo": {
-      "latitude": 13.0564598,
-      "longitude": 121.4069417,
-      "min_latitude": 12.1951624,
-      "min_longitude": 120.8007199,
-      "max_latitude": 13.5314771,
-      "max_longitude": 121.5576218
-    },
-    "name": "Mindoro Oriental"
+    "comments": null
   },
   "MOU": {
+    "name": "Mountain Province",
+    "code": null,
     "unofficial_names": "Mountain Province",
+    "geo": {
+      "latitude": 17.0663429,
+      "longitude": 121.03351,
+      "min_latitude": 16.822498,
+      "min_longitude": 120.770595,
+      "max_latitude": 17.306318,
+      "max_longitude": 121.5659461
+    },
     "translations": {
       "en": "Mountain",
       "ar": "مقاطعة ماونتين",
@@ -2348,20 +2800,29 @@
       "th": "จังหวัดมอนเทรน",
       "tr": "Dağ Bölgesi",
       "ur": "ماؤنٹین صوبہ",
-      "vi": "Mountain Province"
+      "vi": "Mountain Province",
+      "lv": "Kalnu province",
+      "ceb": "Lalawigang Bulubundukin",
+      "lt": "Kalnų provincija",
+      "zh": "高山省",
+      "ccp": "𑄟𑄅𑄪𑄚𑄴𑄑𑄬𑄚𑄴",
+      "uk": "Гірська провінція",
+      "mk": "Планинска покраина"
     },
-    "geo": {
-      "latitude": 17.0663429,
-      "longitude": 121.03351,
-      "min_latitude": 16.822498,
-      "min_longitude": 120.770595,
-      "max_latitude": 17.306318,
-      "max_longitude": 121.5659461
-    },
-    "name": "Mountain Province"
+    "comments": null
   },
   "MSC": {
+    "name": "Misamis Occidental",
+    "code": null,
     "unofficial_names": "Misamis Occidental",
+    "geo": {
+      "latitude": 8.337490299999999,
+      "longitude": 123.7070619,
+      "min_latitude": 8.01499,
+      "min_longitude": 123.5556264,
+      "max_latitude": 8.668944699999999,
+      "max_longitude": 123.8690157
+    },
     "translations": {
       "en": "Misamis Occidental",
       "ar": "ميساميس أوتشيدنتال",
@@ -2395,20 +2856,29 @@
       "th": "บาเยลซ่า",
       "tr": "Misamis Occidental",
       "ur": "میسامس غربی",
-      "vi": "Misamis Occidental"
+      "vi": "Misamis Occidental",
+      "lv": "Rietummisamisa",
+      "ceb": "Misamis Occidental",
+      "lt": "Rytų Misamisas",
+      "zh": "西米薩米斯省",
+      "ccp": "𑄟𑄨𑄥𑄟𑄨𑄌𑄴 𑄃𑄧𑄇𑄴𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Західний Місаміс",
+      "mk": "Западен Мисамис"
     },
-    "geo": {
-      "latitude": 8.337490299999999,
-      "longitude": 123.7070619,
-      "min_latitude": 8.01499,
-      "min_longitude": 123.5556264,
-      "max_latitude": 8.668944699999999,
-      "max_longitude": 123.8690157
-    },
-    "name": "Misamis Occidental"
+    "comments": null
   },
   "MSR": {
+    "name": "Misamis Oriental",
+    "code": null,
     "unofficial_names": "Misamis Oriental",
+    "geo": {
+      "latitude": 8.5045558,
+      "longitude": 124.6219592,
+      "min_latitude": 8.2358519,
+      "min_longitude": 124.2491,
+      "max_latitude": 9.0931017,
+      "max_longitude": 125.2555001
+    },
     "translations": {
       "en": "Misamis Oriental",
       "ar": "ميساميس أوريانتال",
@@ -2442,22 +2912,31 @@
       "th": "มิซามิสโอเรียนทัล",
       "tr": "Misamis Oriental",
       "ur": "میسامس شرقی",
-      "vi": "Misamis Oriental"
+      "vi": "Misamis Oriental",
+      "lv": "Austrumu Misamisa",
+      "ceb": "Misamis Oriental",
+      "lt": "Rytų Misamis",
+      "zh": "東米薩米斯省",
+      "ccp": "𑄟𑄨𑄥𑄟𑄨𑄌𑄴 𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Східний Місаміс",
+      "mk": "Источен Мисамис"
     },
-    "geo": {
-      "latitude": 8.5045558,
-      "longitude": 124.6219592,
-      "min_latitude": 8.2358519,
-      "min_longitude": 124.2491,
-      "max_latitude": 9.0931017,
-      "max_longitude": 125.2555001
-    },
-    "name": "Misamis Oriental"
+    "comments": null
   },
   "NCO": {
+    "name": "North Cotabato",
+    "code": null,
     "unofficial_names": [
       "North Cotabato"
     ],
+    "geo": {
+      "latitude": 7.1083349,
+      "longitude": 125.0388164,
+      "min_latitude": 6.7588269,
+      "min_longitude": 124.3334349,
+      "max_latitude": 7.681884999999999,
+      "max_longitude": 125.31497
+    },
     "translations": {
       "en": "Cotabato",
       "ar": "كوتاباتو",
@@ -2491,20 +2970,29 @@
       "th": "โคตาบาโต",
       "tr": "Cotabato",
       "ur": "کوتاباتو",
-      "vi": "Cotabato"
+      "vi": "Cotabato",
+      "lv": "Kotabato",
+      "ceb": "Cotabato",
+      "lt": "Kotabatas",
+      "zh": "哥打巴托省",
+      "ccp": "𑄇𑄮𑄑𑄝𑄑𑄮",
+      "uk": "Котабато",
+      "mk": "Котабато"
     },
-    "geo": {
-      "latitude": 7.1083349,
-      "longitude": 125.0388164,
-      "min_latitude": 6.7588269,
-      "min_longitude": 124.3334349,
-      "max_latitude": 7.681884999999999,
-      "max_longitude": 125.31497
-    },
-    "name": "North Cotabato"
+    "comments": null
   },
   "NEC": {
+    "name": "Negros Occidental",
+    "code": null,
     "unofficial_names": "Negros Occidental",
+    "geo": {
+      "latitude": 10.2925609,
+      "longitude": 123.0246518,
+      "min_latitude": 9.423715099999999,
+      "min_longitude": 122.3767471,
+      "max_latitude": 11.0031714,
+      "max_longitude": 123.5701711
+    },
     "translations": {
       "en": "Negros Occidental",
       "ar": "نيغروس أوتشيدنتال",
@@ -2538,20 +3026,29 @@
       "th": "เนกรอส ออคซิเดนทัล",
       "tr": "Negros Occidental",
       "ur": "نیگروس غربی",
-      "vi": "Negros Occidental"
+      "vi": "Negros Occidental",
+      "lv": "Rietumu Negrosa",
+      "ceb": "Negros Occidental",
+      "lt": "Vakarų Negrosas",
+      "zh": "西內格羅省",
+      "ccp": "𑄚𑄬𑄉𑄳𑄢𑄮𑄌𑄴 𑄃𑄧𑄇𑄴𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Західний Негрос",
+      "mk": "Западен Негрос"
     },
-    "geo": {
-      "latitude": 10.2925609,
-      "longitude": 123.0246518,
-      "min_latitude": 9.423715099999999,
-      "min_longitude": 122.3767471,
-      "max_latitude": 11.0031714,
-      "max_longitude": 123.5701711
-    },
-    "name": "Negros Occidental"
+    "comments": null
   },
   "NER": {
+    "name": "Negros Oriental",
+    "code": null,
     "unofficial_names": "Negros Oriental",
+    "geo": {
+      "latitude": 9.628208299999999,
+      "longitude": 122.9888319,
+      "min_latitude": 9.0385288,
+      "min_longitude": 122.6101151,
+      "max_latitude": 10.4163581,
+      "max_longitude": 123.3400472
+    },
     "translations": {
       "en": "Negros Oriental",
       "ar": "أورينتال نيغروس",
@@ -2586,20 +3083,29 @@
       "th": "เนกรอส โอเรียนทัล",
       "tr": "Negros Oriental",
       "ur": "نیگروس شرقی",
-      "vi": "Negros Oriental"
+      "vi": "Negros Oriental",
+      "lv": "Austrumu Negrosa",
+      "ceb": "Negros Oriental",
+      "lt": "Rytinis Negrosas",
+      "zh": "東內格羅省",
+      "ccp": "𑄚𑄬𑄉𑄳𑄢𑄮𑄌𑄴 𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
+      "uk": "Східний Негрос",
+      "mk": "Источен Негрос"
     },
-    "geo": {
-      "latitude": 9.628208299999999,
-      "longitude": 122.9888319,
-      "min_latitude": 9.0385288,
-      "min_longitude": 122.6101151,
-      "max_latitude": 10.4163581,
-      "max_longitude": 123.3400472
-    },
-    "name": "Negros Oriental"
+    "comments": null
   },
   "NSA": {
+    "name": "Northern Samar",
+    "code": null,
     "unofficial_names": "Northern Samar",
+    "geo": {
+      "latitude": 12.3613199,
+      "longitude": 124.7740793,
+      "min_latitude": 12.1405061,
+      "min_longitude": 124.0025139,
+      "max_latitude": 12.6966542,
+      "max_longitude": 125.3422503
+    },
     "translations": {
       "en": "Northern Samar",
       "ar": "سامار الشمالية",
@@ -2633,20 +3139,29 @@
       "th": "เขตนอร์เธิร์น ซามาร์",
       "tr": "Kuzey Samar",
       "ur": "شمالی سامار",
-      "vi": "Bắc Samar"
+      "vi": "Bắc Samar",
+      "lv": "Ziemeļu Samara",
+      "ceb": "Amihanang Samar",
+      "lt": "Šiaurės Samaras",
+      "zh": "北薩馬省",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄧𑄟𑄢𑄴",
+      "uk": "Північний Самар",
+      "mk": "Северен Самар"
     },
-    "geo": {
-      "latitude": 12.3613199,
-      "longitude": 124.7740793,
-      "min_latitude": 12.1405061,
-      "min_longitude": 124.0025139,
-      "max_latitude": 12.6966542,
-      "max_longitude": 125.3422503
-    },
-    "name": "Northern Samar"
+    "comments": null
   },
   "NUE": {
+    "name": "Nueva Ecija",
+    "code": null,
     "unofficial_names": "Nueva Ecija",
+    "geo": {
+      "latitude": 15.6906831,
+      "longitude": 120.9876321,
+      "min_latitude": 15.1651679,
+      "min_longitude": 120.611833,
+      "max_latitude": 16.1302161,
+      "max_longitude": 121.3782461
+    },
     "translations": {
       "en": "Nueva Ecija",
       "ar": "نويفا إيسيا",
@@ -2681,20 +3196,29 @@
       "th": "นูวา อีซิจา",
       "tr": "Nueva Ecija",
       "ur": "نوئوا اسیہا",
-      "vi": "Nueva Ecija"
+      "vi": "Nueva Ecija",
+      "lv": "Nueva Esiha",
+      "ceb": "Nueva Ecija",
+      "lt": "Nueva Ecidža",
+      "zh": "新怡詩夏省",
+      "ccp": "𑄚𑄪𑄠𑄬𑄞 𑄃𑄨𑄥𑄨𑄎",
+      "uk": "Нуева-Есіха",
+      "mk": "Нова Есиха"
     },
-    "geo": {
-      "latitude": 15.6906831,
-      "longitude": 120.9876321,
-      "min_latitude": 15.1651679,
-      "min_longitude": 120.611833,
-      "max_latitude": 16.1302161,
-      "max_longitude": 121.3782461
-    },
-    "name": "Nueva Ecija"
+    "comments": null
   },
   "NUV": {
+    "name": "Nueva Vizcaya",
+    "code": null,
     "unofficial_names": "Nueva Vizcaya",
+    "geo": {
+      "latitude": 16.3301107,
+      "longitude": 121.1710389,
+      "min_latitude": 15.7672,
+      "min_longitude": 120.756631,
+      "max_latitude": 16.7457349,
+      "max_longitude": 121.465768
+    },
     "translations": {
       "en": "Nueva Vizcaya",
       "ar": "نويفا فيزكايا",
@@ -2729,20 +3253,29 @@
       "th": "โนวาวิซคายา",
       "tr": "Nueva Vizcaya",
       "ur": "نوئوا ویزکایا",
-      "vi": "Nueva Vizcaya"
+      "vi": "Nueva Vizcaya",
+      "lv": "Nueva Viskaja",
+      "ceb": "Nueva Vizcaya",
+      "lt": "Nueva Viskaja",
+      "zh": "新比斯開省",
+      "ccp": "𑄚𑄪𑄠𑄬𑄞 𑄞𑄨𑄌𑄇𑄬𑄠",
+      "uk": "Нуева-Віская",
+      "mk": "Нова Вискаја"
     },
-    "geo": {
-      "latitude": 16.3301107,
-      "longitude": 121.1710389,
-      "min_latitude": 15.7672,
-      "min_longitude": 120.756631,
-      "max_latitude": 16.7457349,
-      "max_longitude": 121.465768
-    },
-    "name": "Nueva Vizcaya"
+    "comments": null
   },
   "PAM": {
+    "name": "Pampanga",
+    "code": null,
     "unofficial_names": "Pampanga",
+    "geo": {
+      "latitude": 15.079409,
+      "longitude": 120.6199895,
+      "min_latitude": 14.7673906,
+      "min_longitude": 120.3561269,
+      "max_latitude": 15.2718861,
+      "max_longitude": 120.985538
+    },
     "translations": {
       "en": "Pampanga",
       "ar": "بامبانغا",
@@ -2776,20 +3309,29 @@
       "th": "ปัมปางา",
       "tr": "Pampanga",
       "ur": "پامپانگا",
-      "vi": "Pampanga"
+      "vi": "Pampanga",
+      "lv": "Pampanga",
+      "ceb": "Pampanga",
+      "lt": "Pampanga",
+      "zh": "邦板牙省",
+      "ccp": "𑄛𑄟𑄴𑄛𑄚𑄴𑄉",
+      "uk": "Пампанга",
+      "mk": "Пампанга"
     },
-    "geo": {
-      "latitude": 15.079409,
-      "longitude": 120.6199895,
-      "min_latitude": 14.7673906,
-      "min_longitude": 120.3561269,
-      "max_latitude": 15.2718861,
-      "max_longitude": 120.985538
-    },
-    "name": "Pampanga"
+    "comments": null
   },
   "PAN": {
+    "name": "Pangasinan",
+    "code": null,
     "unofficial_names": "Pangasinan",
+    "geo": {
+      "latitude": 15.8949055,
+      "longitude": 120.2863183,
+      "min_latitude": 15.61848,
+      "min_longitude": 119.7495495,
+      "max_latitude": 16.426502,
+      "max_longitude": 120.9229021
+    },
     "translations": {
       "en": "Pangasinan",
       "ar": "بانغاسينان",
@@ -2824,20 +3366,29 @@
       "tr": "Pangasinan",
       "uk": "Пангасінан",
       "ur": "پانگاسینان",
-      "vi": "Pangasinan"
+      "vi": "Pangasinan",
+      "lv": "Pangasinana",
+      "ceb": "Pangasinan",
+      "lt": "Pangasinanas",
+      "zh": "邦阿西楠省",
+      "jv": "Pangasinan",
+      "ccp": "𑄛𑄚𑄴𑄉𑄥𑄨𑄚𑄚𑄴",
+      "mk": "Пангасинан"
     },
-    "geo": {
-      "latitude": 15.8949055,
-      "longitude": 120.2863183,
-      "min_latitude": 15.61848,
-      "min_longitude": 119.7495495,
-      "max_latitude": 16.426502,
-      "max_longitude": 120.9229021
-    },
-    "name": "Pangasinan"
+    "comments": null
   },
   "PLW": {
+    "name": "Palawan",
+    "code": null,
     "unofficial_names": "Palawan",
+    "geo": {
+      "latitude": 9.8349493,
+      "longitude": 118.7383615,
+      "min_latitude": 6.9634569,
+      "min_longitude": 116.9315639,
+      "max_latitude": 12.66335,
+      "max_longitude": 121.2708889
+    },
     "translations": {
       "en": "Palawan",
       "ar": "بالاوان",
@@ -2881,20 +3432,31 @@
       "tr": "Palawan",
       "uk": "Палаван",
       "ur": "پالاوان",
-      "vi": "Palawan"
+      "vi": "Palawan",
+      "lv": "Palavana",
+      "cy": "Palawan",
+      "ceb": "Palawan",
+      "sr_Latn": "Palavan",
+      "lt": "Palavanas",
+      "zh": "巴拉望省",
+      "ccp": "𑄛𑄧𑄣𑄤𑄚𑄴",
+      "ml": "പലാവൻ",
+      "mk": "Палаван"
     },
-    "geo": {
-      "latitude": 9.8349493,
-      "longitude": 118.7383615,
-      "min_latitude": 6.9634569,
-      "min_longitude": 116.9315639,
-      "max_latitude": 12.66335,
-      "max_longitude": 121.2708889
-    },
-    "name": "Palawan"
+    "comments": null
   },
   "QUE": {
+    "name": "Quezon",
+    "code": null,
     "unofficial_names": "Quezon",
+    "geo": {
+      "latitude": 14.0313906,
+      "longitude": 122.1130909,
+      "min_latitude": 14.0007015,
+      "min_longitude": 122.0490502,
+      "max_latitude": 14.1294959,
+      "max_longitude": 122.1910019
+    },
     "translations": {
       "en": "Quezon",
       "ar": "كزون",
@@ -2929,22 +3491,30 @@
       "tr": "Quezon",
       "uk": "Кесон",
       "ur": "کویزون",
-      "vi": "Quezon"
+      "vi": "Quezon",
+      "lv": "Kesona",
+      "ceb": "Quezon",
+      "lt": "Kezonas",
+      "zh": "奎松省",
+      "ccp": "𑄇𑄪𑄠𑄬𑄎𑄧𑄚𑄴",
+      "mk": "Кезон"
     },
-    "geo": {
-      "latitude": 14.0313906,
-      "longitude": 122.1130909,
-      "min_latitude": 14.0007015,
-      "min_longitude": 122.0490502,
-      "max_latitude": 14.1294959,
-      "max_longitude": 122.1910019
-    },
-    "name": "Quezon"
+    "comments": null
   },
   "QUI": {
+    "name": "Quirino",
+    "code": null,
     "unofficial_names": [
       "Angkaki"
     ],
+    "geo": {
+      "latitude": 17.133333,
+      "longitude": 121.7,
+      "min_latitude": 17.0988256,
+      "min_longitude": 121.6813735,
+      "max_latitude": 17.2103775,
+      "max_longitude": 121.8186592
+    },
     "translations": {
       "en": "Quirino",
       "ar": "كويرينو",
@@ -2978,20 +3548,29 @@
       "th": "ควิริโน",
       "tr": "Quirino",
       "ur": "کوئرینو",
-      "vi": "Quirino"
+      "vi": "Quirino",
+      "lv": "Kirino",
+      "ceb": "Quirino",
+      "lt": "Kirinas",
+      "zh": "季里諾省",
+      "ccp": "𑄇𑄪𑄃𑄨𑄢𑄨𑄚𑄮",
+      "uk": "Кіріно",
+      "mk": "Кирино"
     },
-    "geo": {
-      "latitude": 17.133333,
-      "longitude": 121.7,
-      "min_latitude": 17.0988256,
-      "min_longitude": 121.6813735,
-      "max_latitude": 17.2103775,
-      "max_longitude": 121.8186592
-    },
-    "name": "Quirino"
+    "comments": null
   },
   "RIZ": {
+    "name": "Rizal",
+    "code": null,
     "unofficial_names": "Rizal",
+    "geo": {
+      "latitude": 14.6037446,
+      "longitude": 121.3084088,
+      "min_latitude": 14.2896792,
+      "min_longitude": 121.0935389,
+      "max_latitude": 14.8888711,
+      "max_longitude": 121.4698249
+    },
     "translations": {
       "en": "Rizal",
       "ar": "ريزال",
@@ -3026,20 +3605,28 @@
       "tr": "Rizal",
       "uk": "Рісаль",
       "ur": "ریزال",
-      "vi": "Rizal"
+      "vi": "Rizal",
+      "lv": "Rizala",
+      "ceb": "Rizal",
+      "lt": "Rizalis",
+      "zh": "黎剎省",
+      "ccp": "𑄢𑄨𑄎𑄣𑄴",
+      "mk": "Ризал"
     },
-    "geo": {
-      "latitude": 14.6037446,
-      "longitude": 121.3084088,
-      "min_latitude": 14.2896792,
-      "min_longitude": 121.0935389,
-      "max_latitude": 14.8888711,
-      "max_longitude": 121.4698249
-    },
-    "name": "Rizal"
+    "comments": null
   },
   "ROM": {
+    "name": "Romblon",
+    "code": null,
     "unofficial_names": "Romblon",
+    "geo": {
+      "latitude": 12.5778554,
+      "longitude": 122.269129,
+      "min_latitude": 12.4778353,
+      "min_longitude": 122.2304249,
+      "max_latitude": 12.6712134,
+      "max_longitude": 122.328081
+    },
     "translations": {
       "en": "Romblon",
       "ar": "رومبلون",
@@ -3074,20 +3661,28 @@
       "tr": "Romblon",
       "uk": "Ромблон",
       "ur": "رومبلون",
-      "vi": "Romblon"
+      "vi": "Romblon",
+      "lv": "Romblona",
+      "ceb": "Romblon",
+      "lt": "Romblonas",
+      "zh": "朗布隆省",
+      "ccp": "𑄢𑄮𑄟𑄴𑄝𑄳𑄣𑄮𑄚𑄴",
+      "mk": "Ромблон"
     },
-    "geo": {
-      "latitude": 12.5778554,
-      "longitude": 122.269129,
-      "min_latitude": 12.4778353,
-      "min_longitude": 122.2304249,
-      "max_latitude": 12.6712134,
-      "max_longitude": 122.328081
-    },
-    "name": "Romblon"
+    "comments": null
   },
   "SAR": {
+    "name": "Sarangani",
+    "code": null,
     "unofficial_names": "Sarangani",
+    "geo": {
+      "latitude": 5.926717500000001,
+      "longitude": 124.994751,
+      "min_latitude": 5.566673,
+      "min_longitude": 124.3531991,
+      "max_latitude": 6.468224999999999,
+      "max_longitude": 125.5387121
+    },
     "translations": {
       "en": "Sarangani",
       "ar": "سارانغاني",
@@ -3122,20 +3717,29 @@
       "th": "ซารางานิ",
       "tr": "Sarangani",
       "ur": "سارانگانی",
-      "vi": "Sarangani"
+      "vi": "Sarangani",
+      "lv": "Sarangani",
+      "ceb": "Sarangani",
+      "lt": "Saranganis",
+      "zh": "薩蘭加尼省",
+      "ccp": "𑄥𑄢𑄋𑄴𑄉𑄚𑄨",
+      "uk": "Сарангані",
+      "mk": "Сарангани"
     },
-    "geo": {
-      "latitude": 5.926717500000001,
-      "longitude": 124.994751,
-      "min_latitude": 5.566673,
-      "min_longitude": 124.3531991,
-      "max_latitude": 6.468224999999999,
-      "max_longitude": 125.5387121
-    },
-    "name": "Sarangani"
+    "comments": null
   },
   "SCO": {
+    "name": "South Cotabato",
+    "code": null,
     "unofficial_names": "South Cotabato",
+    "geo": {
+      "latitude": 6.3357565,
+      "longitude": 124.7740793,
+      "min_latitude": 5.957796999999999,
+      "min_longitude": 124.278951,
+      "max_latitude": 6.6679448,
+      "max_longitude": 125.2723331
+    },
     "translations": {
       "en": "South Cotabato",
       "ar": "جنوب كوتاباتو",
@@ -3168,20 +3772,29 @@
       "th": "โคตาบาโตใต้",
       "tr": "Güney Cotabato",
       "ur": "جنوبی کوتاباتو",
-      "vi": "Nam Cotabato"
+      "vi": "Nam Cotabato",
+      "lv": "Dievidkotabato",
+      "ceb": "Habagatang Cotabato",
+      "lt": "Pietų Kotabatas",
+      "zh": "南哥打巴托省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄮𑄑𑄝𑄑𑄮",
+      "uk": "Південний Котабато",
+      "mk": "Јужен Котабато"
     },
-    "geo": {
-      "latitude": 6.3357565,
-      "longitude": 124.7740793,
-      "min_latitude": 5.957796999999999,
-      "min_longitude": 124.278951,
-      "max_latitude": 6.6679448,
-      "max_longitude": 125.2723331
-    },
-    "name": "South Cotabato"
+    "comments": null
   },
   "SIG": {
+    "name": "Siquijor",
+    "code": null,
     "unofficial_names": "Siquijor",
+    "geo": {
+      "latitude": 9.213263099999999,
+      "longitude": 123.5157032,
+      "min_latitude": 9.141587999999999,
+      "min_longitude": 123.4554852,
+      "max_latitude": 9.2403095,
+      "max_longitude": 123.6037446
+    },
     "translations": {
       "en": "Siquijor",
       "ar": "سيكيخور",
@@ -3215,20 +3828,30 @@
       "th": "ซิกีจอร์",
       "tr": "Siquijor",
       "ur": "سیقیحور",
-      "vi": "Siquijor"
+      "vi": "Siquijor",
+      "lv": "Sikvuijora",
+      "ceb": "Siquijor",
+      "lt": "Sikijoras",
+      "zh": "錫基霍爾省",
+      "ccp": "𑄥𑄨𑄇𑄭𑄪𑄎𑄮𑄢𑄴",
+      "uk": "Сікіхор",
+      "cs": "Siquijor",
+      "mk": "Сикихор"
     },
-    "geo": {
-      "latitude": 9.213263099999999,
-      "longitude": 123.5157032,
-      "min_latitude": 9.141587999999999,
-      "min_longitude": 123.4554852,
-      "max_latitude": 9.2403095,
-      "max_longitude": 123.6037446
-    },
-    "name": "Siquijor"
+    "comments": null
   },
   "SLE": {
+    "name": "Southern Leyte",
+    "code": null,
     "unofficial_names": "Southern Leyte",
+    "geo": {
+      "latitude": 10.3346206,
+      "longitude": 125.1708741,
+      "min_latitude": 9.895297,
+      "min_longitude": 124.755684,
+      "max_latitude": 10.6267204,
+      "max_longitude": 125.2990696
+    },
     "translations": {
       "en": "Southern Leyte",
       "ar": "لايتي الجنوبية",
@@ -3263,20 +3886,30 @@
       "th": "เซ้าเทิร์น เลย์เต้",
       "tr": "Güney Leyte",
       "ur": "جنوبی لیئتے",
-      "vi": "Nam Leyte"
+      "vi": "Nam Leyte",
+      "lv": "Dienvidleite",
+      "ceb": "Habagatang Leyte",
+      "lt": "Pietryčių Leitė",
+      "zh": "南萊特省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄣𑄬𑄠𑄖𑄴",
+      "et": "Lõuna-Leyte",
+      "uk": "Південний Лейте",
+      "mk": "Јужен Лејте"
     },
-    "geo": {
-      "latitude": 10.3346206,
-      "longitude": 125.1708741,
-      "min_latitude": 9.895297,
-      "min_longitude": 124.755684,
-      "max_latitude": 10.6267204,
-      "max_longitude": 125.2990696
-    },
-    "name": "Southern Leyte"
+    "comments": null
   },
   "SLU": {
+    "name": "Sulu",
+    "code": null,
     "unofficial_names": "Sulu",
+    "geo": {
+      "latitude": 5.974901099999999,
+      "longitude": 121.03351,
+      "min_latitude": 5.4429449,
+      "min_longitude": 120.4130955,
+      "max_latitude": 6.4398352,
+      "max_longitude": 121.9476239
+    },
     "translations": {
       "en": "Sulu",
       "ar": "سولو",
@@ -3310,20 +3943,29 @@
       "th": "จังหวัดซูลู",
       "tr": "Sulu",
       "ur": "سولو",
-      "vi": "Sulu"
+      "vi": "Sulu",
+      "lv": "Sulu",
+      "ceb": "Sulu",
+      "lt": "Sulu",
+      "zh": "蘇祿省",
+      "ccp": "𑄥𑄪𑄣𑄪",
+      "uk": "Сулу",
+      "mk": "Сулу"
     },
-    "geo": {
-      "latitude": 5.974901099999999,
-      "longitude": 121.03351,
-      "min_latitude": 5.4429449,
-      "min_longitude": 120.4130955,
-      "max_latitude": 6.4398352,
-      "max_longitude": 121.9476239
-    },
-    "name": "Sulu"
+    "comments": null
   },
   "SOR": {
+    "name": "Sorsogon",
+    "code": null,
     "unofficial_names": "Sorsogon",
+    "geo": {
+      "latitude": 12.9927095,
+      "longitude": 124.0147464,
+      "min_latitude": 12.8177146,
+      "min_longitude": 123.7906891,
+      "max_latitude": 13.1196236,
+      "max_longitude": 124.1477504
+    },
     "translations": {
       "en": "Sorsogon",
       "ar": "سوروسوغون",
@@ -3357,20 +3999,31 @@
       "th": "รัฐทาราบา",
       "tr": "Sorsogon",
       "ur": "سورسوگون",
-      "vi": "Sorsogon"
+      "vi": "Sorsogon",
+      "lv": "Sorsogona",
+      "ceb": "Sorsogon",
+      "lt": "Sorsogonas",
+      "zh": "索索貢省",
+      "yue_Hans": "索索贡省",
+      "ccp": "𑄥𑄮𑄢𑄴𑄥𑄮𑄉𑄚𑄴",
+      "uk": "Сорсогон",
+      "yue": "索索貢省",
+      "mk": "Сорсогон"
     },
-    "geo": {
-      "latitude": 12.9927095,
-      "longitude": 124.0147464,
-      "min_latitude": 12.8177146,
-      "min_longitude": 123.7906891,
-      "max_latitude": 13.1196236,
-      "max_longitude": 124.1477504
-    },
-    "name": "Sorsogon"
+    "comments": null
   },
   "SUK": {
+    "name": "Sultan Kudarat",
+    "code": null,
     "unofficial_names": "Sultan Kudarat",
+    "geo": {
+      "latitude": 6.5069401,
+      "longitude": 124.4198243,
+      "min_latitude": 6.117249999999999,
+      "min_longitude": 124.0158941,
+      "max_latitude": 6.883467,
+      "max_longitude": 125.197615
+    },
     "translations": {
       "en": "Sultan Kudarat",
       "ar": "سلطان قادرات",
@@ -3404,20 +4057,29 @@
       "th": "ซุลตานกุดารัต",
       "tr": "Sultan Kudarat",
       "ur": "سلطان قدرت",
-      "vi": "Sultan Kudarat"
+      "vi": "Sultan Kudarat",
+      "lv": "Sultana Kudarata",
+      "ceb": "Sultan Kudarat",
+      "lt": "Sultan Kudaratas",
+      "zh": "蘇丹庫達拉省",
+      "ccp": "𑄥𑄪𑄣𑄴𑄑𑄚𑄴 𑄇𑄪𑄓𑄢𑄖𑄴",
+      "uk": "Султан-Кударат",
+      "mk": "Султан Кударат"
     },
-    "geo": {
-      "latitude": 6.5069401,
-      "longitude": 124.4198243,
-      "min_latitude": 6.117249999999999,
-      "min_longitude": 124.0158941,
-      "max_latitude": 6.883467,
-      "max_longitude": 125.197615
-    },
-    "name": "Sultan Kudarat"
+    "comments": null
   },
   "SUN": {
+    "name": "Surigao del Norte",
+    "code": null,
     "unofficial_names": "Surigao del Norte",
+    "geo": {
+      "latitude": 9.514828,
+      "longitude": 125.6969984,
+      "min_latitude": 9.325377,
+      "min_longitude": 125.3916907,
+      "max_latitude": 10.0626918,
+      "max_longitude": 126.1804676
+    },
     "translations": {
       "en": "Surigao del Norte",
       "ar": "سوريجاو ديل نورت",
@@ -3450,20 +4112,29 @@
       "th": "ซุริเกา เดล นอร์เต",
       "tr": "Surigao del Norte",
       "ur": "سوریگاؤ شمالی",
-      "vi": "Surigao del Norte"
+      "vi": "Surigao del Norte",
+      "lv": "Ziemeļsurigao",
+      "ceb": "Surigao del Norte",
+      "lt": "Šiaurės Surigao",
+      "zh": "北苏里高省",
+      "ccp": "𑄥𑄪𑄢𑄨𑄉𑄃𑄮 𑄓𑄬𑄣𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північний Сурігао",
+      "mk": "Северен Суригао"
     },
-    "geo": {
-      "latitude": 9.514828,
-      "longitude": 125.6969984,
-      "min_latitude": 9.325377,
-      "min_longitude": 125.3916907,
-      "max_latitude": 10.0626918,
-      "max_longitude": 126.1804676
-    },
-    "name": "Surigao del Norte"
+    "comments": null
   },
   "SUR": {
+    "name": "Surigao del Sur",
+    "code": null,
     "unofficial_names": "Surigao del Sur",
+    "geo": {
+      "latitude": 8.5404906,
+      "longitude": 126.1144758,
+      "min_latitude": 7.908138999999999,
+      "min_longitude": 125.7439209,
+      "max_latitude": 9.496260099999999,
+      "max_longitude": 126.4583336
+    },
     "translations": {
       "en": "Surigao del Sur",
       "ar": "سوريجاو ديل سور",
@@ -3496,20 +4167,29 @@
       "th": "ซูรีเกา เดล เซอ",
       "tr": "Surigao del Sur",
       "ur": "سوریگاؤ جنوبی",
-      "vi": "Surigao del Sur"
+      "vi": "Surigao del Sur",
+      "lv": "Dienvidsurigao",
+      "ceb": "Surigao del Sur",
+      "lt": "Pietų Surigao",
+      "zh": "南苏里高省",
+      "ccp": "𑄥𑄪𑄢𑄨𑄉𑄃𑄮 𑄓𑄬𑄣𑄴 𑄥𑄢𑄴",
+      "uk": "Південий Сурігао",
+      "mk": "Јужен Суригао"
     },
-    "geo": {
-      "latitude": 8.5404906,
-      "longitude": 126.1144758,
-      "min_latitude": 7.908138999999999,
-      "min_longitude": 125.7439209,
-      "max_latitude": 9.496260099999999,
-      "max_longitude": 126.4583336
-    },
-    "name": "Surigao del Sur"
+    "comments": null
   },
   "TAR": {
+    "name": "Tarlac",
+    "code": null,
     "unofficial_names": "Tarlac",
+    "geo": {
+      "latitude": 15.4754786,
+      "longitude": 120.5963492,
+      "min_latitude": 15.4011971,
+      "min_longitude": 120.5281542,
+      "max_latitude": 15.543999,
+      "max_longitude": 120.6978608
+    },
     "translations": {
       "en": "Tarlac",
       "ar": "تارلاك",
@@ -3544,20 +4224,29 @@
       "tr": "Tarlac",
       "uk": "Тарлак",
       "ur": "تارلاک",
-      "vi": "Tarlac"
+      "vi": "Tarlac",
+      "lv": "Tarlaka",
+      "ceb": "Tarlac",
+      "lt": "Tarlakas",
+      "zh": "丹轆省",
+      "ccp": "𑄑𑄢𑄴𑄣𑄇𑄴",
+      "hy": "Տարլակ",
+      "mk": "Тарлак"
     },
-    "geo": {
-      "latitude": 15.4754786,
-      "longitude": 120.5963492,
-      "min_latitude": 15.4011971,
-      "min_longitude": 120.5281542,
-      "max_latitude": 15.543999,
-      "max_longitude": 120.6978608
-    },
-    "name": "Tarlac"
+    "comments": null
   },
   "TAW": {
+    "name": "Tawi-Tawi",
+    "code": null,
     "unofficial_names": "Tawi-Tawi",
+    "geo": {
+      "latitude": 5.133811,
+      "longitude": 119.950926,
+      "min_latitude": 4.616361299999999,
+      "min_longitude": 119.3835042,
+      "max_latitude": 5.9914141,
+      "max_longitude": 120.6829369
+    },
     "translations": {
       "en": "Tawi-Tawi",
       "ar": "تاوي تاوي",
@@ -3593,22 +4282,31 @@
       "th": "ทะวี-ทะวี",
       "tr": "Tawi-Tawi",
       "ur": "تاوی تاوی",
-      "vi": "Tawi-Tawi"
+      "vi": "Tawi-Tawi",
+      "lv": "Tavi-Tavi",
+      "ceb": "Tawi-Tawi",
+      "lt": "Tavi-Tavis",
+      "zh": "塔威塔威省",
+      "ccp": "𑄑𑄧𑄠𑄨-𑄑𑄧𑄠𑄨",
+      "uk": "Таві-Таві",
+      "mk": "Тави-Тави"
     },
-    "geo": {
-      "latitude": 5.133811,
-      "longitude": 119.950926,
-      "min_latitude": 4.616361299999999,
-      "min_longitude": 119.3835042,
-      "max_latitude": 5.9914141,
-      "max_longitude": 120.6829369
-    },
-    "name": "Tawi-Tawi"
+    "comments": null
   },
   "WSA": {
+    "name": "Western Samar",
+    "code": null,
     "unofficial_names": [
       "Western Samar"
     ],
+    "geo": {
+      "latitude": 11.5795195,
+      "longitude": 124.9748219,
+      "min_latitude": 11.0872409,
+      "min_longitude": 124.1477429,
+      "max_latitude": 12.334325,
+      "max_longitude": 125.307814
+    },
     "translations": {
       "en": "Samar",
       "ar": "سامار",
@@ -3644,23 +4342,21 @@
       "th": "จังหวัดซามาร์",
       "tr": "Samar",
       "ur": "سامار (صوبہ)",
-      "vi": "Samar"
+      "vi": "Samar",
+      "lv": "Samara",
+      "ceb": "Samar",
+      "lt": "Samaras",
+      "zh": "薩馬省",
+      "ccp": "𑄥𑄧𑄟𑄢𑄴",
+      "uk": "Провінція Самар",
+      "mk": "Самар"
     },
-    "geo": {
-      "latitude": 11.5795195,
-      "longitude": 124.9748219,
-      "min_latitude": 11.0872409,
-      "min_longitude": 124.1477429,
-      "max_latitude": 12.334325,
-      "max_longitude": 125.307814
-    },
-    "name": "Western Samar"
+    "comments": null
   },
   "X1~": {
+    "name": "Dinagat",
+    "code": null,
     "unofficial_names": "Dinagat",
-    "translations": {
-      "en": "Dinagat"
-    },
     "geo": {
       "latitude": 10.1281816,
       "longitude": 125.6095474,
@@ -3669,13 +4365,15 @@
       "max_latitude": 10.4716027,
       "max_longitude": 125.7067526
     },
-    "name": "Dinagat"
+    "translations": {
+      "en": "Dinagat"
+    },
+    "comments": null
   },
   "X2~": {
+    "name": "Shariff Kabunsuan",
+    "code": null,
     "unofficial_names": "Shariff Kabunsuan",
-    "translations": {
-      "en": "Shariff Kabunsuan"
-    },
     "geo": {
       "latitude": 7.214106399999999,
       "longitude": 124.2535718,
@@ -3684,10 +4382,23 @@
       "max_latitude": 7.2155299,
       "max_longitude": 124.2541869
     },
-    "name": "Shariff Kabunsuan"
+    "translations": {
+      "en": "Shariff Kabunsuan"
+    },
+    "comments": null
   },
   "ZAN": {
+    "name": "Zamboanga del Norte",
+    "code": null,
     "unofficial_names": "Zamboanga del Norte",
+    "geo": {
+      "latitude": 8.3886282,
+      "longitude": 123.1688883,
+      "min_latitude": 7.1448079,
+      "min_longitude": 121.9014683,
+      "max_latitude": 8.856403499999999,
+      "max_longitude": 123.559396
+    },
     "translations": {
       "en": "Zamboanga del Norte",
       "ar": "زامبوانجا ديل نورت",
@@ -3720,20 +4431,29 @@
       "th": "แซมโบอันก้า เดล นอเต้",
       "tr": "Zamboanga del Norte",
       "ur": "زامبوانگا شمالی",
-      "vi": "Zamboanga del Norte"
+      "vi": "Zamboanga del Norte",
+      "lv": "Ziemeļu Zamboanga",
+      "ceb": "Zamboanga del Norte",
+      "lt": "Šiaurės Zamboanga",
+      "zh": "北三寶顏省",
+      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄋𑄴𑄉 𑄓𑄬𑄣𑄴 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "uk": "Північна Замбоанга",
+      "mk": "Северна Замбоанга"
     },
-    "geo": {
-      "latitude": 8.3886282,
-      "longitude": 123.1688883,
-      "min_latitude": 7.1448079,
-      "min_longitude": 121.9014683,
-      "max_latitude": 8.856403499999999,
-      "max_longitude": 123.559396
-    },
-    "name": "Zamboanga del Norte"
+    "comments": null
   },
   "ZAS": {
+    "name": "Zamboanga del Sur",
+    "code": null,
     "unofficial_names": "Zamboanga del Sur",
+    "geo": {
+      "latitude": 7.838305399999999,
+      "longitude": 123.2966657,
+      "min_latitude": 7.3595234,
+      "min_longitude": 122.916847,
+      "max_latitude": 8.2364218,
+      "max_longitude": 123.669302
+    },
     "translations": {
       "en": "Zamboanga del Sur",
       "ar": "زامبوانجا ديل سور",
@@ -3766,20 +4486,29 @@
       "th": "แซมโบอันกา เดล เซอร์",
       "tr": "Zamboanga del Sur",
       "ur": "زامبوانگا جنوبی",
-      "vi": "Zamboanga del Sur"
+      "vi": "Zamboanga del Sur",
+      "lv": "Dienvidzamboanga",
+      "ceb": "Zamboanga del Sur",
+      "lt": "Pietų Zamboanga",
+      "zh": "南三寶顏省",
+      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄋𑄴𑄉 𑄓𑄬𑄣𑄴 𑄥𑄢𑄴",
+      "uk": "Південна Замбоанга",
+      "mk": "Јужна Замбоанга"
     },
-    "geo": {
-      "latitude": 7.838305399999999,
-      "longitude": 123.2966657,
-      "min_latitude": 7.3595234,
-      "min_longitude": 122.916847,
-      "max_latitude": 8.2364218,
-      "max_longitude": 123.669302
-    },
-    "name": "Zamboanga del Sur"
+    "comments": null
   },
   "ZMB": {
+    "name": "Zambales",
+    "code": null,
     "unofficial_names": "Zambales",
+    "geo": {
+      "latitude": 15.5081766,
+      "longitude": 119.9697808,
+      "min_latitude": 14.7397255,
+      "min_longitude": 117.8441242,
+      "max_latitude": 15.845467,
+      "max_longitude": 120.462163
+    },
     "translations": {
       "en": "Zambales",
       "ar": "زامباله",
@@ -3815,20 +4544,29 @@
       "th": "แซมบาเลส",
       "tr": "Zambales",
       "ur": "زامبالیس",
-      "vi": "Zambales"
+      "vi": "Zambales",
+      "lv": "Zambale",
+      "ceb": "Zambales",
+      "lt": "Zambalesas",
+      "zh": "三描礼士省",
+      "ccp": "𑄎𑄟𑄴𑄝𑄣𑄨𑄌𑄴",
+      "uk": "Самбалес",
+      "mk": "Замбалес"
     },
-    "geo": {
-      "latitude": 15.5081766,
-      "longitude": 119.9697808,
-      "min_latitude": 14.7397255,
-      "min_longitude": 117.8441242,
-      "max_latitude": 15.845467,
-      "max_longitude": 120.462163
-    },
-    "name": "Zambales"
+    "comments": null
   },
   "ZSI": {
+    "name": "Zamboanga Sibuguey [Zamboanga Sibugay]",
+    "code": null,
     "unofficial_names": "Zamboanga Sibuguey [Zamboanga Sibugay]",
+    "geo": {
+      "latitude": 7.02427,
+      "longitude": 122.189,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Zamboanga Sibugay",
       "ar": "زامبوانجا سيبوجاي",
@@ -3862,23 +4600,32 @@
       "th": "ซัมบวงกา ซีบูเกย์",
       "tr": "Zamboanga Sibugay",
       "ur": "زامبوانگا سیبوگائے",
-      "vi": "Zamboanga Sibugay"
+      "vi": "Zamboanga Sibugay",
+      "lv": "Zamboanga-Sibugeja",
+      "ceb": "Zamboanga Sibugay",
+      "lt": "Sibugajaus Samboanga",
+      "zh": "三寶顏錫布格省",
+      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄋𑄴𑄉 𑄥𑄨𑄝𑄪𑄉𑄬",
+      "uk": "Замбоанга-Сибугай",
+      "mk": "Замбоанга Сибугај"
     },
-    "geo": {
-      "latitude": 7.02427,
-      "longitude": 122.189,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Zamboanga Sibuguey [Zamboanga Sibugay]"
+    "comments": null
   },
   "00": {
+    "name": "National Capital Region",
+    "code": null,
     "unofficial_names": [
       "National Capital Region",
       "Pambansang Punong Rehiyon"
     ],
+    "geo": {
+      "latitude": 14.6090537,
+      "longitude": 121.0222565,
+      "min_latitude": 14.3493861,
+      "min_longitude": 120.9172569,
+      "max_latitude": 14.781217,
+      "max_longitude": 121.132012
+    },
     "translations": {
       "en": "Metro Manila",
       "be": "Сталічны Рэгіён",
@@ -3910,19 +4657,34 @@
       "uk": "Столичний регіон (Філіппіни)",
       "ur": "میٹرو منیلا",
       "vi": "Vùng đô thị Manila",
-      "zh": "馬尼拉大都會"
+      "zh": "馬尼拉大都會",
+      "ceb": "Manila",
+      "sr_Latn": "Metro Manila",
+      "bn": "মেট্রো মানিলা",
+      "yue_Hans": "马尼拉大都会",
+      "ccp": "𑄟𑄬𑄑𑄳𑄢𑄮 𑄟𑄬𑄚𑄨𑄣",
+      "he": "אזור מנילה רבתי",
+      "eu": "Manila Handia",
+      "ml": "മെട്രോ മനില",
+      "cs": "Metro Manila",
+      "yue": "馬尼拉大都會",
+      "my": "မက်ထရို မနီလာ",
+      "mk": "Метро Манила"
     },
-    "geo": {
-      "latitude": 14.6090537,
-      "longitude": 121.0222565,
-      "min_latitude": 14.3493861,
-      "min_longitude": 120.9172569,
-      "max_latitude": 14.781217,
-      "max_longitude": 121.132012
-    },
-    "name": "National Capital Region"
+    "comments": null
   },
   "41": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ميماروبا",
       "ca": "MIMAROPA",
@@ -3944,10 +4706,31 @@
       "ta": "மிமரோபா",
       "uk": "Мімаропа",
       "ur": "میماپورا",
-      "vi": "MIMAROPA"
-    }
+      "vi": "MIMAROPA",
+      "ceb": "MIMAROPA",
+      "zh": "民马罗巴区",
+      "yue_Hans": "民马罗巴",
+      "ccp": "𑄟𑄨𑄟𑄢𑄮𑄛",
+      "eu": "Mimaropa",
+      "yue": "民馬羅巴",
+      "nb": "MIMAROPA",
+      "th": "เขตมีมาโรปา",
+      "mk": "Мимаропа"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Müsəlman Mindanao muxtar regionu",
       "be": "Аўтаномны рэгіён у Мусульманскім Мінданаа",
@@ -3978,10 +4761,32 @@
       "tr": "Müslüman Mindanao Özerk Bölgesi",
       "uk": "Автономний регіон в Мусульманському Мінданао",
       "ur": "مسلم مینداناؤ کا خود مختار علاقہ",
-      "vi": "Khu tự trị Hồi giáo Mindanao"
-    }
+      "vi": "Khu tự trị Hồi giáo Mindanao",
+      "ceb": "Mindanawng Muslim",
+      "sr_Latn": "Muslimanski Mindanao",
+      "zh": "棉兰老穆斯林自治区",
+      "fa": "ناحیه خودمختار مسلمانان میندانائو",
+      "yue_Hans": "棉兰老穆斯林自治区",
+      "ccp": "𑄟𑄪𑄌𑄴𑄣𑄨𑄟𑄴 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
+      "yue": "棉蘭老穆斯林自治區",
+      "nb": "Autonomous Region in Muslim Mindanao",
+      "th": "เขตปกครองตนเองในมินดาเนามุสลิม",
+      "mk": "Автономен регион во Муслимански Минданао"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Усходнія Вісаі",
       "ca": "Visayas Orientals",
@@ -4004,10 +4809,31 @@
       "ta": "கிழக்கு விசயாசு",
       "uk": "Східні Вісаї",
       "ur": "مشرقی ویسایا",
-      "vi": "Đông Visayas"
-    }
+      "vi": "Đông Visayas",
+      "ceb": "Sidlakang Kabisay-an",
+      "zh": "東米沙鄢",
+      "yue_Hans": "东维萨亚斯",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Ekialdeko Bisayak",
+      "ml": "കിഴക്കൻ വിസായസ്",
+      "yue": "東維薩亞斯",
+      "th": "เขตซีลางังคาบีซายาอัน",
+      "mk": "Источни Висаи"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bn": "দাভাও অঞ্চল",
       "ca": "Regió de Davao",
@@ -4031,10 +4857,30 @@
       "tr": "Davao Bölgesi",
       "uk": "Давао",
       "ur": "داوائو علاقہ",
-      "vi": "Vùng Davao"
-    }
+      "vi": "Vùng Davao",
+      "ceb": "Davao",
+      "zh": "达沃区",
+      "yue_Hans": "达沃区",
+      "ccp": "𑄓𑄞𑄃𑄮",
+      "eu": "Davaoko eskualdea",
+      "yue": "達沃區",
+      "th": "เขตดาเบา",
+      "mk": "Давао"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Regió d’Ilocos",
       "de": "Ilocos Region",
@@ -4059,10 +4905,30 @@
       "tr": "Ilocos Bölgesi",
       "uk": "Ілокос",
       "ur": "ایلوکوس علاقہ",
-      "vi": "Ilocos"
-    }
+      "vi": "Ilocos",
+      "ceb": "Rehiyon sa Ilocos",
+      "zh": "伊羅戈",
+      "yue_Hans": "伊罗戈",
+      "ccp": "𑄃𑄨𑄣𑄮𑄇𑄮𑄌𑄴",
+      "eu": "Ilocos",
+      "yue": "伊羅戈",
+      "th": "เขตอีโลโคส",
+      "mk": "Илокос"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Vall de Cagayan",
       "de": "Cagayan Valley",
@@ -4085,10 +4951,32 @@
       "ta": "ககயன் பள்ளத்தாக்கு",
       "uk": "Долина Кагаян",
       "ur": "کاگایان وادی",
-      "vi": "Thung lũng Cagayan"
-    }
+      "vi": "Thung lũng Cagayan",
+      "ceb": "Lupot sa Cagayan",
+      "ms": "Lembah Cagayan",
+      "ar": "وادي كاغيان",
+      "zh": "卡加延河谷",
+      "yue_Hans": "卡加延谷",
+      "ccp": "𑄇𑄬𑄉𑄬𑄃𑄨𑄠𑄚𑄴 𑄞𑄬𑄣𑄩",
+      "eu": "Cagayan Harana",
+      "yue": "卡加延谷",
+      "th": "เขตลัมบักนางคากายัน",
+      "mk": "Кагајанска Долина"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Luzon Central",
       "de": "Central Luzon",
@@ -4112,10 +5000,30 @@
       "tr": "Merkez Luzon",
       "uk": "Центральний Лусон",
       "ur": "وسطی لوزون",
-      "vi": "Trung Luzon"
-    }
+      "vi": "Trung Luzon",
+      "ceb": "Tunga-tungang Luzon",
+      "zh": "中央吕宋",
+      "yue_Hans": "中吕宋",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄣𑄪𑄎𑄧𑄚𑄴",
+      "eu": "Erdialdeko Luzon",
+      "yue": "中呂宋",
+      "th": "เขตกิตนางลูโซน",
+      "mk": "Централен Лузон"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Regió de Bicol",
       "de": "Bicol Region",
@@ -4137,10 +5045,31 @@
       "ta": "பிகோல் பிராந்தியம்",
       "uk": "Бікол",
       "ur": "بیکول علاقہ",
-      "vi": "Bicol"
-    }
+      "vi": "Bicol",
+      "ceb": "Bikol",
+      "zh": "比科爾",
+      "yue_Hans": "比科尔",
+      "ccp": "𑄝𑄨𑄇𑄮𑄣𑄴",
+      "hy": "Բիկոլի շրջան",
+      "eu": "Bicolgo eskualdea",
+      "yue": "比科爾",
+      "th": "เขตบีโคล",
+      "mk": "Бикол"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Visayas Occidentals",
       "de": "Western Visayas",
@@ -4164,10 +5093,32 @@
       "tr": "Batı Visayas",
       "uk": "Західні Вісаї",
       "ur": "مغربی ویسایا",
-      "vi": "Tây Visayas"
-    }
+      "vi": "Tây Visayas",
+      "ceb": "Kasadpang Kabisay-an",
+      "ar": "بيسايا الغربية",
+      "zh": "西米沙鄢",
+      "yue_Hans": "西维萨亚斯",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Mendebaldeko Bisayak",
+      "yue": "西維薩亞斯",
+      "nb": "Western Visayas",
+      "th": "เขตคันลูรังคาบีซายาอัน",
+      "mk": "Западни Висаи"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Visayas Centrals",
       "de": "Central Visayas",
@@ -4192,10 +5143,31 @@
       "tr": "Merkez Visayas",
       "uk": "Центральні Вісаї",
       "ur": "وسطی ویسایا",
-      "vi": "Trung Visayas"
-    }
+      "vi": "Trung Visayas",
+      "ceb": "Tunga-tungang Kabisay-an",
+      "ar": "بيسايا الوسطى",
+      "zh": "中米沙鄢",
+      "yue_Hans": "中维萨亚斯",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Erdialdeko Bisayak",
+      "yue": "中維薩亞斯",
+      "th": "เขตกิตนางคาบีซายาอัน",
+      "mk": "Централни Висаи"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Península de Zamboanga",
       "de": "Zamboanga Peninsula",
@@ -4220,10 +5192,32 @@
       "tr": "Zamboanga Yarımadası",
       "uk": "Півострів Замбоанга",
       "ur": "زامبوانگا جزیرہ نما",
-      "vi": "Bán đảo Zamboanga"
-    }
+      "vi": "Bán đảo Zamboanga",
+      "ceb": "Zamboanga",
+      "ar": "شبه جزيرة زامبوانجا",
+      "zh": "三宝颜半岛",
+      "yue_Hans": "三宝颜半岛",
+      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄁𑄉 𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄪𑄣",
+      "eu": "Zamboangako penintsula",
+      "cs": "Poloostrov Zamboanga",
+      "yue": "三寶顏半島",
+      "th": "เขตตังไวนางซัมบวงกา",
+      "mk": "Полуостров Замбоанга"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Mindanao Septentrional",
       "de": "Northern Mindanao",
@@ -4245,10 +5239,30 @@
       "ta": "வடக்கு மின்டனவு",
       "uk": "Північне Мінданао",
       "ur": "شمالی مینداناؤ",
-      "vi": "Bắc Mindanao"
-    }
+      "vi": "Bắc Mindanao",
+      "ceb": "Amihanang Mindanao",
+      "zh": "北棉兰老",
+      "yue_Hans": "北棉兰老",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
+      "eu": "Iparraldeko Mindanao",
+      "yue": "北棉蘭老",
+      "th": "เขตฮีลากังมินดาเนา",
+      "mk": "Северен Минданао"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "SOCCSKSARGEN",
       "cs": "Soccsksargen",
@@ -4270,10 +5284,29 @@
       "ta": "சொக்ஸ்சர்ஜென்",
       "uk": "Сокксксарген",
       "ur": "سوکسارگین",
-      "vi": "SOCCSKSARGEN"
-    }
+      "vi": "SOCCSKSARGEN",
+      "ceb": "SOCCSKSARGEN",
+      "yue_Hans": "中棉兰老",
+      "ccp": "𑄥𑄧𑄌𑄴𑄥𑄢𑄴𑄉𑄬𑄚𑄴",
+      "eu": "Soccsksargen",
+      "yue": "中棉蘭老",
+      "th": "เขตโซกซาร์เจน",
+      "mk": "Сокксксархен"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Caraga",
       "de": "Caraga",
@@ -4294,10 +5327,31 @@
       "ta": "கரகா",
       "uk": "Карага",
       "ur": "کاراگا",
-      "vi": "Caraga"
-    }
+      "vi": "Caraga",
+      "ceb": "Caraga",
+      "zh": "卡拉加区",
+      "yue_Hans": "卡拉加",
+      "ccp": "𑄥𑄢𑄴𑄉",
+      "eu": "Caraga",
+      "yue": "卡拉加",
+      "nb": "Caraga",
+      "th": "เขตคารากา",
+      "mk": "Карага"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Regió Administrativa de la Cordillera",
       "de": "Cordillera Administrative Region",
@@ -4319,10 +5373,31 @@
       "ta": "கோர்டில்லெரா நிர்வாகப் பிராந்தியம்",
       "uk": "Кордильєрський адміністративний регіон",
       "ur": "کوردیلیرا انتظامی علاقہ",
-      "vi": "Vùng Hành chính Cordillera"
-    }
+      "vi": "Vùng Hành chính Cordillera",
+      "ceb": "Administratibong Rehiyon sa Cordillera",
+      "zh": "科迪勒拉行政區",
+      "yue_Hans": "科迪勒拉",
+      "ccp": "𑄇𑄧𑄢𑄴𑄓𑄨𑄣𑄬𑄢 𑄃𑄬𑄖𑄴𑄟𑄨𑄚𑄨𑄌𑄴𑄑𑄳𑄢𑄑𑄨𑄛𑄴",
+      "eu": "Cordillerako Eskualde Administratiboa",
+      "yue": "科迪勒拉",
+      "nb": "Cordillera Administrative Region",
+      "th": "เขตบริหารคอร์ดิลเยรา",
+      "mk": "Кордилјера"
+    },
+    "comments": null
   },
   "40": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "CALABARZON",
       "de": "Calabarzon",
@@ -4347,8 +5422,17 @@
       "tr": "CALABARZON",
       "uk": "Калабарсон",
       "ur": "کالابارزون",
-      "vi": "CALABARZON"
-    }
+      "vi": "CALABARZON",
+      "ceb": "CALABARZON",
+      "zh": "卡拉巴松",
+      "yue_Hans": "卡拉巴松",
+      "ccp": "𑄇𑄣𑄝𑄢𑄴𑄎𑄧𑄚𑄴",
+      "eu": "Calabarzon",
+      "yue": "卡拉巴鬆",
+      "th": "เขตคาลาบาร์โซน",
+      "mk": "Калабарзон"
+    },
+    "comments": null
   }
 }
 

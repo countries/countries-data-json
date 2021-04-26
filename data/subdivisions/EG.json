@@ -1,5 +1,7 @@
 {
   "ALX": {
+    "name": "Al Iskandariyah",
+    "code": null,
     "unofficial_names": [
       "El Iskandariya",
       "al-Iskandariyah",
@@ -8,6 +10,14 @@
       "Alexandrie",
       "Alexandria"
     ],
+    "geo": {
+      "latitude": 31.2000924,
+      "longitude": 29.9187387,
+      "min_latitude": 31.1173177,
+      "min_longitude": 29.8233701,
+      "max_latitude": 31.330904,
+      "max_longitude": 30.0864016
+    },
     "translations": {
       "en": "Alexandria",
       "ar": "الإسكندرية",
@@ -53,24 +63,32 @@
       "uk": "Александрія",
       "ur": "محافظہ اسکندریہ",
       "vi": "Alexandria",
-      "zh": "亞歷山大省"
+      "zh": "亞歷山大省",
+      "lv": "Aleksandrijas muhāfaza",
+      "sr_Latn": "Aleksandrija",
+      "ccp": "𑄃𑄣𑄬𑄇𑄴𑄎𑄚𑄴𑄓𑄳𑄢𑄨𑄠",
+      "hu": "Alexandria kormányzóság",
+      "he": "מחוז אלכסנדריה",
+      "bs": "Aleksandrija"
     },
-    "geo": {
-      "latitude": 31.2000924,
-      "longitude": 29.9187387,
-      "min_latitude": 31.1173177,
-      "min_longitude": 29.8233701,
-      "max_latitude": 31.330904,
-      "max_longitude": 30.0864016
-    },
-    "name": "Al Iskandariyah"
+    "comments": null
   },
   "ASN": {
+    "name": "Aswan",
+    "code": null,
     "unofficial_names": [
       "Aswān",
       "Assuan",
       "Assouan"
     ],
+    "geo": {
+      "latitude": 24.088938,
+      "longitude": 32.8998293,
+      "min_latitude": 24.0714761,
+      "min_longitude": 32.8794385,
+      "max_latitude": 24.1131931,
+      "max_longitude": 32.9207739
+    },
     "translations": {
       "en": "Aswan",
       "ar": "محافظة أسوان",
@@ -105,19 +123,19 @@
       "tr": "Asvan",
       "uk": "Асуан",
       "ur": "محافظہ اسوان",
-      "vi": "Aswan"
+      "vi": "Aswan",
+      "sr_Latn": "Asuan",
+      "zh": "阿斯旺省",
+      "ccp": "𑄃𑄥𑄮𑄠𑄚𑄴",
+      "hy": "Ասուան",
+      "hu": "Asszuán kormányzóság",
+      "bs": "Asuan"
     },
-    "geo": {
-      "latitude": 24.088938,
-      "longitude": 32.8998293,
-      "min_latitude": 24.0714761,
-      "min_longitude": 32.8794385,
-      "max_latitude": 24.1131931,
-      "max_longitude": 32.9207739
-    },
-    "name": "Aswan"
+    "comments": null
   },
   "AST": {
+    "name": "Asyut",
+    "code": null,
     "unofficial_names": [
       "Asiut",
       "Assyût",
@@ -126,6 +144,14 @@
       "Assiut",
       "Assiout"
     ],
+    "geo": {
+      "latitude": 27.1783117,
+      "longitude": 31.1859257,
+      "min_latitude": 27.1580509,
+      "min_longitude": 31.1566813,
+      "max_latitude": 27.1960162,
+      "max_longitude": 31.2121548
+    },
     "translations": {
       "en": "Asyut",
       "ar": "أسيوط",
@@ -169,22 +195,32 @@
       "tr": "Asyut",
       "uk": "Асьют",
       "ur": "محافظہ اسیوط",
-      "vi": "Tỉnh Asyut"
+      "vi": "Tỉnh Asyut",
+      "lv": "Asjūtas muhāfaza",
+      "sr_Latn": "Asjut",
+      "zh": "艾斯尤特省",
+      "ccp": "𑄃𑄥𑄭𑄠𑄪𑄖𑄴",
+      "hy": "Ասյութ",
+      "hu": "Aszjút kormányzóság",
+      "he": "מחוז אסיוט",
+      "bs": "Asyut"
     },
-    "geo": {
-      "latitude": 27.1783117,
-      "longitude": 31.1859257,
-      "min_latitude": 27.1580509,
-      "min_longitude": 31.1566813,
-      "max_latitude": 27.1960162,
-      "max_longitude": 31.2121548
-    },
-    "name": "Asyut"
+    "comments": null
   },
   "BA": {
+    "name": "Al Bahr al Ahmar",
+    "code": null,
     "unofficial_names": [
       "El Bahr el Ahmar"
     ],
+    "geo": {
+      "latitude": 25.1076838,
+      "longitude": 33.7964613,
+      "min_latitude": 21.9996377,
+      "min_longitude": 30.741445,
+      "max_latitude": 29.3923378,
+      "max_longitude": 36.8945141
+    },
     "translations": {
       "en": "Red Sea",
       "ar": "البحر الأحمر",
@@ -229,23 +265,32 @@
       "tr": "Kızıldeniz",
       "uk": "Червоне Море",
       "ur": "محافظہ بحر احمر",
-      "vi": "Biển Đỏ"
+      "vi": "Biển Đỏ",
+      "lv": "Sarkanās jūras muhāfaza",
+      "ceb": "Red Sea Governorate",
+      "sr_Latn": "Crveno more",
+      "zh": "红海省",
+      "ccp": "𑄢𑄬𑄖𑄴-𑄥𑄨",
+      "he": "הים האדום (מחוז)",
+      "bs": "Crveno more"
     },
-    "geo": {
-      "latitude": 25.1076838,
-      "longitude": 33.7964613,
-      "min_latitude": 21.9996377,
-      "min_longitude": 30.741445,
-      "max_latitude": 29.3923378,
-      "max_longitude": 36.8945141
-    },
-    "name": "Al Bahr al Ahmar"
+    "comments": null
   },
   "BH": {
+    "name": "Al Buhayrah",
+    "code": null,
     "unofficial_names": [
       "El Buhayra",
       "al-Buh̨ayrah"
     ],
+    "geo": {
+      "latitude": 30.8480986,
+      "longitude": 30.3435506,
+      "min_latitude": 29.9339286,
+      "min_longitude": 29.5338788,
+      "max_latitude": 31.4683007,
+      "max_longitude": 30.8513688
+    },
     "translations": {
       "en": "Beheira",
       "ar": "محافظة البحيرة",
@@ -290,23 +335,34 @@
       "tr": "Buheyre",
       "uk": "Бухейра",
       "ur": "محافظہ بحیرہ",
-      "vi": "Tỉnh Beheira"
+      "vi": "Tỉnh Beheira",
+      "lv": "Buheirātas muhāfaza",
+      "ceb": "Beheira Governorate",
+      "sr_Latn": "Buhejra",
+      "zh": "布海拉省",
+      "ccp": "𑄝𑄬𑄦𑄬𑄃𑄨𑄢",
+      "hy": "Բուհեյրա",
+      "he": "מחוז אל-בחירה",
+      "hr": "Beheira",
+      "bs": "Beheira"
     },
-    "geo": {
-      "latitude": 30.8480986,
-      "longitude": 30.3435506,
-      "min_latitude": 29.9339286,
-      "min_longitude": 29.5338788,
-      "max_latitude": 31.4683007,
-      "max_longitude": 30.8513688
-    },
-    "name": "Al Buhayrah"
+    "comments": null
   },
   "BNS": {
+    "name": "Bani Suwayf",
+    "code": null,
     "unofficial_names": [
       "Bani Suwayf",
       "Banī Suwayf"
     ],
+    "geo": {
+      "latitude": 29.0661274,
+      "longitude": 31.0993845,
+      "min_latitude": 29.0058847,
+      "min_longitude": 31.0616271,
+      "max_latitude": 29.0958994,
+      "max_longitude": 31.1423418
+    },
     "translations": {
       "en": "Beni Suef",
       "ar": "بني سويف",
@@ -349,19 +405,21 @@
       "tr": "Beni Suveyf",
       "uk": "Бені-Суейф",
       "ur": "محافظہ بنی سیوف",
-      "vi": "Tỉnh Beni Suef"
+      "vi": "Tỉnh Beni Suef",
+      "lv": "Benī Sueifas muhāfaza",
+      "sr_Latn": "Beni Suejf",
+      "zh": "贝尼苏韦夫省",
+      "ccp": "𑄝𑄬𑄚𑄨 𑄥𑄪𑄠𑄬𑄛𑄴",
+      "hy": "Բենի Սուեյֆ",
+      "he": "מחוז בני סויף",
+      "ml": "ബനീ സുവൈഫ്",
+      "bs": "Beni Suef"
     },
-    "geo": {
-      "latitude": 29.0661274,
-      "longitude": 31.0993845,
-      "min_latitude": 29.0058847,
-      "min_longitude": 31.0616271,
-      "max_latitude": 29.0958994,
-      "max_longitude": 31.1423418
-    },
-    "name": "Bani Suwayf"
+    "comments": null
   },
   "C": {
+    "name": "Al Qahirah",
+    "code": null,
     "unofficial_names": [
       "El Qahira",
       "Le Caire-sur-Mer",
@@ -370,6 +428,14 @@
       "Caire",
       "Cairo"
     ],
+    "geo": {
+      "latitude": 30.0444196,
+      "longitude": 31.2357116,
+      "min_latitude": 30.0083745,
+      "min_longitude": 31.2149558,
+      "max_latitude": 30.1106024,
+      "max_longitude": 31.3019729
+    },
     "translations": {
       "en": "Cairo",
       "ar": "محافظة القاهرة",
@@ -416,24 +482,30 @@
       "tr": "Kahire",
       "uk": "Каїр",
       "ur": "محافظہ قاہرہ",
-      "vi": "Cairo"
+      "vi": "Cairo",
+      "sr_Latn": "Kairo",
+      "zh": "开罗省",
+      "ccp": "𑄇𑄭𑄢𑄮",
+      "bs": "Kairo"
     },
-    "geo": {
-      "latitude": 30.0444196,
-      "longitude": 31.2357116,
-      "min_latitude": 30.0083745,
-      "min_longitude": 31.2149558,
-      "max_latitude": 30.1106024,
-      "max_longitude": 31.3019729
-    },
-    "name": "Al Qahirah"
+    "comments": null
   },
   "DK": {
+    "name": "Ad Daqahliyah",
+    "code": null,
     "unofficial_names": [
       "Dakahlia",
       "El Daqahliya",
       "ad-Daqahliyah"
     ],
+    "geo": {
+      "latitude": 31.0832017,
+      "longitude": 31.4913182,
+      "min_latitude": 30.5769786,
+      "min_longitude": 31.2086064,
+      "max_latitude": 31.5452581,
+      "max_longitude": 32.0835976
+    },
     "translations": {
       "en": "Dakahlia",
       "ar": "الدقهلية",
@@ -476,25 +548,33 @@
       "tr": "Dekahliye",
       "uk": "Дакахлія",
       "ur": "محافظہ دقہلیہ",
-      "vi": "Tỉnh Dakahlia"
+      "vi": "Tỉnh Dakahlia",
+      "lv": "Dekahlījas muhāfaza",
+      "sr_Latn": "Dakahlija",
+      "zh": "代蓋赫利耶省",
+      "ccp": "𑄓𑄇𑄦𑄴𑄣𑄨𑄠",
+      "hy": "Դակահլիա",
+      "bs": "Dakahlia"
     },
-    "geo": {
-      "latitude": 31.0832017,
-      "longitude": 31.4913182,
-      "min_latitude": 30.5769786,
-      "min_longitude": 31.2086064,
-      "max_latitude": 31.5452581,
-      "max_longitude": 32.0835976
-    },
-    "name": "Ad Daqahliyah"
+    "comments": null
   },
   "DT": {
+    "name": "Dumyat",
+    "code": null,
     "unofficial_names": [
       "Damiat",
       "Dumyat",
       "Dumyāţ",
       "Damiette"
     ],
+    "geo": {
+      "latitude": 31.4175388,
+      "longitude": 31.81444339999999,
+      "min_latitude": 31.3934849,
+      "min_longitude": 31.7816078,
+      "max_latitude": 31.4417822,
+      "max_longitude": 31.8280067
+    },
     "translations": {
       "en": "Damietta",
       "ar": "محافظة دمياط",
@@ -537,24 +617,31 @@
       "tr": "Dimyat",
       "uk": "Думʼят",
       "ur": "محافظہ دمیاط",
-      "vi": "Tỉnh Damietta"
+      "vi": "Tỉnh Damietta",
+      "lv": "Dumjātas muhāfaza",
+      "sr_Latn": "Damijeta",
+      "zh": "杜姆亞特省",
+      "ccp": "𑄓𑄟𑄭𑄠𑄬𑄑",
+      "bs": "Damietta"
     },
-    "geo": {
-      "latitude": 31.4175388,
-      "longitude": 31.81444339999999,
-      "min_latitude": 31.3934849,
-      "min_longitude": 31.7816078,
-      "max_latitude": 31.4417822,
-      "max_longitude": 31.8280067
-    },
-    "name": "Dumyat"
+    "comments": null
   },
   "FYM": {
+    "name": "Al Fayyum",
+    "code": null,
     "unofficial_names": [
       "El Faiyūm",
       "al-Fayyum",
       "al-Fayyūm"
     ],
+    "geo": {
+      "latitude": 29.3084021,
+      "longitude": 30.8428497,
+      "min_latitude": 29.2918259,
+      "min_longitude": 30.8206875,
+      "max_latitude": 29.3299673,
+      "max_longitude": 30.86388549999999
+    },
     "translations": {
       "en": "Faiyum",
       "ar": "محافظة الفيوم",
@@ -588,25 +675,31 @@
       "sw": "Mkoa wa Faiyum",
       "tr": "Feyyum",
       "uk": "Ель-Файюм",
-      "ur": "محافظہ فیوم"
+      "ur": "محافظہ فیوم",
+      "sr_Latn": "Fajum",
+      "zh": "法尤姆省",
+      "ccp": "𑄜𑄭𑄠𑄪𑄟𑄴",
+      "bs": "Faiyum"
     },
-    "geo": {
-      "latitude": 29.3084021,
-      "longitude": 30.8428497,
-      "min_latitude": 29.2918259,
-      "min_longitude": 30.8206875,
-      "max_latitude": 29.3299673,
-      "max_longitude": 30.86388549999999
-    },
-    "name": "Al Fayyum"
+    "comments": null
   },
   "GH": {
+    "name": "Al Gharbiyah",
+    "code": null,
     "unofficial_names": [
       "El Gharbiya",
       "Gharbiya",
       "al-Garbiyah",
       "al-Ġarbīyah"
     ],
+    "geo": {
+      "latitude": 30.8753556,
+      "longitude": 31.03351,
+      "min_latitude": 30.5747929,
+      "min_longitude": 30.7465372,
+      "max_latitude": 31.1583532,
+      "max_longitude": 31.3105264
+    },
     "translations": {
       "en": "Gharbia",
       "ar": "الغربية",
@@ -649,19 +742,20 @@
       "tr": "Garbiya",
       "uk": "Гарбія",
       "ur": "محافظہ غربیہ",
-      "vi": "Tỉnh Gharbia"
+      "vi": "Tỉnh Gharbia",
+      "lv": "Garbijas muhāfaza",
+      "cy": "Gharbia Governorate",
+      "sr_Latn": "Garbija",
+      "zh": "西部省",
+      "ccp": "𑄊𑄢𑄴𑄝𑄨𑄠",
+      "he": "מחוז אל-ע׳רביה",
+      "bs": "Gharbia"
     },
-    "geo": {
-      "latitude": 30.8753556,
-      "longitude": 31.03351,
-      "min_latitude": 30.5747929,
-      "min_longitude": 30.7465372,
-      "max_latitude": 31.1583532,
-      "max_longitude": 31.3105264
-    },
-    "name": "Al Gharbiyah"
+    "comments": null
   },
   "GZ": {
+    "name": "Al Jizah",
+    "code": null,
     "unofficial_names": [
       "El Giza",
       "Gise",
@@ -673,6 +767,14 @@
       "Giseh",
       "Gîza"
     ],
+    "geo": {
+      "latitude": 30.0130557,
+      "longitude": 31.2088526,
+      "min_latitude": 29.9621703,
+      "min_longitude": 31.1472406,
+      "max_latitude": 30.0714063,
+      "max_longitude": 31.2320457
+    },
     "translations": {
       "en": "Giza",
       "ar": "محافظة الجيزة",
@@ -718,25 +820,33 @@
       "tr": "Gize",
       "uk": "Гіза",
       "ur": "محافظہ جیزہ",
-      "vi": "Giza"
+      "vi": "Giza",
+      "lv": "Gīzas muhāfaza",
+      "sr_Latn": "Giza",
+      "zh": "吉薩省",
+      "ccp": "𑄎𑄨𑄎",
+      "hy": "Ալ-Գիզա",
+      "bs": "Giza"
     },
-    "geo": {
-      "latitude": 30.0130557,
-      "longitude": 31.2088526,
-      "min_latitude": 29.9621703,
-      "min_longitude": 31.1472406,
-      "max_latitude": 30.0714063,
-      "max_longitude": 31.2320457
-    },
-    "name": "Al Jizah"
+    "comments": null
   },
   "IS": {
+    "name": "Al Ismā`īlīyah",
+    "code": null,
     "unofficial_names": [
       "El Ismailia",
       "Ismaʿiliya",
       "al-Ismailiyah",
       "al-Ismāīlīyah"
     ],
+    "geo": {
+      "latitude": 30.5830934,
+      "longitude": 32.2653887,
+      "min_latitude": 30.2436079,
+      "min_longitude": 31.6954456,
+      "max_latitude": 31.0059587,
+      "max_longitude": 32.7520118
+    },
     "translations": {
       "en": "Ismailia",
       "ar": "الإسماعيلية",
@@ -779,24 +889,33 @@
       "tr": "İsmailiye",
       "uk": "Ісмаїлія",
       "ur": "محافظہ اسماعیلیہ",
-      "vi": "Tỉnh Ismailia"
+      "vi": "Tỉnh Ismailia",
+      "lv": "Ismaīlījas muhāfaza",
+      "ceb": "Ismailia Governorate",
+      "sr_Latn": "Ismailija",
+      "zh": "伊斯梅利亚省",
+      "ccp": "𑄃𑄨𑄌𑄴𑄟𑄭𑄣𑄨𑄠",
+      "he": "מחוז אל-אסמאעיליה",
+      "bs": "Ismailija"
     },
-    "geo": {
-      "latitude": 30.5830934,
-      "longitude": 32.2653887,
-      "min_latitude": 30.2436079,
-      "min_longitude": 31.6954456,
-      "max_latitude": 31.0059587,
-      "max_longitude": 32.7520118
-    },
-    "name": "Al Ismā`īlīyah"
+    "comments": null
   },
   "JS": {
+    "name": "Janub Sina'",
+    "code": null,
     "unofficial_names": [
       "Sina al-Janūbīyah",
       "Sinai al-Janubiyah",
       "South Sinai"
     ],
+    "geo": {
+      "latitude": 29.3101828,
+      "longitude": 34.1531947,
+      "min_latitude": 27.7240277,
+      "min_longitude": 32.6094505,
+      "max_latitude": 29.9494465,
+      "max_longitude": 34.9076691
+    },
     "translations": {
       "en": "South Sinai",
       "ar": "جنوب سيناء",
@@ -842,23 +961,32 @@
       "tr": "Güney Sina",
       "uk": "Південний Синай",
       "ur": "محافظہ جنوبی سینا",
-      "vi": "Tỉnh Nam Sinai"
+      "vi": "Tỉnh Nam Sinai",
+      "lv": "Dienvidsīnāja muhāfaza",
+      "ceb": "South Sinai Governorate",
+      "sr_Latn": "Južni Sinaj",
+      "zh": "南西奈省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄥𑄨𑄚𑄭",
+      "bs": "Južni Sinaj",
+      "mk": "Јужен Синај"
     },
-    "geo": {
-      "latitude": 29.3101828,
-      "longitude": 34.1531947,
-      "min_latitude": 27.7240277,
-      "min_longitude": 32.6094505,
-      "max_latitude": 29.9494465,
-      "max_longitude": 34.9076691
-    },
-    "name": "Janub Sina'"
+    "comments": null
   },
   "KB": {
+    "name": "Al Qalyubiyah",
+    "code": null,
     "unofficial_names": [
       "El Qalubiya",
       "al-Qalyubiyah"
     ],
+    "geo": {
+      "latitude": 30.3292368,
+      "longitude": 31.2168466,
+      "min_latitude": 30.1040552,
+      "min_longitude": 31.0542669,
+      "max_latitude": 30.6076595,
+      "max_longitude": 31.4157302
+    },
     "translations": {
       "en": "Qalyubia",
       "ar": "محافظة القليوبية",
@@ -900,23 +1028,31 @@
       "tr": "Kalyubiye",
       "uk": "Кальюбія",
       "ur": "محافظہ قلیوبیہ",
-      "vi": "Tỉnh Qalyubia"
+      "vi": "Tỉnh Qalyubia",
+      "lv": "Kaljūbījas muhāfaza",
+      "sr_Latn": "Kaljubija",
+      "zh": "蓋盧比尤省",
+      "ccp": "𑄇𑄧𑄠𑄣𑄭𑄠𑄪𑄝𑄨𑄠",
+      "he": "מחוז אל-קליוביה",
+      "bs": "Qalyubia"
     },
-    "geo": {
-      "latitude": 30.3292368,
-      "longitude": 31.2168466,
-      "min_latitude": 30.1040552,
-      "min_longitude": 31.0542669,
-      "max_latitude": 30.6076595,
-      "max_longitude": 31.4157302
-    },
-    "name": "Al Qalyubiyah"
+    "comments": null
   },
   "KFS": {
+    "name": "Kafr ash Shaykh",
+    "code": null,
     "unofficial_names": [
       "Kafr-ash-Shaykh",
       "Kafr-aš-Šayẖ"
     ],
+    "geo": {
+      "latitude": 31.3085444,
+      "longitude": 30.8039474,
+      "min_latitude": 30.9942465,
+      "min_longitude": 30.3653976,
+      "max_latitude": 31.6016217,
+      "max_longitude": 31.3122298
+    },
     "translations": {
       "en": "Kafr el-Sheikh",
       "ar": "محافظة كفر الشيخ",
@@ -958,23 +1094,32 @@
       "tr": "Kafrü’ş-Şeyh",
       "uk": "Кафр-еш-Шейх",
       "ur": "محافظہ کفر الشیخ",
-      "vi": "Tỉnh Kafr el-Sheikh"
+      "vi": "Tỉnh Kafr el-Sheikh",
+      "lv": "Kefr eš Šeihas muhāfaza",
+      "ceb": "Kafr ash Shaykh",
+      "sr_Latn": "Kafr eš Šejh",
+      "zh": "謝赫村省",
+      "ccp": "𑄇𑄛𑄴𑄢 𑄃𑄬𑄣𑄴-𑄥𑄬𑄇𑄴",
+      "he": "מחוז כפר א שיח׳",
+      "bs": "Kafr el-Sheikh"
     },
-    "geo": {
-      "latitude": 31.3085444,
-      "longitude": 30.8039474,
-      "min_latitude": 30.9942465,
-      "min_longitude": 30.3653976,
-      "max_latitude": 31.6016217,
-      "max_longitude": 31.3122298
-    },
-    "name": "Kafr ash Shaykh"
+    "comments": null
   },
   "KN": {
+    "name": "Qina",
+    "code": null,
     "unofficial_names": [
       "Qina",
       "Qinā"
     ],
+    "geo": {
+      "latitude": 26.155061,
+      "longitude": 32.7160121,
+      "min_latitude": 26.1320478,
+      "min_longitude": 32.6828284,
+      "max_latitude": 26.2104418,
+      "max_longitude": 32.7601361
+    },
     "translations": {
       "en": "Qena",
       "ar": "محافظة قنا",
@@ -1018,25 +1163,33 @@
       "tr": "Kina",
       "uk": "Кена",
       "ur": "محافظہ قنا",
-      "vi": "Tỉnh Qena"
+      "vi": "Tỉnh Qena",
+      "lv": "Kinas muhāfaza",
+      "sr_Latn": "Kena",
+      "zh": "基納省",
+      "ccp": "𑄇𑄪𑄠𑄬𑄚",
+      "he": "מחוז קינא",
+      "bs": "Qena"
     },
-    "geo": {
-      "latitude": 26.155061,
-      "longitude": 32.7160121,
-      "min_latitude": 26.1320478,
-      "min_longitude": 32.6828284,
-      "max_latitude": 26.2104418,
-      "max_longitude": 32.7601361
-    },
-    "name": "Qina"
+    "comments": null
   },
   "LX": {
+    "name": "al-Uqsur",
+    "code": null,
     "unofficial_names": [
       "al-Uqsur",
       "al-Uqşur",
       "Luxor",
       "Louxor"
     ],
+    "geo": {
+      "latitude": 25.6872431,
+      "longitude": 32.6396357,
+      "min_latitude": 25.6540777,
+      "min_longitude": 32.6225071,
+      "max_latitude": 25.7358046,
+      "max_longitude": 32.6964268
+    },
     "translations": {
       "en": "Luxor",
       "ar": "محافظة الأقصر",
@@ -1069,25 +1222,33 @@
       "sw": "Mkoa wa Luxor",
       "tr": "Luksor",
       "uk": "Луксор",
-      "ur": "محافظہ الاقصر"
+      "ur": "محافظہ الاقصر",
+      "sr_Latn": "Luksor",
+      "zh": "盧克索省",
+      "ccp": "𑄣𑄇𑄴𑄎𑄮𑄢𑄴",
+      "hy": "Լուքսոր",
+      "he": "מחוז לוקסור",
+      "bs": "Luxor"
     },
-    "geo": {
-      "latitude": 25.6872431,
-      "longitude": 32.6396357,
-      "min_latitude": 25.6540777,
-      "min_longitude": 32.6225071,
-      "max_latitude": 25.7358046,
-      "max_longitude": 32.6964268
-    },
-    "name": "al-Uqsur"
+    "comments": null
   },
   "MN": {
+    "name": "Al Minya",
+    "code": null,
     "unofficial_names": [
       "El Minya",
       "Minia",
       "al-Minya",
       "al-Minyā"
     ],
+    "geo": {
+      "latitude": 28.0870967,
+      "longitude": 30.7618397,
+      "min_latitude": 28.058606,
+      "min_longitude": 30.7170696,
+      "max_latitude": 28.1318404,
+      "max_longitude": 30.7843728
+    },
     "translations": {
       "en": "Minya",
       "ar": "المنيا",
@@ -1132,25 +1293,33 @@
       "tr": "Minye",
       "uk": "Мінья (губернаторство)",
       "ur": "محافظہ منیا",
-      "vi": "Tỉnh Minya"
+      "vi": "Tỉnh Minya",
+      "lv": "Minjas muhāfaza",
+      "sr_Latn": "Minja",
+      "zh": "明亞省",
+      "ccp": "𑄟𑄨𑄚𑄨𑄠",
+      "ky": "Минья",
+      "bs": "Minya"
     },
-    "geo": {
-      "latitude": 28.0870967,
-      "longitude": 30.7618397,
-      "min_latitude": 28.058606,
-      "min_longitude": 30.7170696,
-      "max_latitude": 28.1318404,
-      "max_longitude": 30.7843728
-    },
-    "name": "Al Minya"
+    "comments": null
   },
   "MNF": {
+    "name": "Al Minufiyah",
+    "code": null,
     "unofficial_names": [
       "El Minufiya",
       "Menufiya",
       "al-Minufiyah",
       "al-Minūfīyah"
     ],
+    "geo": {
+      "latitude": 30.5972455,
+      "longitude": 30.9876321,
+      "min_latitude": 30.1829009,
+      "min_longitude": 30.4745556,
+      "max_latitude": 30.7480879,
+      "max_longitude": 31.2559327
+    },
     "translations": {
       "en": "Monufia",
       "ar": "محافظة المنوفية",
@@ -1193,23 +1362,32 @@
       "tr": "Minufiye",
       "uk": "Мінуфія",
       "ur": "محافظہ منوفیہ",
-      "vi": "Tỉnh Monufia"
+      "vi": "Tỉnh Monufia",
+      "lv": "Minūfījas muhāfaza",
+      "sr_Latn": "Minufija",
+      "zh": "米努夫省",
+      "ccp": "𑄟𑄧𑄚𑄪𑄜𑄨𑄠",
+      "hy": "Մինուֆիա",
+      "be": "Мінуфія",
+      "bs": "Monufia"
     },
-    "geo": {
-      "latitude": 30.5972455,
-      "longitude": 30.9876321,
-      "min_latitude": 30.1829009,
-      "min_longitude": 30.4745556,
-      "max_latitude": 30.7480879,
-      "max_longitude": 31.2559327
-    },
-    "name": "Al Minufiyah"
+    "comments": null
   },
   "MT": {
+    "name": "Matrūh",
+    "code": null,
     "unofficial_names": [
       "Matrah",
       "Matrūh"
     ],
+    "geo": {
+      "latitude": 31.3543445,
+      "longitude": 27.2373159,
+      "min_latitude": 31.2970958,
+      "min_longitude": 27.156232,
+      "max_latitude": 31.3761768,
+      "max_longitude": 27.3544331
+    },
     "translations": {
       "en": "Matrouh",
       "ar": "محافظة مطروح",
@@ -1252,23 +1430,33 @@
       "tr": "Matruh",
       "uk": "Матрух",
       "ur": "محافظہ مطروح",
-      "vi": "Tỉnh Matrouh"
+      "vi": "Tỉnh Matrouh",
+      "lv": "Matrūhas muhāfaza",
+      "sr_Latn": "Matruh",
+      "zh": "馬特魯省",
+      "ccp": "𑄟𑄖𑄳𑄢𑄮𑄦𑄴",
+      "he": "מחוז מטרוח",
+      "ml": "മത്രോഹ് ഗവർണ്ണറേറ്റ്",
+      "bs": "Matrouh",
+      "mk": "Матрух"
     },
-    "geo": {
-      "latitude": 31.3543445,
-      "longitude": 27.2373159,
-      "min_latitude": 31.2970958,
-      "min_longitude": 27.156232,
-      "max_latitude": 31.3761768,
-      "max_longitude": 27.3544331
-    },
-    "name": "Matrūh"
+    "comments": null
   },
   "PTS": {
+    "name": "Būr Sa`īd",
+    "code": null,
     "unofficial_names": [
       "Bur Said",
       "Būr Saʿīd"
     ],
+    "geo": {
+      "latitude": 31.2652893,
+      "longitude": 32.3018661,
+      "min_latitude": 31.1988856,
+      "min_longitude": 32.2490287,
+      "max_latitude": 31.2784705,
+      "max_longitude": 32.3213102
+    },
     "translations": {
       "en": "Port Said",
       "ar": "بورسعيد",
@@ -1310,19 +1498,19 @@
       "tr": "Port Said",
       "uk": "Порт-Саїд",
       "ur": "محافظہ پورٹ سعید",
-      "vi": "Tỉnh Port Said"
+      "vi": "Tỉnh Port Said",
+      "lv": "Portsaīdas muhāfaza",
+      "sr_Latn": "Port Said",
+      "zh": "塞得港省",
+      "ccp": "𑄛𑄧𑄢𑄳𑄑𑄴 𑄥𑄬𑄃𑄨𑄖𑄴",
+      "he": "מחוז פורט סעיד",
+      "bs": "Port Said"
     },
-    "geo": {
-      "latitude": 31.2652893,
-      "longitude": 32.3018661,
-      "min_latitude": 31.1988856,
-      "min_longitude": 32.2490287,
-      "max_latitude": 31.2784705,
-      "max_longitude": 32.3213102
-    },
-    "name": "Būr Sa`īd"
+    "comments": null
   },
   "SHG": {
+    "name": "Suhaj",
+    "code": null,
     "unofficial_names": [
       "Sawhaj",
       "Suhag",
@@ -1330,6 +1518,14 @@
       "Sūhaj",
       "Sawhāj"
     ],
+    "geo": {
+      "latitude": 26.501348,
+      "longitude": 31.76513619999999,
+      "min_latitude": 26.1518194,
+      "min_longitude": 31.3415418,
+      "max_latitude": 26.9343956,
+      "max_longitude": 32.1707085
+    },
     "translations": {
       "en": "Sohag",
       "ar": "محافظة سوهاج",
@@ -1373,23 +1569,31 @@
       "tr": "Sevhac",
       "uk": "Согаґ",
       "ur": "محافظہ سوہاج",
-      "vi": "Tỉnh Sohag"
+      "vi": "Tỉnh Sohag",
+      "lv": "Sauhāgas muhāfaza",
+      "sr_Latn": "Sohag",
+      "zh": "索哈傑省",
+      "ccp": "𑄥𑄮𑄦𑄇𑄴",
+      "he": "מחוז סוהאג",
+      "bs": "Sohag"
     },
-    "geo": {
-      "latitude": 26.501348,
-      "longitude": 31.76513619999999,
-      "min_latitude": 26.1518194,
-      "min_longitude": 31.3415418,
-      "max_latitude": 26.9343956,
-      "max_longitude": 32.1707085
-    },
-    "name": "Suhaj"
+    "comments": null
   },
   "SHR": {
+    "name": "Ash Sharqiyah",
+    "code": null,
     "unofficial_names": [
       "ash-Sharqiyah",
       "aš-Šarqīyah"
     ],
+    "geo": {
+      "latitude": 30.7326622,
+      "longitude": 31.7195459,
+      "min_latitude": 30.2886886,
+      "min_longitude": 31.2607672,
+      "max_latitude": 31.168795,
+      "max_longitude": 32.1782565
+    },
     "translations": {
       "en": "Al Sharqia",
       "ar": "الشرقية",
@@ -1432,25 +1636,33 @@
       "tr": "Şarkiye",
       "uk": "Шаркія",
       "ur": "محافظہ الشرقیہ",
-      "vi": "Tỉnh Al Sharqia"
+      "vi": "Tỉnh Al Sharqia",
+      "lv": "Šerkījas muhāfaza",
+      "sr_Latn": "Šarkija",
+      "zh": "東部省",
+      "ccp": "𑄃𑄣𑄴 𑄥𑄢𑄴𑄇𑄭𑄪𑄠",
+      "hy": "Շարկիա",
+      "bs": "Sharqia"
     },
-    "geo": {
-      "latitude": 30.7326622,
-      "longitude": 31.7195459,
-      "min_latitude": 30.2886886,
-      "min_longitude": 31.2607672,
-      "max_latitude": 31.168795,
-      "max_longitude": 32.1782565
-    },
-    "name": "Ash Sharqiyah"
+    "comments": null
   },
   "SIN": {
+    "name": "Shamal Sina'",
+    "code": null,
     "unofficial_names": [
       "Shamal Sina",
       "Sina aš-Šamālīyah",
       "Sinai ash-Shamaliyah",
       "Šamāl Sīna"
     ],
+    "geo": {
+      "latitude": 30.6084723,
+      "longitude": 33.617577,
+      "min_latitude": 29.5932723,
+      "min_longitude": 32.554564,
+      "max_latitude": 31.3314092,
+      "max_longitude": 34.8774622
+    },
     "translations": {
       "en": "North Sinai",
       "ar": "شمال سيناء",
@@ -1495,23 +1707,31 @@
       "tr": "Kuzey Sina",
       "uk": "Північний Синай",
       "ur": "محافظہ شمالی سینا",
-      "vi": "Tỉnh Bắc Sinai"
+      "vi": "Tỉnh Bắc Sinai",
+      "lv": "Ziemeļu Sinajas muhāfaza",
+      "sr_Latn": "Severni Sinaj",
+      "zh": "北西奈省",
+      "ccp": "𑄃𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄨𑄚𑄭",
+      "bs": "Sjeverni Sinaj",
+      "mk": "Северен Синај"
     },
-    "geo": {
-      "latitude": 30.6084723,
-      "longitude": 33.617577,
-      "min_latitude": 29.5932723,
-      "min_longitude": 32.554564,
-      "max_latitude": 31.3314092,
-      "max_longitude": 34.8774622
-    },
-    "name": "Shamal Sina'"
+    "comments": null
   },
   "SUZ": {
+    "name": "As Suways",
+    "code": null,
     "unofficial_names": [
       "El Suweiz",
       "as-Suways"
     ],
+    "geo": {
+      "latitude": 29.9668343,
+      "longitude": 32.5498069,
+      "min_latitude": 29.9329452,
+      "min_longitude": 32.4374941,
+      "max_latitude": 30.0211813,
+      "max_longitude": 32.5854957
+    },
     "translations": {
       "en": "Suez",
       "ar": "السويس",
@@ -1553,23 +1773,32 @@
       "tr": "Süveyş",
       "uk": "Суец",
       "ur": "محافظہ سوئیز",
-      "vi": "Tỉnh Suez"
+      "vi": "Tỉnh Suez",
+      "lv": "Suecas muhāfaza",
+      "ceb": "As Suways",
+      "sr_Latn": "Suec",
+      "zh": "蘇伊士省",
+      "ccp": "𑄥𑄪𑄠𑄬𑄌𑄴",
+      "hy": "Սուեզ",
+      "bs": "Suez"
     },
-    "geo": {
-      "latitude": 29.9668343,
-      "longitude": 32.5498069,
-      "min_latitude": 29.9329452,
-      "min_longitude": 32.4374941,
-      "max_latitude": 30.0211813,
-      "max_longitude": 32.5854957
-    },
-    "name": "As Suways"
+    "comments": null
   },
   "WAD": {
+    "name": "Al Wadi al Jadid",
+    "code": null,
     "unofficial_names": [
       "El Wadi el Jadid",
       "El Wadi el Jedid"
     ],
+    "geo": {
+      "latitude": 24.5455638,
+      "longitude": 27.1735316,
+      "min_latitude": 21.9915523,
+      "min_longitude": 25.0003101,
+      "max_latitude": 27.6966292,
+      "max_longitude": 32.9224299
+    },
     "translations": {
       "en": "New Valley",
       "ar": "محافظة الوادي الجديد",
@@ -1613,17 +1842,16 @@
       "tr": "Yeni Vadi",
       "uk": "Нова Долина",
       "ur": "محافظہ وادی جدید",
-      "vi": "Tỉnh New Valley"
+      "vi": "Tỉnh New Valley",
+      "lv": "Vādīelgedīdas muhāfaza",
+      "sr_Latn": "Nova Dolina",
+      "zh": "新河谷省",
+      "ccp": "𑄚𑄱 𑄞𑄬𑄣𑄨",
+      "he": "מחוז אל-ואדי אל-ג׳דיד",
+      "hr": "Al Wadi al Jadid",
+      "bs": "Nova Dolina"
     },
-    "geo": {
-      "latitude": 24.5455638,
-      "longitude": 27.1735316,
-      "min_latitude": 21.9915523,
-      "min_longitude": 25.0003101,
-      "max_latitude": 27.6966292,
-      "max_longitude": 32.9224299
-    },
-    "name": "Al Wadi al Jadid"
+    "comments": null
   }
 }
 

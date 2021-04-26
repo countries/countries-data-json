@@ -1,6 +1,16 @@
 {
   "BA": {
+    "name": "Barima-Waini",
+    "code": null,
     "unofficial_names": "Barima-Waini",
+    "geo": {
+      "latitude": 7.488241899999999,
+      "longitude": -59.6564494,
+      "min_latitude": 6.981004,
+      "min_longitude": -60.7125971,
+      "max_latitude": 8.5480995,
+      "max_longitude": -58.8041041
+    },
     "translations": {
       "en": "Barima-Waini",
       "ar": "باريما - ويني",
@@ -38,20 +48,26 @@
       "uk": "Баріма-Вайні",
       "ur": "باریما واینی",
       "vi": "Barima-Waini",
-      "zh": "巴里马-瓦伊尼"
+      "zh": "巴里马-瓦伊尼",
+      "lv": "Barima-Vaini",
+      "ceb": "Barima-Waini Region",
+      "sq": "Barima-Waini",
+      "ccp": "𑄝𑄢𑄨𑄟-𑄃𑄮𑄠𑄭𑄚𑄨"
     },
-    "geo": {
-      "latitude": 7.488241899999999,
-      "longitude": -59.6564494,
-      "min_latitude": 6.981004,
-      "min_longitude": -60.7125971,
-      "max_latitude": 8.5480995,
-      "max_longitude": -58.8041041
-    },
-    "name": "Barima-Waini"
+    "comments": null
   },
   "CU": {
+    "name": "Cuyuni-Mazaruni",
+    "code": null,
     "unofficial_names": "Cuyuni-Mazaruni",
+    "geo": {
+      "latitude": 6.4642141,
+      "longitude": -60.21107519999999,
+      "min_latitude": 5.16021,
+      "min_longitude": -61.396271,
+      "max_latitude": 7.233457,
+      "max_longitude": -58.56568799999999
+    },
     "translations": {
       "en": "Cuyuni-Mazaruni",
       "ar": "كويوني مازاروني",
@@ -86,20 +102,27 @@
       "tr": "Cuyuni-Maarauni",
       "uk": "Куюні-Мазаруні",
       "ur": "کویونی مازارونی",
-      "vi": "Cuyuni-Mazaruni"
+      "vi": "Cuyuni-Mazaruni",
+      "lv": "Kujuni-Mazaruni",
+      "ceb": "Cuyuni-Mazaruni Region",
+      "zh": "庫尤尼-馬扎魯尼區",
+      "sq": "Cuyuni-Mazaruni",
+      "ccp": "𑄌𑄪𑄠𑄮𑄚𑄨-𑄟𑄎𑄢𑄪𑄚𑄨"
     },
-    "geo": {
-      "latitude": 6.4642141,
-      "longitude": -60.21107519999999,
-      "min_latitude": 5.16021,
-      "min_longitude": -61.396271,
-      "max_latitude": 7.233457,
-      "max_longitude": -58.56568799999999
-    },
-    "name": "Cuyuni-Mazaruni"
+    "comments": null
   },
   "DE": {
+    "name": "Demerara-Mahaica",
+    "code": null,
     "unofficial_names": "Demerara-Mahaica",
+    "geo": {
+      "latitude": 6.546425999999999,
+      "longitude": -58.0982046,
+      "min_latitude": 6.096394,
+      "min_longitude": -58.3052001,
+      "max_latitude": 6.826398299999999,
+      "max_longitude": -57.8823981
+    },
     "translations": {
       "en": "Demerara-Mahaica",
       "ar": "ديميرارا-مهايكا",
@@ -135,20 +158,28 @@
       "tr": "Demerara- Mahaica",
       "uk": "Демерара-Махайка",
       "ur": "دیمیرارا ماہایکا",
-      "vi": "Demerara-Mahaica"
+      "vi": "Demerara-Mahaica",
+      "lv": "Demerara-Mahaika",
+      "ceb": "Demerara-Mahaica Region",
+      "zh": "德梅拉拉-馬海卡區",
+      "sq": "Demerara-Mahaica",
+      "ccp": "𑄓𑄬𑄟𑄢𑄢-𑄟𑄦𑄭𑄇",
+      "be": "Дэмерара-Махайка"
     },
-    "geo": {
-      "latitude": 6.546425999999999,
-      "longitude": -58.0982046,
-      "min_latitude": 6.096394,
-      "min_longitude": -58.3052001,
-      "max_latitude": 6.826398299999999,
-      "max_longitude": -57.8823981
-    },
-    "name": "Demerara-Mahaica"
+    "comments": null
   },
   "EB": {
+    "name": "East Berbice-Corentyne",
+    "code": null,
     "unofficial_names": "East Berbice-Corentyne",
+    "geo": {
+      "latitude": 2.7477922,
+      "longitude": -57.4627259,
+      "min_latitude": 1.452054,
+      "min_longitude": -58.518758,
+      "max_latitude": 6.3251509,
+      "max_longitude": -56.48025089999999
+    },
     "translations": {
       "en": "East Berbice-Corentyne",
       "ar": "شرق بيربيس-كورنتين",
@@ -183,20 +214,27 @@
       "tr": "Doğu Berbice-County",
       "uk": "Східний Бербіс-Корентайн",
       "ur": "مشرقی بربیس کورینتینے",
-      "vi": "Đông Berbice-Corentyne"
+      "vi": "Đông Berbice-Corentyne",
+      "lv": "Austrumberbisa-Koranteina",
+      "ceb": "East Berbice-Corentyne Region",
+      "zh": "东伯比斯-科兰太因",
+      "sq": "East Berbice-Corentyne",
+      "ccp": "𑄛𑄪𑄇𑄴 𑄝𑄢𑄴𑄝𑄭𑄌𑄴-𑄇𑄮𑄢𑄬𑄚𑄴𑄑𑄭𑄚𑄴"
     },
-    "geo": {
-      "latitude": 2.7477922,
-      "longitude": -57.4627259,
-      "min_latitude": 1.452054,
-      "min_longitude": -58.518758,
-      "max_latitude": 6.3251509,
-      "max_longitude": -56.48025089999999
-    },
-    "name": "East Berbice-Corentyne"
+    "comments": null
   },
   "ES": {
+    "name": "Essequibo Islands-West Demerara",
+    "code": null,
     "unofficial_names": "Essequibo Islands-West Demerara",
+    "geo": {
+      "latitude": 6.5720132,
+      "longitude": -58.4629997,
+      "min_latitude": 6.114976,
+      "min_longitude": -58.835067,
+      "max_latitude": 7.0862864,
+      "max_longitude": -58.1656161
+    },
     "translations": {
       "en": "Essequibo Islands-West Demerara",
       "ar": "إقليم جزر ايسيكويبو غرب ديميرارا",
@@ -231,20 +269,27 @@
       "tr": "Essequibo Adaları - Batı Demerara",
       "uk": "Острови Есекібо-Західна Демерара",
       "ur": "ایسیکویبو جزائر مغربی دیمیرارا",
-      "vi": "Quần đảo Essequibo Islands (Tây Demerara)"
+      "vi": "Quần đảo Essequibo Islands (Tây Demerara)",
+      "lv": "Esekibo salas-Rietumdemerara",
+      "ceb": "Essequibo Islands-West Demerara Region",
+      "zh": "埃塞奎博群島-西德梅拉拉區",
+      "sq": "Essequibo Islands-West Demerara",
+      "ccp": "𑄃𑄨𑄥𑄬𑄇𑄭𑄪𑄝𑄮 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄌𑄴-𑄛𑄧𑄏𑄨𑄟𑄴 𑄓𑄬𑄟𑄢𑄢"
     },
-    "geo": {
-      "latitude": 6.5720132,
-      "longitude": -58.4629997,
-      "min_latitude": 6.114976,
-      "min_longitude": -58.835067,
-      "max_latitude": 7.0862864,
-      "max_longitude": -58.1656161
-    },
-    "name": "Essequibo Islands-West Demerara"
+    "comments": null
   },
   "MA": {
+    "name": "Mahaica-Berbice",
+    "code": null,
     "unofficial_names": "Mahaica-Berbice",
+    "geo": {
+      "latitude": 6.238496,
+      "longitude": -57.9162555,
+      "min_latitude": 5.8556228,
+      "min_longitude": -58.1318211,
+      "max_latitude": 6.7012129,
+      "max_longitude": -57.530811
+    },
     "translations": {
       "en": "Mahaica-Berbice",
       "bg": "Махайка-Бърбайс",
@@ -262,20 +307,27 @@
       "ru": "Махайка-Бербис",
       "sv": "Mahaica-Berbice",
       "uk": "Махайка-Бербіс",
-      "ur": "ماہایکا بربیس"
+      "ur": "ماہایکا بربیس",
+      "ceb": "Mahaica-Berbice Region",
+      "zh": "馬海卡-伯比斯區",
+      "pl": "Mahaica-Berbice",
+      "sq": "Mahaica-Berbice",
+      "ccp": "𑄟𑄦𑄭𑄇-𑄝𑄢𑄴𑄝𑄭𑄌𑄴"
     },
-    "geo": {
-      "latitude": 6.238496,
-      "longitude": -57.9162555,
-      "min_latitude": 5.8556228,
-      "min_longitude": -58.1318211,
-      "max_latitude": 6.7012129,
-      "max_longitude": -57.530811
-    },
-    "name": "Mahaica-Berbice"
+    "comments": null
   },
   "PM": {
+    "name": "Pomeroon-Supenaam",
+    "code": null,
     "unofficial_names": "Pomeroon-Supenaam",
+    "geo": {
+      "latitude": 7.1294166,
+      "longitude": -58.9206295,
+      "min_latitude": 6.7601081,
+      "min_longitude": -59.17710700000001,
+      "max_latitude": 7.6828597,
+      "max_longitude": -58.47301489999999
+    },
     "translations": {
       "en": "Pomeroon-Supenaam",
       "ar": "بوميرون-سوبنام",
@@ -310,20 +362,27 @@
       "tr": "Pomeroon-Supenaam",
       "uk": "Померун-Супенаам",
       "ur": "پومیرون سوپینام",
-      "vi": "Pomeroon-Supenaam"
+      "vi": "Pomeroon-Supenaam",
+      "lv": "Pomerūna-Supenāma",
+      "ceb": "Pomeroon-Supenaam Region",
+      "zh": "波默倫-蘇佩納姆區",
+      "sq": "Pomeroon-Supenaam",
+      "ccp": "𑄛𑄮𑄟𑄢𑄪𑄚𑄴-𑄥𑄪𑄛𑄬𑄚𑄟𑄴"
     },
-    "geo": {
-      "latitude": 7.1294166,
-      "longitude": -58.9206295,
-      "min_latitude": 6.7601081,
-      "min_longitude": -59.17710700000001,
-      "max_latitude": 7.6828597,
-      "max_longitude": -58.47301489999999
-    },
-    "name": "Pomeroon-Supenaam"
+    "comments": null
   },
   "PT": {
+    "name": "Potaro-Siparuni",
+    "code": null,
     "unofficial_names": "Potaro-Siparuni",
+    "geo": {
+      "latitude": 4.7855853,
+      "longitude": -59.28799770000001,
+      "min_latitude": 3.989301,
+      "min_longitude": -60.16331909999999,
+      "max_latitude": 5.733892000000001,
+      "max_longitude": -58.272824
+    },
     "translations": {
       "en": "Potaro-Siparuni",
       "ar": "بوتارو-سيباروني",
@@ -358,20 +417,27 @@
       "tr": "Potaro-Siparuni",
       "uk": "Потаро-Сипаруні",
       "ur": "پوتارو سیپارونی",
-      "vi": "Potaro-Siparuni"
+      "vi": "Potaro-Siparuni",
+      "lv": "Potaro-Siparuni",
+      "ceb": "Potaro-Siparuni Region",
+      "zh": "波塔羅-錫帕魯尼區",
+      "sq": "Potaro-Siparuni",
+      "ccp": "𑄛𑄧𑄑𑄢𑄮-𑄥𑄨𑄛𑄢𑄪𑄚𑄨"
     },
-    "geo": {
-      "latitude": 4.7855853,
-      "longitude": -59.28799770000001,
-      "min_latitude": 3.989301,
-      "min_longitude": -60.16331909999999,
-      "max_latitude": 5.733892000000001,
-      "max_longitude": -58.272824
-    },
-    "name": "Potaro-Siparuni"
+    "comments": null
   },
   "UD": {
+    "name": "Upper Demerara-Berbice",
+    "code": null,
     "unofficial_names": "Upper Demerara-Berbice",
+    "geo": {
+      "latitude": 5.3064879,
+      "longitude": -58.18929209999999,
+      "min_latitude": 4.601077,
+      "min_longitude": -58.8706361,
+      "max_latitude": 6.508296100000001,
+      "max_longitude": -57.63137390000001
+    },
     "translations": {
       "en": "Upper Demerara-Berbice",
       "ar": "أبر ديميرارا-بيربيس",
@@ -405,20 +471,27 @@
       "tr": "Upper Demerara- Berbice",
       "uk": "Верхня Демерара-Бербіс",
       "ur": "بالائی دیمیرارا بربیس",
-      "vi": "Thượng Demerara-Berbice"
+      "vi": "Thượng Demerara-Berbice",
+      "lv": "Augšdemerara-Berbisa",
+      "ceb": "Upper Demerara-Berbice Region",
+      "zh": "上德梅拉拉-伯比斯區",
+      "sq": "Upper Demerara-Berbice",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄓𑄟𑄬𑄢𑄢-𑄝𑄢𑄴𑄝𑄭𑄌𑄴"
     },
-    "geo": {
-      "latitude": 5.3064879,
-      "longitude": -58.18929209999999,
-      "min_latitude": 4.601077,
-      "min_longitude": -58.8706361,
-      "max_latitude": 6.508296100000001,
-      "max_longitude": -57.63137390000001
-    },
-    "name": "Upper Demerara-Berbice"
+    "comments": null
   },
   "UT": {
+    "name": "Upper Takutu-Upper Essequibo",
+    "code": null,
     "unofficial_names": "Upper Takutu-Upper Essequibo",
+    "geo": {
+      "latitude": 2.9239595,
+      "longitude": -58.73736339999999,
+      "min_latitude": 1.1750799,
+      "min_longitude": -59.992054,
+      "max_latitude": 4.5214021,
+      "max_longitude": -57.93002989999999
+    },
     "translations": {
       "en": "Upper Takutu-Upper Essequibo",
       "ar": "أبر كاتوكو - أبر ايسيكوبيو",
@@ -452,17 +525,14 @@
       "tr": "Upper Takutu- Upper Essequibo",
       "uk": "Верхнє Такуту-Верхня Есекібо",
       "ur": "بالائی تاکوتو بالائی ایسیکویبو",
-      "vi": "Thượng Takutu-Thượng Essequibo"
+      "vi": "Thượng Takutu-Thượng Essequibo",
+      "lv": "Augštakutu-Augšesekibo",
+      "ceb": "Upper Takutu-Upper Essequibo Region",
+      "zh": "上塔库图-上埃塞奎博",
+      "sq": "Upper Takutu-Upper Essequibo",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄑𑄇𑄪𑄑𑄪-𑄃𑄛𑄢𑄴 𑄃𑄨𑄥𑄬𑄇𑄭𑄪𑄝𑄮"
     },
-    "geo": {
-      "latitude": 2.9239595,
-      "longitude": -58.73736339999999,
-      "min_latitude": 1.1750799,
-      "min_longitude": -59.992054,
-      "max_latitude": 4.5214021,
-      "max_longitude": -57.93002989999999
-    },
-    "name": "Upper Takutu-Upper Essequibo"
+    "comments": null
   }
 }
 

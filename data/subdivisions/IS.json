@@ -1,9 +1,8 @@
 {
   "0": {
+    "name": "Reykjavík",
+    "code": null,
     "unofficial_names": "Reykjavík",
-    "translations": {
-      "en": "Reykjavík"
-    },
     "geo": {
       "latitude": 64.133333,
       "longitude": -21.933333,
@@ -12,10 +11,24 @@
       "max_latitude": 64.1750702,
       "max_longitude": -21.7183826
     },
-    "name": "Reykjavík"
+    "translations": {
+      "en": "Reykjavík",
+      "ccp": "𑄢𑄨𑄠𑄎𑄞𑄨𑄇𑄴"
+    },
+    "comments": null
   },
   "1": {
+    "name": "Höfuðborgarsvæði utan Reykjavíkur",
+    "code": null,
     "unofficial_names": "Höfuðborgarsvæði utan Reykjavíkur",
+    "geo": {
+      "latitude": 64.1475182,
+      "longitude": -21.9428079,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Capital",
       "ar": "إقليم العاصمة",
@@ -64,20 +77,29 @@
       "uk": "Гефюдборґарсвайдід",
       "ur": "دارالحکومت علاقہ",
       "vi": "Khu vực Thủ đô",
-      "zh": "大雷克雅未克区"
+      "zh": "大雷克雅未克区",
+      "cy": "Reykjavík Fawr",
+      "ceb": "Höfuðborgarsvæði",
+      "sr_Latn": "Rejkjavik",
+      "sq": "Rajoni i Kryeqytetit",
+      "ccp": "𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴",
+      "ga": "Höfuðborgarsvæði",
+      "mk": "Престолнински регион"
     },
-    "geo": {
-      "latitude": 64.1475182,
-      "longitude": -21.9428079,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Höfuðborgarsvæði utan Reykjavíkur"
+    "comments": null
   },
   "2": {
+    "name": "Suðurnes",
+    "code": null,
     "unofficial_names": "Suðurnes",
+    "geo": {
+      "latitude": 63.91548030000001,
+      "longitude": -22.3649667,
+      "min_latitude": 63.8000178,
+      "min_longitude": -22.7544665,
+      "max_latitude": 64.08244680000001,
+      "max_longitude": -21.7119429
+    },
     "translations": {
       "en": "Southern Peninsula",
       "af": "Suðurnes",
@@ -124,20 +146,30 @@
       "tr": "Güney Yarımadası",
       "uk": "Судурнес",
       "ur": "جنوبی جزیرہ نما",
-      "vi": "Khu vực Phía Nam Peninsula"
+      "vi": "Khu vực Phía Nam Peninsula",
+      "cy": "Reykjanesskagi",
+      "ceb": "Suðurnes",
+      "sr_Latn": "Sidirnes",
+      "zh": "西南區",
+      "sq": "Gadishulli Jugor",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄪𑄣",
+      "ga": "Suðurnes",
+      "mk": "Јужен Полуостров"
     },
-    "geo": {
-      "latitude": 63.91548030000001,
-      "longitude": -22.3649667,
-      "min_latitude": 63.8000178,
-      "min_longitude": -22.7544665,
-      "max_latitude": 64.08244680000001,
-      "max_longitude": -21.7119429
-    },
-    "name": "Suðurnes"
+    "comments": null
   },
   "3": {
+    "name": "Vesturland",
+    "code": null,
     "unofficial_names": "Vesturland",
+    "geo": {
+      "latitude": 64.770434,
+      "longitude": -21.5341294,
+      "min_latitude": 64.302399,
+      "min_longitude": -24.0609395,
+      "max_latitude": 65.51733899999999,
+      "max_longitude": -19.7810714
+    },
     "translations": {
       "en": "Western",
       "ar": "الإقليم الغربي",
@@ -183,20 +215,31 @@
       "tr": "Western Region",
       "uk": "Вестурланд",
       "ur": "مغربی علاقہ",
-      "vi": "Khu vực Phía Tây"
+      "vi": "Khu vực Phía Tây",
+      "cy": "Rhanbarth y Gorllewin",
+      "ceb": "Vesturland",
+      "sr_Latn": "Vestirtland",
+      "zh": "西部區",
+      "sq": "Rajoni Perëndimor",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ga": "Vesturland",
+      "mk": "Западен регион",
+      "bg": "Вестюрланд"
     },
-    "geo": {
-      "latitude": 64.770434,
-      "longitude": -21.5341294,
-      "min_latitude": 64.302399,
-      "min_longitude": -24.0609395,
-      "max_latitude": 65.51733899999999,
-      "max_longitude": -19.7810714
-    },
-    "name": "Vesturland"
+    "comments": null
   },
   "4": {
+    "name": "Vestfirðir",
+    "code": null,
     "unofficial_names": "Vestfirðir",
+    "geo": {
+      "latitude": 65.91961500000001,
+      "longitude": -21.8811763,
+      "min_latitude": 64.96292199999999,
+      "min_longitude": -24.5465237,
+      "max_latitude": 66.46997069999999,
+      "max_longitude": -20.9746663
+    },
     "translations": {
       "en": "Westfjords",
       "ar": "إقليم المضايق",
@@ -245,20 +288,29 @@
       "tr": "Wesfjırds Bölgesi",
       "uk": "Вестфірдір",
       "ur": "ویستفجوردس ریجن",
-      "vi": "Khu vực Westfjords"
+      "vi": "Khu vực Westfjords",
+      "cy": "Vestfirðir",
+      "sr_Latn": "Vestfirdir (region)",
+      "zh": "西峽灣區",
+      "sq": "Fjordet Perëndimore",
+      "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄎𑄮𑄢𑄴𑄓𑄴𑄥𑄴",
+      "ga": "Vestfirðir",
+      "mk": "Западни Фјордови"
     },
-    "geo": {
-      "latitude": 65.91961500000001,
-      "longitude": -21.8811763,
-      "min_latitude": 64.96292199999999,
-      "min_longitude": -24.5465237,
-      "max_latitude": 66.46997069999999,
-      "max_longitude": -20.9746663
-    },
-    "name": "Vestfirðir"
+    "comments": null
   },
   "5": {
+    "name": "Norðurland vestra",
+    "code": null,
     "unofficial_names": "Norðurland vestra",
+    "geo": {
+      "latitude": 65.19625049999999,
+      "longitude": -19.2425804,
+      "min_latitude": 64.773222,
+      "min_longitude": -21.1190769,
+      "max_latitude": 66.1600471,
+      "max_longitude": -18.295774
+    },
     "translations": {
       "en": "Northwestern",
       "ar": "الإقليم الشمالي الغربي",
@@ -303,20 +355,30 @@
       "tr": "Kuzey Batı Bölgesi",
       "uk": "Нордурланд-Вестра",
       "ur": "شمال مغربی علاقہ",
-      "vi": "Khu vực Tây Bắc"
+      "vi": "Khu vực Tây Bắc",
+      "cy": "Norðurland vestra",
+      "ceb": "Norðurland Vestra",
+      "sr_Latn": "Nordirtland Vestra",
+      "zh": "西北區",
+      "sq": "Rajoni Veriperëndimor",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ga": "Norðurland vestra",
+      "mk": "Северозападен регион"
     },
-    "geo": {
-      "latitude": 65.19625049999999,
-      "longitude": -19.2425804,
-      "min_latitude": 64.773222,
-      "min_longitude": -21.1190769,
-      "max_latitude": 66.1600471,
-      "max_longitude": -18.295774
-    },
-    "name": "Norðurland vestra"
+    "comments": null
   },
   "6": {
+    "name": "Norðurland eystra",
+    "code": null,
     "unofficial_names": "Norðurland eystra",
+    "geo": {
+      "latitude": 65.4713712,
+      "longitude": -17.0280279,
+      "min_latitude": 64.4100729,
+      "min_longitude": -19.0427822,
+      "max_latitude": 66.5637741,
+      "max_longitude": -14.5419811
+    },
     "translations": {
       "en": "Northeastern",
       "ar": "الإقليم الشمالي الشرقي",
@@ -363,20 +425,30 @@
       "tr": "Kuzeydoğu Bölgesi",
       "uk": "Нордурланд-Ейстра",
       "ur": "شمال مشرقی علاقہ",
-      "vi": "Khu vực Đông Bắc"
+      "vi": "Khu vực Đông Bắc",
+      "cy": "Norðurland eystra",
+      "ceb": "Norðurland Eystra",
+      "sr_Latn": "Nordirtland Ejstra",
+      "zh": "東北區",
+      "sq": "Rajoni Verilindor",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ga": "Norðurland eystra",
+      "mk": "Североисточен регион"
     },
-    "geo": {
-      "latitude": 65.4713712,
-      "longitude": -17.0280279,
-      "min_latitude": 64.4100729,
-      "min_longitude": -19.0427822,
-      "max_latitude": 66.5637741,
-      "max_longitude": -14.5419811
-    },
-    "name": "Norðurland eystra"
+    "comments": null
   },
   "7": {
+    "name": "Austurland",
+    "code": null,
     "unofficial_names": "Austurland",
+    "geo": {
+      "latitude": 64.8329974,
+      "longitude": -15.7433981,
+      "min_latitude": 63.77613830000001,
+      "min_longitude": -17.3681851,
+      "max_latitude": 66.1899378,
+      "max_longitude": -13.4958154
+    },
     "translations": {
       "en": "Eastern",
       "ar": "الإقليم الشرقي",
@@ -423,20 +495,30 @@
       "tr": "Doğu Bölgesi",
       "uk": "Аустурланд",
       "ur": "مشرقی علاقہ",
-      "vi": "Khu vực Eastern"
+      "vi": "Khu vực Eastern",
+      "cy": "Austurland",
+      "ceb": "Austurland",
+      "sr_Latn": "Ejstirtland",
+      "zh": "東部區",
+      "sq": "Rajoni Lindor",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ga": "Austurland",
+      "mk": "Источен регион"
     },
-    "geo": {
-      "latitude": 64.8329974,
-      "longitude": -15.7433981,
-      "min_latitude": 63.77613830000001,
-      "min_longitude": -17.3681851,
-      "max_latitude": 66.1899378,
-      "max_longitude": -13.4958154
-    },
-    "name": "Austurland"
+    "comments": null
   },
   "8": {
+    "name": "Suðurland",
+    "code": null,
     "unofficial_names": "Suðurland",
+    "geo": {
+      "latitude": 64.2661426,
+      "longitude": -18.8158138,
+      "min_latitude": 63.2973824,
+      "min_longitude": -21.9220031,
+      "max_latitude": 64.87730599999999,
+      "max_longitude": -17.2659519
+    },
     "translations": {
       "en": "Southern",
       "ar": "الإقليم الجنوبي",
@@ -484,17 +566,17 @@
       "tr": "Southern Bölgesi",
       "uk": "Судурланд",
       "ur": "جنوبی علاقہ",
-      "vi": "Khu vực Southern"
+      "vi": "Khu vực Southern",
+      "cy": "Suðurland",
+      "ceb": "Suðurland",
+      "sr_Latn": "Sidirtland",
+      "zh": "南部區",
+      "sq": "Rajoni Jugor",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ga": "Suðurland",
+      "mk": "Јужен регион"
     },
-    "geo": {
-      "latitude": 64.2661426,
-      "longitude": -18.8158138,
-      "min_latitude": 63.2973824,
-      "min_longitude": -21.9220031,
-      "max_latitude": 64.87730599999999,
-      "max_longitude": -17.2659519
-    },
-    "name": "Suðurland"
+    "comments": null
   }
 }
 

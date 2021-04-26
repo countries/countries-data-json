@@ -1,9 +1,8 @@
 {
   "AA": {
+    "name": "Armed Forces Americas",
+    "code": null,
     "unofficial_names": "Armed Forces Americas",
-    "translations": {
-      "en": "Armed Forces Americas"
-    },
     "geo": {
       "latitude": 33.8934985,
       "longitude": -117.2732567,
@@ -12,13 +11,15 @@
       "max_latitude": 33.9460679,
       "max_longitude": -117.2498013
     },
-    "name": "Armed Forces Americas"
+    "translations": {
+      "en": "Armed Forces Americas"
+    },
+    "comments": null
   },
   "AE": {
+    "name": "Armed Forces Europe",
+    "code": null,
     "unofficial_names": "Armed Forces Europe",
-    "translations": {
-      "en": "Armed Forces Europe"
-    },
     "geo": {
       "latitude": 59.90441850000001,
       "longitude": 10.7408094,
@@ -27,10 +28,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Armed Forces Europe"
+    "translations": {
+      "en": "Armed Forces Europe"
+    },
+    "comments": null
   },
   "AK": {
+    "name": "Alaska",
+    "code": null,
     "unofficial_names": "Alaska",
+    "geo": {
+      "latitude": 64.2008413,
+      "longitude": -149.4936733,
+      "min_latitude": 51.214766,
+      "min_longitude": 172.4445167,
+      "max_latitude": 71.3868712,
+      "max_longitude": -129.9945562
+    },
     "translations": {
       "en": "Alaska",
       "af": "Alaska",
@@ -93,20 +107,43 @@
       "uk": "Аляска",
       "ur": "الاسکا",
       "vi": "Alaska",
-      "zh": "阿拉斯加州"
+      "zh": "阿拉斯加州",
+      "cy": "Alaska",
+      "ceb": "Alaska",
+      "sr_Latn": "Aljaska",
+      "yue_Hans": "阿拉斯加州",
+      "jv": "Alaska",
+      "sq": "Alaska",
+      "ccp": "𑄃𑄣𑄌𑄴𑄇",
+      "sd": "الاسڪا",
+      "ga": "Alasca",
+      "ig": "Àláskà",
+      "ky": "Аляска",
+      "ha": "Alaska",
+      "so": "Alaska",
+      "pa": "ਅਲਾਸਕਾ",
+      "kk": "Аляска штаты",
+      "yue": "阿拉斯加州",
+      "my": "အလက်စကာပြည်နယ်",
+      "yo": "Alaska",
+      "uz": "Alyaska",
+      "bs": "Alaska",
+      "mk": "Алјаска"
     },
-    "geo": {
-      "latitude": 64.2008413,
-      "longitude": -149.4936733,
-      "min_latitude": 51.214766,
-      "min_longitude": 172.4445167,
-      "max_latitude": 71.3868712,
-      "max_longitude": -129.9945562
-    },
-    "name": "Alaska"
+    "comments": null
   },
   "AL": {
+    "name": "Alabama",
+    "code": null,
     "unofficial_names": "Alabama",
+    "geo": {
+      "latitude": 32.3182314,
+      "longitude": -86.902298,
+      "min_latitude": 30.1941334,
+      "min_longitude": -88.4732269,
+      "max_latitude": 35.007889,
+      "max_longitude": -84.888246
+    },
     "translations": {
       "en": "Alabama",
       "af": "Alabama",
@@ -168,23 +205,35 @@
       "uk": "Алабама",
       "ur": "الاباما",
       "vi": "Alabama",
-      "zh": "亚拉巴马州"
+      "zh": "亚拉巴马州",
+      "cy": "Alabama",
+      "ceb": "Alabama",
+      "yo_BJ": "Ìpínlɛ̀ Alabama",
+      "sr_Latn": "Alabama",
+      "yue_Hans": "阿拉巴马州",
+      "jv": "Alabama",
+      "sq": "Alabama",
+      "ccp": "𑄃𑄣𑄝𑄟",
+      "sd": "الاباما",
+      "ga": "Alabama",
+      "ig": "Alabama",
+      "ha": "Alabama",
+      "so": "Alabama",
+      "pa": "ਅਲਾਬਾਮਾ",
+      "kk": "Алабама",
+      "yue": "阿拉巴馬州",
+      "my": "အလာဘားမားပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Alabama",
+      "uz": "Alabama",
+      "bs": "Alabama",
+      "mk": "Алабама"
     },
-    "geo": {
-      "latitude": 32.3182314,
-      "longitude": -86.902298,
-      "min_latitude": 30.1941334,
-      "min_longitude": -88.4732269,
-      "max_latitude": 35.007889,
-      "max_longitude": -84.888246
-    },
-    "name": "Alabama"
+    "comments": null
   },
   "AP": {
+    "name": "Armed Forces Pacific",
+    "code": null,
     "unofficial_names": "Armed Forces Pacific",
-    "translations": {
-      "en": "Armed Forces Pacific"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -193,10 +242,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Armed Forces Pacific"
+    "translations": {
+      "en": "Armed Forces Pacific"
+    },
+    "comments": null
   },
   "AR": {
+    "name": "Arkansas",
+    "code": null,
     "unofficial_names": "Arkansas",
+    "geo": {
+      "latitude": 35.20105,
+      "longitude": -91.8318334,
+      "min_latitude": 33.0041059,
+      "min_longitude": -94.61791900000001,
+      "max_latitude": 36.4997491,
+      "max_longitude": -89.64483790000001
+    },
     "translations": {
       "en": "Arkansas",
       "af": "Arkansas",
@@ -257,23 +319,34 @@
       "uk": "Арканзас",
       "ur": "آرکنساس",
       "vi": "Arkansas",
-      "zh": "阿肯色州"
+      "zh": "阿肯色州",
+      "cy": "Arkansas",
+      "ceb": "Arkansas",
+      "sr_Latn": "Arkanzas",
+      "yue_Hans": "阿肯色州",
+      "jv": "Arkansas",
+      "sq": "Arkansas",
+      "ccp": "𑄃𑄢𑄴𑄇𑄚𑄴𑄥𑄌𑄴",
+      "sd": "ارڪنساس",
+      "ga": "Arkansas",
+      "ig": "Arkinsọ",
+      "ha": "Arkansas",
+      "so": "Arkansas",
+      "pa": "ਆਰਕੰਸਾ",
+      "kk": "Арканзас",
+      "yue": "阿肯色州",
+      "my": "အာကင်ဆောပြည်နယ်",
+      "yo": "Arkansas",
+      "uz": "Arkanzas",
+      "bs": "Arkansas",
+      "mk": "Арканзас"
     },
-    "geo": {
-      "latitude": 35.20105,
-      "longitude": -91.8318334,
-      "min_latitude": 33.0041059,
-      "min_longitude": -94.61791900000001,
-      "max_latitude": 36.4997491,
-      "max_longitude": -89.64483790000001
-    },
-    "name": "Arkansas"
+    "comments": null
   },
   "AS": {
+    "name": "American Samoa",
+    "code": null,
     "unofficial_names": "American Samoa",
-    "translations": {
-      "en": "American Samoa"
-    },
     "geo": {
       "latitude": 21.3239718,
       "longitude": -157.876498,
@@ -282,11 +355,24 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "see also separate entry under AS",
-    "name": "American Samoa"
+    "translations": {
+      "en": "American Samoa",
+      "ccp": "𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄥𑄪𑄟𑄮𑄠"
+    },
+    "comments": "see also separate entry under AS"
   },
   "AZ": {
+    "name": "Arizona",
+    "code": null,
     "unofficial_names": "Arizona",
+    "geo": {
+      "latitude": 34.0489281,
+      "longitude": -111.0937311,
+      "min_latitude": 31.3321771,
+      "min_longitude": -114.8165909,
+      "max_latitude": 37.0042599,
+      "max_longitude": -109.0452231
+    },
     "translations": {
       "en": "Arizona",
       "af": "Arizona",
@@ -348,20 +434,42 @@
       "ur": "ایریزونا",
       "vi": "Arizona",
       "zh": "亞利桑那州",
-      "zu": "Arizona"
+      "zu": "Arizona",
+      "cy": "Arizona",
+      "ceb": "Arizona",
+      "sr_Latn": "Arizona",
+      "yue_Hans": "亚利桑拿州",
+      "jv": "Arizona",
+      "sq": "Arizona",
+      "ccp": "𑄃𑄬𑄢𑄨𑄎𑄮𑄚",
+      "sd": "ايرزونا",
+      "ga": "Arizona",
+      "ig": "Arizona",
+      "ha": "Arizona",
+      "so": "Arizona",
+      "pa": "ਐਰੀਜ਼ੋਨਾ",
+      "kk": "Аризона",
+      "yue": "亞利桑拿州",
+      "my": "အရီဇိုးနားပြည်နယ်",
+      "yo": "Arizona",
+      "uz": "Arizona",
+      "bs": "Arizona",
+      "mk": "Аризона"
     },
-    "geo": {
-      "latitude": 34.0489281,
-      "longitude": -111.0937311,
-      "min_latitude": 31.3321771,
-      "min_longitude": -114.8165909,
-      "max_latitude": 37.0042599,
-      "max_longitude": -109.0452231
-    },
-    "name": "Arizona"
+    "comments": null
   },
   "CA": {
+    "name": "California",
+    "code": null,
     "unofficial_names": "California",
+    "geo": {
+      "latitude": 36.778261,
+      "longitude": -119.4179324,
+      "min_latitude": 32.5342321,
+      "min_longitude": -124.4096196,
+      "max_latitude": 42.0095169,
+      "max_longitude": -114.131211
+    },
     "translations": {
       "en": "California",
       "af": "Kalifornië",
@@ -424,20 +532,46 @@
       "uk": "Каліфорнія",
       "ur": "کیلی فورنیا",
       "vi": "California",
-      "zh": "加利福尼亚州"
+      "zh": "加利福尼亚州",
+      "cy": "Califfornia",
+      "ceb": "California",
+      "yo_BJ": "Kalifɔ́rníà",
+      "sr_Latn": "Kalifornija",
+      "yue_Hans": "加利福尼亚州",
+      "jv": "California",
+      "sq": "Kaliforni",
+      "ccp": "𑄇𑄳𑄠𑄣𑄨𑄜𑄮𑄢𑄴𑄚𑄨𑄠",
+      "sd": "ڪيليفورنيا",
+      "ga": "California",
+      "ig": "California",
+      "ky": "Калифорния",
+      "ha": "California",
+      "km": "កាលីហ្វញ៉ា",
+      "so": "Kalifornia",
+      "pa": "ਕੈਲੀਫ਼ੋਰਨੀਆ",
+      "kk": "Калифорния",
+      "yue": "加利福尼亞州",
+      "my": "ကယ်လီဖိုးနီးယားပြည်နယ်",
+      "yo": "Kalifọ́rníà",
+      "zu": "California",
+      "uz": "Kaliforniya",
+      "bs": "Kalifornija",
+      "mk": "Калифорнија"
     },
-    "geo": {
-      "latitude": 36.778261,
-      "longitude": -119.4179324,
-      "min_latitude": 32.5342321,
-      "min_longitude": -124.4096196,
-      "max_latitude": 42.0095169,
-      "max_longitude": -114.131211
-    },
-    "name": "California"
+    "comments": null
   },
   "CO": {
+    "name": "Colorado",
+    "code": null,
     "unofficial_names": "Colorado",
+    "geo": {
+      "latitude": 39.5500507,
+      "longitude": -105.7820674,
+      "min_latitude": 36.992424,
+      "min_longitude": -109.060256,
+      "max_latitude": 41.0034439,
+      "max_longitude": -102.040878
+    },
     "translations": {
       "en": "Colorado",
       "af": "Colorado",
@@ -499,20 +633,42 @@
       "uk": "Колорадо",
       "ur": "کولوراڈو",
       "vi": "Colorado",
-      "zh": "科羅拉多州"
+      "zh": "科羅拉多州",
+      "cy": "Colorado",
+      "ceb": "Colorado",
+      "sr_Latn": "Kolorado",
+      "yue_Hans": "科罗拉多州",
+      "jv": "Colorado",
+      "sq": "Colorado",
+      "ccp": "𑄇𑄧𑄣𑄧𑄢𑄓𑄮",
+      "sd": "ڪولراڊو",
+      "ga": "Colorado",
+      "ig": "Colorado",
+      "ha": "Colorado",
+      "pa": "ਕੋਲੋਰਾਡੋ",
+      "kk": "Колорадо",
+      "yue": "科羅拉多州",
+      "my": "ကော်လိုရာဒိုပြည်နယ်",
+      "yo": "Colorado",
+      "zu": "Colorado",
+      "uz": "Kolorado",
+      "bs": "Colorado",
+      "mk": "Колорадо"
     },
-    "geo": {
-      "latitude": 39.5500507,
-      "longitude": -105.7820674,
-      "min_latitude": 36.992424,
-      "min_longitude": -109.060256,
-      "max_latitude": 41.0034439,
-      "max_longitude": -102.040878
-    },
-    "name": "Colorado"
+    "comments": null
   },
   "CT": {
+    "name": "Connecticut",
+    "code": null,
     "unofficial_names": "Connecticut",
+    "geo": {
+      "latitude": 41.6032207,
+      "longitude": -73.087749,
+      "min_latitude": 40.9869801,
+      "min_longitude": -73.727775,
+      "max_latitude": 42.050587,
+      "max_longitude": -71.787239
+    },
     "translations": {
       "en": "Connecticut",
       "af": "Connecticut",
@@ -573,20 +729,40 @@
       "uk": "Коннектикут",
       "ur": "کنیکٹیکٹ",
       "vi": "Connecticut",
-      "zh": "康乃狄克州"
+      "zh": "康乃狄克州",
+      "cy": "Connecticut",
+      "ceb": "Connecticut",
+      "sr_Latn": "Konektikat",
+      "yue_Hans": "康湼狄格州",
+      "jv": "Connecticut",
+      "sq": "Connecticut",
+      "ccp": "𑄇𑄚𑄬𑄇𑄴𑄑𑄨𑄇𑄪𑄖𑄴",
+      "ga": "Connecticut",
+      "ig": "Kónétíkùt",
+      "ha": "Connecticut",
+      "pa": "ਕਨੈਟੀਕਟ",
+      "kk": "Коннектикут",
+      "yue": "康湼狄格州",
+      "yo": "Connecticut",
+      "zu": "Connecticut",
+      "uz": "Konnektikut",
+      "bs": "Connecticut",
+      "mk": "Конектикат"
     },
-    "geo": {
-      "latitude": 41.6032207,
-      "longitude": -73.087749,
-      "min_latitude": 40.9869801,
-      "min_longitude": -73.727775,
-      "max_latitude": 42.050587,
-      "max_longitude": -71.787239
-    },
-    "name": "Connecticut"
+    "comments": null
   },
   "DC": {
+    "name": "District of Columbia",
+    "code": null,
     "unofficial_names": "District of Columbia",
+    "geo": {
+      "latitude": 38.9071923,
+      "longitude": -77.0368707,
+      "min_latitude": 38.8031495,
+      "min_longitude": -77.11974,
+      "max_latitude": 38.995548,
+      "max_longitude": -76.909393
+    },
     "translations": {
       "en": "Washington DC",
       "af": "Washington",
@@ -649,20 +825,26 @@
       "uk": "Вашингтон",
       "ur": "واشنگٹن ڈی سی",
       "vi": "Washington",
-      "zh": "華盛頓哥倫比亞特區"
+      "zh": "華盛頓哥倫比亞特區",
+      "ceb": "District of Columbia",
+      "sr_Latn": "Vašington",
+      "ccp": "𑄤𑄥𑄨𑄁𑄑𑄧𑄚𑄴 𑄓𑄨𑄥𑄨",
+      "uz": "Kolumbiya okrugi"
     },
-    "geo": {
-      "latitude": 38.9071923,
-      "longitude": -77.0368707,
-      "min_latitude": 38.8031495,
-      "min_longitude": -77.11974,
-      "max_latitude": 38.995548,
-      "max_longitude": -76.909393
-    },
-    "name": "District of Columbia"
+    "comments": null
   },
   "DE": {
+    "name": "Delaware",
+    "code": null,
     "unofficial_names": "Delaware",
+    "geo": {
+      "latitude": 38.9108325,
+      "longitude": -75.52766989999999,
+      "min_latitude": 38.451018,
+      "min_longitude": -75.78914790000002,
+      "max_latitude": 39.8394839,
+      "max_longitude": -75.04869339999999
+    },
     "translations": {
       "en": "Delaware",
       "af": "Delaware",
@@ -723,20 +905,40 @@
       "uk": "Делавер",
       "ur": "ڈیلاویئر",
       "vi": "Delaware",
-      "zh": "特拉华州"
+      "zh": "特拉华州",
+      "cy": "Delaware",
+      "ceb": "Delaware (estado)",
+      "sr_Latn": "Delaver",
+      "yue_Hans": "特拉华州",
+      "jv": "Delaware",
+      "sq": "Delaware",
+      "ccp": "𑄓𑄬𑄣𑄴𑄤𑄢𑄴",
+      "ga": "Delaware",
+      "ig": "Déláwè",
+      "ha": "Delaware",
+      "pa": "ਡੇਲਾਵੇਅਰ",
+      "kk": "Делавэр",
+      "yue": "特拉華州",
+      "my": "ဒယ်လာဝဲပြည်နယ်",
+      "yo": "Delaware",
+      "uz": "Delaver",
+      "bs": "Delaware",
+      "mk": "Делавер"
     },
-    "geo": {
-      "latitude": 38.9108325,
-      "longitude": -75.52766989999999,
-      "min_latitude": 38.451018,
-      "min_longitude": -75.78914790000002,
-      "max_latitude": 39.8394839,
-      "max_longitude": -75.04869339999999
-    },
-    "name": "Delaware"
+    "comments": null
   },
   "FL": {
+    "name": "Florida",
+    "code": null,
     "unofficial_names": "Florida",
+    "geo": {
+      "latitude": 27.6648274,
+      "longitude": -81.5157535,
+      "min_latitude": 24.5210795,
+      "min_longitude": -87.634896,
+      "max_latitude": 31.000968,
+      "max_longitude": -80.0311371
+    },
     "translations": {
       "en": "Florida",
       "af": "Florida",
@@ -798,20 +1000,42 @@
       "uk": "Флорида",
       "ur": "فلوریڈا",
       "vi": "Florida",
-      "zh": "佛罗里达州"
+      "zh": "佛罗里达州",
+      "cy": "Florida",
+      "ceb": "Florida",
+      "sr_Latn": "Florida",
+      "yue_Hans": "科利打省",
+      "jv": "Florida",
+      "sq": "Florida",
+      "ccp": "𑄜𑄳𑄣𑄮𑄢𑄨𑄓",
+      "ga": "Florida",
+      "ig": "Flórídạ",
+      "ha": "Florida",
+      "so": "Florida",
+      "pa": "ਫ਼ਲੌਰਿਡਾ",
+      "kk": "Флорида",
+      "yue": "科利打省",
+      "my": "ဖလော်ရီဒါပြည်နယ်",
+      "yo": "Florida",
+      "zu": "Florida",
+      "uz": "Florida",
+      "bs": "Florida",
+      "mk": "Флорида"
     },
-    "geo": {
-      "latitude": 27.6648274,
-      "longitude": -81.5157535,
-      "min_latitude": 24.5210795,
-      "min_longitude": -87.634896,
-      "max_latitude": 31.000968,
-      "max_longitude": -80.0311371
-    },
-    "name": "Florida"
+    "comments": null
   },
   "GA": {
+    "name": "Georgia",
+    "code": null,
     "unofficial_names": "Georgia",
+    "geo": {
+      "latitude": 32.1656221,
+      "longitude": -82.9000751,
+      "min_latitude": 30.3555908,
+      "min_longitude": -85.6051649,
+      "max_latitude": 35.0006589,
+      "max_longitude": -80.8407866
+    },
     "translations": {
       "en": "Georgia",
       "af": "Georgia",
@@ -872,23 +1096,34 @@
       "uk": "Джорджія",
       "ur": "ریاست جارجیا",
       "vi": "Georgia",
-      "zh": "喬治亞州"
+      "zh": "喬治亞州",
+      "cy": "Georgia",
+      "ceb": "Georgia",
+      "yo_BJ": "Ìpínlɛ̀ Georgia",
+      "sr_Latn": "Džordžija",
+      "yue_Hans": "乔治亚州",
+      "jv": "Georgia",
+      "sq": "Georgia",
+      "ccp": "𑄎𑄧𑄢𑄴𑄎𑄨𑄠",
+      "ga": "Georgia",
+      "ig": "Jorjiạ",
+      "ky": "Жоржия",
+      "pa": "ਜਾਰਜੀਆ",
+      "kk": "Джорджия",
+      "yue": "喬治亞州",
+      "my": "ဂျော်ဂျီယာပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Georgia",
+      "uz": "Jorjiya",
+      "bs": "Georgia",
+      "mk": "Џорџија",
+      "tk": "Jorjiýa"
     },
-    "geo": {
-      "latitude": 32.1656221,
-      "longitude": -82.9000751,
-      "min_latitude": 30.3555908,
-      "min_longitude": -85.6051649,
-      "max_latitude": 35.0006589,
-      "max_longitude": -80.8407866
-    },
-    "name": "Georgia"
+    "comments": null
   },
   "GU": {
+    "name": "Guam",
+    "code": null,
     "unofficial_names": "Guam",
-    "translations": {
-      "en": "Guam"
-    },
     "geo": {
       "latitude": 36.90194,
       "longitude": -89.82361,
@@ -897,11 +1132,24 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "see also separate entry under GU",
-    "name": "Guam"
+    "translations": {
+      "en": "Guam",
+      "ccp": "𑄉𑄪𑄠𑄟𑄴"
+    },
+    "comments": "see also separate entry under GU"
   },
   "HI": {
+    "name": "Hawaii",
+    "code": null,
     "unofficial_names": "Hawaii",
+    "geo": {
+      "latitude": 19.8967662,
+      "longitude": -155.5827818,
+      "min_latitude": 18.9108109,
+      "min_longitude": -178.3059168,
+      "max_latitude": 28.4014611,
+      "max_longitude": -154.8067783
+    },
     "translations": {
       "en": "Hawaii",
       "af": "Hawaii",
@@ -963,20 +1211,43 @@
       "uk": "Гаваї",
       "ur": "ہوائی",
       "vi": "Hawaii",
-      "zh": "夏威夷州"
+      "zh": "夏威夷州",
+      "cy": "Hawaii",
+      "ceb": "Hawaii",
+      "sr_Latn": "Havaji",
+      "yue_Hans": "夏威夷州",
+      "jv": "Hawaii",
+      "sq": "Hawaii",
+      "ccp": "𑄦𑄧𑄤𑄃𑄩",
+      "ga": "Haváí",
+      "ig": "Hawaii",
+      "ky": "Гавайи",
+      "ha": "Hawaii",
+      "so": "Hawaay",
+      "pa": "ਹਵਾਈ",
+      "kk": "Гавайи",
+      "yue": "夏威夷州",
+      "my": "ဟာဝိုင်ယီပြည်နယ်",
+      "yo": "Hawaii",
+      "zu": "Hawaii",
+      "uz": "Gavayi",
+      "bs": "Hawaii",
+      "mk": "Хаваи"
     },
-    "geo": {
-      "latitude": 19.8967662,
-      "longitude": -155.5827818,
-      "min_latitude": 18.9108109,
-      "min_longitude": -178.3059168,
-      "max_latitude": 28.4014611,
-      "max_longitude": -154.8067783
-    },
-    "name": "Hawaii"
+    "comments": null
   },
   "IA": {
+    "name": "Iowa",
+    "code": null,
     "unofficial_names": "Iowa",
+    "geo": {
+      "latitude": 41.8780025,
+      "longitude": -93.097702,
+      "min_latitude": 40.375437,
+      "min_longitude": -96.639535,
+      "max_latitude": 43.5011961,
+      "max_longitude": -90.1400609
+    },
     "translations": {
       "en": "Iowa",
       "af": "Iowa",
@@ -1037,20 +1308,41 @@
       "uk": "Айова",
       "ur": "آئیووا",
       "vi": "Iowa",
-      "zh": "艾奥瓦州"
+      "zh": "艾奥瓦州",
+      "cy": "Iowa",
+      "ceb": "Iowa",
+      "sr_Latn": "Ajova",
+      "yue_Hans": "埃奥华省",
+      "jv": "Iowa",
+      "sq": "Iowa",
+      "ccp": "𑄃𑄭𑄤",
+      "ga": "Iowa",
+      "ig": "Áyowạ",
+      "ha": "Iowa",
+      "so": "Iowa",
+      "pa": "ਆਇਓਵਾ",
+      "kk": "Айова",
+      "yue": "埃奧華省",
+      "my": "အိုင်အိုဝါပြည်နယ်",
+      "yo": "Iowa",
+      "uz": "Ayova",
+      "bs": "Iowa",
+      "mk": "Ајова"
     },
-    "geo": {
-      "latitude": 41.8780025,
-      "longitude": -93.097702,
-      "min_latitude": 40.375437,
-      "min_longitude": -96.639535,
-      "max_latitude": 43.5011961,
-      "max_longitude": -90.1400609
-    },
-    "name": "Iowa"
+    "comments": null
   },
   "ID": {
+    "name": "Idaho",
+    "code": null,
     "unofficial_names": "Idaho",
+    "geo": {
+      "latitude": 44.0682019,
+      "longitude": -114.7420408,
+      "min_latitude": 41.9880051,
+      "min_longitude": -117.2413657,
+      "max_latitude": 49.0011461,
+      "max_longitude": -111.043495
+    },
     "translations": {
       "en": "Idaho",
       "af": "Idaho",
@@ -1111,20 +1403,40 @@
       "uk": "Айдахо",
       "ur": "ایڈاہو",
       "vi": "Idaho",
-      "zh": "爱达荷州"
+      "zh": "爱达荷州",
+      "cy": "Idaho",
+      "ceb": "Idaho",
+      "sr_Latn": "Ajdaho",
+      "yue_Hans": "爱达荷州",
+      "jv": "Idaho",
+      "sq": "Idaho",
+      "ccp": "𑄃𑄭𑄓𑄦𑄮",
+      "ga": "Idaho",
+      "ig": "Idaho",
+      "pa": "ਆਇਡਾਹੋ",
+      "kk": "Айдахо",
+      "yue": "愛達荷州",
+      "my": "အိုင်ဒါဟိုပြည်နယ်",
+      "yo": "Idaho",
+      "zu": "Idaho",
+      "uz": "Aydaho",
+      "bs": "Idaho",
+      "mk": "Ајдахо"
     },
-    "geo": {
-      "latitude": 44.0682019,
-      "longitude": -114.7420408,
-      "min_latitude": 41.9880051,
-      "min_longitude": -117.2413657,
-      "max_latitude": 49.0011461,
-      "max_longitude": -111.043495
-    },
-    "name": "Idaho"
+    "comments": null
   },
   "IL": {
+    "name": "Illinois",
+    "code": null,
     "unofficial_names": "Illinois",
+    "geo": {
+      "latitude": 40.6331249,
+      "longitude": -89.3985283,
+      "min_latitude": 36.970298,
+      "min_longitude": -91.5130789,
+      "max_latitude": 42.5083379,
+      "max_longitude": -87.4951991
+    },
     "translations": {
       "en": "Illinois",
       "af": "Illinois",
@@ -1185,20 +1497,41 @@
       "uk": "Іллінойс",
       "ur": "الینوائے",
       "vi": "Illinois",
-      "zh": "伊利诺伊州"
+      "zh": "伊利诺伊州",
+      "cy": "Illinois",
+      "ceb": "Illinois",
+      "sr_Latn": "Ilinois",
+      "yue_Hans": "伊利奈省",
+      "jv": "Illinois",
+      "sq": "Illinois",
+      "ccp": "𑄣𑄨𑄣𑄳𑄦𑄨𑄚𑄮𑄃𑄨𑄌𑄴",
+      "ga": "Illinois",
+      "ig": "Ilinoi",
+      "ky": "Иллинойс",
+      "so": "Illinois",
+      "pa": "ਇਲੀਨਾਏ",
+      "kk": "Иллинойс",
+      "yue": "伊利奈省",
+      "my": "အီလီနွိုင်းပြည်နယ်",
+      "yo": "Illinois",
+      "uz": "Illinoys",
+      "bs": "Illinois",
+      "mk": "Илиноис"
     },
-    "geo": {
-      "latitude": 40.6331249,
-      "longitude": -89.3985283,
-      "min_latitude": 36.970298,
-      "min_longitude": -91.5130789,
-      "max_latitude": 42.5083379,
-      "max_longitude": -87.4951991
-    },
-    "name": "Illinois"
+    "comments": null
   },
   "IN": {
+    "name": "Indiana",
+    "code": null,
     "unofficial_names": "Indiana",
+    "geo": {
+      "latitude": 40.2671941,
+      "longitude": -86.1349019,
+      "min_latitude": 37.7717419,
+      "min_longitude": -88.097892,
+      "max_latitude": 41.7606971,
+      "max_longitude": -84.784662
+    },
     "translations": {
       "en": "Indiana",
       "af": "Indiana",
@@ -1259,20 +1592,41 @@
       "uk": "Індіана",
       "ur": "انڈیانا",
       "vi": "Indiana",
-      "zh": "印第安纳州"
+      "zh": "印第安纳州",
+      "cy": "Indiana",
+      "ceb": "Indiana (estado)",
+      "sr_Latn": "Indijana",
+      "yue_Hans": "印第安纳州",
+      "jv": "Indiana",
+      "sq": "Indiana",
+      "ccp": "𑄃𑄨𑄚𑄴𑄓𑄨𑄠𑄚",
+      "ga": "Indiana",
+      "ig": "Ndiánà",
+      "ha": "Indiana",
+      "pa": "ਇੰਡਿਆਨਾ",
+      "kk": "Индиана",
+      "yue": "印第安納州",
+      "my": "အင်ဒီယားနားပြည်နယ်",
+      "yo": "Indiana",
+      "zu": "Indiana",
+      "uz": "Indiana",
+      "bs": "Indiana",
+      "mk": "Индијана"
     },
-    "geo": {
-      "latitude": 40.2671941,
-      "longitude": -86.1349019,
-      "min_latitude": 37.7717419,
-      "min_longitude": -88.097892,
-      "max_latitude": 41.7606971,
-      "max_longitude": -84.784662
-    },
-    "name": "Indiana"
+    "comments": null
   },
   "KS": {
+    "name": "Kansas",
+    "code": null,
     "unofficial_names": "Kansas",
+    "geo": {
+      "latitude": 39.011902,
+      "longitude": -98.4842465,
+      "min_latitude": 36.9930159,
+      "min_longitude": -102.0517688,
+      "max_latitude": 40.0045419,
+      "max_longitude": -94.588387
+    },
     "translations": {
       "en": "Kansas",
       "af": "Kansas",
@@ -1333,20 +1687,39 @@
       "uk": "Канзас",
       "ur": "کنساس",
       "vi": "Kansas",
-      "zh": "堪薩斯州"
+      "zh": "堪薩斯州",
+      "cy": "Kansas",
+      "ceb": "Kansas",
+      "sr_Latn": "Kanzas",
+      "yue_Hans": "干沙省",
+      "jv": "Kansas",
+      "sq": "Kansas",
+      "ccp": "𑄇𑄚𑄴𑄥𑄌𑄴",
+      "ga": "Kansas",
+      "ig": "Kánzạs",
+      "pa": "ਕਾਂਸਸ",
+      "kk": "Канзас",
+      "yue": "干沙省",
+      "my": "ကန်းဆပ်ပြည်နယ်",
+      "yo": "Kansas",
+      "uz": "Kanzas",
+      "bs": "Kansas",
+      "mk": "Канзас"
     },
-    "geo": {
-      "latitude": 39.011902,
-      "longitude": -98.4842465,
-      "min_latitude": 36.9930159,
-      "min_longitude": -102.0517688,
-      "max_latitude": 40.0045419,
-      "max_longitude": -94.588387
-    },
-    "name": "Kansas"
+    "comments": null
   },
   "KY": {
+    "name": "Kentucky",
+    "code": null,
     "unofficial_names": "Kentucky",
+    "geo": {
+      "latitude": 37.8393332,
+      "longitude": -84.2700179,
+      "min_latitude": 36.4971289,
+      "min_longitude": -89.5715089,
+      "max_latitude": 39.147458,
+      "max_longitude": -81.9649708
+    },
     "translations": {
       "en": "Kentucky",
       "af": "Kentucky",
@@ -1407,20 +1780,39 @@
       "uk": "Кентуккі",
       "ur": "کینٹکی",
       "vi": "Kentucky",
-      "zh": "肯塔基州"
+      "zh": "肯塔基州",
+      "cy": "Kentucky",
+      "ceb": "Kentucky",
+      "sr_Latn": "Kentaki",
+      "yue_Hans": "肯塔基州",
+      "jv": "Kentucky",
+      "sq": "Kentucky",
+      "ccp": "𑄇𑄬𑄚𑄴𑄑𑄪𑄇𑄨",
+      "ga": "Kentucky",
+      "ig": "Kentórkị",
+      "pa": "ਕਿੰਟਕੀ",
+      "kk": "Кентукки",
+      "yue": "肯塔基州",
+      "my": "ကင်တပ်ကီပြည်နယ်",
+      "yo": "Kentucky",
+      "uz": "Kentukki",
+      "bs": "Kentucky",
+      "mk": "Кентаки"
     },
-    "geo": {
-      "latitude": 37.8393332,
-      "longitude": -84.2700179,
-      "min_latitude": 36.4971289,
-      "min_longitude": -89.5715089,
-      "max_latitude": 39.147458,
-      "max_longitude": -81.9649708
-    },
-    "name": "Kentucky"
+    "comments": null
   },
   "LA": {
+    "name": "Louisiana",
+    "code": null,
     "unofficial_names": "Louisiana",
+    "geo": {
+      "latitude": 30.9842977,
+      "longitude": -91.96233269999999,
+      "min_latitude": 28.9254296,
+      "min_longitude": -94.043352,
+      "max_latitude": 33.019544,
+      "max_longitude": -88.8162401
+    },
     "translations": {
       "en": "Louisiana",
       "af": "Louisiana",
@@ -1481,20 +1873,39 @@
       "uk": "Луїзіана",
       "ur": "لوزیانا",
       "vi": "Louisiana",
-      "zh": "路易斯安那州"
+      "zh": "路易斯安那州",
+      "cy": "Louisiana",
+      "ceb": "Louisiana (estado)",
+      "sr_Latn": "Luizijana",
+      "yue_Hans": "路易斯安那州",
+      "jv": "Louisiana",
+      "sq": "Louisiana",
+      "ccp": "𑄣𑄭𑄪𑄎𑄨𑄠𑄚",
+      "ga": "Louisiana",
+      "ig": "Luwisiánà",
+      "pa": "ਲੂਈਜ਼ੀਆਨਾ",
+      "kk": "Луизиана",
+      "yue": "路易斯安那州",
+      "my": "လူဝီစီယားနားပြည်နယ်",
+      "yo": "Louisiana",
+      "uz": "Luiziana",
+      "bs": "Louisiana",
+      "mk": "Луизијана"
     },
-    "geo": {
-      "latitude": 30.9842977,
-      "longitude": -91.96233269999999,
-      "min_latitude": 28.9254296,
-      "min_longitude": -94.043352,
-      "max_latitude": 33.019544,
-      "max_longitude": -88.8162401
-    },
-    "name": "Louisiana"
+    "comments": null
   },
   "MA": {
+    "name": "Massachusetts",
+    "code": null,
     "unofficial_names": "Massachusetts",
+    "geo": {
+      "latitude": 42.4072107,
+      "longitude": -71.3824374,
+      "min_latitude": 41.2390448,
+      "min_longitude": -73.5081419,
+      "max_latitude": 42.88679,
+      "max_longitude": -69.92855109999999
+    },
     "translations": {
       "en": "Massachusetts",
       "af": "Massachusetts",
@@ -1555,20 +1966,42 @@
       "uk": "Массачусетс",
       "ur": "میساچوسٹس",
       "vi": "Massachusetts",
-      "zh": "麻薩諸塞州"
+      "zh": "麻薩諸塞州",
+      "cy": "Massachusetts",
+      "ceb": "Massachusetts",
+      "sr_Latn": "Masačusets",
+      "yue_Hans": "麻省",
+      "jv": "Massachusetts",
+      "sq": "Massachusetts",
+      "ccp": "𑄟𑄥𑄌𑄪𑄥𑄬𑄖𑄴𑄌𑄴",
+      "sd": "مئسچوسٽس",
+      "ga": "Massachusetts",
+      "ig": "Másáchusẹts",
+      "ky": "Массачусетс",
+      "pa": "ਮੈਸਾਚੂਸਟਸ",
+      "kk": "Массачусетс",
+      "yue": "麻省",
+      "my": "မက်ဆာချူးဆက်ပြည်နယ်",
+      "yo": "Massachusetts",
+      "zu": "Massachusetts",
+      "uz": "Massachusetts",
+      "bs": "Massachusetts",
+      "mk": "Масачусетс"
     },
-    "geo": {
-      "latitude": 42.4072107,
-      "longitude": -71.3824374,
-      "min_latitude": 41.2390448,
-      "min_longitude": -73.5081419,
-      "max_latitude": 42.88679,
-      "max_longitude": -69.92855109999999
-    },
-    "name": "Massachusetts"
+    "comments": null
   },
   "MD": {
+    "name": "Maryland",
+    "code": null,
     "unofficial_names": "Maryland",
+    "geo": {
+      "latitude": 39.0457549,
+      "longitude": -76.64127119999999,
+      "min_latitude": 37.8895135,
+      "min_longitude": -79.4876511,
+      "max_latitude": 39.723037,
+      "max_longitude": -75.04918119999999
+    },
     "translations": {
       "en": "Maryland",
       "af": "Maryland",
@@ -1629,20 +2062,40 @@
       "uk": "Меріленд",
       "ur": "میری لینڈ",
       "vi": "Maryland",
-      "zh": "马里兰州"
+      "zh": "马里兰州",
+      "cy": "Maryland",
+      "ceb": "Maryland (estado)",
+      "sr_Latn": "Merilend",
+      "yue_Hans": "马利兰州",
+      "jv": "Maryland",
+      "sq": "Maryland",
+      "ccp": "𑄟𑄬𑄢𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Maryland",
+      "ig": "Mérílạnd",
+      "pa": "ਮੈਰੀਲੈਂਡ",
+      "kk": "Мэриленд",
+      "yue": "馬利蘭州",
+      "my": "မေရီလန်းပြည်နယ်",
+      "yo": "Maryland",
+      "zu": "Maryland",
+      "uz": "Maryland",
+      "bs": "Maryland",
+      "mk": "Мериленд"
     },
-    "geo": {
-      "latitude": 39.0457549,
-      "longitude": -76.64127119999999,
-      "min_latitude": 37.8895135,
-      "min_longitude": -79.4876511,
-      "max_latitude": 39.723037,
-      "max_longitude": -75.04918119999999
-    },
-    "name": "Maryland"
+    "comments": null
   },
   "ME": {
+    "name": "Maine",
+    "code": null,
     "unofficial_names": "Maine",
+    "geo": {
+      "latitude": 45.253783,
+      "longitude": -69.4454689,
+      "min_latitude": 42.9747059,
+      "min_longitude": -71.08433409999999,
+      "max_latitude": 47.4596734,
+      "max_longitude": -66.94539720000002
+    },
     "translations": {
       "en": "Maine",
       "af": "Maine",
@@ -1703,20 +2156,39 @@
       "uk": "Мен",
       "ur": "مینے",
       "vi": "Maine",
-      "zh": "缅因州"
+      "zh": "缅因州",
+      "cy": "Maine",
+      "ceb": "Maine",
+      "sr_Latn": "Mejn",
+      "yue_Hans": "缅因州",
+      "jv": "Maine",
+      "sq": "Maine",
+      "ccp": "𑄟𑄭𑄚𑄬",
+      "ga": "Maine",
+      "ig": "Mën",
+      "pa": "ਮੇਨ",
+      "kk": "Мэн",
+      "yue": "緬因州",
+      "my": "မိန်းပြည်နယ်",
+      "yo": "Maine",
+      "uz": "Meyn",
+      "bs": "Maine",
+      "mk": "Мејн"
     },
-    "geo": {
-      "latitude": 45.253783,
-      "longitude": -69.4454689,
-      "min_latitude": 42.9747059,
-      "min_longitude": -71.08433409999999,
-      "max_latitude": 47.4596734,
-      "max_longitude": -66.94539720000002
-    },
-    "name": "Maine"
+    "comments": null
   },
   "MI": {
+    "name": "Michigan",
+    "code": null,
     "unofficial_names": "Michigan",
+    "geo": {
+      "latitude": 44.3148443,
+      "longitude": -85.60236429999999,
+      "min_latitude": 41.696118,
+      "min_longitude": -90.4181358,
+      "max_latitude": 48.1986461,
+      "max_longitude": -82.3990376
+    },
     "translations": {
       "en": "Michigan",
       "af": "Michigan",
@@ -1778,20 +2250,39 @@
       "uk": "Мічиган",
       "ur": "مشی گن",
       "vi": "Michigan",
-      "zh": "密歇根州"
+      "zh": "密歇根州",
+      "cy": "Michigan",
+      "ceb": "Michigan",
+      "sr_Latn": "Mičigen",
+      "yue_Hans": "密芝根州",
+      "jv": "Michigan",
+      "sq": "Michigan",
+      "ccp": "𑄟𑄨𑄥𑄨𑄉𑄚𑄴",
+      "ga": "Michigan",
+      "ig": "Michigan",
+      "pa": "ਮਿਸ਼ੀਗਨ",
+      "kk": "Мичиган",
+      "yue": "密芝根州",
+      "my": "မီချီဂန်ပြည်နယ်",
+      "yo": "Michigan",
+      "uz": "Michigan",
+      "bs": "Michigan",
+      "mk": "Мичиген"
     },
-    "geo": {
-      "latitude": 44.3148443,
-      "longitude": -85.60236429999999,
-      "min_latitude": 41.696118,
-      "min_longitude": -90.4181358,
-      "max_latitude": 48.1986461,
-      "max_longitude": -82.3990376
-    },
-    "name": "Michigan"
+    "comments": null
   },
   "MN": {
+    "name": "Minnesota",
+    "code": null,
     "unofficial_names": "Minnesota",
+    "geo": {
+      "latitude": 46.729553,
+      "longitude": -94.6858998,
+      "min_latitude": 43.499361,
+      "min_longitude": -97.23919579999999,
+      "max_latitude": 49.3828204,
+      "max_longitude": -89.49183339999999
+    },
     "translations": {
       "en": "Minnesota",
       "af": "Minnesota",
@@ -1852,20 +2343,40 @@
       "uk": "Міннесота",
       "ur": "مینیسوٹا",
       "vi": "Minnesota",
-      "zh": "明尼蘇達州"
+      "zh": "明尼蘇達州",
+      "cy": "Minnesota",
+      "ceb": "Minnesota",
+      "sr_Latn": "Minesota",
+      "yue_Hans": "明尼苏达州",
+      "jv": "Minnesota",
+      "sq": "Minnesota",
+      "ccp": "𑄟𑄨𑄚𑄬𑄥𑄮𑄑",
+      "ga": "Minnesota",
+      "ig": "Minésótạ",
+      "so": "Minnesota",
+      "pa": "ਮਿਨੇਸੋਟਾ",
+      "kk": "Миннесота",
+      "yue": "明尼蘇達州",
+      "my": "မင်နီဆိုးတားပြည်နယ်",
+      "yo": "Minnesota",
+      "uz": "Minnesota",
+      "bs": "Minnesota",
+      "mk": "Минесота"
     },
-    "geo": {
-      "latitude": 46.729553,
-      "longitude": -94.6858998,
-      "min_latitude": 43.499361,
-      "min_longitude": -97.23919579999999,
-      "max_latitude": 49.3828204,
-      "max_longitude": -89.49183339999999
-    },
-    "name": "Minnesota"
+    "comments": null
   },
   "MO": {
+    "name": "Missouri",
+    "code": null,
     "unofficial_names": "Missouri",
+    "geo": {
+      "latitude": 37.9642529,
+      "longitude": -91.8318334,
+      "min_latitude": 35.9956829,
+      "min_longitude": -95.774704,
+      "max_latitude": 40.61364,
+      "max_longitude": -89.09949399999999
+    },
     "translations": {
       "en": "Missouri",
       "af": "Missouri",
@@ -1926,23 +2437,32 @@
       "uk": "Міссурі",
       "ur": "مسوری",
       "vi": "Missouri",
-      "zh": "密蘇里州"
+      "zh": "密蘇里州",
+      "cy": "Missouri",
+      "ceb": "Missouri",
+      "yo_BJ": "Ìpínlɛ̀ Missouri",
+      "sr_Latn": "Misuri",
+      "yue_Hans": "美疏利省",
+      "jv": "Missouri",
+      "sq": "Missouri",
+      "ccp": "𑄟𑄨𑄥𑄯𑄢𑄨",
+      "ga": "Missouri",
+      "ig": "Mizurị",
+      "pa": "ਮਿਜ਼ੂਰੀ",
+      "kk": "Миссури",
+      "yue": "美疏利省",
+      "my": "မစ်ဆိုရီပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Missouri",
+      "uz": "Missuri",
+      "bs": "Missouri",
+      "mk": "Мисури"
     },
-    "geo": {
-      "latitude": 37.9642529,
-      "longitude": -91.8318334,
-      "min_latitude": 35.9956829,
-      "min_longitude": -95.774704,
-      "max_latitude": 40.61364,
-      "max_longitude": -89.09949399999999
-    },
-    "name": "Missouri"
+    "comments": null
   },
   "MP": {
+    "name": "Northern Mariana Islands",
+    "code": null,
     "unofficial_names": "Northern Mariana Islands",
-    "translations": {
-      "en": "Northern Mariana Islands"
-    },
     "geo": {
       "latitude": 15.1466435,
       "longitude": 145.7023038,
@@ -1951,11 +2471,24 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "see also separate entry under MP",
-    "name": "Northern Mariana Islands"
+    "translations": {
+      "en": "Northern Mariana Islands",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄟𑄬𑄢𑄨𑄠𑄚 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
+    },
+    "comments": "see also separate entry under MP"
   },
   "MS": {
+    "name": "Mississippi",
+    "code": null,
     "unofficial_names": "Mississippi",
+    "geo": {
+      "latitude": 32.3546679,
+      "longitude": -89.3985283,
+      "min_latitude": 30.1741032,
+      "min_longitude": -91.6550089,
+      "max_latitude": 34.9961091,
+      "max_longitude": -88.0994303
+    },
     "translations": {
       "en": "Mississippi",
       "af": "Mississippi",
@@ -2016,20 +2549,40 @@
       "uk": "Міссісіпі",
       "ur": "مسیسپی",
       "vi": "Mississippi",
-      "zh": "密西西比州"
+      "zh": "密西西比州",
+      "cy": "Mississippi",
+      "ceb": "Mississippi",
+      "yo_BJ": "Ìpínlɛ̀ Mississippi",
+      "sr_Latn": "Misisipi",
+      "yue_Hans": "密西西比州",
+      "jv": "Mississippi",
+      "sq": "Mississippi",
+      "ccp": "𑄟𑄨𑄥𑄨𑄥𑄨𑄛𑄨",
+      "ga": "Mississippi",
+      "ig": "Mississippi",
+      "pa": "ਮਿਸੀਸਿੱਪੀ",
+      "kk": "Миссисипи",
+      "yue": "密西西比州",
+      "my": "မစ္စစ္စပီပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Mississippi",
+      "uz": "Mississippi",
+      "bs": "Mississippi",
+      "mk": "Мисисипи"
     },
-    "geo": {
-      "latitude": 32.3546679,
-      "longitude": -89.3985283,
-      "min_latitude": 30.1741032,
-      "min_longitude": -91.6550089,
-      "max_latitude": 34.9961091,
-      "max_longitude": -88.0994303
-    },
-    "name": "Mississippi"
+    "comments": null
   },
   "MT": {
+    "name": "Montana",
+    "code": null,
     "unofficial_names": "Montana",
+    "geo": {
+      "latitude": 46.8796822,
+      "longitude": -110.3625658,
+      "min_latitude": 44.3582089,
+      "min_longitude": -116.050003,
+      "max_latitude": 49.00139,
+      "max_longitude": -104.039563
+    },
     "translations": {
       "en": "Montana",
       "af": "Montana",
@@ -2089,20 +2642,41 @@
       "uk": "Монтана",
       "ur": "مونٹانا",
       "vi": "Montana",
-      "zh": "蒙大拿州"
+      "zh": "蒙大拿州",
+      "cy": "Montana",
+      "ceb": "Montana (estado)",
+      "sr_Latn": "Montana",
+      "yue_Hans": "望丹拿省",
+      "jv": "Montana",
+      "sq": "Montana",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄚",
+      "ga": "Montana",
+      "ig": "Montana",
+      "ky": "Монтана",
+      "ha": "Montana",
+      "pa": "ਮੋਂਟਾਨਾ",
+      "kk": "Монтана",
+      "yue": "望丹拿省",
+      "my": "မွန်တားနားပြည်နယ်",
+      "yo": "Montana",
+      "uz": "Montana",
+      "bs": "Montana",
+      "mk": "Монтана"
     },
-    "geo": {
-      "latitude": 46.8796822,
-      "longitude": -110.3625658,
-      "min_latitude": 44.3582089,
-      "min_longitude": -116.050003,
-      "max_latitude": 49.00139,
-      "max_longitude": -104.039563
-    },
-    "name": "Montana"
+    "comments": null
   },
   "NC": {
+    "name": "North Carolina",
+    "code": null,
     "unofficial_names": "North Carolina",
+    "geo": {
+      "latitude": 35.7595731,
+      "longitude": -79.01929969999999,
+      "min_latitude": 33.8409689,
+      "min_longitude": -84.32186899999999,
+      "max_latitude": 36.5881568,
+      "max_longitude": -75.4599515
+    },
     "translations": {
       "en": "North Carolina",
       "af": "Noord-Carolina",
@@ -2162,20 +2736,39 @@
       "uk": "Північна Кароліна",
       "ur": "شمالی کیرولینا",
       "vi": "Bắc Carolina",
-      "zh": "北卡罗来纳州"
+      "zh": "北卡罗来纳州",
+      "cy": "Gogledd Carolina",
+      "ceb": "North Carolina",
+      "sr_Latn": "Severna Karolina",
+      "yue_Hans": "北卡罗莱纳州",
+      "jv": "North Carolina",
+      "sq": "North Carolina",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄳𑄠𑄢𑄮𑄣𑄨𑄚",
+      "ga": "Carolina Thuaidh",
+      "ig": "Nort Kárólínạ",
+      "pa": "ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ",
+      "kk": "Солтүстік Каролина",
+      "yue": "北卡羅萊納州",
+      "my": "မြောက်ကယ်ရိုလိုင်းနားပြည်နယ်",
+      "yo": "Àríwá Carolina",
+      "uz": "Shimoliy Karolina",
+      "bs": "Sjeverna Karolina",
+      "mk": "Северна Каролина"
     },
-    "geo": {
-      "latitude": 35.7595731,
-      "longitude": -79.01929969999999,
-      "min_latitude": 33.8409689,
-      "min_longitude": -84.32186899999999,
-      "max_latitude": 36.5881568,
-      "max_longitude": -75.4599515
-    },
-    "name": "North Carolina"
+    "comments": null
   },
   "ND": {
+    "name": "North Dakota",
+    "code": null,
     "unofficial_names": "North Dakota",
+    "geo": {
+      "latitude": 47.5514926,
+      "longitude": -101.0020119,
+      "min_latitude": 45.9350719,
+      "min_longitude": -104.05004,
+      "max_latitude": 49.000692,
+      "max_longitude": -96.554491
+    },
     "translations": {
       "en": "North Dakota",
       "af": "Noord-Dakota",
@@ -2236,20 +2829,40 @@
       "uk": "Північна Дакота",
       "ur": "شمالی ڈکوٹا",
       "vi": "Bắc Dakota",
-      "zh": "北达科他州"
+      "zh": "北达科他州",
+      "cy": "Gogledd Dakota",
+      "ceb": "North Dakota",
+      "sr_Latn": "Severna Dakota",
+      "yue_Hans": "北得高打省",
+      "jv": "North Dakota",
+      "sq": "North Dakota",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄓𑄇𑄮𑄑",
+      "ga": "Dakota Thuaidh",
+      "ig": "North Dakota",
+      "ha": "North Dakota",
+      "pa": "ਉੱਤਰੀ ਡਕੋਟਾ",
+      "kk": "Солтүстік Дакота",
+      "yue": "北得高打省",
+      "my": "မြောက်ဒါကိုတာပြည်နယ်",
+      "yo": "Àríwá Dakota",
+      "uz": "Shimoliy Dakota",
+      "bs": "Sjeverna Dakota",
+      "mk": "Северна Дакота"
     },
-    "geo": {
-      "latitude": 47.5514926,
-      "longitude": -101.0020119,
-      "min_latitude": 45.9350719,
-      "min_longitude": -104.05004,
-      "max_latitude": 49.000692,
-      "max_longitude": -96.554491
-    },
-    "name": "North Dakota"
+    "comments": null
   },
   "NE": {
+    "name": "Nebraska",
+    "code": null,
     "unofficial_names": "Nebraska",
+    "geo": {
+      "latitude": 41.4925374,
+      "longitude": -99.9018131,
+      "min_latitude": 39.999932,
+      "min_longitude": -104.053514,
+      "max_latitude": 43.00170689999999,
+      "max_longitude": -95.30829000000001
+    },
     "translations": {
       "en": "Nebraska",
       "af": "Nebraska",
@@ -2310,20 +2923,40 @@
       "uk": "Небраска",
       "ur": "نیبراسکا",
       "vi": "Nebraska",
-      "zh": "內布拉斯加州"
+      "zh": "內布拉斯加州",
+      "cy": "Nebraska",
+      "ceb": "Nebraska",
+      "sr_Latn": "Nebraska",
+      "yue_Hans": "内布拉斯加州",
+      "jv": "Nebraska",
+      "sq": "Nebraska",
+      "ccp": "𑄚𑄬𑄝𑄳𑄢𑄌𑄴𑄇",
+      "ga": "Nebraska",
+      "ig": "Nebraska",
+      "ha": "Nebraska",
+      "pa": "ਨਬਰਾਸਕਾ",
+      "kk": "Небраска",
+      "yue": "內布拉斯加州",
+      "my": "နီဘရားစကားပြည်နယ်",
+      "yo": "Nebraska",
+      "uz": "Nebraska",
+      "bs": "Nebraska",
+      "mk": "Небраска"
     },
-    "geo": {
-      "latitude": 41.4925374,
-      "longitude": -99.9018131,
-      "min_latitude": 39.999932,
-      "min_longitude": -104.053514,
-      "max_latitude": 43.00170689999999,
-      "max_longitude": -95.30829000000001
-    },
-    "name": "Nebraska"
+    "comments": null
   },
   "NH": {
+    "name": "New Hampshire",
+    "code": null,
     "unofficial_names": "New Hampshire",
+    "geo": {
+      "latitude": 43.1938516,
+      "longitude": -71.5723953,
+      "min_latitude": 42.696985,
+      "min_longitude": -72.55718499999999,
+      "max_latitude": 45.3054761,
+      "max_longitude": -70.602656
+    },
     "translations": {
       "en": "New Hampshire",
       "af": "New Hampshire",
@@ -2384,20 +3017,40 @@
       "uk": "Нью-Гемпшир",
       "ur": "نیو ہیمپشائر",
       "vi": "New Hampshire",
-      "zh": "新罕布什尔州"
+      "zh": "新罕布什尔州",
+      "cy": "New Hampshire",
+      "ceb": "New Hampshire",
+      "sr_Latn": "Nju Hempšir",
+      "yue_Hans": "纽咸西州",
+      "jv": "New Hampshire",
+      "sq": "New Hampshire",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄦𑄟𑄴𑄥𑄠𑄢𑄴",
+      "ga": "New Hampshire",
+      "ig": "Hampshire Ohúrú",
+      "ky": "Нью-Хемпшир",
+      "pa": "ਨਿਊ ਹੈਂਪਸ਼ਰ",
+      "kk": "Нью-Гэмпшир",
+      "yue": "紐咸西州",
+      "my": "နယူးဟမ်ရှိုင်းယားပြည်နယ်",
+      "yo": "New Hampshire",
+      "uz": "Nyu-Xempshir",
+      "bs": "New Hampshire",
+      "mk": "Њу Хемпшир"
     },
-    "geo": {
-      "latitude": 43.1938516,
-      "longitude": -71.5723953,
-      "min_latitude": 42.696985,
-      "min_longitude": -72.55718499999999,
-      "max_latitude": 45.3054761,
-      "max_longitude": -70.602656
-    },
-    "name": "New Hampshire"
+    "comments": null
   },
   "NJ": {
+    "name": "New Jersey",
+    "code": null,
     "unofficial_names": "New Jersey",
+    "geo": {
+      "latitude": 40.0583238,
+      "longitude": -74.4056612,
+      "min_latitude": 38.9285589,
+      "min_longitude": -75.5597921,
+      "max_latitude": 41.357423,
+      "max_longitude": -73.9024391
+    },
     "translations": {
       "en": "New Jersey",
       "af": "New Jersey",
@@ -2457,20 +3110,41 @@
       "uk": "Нью-Джерсі",
       "ur": "نیو جرسی",
       "vi": "New Jersey",
-      "zh": "新泽西州"
+      "zh": "新泽西州",
+      "cy": "New Jersey",
+      "ceb": "New Jersey",
+      "sr_Latn": "Nju Džerzi",
+      "yue_Hans": "纽泽西州",
+      "jv": "New Jersey",
+      "sq": "New Jersey",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄎𑄢𑄴𑄥𑄨",
+      "ga": "New Jersey",
+      "ig": "Nú Jezị",
+      "ky": "Нью-Джерси",
+      "pa": "ਨਿਊ ਜਰਸੀ",
+      "kk": "Нью-Джерси",
+      "yue": "紐澤西州",
+      "my": "နယူးဂျာစီပြည်နယ်",
+      "yo": "New Jersey",
+      "zu": "New Jersey",
+      "uz": "Nʼyu-Jersi",
+      "bs": "New Jersey",
+      "mk": "Њу Џерси"
     },
-    "geo": {
-      "latitude": 40.0583238,
-      "longitude": -74.4056612,
-      "min_latitude": 38.9285589,
-      "min_longitude": -75.5597921,
-      "max_latitude": 41.357423,
-      "max_longitude": -73.9024391
-    },
-    "name": "New Jersey"
+    "comments": null
   },
   "NM": {
+    "name": "New Mexico",
+    "code": null,
     "unofficial_names": "New Mexico",
+    "geo": {
+      "latitude": 34.5199402,
+      "longitude": -105.8700901,
+      "min_latitude": 31.332172,
+      "min_longitude": -109.050173,
+      "max_latitude": 37.0002931,
+      "max_longitude": -103.001964
+    },
     "translations": {
       "en": "New Mexico",
       "af": "Nieu-Meksiko",
@@ -2531,20 +3205,42 @@
       "uk": "Нью-Мексико",
       "ur": "نیو میکسیکو",
       "vi": "New Mexico",
-      "zh": "新墨西哥州"
+      "zh": "新墨西哥州",
+      "cy": "New Mexico",
+      "ceb": "New Mexico",
+      "yo_BJ": "Ìpínlɛ̀ Titun Mɛ́ksíkò",
+      "sr_Latn": "Novi Meksiko",
+      "yue_Hans": "新墨西哥州",
+      "jv": "New Mexico",
+      "sq": "New Mexico",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮",
+      "ga": "Nua-Mheicsiceo",
+      "ig": "Nú Mézíkọ",
+      "ky": "Нью-Мексико",
+      "ha": "New Mexico",
+      "pa": "ਨਿਊ ਮੈਕਸੀਕੋ",
+      "kk": "Нью-Мексико",
+      "yue": "新墨西哥州",
+      "my": "နယူးမက္ကဆီကိုပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Titun Mẹ́ksíkò",
+      "uz": "Nʼyu-Meksiko",
+      "bs": "New Mexico",
+      "mk": "Ново Мексико"
     },
-    "geo": {
-      "latitude": 34.5199402,
-      "longitude": -105.8700901,
-      "min_latitude": 31.332172,
-      "min_longitude": -109.050173,
-      "max_latitude": 37.0002931,
-      "max_longitude": -103.001964
-    },
-    "name": "New Mexico"
+    "comments": null
   },
   "NV": {
+    "name": "Nevada",
+    "code": null,
     "unofficial_names": "Nevada",
+    "geo": {
+      "latitude": 38.8026097,
+      "longitude": -116.419389,
+      "min_latitude": 35.001857,
+      "min_longitude": -120.0064729,
+      "max_latitude": 42.002207,
+      "max_longitude": -114.0396479
+    },
     "translations": {
       "en": "Nevada",
       "af": "Nevada",
@@ -2605,20 +3301,41 @@
       "uk": "Невада",
       "ur": "نیواڈا",
       "vi": "Nevada",
-      "zh": "内华达州"
+      "zh": "内华达州",
+      "cy": "Nevada",
+      "ceb": "Nevada",
+      "sr_Latn": "Nevada",
+      "yue_Hans": "内华达州",
+      "jv": "Nevada",
+      "sq": "Nevada",
+      "ccp": "𑄚𑄬𑄞𑄓",
+      "ga": "Nevada",
+      "ig": "Náevadạ",
+      "ha": "Nevada",
+      "pa": "ਨਵਾਡਾ",
+      "kk": "Невада",
+      "yue": "內華達州",
+      "my": "နီဗားဒါးပြည်နယ်",
+      "yo": "Nevada",
+      "zu": "Nevada",
+      "uz": "Nevada",
+      "bs": "Nevada",
+      "mk": "Невада"
     },
-    "geo": {
-      "latitude": 38.8026097,
-      "longitude": -116.419389,
-      "min_latitude": 35.001857,
-      "min_longitude": -120.0064729,
-      "max_latitude": 42.002207,
-      "max_longitude": -114.0396479
-    },
-    "name": "Nevada"
+    "comments": null
   },
   "NY": {
+    "name": "New York",
+    "code": null,
     "unofficial_names": "New York",
+    "geo": {
+      "latitude": 43.2994285,
+      "longitude": -74.21793260000001,
+      "min_latitude": 40.4913686,
+      "min_longitude": -79.76214379999999,
+      "max_latitude": 45.015865,
+      "max_longitude": -71.8562755
+    },
     "translations": {
       "en": "New York",
       "af": "New York",
@@ -2685,20 +3402,43 @@
       "uk": "Нью-Йорк",
       "ur": "نیویارک",
       "vi": "Tiểu bang New York",
-      "zh": "纽约州"
+      "zh": "纽约州",
+      "cy": "Efrog Newydd",
+      "ceb": "New York",
+      "yo_BJ": "Ìpínlɛ̀ New York",
+      "sr_Latn": "Njujork",
+      "yue_Hans": "纽约州",
+      "jv": "New York",
+      "sq": "New York",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄃𑄨𑄠𑄧𑄢𑄴𑄇𑄴",
+      "ga": "Nua-Eabhrac",
+      "ig": "Nú Yọk",
+      "ha": "New York (jiha)",
+      "so": "New York",
+      "pa": "ਨਿਊਯਾਰਕ",
+      "kk": "Нью-Йорк",
+      "yue": "紐約州",
+      "my": "နယူးယောက်ပြည်နယ်",
+      "yo": "Ìpínlẹ̀ New York",
+      "zu": "New York Isifunda",
+      "uz": "Nyu York",
+      "bs": "New York",
+      "mk": "Њујорк"
     },
-    "geo": {
-      "latitude": 43.2994285,
-      "longitude": -74.21793260000001,
-      "min_latitude": 40.4913686,
-      "min_longitude": -79.76214379999999,
-      "max_latitude": 45.015865,
-      "max_longitude": -71.8562755
-    },
-    "name": "New York"
+    "comments": null
   },
   "OH": {
+    "name": "Ohio",
+    "code": null,
     "unofficial_names": "Ohio",
+    "geo": {
+      "latitude": 40.4172871,
+      "longitude": -82.90712300000001,
+      "min_latitude": 38.4034229,
+      "min_longitude": -84.8203049,
+      "max_latitude": 41.9773019,
+      "max_longitude": -80.5182
+    },
     "translations": {
       "en": "Ohio",
       "af": "Ohio",
@@ -2759,20 +3499,40 @@
       "uk": "Огайо",
       "ur": "اوہائیو",
       "vi": "Ohio",
-      "zh": "俄亥俄州"
+      "zh": "俄亥俄州",
+      "cy": "Ohio",
+      "ceb": "Ohio",
+      "sr_Latn": "Ohajo",
+      "yue_Hans": "俄亥俄州",
+      "jv": "Ohio",
+      "sq": "Ohio",
+      "ccp": "𑄃𑄮𑄦𑄨𑄃𑄮",
+      "ga": "Ohio",
+      "ig": "Ohaïyo",
+      "ha": "Ohio",
+      "pa": "ਓਹਾਇਓ",
+      "kk": "Огайо",
+      "yue": "俄亥俄州",
+      "my": "အိုဟိုင်းယိုးပြည်နယ်",
+      "yo": "Ohio",
+      "uz": "Ogayo",
+      "bs": "Ohio",
+      "mk": "Охајо"
     },
-    "geo": {
-      "latitude": 40.4172871,
-      "longitude": -82.90712300000001,
-      "min_latitude": 38.4034229,
-      "min_longitude": -84.8203049,
-      "max_latitude": 41.9773019,
-      "max_longitude": -80.5182
-    },
-    "name": "Ohio"
+    "comments": null
   },
   "OK": {
+    "name": "Oklahoma",
+    "code": null,
     "unofficial_names": "Oklahoma",
+    "geo": {
+      "latitude": 35.0077519,
+      "longitude": -97.092877,
+      "min_latitude": 33.615787,
+      "min_longitude": -103.002455,
+      "max_latitude": 37.0023119,
+      "max_longitude": -94.430662
+    },
     "translations": {
       "en": "Oklahoma",
       "af": "Oklahoma",
@@ -2833,20 +3593,41 @@
       "uk": "Оклахома",
       "ur": "اوکلاہوما",
       "vi": "Oklahoma",
-      "zh": "奧克拉荷馬州"
+      "zh": "奧克拉荷馬州",
+      "cy": "Oclahoma",
+      "ceb": "Oklahoma",
+      "sr_Latn": "Oklahoma",
+      "yue_Hans": "奥克拉何马州",
+      "jv": "Oklahoma",
+      "sq": "Oklahoma",
+      "ccp": "𑄃𑄇𑄴𑄣𑄦𑄮𑄟",
+      "ga": "Oklahoma",
+      "ig": "Oklahoma",
+      "ky": "Оклахома",
+      "ha": "Oklahoma",
+      "pa": "ਓਕਲਾਹੋਮਾ",
+      "kk": "Оклахома",
+      "yue": "奧克拉何馬州",
+      "my": "ဥက္ကလာဟိုးမားပြည်နယ်",
+      "yo": "Oklahoma",
+      "uz": "Oklaxoma",
+      "bs": "Oklahoma",
+      "mk": "Оклахома"
     },
-    "geo": {
-      "latitude": 35.0077519,
-      "longitude": -97.092877,
-      "min_latitude": 33.615787,
-      "min_longitude": -103.002455,
-      "max_latitude": 37.0023119,
-      "max_longitude": -94.430662
-    },
-    "name": "Oklahoma"
+    "comments": null
   },
   "OR": {
+    "name": "Oregon",
+    "code": null,
     "unofficial_names": "Oregon",
+    "geo": {
+      "latitude": 43.8041334,
+      "longitude": -120.5542012,
+      "min_latitude": 41.9917941,
+      "min_longitude": -124.6129365,
+      "max_latitude": 46.2920157,
+      "max_longitude": -116.463262
+    },
     "translations": {
       "en": "Oregon",
       "af": "Oregon",
@@ -2907,20 +3688,40 @@
       "uk": "Орегон",
       "ur": "اوریگون",
       "vi": "Oregon",
-      "zh": "俄勒冈州"
+      "zh": "俄勒冈州",
+      "cy": "Oregon",
+      "ceb": "Oregon",
+      "sr_Latn": "Oregon",
+      "yue_Hans": "柯利近省",
+      "jv": "Oregon",
+      "sq": "Oregon",
+      "ccp": "𑄃𑄢𑄨𑄉𑄧𑄚𑄴",
+      "ga": "Oregon",
+      "ig": "Oregon",
+      "ha": "Oregon",
+      "pa": "ਔਰੇਗਨ",
+      "kk": "Орегон",
+      "yue": "柯利近省",
+      "my": "အိုရီဂွန်ပြည်နယ်",
+      "yo": "Oregon",
+      "uz": "Oregon",
+      "bs": "Oregon",
+      "mk": "Орегон"
     },
-    "geo": {
-      "latitude": 43.8041334,
-      "longitude": -120.5542012,
-      "min_latitude": 41.9917941,
-      "min_longitude": -124.6129365,
-      "max_latitude": 46.2920157,
-      "max_longitude": -116.463262
-    },
-    "name": "Oregon"
+    "comments": null
   },
   "PA": {
+    "name": "Pennsylvania",
+    "code": null,
     "unofficial_names": "Pennsylvania",
+    "geo": {
+      "latitude": 41.2033216,
+      "longitude": -77.1945247,
+      "min_latitude": 39.7197989,
+      "min_longitude": -80.51989499999999,
+      "max_latitude": 42.2693866,
+      "max_longitude": -74.6895018
+    },
     "translations": {
       "en": "Pennsylvania",
       "af": "Pennsilvanië",
@@ -2981,23 +3782,33 @@
       "uk": "Пенсильванія",
       "ur": "پنسلوانیا",
       "vi": "Pennsylvania",
-      "zh": "宾夕法尼亚州"
+      "zh": "宾夕法尼亚州",
+      "cy": "Pennsylvania",
+      "ceb": "Pennsylvania",
+      "sr_Latn": "Pensilvanija",
+      "yue_Hans": "宾夕凡尼亚州",
+      "jv": "Pennsylvania",
+      "sq": "Pennsylvania",
+      "ccp": "𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄨𑄣𑄴𑄞𑄚𑄨𑄠",
+      "ga": "Pennsylvania",
+      "ig": "Pensílvéníyạ",
+      "ky": "Пенсильвания",
+      "pa": "ਪੈੱਨਸਿਲਵੇਨੀਆ",
+      "kk": "Пенсильвания",
+      "yue": "賓夕凡尼亞州",
+      "my": "ပင်ဆယ်ဗေးနီးယားပြည်နယ်",
+      "yo": "Pennsylvania",
+      "zu": "Pennsylvania",
+      "uz": "Pennsilvaniya",
+      "bs": "Pennsylvania",
+      "mk": "Пенсилванија"
     },
-    "geo": {
-      "latitude": 41.2033216,
-      "longitude": -77.1945247,
-      "min_latitude": 39.7197989,
-      "min_longitude": -80.51989499999999,
-      "max_latitude": 42.2693866,
-      "max_longitude": -74.6895018
-    },
-    "name": "Pennsylvania"
+    "comments": null
   },
   "PR": {
+    "name": "Puerto Rico",
+    "code": null,
     "unofficial_names": "Puerto Rico",
-    "translations": {
-      "en": "Puerto Rico"
-    },
     "geo": {
       "latitude": 32.7290818,
       "longitude": -117.1517016,
@@ -3006,11 +3817,24 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "see also separate entry under PR",
-    "name": "Puerto Rico"
+    "translations": {
+      "en": "Puerto Rico",
+      "ccp": "𑄛𑄮𑄢𑄴𑄑𑄮 𑄢𑄨𑄇𑄮"
+    },
+    "comments": "see also separate entry under PR"
   },
   "RI": {
+    "name": "Rhode Island",
+    "code": null,
     "unofficial_names": "Rhode Island",
+    "geo": {
+      "latitude": 41.5800945,
+      "longitude": -71.4774291,
+      "min_latitude": 41.1466563,
+      "min_longitude": -71.8923425,
+      "max_latitude": 42.0188,
+      "max_longitude": -71.1205471
+    },
     "translations": {
       "en": "Rhode Island",
       "af": "Rhode Island",
@@ -3071,20 +3895,40 @@
       "uk": "Род-Айленд",
       "ur": "رہوڈ آئی لینڈ",
       "vi": "Rhode Island",
-      "zh": "羅德島州"
+      "zh": "羅德島州",
+      "cy": "Rhode Island",
+      "ceb": "Rhode Island",
+      "yo_BJ": "Erékùshù Rhode",
+      "sr_Latn": "Roud Ajland",
+      "yue_Hans": "罗德岛州",
+      "jv": "Rhode Island",
+      "sq": "Rhode Island",
+      "ccp": "𑄢𑄮𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Oileán Rhode",
+      "ig": "Àlá mmírí Rhode",
+      "pa": "ਰੋਡ ਟਾਪੂ",
+      "kk": "Род-Айленд",
+      "yue": "羅德島州",
+      "my": "ရုဒ်အိုင်းလန်းပြည်နယ်",
+      "yo": "Erékùṣù Rhode",
+      "uz": "Rod-Aylend",
+      "bs": "Rhode Island",
+      "mk": "Род Ајленд"
     },
-    "geo": {
-      "latitude": 41.5800945,
-      "longitude": -71.4774291,
-      "min_latitude": 41.1466563,
-      "min_longitude": -71.8923425,
-      "max_latitude": 42.0188,
-      "max_longitude": -71.1205471
-    },
-    "name": "Rhode Island"
+    "comments": null
   },
   "SC": {
+    "name": "South Carolina",
+    "code": null,
     "unofficial_names": "South Carolina",
+    "geo": {
+      "latitude": 33.836081,
+      "longitude": -81.1637245,
+      "min_latitude": 32.0345599,
+      "min_longitude": -83.35325879999999,
+      "max_latitude": 35.2155401,
+      "max_longitude": -78.5408175
+    },
     "translations": {
       "en": "South Carolina",
       "af": "Suid-Carolina",
@@ -3144,20 +3988,39 @@
       "uk": "Південна Кароліна",
       "ur": "جنوبی کیرولینا",
       "vi": "Nam Carolina",
-      "zh": "南卡罗来纳州"
+      "zh": "南卡罗来纳州",
+      "cy": "De Carolina",
+      "ceb": "South Carolina",
+      "sr_Latn": "Južna Karolina",
+      "yue_Hans": "南卡罗莱纳州",
+      "jv": "South Carolina",
+      "sq": "South Carolina",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄳𑄠𑄢𑄮𑄣𑄨𑄚",
+      "ga": "Carolina Theas",
+      "ig": "Nleda anyanwu Kàròlina",
+      "pa": "ਦੱਖਣੀ ਕੈਰੋਲੀਨਾ",
+      "kk": "Оңтүстік Каролина",
+      "yue": "南卡羅萊納州",
+      "my": "တောင်ကယ်ရိုလိုင်းနားပြည်နယ်",
+      "yo": "Gúúsù Carolina",
+      "uz": "Janubiy Karolina",
+      "bs": "Južna Karolina",
+      "mk": "Јужна Каролина"
     },
-    "geo": {
-      "latitude": 33.836081,
-      "longitude": -81.1637245,
-      "min_latitude": 32.0345599,
-      "min_longitude": -83.35325879999999,
-      "max_latitude": 35.2155401,
-      "max_longitude": -78.5408175
-    },
-    "name": "South Carolina"
+    "comments": null
   },
   "SD": {
+    "name": "South Dakota",
+    "code": null,
     "unofficial_names": "South Dakota",
+    "geo": {
+      "latitude": 43.9695148,
+      "longitude": -99.9018131,
+      "min_latitude": 42.479686,
+      "min_longitude": -104.0577391,
+      "max_latitude": 45.945713,
+      "max_longitude": -96.436589
+    },
     "translations": {
       "en": "South Dakota",
       "af": "Suid-Dakota",
@@ -3218,20 +4081,40 @@
       "uk": "Південна Дакота",
       "ur": "جنوبی ڈکوٹا",
       "vi": "Nam Dakota",
-      "zh": "南达科他州"
+      "zh": "南达科他州",
+      "cy": "De Dakota",
+      "ceb": "South Dakota",
+      "sr_Latn": "Južna Dakota",
+      "yue_Hans": "南达科他州",
+      "jv": "South Dakota",
+      "sq": "South Dakota",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄓𑄇𑄮𑄑",
+      "ga": "Dakota Theas",
+      "ig": "Sawt Dakótạ",
+      "ha": "South Dakota",
+      "pa": "ਦੱਖਣੀ ਡਕੋਟਾ",
+      "kk": "Оңтүстік Дакота",
+      "yue": "南達科他州",
+      "my": "တောင်ဒါကိုတာပြည်နယ်",
+      "yo": "Gúúsù Dakota",
+      "uz": "Janubiy Dakota",
+      "bs": "Južna Dakota",
+      "mk": "Јужна Дакота"
     },
-    "geo": {
-      "latitude": 43.9695148,
-      "longitude": -99.9018131,
-      "min_latitude": 42.479686,
-      "min_longitude": -104.0577391,
-      "max_latitude": 45.945713,
-      "max_longitude": -96.436589
-    },
-    "name": "South Dakota"
+    "comments": null
   },
   "TN": {
+    "name": "Tennessee",
+    "code": null,
     "unofficial_names": "Tennessee",
+    "geo": {
+      "latitude": 35.5174913,
+      "longitude": -86.5804473,
+      "min_latitude": 34.9829239,
+      "min_longitude": -90.3102978,
+      "max_latitude": 36.678118,
+      "max_longitude": -81.6469
+    },
     "translations": {
       "en": "Tennessee",
       "af": "Tennessee",
@@ -3292,20 +4175,39 @@
       "uk": "Теннессі",
       "ur": "ٹینیسی",
       "vi": "Tennessee",
-      "zh": "田纳西州"
+      "zh": "田纳西州",
+      "cy": "Tennessee",
+      "ceb": "Tennessee",
+      "sr_Latn": "Tenesi",
+      "yue_Hans": "田纳西州",
+      "jv": "Tennessee",
+      "sq": "Tennessee",
+      "ccp": "𑄑𑄬𑄚𑄩𑄥𑄩",
+      "ga": "Tennessee",
+      "ig": "Tennessee",
+      "pa": "ਟੈਨੇਸੀ",
+      "kk": "Теннесси",
+      "yue": "田納西州",
+      "my": "တင်နက်ဆီပြည်နယ်",
+      "yo": "Tennessee",
+      "uz": "Tennessi",
+      "bs": "Tennessee",
+      "mk": "Тенеси"
     },
-    "geo": {
-      "latitude": 35.5174913,
-      "longitude": -86.5804473,
-      "min_latitude": 34.9829239,
-      "min_longitude": -90.3102978,
-      "max_latitude": 36.678118,
-      "max_longitude": -81.6469
-    },
-    "name": "Tennessee"
+    "comments": null
   },
   "TX": {
+    "name": "Texas",
+    "code": null,
     "unofficial_names": "Texas",
+    "geo": {
+      "latitude": 31.9685988,
+      "longitude": -99.9018131,
+      "min_latitude": 25.8371638,
+      "min_longitude": -106.6456461,
+      "max_latitude": 36.5007041,
+      "max_longitude": -93.5080389
+    },
     "translations": {
       "en": "Texas",
       "af": "Texas",
@@ -3367,23 +4269,34 @@
       "uk": "Техас",
       "ur": "ٹیکساس",
       "vi": "Texas",
-      "zh": "得克萨斯州"
+      "zh": "得克萨斯州",
+      "cy": "Texas",
+      "ceb": "Texas",
+      "sr_Latn": "Teksas",
+      "yue_Hans": "德州",
+      "jv": "Texas",
+      "sq": "Texas",
+      "ccp": "𑄑𑄬𑄇𑄴𑄥𑄌𑄴",
+      "ga": "Texas",
+      "ig": "Texas",
+      "ha": "Texas",
+      "so": "Texas",
+      "pa": "ਟੈਕਸਸ",
+      "kk": "Техас",
+      "yue": "德州",
+      "my": "တက္ကဆပ်ပြည်နယ်",
+      "yo": "Texas",
+      "zu": "Texas",
+      "uz": "Texas",
+      "bs": "Texas",
+      "mk": "Тексас"
     },
-    "geo": {
-      "latitude": 31.9685988,
-      "longitude": -99.9018131,
-      "min_latitude": 25.8371638,
-      "min_longitude": -106.6456461,
-      "max_latitude": 36.5007041,
-      "max_longitude": -93.5080389
-    },
-    "name": "Texas"
+    "comments": null
   },
   "UM": {
+    "name": "United States Minor Outlying Islands",
+    "code": null,
     "unofficial_names": "United States Minor Outlying Islands",
-    "translations": {
-      "en": "U.S. Outlying Islands"
-    },
     "geo": {
       "latitude": 28.2021222,
       "longitude": -177.3804525,
@@ -3392,11 +4305,24 @@
       "max_latitude": 28.2150965,
       "max_longitude": -177.3695147
     },
-    "comments": "see also separate entry under UM",
-    "name": "United States Minor Outlying Islands"
+    "translations": {
+      "en": "U.S. Outlying Islands",
+      "ccp": "𑄃𑄨𑄅𑄪. 𑄃𑄬𑄌𑄴. 𑄃𑄅𑄪𑄖𑄴𑄣𑄭𑄃𑄨𑄁 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
+    },
+    "comments": "see also separate entry under UM"
   },
   "UT": {
+    "name": "Utah",
+    "code": null,
     "unofficial_names": "Utah",
+    "geo": {
+      "latitude": 39.3209801,
+      "longitude": -111.0937311,
+      "min_latitude": 36.99790309999999,
+      "min_longitude": -114.0529979,
+      "max_latitude": 42.001618,
+      "max_longitude": -109.0410581
+    },
     "translations": {
       "en": "Utah",
       "af": "Utah",
@@ -3457,20 +4383,41 @@
       "uk": "Юта",
       "ur": "یوٹاہ",
       "vi": "Utah",
-      "zh": "犹他州"
+      "zh": "犹他州",
+      "cy": "Utah",
+      "ceb": "Utah",
+      "sr_Latn": "Juta",
+      "yue_Hans": "犹他州",
+      "jv": "Utah",
+      "sq": "Utah",
+      "ccp": "𑄅𑄪𑄑𑄦𑄴",
+      "ga": "Utah",
+      "ig": "Yútạh",
+      "ha": "Utah",
+      "pa": "ਯੂਟਾ",
+      "kk": "Юта",
+      "yue": "猶他州",
+      "my": "ယူးတားပြည်နယ်",
+      "yo": "Utah",
+      "zu": "Utah",
+      "uz": "Yuta",
+      "bs": "Utah",
+      "mk": "Јута"
     },
-    "geo": {
-      "latitude": 39.3209801,
-      "longitude": -111.0937311,
-      "min_latitude": 36.99790309999999,
-      "min_longitude": -114.0529979,
-      "max_latitude": 42.001618,
-      "max_longitude": -109.0410581
-    },
-    "name": "Utah"
+    "comments": null
   },
   "VA": {
+    "name": "Virginia",
+    "code": null,
     "unofficial_names": "Virginia",
+    "geo": {
+      "latitude": 37.4315734,
+      "longitude": -78.6568942,
+      "min_latitude": 36.5407589,
+      "min_longitude": -83.675415,
+      "max_latitude": 39.466012,
+      "max_longitude": -75.2421573
+    },
     "translations": {
       "en": "Virginia",
       "af": "Virginië",
@@ -3531,23 +4478,34 @@
       "uk": "Вірджинія",
       "ur": "ورجینیا",
       "vi": "Virginia",
-      "zh": "弗吉尼亚州"
+      "zh": "弗吉尼亚州",
+      "cy": "Virginia",
+      "ceb": "Virginia",
+      "sr_Latn": "Virdžinija",
+      "yue_Hans": "维珍尼亚州",
+      "jv": "Virginia",
+      "sq": "Virginia",
+      "ccp": "𑄞𑄢𑄴𑄎𑄨𑄚𑄨𑄠",
+      "ga": "Virginia",
+      "ig": "Végíníyà",
+      "ky": "Виргиния штаты",
+      "ha": "Virginia",
+      "pa": "ਵਰਜਿਨੀਆ",
+      "kk": "Виргиния",
+      "yue": "維珍尼亞州",
+      "my": "ဗာဂျီးနီးယားပြည်နယ်",
+      "yo": "Firginia",
+      "zu": "Virginia",
+      "uz": "Virjiniya",
+      "bs": "Virginia",
+      "mk": "Вирџинија"
     },
-    "geo": {
-      "latitude": 37.4315734,
-      "longitude": -78.6568942,
-      "min_latitude": 36.5407589,
-      "min_longitude": -83.675415,
-      "max_latitude": 39.466012,
-      "max_longitude": -75.2421573
-    },
-    "name": "Virginia"
+    "comments": null
   },
   "VI": {
+    "name": "Virgin Islands, U.S.",
+    "code": null,
     "unofficial_names": "Virgin Islands, U.S.",
-    "translations": {
-      "en": "U.S. Virgin Islands"
-    },
     "geo": {
       "latitude": 33.8569878,
       "longitude": -84.5904089,
@@ -3556,11 +4514,24 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "see also separate entry under VI",
-    "name": "Virgin Islands, U.S."
+    "translations": {
+      "en": "U.S. Virgin Islands",
+      "ccp": "𑄃𑄨𑄅𑄪. 𑄃𑄬𑄌𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
+    },
+    "comments": "see also separate entry under VI"
   },
   "VT": {
+    "name": "Vermont",
+    "code": null,
     "unofficial_names": "Vermont",
+    "geo": {
+      "latitude": 44.5588028,
+      "longitude": -72.57784149999999,
+      "min_latitude": 42.7268499,
+      "min_longitude": -73.43055980000001,
+      "max_latitude": 45.0166591,
+      "max_longitude": -71.46503899999999
+    },
     "translations": {
       "en": "Vermont",
       "af": "Vermont",
@@ -3621,20 +4592,41 @@
       "uk": "Вермонт",
       "ur": "ورمونٹ",
       "vi": "Vermont",
-      "zh": "佛蒙特州"
+      "zh": "佛蒙特州",
+      "cy": "Vermont",
+      "ceb": "Vermont",
+      "sr_Latn": "Vermont",
+      "yue_Hans": "佛蒙特州",
+      "jv": "Vermont",
+      "sq": "Vermont",
+      "ccp": "𑄞𑄢𑄴𑄟𑄚𑄴𑄑𑄴",
+      "ga": "Vermont",
+      "ig": "Vermont",
+      "ha": "Vermont",
+      "pa": "ਵਰਮਾਂਟ",
+      "kk": "Вермонт",
+      "yue": "佛蒙特州",
+      "my": "ဗားမောင့်ပြည်နယ်",
+      "yo": "Fermont",
+      "zu": "Vermont",
+      "uz": "Vermont",
+      "bs": "Vermont",
+      "mk": "Вермонт"
     },
-    "geo": {
-      "latitude": 44.5588028,
-      "longitude": -72.57784149999999,
-      "min_latitude": 42.7268499,
-      "min_longitude": -73.43055980000001,
-      "max_latitude": 45.0166591,
-      "max_longitude": -71.46503899999999
-    },
-    "name": "Vermont"
+    "comments": null
   },
   "WA": {
+    "name": "Washington",
+    "code": null,
     "unofficial_names": "Washington",
+    "geo": {
+      "latitude": 47.7510741,
+      "longitude": -120.7401386,
+      "min_latitude": 45.5485987,
+      "min_longitude": -124.7857167,
+      "max_latitude": 49.0024305,
+      "max_longitude": -116.91558
+    },
     "translations": {
       "en": "Washington",
       "af": "Washington²",
@@ -3694,20 +4686,44 @@
       "uk": "Вашингтон²",
       "ur": "ریاست واشنگٹن",
       "vi": "Washington²",
-      "zh": "华盛顿州"
+      "zh": "华盛顿州",
+      "cy": "Washington",
+      "ceb": "Washington",
+      "yo_BJ": "Ìpínlɛ̀ Washington",
+      "sr_Latn": "Vašington²",
+      "yue_Hans": "华盛顿州",
+      "jv": "Washington",
+      "sq": "Washington",
+      "ccp": "𑄤𑄥𑄨𑄁𑄑𑄧𑄚𑄴",
+      "sd": "واشنگٽن رياست",
+      "ga": "Washington",
+      "ig": "Washington",
+      "so": "Washington",
+      "pa": "ਵਾਸ਼ਿੰਗਟਨ",
+      "kk": "Вашингтон",
+      "yue": "華盛頓州",
+      "my": "ဝါရှင်တန်ပြည်နယ်",
+      "yo": "Ìpínlẹ̀ Washington",
+      "zu": "Washington",
+      "uz": "Vashington shtati",
+      "bs": "Washington",
+      "mk": "Вашингтон",
+      "ne": "वाशिङ्गटन डि.सि."
     },
-    "geo": {
-      "latitude": 47.7510741,
-      "longitude": -120.7401386,
-      "min_latitude": 45.5485987,
-      "min_longitude": -124.7857167,
-      "max_latitude": 49.0024305,
-      "max_longitude": -116.91558
-    },
-    "name": "Washington"
+    "comments": null
   },
   "WI": {
+    "name": "Wisconsin",
+    "code": null,
     "unofficial_names": "Wisconsin",
+    "geo": {
+      "latitude": 43.7844397,
+      "longitude": -88.7878678,
+      "min_latitude": 42.491864,
+      "min_longitude": -92.88943309999999,
+      "max_latitude": 47.0807296,
+      "max_longitude": -86.7639767
+    },
     "translations": {
       "en": "Wisconsin",
       "af": "Wisconsin",
@@ -3769,20 +4785,41 @@
       "uk": "Вісконсин",
       "ur": "وسکونسن",
       "vi": "Wisconsin",
-      "zh": "威斯康辛州"
+      "zh": "威斯康辛州",
+      "cy": "Wisconsin",
+      "ceb": "Wisconsin (estado)",
+      "sr_Latn": "Viskonsin",
+      "yue_Hans": "威斯康辛州",
+      "jv": "Wisconsin",
+      "sq": "Wisconsin",
+      "ccp": "𑄅𑄪𑄃𑄨𑄌𑄴𑄇𑄧𑄚𑄴𑄥𑄨𑄚𑄴",
+      "ga": "Wisconsin",
+      "ig": "Wiskonsin",
+      "ky": "Висконсин",
+      "ha": "Wisconsin",
+      "pa": "ਵਿਸਕਾਂਸਨ",
+      "kk": "Висконсин",
+      "yue": "威斯康辛州",
+      "my": "ဝစ္စကွန်းဆင်းပြည်နယ်",
+      "yo": "Wisconsin",
+      "uz": "Viskonsin",
+      "bs": "Wisconsin",
+      "mk": "Висконсин"
     },
-    "geo": {
-      "latitude": 43.7844397,
-      "longitude": -88.7878678,
-      "min_latitude": 42.491864,
-      "min_longitude": -92.88943309999999,
-      "max_latitude": 47.0807296,
-      "max_longitude": -86.7639767
-    },
-    "name": "Wisconsin"
+    "comments": null
   },
   "WV": {
+    "name": "West Virginia",
+    "code": null,
     "unofficial_names": "West Virginia",
+    "geo": {
+      "latitude": 38.5976262,
+      "longitude": -80.4549026,
+      "min_latitude": 37.2015399,
+      "min_longitude": -82.644413,
+      "max_latitude": 40.638801,
+      "max_longitude": -77.7189679
+    },
     "translations": {
       "en": "West Virginia",
       "af": "Wes-Virginië",
@@ -3843,20 +4880,39 @@
       "uk": "Західна Вірджинія",
       "ur": "مغربی ورجینیا",
       "vi": "Tây Virginia",
-      "zh": "西維吉尼亞州"
+      "zh": "西維吉尼亞州",
+      "cy": "Gorllewin Virginia",
+      "ceb": "West Virginia",
+      "yo_BJ": "Ìwɔ̀orùn Firginia",
+      "sr_Latn": "Zapadna Virdžinija",
+      "yue_Hans": "西维珍尼亚州",
+      "jv": "West Virginia",
+      "sq": "West Virginia",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄨𑄠",
+      "ga": "Virginia Thiar",
+      "ig": "West Virginia",
+      "pa": "ਪੱਛਮੀ ਵਰਜਿਨੀਆ",
+      "kk": "Батыс Виргиния",
+      "yue": "西維珍尼亞州",
+      "my": "အနောက် ဗာဂျီးနီးယားပြည်နယ်",
+      "yo": "Ìwọ̀orùn Firginia",
+      "bs": "Zapadna Virginia",
+      "mk": "Западна Вирџинија"
     },
-    "geo": {
-      "latitude": 38.5976262,
-      "longitude": -80.4549026,
-      "min_latitude": 37.2015399,
-      "min_longitude": -82.644413,
-      "max_latitude": 40.638801,
-      "max_longitude": -77.7189679
-    },
-    "name": "West Virginia"
+    "comments": null
   },
   "WY": {
+    "name": "Wyoming",
+    "code": null,
     "unofficial_names": "Wyoming",
+    "geo": {
+      "latitude": 43.0759678,
+      "longitude": -107.2902839,
+      "min_latitude": 40.994746,
+      "min_longitude": -111.056889,
+      "max_latitude": 45.005904,
+      "max_longitude": -104.0522449
+    },
     "translations": {
       "en": "Wyoming",
       "af": "Wyoming",
@@ -3918,17 +4974,28 @@
       "uk": "Вайомінг",
       "ur": "وائیومنگ",
       "vi": "Wyoming",
-      "zh": "怀俄明州"
+      "zh": "怀俄明州",
+      "cy": "Wyoming",
+      "ceb": "Wyoming",
+      "sr_Latn": "Vajoming",
+      "yue_Hans": "怀俄明州",
+      "jv": "Wyoming",
+      "sq": "Wyoming",
+      "ccp": "𑄃𑄨𑄠𑄮𑄟𑄨𑄁",
+      "ga": "Wyoming",
+      "ig": "Waịómịn",
+      "ha": "Wyoming",
+      "pa": "ਵਾਇਓਮਿੰਗ",
+      "kk": "Вайоминг",
+      "yue": "懷俄明州",
+      "my": "ဝိုင်အိုးမင်းပြည်နယ်",
+      "yo": "Wyoming",
+      "zu": "Wyoming",
+      "uz": "Vayoming",
+      "bs": "Wyoming",
+      "mk": "Вајоминг"
     },
-    "geo": {
-      "latitude": 43.0759678,
-      "longitude": -107.2902839,
-      "min_latitude": 40.994746,
-      "min_longitude": -111.056889,
-      "max_latitude": 45.005904,
-      "max_longitude": -104.0522449
-    },
-    "name": "Wyoming"
+    "comments": null
   }
 }
 

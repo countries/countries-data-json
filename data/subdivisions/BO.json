@@ -1,6 +1,16 @@
 {
   "B": {
+    "name": "El Beni",
+    "code": null,
     "unofficial_names": "El Beni",
+    "geo": {
+      "latitude": -14.3782747,
+      "longitude": -65.0957792,
+      "min_latitude": -16.4470401,
+      "min_longitude": -67.54975999999999,
+      "max_latitude": -10.400086,
+      "max_longitude": -61.50248
+    },
     "translations": {
       "en": "Beni",
       "ar": "محافظة بني",
@@ -47,20 +57,26 @@
       "uk": "Бені",
       "ur": "محکمہ بینی",
       "vi": "Khu vực hành chính Beni",
-      "zh": "贝尼省"
+      "zh": "贝尼省",
+      "ceb": "El Beni",
+      "sr_Latn": "Beni",
+      "ccp": "𑄝𑄬𑄚𑄨",
+      "mk": "Бени"
     },
-    "geo": {
-      "latitude": -14.3782747,
-      "longitude": -65.0957792,
-      "min_latitude": -16.4470401,
-      "min_longitude": -67.54975999999999,
-      "max_latitude": -10.400086,
-      "max_longitude": -61.50248
-    },
-    "name": "El Beni"
+    "comments": null
   },
   "C": {
+    "name": "Cochabamba",
+    "code": null,
     "unofficial_names": "Cochabamba",
+    "geo": {
+      "latitude": -17.383333,
+      "longitude": -66.166667,
+      "min_latitude": -17.4648665,
+      "min_longitude": -66.2222293,
+      "max_latitude": -17.3232136,
+      "max_longitude": -66.10552179999999
+    },
     "translations": {
       "en": "Cochabamba",
       "ar": "إدارة كوتشابامبا",
@@ -105,20 +121,28 @@
       "tr": "Cochabamba Departmanı",
       "uk": "Кочабамба",
       "ur": "محکمہ کوچابامبا",
-      "vi": "Khu vực hành chính Cochabamba"
+      "vi": "Khu vực hành chính Cochabamba",
+      "ceb": "Departamento de Cochabamba",
+      "sr_Latn": "Kočabamba",
+      "zh": "科恰班巴省",
+      "fa": "شهرستان کوچوبامبا",
+      "ccp": "𑄇𑄧𑄌𑄝𑄟𑄴𑄝",
+      "mk": "Кочабамба"
     },
-    "geo": {
-      "latitude": -17.383333,
-      "longitude": -66.166667,
-      "min_latitude": -17.4648665,
-      "min_longitude": -66.2222293,
-      "max_latitude": -17.3232136,
-      "max_longitude": -66.10552179999999
-    },
-    "name": "Cochabamba"
+    "comments": null
   },
   "H": {
+    "name": "Chuquisaca",
+    "code": null,
     "unofficial_names": "Chuquisaca",
+    "geo": {
+      "latitude": -20.0249144,
+      "longitude": -64.1478236,
+      "min_latitude": -21.4982254,
+      "min_longitude": -65.69594599999999,
+      "max_latitude": -18.3504239,
+      "max_longitude": -62.19985999999999
+    },
     "translations": {
       "en": "Chuquisaca",
       "ar": "إدارة شوكيساكا",
@@ -162,20 +186,28 @@
       "tr": "Chuquisaca Departmanı",
       "uk": "Чукісака",
       "ur": "محکمہ چوکویساکا",
-      "vi": "Khu vực hành chính Chuquisaca"
+      "vi": "Khu vực hành chính Chuquisaca",
+      "ceb": "Departamento de Chuquisaca",
+      "sr_Latn": "Čukisaka",
+      "zh": "丘基萨卡省",
+      "fa": "شهرستان چوکیساکا",
+      "ccp": "𑄥𑄇𑄭𑄪𑄥𑄇",
+      "mk": "Чукисака"
     },
-    "geo": {
-      "latitude": -20.0249144,
-      "longitude": -64.1478236,
-      "min_latitude": -21.4982254,
-      "min_longitude": -65.69594599999999,
-      "max_latitude": -18.3504239,
-      "max_longitude": -62.19985999999999
-    },
-    "name": "Chuquisaca"
+    "comments": null
   },
   "L": {
+    "name": "La Paz",
+    "code": null,
     "unofficial_names": "La Paz",
+    "geo": {
+      "latitude": -16.5,
+      "longitude": -68.14999999999999,
+      "min_latitude": -16.6168651,
+      "min_longitude": -68.2368618,
+      "max_latitude": -16.4245596,
+      "max_longitude": -68.01129329999999
+    },
     "translations": {
       "en": "La Paz",
       "ar": "إدارة لا باز",
@@ -219,20 +251,28 @@
       "tr": "La Paz Departmanı",
       "uk": "Ла-Пас",
       "ur": "محکمہ لا پاز",
-      "vi": "Khu vực hành chính La Paz"
+      "vi": "Khu vực hành chính La Paz",
+      "ceb": "Departamento de La Paz (departamento sa Bolivia)",
+      "sr_Latn": "La Paz",
+      "zh": "拉巴斯省",
+      "fa": "شهرستان لاپاز",
+      "ccp": "𑄣 𑄛𑄌𑄴",
+      "mk": "Ла Паз"
     },
-    "geo": {
-      "latitude": -16.5,
-      "longitude": -68.14999999999999,
-      "min_latitude": -16.6168651,
-      "min_longitude": -68.2368618,
-      "max_latitude": -16.4245596,
-      "max_longitude": -68.01129329999999
-    },
-    "name": "La Paz"
+    "comments": null
   },
   "N": {
+    "name": "Pando",
+    "code": null,
     "unofficial_names": "Pando",
+    "geo": {
+      "latitude": -10.7988901,
+      "longitude": -66.9988011,
+      "min_latitude": -12.5000421,
+      "min_longitude": -69.56644399999999,
+      "max_latitude": -9.680567,
+      "max_longitude": -65.27995299999999
+    },
     "translations": {
       "en": "Pando",
       "ar": "إدارة باندو",
@@ -276,20 +316,28 @@
       "tr": "Pando Departmanı",
       "uk": "Пандо",
       "ur": "محکمہ پاندو",
-      "vi": "Pando"
+      "vi": "Pando",
+      "ceb": "Departamento de Pando",
+      "sr_Latn": "Pando",
+      "zh": "潘多省",
+      "fa": "شهرستان پاندو",
+      "ccp": "𑄛𑄚𑄴𑄓𑄮",
+      "mk": "Пандо"
     },
-    "geo": {
-      "latitude": -10.7988901,
-      "longitude": -66.9988011,
-      "min_latitude": -12.5000421,
-      "min_longitude": -69.56644399999999,
-      "max_latitude": -9.680567,
-      "max_longitude": -65.27995299999999
-    },
-    "name": "Pando"
+    "comments": null
   },
   "O": {
+    "name": "Oruro",
+    "code": null,
     "unofficial_names": "Oruro",
+    "geo": {
+      "latitude": -17.966667,
+      "longitude": -67.11666699999999,
+      "min_latitude": -18.0166098,
+      "min_longitude": -67.1474076,
+      "max_latitude": -17.9058956,
+      "max_longitude": -67.02750209999999
+    },
     "translations": {
       "en": "Oruro",
       "ar": "إدارة أورورو",
@@ -333,20 +381,28 @@
       "tr": "Oruro Departmanı",
       "uk": "Оруро",
       "ur": "محکمہ اورورو",
-      "vi": "Khu vực hành chính Oruro"
+      "vi": "Khu vực hành chính Oruro",
+      "ceb": "Departamento de Oruro",
+      "sr_Latn": "Oruro",
+      "zh": "奥鲁罗省",
+      "fa": "شهرستان اورورو",
+      "ccp": "𑄃𑄧𑄢𑄪𑄢𑄮",
+      "mk": "Оруро"
     },
-    "geo": {
-      "latitude": -17.966667,
-      "longitude": -67.11666699999999,
-      "min_latitude": -18.0166098,
-      "min_longitude": -67.1474076,
-      "max_latitude": -17.9058956,
-      "max_longitude": -67.02750209999999
-    },
-    "name": "Oruro"
+    "comments": null
   },
   "P": {
+    "name": "Potosí",
+    "code": null,
     "unofficial_names": "Potosí",
+    "geo": {
+      "latitude": -19.5722805,
+      "longitude": -65.7550063,
+      "min_latitude": -19.610703,
+      "min_longitude": -65.79208729999999,
+      "max_latitude": -19.5315718,
+      "max_longitude": -65.70968959999999
+    },
     "translations": {
       "en": "Potosí",
       "ar": "إدارة بوتوسي",
@@ -390,20 +446,30 @@
       "tr": "Potosi Departmanı",
       "uk": "Потосі",
       "ur": "محکمہ پوتوسی",
-      "vi": "Khu vực hành chính Potosi"
+      "vi": "Khu vực hành chính Potosi",
+      "ceb": "Departamento de Potosí",
+      "sr_Latn": "Potosi",
+      "zh": "波托西省",
+      "fa": "شهرستان پوتوسی",
+      "yue_Hans": "波托西省",
+      "ccp": "𑄛𑄧𑄑𑄮𑄥𑄨",
+      "yue": "波托西省",
+      "mk": "Потоси"
     },
-    "geo": {
-      "latitude": -19.5722805,
-      "longitude": -65.7550063,
-      "min_latitude": -19.610703,
-      "min_longitude": -65.79208729999999,
-      "max_latitude": -19.5315718,
-      "max_longitude": -65.70968959999999
-    },
-    "name": "Potosí"
+    "comments": null
   },
   "S": {
+    "name": "Santa Cruz",
+    "code": null,
     "unofficial_names": "Santa Cruz",
+    "geo": {
+      "latitude": -17.866667,
+      "longitude": -63,
+      "min_latitude": -18.0244453,
+      "min_longitude": -63.25768960000001,
+      "max_latitude": -17.4908405,
+      "max_longitude": -62.76557929999999
+    },
     "translations": {
       "en": "Santa Cruz",
       "ar": "إدارة سانتا كروز",
@@ -450,20 +516,30 @@
       "tr": "Santa Cruz Departmanı",
       "uk": "Санта-Крус",
       "ur": "محکمہ سانتا کروز",
-      "vi": "Vùng Santa Cruz"
+      "vi": "Vùng Santa Cruz",
+      "ceb": "Departamento de Santa Cruz",
+      "sr_Latn": "Santa Kruz",
+      "zh": "聖克魯斯省 (玻利維亞)",
+      "fa": "شهرستان سانتا کروز",
+      "yue_Hans": "圣克鲁斯省 (玻利维亚)",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄢𑄪𑄌𑄴",
+      "yue": "聖克魯斯省 (玻利維亞)",
+      "mk": "Санта Круз"
     },
-    "geo": {
-      "latitude": -17.866667,
-      "longitude": -63,
-      "min_latitude": -18.0244453,
-      "min_longitude": -63.25768960000001,
-      "max_latitude": -17.4908405,
-      "max_longitude": -62.76557929999999
-    },
-    "name": "Santa Cruz"
+    "comments": null
   },
   "T": {
+    "name": "Tarija",
+    "code": null,
     "unofficial_names": "Tarija",
+    "geo": {
+      "latitude": -21.533333,
+      "longitude": -64.733333,
+      "min_latitude": -21.5695183,
+      "min_longitude": -64.7762489,
+      "max_latitude": -21.4734153,
+      "max_longitude": -64.6748944
+    },
     "translations": {
       "en": "Tarija",
       "ar": "إدارة تاريا",
@@ -508,17 +584,17 @@
       "tr": "Tarija Departmanı",
       "uk": "Таріха",
       "ur": "محکمہ تاریخا",
-      "vi": "Khu vực hành chính Tarija"
+      "vi": "Khu vực hành chính Tarija",
+      "ceb": "Departamento de Tarija",
+      "sr_Latn": "Tariha",
+      "zh": "塔里哈省",
+      "fa": "شهرستان تاریزا",
+      "yue_Hans": "塔里哈省",
+      "ccp": "𑄑𑄢𑄨𑄎",
+      "yue": "塔里哈省",
+      "mk": "Тариха"
     },
-    "geo": {
-      "latitude": -21.533333,
-      "longitude": -64.733333,
-      "min_latitude": -21.5695183,
-      "min_longitude": -64.7762489,
-      "max_latitude": -21.4734153,
-      "max_longitude": -64.6748944
-    },
-    "name": "Tarija"
+    "comments": null
   }
 }
 

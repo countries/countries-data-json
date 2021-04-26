@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Pinar del Río",
+    "code": null,
     "unofficial_names": "Pinar del Río",
+    "geo": {
+      "latitude": 22.412222,
+      "longitude": -83.671944,
+      "min_latitude": 22.3613422,
+      "min_longitude": -83.74414449999999,
+      "max_latitude": 22.4633914,
+      "max_longitude": -83.6413955
+    },
     "translations": {
       "en": "Pinar del Río",
       "af": "Pinar del Río",
@@ -46,20 +56,26 @@
       "uk": "Пінар-дель-Ріо",
       "ur": "پینار دیل ریو صوبہ",
       "vi": "Pinar del Río",
-      "zh": "比那尔德里奥省"
+      "zh": "比那尔德里奥省",
+      "lv": "Pinaras del Rio province",
+      "ceb": "Pinar del Río",
+      "ccp": "𑄛𑄧𑄚𑄢𑄴 𑄓𑄬𑄣𑄴 𑄢𑄨𑄃𑄮",
+      "mk": "Пинар дел Рио"
     },
-    "geo": {
-      "latitude": 22.412222,
-      "longitude": -83.671944,
-      "min_latitude": 22.3613422,
-      "min_longitude": -83.74414449999999,
-      "max_latitude": 22.4633914,
-      "max_longitude": -83.6413955
-    },
-    "name": "Pinar del Río"
+    "comments": null
   },
   "03": {
+    "name": "La Habana",
+    "code": null,
     "unofficial_names": "La Habana",
+    "geo": {
+      "latitude": 23.159167,
+      "longitude": -82.271056,
+      "min_latitude": 22.9200574,
+      "min_longitude": -82.5742877,
+      "max_latitude": 23.1812734,
+      "max_longitude": -82.0911311
+    },
     "translations": {
       "en": "Havana",
       "be": "Гавана",
@@ -73,20 +89,23 @@
       "nl": "Ciudad de La Habana",
       "pt": "Ciudad de La Habana (província)",
       "ru": "Гавана",
-      "sv": "Provincia de Ciudad de La Habana"
+      "sv": "Provincia de Ciudad de La Habana",
+      "ccp": "𑄦𑄞𑄚"
     },
-    "geo": {
-      "latitude": 23.159167,
-      "longitude": -82.271056,
-      "min_latitude": 22.9200574,
-      "min_longitude": -82.5742877,
-      "max_latitude": 23.1812734,
-      "max_longitude": -82.0911311
-    },
-    "name": "La Habana"
+    "comments": null
   },
   "04": {
+    "name": "Matanzas",
+    "code": null,
     "unofficial_names": "Matanzas",
+    "geo": {
+      "latitude": 22.5767123,
+      "longitude": -81.3399414,
+      "min_latitude": 22.0036335,
+      "min_longitude": -82.16040799999999,
+      "max_latitude": 23.2767521,
+      "max_longitude": -80.47074099999999
+    },
     "translations": {
       "en": "Matanzas",
       "af": "Matanzas",
@@ -132,20 +151,28 @@
       "tr": "Matanzas ili",
       "uk": "Матансас",
       "ur": "ماتانساس صوبہ",
-      "vi": "Matanzas"
+      "vi": "Matanzas",
+      "lv": "Matansasas province",
+      "ceb": "Matanzas",
+      "zh": "马坦萨斯省",
+      "ccp": "𑄟𑄑𑄚𑄴𑄎𑄌𑄴",
+      "hy": "Մատանսաս",
+      "mk": "Матансас"
     },
-    "geo": {
-      "latitude": 22.5767123,
-      "longitude": -81.3399414,
-      "min_latitude": 22.0036335,
-      "min_longitude": -82.16040799999999,
-      "max_latitude": 23.2767521,
-      "max_longitude": -80.47074099999999
-    },
-    "name": "Matanzas"
+    "comments": null
   },
   "05": {
+    "name": "Villa Clara",
+    "code": null,
     "unofficial_names": "Villa Clara",
+    "geo": {
+      "latitude": 22.4937204,
+      "longitude": -79.9192702,
+      "min_latitude": 21.92908,
+      "min_longitude": -80.740882,
+      "max_latitude": 23.1555759,
+      "max_longitude": -79.3098399
+    },
     "translations": {
       "en": "Villa Clara",
       "af": "Villa Clara",
@@ -192,20 +219,28 @@
       "tr": "Villa Clara ili",
       "uk": "Вілья-Клара",
       "ur": "ویا کلارا صوبہ",
-      "vi": "Villa Clara"
+      "vi": "Villa Clara",
+      "lv": "Viljaklaras province",
+      "cy": "Villa Clara Province",
+      "ceb": "Villa Clara",
+      "zh": "比亚克拉拉省",
+      "ccp": "𑄞𑄨𑄣 𑄇𑄳𑄣𑄢",
+      "mk": "Виља Клара"
     },
-    "geo": {
-      "latitude": 22.4937204,
-      "longitude": -79.9192702,
-      "min_latitude": 21.92908,
-      "min_longitude": -80.740882,
-      "max_latitude": 23.1555759,
-      "max_longitude": -79.3098399
-    },
-    "name": "Villa Clara"
+    "comments": null
   },
   "06": {
+    "name": "Cienfuegos",
+    "code": null,
     "unofficial_names": "Cienfuegos",
+    "geo": {
+      "latitude": 22.2379783,
+      "longitude": -80.365865,
+      "min_latitude": 21.817026,
+      "min_longitude": -80.93570679999999,
+      "max_latitude": 22.5832278,
+      "max_longitude": -80.01658789999999
+    },
     "translations": {
       "en": "Cienfuegos",
       "ar": "سينفويغوس",
@@ -248,20 +283,28 @@
       "tr": "Cienfuegos ili",
       "uk": "Сьєнфуегос",
       "ur": "سینفویگوس صوبہ",
-      "vi": "Cienfuegos"
+      "vi": "Cienfuegos",
+      "lv": "Sjenfuegosas province",
+      "af": "Cienfuegos",
+      "ceb": "Cienfuegos",
+      "zh": "西恩富戈斯省",
+      "ccp": "𑄥𑄭𑄠𑄚𑄴𑄜𑄨𑄅𑄪𑄉𑄮𑄌𑄴",
+      "mk": "Сиенфуегос"
     },
-    "geo": {
-      "latitude": 22.2379783,
-      "longitude": -80.365865,
-      "min_latitude": 21.817026,
-      "min_longitude": -80.93570679999999,
-      "max_latitude": 22.5832278,
-      "max_longitude": -80.01658789999999
-    },
-    "name": "Cienfuegos"
+    "comments": null
   },
   "07": {
+    "name": "Sancti Spíritus",
+    "code": null,
     "unofficial_names": "Sancti Spíritus",
+    "geo": {
+      "latitude": 21.9938214,
+      "longitude": -79.4703885,
+      "min_latitude": 21.4506246,
+      "min_longitude": -80.09424299999999,
+      "max_latitude": 22.6677195,
+      "max_longitude": -78.92516309999999
+    },
     "translations": {
       "en": "Sancti Spíritus",
       "ar": "سانكتي سبيريتوس",
@@ -302,20 +345,27 @@
       "tr": "Sancti Spíritus ili",
       "uk": "Санкті-Спірітус",
       "ur": "سانکتی سپیریتوس صوبہ",
-      "vi": "Sancti Spíritus"
+      "vi": "Sancti Spíritus",
+      "lv": "Sanktispiritusas province",
+      "ceb": "Sancti Spíritus",
+      "zh": "圣斯皮里图斯省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨 𑄌𑄳𑄛𑄭𑄢𑄨𑄑𑄌𑄴",
+      "mk": "Санкти Спиритус"
     },
-    "geo": {
-      "latitude": 21.9938214,
-      "longitude": -79.4703885,
-      "min_latitude": 21.4506246,
-      "min_longitude": -80.09424299999999,
-      "max_latitude": 22.6677195,
-      "max_longitude": -78.92516309999999
-    },
-    "name": "Sancti Spíritus"
+    "comments": null
   },
   "08": {
+    "name": "Ciego de Ávila",
+    "code": null,
     "unofficial_names": "Ciego de Ávila",
+    "geo": {
+      "latitude": 21.9329515,
+      "longitude": -78.5660852,
+      "min_latitude": 20.844875,
+      "min_longitude": -79.45208699999999,
+      "max_latitude": 22.6132385,
+      "max_longitude": -78.067293
+    },
     "translations": {
       "en": "Ciego de Ávila",
       "ar": "محافظة سيغو دي أفيلا",
@@ -357,20 +407,27 @@
       "tr": "Ciego de Avila Province",
       "uk": "Сьєго-де-Авіла",
       "ur": "سیئگو دے ابیلا صوبہ",
-      "vi": "Ciego de Ávila"
+      "vi": "Ciego de Ávila",
+      "lv": "Sjego de Avilas province",
+      "ceb": "Ciego de Ávila",
+      "zh": "谢戈德阿维拉省",
+      "ccp": "𑄥𑄭𑄠𑄬𑄉𑄮 𑄓𑄬 𑄃𑄞𑄨𑄣",
+      "mk": "Сиего де Авила"
     },
-    "geo": {
-      "latitude": 21.9329515,
-      "longitude": -78.5660852,
-      "min_latitude": 20.844875,
-      "min_longitude": -79.45208699999999,
-      "max_latitude": 22.6132385,
-      "max_longitude": -78.067293
-    },
-    "name": "Ciego de Ávila"
+    "comments": null
   },
   "09": {
+    "name": "Camagüey",
+    "code": null,
     "unofficial_names": "Camagüey",
+    "geo": {
+      "latitude": 21.3926035,
+      "longitude": -77.9053182,
+      "min_latitude": 21.3328497,
+      "min_longitude": -77.9696273,
+      "max_latitude": 21.4397273,
+      "max_longitude": -77.8250886
+    },
     "translations": {
       "en": "Camagüey",
       "ar": "كاماغوي",
@@ -414,20 +471,28 @@
       "tr": "Camagüey ili",
       "uk": "Камагуей",
       "ur": "کاماگوئی صوبہ",
-      "vi": "Camagüey"
+      "vi": "Camagüey",
+      "lv": "Kamagvejas province",
+      "af": "Camagüey (provinsie)",
+      "ceb": "Camagüey",
+      "zh": "卡马圭省",
+      "ccp": "𑄇𑄳𑄠𑄟𑄉𑄭𑄪𑄠𑄬",
+      "mk": "Камагвеј"
     },
-    "geo": {
-      "latitude": 21.3926035,
-      "longitude": -77.9053182,
-      "min_latitude": 21.3328497,
-      "min_longitude": -77.9696273,
-      "max_latitude": 21.4397273,
-      "max_longitude": -77.8250886
-    },
-    "name": "Camagüey"
+    "comments": null
   },
   "10": {
+    "name": "Las Tunas",
+    "code": null,
     "unofficial_names": "Las Tunas",
+    "geo": {
+      "latitude": 21.0605162,
+      "longitude": -76.91820969999999,
+      "min_latitude": 20.5049499,
+      "min_longitude": -77.831835,
+      "max_latitude": 21.4577833,
+      "max_longitude": -76.3107757
+    },
     "translations": {
       "en": "Las Tunas",
       "ar": "مقاطعة لاس توناس",
@@ -470,20 +535,28 @@
       "tr": "Las Tunas ili",
       "uk": "Лас-Тунас",
       "ur": "لاس ٹناس صوبہ",
-      "vi": "Las Tunas"
+      "vi": "Las Tunas",
+      "lv": "Lastunasas province",
+      "af": "Las Tunas",
+      "ceb": "Las Tunas",
+      "zh": "拉斯图纳斯省",
+      "ccp": "𑄣𑄌𑄴 𑄑𑄨𑄅𑄪𑄚𑄌𑄴",
+      "mk": "Лас Тунас"
     },
-    "geo": {
-      "latitude": 21.0605162,
-      "longitude": -76.91820969999999,
-      "min_latitude": 20.5049499,
-      "min_longitude": -77.831835,
-      "max_latitude": 21.4577833,
-      "max_longitude": -76.3107757
-    },
-    "name": "Las Tunas"
+    "comments": null
   },
   "11": {
+    "name": "Holguín",
+    "code": null,
     "unofficial_names": "Holguín",
+    "geo": {
+      "latitude": 20.7837893,
+      "longitude": -75.8069082,
+      "min_latitude": 20.392118,
+      "min_longitude": -76.7217541,
+      "max_latitude": 21.2499624,
+      "max_longitude": -74.7155897
+    },
     "translations": {
       "en": "Holguín",
       "ar": "هولغوين",
@@ -528,20 +601,30 @@
       "tr": "Holguín ili",
       "uk": "Ольгін",
       "ur": "اولگین صوبہ",
-      "vi": "Holguín"
+      "vi": "Holguín",
+      "lv": "Holginas province",
+      "ceb": "Holguín",
+      "sr_Latn": "Pokrajina Olgin",
+      "zh": "奥尔金省",
+      "ccp": "𑄦𑄮𑄣𑄴𑄉𑄪𑄃𑄨𑄚𑄴",
+      "cs": "Holguín",
+      "az": "Olqin",
+      "mk": "Олгин"
     },
-    "geo": {
-      "latitude": 20.7837893,
-      "longitude": -75.8069082,
-      "min_latitude": 20.392118,
-      "min_longitude": -76.7217541,
-      "max_latitude": 21.2499624,
-      "max_longitude": -74.7155897
-    },
-    "name": "Holguín"
+    "comments": null
   },
   "12": {
+    "name": "Granma",
+    "code": null,
     "unofficial_names": "Granma",
+    "geo": {
+      "latitude": 20.3844902,
+      "longitude": -76.64127119999999,
+      "min_latitude": 19.8280831,
+      "min_longitude": -77.73912,
+      "max_latitude": 20.7823959,
+      "max_longitude": -76.1810461
+    },
     "translations": {
       "en": "Granma",
       "ar": "غرانما",
@@ -586,20 +669,29 @@
       "tr": "Granma ili",
       "uk": "Гранма",
       "ur": "گرانما صوبہ",
-      "vi": "Granma"
+      "vi": "Granma",
+      "lv": "Granmas province",
+      "af": "Granma",
+      "ceb": "Granma",
+      "sr_Latn": "Pokrajina Granma",
+      "zh": "格拉玛省",
+      "ccp": "𑄉𑄳𑄢𑄚𑄴𑄟",
+      "mk": "Гранма"
     },
-    "geo": {
-      "latitude": 20.3844902,
-      "longitude": -76.64127119999999,
-      "min_latitude": 19.8280831,
-      "min_longitude": -77.73912,
-      "max_latitude": 20.7823959,
-      "max_longitude": -76.1810461
-    },
-    "name": "Granma"
+    "comments": null
   },
   "13": {
+    "name": "Santiago de Cuba",
+    "code": null,
     "unofficial_names": "Santiago de Cuba",
+    "geo": {
+      "latitude": 20.01693,
+      "longitude": -75.8301537,
+      "min_latitude": 19.9578529,
+      "min_longitude": -75.8923008,
+      "max_latitude": 20.0909996,
+      "max_longitude": -75.7598926
+    },
     "translations": {
       "en": "Santiago de Cuba",
       "ar": "سانتياغو دي كوبا",
@@ -640,20 +732,28 @@
       "tr": "Santiago de Cuba ili",
       "uk": "Сантьяго-де-Куба",
       "ur": "سانتیاگو دے کیوبا صوبہ",
-      "vi": "Santiago de Cuba"
+      "vi": "Santiago de Cuba",
+      "lv": "Santjago de Kubas province",
+      "ceb": "Santiago de Cuba",
+      "zh": "圣地亚哥省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮 𑄓𑄬 𑄇𑄨𑄅𑄪𑄝",
+      "cs": "Santiago de Cuba",
+      "mk": "Сантјаго де Куба"
     },
-    "geo": {
-      "latitude": 20.01693,
-      "longitude": -75.8301537,
-      "min_latitude": 19.9578529,
-      "min_longitude": -75.8923008,
-      "max_latitude": 20.0909996,
-      "max_longitude": -75.7598926
-    },
-    "name": "Santiago de Cuba"
+    "comments": null
   },
   "14": {
+    "name": "Guantánamo",
+    "code": null,
     "unofficial_names": "Guantánamo",
+    "geo": {
+      "latitude": 20.136667,
+      "longitude": -75.213889,
+      "min_latitude": 20.1143527,
+      "min_longitude": -75.2367424,
+      "max_latitude": 20.1796493,
+      "max_longitude": -75.1662037
+    },
     "translations": {
       "en": "Guantánamo",
       "ar": "مقاطعة غوانتانامو",
@@ -684,20 +784,26 @@
       "tr": "Guantánamo ili",
       "uk": "Гуантанамо",
       "ur": "گوانتانامو صوبہ",
-      "vi": "Guantánamo"
+      "vi": "Guantánamo",
+      "ceb": "Guantánamo",
+      "zh": "关塔那摩省",
+      "ccp": "𑄉𑄪𑄠𑄚𑄴𑄑𑄚𑄟𑄮",
+      "mk": "Гвантанамо"
     },
-    "geo": {
-      "latitude": 20.136667,
-      "longitude": -75.213889,
-      "min_latitude": 20.1143527,
-      "min_longitude": -75.2367424,
-      "max_latitude": 20.1796493,
-      "max_longitude": -75.1662037
-    },
-    "name": "Guantánamo"
+    "comments": null
   },
   "15": {
+    "name": "Artemisa",
+    "code": null,
     "unofficial_names": "Artemisa",
+    "geo": {
+      "latitude": 22.7522903,
+      "longitude": -82.99316069999999,
+      "min_latitude": 22.4866999,
+      "min_longitude": -83.3889281,
+      "max_latitude": 23.068672,
+      "max_longitude": -82.39349399999999
+    },
     "translations": {
       "en": "Artemisa",
       "ar": "أرتيميسا",
@@ -737,20 +843,29 @@
       "tr": "Artemisa ili",
       "uk": "Артеміса",
       "ur": "آرتیمیسا صوبہ",
-      "vi": "Artemisa"
+      "vi": "Artemisa",
+      "lv": "Artemisas province",
+      "af": "Artemisa",
+      "ceb": "Artemisa",
+      "zh": "阿爾特米薩省",
+      "ccp": "𑄃𑄢𑄴𑄑𑄬𑄟𑄨𑄥",
+      "ca": "província d’Artemisa",
+      "mk": "Артемиса"
     },
-    "geo": {
-      "latitude": 22.7522903,
-      "longitude": -82.99316069999999,
-      "min_latitude": 22.4866999,
-      "min_longitude": -83.3889281,
-      "max_latitude": 23.068672,
-      "max_longitude": -82.39349399999999
-    },
-    "name": "Artemisa"
+    "comments": null
   },
   "16": {
+    "name": "Mayabeque",
+    "code": null,
     "unofficial_names": "Mayabeque",
+    "geo": {
+      "latitude": 22.8926529,
+      "longitude": -81.9534815,
+      "min_latitude": 22.5725,
+      "min_longitude": -82.45682599999999,
+      "max_latitude": 23.1876818,
+      "max_longitude": -81.58065789999999
+    },
     "translations": {
       "en": "Mayabeque",
       "af": "Mayabeque",
@@ -791,20 +906,27 @@
       "tr": "Mayabeque ili",
       "uk": "Маябеке",
       "ur": "مایابیکوے صوبہ",
-      "vi": "Mayabeque"
+      "vi": "Mayabeque",
+      "lv": "Majabekes province",
+      "ceb": "Provincia Mayabeque",
+      "zh": "瑪雅貝克省",
+      "ccp": "𑄟𑄠𑄝𑄬𑄇𑄴",
+      "mk": "Мајабеке"
     },
-    "geo": {
-      "latitude": 22.8926529,
-      "longitude": -81.9534815,
-      "min_latitude": 22.5725,
-      "min_longitude": -82.45682599999999,
-      "max_latitude": 23.1876818,
-      "max_longitude": -81.58065789999999
-    },
-    "name": "Mayabeque"
+    "comments": null
   },
   "99": {
+    "name": "Isla de la Juventud",
+    "code": null,
     "unofficial_names": "Isla de la Juventud",
+    "geo": {
+      "latitude": 21.6066405,
+      "longitude": -82.82097399999999,
+      "min_latitude": 21.4382502,
+      "min_longitude": -83.1925464,
+      "max_latitude": 21.9435016,
+      "max_longitude": -82.54073369999999
+    },
     "translations": {
       "en": "Isla de la Juventud",
       "ar": "جزيرة الشباب",
@@ -851,17 +973,16 @@
       "tr": "Isla de la Juventud",
       "uk": "Ісла-де-ла-Хувентуд",
       "ur": "ازلا دے لا خوبینتود",
-      "vi": "Isla de la Juventud"
+      "vi": "Isla de la Juventud",
+      "lv": "Huventudas sala",
+      "ceb": "Isla de la Juventud",
+      "zh": "青年岛",
+      "sw": "Isla de la Juventud",
+      "ccp": "𑄃𑄨𑄌𑄴𑄣 𑄓𑄬 𑄣 𑄎𑄪𑄞𑄬𑄚𑄴𑄑𑄖𑄴",
+      "kk": "Хувентуд",
+      "mk": "Исла де ла Хувентуд"
     },
-    "geo": {
-      "latitude": 21.6066405,
-      "longitude": -82.82097399999999,
-      "min_latitude": 21.4382502,
-      "min_longitude": -83.1925464,
-      "max_latitude": 21.9435016,
-      "max_longitude": -82.54073369999999
-    },
-    "name": "Isla de la Juventud"
+    "comments": null
   }
 }
 

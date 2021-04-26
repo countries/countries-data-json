@@ -1,8 +1,18 @@
 {
   "AB": {
+    "name": "Abkhazia",
+    "code": null,
     "unofficial_names": [
       "Abhasia"
     ],
+    "geo": {
+      "latitude": 43.0015544,
+      "longitude": 41.023407,
+      "min_latitude": 42.4124548,
+      "min_longitude": 40.0075855,
+      "max_latitude": 43.586627,
+      "max_longitude": 42.149976
+    },
     "translations": {
       "en": "Abkhazia",
       "af": "Abchasië",
@@ -64,24 +74,30 @@
       "uk": "Абхазія",
       "ur": "ابخازيا",
       "vi": "Abkhazia",
-      "zh": "阿布哈茲"
+      "zh": "阿布哈茲",
+      "sr_Latn": "Abhazija",
+      "ccp": "𑄃𑄛𑄴𑄈𑄎𑄨𑄠",
+      "sd": "ابخازيہ",
+      "kk": "Абхазия Автономиялық Республикасы"
     },
-    "geo": {
-      "latitude": 43.0015544,
-      "longitude": 41.023407,
-      "min_latitude": 42.4124548,
-      "min_longitude": 40.0075855,
-      "max_latitude": 43.586627,
-      "max_longitude": 42.149976
-    },
-    "name": "Abkhazia"
+    "comments": null
   },
   "AJ": {
+    "name": "Ajaria",
+    "code": null,
     "unofficial_names": [
       "Achara",
       "Adzharia",
       "Adžaria"
     ],
+    "geo": {
+      "latitude": 41.6005626,
+      "longitude": 42.0688383,
+      "min_latitude": 41.4344289,
+      "min_longitude": 41.54839399999999,
+      "max_latitude": 41.9110457,
+      "max_longitude": 42.602322
+    },
     "translations": {
       "en": "Adjara",
       "af": "Adzjarië",
@@ -136,20 +152,35 @@
       "tr": "Acara Özerk Cumhuriyeti",
       "uk": "Аджарія",
       "ur": "ایجارا",
-      "vi": "Adjara"
+      "vi": "Adjara",
+      "cy": "Ajaria",
+      "ceb": "Ajaria",
+      "sr_Latn": "Adžarija",
+      "zh": "阿扎尔",
+      "yue_Hans": "阿查拉",
+      "jv": "Ajaria",
+      "ccp": "𑄃𑄖𑄴𑄎𑄢",
+      "ky": "Ажария",
+      "yue": "阿查拉",
+      "yo": "Adjara",
+      "uz": "Ajariya",
+      "bs": "Adžarija",
+      "mk": "Аџарија"
     },
-    "geo": {
-      "latitude": 41.6005626,
-      "longitude": 42.0688383,
-      "min_latitude": 41.4344289,
-      "min_longitude": 41.54839399999999,
-      "max_latitude": 41.9110457,
-      "max_longitude": 42.602322
-    },
-    "name": "Ajaria"
+    "comments": null
   },
   "GU": {
+    "name": "Guria",
+    "code": null,
     "unofficial_names": "Guria",
+    "geo": {
+      "latitude": 41.9442736,
+      "longitude": 42.0458091,
+      "min_latitude": 41.78135,
+      "min_longitude": 41.7136319,
+      "max_latitude": 42.16825499999999,
+      "max_longitude": 42.667122
+    },
     "translations": {
       "en": "Guria",
       "ar": "غيوريا",
@@ -195,20 +226,30 @@
       "tr": "Guria",
       "uk": "Гурія",
       "ur": "گوریا",
-      "vi": "Guria"
+      "vi": "Guria",
+      "lv": "Gurija",
+      "ceb": "Guria",
+      "sr_Latn": "Gurija",
+      "zh": "古利亞州",
+      "ccp": "𑄉𑄪𑄢𑄨𑄠",
+      "eu": "Guria",
+      "ml": "ഗുരിയ",
+      "mk": "Гурија"
     },
-    "geo": {
-      "latitude": 41.9442736,
-      "longitude": 42.0458091,
-      "min_latitude": 41.78135,
-      "min_longitude": 41.7136319,
-      "max_latitude": 42.16825499999999,
-      "max_longitude": 42.667122
-    },
-    "name": "Guria"
+    "comments": null
   },
   "IM": {
+    "name": "Imereti",
+    "code": null,
     "unofficial_names": "Imereti",
+    "geo": {
+      "latitude": 42.230108,
+      "longitude": 42.9008665,
+      "min_latitude": 41.808214,
+      "min_longitude": 42.2120039,
+      "max_latitude": 42.565433,
+      "max_longitude": 43.788536
+    },
     "translations": {
       "en": "Imereti",
       "ar": "إيميريتي",
@@ -256,22 +297,32 @@
       "tr": "İmereti",
       "uk": "Імереті",
       "ur": "ایمرتی",
-      "vi": "Imereti"
+      "vi": "Imereti",
+      "lv": "Imeretija",
+      "ceb": "Imereti",
+      "sr_Latn": "Imeretija",
+      "zh": "伊梅列季亞州",
+      "ccp": "𑄃𑄨𑄟𑄬𑄢𑄬𑄑𑄨",
+      "eu": "Imereti",
+      "kk": "Имеретия патшалығы",
+      "mk": "Имеретија"
     },
-    "geo": {
-      "latitude": 42.230108,
-      "longitude": 42.9008665,
-      "min_latitude": 41.808214,
-      "min_longitude": 42.2120039,
-      "max_latitude": 42.565433,
-      "max_longitude": 43.788536
-    },
-    "name": "Imereti"
+    "comments": null
   },
   "KA": {
+    "name": "Kakheti",
+    "code": null,
     "unofficial_names": [
       "Kaheti"
     ],
+    "geo": {
+      "latitude": 41.6481602,
+      "longitude": 45.6905554,
+      "min_latitude": 41.03851299999999,
+      "min_longitude": 45.0147509,
+      "max_latitude": 42.564198,
+      "max_longitude": 46.7213589
+    },
     "translations": {
       "en": "Kakheti",
       "ar": "كاخيتي",
@@ -319,20 +370,29 @@
       "tr": "Kaheti",
       "uk": "Кахеті",
       "ur": "کاختی",
-      "vi": "Kakheti"
+      "vi": "Kakheti",
+      "lv": "Kahetija",
+      "ceb": "Kakheti",
+      "sr_Latn": "Kahetija",
+      "zh": "卡赫季州",
+      "ccp": "𑄇𑄈𑄬𑄑𑄨",
+      "ml": "കാഖേറ്റി",
+      "mk": "Кахетија"
     },
-    "geo": {
-      "latitude": 41.6481602,
-      "longitude": 45.6905554,
-      "min_latitude": 41.03851299999999,
-      "min_longitude": 45.0147509,
-      "max_latitude": 42.564198,
-      "max_longitude": 46.7213589
-    },
-    "name": "Kakheti"
+    "comments": null
   },
   "KK": {
+    "name": "Kvemo Kartli",
+    "code": null,
     "unofficial_names": "Kvemo Kartli",
+    "geo": {
+      "latitude": 41.4791833,
+      "longitude": 44.65604510000001,
+      "min_latitude": 41.15626109999999,
+      "min_longitude": 43.669065,
+      "max_latitude": 41.858702,
+      "max_longitude": 45.3102412
+    },
     "translations": {
       "en": "Kvemo Kartli",
       "ar": "كفيمو كارتلي",
@@ -379,22 +439,31 @@
       "tr": "Kvemo Kartli",
       "uk": "Квемо Картлі",
       "ur": "کویمو کارتلی",
-      "vi": "Kvemo Kartli"
+      "vi": "Kvemo Kartli",
+      "lv": "Lejaskartlija",
+      "ceb": "Kvemo Kartli",
+      "sr_Latn": "Donji Kartli",
+      "zh": "克維莫-卡特利州",
+      "ccp": "𑄞𑄬𑄟𑄮 𑄇𑄢𑄴𑄑𑄴𑄣𑄨",
+      "eu": "Kvemo Kartli",
+      "mk": "Долна Картли"
     },
-    "geo": {
-      "latitude": 41.4791833,
-      "longitude": 44.65604510000001,
-      "min_latitude": 41.15626109999999,
-      "min_longitude": 43.669065,
-      "max_latitude": 41.858702,
-      "max_longitude": 45.3102412
-    },
-    "name": "Kvemo Kartli"
+    "comments": null
   },
   "MM": {
+    "name": "Mtskheta-Mtianeti",
+    "code": null,
     "unofficial_names": [
       "Mcheta-Mtianeti"
     ],
+    "geo": {
+      "latitude": 42.16821849999999,
+      "longitude": 44.6506057,
+      "min_latitude": 41.68722899999999,
+      "min_longitude": 44.21798709999999,
+      "max_latitude": 42.752689,
+      "max_longitude": 45.30156299999999
+    },
     "translations": {
       "en": "Mtskheta-Mtianeti",
       "ar": "متسخيتا-متيانيتي",
@@ -438,23 +507,35 @@
       "tr": "Mtsheta-Mtianeti",
       "uk": "Мцхета-Мтіанеті",
       "ur": "متسختا-متیانتی",
-      "vi": "Mtskheta-Mtianeti"
+      "vi": "Mtskheta-Mtianeti",
+      "lv": "Mcheta-Mtianeti",
+      "ceb": "Mtskheta-Mtianeti",
+      "sr_Latn": "Mcheta-Mtijanetija",
+      "zh": "姆茨赫塔-姆季阿涅季州",
+      "yue_Hans": "姆茨赫塔-姆季阿涅季州",
+      "ccp": "𑄃𑄬𑄟𑄴𑄑𑄨𑄃𑄬𑄌𑄴𑄈𑄬𑄑-𑄑𑄨𑄠𑄚𑄬𑄑𑄨",
+      "eu": "Mtskheta-Mtianeti",
+      "ml": "മ്റ്റിസ്ഖേറ്റ-മ്റ്റിയാനേറ്റി",
+      "yue": "姆茨赫塔-姆季阿涅季州",
+      "mk": "Мцхета-Мтијанетија"
     },
-    "geo": {
-      "latitude": 42.16821849999999,
-      "longitude": 44.6506057,
-      "min_latitude": 41.68722899999999,
-      "min_longitude": 44.21798709999999,
-      "max_latitude": 42.752689,
-      "max_longitude": 45.30156299999999
-    },
-    "name": "Mtskheta-Mtianeti"
+    "comments": null
   },
   "RL": {
+    "name": "Racha-Lechkhumi [and] Kvemo Svaneti",
+    "code": null,
     "unofficial_names": [
       "Racha",
       "Racha-Lechkumi and Kverno Svaneti"
     ],
+    "geo": {
+      "latitude": 42.67188729999999,
+      "longitude": 43.0562836,
+      "min_latitude": 42.366172,
+      "min_longitude": 42.35788900000001,
+      "max_latitude": 42.9666309,
+      "max_longitude": 43.948078
+    },
     "translations": {
       "en": "Racha-Lechkhumi and Kvemo Svaneti",
       "ar": "راتشا-ليخخومي وكفيمو سفانيتي",
@@ -499,22 +580,30 @@
       "tr": "Raca-Leçhumi ve Kvemo Svaneti",
       "uk": "Рача-Лечхумі та Квемо Сванеті",
       "ur": "راچا-لچخومی و کومو سوانتی",
-      "vi": "Racha-Lechkhumi và Kvemo Svaneti"
+      "vi": "Racha-Lechkhumi và Kvemo Svaneti",
+      "lv": "Rača-Lečhumi un Lejassventija",
+      "ceb": "Racha-Lechkhumi and Kvemo Svaneti",
+      "sr_Latn": "Rača-Lečhumi i Donja Svanetija",
+      "zh": "拉恰-列其呼米-下斯瓦涅季亞州",
+      "ccp": "𑄢𑄌-𑄣𑄬𑄌𑄴𑄈𑄪𑄟𑄨 𑄃𑄳𑄃 𑄞𑄬𑄟𑄮 𑄞𑄚𑄬𑄑𑄨",
+      "mk": "Рача-Лечхуми и Долна Сванетија"
     },
-    "geo": {
-      "latitude": 42.67188729999999,
-      "longitude": 43.0562836,
-      "min_latitude": 42.366172,
-      "min_longitude": 42.35788900000001,
-      "max_latitude": 42.9666309,
-      "max_longitude": 43.948078
-    },
-    "name": "Racha-Lechkhumi [and] Kvemo Svaneti"
+    "comments": null
   },
   "SJ": {
+    "name": "Samtskhe-Javakheti",
+    "code": null,
     "unofficial_names": [
       "Samche-Žavaheti"
     ],
+    "geo": {
+      "latitude": 41.5479296,
+      "longitude": 43.2776399,
+      "min_latitude": 41.111591,
+      "min_longitude": 42.492235,
+      "max_latitude": 41.941421,
+      "max_longitude": 43.9642531
+    },
     "translations": {
       "en": "Samtskhe-Javakheti",
       "ar": "سامتسخه-جافاخيتي",
@@ -559,22 +648,32 @@
       "tr": "Samtshe-Cavaheti",
       "uk": "Самцхе-Джавахеті",
       "ur": "سامتسخے-جاواختی",
-      "vi": "Samtskhe-Javakheti"
+      "vi": "Samtskhe-Javakheti",
+      "lv": "Samche-Džavahetija",
+      "ceb": "Samtskhe-Javakheti",
+      "sr_Latn": "Samche-Džavahetija",
+      "zh": "薩姆茨赫-扎瓦赫季州",
+      "ccp": "𑄥𑄳𑄠𑄟𑄴𑄈𑄬-𑄎𑄞𑄈𑄬𑄑𑄨",
+      "eu": "Samtskhe-Javakheti",
+      "ml": "സാംറ്റ്സ്കെ ജവാഖേറ്റി",
+      "mk": "Самцхе-Џавахетија"
     },
-    "geo": {
-      "latitude": 41.5479296,
-      "longitude": 43.2776399,
-      "min_latitude": 41.111591,
-      "min_longitude": 42.492235,
-      "max_latitude": 41.941421,
-      "max_longitude": 43.9642531
-    },
-    "name": "Samtskhe-Javakheti"
+    "comments": null
   },
   "SK": {
+    "name": "Shida Kartli",
+    "code": null,
     "unofficial_names": [
       "Šida Kartli"
     ],
+    "geo": {
+      "latitude": 42.0756944,
+      "longitude": 43.9540462,
+      "min_latitude": 41.733082,
+      "min_longitude": 43.4199111,
+      "max_latitude": 42.633717,
+      "max_longitude": 44.569049
+    },
     "translations": {
       "en": "Shida Kartli",
       "ar": "شيدا كارتلي",
@@ -621,20 +720,29 @@
       "tr": "Şida Kartli",
       "uk": "Шида Картлі",
       "ur": "شیدا کارتلی",
-      "vi": "Shida Kartli"
+      "vi": "Shida Kartli",
+      "lv": "Iekšējā Kartlija",
+      "ceb": "Shida Kartli",
+      "sr_Latn": "Unutrašnji Kartli",
+      "zh": "什達-卡特利州",
+      "ccp": "𑄥𑄨𑄓 𑄇𑄢𑄴𑄑𑄴𑄣𑄨",
+      "ml": "ഷിദ കാർട്‌ലി",
+      "mk": "Внатрешен Картли"
     },
-    "geo": {
-      "latitude": 42.0756944,
-      "longitude": 43.9540462,
-      "min_latitude": 41.733082,
-      "min_longitude": 43.4199111,
-      "max_latitude": 42.633717,
-      "max_longitude": 44.569049
-    },
-    "name": "Shida Kartli"
+    "comments": null
   },
   "SZ": {
+    "name": "Samegrelo-Zemo Svaneti",
+    "code": null,
     "unofficial_names": "Samegrelo-Zemo Svaneti",
+    "geo": {
+      "latitude": 42.7352247,
+      "longitude": 42.1689362,
+      "min_latitude": 42.068348,
+      "min_longitude": 41.559906,
+      "max_latitude": 43.2542339,
+      "max_longitude": 43.152301
+    },
     "translations": {
       "en": "Samegrelo-Zemo Svaneti",
       "ar": "سامغريلو زيمو سفانيتي",
@@ -678,22 +786,31 @@
       "tr": "Samegrelo-Zemo Svaneti",
       "uk": "Самеґрело-Земо Сванеті",
       "ur": "سامگرلو-زمو سوانتی",
-      "vi": "Samegrelo-Zemo Svaneti"
+      "vi": "Samegrelo-Zemo Svaneti",
+      "lv": "Megrelija-Augšvanetija",
+      "ceb": "Samegrelo-Zemo Svanetis Mkhare",
+      "sr_Latn": "Megrelija-Gornja Svanetija",
+      "zh": "薩梅格列羅-上斯瓦涅季亞州",
+      "ccp": "𑄥𑄳𑄠𑄟𑄴𑄉𑄳𑄢𑄬𑄣𑄮-𑄎𑄬𑄟𑄮 𑄞𑄚𑄬𑄑𑄨",
+      "ml": "സാമെഗ്രെലോ-സെമോ സ്വാനെറ്റി",
+      "mk": "Мегрелија-Горна Сванетија"
     },
-    "geo": {
-      "latitude": 42.7352247,
-      "longitude": 42.1689362,
-      "min_latitude": 42.068348,
-      "min_longitude": 41.559906,
-      "max_latitude": 43.2542339,
-      "max_longitude": 43.152301
-    },
-    "name": "Samegrelo-Zemo Svaneti"
+    "comments": null
   },
   "TB": {
+    "name": "Tbilisi",
+    "code": null,
     "unofficial_names": [
       "Tiflis"
     ],
+    "geo": {
+      "latitude": 41.716667,
+      "longitude": 44.783333,
+      "min_latitude": 41.6210248,
+      "min_longitude": 44.59650999999999,
+      "max_latitude": 41.8438937,
+      "max_longitude": 45.0176811
+    },
     "translations": {
       "en": "Tbilisi",
       "af": "Tbilisi",
@@ -756,17 +873,26 @@
       "tr": "Tiflis",
       "uk": "Тбілісі",
       "ur": "تبلیسی",
-      "vi": "Tbilisi"
+      "vi": "Tbilisi",
+      "cy": "Tbilisi",
+      "ceb": "K’alak’i T’bilisi",
+      "sr_Latn": "Tbilisi",
+      "zh": "第比利斯",
+      "yue_Hans": "第比利斯",
+      "jv": "Tbilisi",
+      "sq": "Tbilisi",
+      "ccp": "𑄝𑄨𑄣𑄨𑄥𑄨",
+      "ga": "Tbilisi",
+      "ky": "Тбилиси",
+      "pa": "ਤਬੀਲਿਸੀ",
+      "kk": "Тбилиси",
+      "yue": "第比利斯",
+      "yo": "Tbilisi",
+      "uz": "Tbilisi",
+      "bs": "Tbilisi",
+      "mk": "Тбилиси"
     },
-    "geo": {
-      "latitude": 41.716667,
-      "longitude": 44.783333,
-      "min_latitude": 41.6210248,
-      "min_longitude": 44.59650999999999,
-      "max_latitude": 41.8438937,
-      "max_longitude": 45.0176811
-    },
-    "name": "Tbilisi"
+    "comments": null
   }
 }
 

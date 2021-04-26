@@ -1,9 +1,8 @@
 {
   "02": {
+    "name": "Canillo",
+    "code": null,
     "unofficial_names": "Canillo",
-    "translations": {
-      "en": "Canillo"
-    },
     "geo": {
       "latitude": 42.5666535,
       "longitude": 1.5994581,
@@ -12,14 +11,15 @@
       "max_latitude": 42.5679867,
       "max_longitude": 1.6037142
     },
-    "name": "Canillo",
+    "translations": {
+      "en": "Canillo"
+    },
     "comments": null
   },
   "03": {
+    "name": "Encamp",
+    "code": null,
     "unofficial_names": "Encamp",
-    "translations": {
-      "en": "Encamp"
-    },
     "geo": {
       "latitude": 42.5362652,
       "longitude": 1.5830224,
@@ -28,14 +28,15 @@
       "max_latitude": 42.5395096,
       "max_longitude": 1.5901645
     },
-    "name": "Encamp",
+    "translations": {
+      "en": "Encamp"
+    },
     "comments": null
   },
   "04": {
+    "name": "La Massana",
+    "code": null,
     "unofficial_names": "La Massana",
-    "translations": {
-      "en": "La Massana"
-    },
     "geo": {
       "latitude": 42.545625,
       "longitude": 1.5147392,
@@ -44,14 +45,15 @@
       "max_latitude": 42.5501711,
       "max_longitude": 1.5204314
     },
-    "name": "La Massana",
+    "translations": {
+      "en": "La Massana"
+    },
     "comments": null
   },
   "05": {
+    "name": "Ordino",
+    "code": null,
     "unofficial_names": "Ordino",
-    "translations": {
-      "en": "Ordino"
-    },
     "geo": {
       "latitude": 42.5556547,
       "longitude": 1.5330732,
@@ -60,16 +62,17 @@
       "max_latitude": 42.5596833,
       "max_longitude": 1.5374774
     },
-    "name": "Ordino",
+    "translations": {
+      "en": "Ordino"
+    },
     "comments": null
   },
   "06": {
+    "name": "Sant Julià de Lòria",
+    "code": null,
     "unofficial_names": [
       "Saint Julia de Loria"
     ],
-    "translations": {
-      "en": "Sant Julià de Lòria"
-    },
     "geo": {
       "latitude": 42.4657861,
       "longitude": 1.4921277,
@@ -78,17 +81,18 @@
       "max_latitude": 42.4727386,
       "max_longitude": 1.4963642
     },
-    "name": "Sant Julià de Lòria",
+    "translations": {
+      "en": "Sant Julià de Lòria"
+    },
     "comments": null
   },
   "07": {
+    "name": "Andorra la Vella",
+    "code": null,
     "unofficial_names": [
       "Andorra la Vieja",
       "Andorre-la-Vieille"
     ],
-    "translations": {
-      "en": "Andorra la Vella"
-    },
     "geo": {
       "latitude": 42.50631740000001,
       "longitude": 1.5218355,
@@ -97,16 +101,17 @@
       "max_latitude": 42.513564,
       "max_longitude": 1.5353385
     },
-    "name": "Andorra la Vella",
+    "translations": {
+      "en": "Andorra la Vella"
+    },
     "comments": null
   },
   "08": {
+    "name": "Escaldes-Engordany",
+    "code": null,
     "unofficial_names": [
       "Les Escaldes"
     ],
-    "translations": {
-      "en": "Escaldes-Engordany"
-    },
     "geo": {
       "latitude": 42.5100804,
       "longitude": 1.5387862,
@@ -115,7 +120,9 @@
       "max_latitude": 42.5168669,
       "max_longitude": 1.5532685
     },
-    "name": "Escaldes-Engordany",
+    "translations": {
+      "en": "Escaldes-Engordany"
+    },
     "comments": null
   }
 }

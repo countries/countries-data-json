@@ -1,6 +1,16 @@
 {
   "AJ": {
+    "name": "'Ajmān",
+    "code": null,
     "unofficial_names": "-إمارة عجمانّ - Ujman",
+    "geo": {
+      "latitude": 25.3995,
+      "longitude": 55.4796,
+      "min_latitude": 25.3488018,
+      "min_longitude": 55.4239777,
+      "max_latitude": 25.450004,
+      "max_longitude": 55.6371712
+    },
     "translations": {
       "en": "Ajman",
       "ar": "عجمان",
@@ -52,20 +62,22 @@
       "uk": "Аджман",
       "ur": "عجمان",
       "vi": "Ajman",
-      "zh": "阿吉曼"
+      "zh": "阿吉曼",
+      "ceb": "‘Ajmān",
+      "sr_Latn": "Adžman",
+      "sw": "Ajmān",
+      "yue_Hans": "阿治曼酋长国",
+      "ccp": "𑄃𑄌𑄴𑄟𑄚𑄴",
+      "pa": "ਅਜਮਾਨ",
+      "kk": "Аджман",
+      "yue": "阿治曼酋長國",
+      "yo": "Ajman"
     },
-    "geo": {
-      "latitude": 25.3995,
-      "longitude": 55.4796,
-      "min_latitude": 25.3488018,
-      "min_longitude": 55.4239777,
-      "max_latitude": 25.450004,
-      "max_longitude": 55.6371712
-    },
-    "name": "'Ajmān",
     "comments": null
   },
   "AZ": {
+    "name": "Abū Z̧aby [Abu Dhabi]",
+    "code": null,
     "unofficial_names": [
       "أبو ظبي",
       "Abu Zabi",
@@ -74,6 +86,14 @@
       "Abu Dhabi",
       "Abu Dhabi"
     ],
+    "geo": {
+      "latitude": 24.466667,
+      "longitude": 54.36666700000001,
+      "min_latitude": 24.1517661,
+      "min_longitude": 54.268856,
+      "max_latitude": 24.6213301,
+      "max_longitude": 54.8509598
+    },
     "translations": {
       "en": "Abu Dhabi",
       "af": "Aboe Dhabi",
@@ -127,24 +147,35 @@
       "tr": "Abu Dabi Emirliği",
       "uk": "Абу-Дабі",
       "ur": "ابوظہبی",
-      "vi": "Abu Dhabi"
+      "vi": "Abu Dhabi",
+      "sr_Latn": "Abu Dabi",
+      "zh": "阿布扎比",
+      "yue_Hans": "阿布扎比酋长国",
+      "jv": "Abu Dhabi",
+      "ccp": "𑄃𑄝𑄪 𑄙𑄝𑄨",
+      "ky": "Абу-Даби",
+      "pa": "ਅਬੂ ਧਾਬੀ",
+      "kk": "Абу-Даби",
+      "yue": "阿布扎比酋長國",
+      "mk": "Абу Даби"
     },
-    "geo": {
-      "latitude": 24.466667,
-      "longitude": 54.36666700000001,
-      "min_latitude": 24.1517661,
-      "min_longitude": 54.268856,
-      "max_latitude": 24.6213301,
-      "max_longitude": 54.8509598
-    },
-    "name": "Abū Z̧aby [Abu Dhabi]",
     "comments": null
   },
   "DU": {
+    "name": "Dubayy",
+    "code": null,
     "unofficial_names": [
       "دبي",
       "Dubai"
     ],
+    "geo": {
+      "latitude": 25.2048493,
+      "longitude": 55.2707828,
+      "min_latitude": 24.7914099,
+      "min_longitude": 54.895991,
+      "max_latitude": 25.356306,
+      "max_longitude": 55.56369770000001
+    },
     "translations": {
       "en": "Dubai",
       "af": "Doebai",
@@ -190,25 +221,40 @@
       "tr": "Dubai Emirliği",
       "uk": "Дубай",
       "ur": "امارت دبئی",
-      "vi": "Dubai"
+      "vi": "Dubai",
+      "ceb": "Dubai",
+      "sr_Latn": "Dubai",
+      "zh": "迪拜酋长国",
+      "yue_Hans": "杜拜酋长国",
+      "sq": "Emirati i Dubait",
+      "ccp": "𑄘𑄪𑄝𑄭",
+      "da": "Dubai",
+      "fi": "Dubai",
+      "ky": "Дубай",
+      "id": "Keamiran Dubai",
+      "kk": "Дубай",
+      "yue": "杜拜酋長國",
+      "uz": "Dubay",
+      "bs": "Dubai"
     },
-    "geo": {
-      "latitude": 25.2048493,
-      "longitude": 55.2707828,
-      "min_latitude": 24.7914099,
-      "min_longitude": 54.895991,
-      "max_latitude": 25.356306,
-      "max_longitude": 55.56369770000001
-    },
-    "name": "Dubayy",
     "comments": null
   },
   "FU": {
+    "name": "Al Fujayrah",
+    "code": null,
     "unofficial_names": [
       "الفجيرة",
       "Al Fujayrah",
       "Fujairah"
     ],
+    "geo": {
+      "latitude": 25.4110762,
+      "longitude": 56.24822769999999,
+      "min_latitude": 24.907855,
+      "min_longitude": 55.96323,
+      "max_latitude": 25.667782,
+      "max_longitude": 56.3760899
+    },
     "translations": {
       "en": "Fujairah",
       "ar": "الفجيرة",
@@ -257,24 +303,36 @@
       "tr": "Füceyre",
       "uk": "Фуджейра",
       "ur": "فجیرہ",
-      "vi": "Fujairah"
+      "vi": "Fujairah",
+      "ceb": "Al Fujayrah",
+      "sr_Latn": "Fudžejra",
+      "zh": "富吉拉",
+      "sw": "Fujairah",
+      "yue_Hans": "富查伊拉酋长国",
+      "sq": "Fuxhaira",
+      "ccp": "𑄜𑄎𑄭𑄢𑄦𑄴",
+      "pa": "ਫ਼ੁਜੈਰਾ",
+      "yue": "富查伊拉酋長國",
+      "az": "Əl-Füceyrə əmirliyi",
+      "yo": "Fujairah"
     },
-    "geo": {
-      "latitude": 25.4110762,
-      "longitude": 56.24822769999999,
-      "min_latitude": 24.907855,
-      "min_longitude": 55.96323,
-      "max_latitude": 25.667782,
-      "max_longitude": 56.3760899
-    },
-    "name": "Al Fujayrah",
     "comments": null
   },
   "RK": {
+    "name": "Ra's al Khaymah",
+    "code": null,
     "unofficial_names": [
       "إمارة رأس الخيمة",
       "Ras al-Khaimah"
     ],
+    "geo": {
+      "latitude": 25.8006926,
+      "longitude": 55.9761994,
+      "min_latitude": 25.540431,
+      "min_longitude": 55.8637944,
+      "max_latitude": 25.9116106,
+      "max_longitude": 56.0727597
+    },
     "translations": {
       "en": "Ras al-Khaimah",
       "ar": "رأس الخيمة",
@@ -324,24 +382,35 @@
       "tr": "Resü’l-Hayme",
       "uk": "Рас-ель-Хайма",
       "ur": "راس الخیمہ",
-      "vi": "Ras al-Khaimah"
+      "vi": "Ras al-Khaimah",
+      "ceb": "Ras al-Khaimah",
+      "sr_Latn": "Ras el Hajma",
+      "zh": "拉斯海玛",
+      "yue_Hans": "拉斯海玛酋长国",
+      "sq": "Ras el-Haime",
+      "ccp": "𑄢𑄌𑄴 𑄃𑄣𑄴-𑄈𑄭𑄟𑄦𑄴",
+      "pa": "ਰਾਸ ਅਲ-ਖ਼ੈਮਾ",
+      "yue": "拉斯海瑪酋長國",
+      "yo": "Ras al Khaimah",
+      "mk": "Рас ел-Хајма"
     },
-    "geo": {
-      "latitude": 25.8006926,
-      "longitude": 55.9761994,
-      "min_latitude": 25.540431,
-      "min_longitude": 55.8637944,
-      "max_latitude": 25.9116106,
-      "max_longitude": 56.0727597
-    },
-    "name": "Ra's al Khaymah",
     "comments": null
   },
   "SH": {
+    "name": "Ash Shariqah [Sharjah]",
+    "code": null,
     "unofficial_names": [
       "إمارة الشارقةّ",
       "Ash Shariqah"
     ],
+    "geo": {
+      "latitude": 25.3575,
+      "longitude": 55.390833,
+      "min_latitude": 25.2344614,
+      "min_longitude": 55.34973,
+      "max_latitude": 25.3988264,
+      "max_longitude": 55.6726397
+    },
     "translations": {
       "en": "Sharjah",
       "ar": "إمارة الشارقة",
@@ -393,24 +462,34 @@
       "tr": "Sharjah Emirliği",
       "uk": "Шарджа",
       "ur": "شارجہ",
-      "vi": "Sharjah"
+      "vi": "Sharjah",
+      "lv": "Šārdžas emirāts",
+      "ceb": "Ash Shāriqah",
+      "sr_Latn": "Šardža",
+      "zh": "夏尔迦",
+      "yue_Hans": "沙迦酋长国",
+      "ccp": "𑄥𑄢𑄴𑄎𑄦𑄴",
+      "pa": "ਸ਼ਾਰਜਾ",
+      "yue": "沙迦酋長國",
+      "yo": "Sharjah"
     },
-    "geo": {
-      "latitude": 25.3575,
-      "longitude": 55.390833,
-      "min_latitude": 25.2344614,
-      "min_longitude": 55.34973,
-      "max_latitude": 25.3988264,
-      "max_longitude": 55.6726397
-    },
-    "name": "Ash Shariqah [Sharjah]",
     "comments": null
   },
   "UQ": {
+    "name": "Umm al Qaywayn",
+    "code": null,
     "unofficial_names": [
       "أمّ القيوين",
       "Umm al-Quwain"
     ],
+    "geo": {
+      "latitude": 25.5204824,
+      "longitude": 55.7133909,
+      "min_latitude": 25.323967,
+      "min_longitude": 55.5175201,
+      "max_latitude": 25.6954771,
+      "max_longitude": 55.953869
+    },
     "translations": {
       "en": "Umm al-Quwain",
       "ar": "أم القيوين",
@@ -460,17 +539,17 @@
       "tr": "Ummül-Kayveyn Emirliği",
       "uk": "Умм-ель-Кувейн",
       "ur": "ام القوین",
-      "vi": "Umm al-Quwain"
+      "vi": "Umm al-Quwain",
+      "lv": "Ummelkaivainas emirāts",
+      "ceb": "Umm al Qaywayn",
+      "sr_Latn": "Um el Kajvejn",
+      "zh": "欧姆古温",
+      "yue_Hans": "欧姆古温酋长国",
+      "ccp": "𑄅𑄪𑄟𑄴 𑄃𑄣𑄴-𑄇𑄪𑄠𑄃𑄨𑄚𑄴",
+      "pa": "ਉਮ ਅਲ-ਕਿਵੇਨ",
+      "yue": "歐姆古溫酋長國",
+      "yo": "Um Al Quwain"
     },
-    "geo": {
-      "latitude": 25.5204824,
-      "longitude": 55.7133909,
-      "min_latitude": 25.323967,
-      "min_longitude": 55.5175201,
-      "max_latitude": 25.6954771,
-      "max_longitude": 55.953869
-    },
-    "name": "Umm al Qaywayn",
     "comments": null
   }
 }

@@ -1,6 +1,16 @@
 {
   "CE": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": "Central",
+    "geo": {
+      "latitude": -9.0516057,
+      "longitude": 160.1693949,
+      "min_latitude": -9.287286,
+      "min_longitude": 158.730864,
+      "max_latitude": -8.84783,
+      "max_longitude": 160.4130619
+    },
     "translations": {
       "en": "Central",
       "ar": "المقاطعة الوسطى",
@@ -40,22 +50,29 @@
       "tr": "Central Province",
       "ur": "وسطی صوبہ",
       "vi": "Tỉnh Miền Trung",
-      "zh": "中部群島省"
+      "zh": "中部群島省",
+      "lv": "Centrālā province",
+      "ceb": "Central Province (lalawigan sa Kapupud-ang Solomon)",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "uk": "Центральна провінція",
+      "mk": "Централна Провинција"
     },
-    "geo": {
-      "latitude": -9.0516057,
-      "longitude": 160.1693949,
-      "min_latitude": -9.287286,
-      "min_longitude": 158.730864,
-      "max_latitude": -8.84783,
-      "max_longitude": 160.4130619
-    },
-    "name": "Central"
+    "comments": null
   },
   "CH": {
+    "name": "Choiseul",
+    "code": null,
     "unofficial_names": [
       "Lauru"
     ],
+    "geo": {
+      "latitude": -7.0501494,
+      "longitude": 156.9511459,
+      "min_latitude": -7.486276999999999,
+      "min_longitude": 156.3830852,
+      "max_latitude": -6.5901809,
+      "max_longitude": 157.8805597
+    },
     "translations": {
       "en": "Choiseul",
       "ar": "ضاحية شويزل",
@@ -93,20 +110,27 @@
       "th": "จังหวัดซัวเซิล",
       "tr": "Choiseul Province",
       "ur": "چویسیول صوبہ",
-      "vi": "Tỉnh Choiseul"
+      "vi": "Tỉnh Choiseul",
+      "lv": "Šuazelas province",
+      "ceb": "Choiseul (lalawigan sa Kapupud-ang Solomon)",
+      "zh": "舒瓦瑟爾省",
+      "ccp": "𑄇𑄰𑄱𑄥𑄨𑄅𑄪𑄣𑄴",
+      "uk": "Провінція Шуазйоль"
     },
-    "geo": {
-      "latitude": -7.0501494,
-      "longitude": 156.9511459,
-      "min_latitude": -7.486276999999999,
-      "min_longitude": 156.3830852,
-      "max_latitude": -6.5901809,
-      "max_longitude": 157.8805597
-    },
-    "name": "Choiseul"
+    "comments": null
   },
   "CT": {
+    "name": "Capital Territory (Honiara)",
+    "code": null,
     "unofficial_names": "Capital Territory (Honiara)",
+    "geo": {
+      "latitude": -9.4343868,
+      "longitude": 159.9609892,
+      "min_latitude": -9.457228899999999,
+      "min_longitude": 159.9145083,
+      "max_latitude": -9.4211729,
+      "max_longitude": 160.0229509
+    },
     "translations": {
       "en": "Honiara",
       "af": "Honiara",
@@ -163,20 +187,36 @@
       "tr": "Honiara",
       "uk": "Хоніара",
       "ur": "ہونیارا",
-      "vi": "Honiara"
+      "vi": "Honiara",
+      "cy": "Honiara",
+      "ceb": "Honiara (ulohang dakbayan)",
+      "sr_Latn": "Honijara",
+      "zh": "霍尼亚拉",
+      "yue_Hans": "康尼艾华",
+      "ccp": "𑄦𑄧𑄚𑄨𑄠𑄢",
+      "ga": "Hóiniára",
+      "so": "Honiara",
+      "pa": "ਹੋਨੀਆਰਾ",
+      "yue": "康尼艾華",
+      "yo": "Honiara",
+      "uz": "Xoniara",
+      "bs": "Honiara",
+      "mk": "Хонијара"
     },
-    "geo": {
-      "latitude": -9.4343868,
-      "longitude": 159.9609892,
-      "min_latitude": -9.457228899999999,
-      "min_longitude": 159.9145083,
-      "max_latitude": -9.4211729,
-      "max_longitude": 160.0229509
-    },
-    "name": "Capital Territory (Honiara)"
+    "comments": null
   },
   "GU": {
+    "name": "Guadalcanal",
+    "code": null,
     "unofficial_names": "Guadalcanal",
+    "geo": {
+      "latitude": -9.577328399999999,
+      "longitude": 160.1455805,
+      "min_latitude": -9.9442284,
+      "min_longitude": 159.5873199,
+      "max_latitude": -9.2508648,
+      "max_longitude": 160.8318648
+    },
     "translations": {
       "en": "Guadalcanal",
       "ar": "مقاطعة غوادالكانال",
@@ -214,20 +254,26 @@
       "tr": "Guadalcanal Province",
       "uk": "Гуадалканал",
       "ur": "گوادالکانال صوبہ",
-      "vi": "Tỉnh Guadalcanal"
+      "vi": "Tỉnh Guadalcanal",
+      "lv": "Gvadalkanāla province",
+      "ceb": "Guadalcanal Province",
+      "zh": "瓜達爾卡納爾省",
+      "ccp": "𑄉𑄪𑄠𑄓𑄣𑄴𑄇𑄚𑄣𑄴"
     },
-    "geo": {
-      "latitude": -9.577328399999999,
-      "longitude": 160.1455805,
-      "min_latitude": -9.9442284,
-      "min_longitude": 159.5873199,
-      "max_latitude": -9.2508648,
-      "max_longitude": 160.8318648
-    },
-    "name": "Guadalcanal"
+    "comments": null
   },
   "IS": {
+    "name": "Isabel",
+    "code": null,
     "unofficial_names": "Isabel",
+    "geo": {
+      "latitude": -8.0592353,
+      "longitude": 159.1447081,
+      "min_latitude": -8.5734088,
+      "min_longitude": 157.9629997,
+      "max_latitude": -7.359185999999998,
+      "max_longitude": 159.922843
+    },
     "translations": {
       "en": "Isabel",
       "ar": "مقاطعة إيزابيل",
@@ -265,22 +311,29 @@
       "th": "จังหวัดอิซาเบล",
       "tr": "Isabel Province",
       "ur": "ایزابیل صوبہ",
-      "vi": "Tỉnh Isabel"
+      "vi": "Tỉnh Isabel",
+      "lv": "Isabelas province",
+      "ceb": "Isabel Province",
+      "zh": "伊莎貝爾省",
+      "ccp": "𑄃𑄨𑄥𑄝𑄬𑄣𑄴",
+      "uk": "Провінція Ісабель"
     },
-    "geo": {
-      "latitude": -8.0592353,
-      "longitude": 159.1447081,
-      "min_latitude": -8.5734088,
-      "min_longitude": 157.9629997,
-      "max_latitude": -7.359185999999998,
-      "max_longitude": 159.922843
-    },
-    "name": "Isabel"
+    "comments": null
   },
   "MK": {
+    "name": "Makira",
+    "code": null,
     "unofficial_names": [
       "San Cristóbal"
     ],
+    "geo": {
+      "latitude": -10.5737447,
+      "longitude": 161.8096941,
+      "min_latitude": -10.9010735,
+      "min_longitude": 161.2639239,
+      "max_latitude": -9.714576899999999,
+      "max_longitude": 162.4842479
+    },
     "translations": {
       "en": "Makira-Ulawa",
       "de": "Makira und Ulawa",
@@ -300,22 +353,28 @@
       "pt": "Província de Makira-Ulawa",
       "ru": "Макира-Улава",
       "ur": "ماکیرا-اولاوا صوبہ",
-      "vi": "Makira-Ulawa"
+      "vi": "Makira-Ulawa",
+      "ceb": "Makira-Ulawa Province",
+      "zh": "馬基拉-烏拉瓦省",
+      "ccp": "𑄟𑄇𑄨𑄢-𑄃𑄣𑄤",
+      "uk": "Макіра-Улава"
     },
-    "geo": {
-      "latitude": -10.5737447,
-      "longitude": 161.8096941,
-      "min_latitude": -10.9010735,
-      "min_longitude": 161.2639239,
-      "max_latitude": -9.714576899999999,
-      "max_longitude": 162.4842479
-    },
-    "name": "Makira"
+    "comments": null
   },
   "ML": {
+    "name": "Malaita",
+    "code": null,
     "unofficial_names": [
       "Mala"
     ],
+    "geo": {
+      "latitude": -8.9446168,
+      "longitude": 160.9071236,
+      "min_latitude": -9.729862299999999,
+      "min_longitude": 160.5585766,
+      "max_latitude": -8.3105853,
+      "max_longitude": 161.5823776
+    },
     "translations": {
       "en": "Malaita",
       "ar": "محافظة مالايتا",
@@ -352,20 +411,27 @@
       "th": "จังหวัดมาไลตา",
       "tr": "Malaita Province",
       "ur": "مالایتا صوبہ",
-      "vi": "Tỉnh Malaita"
+      "vi": "Tỉnh Malaita",
+      "lv": "Malaitas province",
+      "ceb": "Malaita Province",
+      "zh": "馬萊塔省",
+      "ccp": "𑄟𑄣𑄭𑄑",
+      "uk": "Провінція Малаіта"
     },
-    "geo": {
-      "latitude": -8.9446168,
-      "longitude": 160.9071236,
-      "min_latitude": -9.729862299999999,
-      "min_longitude": 160.5585766,
-      "max_latitude": -8.3105853,
-      "max_longitude": 161.5823776
-    },
-    "name": "Malaita"
+    "comments": null
   },
   "RB": {
+    "name": "Rennell and Bellona",
+    "code": null,
     "unofficial_names": "Rennell and Bellona",
+    "geo": {
+      "latitude": -11.6131435,
+      "longitude": 160.1693949,
+      "min_latitude": -11.8505741,
+      "min_longitude": 159.7519747,
+      "max_latitude": -11.2732136,
+      "max_longitude": 160.5820945
+    },
     "translations": {
       "en": "Rennell and Bellona",
       "ar": "محافظة رينيل و بيلونا",
@@ -403,22 +469,29 @@
       "th": "จังหวัดเรนเนล แอน เบลลอน",
       "tr": "Rennel and Bellona Province",
       "ur": "رینل اور بیلونا صوبہ",
-      "vi": "Tỉnh Rennell và Bellona"
+      "vi": "Tỉnh Rennell và Bellona",
+      "lv": "Renelas un Belonas province",
+      "ceb": "Rennell and Bellona",
+      "zh": "拉納爾和貝羅納省",
+      "ccp": "𑄢𑄬𑄚𑄬𑄣𑄴 𑄃𑄳𑄃 𑄝𑄬𑄣𑄮𑄚",
+      "uk": "Провінція Реннелл та Беллона"
     },
-    "geo": {
-      "latitude": -11.6131435,
-      "longitude": 160.1693949,
-      "min_latitude": -11.8505741,
-      "min_longitude": 159.7519747,
-      "max_latitude": -11.2732136,
-      "max_longitude": 160.5820945
-    },
-    "name": "Rennell and Bellona"
+    "comments": null
   },
   "TE": {
+    "name": "Temotu",
+    "code": null,
     "unofficial_names": [
       "Eastern Islands"
     ],
+    "geo": {
+      "latitude": -10.686929,
+      "longitude": 166.0623979,
+      "min_latitude": -12.312529,
+      "min_longitude": 165.650482,
+      "max_latitude": -9.7597709,
+      "max_longitude": 168.8457699
+    },
     "translations": {
       "en": "Temotu",
       "ar": "محافظة تيموتو",
@@ -455,20 +528,27 @@
       "th": "จังหวัดเตโมตู",
       "tr": "Temotu Province",
       "ur": "تیموتو صوبہ",
-      "vi": "Temotu"
+      "vi": "Temotu",
+      "lv": "Temotu province",
+      "ceb": "Temotu Province",
+      "zh": "泰莫圖省",
+      "ccp": "𑄑𑄬𑄟𑄮𑄑𑄪",
+      "uk": "Провінція Темоту"
     },
-    "geo": {
-      "latitude": -10.686929,
-      "longitude": 166.0623979,
-      "min_latitude": -12.312529,
-      "min_longitude": 165.650482,
-      "max_latitude": -9.7597709,
-      "max_longitude": 168.8457699
-    },
-    "name": "Temotu"
+    "comments": null
   },
   "WE": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": "Western",
+    "geo": {
+      "latitude": -8.128037299999999,
+      "longitude": 157.4278119,
+      "min_latitude": -8.829506,
+      "min_longitude": 155.513278,
+      "max_latitude": -6.673965,
+      "max_longitude": 158.2985577
+    },
     "translations": {
       "en": "Western",
       "ar": "المحافظة الغربية",
@@ -506,17 +586,15 @@
       "th": "เวสเทิร์น โพวิ้น",
       "tr": "Western Province",
       "ur": "مغربی صوبہ",
-      "vi": "Tỉnh Phía Tây"
+      "vi": "Tỉnh Phía Tây",
+      "lv": "Rietumu province",
+      "ceb": "Western Province",
+      "zh": "西部省",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "uk": "Західна провінція",
+      "ca": "Província Occidental"
     },
-    "geo": {
-      "latitude": -8.128037299999999,
-      "longitude": 157.4278119,
-      "min_latitude": -8.829506,
-      "min_longitude": 155.513278,
-      "max_latitude": -6.673965,
-      "max_longitude": 158.2985577
-    },
-    "name": "Western"
+    "comments": null
   }
 }
 

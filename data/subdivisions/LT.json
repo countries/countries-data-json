@@ -1,6 +1,16 @@
 {
   "AL": {
+    "name": "Alytaus Apskritis",
+    "code": null,
     "unofficial_names": "Alytaus Apskritis",
+    "geo": {
+      "latitude": 54.2000214,
+      "longitude": 24.1512634,
+      "min_latitude": 53.89747999999999,
+      "min_longitude": 23.3125978,
+      "max_latitude": 54.5634689,
+      "max_longitude": 25.025222
+    },
     "translations": {
       "en": "Alytus County",
       "ar": "مقاطعة أليتس",
@@ -48,22 +58,31 @@
       "tr": "Alytus County",
       "uk": "Алітуський повіт",
       "ur": "الیتوس کاؤنٹی",
-      "vi": "Hạt Alytus"
+      "vi": "Hạt Alytus",
+      "ceb": "Alytaus apskritis",
+      "sr_Latn": "Alitus okrug",
+      "zh": "阿利圖斯縣",
+      "ccp": "𑄃𑄣𑄭𑄑𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Alytus",
+      "bs": "Okrug Alitus",
+      "mk": "Алитушки округ"
     },
-    "geo": {
-      "latitude": 54.2000214,
-      "longitude": 24.1512634,
-      "min_latitude": 53.89747999999999,
-      "min_longitude": 23.3125978,
-      "max_latitude": 54.5634689,
-      "max_longitude": 25.025222
-    },
-    "name": "Alytaus Apskritis"
+    "comments": null
   },
   "KL": {
+    "name": "Klaipedos Apskritis",
+    "code": null,
     "unofficial_names": [
       "Klaipedos"
     ],
+    "geo": {
+      "latitude": 55.6686983,
+      "longitude": 21.4241373,
+      "min_latitude": 55.18056989999999,
+      "min_longitude": 20.9531999,
+      "max_latitude": 56.38402379999999,
+      "max_longitude": 22.0260791
+    },
     "translations": {
       "en": "Klaipėda County",
       "ar": "مقاطعة كلايبيدا",
@@ -99,20 +118,32 @@
       "sv": "Klaipėda",
       "sw": "Wilaya ya Klaipėda",
       "uk": "Клайпедський повіт",
-      "ur": "کلائپیدا کاؤنٹی"
+      "ur": "کلائپیدا کاؤنٹی",
+      "ceb": "Klaipėdos apskritis",
+      "tr": "Klaipėda",
+      "sr_Latn": "Klajpeda",
+      "zh": "克萊佩達縣",
+      "ccp": "𑄇𑄳𑄣𑄭𑄛𑄬𑄓 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Klaipėda",
+      "hy": "Կլայպեդի գավառ",
+      "th": "เทศมณฑลไคลเพดา",
+      "bs": "Okrug Klaipėda",
+      "mk": "Клајпедски округ"
     },
-    "geo": {
-      "latitude": 55.6686983,
-      "longitude": 21.4241373,
-      "min_latitude": 55.18056989999999,
-      "min_longitude": 20.9531999,
-      "max_latitude": 56.38402379999999,
-      "max_longitude": 22.0260791
-    },
-    "name": "Klaipedos Apskritis"
+    "comments": null
   },
   "KU": {
+    "name": "Kauno Apskritis",
+    "code": null,
     "unofficial_names": "Kauno Apskritis",
+    "geo": {
+      "latitude": 54.9872863,
+      "longitude": 23.9525736,
+      "min_latitude": 54.4543069,
+      "min_longitude": 22.6715098,
+      "max_latitude": 55.57691699999999,
+      "max_longitude": 24.811666
+    },
     "translations": {
       "en": "Kaunas County",
       "ar": "مقاطعة كاوناس",
@@ -160,22 +191,31 @@
       "tr": "Kaunas County",
       "uk": "Каунаський повіт",
       "ur": "کاوناس کاؤنٹی",
-      "vi": "Hạt Kaunas"
+      "vi": "Hạt Kaunas",
+      "ceb": "Kauno apskritis",
+      "sr_Latn": "Kaunas okrug",
+      "zh": "考那斯縣",
+      "ccp": "𑄇𑄯𑄚𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Kaunas",
+      "bs": "Okrug Kaunas",
+      "mk": "Каунашки округ"
     },
-    "geo": {
-      "latitude": 54.9872863,
-      "longitude": 23.9525736,
-      "min_latitude": 54.4543069,
-      "min_longitude": 22.6715098,
-      "max_latitude": 55.57691699999999,
-      "max_longitude": 24.811666
-    },
-    "name": "Kauno Apskritis"
+    "comments": null
   },
   "MR": {
+    "name": "Marijampoles Apskritis",
+    "code": null,
     "unofficial_names": [
       "Mariampoles"
     ],
+    "geo": {
+      "latitude": 54.78199710000001,
+      "longitude": 23.1341364,
+      "min_latitude": 54.253698,
+      "min_longitude": 22.58981,
+      "max_latitude": 55.104489,
+      "max_longitude": 23.7938401
+    },
     "translations": {
       "en": "Marijampolė County",
       "ar": "مقاطعة ميرايامبوله",
@@ -223,22 +263,31 @@
       "tr": "Marijampolė County",
       "uk": "Маріямпольський повіт",
       "ur": "مارییامپولے کاؤنٹی",
-      "vi": "Marijampolė (hạt)"
+      "vi": "Marijampolė (hạt)",
+      "ceb": "Marijampolės apskritis",
+      "sr_Latn": "Marijampole okrug",
+      "zh": "馬里揚泊列縣",
+      "ccp": "𑄟𑄢𑄨𑄟𑄴𑄛𑄮𑄣𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Marijampolė",
+      "bs": "Okrug Marijampolė",
+      "mk": "Маријамполски округ"
     },
-    "geo": {
-      "latitude": 54.78199710000001,
-      "longitude": 23.1341364,
-      "min_latitude": 54.253698,
-      "min_longitude": 22.58981,
-      "max_latitude": 55.104489,
-      "max_longitude": 23.7938401
-    },
-    "name": "Marijampoles Apskritis"
+    "comments": null
   },
   "PN": {
+    "name": "Panevežio Apskritis",
+    "code": null,
     "unofficial_names": [
       "Panevezhio"
     ],
+    "geo": {
+      "latitude": 55.9748049,
+      "longitude": 25.0794767,
+      "min_latitude": 55.38713989999999,
+      "min_longitude": 23.8790478,
+      "max_latitude": 56.45032089999999,
+      "max_longitude": 26.0457081
+    },
     "translations": {
       "en": "Panevėžys County",
       "ar": "مقاطعة بانيفيزيس",
@@ -286,22 +335,32 @@
       "tr": "Panevezys County",
       "uk": "Паневезький повіт",
       "ur": "پانیویژیس کاؤنٹی",
-      "vi": "Hạt Panevezys"
+      "vi": "Hạt Panevezys",
+      "ceb": "Panevėžys",
+      "sr_Latn": "Panevežis okrug",
+      "zh": "帕涅韋日斯縣",
+      "ccp": "𑄛𑄳𑄠𑄚𑄬𑄞𑄬𑄎𑄭 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Panevėžys",
+      "hy": "Պանավեժի կոմսություն",
+      "bs": "Okrug Panevėžys",
+      "mk": "Паневешки округ"
     },
-    "geo": {
-      "latitude": 55.9748049,
-      "longitude": 25.0794767,
-      "min_latitude": 55.38713989999999,
-      "min_longitude": 23.8790478,
-      "max_latitude": 56.45032089999999,
-      "max_longitude": 26.0457081
-    },
-    "name": "Panevežio Apskritis"
+    "comments": null
   },
   "SA": {
+    "name": "Šiauliu Apskritis",
+    "code": null,
     "unofficial_names": [
       "Shiauliu"
     ],
+    "geo": {
+      "latitude": 55.9985751,
+      "longitude": 23.1380051,
+      "min_latitude": 55.4631011,
+      "min_longitude": 22.4657018,
+      "max_latitude": 56.41505489999999,
+      "max_longitude": 24.1824539
+    },
     "translations": {
       "en": "Šiauliai County",
       "ar": "مقاطعة شياولياي",
@@ -348,22 +407,31 @@
       "tr": "Siauliai County",
       "uk": "Шяуляйський повіт",
       "ur": "شئولئی کاؤنٹی",
-      "vi": "Hạt siauliai"
+      "vi": "Hạt siauliai",
+      "ceb": "Šiaulių apskritis",
+      "sr_Latn": "Šjauljaj",
+      "zh": "希奧利艾縣",
+      "ccp": "𑄥𑄨𑄃𑄮𑄣𑄨𑄃𑄭 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Šiauliai",
+      "bs": "Okrug Šiauliai",
+      "mk": "Шјауљајски округ"
     },
-    "geo": {
-      "latitude": 55.9985751,
-      "longitude": 23.1380051,
-      "min_latitude": 55.4631011,
-      "min_longitude": 22.4657018,
-      "max_latitude": 56.41505489999999,
-      "max_longitude": 24.1824539
-    },
-    "name": "Šiauliu Apskritis"
+    "comments": null
   },
   "TA": {
+    "name": "Taurages Apskritis",
+    "code": null,
     "unofficial_names": [
       "Taurages"
     ],
+    "geo": {
+      "latitude": 55.3072586,
+      "longitude": 22.357294,
+      "min_latitude": 55.02444,
+      "min_longitude": 21.649398,
+      "max_latitude": 55.68873199999999,
+      "max_longitude": 23.5038912
+    },
     "translations": {
       "en": "Tauragė County",
       "ar": "مقاطعة تاوراغه",
@@ -411,22 +479,32 @@
       "tr": "Taurage County",
       "uk": "Таурагський повіт",
       "ur": "توراگئیے کاؤنٹی",
-      "vi": "Hạt Taurage"
+      "vi": "Hạt Taurage",
+      "ceb": "Tauragės apskritis",
+      "sr_Latn": "Okrug Taurage",
+      "zh": "陶拉格縣",
+      "ccp": "𑄑𑄅𑄪𑄢𑄇𑄴𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Tauragė",
+      "hy": "Տաուրագեսի կոմսություն",
+      "bs": "Okrug Tauragė",
+      "mk": "Таурашки округ"
     },
-    "geo": {
-      "latitude": 55.3072586,
-      "longitude": 22.357294,
-      "min_latitude": 55.02444,
-      "min_longitude": 21.649398,
-      "max_latitude": 55.68873199999999,
-      "max_longitude": 23.5038912
-    },
-    "name": "Taurages Apskritis"
+    "comments": null
   },
   "TE": {
+    "name": "Telšiu Apskritis",
+    "code": null,
     "unofficial_names": [
       "Telshiu"
     ],
+    "geo": {
+      "latitude": 56.1026616,
+      "longitude": 22.1113916,
+      "min_latitude": 55.59742689999999,
+      "min_longitude": 21.5120119,
+      "max_latitude": 56.4320116,
+      "max_longitude": 22.7381388
+    },
     "translations": {
       "en": "Telšiai County",
       "ar": "مقاطعة تيلسياي",
@@ -474,20 +552,29 @@
       "tr": "Teislai County",
       "uk": "Тельшяйський повіт",
       "ur": "تلشئیی کاؤنٹی",
-      "vi": "Hạt Telsiai"
+      "vi": "Hạt Telsiai",
+      "ceb": "Telšių apskritis",
+      "sr_Latn": "Telšjaj",
+      "zh": "特爾希艾縣",
+      "ccp": "𑄑𑄣𑄴𑄥𑄨𑄃𑄭 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Telšiai",
+      "bs": "Okrug Telšiai",
+      "mk": "Телшјајски округ"
     },
-    "geo": {
-      "latitude": 56.1026616,
-      "longitude": 22.1113916,
-      "min_latitude": 55.59742689999999,
-      "min_longitude": 21.5120119,
-      "max_latitude": 56.4320116,
-      "max_longitude": 22.7381388
-    },
-    "name": "Telšiu Apskritis"
+    "comments": null
   },
   "UT": {
+    "name": "Utenos Apskritis",
+    "code": null,
     "unofficial_names": "Utenos Apskritis",
+    "geo": {
+      "latitude": 55.53189690000001,
+      "longitude": 25.7904699,
+      "min_latitude": 55.0309768,
+      "min_longitude": 24.653176,
+      "max_latitude": 55.94378,
+      "max_longitude": 26.8355798
+    },
     "translations": {
       "en": "Utena County",
       "ar": "مقاطعة أوتينا",
@@ -535,20 +622,30 @@
       "tr": "Utena",
       "uk": "Утенський повіт",
       "ur": "اوتینا کاؤنٹی",
-      "vi": "Hạt Utena"
+      "vi": "Hạt Utena",
+      "ceb": "Utenos apskritis",
+      "sr_Latn": "Utena",
+      "zh": "烏田納縣",
+      "ccp": "𑄅𑄪𑄑𑄬𑄚 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Utena",
+      "hy": "Ուտենայի գավառ",
+      "bs": "Okrug Utena",
+      "mk": "Утенски округ"
     },
-    "geo": {
-      "latitude": 55.53189690000001,
-      "longitude": 25.7904699,
-      "min_latitude": 55.0309768,
-      "min_longitude": 24.653176,
-      "max_latitude": 55.94378,
-      "max_longitude": 26.8355798
-    },
-    "name": "Utenos Apskritis"
+    "comments": null
   },
   "VL": {
+    "name": "Vilniaus Apskritis",
+    "code": null,
     "unofficial_names": "Vilniaus Apskritis",
+    "geo": {
+      "latitude": 54.8086502,
+      "longitude": 25.2182138,
+      "min_latitude": 54.1276599,
+      "min_longitude": 24.3863751,
+      "max_latitude": 55.5174369,
+      "max_longitude": 26.760213
+    },
     "translations": {
       "en": "Vilnius County",
       "ar": "مقاطعة فيلنيوس",
@@ -597,19 +694,29 @@
       "tr": "Vilnius County",
       "uk": "Вільнюський повіт",
       "ur": "ویلنیوس کاؤنٹی",
-      "vi": "Hạt Vilnius"
+      "vi": "Hạt Vilnius",
+      "ceb": "Vilniaus apskritis",
+      "sr_Latn": "Vilnjus okrug",
+      "zh": "維爾紐斯縣",
+      "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄠𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Vilnius",
+      "bs": "Okrug Vilnius",
+      "mk": "Вилнушки округ"
     },
-    "geo": {
-      "latitude": 54.8086502,
-      "longitude": 25.2182138,
-      "min_latitude": 54.1276599,
-      "min_longitude": 24.3863751,
-      "max_latitude": 55.5174369,
-      "max_longitude": 26.760213
-    },
-    "name": "Vilniaus Apskritis"
+    "comments": null
   },
   "49": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلدية سفينيتشونيس",
       "be": "Свянцянскі раён",
@@ -630,10 +737,24 @@
       "pl": "Rejon święciański",
       "ru": "Швенчёнский район",
       "uk": "Швенчьонський район",
-      "ur": "شوینچونیس ضلع بلدیہ"
-    }
+      "ur": "شوینچونیس ضلع بلدیہ",
+      "zh": "什文喬尼斯地區",
+      "ccp": "𑄌𑄳𑄞𑄬𑄚𑄴𑄥𑄨𑄃𑄮𑄚𑄨𑄌𑄴"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Anikşçyay rayonu",
       "be": "Анікшчайскі раён",
@@ -653,10 +774,26 @@
       "pl": "Rejon oniksztyński",
       "ru": "Аникщяйский район",
       "uk": "Анікщяйський район",
-      "ur": "انیکشئیی ضلع بلدیہ"
-    }
+      "ur": "انیکشئیی ضلع بلدیہ",
+      "zh": "阿尼克什奇艾地區",
+      "ccp": "𑄃𑄳𑄠𑄚𑄨𑄇𑄴𑄥𑄨𑄃𑄭",
+      "hy": "Անիկշչայի շրջան",
+      "es": "Distrito de Anykščiai"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Акмянскі раён",
       "ca": "Districte municipal d’Akmenė",
@@ -677,10 +814,24 @@
       "sv": "Akmenės rajono savivaldybė",
       "uk": "Акмянський район",
       "ur": "اکمینے ضلع بلدیہ",
-      "zh": "阿克梅內地區"
-    }
+      "zh": "阿克梅內地區",
+      "ceb": "Akmenės Rajonas",
+      "ccp": "𑄃𑄇𑄴𑄟𑄬𑄚𑄬"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Алітускі раён",
       "ca": "Districte municipal d’Alytus",
@@ -702,10 +853,27 @@
       "ru": "Алитусский район",
       "sv": "Alytaus rajono savivaldybė",
       "uk": "Алітуський район",
-      "ur": "الیتوس ضلع بلدیہ"
-    }
+      "ur": "الیتوس ضلع بلدیہ",
+      "ceb": "Alytaus rajonas",
+      "zh": "阿利圖斯地區",
+      "ja": "アリートゥス郡",
+      "ccp": "𑄃𑄣𑄨𑄠𑄑𑄌𑄴",
+      "et": "Alytuse rajoon"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Біржаўскі раён",
       "ca": "Districte municipal de Biržai",
@@ -725,10 +893,28 @@
       "ru": "Биржайский район",
       "sv": "Biržų rajono savivaldybė",
       "uk": "Біржайський район",
-      "ur": "برژائی ضلع بلدیہ"
-    }
+      "ur": "برژائی ضلع بلدیہ",
+      "ceb": "Biržai (munisipyo sa Litwanya)",
+      "zh": "比爾扎伊地區",
+      "ccp": "𑄝𑄨𑄢𑄴𑄎𑄭",
+      "es": "Distrito de Biržai",
+      "da": "Biržai Distriktkommune",
+      "hu": "Biržai község"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Друскенінкайскае самакіраванне",
       "ca": "Municipi de Druskininkai",
@@ -745,10 +931,24 @@
       "nl": "Druskininkai",
       "pl": "Rejon druskienicki",
       "ru": "Друскининкайское самоуправление",
-      "ur": "دروسکیکینکائی بلدیہ"
-    }
+      "ur": "دروسکیکینکائی بلدیہ",
+      "zh": "德魯斯基寧凱區",
+      "ccp": "𑄓𑄳𑄢𑄪𑄌𑄴𑄇𑄨𑄚𑄨𑄚𑄴𑄇𑄭"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Ігналінскі раён",
       "ca": "Districte municipal d’Ignalina",
@@ -769,10 +969,25 @@
       "ru": "Игналинский район",
       "sv": "Ignalina distrikt",
       "uk": "Ігналінський район",
-      "ur": "اگنالینا ضلع بلدیہ"
-    }
+      "ur": "اگنالینا ضلع بلدیہ",
+      "zh": "伊格納利納地區",
+      "ccp": "𑄃𑄨𑄇𑄴𑄚𑄣𑄨𑄚",
+      "es": "Distrito de Ignalina"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Ёнаўскі раён",
       "ca": "Districte municipal de Jonava",
@@ -794,10 +1009,26 @@
       "ru": "Ионавский район",
       "sv": "Jonavos rajono savivaldybė",
       "uk": "Йонавський район",
-      "ur": "یوناوا ضلع بلدیہ"
-    }
+      "ur": "یوناوا ضلع بلدیہ",
+      "ceb": "Jonava",
+      "zh": "約納瓦地區",
+      "ccp": "𑄎𑄧𑄚𑄞",
+      "hu": "Jonava község"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Кальварыйскае самакіраванне",
       "ca": "Municipi de Kalvarija",
@@ -815,10 +1046,25 @@
       "pl": "Rejon kalwaryjski",
       "ru": "Калварийское самоуправление",
       "sv": "Kalvarijos savivaldybė",
-      "ur": "کالواریا بلدیہ"
-    }
+      "ur": "کالواریا بلدیہ",
+      "ceb": "Kalvarija Municipality",
+      "zh": "卡爾瓦里亞區",
+      "ccp": "𑄇𑄣𑄴𑄞𑄢𑄨𑄎"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Каўнаскае гарадское самакіраванне",
       "cs": "Kaunas",
@@ -829,10 +1075,25 @@
       "lt": "Kauno miesto savivaldybė",
       "nl": "Kaunas",
       "pl": "Kowno",
-      "ru": "Каунасское городское самоуправление"
-    }
+      "ru": "Каунасское городское самоуправление",
+      "el": "Δήμος Κάουνας",
+      "ccp": "𑄇𑄯𑄚𑄮 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "uk": "Каунаський міський муніципалітет"
+    },
+    "comments": null
   },
   "16": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Каўнаскі раён",
       "ca": "Districte municipal de Kaunas",
@@ -852,10 +1113,25 @@
       "ru": "Каунасский район",
       "sv": "Kauno rajono savivaldybė",
       "uk": "Каунаський район",
-      "ur": "کاوناس ضلع بلدیہ"
-    }
+      "ur": "کاوناس ضلع بلدیہ",
+      "ceb": "Kauno rajonas",
+      "zh": "考那斯地區",
+      "ccp": "𑄇𑄯𑄚𑄌𑄴"
+    },
+    "comments": null
   },
   "18": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Кейданскі раён",
       "ca": "Districte municipal de Kėdainiai",
@@ -875,10 +1151,25 @@
       "ru": "Кедайнский район",
       "sv": "Kėdainių rajono savivaldybė",
       "uk": "Кедайняйський район",
-      "ur": "کئیداینیائی ضلع بلدیہ"
-    }
+      "ur": "کئیداینیائی ضلع بلدیہ",
+      "ceb": "Kėdainiai",
+      "zh": "凱代尼艾地區",
+      "ccp": "𑄇𑄬𑄓𑄭𑄚𑄨𑄃𑄭"
+    },
+    "comments": null
   },
   "19": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Кяльмскі раён",
       "ca": "Districte municipal de Kelmė",
@@ -896,10 +1187,24 @@
       "pl": "Rejon kielmski",
       "ru": "Кельмеский район",
       "uk": "Кельмеський район",
-      "ur": "کیلمے ضلع بلدیہ"
-    }
+      "ur": "کیلمے ضلع بلدیہ",
+      "zh": "凱爾梅地區",
+      "ccp": "𑄇𑄬𑄣𑄴𑄟𑄬"
+    },
+    "comments": null
   },
   "21": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Клайпедскі раён",
       "ca": "Districte municipal de Klaipėda",
@@ -920,10 +1225,25 @@
       "ru": "Клайпедский район",
       "sv": "Klaipėdos rajonas",
       "uk": "Клайпедський район",
-      "ur": "کلائپیدا ضلع بلدیہ"
-    }
+      "ur": "کلائپیدا ضلع بلدیہ",
+      "ceb": "Klaipėdos rajonas",
+      "zh": "克萊佩達地區",
+      "ccp": "𑄇𑄳𑄣𑄭𑄛𑄬𑄓"
+    },
+    "comments": null
   },
   "22": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Крацінгскі раён",
       "ca": "Districte municipal de Kretinga",
@@ -944,10 +1264,25 @@
       "pl": "Rejon kretyngański",
       "ru": "Кретингский район",
       "uk": "Кретинзький район",
-      "ur": "کریتینگا ضلع بلدیہ"
-    }
+      "ur": "کریتینگا ضلع بلدیہ",
+      "ceb": "Kretinga",
+      "zh": "克雷廷加地區",
+      "ccp": "𑄇𑄳𑄢𑄬𑄑𑄨𑄁𑄉"
+    },
+    "comments": null
   },
   "23": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Купішкскі раён",
       "ca": "Districte municipal de Kupiškis",
@@ -966,10 +1301,25 @@
       "pl": "Rejon kupiszecki",
       "ru": "Купишкский район",
       "uk": "Купишкіський район",
-      "ur": "کوپشکس ضلع بلدیہ"
-    }
+      "ur": "کوپشکس ضلع بلدیہ",
+      "zh": "庫皮什基斯地區",
+      "ccp": "𑄇𑄪𑄛𑄨𑄌𑄴𑄇𑄨𑄌𑄴",
+      "es": "Distrito de Kupiškis"
+    },
+    "comments": null
   },
   "25": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Марыямпальскае самакіраванне",
       "ca": "Municipi de Marijampolė",
@@ -986,10 +1336,25 @@
       "pl": "Rejon mariampolski",
       "ru": "Мариямпольское самоуправление",
       "sv": "Marijampolės savivaldybė",
-      "ur": "مارییامپولے بلدیہ"
-    }
+      "ur": "مارییامپولے بلدیہ",
+      "ceb": "Marijampolės Rajonas",
+      "zh": "馬里揚泊列區",
+      "ccp": "𑄟𑄢𑄨𑄎𑄟𑄴𑄛𑄧𑄣𑄬"
+    },
+    "comments": null
   },
   "26": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Мажэйкейскі раён",
       "ca": "Districte municipal de Mažeikiai",
@@ -1008,10 +1373,24 @@
       "pl": "Rejon możejski",
       "ru": "Мажейкяйский район",
       "uk": "Мажейкяйський район",
-      "ur": "ماژئیکئی ضلع بلدیہ"
-    }
+      "ur": "ماژئیکئی ضلع بلدیہ",
+      "zh": "馬爾熱基艾地區",
+      "ccp": "𑄟𑄎𑄬𑄇𑄨𑄃𑄭"
+    },
+    "comments": null
   },
   "29": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Пагегейскае самакіраванне",
       "ca": "Municipi de Pagėgiai",
@@ -1028,10 +1407,25 @@
       "pl": "Rejon pojeski",
       "ru": "Пагегское самоуправление",
       "sv": "Pagėgių savivaldybė",
-      "ur": "پاگیگیئی بلدیہ"
-    }
+      "ur": "پاگیگیئی بلدیہ",
+      "ceb": "Pagėgiai (munisipyo)",
+      "zh": "帕蓋吉艾區",
+      "ccp": "𑄛𑄬𑄃𑄨𑄌𑄴𑄉𑄭"
+    },
+    "comments": null
   },
   "30": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Пакруойскі раён",
       "ca": "Districte municipal de Pakruojis",
@@ -1050,10 +1444,25 @@
       "ru": "Пакруойский район",
       "sv": "Pakruojo rajono savivaldybė",
       "uk": "Пакруоїський район",
-      "ur": "پاکرووئیس ضلع بلدیہ"
-    }
+      "ur": "پاکرووئیس ضلع بلدیہ",
+      "ceb": "Pakruojis (munisipyo)",
+      "zh": "帕克魯奧伊斯地區",
+      "ccp": "𑄛𑄇𑄴𑄢𑄯𑄎𑄨𑄌𑄴"
+    },
+    "comments": null
   },
   "33": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Паневежыскі раён",
       "ca": "Districte municipal de Panevėžys",
@@ -1074,10 +1483,26 @@
       "ru": "Паневежский район",
       "sv": "Panevėžio rajono savivaldybė",
       "uk": "Паневежиський район",
-      "ur": "پانیویژیس ضلع بلدیہ"
-    }
+      "ur": "پانیویژیس ضلع بلدیہ",
+      "ceb": "Panevėžys District Municipality",
+      "zh": "帕內韋日斯地區",
+      "ccp": "𑄛𑄧𑄚𑄬𑄞𑄬𑄎𑄨𑄌𑄴",
+      "es": "Distrito de Panevėžys"
+    },
+    "comments": null
   },
   "34": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Пасваліскі раён",
       "ca": "Districte municipal de Pasvalys",
@@ -1097,10 +1522,25 @@
       "ro": "Pasvalys",
       "ru": "Пасвальский район",
       "uk": "Пасваліський район",
-      "ur": "پاسویلیس ضلع بلدیہ"
-    }
+      "ur": "پاسویلیس ضلع بلدیہ",
+      "zh": "帕斯瓦利斯地區",
+      "ccp": "𑄛𑄌𑄴𑄞𑄣𑄨𑄌𑄴",
+      "es": "Distrito de Pasvalys"
+    },
+    "comments": null
   },
   "36": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Прэнайскі раён",
       "ca": "Districte municipal de Prienai",
@@ -1118,10 +1558,25 @@
       "pl": "Rejon preński",
       "ru": "Пренайский район",
       "uk": "Пренайський район",
-      "ur": "پریئنائی ضلع بلدیہ"
-    }
+      "ur": "پریئنائی ضلع بلدیہ",
+      "zh": "普列奈地區",
+      "ccp": "𑄛𑄳𑄢𑄭𑄠𑄬𑄚𑄭",
+      "et": "Prienai rajoon"
+    },
+    "comments": null
   },
   "37": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Радзівілішкаўскі раён",
       "ca": "Districte municipal de Radviliškis",
@@ -1141,10 +1596,24 @@
       "pl": "Rejon radziwiliski",
       "ru": "Радвилишкский район",
       "uk": "Радвилішкіський район",
-      "ur": "رادویلشکس ضلع بلدیہ"
-    }
+      "ur": "رادویلشکس ضلع بلدیہ",
+      "zh": "拉德維利什基斯地區",
+      "ccp": "𑄢𑄖𑄴𑄞𑄨𑄣𑄨𑄌𑄴𑄇𑄨𑄌𑄴"
+    },
+    "comments": null
   },
   "38": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Расяйнейскі раён",
       "ca": "Districte municipal de Raseiniai",
@@ -1164,10 +1633,25 @@
       "ru": "Расейнский район",
       "sv": "Raseiniai (kommun)",
       "uk": "Расейняйський район",
-      "ur": "راسئینیائی ضلع بلدیہ"
-    }
+      "ur": "راسئینیائی ضلع بلدیہ",
+      "ceb": "Raseiniai",
+      "zh": "拉塞尼艾地區",
+      "ccp": "𑄢𑄥𑄬𑄭𑄚𑄨𑄃𑄭"
+    },
+    "comments": null
   },
   "40": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Рокішкіскі раён",
       "ca": "Districte municipal de Rokiškis",
@@ -1186,10 +1670,25 @@
       "pl": "Rejon rakiszecki",
       "ru": "Рокишкский район",
       "uk": "Рокишкіський район",
-      "ur": "روکشکس ضلع بلدیہ"
-    }
+      "ur": "روکشکس ضلع بلدیہ",
+      "zh": "羅基什基斯地區",
+      "ccp": "𑄢𑄧𑄇𑄨𑄌𑄴𑄇𑄨𑄌𑄴",
+      "es": "Distrito de Rokiškis"
+    },
+    "comments": null
   },
   "44": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Шаўляйскі раён",
       "ca": "Districte municipal de Šiauliai",
@@ -1207,10 +1706,25 @@
       "pl": "Rejon szawelski",
       "ru": "Шяуляйский район",
       "sv": "Šiaulių rajono savivaldybė",
-      "ur": "شئولئی ضلع بلدیہ"
-    }
+      "ur": "شئولئی ضلع بلدیہ",
+      "ceb": "Šiaulių rajonas",
+      "zh": "希奧利艾地區",
+      "ccp": "𑄥𑄭𑄃𑄯𑄣𑄨𑄃𑄭"
+    },
+    "comments": null
   },
   "46": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Шылуцкі раён",
       "ca": "Districte municipal de Šilutė",
@@ -1228,10 +1742,24 @@
       "nl": "Šilutė",
       "pl": "Rejon szyłokarczemski",
       "ru": "Шилутский район",
-      "ur": "شیلوتے ضلع بلدیہ"
-    }
+      "ur": "شیلوتے ضلع بلدیہ",
+      "zh": "錫盧泰地區",
+      "ccp": "𑄥𑄨𑄣𑄅𑄪𑄖𑄴"
+    },
+    "comments": null
   },
   "47": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Шырвінцкі раён",
       "ca": "Districte municipal de Širvintos",
@@ -1251,10 +1779,25 @@
       "pl": "Rejon szyrwincki",
       "ru": "Ширвинтский район",
       "uk": "Ширвінтоський район",
-      "ur": "شیروینتوس ضلع بلدیہ"
-    }
+      "ur": "شیروینتوس ضلع بلدیہ",
+      "zh": "希爾文托斯地區",
+      "ccp": "𑄥𑄨𑄢𑄴𑄞𑄭𑄚𑄴𑄑𑄮𑄌𑄴",
+      "et": "Širvintose rajoon"
+    },
+    "comments": null
   },
   "50": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Таўрагскі раён",
       "ca": "Districte municipal de Tauragė",
@@ -1272,10 +1815,24 @@
       "nl": "Tauragė",
       "pl": "Rejon tauroski",
       "ru": "Таурагский район",
-      "ur": "توراگئیے ضلع بلدیہ"
-    }
+      "ur": "توراگئیے ضلع بلدیہ",
+      "zh": "陶拉格地區",
+      "ccp": "𑄑𑄧𑄅𑄪𑄢𑄇𑄴"
+    },
+    "comments": null
   },
   "51": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Цяльшайскі раён",
       "ca": "Districte municipal de Telšiai",
@@ -1294,10 +1851,25 @@
       "pl": "Rejon telszański",
       "ru": "Тельшяйский район",
       "sv": "Telšių rajono savivaldybė",
-      "ur": "تلشئیی ضلع بلدیہ"
-    }
+      "ur": "تلشئیی ضلع بلدیہ",
+      "ceb": "Telšiai (munisipyo sa Litwanya)",
+      "zh": "特爾希艾地區",
+      "ccp": "𑄑𑄬𑄣𑄴𑄥𑄨𑄃𑄭"
+    },
+    "comments": null
   },
   "52": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Тракайскі раён",
       "ca": "Districte municipal de Trakai",
@@ -1316,10 +1888,24 @@
       "pl": "Rejon trocki",
       "ru": "Тракайский район",
       "uk": "Тракайський район",
-      "ur": "تراکئی ضلع بلدیہ"
-    }
+      "ur": "تراکئی ضلع بلدیہ",
+      "zh": "特拉開地區",
+      "ccp": "𑄑𑄳𑄢𑄇𑄭"
+    },
+    "comments": null
   },
   "53": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Укмяргскі раён",
       "ca": "Districte municipal d’Ukmergė",
@@ -1339,10 +1925,26 @@
       "ru": "Укмергский район",
       "sv": "Ukmergės rajono savivaldybė",
       "uk": "Укмергський район",
-      "ur": "اوکمیرگے ضلع بلدیہ"
-    }
+      "ur": "اوکمیرگے ضلع بلدیہ",
+      "ceb": "Ukmergė (munisipyo sa Litwanya)",
+      "zh": "烏克梅爾蓋地區",
+      "ccp": "𑄃𑄇𑄴𑄟𑄢𑄴𑄇𑄴",
+      "et": "Ukmergė rajoon"
+    },
+    "comments": null
   },
   "55": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Варэнскі раён",
       "ca": "Districte municipal de Varėna",
@@ -1362,10 +1964,24 @@
       "pl": "Rejon orański",
       "ru": "Варенский район",
       "uk": "Варенський район",
-      "ur": "وورئینا ضلع بلدیہ"
-    }
+      "ur": "وورئینا ضلع بلدیہ",
+      "zh": "瓦雷納地區",
+      "ccp": "𑄞𑄢𑄬𑄚"
+    },
+    "comments": null
   },
   "57": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Вільнюскае гарадское самакіраванне",
       "ca": "Ciutat municipal de Vílnius",
@@ -1379,10 +1995,24 @@
       "nl": "Vilnius City Municipality",
       "pl": "Wilno",
       "ru": "Вильнюсское городское самоуправление",
-      "ur": "ویلنیوس شہر بلدیہ"
-    }
+      "ur": "ویلنیوس شہر بلدیہ",
+      "zh": "維爾紐斯市",
+      "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄤𑄌𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨"
+    },
+    "comments": null
   },
   "58": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Вільнюскі раён",
       "ca": "Districte municipal de Vílnius",
@@ -1403,10 +2033,25 @@
       "ru": "Вильнюсский район",
       "sv": "Vilniaus rajono savivaldybė",
       "uk": "Вільнюський район",
-      "ur": "ویلنیوس ضلع بلدیہ"
-    }
+      "ur": "ویلنیوس ضلع بلدیہ",
+      "ceb": "Vilniaus Rajonas",
+      "zh": "維爾紐斯地區",
+      "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄠𑄌𑄴"
+    },
+    "comments": null
   },
   "60": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Зарасайскі раён",
       "ca": "Districte municipal de Zarasai",
@@ -1424,10 +2069,25 @@
       "pl": "Rejon jezioroski",
       "ru": "Зарасайский район",
       "uk": "Зарасайський район",
-      "ur": "زاراسئی ضلع بلدیہ"
-    }
+      "ur": "زاراسئی ضلع بلدیہ",
+      "zh": "扎拉賽地區",
+      "ccp": "𑄎𑄢𑄥𑄭",
+      "es": "Distrito de Zarasai"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Municipi de Birštonas",
       "cs": "okres Birštonas",
@@ -1444,10 +2104,25 @@
       "nl": "Birštonas",
       "pl": "Rejon birsztański",
       "ru": "Бирштонское самоуправление",
-      "ur": "بارشتوناس بلدیہ"
-    }
+      "ur": "بارشتوناس بلدیہ",
+      "zh": "比爾什托納斯區",
+      "ccp": "𑄝𑄨𑄢𑄴𑄌𑄳𑄑𑄧𑄚𑄌𑄴",
+      "et": "Birštonase omavalitsus"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Municipi d’Elektrėnai",
       "de": "Gemeinde Elektrėnai",
@@ -1465,10 +2140,26 @@
       "ru": "Электренское самоуправление",
       "sv": "Elektrėnų savivaldybė",
       "uk": "Електренайське самоврядування",
-      "ur": "الیکترینئی بلدیہ"
-    }
+      "ur": "الیکترینئی بلدیہ",
+      "ceb": "Elektrėnai (munisipyo)",
+      "zh": "埃萊克特倫艾區",
+      "ccp": "𑄃𑄨𑄣𑄬𑄇𑄴𑄑𑄳𑄢𑄬𑄚𑄭",
+      "be": "Эляктрэнайскае самакіраванне"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Joniškis",
       "de": "Rajongemeinde Joniškis",
@@ -1485,10 +2176,25 @@
       "pl": "Rejon janiski",
       "ru": "Ионишкский район",
       "uk": "Йонішкіський район",
-      "ur": "یونیشکس ضلع بلدیہ"
-    }
+      "ur": "یونیشکس ضلع بلدیہ",
+      "zh": "約什尼基斯地區",
+      "ccp": "𑄎𑄧𑄚𑄨𑄌𑄴𑄇𑄨𑄌𑄴",
+      "be": "Ёнішкіскі раён"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Jurbarkas",
       "de": "Rajongemeinde Jurbarkas",
@@ -1506,10 +2212,25 @@
       "pl": "Rejon jurborski",
       "ru": "Юрбаркский район",
       "sv": "Jurbarko rajono savivaldybė",
-      "ur": "یوربارکاس ضلع بلدیہ"
-    }
+      "ur": "یوربارکاس ضلع بلدیہ",
+      "ceb": "Jurbarkas (munisipyo)",
+      "zh": "尤爾巴爾卡斯地區",
+      "ccp": "𑄎𑄢𑄴𑄝𑄢𑄴𑄇𑄌𑄴"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Kaišiadorys",
       "de": "Rajongemeinde Kaišiadorys",
@@ -1526,10 +2247,25 @@
       "pl": "Rejon koszedarski",
       "ru": "Кайшядорский район",
       "uk": "Кайшядоріський район",
-      "ur": "کایشیادوریس ضلع بلدیہ"
-    }
+      "ur": "کایشیادوریس ضلع بلدیہ",
+      "zh": "凱希亞多里斯地區",
+      "ccp": "𑄇𑄭𑄥𑄨𑄠𑄓𑄧𑄢𑄨𑄌𑄴",
+      "et": "Kaišiadorysi rajoon"
+    },
+    "comments": null
   },
   "17": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Municipi de Kazlų Rūda",
       "de": "Kazlų Rūda",
@@ -1546,10 +2282,26 @@
       "pl": "Rejon kozłoworudzki",
       "ru": "Казлу-Рудское самоуправление",
       "sv": "Kazlų Rūdos savivaldybė",
-      "ur": "کازلو رودا بلدیہ"
-    }
+      "ur": "کازلو رودا بلدیہ",
+      "ceb": "Kazlų Rūda Municipality",
+      "zh": "卡茲盧魯達區",
+      "ccp": "𑄇𑄌𑄴𑄣𑄪 𑄢𑄪𑄓",
+      "be": "Казлурудскае самакіраванне"
+    },
+    "comments": null
   },
   "24": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Lazdijai",
       "de": "Rajongemeinde Lazdijai",
@@ -1567,10 +2319,26 @@
       "pl": "Rejon łoździejski",
       "ru": "Лаздийский район",
       "uk": "Лаздийський район",
-      "ur": "لازدییئی ضلع بلدیہ"
-    }
+      "ur": "لازدییئی ضلع بلدیہ",
+      "zh": "拉茲迪亞伊地區",
+      "ccp": "𑄣𑄌𑄴𑄓𑄨𑄎𑄭",
+      "et": "Lazdijai rajoon",
+      "be": "Лаздзіяйскі раён"
+    },
+    "comments": null
   },
   "27": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Molėtai",
       "de": "Rajongemeinde Molėtai",
@@ -1588,10 +2356,27 @@
       "ru": "Молетский район",
       "sv": "Molėtų rajono savivaldybė",
       "uk": "Молетський район",
-      "ur": "مولیتئی ضلع بلدیہ"
-    }
+      "ur": "مولیتئی ضلع بلدیہ",
+      "ceb": "Moletai",
+      "zh": "莫萊泰地區",
+      "ccp": "𑄟𑄮𑄣𑄬𑄑𑄭",
+      "es": "Distrito de Molėtai",
+      "be": "Малетайскі раён"
+    },
+    "comments": null
   },
   "35": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Plungė",
       "de": "Rajongemeinde Plungė",
@@ -1609,10 +2394,25 @@
       "pl": "Rejon płungiański",
       "ru": "Плунгеский район",
       "uk": "Плунгеський район",
-      "ur": "پلونگے ضلع بلدیہ"
-    }
+      "ur": "پلونگے ضلع بلدیہ",
+      "zh": "普倫蓋地區",
+      "ccp": "𑄛𑄳𑄣𑄁𑄉𑄬",
+      "be": "Плунгскі раён"
+    },
+    "comments": null
   },
   "39": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Municipi de Rietavas",
       "de": "Rietavas",
@@ -1631,10 +2431,26 @@
       "pl": "Rejon retowski",
       "ru": "Ретавское самоуправление",
       "sv": "Rietavo savivaldybė",
-      "ur": "ریئتاواس بلدیہ"
-    }
+      "ur": "ریئتاواس بلدیہ",
+      "ceb": "Rietavas (munisipyo)",
+      "zh": "里塔瓦斯區",
+      "ccp": "𑄢𑄭𑄠𑄬𑄑𑄞𑄌𑄴",
+      "be": "Рыетаваскае самакіраванне"
+    },
+    "comments": null
   },
   "41": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Šakiai",
       "de": "Rajongemeinde Šakiai",
@@ -1650,10 +2466,25 @@
       "nl": "Šakiai",
       "pl": "Rejon szakowski",
       "ru": "Шакяйский район",
-      "ur": "شاکیای ضلع بلدیہ"
-    }
+      "ur": "شاکیای ضلع بلدیہ",
+      "zh": "沙基艾地區",
+      "ccp": "𑄥𑄇𑄨𑄃𑄭",
+      "be": "Шакейскі раён"
+    },
+    "comments": null
   },
   "42": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Šalčininkai",
       "de": "Rajongemeinde Šalčininkai",
@@ -1673,10 +2504,24 @@
       "ro": "Comuna Šalčininkai",
       "ru": "Шальчининкский район",
       "uk": "Шальчинінкський район",
-      "ur": "شیلچینیکئی ضلع بلدیہ"
-    }
+      "ur": "شیلچینیکئی ضلع بلدیہ",
+      "zh": "沙爾奇寧凱地區",
+      "ccp": "𑄥𑄣𑄴𑄥𑄨𑄚𑄨𑄚𑄴𑄇𑄭"
+    },
+    "comments": null
   },
   "45": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Šilalė",
       "de": "Rajongemeinde Šilalė",
@@ -1693,10 +2538,24 @@
       "nl": "Šilalė",
       "pl": "Rejon szyłelski",
       "ru": "Шилальский район",
-      "ur": "شیلالے ضلع بلدیہ"
-    }
+      "ur": "شیلالے ضلع بلدیہ",
+      "zh": "錫拉萊地區",
+      "ccp": "𑄥𑄨𑄣𑄣𑄬"
+    },
+    "comments": null
   },
   "48": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Skuodas",
       "cs": "Okres Skuodas",
@@ -1714,10 +2573,24 @@
       "nl": "Skuodas",
       "pl": "Rejon szkudzki",
       "ru": "Скуодасский район",
-      "ur": "سکؤداس ضلع بلدیہ"
-    }
+      "ur": "سکؤداس ضلع بلدیہ",
+      "zh": "斯庫奧達斯地區",
+      "ccp": "𑄌𑄳𑄇𑄪𑄪𑄃𑄯𑄓𑄌𑄴"
+    },
+    "comments": null
   },
   "54": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal d’Utena",
       "de": "Rajongemeinde Utena",
@@ -1734,10 +2607,26 @@
       "nl": "Utena",
       "pl": "Rejon uciański",
       "ru": "Утенский район",
-      "ur": "اوتینا ضلع بلدیہ"
-    }
+      "ur": "اوتینا ضلع بلدیہ",
+      "zh": "烏田納地區",
+      "ccp": "𑄃𑄪𑄑𑄬𑄚",
+      "es": "Distrito de Utena",
+      "be": "Уцянскі раён"
+    },
+    "comments": null
   },
   "56": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Districte municipal de Vilkaviškis",
       "de": "Rajongemeinde Vilkaviškis",
@@ -1754,10 +2643,25 @@
       "pl": "Rejon wyłkowyski",
       "ru": "Вилкавишкский район",
       "uk": "Вилкавишкіський район",
-      "ur": "ویلکاوشکس ضلع بلدیہ"
-    }
+      "ur": "ویلکاوشکس ضلع بلدیہ",
+      "zh": "維爾卡維什基斯地區",
+      "ccp": "𑄞𑄨𑄣𑄴𑄇𑄞𑄨𑄌𑄴𑄇𑄨𑄌𑄴",
+      "be": "Вілкавішкіскі раён"
+    },
+    "comments": null
   },
   "59": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Municipi de Visaginas",
       "de": "Gemeinde Visaginas",
@@ -1770,19 +2674,48 @@
       "nl": "Visaginas Municipality",
       "pl": "Rejon wisagiński",
       "ru": "Висагинское самоуправление",
-      "ur": "ویساگیناس بلدیہ"
-    }
+      "ur": "ویساگیناس بلدیہ",
+      "zh": "維薩基納斯區",
+      "ccp": "𑄞𑄨𑄥𑄉𑄭𑄚𑄌𑄴",
+      "fr": "Municipalité de Visaginas",
+      "uk": "муніципалітет Висагінас"
+    },
+    "comments": null
   },
   "43": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "da": "Šiauliai bykommune",
       "de": "Stadtgemeinde Šiauliai",
       "en": "Šiaulių Municipality",
       "lt": "Šiaulių miesto savivaldybė",
-      "pl": "Szawle"
-    }
+      "pl": "Szawle",
+      "ccp": "𑄥𑄭𑄃𑄯𑄣𑄨𑄅𑄪 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Stadtgemeinde Alytus",
       "el": "Δήμος Πόλης Αλύτους",
@@ -1790,17 +2723,43 @@
       "it": "Comune urbano di Alytus",
       "lt": "Alytaus miesto savivaldybė",
       "nl": "Alytus City Municipality",
-      "pl": "Olita (rejon miejski)"
-    }
+      "pl": "Olita (rejon miejski)",
+      "ccp": "𑄃𑄣𑄨𑄠𑄑𑄌𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨"
+    },
+    "comments": null
   },
   "20": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Stadtgemeinde Klaipėda",
       "en": "Klaipėdos Municipality",
-      "lt": "Klaipėdos miesto savivaldybė"
-    }
+      "lt": "Klaipėdos miesto savivaldybė",
+      "ccp": "𑄇𑄳𑄣𑄭𑄛𑄨𑄓𑄮𑄌𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨"
+    },
+    "comments": null
   },
   "28": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Gemeinde Neringa",
       "en": "Neringa",
@@ -1811,19 +2770,51 @@
       "it": "Comune di Neringa",
       "lt": "Neringos savivaldybė",
       "pl": "Rejon neryński",
-      "sv": "Neringa (kommun)"
-    }
+      "sv": "Neringa (kommun)",
+      "ceb": "Neringa (munisipyo)",
+      "ur": "نیرنگا بلدیہ",
+      "ja": "ネリンガ基礎自治体",
+      "ccp": "𑄚𑄬𑄢𑄨𑄁𑄉",
+      "pt": "Neringa",
+      "nb": "Neringa kommune"
+    },
+    "comments": null
   },
   "31": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Stadtgemeinde Palanga",
       "en": "Palanga",
       "it": "Comune urbano di Palanga",
       "lt": "Palangos miesto savivaldybė",
-      "pl": "Połąga (rejon miejski)"
-    }
+      "pl": "Połąga (rejon miejski)",
+      "ceb": "Palanga",
+      "ccp": "𑄛𑄧𑄣𑄁𑄉"
+    },
+    "comments": null
   },
   "32": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Stadtgemeinde Panevėžys",
       "el": "Δήμος Πόλης Πανεβεζίς",
@@ -1831,8 +2822,10 @@
       "it": "Comune urbano di Panevėžys",
       "lt": "Panevėžio miesto savivaldybė",
       "nl": "Panevėžys City Municipality",
-      "pl": "Poniewież (rejon miejski)"
-    }
+      "pl": "Poniewież (rejon miejski)",
+      "ccp": "𑄛𑄧𑄚𑄬𑄞𑄬𑄎𑄨𑄃𑄮 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨"
+    },
+    "comments": null
   }
 }
 

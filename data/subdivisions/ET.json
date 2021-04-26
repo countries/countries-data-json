@@ -1,6 +1,16 @@
 {
   "AA": {
+    "name": "Adis Abeba",
+    "code": null,
     "unofficial_names": "Adis Abeba",
+    "geo": {
+      "latitude": 8.9806034,
+      "longitude": 38.7577605,
+      "min_latitude": 8.8406988,
+      "min_longitude": 38.6560823,
+      "max_latitude": 9.0856549,
+      "max_longitude": 38.90020730000001
+    },
     "translations": {
       "en": "Addis Ababa",
       "af": "Addis Abeba",
@@ -61,22 +71,44 @@
       "uk": "Аддис-Абеба",
       "ur": "ادیس ابابا",
       "vi": "Addis Ababa",
-      "zh": "亚的斯亚贝巴"
+      "zh": "亚的斯亚贝巴",
+      "cy": "Addis Ababa",
+      "ceb": "Addis Ababa",
+      "sr_Latn": "Adis Abeba",
+      "yue_Hans": "阿迪斯阿贝巴",
+      "jv": "Addis Ababa",
+      "sq": "Addis Abeba",
+      "ccp": "𑄃𑄓𑄨𑄌𑄴 𑄃𑄝𑄝",
+      "ga": "Adas Ababa",
+      "ig": "Addis Ababa",
+      "ky": "Аддис-Абеба",
+      "ha": "Addis Ababa",
+      "so": "Addis Abeba",
+      "pa": "ਆਦਿਸ ਆਬਬਾ",
+      "kk": "Аддис-Абеба",
+      "yue": "阿迪斯阿貝巴",
+      "my": "အာဒစ် အာဘာဘာမြို့",
+      "yo": "Addis Ababa",
+      "uz": "Addis-Abeba",
+      "bs": "Adis Abeba",
+      "mk": "Адис Абеба"
     },
-    "geo": {
-      "latitude": 8.9806034,
-      "longitude": 38.7577605,
-      "min_latitude": 8.8406988,
-      "min_longitude": 38.6560823,
-      "max_latitude": 9.0856549,
-      "max_longitude": 38.90020730000001
-    },
-    "name": "Adis Abeba"
+    "comments": null
   },
   "AF": {
+    "name": "Afar",
+    "code": null,
     "unofficial_names": [
       "Affar"
     ],
+    "geo": {
+      "latitude": 11.7559388,
+      "longitude": 40.958688,
+      "min_latitude": 8.840217899999999,
+      "min_longitude": 39.6713659,
+      "max_latitude": 14.46638,
+      "max_longitude": 42.397425
+    },
     "translations": {
       "en": "Afar",
       "am": "አፋር",
@@ -123,20 +155,27 @@
       "tr": "Afar Bölgesi",
       "uk": "Афар",
       "ur": "افار علاقہ",
-      "vi": "Afar (vùng)"
+      "vi": "Afar (vùng)",
+      "lv": "Afaras kiliks",
+      "ceb": "Afar Region",
+      "sr_Latn": "Afar",
+      "zh": "阿法尔州",
+      "ccp": "𑄃𑄜𑄢𑄴"
     },
-    "geo": {
-      "latitude": 11.7559388,
-      "longitude": 40.958688,
-      "min_latitude": 8.840217899999999,
-      "min_longitude": 39.6713659,
-      "max_latitude": 14.46638,
-      "max_longitude": 42.397425
-    },
-    "name": "Afar"
+    "comments": null
   },
   "AM": {
+    "name": "Amara",
+    "code": null,
     "unofficial_names": "Amara",
+    "geo": {
+      "latitude": 11.3494247,
+      "longitude": 37.9784585,
+      "min_latitude": 8.728584,
+      "min_longitude": 35.275204,
+      "max_latitude": 13.7641961,
+      "max_longitude": 40.206138
+    },
     "translations": {
       "en": "Amhara",
       "am": "አማራ",
@@ -184,20 +223,28 @@
       "tr": "Amhara Bölgesi",
       "uk": "Амхара",
       "ur": "امہارا علاقہ",
-      "vi": "Amhara (vùng)"
+      "vi": "Amhara (vùng)",
+      "lv": "Amharas kiliks",
+      "ceb": "Amhara Region",
+      "sr_Latn": "Amhara",
+      "zh": "阿姆哈拉州",
+      "ccp": "𑄃𑄟𑄴𑄦𑄢",
+      "eu": "Amhara eskualdea"
     },
-    "geo": {
-      "latitude": 11.3494247,
-      "longitude": 37.9784585,
-      "min_latitude": 8.728584,
-      "min_longitude": 35.275204,
-      "max_latitude": 13.7641961,
-      "max_longitude": 40.206138
-    },
-    "name": "Amara"
+    "comments": null
   },
   "BE": {
+    "name": "Binshangul Gumuz",
+    "code": null,
     "unofficial_names": "Binshangul Gumuz",
+    "geo": {
+      "latitude": 10.7802889,
+      "longitude": 35.5657862,
+      "min_latitude": 8.783433,
+      "min_longitude": 34.106831,
+      "max_latitude": 12.054975,
+      "max_longitude": 37.0327991
+    },
     "translations": {
       "en": "Benishangul-Gumuz",
       "am": "ቤንሻንጉል-ጉምዝ ክልል",
@@ -242,20 +289,28 @@
       "tr": "Benishangul-Gumuz Bölgesi",
       "uk": "Бенішангул-Гумуз",
       "ur": "بینشانگول-گوموز علاقہ",
-      "vi": "Benishangul-Gumuz"
+      "vi": "Benishangul-Gumuz",
+      "lv": "Benišangulas Gumizas kiliks",
+      "ceb": "Benishangul-Gumuz Region",
+      "sr_Latn": "Benišangul-Gumuz",
+      "zh": "本尚古勒-古馬茲州",
+      "ccp": "𑄝𑄬𑄚𑄨𑄥𑄁𑄉𑄪𑄣𑄴-𑄉𑄪𑄚𑄌𑄴",
+      "zu": "Benishangul-Gumaz"
     },
-    "geo": {
-      "latitude": 10.7802889,
-      "longitude": 35.5657862,
-      "min_latitude": 8.783433,
-      "min_longitude": 34.106831,
-      "max_latitude": 12.054975,
-      "max_longitude": 37.0327991
-    },
-    "name": "Binshangul Gumuz"
+    "comments": null
   },
   "DD": {
+    "name": "Dire Dawa",
+    "code": null,
     "unofficial_names": "Dire Dawa",
+    "geo": {
+      "latitude": 9.6008747,
+      "longitude": 41.850142,
+      "min_latitude": 9.5719003,
+      "min_longitude": 41.8213534,
+      "max_latitude": 9.6381812,
+      "max_longitude": 41.88992349999999
+    },
     "translations": {
       "en": "Dire Dawa",
       "am": "ድሬዳዋ",
@@ -304,22 +359,33 @@
       "tr": "Dire Dawa",
       "uk": "Дире-Дауа",
       "ur": "دیرہ داوا",
-      "vi": "Dire Dawa"
+      "vi": "Dire Dawa",
+      "lv": "Dire Dava",
+      "ceb": "Dire Dawa Zone",
+      "sr_Latn": "Dire Dava",
+      "zh": "德雷达瓦",
+      "ccp": "𑄓𑄠𑄢𑄴 𑄓𑄧𑄠",
+      "ha": "Dire Dawa",
+      "eu": "Dire Dawa",
+      "so": "Diridhabe",
+      "uz": "Diredava"
     },
-    "geo": {
-      "latitude": 9.6008747,
-      "longitude": 41.850142,
-      "min_latitude": 9.5719003,
-      "min_longitude": 41.8213534,
-      "max_latitude": 9.6381812,
-      "max_longitude": 41.88992349999999
-    },
-    "name": "Dire Dawa"
+    "comments": null
   },
   "GA": {
+    "name": "Gambela Hizboch",
+    "code": null,
     "unofficial_names": [
       "Gambela"
     ],
+    "geo": {
+      "latitude": 7.9219687,
+      "longitude": 34.1531947,
+      "min_latitude": 7.0030869,
+      "min_longitude": 32.999939,
+      "max_latitude": 8.6091941,
+      "max_longitude": 35.364433
+    },
     "translations": {
       "en": "Gambela",
       "am": "ጋምቤላ ሕዝቦች ክልል",
@@ -365,20 +431,27 @@
       "tr": "Gambela Bölgesi",
       "uk": "Гамбела",
       "ur": "گامبیلا علاقہ",
-      "vi": "Gambela"
+      "vi": "Gambela",
+      "lv": "Gambelas kiliks",
+      "ceb": "Gambela Region",
+      "sr_Latn": "Region Gambela",
+      "zh": "甘貝拉州",
+      "ccp": "𑄉𑄟𑄴𑄝𑄬𑄣"
     },
-    "geo": {
-      "latitude": 7.9219687,
-      "longitude": 34.1531947,
-      "min_latitude": 7.0030869,
-      "min_longitude": 32.999939,
-      "max_latitude": 8.6091941,
-      "max_longitude": 35.364433
-    },
-    "name": "Gambela Hizboch"
+    "comments": null
   },
   "HA": {
+    "name": "Hareri Hizb",
+    "code": null,
     "unofficial_names": "Hareri Hizb",
+    "geo": {
+      "latitude": 9.314866,
+      "longitude": 42.1967716,
+      "min_latitude": 9.174386,
+      "min_longitude": 42.07599099999999,
+      "max_latitude": 9.378494,
+      "max_longitude": 42.2893491
+    },
     "translations": {
       "en": "Harari",
       "am": "ሐረሪ ሕዝብ ክልል",
@@ -423,20 +496,28 @@
       "tr": "Harari Bölgesi",
       "uk": "Харарі",
       "ur": "ہراری علاقہ",
-      "vi": "Harari (vùng)"
+      "vi": "Harari (vùng)",
+      "lv": "Harari kiliks",
+      "ceb": "Harari Region",
+      "sr_Latn": "Region Harari",
+      "zh": "哈勒爾州",
+      "ccp": "𑄦𑄢𑄢𑄨",
+      "eu": "Harari"
     },
-    "geo": {
-      "latitude": 9.314866,
-      "longitude": 42.1967716,
-      "min_latitude": 9.174386,
-      "min_longitude": 42.07599099999999,
-      "max_latitude": 9.378494,
-      "max_longitude": 42.2893491
-    },
-    "name": "Hareri Hizb"
+    "comments": null
   },
   "OR": {
+    "name": "Oromiya",
+    "code": null,
     "unofficial_names": "Oromiya",
+    "geo": {
+      "latitude": 7.546037699999999,
+      "longitude": 40.6346851,
+      "min_latitude": 3.402422,
+      "min_longitude": 34.13031,
+      "max_latitude": 10.3866009,
+      "max_longitude": 42.933914
+    },
     "translations": {
       "en": "Oromia",
       "am": "ኦሮሚያ ክልል",
@@ -481,20 +562,30 @@
       "tr": "Oromia Bölgesi",
       "uk": "Оромія",
       "ur": "اورومیا علاقہ",
-      "vi": "Oromia"
+      "vi": "Oromia",
+      "lv": "Oromijas kiliks",
+      "ceb": "Oromiya Region",
+      "sr_Latn": "Oromija",
+      "zh": "奧羅米亞州",
+      "jv": "Region Oromia",
+      "ccp": "𑄃𑄧𑄢𑄮𑄟𑄨𑄠",
+      "eu": "Oromia",
+      "be": "Аромія"
     },
-    "geo": {
-      "latitude": 7.546037699999999,
-      "longitude": 40.6346851,
-      "min_latitude": 3.402422,
-      "min_longitude": 34.13031,
-      "max_latitude": 10.3866009,
-      "max_longitude": 42.933914
-    },
-    "name": "Oromiya"
+    "comments": null
   },
   "SN": {
+    "name": "YeDebub Biheroch Bihereseboch na Hizboch",
+    "code": null,
     "unofficial_names": "YeDebub Biheroch Bihereseboch na Hizboch",
+    "geo": {
+      "latitude": 6.5156911,
+      "longitude": 36.954107,
+      "min_latitude": 4.440267,
+      "min_longitude": 34.187561,
+      "max_latitude": 8.455644999999999,
+      "max_longitude": 39.143376
+    },
     "translations": {
       "en": "Southern Nations, Nationalities, and Peoples",
       "am": "ደቡብ ብሔሮች ብሔረሰቦችና ሕዝቦች ክልል",
@@ -541,20 +632,28 @@
       "tr": "Güney Ulusları ve Halkları Bölgesi",
       "uk": "Регіон Народів і народностей півдня",
       "ur": "جنوبی اقوام، قومیتیں، اور عوامی علاقہ",
-      "vi": "Vùng Các dân tộc Phương Nam"
+      "vi": "Vùng Các dân tộc Phương Nam",
+      "lv": "Dienvidu Nāciju, Nacionalitāšu un Tautību reģions",
+      "ceb": "Southern Nations",
+      "sr_Latn": "Region južnih nacija",
+      "zh": "南方各族州",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄎𑄖𑄴, 𑄎𑄖𑄨𑄠𑄧𑄖 𑄃𑄳𑄃 𑄎𑄧𑄚𑄧𑄉𑄧𑄚𑄴",
+      "eu": "Hegoaldeko Nazioen, Nazionalitateen eta Herrien Eskualdea"
     },
-    "geo": {
-      "latitude": 6.5156911,
-      "longitude": 36.954107,
-      "min_latitude": 4.440267,
-      "min_longitude": 34.187561,
-      "max_latitude": 8.455644999999999,
-      "max_longitude": 39.143376
-    },
-    "name": "YeDebub Biheroch Bihereseboch na Hizboch"
+    "comments": null
   },
   "SO": {
+    "name": "Sumale",
+    "code": null,
     "unofficial_names": "Sumale",
+    "geo": {
+      "latitude": 6.6612293,
+      "longitude": 43.7908453,
+      "min_latitude": 3.938105999999999,
+      "min_longitude": 40.6923869,
+      "max_latitude": 11.088964,
+      "max_longitude": 47.9861791
+    },
     "translations": {
       "en": "Somali",
       "am": "ሶማሌ ክልል",
@@ -601,20 +700,28 @@
       "tr": "Somali Bölgesi",
       "uk": "Сомалі",
       "ur": "صومالی علاقہ",
-      "vi": "Vùng Somali"
+      "vi": "Vùng Somali",
+      "lv": "Somāli kiliks",
+      "ceb": "Somali Region",
+      "sr_Latn": "Region Somali",
+      "zh": "索馬里州",
+      "ccp": "𑄥𑄧𑄟𑄣𑄨",
+      "so": "Soomaali Galbeed"
     },
-    "geo": {
-      "latitude": 6.6612293,
-      "longitude": 43.7908453,
-      "min_latitude": 3.938105999999999,
-      "min_longitude": 40.6923869,
-      "max_latitude": 11.088964,
-      "max_longitude": 47.9861791
-    },
-    "name": "Sumale"
+    "comments": null
   },
   "TI": {
+    "name": "Tigray",
+    "code": null,
     "unofficial_names": "Tigray",
+    "geo": {
+      "latitude": 14.0323336,
+      "longitude": 38.3165725,
+      "min_latitude": 12.246681,
+      "min_longitude": 36.45191190000001,
+      "max_latitude": 14.89155,
+      "max_longitude": 39.989845
+    },
     "translations": {
       "en": "Tigray",
       "af": "Tigray-streek",
@@ -662,17 +769,13 @@
       "tr": "Tigray Bölgesi",
       "uk": "Тиграй",
       "ur": "تیگراے علاقہ",
-      "vi": "Tigray (vùng)"
+      "vi": "Tigray (vùng)",
+      "lv": "Tigrajas kiliks",
+      "sr_Latn": "Region Tigraj",
+      "zh": "提格里州",
+      "ccp": "𑄑𑄭𑄉𑄳𑄢𑄬"
     },
-    "geo": {
-      "latitude": 14.0323336,
-      "longitude": 38.3165725,
-      "min_latitude": 12.246681,
-      "min_longitude": 36.45191190000001,
-      "max_latitude": 14.89155,
-      "max_longitude": 39.989845
-    },
-    "name": "Tigray"
+    "comments": null
   }
 }
 

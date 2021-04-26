@@ -1,6 +1,16 @@
 {
   "BB": {
+    "name": "Bubanza",
+    "code": null,
     "unofficial_names": "Bubanza",
+    "geo": {
+      "latitude": -3.083333,
+      "longitude": 29.4,
+      "min_latitude": -3.0908079,
+      "min_longitude": 29.3869686,
+      "max_latitude": -3.078209,
+      "max_longitude": 29.4021606
+    },
     "translations": {
       "en": "Bubanza",
       "ar": "مقاطعة بوبانزا",
@@ -42,23 +52,19 @@
       "uk": "Бубанза",
       "ur": "بوبونزا صوبہ",
       "vi": "Tỉnh Bubanza",
-      "zh": "布班扎省"
+      "zh": "布班扎省",
+      "lv": "Bubanzas province",
+      "ceb": "Bubanza Province",
+      "fa": "استان بوبانزا",
+      "ccp": "𑄝𑄪𑄝𑄧𑄚𑄴𑄎",
+      "ca": "Província de Bubanza"
     },
-    "geo": {
-      "latitude": -3.083333,
-      "longitude": 29.4,
-      "min_latitude": -3.0908079,
-      "min_longitude": 29.3869686,
-      "max_latitude": -3.078209,
-      "max_longitude": 29.4021606
-    },
-    "name": "Bubanza"
+    "comments": null
   },
   "BJ": {
+    "name": "Bujumbura",
+    "code": null,
     "unofficial_names": "Bujumbura",
-    "translations": {
-      "en": "Bujumbura"
-    },
     "geo": {
       "latitude": -3.383333,
       "longitude": 29.366667,
@@ -67,10 +73,23 @@
       "max_latitude": -3.2973383,
       "max_longitude": 29.4093703
     },
-    "name": "Bujumbura"
+    "translations": {
+      "en": "Bujumbura"
+    },
+    "comments": null
   },
   "BR": {
+    "name": "Bururi",
+    "code": null,
     "unofficial_names": "Bururi",
+    "geo": {
+      "latitude": -3.95,
+      "longitude": 29.616667,
+      "min_latitude": -3.9569072,
+      "min_longitude": 29.61484909999999,
+      "max_latitude": -3.9389683,
+      "max_longitude": 29.6364892
+    },
     "translations": {
       "en": "Bururi",
       "ar": "محافظة بوروري",
@@ -109,20 +128,27 @@
       "tr": "Bururi ili",
       "uk": "Бурурі (провінція)",
       "ur": "بوروری صوبہ",
-      "vi": "Tỉnh Bururi"
+      "vi": "Tỉnh Bururi",
+      "lv": "Bururi province",
+      "ceb": "Bururi Province",
+      "zh": "布鲁里省",
+      "fa": "استان بوروری",
+      "ccp": "𑄝𑄪𑄢𑄪𑄢𑄨"
     },
-    "geo": {
-      "latitude": -3.95,
-      "longitude": 29.616667,
-      "min_latitude": -3.9569072,
-      "min_longitude": 29.61484909999999,
-      "max_latitude": -3.9389683,
-      "max_longitude": 29.6364892
-    },
-    "name": "Bururi"
+    "comments": null
   },
   "CA": {
+    "name": "Cankuzo",
+    "code": null,
     "unofficial_names": "Cankuzo",
+    "geo": {
+      "latitude": -3.2196819,
+      "longitude": 30.5466187,
+      "min_latitude": -3.227476,
+      "min_longitude": 30.5413656,
+      "max_latitude": -3.2114974,
+      "max_longitude": 30.5516804
+    },
     "translations": {
       "en": "Cankuzo",
       "ar": "محافظة كانكوزو",
@@ -160,20 +186,28 @@
       "th": "จังหวัดแคนคูโซ",
       "tr": "Cankuzo ili",
       "ur": "کانکوزو صوبہ",
-      "vi": "Tỉnh Cankuzo"
+      "vi": "Tỉnh Cankuzo",
+      "lv": "Ķankuzo province",
+      "ceb": "Cankuzo Province",
+      "zh": "坎庫佐省",
+      "fa": "استان کانکوزو",
+      "ccp": "𑄇𑄳𑄠𑄚𑄴𑄇𑄪𑄎𑄮",
+      "uk": "Провінція Чанкузо"
     },
-    "geo": {
-      "latitude": -3.2196819,
-      "longitude": 30.5466187,
-      "min_latitude": -3.227476,
-      "min_longitude": 30.5413656,
-      "max_latitude": -3.2114974,
-      "max_longitude": 30.5516804
-    },
-    "name": "Cankuzo"
+    "comments": null
   },
   "CI": {
+    "name": "Cibitoke",
+    "code": null,
     "unofficial_names": "Cibitoke",
+    "geo": {
+      "latitude": -2.888611,
+      "longitude": 29.11999999999999,
+      "min_latitude": -2.8941594,
+      "min_longitude": 29.1163767,
+      "max_latitude": -2.8800368,
+      "max_longitude": 29.1288114
+    },
     "translations": {
       "en": "Cibitoke",
       "ar": "محافظة سيبيتوك",
@@ -212,22 +246,29 @@
       "th": "เมืองซิบิโตเก",
       "tr": "Cibitoke Province",
       "ur": "سیبیتوکے صوبہ",
-      "vi": "Tỉnh Cibitoke"
+      "vi": "Tỉnh Cibitoke",
+      "lv": "Ķibotokes province",
+      "ceb": "Cibitoke Province",
+      "zh": "锡比托凯省",
+      "ccp": "𑄥𑄨𑄝𑄨𑄑𑄮𑄇𑄴",
+      "uk": "Провінція Кібітоке"
     },
-    "geo": {
-      "latitude": -2.888611,
-      "longitude": 29.11999999999999,
-      "min_latitude": -2.8941594,
-      "min_longitude": 29.1163767,
-      "max_latitude": -2.8800368,
-      "max_longitude": 29.1288114
-    },
-    "name": "Cibitoke"
+    "comments": null
   },
   "GI": {
+    "name": "Gitega",
+    "code": null,
     "unofficial_names": [
       "Kitega"
     ],
+    "geo": {
+      "latitude": -3.428803,
+      "longitude": 29.924903,
+      "min_latitude": -3.4452258,
+      "min_longitude": 29.91053579999999,
+      "max_latitude": -3.4176378,
+      "max_longitude": 29.940319
+    },
     "translations": {
       "en": "Gitega",
       "ar": "مقاطعة جيتيغا",
@@ -266,20 +307,26 @@
       "tr": "Gitega Province",
       "uk": "Гітега",
       "ur": "گیتیگا صوبہ",
-      "vi": "Tỉnh Gitega"
+      "vi": "Tỉnh Gitega",
+      "lv": "Gitegas province",
+      "ceb": "Gitega Province",
+      "zh": "基特加省",
+      "ccp": "𑄉𑄭𑄖𑄴𑄉"
     },
-    "geo": {
-      "latitude": -3.428803,
-      "longitude": 29.924903,
-      "min_latitude": -3.4452258,
-      "min_longitude": 29.91053579999999,
-      "max_latitude": -3.4176378,
-      "max_longitude": 29.940319
-    },
-    "name": "Gitega"
+    "comments": null
   },
   "KI": {
+    "name": "Kirundo",
+    "code": null,
     "unofficial_names": "Kirundo",
+    "geo": {
+      "latitude": -2.5848378,
+      "longitude": 30.0961296,
+      "min_latitude": -2.5880304,
+      "min_longitude": 30.0930977,
+      "max_latitude": -2.5823715,
+      "max_longitude": 30.0979042
+    },
     "translations": {
       "en": "Kirundo",
       "ar": "مقاطعة كيروندو",
@@ -319,22 +366,30 @@
       "th": "คิรันโด",
       "tr": "Kirundo Province",
       "ur": "کیروندو صوبہ",
-      "vi": "Tỉnh Kirundo"
+      "vi": "Tỉnh Kirundo",
+      "lv": "Kirundo province",
+      "ceb": "Kirundo Province",
+      "zh": "基龍多省",
+      "fa": "استان کیروندو",
+      "ccp": "𑄇𑄨𑄢𑄪𑄚𑄴𑄘𑄮",
+      "uk": "Провінція Кірундо"
     },
-    "geo": {
-      "latitude": -2.5848378,
-      "longitude": 30.0961296,
-      "min_latitude": -2.5880304,
-      "min_longitude": 30.0930977,
-      "max_latitude": -2.5823715,
-      "max_longitude": 30.0979042
-    },
-    "name": "Kirundo"
+    "comments": null
   },
   "KR": {
+    "name": "Karuzi",
+    "code": null,
     "unofficial_names": [
       "Karusi"
     ],
+    "geo": {
+      "latitude": -3.1,
+      "longitude": 30.166667,
+      "min_latitude": -3.114891,
+      "min_longitude": 30.1540375,
+      "max_latitude": -3.0940647,
+      "max_longitude": 30.1710264
+    },
     "translations": {
       "en": "Karuzi",
       "ar": "محافظة كاروزي",
@@ -373,20 +428,28 @@
       "th": "จังหวัดคูรูซี",
       "tr": "Karuzi",
       "ur": "کاروزی صوبہ",
-      "vi": "Tỉnh Karuzi"
+      "vi": "Tỉnh Karuzi",
+      "lv": "Karuzi province",
+      "ceb": "Karuzi Province",
+      "zh": "卡鲁济省",
+      "fa": "استان کاروزی",
+      "ccp": "𑄇𑄢𑄪𑄎𑄨",
+      "uk": "Провінція Карузі"
     },
-    "geo": {
-      "latitude": -3.1,
-      "longitude": 30.166667,
-      "min_latitude": -3.114891,
-      "min_longitude": 30.1540375,
-      "max_latitude": -3.0940647,
-      "max_longitude": 30.1710264
-    },
-    "name": "Karuzi"
+    "comments": null
   },
   "KY": {
+    "name": "Kayanza",
+    "code": null,
     "unofficial_names": "Kayanza",
+    "geo": {
+      "latitude": -2.9218531,
+      "longitude": 29.6252858,
+      "min_latitude": -2.9284688,
+      "min_longitude": 29.6181107,
+      "max_latitude": -2.9145823,
+      "max_longitude": 29.6350192
+    },
     "translations": {
       "en": "Kayanza",
       "ar": "مقاطعة كايانزا",
@@ -425,20 +488,27 @@
       "tr": "Kayanza Province",
       "uk": "Кайанза",
       "ur": "کایانزا صوبہ",
-      "vi": "Tỉnh Kayanza"
+      "vi": "Tỉnh Kayanza",
+      "lv": "Kajanzas province",
+      "ceb": "Kayanza Province",
+      "zh": "卡揚扎省",
+      "fa": "استان کایانزا",
+      "ccp": "𑄇𑄠𑄚𑄴𑄎"
     },
-    "geo": {
-      "latitude": -2.9218531,
-      "longitude": 29.6252858,
-      "min_latitude": -2.9284688,
-      "min_longitude": 29.6181107,
-      "max_latitude": -2.9145823,
-      "max_longitude": 29.6350192
-    },
-    "name": "Kayanza"
+    "comments": null
   },
   "MA": {
+    "name": "Makamba",
+    "code": null,
     "unofficial_names": "Makamba",
+    "geo": {
+      "latitude": -4.133332999999999,
+      "longitude": 29.8,
+      "min_latitude": -4.1440429,
+      "min_longitude": 29.796574,
+      "max_latitude": -4.1278846,
+      "max_longitude": 29.8164654
+    },
     "translations": {
       "en": "Makamba",
       "ar": "محافظة ماكامبا",
@@ -476,22 +546,30 @@
       "th": "จังหวัดมาคัมบา",
       "tr": "Makamba Province",
       "ur": "ماکامبا صوبہ",
-      "vi": "Tỉnh Makamba"
+      "vi": "Tỉnh Makamba",
+      "lv": "Makambas province",
+      "ceb": "Makamba Province",
+      "zh": "馬坎巴省",
+      "fa": "استان ماکامبا",
+      "ccp": "𑄟𑄇𑄟𑄴𑄝",
+      "uk": "Провінція Макамба"
     },
-    "geo": {
-      "latitude": -4.133332999999999,
-      "longitude": 29.8,
-      "min_latitude": -4.1440429,
-      "min_longitude": 29.796574,
-      "max_latitude": -4.1278846,
-      "max_longitude": 29.8164654
-    },
-    "name": "Makamba"
+    "comments": null
   },
   "MU": {
+    "name": "Muramvya",
+    "code": null,
     "unofficial_names": [
       "Muramuya"
     ],
+    "geo": {
+      "latitude": -3.2675245,
+      "longitude": 29.62238779999999,
+      "min_latitude": -3.2741165,
+      "min_longitude": 29.6133901,
+      "max_latitude": -3.2618627,
+      "max_longitude": 29.6345044
+    },
     "translations": {
       "en": "Muramvya",
       "ar": "محافظة مورامفيا",
@@ -531,20 +609,27 @@
       "tr": "Muramvya Province",
       "uk": "Мурамвія",
       "ur": "مورامویا صوبہ",
-      "vi": "Tỉnh Muramvya"
+      "vi": "Tỉnh Muramvya",
+      "lv": "Muranvjas province",
+      "ceb": "Muramvya Province",
+      "zh": "穆拉姆维亚省",
+      "fa": "استان مورامویا",
+      "ccp": "𑄟𑄪𑄢𑄟𑄴𑄞𑄨𑄠"
     },
-    "geo": {
-      "latitude": -3.2675245,
-      "longitude": 29.62238779999999,
-      "min_latitude": -3.2741165,
-      "min_longitude": 29.6133901,
-      "max_latitude": -3.2618627,
-      "max_longitude": 29.6345044
-    },
-    "name": "Muramvya"
+    "comments": null
   },
   "MW": {
+    "name": "Mwaro",
+    "code": null,
     "unofficial_names": "Mwaro",
+    "geo": {
+      "latitude": -3.511985,
+      "longitude": 29.6991642,
+      "min_latitude": -3.5229303,
+      "min_longitude": 29.6926975,
+      "max_latitude": -3.5021983,
+      "max_longitude": 29.7108936
+    },
     "translations": {
       "en": "Mwaro",
       "ar": "محافظة موارو",
@@ -582,22 +667,29 @@
       "th": "จังหวัดมะวาโร",
       "tr": "Mwaro Province",
       "ur": "موارو صوبہ",
-      "vi": "Tỉnh Mwaro"
+      "vi": "Tỉnh Mwaro",
+      "lv": "Mvaro province",
+      "ceb": "Province de Mwaro",
+      "zh": "穆瓦洛省",
+      "ccp": "𑄟𑄳𑄦𑄧𑄢𑄮",
+      "uk": "Провінція Мваро"
     },
-    "geo": {
-      "latitude": -3.511985,
-      "longitude": 29.6991642,
-      "min_latitude": -3.5229303,
-      "min_longitude": 29.6926975,
-      "max_latitude": -3.5021983,
-      "max_longitude": 29.7108936
-    },
-    "name": "Mwaro"
+    "comments": null
   },
   "MY": {
+    "name": "Muyinga",
+    "code": null,
     "unofficial_names": [
       "Muhinga"
     ],
+    "geo": {
+      "latitude": -2.85,
+      "longitude": 30.333333,
+      "min_latitude": -2.8562907,
+      "min_longitude": 30.3324412,
+      "max_latitude": -2.834775,
+      "max_longitude": 30.3525294
+    },
     "translations": {
       "en": "Muyinga",
       "ar": "محافظة موينغا",
@@ -635,20 +727,27 @@
       "th": "จังหวัดมูยินกา",
       "tr": "Muyinga Province",
       "ur": "موئینگا صوبہ",
-      "vi": "Tỉnh Muyinga"
+      "vi": "Tỉnh Muyinga",
+      "lv": "Mujingas province",
+      "ceb": "Muyinga Province",
+      "zh": "穆因加省",
+      "ccp": "𑄟𑄪𑄠𑄨𑄁𑄉",
+      "uk": "Провінція Муйінга"
     },
-    "geo": {
-      "latitude": -2.85,
-      "longitude": 30.333333,
-      "min_latitude": -2.8562907,
-      "min_longitude": 30.3324412,
-      "max_latitude": -2.834775,
-      "max_longitude": 30.3525294
-    },
-    "name": "Muyinga"
+    "comments": null
   },
   "NG": {
+    "name": "Ngozi",
+    "code": null,
     "unofficial_names": "Ngozi",
+    "geo": {
+      "latitude": -2.9,
+      "longitude": 29.833333,
+      "min_latitude": -2.9199827,
+      "min_longitude": 29.8056935,
+      "max_latitude": -2.8970525,
+      "max_longitude": 29.840777
+    },
     "translations": {
       "en": "Ngozi",
       "ar": "مقاطعة نغوزي",
@@ -688,20 +787,26 @@
       "tr": "Ngozi Province",
       "uk": "Нгозі",
       "ur": "نگوزی صوبہ",
-      "vi": "Tỉnh Ngozi"
+      "vi": "Tỉnh Ngozi",
+      "lv": "Ngozi province",
+      "ceb": "Ngozi Province",
+      "zh": "恩戈齊省",
+      "ccp": "𑄉𑄮𑄎𑄨"
     },
-    "geo": {
-      "latitude": -2.9,
-      "longitude": 29.833333,
-      "min_latitude": -2.9199827,
-      "min_longitude": 29.8056935,
-      "max_latitude": -2.8970525,
-      "max_longitude": 29.840777
-    },
-    "name": "Ngozi"
+    "comments": null
   },
   "RT": {
+    "name": "Rutana",
+    "code": null,
     "unofficial_names": "Rutana",
+    "geo": {
+      "latitude": -3.9257199,
+      "longitude": 29.9899512,
+      "min_latitude": -3.9334453,
+      "min_longitude": 29.9858952,
+      "max_latitude": -3.9175183,
+      "max_longitude": 29.9962807
+    },
     "translations": {
       "en": "Rutana",
       "ar": "مقاطعة روتانا",
@@ -740,20 +845,28 @@
       "th": "จังหวัดรุทานา",
       "tr": "Rutana Province",
       "ur": "روتانا صوبہ",
-      "vi": "Tỉnh Rutana"
+      "vi": "Tỉnh Rutana",
+      "lv": "Rutanas province",
+      "ceb": "Rutana Province",
+      "zh": "魯塔納省",
+      "fa": "استان روتانا",
+      "ccp": "𑄢𑄪𑄑𑄚",
+      "uk": "Провінція Рутана"
     },
-    "geo": {
-      "latitude": -3.9257199,
-      "longitude": 29.9899512,
-      "min_latitude": -3.9334453,
-      "min_longitude": 29.9858952,
-      "max_latitude": -3.9175183,
-      "max_longitude": 29.9962807
-    },
-    "name": "Rutana"
+    "comments": null
   },
   "RY": {
+    "name": "Ruyigi",
+    "code": null,
     "unofficial_names": "Ruyigi",
+    "geo": {
+      "latitude": -3.4750027,
+      "longitude": 30.2483881,
+      "min_latitude": -3.4831793,
+      "min_longitude": 30.2396965,
+      "max_latitude": -3.4652736,
+      "max_longitude": 30.253687
+    },
     "translations": {
       "en": "Ruyigi",
       "ar": "محافظة روييغي",
@@ -791,19 +904,27 @@
       "th": "จังหวัดรูยิกิ",
       "tr": "Ruyigi Province",
       "ur": "روئیگی صوبہ",
-      "vi": "Tỉnh Ruyigi"
+      "vi": "Tỉnh Ruyigi",
+      "lv": "Rujigi province",
+      "ceb": "Ruyigi Province",
+      "zh": "鲁伊吉省",
+      "ccp": "𑄢𑄪𑄃𑄨𑄉𑄨",
+      "uk": "Муніципалітет Руйігі"
     },
-    "geo": {
-      "latitude": -3.4750027,
-      "longitude": 30.2483881,
-      "min_latitude": -3.4831793,
-      "min_longitude": 30.2396965,
-      "max_latitude": -3.4652736,
-      "max_longitude": 30.253687
-    },
-    "name": "Ruyigi"
+    "comments": null
   },
   "BL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بويمبورا الريفية",
       "bn": "বুজাম্বুরা রুরাল প্রদেশ",
@@ -842,10 +963,27 @@
       "tr": "Bujumbura Rural ili",
       "uk": "Бужумбура",
       "ur": "بوجمبورا دیہی صوبہ",
-      "vi": "Tỉnh Bujumbura Rural"
-    }
+      "vi": "Tỉnh Bujumbura Rural",
+      "lv": "Bužumburas lauku province",
+      "ceb": "Bujumbura Rural Province",
+      "zh": "布松布拉鄉村省",
+      "sw": "Bujumbura Vijijini",
+      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢 𑄢𑄪𑄢𑄣𑄴"
+    },
+    "comments": null
   },
   "BM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بويومبورا مايري",
       "bn": "বুজুম্বুরা মাইরি প্রদেশ",
@@ -883,10 +1021,27 @@
       "tr": "Bujumbra Mairie Province",
       "uk": "Бужумбура-Мері",
       "ur": "بوجمبورا میری صوبہ",
-      "vi": "Tỉnh Bujumbura Mairie"
-    }
+      "vi": "Tỉnh Bujumbura Mairie",
+      "lv": "Bužumburas Mērijas province",
+      "ceb": "Bujumbura Mairie Province",
+      "lt": "Budžumbura Meri provincija",
+      "sw": "Bujumbura Mjini",
+      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢"
+    },
+    "comments": null
   },
   "RM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Rumonge",
       "en": "Rumonge",
@@ -897,8 +1052,13 @@
       "ko": "루몽게 주",
       "nl": "Rumonge",
       "sv": "Rumonge",
-      "ur": "رومونگی صوبہ"
-    }
+      "ur": "رومونگی صوبہ",
+      "zh": "鲁蒙盖省",
+      "fa": "استان رومونگه",
+      "ccp": "𑄢𑄟𑄧𑄁𑄉𑄬",
+      "es": "Provincia de Rumonge"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Lefkosia",
+    "code": null,
     "unofficial_names": "Lefkosia",
+    "geo": {
+      "latitude": 35.166667,
+      "longitude": 33.366667,
+      "min_latitude": 35.1516702,
+      "min_longitude": 33.3186151,
+      "max_latitude": 35.2323172,
+      "max_longitude": 33.4762216
+    },
     "translations": {
       "en": "Nicosia",
       "ar": "منطقة نيقوسيا",
@@ -35,20 +45,27 @@
       "uk": "Нікосія",
       "ur": "ضلع نیکوسیا",
       "vi": "Nicosia",
-      "zh": "尼科西亚区"
+      "zh": "尼科西亚区",
+      "ceb": "Eparchía Lefkosías",
+      "sr_Latn": "Nikozija",
+      "ccp": "𑄚𑄨𑄇𑄮𑄥𑄨𑄠",
+      "hu": "Nikosia kerület",
+      "he": "מחוז ניקוסיה"
     },
-    "geo": {
-      "latitude": 35.166667,
-      "longitude": 33.366667,
-      "min_latitude": 35.1516702,
-      "min_longitude": 33.3186151,
-      "max_latitude": 35.2323172,
-      "max_longitude": 33.4762216
-    },
-    "name": "Lefkosia"
+    "comments": null
   },
   "02": {
+    "name": "Lemesos",
+    "code": null,
     "unofficial_names": "Lemesos",
+    "geo": {
+      "latitude": 34.7071301,
+      "longitude": 33.0226174,
+      "min_latitude": 34.6433942,
+      "min_longitude": 32.986418,
+      "max_latitude": 34.7400842,
+      "max_longitude": 33.0705513
+    },
     "translations": {
       "en": "Limassol",
       "ar": "منطقة ليماسول",
@@ -91,20 +108,28 @@
       "tr": "Limasol Bölgesi",
       "uk": "Лімасол",
       "ur": "ضلع لیماسول",
-      "vi": "Quận Limassol"
+      "vi": "Quận Limassol",
+      "lv": "Limasolas eparhija",
+      "ceb": "Eparchía Lemesoú",
+      "sr_Latn": "Limasol",
+      "zh": "利马索尔区",
+      "ccp": "𑄣𑄨𑄟𑄥𑄮𑄣𑄴",
+      "hu": "Limassol kerület"
     },
-    "geo": {
-      "latitude": 34.7071301,
-      "longitude": 33.0226174,
-      "min_latitude": 34.6433942,
-      "min_longitude": 32.986418,
-      "max_latitude": 34.7400842,
-      "max_longitude": 33.0705513
-    },
-    "name": "Lemesos"
+    "comments": null
   },
   "03": {
+    "name": "Larnaka",
+    "code": null,
     "unofficial_names": "Larnaka",
+    "geo": {
+      "latitude": 34.8507206,
+      "longitude": 33.4831906,
+      "min_latitude": 34.7075399,
+      "min_longitude": 33.125832,
+      "max_latitude": 35.1124949,
+      "max_longitude": 33.791904
+    },
     "translations": {
       "en": "Larnaca",
       "ar": "منطقة لارنكا",
@@ -146,20 +171,29 @@
       "tr": "Larnaka kazası",
       "uk": "Ларнака",
       "ur": "ضلع لارناکا",
-      "vi": "Quận Larnaca"
+      "vi": "Quận Larnaca",
+      "lv": "Larnakas eparhija",
+      "ceb": "Eparchía Lárnakas",
+      "sr_Latn": "Larnaka",
+      "zh": "拉纳卡区",
+      "ccp": "𑄣𑄢𑄴𑄚𑄇",
+      "ka": "ლარნაკის რაიონი",
+      "hu": "Lárnaka kerület"
     },
-    "geo": {
-      "latitude": 34.8507206,
-      "longitude": 33.4831906,
-      "min_latitude": 34.7075399,
-      "min_longitude": 33.125832,
-      "max_latitude": 35.1124949,
-      "max_longitude": 33.791904
-    },
-    "name": "Larnaka"
+    "comments": null
   },
   "04": {
+    "name": "Ammochostos",
+    "code": null,
     "unofficial_names": "Ammochostos",
+    "geo": {
+      "latitude": 35.1149116,
+      "longitude": 33.919245,
+      "min_latitude": 35.0780555,
+      "min_longitude": 33.8847113,
+      "max_latitude": 35.1608203,
+      "max_longitude": 33.9829874
+    },
     "translations": {
       "en": "Famagusta",
       "ar": "منطقة فاماغوستا",
@@ -191,20 +225,28 @@
       "th": "เขตแฟมากุสตา",
       "tr": "Mağusa kazası",
       "uk": "Фамагуста",
-      "ur": "ضلع فاماگوستا"
+      "ur": "ضلع فاماگوستا",
+      "ceb": "Eparchía Ammochóstou",
+      "sr_Latn": "Amohostos (okrug)",
+      "zh": "法马古斯塔区",
+      "ccp": "𑄜𑄬𑄟𑄉𑄌𑄴𑄑",
+      "ka": "ფამაგუსტის რაიონი",
+      "hu": "Famagusta kerület"
     },
-    "geo": {
-      "latitude": 35.1149116,
-      "longitude": 33.919245,
-      "min_latitude": 35.0780555,
-      "min_longitude": 33.8847113,
-      "max_latitude": 35.1608203,
-      "max_longitude": 33.9829874
-    },
-    "name": "Ammochostos"
+    "comments": null
   },
   "05": {
+    "name": "Pafos",
+    "code": null,
     "unofficial_names": "Pafos",
+    "geo": {
+      "latitude": 34.7720133,
+      "longitude": 32.4297369,
+      "min_latitude": 34.7442135,
+      "min_longitude": 32.3999583,
+      "max_latitude": 34.8011783,
+      "max_longitude": 32.4666024
+    },
     "translations": {
       "en": "Paphos",
       "ar": "منطقة بافوس",
@@ -236,20 +278,27 @@
       "th": "เขตแพฟอส",
       "tr": "Baf kazası",
       "uk": "Пафос",
-      "ur": "ضلع پافوس"
+      "ur": "ضلع پافوس",
+      "ceb": "Eparchía Páfou",
+      "sr_Latn": "Pafos",
+      "zh": "帕福斯区",
+      "ccp": "𑄛𑄜𑄮𑄌𑄴",
+      "hu": "Paphos kerület"
     },
-    "geo": {
-      "latitude": 34.7720133,
-      "longitude": 32.4297369,
-      "min_latitude": 34.7442135,
-      "min_longitude": 32.3999583,
-      "max_latitude": 34.8011783,
-      "max_longitude": 32.4666024
-    },
-    "name": "Pafos"
+    "comments": null
   },
   "06": {
+    "name": "Keryneia",
+    "code": null,
     "unofficial_names": "Keryneia",
+    "geo": {
+      "latitude": 35.0586943,
+      "longitude": 33.9582783,
+      "min_latitude": 35.0423389,
+      "min_longitude": 33.9222729,
+      "max_latitude": 35.072638,
+      "max_longitude": 34.0006899
+    },
     "translations": {
       "en": "Kyrenia",
       "ar": "منطقة كيرينيا",
@@ -291,17 +340,16 @@
       "tr": "Girne kazası",
       "uk": "Киренія",
       "ur": "ضلع کیرینیہ",
-      "vi": "Huyện Kyrenia"
+      "vi": "Huyện Kyrenia",
+      "lv": "Kerinijas eparhija",
+      "ceb": "Eparchía Kerýneias",
+      "sr_Latn": "Kerineja",
+      "zh": "凯里尼亚区",
+      "ccp": "𑄇𑄭𑄢𑄬𑄚𑄨𑄠",
+      "ka": "კირენიის რაიონი",
+      "hu": "Kyrenia kerület"
     },
-    "geo": {
-      "latitude": 35.0586943,
-      "longitude": 33.9582783,
-      "min_latitude": 35.0423389,
-      "min_longitude": 33.9222729,
-      "max_latitude": 35.072638,
-      "max_longitude": 34.0006899
-    },
-    "name": "Keryneia"
+    "comments": null
   }
 }
 

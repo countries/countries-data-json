@@ -1,6 +1,16 @@
 {
   "ACT": {
+    "name": "Australian Capital Territory",
+    "code": null,
     "unofficial_names": "Australian Capital Territory",
+    "geo": {
+      "latitude": -35.4734679,
+      "longitude": 149.0123679,
+      "min_latitude": -35.9205307,
+      "min_longitude": 148.7640971,
+      "max_latitude": -35.1245128,
+      "max_longitude": 149.3992848
+    },
     "translations": {
       "en": "Australian Capital Territory",
       "af": "Australiese Hoofstadgebied",
@@ -57,20 +67,32 @@
       "uk": "Австралійська столична територія",
       "ur": "آسٹریلوی دارالحکومت علاقہ",
       "vi": "Lãnh thổ Thủ đô Úc",
-      "zh": "澳大利亞首都特區"
+      "zh": "澳大利亞首都特區",
+      "cy": "Tiriogaeth Prifddinas Awstralia",
+      "ceb": "Australian Capital Territory",
+      "sr_Latn": "Australijska prestonička teritorija",
+      "yue_Hans": "澳洲首都地区",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄬𑄣𑄨𑄠𑄚𑄴 𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴 𑄑𑄬𑄢𑄨𑄑𑄮𑄢𑄨",
+      "ga": "Críoch Phríomhchathair na hAstráile",
+      "pa": "ਆਸਟਰੇਲੀਆਈ ਰਾਜਧਾਨੀ ਰਾਜਖੇਤਰ",
+      "yue": "澳洲首都地區",
+      "bs": "Teritorija australijskog glavnog grada",
+      "mk": "Австралиска престолнинска територија"
     },
-    "geo": {
-      "latitude": -35.4734679,
-      "longitude": 149.0123679,
-      "min_latitude": -35.9205307,
-      "min_longitude": 148.7640971,
-      "max_latitude": -35.1245128,
-      "max_longitude": 149.3992848
-    },
-    "name": "Australian Capital Territory"
+    "comments": null
   },
   "NSW": {
+    "name": "New South Wales",
+    "code": null,
     "unofficial_names": "New South Wales",
+    "geo": {
+      "latitude": -33.864174,
+      "longitude": 151.2052868,
+      "min_latitude": -37.5052772,
+      "min_longitude": 140.9992123,
+      "max_latitude": -28.156192,
+      "max_longitude": 153.6535617
+    },
     "translations": {
       "en": "New South Wales",
       "af": "Nieu-Suid-Wallis",
@@ -129,20 +151,38 @@
       "tr": "Yeni Güney Galler",
       "uk": "Новий Південний Уельс",
       "ur": "نیو ساؤتھ ویلز",
-      "vi": "New South Wales"
+      "vi": "New South Wales",
+      "cy": "De Cymru Newydd",
+      "ceb": "State of New South Wales",
+      "sr_Latn": "Novi Južni Vels",
+      "zh": "新南威爾士州",
+      "yue_Hans": "新南威尔士",
+      "jv": "New South Wales",
+      "sq": "Uellsi i Ri Jugor",
+      "ccp": "𑄚𑄱 𑄘𑄧𑄉𑄨𑄚𑄴 𑄃𑄮𑄠𑄬𑄣𑄴",
+      "ga": "New South Wales",
+      "so": "New South Wales",
+      "pa": "ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼",
+      "yue": "新南威爾士",
+      "am": "ኑ ሳውስ ዌልስ",
+      "uz": "Yangi janubiy uels",
+      "bs": "Novi Južni Wales",
+      "mk": "Нов Јужен Велс"
     },
-    "geo": {
-      "latitude": -33.864174,
-      "longitude": 151.2052868,
-      "min_latitude": -37.5052772,
-      "min_longitude": 140.9992123,
-      "max_latitude": -28.156192,
-      "max_longitude": 153.6535617
-    },
-    "name": "New South Wales"
+    "comments": null
   },
   "NT": {
+    "name": "Northern Territory",
+    "code": null,
     "unofficial_names": "Northern Territory",
+    "geo": {
+      "latitude": -19.4914108,
+      "longitude": 132.5509603,
+      "min_latitude": -26.0168698,
+      "min_longitude": 129.0004244,
+      "max_latitude": -10.9055196,
+      "max_longitude": 137.9990092
+    },
     "translations": {
       "en": "Northern Territory",
       "af": "Noordelike Gebied",
@@ -197,20 +237,36 @@
       "tr": "Kuzey Toprakları",
       "uk": "Північна територія",
       "ur": "شمالی علاقہ",
-      "vi": "Lãnh thổ Bắc Úc"
+      "vi": "Lãnh thổ Bắc Úc",
+      "cy": "Tiriogaeth y Gogledd",
+      "ceb": "Northern Territory",
+      "sr_Latn": "Severna teritorija",
+      "zh": "北領地",
+      "sw": "Northern Territory",
+      "yue_Hans": "北领地",
+      "sq": "Northern Territory",
+      "ccp": "𑄚𑄧𑄢𑄴𑄘𑄢𑄴𑄚𑄴 𑄑𑄬𑄢𑄨𑄑𑄮𑄢𑄨",
+      "ga": "Críoch an Tuaiscirt",
+      "pa": "ਉੱਤਰੀ ਰਾਜਖੇਤਰ",
+      "yue": "北領地",
+      "my": "မြောက်ဩစတြေးလျပြည်နယ်",
+      "bs": "Sjeverna teritorija",
+      "mk": "Северна Територија"
     },
-    "geo": {
-      "latitude": -19.4914108,
-      "longitude": 132.5509603,
-      "min_latitude": -26.0168698,
-      "min_longitude": 129.0004244,
-      "max_latitude": -10.9055196,
-      "max_longitude": 137.9990092
-    },
-    "name": "Northern Territory"
+    "comments": null
   },
   "QLD": {
+    "name": "Queensland",
+    "code": null,
     "unofficial_names": "Queensland",
+    "geo": {
+      "latitude": -20.9175738,
+      "longitude": 142.7027956,
+      "min_latitude": -29.1785876,
+      "min_longitude": 137.9945748,
+      "max_latitude": -9.92973,
+      "max_longitude": 153.5529199
+    },
     "translations": {
       "en": "Queensland",
       "af": "Queensland",
@@ -267,20 +323,43 @@
       "tr": "Queensland",
       "uk": "Квінсленд",
       "ur": "کوئنزلینڈ",
-      "vi": "Queensland"
+      "vi": "Queensland",
+      "cy": "Queensland",
+      "ceb": "State of Queensland",
+      "sr_Latn": "Kvinslend",
+      "zh": "昆士蘭州",
+      "sw": "Queensland",
+      "yue_Hans": "昆士兰",
+      "jv": "Queensland",
+      "sq": "Queensland",
+      "ccp": "𑄇𑄪𑄃𑄨𑄚𑄴𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ga": "Queensland",
+      "so": "Queensland",
+      "pa": "ਕਵੀਨਜ਼ਲੈਂਡ",
+      "kk": "Квинсленд",
+      "ml": "ക്വീൻസ്‌ലാൻഡ്",
+      "yue": "昆士蘭",
+      "am": "ኲንዝላንድ",
+      "my": "ကွင်းစလန်ပြည်နယ်",
+      "yo": "Queensland",
+      "uz": "Kvinslend",
+      "bs": "Queensland",
+      "mk": "Квинсленд"
     },
-    "geo": {
-      "latitude": -20.9175738,
-      "longitude": 142.7027956,
-      "min_latitude": -29.1785876,
-      "min_longitude": 137.9945748,
-      "max_latitude": -9.92973,
-      "max_longitude": 153.5529199
-    },
-    "name": "Queensland"
+    "comments": null
   },
   "SA": {
+    "name": "South Australia",
+    "code": null,
     "unofficial_names": "South Australia",
+    "geo": {
+      "latitude": -30.0002315,
+      "longitude": 136.2091547,
+      "min_latitude": -38.06121,
+      "min_longitude": 129.0005162,
+      "max_latitude": -25.996392,
+      "max_longitude": 141.0028804
+    },
     "translations": {
       "en": "South Australia",
       "af": "Suid-Australië",
@@ -338,20 +417,36 @@
       "tr": "Güney Avustralya",
       "uk": "Південна Австралія",
       "ur": "جنوبی آسٹریلیا",
-      "vi": "Nam Úc"
+      "vi": "Nam Úc",
+      "cy": "De Awstralia",
+      "ceb": "State of South Australia",
+      "sr_Latn": "Južna Australija",
+      "zh": "南澳大利亚州",
+      "yue_Hans": "南澳洲",
+      "sq": "Australina Jugore",
+      "ccp": "𑄘𑄧𑄉𑄨𑄚𑄴 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄬𑄣𑄨𑄠",
+      "ga": "Deisceart na hAstráile",
+      "so": "Koonfur Australia",
+      "pa": "ਸਾਊਥ ਆਸਟਰੇਲੀਆ",
+      "yue": "南澳洲",
+      "am": "ደቡብ አውስትራሊያ",
+      "bs": "Južna Australija",
+      "mk": "Јужна Австралија"
     },
-    "geo": {
-      "latitude": -30.0002315,
-      "longitude": 136.2091547,
-      "min_latitude": -38.06121,
-      "min_longitude": 129.0005162,
-      "max_latitude": -25.996392,
-      "max_longitude": 141.0028804
-    },
-    "name": "South Australia"
+    "comments": null
   },
   "TAS": {
+    "name": "Tasmania",
+    "code": null,
     "unofficial_names": "Tasmania",
+    "geo": {
+      "latitude": -41.3650419,
+      "longitude": 146.6284905,
+      "min_latitude": -43.8077261,
+      "min_longitude": 143.8182852,
+      "max_latitude": -39.4380355,
+      "max_longitude": 148.7283943
+    },
     "translations": {
       "en": "Tasmania",
       "af": "Tasmanië",
@@ -411,20 +506,39 @@
       "tr": "Tasmanya",
       "uk": "Тасманія",
       "ur": "تسمانیا",
-      "vi": "Tasmania"
+      "vi": "Tasmania",
+      "cy": "Tasmania",
+      "ceb": "State of Tasmania",
+      "sr_Latn": "Tasmanija",
+      "zh": "塔斯馬尼亞州",
+      "yue_Hans": "塔斯曼尼亚省",
+      "sq": "Tasmania",
+      "ccp": "𑄑𑄌𑄴𑄟𑄚𑄨𑄠",
+      "ga": "An Tasmáin",
+      "ky": "Тасмания",
+      "so": "Tasmaniya",
+      "pa": "ਤਸਮਾਨੀਆ",
+      "kk": "Тасман аралы",
+      "yue": "塔斯曼尼亞省",
+      "am": "ታዝሜኒያ",
+      "uz": "Tasmaniya",
+      "bs": "Tasmanija",
+      "mk": "Тасманија"
     },
-    "geo": {
-      "latitude": -41.3650419,
-      "longitude": 146.6284905,
-      "min_latitude": -43.8077261,
-      "min_longitude": 143.8182852,
-      "max_latitude": -39.4380355,
-      "max_longitude": 148.7283943
-    },
-    "name": "Tasmania"
+    "comments": null
   },
   "VIC": {
+    "name": "Victoria",
+    "code": null,
     "unofficial_names": "Victoria",
+    "geo": {
+      "latitude": -37.4713077,
+      "longitude": 144.7851531,
+      "min_latitude": -39.2247306,
+      "min_longitude": 140.9624773,
+      "max_latitude": -33.9810507,
+      "max_longitude": 149.9764882
+    },
     "translations": {
       "en": "Victoria",
       "af": "Victoria",
@@ -481,20 +595,36 @@
       "tr": "Victoria",
       "uk": "Вікторія",
       "ur": "وکٹوریہ (آسٹریلیا)",
-      "vi": "Victoria"
+      "vi": "Victoria",
+      "cy": "Victoria",
+      "ceb": "State of Victoria",
+      "sr_Latn": "Viktorija",
+      "zh": "維多利亞州",
+      "sw": "Victoria",
+      "yue_Hans": "维多利亚州",
+      "jv": "Victoria",
+      "ccp": "𑄞𑄨𑄇𑄴𑄑𑄮𑄢𑄨𑄠",
+      "ga": "Victoria",
+      "pa": "ਵਿਕਟੋਰੀਆ",
+      "yue": "維多利亞州",
+      "my": "ဝိတိုရိယ ပြည်နယ်",
+      "bs": "Victoria",
+      "mk": "Викторија"
     },
-    "geo": {
-      "latitude": -37.4713077,
-      "longitude": 144.7851531,
-      "min_latitude": -39.2247306,
-      "min_longitude": 140.9624773,
-      "max_latitude": -33.9810507,
-      "max_longitude": 149.9764882
-    },
-    "name": "Victoria"
+    "comments": null
   },
   "WA": {
+    "name": "Western Australia",
+    "code": null,
     "unofficial_names": "Western Australia",
+    "geo": {
+      "latitude": -27.6728168,
+      "longitude": 121.6283098,
+      "min_latitude": -35.1939944,
+      "min_longitude": 112.92145,
+      "max_latitude": -13.6894901,
+      "max_longitude": 129.0025979
+    },
     "translations": {
       "en": "Western Australia",
       "af": "Wes-Australië",
@@ -552,17 +682,22 @@
       "tr": "Batı Avustralya",
       "uk": "Західна Австралія",
       "ur": "مغربی آسٹریلیا",
-      "vi": "Tây Úc"
+      "vi": "Tây Úc",
+      "cy": "Gorllewin Awstralia",
+      "ceb": "State of Western Australia",
+      "sr_Latn": "Zapadna Australija",
+      "zh": "西澳大利亚州",
+      "yue_Hans": "西澳洲",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄬𑄣𑄨𑄠",
+      "ga": "Iarthar na hAstráile",
+      "so": "Galbeed Australia",
+      "pa": "ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ",
+      "yue": "西澳洲",
+      "my": "အနောက်ဩစတြေးလျပြည်နယ်",
+      "bs": "Zapadna Australija",
+      "mk": "Западна Австралија"
     },
-    "geo": {
-      "latitude": -27.6728168,
-      "longitude": 121.6283098,
-      "min_latitude": -35.1939944,
-      "min_longitude": 112.92145,
-      "max_latitude": -13.6894901,
-      "max_longitude": 129.0025979
-    },
-    "name": "Western Australia"
+    "comments": null
   }
 }
 

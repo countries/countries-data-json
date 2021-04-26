@@ -1,6 +1,16 @@
 {
   "002": {
+    "name": "Aimeliik",
+    "code": null,
     "unofficial_names": "Aimeliik",
+    "geo": {
+      "latitude": 7.445585899999998,
+      "longitude": 134.5030878,
+      "min_latitude": 7.393169,
+      "min_longitude": 134.4686879,
+      "max_latitude": 7.479571,
+      "max_longitude": 134.540505
+    },
     "translations": {
       "en": "Aimeliik",
       "ar": "أيميليك",
@@ -36,20 +46,27 @@
       "tr": "Aimeliik",
       "ur": "آئمیلیک",
       "vi": "Aimeliik",
-      "zh": "艾梅利克州"
+      "zh": "艾梅利克州",
+      "lv": "Aimeliika",
+      "ceb": "State of Aimeliik",
+      "ccp": "𑄃𑄭𑄟𑄬𑄣𑄨𑄇𑄴",
+      "ka": "აიმელიიკი",
+      "uk": "Аімеліік"
     },
-    "geo": {
-      "latitude": 7.445585899999998,
-      "longitude": 134.5030878,
-      "min_latitude": 7.393169,
-      "min_longitude": 134.4686879,
-      "max_latitude": 7.479571,
-      "max_longitude": 134.540505
-    },
-    "name": "Aimeliik"
+    "comments": null
   },
   "004": {
+    "name": "Airai",
+    "code": null,
     "unofficial_names": "Airai",
+    "geo": {
+      "latitude": 7.364184199999999,
+      "longitude": 134.5360667,
+      "min_latitude": 7.350336699999999,
+      "min_longitude": 134.5076989,
+      "max_latitude": 7.3903012,
+      "max_longitude": 134.5656967
+    },
     "translations": {
       "en": "Airai",
       "ar": "ولاية أيراي",
@@ -85,20 +102,30 @@
       "th": "ไอลาย",
       "tr": "Airai",
       "ur": "آئرائی",
-      "vi": "Airai"
+      "vi": "Airai",
+      "lv": "Airai",
+      "ceb": "State of Airai",
+      "sr_Latn": "Airai",
+      "zh": "艾拉伊州",
+      "ccp": "𑄃𑄭𑄢𑄭",
+      "ka": "აირაი",
+      "uk": "Аіраї",
+      "mk": "Ајрај"
     },
-    "geo": {
-      "latitude": 7.364184199999999,
-      "longitude": 134.5360667,
-      "min_latitude": 7.350336699999999,
-      "min_longitude": 134.5076989,
-      "max_latitude": 7.3903012,
-      "max_longitude": 134.5656967
-    },
-    "name": "Airai"
+    "comments": null
   },
   "010": {
+    "name": "Angaur",
+    "code": null,
     "unofficial_names": "Angaur",
+    "geo": {
+      "latitude": 6.909223,
+      "longitude": 134.1387934,
+      "min_latitude": 6.887742599999999,
+      "min_longitude": 134.121834,
+      "max_latitude": 6.925106299999999,
+      "max_longitude": 134.1539668
+    },
     "translations": {
       "en": "Angaur",
       "ar": "أنغاور",
@@ -134,20 +161,28 @@
       "th": "อันกัว",
       "tr": "Angaur",
       "ur": "انگاور",
-      "vi": "Angaur"
+      "vi": "Angaur",
+      "lv": "Angaura",
+      "ceb": "Angaur",
+      "zh": "安加爾",
+      "ccp": "𑄃𑄚𑄴𑄉𑄧𑄅𑄪𑄢𑄴",
+      "uk": "Ангаур",
+      "ca": "Angaur"
     },
-    "geo": {
-      "latitude": 6.909223,
-      "longitude": 134.1387934,
-      "min_latitude": 6.887742599999999,
-      "min_longitude": 134.121834,
-      "max_latitude": 6.925106299999999,
-      "max_longitude": 134.1539668
-    },
-    "name": "Angaur"
+    "comments": null
   },
   "050": {
+    "name": "Hatobohei",
+    "code": null,
     "unofficial_names": "Hatobohei",
+    "geo": {
+      "latitude": 3.0048867,
+      "longitude": 131.1214186,
+      "min_latitude": 3.0008772,
+      "min_longitude": 131.1203134,
+      "max_latitude": 3.0074129,
+      "max_longitude": 131.124487
+    },
     "translations": {
       "en": "Hatohobei",
       "ar": "ولاية هاتوهوبي",
@@ -182,20 +217,26 @@
       "th": "ฮาโตโฮเบะ",
       "tr": "Hatohobei",
       "ur": "ہاتوبوبئی",
-      "vi": "Hatohobei"
+      "vi": "Hatohobei",
+      "lv": "Hatohobei",
+      "zh": "哈托博海伊州",
+      "ccp": "𑄦𑄑𑄮𑄦𑄮𑄝𑄬𑄭",
+      "uk": "Хатохобей"
     },
-    "geo": {
-      "latitude": 3.0048867,
-      "longitude": 131.1214186,
-      "min_latitude": 3.0008772,
-      "min_longitude": 131.1203134,
-      "max_latitude": 3.0074129,
-      "max_longitude": 131.124487
-    },
-    "name": "Hatobohei"
+    "comments": null
   },
   "100": {
+    "name": "Kayangel",
+    "code": null,
     "unofficial_names": "Kayangel",
+    "geo": {
+      "latitude": 8.0889471,
+      "longitude": 134.709999,
+      "min_latitude": 8.0378983,
+      "min_longitude": 134.6807957,
+      "max_latitude": 8.1035034,
+      "max_longitude": 134.7238827
+    },
     "translations": {
       "en": "Kayangel",
       "ar": "كايانغيل",
@@ -228,20 +269,27 @@
       "th": "คายานเจล",
       "tr": "Kayangel",
       "ur": "کایانگیل",
-      "vi": "Kayangel"
+      "vi": "Kayangel",
+      "lv": "Kajanela",
+      "ceb": "State of Kayangel",
+      "zh": "卡揚埃爾",
+      "ccp": "𑄇𑄬𑄠𑄚𑄴𑄉𑄬𑄣𑄴",
+      "uk": "Каянгел"
     },
-    "geo": {
-      "latitude": 8.0889471,
-      "longitude": 134.709999,
-      "min_latitude": 8.0378983,
-      "min_longitude": 134.6807957,
-      "max_latitude": 8.1035034,
-      "max_longitude": 134.7238827
-    },
-    "name": "Kayangel"
+    "comments": null
   },
   "150": {
+    "name": "Koror",
+    "code": null,
     "unofficial_names": "Koror",
+    "geo": {
+      "latitude": 7.3419444,
+      "longitude": 134.4791667,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Koror",
       "am": "ኮሮር",
@@ -286,20 +334,28 @@
       "tr": "Koror",
       "uk": "Корор",
       "ur": "کورور",
-      "vi": "Koror"
+      "vi": "Koror",
+      "lv": "Korora",
+      "ceb": "State of Koror",
+      "sr_Latn": "Koror",
+      "zh": "科羅爾州",
+      "ccp": "𑄇𑄢𑄮𑄢𑄴",
+      "uz": "Koror"
     },
-    "geo": {
-      "latitude": 7.3419444,
-      "longitude": 134.4791667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Koror"
+    "comments": null
   },
   "212": {
+    "name": "Melekeok",
+    "code": null,
     "unofficial_names": "Melekeok",
+    "geo": {
+      "latitude": 7.4951158,
+      "longitude": 134.6336896,
+      "min_latitude": 7.491069,
+      "min_longitude": 134.6302414,
+      "max_latitude": 7.4995374,
+      "max_longitude": 134.6382129
+    },
     "translations": {
       "en": "Melekeok",
       "ar": "ولاية ميلكيوك",
@@ -336,20 +392,30 @@
       "tr": "Melekeok",
       "uk": "Мелекеок",
       "ur": "میلیکئوک",
-      "vi": "Melekeok"
+      "vi": "Melekeok",
+      "lv": "Melegeoka",
+      "ceb": "State of Melekeok",
+      "sr_Latn": "Melekeok",
+      "lt": "Melekokas",
+      "zh": "梅莱凯奥克州",
+      "ccp": "𑄟𑄬𑄣𑄬𑄇𑄬𑄃𑄮𑄇𑄴",
+      "ka": "მელეკეოკი",
+      "kk": "Мелекеок"
     },
-    "geo": {
-      "latitude": 7.4951158,
-      "longitude": 134.6336896,
-      "min_latitude": 7.491069,
-      "min_longitude": 134.6302414,
-      "max_latitude": 7.4995374,
-      "max_longitude": 134.6382129
-    },
-    "name": "Melekeok"
+    "comments": null
   },
   "214": {
+    "name": "Ngaraard",
+    "code": null,
     "unofficial_names": "Ngaraard",
+    "geo": {
+      "latitude": 7.607939999999999,
+      "longitude": 134.6348645,
+      "min_latitude": 7.5722982,
+      "min_longitude": 134.593708,
+      "max_latitude": 7.686935300000001,
+      "max_longitude": 134.6466028
+    },
     "translations": {
       "en": "Ngaraard",
       "ar": "نغارأرد",
@@ -382,22 +448,29 @@
       "th": "รัฐงาราร์ด",
       "tr": "Ngaraard",
       "ur": "نگارآرد",
-      "vi": "Ngaraard"
+      "vi": "Ngaraard",
+      "lv": "Narārta",
+      "ceb": "State of Ngaraard",
+      "zh": "雅拉爾德州",
+      "ccp": "𑄉𑄢𑄳𑄃𑄖𑄴",
+      "uk": "Нгарард"
     },
-    "geo": {
-      "latitude": 7.607939999999999,
-      "longitude": 134.6348645,
-      "min_latitude": 7.5722982,
-      "min_longitude": 134.593708,
-      "max_latitude": 7.686935300000001,
-      "max_longitude": 134.6466028
-    },
-    "name": "Ngaraard"
+    "comments": null
   },
   "218": {
+    "name": "Ngarchelong",
+    "code": null,
     "unofficial_names": [
       "Ngarchelong"
     ],
+    "geo": {
+      "latitude": 7.7105469,
+      "longitude": 134.6301646,
+      "min_latitude": 7.686335100000001,
+      "min_longitude": 134.609328,
+      "max_latitude": 7.731662800000001,
+      "max_longitude": 134.6457489
+    },
     "translations": {
       "en": "Ngarchelong",
       "ar": "ولاية نغارتشيلونغ",
@@ -430,20 +503,27 @@
       "th": "งาร์เชลอง",
       "tr": "Ngarchelong",
       "ur": "نگارچیلونگ",
-      "vi": "Ngarchelong"
+      "vi": "Ngarchelong",
+      "lv": "Narelona",
+      "ceb": "State of Ngarchelong",
+      "zh": "雅切隆州",
+      "ccp": "𑄉𑄢𑄴𑄥𑄬𑄣𑄧𑄁",
+      "uk": "Нгарчелонг"
     },
-    "geo": {
-      "latitude": 7.7105469,
-      "longitude": 134.6301646,
-      "min_latitude": 7.686335100000001,
-      "min_longitude": 134.609328,
-      "max_latitude": 7.731662800000001,
-      "max_longitude": 134.6457489
-    },
-    "name": "Ngarchelong"
+    "comments": null
   },
   "222": {
+    "name": "Ngardmau",
+    "code": null,
     "unofficial_names": "Ngardmau",
+    "geo": {
+      "latitude": 7.585048599999999,
+      "longitude": 134.5596089,
+      "min_latitude": 7.555898,
+      "min_longitude": 134.5350928,
+      "max_latitude": 7.6205105,
+      "max_longitude": 134.6022465
+    },
     "translations": {
       "en": "Ngardmau",
       "ar": "نغاردماو",
@@ -476,20 +556,27 @@
       "th": "นการ์ดเมา",
       "tr": "Ngardmau",
       "ur": "نگاردماو",
-      "vi": "Ngardmau"
+      "vi": "Ngardmau",
+      "lv": "Nardmau",
+      "ceb": "State of Ngardmau",
+      "zh": "雅德馬烏州",
+      "ccp": "𑄉𑄢𑄴𑄓𑄴𑄟𑄧𑄅𑄪",
+      "uk": "Нгардмау"
     },
-    "geo": {
-      "latitude": 7.585048599999999,
-      "longitude": 134.5596089,
-      "min_latitude": 7.555898,
-      "min_longitude": 134.5350928,
-      "max_latitude": 7.6205105,
-      "max_longitude": 134.6022465
-    },
-    "name": "Ngardmau"
+    "comments": null
   },
   "224": {
+    "name": "Ngatpang",
+    "code": null,
     "unofficial_names": "Ngatpang",
+    "geo": {
+      "latitude": 7.4710994,
+      "longitude": 134.5266466,
+      "min_latitude": 7.417311,
+      "min_longitude": 134.484237,
+      "max_latitude": 7.5069398,
+      "max_longitude": 134.560673
+    },
     "translations": {
       "en": "Ngatpang",
       "ar": "ولاية نغاتبانغ",
@@ -523,20 +610,28 @@
       "th": "งัดปัง",
       "tr": "Ngatpang",
       "ur": "نگاتپانگ",
-      "vi": "Ngatpang"
+      "vi": "Ngatpang",
+      "lv": "Natpana",
+      "ceb": "State of Ngatpang",
+      "zh": "雅龐",
+      "ccp": "𑄉𑄖𑄴𑄛𑄧𑄁",
+      "ka": "ნგატპანგი",
+      "uk": "Нгатпанг"
     },
-    "geo": {
-      "latitude": 7.4710994,
-      "longitude": 134.5266466,
-      "min_latitude": 7.417311,
-      "min_longitude": 134.484237,
-      "max_latitude": 7.5069398,
-      "max_longitude": 134.560673
-    },
-    "name": "Ngatpang"
+    "comments": null
   },
   "226": {
+    "name": "Ngchesar",
+    "code": null,
     "unofficial_names": "Ngchesar",
+    "geo": {
+      "latitude": 7.452328,
+      "longitude": 134.5784342,
+      "min_latitude": 7.411645499999999,
+      "min_longitude": 134.549198,
+      "max_latitude": 7.502810999999999,
+      "max_longitude": 134.6229831
+    },
     "translations": {
       "en": "Ngchesar",
       "ar": "نيغتشيسار",
@@ -569,22 +664,29 @@
       "th": "งเอซาร์",
       "tr": "Ngchesar",
       "ur": "نگچیسار",
-      "vi": "Ngchesar"
+      "vi": "Ngchesar",
+      "lv": "Nesara",
+      "ceb": "State of Ngchesar",
+      "zh": "恩切薩爾州",
+      "ccp": "𑄌𑄬𑄥𑄢𑄴",
+      "uk": "Нгчесар"
     },
-    "geo": {
-      "latitude": 7.452328,
-      "longitude": 134.5784342,
-      "min_latitude": 7.411645499999999,
-      "min_longitude": 134.549198,
-      "max_latitude": 7.502810999999999,
-      "max_longitude": 134.6229831
-    },
-    "name": "Ngchesar"
+    "comments": null
   },
   "227": {
+    "name": "Ngeremlengui",
+    "code": null,
     "unofficial_names": [
       "Ngeremlengui"
     ],
+    "geo": {
+      "latitude": 7.5198397,
+      "longitude": 134.5596089,
+      "min_latitude": 7.464199000000001,
+      "min_longitude": 134.49916,
+      "max_latitude": 7.5774421,
+      "max_longitude": 134.599446
+    },
     "translations": {
       "en": "Ngeremlengui",
       "ar": "نغاريملينغوي",
@@ -617,20 +719,28 @@
       "th": "รัฐเงเรมเลงุย",
       "tr": "Ngeremlengui",
       "ur": "نگیریملینگوئی",
-      "vi": "Ngaremlengui"
+      "vi": "Ngaremlengui",
+      "lv": "Neremlenui",
+      "ceb": "State of Ngeremlengui",
+      "zh": "埃雷姆倫維州",
+      "ccp": "𑄉𑄬𑄢𑄬𑄟𑄴𑄣𑄬𑄁𑄉𑄭𑄪",
+      "ka": "ნგარემლენგი",
+      "uk": "Нгеремленгі"
     },
-    "geo": {
-      "latitude": 7.5198397,
-      "longitude": 134.5596089,
-      "min_latitude": 7.464199000000001,
-      "min_longitude": 134.49916,
-      "max_latitude": 7.5774421,
-      "max_longitude": 134.599446
-    },
-    "name": "Ngeremlengui"
+    "comments": null
   },
   "228": {
+    "name": "Ngiwal",
+    "code": null,
     "unofficial_names": "Ngiwal",
+    "geo": {
+      "latitude": 7.561476399999999,
+      "longitude": 134.6160619,
+      "min_latitude": 7.532054899999999,
+      "min_longitude": 134.594404,
+      "max_latitude": 7.5800329,
+      "max_longitude": 134.6382236
+    },
     "translations": {
       "en": "Ngiwal",
       "ar": "نغيوال",
@@ -663,20 +773,27 @@
       "th": "งีวัล",
       "tr": "Ngiwal",
       "ur": "نگیوال",
-      "vi": "Ngiwal"
+      "vi": "Ngiwal",
+      "lv": "Nivalas štats",
+      "ceb": "State of Ngiwal",
+      "zh": "宜瓦尔州",
+      "ccp": "𑄉𑄭𑄤𑄣𑄴",
+      "uk": "Нгівал"
     },
-    "geo": {
-      "latitude": 7.561476399999999,
-      "longitude": 134.6160619,
-      "min_latitude": 7.532054899999999,
-      "min_longitude": 134.594404,
-      "max_latitude": 7.5800329,
-      "max_longitude": 134.6382236
-    },
-    "name": "Ngiwal"
+    "comments": null
   },
   "350": {
+    "name": "Peleliu",
+    "code": null,
     "unofficial_names": "Peleliu",
+    "geo": {
+      "latitude": 7.002290599999999,
+      "longitude": 134.2431628,
+      "min_latitude": 6.973421999999999,
+      "min_longitude": 134.2217079,
+      "max_latitude": 7.049378000000001,
+      "max_longitude": 134.2706156
+    },
     "translations": {
       "en": "Peleliu",
       "ar": "بيليليو",
@@ -713,20 +830,27 @@
       "tr": "Peleliu",
       "uk": "Пелеліу",
       "ur": "پیلیلیو",
-      "vi": "Peleliu"
+      "vi": "Peleliu",
+      "lv": "Peleliu",
+      "ceb": "Peleliu (pulo sa Palau)",
+      "zh": "貝里琉州",
+      "ccp": "𑄛𑄬𑄣𑄬𑄣𑄨𑄅𑄪",
+      "ka": "პელელიუს შტატი"
     },
-    "geo": {
-      "latitude": 7.002290599999999,
-      "longitude": 134.2431628,
-      "min_latitude": 6.973421999999999,
-      "min_longitude": 134.2217079,
-      "max_latitude": 7.049378000000001,
-      "max_longitude": 134.2706156
-    },
-    "name": "Peleliu"
+    "comments": null
   },
   "370": {
+    "name": "Sonsorol",
+    "code": null,
     "unofficial_names": "Sonsorol",
+    "geo": {
+      "latitude": 4.319971799999999,
+      "longitude": 132.3126369,
+      "min_latitude": 4.3124723,
+      "min_longitude": 131.947925,
+      "max_latitude": 4.6583571,
+      "max_longitude": 132.3141002
+    },
     "translations": {
       "en": "Sonsorol",
       "ar": "سونسورول",
@@ -762,17 +886,14 @@
       "th": "ซันโซรอล",
       "tr": "Sonsorol",
       "ur": "سونسورول",
-      "vi": "Sonsorol"
+      "vi": "Sonsorol",
+      "lv": "Sonsorola",
+      "ceb": "State of Sonsorol",
+      "zh": "松索羅爾",
+      "ccp": "𑄥𑄧𑄚𑄴𑄥𑄮𑄢𑄮𑄣𑄴",
+      "uk": "Сонсорол"
     },
-    "geo": {
-      "latitude": 4.319971799999999,
-      "longitude": 132.3126369,
-      "min_latitude": 4.3124723,
-      "min_longitude": 131.947925,
-      "max_latitude": 4.6583571,
-      "max_longitude": 132.3141002
-    },
-    "name": "Sonsorol"
+    "comments": null
   }
 }
 

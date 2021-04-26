@@ -1,6 +1,16 @@
 {
   "AN": {
+    "name": "Anseba",
+    "code": null,
     "unofficial_names": "Anseba",
+    "geo": {
+      "latitude": 16.4745531,
+      "longitude": 37.8087693,
+      "min_latitude": 15.521509,
+      "min_longitude": 36.8874469,
+      "max_latitude": 17.557606,
+      "max_longitude": 38.8872519
+    },
     "translations": {
       "en": "Anseba",
       "ar": "إقليم أنسبا",
@@ -41,20 +51,28 @@
       "uk": "Ансеба",
       "ur": "انسبا علاقہ",
       "vi": "Khu vực Anseba",
-      "zh": "安塞巴區"
+      "zh": "安塞巴區",
+      "lv": "Ansebas zoba",
+      "ceb": "Anseba Region",
+      "fa": "منطقه آنسبا",
+      "yue_Hans": "安塞巴地区",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬𑄝",
+      "yue": "安塞巴地區"
     },
-    "geo": {
-      "latitude": 16.4745531,
-      "longitude": 37.8087693,
-      "min_latitude": 15.521509,
-      "min_longitude": 36.8874469,
-      "max_latitude": 17.557606,
-      "max_longitude": 38.8872519
-    },
-    "name": "Anseba"
+    "comments": null
   },
   "DK": {
+    "name": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
+    "code": null,
     "unofficial_names": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
+    "geo": {
+      "latitude": 13.5137103,
+      "longitude": 41.7606472,
+      "min_latitude": 12.359562,
+      "min_longitude": 40.329559,
+      "max_latitude": 15.0200658,
+      "max_longitude": 43.1486397
+    },
     "translations": {
       "en": "Southern Red Sea",
       "ar": "إقليم البحر الأحمر الجنوبي",
@@ -94,20 +112,29 @@
       "tr": "Güney Kızıldeniz",
       "uk": "Дебубаві-Кей-Бахрі",
       "ur": "جنوبی بحیرہ احمر علاقہ",
-      "vi": "Nam Biển Đỏ"
+      "vi": "Nam Biển Đỏ",
+      "lv": "Debubavi Kejihbahri zoba",
+      "ceb": "Southern Red Sea Region",
+      "zh": "南紅海區",
+      "fa": "منطقه دریای سرخ جنوبی",
+      "yue_Hans": "南红海地区",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄢𑄋 𑄥𑄉𑄧𑄢𑄴",
+      "yue": "南紅海地區"
     },
-    "geo": {
-      "latitude": 13.5137103,
-      "longitude": 41.7606472,
-      "min_latitude": 12.359562,
-      "min_longitude": 40.329559,
-      "max_latitude": 15.0200658,
-      "max_longitude": 43.1486397
-    },
-    "name": "Debubawi Keyih Bahri [Debub-Keih-Bahri]"
+    "comments": null
   },
   "DU": {
+    "name": "Debub",
+    "code": null,
     "unofficial_names": "Debub",
+    "geo": {
+      "latitude": 14.9478692,
+      "longitude": 39.1543677,
+      "min_latitude": 14.408369,
+      "min_longitude": 38.222448,
+      "max_latitude": 15.2706559,
+      "max_longitude": 39.670701
+    },
     "translations": {
       "en": "Debub",
       "ar": "منطقة الجنوب",
@@ -147,20 +174,29 @@
       "tr": "Debub",
       "uk": "Дебуб",
       "ur": "دیبوب علاقہ",
-      "vi": "Khu vực Debub"
+      "vi": "Khu vực Debub",
+      "lv": "Debubas zoba",
+      "ceb": "Debub Region",
+      "zh": "南部區",
+      "fa": "منطقه جنوبی",
+      "yue_Hans": "南部地区",
+      "ccp": "𑄓𑄬𑄝𑄪𑄛𑄴",
+      "yue": "南部地區"
     },
-    "geo": {
-      "latitude": 14.9478692,
-      "longitude": 39.1543677,
-      "min_latitude": 14.408369,
-      "min_longitude": 38.222448,
-      "max_latitude": 15.2706559,
-      "max_longitude": 39.670701
-    },
-    "name": "Debub"
+    "comments": null
   },
   "GB": {
+    "name": "Gash-Barka",
+    "code": null,
     "unofficial_names": "Gash-Barka",
+    "geo": {
+      "latitude": 15.4068825,
+      "longitude": 37.6386622,
+      "min_latitude": 14.1124271,
+      "min_longitude": 36.4387661,
+      "max_latitude": 16.285809,
+      "max_longitude": 38.7686061
+    },
     "translations": {
       "en": "Gash-Barka",
       "ar": "إقليم غاش-باركا",
@@ -199,20 +235,29 @@
       "tr": "Gash-Barka",
       "uk": "Гаш-Барка",
       "ur": "گاش-برکہ علاقہ",
-      "vi": "Khu vực Gash-Barka"
+      "vi": "Khu vực Gash-Barka",
+      "lv": "Gašas-Barkas zoba",
+      "ceb": "Gash-Barka Region",
+      "zh": "加什-巴爾卡區",
+      "fa": "منطقه گاش-بارکا",
+      "yue_Hans": "加什-巴尔卡地区",
+      "ccp": "𑄉𑄌𑄴-𑄝𑄢𑄴𑄇",
+      "yue": "加什-巴爾卡地區"
     },
-    "geo": {
-      "latitude": 15.4068825,
-      "longitude": 37.6386622,
-      "min_latitude": 14.1124271,
-      "min_longitude": 36.4387661,
-      "max_latitude": 16.285809,
-      "max_longitude": 38.7686061
-    },
-    "name": "Gash-Barka"
+    "comments": null
   },
   "MA": {
+    "name": "Maakel [Maekel]",
+    "code": null,
     "unofficial_names": "Maakel [Maekel]",
+    "geo": {
+      "latitude": 15.3551409,
+      "longitude": 38.8623683,
+      "min_latitude": 15.116929,
+      "min_longitude": 38.693163,
+      "max_latitude": 15.587143,
+      "max_longitude": 39.0490999
+    },
     "translations": {
       "en": "Maekel",
       "ar": "المنطقة المركزية",
@@ -252,20 +297,29 @@
       "tr": "Maekel",
       "uk": "Маекел",
       "ur": "مائیکیل ریجن",
-      "vi": "Khu vực Maekel"
+      "vi": "Khu vực Maekel",
+      "lv": "Maakeles zoba",
+      "ceb": "Maekel Region",
+      "zh": "中部區",
+      "fa": "منطقه مرکزی",
+      "yue_Hans": "中部地区",
+      "ccp": "𑄟𑄳𑄠𑄇𑄬𑄣𑄴",
+      "yue": "中部地區"
     },
-    "geo": {
-      "latitude": 15.3551409,
-      "longitude": 38.8623683,
-      "min_latitude": 15.116929,
-      "min_longitude": 38.693163,
-      "max_latitude": 15.587143,
-      "max_longitude": 39.0490999
-    },
-    "name": "Maakel [Maekel]"
+    "comments": null
   },
   "SK": {
+    "name": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
+    "code": null,
     "unofficial_names": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
+    "geo": {
+      "latitude": 16.2583997,
+      "longitude": 38.8205454,
+      "min_latitude": 14.337765,
+      "min_longitude": 37.9696809,
+      "max_latitude": 18.003086,
+      "max_longitude": 41.2974091
+    },
     "translations": {
       "en": "Northern Red Sea",
       "ar": "إقليم شمال البحر الأحمر",
@@ -304,17 +358,16 @@
       "tr": "Kuzey Kızıldeniz",
       "uk": "Семенаві-Кей-Бахрі",
       "ur": "شمالی بحیرہ احمر علاقہ",
-      "vi": "Khu vực Phía Bắc Biển Đỏ"
+      "vi": "Khu vực Phía Bắc Biển Đỏ",
+      "lv": "Semenavi Kejihbahri zoba",
+      "ceb": "Northern Red Sea Region",
+      "zh": "北紅海區",
+      "fa": "منطقه دریای سرخ شمالی",
+      "yue_Hans": "北红海地区",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄢𑄋 𑄥𑄉𑄧𑄢𑄴",
+      "yue": "北紅海地區"
     },
-    "geo": {
-      "latitude": 16.2583997,
-      "longitude": 38.8205454,
-      "min_latitude": 14.337765,
-      "min_longitude": 37.9696809,
-      "max_latitude": 18.003086,
-      "max_longitude": 41.2974091
-    },
-    "name": "Semenawi Keyih Bahri [Semien-Keih-Bahri]"
+    "comments": null
   }
 }
 

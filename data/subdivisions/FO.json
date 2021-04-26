@@ -1,9 +1,8 @@
 {
   "NO": {
+    "name": "Nordoyar",
+    "code": null,
     "unofficial_names": "Nordoyar",
-    "translations": {
-      "en": "Nordoyar"
-    },
     "geo": {
       "latitude": 62.28333,
       "longitude": -6.58333,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Nordoyar",
+    "translations": {
+      "en": "Nordoyar"
+    },
     "comments": null
   },
   "OS": {
+    "name": "Eysturoyar",
+    "code": null,
     "unofficial_names": "Eysturoyar",
-    "translations": {
-      "en": "Eysturoyar"
-    },
     "geo": {
       "latitude": 62.21667,
       "longitude": -6.86667,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Eysturoyar",
+    "translations": {
+      "en": "Eysturoyar"
+    },
     "comments": null
   },
   "SA": {
+    "name": "Sandoyar",
+    "code": null,
     "unofficial_names": "Sandoyar",
-    "translations": {
-      "en": "Sandoyar"
-    },
     "geo": {
       "latitude": 61.83333,
       "longitude": -6.75,
@@ -44,14 +45,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Sandoyar",
+    "translations": {
+      "en": "Sandoyar"
+    },
     "comments": null
   },
   "ST": {
+    "name": "Streymoyar",
+    "code": null,
     "unofficial_names": "Streymoyar",
-    "translations": {
-      "en": "Streymoyar"
-    },
     "geo": {
       "latitude": 62.13333,
       "longitude": -7,
@@ -60,14 +62,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Streymoyar",
+    "translations": {
+      "en": "Streymoyar"
+    },
     "comments": null
   },
   "SU": {
+    "name": "Suduroyar",
+    "code": null,
     "unofficial_names": "Suduroyar",
-    "translations": {
-      "en": "Suduroyar"
-    },
     "geo": {
       "latitude": 61.48333,
       "longitude": -6.81667,
@@ -76,14 +79,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Suduroyar",
+    "translations": {
+      "en": "Suduroyar"
+    },
     "comments": null
   },
   "VG": {
+    "name": "Vaga",
+    "code": null,
     "unofficial_names": "Vaga",
-    "translations": {
-      "en": "Vaga"
-    },
     "geo": {
       "latitude": 62.08333,
       "longitude": -7.25,
@@ -92,7 +96,9 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Vaga",
+    "translations": {
+      "en": "Vaga"
+    },
     "comments": null
   }
 }

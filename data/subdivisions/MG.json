@@ -1,8 +1,18 @@
 {
   "A": {
+    "name": "Toamasina",
+    "code": null,
     "unofficial_names": [
       "Tamatave"
     ],
+    "geo": {
+      "latitude": -18.15,
+      "longitude": 49.416667,
+      "min_latitude": -18.1902246,
+      "min_longitude": 49.3536083,
+      "max_latitude": -18.0708419,
+      "max_longitude": 49.4305587
+    },
     "translations": {
       "en": "Toamasina",
       "ar": "مقاطعة تواماسينا",
@@ -28,23 +38,29 @@
       "sv": "Toamasina",
       "uk": "Туамасіна",
       "ur": "تواماسینا صوبہ",
-      "zh": "圖阿馬西納省"
+      "zh": "圖阿馬西納省",
+      "yue_Hans": "图阿马西纳省",
+      "ccp": "𑄑𑄮𑄟𑄥𑄨𑄚",
+      "yue": "圖阿馬西納省",
+      "uz": "Tuamasina"
     },
-    "geo": {
-      "latitude": -18.15,
-      "longitude": 49.416667,
-      "min_latitude": -18.1902246,
-      "min_longitude": 49.3536083,
-      "max_latitude": -18.0708419,
-      "max_longitude": 49.4305587
-    },
-    "name": "Toamasina"
+    "comments": null
   },
   "D": {
+    "name": "Antsiranana",
+    "code": null,
     "unofficial_names": [
       "Antseranana",
       "Diégo Suarez"
     ],
+    "geo": {
+      "latitude": -12.3231349,
+      "longitude": 49.2942833,
+      "min_latitude": -12.3658257,
+      "min_longitude": 49.2734241,
+      "max_latitude": -12.2668974,
+      "max_longitude": 49.3142177
+    },
     "translations": {
       "en": "Antsiranana",
       "ar": "مقاطعة أنتسيرانانا",
@@ -72,22 +88,27 @@
       "ta": "அண்ட்சிரனனா மாகாணம்",
       "uk": "Анціранана (провінція)",
       "ur": "انتسیرانانا صوبہ",
-      "vi": "Antsiranana"
+      "vi": "Antsiranana",
+      "zh": "安齊拉納納省",
+      "ccp": "𑄃𑄚𑄴𑄑𑄴𑄥𑄨𑄢𑄚𑄚𑄴",
+      "uz": "Antsiranana"
     },
-    "geo": {
-      "latitude": -12.3231349,
-      "longitude": 49.2942833,
-      "min_latitude": -12.3658257,
-      "min_longitude": 49.2734241,
-      "max_latitude": -12.2668974,
-      "max_longitude": 49.3142177
-    },
-    "name": "Antsiranana"
+    "comments": null
   },
   "F": {
+    "name": "Fianarantsoa",
+    "code": null,
     "unofficial_names": [
       "Fianar"
     ],
+    "geo": {
+      "latitude": -21.453611,
+      "longitude": 47.085833,
+      "min_latitude": -21.4888523,
+      "min_longitude": 47.04122539999999,
+      "max_latitude": -21.4065204,
+      "max_longitude": 47.1303177
+    },
     "translations": {
       "en": "Fianarantsoa",
       "ar": "مقاطعة فيانارانتسوا",
@@ -113,22 +134,27 @@
       "ru": "Фианаранцуа",
       "sv": "Fianarantsoa",
       "uk": "Фіанаранцуа",
-      "ur": "فیانارانتسوا صوبہ"
+      "ur": "فیانارانتسوا صوبہ",
+      "zh": "菲亞納蘭楚阿省",
+      "ccp": "𑄜𑄨𑄠𑄚𑄢𑄚𑄚𑄴𑄑𑄴𑄥𑄮𑄠",
+      "uz": "Fianarantsua"
     },
-    "geo": {
-      "latitude": -21.453611,
-      "longitude": 47.085833,
-      "min_latitude": -21.4888523,
-      "min_longitude": 47.04122539999999,
-      "max_latitude": -21.4065204,
-      "max_longitude": 47.1303177
-    },
-    "name": "Fianarantsoa"
+    "comments": null
   },
   "M": {
+    "name": "Mahajanga",
+    "code": null,
     "unofficial_names": [
       "Majunga"
     ],
+    "geo": {
+      "latitude": -15.716667,
+      "longitude": 46.316667,
+      "min_latitude": -15.7284058,
+      "min_longitude": 46.294654,
+      "max_latitude": -15.6463868,
+      "max_longitude": 46.3819599
+    },
     "translations": {
       "en": "Mahajanga",
       "ar": "مقاطعة ماهاجانجا",
@@ -153,22 +179,30 @@
       "sv": "Mahajanga",
       "uk": "Махадзанга (провінція)",
       "ur": "ماہاجانگا صوبہ",
-      "vi": "Mahajanga"
+      "vi": "Mahajanga",
+      "zh": "馬哈贊加省",
+      "yue_Hans": "马哈赞加省",
+      "ccp": "𑄟𑄦𑄴𑄎𑄚𑄴𑄉",
+      "he": "מחוז מאהאז׳אנגה",
+      "yue": "馬哈贊加省",
+      "uz": "Maxadzanga"
     },
-    "geo": {
-      "latitude": -15.716667,
-      "longitude": 46.316667,
-      "min_latitude": -15.7284058,
-      "min_longitude": 46.294654,
-      "max_latitude": -15.6463868,
-      "max_longitude": 46.3819599
-    },
-    "name": "Mahajanga"
+    "comments": null
   },
   "T": {
+    "name": "Antananarivo",
+    "code": null,
     "unofficial_names": [
       "Tananarive"
     ],
+    "geo": {
+      "latitude": -18.933333,
+      "longitude": 47.516667,
+      "min_latitude": -19.0278715,
+      "min_longitude": 47.4191379,
+      "max_latitude": -18.747587,
+      "max_longitude": 47.60607719999999
+    },
     "translations": {
       "en": "Antananarivo",
       "ar": "مقاطعة فيانارانتسوا²",
@@ -198,23 +232,30 @@
       "ru": "Антананариву",
       "sv": "Antananarivo",
       "uk": "Антананаріву",
-      "ur": "انتاناناریوو صوبہ"
+      "ur": "انتاناناریوو صوبہ",
+      "ceb": "Antananarivo Province",
+      "zh": "塔那那利佛省",
+      "ccp": "𑄃𑄚𑄴𑄑𑄚𑄚𑄢𑄨𑄞𑄮",
+      "be": "правінцыя Антананарыву",
+      "uz": "Antananarivu"
     },
-    "geo": {
-      "latitude": -18.933333,
-      "longitude": 47.516667,
-      "min_latitude": -19.0278715,
-      "min_longitude": 47.4191379,
-      "max_latitude": -18.747587,
-      "max_longitude": 47.60607719999999
-    },
-    "name": "Antananarivo"
+    "comments": null
   },
   "U": {
+    "name": "Toliara",
+    "code": null,
     "unofficial_names": [
       "Toliara",
       "Tuléar"
     ],
+    "geo": {
+      "latitude": -23.35,
+      "longitude": 43.666667,
+      "min_latitude": -23.3970146,
+      "min_longitude": 43.6393261,
+      "max_latitude": -23.314592,
+      "max_longitude": 43.73601439999999
+    },
     "translations": {
       "en": "Toliara",
       "ar": "مقاطعة توليارا",
@@ -239,17 +280,15 @@
       "ru": "Тулиара",
       "sv": "Toliara",
       "uk": "Туліара (провінція)",
-      "ur": "تولیارا صوبہ"
+      "ur": "تولیارا صوبہ",
+      "ceb": "Toliara Province",
+      "sr_Latn": "Toliara",
+      "zh": "圖利亞拉省",
+      "ccp": "𑄑𑄮𑄣𑄨𑄠𑄢",
+      "sr": "Толиара",
+      "uz": "Tuliara"
     },
-    "geo": {
-      "latitude": -23.35,
-      "longitude": 43.666667,
-      "min_latitude": -23.3970146,
-      "min_longitude": 43.6393261,
-      "max_latitude": -23.314592,
-      "max_longitude": 43.73601439999999
-    },
-    "name": "Toliara"
+    "comments": null
   }
 }
 

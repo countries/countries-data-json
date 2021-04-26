@@ -1,11 +1,21 @@
 {
   "05": {
+    "name": "Vinnyts'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Vinnica",
       "Vinnitsa",
       "Vinnytska",
       "Vinnytsya"
     ],
+    "geo": {
+      "latitude": 49.233083,
+      "longitude": 28.468217,
+      "min_latitude": 48.064971,
+      "min_longitude": 27.37479,
+      "max_latitude": 49.889537,
+      "max_longitude": 30.022071
+    },
     "translations": {
       "en": "Vinnychchyna",
       "af": "Winnitsja-oblast",
@@ -61,23 +71,32 @@
       "uk": "Вінницька область",
       "ur": "وینیتسیا اوبلاست",
       "vi": "Vinnytsia",
-      "zh": "文尼察州"
+      "zh": "文尼察州",
+      "ceb": "Vinnyts’ka Oblast’",
+      "sr_Latn": "Vinička oblast",
+      "ccp": "𑄞𑄨𑄚𑄳𑄦𑄨𑄌𑄳𑄦𑄨𑄚",
+      "ky": "Винница облусу",
+      "uz": "Vinnitsa viloyati",
+      "bs": "Vinička oblast",
+      "mk": "Виницка област"
     },
-    "geo": {
-      "latitude": 49.233083,
-      "longitude": 28.468217,
-      "min_latitude": 48.064971,
-      "min_longitude": 27.37479,
-      "max_latitude": 49.889537,
-      "max_longitude": 30.022071
-    },
-    "name": "Vinnyts'ka Oblast'"
+    "comments": null
   },
   "07": {
+    "name": "Volyns'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Volyn",
       "Volynska"
     ],
+    "geo": {
+      "latitude": 50.74723299999999,
+      "longitude": 25.325383,
+      "min_latitude": 50.2871931,
+      "min_longitude": 23.603933,
+      "max_latitude": 51.969238,
+      "max_longitude": 26.1062831
+    },
     "translations": {
       "en": "Volyn",
       "af": "Wolhinië-oblast",
@@ -131,19 +150,20 @@
       "uk": "Волинська область",
       "ur": "ولین اوبلاست",
       "vi": "Volyn",
-      "zh": "沃倫州"
+      "zh": "沃倫州",
+      "ceb": "Volyns’ka Oblast’",
+      "sr_Latn": "Volinjska oblast",
+      "ccp": "𑄞𑄮𑄣𑄨𑄠𑄚𑄴",
+      "ky": "Волынь областы",
+      "uz": "Volin viloyati",
+      "bs": "Volinjska oblast",
+      "mk": "Волинска област"
     },
-    "geo": {
-      "latitude": 50.74723299999999,
-      "longitude": 25.325383,
-      "min_latitude": 50.2871931,
-      "min_longitude": 23.603933,
-      "max_latitude": 51.969238,
-      "max_longitude": 26.1062831
-    },
-    "name": "Volyns'ka Oblast'"
+    "comments": null
   },
   "09": {
+    "name": "Luhans'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Lugansk",
       "Luhanska",
@@ -151,6 +171,14 @@
       "Voroshilovgrad",
       "Vorošilovgrad"
     ],
+    "geo": {
+      "latitude": 48.574041,
+      "longitude": 39.307815,
+      "min_latitude": 47.825031,
+      "min_longitude": 37.83751609999999,
+      "max_latitude": 50.088428,
+      "max_longitude": 40.2275119
+    },
     "translations": {
       "en": "Luhanshchyna",
       "af": "Loehansk-oblast",
@@ -205,25 +233,34 @@
       "uk": "Луганська область",
       "ur": "لوہانسک اوبلاست",
       "vi": "Luhansk",
-      "zh": "盧甘斯克州"
+      "zh": "盧甘斯克州",
+      "ceb": "Luhans’ka Oblast’",
+      "sr_Latn": "Luganska oblast",
+      "ccp": "𑄣𑄪𑄦𑄚𑄴𑄌𑄳𑄌𑄨𑄚",
+      "ga": "Cúige Luhansk",
+      "ky": "Луганск областы",
+      "uz": "Lugansk viloyati",
+      "mk": "Луганска област"
     },
-    "geo": {
-      "latitude": 48.574041,
-      "longitude": 39.307815,
-      "min_latitude": 47.825031,
-      "min_longitude": 37.83751609999999,
-      "max_latitude": 50.088428,
-      "max_longitude": 40.2275119
-    },
-    "name": "Luhans'ka Oblast'"
+    "comments": null
   },
   "12": {
+    "name": "Dnipropetrovs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Dnepropetrovsk",
       "Dnipropetrovsk",
       "Dnipropetrovska",
       "Dnjepropetrovsk"
     ],
+    "geo": {
+      "latitude": 48.464717,
+      "longitude": 35.046183,
+      "min_latitude": 47.481922,
+      "min_longitude": 32.959522,
+      "max_latitude": 49.193473,
+      "max_longitude": 36.9364431
+    },
     "translations": {
       "en": "Dnipropetrovshchyna",
       "af": "Dnipropetrofsk-oblast",
@@ -278,24 +315,32 @@
       "uk": "Дніпропетровська область",
       "ur": "دنیپروپیترووسک اوبلاست",
       "vi": "Dnipropetrovsk",
-      "zh": "第聂伯罗彼得罗夫斯克州"
+      "zh": "第聂伯罗彼得罗夫斯克州",
+      "ceb": "Dnipropetrovska Oblast’",
+      "sr_Latn": "Dnjepropetrovska oblast",
+      "ccp": "𑄓𑄨𑄛𑄳𑄢𑄧𑄛𑄬𑄑𑄳𑄢𑄮𑄛𑄴𑄌𑄳𑄌𑄨𑄚",
+      "uz": "Dnepropetrovsk viloyati",
+      "bs": "Dnjipropetrovska oblast",
+      "mk": "Днепропетровска област"
     },
-    "geo": {
-      "latitude": 48.464717,
-      "longitude": 35.046183,
-      "min_latitude": 47.481922,
-      "min_longitude": 32.959522,
-      "max_latitude": 49.193473,
-      "max_longitude": 36.9364431
-    },
-    "name": "Dnipropetrovs'ka Oblast'"
+    "comments": null
   },
   "14": {
+    "name": "Donets'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Doneck",
       "Donetska",
       "Donetsʿka"
     ],
+    "geo": {
+      "latitude": 48.015883,
+      "longitude": 37.80285,
+      "min_latitude": 46.867733,
+      "min_longitude": 36.541492,
+      "max_latitude": 49.236797,
+      "max_longitude": 39.09210179999999
+    },
     "translations": {
       "en": "Donechchyna",
       "af": "Donetsk-oblast",
@@ -349,23 +394,32 @@
       "uk": "Донецька область",
       "ur": "دونیتسک اوبلاست",
       "vi": "Donetsk (tỉnh)",
-      "zh": "顿涅茨克州"
+      "zh": "顿涅茨克州",
+      "ceb": "Donets’ka Oblast’",
+      "sr_Latn": "Donječka oblast",
+      "yue_Hans": "顿涅茨克州",
+      "ccp": "𑄓𑄮𑄚𑄬𑄌𑄳𑄌𑄨𑄚",
+      "yue": "頓涅茨克州",
+      "uz": "Donetsk viloyati",
+      "mk": "Донечка област"
     },
-    "geo": {
-      "latitude": 48.015883,
-      "longitude": 37.80285,
-      "min_latitude": 46.867733,
-      "min_longitude": 36.541492,
-      "max_latitude": 49.236797,
-      "max_longitude": 39.09210179999999
-    },
-    "name": "Donets'ka Oblast'"
+    "comments": null
   },
   "18": {
+    "name": "Zhytomyrs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Zhitomir",
       "Zhytomyrska"
     ],
+    "geo": {
+      "latitude": 50.25465,
+      "longitude": 28.658667,
+      "min_latitude": 49.58293099999999,
+      "min_longitude": 27.1897231,
+      "max_latitude": 51.6818959,
+      "max_longitude": 29.7354618
+    },
     "translations": {
       "en": "Zhytomyrshchyna",
       "af": "Sjitomir-oblast",
@@ -420,24 +474,33 @@
       "uk": "Житомирська область",
       "ur": "ژیتومیر اوبلاست",
       "vi": "Zhytomyr",
-      "zh": "日托米爾州"
+      "zh": "日托米爾州",
+      "cy": "Zhytomyr Oblast",
+      "ceb": "Zhytomyrs’ka Oblast’",
+      "sr_Latn": "Žitomirska oblast",
+      "ccp": "𑄎𑄭𑄑𑄮𑄟𑄨𑄠𑄢𑄴𑄌𑄳𑄌𑄨𑄚",
+      "uz": "Jitomir viloyati",
+      "bs": "Žitomirska oblast",
+      "mk": "Житомирска област"
     },
-    "geo": {
-      "latitude": 50.25465,
-      "longitude": 28.658667,
-      "min_latitude": 49.58293099999999,
-      "min_longitude": 27.1897231,
-      "max_latitude": 51.6818959,
-      "max_longitude": 29.7354618
-    },
-    "name": "Zhytomyrs'ka Oblast'"
+    "comments": null
   },
   "21": {
+    "name": "Zakarpats'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Transcarpathia",
       "Zakarpatska",
       "Zakarpatsʿka Oblast"
     ],
+    "geo": {
+      "latitude": 48.6208,
+      "longitude": 22.287883,
+      "min_latitude": 47.896507,
+      "min_longitude": 22.135906,
+      "max_latitude": 49.09755699999999,
+      "max_longitude": 24.627378
+    },
     "translations": {
       "en": "Zakarpattia",
       "af": "Transkarpatië-oblast",
@@ -491,25 +554,34 @@
       "uk": "Закарпатська область",
       "ur": "زاکارپتیا اوبلاست",
       "vi": "Vùng Zakarpattia",
-      "zh": "外喀爾巴阡州"
+      "zh": "外喀爾巴阡州",
+      "ceb": "Zakarpattia Oblast",
+      "sr_Latn": "Zakarpatska oblast",
+      "ccp": "𑄎𑄇𑄢𑄴𑄛𑄑𑄳𑄦𑄨𑄠",
+      "ky": "Закарпатье",
+      "uz": "Zakarpatye viloyati",
+      "bs": "Zakarpatska oblast",
+      "mk": "Закарпатска област"
     },
-    "geo": {
-      "latitude": 48.6208,
-      "longitude": 22.287883,
-      "min_latitude": 47.896507,
-      "min_longitude": 22.135906,
-      "max_latitude": 49.09755699999999,
-      "max_longitude": 24.627378
-    },
-    "name": "Zakarpats'ka Oblast'"
+    "comments": null
   },
   "23": {
+    "name": "Zaporiz'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Zaporizhzhya",
       "Zaporizka",
       "Zaporozhye",
       "Zaporožje"
     ],
+    "geo": {
+      "latitude": 47.8388,
+      "longitude": 35.139567,
+      "min_latitude": 46.2642371,
+      "min_longitude": 34.245512,
+      "max_latitude": 48.14402,
+      "max_longitude": 37.2450479
+    },
     "translations": {
       "en": "Zaporizhzhya",
       "af": "Saporisja-oblast",
@@ -564,24 +636,33 @@
       "uk": "Запорізька область",
       "ur": "زابروژیا اوبلاست",
       "vi": "Zaporizhia",
-      "zh": "扎波羅熱州"
+      "zh": "扎波羅熱州",
+      "ceb": "Zaporiz’ka Oblast’",
+      "sr_Latn": "Zaporoška oblast",
+      "ccp": "𑄎𑄛𑄮𑄢𑄨𑄎𑄳𑄎𑄨𑄠",
+      "ga": "Cúige Zaporizhia",
+      "uz": "Zaporijya viloyati",
+      "bs": "Zaporiška oblast",
+      "mk": "Запорошка област"
     },
-    "geo": {
-      "latitude": 47.8388,
-      "longitude": 35.139567,
-      "min_latitude": 46.2642371,
-      "min_longitude": 34.245512,
-      "max_latitude": 48.14402,
-      "max_longitude": 37.2450479
-    },
-    "name": "Zaporiz'ka Oblast'"
+    "comments": null
   },
   "26": {
+    "name": "Ivano-Frankivs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Ivano-Frankivsk",
       "Ivano-Frankivska",
       "Ivano-Frankovsk"
     ],
+    "geo": {
+      "latitude": 48.922633,
+      "longitude": 24.711117,
+      "min_latitude": 47.724266,
+      "min_longitude": 23.545547,
+      "max_latitude": 49.559585,
+      "max_longitude": 25.6529901
+    },
     "translations": {
       "en": "Prykarpattia",
       "af": "Iwano-Frankifsk-oblast",
@@ -634,24 +715,32 @@
       "uk": "Івано-Франківська область",
       "ur": "ایوانو-فرانکیوسک اوبلاست",
       "vi": "Ivano-Frankivsk",
-      "zh": "伊万诺-弗兰科夫斯克州"
+      "zh": "伊万诺-弗兰科夫斯克州",
+      "ceb": "Ivano-Frankivs’ka Oblast’",
+      "sr_Latn": "Ivano-Frankivska oblast",
+      "ccp": "𑄛𑄳𑄢𑄭𑄇𑄢𑄴𑄛𑄑𑄳𑄦𑄨𑄠",
+      "uz": "Ivano-frankivsk viloyati",
+      "bs": "Ivano-Frankivska oblast",
+      "mk": "Ивано-Франковска област"
     },
-    "geo": {
-      "latitude": 48.922633,
-      "longitude": 24.711117,
-      "min_latitude": 47.724266,
-      "min_longitude": 23.545547,
-      "max_latitude": 49.559585,
-      "max_longitude": 25.6529901
-    },
-    "name": "Ivano-Frankivs'ka Oblast'"
+    "comments": null
   },
   "30": {
+    "name": "Kyïv",
+    "code": null,
     "unofficial_names": [
       "Kyiv",
       "Kyyiv",
       "Kiev"
     ],
+    "geo": {
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "min_latitude": 50.213273,
+      "min_longitude": 30.2394401,
+      "max_latitude": 50.590798,
+      "max_longitude": 30.825941
+    },
     "translations": {
       "en": "Kiev",
       "af": "Kiëf",
@@ -714,23 +803,42 @@
       "ur": "کیف",
       "vi": "Kiev",
       "zh": "基輔",
-      "zu": "IKiyevi"
+      "zu": "IKiyevi",
+      "cy": "Kiev",
+      "ceb": "Kiev",
+      "sr_Latn": "Kijev",
+      "yue_Hans": "基辅",
+      "jv": "Kiev",
+      "sq": "Kievi",
+      "ccp": "𑄇𑄨𑄠𑄬𑄛𑄴",
+      "ga": "Cív",
+      "ky": "Киев",
+      "pa": "ਕੀਵ",
+      "kk": "Киев",
+      "yue": "基輔",
+      "my": "ကီးယက်မြို့",
+      "yo": "Kiev",
+      "uz": "Kiyev",
+      "bs": "Kijev",
+      "mk": "Киев"
     },
-    "geo": {
-      "latitude": 50.4501,
-      "longitude": 30.5234,
-      "min_latitude": 50.213273,
-      "min_longitude": 30.2394401,
-      "max_latitude": 50.590798,
-      "max_longitude": 30.825941
-    },
-    "name": "Kyïv"
+    "comments": null
   },
   "32": {
+    "name": "Kyïvs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Kyyivsʿka Oblast",
       "Kyyivsʿka Oblastʿ"
     ],
+    "geo": {
+      "latitude": 50.0529506,
+      "longitude": 30.7667133,
+      "min_latitude": 49.1791191,
+      "min_longitude": 29.2664181,
+      "max_latitude": 51.554014,
+      "max_longitude": 32.160736
+    },
     "translations": {
       "en": "Kyivshchyna",
       "af": "Kiëf-oblast",
@@ -784,24 +892,32 @@
       "uk": "Київська область",
       "ur": "کیف اوبلاست",
       "vi": "Kiev²",
-      "zh": "基辅州"
+      "zh": "基辅州",
+      "ceb": "Kyiv Oblast",
+      "sr_Latn": "Kijevska oblast",
+      "ccp": "𑄇𑄨𑄠𑄅𑄪𑄛𑄴𑄌𑄳𑄦𑄨𑄚",
+      "uz": "Kiyev viloyati",
+      "bs": "Kijevska oblast",
+      "mk": "Киевска област"
     },
-    "geo": {
-      "latitude": 50.0529506,
-      "longitude": 30.7667133,
-      "min_latitude": 49.1791191,
-      "min_longitude": 29.2664181,
-      "max_latitude": 51.554014,
-      "max_longitude": 32.160736
-    },
-    "name": "Kyïvs'ka Oblast'"
+    "comments": null
   },
   "35": {
+    "name": "Kirovohrads'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Kirovograd",
       "Kirovohrad",
       "Kirovohradska"
     ],
+    "geo": {
+      "latitude": 48.50793300000001,
+      "longitude": 32.262317,
+      "min_latitude": 47.749134,
+      "min_longitude": 29.749174,
+      "max_latitude": 49.1651489,
+      "max_longitude": 33.8891529
+    },
     "translations": {
       "en": "Kirovohradschyna",
       "af": "Kirowohrad-oblast",
@@ -855,23 +971,31 @@
       "uk": "Кіровоградська область",
       "ur": "کیرووہراد اوبلاست",
       "vi": "Kirovohrad",
-      "zh": "基洛夫格勒州"
+      "zh": "基洛夫格勒州",
+      "ceb": "Kirovohrads’ka Oblast’",
+      "sr_Latn": "Kirovogradska oblast",
+      "ccp": "𑄇𑄨𑄢𑄮𑄞𑄮𑄦𑄴𑄢𑄖𑄴𑄌𑄨𑄚",
+      "uz": "Kirovograd viloyati",
+      "bs": "Kirovogradska oblast",
+      "mk": "Кировоградска област"
     },
-    "geo": {
-      "latitude": 48.50793300000001,
-      "longitude": 32.262317,
-      "min_latitude": 47.749134,
-      "min_longitude": 29.749174,
-      "max_latitude": 49.1651489,
-      "max_longitude": 33.8891529
-    },
-    "name": "Kirovohrads'ka Oblast'"
+    "comments": null
   },
   "40": {
+    "name": "Sevastopol'",
+    "code": null,
     "unofficial_names": [
       "Sebastopol",
       "Sevastopol"
     ],
+    "geo": {
+      "latitude": 44.61665,
+      "longitude": 33.525367,
+      "min_latitude": 44.387115,
+      "min_longitude": 33.3785472,
+      "max_latitude": 44.841316,
+      "max_longitude": 33.897497
+    },
     "translations": {
       "en": "Sevastopol",
       "af": "Sewastopol",
@@ -930,23 +1054,37 @@
       "uk": "Севастополь",
       "ur": "سواستوپول",
       "vi": "Sevastopol",
-      "zh": "塞瓦斯托波爾"
+      "zh": "塞瓦斯托波爾",
+      "cy": "Sevastopol",
+      "ceb": "Sevastopol",
+      "sr_Latn": "Sevastopolj",
+      "yue_Hans": "塞凡堡",
+      "ccp": "𑄥𑄬𑄞𑄌𑄴𑄑𑄮𑄛𑄮𑄣𑄴",
+      "ky": "Севастополь",
+      "pa": "ਸੇਵਾਸਤੋਪੋਲ",
+      "yue": "塞凡堡",
+      "my": "ဆီပတ်စတိုပိုမြို့",
+      "uz": "Sevastopol",
+      "bs": "Sevastopolj",
+      "mk": "Севастопол"
     },
-    "geo": {
-      "latitude": 44.61665,
-      "longitude": 33.525367,
-      "min_latitude": 44.387115,
-      "min_longitude": 33.3785472,
-      "max_latitude": 44.841316,
-      "max_longitude": 33.897497
-    },
-    "name": "Sevastopol'"
+    "comments": null
   },
   "43": {
+    "name": "Respublika Krym",
+    "code": null,
     "unofficial_names": [
       "Crimea",
       "Krim"
     ],
+    "geo": {
+      "latitude": 44.952117,
+      "longitude": 34.102417,
+      "min_latitude": 44.3864399,
+      "min_longitude": 32.4792759,
+      "max_latitude": 46.2291611,
+      "max_longitude": 36.6467392
+    },
     "translations": {
       "en": "Crimea",
       "af": "Outonome Republiek van Krim",
@@ -998,24 +1136,41 @@
       "uk": "Автономна Республіка Крим",
       "ur": "خود مختار جمہوریہ کریمیا",
       "vi": "Cộng hòa Tự trị Krym",
-      "zh": "克里米亚自治共和国"
+      "zh": "克里米亚自治共和国",
+      "cy": "Gweriniaeth Hunanlywodraethol y Crimea",
+      "ceb": "Autonomous Republic of Crimea",
+      "sr_Latn": "Autonomna Republika Krim",
+      "yue_Hans": "克里米亚自治共和国",
+      "jv": "Republik Otonom Krimea",
+      "sq": "Republika Autonome e Krimesë",
+      "ccp": "𑄇𑄳𑄢𑄨𑄟𑄠",
+      "ga": "Poblacht Fhéinrialaitheach na Crimé",
+      "ky": "Крым Республикасы",
+      "kk": "Қырым Автономиялық Республикасы",
+      "yue": "克里米亞自治共和國",
+      "uz": "Qrim Muxtor Respublikasi",
+      "bs": "Autonomna Republika Krim",
+      "mk": "Автономна Република Крим",
+      "tk": "Awtonom Respublikasy Krym"
     },
-    "geo": {
-      "latitude": 44.952117,
-      "longitude": 34.102417,
-      "min_latitude": 44.3864399,
-      "min_longitude": 32.4792759,
-      "max_latitude": 46.2291611,
-      "max_longitude": 36.6467392
-    },
-    "name": "Respublika Krym"
+    "comments": null
   },
   "46": {
+    "name": "L'vivs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Lvivska",
       "Lvov",
       "Lʿviv"
     ],
+    "geo": {
+      "latitude": 49.839683,
+      "longitude": 24.029717,
+      "min_latitude": 48.7189779,
+      "min_longitude": 22.6406759,
+      "max_latitude": 50.6488831,
+      "max_longitude": 25.426912
+    },
     "translations": {
       "en": "Lvivshchyna",
       "af": "Lwif-oblast",
@@ -1069,25 +1224,33 @@
       "uk": "Львівська область",
       "ur": "لویئو اوبلاست",
       "vi": "Lviv",
-      "zh": "利沃夫州"
+      "zh": "利沃夫州",
+      "ceb": "L’vivs’ka Oblast’",
+      "sr_Latn": "Lavovska oblast",
+      "ccp": "𑄞𑄭𑄛𑄴𑄌𑄳𑄦𑄨𑄚",
+      "uz": "Lviv viloyati",
+      "bs": "Lavovska oblast",
+      "mk": "Лавовска област"
     },
-    "geo": {
-      "latitude": 49.839683,
-      "longitude": 24.029717,
-      "min_latitude": 48.7189779,
-      "min_longitude": 22.6406759,
-      "max_latitude": 50.6488831,
-      "max_longitude": 25.426912
-    },
-    "name": "L'vivs'ka Oblast'"
+    "comments": null
   },
   "48": {
+    "name": "Mykolaïvs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Mykolayivsk",
       "Mykolayivska",
       "Nikolajev",
       "Nikolayev"
     ],
+    "geo": {
+      "latitude": 46.975033,
+      "longitude": 31.994583,
+      "min_latitude": 46.36890890000001,
+      "min_longitude": 30.2075529,
+      "max_latitude": 48.2316741,
+      "max_longitude": 33.183647
+    },
     "translations": {
       "en": "Mykolayivschyna",
       "af": "Mikolajif-oblast",
@@ -1141,24 +1304,33 @@
       "uk": "Миколаївська область",
       "ur": "میکولائیو اوبلاست",
       "vi": "Mykolaiv",
-      "zh": "尼古拉耶夫州"
+      "zh": "尼古拉耶夫州",
+      "ceb": "Mykolayivs’ka Oblast’",
+      "sr_Latn": "Mikolajivska oblast",
+      "ccp": "𑄟𑄭𑄇𑄮𑄣𑄬𑄠𑄨𑄛𑄴𑄌𑄨𑄚",
+      "ky": "Николаев областы",
+      "uz": "Mikolayiv viloyati",
+      "bs": "Mikolajivska oblast",
+      "mk": "Николаевска област"
     },
-    "geo": {
-      "latitude": 46.975033,
-      "longitude": 31.994583,
-      "min_latitude": 46.36890890000001,
-      "min_longitude": 30.2075529,
-      "max_latitude": 48.2316741,
-      "max_longitude": 33.183647
-    },
-    "name": "Mykolaïvs'ka Oblast'"
+    "comments": null
   },
   "51": {
+    "name": "Odes'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Odesa",
       "Odeska",
       "Odessa"
     ],
+    "geo": {
+      "latitude": 46.484583,
+      "longitude": 30.7326,
+      "min_latitude": 45.204082,
+      "min_longitude": 28.211238,
+      "max_latitude": 48.233306,
+      "max_longitude": 31.305305
+    },
     "translations": {
       "en": "Odeshchyna",
       "af": "Odessa-oblast",
@@ -1213,23 +1385,32 @@
       "uk": "Одеська область",
       "ur": "اودیسا اوبلاست",
       "vi": "Odessa",
-      "zh": "敖德萨州"
+      "zh": "敖德萨州",
+      "ceb": "Odes’ka Oblast’",
+      "sr_Latn": "Odeška oblast",
+      "ccp": "𑄃𑄮𑄓𑄬𑄌𑄴𑄌𑄨𑄚",
+      "sl": "Odeška pokrajina",
+      "uz": "Odessa viloyati",
+      "bs": "Odeska oblast",
+      "mk": "Одеска област"
     },
-    "geo": {
-      "latitude": 46.484583,
-      "longitude": 30.7326,
-      "min_latitude": 45.204082,
-      "min_longitude": 28.211238,
-      "max_latitude": 48.233306,
-      "max_longitude": 31.305305
-    },
-    "name": "Odes'ka Oblast'"
+    "comments": null
   },
   "53": {
+    "name": "Poltavs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Poltava",
       "Poltavska"
     ],
+    "geo": {
+      "latitude": 49.58826699999999,
+      "longitude": 34.551417,
+      "min_latitude": 48.742984,
+      "min_longitude": 32.08674999999999,
+      "max_latitude": 50.5535039,
+      "max_longitude": 35.4904511
+    },
     "translations": {
       "en": "Poltavshchyna",
       "af": "Poltawa-oblast",
@@ -1284,25 +1465,34 @@
       "uk": "Полтавська область",
       "ur": "پولتاوا اوبلاست",
       "vi": "Poltava",
-      "zh": "波尔塔瓦州"
+      "zh": "波尔塔瓦州",
+      "ceb": "Poltavs’ka Oblast’",
+      "sr_Latn": "Poltavska oblast",
+      "ccp": "𑄛𑄮𑄣𑄴𑄑𑄛𑄴𑄌𑄳𑄦𑄨𑄚",
+      "kk": "Полтава облысы",
+      "uz": "Poltava viloyati",
+      "bs": "Poltavska oblast",
+      "mk": "Полтавска област"
     },
-    "geo": {
-      "latitude": 49.58826699999999,
-      "longitude": 34.551417,
-      "min_latitude": 48.742984,
-      "min_longitude": 32.08674999999999,
-      "max_latitude": 50.5535039,
-      "max_longitude": 35.4904511
-    },
-    "name": "Poltavs'ka Oblast'"
+    "comments": null
   },
   "56": {
+    "name": "Rivnens'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Rivne",
       "Rivnenska",
       "Rovno",
       "Równe"
     ],
+    "geo": {
+      "latitude": 50.6199,
+      "longitude": 26.251617,
+      "min_latitude": 50.0043561,
+      "min_longitude": 25.0837821,
+      "max_latitude": 51.9498591,
+      "max_longitude": 27.729513
+    },
     "translations": {
       "en": "Rivnenshchyna",
       "af": "Riwne-oblast",
@@ -1355,23 +1545,32 @@
       "uk": "Рівненська область",
       "ur": "ریونہ اوبلاست",
       "vi": "Rivne",
-      "zh": "羅夫諾州"
+      "zh": "羅夫諾州",
+      "ceb": "Rivnens’ka Oblast’",
+      "sr_Latn": "Rivanjska oblast",
+      "ccp": "𑄢𑄨𑄛𑄴𑄚𑄬𑄚𑄴𑄌𑄳𑄦𑄨𑄚",
+      "kk": "Ровно облысы",
+      "uz": "Rovno viloyati",
+      "bs": "Rivanjska oblast",
+      "mk": "Ровненска област"
     },
-    "geo": {
-      "latitude": 50.6199,
-      "longitude": 26.251617,
-      "min_latitude": 50.0043561,
-      "min_longitude": 25.0837821,
-      "max_latitude": 51.9498591,
-      "max_longitude": 27.729513
-    },
-    "name": "Rivnens'ka Oblast'"
+    "comments": null
   },
   "59": {
+    "name": "Sums'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Sumska",
       "Sumy"
     ],
+    "geo": {
+      "latitude": 50.9077,
+      "longitude": 34.7981,
+      "min_latitude": 50.109886,
+      "min_longitude": 32.943534,
+      "max_latitude": 52.367214,
+      "max_longitude": 35.6927141
+    },
     "translations": {
       "en": "Sumshchyna",
       "af": "Soemi-oblast",
@@ -1426,24 +1625,33 @@
       "uk": "Сумська область",
       "ur": "سومی اوبلاست",
       "vi": "Sumi",
-      "zh": "蘇梅州"
+      "zh": "蘇梅州",
+      "ceb": "Sums’ka Oblast’",
+      "sr_Latn": "Sumska oblast",
+      "ccp": "𑄥𑄟𑄴𑄌𑄳𑄦𑄨𑄚",
+      "ga": "Cúige Shumy",
+      "uz": "Sumi viloyati",
+      "bs": "Sumska oblast",
+      "mk": "Сумска област"
     },
-    "geo": {
-      "latitude": 50.9077,
-      "longitude": 34.7981,
-      "min_latitude": 50.109886,
-      "min_longitude": 32.943534,
-      "max_latitude": 52.367214,
-      "max_longitude": 35.6927141
-    },
-    "name": "Sums'ka Oblast'"
+    "comments": null
   },
   "61": {
+    "name": "Ternopil's'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Ternopil",
       "Ternopilska",
       "Ternopol"
     ],
+    "geo": {
+      "latitude": 49.553517,
+      "longitude": 25.594767,
+      "min_latitude": 48.507534,
+      "min_longitude": 24.718486,
+      "max_latitude": 50.267215,
+      "max_longitude": 26.4434051
+    },
     "translations": {
       "en": "Ternopilshchyna",
       "af": "Ternopil-oblast",
@@ -1498,25 +1706,33 @@
       "uk": "Тернопільська область",
       "ur": "تیرنوپیل اوبلاست",
       "vi": "Ternopil",
-      "zh": "捷爾諾波爾州"
+      "zh": "捷爾諾波爾州",
+      "ceb": "Ternopil’s’ka Oblast’",
+      "sr_Latn": "Ternopoljska oblast",
+      "ccp": "𑄑𑄬𑄢𑄴𑄚𑄮𑄛𑄨𑄣𑄴𑄌𑄳𑄦𑄨𑄚",
+      "uz": "Ternopol viloyati",
+      "bs": "Ternopiljska oblast",
+      "mk": "Тернополска област"
     },
-    "geo": {
-      "latitude": 49.553517,
-      "longitude": 25.594767,
-      "min_latitude": 48.507534,
-      "min_longitude": 24.718486,
-      "max_latitude": 50.267215,
-      "max_longitude": 26.4434051
-    },
-    "name": "Ternopil's'ka Oblast'"
+    "comments": null
   },
   "63": {
+    "name": "Kharkivs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Harkov",
       "Kharkiv",
       "Kharkivska",
       "Kharkov"
     ],
+    "geo": {
+      "latitude": 49.9935,
+      "longitude": 36.230383,
+      "min_latitude": 48.531375,
+      "min_longitude": 34.8563339,
+      "max_latitude": 50.459388,
+      "max_longitude": 38.09530609999999
+    },
     "translations": {
       "en": "Kharkivshchyna",
       "af": "Charkif-oblast",
@@ -1570,24 +1786,32 @@
       "uk": "Харківська область",
       "ur": "خارکیو اوبلاست",
       "vi": "Kharkiv",
-      "zh": "哈爾科夫州"
+      "zh": "哈爾科夫州",
+      "ceb": "Kharkivs’ka Oblast’",
+      "sr_Latn": "Harkovska oblast",
+      "ccp": "𑄈𑄢𑄴𑄇𑄨𑄛𑄴𑄌𑄳𑄦𑄨𑄚",
+      "uz": "Xarkiv viloyati",
+      "bs": "Harkivska oblast",
+      "mk": "Харковска област"
     },
-    "geo": {
-      "latitude": 49.9935,
-      "longitude": 36.230383,
-      "min_latitude": 48.531375,
-      "min_longitude": 34.8563339,
-      "max_latitude": 50.459388,
-      "max_longitude": 38.09530609999999
-    },
-    "name": "Kharkivs'ka Oblast'"
+    "comments": null
   },
   "65": {
+    "name": "Khersons'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Herson",
       "Kherson",
       "Khersonska"
     ],
+    "geo": {
+      "latitude": 46.635417,
+      "longitude": 32.616867,
+      "min_latitude": 45.7607072,
+      "min_longitude": 31.5124959,
+      "max_latitude": 47.600048,
+      "max_longitude": 35.281549
+    },
     "translations": {
       "en": "Khersonshchyna",
       "af": "Cherson-oblast",
@@ -1642,25 +1866,34 @@
       "uk": "Херсонська область",
       "ur": "خیرسون اوبلاست",
       "vi": "Kherson",
-      "zh": "赫尔松州"
+      "zh": "赫尔松州",
+      "ceb": "Khersons’ka Oblast’",
+      "sr_Latn": "Hersonska oblast",
+      "ccp": "𑄈𑄬𑄢𑄴𑄥𑄮𑄚𑄴𑄌𑄳𑄦𑄨𑄚",
+      "ga": "Cúige Kherson",
+      "uz": "Xerson viloyati",
+      "bs": "Hersonska oblast",
+      "mk": "Херсонска област"
     },
-    "geo": {
-      "latitude": 46.635417,
-      "longitude": 32.616867,
-      "min_latitude": 45.7607072,
-      "min_longitude": 31.5124959,
-      "max_latitude": 47.600048,
-      "max_longitude": 35.281549
-    },
-    "name": "Khersons'ka Oblast'"
+    "comments": null
   },
   "68": {
+    "name": "Khmel'nyts'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Hmelnickij",
       "Khmelnitsky",
       "Khmelnytska",
       "Khmelnytskyy"
     ],
+    "geo": {
+      "latitude": 49.422983,
+      "longitude": 26.987133,
+      "min_latitude": 48.4516599,
+      "min_longitude": 26.1329989,
+      "max_latitude": 50.594764,
+      "max_longitude": 27.8984479
+    },
     "translations": {
       "en": "Khmelnychchyna",
       "af": "Chmelnitski-oblast",
@@ -1714,23 +1947,32 @@
       "uk": "Хмельницька область",
       "ur": "خمیلنیتسکی اوبلاست",
       "vi": "Khmelnytskyi",
-      "zh": "赫梅利尼茨基州"
+      "zh": "赫梅利尼茨基州",
+      "ceb": "Khmel’nyts’ka Oblast’",
+      "sr_Latn": "Hmeljnička oblast",
+      "ccp": "𑄈𑄧𑄟𑄬𑄣𑄴𑄥𑄨𑄠𑄌𑄳𑄦𑄨𑄚",
+      "kk": "Хмельницкий облысы",
+      "uz": "Xmelnitskiy viloyati",
+      "bs": "Hmeljnička oblast",
+      "mk": "Хмелницка област"
     },
-    "geo": {
-      "latitude": 49.422983,
-      "longitude": 26.987133,
-      "min_latitude": 48.4516599,
-      "min_longitude": 26.1329989,
-      "max_latitude": 50.594764,
-      "max_longitude": 27.8984479
-    },
-    "name": "Khmel'nyts'ka Oblast'"
+    "comments": null
   },
   "71": {
+    "name": "Cherkas'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Cherkask",
       "Cherkassy"
     ],
+    "geo": {
+      "latitude": 49.444433,
+      "longitude": 32.059767,
+      "min_latitude": 48.4519151,
+      "min_longitude": 29.6063949,
+      "max_latitude": 50.228656,
+      "max_longitude": 32.8737981
+    },
     "translations": {
       "en": "Cherkashchyna",
       "af": "Tsjerkasi-oblast",
@@ -1785,24 +2027,35 @@
       "uk": "Черкаська область",
       "ur": "چیرکاسی اوبلاست",
       "vi": "Cherkasy",
-      "zh": "切爾卡瑟州"
+      "zh": "切爾卡瑟州",
+      "ceb": "Cherkas’ka Oblast’",
+      "sr_Latn": "Čerkaška oblast",
+      "ccp": "𑄌𑄬𑄢𑄴𑄇𑄌𑄴𑄌𑄨𑄚",
+      "ga": "Cúige Cherkasy",
+      "sl": "Čerkaška oblast",
+      "kk": "Черкассы облысы",
+      "uz": "Cherkasi viloyati",
+      "bs": "Čerkaška oblast",
+      "mk": "Черкаска област"
     },
-    "geo": {
-      "latitude": 49.444433,
-      "longitude": 32.059767,
-      "min_latitude": 48.4519151,
-      "min_longitude": 29.6063949,
-      "max_latitude": 50.228656,
-      "max_longitude": 32.8737981
-    },
-    "name": "Cherkas'ka Oblast'"
+    "comments": null
   },
   "74": {
+    "name": "Chernihivs'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Chernigov",
       "Chernihiv",
       "Černigov"
     ],
+    "geo": {
+      "latitude": 51.4982,
+      "longitude": 31.28935,
+      "min_latitude": 50.345535,
+      "min_longitude": 30.49716799999999,
+      "max_latitude": 52.379379,
+      "max_longitude": 33.5009611
+    },
     "translations": {
       "en": "Chernihivshchyna",
       "af": "Tsjernihif-oblast",
@@ -1856,19 +2109,19 @@
       "uk": "Чернігівська область",
       "ur": "چیرنیہیو اوبلاست",
       "vi": "Chernihiv",
-      "zh": "切爾尼戈夫州"
+      "zh": "切爾尼戈夫州",
+      "ceb": "Chernihivs’ka Oblast’",
+      "sr_Latn": "Černigivska oblast",
+      "ccp": "𑄌𑄬𑄢𑄴𑄚𑄨𑄦𑄨𑄛𑄴𑄌𑄳𑄦𑄨𑄚",
+      "uz": "Chernigiv viloyati",
+      "bs": "Černigivska oblast",
+      "mk": "Черниговска област"
     },
-    "geo": {
-      "latitude": 51.4982,
-      "longitude": 31.28935,
-      "min_latitude": 50.345535,
-      "min_longitude": 30.49716799999999,
-      "max_latitude": 52.379379,
-      "max_longitude": 33.5009611
-    },
-    "name": "Chernihivs'ka Oblast'"
+    "comments": null
   },
   "77": {
+    "name": "Chernivets'ka Oblast'",
+    "code": null,
     "unofficial_names": [
       "Cernăuţi",
       "Chernivtsi",
@@ -1878,6 +2131,14 @@
       "Tschernowitz",
       "Černovcy"
     ],
+    "geo": {
+      "latitude": 48.291683,
+      "longitude": 25.935217,
+      "min_latitude": 47.72516599999999,
+      "min_longitude": 24.908172,
+      "max_latitude": 48.6759141,
+      "max_longitude": 27.533325
+    },
     "translations": {
       "en": "Chernivtsi Oblast",
       "af": "Tsjerniftsi-oblast",
@@ -1931,17 +2192,16 @@
       "uk": "Чернівецька область",
       "ur": "چیرنیوتسی اوبلاست",
       "vi": "Chernivtsi",
-      "zh": "切爾諾夫策州"
+      "zh": "切爾諾夫策州",
+      "ceb": "Chernivets’ka Oblast’",
+      "sr_Latn": "Černivačka oblast",
+      "ccp": "𑄌𑄬𑄢𑄴𑄚𑄨𑄛𑄴𑄑𑄴𑄥𑄨 𑄃𑄧𑄛𑄴𑄣𑄌𑄴𑄑𑄴",
+      "kk": "Черновцы облысы",
+      "uz": "Chernivsi viloyati",
+      "bs": "Černivačka oblast",
+      "mk": "Черновечка област"
     },
-    "geo": {
-      "latitude": 48.291683,
-      "longitude": 25.935217,
-      "min_latitude": 47.72516599999999,
-      "min_longitude": 24.908172,
-      "max_latitude": 48.6759141,
-      "max_longitude": 27.533325
-    },
-    "name": "Chernivets'ka Oblast'"
+    "comments": null
   }
 }
 

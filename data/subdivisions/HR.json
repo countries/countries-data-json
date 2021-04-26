@@ -1,8 +1,18 @@
 {
   "01": {
+    "name": "Zagrebačka županija",
+    "code": null,
     "unofficial_names": [
       "Zagreb County"
     ],
+    "geo": {
+      "latitude": 45.8706612,
+      "longitude": 16.395491,
+      "min_latitude": 45.4676982,
+      "min_longitude": 15.3262593,
+      "max_latitude": 46.0695047,
+      "max_longitude": 16.7137865
+    },
     "translations": {
       "en": "Zagreb County",
       "ar": "مقاطعة زغرب",
@@ -51,22 +61,32 @@
       "uk": "Загребська жупанія",
       "ur": "زگریب کاؤنٹی",
       "vi": "Zagreb",
-      "zh": "薩格勒布縣"
+      "zh": "薩格勒布縣",
+      "lv": "Zagrebas župānija",
+      "ceb": "Zagreb County",
+      "sr_Latn": "Zagrebačka županija",
+      "sq": "Zhupania e Zagrebit",
+      "ccp": "𑄎𑄉𑄳𑄢𑄬𑄛𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ga": "Contae Ságrab",
+      "bs": "Zagrebačka županija",
+      "mk": "Загрепска жупанија"
     },
-    "geo": {
-      "latitude": 45.8706612,
-      "longitude": 16.395491,
-      "min_latitude": 45.4676982,
-      "min_longitude": 15.3262593,
-      "max_latitude": 46.0695047,
-      "max_longitude": 16.7137865
-    },
-    "name": "Zagrebačka županija"
+    "comments": null
   },
   "02": {
+    "name": "Krapinsko-zagorska županija",
+    "code": null,
     "unofficial_names": [
       "Krapina-Zagorje"
     ],
+    "geo": {
+      "latitude": 46.10133930000001,
+      "longitude": 15.8809693,
+      "min_latitude": 45.9023158,
+      "min_longitude": 15.5954704,
+      "max_latitude": 46.2800141,
+      "max_longitude": 16.2571245
+    },
     "translations": {
       "en": "Krapina-Zagorje",
       "ar": "مقاطعة كرابينا زاغوريه",
@@ -111,22 +131,32 @@
       "tr": "Krapina-Zagorje",
       "uk": "Крапинсько-Загорська жупанія",
       "ur": "کراپینا-زاکوریے کاؤنٹی",
-      "vi": "Hạt Krapina-Zagorje"
+      "vi": "Hạt Krapina-Zagorje",
+      "lv": "Krapinas-Zagorjes župānija",
+      "ceb": "Krapinsko-Zagorska Županija",
+      "sr_Latn": "Krapinsko-zagorska županija",
+      "zh": "克拉皮納-扎戈列縣",
+      "sq": "Zhupania e Zagorës dhe Krapinës",
+      "ccp": "𑄇𑄳𑄢𑄛𑄨𑄚-𑄎𑄉𑄮𑄢𑄴𑄎𑄬",
+      "bs": "Krapinsko-zagorska županija",
+      "mk": "Крапинско-загорска жупанија"
     },
-    "geo": {
-      "latitude": 46.10133930000001,
-      "longitude": 15.8809693,
-      "min_latitude": 45.9023158,
-      "min_longitude": 15.5954704,
-      "max_latitude": 46.2800141,
-      "max_longitude": 16.2571245
-    },
-    "name": "Krapinsko-zagorska županija"
+    "comments": null
   },
   "03": {
+    "name": "Sisačko-moslavačka županija",
+    "code": null,
     "unofficial_names": [
       "Sisak-Moslavina"
     ],
+    "geo": {
+      "latitude": 45.3837926,
+      "longitude": 16.5380995,
+      "min_latitude": 44.9959092,
+      "min_longitude": 15.7676525,
+      "max_latitude": 45.6699168,
+      "max_longitude": 17.1949134
+    },
     "translations": {
       "en": "Sisak-Moslavina",
       "ar": "مقاطعة سيساك-موسلافينا",
@@ -170,22 +200,34 @@
       "tr": "Sisak-Moslavina",
       "uk": "Сісацько-Мославінська жупанія",
       "ur": "سیساک-موسلاوینا کاؤنٹی",
-      "vi": "Hạt Sisak-Moslavina"
+      "vi": "Hạt Sisak-Moslavina",
+      "lv": "Sisakas-Moslavinas župānija",
+      "ceb": "Sisačko-Moslavačka Županija",
+      "sr_Latn": "Sisačko-moslavačka županija",
+      "zh": "錫薩克-莫斯拉維納縣",
+      "fa": "شهرستان سیساک-موسلاوینا",
+      "sq": "Zhupania e Sisakut dhe Mosllovaçës",
+      "ccp": "𑄥𑄨𑄥𑄇𑄴-𑄟𑄮𑄌𑄴𑄣𑄞𑄨𑄚",
+      "he": "מחוז סיסאק-מוסלאבינה",
+      "bs": "Sisačko-moslavačka županija",
+      "mk": "Сисачко-мославачка жупанија"
     },
-    "geo": {
-      "latitude": 45.3837926,
-      "longitude": 16.5380995,
-      "min_latitude": 44.9959092,
-      "min_longitude": 15.7676525,
-      "max_latitude": 45.6699168,
-      "max_longitude": 17.1949134
-    },
-    "name": "Sisačko-moslavačka županija"
+    "comments": null
   },
   "04": {
+    "name": "Karlovačka županija",
+    "code": null,
     "unofficial_names": [
       "Karlovac"
     ],
+    "geo": {
+      "latitude": 45.2389445,
+      "longitude": 15.3980067,
+      "min_latitude": 44.88255729999999,
+      "min_longitude": 14.961508,
+      "max_latitude": 45.7628058,
+      "max_longitude": 15.9247762
+    },
     "translations": {
       "en": "Karlovac",
       "ar": "مقاطعة كارلوفاتش",
@@ -232,22 +274,33 @@
       "tr": "Karlovac Bölgesi",
       "uk": "Карловацька жупанія",
       "ur": "کارلوواتس کاؤنٹی",
-      "vi": "Hạt Karlovac"
+      "vi": "Hạt Karlovac",
+      "lv": "Karlovacas župānija",
+      "ceb": "Karlovačka Županija",
+      "sr_Latn": "Karlovačka županija",
+      "zh": "卡爾洛瓦茨縣",
+      "sq": "Zhupania e Karllovcit",
+      "ccp": "𑄇𑄢𑄴𑄣𑄮𑄞𑄇𑄴",
+      "be": "Карлавачка",
+      "bs": "Karlovačka županija",
+      "mk": "Карловачка жупанија"
     },
-    "geo": {
-      "latitude": 45.2389445,
-      "longitude": 15.3980067,
-      "min_latitude": 44.88255729999999,
-      "min_longitude": 14.961508,
-      "max_latitude": 45.7628058,
-      "max_longitude": 15.9247762
-    },
-    "name": "Karlovačka županija"
+    "comments": null
   },
   "05": {
+    "name": "Varaždinska županija",
+    "code": null,
     "unofficial_names": [
       "Varaždin"
     ],
+    "geo": {
+      "latitude": 46.23174729999999,
+      "longitude": 16.3360558,
+      "min_latitude": 46.0103401,
+      "min_longitude": 15.8765333,
+      "max_latitude": 46.4048343,
+      "max_longitude": 16.7739716
+    },
     "translations": {
       "en": "Varaždin",
       "ar": "مقاطعة فرازدين",
@@ -294,22 +347,33 @@
       "tr": "Varaždin Bölgesi",
       "uk": "Вараждинська жупанія",
       "ur": "واراژدن کاؤنٹی",
-      "vi": "Hạt Varazdin"
+      "vi": "Hạt Varazdin",
+      "lv": "Varaždinas župānija",
+      "ceb": "Varaždinska Županija",
+      "sr_Latn": "Varaždinska županija",
+      "zh": "瓦拉日丁縣",
+      "sq": "Zhupania e Varazhdinit",
+      "ccp": "𑄞𑄢𑄌𑄴𑄓𑄨𑄚𑄴",
+      "ga": "Contae Varaždin",
+      "bs": "Varaždinska županija",
+      "mk": "Вараждинска жупанија"
     },
-    "geo": {
-      "latitude": 46.23174729999999,
-      "longitude": 16.3360558,
-      "min_latitude": 46.0103401,
-      "min_longitude": 15.8765333,
-      "max_latitude": 46.4048343,
-      "max_longitude": 16.7739716
-    },
-    "name": "Varaždinska županija"
+    "comments": null
   },
   "06": {
+    "name": "Koprivničko-križevačka županija",
+    "code": null,
     "unofficial_names": [
       "Koprivnica-Križevci"
     ],
+    "geo": {
+      "latitude": 46.1568919,
+      "longitude": 16.8390826,
+      "min_latitude": 45.8802736,
+      "min_longitude": 16.3417055,
+      "max_latitude": 46.3551961,
+      "max_longitude": 17.3057121
+    },
     "translations": {
       "en": "Koprivnica-Križevci",
       "ar": "مقاطعة كوبريفنيكا-كريزفتسي",
@@ -353,22 +417,33 @@
       "tr": "Koprivnica-Križevci",
       "uk": "Копривницько-Крижевецька жупанія",
       "ur": "کوپریونیتسا-کریژیوتسی کاؤنٹی",
-      "vi": "Hạt Koprivnica-Krizevci"
+      "vi": "Hạt Koprivnica-Krizevci",
+      "lv": "Koprivnica Križevci župānija",
+      "cy": "Koprivnica-Križevci County",
+      "ceb": "Koprivničko-Križevačka Županija",
+      "sr_Latn": "Koprivničko-križevačka županija",
+      "zh": "科普里夫尼察-克里熱夫齊縣",
+      "sq": "Zhupania e Koprivnicës dhe Krizhevcit",
+      "ccp": "𑄇𑄮𑄛𑄳𑄢𑄨𑄛𑄴𑄚𑄨𑄇- 𑄇𑄳𑄢𑄨𑄎𑄬𑄛𑄴𑄥𑄭",
+      "bs": "Koprivničko-križevačka županija",
+      "mk": "Копривничко-крижевачка жупанија"
     },
-    "geo": {
-      "latitude": 46.1568919,
-      "longitude": 16.8390826,
-      "min_latitude": 45.8802736,
-      "min_longitude": 16.3417055,
-      "max_latitude": 46.3551961,
-      "max_longitude": 17.3057121
-    },
-    "name": "Koprivničko-križevačka županija"
+    "comments": null
   },
   "07": {
+    "name": "Bjelovarsko-bilogorska županija",
+    "code": null,
     "unofficial_names": [
       "Bjelovar-Bilogora"
     ],
+    "geo": {
+      "latitude": 45.7809992,
+      "longitude": 16.9936575,
+      "min_latitude": 45.4661945,
+      "min_longitude": 16.4888635,
+      "max_latitude": 46.088761,
+      "max_longitude": 17.4986747
+    },
     "translations": {
       "en": "Bjelovar-Bilogora",
       "ar": "مقاطعة بيلوفار-بيلوغورا",
@@ -415,22 +490,32 @@
       "tr": "Bjelovar-Bilogora",
       "uk": "Беловарсько-Білогорська жупанія",
       "ur": "بیئلووار-بیلوگورا کاؤنٹی",
-      "vi": "Bjelovar-Bilogora Hạt"
+      "vi": "Bjelovar-Bilogora Hạt",
+      "lv": "Bjelovaras-Bilogoras župānija",
+      "ceb": "Bjelovarsko-Bilogorska Županija",
+      "sr_Latn": "Bjelovarsko-bilogorska županija",
+      "zh": "別洛瓦爾-比洛戈拉縣",
+      "sq": "Zhupania e Bjellovarit dhe Billogorit",
+      "ccp": "𑄎𑄬𑄣𑄮𑄞𑄢𑄴-𑄝𑄭𑄣𑄮𑄉𑄮𑄢",
+      "bs": "Bjelovarsko-bilogorska županija",
+      "mk": "Бјеловарско-билогорска жупанија"
     },
-    "geo": {
-      "latitude": 45.7809992,
-      "longitude": 16.9936575,
-      "min_latitude": 45.4661945,
-      "min_longitude": 16.4888635,
-      "max_latitude": 46.088761,
-      "max_longitude": 17.4986747
-    },
-    "name": "Bjelovarsko-bilogorska županija"
+    "comments": null
   },
   "08": {
+    "name": "Primorsko-goranska županija",
+    "code": null,
     "unofficial_names": [
       "Primorje-Gorski Kotar"
     ],
+    "geo": {
+      "latitude": 45.31739959999999,
+      "longitude": 14.8167466,
+      "min_latitude": 44.4406968,
+      "min_longitude": 14.1078905,
+      "max_latitude": 45.67344840000001,
+      "max_longitude": 15.2352703
+    },
     "translations": {
       "en": "Primorje-Gorski Kotar",
       "ar": "مقاطعة بريموريه-غورسكي كوتار",
@@ -477,22 +562,33 @@
       "tr": "Primorje-Gorski Kotar",
       "uk": "Приморсько-Ґоранська жупанія",
       "ur": "پریموریے-گورسکی کوتار کاؤنٹی",
-      "vi": "Hạt Primorje-Gorski Kotar"
+      "vi": "Hạt Primorje-Gorski Kotar",
+      "lv": "Primorskas-Goranskas župānija",
+      "ceb": "Primorsko-Goranska Županija",
+      "sr_Latn": "Primorsko-goranska županija",
+      "zh": "濱海和山區縣",
+      "fa": "استان پریموری-گورسکی",
+      "sq": "Zhupania bregdetaro-malore",
+      "ccp": "𑄛𑄳𑄢𑄭𑄟𑄮𑄢𑄴𑄎𑄬-𑄉𑄮𑄢𑄴𑄇𑄨 𑄇𑄮𑄑𑄢𑄴",
+      "bs": "Primorsko-goranska županija",
+      "mk": "Приморско-горска жупанија"
     },
-    "geo": {
-      "latitude": 45.31739959999999,
-      "longitude": 14.8167466,
-      "min_latitude": 44.4406968,
-      "min_longitude": 14.1078905,
-      "max_latitude": 45.67344840000001,
-      "max_longitude": 15.2352703
-    },
-    "name": "Primorsko-goranska županija"
+    "comments": null
   },
   "09": {
+    "name": "Ličko-senjska županija",
+    "code": null,
     "unofficial_names": [
       "Lika-Senj"
     ],
+    "geo": {
+      "latitude": 44.6192218,
+      "longitude": 15.4701608,
+      "min_latitude": 44.2712303,
+      "min_longitude": 14.6828545,
+      "max_latitude": 45.1228954,
+      "max_longitude": 16.1408169
+    },
     "translations": {
       "en": "Lika-Senj",
       "ar": "مقاطعة ليكا سني",
@@ -537,22 +633,34 @@
       "tr": "Lika-Senj",
       "uk": "Ліцько-Сенська жупанія",
       "ur": "لیکا-سینی کاؤنٹی",
-      "vi": "Hạt Lika-Senj"
+      "vi": "Hạt Lika-Senj",
+      "lv": "Likas-Seņas župānija",
+      "ceb": "Ličko-Senjska Županija",
+      "sr_Latn": "Ličko-senjska županija",
+      "zh": "利卡-塞尼縣",
+      "fa": "شهرستان لیکا-سنی",
+      "sq": "Zhupania e Likës dhe Senjit",
+      "ccp": "𑄣𑄨𑄇-𑄥𑄚𑄴𑄎𑄨",
+      "he": "מחוז ליקה-סני",
+      "bs": "Ličko-senjska županija",
+      "mk": "Личко-сењска жупанија"
     },
-    "geo": {
-      "latitude": 44.6192218,
-      "longitude": 15.4701608,
-      "min_latitude": 44.2712303,
-      "min_longitude": 14.6828545,
-      "max_latitude": 45.1228954,
-      "max_longitude": 16.1408169
-    },
-    "name": "Ličko-senjska županija"
+    "comments": null
   },
   "10": {
+    "name": "Virovitičko-podravska županija",
+    "code": null,
     "unofficial_names": [
       "Virovitica-Podravina"
     ],
+    "geo": {
+      "latitude": 45.6557985,
+      "longitude": 17.7932472,
+      "min_latitude": 45.4725689,
+      "min_longitude": 17.1197372,
+      "max_latitude": 45.99621200000001,
+      "max_longitude": 18.0678268
+    },
     "translations": {
       "en": "Virovitica-Podravina",
       "ar": "مقاطعة فيروفيتيكا-بودرافينا",
@@ -597,22 +705,33 @@
       "tr": "Virovitica-Podravina",
       "uk": "Вировитицько-Подравська жупанія",
       "ur": "ویروسیتیتسا-پودراوینا کاؤنٹی",
-      "vi": "Hạt Virovitica-Podravina"
+      "vi": "Hạt Virovitica-Podravina",
+      "lv": "Viroviticas–Podravinas župānija",
+      "ceb": "Virovitičko-Podravska Županija",
+      "sr_Latn": "Virovitičko-podravska županija",
+      "zh": "維羅維蒂察-波德拉維納縣",
+      "fa": "شهرستان ویروویتیتسا-پودراوینا",
+      "sq": "Zhupania e Viroviticës dhe Podravkës",
+      "ccp": "𑄞𑄭𑄢𑄮𑄞𑄨𑄑𑄨𑄇-𑄛𑄧𑄓𑄳𑄢𑄞𑄨𑄚",
+      "bs": "Virovitičko-podravska županija",
+      "mk": "Вировитичко-подравска жупанија"
     },
-    "geo": {
-      "latitude": 45.6557985,
-      "longitude": 17.7932472,
-      "min_latitude": 45.4725689,
-      "min_longitude": 17.1197372,
-      "max_latitude": 45.99621200000001,
-      "max_longitude": 18.0678268
-    },
-    "name": "Virovitičko-podravska županija"
+    "comments": null
   },
   "11": {
+    "name": "Požeško-slavonska županija",
+    "code": null,
     "unofficial_names": [
       "Požega-Slavonia"
     ],
+    "geo": {
+      "latitude": 45.3417868,
+      "longitude": 17.8114359,
+      "min_latitude": 45.1823306,
+      "min_longitude": 16.9284931,
+      "max_latitude": 45.5801629,
+      "max_longitude": 18.1141807
+    },
     "translations": {
       "en": "Požega-Slavonia",
       "ar": "مقاطعة بوزيغا-سلافونيا",
@@ -656,22 +775,33 @@
       "tr": "Požega-Slavonija",
       "uk": "Пожезько-Славонська жупанія",
       "ur": "پوژیگا-سلاونیا کاؤنٹی",
-      "vi": "Hạt Pozega-Slavonia"
+      "vi": "Hạt Pozega-Slavonia",
+      "lv": "Požegas-Slavonskas župānija",
+      "ceb": "Požeško-Slavonska Županija",
+      "sr_Latn": "Požeško-slavonska županija",
+      "zh": "波熱加-斯拉沃尼亞縣",
+      "fa": "شهرستان پوژگا-اسلاونیا",
+      "ccp": "𑄛𑄧𑄎𑄬𑄉-𑄥𑄳𑄣𑄞𑄮𑄚𑄨𑄠",
+      "be": "Пожажска-Славонская жупанія",
+      "bs": "Požeško-slavonska županija",
+      "mk": "Пожешко-славонска жупанија"
     },
-    "geo": {
-      "latitude": 45.3417868,
-      "longitude": 17.8114359,
-      "min_latitude": 45.1823306,
-      "min_longitude": 16.9284931,
-      "max_latitude": 45.5801629,
-      "max_longitude": 18.1141807
-    },
-    "name": "Požeško-slavonska županija"
+    "comments": null
   },
   "12": {
+    "name": "Brodsko-posavska županija",
+    "code": null,
     "unofficial_names": [
       "Brod-Posavina"
     ],
+    "geo": {
+      "latitude": 45.2637951,
+      "longitude": 17.3264562,
+      "min_latitude": 45.0434571,
+      "min_longitude": 17.0736625,
+      "max_latitude": 45.39235980000001,
+      "max_longitude": 18.5746296
+    },
     "translations": {
       "en": "Brod-Posavina",
       "ar": "مقاطعة برود-بوسافينا",
@@ -718,22 +848,32 @@
       "tr": "Brod-Posavina",
       "uk": "Бродсько-Посавська жупанія",
       "ur": "برود-پوساوینا کاؤنٹی",
-      "vi": "Hạt Brod-Posavina"
+      "vi": "Hạt Brod-Posavina",
+      "lv": "Brodas-Posavinas župānija",
+      "ceb": "Brodsko-Posavska Županija",
+      "sr_Latn": "Brodsko-posavska županija",
+      "zh": "布羅德-波薩維納縣",
+      "sq": "Zhupania e Brodit dhe Posavinës",
+      "ccp": "𑄝𑄳𑄢𑄖𑄴-𑄛𑄮𑄥𑄞𑄨𑄚",
+      "bs": "Brodsko-posavska županija",
+      "mk": "Бродско-посавска жупанија"
     },
-    "geo": {
-      "latitude": 45.2637951,
-      "longitude": 17.3264562,
-      "min_latitude": 45.0434571,
-      "min_longitude": 17.0736625,
-      "max_latitude": 45.39235980000001,
-      "max_longitude": 18.5746296
-    },
-    "name": "Brodsko-posavska županija"
+    "comments": null
   },
   "13": {
+    "name": "Zadarska županija",
+    "code": null,
     "unofficial_names": [
       "Zadar"
     ],
+    "geo": {
+      "latitude": 44.146939,
+      "longitude": 15.6164943,
+      "min_latitude": 43.8228067,
+      "min_longitude": 14.5670193,
+      "max_latitude": 44.5384474,
+      "max_longitude": 16.2202414
+    },
     "translations": {
       "en": "Zadar",
       "ar": "مقاطعة زادار",
@@ -782,22 +922,35 @@
       "tr": "Zadar Bölgesi",
       "uk": "Задарська жупанія",
       "ur": "زدار کاؤنٹی",
-      "vi": "Hạt Zadar"
+      "vi": "Hạt Zadar",
+      "lv": "Zadaras župānija",
+      "ceb": "Zadarska Županija",
+      "sr_Latn": "Zadarska županija",
+      "zh": "扎達爾縣",
+      "yue_Hans": "扎达尔县",
+      "sq": "Zhupania e Zarës",
+      "ccp": "𑄎𑄓𑄢𑄴",
+      "he": "מחוז זאדר",
+      "yue": "扎達爾縣",
+      "bs": "Zadarska županija",
+      "mk": "Задарска жупанија"
     },
-    "geo": {
-      "latitude": 44.146939,
-      "longitude": 15.6164943,
-      "min_latitude": 43.8228067,
-      "min_longitude": 14.5670193,
-      "max_latitude": 44.5384474,
-      "max_longitude": 16.2202414
-    },
-    "name": "Zadarska županija"
+    "comments": null
   },
   "14": {
+    "name": "Osječko-baranjska županija",
+    "code": null,
     "unofficial_names": [
       "Osijek-Baranja"
     ],
+    "geo": {
+      "latitude": 45.5576428,
+      "longitude": 18.3942141,
+      "min_latitude": 45.2042832,
+      "min_longitude": 17.8840624,
+      "max_latitude": 45.9217976,
+      "max_longitude": 19.1025689
+    },
     "translations": {
       "en": "Osijek-Baranja",
       "ar": "مقاطعة أوسييك-بارانيا",
@@ -843,22 +996,32 @@
       "tr": "Osijek-Baranya",
       "uk": "Осієцько-Баранська жупанія",
       "ur": "اوسیئک-بارانیا کاؤنٹی",
-      "vi": "Hạt Osijek-Baranja"
+      "vi": "Hạt Osijek-Baranja",
+      "lv": "Osijekas-Baranjas župānija",
+      "ceb": "Osječko-Baranjska Županija",
+      "sr_Latn": "Osječko-baranjska županija",
+      "zh": "奧西耶克-巴拉尼亞縣",
+      "sq": "Zhupania e Osijekut dhe Baranjës",
+      "ccp": "𑄃𑄧𑄥𑄨𑄎𑄬𑄇𑄴-𑄝𑄢𑄚𑄴𑄎",
+      "bs": "Osječko-baranjska županija",
+      "mk": "Осиечко-барањска жупанија"
     },
-    "geo": {
-      "latitude": 45.5576428,
-      "longitude": 18.3942141,
-      "min_latitude": 45.2042832,
-      "min_longitude": 17.8840624,
-      "max_latitude": 45.9217976,
-      "max_longitude": 19.1025689
-    },
-    "name": "Osječko-baranjska županija"
+    "comments": null
   },
   "15": {
+    "name": "Šibensko-kninska županija",
+    "code": null,
     "unofficial_names": [
       "Šibenik-Knin"
     ],
+    "geo": {
+      "latitude": 43.9281485,
+      "longitude": 16.1037694,
+      "min_latitude": 43.4868297,
+      "min_longitude": 15.2068282,
+      "max_latitude": 44.2164979,
+      "max_longitude": 16.5426211
+    },
     "translations": {
       "en": "Šibenik-Knin",
       "ar": "مقاطعة شيبينيك-كنين",
@@ -904,22 +1067,33 @@
       "tr": "Šibenik-Knin",
       "uk": "Шибеницько-Кнінська жупанія",
       "ur": "شیبینک-کنین کاؤنٹی",
-      "vi": "Hạt Sibenik-Knin"
+      "vi": "Hạt Sibenik-Knin",
+      "lv": "Šibenikas-Kninas županija",
+      "ceb": "Šibensko-Kninska Županija",
+      "sr_Latn": "Šibensko-kninska županija",
+      "zh": "希貝尼克-克寧縣",
+      "fa": "شهرستان شیبنیک-کنین",
+      "sq": "Zhupania e Kninit dhe Shibenikut",
+      "ccp": "𑄥𑄨𑄝𑄬𑄚𑄨𑄇𑄴-𑄚𑄨𑄚𑄴",
+      "bs": "Šibensko-kninska županija",
+      "mk": "Шибенско-книнска жупанија"
     },
-    "geo": {
-      "latitude": 43.9281485,
-      "longitude": 16.1037694,
-      "min_latitude": 43.4868297,
-      "min_longitude": 15.2068282,
-      "max_latitude": 44.2164979,
-      "max_longitude": 16.5426211
-    },
-    "name": "Šibensko-kninska županija"
+    "comments": null
   },
   "16": {
+    "name": "Vukovarsko-srijemska županija",
+    "code": null,
     "unofficial_names": [
       "Vukovar-Sirmium"
     ],
+    "geo": {
+      "latitude": 45.1773552,
+      "longitude": 18.8053527,
+      "min_latitude": 44.8497502,
+      "min_longitude": 18.4948404,
+      "max_latitude": 45.4856329,
+      "max_longitude": 19.4480523
+    },
     "translations": {
       "en": "Vukovar-Syrmia",
       "ar": "مقاطعة فوكوفار-سيرميا",
@@ -965,22 +1139,32 @@
       "tr": "Vukovar-Syrmia",
       "uk": "Вуковарсько-Сремська жупанія",
       "ur": "ووکووار-سریئیم کاؤنٹی",
-      "vi": "Vukovar-Syrmia Hạt"
+      "vi": "Vukovar-Syrmia Hạt",
+      "lv": "Vukovaras-Srijemas župānija",
+      "ceb": "Vukovarsko-Srijemska Županija",
+      "sr_Latn": "Vukovarsko-srijemska županija",
+      "zh": "武科瓦爾-斯里耶姆縣",
+      "sq": "Zhupania e Vukovarit dhe Sremit",
+      "ccp": "𑄞𑄪𑄇𑄮𑄞𑄢𑄴-𑄥𑄨𑄢𑄴𑄟𑄨𑄠",
+      "bs": "Vukovarsko-srijemska županija",
+      "mk": "Вуковарско-сремска жупанија"
     },
-    "geo": {
-      "latitude": 45.1773552,
-      "longitude": 18.8053527,
-      "min_latitude": 44.8497502,
-      "min_longitude": 18.4948404,
-      "max_latitude": 45.4856329,
-      "max_longitude": 19.4480523
-    },
-    "name": "Vukovarsko-srijemska županija"
+    "comments": null
   },
   "17": {
+    "name": "Splitsko-dalmatinska županija",
+    "code": null,
     "unofficial_names": [
       "Split-Dalmatia"
     ],
+    "geo": {
+      "latitude": 43.5240328,
+      "longitude": 16.8178377,
+      "min_latitude": 42.38713629999999,
+      "min_longitude": 15.709013,
+      "max_latitude": 43.9736159,
+      "max_longitude": 17.4510685
+    },
     "translations": {
       "en": "Split-Dalmatia",
       "ar": "مقاطعة سبليت-دالماسيا",
@@ -1026,22 +1210,33 @@
       "tr": "Split-Dalmaçya",
       "uk": "Сплітсько-Далматинська жупанія",
       "ur": "سپلیت-دالماتیا کاؤنٹی",
-      "vi": "Hạt Split-Dalmatia"
+      "vi": "Hạt Split-Dalmatia",
+      "lv": "Splitas-Dalmācijas župānija",
+      "ceb": "Splitsko-Dalmatinska Županija",
+      "sr_Latn": "Splitsko-dalmatinska županija",
+      "zh": "斯普利特-達爾馬提亞縣",
+      "fa": "شهرستان اسپلیت-دالماسی",
+      "sq": "Zhupania e Splitit dhe e Dalmacisë",
+      "ccp": "𑄃𑄨𑄌𑄴𑄛𑄳𑄣𑄨𑄖𑄴-𑄓𑄣𑄴𑄟𑄑𑄨𑄠",
+      "bs": "Splitsko-dalmatinska županija",
+      "mk": "Сплитско-далматинска жупанија"
     },
-    "geo": {
-      "latitude": 43.5240328,
-      "longitude": 16.8178377,
-      "min_latitude": 42.38713629999999,
-      "min_longitude": 15.709013,
-      "max_latitude": 43.9736159,
-      "max_longitude": 17.4510685
-    },
-    "name": "Splitsko-dalmatinska županija"
+    "comments": null
   },
   "18": {
+    "name": "Istarska županija",
+    "code": null,
     "unofficial_names": [
       "Istria"
     ],
+    "geo": {
+      "latitude": 45.1286455,
+      "longitude": 13.901542,
+      "min_latitude": 44.75755170000001,
+      "min_longitude": 13.4896865,
+      "max_latitude": 45.5196036,
+      "max_longitude": 14.2285896
+    },
     "translations": {
       "en": "Istria",
       "ar": "مقاطعة إستريا",
@@ -1089,22 +1284,32 @@
       "tr": "İstriya",
       "uk": "Істрійська жупанія",
       "ur": "استریا کاؤنٹی",
-      "vi": "Hạt Istria"
+      "vi": "Hạt Istria",
+      "lv": "Istrijas župānija",
+      "ceb": "Istarska Županija",
+      "sr_Latn": "Istarska županija",
+      "zh": "伊斯特拉縣",
+      "sq": "Zhupania e Istrës",
+      "ccp": "𑄃𑄨𑄌𑄴𑄑𑄳𑄢𑄨𑄠",
+      "bs": "Istarska županija",
+      "mk": "Истарска жупанија"
     },
-    "geo": {
-      "latitude": 45.1286455,
-      "longitude": 13.901542,
-      "min_latitude": 44.75755170000001,
-      "min_longitude": 13.4896865,
-      "max_latitude": 45.5196036,
-      "max_longitude": 14.2285896
-    },
-    "name": "Istarska županija"
+    "comments": null
   },
   "19": {
+    "name": "Dubrovačko-neretvanska županija",
+    "code": null,
     "unofficial_names": [
       "Dubrovnik-Neretva"
     ],
+    "geo": {
+      "latitude": 43.0766588,
+      "longitude": 17.5268471,
+      "min_latitude": 42.3922402,
+      "min_longitude": 16.4876151,
+      "max_latitude": 43.17750849999999,
+      "max_longitude": 18.5337474
+    },
     "translations": {
       "en": "Dubrovnik-Neretva",
       "ar": "مقاطعة دوبروفنيك-نيريتفا",
@@ -1152,22 +1357,33 @@
       "tr": "Dubrovnik-Neretva",
       "uk": "Дубровницько-Неретванська жупанія",
       "ur": "دوبروونیک-نیریتوا کاؤنٹی",
-      "vi": "Hạt Dubrovnik-Neretva"
+      "vi": "Hạt Dubrovnik-Neretva",
+      "lv": "Dubrovnikas-Neretvas župānija",
+      "ceb": "Dubrovačko-Neretvanska Županija",
+      "sr_Latn": "Dubrovačko-neretvanska županija",
+      "zh": "杜布羅夫斯克-內雷特瓦縣",
+      "sq": "Zhupania e Dubrovnikut dhe Neretvës",
+      "ccp": "𑄓𑄪𑄝𑄳𑄢𑄮𑄛𑄴𑄚𑄨𑄇𑄴-𑄚𑄬𑄢𑄬𑄖𑄴𑄞",
+      "he": "מחוז דוברובניק-נרטבה",
+      "bs": "Dubrovačko-neretvanska županija",
+      "mk": "Дубровничко-неретванска жупанија"
     },
-    "geo": {
-      "latitude": 43.0766588,
-      "longitude": 17.5268471,
-      "min_latitude": 42.3922402,
-      "min_longitude": 16.4876151,
-      "max_latitude": 43.17750849999999,
-      "max_longitude": 18.5337474
-    },
-    "name": "Dubrovačko-neretvanska županija"
+    "comments": null
   },
   "20": {
+    "name": "Međimurska županija",
+    "code": null,
     "unofficial_names": [
       "Međimurje"
     ],
+    "geo": {
+      "latitude": 46.3766644,
+      "longitude": 16.4213298,
+      "min_latitude": 46.2877571,
+      "min_longitude": 16.2384532,
+      "max_latitude": 46.5552234,
+      "max_longitude": 16.8580089
+    },
     "translations": {
       "en": "Međimurje",
       "ar": "مقاطعة ماجيموريه",
@@ -1212,22 +1428,33 @@
       "tr": "Međimurje",
       "uk": "Меджимурська жупанія",
       "ur": "میجیموریے کاؤنٹی",
-      "vi": "Hạt Medimurje"
+      "vi": "Hạt Medimurje",
+      "lv": "Medžimurjes župānija",
+      "ceb": "Međimurska Županija",
+      "sr_Latn": "Međimurska županija",
+      "zh": "梅吉穆列縣",
+      "fa": "شهرستان مجیموریه",
+      "sq": "Zhupania e Megjimurës",
+      "ccp": "𑄟𑄬𑄓𑄨𑄟𑄪𑄢𑄴𑄎𑄬",
+      "bs": "Međimurska županija",
+      "mk": "Меѓимурска жупанија"
     },
-    "geo": {
-      "latitude": 46.3766644,
-      "longitude": 16.4213298,
-      "min_latitude": 46.2877571,
-      "min_longitude": 16.2384532,
-      "max_latitude": 46.5552234,
-      "max_longitude": 16.8580089
-    },
-    "name": "Međimurska županija"
+    "comments": null
   },
   "21": {
+    "name": "Grad Zagreb",
+    "code": null,
     "unofficial_names": [
       "City of Zagreb"
     ],
+    "geo": {
+      "latitude": 45.8150108,
+      "longitude": 15.981919,
+      "min_latitude": 45.7408527,
+      "min_longitude": 15.8216904,
+      "max_latitude": 45.9395392,
+      "max_longitude": 16.1069727
+    },
     "translations": {
       "en": "Zagreb",
       "af": "Zagreb",
@@ -1288,17 +1515,27 @@
       "tr": "Zagreb",
       "uk": "Загреб",
       "ur": "زگریب",
-      "vi": "Zagreb²"
+      "vi": "Zagreb²",
+      "cy": "Zagreb",
+      "ceb": "Zagreb",
+      "sr_Latn": "Zagreb",
+      "zh": "萨格勒布",
+      "yue_Hans": "萨格勒布",
+      "jv": "Zagreb",
+      "sq": "Zagrebi",
+      "ccp": "𑄎𑄉𑄳𑄢𑄬𑄛𑄴",
+      "ga": "Ságrab",
+      "ps": "زګريب",
+      "ky": "Загреб",
+      "pa": "ਜ਼ਾਗਰਬ",
+      "kk": "Загреб",
+      "yue": "薩格勒布",
+      "yo": "Zagreb",
+      "uz": "Zagreb",
+      "bs": "Zagreb",
+      "mk": "Загреб"
     },
-    "geo": {
-      "latitude": 45.8150108,
-      "longitude": 15.981919,
-      "min_latitude": 45.7408527,
-      "min_longitude": 15.8216904,
-      "max_latitude": 45.9395392,
-      "max_longitude": 16.1069727
-    },
-    "name": "Grad Zagreb"
+    "comments": null
   }
 }
 

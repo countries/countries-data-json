@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Christ Church Nichola Town",
+    "code": null,
     "unofficial_names": "Christ Church Nichola Town",
+    "geo": {
+      "latitude": 17.3604812,
+      "longitude": -62.7617837,
+      "min_latitude": 17.330067,
+      "min_longitude": -62.7906411,
+      "max_latitude": 17.3861474,
+      "max_longitude": -62.73767700000001
+    },
     "translations": {
       "en": "Christ Church Nichola Town",
       "ar": "كنيسة المسيح، أبرشية مدينة نيكولا",
@@ -33,20 +43,28 @@
       "tr": "Christ Church Nichola Town",
       "ur": "کرائسٹ چرچ نیکولا ٹاؤن پیرش",
       "vi": "Giáo xứ Christ Church Nichola Town",
-      "zh": "基督教會尼古拉鎮區"
+      "zh": "基督教會尼古拉鎮區",
+      "lv": "Kraistčērča Nikoltaunas pagasts",
+      "ceb": "Christ Church Nichola Town",
+      "lt": "Nikola Tauno Kristaus Bažnyčios parapija",
+      "ccp": "𑄇𑄳𑄢𑄨𑄌𑄴𑄑𑄴 𑄌𑄢𑄴𑄌𑄴 𑄚𑄨𑄇𑄮𑄣 𑄑𑄅𑄪𑄚𑄴",
+      "uk": "Парафія Крайст-Черч-Нікола-Таун",
+      "mk": "Крајст Чрч Никола Таун"
     },
-    "geo": {
-      "latitude": 17.3604812,
-      "longitude": -62.7617837,
-      "min_latitude": 17.330067,
-      "min_longitude": -62.7906411,
-      "max_latitude": 17.3861474,
-      "max_longitude": -62.73767700000001
-    },
-    "name": "Christ Church Nichola Town"
+    "comments": null
   },
   "02": {
+    "name": "Saint Anne Sandy Point",
+    "code": null,
     "unofficial_names": "Saint Anne Sandy Point",
+    "geo": {
+      "latitude": 17.3725333,
+      "longitude": -62.8441133,
+      "min_latitude": 17.3414441,
+      "min_longitude": -62.8640468,
+      "max_latitude": 17.388191,
+      "max_longitude": -62.80663490000001
+    },
     "translations": {
       "en": "Saint Anne Sandy Point",
       "ar": "أبرشية القديس آن ساندي بوينت",
@@ -79,20 +97,30 @@
       "th": "เขตเซนต์แอนน์แซนดีพอยต์ แพริช",
       "tr": "Saint Anne Sandy Point",
       "ur": "سینٹ این سینڈی پوائنٹ پیرش",
-      "vi": "Giáo xứ Saint Anne Sandy Point"
+      "vi": "Giáo xứ Saint Anne Sandy Point",
+      "lv": "Sentanna Sendipointas pagast",
+      "ceb": "Saint Anne Sandy Point",
+      "lt": "Šventosios Onos Sendi parapija",
+      "zh": "聖安娜沙角區",
+      "fa": "پریش ان سندی پوینت",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄃𑄳𑄠𑄚𑄨 𑄥𑄳𑄠𑄚𑄳𑄓𑄨 𑄛𑄧𑄠𑄬𑄚𑄴𑄑𑄴",
+      "uk": "Парафія Сент-Ен-Сенді-Пойнт",
+      "mk": "Сент Ен Сенди Поинт"
     },
-    "geo": {
-      "latitude": 17.3725333,
-      "longitude": -62.8441133,
-      "min_latitude": 17.3414441,
-      "min_longitude": -62.8640468,
-      "max_latitude": 17.388191,
-      "max_longitude": -62.80663490000001
-    },
-    "name": "Saint Anne Sandy Point"
+    "comments": null
   },
   "03": {
+    "name": "Saint George Basseterre",
+    "code": null,
     "unofficial_names": "Saint George Basseterre",
+    "geo": {
+      "latitude": 17.2350612,
+      "longitude": -62.6442284,
+      "min_latitude": 17.213127,
+      "min_longitude": -62.751238,
+      "max_latitude": 17.320862,
+      "max_longitude": -62.6222161
+    },
     "translations": {
       "en": "Saint George Basseterre",
       "ar": "أبرشية القديس جورج باستير",
@@ -125,20 +153,28 @@
       "th": "เซนต์จอร์จบาสแตร์ แพริช",
       "tr": "Saint George Basseterre",
       "ur": "سینٹ جارج باسیتیر پیرش",
-      "vi": "Giáo xứ Saint George Basseterre"
+      "vi": "Giáo xứ Saint George Basseterre",
+      "lv": "Sentdžordža Bastera pagasts",
+      "ceb": "Saint George Basseterre",
+      "lt": "Šventojo Jurgio Bastero parapija",
+      "zh": "聖喬治巴塞特萊區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄉𑄧𑄢𑄴𑄎𑄴 𑄝𑄥𑄬𑄖𑄢𑄴",
+      "uk": "Парафія Сент-Джордж-Бастер"
     },
-    "geo": {
-      "latitude": 17.2350612,
-      "longitude": -62.6442284,
-      "min_latitude": 17.213127,
-      "min_longitude": -62.751238,
-      "max_latitude": 17.320862,
-      "max_longitude": -62.6222161
-    },
-    "name": "Saint George Basseterre"
+    "comments": null
   },
   "04": {
+    "name": "Saint George Gingerland",
+    "code": null,
     "unofficial_names": "Saint George Gingerland",
+    "geo": {
+      "latitude": 17.1257759,
+      "longitude": -62.5619811,
+      "min_latitude": 17.1033729,
+      "min_longitude": -62.58734699999999,
+      "max_latitude": 17.1527401,
+      "max_longitude": -62.541476
+    },
     "translations": {
       "en": "Saint George Gingerland",
       "ar": "جينجرلاند",
@@ -170,20 +206,29 @@
       "th": "เซนต์จอร์จจิงเจอร์แลนด์ แพริช",
       "tr": "Saint George Gingerland",
       "ur": "سینٹ جارج جنجرلینڈ پیرش",
-      "vi": "Giáo xứ Saint George Gingerland"
+      "vi": "Giáo xứ Saint George Gingerland",
+      "lv": "Sentdžordža Džindžerlandes pagasts",
+      "ceb": "Saint George Gingerland",
+      "lt": "Šventojo Jurgio Džindžerlendo parapija",
+      "zh": "聖喬治金哲蘭區",
+      "fa": "پریش سنت جرج جینجرلند",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄧𑄢𑄴𑄎𑄴 𑄎𑄨𑄁𑄉𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Парафія Сент-Джордж-Джинджерланд"
     },
-    "geo": {
-      "latitude": 17.1257759,
-      "longitude": -62.5619811,
-      "min_latitude": 17.1033729,
-      "min_longitude": -62.58734699999999,
-      "max_latitude": 17.1527401,
-      "max_longitude": -62.541476
-    },
-    "name": "Saint George Gingerland"
+    "comments": null
   },
   "05": {
+    "name": "Saint James Windward",
+    "code": null,
     "unofficial_names": "Saint James Windward",
+    "geo": {
+      "latitude": 17.1769633,
+      "longitude": -62.57960259999999,
+      "min_latitude": 17.1396658,
+      "min_longitude": -62.61541399999999,
+      "max_latitude": 17.2077199,
+      "max_longitude": -62.5399407
+    },
     "translations": {
       "en": "Saint James Windward",
       "ar": "أبرشية القديس جيمس ويندوارد",
@@ -215,20 +260,29 @@
       "th": "เซนต์เจมส์วินด์เวิร์ด แพริช",
       "tr": "Saint James Windward",
       "ur": "سینٹ جیمز ونڈورڈ پیرش",
-      "vi": "Giáo xứ Saint James Windward"
+      "vi": "Giáo xứ Saint James Windward",
+      "lv": "Sentdžeimsa Vindvorda pagasts",
+      "ceb": "Saint James Windward",
+      "lt": "Šventojo Jokūbo Vindvordo parapija",
+      "zh": "聖詹姆斯溫沃德區",
+      "fa": "پریش سنت جیمز ویندوارد",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄬𑄟𑄴𑄥𑄴 𑄅𑄪𑄃𑄨𑄚𑄴𑄤𑄢𑄴𑄓𑄴",
+      "uk": "Парафія Сент-Джеймс-Віндвард"
     },
-    "geo": {
-      "latitude": 17.1769633,
-      "longitude": -62.57960259999999,
-      "min_latitude": 17.1396658,
-      "min_longitude": -62.61541399999999,
-      "max_latitude": 17.2077199,
-      "max_longitude": -62.5399407
-    },
-    "name": "Saint James Windward"
+    "comments": null
   },
   "06": {
+    "name": "Saint John Capisterre",
+    "code": null,
     "unofficial_names": "Saint John Capisterre",
+    "geo": {
+      "latitude": 17.3810341,
+      "longitude": -62.7911833,
+      "min_latitude": 17.350457,
+      "min_longitude": -62.820196,
+      "max_latitude": 17.4180288,
+      "max_longitude": -62.7606673
+    },
     "translations": {
       "en": "Saint John Capisterre",
       "ar": "أبرشية القديس جون كابيستير",
@@ -260,20 +314,29 @@
       "th": "เซนต์จอห์นกาปิสแตร์ แพริช",
       "tr": "Saint John Capisterre",
       "ur": "سینٹ جان کاپسٹیئر پیرش",
-      "vi": "Giáo xứ Saint John Capisterre"
+      "vi": "Giáo xứ Saint John Capisterre",
+      "lv": "Sentdžona Kaspitera pagasts",
+      "ceb": "Saint John Capesterre",
+      "lt": "Šventojo Jono Kapistero parapija",
+      "zh": "聖約翰卡皮斯特萊區",
+      "fa": "پریش سنت جان کپیستر",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄧𑄚𑄴 𑄇𑄳𑄠𑄛𑄨𑄌𑄴𑄑𑄢𑄴",
+      "uk": "Парафія Сент-Джон-Капістер"
     },
-    "geo": {
-      "latitude": 17.3810341,
-      "longitude": -62.7911833,
-      "min_latitude": 17.350457,
-      "min_longitude": -62.820196,
-      "max_latitude": 17.4180288,
-      "max_longitude": -62.7606673
-    },
-    "name": "Saint John Capisterre"
+    "comments": null
   },
   "07": {
+    "name": "Saint John Figtree",
+    "code": null,
     "unofficial_names": "Saint John Figtree",
+    "geo": {
+      "latitude": 17.1155748,
+      "longitude": -62.6031004,
+      "min_latitude": 17.094282,
+      "min_longitude": -62.63187609999999,
+      "max_latitude": 17.1527401,
+      "max_longitude": -62.5767418
+    },
     "translations": {
       "en": "Saint John Figtree",
       "ar": "أبرشية القديس جون فيغتري",
@@ -305,20 +368,29 @@
       "th": "เซนต์จอห์นฟิกทรี แพริช",
       "tr": "Saint John Figtree",
       "ur": "سینٹ جان فگٹری پیرش",
-      "vi": "Giáo xứ Saint John Figtree"
+      "vi": "Giáo xứ Saint John Figtree",
+      "lv": "Sentdžona Figtrī pagasts",
+      "ceb": "Saint John Figtree",
+      "lt": "Šventojo Jono Figtri parapija",
+      "zh": "聖約翰費格特里區",
+      "fa": "پریش سنت جان فیگتری",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄧𑄚𑄴 𑄜𑄨𑄇𑄴𑄑𑄳𑄢𑄨",
+      "uk": "Парафія Сент-Джон-Фігтрі"
     },
-    "geo": {
-      "latitude": 17.1155748,
-      "longitude": -62.6031004,
-      "min_latitude": 17.094282,
-      "min_longitude": -62.63187609999999,
-      "max_latitude": 17.1527401,
-      "max_longitude": -62.5767418
-    },
-    "name": "Saint John Figtree"
+    "comments": null
   },
   "08": {
+    "name": "Saint Mary Cayon",
+    "code": null,
     "unofficial_names": "Saint Mary Cayon",
+    "geo": {
+      "latitude": 17.3462071,
+      "longitude": -62.73826709999999,
+      "min_latitude": 17.3288279,
+      "min_longitude": -62.75748100000001,
+      "max_latitude": 17.371466,
+      "max_longitude": -62.70542499999999
+    },
     "translations": {
       "en": "Saint Mary Cayon",
       "ar": "كايون سانت ماري باريش",
@@ -350,20 +422,29 @@
       "th": "เซนต์แมรีคายอน แพริช",
       "tr": "Saint Mary Cayon",
       "ur": "سینٹ میری کایون پیرش",
-      "vi": "Giáo xứ Saint Mary Cayon"
+      "vi": "Giáo xứ Saint Mary Cayon",
+      "lv": "Sentmerī Keionas pagasts",
+      "ceb": "Saint Mary Cayon",
+      "lt": "Kajono Šventosios Marijos parapija",
+      "zh": "聖瑪麗卡永區",
+      "fa": "پریش سنت مری کیون",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄟𑄬𑄢𑄨 𑄇𑄳𑄠𑄠𑄧𑄚𑄴",
+      "uk": "Парафія Сент-Мері-Кайон"
     },
-    "geo": {
-      "latitude": 17.3462071,
-      "longitude": -62.73826709999999,
-      "min_latitude": 17.3288279,
-      "min_longitude": -62.75748100000001,
-      "max_latitude": 17.371466,
-      "max_longitude": -62.70542499999999
-    },
-    "name": "Saint Mary Cayon"
+    "comments": null
   },
   "09": {
+    "name": "Saint Paul Capisterre",
+    "code": null,
     "unofficial_names": "Saint Paul Capisterre",
+    "geo": {
+      "latitude": 17.3924804,
+      "longitude": -62.8323499,
+      "min_latitude": 17.368374,
+      "min_longitude": -62.8625519,
+      "max_latitude": 17.4171859,
+      "max_longitude": -62.8066299
+    },
     "translations": {
       "en": "Saint Paul Capisterre",
       "ar": "أبرشية القديس بول كابيستير",
@@ -395,20 +476,29 @@
       "th": "เซนต์พอลกาปิสแตร์ แพริช",
       "tr": "Saint Paul Capisterre",
       "ur": "سینٹ پال کاپسٹیئر پیرش",
-      "vi": "Giáo xứ Saint Paul Capisterre"
+      "vi": "Giáo xứ Saint Paul Capisterre",
+      "lv": "Sentpola Kaspitera pagasts",
+      "ceb": "Saint Paul Capesterre",
+      "lt": "Šventojo Pauliaus Kapistero parapija",
+      "zh": "聖保羅卡皮斯特萊區",
+      "fa": "پریش سنت پل کپیستر",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄧𑄣𑄴 𑄇𑄳𑄠𑄛𑄨𑄌𑄴𑄑𑄢𑄴",
+      "uk": "Парафія Сент-Пол-Капістер"
     },
-    "geo": {
-      "latitude": 17.3924804,
-      "longitude": -62.8323499,
-      "min_latitude": 17.368374,
-      "min_longitude": -62.8625519,
-      "max_latitude": 17.4171859,
-      "max_longitude": -62.8066299
-    },
-    "name": "Saint Paul Capisterre"
+    "comments": null
   },
   "10": {
+    "name": "Saint Paul Charlestown",
+    "code": null,
     "unofficial_names": "Saint Paul Charlestown",
+    "geo": {
+      "latitude": 17.1346297,
+      "longitude": -62.6133816,
+      "min_latitude": 17.128093,
+      "min_longitude": -62.633529,
+      "max_latitude": 17.1527401,
+      "max_longitude": -62.58734699999999
+    },
     "translations": {
       "en": "Saint Paul Charlestown",
       "ar": "أبرشية القديس بول تشارلستون",
@@ -440,20 +530,29 @@
       "th": "เซนต์ พอล ชาร์ลสทาวน์ แพริช",
       "tr": "Saint Paul Charlestown",
       "ur": "سینٹ پال چارلس ٹاؤن پیرش",
-      "vi": "Giáo xứ Saint Paul Charlestown"
+      "vi": "Giáo xứ Saint Paul Charlestown",
+      "lv": "Sentpola Čārlstaunas pagasts",
+      "ceb": "Saint Paul Charlestown",
+      "lt": "Saint Paulo Čarlestouno parapija",
+      "zh": "聖保羅查爾斯敦區",
+      "fa": "پریش سنت پل چارلستون",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄧𑄣𑄴 𑄇𑄢𑄴𑄣𑄬𑄌𑄴𑄑𑄅𑄪𑄚𑄴",
+      "uk": "Парафія Сент-Пол-Чарльзтаун"
     },
-    "geo": {
-      "latitude": 17.1346297,
-      "longitude": -62.6133816,
-      "min_latitude": 17.128093,
-      "min_longitude": -62.633529,
-      "max_latitude": 17.1527401,
-      "max_longitude": -62.58734699999999
-    },
-    "name": "Saint Paul Charlestown"
+    "comments": null
   },
   "11": {
+    "name": "Saint Peter Basseterre",
+    "code": null,
     "unofficial_names": "Saint Peter Basseterre",
+    "geo": {
+      "latitude": 17.3102911,
+      "longitude": -62.7147533,
+      "min_latitude": 17.287303,
+      "min_longitude": -62.751235,
+      "max_latitude": 17.3356745,
+      "max_longitude": -62.68311989999999
+    },
     "translations": {
       "en": "Saint Peter Basseterre",
       "ar": "أبرشية القديس بيتر باستير",
@@ -485,20 +584,29 @@
       "th": "เซนต์ปีเตอร์บาสแตร์ แพริช",
       "tr": "Saint Peter Basseterre",
       "ur": "سینٹ پیٹر باسیتیر پیرش",
-      "vi": "Giáo xứ Saint Peter Basseterre"
+      "vi": "Giáo xứ Saint Peter Basseterre",
+      "lv": "Sentpītera Bastera pagasts",
+      "ceb": "Saint Peter Basseterre",
+      "lt": "Šventojo Petro Bastero parapija",
+      "zh": "聖彼得巴塞特萊區",
+      "fa": "پریش سنت پیتر باستر",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄨𑄑𑄢𑄴 𑄝𑄥𑄬𑄑𑄢𑄴",
+      "uk": "Парафія Сент-Пітер-Бастер"
     },
-    "geo": {
-      "latitude": 17.3102911,
-      "longitude": -62.7147533,
-      "min_latitude": 17.287303,
-      "min_longitude": -62.751235,
-      "max_latitude": 17.3356745,
-      "max_longitude": -62.68311989999999
-    },
-    "name": "Saint Peter Basseterre"
+    "comments": null
   },
   "12": {
+    "name": "Saint Thomas Lowland",
+    "code": null,
     "unofficial_names": "Saint Thomas Lowland",
+    "geo": {
+      "latitude": 17.1650513,
+      "longitude": -62.6089753,
+      "min_latitude": 17.137172,
+      "min_longitude": -62.6300681,
+      "max_latitude": 17.1947334,
+      "max_longitude": -62.58734699999999
+    },
     "translations": {
       "en": "Saint Thomas Lowland",
       "ar": "أبرشية القديس توماس لولاند",
@@ -530,20 +638,29 @@
       "th": "เซนต์โทมัสโลว์แลนด์ แพริช",
       "tr": "Saint Thomas Lowland",
       "ur": "سینٹ تھامس لولینڈ پیرش",
-      "vi": "Giáo xứ Saint Thomas Lowland"
+      "vi": "Giáo xứ Saint Thomas Lowland",
+      "lv": "Senttomasa Lovlandas pagasts",
+      "ceb": "Saint Thomas Lowland",
+      "lt": "Šventojo Tomo Loulando parapija",
+      "zh": "聖托馬斯低地區",
+      "fa": "پریش سنت توماس لولند",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄑𑄧𑄟𑄌𑄴 𑄣𑄱𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Парафія Сент-Томас-Лоуленд"
     },
-    "geo": {
-      "latitude": 17.1650513,
-      "longitude": -62.6089753,
-      "min_latitude": 17.137172,
-      "min_longitude": -62.6300681,
-      "max_latitude": 17.1947334,
-      "max_longitude": -62.58734699999999
-    },
-    "name": "Saint Thomas Lowland"
+    "comments": null
   },
   "13": {
+    "name": "Saint Thomas Middle Island",
+    "code": null,
     "unofficial_names": "Saint Thomas Middle Island",
+    "geo": {
+      "latitude": 17.3348813,
+      "longitude": -62.80882510000001,
+      "min_latitude": 17.3065335,
+      "min_longitude": -62.8386144,
+      "max_latitude": 17.368374,
+      "max_longitude": -62.763293
+    },
     "translations": {
       "en": "Saint Thomas Middle Island",
       "ar": "أبرشية جزيرة القديس توماس الوسطى",
@@ -575,20 +692,28 @@
       "th": "เซนต์โทมัสมิดเดิลไอแลนด์ แพริช",
       "tr": "Saint Thomas Middle Island",
       "ur": "سینٹ تھامس مڈل آئلینڈ پیرش",
-      "vi": "Giáo xứ Saint Thomas Middle Island"
+      "vi": "Giáo xứ Saint Thomas Middle Island",
+      "lv": "Senttomasa Midlailendas pagasts",
+      "ceb": "Saint Thomas Middle Island",
+      "lt": "Šventojo Tomo Midl Ailendo parapija",
+      "zh": "聖托馬斯米德艾蘭區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄗𑄧𑄟𑄌𑄴 𑄟𑄨𑄓𑄧𑄣𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Парафія Сент-Томас-Мідл-Айленд"
     },
-    "geo": {
-      "latitude": 17.3348813,
-      "longitude": -62.80882510000001,
-      "min_latitude": 17.3065335,
-      "min_longitude": -62.8386144,
-      "max_latitude": 17.368374,
-      "max_longitude": -62.763293
-    },
-    "name": "Saint Thomas Middle Island"
+    "comments": null
   },
   "15": {
+    "name": "Trinity Palmetto Point",
+    "code": null,
     "unofficial_names": "Trinity Palmetto Point",
+    "geo": {
+      "latitude": 17.3063519,
+      "longitude": -62.7617837,
+      "min_latitude": 17.2906355,
+      "min_longitude": -62.7902801,
+      "max_latitude": 17.331379,
+      "max_longitude": -62.74327590000001
+    },
     "translations": {
       "en": "Trinity Palmetto Point",
       "ar": "أبرشية ترينتي بالميتو بوينت",
@@ -620,19 +745,30 @@
       "th": "ทรินิตีแพลเมตโตพอยต์ แพริช",
       "tr": "Trinity Palmetto Point",
       "ur": "ٹرنیٹی پالمیٹو پوائنٹ پیرش",
-      "vi": "Giáo xứ Trinity Palmetto Point"
+      "vi": "Giáo xứ Trinity Palmetto Point",
+      "lv": "Triniti Palmetopointas pagasts",
+      "ceb": "Trinity Palmetto Point",
+      "lt": "Šventosios Trejybės Palmeto Pointo parapija",
+      "zh": "特立尼提帕美托角區",
+      "fa": "پریش ترینیتی پالمئتو پوینت",
+      "ccp": "𑄑𑄳𑄢𑄨𑄚𑄨𑄑𑄨 𑄛𑄧𑄣𑄴𑄟𑄬𑄖𑄴𑄑𑄮 𑄛𑄧𑄠𑄬𑄚𑄴𑄑𑄴",
+      "uk": "Парафія Трініті-Палмето-Пойнт",
+      "mk": "Тринити Палмето Поинт"
     },
-    "geo": {
-      "latitude": 17.3063519,
-      "longitude": -62.7617837,
-      "min_latitude": 17.2906355,
-      "min_longitude": -62.7902801,
-      "max_latitude": 17.331379,
-      "max_longitude": -62.74327590000001
-    },
-    "name": "Trinity Palmetto Point"
+    "comments": null
   },
   "K": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سانت كيتس",
       "be": "Востраў Сент-Кітс",
@@ -667,10 +803,31 @@
       "tr": "Saint Kitts",
       "uk": "Сент-Кіттс",
       "ur": "سینٹ کیٹز",
-      "vi": "Saint Kitts"
-    }
+      "vi": "Saint Kitts",
+      "cy": "Saint Kitts",
+      "ceb": "Saint Christopher",
+      "te": "సెయంట్ కిట్స్, నెవిస్",
+      "sr_Latn": "Sent Kits",
+      "zh": "圣基茨岛",
+      "yue_Hans": "圣杰氏岛",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄇𑄨𑄖𑄴𑄥𑄴",
+      "yue": "聖傑氏島",
+      "mk": "Свети Кристофер"
+    },
+    "comments": null
   },
   "N": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "نيفيس",
       "be": "Востраў Невіс",
@@ -707,8 +864,17 @@
       "tr": "Nevis",
       "uk": "Невіс",
       "ur": "ناویس",
-      "vi": "Nevis"
-    }
+      "vi": "Nevis",
+      "ceb": "Nevis",
+      "sr_Latn": "Nevis",
+      "zh": "尼维斯",
+      "yue_Hans": "尼维斯岛",
+      "ccp": "𑄚𑄨𑄞𑄨𑄌𑄴",
+      "da": "Nevis",
+      "yue": "尼維斯島",
+      "mk": "Невис"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Blagoevgrad",
+    "code": null,
     "unofficial_names": "Blagoevgrad",
+    "geo": {
+      "latitude": 42.0208569,
+      "longitude": 23.0943385,
+      "min_latitude": 41.9978951,
+      "min_longitude": 23.0698939,
+      "max_latitude": 42.0296711,
+      "max_longitude": 23.1195894
+    },
     "translations": {
       "en": "Blagoevgrad",
       "ar": "محافظة بلاغووغراد",
@@ -53,20 +63,30 @@
       "uk": "Благоєвградська область",
       "ur": "بلاگووگراد صوبہ",
       "vi": "Blagoevgrad (tỉnh)",
-      "zh": "布拉格耶夫格勒州"
+      "zh": "布拉格耶夫格勒州",
+      "lv": "Blagojevgrandas apgabals",
+      "ceb": "Blagoevgrad",
+      "sr_Latn": "Blagoevgradska oblast",
+      "sq": "Provinca Blagojevgrad",
+      "ccp": "𑄝𑄳𑄣𑄧𑄉𑄮𑄠𑄬𑄛𑄴𑄉𑄳𑄢𑄖𑄴",
+      "ga": "Cúige Blagoevgrad",
+      "bs": "Oblast Blagoevgrad",
+      "mk": "Благоевградска област"
     },
-    "geo": {
-      "latitude": 42.0208569,
-      "longitude": 23.0943385,
-      "min_latitude": 41.9978951,
-      "min_longitude": 23.0698939,
-      "max_latitude": 42.0296711,
-      "max_longitude": 23.1195894
-    },
-    "name": "Blagoevgrad"
+    "comments": null
   },
   "02": {
+    "name": "Burgas",
+    "code": null,
     "unofficial_names": "Burgas",
+    "geo": {
+      "latitude": 42.50479259999999,
+      "longitude": 27.4626361,
+      "min_latitude": 42.4391223,
+      "min_longitude": 27.3580762,
+      "max_latitude": 42.6139216,
+      "max_longitude": 27.5458556
+    },
     "translations": {
       "en": "Burgas",
       "ar": "محافظة بورغاس",
@@ -118,20 +138,31 @@
       "tr": "Burgaz ili",
       "uk": "Бургаська область",
       "ur": "بورگاس صوبہ",
-      "vi": "Burgas"
+      "vi": "Burgas",
+      "ceb": "Burgas",
+      "sr_Latn": "Burgaska oblast",
+      "zh": "布爾加斯州",
+      "sq": "Provinca Burgas",
+      "ccp": "𑄝𑄨𑄅𑄪𑄉𑄳𑄢𑄌𑄴",
+      "ga": "Cúige Burgas",
+      "uz": "Burgas",
+      "bs": "Oblast Burgas",
+      "mk": "Бургаска област"
     },
-    "geo": {
-      "latitude": 42.50479259999999,
-      "longitude": 27.4626361,
-      "min_latitude": 42.4391223,
-      "min_longitude": 27.3580762,
-      "max_latitude": 42.6139216,
-      "max_longitude": 27.5458556
-    },
-    "name": "Burgas"
+    "comments": null
   },
   "03": {
+    "name": "Varna",
+    "code": null,
     "unofficial_names": "Varna",
+    "geo": {
+      "latitude": 43.2140504,
+      "longitude": 27.9147333,
+      "min_latitude": 43.1002294,
+      "min_longitude": 27.8299093,
+      "max_latitude": 43.3094528,
+      "max_longitude": 28.0559078
+    },
     "translations": {
       "en": "Varna",
       "ar": "مقاطعة فارنا",
@@ -171,20 +202,32 @@
       "tr": "Varna ili",
       "uk": "Варненська область",
       "ur": "وارنا صوبہ",
-      "vi": "Varna"
+      "vi": "Varna",
+      "ceb": "Varna",
+      "sr_Latn": "Varnenska oblast",
+      "zh": "瓦爾納州",
+      "el": "Επαρχία Βάρνας",
+      "sq": "Provinca Varna",
+      "ccp": "𑄞𑄢𑄴𑄚",
+      "ga": "Cúige Varna",
+      "hu": "Várna megye",
+      "bs": "Oblast Varna",
+      "mk": "Варненска област"
     },
-    "geo": {
-      "latitude": 43.2140504,
-      "longitude": 27.9147333,
-      "min_latitude": 43.1002294,
-      "min_longitude": 27.8299093,
-      "max_latitude": 43.3094528,
-      "max_longitude": 28.0559078
-    },
-    "name": "Varna"
+    "comments": null
   },
   "04": {
+    "name": "Veliko Tarnovo",
+    "code": null,
     "unofficial_names": "Veliko Tarnovo",
+    "geo": {
+      "latitude": 43.0756739,
+      "longitude": 25.6171514,
+      "min_latitude": 43.0578391,
+      "min_longitude": 25.5718485,
+      "max_latitude": 43.1103064,
+      "max_longitude": 25.6943964
+    },
     "translations": {
       "en": "Veliko Tarnovo",
       "ar": "محافظة وليكو تارنوو",
@@ -234,20 +277,32 @@
       "tr": "Veliko Tırnovo ili",
       "uk": "Великотирновська область",
       "ur": "ویلیکو تارنوو صوبہ",
-      "vi": "Veliko Tarnovo (tỉnh)"
+      "vi": "Veliko Tarnovo (tỉnh)",
+      "lv": "Veliko Tarnovas apgabals",
+      "ceb": "Oblast Veliko Tŭrnovo",
+      "sr_Latn": "Trnovska oblast",
+      "zh": "大特爾諾沃州",
+      "sq": "Provinca Veliko Tërnovo",
+      "ccp": "𑄞𑄬𑄣𑄨𑄇𑄮 𑄑𑄢𑄴𑄚𑄧𑄞𑄮",
+      "ga": "Cúige Veliko Tarnovo",
+      "hu": "Veliko Tarnovo megye",
+      "bs": "Oblast Veliko Trnovo",
+      "mk": "Великотрновска област"
     },
-    "geo": {
-      "latitude": 43.0756739,
-      "longitude": 25.6171514,
-      "min_latitude": 43.0578391,
-      "min_longitude": 25.5718485,
-      "max_latitude": 43.1103064,
-      "max_longitude": 25.6943964
-    },
-    "name": "Veliko Tarnovo"
+    "comments": null
   },
   "05": {
+    "name": "Vidin",
+    "code": null,
     "unofficial_names": "Vidin",
+    "geo": {
+      "latitude": 43.996159,
+      "longitude": 22.8679302,
+      "min_latitude": 43.9437989,
+      "min_longitude": 22.8390656,
+      "max_latitude": 44.0154499,
+      "max_longitude": 22.9156826
+    },
     "translations": {
       "en": "Vidin",
       "ar": "مقاطعة فيدين",
@@ -297,20 +352,33 @@
       "tr": "Vidin ili",
       "uk": "Видинська область",
       "ur": "ویدین صوبہ",
-      "vi": "Vidin (tỉnh)"
+      "vi": "Vidin (tỉnh)",
+      "lv": "Vidinas apgabals",
+      "ceb": "Oblast Vidin",
+      "sr_Latn": "Vidinska oblast",
+      "zh": "維丁州",
+      "sq": "Provinca Vidin",
+      "ccp": "𑄞𑄭𑄓𑄨𑄚𑄴",
+      "ga": "Cúige Vidin",
+      "hu": "Vidin megye",
+      "az": "Vidin vilayəti",
+      "bs": "Oblast Vidin",
+      "mk": "Видинска област"
     },
-    "geo": {
-      "latitude": 43.996159,
-      "longitude": 22.8679302,
-      "min_latitude": 43.9437989,
-      "min_longitude": 22.8390656,
-      "max_latitude": 44.0154499,
-      "max_longitude": 22.9156826
-    },
-    "name": "Vidin"
+    "comments": null
   },
   "06": {
+    "name": "Vratsa",
+    "code": null,
     "unofficial_names": "Vratsa",
+    "geo": {
+      "latitude": 43.2102375,
+      "longitude": 23.5528803,
+      "min_latitude": 43.1850586,
+      "min_longitude": 23.5066083,
+      "max_latitude": 43.2297109,
+      "max_longitude": 23.5920197
+    },
     "translations": {
       "en": "Vratsa",
       "ar": "مقاطعة فراتسا",
@@ -360,20 +428,34 @@
       "tr": "Vratsa ili",
       "uk": "Врачанська область",
       "ur": "وراتسا صوبہ",
-      "vi": "Vratsa (tỉnh)"
+      "vi": "Vratsa (tỉnh)",
+      "lv": "Vracas apgabals",
+      "ceb": "Oblast Vratsa",
+      "sr_Latn": "Vračanska oblast",
+      "zh": "弗拉察州",
+      "sq": "Provinca Vraca",
+      "ccp": "𑄞𑄳𑄢𑄖𑄴𑄥",
+      "ga": "Cúige Vratsa",
+      "ky": "Догдурлук аймак",
+      "hu": "Vraca megye",
+      "az": "Vratsa vilayəti",
+      "bs": "Oblast Vraca",
+      "mk": "Врачанска област"
     },
-    "geo": {
-      "latitude": 43.2102375,
-      "longitude": 23.5528803,
-      "min_latitude": 43.1850586,
-      "min_longitude": 23.5066083,
-      "max_latitude": 43.2297109,
-      "max_longitude": 23.5920197
-    },
-    "name": "Vratsa"
+    "comments": null
   },
   "07": {
+    "name": "Gabrovo",
+    "code": null,
     "unofficial_names": "Gabrovo",
+    "geo": {
+      "latitude": 42.8742212,
+      "longitude": 25.3186837,
+      "min_latitude": 42.78276880000001,
+      "min_longitude": 25.262113,
+      "max_latitude": 42.9150995,
+      "max_longitude": 25.3884394
+    },
     "translations": {
       "en": "Gabrovo",
       "ar": "مقاطعة غابرووو",
@@ -423,20 +505,32 @@
       "tr": "Gabrova ili",
       "uk": "Габровська область",
       "ur": "گابروو صوبہ",
-      "vi": "Gabrovo (tỉnh)"
+      "vi": "Gabrovo (tỉnh)",
+      "lv": "Gabrovas apgabals",
+      "ceb": "Gabrovo",
+      "sr_Latn": "Gabrovska oblast",
+      "zh": "加布羅沃州",
+      "sq": "Provinca Gabrovo",
+      "ccp": "𑄉𑄳𑄠𑄝𑄳𑄢𑄞𑄮",
+      "ga": "Cúige Gabrovo",
+      "eu": "Gabrovo",
+      "bs": "Oblast Gabrovo",
+      "mk": "Габровска област"
     },
-    "geo": {
-      "latitude": 42.8742212,
-      "longitude": 25.3186837,
-      "min_latitude": 42.78276880000001,
-      "min_longitude": 25.262113,
-      "max_latitude": 42.9150995,
-      "max_longitude": 25.3884394
-    },
-    "name": "Gabrovo"
+    "comments": null
   },
   "08": {
+    "name": "Dobrich",
+    "code": null,
     "unofficial_names": "Dobrich",
+    "geo": {
+      "latitude": 43.57259,
+      "longitude": 27.8272606,
+      "min_latitude": 43.54184679999999,
+      "min_longitude": 27.763096,
+      "max_latitude": 43.608704,
+      "max_longitude": 27.8607443
+    },
     "translations": {
       "en": "Dobrich",
       "ar": "محافظة دوبريتش",
@@ -488,20 +582,30 @@
       "tr": "Dobriç ili",
       "uk": "Добрицька область",
       "ur": "دوبریچ صوبہ",
-      "vi": "Dobrich (tỉnh)"
+      "vi": "Dobrich (tỉnh)",
+      "ceb": "Oblast Dobrich",
+      "sr_Latn": "Dobrička oblast",
+      "zh": "多布里奇州",
+      "sq": "Provinca Dobriç",
+      "ccp": "𑄓𑄧𑄝𑄳𑄢𑄨𑄌𑄴",
+      "ga": "Cúige Dobrich",
+      "bs": "Oblast Dobrič",
+      "mk": "Добричка област"
     },
-    "geo": {
-      "latitude": 43.57259,
-      "longitude": 27.8272606,
-      "min_latitude": 43.54184679999999,
-      "min_longitude": 27.763096,
-      "max_latitude": 43.608704,
-      "max_longitude": 27.8607443
-    },
-    "name": "Dobrich"
+    "comments": null
   },
   "09": {
+    "name": "Kardzhali",
+    "code": null,
     "unofficial_names": "Kardzhali",
+    "geo": {
+      "latitude": 41.6338439,
+      "longitude": 25.3777119,
+      "min_latitude": 41.5978213,
+      "min_longitude": 25.3410976,
+      "max_latitude": 41.6597227,
+      "max_longitude": 25.4243002
+    },
     "translations": {
       "en": "Kardzhali",
       "ar": "محافظة كرجالي",
@@ -552,20 +656,32 @@
       "tr": "Kırcaali ili",
       "uk": "Кирджалійська область",
       "ur": "کاردژالی صوبہ",
-      "vi": "Kardzhali (tỉnh)"
+      "vi": "Kardzhali (tỉnh)",
+      "lv": "Kardžali apgabals",
+      "cy": "Rhanbarth Kardzhali",
+      "ceb": "Kŭrdzhali",
+      "sr_Latn": "Krdžalijska oblast",
+      "zh": "克爾賈利州",
+      "sq": "Provinca Kërxhali",
+      "ccp": "𑄇𑄢𑄳𑄓𑄴𑄎𑄣𑄨",
+      "ga": "Cúige Kardzhali",
+      "bs": "Oblast Krdžali",
+      "mk": "Крџалиска област"
     },
-    "geo": {
-      "latitude": 41.6338439,
-      "longitude": 25.3777119,
-      "min_latitude": 41.5978213,
-      "min_longitude": 25.3410976,
-      "max_latitude": 41.6597227,
-      "max_longitude": 25.4243002
-    },
-    "name": "Kardzhali"
+    "comments": null
   },
   "10": {
+    "name": "Kjustendil",
+    "code": null,
     "unofficial_names": "Kjustendil",
+    "geo": {
+      "latitude": 42.2868817,
+      "longitude": 22.6939308,
+      "min_latitude": 42.2711228,
+      "min_longitude": 22.6594581,
+      "max_latitude": 42.3022897,
+      "max_longitude": 22.7273332
+    },
     "translations": {
       "en": "Kyustendil",
       "ar": "محافظة كيوستنديل",
@@ -615,20 +731,31 @@
       "tr": "Köstendil ili",
       "uk": "Кюстендильська область",
       "ur": "کیوستندیل صوبہ",
-      "vi": "Kyustendil (tỉnh)"
+      "vi": "Kyustendil (tỉnh)",
+      "lv": "Kujstendilas province",
+      "ceb": "Oblast Kyustendil",
+      "sr_Latn": "Ćustendilska oblast",
+      "zh": "丘斯滕迪爾州",
+      "sq": "Provinca Kjustendill",
+      "ccp": "𑄇𑄭𑄠𑄬𑄌𑄴𑄑𑄬𑄚𑄴𑄓𑄨𑄣𑄴",
+      "ga": "Cúige Kyustendil",
+      "bs": "Oblast Ćustendil",
+      "mk": "Ќустендилска област"
     },
-    "geo": {
-      "latitude": 42.2868817,
-      "longitude": 22.6939308,
-      "min_latitude": 42.2711228,
-      "min_longitude": 22.6594581,
-      "max_latitude": 42.3022897,
-      "max_longitude": 22.7273332
-    },
-    "name": "Kjustendil"
+    "comments": null
   },
   "11": {
+    "name": "Lovech",
+    "code": null,
     "unofficial_names": "Lovech",
+    "geo": {
+      "latitude": 43.1369534,
+      "longitude": 24.7141906,
+      "min_latitude": 43.1069685,
+      "min_longitude": 24.6753677,
+      "max_latitude": 43.1819797,
+      "max_longitude": 24.7467215
+    },
     "translations": {
       "en": "Lovech",
       "ar": "مقاطعة لووتش",
@@ -678,20 +805,32 @@
       "tr": "Lofça ili",
       "uk": "Ловецька область",
       "ur": "لوویچ صوبہ",
-      "vi": "Lovech"
+      "vi": "Lovech",
+      "lv": "Lovečas apgabals",
+      "ceb": "Lovech",
+      "sr_Latn": "Lovečka oblast",
+      "zh": "洛維奇州",
+      "sq": "Provinca Loveç",
+      "ccp": "𑄣𑄮𑄞𑄬𑄌𑄴",
+      "ga": "Cúige Lovech",
+      "hu": "Lovecs megye",
+      "bs": "Oblast Loveč",
+      "mk": "Ловечка област"
     },
-    "geo": {
-      "latitude": 43.1369534,
-      "longitude": 24.7141906,
-      "min_latitude": 43.1069685,
-      "min_longitude": 24.6753677,
-      "max_latitude": 43.1819797,
-      "max_longitude": 24.7467215
-    },
-    "name": "Lovech"
+    "comments": null
   },
   "12": {
+    "name": "Montana",
+    "code": null,
     "unofficial_names": "Montana",
+    "geo": {
+      "latitude": 43.4085161,
+      "longitude": 23.2257292,
+      "min_latitude": 43.3764219,
+      "min_longitude": 23.2073812,
+      "max_latitude": 43.45198269999999,
+      "max_longitude": 23.2474243
+    },
     "translations": {
       "en": "Montana",
       "ar": "محافظة مونتانا",
@@ -731,20 +870,31 @@
       "tr": "Montana ili",
       "uk": "Монтанська область",
       "ur": "مونٹانا صوبہ",
-      "vi": "Montana (tỉnh)"
+      "vi": "Montana (tỉnh)",
+      "ceb": "Oblast Montana",
+      "sr_Latn": "Montanska oblast",
+      "zh": "蒙塔納州",
+      "sq": "Provinca Montana",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄚",
+      "ga": "Cúige Montana",
+      "hu": "Montana megye",
+      "bs": "Oblast Montana",
+      "mk": "Монтанска област"
     },
-    "geo": {
-      "latitude": 43.4085161,
-      "longitude": 23.2257292,
-      "min_latitude": 43.3764219,
-      "min_longitude": 23.2073812,
-      "max_latitude": 43.45198269999999,
-      "max_longitude": 23.2474243
-    },
-    "name": "Montana"
+    "comments": null
   },
   "13": {
+    "name": "Pazardzhik",
+    "code": null,
     "unofficial_names": "Pazardzhik",
+    "geo": {
+      "latitude": 42.1927654,
+      "longitude": 24.3335662,
+      "min_latitude": 42.1632603,
+      "min_longitude": 24.2980485,
+      "max_latitude": 42.2142634,
+      "max_longitude": 24.3626333
+    },
     "translations": {
       "en": "Pazardzhik",
       "ar": "مقاطعة بازارجيك",
@@ -794,20 +944,32 @@
       "tr": "Pazarcık ili",
       "uk": "Пазарджицька область",
       "ur": "پازارجیک صوبہ",
-      "vi": "Pazardzhik (tỉnh)"
+      "vi": "Pazardzhik (tỉnh)",
+      "lv": "Pazardžikas apgabals",
+      "ceb": "Pazardzhik",
+      "sr_Latn": "Pazardžička oblast",
+      "zh": "帕扎爾吉克州",
+      "sq": "Provinca Pazarxhik",
+      "ccp": "𑄛𑄧𑄎𑄢𑄳𑄓𑄴𑄏𑄨𑄇𑄴",
+      "ga": "Cúige Pazardzhik",
+      "hu": "Pazardzsik megye",
+      "bs": "Oblast Pazardžik",
+      "mk": "Пазарџичка област"
     },
-    "geo": {
-      "latitude": 42.1927654,
-      "longitude": 24.3335662,
-      "min_latitude": 42.1632603,
-      "min_longitude": 24.2980485,
-      "max_latitude": 42.2142634,
-      "max_longitude": 24.3626333
-    },
-    "name": "Pazardzhik"
+    "comments": null
   },
   "14": {
+    "name": "Pernik",
+    "code": null,
     "unofficial_names": "Pernik",
+    "geo": {
+      "latitude": 42.6051862,
+      "longitude": 23.0378368,
+      "min_latitude": 42.5681881,
+      "min_longitude": 22.9755276,
+      "max_latitude": 42.6243972,
+      "max_longitude": 23.1273676
+    },
     "translations": {
       "en": "Pernik",
       "ar": "محافظة برنيك",
@@ -857,20 +1019,32 @@
       "tr": "Pernik ili",
       "uk": "Перницька область",
       "ur": "پیرنک صوبہ",
-      "vi": "Pernik (tỉnh)"
+      "vi": "Pernik (tỉnh)",
+      "lv": "Pernikas apgabals",
+      "ceb": "Pernik",
+      "sr_Latn": "Pernička oblast",
+      "zh": "佩爾尼克州",
+      "sq": "Provinca Pernik",
+      "ccp": "𑄛𑄢𑄴𑄚𑄨𑄇𑄴",
+      "ga": "Cúige Pernik",
+      "hu": "Pernik megye",
+      "bs": "Oblast Pernik",
+      "mk": "Перничка област"
     },
-    "geo": {
-      "latitude": 42.6051862,
-      "longitude": 23.0378368,
-      "min_latitude": 42.5681881,
-      "min_longitude": 22.9755276,
-      "max_latitude": 42.6243972,
-      "max_longitude": 23.1273676
-    },
-    "name": "Pernik"
+    "comments": null
   },
   "15": {
+    "name": "Pleven",
+    "code": null,
     "unofficial_names": "Pleven",
+    "geo": {
+      "latitude": 43.4170423,
+      "longitude": 24.6066847,
+      "min_latitude": 43.3918598,
+      "min_longitude": 24.5690017,
+      "max_latitude": 43.4504952,
+      "max_longitude": 24.6600647
+    },
     "translations": {
       "en": "Pleven",
       "ar": "مقاطعة بلفن",
@@ -920,20 +1094,32 @@
       "tr": "Plevne ili",
       "uk": "Плевенська область",
       "ur": "پلیوین صوبہ",
-      "vi": "Pleven (tỉnh)"
+      "vi": "Pleven (tỉnh)",
+      "lv": "Plevenas apgabals",
+      "ceb": "Obshtina Pleven",
+      "sr_Latn": "Plevenska oblast",
+      "zh": "普列文州",
+      "sq": "Provinca Pleven",
+      "ccp": "𑄛𑄳𑄣𑄬𑄞𑄬𑄚𑄴",
+      "ga": "Cúige Pleven",
+      "hu": "Pleven megye",
+      "bs": "Oblast Pleven",
+      "mk": "Плевенска област"
     },
-    "geo": {
-      "latitude": 43.4170423,
-      "longitude": 24.6066847,
-      "min_latitude": 43.3918598,
-      "min_longitude": 24.5690017,
-      "max_latitude": 43.4504952,
-      "max_longitude": 24.6600647
-    },
-    "name": "Pleven"
+    "comments": null
   },
   "16": {
+    "name": "Plovdiv",
+    "code": null,
     "unofficial_names": "Plovdiv",
+    "geo": {
+      "latitude": 42.1354079,
+      "longitude": 24.7452904,
+      "min_latitude": 42.0900086,
+      "min_longitude": 24.6577202,
+      "max_latitude": 42.1982332,
+      "max_longitude": 24.8240283
+    },
     "translations": {
       "en": "Plovdiv",
       "ar": "مقاطعة بلووديو",
@@ -982,20 +1168,33 @@
       "tr": "Filibe ili",
       "uk": "Пловдивська область",
       "ur": "پلوودیف صوبہ",
-      "vi": "Plovdiv"
+      "vi": "Plovdiv",
+      "lv": "Plovdivas apgabals",
+      "ceb": "Plovdiv",
+      "sr_Latn": "Plovdivska oblast",
+      "zh": "普羅夫迪夫州",
+      "sq": "Provinca Plovdiv",
+      "ccp": "𑄛𑄳𑄣𑄮𑄛𑄴𑄓𑄨𑄛𑄴",
+      "ga": "Cúige Plovdiv",
+      "hu": "Plovdiv megye",
+      "mn": "Пловдив аймаг",
+      "bs": "Oblast Plovdiv",
+      "mk": "Пловдивска област"
     },
-    "geo": {
-      "latitude": 42.1354079,
-      "longitude": 24.7452904,
-      "min_latitude": 42.0900086,
-      "min_longitude": 24.6577202,
-      "max_latitude": 42.1982332,
-      "max_longitude": 24.8240283
-    },
-    "name": "Plovdiv"
+    "comments": null
   },
   "17": {
+    "name": "Razgrad",
+    "code": null,
     "unofficial_names": "Razgrad",
+    "geo": {
+      "latitude": 43.53367189999999,
+      "longitude": 26.5411164,
+      "min_latitude": 43.5089142,
+      "min_longitude": 26.4945973,
+      "max_latitude": 43.5504861,
+      "max_longitude": 26.5636871
+    },
     "translations": {
       "en": "Razgrad",
       "ar": "محافظة رازغراد",
@@ -1046,20 +1245,31 @@
       "tr": "Razgrad ili",
       "uk": "Разградська область",
       "ur": "رازگراڈ صوبہ",
-      "vi": "Razgrad (tỉnh)"
+      "vi": "Razgrad (tỉnh)",
+      "ceb": "Oblast Razgrad",
+      "sr_Latn": "Razgradska oblast",
+      "zh": "拉兹格勒州",
+      "sq": "Provinca Razgrad",
+      "ccp": "𑄢𑄌𑄴𑄉𑄳𑄢𑄖𑄴",
+      "ga": "Cúige Razgrad",
+      "hu": "Razgrad megye",
+      "bs": "Oblast Razgrad",
+      "mk": "Разградска област"
     },
-    "geo": {
-      "latitude": 43.53367189999999,
-      "longitude": 26.5411164,
-      "min_latitude": 43.5089142,
-      "min_longitude": 26.4945973,
-      "max_latitude": 43.5504861,
-      "max_longitude": 26.5636871
-    },
-    "name": "Razgrad"
+    "comments": null
   },
   "18": {
+    "name": "Ruse",
+    "code": null,
     "unofficial_names": "Ruse",
+    "geo": {
+      "latitude": 43.83557130000001,
+      "longitude": 25.9656554,
+      "min_latitude": 43.7542331,
+      "min_longitude": 25.8704853,
+      "max_latitude": 43.8890011,
+      "max_longitude": 26.0490987
+    },
     "translations": {
       "en": "Ruse",
       "ar": "محافظة روسه",
@@ -1110,20 +1320,31 @@
       "tr": "Rusçuk ili",
       "uk": "Русенська область",
       "ur": "روسے صوبہ",
-      "vi": "Ruse (tỉnh)"
+      "vi": "Ruse (tỉnh)",
+      "ceb": "Oblast Ruse",
+      "sr_Latn": "Rusenska oblast",
+      "zh": "魯塞州",
+      "sq": "Provinca Rusje",
+      "ccp": "𑄢𑄌𑄴",
+      "ga": "Cúige Ruse",
+      "eu": "Ruse probintzia",
+      "bs": "Oblast Ruse",
+      "mk": "Русенска област"
     },
-    "geo": {
-      "latitude": 43.83557130000001,
-      "longitude": 25.9656554,
-      "min_latitude": 43.7542331,
-      "min_longitude": 25.8704853,
-      "max_latitude": 43.8890011,
-      "max_longitude": 26.0490987
-    },
-    "name": "Ruse"
+    "comments": null
   },
   "19": {
+    "name": "Silistra",
+    "code": null,
     "unofficial_names": "Silistra",
+    "geo": {
+      "latitude": 44.1147271,
+      "longitude": 27.2671901,
+      "min_latitude": 44.097587,
+      "min_longitude": 27.2254378,
+      "max_latitude": 44.1248362,
+      "max_longitude": 27.2840753
+    },
     "translations": {
       "en": "Silistra",
       "ar": "مقاطعة سيليسترا",
@@ -1174,20 +1395,31 @@
       "tr": "Silistre ili",
       "uk": "Силістринська область",
       "ur": "سیلیسترا صوبہ",
-      "vi": "Silistra (tỉnh)"
+      "vi": "Silistra (tỉnh)",
+      "ceb": "Oblast Silistra",
+      "sr_Latn": "Silistranska oblast",
+      "zh": "錫利斯特拉州",
+      "sq": "Provinca Silistra",
+      "ccp": "𑄥𑄨𑄣𑄨𑄌𑄴𑄑𑄳𑄢",
+      "ga": "Cúige Silistra",
+      "hu": "Szilisztra megye",
+      "bs": "Oblast Silistra",
+      "mk": "Силистренска област"
     },
-    "geo": {
-      "latitude": 44.1147271,
-      "longitude": 27.2671901,
-      "min_latitude": 44.097587,
-      "min_longitude": 27.2254378,
-      "max_latitude": 44.1248362,
-      "max_longitude": 27.2840753
-    },
-    "name": "Silistra"
+    "comments": null
   },
   "20": {
+    "name": "Sliven",
+    "code": null,
     "unofficial_names": "Sliven",
+    "geo": {
+      "latitude": 42.6816536,
+      "longitude": 26.3228685,
+      "min_latitude": 42.6196377,
+      "min_longitude": 26.2598866,
+      "max_latitude": 42.711123,
+      "max_longitude": 26.3902393
+    },
     "translations": {
       "en": "Sliven",
       "ar": "محافظة اسليون",
@@ -1237,20 +1469,32 @@
       "tr": "Sliven ili",
       "uk": "Слівенська область",
       "ur": "سیلوین صوبہ",
-      "vi": "Sliven"
+      "vi": "Sliven",
+      "lv": "Slivenas apgabals",
+      "ceb": "Oblast Sliven",
+      "sr_Latn": "Slivenska oblast",
+      "zh": "斯利文州",
+      "sq": "Provinca Sliven",
+      "ccp": "𑄥𑄳𑄣𑄨𑄞𑄬𑄚𑄴",
+      "ga": "Cúige Sliven",
+      "hu": "Szliven megye",
+      "bs": "Oblast Sliven",
+      "mk": "Сливенска област"
     },
-    "geo": {
-      "latitude": 42.6816536,
-      "longitude": 26.3228685,
-      "min_latitude": 42.6196377,
-      "min_longitude": 26.2598866,
-      "max_latitude": 42.711123,
-      "max_longitude": 26.3902393
-    },
-    "name": "Sliven"
+    "comments": null
   },
   "21": {
+    "name": "Smolyan",
+    "code": null,
     "unofficial_names": "Smolyan",
+    "geo": {
+      "latitude": 41.5774233,
+      "longitude": 24.7011138,
+      "min_latitude": 41.5643,
+      "min_longitude": 24.668448,
+      "max_latitude": 41.5938716,
+      "max_longitude": 24.8138621
+    },
     "translations": {
       "en": "Smolyan",
       "ar": "مقاطعة سموليان",
@@ -1300,20 +1544,32 @@
       "tr": "Smolyan ili",
       "uk": "Смолянська область",
       "ur": "سمولیان صوبہ",
-      "vi": "Smolyan (tỉnh)"
+      "vi": "Smolyan (tỉnh)",
+      "lv": "Smoljanas province",
+      "ceb": "Oblast Smolyan",
+      "sr_Latn": "Smoljanska oblast",
+      "zh": "斯莫梁州",
+      "sq": "Provinca Smoljan",
+      "ccp": "𑄥𑄳𑄟𑄧𑄣𑄨𑄠𑄚𑄴",
+      "ga": "Cúige Smolyan",
+      "hu": "Szmoljan megye",
+      "bs": "Oblast Smoljan",
+      "mk": "Смолјанска област"
     },
-    "geo": {
-      "latitude": 41.5774233,
-      "longitude": 24.7011138,
-      "min_latitude": 41.5643,
-      "min_longitude": 24.668448,
-      "max_latitude": 41.5938716,
-      "max_longitude": 24.8138621
-    },
-    "name": "Smolyan"
+    "comments": null
   },
   "22": {
+    "name": "Sofia-Grad",
+    "code": null,
     "unofficial_names": "Sofia-Grad",
+    "geo": {
+      "latitude": 42.6977082,
+      "longitude": 23.3218675,
+      "min_latitude": 42.4900111,
+      "min_longitude": 23.1909885,
+      "max_latitude": 42.7877752,
+      "max_longitude": 23.4569049
+    },
     "translations": {
       "en": "Sofia",
       "ar": "مقاطعة مدينة صوفيا",
@@ -1331,8 +1587,28 @@
       "pl": "Obwód miejski Sofia",
       "ro": "Regiunea Sofia-capitala",
       "ru": "София",
-      "uk": "Міська область Софія"
+      "uk": "Міська область Софія",
+      "ceb": "Sofiya-Grad",
+      "sr_Latn": "Oblast Sofija-grad",
+      "zh": "索菲亞市州",
+      "ja": "ソフィア市州",
+      "sq": "Sofia kryeqytet",
+      "ccp": "𑄥𑄧𑄜𑄨𑄠",
+      "sr": "Област Софија-град",
+      "ga": "Cúige Cathair Sofia",
+      "ko": "소피아시주",
+      "hu": "Szófia főváros",
+      "sk": "Sofia²",
+      "eu": "Sofia-hiria probintzia",
+      "bs": "Oblast Sofija-grad",
+      "mk": "Софија-град"
     },
+    "comments": null
+  },
+  "23": {
+    "name": "Sofia",
+    "code": null,
+    "unofficial_names": "Sofia",
     "geo": {
       "latitude": 42.6977082,
       "longitude": 23.3218675,
@@ -1341,10 +1617,6 @@
       "max_latitude": 42.7877752,
       "max_longitude": 23.4569049
     },
-    "name": "Sofia-Grad"
-  },
-  "23": {
-    "unofficial_names": "Sofia",
     "translations": {
       "en": "Sofia District",
       "ar": "مقاطعة صوفيا",
@@ -1391,20 +1663,53 @@
       "tr": "Sofya ili",
       "uk": "Софійська область",
       "ur": "صوفیہ صوبہ",
-      "vi": "Tỉnh Sofia"
+      "vi": "Tỉnh Sofia",
+      "lv": "Sofijas apgabals",
+      "cy": "Sofia",
+      "af": "Sofia",
+      "ceb": "Sofiya",
+      "sr_Latn": "Sofijska oblast",
+      "zh": "索菲亞州",
+      "sw": "Sofia",
+      "yue_Hans": "索菲亚",
+      "jv": "Sofia",
+      "sq": "Provinca Sofia",
+      "ccp": "𑄥𑄧𑄜𑄨𑄠 𑄎𑄬𑄣",
+      "ga": "Cúige Sofia",
+      "gl": "Sofía, Bulgaria",
+      "ky": "София",
+      "hu": "Szófia",
+      "is": "Sófía",
+      "eu": "Sofia probintzia",
+      "sl": "Sofija",
+      "pa": "ਸੋਫ਼ੀਆ",
+      "kk": "София",
+      "ml": "സോഫിയ",
+      "yue": "索菲亞",
+      "az": "Sofiya",
+      "am": "ሶፊያ",
+      "be": "Сафійская вобласць",
+      "yo": "Sofia",
+      "uz": "Sofiya",
+      "bs": "Oblast Sofija",
+      "mk": "Софиска област",
+      "ne": "सोफिया",
+      "tk": "Sofiýa"
     },
-    "geo": {
-      "latitude": 42.6977082,
-      "longitude": 23.3218675,
-      "min_latitude": 42.4900111,
-      "min_longitude": 23.1909885,
-      "max_latitude": 42.7877752,
-      "max_longitude": 23.4569049
-    },
-    "name": "Sofia"
+    "comments": null
   },
   "24": {
+    "name": "Stara Zagora",
+    "code": null,
     "unofficial_names": "Stara Zagora",
+    "geo": {
+      "latitude": 42.4257769,
+      "longitude": 25.6344644,
+      "min_latitude": 42.3928015,
+      "min_longitude": 25.5810451,
+      "max_latitude": 42.44570880000001,
+      "max_longitude": 25.6686784
+    },
     "translations": {
       "en": "Stara Zagora",
       "ar": "مقاطعة استارا زاغورا",
@@ -1453,20 +1758,32 @@
       "tr": "Eski Zağra ili",
       "uk": "Старозагорська область",
       "ur": "ستارا زاگورا صوبہ",
-      "vi": "Stara Zagora (tỉnh)"
+      "vi": "Stara Zagora (tỉnh)",
+      "lv": "Stara Zagoras apgabals",
+      "ceb": "Oblast Stara Zagora",
+      "sr_Latn": "Starozagorska oblast",
+      "zh": "舊扎戈拉州",
+      "sq": "Provinca Stara Zagora",
+      "ccp": "𑄥𑄳𑄑𑄢𑄴 𑄎𑄉𑄮𑄢",
+      "ga": "Cúige Stara Zagora",
+      "hu": "Sztara Zagora megye",
+      "bs": "Oblast Stara Zagora",
+      "mk": "Старозагорска област"
     },
-    "geo": {
-      "latitude": 42.4257769,
-      "longitude": 25.6344644,
-      "min_latitude": 42.3928015,
-      "min_longitude": 25.5810451,
-      "max_latitude": 42.44570880000001,
-      "max_longitude": 25.6686784
-    },
-    "name": "Stara Zagora"
+    "comments": null
   },
   "25": {
+    "name": "Targovishte",
+    "code": null,
     "unofficial_names": "Targovishte",
+    "geo": {
+      "latitude": 43.2493556,
+      "longitude": 26.5727357,
+      "min_latitude": 43.2275267,
+      "min_longitude": 26.5195091,
+      "max_latitude": 43.2856429,
+      "max_longitude": 26.6072562
+    },
     "translations": {
       "en": "Targovishte",
       "ar": "مقاطعة تارغوفيشته",
@@ -1515,20 +1832,33 @@
       "tr": "Eski Cuma ili",
       "uk": "Тирговиштська область",
       "ur": "ترگوویشتے صوبہ",
-      "vi": "Targovishte (tỉnh)"
+      "vi": "Targovishte (tỉnh)",
+      "lv": "Targovištes apgabals",
+      "ceb": "Oblast Tŭrgovishte",
+      "sr_Latn": "Trgoviška oblast",
+      "zh": "特爾戈維什特州",
+      "sq": "Provinca Tërgovishçe",
+      "ccp": "𑄑𑄢𑄴𑄉𑄮𑄞𑄨𑄌𑄴𑄑𑄬",
+      "ga": "Cúige Targovishte",
+      "hu": "Targoviste megye",
+      "eu": "Targovixte probintzia",
+      "bs": "Oblast Trgovište",
+      "mk": "Трговишка област"
     },
-    "geo": {
-      "latitude": 43.2493556,
-      "longitude": 26.5727357,
-      "min_latitude": 43.2275267,
-      "min_longitude": 26.5195091,
-      "max_latitude": 43.2856429,
-      "max_longitude": 26.6072562
-    },
-    "name": "Targovishte"
+    "comments": null
   },
   "26": {
+    "name": "Haskovo",
+    "code": null,
     "unofficial_names": "Haskovo",
+    "geo": {
+      "latitude": 41.9344366,
+      "longitude": 25.5554462,
+      "min_latitude": 41.9114011,
+      "min_longitude": 25.4942471,
+      "max_latitude": 41.9541525,
+      "max_longitude": 25.6030698
+    },
     "translations": {
       "en": "Haskovo",
       "ar": "مقاطعة خاسكوو",
@@ -1579,20 +1909,31 @@
       "tr": "Hasköy ili",
       "uk": "Хасковська область",
       "ur": "خاسکوو صوبہ",
-      "vi": "Haskovo"
+      "vi": "Haskovo",
+      "lv": "Haskovas apgabals",
+      "ceb": "Oblast Khaskovo",
+      "sr_Latn": "Haskovska oblast",
+      "zh": "哈斯科沃州",
+      "sq": "Provinca Haskovo",
+      "ccp": "𑄦𑄌𑄴𑄇𑄮𑄞𑄮",
+      "ga": "Cúige Haskovo",
+      "bs": "Oblast Haskovo",
+      "mk": "Хасковска област"
     },
-    "geo": {
-      "latitude": 41.9344366,
-      "longitude": 25.5554462,
-      "min_latitude": 41.9114011,
-      "min_longitude": 25.4942471,
-      "max_latitude": 41.9541525,
-      "max_longitude": 25.6030698
-    },
-    "name": "Haskovo"
+    "comments": null
   },
   "27": {
+    "name": "Šumen",
+    "code": null,
     "unofficial_names": "Šumen",
+    "geo": {
+      "latitude": 43.2712398,
+      "longitude": 26.9361286,
+      "min_latitude": 43.2250909,
+      "min_longitude": 26.8972271,
+      "max_latitude": 43.3144123,
+      "max_longitude": 27.0506347
+    },
     "translations": {
       "en": "Shumen",
       "ar": "مقاطعة شومن",
@@ -1643,20 +1984,31 @@
       "tr": "Şumnu ili",
       "uk": "Шуменська область",
       "ur": "شومن صوبہ",
-      "vi": "Shumen"
+      "vi": "Shumen",
+      "ceb": "Oblast Shumen",
+      "sr_Latn": "Šumenska oblast",
+      "zh": "舒門州",
+      "sq": "Provinca Shumen",
+      "ccp": "𑄥𑄪𑄟𑄬𑄚𑄴",
+      "ga": "Cúige Shumen",
+      "hu": "Sumen megye",
+      "bs": "Oblast Šumen",
+      "mk": "Шуменска област"
     },
-    "geo": {
-      "latitude": 43.2712398,
-      "longitude": 26.9361286,
-      "min_latitude": 43.2250909,
-      "min_longitude": 26.8972271,
-      "max_latitude": 43.3144123,
-      "max_longitude": 27.0506347
-    },
-    "name": "Šumen"
+    "comments": null
   },
   "28": {
+    "name": "Yambol",
+    "code": null,
     "unofficial_names": "Yambol",
+    "geo": {
+      "latitude": 42.48419990000001,
+      "longitude": 26.5035023,
+      "min_latitude": 42.44753739999999,
+      "min_longitude": 26.4646359,
+      "max_latitude": 42.5067417,
+      "max_longitude": 26.5412634
+    },
     "translations": {
       "en": "Yambol",
       "ar": "محافظة يامبول",
@@ -1708,17 +2060,18 @@
       "tr": "Yambol ili",
       "uk": "Ямбольська область",
       "ur": "یامبول صوبہ",
-      "vi": "Yambol"
+      "vi": "Yambol",
+      "ceb": "Obshtina Yambol",
+      "sr_Latn": "Jambolska oblast",
+      "zh": "揚博爾州",
+      "sq": "Provinca Jambol",
+      "ccp": "𑄠𑄟𑄴𑄝𑄧𑄣𑄴",
+      "ga": "Cúige Yambol",
+      "az": "Yambol vilayəti",
+      "bs": "Oblast Jambol",
+      "mk": "Јамболска област"
     },
-    "geo": {
-      "latitude": 42.48419990000001,
-      "longitude": 26.5035023,
-      "min_latitude": 42.44753739999999,
-      "min_longitude": 26.4646359,
-      "max_latitude": 42.5067417,
-      "max_longitude": 26.5412634
-    },
-    "name": "Yambol"
+    "comments": null
   }
 }
 

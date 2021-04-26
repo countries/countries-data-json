@@ -1,9 +1,8 @@
 {
   "DS": {
+    "name": "Devonshire",
+    "code": null,
     "unofficial_names": "Devonshire",
-    "translations": {
-      "en": "Devonshire"
-    },
     "geo": {
       "latitude": 32.30278,
       "longitude": -64.75583,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Devonshire",
+    "translations": {
+      "en": "Devonshire"
+    },
     "comments": null
   },
   "GC": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
-    "translations": {
-      "en": "Saint George"
-    },
     "geo": {
       "latitude": 32.38417,
       "longitude": -64.67639,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint George",
+    "translations": {
+      "en": "Saint George"
+    },
     "comments": null
   },
   "HA": {
+    "name": "Hamilton",
+    "code": null,
     "unofficial_names": "Hamilton",
-    "translations": {
-      "en": "Hamilton"
-    },
     "geo": {
       "latitude": 32.34222,
       "longitude": -64.72833,
@@ -44,14 +45,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Hamilton",
+    "translations": {
+      "en": "Hamilton"
+    },
     "comments": null
   },
   "HC": {
+    "name": "Hamilton City",
+    "code": null,
     "unofficial_names": "Hamilton City",
-    "translations": {
-      "en": "Hamilton City"
-    },
     "geo": {
       "latitude": 32.29326,
       "longitude": -64.78063,
@@ -60,14 +62,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Hamilton City",
+    "translations": {
+      "en": "Hamilton City"
+    },
     "comments": null
   },
   "PB": {
+    "name": "Pembroke",
+    "code": null,
     "unofficial_names": "Pembroke",
-    "translations": {
-      "en": "Pembroke"
-    },
     "geo": {
       "latitude": 32.29944,
       "longitude": -64.79278,
@@ -76,14 +79,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Pembroke",
+    "translations": {
+      "en": "Pembroke"
+    },
     "comments": null
   },
   "PG": {
+    "name": "Paget",
+    "code": null,
     "unofficial_names": "Paget",
-    "translations": {
-      "en": "Paget"
-    },
     "geo": {
       "latitude": 32.27833,
       "longitude": -64.78167,
@@ -92,14 +96,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Paget",
+    "translations": {
+      "en": "Paget"
+    },
     "comments": null
   },
   "SA": {
+    "name": "Sandys",
+    "code": null,
     "unofficial_names": "Sandys",
-    "translations": {
-      "en": "Sandys"
-    },
     "geo": {
       "latitude": 32.29345,
       "longitude": -64.86828,
@@ -108,14 +113,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Sandys",
+    "translations": {
+      "en": "Sandys"
+    },
     "comments": null
   },
   "SG": {
+    "name": "Saint George's",
+    "code": null,
     "unofficial_names": "Saint George's",
-    "translations": {
-      "en": "Saint George's"
-    },
     "geo": {
       "latitude": 32.3726,
       "longitude": -64.69437,
@@ -124,14 +130,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint George's",
+    "translations": {
+      "en": "Saint George's"
+    },
     "comments": null
   },
   "SH": {
+    "name": "Southampton",
+    "code": null,
     "unofficial_names": "Southampton",
-    "translations": {
-      "en": "Southampton"
-    },
     "geo": {
       "latitude": 32.25083,
       "longitude": -64.85639,
@@ -140,14 +147,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Southampton",
+    "translations": {
+      "en": "Southampton"
+    },
     "comments": null
   },
   "SM": {
+    "name": "Smith's",
+    "code": null,
     "unofficial_names": "Smith's",
-    "translations": {
-      "en": "Smith's"
-    },
     "geo": {
       "latitude": 32.31528,
       "longitude": -64.73528,
@@ -156,14 +164,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Smith's",
+    "translations": {
+      "en": "Smith's"
+    },
     "comments": null
   },
   "WA": {
+    "name": "Warwick",
+    "code": null,
     "unofficial_names": "Warwick",
-    "translations": {
-      "en": "Warwick"
-    },
     "geo": {
       "latitude": 32.26583,
       "longitude": -64.80722,
@@ -172,7 +181,9 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Warwick",
+    "translations": {
+      "en": "Warwick"
+    },
     "comments": null
   }
 }

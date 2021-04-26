@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Saint Andrew",
+    "code": null,
     "unofficial_names": "Saint Andrew",
+    "geo": {
+      "latitude": 12.1230598,
+      "longitude": -61.64211719999999,
+      "min_latitude": 12.048629,
+      "min_longitude": -61.701438,
+      "max_latitude": 12.17327,
+      "max_longitude": -61.59250969999999
+    },
     "translations": {
       "en": "Saint Andrew",
       "ar": "أبرشية سانت أندرو",
@@ -36,20 +46,26 @@
       "tr": "Saint Andrew Parish",
       "ur": "سینٹ اینڈریو پریش، گریناڈا",
       "vi": "Giáo xứ Saint Andrew",
-      "zh": "聖安德魯區 (格林納達)"
+      "zh": "聖安德魯區 (格林納達)",
+      "lv": "Sentrendrū pagasts",
+      "ceb": "Saint Andrew (parokya sa Grenada)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄪",
+      "uk": "Парафія Сент-Андру"
     },
-    "geo": {
-      "latitude": 12.1230598,
-      "longitude": -61.64211719999999,
-      "min_latitude": 12.048629,
-      "min_longitude": -61.701438,
-      "max_latitude": 12.17327,
-      "max_longitude": -61.59250969999999
-    },
-    "name": "Saint Andrew"
+    "comments": null
   },
   "02": {
+    "name": "Saint David",
+    "code": null,
     "unofficial_names": "Saint David",
+    "geo": {
+      "latitude": 12.0456435,
+      "longitude": -61.6888738,
+      "min_latitude": 12.0065127,
+      "min_longitude": -61.71738500000001,
+      "max_latitude": 12.07608,
+      "max_longitude": -61.6356962
+    },
     "translations": {
       "en": "Saint David",
       "ar": "أبرشية القديس ديفيد",
@@ -83,20 +99,27 @@
       "th": "เซนต์เดวิด",
       "tr": "Saint David Parish",
       "ur": "سینٹ ڈیوڈ پریش، گریناڈا",
-      "vi": "Giáo xứ Saint David"
+      "vi": "Giáo xứ Saint David",
+      "lv": "Sentdeivida pagasts",
+      "ceb": "Saint David (parokya sa Grenada)",
+      "zh": "聖戴維區 (格林納達)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄓𑄬𑄞𑄨𑄖𑄴",
+      "uk": "Парафія Сент-Девід"
     },
-    "geo": {
-      "latitude": 12.0456435,
-      "longitude": -61.6888738,
-      "min_latitude": 12.0065127,
-      "min_longitude": -61.71738500000001,
-      "max_latitude": 12.07608,
-      "max_longitude": -61.6356962
-    },
-    "name": "Saint David"
+    "comments": null
   },
   "03": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
+    "geo": {
+      "latitude": 12.0714317,
+      "longitude": -61.73564330000001,
+      "min_latitude": 11.9852072,
+      "min_longitude": -61.80193610000001,
+      "max_latitude": 12.1108259,
+      "max_longitude": -61.6958989
+    },
     "translations": {
       "en": "Saint George",
       "ar": "أبرشية القديس جورج",
@@ -131,20 +154,27 @@
       "th": "เซนต์จอร์จ",
       "tr": "Sain George Parish",
       "ur": "سینٹ جارج پریش، گریناڈا",
-      "vi": "Giáo xứ Saint George"
+      "vi": "Giáo xứ Saint George",
+      "lv": "Sentdžordža pagasts",
+      "ceb": "Saint George",
+      "zh": "聖喬治區 (格林納達)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄢𑄴𑄎𑄴",
+      "uk": "Парафія Сент-Джордж"
     },
-    "geo": {
-      "latitude": 12.0714317,
-      "longitude": -61.73564330000001,
-      "min_latitude": 11.9852072,
-      "min_longitude": -61.80193610000001,
-      "max_latitude": 12.1108259,
-      "max_longitude": -61.6958989
-    },
-    "name": "Saint George"
+    "comments": null
   },
   "04": {
+    "name": "Saint John",
+    "code": null,
     "unofficial_names": "Saint John",
+    "geo": {
+      "latitude": 12.130824,
+      "longitude": -61.71225699999999,
+      "min_latitude": 12.108849,
+      "min_longitude": -61.75262300000001,
+      "max_latitude": 12.177205,
+      "max_longitude": -61.682125
+    },
     "translations": {
       "en": "Saint John",
       "ar": "أبرشية القديس جون",
@@ -178,20 +208,27 @@
       "th": "เซนต์ จอน เพลิส",
       "tr": "Saint John Parish",
       "ur": "سینٹ جان پریش، گریناڈا",
-      "vi": "Giáo xứ Saint John"
+      "vi": "Giáo xứ Saint John",
+      "lv": "Sentdžona pagasts",
+      "ceb": "Saint John (parokya sa Grenada)",
+      "zh": "聖約翰區 (格林納達)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄚𑄴",
+      "uk": "Парафія Сент-Джон"
     },
-    "geo": {
-      "latitude": 12.130824,
-      "longitude": -61.71225699999999,
-      "min_latitude": 12.108849,
-      "min_longitude": -61.75262300000001,
-      "max_latitude": 12.177205,
-      "max_longitude": -61.682125
-    },
-    "name": "Saint John"
+    "comments": null
   },
   "05": {
+    "name": "Saint Mark",
+    "code": null,
     "unofficial_names": "Saint Mark",
+    "geo": {
+      "latitude": 12.19023,
+      "longitude": -61.6888738,
+      "min_latitude": 12.1516449,
+      "min_longitude": -61.72427709999999,
+      "max_latitude": 12.219914,
+      "max_longitude": -61.6701531
+    },
     "translations": {
       "en": "Saint Mark",
       "ar": "أبرشية القديس مارك",
@@ -225,20 +262,27 @@
       "th": "ตำบลเซนต์มาร์ค",
       "tr": "Saint Mark Parish",
       "ur": "سینٹ مارک پریش، گریناڈا",
-      "vi": "Giáo xứ Saint Mark"
+      "vi": "Giáo xứ Saint Mark",
+      "lv": "Sentmarka pagasts",
+      "ceb": "Saint Mark (parokya sa Grenada)",
+      "zh": "聖馬克區 (格林納達)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄟𑄢𑄴𑄇𑄴",
+      "uk": "Парафія Сент-Марк"
     },
-    "geo": {
-      "latitude": 12.19023,
-      "longitude": -61.6888738,
-      "min_latitude": 12.1516449,
-      "min_longitude": -61.72427709999999,
-      "max_latitude": 12.219914,
-      "max_longitude": -61.6701531
-    },
-    "name": "Saint Mark"
+    "comments": null
   },
   "06": {
+    "name": "Saint Patrick",
+    "code": null,
     "unofficial_names": "Saint Patrick",
+    "geo": {
+      "latitude": 12.2056921,
+      "longitude": -61.64211719999999,
+      "min_latitude": 12.1670921,
+      "min_longitude": -61.68279190000001,
+      "max_latitude": 12.3308232,
+      "max_longitude": -61.54397489999999
+    },
     "translations": {
       "en": "Saint Patrick",
       "ar": "أبرشية القديس باتريك",
@@ -272,20 +316,27 @@
       "th": "ตำบลเซนต์แพทริค",
       "tr": "Saint Patrick Parish",
       "ur": "سینٹ پیٹرک پریش، گریناڈا",
-      "vi": "Giáo xứ Saint Patrick"
+      "vi": "Giáo xứ Saint Patrick",
+      "lv": "Sentpatrika pagasts",
+      "ceb": "Saint Patrick (parokya sa Grenada)",
+      "zh": "聖帕特里克區 (格林納達)",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄬𑄑𑄳𑄢𑄨𑄇𑄴",
+      "uk": "Парафія Сент-Патрік"
     },
-    "geo": {
-      "latitude": 12.2056921,
-      "longitude": -61.64211719999999,
-      "min_latitude": 12.1670921,
-      "min_longitude": -61.68279190000001,
-      "max_latitude": 12.3308232,
-      "max_longitude": -61.54397489999999
-    },
-    "name": "Saint Patrick"
+    "comments": null
   },
   "10": {
+    "name": "Southern Grenadine Islands",
+    "code": null,
     "unofficial_names": "Southern Grenadine Islands",
+    "geo": {
+      "latitude": 12.4785888,
+      "longitude": -61.4493842,
+      "min_latitude": 12.401671,
+      "min_longitude": -61.4989469,
+      "max_latitude": 12.5298576,
+      "max_longitude": -61.378178
+    },
     "translations": {
       "en": "Carriacou and Petite Martinique",
       "ar": "كارياكو و بيتي مارتينيك",
@@ -318,17 +369,15 @@
       "th": "กาเรียกู แอน พีไทร์ มาตินี่คิว",
       "tr": "Carriacou and Petite Martinique",
       "ur": "کاریاکو اور پیٹیٹے مارٹنیک",
-      "vi": "Carriacou và Petite Martinique"
+      "vi": "Carriacou và Petite Martinique",
+      "lv": "Kariaku un Mazā Martinika",
+      "ceb": "Petite Martinique",
+      "lt": "Karioka",
+      "zh": "卡里亞庫和小馬提尼克",
+      "ccp": "𑄇𑄳𑄠𑄢𑄨𑄠𑄇𑄮 𑄃𑄳𑄃 𑄛𑄬𑄑𑄨𑄖𑄴 𑄟𑄢𑄴𑄑𑄨𑄚𑄨𑄇𑄴",
+      "uk": "Карріаку і Малий Мартінік"
     },
-    "geo": {
-      "latitude": 12.4785888,
-      "longitude": -61.4493842,
-      "min_latitude": 12.401671,
-      "min_longitude": -61.4989469,
-      "max_latitude": 12.5298576,
-      "max_longitude": -61.378178
-    },
-    "name": "Southern Grenadine Islands"
+    "comments": null
   }
 }
 

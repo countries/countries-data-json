@@ -1,6 +1,16 @@
 {
   "DB": {
+    "name": "Diourbel",
+    "code": null,
     "unofficial_names": "Diourbel",
+    "geo": {
+      "latitude": 14.6561238,
+      "longitude": -16.2345633,
+      "min_latitude": 14.6305864,
+      "min_longitude": -16.2716103,
+      "max_latitude": 14.6780086,
+      "max_longitude": -16.1984396
+    },
     "translations": {
       "en": "Diourbel",
       "ar": "إقليم ديوربيل",
@@ -40,20 +50,26 @@
       "tr": "Diorbel Bölgesi",
       "ur": "دیوربیل علاقہ",
       "vi": "Khu vực Diourbel",
-      "zh": "久尔贝勒区"
+      "zh": "久尔贝勒区",
+      "lv": "Diūrbelas reģions",
+      "ceb": "Diourbel",
+      "ccp": "𑄓𑄨𑄠𑄮𑄢𑄴𑄝𑄬𑄣𑄴",
+      "uk": "Регіон Діурбель"
     },
-    "geo": {
-      "latitude": 14.6561238,
-      "longitude": -16.2345633,
-      "min_latitude": 14.6305864,
-      "min_longitude": -16.2716103,
-      "max_latitude": 14.6780086,
-      "max_longitude": -16.1984396
-    },
-    "name": "Diourbel"
+    "comments": null
   },
   "DK": {
+    "name": "Dakar",
+    "code": null,
     "unofficial_names": "Dakar",
+    "geo": {
+      "latitude": 14.7645042,
+      "longitude": -17.3660286,
+      "min_latitude": 14.6469399,
+      "min_longitude": -17.5298482,
+      "max_latitude": 14.8178645,
+      "max_longitude": -17.2463906
+    },
     "translations": {
       "en": "Dakar",
       "ar": "داكار",
@@ -91,20 +107,28 @@
       "th": "เมืองดาการ์",
       "tr": "Dakar",
       "ur": "ڈاکار علاقہ",
-      "vi": "Dakar"
+      "vi": "Dakar",
+      "lv": "Dakara",
+      "ceb": "Dakar",
+      "zh": "达喀尔区",
+      "ccp": "𑄓𑄇𑄢𑄴",
+      "uk": "Дакар",
+      "bs": "Regija Dakar"
     },
-    "geo": {
-      "latitude": 14.7645042,
-      "longitude": -17.3660286,
-      "min_latitude": 14.6469399,
-      "min_longitude": -17.5298482,
-      "max_latitude": 14.8178645,
-      "max_longitude": -17.2463906
-    },
-    "name": "Dakar"
+    "comments": null
   },
   "FK": {
+    "name": "Fatick",
+    "code": null,
     "unofficial_names": "Fatick",
+    "geo": {
+      "latitude": 14.333333,
+      "longitude": -16.406944,
+      "min_latitude": 14.3167832,
+      "min_longitude": -16.4239168,
+      "max_latitude": 14.3521257,
+      "max_longitude": -16.3943481
+    },
     "translations": {
       "en": "Fatick",
       "ar": "اقليم فاتيك",
@@ -141,20 +165,26 @@
       "th": "เขตฟาทริก",
       "tr": "Fatick",
       "ur": "فاتیک علاقہ",
-      "vi": "Fatick"
+      "vi": "Fatick",
+      "lv": "Fatika",
+      "zh": "法蒂克区",
+      "ccp": "𑄜𑄑𑄨𑄇𑄴",
+      "uk": "Регіон Фатік"
     },
-    "geo": {
-      "latitude": 14.333333,
-      "longitude": -16.406944,
-      "min_latitude": 14.3167832,
-      "min_longitude": -16.4239168,
-      "max_latitude": 14.3521257,
-      "max_longitude": -16.3943481
-    },
-    "name": "Fatick"
+    "comments": null
   },
   "KD": {
+    "name": "Kolda",
+    "code": null,
     "unofficial_names": "Kolda",
+    "geo": {
+      "latitude": 12.883333,
+      "longitude": -14.95,
+      "min_latitude": 12.8554019,
+      "min_longitude": -14.9931822,
+      "max_latitude": 12.9560481,
+      "max_longitude": -14.9008942
+    },
     "translations": {
       "en": "Kolda",
       "ar": "كولدا",
@@ -193,20 +223,27 @@
       "th": "เขตโคลดา",
       "tr": "Kolda",
       "ur": "کولدا علاقہ",
-      "vi": "Kolda"
+      "vi": "Kolda",
+      "lv": "Kolda",
+      "ceb": "Kolda",
+      "zh": "科爾達區",
+      "ccp": "𑄇𑄮𑄣𑄴𑄓",
+      "uk": "Регіон Колда"
     },
-    "geo": {
-      "latitude": 12.883333,
-      "longitude": -14.95,
-      "min_latitude": 12.8554019,
-      "min_longitude": -14.9931822,
-      "max_latitude": 12.9560481,
-      "max_longitude": -14.9008942
-    },
-    "name": "Kolda"
+    "comments": null
   },
   "KL": {
+    "name": "Kaolack",
+    "code": null,
     "unofficial_names": "Kaolack",
+    "geo": {
+      "latitude": 14.1652083,
+      "longitude": -16.0757749,
+      "min_latitude": 14.1218433,
+      "min_longitude": -16.1165143,
+      "max_latitude": 14.1926668,
+      "max_longitude": -16.0231304
+    },
     "translations": {
       "en": "Kaolack",
       "ar": "كاولاك",
@@ -244,20 +281,26 @@
       "tr": "kaolack",
       "uk": "Каолак",
       "ur": "کاولاک علاقہ",
-      "vi": "Kaolack"
+      "vi": "Kaolack",
+      "lv": "Kaulaka",
+      "ceb": "Kaolack",
+      "zh": "考拉克区",
+      "ccp": "𑄇𑄠𑄮𑄣𑄇𑄴"
     },
-    "geo": {
-      "latitude": 14.1652083,
-      "longitude": -16.0757749,
-      "min_latitude": 14.1218433,
-      "min_longitude": -16.1165143,
-      "max_latitude": 14.1926668,
-      "max_longitude": -16.0231304
-    },
-    "name": "Kaolack"
+    "comments": null
   },
   "LG": {
+    "name": "Louga",
+    "code": null,
     "unofficial_names": "Louga",
+    "geo": {
+      "latitude": 15.616667,
+      "longitude": -16.216667,
+      "min_latitude": 15.5760808,
+      "min_longitude": -16.273842,
+      "max_latitude": 15.6584121,
+      "max_longitude": -16.1677551
+    },
     "translations": {
       "en": "Louga",
       "ar": "إقليم لوغا",
@@ -296,20 +339,28 @@
       "th": "ลัวกา",
       "tr": "Louga",
       "ur": "لؤگا علاقہ",
-      "vi": "Louga"
+      "vi": "Louga",
+      "lv": "Lugas reģions",
+      "ceb": "Louga",
+      "zh": "盧加區",
+      "ccp": "𑄣𑄯𑄉",
+      "uk": "Регіон Луга",
+      "be": "Луга"
     },
-    "geo": {
-      "latitude": 15.616667,
-      "longitude": -16.216667,
-      "min_latitude": 15.5760808,
-      "min_longitude": -16.273842,
-      "max_latitude": 15.6584121,
-      "max_longitude": -16.1677551
-    },
-    "name": "Louga"
+    "comments": null
   },
   "MT": {
+    "name": "Matam",
+    "code": null,
     "unofficial_names": "Matam",
+    "geo": {
+      "latitude": 15.6600225,
+      "longitude": -13.2576906,
+      "min_latitude": 15.6390722,
+      "min_longitude": -13.2636738,
+      "max_latitude": 15.6690317,
+      "max_longitude": -13.2462503
+    },
     "translations": {
       "en": "Matam",
       "ar": "ماتام",
@@ -346,20 +397,27 @@
       "th": "มปูมาลานกา",
       "tr": "Matam",
       "ur": "ماتام علاقہ",
-      "vi": "Matam"
+      "vi": "Matam",
+      "lv": "Matama",
+      "ceb": "Matam",
+      "zh": "馬塔姆區",
+      "ccp": "𑄟𑄑𑄟𑄴",
+      "uk": "Регіон Матам"
     },
-    "geo": {
-      "latitude": 15.6600225,
-      "longitude": -13.2576906,
-      "min_latitude": 15.6390722,
-      "min_longitude": -13.2636738,
-      "max_latitude": 15.6690317,
-      "max_longitude": -13.2462503
-    },
-    "name": "Matam"
+    "comments": null
   },
   "SL": {
+    "name": "Saint-Louis",
+    "code": null,
     "unofficial_names": "Saint-Louis",
+    "geo": {
+      "latitude": 16.0326307,
+      "longitude": -16.4818167,
+      "min_latitude": 15.9638125,
+      "min_longitude": -16.5135574,
+      "max_latitude": 16.0760986,
+      "max_longitude": -16.403041
+    },
     "translations": {
       "en": "Saint-Louis",
       "ar": "إقليم سانت لويس",
@@ -396,20 +454,28 @@
       "th": "เซนต์ ลูอิส",
       "tr": "Saint-Louis",
       "ur": "سینٹ-لوئیس ریجن",
-      "vi": "Saint-Louis"
+      "vi": "Saint-Louis",
+      "lv": "Senluisa",
+      "ceb": "Saint-Louis",
+      "zh": "聖路易區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴-𑄣𑄪𑄃𑄨𑄌𑄴",
+      "uk": "Регіон Сент-Луїс",
+      "ca": "regió de Saint-Louis"
     },
-    "geo": {
-      "latitude": 16.0326307,
-      "longitude": -16.4818167,
-      "min_latitude": 15.9638125,
-      "min_longitude": -16.5135574,
-      "max_latitude": 16.0760986,
-      "max_longitude": -16.403041
-    },
-    "name": "Saint-Louis"
+    "comments": null
   },
   "TC": {
+    "name": "Tambacounda",
+    "code": null,
     "unofficial_names": "Tambacounda",
+    "geo": {
+      "latitude": 13.768889,
+      "longitude": -13.667222,
+      "min_latitude": 13.7446376,
+      "min_longitude": -13.7030293,
+      "max_latitude": 13.7971567,
+      "max_longitude": -13.6352349
+    },
     "translations": {
       "en": "Tambacounda",
       "ar": "إقليم تامباكوندا",
@@ -448,20 +514,27 @@
       "th": "จังหวัดสุโขทัย",
       "tr": "Tambacounda Bölgesi",
       "ur": "تامباکؤندا علاقہ",
-      "vi": "Khu vực Tambacounda"
+      "vi": "Khu vực Tambacounda",
+      "lv": "Tambakundas reģions",
+      "ceb": "Tambacounda",
+      "zh": "坦巴昆達區",
+      "ccp": "𑄑𑄟𑄴𑄝𑄇𑄯𑄅𑄪𑄚𑄴𑄓",
+      "uk": "Регіон Тамбакунда"
     },
-    "geo": {
-      "latitude": 13.768889,
-      "longitude": -13.667222,
-      "min_latitude": 13.7446376,
-      "min_longitude": -13.7030293,
-      "max_latitude": 13.7971567,
-      "max_longitude": -13.6352349
-    },
-    "name": "Tambacounda"
+    "comments": null
   },
   "TH": {
+    "name": "Thiès",
+    "code": null,
     "unofficial_names": "Thiès",
+    "geo": {
+      "latitude": 14.766667,
+      "longitude": -16.9,
+      "min_latitude": 14.7351422,
+      "min_longitude": -16.9828215,
+      "max_latitude": 14.8497212,
+      "max_longitude": -16.8717166
+    },
     "translations": {
       "en": "Thiès",
       "ar": "ثيس",
@@ -499,20 +572,28 @@
       "th": "ทีส",
       "tr": "Thiès",
       "ur": "تھیس علاقہ",
-      "vi": "Thiès"
+      "vi": "Thiès",
+      "lv": "Tjesas reģions",
+      "ceb": "Région de Thiès",
+      "zh": "捷斯區",
+      "fa": "منطقه تی‌یس",
+      "ccp": "𑄗𑄭𑄌𑄴",
+      "uk": "Регіон Тієс"
     },
-    "geo": {
-      "latitude": 14.766667,
-      "longitude": -16.9,
-      "min_latitude": 14.7351422,
-      "min_longitude": -16.9828215,
-      "max_latitude": 14.8497212,
-      "max_longitude": -16.8717166
-    },
-    "name": "Thiès"
+    "comments": null
   },
   "ZG": {
+    "name": "Ziguinchor",
+    "code": null,
     "unofficial_names": "Ziguinchor",
+    "geo": {
+      "latitude": 12.583333,
+      "longitude": -16.266667,
+      "min_latitude": 12.5297862,
+      "min_longitude": -16.3063271,
+      "max_latitude": 12.5895155,
+      "max_longitude": -16.2420399
+    },
     "translations": {
       "en": "Ziguinchor",
       "ar": "زينغشور",
@@ -550,19 +631,28 @@
       "th": "ซิกินชอร์",
       "tr": "Ziguinchor",
       "ur": "زیگینچور علاقہ",
-      "vi": "Ziguinchor"
+      "vi": "Ziguinchor",
+      "lv": "Ziginšora",
+      "ceb": "Ziguinchor",
+      "zh": "济金绍尔区",
+      "fa": "ناحیه زیگینچور",
+      "ccp": "𑄎𑄨𑄉𑄭𑄪𑄚𑄴𑄇𑄮𑄢𑄴",
+      "uk": "Регіон Зігіншор"
     },
-    "geo": {
-      "latitude": 12.583333,
-      "longitude": -16.266667,
-      "min_latitude": 12.5297862,
-      "min_longitude": -16.3063271,
-      "max_latitude": 12.5895155,
-      "max_longitude": -16.2420399
-    },
-    "name": "Ziguinchor"
+    "comments": null
   },
   "KA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "اقليم كفرين",
       "bn": "ক্যাফ্রিন",
@@ -597,10 +687,27 @@
       "th": "เขตคราฟฟริเน",
       "tr": "Kaffrine",
       "ur": "کفرین علاقہ",
-      "vi": "Kaffrine"
-    }
+      "vi": "Kaffrine",
+      "lv": "Kafrines reģions",
+      "lt": "Kafrinė",
+      "zh": "卡夫林區",
+      "ccp": "𑄇𑄜𑄳𑄢𑄨𑄚𑄴",
+      "uk": "Регіон Кафрін"
+    },
+    "comments": null
   },
   "KE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كيدوغو",
       "bn": "কেদুগো",
@@ -635,10 +742,28 @@
       "th": "เคดูดู",
       "tr": "Kédougou",
       "ur": "کیدؤگؤ علاقہ",
-      "vi": "Kédougou"
-    }
+      "vi": "Kédougou",
+      "lv": "Kēdugu",
+      "ceb": "Région de Kédougou",
+      "lt": "Kedugu",
+      "zh": "凱杜古區",
+      "ccp": "𑄇𑄬𑄓𑄯𑄉𑄯",
+      "uk": "Регіон Кедугу"
+    },
+    "comments": null
   },
   "SE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سيدهيو",
       "bn": "সেধিউ",
@@ -673,8 +798,17 @@
       "th": "เซดเฮียว",
       "tr": "Sédhiou",
       "ur": "سیدھیو علاقہ",
-      "vi": "Sédhiou"
-    }
+      "vi": "Sédhiou",
+      "lv": "Sēgu",
+      "ceb": "Région de Sédhiou",
+      "lt": "Sediju regionas",
+      "zh": "塞久區",
+      "sq": "Rajoni Sédhiou",
+      "ccp": "𑄥𑄬𑄙𑄨𑄠𑄮",
+      "uk": "Регіон Седіу",
+      "be": "рэгіён Седзіу"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "BA": {
+    "name": "Banghazi",
+    "code": null,
     "unofficial_names": "Banghazi",
+    "geo": {
+      "latitude": 32.116667,
+      "longitude": 20.066667,
+      "min_latitude": 31.9760544,
+      "min_longitude": 19.9999527,
+      "max_latitude": 32.2094962,
+      "max_longitude": 20.2884299
+    },
     "translations": {
       "en": "Benghazi",
       "ar": "بنغازي",
@@ -54,20 +64,35 @@
       "uk": "Бенгазі",
       "ur": "بنغازی",
       "vi": "Benghazi",
-      "zh": "班加西"
+      "zh": "班加西",
+      "cy": "Benghazi",
+      "ceb": "Sha‘bīyat Banghāzī",
+      "sr_Latn": "Bengazi",
+      "yue_Hans": "班加西",
+      "sq": "Bengazi",
+      "ccp": "𑄝𑄬𑄚𑄴𑄊𑄎𑄨",
+      "ga": "Benghazi",
+      "is": "Benghazi",
+      "pa": "ਬਨਗ਼ਾਜ਼ੀ",
+      "kk": "Бенгази",
+      "yue": "班加西",
+      "uz": "Bingʻozi",
+      "bs": "Bengazi"
     },
-    "geo": {
-      "latitude": 32.116667,
-      "longitude": 20.066667,
-      "min_latitude": 31.9760544,
-      "min_longitude": 19.9999527,
-      "max_latitude": 32.2094962,
-      "max_longitude": 20.2884299
-    },
-    "name": "Banghazi"
+    "comments": null
   },
   "BU": {
+    "name": "Al Butnan",
+    "code": null,
     "unofficial_names": "Al Butnan",
+    "geo": {
+      "latitude": 29.7579854,
+      "longitude": 23.7632828,
+      "min_latitude": 27.971698,
+      "min_longitude": 23.0024879,
+      "max_latitude": 32.2137814,
+      "max_longitude": 25.1495356
+    },
     "translations": {
       "en": "Butnan",
       "ar": "شعبية البطنان",
@@ -109,20 +134,27 @@
       "tr": "El Butnan ili",
       "uk": "Ель-Бутнан",
       "ur": "بطنان ضلع",
-      "vi": "Quận Butnan"
+      "vi": "Quận Butnan",
+      "lv": "Butnānas šebīja",
+      "ceb": "Sha‘bīyat al Buţnān",
+      "zh": "布特南省",
+      "ccp": "𑄝𑄪𑄖𑄴𑄚𑄚𑄴",
+      "be": "Эль-Бутнан"
     },
-    "geo": {
-      "latitude": 29.7579854,
-      "longitude": 23.7632828,
-      "min_latitude": 27.971698,
-      "min_longitude": 23.0024879,
-      "max_latitude": 32.2137814,
-      "max_longitude": 25.1495356
-    },
-    "name": "Al Butnan"
+    "comments": null
   },
   "DR": {
+    "name": "Darnah",
+    "code": null,
     "unofficial_names": "Darnah",
+    "geo": {
+      "latitude": 32.766667,
+      "longitude": 22.633333,
+      "min_latitude": 32.7425359,
+      "min_longitude": 22.6118888,
+      "max_latitude": 32.7750619,
+      "max_longitude": 22.6741272
+    },
     "translations": {
       "en": "Derna",
       "ar": "شعبية درنة",
@@ -149,20 +181,25 @@
       "ru": "Дерна",
       "sv": "Darnah",
       "uk": "Дерна",
-      "ur": "درنہ ضلع"
+      "ur": "درنہ ضلع",
+      "ceb": "Darnah",
+      "zh": "德爾納省",
+      "ccp": "𑄓𑄢𑄴𑄚"
     },
-    "geo": {
-      "latitude": 32.766667,
-      "longitude": 22.633333,
-      "min_latitude": 32.7425359,
-      "min_longitude": 22.6118888,
-      "max_latitude": 32.7750619,
-      "max_longitude": 22.6741272
-    },
-    "name": "Darnah"
+    "comments": null
   },
   "GT": {
+    "name": "Ghat",
+    "code": null,
     "unofficial_names": "Ghat",
+    "geo": {
+      "latitude": 24.9640371,
+      "longitude": 10.1759285,
+      "min_latitude": 24.9340191,
+      "min_longitude": 10.148612,
+      "max_latitude": 24.9905903,
+      "max_longitude": 10.2097174
+    },
     "translations": {
       "en": "Ghat",
       "ar": "شعبية غات",
@@ -201,20 +238,26 @@
       "tr": "Ghat District",
       "uk": "Гат",
       "ur": "غات ضلع",
-      "vi": "Quận Ghat"
+      "vi": "Quận Ghat",
+      "lv": "Gātas šebīja",
+      "ceb": "Sha‘bīyat Ghāt",
+      "zh": "加特省",
+      "ccp": "𑄊𑄖𑄴"
     },
-    "geo": {
-      "latitude": 24.9640371,
-      "longitude": 10.1759285,
-      "min_latitude": 24.9340191,
-      "min_longitude": 10.148612,
-      "max_latitude": 24.9905903,
-      "max_longitude": 10.2097174
-    },
-    "name": "Ghat"
+    "comments": null
   },
   "JA": {
+    "name": "Al Jabal al Akhḑar",
+    "code": null,
     "unofficial_names": "Al Jabal al Akhḑar",
+    "geo": {
+      "latitude": 32.4032332,
+      "longitude": 21.6660725,
+      "min_latitude": 31.2525281,
+      "min_longitude": 21.3707509,
+      "max_latitude": 32.9385909,
+      "max_longitude": 22.0534001
+    },
     "translations": {
       "en": "Jabal al Akhdar",
       "ar": "شعبية الجبل الأخضر",
@@ -253,21 +296,26 @@
       "tr": "Jabak Al Akhdar",
       "uk": "Ель-Джебал Ель-Ахдар",
       "ur": "جبل الاخضر",
-      "vi": "Jabal al Akhdar"
+      "vi": "Jabal al Akhdar",
+      "lv": "Džabala al Ahdara",
+      "ceb": "Sha‘bīyat al Jabal al Akhḑar",
+      "zh": "綠山省",
+      "ccp": "𑄎𑄝𑄣𑄴 𑄃𑄣𑄴 𑄃𑄇𑄴𑄓𑄢𑄴"
     },
-    "geo": {
-      "latitude": 32.4032332,
-      "longitude": 21.6660725,
-      "min_latitude": 31.2525281,
-      "min_longitude": 21.3707509,
-      "max_latitude": 32.9385909,
-      "max_longitude": 22.0534001
-    },
-    "name": "Al Jabal al Akhḑar"
+    "comments": null
   },
   "JG": {
-    "unofficial_names": "Al Jabal al Gharbī",
     "name": "Al Jabal al Gharbī",
+    "code": null,
+    "unofficial_names": "Al Jabal al Gharbī",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Jabal al Gharbi",
       "ar": "شعبية الجبل الغربي",
@@ -288,11 +336,26 @@
       "ru": "Эль-Джабал-эль-Гарби",
       "sv": "Al Jabal al Gharbi",
       "uk": "Ель-Джабал-ель-Ґарбі",
-      "ur": "جبل الغربی ضلع"
-    }
+      "ur": "جبل الغربی ضلع",
+      "ceb": "Sha‘bīyat al Jabal al Gharbī",
+      "zh": "西山省",
+      "ccp": "𑄎𑄝𑄣𑄴 𑄃𑄣𑄴 𑄊𑄢𑄴𑄝𑄨",
+      "pt": "Jabal Algarbi"
+    },
+    "comments": null
   },
   "JI": {
+    "name": "Al Jifarah",
+    "code": null,
     "unofficial_names": "Al Jifarah",
+    "geo": {
+      "latitude": 32.4525904,
+      "longitude": 12.9435536,
+      "min_latitude": 32.236122,
+      "min_longitude": 12.678772,
+      "max_latitude": 32.756192,
+      "max_longitude": 13.1125019
+    },
     "translations": {
       "en": "Jafara",
       "ar": "شعبية الجفارة",
@@ -332,23 +395,29 @@
       "tr": "El Cfara ili",
       "uk": "Ель-Джифара",
       "ur": "جفارہ",
-      "vi": "Đô thị tự trị Jafara"
+      "vi": "Đô thị tự trị Jafara",
+      "lv": "Džifāra",
+      "ceb": "Sha‘bīyat al Jafārah",
+      "zh": "吉法拉省",
+      "ccp": "𑄎𑄜𑄧𑄢𑄴"
     },
-    "geo": {
-      "latitude": 32.4525904,
-      "longitude": 12.9435536,
-      "min_latitude": 32.236122,
-      "min_longitude": 12.678772,
-      "max_latitude": 32.756192,
-      "max_longitude": 13.1125019
-    },
-    "name": "Al Jifarah"
+    "comments": null
   },
   "JU": {
+    "name": "Al Jufrah",
+    "code": null,
     "unofficial_names": [
       "Al Jufrah",
       "Jofra"
     ],
+    "geo": {
+      "latitude": 27.9835135,
+      "longitude": 16.912251,
+      "min_latitude": 26.03828,
+      "min_longitude": 14.263115,
+      "max_latitude": 29.8889149,
+      "max_longitude": 18.9787859
+    },
     "translations": {
       "en": "Jufra",
       "ar": "شعبية الجفرة",
@@ -390,25 +459,31 @@
       "tr": "El Cufra ili",
       "uk": "Ель-Джуфра",
       "ur": "جفرہ ضلع",
-      "vi": "Jufra"
+      "vi": "Jufra",
+      "lv": "Džufras šebīja",
+      "ceb": "Al Jufrah (distrito)",
+      "zh": "朱夫拉省",
+      "ccp": "𑄎𑄪𑄜𑄳𑄢"
     },
-    "geo": {
-      "latitude": 27.9835135,
-      "longitude": 16.912251,
-      "min_latitude": 26.03828,
-      "min_longitude": 14.263115,
-      "max_latitude": 29.8889149,
-      "max_longitude": 18.9787859
-    },
-    "name": "Al Jufrah"
+    "comments": null
   },
   "KF": {
+    "name": "Al Kufrah",
+    "code": null,
     "unofficial_names": [
       "Al Kufrah",
       "Kofra",
       "Kufra",
       "Cufra"
     ],
+    "geo": {
+      "latitude": 23.3112389,
+      "longitude": 21.8568586,
+      "min_latitude": 19.5080431,
+      "min_longitude": 18.9363769,
+      "max_latitude": 27.0215295,
+      "max_longitude": 25
+    },
     "translations": {
       "en": "Kufra",
       "ar": "شعبية الكفرة",
@@ -450,24 +525,30 @@
       "tr": "El Kufra ili",
       "uk": "Ель-Куфра",
       "ur": "کفرہ ضلع",
-      "vi": "Quận Kufra"
+      "vi": "Quận Kufra",
+      "lv": "Kufras šebīja",
+      "ceb": "Al Kufrah",
+      "zh": "庫夫拉省",
+      "ccp": "𑄇𑄪𑄜𑄳𑄢"
     },
-    "geo": {
-      "latitude": 23.3112389,
-      "longitude": 21.8568586,
-      "min_latitude": 19.5080431,
-      "min_longitude": 18.9363769,
-      "max_latitude": 27.0215295,
-      "max_longitude": 25
-    },
-    "name": "Al Kufrah"
+    "comments": null
   },
   "MB": {
+    "name": "Al Murqub",
+    "code": null,
     "unofficial_names": [
       "Al Murqub",
       "Al Marqab",
       "al-Morqib"
     ],
+    "geo": {
+      "latitude": 32.4599677,
+      "longitude": 14.1001326,
+      "min_latitude": 31.961752,
+      "min_longitude": 13.1125019,
+      "max_latitude": 32.783028,
+      "max_longitude": 14.6691879
+    },
     "translations": {
       "en": "Murqub",
       "ar": "شعبية المرقب",
@@ -508,24 +589,30 @@
       "tr": "Murqup Belediyesi",
       "uk": "Ель-Марґаб",
       "ur": "مرقب ضلع",
-      "vi": "Đô thị tự trị Murqub"
+      "vi": "Đô thị tự trị Murqub",
+      "lv": "Murgūbas šebīja",
+      "ceb": "Al Marqab",
+      "zh": "迈尔盖卜省",
+      "ccp": "𑄟𑄪𑄢𑄴𑄇𑄪𑄛𑄴"
     },
-    "geo": {
-      "latitude": 32.4599677,
-      "longitude": 14.1001326,
-      "min_latitude": 31.961752,
-      "min_longitude": 13.1125019,
-      "max_latitude": 32.783028,
-      "max_longitude": 14.6691879
-    },
-    "name": "Al Murqub"
+    "comments": null
   },
   "MI": {
+    "name": "Mişrātah",
+    "code": null,
     "unofficial_names": [
       "Mişrātah",
       "Misurata",
       "Misratah"
     ],
+    "geo": {
+      "latitude": 32.377533,
+      "longitude": 15.092017,
+      "min_latitude": 32.1993655,
+      "min_longitude": 14.9191761,
+      "max_latitude": 32.4306869,
+      "max_longitude": 15.2752876
+    },
     "translations": {
       "en": "Misrata",
       "ar": "شعبية مصراتة",
@@ -566,24 +653,30 @@
       "tr": "Misrata District",
       "uk": "Місурата",
       "ur": "مصراتہ ضلع",
-      "vi": "Quận Misrata"
+      "vi": "Quận Misrata",
+      "lv": "Misrātas šebīja",
+      "ceb": "Sha‘bīyat Mişrātah",
+      "zh": "米蘇拉塔省",
+      "ccp": "𑄟𑄨𑄥𑄳𑄢𑄧𑄖"
     },
-    "geo": {
-      "latitude": 32.377533,
-      "longitude": 15.092017,
-      "min_latitude": 32.1993655,
-      "min_longitude": 14.9191761,
-      "max_latitude": 32.4306869,
-      "max_longitude": 15.2752876
-    },
-    "name": "Mişrātah"
+    "comments": null
   },
   "MJ": {
+    "name": "Al Marj",
+    "code": null,
     "unofficial_names": [
       "Al Marj",
       "The Meadows",
       "Marj"
     ],
+    "geo": {
+      "latitude": 32.486667,
+      "longitude": 20.833889,
+      "min_latitude": 32.4698104,
+      "min_longitude": 20.7941151,
+      "max_latitude": 32.5197498,
+      "max_longitude": 20.8616169
+    },
     "translations": {
       "en": "Marj",
       "ar": "شعبية المرج",
@@ -623,20 +716,26 @@
       "tr": "Marj District",
       "uk": "Ель-Мардж",
       "ur": "مرج ضلع",
-      "vi": "Quận Marj"
+      "vi": "Quận Marj",
+      "lv": "Mardžas šebīja",
+      "ceb": "Al Marj",
+      "zh": "邁爾季省",
+      "ccp": "𑄟𑄢𑄴𑄎𑄴"
     },
-    "geo": {
-      "latitude": 32.486667,
-      "longitude": 20.833889,
-      "min_latitude": 32.4698104,
-      "min_longitude": 20.7941151,
-      "max_latitude": 32.5197498,
-      "max_longitude": 20.8616169
-    },
-    "name": "Al Marj"
+    "comments": null
   },
   "MQ": {
+    "name": "Murzuq",
+    "code": null,
     "unofficial_names": "Murzuq",
+    "geo": {
+      "latitude": 25.9182262,
+      "longitude": 13.9260001,
+      "min_latitude": 25.8892733,
+      "min_longitude": 13.8951154,
+      "max_latitude": 25.9427651,
+      "max_longitude": 13.9626293
+    },
     "translations": {
       "en": "Murzuq",
       "ar": "شعبية مرزق",
@@ -677,20 +776,27 @@
       "tr": "Murzuq District",
       "uk": "Марзук",
       "ur": "مرزق ضلع",
-      "vi": "Quận Murzuq"
+      "vi": "Quận Murzuq",
+      "lv": "Murzūkas šebīja",
+      "ceb": "Murzuq",
+      "zh": "邁爾祖格省",
+      "ccp": "𑄟𑄪𑄢𑄴𑄎𑄪𑄇𑄴",
+      "hy": "Մարզուկ"
     },
-    "geo": {
-      "latitude": 25.9182262,
-      "longitude": 13.9260001,
-      "min_latitude": 25.8892733,
-      "min_longitude": 13.8951154,
-      "max_latitude": 25.9427651,
-      "max_longitude": 13.9626293
-    },
-    "name": "Murzuq"
+    "comments": null
   },
   "NL": {
+    "name": "Nālūt",
+    "code": null,
     "unofficial_names": "Nālūt",
+    "geo": {
+      "latitude": 31.868333,
+      "longitude": 10.9825,
+      "min_latitude": 31.8367114,
+      "min_longitude": 10.9610395,
+      "max_latitude": 31.8966715,
+      "max_longitude": 10.9945031
+    },
     "translations": {
       "en": "Nalut",
       "ar": "شعبية نالوت",
@@ -716,23 +822,28 @@
       "ru": "Налут",
       "sv": "Nalut",
       "uk": "Налут",
-      "ur": "نالوت ضلع"
+      "ur": "نالوت ضلع",
+      "ceb": "Sha‘bīyat Nālūt",
+      "zh": "納盧特省",
+      "ccp": "𑄚𑄣𑄪𑄖𑄴"
     },
-    "geo": {
-      "latitude": 31.868333,
-      "longitude": 10.9825,
-      "min_latitude": 31.8367114,
-      "min_longitude": 10.9610395,
-      "max_latitude": 31.8966715,
-      "max_longitude": 10.9945031
-    },
-    "name": "Nālūt"
+    "comments": null
   },
   "NQ": {
+    "name": "An Nuqaţ al Khams",
+    "code": null,
     "unofficial_names": [
       "An Nuqaţ al Khams",
       "Nuqāṭ al Ḫams"
     ],
+    "geo": {
+      "latitude": 32.6914909,
+      "longitude": 11.8891721,
+      "min_latitude": 32.201754,
+      "min_longitude": 11.3924129,
+      "max_latitude": 33.1688603,
+      "max_longitude": 12.4340378
+    },
     "translations": {
       "en": "Nuqat al Khams",
       "ar": "شعبية النقاط الخمس",
@@ -774,20 +885,26 @@
       "tr": "Nuqat Al Khams",
       "uk": "Ен-Нуґат ель-Хумс",
       "ur": "نقاط الخمس",
-      "vi": "Nuqat al Khams"
+      "vi": "Nuqat al Khams",
+      "lv": "Nukāta al Hamsa",
+      "ceb": "Sha‘bīyat an Nuqāţ al Khams",
+      "zh": "努加特海姆斯省",
+      "ccp": "𑄚𑄪𑄇𑄖𑄴 𑄃𑄣𑄴 𑄈𑄟𑄴𑄌𑄴"
     },
-    "geo": {
-      "latitude": 32.6914909,
-      "longitude": 11.8891721,
-      "min_latitude": 32.201754,
-      "min_longitude": 11.3924129,
-      "max_latitude": 33.1688603,
-      "max_longitude": 12.4340378
-    },
-    "name": "An Nuqaţ al Khams"
+    "comments": null
   },
   "SB": {
+    "name": "Sabhā",
+    "code": null,
     "unofficial_names": "Sabhā",
+    "geo": {
+      "latitude": 27.038889,
+      "longitude": 14.426389,
+      "min_latitude": 26.9692017,
+      "min_longitude": 14.3821335,
+      "max_latitude": 27.0898485,
+      "max_longitude": 14.5361138
+    },
     "translations": {
       "en": "Sabha",
       "ar": "شعبية سبها",
@@ -827,23 +944,29 @@
       "tr": "Sabha District",
       "uk": "Сабха",
       "ur": "صبہہ ضلع",
-      "vi": "Quận Sabha"
+      "vi": "Quận Sabha",
+      "lv": "Sebhas šebīja",
+      "ceb": "Sha‘bīyat Sabhā",
+      "zh": "塞卜哈省",
+      "ccp": "𑄥𑄞"
     },
-    "geo": {
-      "latitude": 27.038889,
-      "longitude": 14.426389,
-      "min_latitude": 26.9692017,
-      "min_longitude": 14.3821335,
-      "max_latitude": 27.0898485,
-      "max_longitude": 14.5361138
-    },
-    "name": "Sabhā"
+    "comments": null
   },
   "SR": {
+    "name": "Sirte",
+    "code": null,
     "unofficial_names": [
       "Sirt",
       "Surt"
     ],
+    "geo": {
+      "latitude": 31.205314,
+      "longitude": 16.588936,
+      "min_latitude": 31.156979,
+      "min_longitude": 16.5155527,
+      "max_latitude": 31.2135519,
+      "max_longitude": 16.6286411
+    },
     "translations": {
       "en": "Sirte",
       "ar": "شعبية سرت",
@@ -870,24 +993,29 @@
       "ru": "Сирт",
       "sv": "Surt",
       "uk": "Сирт",
-      "ur": "سرت ضلع"
+      "ur": "سرت ضلع",
+      "ceb": "Surt (distrito sa Libya)",
+      "zh": "蘇爾特省",
+      "ccp": "𑄥𑄨𑄢𑄴𑄑𑄬"
     },
-    "geo": {
-      "latitude": 31.205314,
-      "longitude": 16.588936,
-      "min_latitude": 31.156979,
-      "min_longitude": 16.5155527,
-      "max_latitude": 31.2135519,
-      "max_longitude": 16.6286411
-    },
-    "name": "Sirte"
+    "comments": null
   },
   "TB": {
+    "name": "Tarabulus",
+    "code": null,
     "unofficial_names": [
       "Ţarābulus",
       "Tripoli",
       "Tripoli"
     ],
+    "geo": {
+      "latitude": 32.8829369,
+      "longitude": 13.1883359,
+      "min_latitude": 32.8639441,
+      "min_longitude": 13.1531882,
+      "max_latitude": 32.9019297,
+      "max_longitude": 13.2234836
+    },
     "translations": {
       "en": "Tripoli",
       "ar": "شعبية طرابلس",
@@ -909,25 +1037,31 @@
       "sv": "Tarabulus",
       "tr": "Trablus ili",
       "uk": "Триполі",
-      "ur": "طرابلس ضلع، لیبیا"
+      "ur": "طرابلس ضلع، لیبیا",
+      "zh": "的黎波里省",
+      "ccp": "𑄑𑄳𑄢𑄨𑄛𑄧𑄣𑄨",
+      "hy": "Տարաբուլուս",
+      "pt": "Trípoli"
     },
-    "geo": {
-      "latitude": 32.8829369,
-      "longitude": 13.1883359,
-      "min_latitude": 32.8639441,
-      "min_longitude": 13.1531882,
-      "max_latitude": 32.9019297,
-      "max_longitude": 13.2234836
-    },
-    "name": "Tarabulus"
+    "comments": null
   },
   "WA": {
+    "name": "Al Wahat",
+    "code": null,
     "unofficial_names": [
       "Al Wahat",
       "The Oases",
       "Al Wahad",
       "Al Wahah"
     ],
+    "geo": {
+      "latitude": 32.3147011,
+      "longitude": 14.5032835,
+      "min_latitude": 32.3120172,
+      "min_longitude": 14.4937963,
+      "max_latitude": 32.3185818,
+      "max_longitude": 14.5151013
+    },
     "translations": {
       "en": "Al Wahat",
       "ar": "شعبية الواحات",
@@ -954,20 +1088,25 @@
       "ru": "Эль-Вахат",
       "sv": "Al Wahat",
       "uk": "Ель-Вахат",
-      "ur": "الواحات ضلع"
+      "ur": "الواحات ضلع",
+      "ceb": "Sha‘bīyat al Wāḩāt",
+      "zh": "绿洲省",
+      "ccp": "𑄃𑄣𑄴 𑄤𑄦𑄖𑄴"
     },
-    "geo": {
-      "latitude": 32.3147011,
-      "longitude": 14.5032835,
-      "min_latitude": 32.3120172,
-      "min_longitude": 14.4937963,
-      "max_latitude": 32.3185818,
-      "max_longitude": 14.5151013
-    },
-    "name": "Al Wahat"
+    "comments": null
   },
   "WD": {
+    "name": "Wādī al Ḩayāt",
+    "code": null,
     "unofficial_names": "Wādī al Ḩayāt",
+    "geo": {
+      "latitude": 29.5240753,
+      "longitude": 31.2912463,
+      "min_latitude": 29.5026438,
+      "min_longitude": 31.2627233,
+      "max_latitude": 29.5447935,
+      "max_longitude": 31.305119
+    },
     "translations": {
       "en": "Wadi al Hayaa",
       "ar": "شعبية وادي الحياة",
@@ -1007,20 +1146,26 @@
       "tr": "Wadi Al Hayaa District",
       "uk": "Ваді-ель-Хаят",
       "ur": "وادی الحیاہ ضلع",
-      "vi": "Quận Wadi al Hayaa"
+      "vi": "Quận Wadi al Hayaa",
+      "lv": "Vādī el Hajātas šebīja",
+      "ceb": "Sha‘bīyat Wādī al Ḩayāt",
+      "zh": "瓦迪哈耶特省",
+      "ccp": "𑄤𑄓𑄨 𑄃𑄣𑄴 𑄦𑄠"
     },
-    "geo": {
-      "latitude": 29.5240753,
-      "longitude": 31.2912463,
-      "min_latitude": 29.5026438,
-      "min_longitude": 31.2627233,
-      "max_latitude": 29.5447935,
-      "max_longitude": 31.305119
-    },
-    "name": "Wādī al Ḩayāt"
+    "comments": null
   },
   "WS": {
+    "name": "Wādī ash Shāţiʾ",
+    "code": null,
     "unofficial_names": "Wādī ash Shāţiʾ",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Wadi al Shatii",
       "ar": "شعبية وادي الشاطئ",
@@ -1059,12 +1204,27 @@
       "tr": "Vadi El Şati ili",
       "uk": "Ваді-еш-Шаті",
       "ur": "وادی الشاطی ضلع",
-      "vi": "Tỉnh Wadi al Shatii"
+      "vi": "Tỉnh Wadi al Shatii",
+      "lv": "Vādī el Šati šebīja",
+      "ceb": "Sha‘bīyat Wādī ash Shāţi’",
+      "zh": "沙提省",
+      "ccp": "𑄤𑄓𑄨 𑄃𑄣𑄴 𑄥𑄑𑄳𑄦𑄨",
+      "hy": "Վադի ալ-Շատի"
     },
-    "name": "Wādī ash Shāţiʾ"
+    "comments": null
   },
   "ZA": {
+    "name": "Az Zawiyah",
+    "code": null,
     "unofficial_names": "Az Zawiyah",
+    "geo": {
+      "latitude": 32.5394906,
+      "longitude": 12.5298028,
+      "min_latitude": 32.2049039,
+      "min_longitude": 11.934911,
+      "max_latitude": 32.828812,
+      "max_longitude": 12.9854179
+    },
     "translations": {
       "en": "Zawiya",
       "ar": "شعبية الزاوية",
@@ -1104,17 +1264,13 @@
       "tr": "Zawaiya District",
       "uk": "Ез-Завія",
       "ur": "زاویہ ضلع",
-      "vi": "Quận Zawiya"
+      "vi": "Quận Zawiya",
+      "lv": "Zāvijas šebīja",
+      "ceb": "Sha‘bīyat az Zāwiyah",
+      "zh": "扎維耶省",
+      "ccp": "𑄎𑄃𑄨𑄠"
     },
-    "geo": {
-      "latitude": 32.5394906,
-      "longitude": 12.5298028,
-      "min_latitude": 32.2049039,
-      "min_longitude": 11.934911,
-      "max_latitude": 32.828812,
-      "max_longitude": 12.9854179
-    },
-    "name": "Az Zawiyah"
+    "comments": null
   }
 }
 

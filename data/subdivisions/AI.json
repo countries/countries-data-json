@@ -1,9 +1,8 @@
 {
   "BP": {
+    "name": "Blowing Point",
+    "code": null,
     "unofficial_names": "Blowing Point",
-    "translations": {
-      "en": "Blowing Point"
-    },
     "geo": {
       "latitude": 18.177,
       "longitude": -63.09161,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Blowing Point",
+    "translations": {
+      "en": "Blowing Point"
+    },
     "comments": null
   },
   "EE": {
+    "name": "East End",
+    "code": null,
     "unofficial_names": "East End",
-    "translations": {
-      "en": "East End"
-    },
     "geo": {
       "latitude": 18.234,
       "longitude": -62.99728,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "East End",
+    "translations": {
+      "en": "East End"
+    },
     "comments": null
   },
   "GH": {
+    "name": "George Hill",
+    "code": null,
     "unofficial_names": "George Hill",
-    "translations": {
-      "en": "George Hill"
-    },
     "geo": {
       "latitude": 18.19943,
       "longitude": -63.06517,
@@ -44,14 +45,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "George Hill",
+    "translations": {
+      "en": "George Hill"
+    },
     "comments": null
   },
   "IH": {
+    "name": "Island Harbour",
+    "code": null,
     "unofficial_names": "Island Harbour",
-    "translations": {
-      "en": "Island Harbour"
-    },
     "geo": {
       "latitude": 18.25617,
       "longitude": -63.00724,
@@ -60,14 +62,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Island Harbour",
+    "translations": {
+      "en": "Island Harbour"
+    },
     "comments": null
   },
   "NH": {
+    "name": "North Hill",
+    "code": null,
     "unofficial_names": "North Hill",
-    "translations": {
-      "en": "North Hill"
-    },
     "geo": {
       "latitude": 18.20603,
       "longitude": -63.07607,
@@ -76,14 +79,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "North Hill",
+    "translations": {
+      "en": "North Hill"
+    },
     "comments": null
   },
   "NS": {
+    "name": "North Side",
+    "code": null,
     "unofficial_names": "North Side",
-    "translations": {
-      "en": "North Side"
-    },
     "geo": {
       "latitude": 18.22931,
       "longitude": -63.0468,
@@ -92,14 +96,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "North Side",
+    "translations": {
+      "en": "North Side"
+    },
     "comments": null
   },
   "SG": {
+    "name": "Sandy Ground",
+    "code": null,
     "unofficial_names": "Sandy Ground",
-    "translations": {
-      "en": "Sandy Ground"
-    },
     "geo": {
       "latitude": 18.20399,
       "longitude": -63.08993,
@@ -108,14 +113,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Sandy Ground",
+    "translations": {
+      "en": "Sandy Ground"
+    },
     "comments": null
   },
   "SH": {
+    "name": "Sandy Hill",
+    "code": null,
     "unofficial_names": "Sandy Hill",
-    "translations": {
-      "en": "Sandy Hill"
-    },
     "geo": {
       "latitude": 18.22066,
       "longitude": -63.01178,
@@ -124,14 +130,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Sandy Hill",
+    "translations": {
+      "en": "Sandy Hill"
+    },
     "comments": null
   },
   "SO": {
+    "name": "South Hill",
+    "code": null,
     "unofficial_names": "South Hill",
-    "translations": {
-      "en": "South Hill"
-    },
     "geo": {
       "latitude": 18.19177,
       "longitude": -63.0898,
@@ -140,14 +147,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "South Hill",
+    "translations": {
+      "en": "South Hill"
+    },
     "comments": null
   },
   "ST": {
+    "name": "Stoney Ground",
+    "code": null,
     "unofficial_names": "Stoney Ground",
-    "translations": {
-      "en": "Stoney Ground"
-    },
     "geo": {
       "latitude": 18.22112,
       "longitude": -63.04466,
@@ -156,14 +164,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Stoney Ground",
+    "translations": {
+      "en": "Stoney Ground"
+    },
     "comments": null
   },
   "TF": {
+    "name": "The Farrington",
+    "code": null,
     "unofficial_names": "The Farrington",
-    "translations": {
-      "en": "The Farrington"
-    },
     "geo": {
       "latitude": 18.21533,
       "longitude": -63.02123,
@@ -172,14 +181,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "The Farrington",
+    "translations": {
+      "en": "The Farrington"
+    },
     "comments": null
   },
   "TQ": {
+    "name": "The Quarter",
+    "code": null,
     "unofficial_names": "The Quarter",
-    "translations": {
-      "en": "The Quarter"
-    },
     "geo": {
       "latitude": 18.21158,
       "longitude": -63.04504,
@@ -188,14 +198,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "The Quarter",
+    "translations": {
+      "en": "The Quarter"
+    },
     "comments": null
   },
   "TV": {
+    "name": "The Valley",
+    "code": null,
     "unofficial_names": "The Valley",
-    "translations": {
-      "en": "The Valley"
-    },
     "geo": {
       "latitude": 18.21475,
       "longitude": -63.05706,
@@ -204,14 +215,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "The Valley",
+    "translations": {
+      "en": "The Valley"
+    },
     "comments": null
   },
   "WE": {
+    "name": "West End",
+    "code": null,
     "unofficial_names": "West End",
-    "translations": {
-      "en": "West End"
-    },
     "geo": {
       "latitude": 18.17138,
       "longitude": -63.15113,
@@ -220,7 +232,9 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "West End",
+    "translations": {
+      "en": "West End"
+    },
     "comments": null
   }
 }

@@ -1,9 +1,8 @@
 {
   "NO-01": {
+    "name": "Østfold",
+    "code": null,
     "unofficial_names": "Østfold",
-    "translations": {
-      "en": "Østfold"
-    },
     "geo": {
       "latitude": 59.25582859999999,
       "longitude": 11.3279007,
@@ -12,13 +11,15 @@
       "max_latitude": 59.79051459999999,
       "max_longitude": 11.9460045
     },
-    "name": "Østfold"
+    "translations": {
+      "en": "Østfold"
+    },
+    "comments": null
   },
   "NO-02": {
+    "name": "Akershus",
+    "code": null,
     "unofficial_names": "Akershus",
-    "translations": {
-      "en": "Akershus"
-    },
     "geo": {
       "latitude": 60.00002019999999,
       "longitude": 11.3690301,
@@ -27,13 +28,15 @@
       "max_latitude": 60.59664780000001,
       "max_longitude": 11.9260507
     },
-    "name": "Akershus"
+    "translations": {
+      "en": "Akershus"
+    },
+    "comments": null
   },
   "NO-03": {
+    "name": "Oslo",
+    "code": null,
     "unofficial_names": "Oslo",
-    "translations": {
-      "en": "Oslo"
-    },
     "geo": {
       "latitude": 59.9138688,
       "longitude": 10.7522454,
@@ -42,13 +45,15 @@
       "max_latitude": 59.978035,
       "max_longitude": 10.9476642
     },
-    "name": "Oslo"
+    "translations": {
+      "en": "Oslo"
+    },
+    "comments": null
   },
   "NO-04": {
+    "name": "Hedmark",
+    "code": null,
     "unofficial_names": "Hedmark",
-    "translations": {
-      "en": "Hedmark"
-    },
     "geo": {
       "latitude": 61.3967311,
       "longitude": 11.5627369,
@@ -57,13 +62,15 @@
       "max_latitude": 62.6969236,
       "max_longitude": 12.8708487
     },
-    "name": "Hedmark"
+    "translations": {
+      "en": "Hedmark"
+    },
+    "comments": null
   },
   "NO-05": {
+    "name": "Oppland",
+    "code": null,
     "unofficial_names": "Oppland",
-    "translations": {
-      "en": "Oppland"
-    },
     "geo": {
       "latitude": 61.5422752,
       "longitude": 9.716631399999999,
@@ -72,13 +79,15 @@
       "max_latitude": 62.37840250000001,
       "max_longitude": 11.1327999
     },
-    "name": "Oppland"
+    "translations": {
+      "en": "Oppland"
+    },
+    "comments": null
   },
   "NO-06": {
+    "name": "Buskerud",
+    "code": null,
     "unofficial_names": "Buskerud",
-    "translations": {
-      "en": "Buskerud"
-    },
     "geo": {
       "latitude": 60.48460249999999,
       "longitude": 8.698376399999999,
@@ -87,13 +96,15 @@
       "max_latitude": 61.0917205,
       "max_longitude": 10.6192606
     },
-    "name": "Buskerud"
+    "translations": {
+      "en": "Buskerud"
+    },
+    "comments": null
   },
   "NO-07": {
+    "name": "Vestfold",
+    "code": null,
     "unofficial_names": "Vestfold",
-    "translations": {
-      "en": "Vestfold"
-    },
     "geo": {
       "latitude": 59.17078619999999,
       "longitude": 10.1144355,
@@ -102,13 +113,15 @@
       "max_latitude": 59.6915912,
       "max_longitude": 10.6001915
     },
-    "name": "Vestfold"
+    "translations": {
+      "en": "Vestfold"
+    },
+    "comments": null
   },
   "NO-08": {
+    "name": "Telemark",
+    "code": null,
     "unofficial_names": "Telemark",
-    "translations": {
-      "en": "Telemark"
-    },
     "geo": {
       "latitude": 59.39139849999999,
       "longitude": 8.321121,
@@ -117,13 +130,15 @@
       "max_latitude": 60.1882718,
       "max_longitude": 9.895088099999999
     },
-    "name": "Telemark"
+    "translations": {
+      "en": "Telemark"
+    },
+    "comments": null
   },
   "NO-09": {
+    "name": "Aust-Agder",
+    "code": null,
     "unofficial_names": "Aust-Agder",
-    "translations": {
-      "en": "Aust-Agder"
-    },
     "geo": {
       "latitude": 58.66703039999999,
       "longitude": 8.0844752,
@@ -132,13 +147,15 @@
       "max_latitude": 59.6704093,
       "max_longitude": 9.3693846
     },
-    "name": "Aust-Agder"
+    "translations": {
+      "en": "Aust-Agder"
+    },
+    "comments": null
   },
   "NO-10": {
+    "name": "Vest-Agder",
+    "code": null,
     "unofficial_names": "Vest-Agder",
-    "translations": {
-      "en": "Vest-Agder"
-    },
     "geo": {
       "latitude": 58.368605,
       "longitude": 6.901961600000001,
@@ -147,13 +164,15 @@
       "max_latitude": 59.18884579999999,
       "max_longitude": 8.2098324
     },
-    "name": "Vest-Agder"
+    "translations": {
+      "en": "Vest-Agder"
+    },
+    "comments": null
   },
   "NO-11": {
+    "name": "Rogaland",
+    "code": null,
     "unofficial_names": "Rogaland",
-    "translations": {
-      "en": "Rogaland"
-    },
     "geo": {
       "latitude": 59.1489544,
       "longitude": 6.0143431,
@@ -162,13 +181,15 @@
       "max_latitude": 59.84433379999999,
       "max_longitude": 7.2119667
     },
-    "name": "Rogaland"
+    "translations": {
+      "en": "Rogaland"
+    },
+    "comments": null
   },
   "NO-12": {
+    "name": "Hordaland",
+    "code": null,
     "unofficial_names": "Hordaland",
-    "translations": {
-      "en": "Hordaland"
-    },
     "geo": {
       "latitude": 60.2733674,
       "longitude": 5.7220194,
@@ -177,13 +198,15 @@
       "max_latitude": 61.0352379,
       "max_longitude": 7.732114699999999
     },
-    "name": "Hordaland"
+    "translations": {
+      "en": "Hordaland"
+    },
+    "comments": null
   },
   "NO-14": {
+    "name": "Sogn og Fjordane",
+    "code": null,
     "unofficial_names": "Sogn og Fjordane",
-    "translations": {
-      "en": "Sogn og Fjordane"
-    },
     "geo": {
       "latitude": 61.5539435,
       "longitude": 6.3325879,
@@ -192,13 +215,15 @@
       "max_latitude": 62.2168708,
       "max_longitude": 8.3220528
     },
-    "name": "Sogn og Fjordane"
+    "translations": {
+      "en": "Sogn og Fjordane"
+    },
+    "comments": null
   },
   "NO-15": {
+    "name": "Møre og Romsdal",
+    "code": null,
     "unofficial_names": "Møre og Romsdal",
-    "translations": {
-      "en": "Møre og Romsdal"
-    },
     "geo": {
       "latitude": 62.9760369,
       "longitude": 8.018272399999999,
@@ -207,13 +232,15 @@
       "max_latitude": 63.5377568,
       "max_longitude": 9.5842118
     },
-    "name": "Møre og Romsdal"
+    "translations": {
+      "en": "Møre og Romsdal"
+    },
+    "comments": null
   },
   "NO-16": {
+    "name": "Sør-Trøndelag",
+    "code": null,
     "unofficial_names": "Sør-Trøndelag",
-    "translations": {
-      "en": "Sør-Trøndelag"
-    },
     "geo": {
       "latitude": 63.0136823,
       "longitude": 10.3487135,
@@ -222,13 +249,15 @@
       "max_latitude": 64.4653999,
       "max_longitude": 12.2467012
     },
-    "name": "Sør-Trøndelag"
+    "translations": {
+      "en": "Sør-Trøndelag"
+    },
+    "comments": null
   },
   "NO-17": {
+    "name": "Nord-Trøndelag",
+    "code": null,
     "unofficial_names": "Nord-Trøndelag",
-    "translations": {
-      "en": "Nord-Trøndelag"
-    },
     "geo": {
       "latitude": 64.4370792,
       "longitude": 11.7462949,
@@ -237,13 +266,15 @@
       "max_latitude": 65.39440379999999,
       "max_longitude": 14.3259858
     },
-    "name": "Nord-Trøndelag"
+    "translations": {
+      "en": "Nord-Trøndelag"
+    },
+    "comments": null
   },
   "NO-18": {
+    "name": "Nordland",
+    "code": null,
     "unofficial_names": "Nordland",
-    "translations": {
-      "en": "Nordland"
-    },
     "geo": {
       "latitude": 67.69167019999999,
       "longitude": 12.7019476,
@@ -252,13 +283,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Nordland"
+    "translations": {
+      "en": "Nordland"
+    },
+    "comments": null
   },
   "NO-19": {
+    "name": "Troms",
+    "code": null,
     "unofficial_names": "Troms",
-    "translations": {
-      "en": "Troms"
-    },
     "geo": {
       "latitude": 69.81782419999999,
       "longitude": 18.7819365,
@@ -267,15 +300,17 @@
       "max_latitude": 70.31976139999999,
       "max_longitude": 22.8944657
     },
-    "name": "Troms"
+    "translations": {
+      "en": "Troms"
+    },
+    "comments": null
   },
   "NO-20": {
+    "name": "Finnmark",
+    "code": null,
     "unofficial_names": [
       "Finnmarku"
     ],
-    "translations": {
-      "en": "Finnmark"
-    },
     "geo": {
       "latitude": 70.4830388,
       "longitude": 26.0135108,
@@ -284,13 +319,32 @@
       "max_latitude": 71.1854762,
       "max_longitude": 31.1682684
     },
-    "name": "Finnmark"
+    "translations": {
+      "en": "Finnmark"
+    },
+    "comments": null
   },
   "NO-21": {
+    "name": "Svalbard (Arctic Region) (See also country code SJ)",
+    "code": null,
     "unofficial_names": "Svalbard (Arctic Region) (See also country code SJ)",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Svalbard (Arctic Region) (See also country code SJ)"
     },
+    "comments": null
+  },
+  "NO-22": {
+    "name": "Jan Mayen (Arctic Region) (See also country code SJ)",
+    "code": null,
+    "unofficial_names": "Jan Mayen (Arctic Region) (See also country code SJ)",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -299,13 +353,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Svalbard (Arctic Region) (See also country code SJ)"
-  },
-  "NO-22": {
-    "unofficial_names": "Jan Mayen (Arctic Region) (See also country code SJ)",
     "translations": {
       "en": "Jan Mayen (Arctic Region) (See also country code SJ)"
     },
+    "comments": null
+  },
+  "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -314,9 +370,6 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Jan Mayen (Arctic Region) (See also country code SJ)"
-  },
-  "01": {
     "translations": {
       "af": "Østfold",
       "ar": "أوستفولد",
@@ -370,10 +423,31 @@
       "uk": "Естфол",
       "ur": "اوستفول",
       "vi": "Østfold",
-      "zh": "东福尔郡"
-    }
+      "zh": "东福尔郡",
+      "lv": "Estfolla",
+      "ceb": "Østfold fylke",
+      "sr_Latn": "Estfold",
+      "sq": "Østfold",
+      "ccp": "𑄃𑄮𑄌𑄴𑄜𑄮𑄣𑄳𑄓𑄴",
+      "ps": "اوستفولد",
+      "az": "Östfold",
+      "bs": "Østfold",
+      "mk": "Естфол"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Akershus",
       "ar": "آكرشوس",
@@ -428,10 +502,29 @@
       "tr": "Akershus",
       "uk": "Акерсгус",
       "ur": "آکیشوس",
-      "vi": "Akershus"
-    }
+      "vi": "Akershus",
+      "ceb": "Akershus fylke",
+      "sr_Latn": "Akershus",
+      "zh": "阿克什胡斯郡",
+      "sq": "Akershus",
+      "ccp": "𑄃𑄇𑄬𑄢𑄴𑄥𑄪𑄌𑄴",
+      "bs": "Akershus",
+      "mk": "Акершус"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Oslo",
       "am": "ኦስሎ",
@@ -494,10 +587,41 @@
       "tr": "Oslo",
       "uk": "Осло",
       "ur": "اوسلو",
-      "vi": "Oslo"
-    }
+      "vi": "Oslo",
+      "cy": "Oslo",
+      "ceb": "Oslo",
+      "sr_Latn": "Oslo",
+      "zh": "奥斯陆",
+      "yue_Hans": "奥斯陆",
+      "jv": "Oslo",
+      "sq": "Oslo",
+      "ccp": "𑄃𑄧𑄌𑄴𑄣𑄮",
+      "ga": "Osló",
+      "ky": "Осло",
+      "so": "Oslo",
+      "pa": "ਓਸਲੋ",
+      "kk": "Осло",
+      "yue": "奧斯陸",
+      "my": "အော့စလိုမြို့",
+      "yo": "Oslo",
+      "uz": "Oslo",
+      "bs": "Oslo",
+      "mk": "Осло"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Hedmark",
       "ar": "هيدمارك",
@@ -549,10 +673,32 @@
       "tr": "Hedmark",
       "uk": "Гедмарк",
       "ur": "ہیڈمارک",
-      "vi": "Hedmark"
-    }
+      "vi": "Hedmark",
+      "lv": "Hedmarka",
+      "ceb": "Hedmark fylke",
+      "sr_Latn": "Hedmark",
+      "zh": "海德马克郡",
+      "sq": "Hedmark",
+      "ccp": "𑄦𑄬𑄖𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ps": "هدمارک",
+      "he": "הדמרק",
+      "bs": "Hedmark",
+      "mk": "Хедмарк"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Oppland",
       "ar": "أوبلاند",
@@ -605,10 +751,30 @@
       "tr": "Oppland",
       "uk": "Опплан",
       "ur": "اوپلان",
-      "vi": "Oppland"
-    }
+      "vi": "Oppland",
+      "ceb": "Oppland fylke",
+      "sr_Latn": "Opland",
+      "zh": "奥普兰郡",
+      "sq": "Oppland",
+      "ccp": "𑄃𑄧𑄛𑄳𑄦𑄮𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "he": "אופלנד (נורווגיה)",
+      "bs": "Oppland",
+      "mk": "Опланд"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Buskerud",
       "ar": "بوسكرود",
@@ -661,10 +827,30 @@
       "tr": "Buskerud",
       "uk": "Бускерюд",
       "ur": "بوسکرود",
-      "vi": "Buskerud"
-    }
+      "vi": "Buskerud",
+      "ceb": "Buskerud fylke",
+      "sr_Latn": "Buskerud",
+      "zh": "布斯克吕郡",
+      "sq": "Buskerud",
+      "ccp": "𑄝𑄌𑄴𑄇𑄬𑄢𑄪𑄖𑄴",
+      "he": "בוסקרוד",
+      "bs": "Buskerud",
+      "mk": "Бускеруд"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Vestfold",
       "ar": "فستفولد",
@@ -715,10 +901,31 @@
       "tr": "Vestfold",
       "uk": "Вестфол",
       "ur": "ویستفول",
-      "vi": "Vestfold"
-    }
+      "vi": "Vestfold",
+      "lv": "Vestfolda",
+      "ceb": "Vestfold fylke",
+      "sr_Latn": "Vestfold",
+      "zh": "西福尔郡",
+      "sq": "Vestfold",
+      "ccp": "𑄞𑄬𑄌𑄴𑄑𑄴𑄜𑄮𑄣𑄳𑄓𑄴",
+      "hy": "Վեստֆոլ",
+      "bs": "Vestfold",
+      "mk": "Вестфол"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Vest-Agder",
       "ar": "فست أغدر",
@@ -768,10 +975,32 @@
       "tr": "Vest-Agder",
       "uk": "Вест-Аґдер",
       "ur": "ویست-آگدیر",
-      "vi": "Vest-Agder"
-    }
+      "vi": "Vest-Agder",
+      "lv": "Vestagdere",
+      "ceb": "Vest-Agder Fylke",
+      "sr_Latn": "Zapadni Agder",
+      "zh": "西阿格德尔郡",
+      "sq": "Vest-Agder",
+      "ccp": "𑄞𑄬𑄌𑄴𑄑𑄴-𑄃𑄇𑄴𑄓𑄬𑄢𑄴",
+      "hy": "Վեստ-Ագդեր",
+      "he": "מערב אגדר",
+      "bs": "Vest-Agder",
+      "mk": "Вестагдер"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Hordaland",
       "ar": "هوردالان",
@@ -826,10 +1055,30 @@
       "tr": "Hordaland",
       "uk": "Гордалан",
       "ur": "ہوردالان",
-      "vi": "Hordaland"
-    }
+      "vi": "Hordaland",
+      "cy": "Hordaland",
+      "ceb": "Hordaland Fylke",
+      "sr_Latn": "Hordaland",
+      "zh": "霍达兰郡",
+      "sq": "Hordaland",
+      "ccp": "𑄦𑄧𑄢𑄴𑄓𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Hordaland",
+      "mk": "Хордалан"
+    },
+    "comments": null
   },
   "18": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Nordland",
       "ar": "نورلان",
@@ -881,10 +1130,30 @@
       "tr": "Nordland",
       "uk": "Нурлан",
       "ur": "نودلان",
-      "vi": "Nordland"
-    }
+      "vi": "Nordland",
+      "ceb": "Nordland Fylke",
+      "sr_Latn": "Nordland",
+      "zh": "诺尔兰郡",
+      "sq": "Nordland",
+      "ccp": "𑄚𑄧𑄢𑄴𑄓𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "he": "נורדלנד",
+      "bs": "Nordland",
+      "mk": "Нурлан"
+    },
+    "comments": null
   },
   "19": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Troms",
       "ar": "ترومس",
@@ -936,10 +1205,30 @@
       "tr": "Troms",
       "uk": "Трумс",
       "ur": "ترومس",
-      "vi": "Troms"
-    }
+      "vi": "Troms",
+      "ceb": "Troms Fylke",
+      "sr_Latn": "Troms",
+      "zh": "特罗姆斯郡",
+      "sq": "Troms",
+      "ccp": "𑄑𑄳𑄢𑄮𑄟𑄴𑄌𑄴",
+      "ps": "ترومس",
+      "bs": "Troms",
+      "mk": "Тромс"
+    },
+    "comments": null
   },
   "20": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Finnmark",
       "ar": "فينمارك",
@@ -983,10 +1272,30 @@
       "tr": "Finnmark",
       "uk": "Фінмарк",
       "ur": "فنمارک",
-      "vi": "Finnmark"
-    }
+      "vi": "Finnmark",
+      "ceb": "Finnmark Fylke",
+      "sr_Latn": "Finmark",
+      "zh": "芬马克郡",
+      "hi": "फ़िनमार्क",
+      "sq": "Finnmark",
+      "ccp": "𑄜𑄨𑄚𑄳𑄦𑄴𑄟𑄢𑄴𑄇𑄴",
+      "bs": "Finnmark",
+      "mk": "Финмарк"
+    },
+    "comments": null
   },
   "21": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Svalbard",
       "ar": "سفالبارد",
@@ -1043,10 +1352,39 @@
       "tr": "Svalbard",
       "uk": "Шпіцберген",
       "ur": "سوالبارد",
-      "vi": "Svalbard"
-    }
+      "vi": "Svalbard",
+      "cy": "Svalbard",
+      "sr_Latn": "Svalbard",
+      "zh": "斯瓦尔巴群岛",
+      "yue_Hans": "斯瓦尔巴群岛",
+      "jv": "Svalbard",
+      "sq": "Svalbard",
+      "ccp": "𑄞𑄣𑄴𑄝𑄢𑄴𑄓𑄴",
+      "ga": "Oileánra Svalbard",
+      "ps": "سوالبرد",
+      "ky": "Шпицберген",
+      "kk": "Суалбард",
+      "yue": "斯瓦爾巴群島",
+      "am": "ስቫልባር",
+      "yo": "Svalbard",
+      "uz": "Shpitsbergen",
+      "bs": "Svalbard",
+      "mk": "Шпицбершки Острови"
+    },
+    "comments": null
   },
   "22": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Jan Mayen",
       "ar": "جان ماين",
@@ -1097,10 +1435,38 @@
       "tr": "Jan Mayen",
       "uk": "Ян-Маєн",
       "ur": "جان ماین",
-      "vi": "Jan Mayen"
-    }
+      "vi": "Jan Mayen",
+      "cy": "Jan Mayen",
+      "ceb": "Jan Mayen",
+      "sr_Latn": "Jan Majen",
+      "zh": "揚馬延島",
+      "bn": "ইয়ান মায়েন",
+      "yue_Hans": "扬马延岛",
+      "jv": "Jan Mayen",
+      "sq": "Jan Mayen",
+      "ccp": "𑄎𑄚𑄴 𑄟𑄬𑄠𑄬𑄚𑄴",
+      "ga": "Jan Mayen",
+      "kk": "Ян-Майен",
+      "yue": "揚馬延島",
+      "az": "Yan Mayen",
+      "yo": "Jan Mayen",
+      "bs": "Jan Majen",
+      "mk": "Јан Мајен"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تلمارك",
       "be": "Тэлемарк",
@@ -1139,10 +1505,32 @@
       "tr": "Telemark",
       "uk": "Телемарк",
       "ur": "تیلیمارک",
-      "vi": "Telemark"
-    }
+      "vi": "Telemark",
+      "ceb": "Telemark fylke",
+      "sr_Latn": "Telemark",
+      "zh": "泰勒马克郡",
+      "el": "Τέλεμαρκ",
+      "hi": "टेलीमार्क",
+      "sq": "Telemark",
+      "ccp": "𑄑𑄬𑄣𑄨𑄟𑄢𑄴𑄇𑄴",
+      "he": "טלמרק",
+      "bs": "Telemark",
+      "mk": "Телемарк"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أوست أغدر",
       "be": "Эўст-Агдэр",
@@ -1181,10 +1569,31 @@
       "tr": "Aust-Agder",
       "uk": "Еуст-Аґдер",
       "ur": "آوست-آگدیر",
-      "vi": "Aust-Agder"
-    }
+      "vi": "Aust-Agder",
+      "af": "Aust-Agder",
+      "ceb": "Aust-Agder fylke",
+      "sr_Latn": "Istočni Agder",
+      "zh": "东阿格德尔郡",
+      "sq": "Aust-Agder",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄴-𑄃𑄇𑄴𑄓𑄬𑄢𑄴",
+      "he": "מזרח אגדר",
+      "bs": "Aust-Agder",
+      "mk": "Аустагдер"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "روغالاند",
       "be": "Ругалан",
@@ -1226,10 +1635,30 @@
       "tr": "Rogaland",
       "uk": "Руґалан",
       "ur": "روگالان",
-      "vi": "Rogaland"
-    }
+      "vi": "Rogaland",
+      "cy": "Rogaland",
+      "ceb": "Rogaland Fylke",
+      "sr_Latn": "Rogaland",
+      "zh": "罗加兰郡",
+      "sq": "Rogaland",
+      "ccp": "𑄢𑄧𑄉𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Rogaland",
+      "mk": "Ругалан"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سوغن و فيوردانه",
       "bg": "Согн ог Фьоране",
@@ -1280,10 +1709,29 @@
       "tr": "Sogn og Fjordane",
       "uk": "Согн-ог-Фʼюране",
       "ur": "سونگ او فیورانہ",
-      "vi": "Sogn og Fjordane"
-    }
+      "vi": "Sogn og Fjordane",
+      "ceb": "Sogn og Fjordane Fylke",
+      "sr_Latn": "Sogn og Fjordane",
+      "zh": "松恩-菲尤拉讷郡",
+      "sq": "Sogn og Fjordane",
+      "ccp": "𑄥𑄮𑄇𑄴 𑄃𑄮𑄇𑄴 𑄎𑄧𑄢𑄴𑄓𑄬𑄚𑄴",
+      "bs": "Sogn og Fjordane",
+      "mk": "Согн о Фјуране"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "موره ورومسدال",
       "be": "Мёрэ-ог-Румсдал",
@@ -1323,10 +1771,31 @@
       "tr": "Møre og Romsdal",
       "uk": "Мере-ог-Ромсдал",
       "ur": "مورہ او رومسدال",
-      "vi": "Møre og Romsdal"
-    }
+      "vi": "Møre og Romsdal",
+      "ceb": "Møre og Romsdal fylke",
+      "sr_Latn": "Mere og Romsdal",
+      "zh": "默勒-鲁姆斯达尔郡",
+      "hi": "मोर ओग रोंस्डल",
+      "sq": "Møre og Romsdal",
+      "ccp": "𑄟𑄮𑄢𑄴 𑄃𑄮𑄇𑄴 𑄢𑄮𑄟𑄴𑄓𑄣𑄴",
+      "he": "מרה ורומסדל",
+      "bs": "Møre og Romsdal",
+      "mk": "Мере о Румсдал"
+    },
+    "comments": null
   },
   "16": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سور ترونديلاغ",
       "be": "Сёр-Трондэлаг",
@@ -1375,10 +1844,28 @@
       "tr": "Sør-Trøndelag",
       "uk": "Сер-Тренделаг",
       "ur": "جنوبی-تروندیلاگ",
-      "vi": "Sør-Trøndelag"
-    }
+      "vi": "Sør-Trøndelag",
+      "lv": "Sortrondelaga",
+      "sr_Latn": "Južni Trendelag",
+      "zh": "南特伦德拉格郡",
+      "sw": "Sør-Trøndelag",
+      "ccp": "𑄥𑄮𑄢𑄴-𑄑𑄳𑄢𑄮𑄚𑄴𑄓𑄬𑄣𑄇𑄴",
+      "hy": "Սյոր Տրյոնդելագ"
+    },
+    "comments": null
   },
   "17": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "نور تروندلاغ",
       "be": "Нур-Трондэлаг",
@@ -1430,8 +1917,39 @@
       "tr": "Nord-Trøndelag",
       "uk": "Нур-Тренделаг",
       "ur": "شمالی-تروندیلاگ",
-      "vi": "Nord-Trøndelag"
-    }
+      "vi": "Nord-Trøndelag",
+      "sr_Latn": "Severni Trendelag",
+      "zh": "北特伦德拉格郡",
+      "ccp": "𑄚𑄧𑄢𑄴𑄓𑄴-𑄑𑄳𑄢𑄮𑄚𑄴𑄓𑄬𑄣𑄇𑄴"
+    },
+    "comments": null
+  },
+  "23": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Trøndelag"
+    },
+    "comments": null
+  },
+  "50": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 63.5420125,
+      "longitude": 10.9369267,
+      "min_latitude": 62.2557267,
+      "min_longitude": 7.648093800000001,
+      "max_latitude": 65.47017509999999,
+      "max_longitude": 14.3259858
+    },
+    "translations": {
+      "en": "Trøndelag"
+    },
+    "comments": null
   }
 }
 

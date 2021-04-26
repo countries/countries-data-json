@@ -1,9 +1,8 @@
 {
   "BA": {
+    "name": "Al Batinah",
+    "code": null,
     "unofficial_names": "Al Batinah",
-    "translations": {
-      "en": "Al Batinah"
-    },
     "geo": {
       "latitude": 24.13316,
       "longitude": 56.65138529999999,
@@ -12,12 +11,26 @@
       "max_latitude": 24.977919,
       "max_longitude": 57.4390539
     },
-    "name": "Al Batinah"
+    "translations": {
+      "en": "Al Batinah",
+      "ccp": "𑄃𑄣𑄴 𑄝𑄑𑄨𑄚𑄦𑄴"
+    },
+    "comments": null
   },
   "DA": {
+    "name": "Ad Dakhiliyah",
+    "code": null,
     "unofficial_names": [
       "Ad Dakhiliya"
     ],
+    "geo": {
+      "latitude": 22.3476325,
+      "longitude": 57.2818625,
+      "min_latitude": 20.904974,
+      "min_longitude": 56.576047,
+      "max_latitude": 23.5632319,
+      "max_longitude": 58.34188510000001
+    },
     "translations": {
       "en": "Ad Dakhiliyah",
       "ar": "محافظة الداخلية",
@@ -56,27 +69,21 @@
       "tr": "Ed Dahiliye Bölgesi",
       "uk": "Ед-Дахілія",
       "ur": "محافظہ الداخلیہ",
-      "vi": "Tỉnh Ad Dakhiliyah"
+      "vi": "Tỉnh Ad Dakhiliyah",
+      "lv": "Dāhilījas mintaka",
+      "zh": "內地省",
+      "ccp": "𑄃𑄖𑄴 𑄓𑄈𑄭𑄣𑄨𑄠𑄦𑄴"
     },
-    "geo": {
-      "latitude": 22.3476325,
-      "longitude": 57.2818625,
-      "min_latitude": 20.904974,
-      "min_longitude": 56.576047,
-      "max_latitude": 23.5632319,
-      "max_longitude": 58.34188510000001
-    },
-    "name": "Ad Dakhiliyah"
+    "comments": null
   },
   "JA": {
+    "name": "Dhofar",
+    "code": null,
     "unofficial_names": [
       "Dhofar",
       "Dhufar",
       "Janubiyah"
     ],
-    "translations": {
-      "en": "Dhofar"
-    },
     "geo": {
       "latitude": 18.3970348,
       "longitude": 54.4342138,
@@ -85,14 +92,27 @@
       "max_latitude": 20.0018369,
       "max_longitude": 56.3555997
     },
-    "name": "Dhofar"
+    "translations": {
+      "en": "Dhofar"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Masqat",
+    "code": null,
     "unofficial_names": [
       "Masqaţ",
       "Maskat",
       "Mascate"
     ],
+    "geo": {
+      "latitude": 23.61,
+      "longitude": 58.54,
+      "min_latitude": 23.5211218,
+      "min_longitude": 58.2283758,
+      "max_latitude": 23.6455689,
+      "max_longitude": 58.6189567
+    },
     "translations": {
       "en": "Muscat",
       "ar": "محافظة مسقط",
@@ -130,20 +150,28 @@
       "tr": "Maskat valiliği",
       "uk": "Маскат",
       "ur": "محافظہ مسقط",
-      "vi": "Tỉnh Muscat"
+      "vi": "Tỉnh Muscat",
+      "lv": "Muskatas muhāfaza",
+      "lt": "Muskato gubernija",
+      "zh": "馬斯喀特省",
+      "ccp": "𑄟𑄌𑄴𑄇𑄖𑄴",
+      "ro": "guvernoratul Muscat",
+      "eu": "Maskat"
     },
-    "geo": {
-      "latitude": 23.61,
-      "longitude": 58.54,
-      "min_latitude": 23.5211218,
-      "min_longitude": 58.2283758,
-      "max_latitude": 23.6455689,
-      "max_longitude": 58.6189567
-    },
-    "name": "Masqat"
+    "comments": null
   },
   "MU": {
+    "name": "Musandam",
+    "code": null,
     "unofficial_names": "Musandam",
+    "geo": {
+      "latitude": 25.9942638,
+      "longitude": 56.24822769999999,
+      "min_latitude": 25.2419609,
+      "min_longitude": 56.09789079999999,
+      "max_latitude": 26.385954,
+      "max_longitude": 56.5376924
+    },
     "translations": {
       "en": "Musandam",
       "ar": "محافظة مسندم",
@@ -189,25 +217,20 @@
       "tr": "Musandam valiliği",
       "uk": "Мусандам",
       "ur": "محافظہ مسندم",
-      "vi": "Musandam"
+      "vi": "Musandam",
+      "lv": "Musendemas muhāfaza",
+      "sr_Latn": "Musandam",
+      "zh": "穆桑代姆省",
+      "ccp": "𑄟𑄪𑄥𑄚𑄴𑄓𑄟𑄴"
     },
-    "geo": {
-      "latitude": 25.9942638,
-      "longitude": 56.24822769999999,
-      "min_latitude": 25.2419609,
-      "min_longitude": 56.09789079999999,
-      "max_latitude": 26.385954,
-      "max_longitude": 56.5376924
-    },
-    "name": "Musandam"
+    "comments": null
   },
   "SH": {
+    "name": "Ash Sharqiyah",
+    "code": null,
     "unofficial_names": [
       "Ash Sharqiyah"
     ],
-    "translations": {
-      "en": "Ash Sharqiyah"
-    },
     "geo": {
       "latitude": 22.1186919,
       "longitude": 58.55438209999999,
@@ -216,10 +239,24 @@
       "max_latitude": 23.3408271,
       "max_longitude": 59.4309743
     },
-    "name": "Ash Sharqiyah"
+    "translations": {
+      "en": "Ash Sharqiyah",
+      "ccp": "𑄃𑄌𑄴 𑄥𑄢𑄴𑄇𑄪𑄃𑄨𑄦𑄴"
+    },
+    "comments": null
   },
   "WU": {
+    "name": "Al Wustá",
+    "code": null,
     "unofficial_names": "Al Wustá",
+    "geo": {
+      "latitude": 20.1738655,
+      "longitude": 56.56164700000001,
+      "min_latitude": 17.9456731,
+      "min_longitude": 54.9999999,
+      "max_latitude": 21.420908,
+      "max_longitude": 58.3227421
+    },
     "translations": {
       "en": "Al Wusta",
       "ar": "محافظة الوسطى",
@@ -258,23 +295,17 @@
       "tr": "El Vusta Bölgesi",
       "uk": "Ель-Вуста",
       "ur": "محافظہ وسطی (عمان)",
-      "vi": "Tỉnh Al Wusta"
+      "vi": "Tỉnh Al Wusta",
+      "lv": "Vustas muhāfaza",
+      "zh": "中部省",
+      "ccp": "𑄃𑄣𑄴 𑄃𑄮𑄅𑄪𑄌𑄴𑄑"
     },
-    "geo": {
-      "latitude": 20.1738655,
-      "longitude": 56.56164700000001,
-      "min_latitude": 17.9456731,
-      "min_longitude": 54.9999999,
-      "max_latitude": 21.420908,
-      "max_longitude": 58.3227421
-    },
-    "name": "Al Wustá"
+    "comments": null
   },
   "X1~": {
+    "name": "Al Buraymi",
+    "code": null,
     "unofficial_names": "Al Buraymi",
-    "translations": {
-      "en": "Al Buraymi"
-    },
     "geo": {
       "latitude": 24.25,
       "longitude": 55.7999,
@@ -283,12 +314,25 @@
       "max_latitude": 24.3267637,
       "max_longitude": 55.8898545
     },
-    "name": "Al Buraymi"
+    "translations": {
+      "en": "Al Buraymi"
+    },
+    "comments": null
   },
   "ZA": {
+    "name": "Adh Dhahirah",
+    "code": null,
     "unofficial_names": [
       "Adh Dhahirah"
     ],
+    "geo": {
+      "latitude": 22.5590272,
+      "longitude": 56.0249982,
+      "min_latitude": 21.2735939,
+      "min_longitude": 55.2069211,
+      "max_latitude": 24.019926,
+      "max_longitude": 57.116874
+    },
     "translations": {
       "en": "Ad Dhahirah",
       "ar": "محافظة الظاهرة",
@@ -328,19 +372,25 @@
       "tr": "Ez Zahira Bölgesi",
       "uk": "Ез-Захіра",
       "ur": "محافظہ الظاہرہ",
-      "vi": "Tỉnh Ad Dhahirah"
+      "vi": "Tỉnh Ad Dhahirah",
+      "lv": "Zāhiras mintaka",
+      "zh": "扎希拉省",
+      "ccp": "𑄃𑄖𑄴 𑄙𑄦𑄨𑄢𑄦𑄴"
     },
-    "geo": {
-      "latitude": 22.5590272,
-      "longitude": 56.0249982,
-      "min_latitude": 21.2735939,
-      "min_longitude": 55.2069211,
-      "max_latitude": 24.019926,
-      "max_longitude": 57.116874
-    },
-    "name": "Adh Dhahirah"
+    "comments": null
   },
   "BJ": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة جنوب الباطنة",
       "bn": "আল বাতিনাহ দক্ষিন গভর্নোরেট",
@@ -374,10 +424,27 @@
       "th": "เขตอัลบาตินะห์",
       "tr": "Al Batinah Güney Yönetimi",
       "ur": "ال باتینہ ساؤتھ جوویرنوراتی",
-      "vi": "Tỉnh Al Batinah South"
-    }
+      "vi": "Tỉnh Al Batinah South",
+      "lv": "Dienvidbātinas muhāfaza",
+      "lt": "Al Batino pietų gubernija",
+      "ccp": "𑄎𑄚𑄪𑄛𑄴 𑄃𑄣𑄴 𑄝𑄑𑄨𑄚𑄦𑄴",
+      "eu": "Hego Al Batinah",
+      "uk": "Муніципалітет Південна Ель-Батіна"
+    },
+    "comments": null
   },
   "BS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة شمال الباطنة",
       "cs": "Severní al-Batína",
@@ -389,10 +456,28 @@
       "it": "Al Batinah North Governorate",
       "ja": "北バーティナ地方",
       "ko": "북바티나 주",
-      "nb": "Nord-Al Batinah"
-    }
+      "nb": "Nord-Al Batinah",
+      "pl": "Muhafazat Szamal al-Batina",
+      "ccp": "𑄥𑄳𑄠𑄟𑄧𑄣𑄴 𑄃𑄣𑄴 𑄝𑄑𑄨𑄚𑄦𑄴",
+      "fr": "Al-Batina du Nord",
+      "es": "Al Batinah Norte gobernación",
+      "eu": "Ipar Al Batinah",
+      "pt": "Batina Setentrional"
+    },
+    "comments": null
   },
   "BU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة البريمي",
       "bn": "আল বুরাইমি গভর্নোরেট",
@@ -432,10 +517,25 @@
       "uk": "Ель-Бураймі",
       "ur": "محافظہ البریمی",
       "vi": "Buraimi",
-      "zh": "布賴米省"
-    }
+      "zh": "布賴米省",
+      "lv": "Buraimī muhāfaza",
+      "ccp": "𑄃𑄣𑄴 𑄝𑄪𑄢𑄭𑄟𑄨",
+      "eu": "Al Buraimi"
+    },
+    "comments": null
   },
   "SJ": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة جنوب الشرقية",
       "bn": "আশ শারকিয়া দক্ষিন গভর্নোরেট",
@@ -469,10 +569,29 @@
       "th": "แอชชาร์กิยาห์ เซาท์ โกเวอโนเนท",
       "tr": "Ash Shargiyah Güney Yönetimi",
       "ur": "عیش شارقیاح ساؤتھ جوویرنوراتی",
-      "vi": "Tỉnh Nam Ash Sharqiyah"
-    }
+      "vi": "Tỉnh Nam Ash Sharqiyah",
+      "lv": "Dienvidšerkījas muhāfaza",
+      "ceb": "Ash Sharqiyah South",
+      "lt": "Aš Šarkijos pietinė gubernija",
+      "zh": "東南省",
+      "ccp": "𑄎𑄚𑄪𑄛𑄴 𑄃𑄌𑄴 𑄥𑄧𑄢𑄴𑄇𑄪𑄃𑄨𑄦𑄴",
+      "eu": "Hego Ash Sharqiyah",
+      "uk": "Південна Еш-Шаркія"
+    },
+    "comments": null
   },
   "SS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة شمال الشرقية",
       "bn": "আশ শারকিয়াহ গভর্নোরেট",
@@ -506,10 +625,28 @@
       "th": "เขตการปกครองอาชาร์กียะฮ์ ตอนเหนือ",
       "tr": "Ash Sharqiyah Kuzey Yönetimi",
       "ur": "عیش شارقیاح نارتھ جوویرنوراتی",
-      "vi": "Tỉnh Bắc Ash Sharqiyah"
-    }
+      "vi": "Tỉnh Bắc Ash Sharqiyah",
+      "lv": "Aš Šarkijas ziemeļu muhāfaza",
+      "lt": "Aš Šarkijos šiaurinė gubernija",
+      "zh": "東北省",
+      "ccp": "𑄥𑄳𑄠𑄟𑄧𑄣𑄴 𑄃𑄌𑄴 𑄥𑄢𑄴𑄇𑄪𑄃𑄨𑄦𑄴",
+      "eu": "Ipar Ash Sharqiyah",
+      "uk": "Північно-Східна Провінція Еш-Шаркія"
+    },
+    "comments": null
   },
   "ZU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة ظفار",
       "bn": "ধোফার গভর্নোরেট",
@@ -550,8 +687,12 @@
       "tr": "Zufar valiliği",
       "uk": "Дофар",
       "ur": "محافظہ ظفار",
-      "vi": "Tỉnh Dhofar"
-    }
+      "vi": "Tỉnh Dhofar",
+      "lv": "Dofaras muhāfaza",
+      "zh": "佐法爾省",
+      "ccp": "𑄙𑄮𑄜𑄢𑄴"
+    },
+    "comments": null
   }
 }
 

@@ -1,9 +1,8 @@
 {
   "AB": {
+    "name": "Äli Bayramli",
+    "code": null,
     "unofficial_names": "Äli Bayramli",
-    "translations": {
-      "en": "Äli Bayramli"
-    },
     "geo": {
       "latitude": 39.931944,
       "longitude": 48.920278,
@@ -12,10 +11,23 @@
       "max_latitude": 39.983434,
       "max_longitude": 48.9807415
     },
-    "name": "Äli Bayramli"
+    "translations": {
+      "en": "Äli Bayramli"
+    },
+    "comments": null
   },
   "ABS": {
+    "name": "Abseron",
+    "code": null,
     "unofficial_names": "Abseron",
+    "geo": {
+      "latitude": 40.3629693,
+      "longitude": 49.2736815,
+      "min_latitude": 39.9478741,
+      "min_longitude": 48.843646,
+      "max_latitude": 40.638273,
+      "max_longitude": 49.908777
+    },
     "translations": {
       "en": "Absheron",
       "ar": "مقاطعة آبشوران",
@@ -56,20 +68,30 @@
       "tr": "Abşeron Rayonu",
       "ur": "آب شیرون ضلع",
       "vi": "Absheron",
-      "zh": "阿布歇隆區"
+      "zh": "阿布歇隆區",
+      "lv": "Abšeronas rajons",
+      "ceb": "Absheron Rayon",
+      "sr_Latn": "Apšeronski rejon",
+      "lt": "Abšerono apskritis",
+      "sq": "Absheron",
+      "ccp": "𑄃𑄛𑄴𑄥𑄬𑄢𑄧𑄚𑄴",
+      "uk": "Апшеронський район",
+      "mk": "Апшерон"
     },
-    "geo": {
-      "latitude": 40.3629693,
-      "longitude": 49.2736815,
-      "min_latitude": 39.9478741,
-      "min_longitude": 48.843646,
-      "max_latitude": 40.638273,
-      "max_longitude": 49.908777
-    },
-    "name": "Abseron"
+    "comments": null
   },
   "AGA": {
+    "name": "Agstafa",
+    "code": null,
     "unofficial_names": "Agstafa",
+    "geo": {
+      "latitude": 41.118889,
+      "longitude": 45.453889,
+      "min_latitude": 41.09837,
+      "min_longitude": 45.4031037,
+      "max_latitude": 41.1373284,
+      "max_longitude": 45.48357
+    },
     "translations": {
       "en": "Agstafa",
       "ar": "مقاطعة أقستافا",
@@ -108,20 +130,31 @@
       "th": "อักสทาฟา",
       "tr": "Ağstafa Rayonu",
       "ur": "اغستافا ضلع",
-      "vi": "Aghstafa"
+      "vi": "Aghstafa",
+      "lv": "Agstafas rajons",
+      "ceb": "Aghstafa Rayon",
+      "sr_Latn": "Akstafinski rejon",
+      "lt": "Akstafos apskritis",
+      "zh": "阿克斯塔法區",
+      "sq": "Agstafa",
+      "ccp": "𑄃𑄇𑄴𑄥𑄳𑄑𑄜",
+      "uk": "Агстафінський район",
+      "mk": "Агстафа"
     },
-    "geo": {
-      "latitude": 41.118889,
-      "longitude": 45.453889,
-      "min_latitude": 41.09837,
-      "min_longitude": 45.4031037,
-      "max_latitude": 41.1373284,
-      "max_longitude": 45.48357
-    },
-    "name": "Agstafa"
+    "comments": null
   },
   "AGC": {
+    "name": "Agcabädi",
+    "code": null,
     "unofficial_names": "Agcabädi",
+    "geo": {
+      "latitude": 40.0257239,
+      "longitude": 47.3290937,
+      "min_latitude": 39.702849,
+      "min_longitude": 47.0597249,
+      "max_latitude": 40.248541,
+      "max_longitude": 47.735411
+    },
     "translations": {
       "en": "Aghjabadi",
       "ar": "مقاطعة آقجبدي",
@@ -161,20 +194,30 @@
       "tr": "Ağcabedi Rayonu",
       "uk": "Агджабединський район",
       "ur": "اغجابادی ضلع",
-      "vi": "Aghjabedi"
+      "vi": "Aghjabedi",
+      "lv": "Agdžabedi rajons",
+      "ceb": "Aghjabadi Rayon",
+      "sr_Latn": "Agdžabedinski rejon",
+      "lt": "Agdžabadžio apskritis",
+      "zh": "阿格賈貝迪區",
+      "sq": "Aghjabadi",
+      "ccp": "𑄃𑄇𑄴𑄎𑄝𑄘𑄨",
+      "mk": "Агџабеди"
     },
-    "geo": {
-      "latitude": 40.0257239,
-      "longitude": 47.3290937,
-      "min_latitude": 39.702849,
-      "min_longitude": 47.0597249,
-      "max_latitude": 40.248541,
-      "max_longitude": 47.735411
-    },
-    "name": "Agcabädi"
+    "comments": null
   },
   "AGM": {
+    "name": "Agdam",
+    "code": null,
     "unofficial_names": "Agdam",
+    "geo": {
+      "latitude": 39.5554533,
+      "longitude": 46.9507608,
+      "min_latitude": 39.5526992,
+      "min_longitude": 46.9491719,
+      "max_latitude": 39.5579602,
+      "max_longitude": 46.95384989999999
+    },
     "translations": {
       "en": "Agdam",
       "ar": "مقاطعة آقدام",
@@ -213,20 +256,32 @@
       "th": "ควาน อัคดัม",
       "tr": "Ağdam Rayonu",
       "ur": "اغدام ضلع",
-      "vi": "Quận Agdam"
+      "vi": "Quận Agdam",
+      "lv": "Agdamas rajons",
+      "ceb": "Aghdam Rayon",
+      "sr_Latn": "Agdamski rejon",
+      "lt": "Agdamo provincija",
+      "zh": "阿格達姆區",
+      "sq": "Agdam",
+      "ccp": "𑄃𑄇𑄴𑄘𑄟𑄴",
+      "uk": "Агдамський район",
+      "uz": "Agʻdam tumani",
+      "mk": "Агдам"
     },
-    "geo": {
-      "latitude": 39.5554533,
-      "longitude": 46.9507608,
-      "min_latitude": 39.5526992,
-      "min_longitude": 46.9491719,
-      "max_latitude": 39.5579602,
-      "max_longitude": 46.95384989999999
-    },
-    "name": "Agdam"
+    "comments": null
   },
   "AGS": {
+    "name": "Agdas",
+    "code": null,
     "unofficial_names": "Agdas",
+    "geo": {
+      "latitude": 40.6335427,
+      "longitude": 47.467431,
+      "min_latitude": 40.6229434,
+      "min_longitude": 47.4376344,
+      "max_latitude": 40.6659586,
+      "max_longitude": 47.5069858
+    },
     "translations": {
       "en": "Agdash",
       "ar": "مقاطعة أقداش",
@@ -266,20 +321,30 @@
       "tr": "Ağdaş Rayonu",
       "uk": "Агдаський район",
       "ur": "آقداش ضلع",
-      "vi": "Aghdash"
+      "vi": "Aghdash",
+      "lv": "Agdašas rajons",
+      "ceb": "Aghdash Rayon",
+      "sr_Latn": "Agdaški rejon",
+      "lt": "Agdašo apskritis",
+      "zh": "阿格達什區",
+      "sq": "Agdash",
+      "ccp": "𑄃𑄇𑄴𑄘𑄳𑄠𑄌𑄴",
+      "mk": "Агдаш"
     },
-    "geo": {
-      "latitude": 40.6335427,
-      "longitude": 47.467431,
-      "min_latitude": 40.6229434,
-      "min_longitude": 47.4376344,
-      "max_latitude": 40.6659586,
-      "max_longitude": 47.5069858
-    },
-    "name": "Agdas"
+    "comments": null
   },
   "AGU": {
+    "name": "Agsu",
+    "code": null,
     "unofficial_names": "Agsu",
+    "geo": {
+      "latitude": 40.569167,
+      "longitude": 48.400833,
+      "min_latitude": 40.553135,
+      "min_longitude": 48.3700133,
+      "max_latitude": 40.587429,
+      "max_longitude": 48.4195375
+    },
     "translations": {
       "en": "Agsu",
       "ar": "مقاطعة أقسو",
@@ -318,20 +383,31 @@
       "th": "เขตอักซู",
       "tr": "Ağsu Rayonu",
       "ur": "اغسو ضلع",
-      "vi": "Aghsu"
+      "vi": "Aghsu",
+      "lv": "Agsu rajons",
+      "ceb": "Aghsu Rayon",
+      "sr_Latn": "Ahsujski rejon",
+      "lt": "Agsu apskritis",
+      "zh": "阿赫蘇區",
+      "sq": "Agsu",
+      "ccp": "𑄃𑄇𑄴𑄥𑄪",
+      "uk": "Ахсуйський район",
+      "mk": "Агсу"
     },
-    "geo": {
-      "latitude": 40.569167,
-      "longitude": 48.400833,
-      "min_latitude": 40.553135,
-      "min_longitude": 48.3700133,
-      "max_latitude": 40.587429,
-      "max_longitude": 48.4195375
-    },
-    "name": "Agsu"
+    "comments": null
   },
   "AST": {
+    "name": "Astara",
+    "code": null,
     "unofficial_names": "Astara",
+    "geo": {
+      "latitude": 38.45611100000001,
+      "longitude": 48.878611,
+      "min_latitude": 38.4422285,
+      "min_longitude": 48.8535404,
+      "max_latitude": 38.4936713,
+      "max_longitude": 48.8811778
+    },
     "translations": {
       "en": "Astara",
       "ar": "مقاطعة آستارا",
@@ -370,20 +446,31 @@
       "th": "เมืองอัสทารา",
       "tr": "Astara Rayonu",
       "ur": "آستارا ضلع",
-      "vi": "Astara"
+      "vi": "Astara",
+      "lv": "Astaras rajons",
+      "ceb": "Astara District",
+      "sr_Latn": "Astarinski rejon",
+      "lt": "Astaros apskritis",
+      "zh": "阿斯塔拉區",
+      "sq": "Astara",
+      "ccp": "𑄃𑄌𑄴𑄖𑄢",
+      "uk": "Астаринський район",
+      "mk": "Астара"
     },
-    "geo": {
-      "latitude": 38.45611100000001,
-      "longitude": 48.878611,
-      "min_latitude": 38.4422285,
-      "min_longitude": 48.8535404,
-      "max_latitude": 38.4936713,
-      "max_longitude": 48.8811778
-    },
-    "name": "Astara"
+    "comments": null
   },
   "BA": {
+    "name": "Baki",
+    "code": null,
     "unofficial_names": "Baki",
+    "geo": {
+      "latitude": 40.40926169999999,
+      "longitude": 49.8670924,
+      "min_latitude": 40.3039993,
+      "min_longitude": 49.6538049,
+      "max_latitude": 40.486602,
+      "max_longitude": 50.0561143
+    },
     "translations": {
       "en": "Baku",
       "af": "Bakoe",
@@ -445,20 +532,41 @@
       "tr": "Bakü",
       "uk": "Баку",
       "ur": "باکو",
-      "vi": "Baku"
+      "vi": "Baku",
+      "cy": "Baku",
+      "ceb": "Baku City",
+      "sr_Latn": "Baku",
+      "zh": "巴库",
+      "yue_Hans": "巴库",
+      "jv": "Baku",
+      "sq": "Baku",
+      "ccp": "𑄝𑄇𑄪",
+      "ga": "Bakı",
+      "ky": "Баку",
+      "pa": "ਬਾਕੂ",
+      "kk": "Баку",
+      "yue": "巴庫",
+      "my": "ဗားကူးမြို့",
+      "yo": "Baku",
+      "uz": "Boku",
+      "bs": "Baku",
+      "mk": "Баку",
+      "ne": "बाकु"
     },
-    "geo": {
-      "latitude": 40.40926169999999,
-      "longitude": 49.8670924,
-      "min_latitude": 40.3039993,
-      "min_longitude": 49.6538049,
-      "max_latitude": 40.486602,
-      "max_longitude": 50.0561143
-    },
-    "name": "Baki"
+    "comments": null
   },
   "BAB": {
+    "name": "Babäk",
+    "code": null,
     "unofficial_names": "Babäk",
+    "geo": {
+      "latitude": 39.1507613,
+      "longitude": 45.4485368,
+      "min_latitude": 39.1335888,
+      "min_longitude": 45.4309559,
+      "max_latitude": 39.1675349,
+      "max_longitude": 45.46829229999999
+    },
     "translations": {
       "en": "Babek",
       "ar": "مقاطعة بابيك",
@@ -496,20 +604,29 @@
       "tr": "Babek Rayonu",
       "uk": "Бабецький район",
       "ur": "بابک ضلع",
-      "vi": "Babek"
+      "vi": "Babek",
+      "lv": "Babekas rajons",
+      "ceb": "Babek Rayon",
+      "sr_Latn": "Babečki rejon",
+      "lt": "Babeko apskritis",
+      "zh": "巴貝克區",
+      "ccp": "𑄝𑄝𑄬𑄇𑄴",
+      "mk": "Бабек"
     },
-    "geo": {
-      "latitude": 39.1507613,
-      "longitude": 45.4485368,
-      "min_latitude": 39.1335888,
-      "min_longitude": 45.4309559,
-      "max_latitude": 39.1675349,
-      "max_longitude": 45.46829229999999
-    },
-    "name": "Babäk"
+    "comments": null
   },
   "BAL": {
+    "name": "Balakän",
+    "code": null,
     "unofficial_names": "Balakän",
+    "geo": {
+      "latitude": 41.725833,
+      "longitude": 46.408333,
+      "min_latitude": 41.6622043,
+      "min_longitude": 46.3497733,
+      "max_latitude": 41.7560107,
+      "max_longitude": 46.4600659
+    },
     "translations": {
       "en": "Balakan",
       "ar": "مقاطعة بالاكن",
@@ -548,20 +665,31 @@
       "th": "บาลาคาน",
       "tr": "Balaken Rayonu",
       "ur": "بالاکن ضلع",
-      "vi": "Balaken"
+      "vi": "Balaken",
+      "lv": "Balakenas rajons",
+      "ceb": "Balakan Rayon",
+      "sr_Latn": "Belokanski rejon",
+      "lt": "Balakano apskritis",
+      "zh": "巴拉肯區",
+      "sq": "Balakan",
+      "ccp": "𑄝𑄧𑄣𑄇𑄚𑄴",
+      "uk": "Белоканський район",
+      "mk": "Балакен"
     },
-    "geo": {
-      "latitude": 41.725833,
-      "longitude": 46.408333,
-      "min_latitude": 41.6622043,
-      "min_longitude": 46.3497733,
-      "max_latitude": 41.7560107,
-      "max_longitude": 46.4600659
-    },
-    "name": "Balakän"
+    "comments": null
   },
   "BAR": {
+    "name": "Bärdä",
+    "code": null,
     "unofficial_names": "Bärdä",
+    "geo": {
+      "latitude": 40.3667,
+      "longitude": 47.11669999999999,
+      "min_latitude": 40.3447124,
+      "min_longitude": 47.09220879999999,
+      "max_latitude": 40.405915,
+      "max_longitude": 47.1718597
+    },
     "translations": {
       "en": "Barda",
       "ar": "مقاطعة بردع",
@@ -598,20 +726,32 @@
       "th": "เขตบาด้า",
       "tr": "Berde Rayonu",
       "ur": "بردع ضلع",
-      "vi": "Barda"
+      "vi": "Barda",
+      "lv": "Bardas rajons",
+      "ceb": "Barda Rayon",
+      "sr_Latn": "Bardinski rejon",
+      "lt": "Bardos apskritis",
+      "zh": "巴爾達區",
+      "sq": "Barda",
+      "ccp": "𑄝𑄢𑄴𑄘",
+      "ka": "ბარდის რაიონი",
+      "uk": "Район Барда",
+      "mk": "Барда"
     },
-    "geo": {
-      "latitude": 40.3667,
-      "longitude": 47.11669999999999,
-      "min_latitude": 40.3447124,
-      "min_longitude": 47.09220879999999,
-      "max_latitude": 40.405915,
-      "max_longitude": 47.1718597
-    },
-    "name": "Bärdä"
+    "comments": null
   },
   "BEY": {
+    "name": "Beyläqan",
+    "code": null,
     "unofficial_names": "Beyläqan",
+    "geo": {
+      "latitude": 39.766667,
+      "longitude": 47.616667,
+      "min_latitude": 39.7545479,
+      "min_longitude": 47.58363250000001,
+      "max_latitude": 39.7852244,
+      "max_longitude": 47.6407099
+    },
     "translations": {
       "en": "Beylagan",
       "ar": "مقاطعة بيلقان",
@@ -648,20 +788,32 @@
       "th": "เขตเบย์ลาแกน",
       "tr": "Beylegan Rayonu",
       "ur": "بیلقان ضلع",
-      "vi": "Beilagan"
+      "vi": "Beilagan",
+      "lv": "Bejleganas rajons",
+      "ceb": "Beylagan Rayon",
+      "sr_Latn": "Bejlaganski rejon",
+      "lt": "Bejlagano apskritis",
+      "zh": "貝拉甘區",
+      "sq": "Beylagan",
+      "ccp": "𑄝𑄬𑄣𑄧𑄉𑄧𑄚𑄴",
+      "he": "ביילגאן",
+      "uk": "Бейлаганський район",
+      "mk": "Бејлеган"
     },
-    "geo": {
-      "latitude": 39.766667,
-      "longitude": 47.616667,
-      "min_latitude": 39.7545479,
-      "min_longitude": 47.58363250000001,
-      "max_latitude": 39.7852244,
-      "max_longitude": 47.6407099
-    },
-    "name": "Beyläqan"
+    "comments": null
   },
   "BIL": {
+    "name": "Biläsuvar",
+    "code": null,
     "unofficial_names": "Biläsuvar",
+    "geo": {
+      "latitude": 39.45,
+      "longitude": 48.533333,
+      "min_latitude": 39.4349998,
+      "min_longitude": 48.5262895,
+      "max_latitude": 39.4795993,
+      "max_longitude": 48.5670376
+    },
     "translations": {
       "en": "Bilasuvar",
       "ar": "مقاطعة بيلاسوار",
@@ -699,20 +851,29 @@
       "tr": "Bilesuvar rayonu",
       "uk": "Білясуварський район",
       "ur": "بیلاسوار ضلع",
-      "vi": "Bilasuvar"
+      "vi": "Bilasuvar",
+      "lv": "Bilesuvaras rajons",
+      "ceb": "Bilasuvar Rayon",
+      "sr_Latn": "Biljasuvarski rejon",
+      "lt": "Bilasuvaro apskritis",
+      "zh": "比利亞蘇瓦爾區",
+      "ccp": "𑄝𑄨𑄣𑄥𑄪𑄞𑄢𑄴",
+      "mk": "Биљасувар"
     },
-    "geo": {
-      "latitude": 39.45,
-      "longitude": 48.533333,
-      "min_latitude": 39.4349998,
-      "min_longitude": 48.5262895,
-      "max_latitude": 39.4795993,
-      "max_longitude": 48.5670376
-    },
-    "name": "Biläsuvar"
+    "comments": null
   },
   "CAB": {
+    "name": "Cäbrayil",
+    "code": null,
     "unofficial_names": "Cäbrayil",
+    "geo": {
+      "latitude": 39.2645544,
+      "longitude": 46.9621561,
+      "min_latitude": 39.132511,
+      "min_longitude": 46.692907,
+      "max_latitude": 39.478561,
+      "max_longitude": 47.27655410000001
+    },
     "translations": {
       "en": "Jabrayil",
       "ar": "مقاطعة جبرائيل",
@@ -750,20 +911,30 @@
       "tr": "Cebrayıl Rayonu",
       "uk": "Джебраїльський район",
       "ur": "جبراییل ضلع",
-      "vi": "Jebrail"
+      "vi": "Jebrail",
+      "lv": "Džebrajilas rajons",
+      "ceb": "Cəbrayıl Rayonu",
+      "sr_Latn": "Džebrajiljski rejon",
+      "lt": "Džebrailo apskritis",
+      "zh": "傑布拉伊爾區",
+      "sq": "Jabrayil",
+      "ccp": "𑄎𑄝𑄳𑄢𑄭𑄣𑄴",
+      "mk": "Џебраил"
     },
-    "geo": {
-      "latitude": 39.2645544,
-      "longitude": 46.9621561,
-      "min_latitude": 39.132511,
-      "min_longitude": 46.692907,
-      "max_latitude": 39.478561,
-      "max_longitude": 47.27655410000001
-    },
-    "name": "Cäbrayil"
+    "comments": null
   },
   "CAL": {
+    "name": "Cälilabab",
+    "code": null,
     "unofficial_names": "Cälilabab",
+    "geo": {
+      "latitude": 39.218442,
+      "longitude": 48.4295146,
+      "min_latitude": 38.98947,
+      "min_longitude": 48.1295969,
+      "max_latitude": 39.408813,
+      "max_longitude": 48.754075
+    },
     "translations": {
       "en": "Jalilabad",
       "ar": "مقاطعة جليل‌ آباد",
@@ -801,20 +972,31 @@
       "th": "เขตจาลิลาบัด",
       "tr": "Celilabad Rayonu",
       "ur": "جلیل آباد ضلع (آذربائیجان)",
-      "vi": "Jalilabad"
+      "vi": "Jalilabad",
+      "lv": "Dželilabadas rajons",
+      "ceb": "Jalilabad",
+      "sr_Latn": "Džalilabadski rejon",
+      "lt": "Džalilabado apskritis",
+      "zh": "賈利拉巴德區",
+      "sq": "Jalilabad",
+      "ccp": "𑄎𑄣𑄨𑄣𑄝𑄖𑄴",
+      "uk": "Джалілабад",
+      "mk": "Џелилабад"
     },
-    "geo": {
-      "latitude": 39.218442,
-      "longitude": 48.4295146,
-      "min_latitude": 38.98947,
-      "min_longitude": 48.1295969,
-      "max_latitude": 39.408813,
-      "max_longitude": 48.754075
-    },
-    "name": "Cälilabab"
+    "comments": null
   },
   "CUL": {
+    "name": "Culfa",
+    "code": null,
     "unofficial_names": "Culfa",
+    "geo": {
+      "latitude": 38.955833,
+      "longitude": 45.630833,
+      "min_latitude": 38.9447447,
+      "min_longitude": 45.605641,
+      "max_latitude": 38.9734231,
+      "max_longitude": 45.6617546
+    },
     "translations": {
       "en": "Julfa",
       "ar": "حي جلفا",
@@ -852,20 +1034,30 @@
       "tr": "Culfa Rayonu",
       "uk": "Джульфінський район",
       "ur": "جلفا ضلع",
-      "vi": "Julfa"
+      "vi": "Julfa",
+      "lv": "Džulfas rajons",
+      "ceb": "Julfa Rayon",
+      "sr_Latn": "Džulfinski rejon",
+      "lt": "Džulfos apskritis",
+      "zh": "朱利法區",
+      "ccp": "𑄎𑄪𑄣𑄴𑄜",
+      "be": "Джульфінскі раён",
+      "mk": "Џулфа"
     },
-    "geo": {
-      "latitude": 38.955833,
-      "longitude": 45.630833,
-      "min_latitude": 38.9447447,
-      "min_longitude": 45.605641,
-      "max_latitude": 38.9734231,
-      "max_longitude": 45.6617546
-    },
-    "name": "Culfa"
+    "comments": null
   },
   "DAS": {
+    "name": "Daskäsän",
+    "code": null,
     "unofficial_names": "Daskäsän",
+    "geo": {
+      "latitude": 40.5202257,
+      "longitude": 46.0779304,
+      "min_latitude": 40.5079263,
+      "min_longitude": 46.0622406,
+      "max_latitude": 40.5287404,
+      "max_longitude": 46.09107969999999
+    },
     "translations": {
       "en": "Dashkasan",
       "ar": "مقاطعة داشكاسان",
@@ -903,23 +1095,24 @@
       "th": "แดชคาซาน",
       "tr": "Daşkesen Rayonu",
       "ur": "داشکسن ضلع",
-      "vi": "Dashkasan"
+      "vi": "Dashkasan",
+      "lv": "Daškesenas rajons",
+      "ceb": "Dashkasan Rayon",
+      "sr_Latn": "Daškesanski rejon",
+      "lt": "Daškesano apskritis",
+      "zh": "達什卡桑區",
+      "fa": "شهرستان داش‌کسن",
+      "sq": "Dashkasan",
+      "ccp": "𑄓𑄳𑄠𑄌𑄴𑄇𑄥𑄚𑄴",
+      "uk": "Дашкесанський район",
+      "mk": "Дашкесен"
     },
-    "geo": {
-      "latitude": 40.5202257,
-      "longitude": 46.0779304,
-      "min_latitude": 40.5079263,
-      "min_longitude": 46.0622406,
-      "max_latitude": 40.5287404,
-      "max_longitude": 46.09107969999999
-    },
-    "name": "Daskäsän"
+    "comments": null
   },
   "DAV": {
+    "name": "Däväçi",
+    "code": null,
     "unofficial_names": "Däväçi",
-    "translations": {
-      "en": "Däväçi"
-    },
     "geo": {
       "latitude": 41.2872222,
       "longitude": 49.0747222,
@@ -928,10 +1121,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Däväçi"
+    "translations": {
+      "en": "Däväçi"
+    },
+    "comments": null
   },
   "FUZ": {
+    "name": "Füzuli",
+    "code": null,
     "unofficial_names": "Füzuli",
+    "geo": {
+      "latitude": 39.6003,
+      "longitude": 47.1431,
+      "min_latitude": 39.5692419,
+      "min_longitude": 47.1216489,
+      "max_latitude": 39.6252594,
+      "max_longitude": 47.1828459
+    },
     "translations": {
       "en": "Fizuli",
       "ar": "مقاطعة فضولي",
@@ -969,20 +1175,31 @@
       "th": "ฟิซูลี",
       "tr": "Füzuli Rayonu",
       "ur": "فضولی ضلع",
-      "vi": "Fuzuli"
+      "vi": "Fuzuli",
+      "lv": "Fuzuli rajons",
+      "ceb": "Fizuli Rayon",
+      "sr_Latn": "Fizulinski rejon",
+      "lt": "Fuzulio apskritis",
+      "zh": "菲祖利區",
+      "sq": "Fizuli",
+      "ccp": "𑄜𑄭𑄎𑄪𑄣𑄩",
+      "uk": "Фізулінський район",
+      "mk": "Физули"
     },
-    "geo": {
-      "latitude": 39.6003,
-      "longitude": 47.1431,
-      "min_latitude": 39.5692419,
-      "min_longitude": 47.1216489,
-      "max_latitude": 39.6252594,
-      "max_longitude": 47.1828459
-    },
-    "name": "Füzuli"
+    "comments": null
   },
   "GA": {
+    "name": "Gäncä",
+    "code": null,
     "unofficial_names": "Gäncä",
+    "geo": {
+      "latitude": 40.682778,
+      "longitude": 46.360556,
+      "min_latitude": 40.6333659,
+      "min_longitude": 46.2979746,
+      "max_latitude": 40.7553196,
+      "max_longitude": 46.4393805
+    },
     "translations": {
       "en": "Ganja",
       "ar": "غنجة",
@@ -1035,20 +1252,30 @@
       "tr": "Gence",
       "uk": "Гянджа",
       "ur": "گنجہ",
-      "vi": "Ganca"
+      "vi": "Ganca",
+      "cy": "Ganja",
+      "ceb": "Ganja",
+      "sr_Latn": "Gandža",
+      "zh": "占贾",
+      "sq": "Ganja",
+      "ccp": "𑄉𑄚𑄴𑄎",
+      "kk": "Гәнжә",
+      "uz": "Ganja"
     },
-    "geo": {
-      "latitude": 40.682778,
-      "longitude": 46.360556,
-      "min_latitude": 40.6333659,
-      "min_longitude": 46.2979746,
-      "max_latitude": 40.7553196,
-      "max_longitude": 46.4393805
-    },
-    "name": "Gäncä"
+    "comments": null
   },
   "GAD": {
+    "name": "Gädäbäy",
+    "code": null,
     "unofficial_names": "Gädäbäy",
+    "geo": {
+      "latitude": 40.5087904,
+      "longitude": 45.67288509999999,
+      "min_latitude": 40.319229,
+      "min_longitude": 45.3550831,
+      "max_latitude": 40.821649,
+      "max_longitude": 45.915231
+    },
     "translations": {
       "en": "Gadabay",
       "ar": "مقاطعة غدابيغ",
@@ -1087,20 +1314,31 @@
       "tr": "Gedebey Rayonu",
       "uk": "Кедабекський район",
       "ur": "گدابے ضلع",
-      "vi": "Gadabey"
+      "vi": "Gadabey",
+      "lv": "Gedebejas rajons",
+      "ceb": "Gadabay Rayon",
+      "sr_Latn": "Kedabečki rejon",
+      "lt": "Gadabajaus apskritis",
+      "zh": "凱達貝克區",
+      "sq": "Gadabay",
+      "ccp": "𑄉𑄘𑄝𑄳𑄠",
+      "ka": "გადაბეის რაიონი",
+      "mk": "Гедебеј"
     },
-    "geo": {
-      "latitude": 40.5087904,
-      "longitude": 45.67288509999999,
-      "min_latitude": 40.319229,
-      "min_longitude": 45.3550831,
-      "max_latitude": 40.821649,
-      "max_longitude": 45.915231
-    },
-    "name": "Gädäbäy"
+    "comments": null
   },
   "GOR": {
+    "name": "Goranboy",
+    "code": null,
     "unofficial_names": "Goranboy",
+    "geo": {
+      "latitude": 40.610278,
+      "longitude": 46.789722,
+      "min_latitude": 40.5915353,
+      "min_longitude": 46.7551517,
+      "max_latitude": 40.6267217,
+      "max_longitude": 46.8130016
+    },
     "translations": {
       "en": "Goranboy",
       "ar": "مقاطعة غورانبوي",
@@ -1137,20 +1375,32 @@
       "tr": "Goranboy Rayonu",
       "uk": "Геранбойський район",
       "ur": "گورانبوئے ضلع",
-      "vi": "Geranboy"
+      "vi": "Geranboy",
+      "lv": "Goranbojas rajons",
+      "ceb": "Goranboy Rayon",
+      "sr_Latn": "Geranbojski rejon",
+      "lt": "Goranbojaus apskritis",
+      "zh": "戈蘭博伊區",
+      "sq": "Goranboy",
+      "ccp": "𑄉𑄧𑄢𑄚𑄴𑄝𑄧𑄠𑄴",
+      "ka": "გორანბოის რაიონი",
+      "hy": "Գերանբոյի շրջան",
+      "mk": "Горанбој"
     },
-    "geo": {
-      "latitude": 40.610278,
-      "longitude": 46.789722,
-      "min_latitude": 40.5915353,
-      "min_longitude": 46.7551517,
-      "max_latitude": 40.6267217,
-      "max_longitude": 46.8130016
-    },
-    "name": "Goranboy"
+    "comments": null
   },
   "GOY": {
+    "name": "Göyçay",
+    "code": null,
     "unofficial_names": "Göyçay",
+    "geo": {
+      "latitude": 40.65309999999999,
+      "longitude": 47.7406,
+      "min_latitude": 40.5915353,
+      "min_longitude": 47.67448410000001,
+      "max_latitude": 40.6723061,
+      "max_longitude": 47.78572080000001
+    },
     "translations": {
       "en": "Goychay",
       "ar": "مقاطعة غويتشاي",
@@ -1186,20 +1436,31 @@
       "th": "กอยเชย์",
       "tr": "Göyçay Rayonu",
       "ur": "گوئچے ضلع",
-      "vi": "Goychay"
+      "vi": "Goychay",
+      "lv": "Gejčalas rajons",
+      "ceb": "Goychay Rayon",
+      "sr_Latn": "Geokčajski rejon",
+      "lt": "Geochajaus apskritis",
+      "zh": "蓋奧克恰伊區",
+      "sq": "Goychay",
+      "ccp": "𑄉𑄧𑄠𑄴𑄌𑄧𑄠𑄴",
+      "uk": "Гейчайський район",
+      "mk": "Ѓојчај"
     },
-    "geo": {
-      "latitude": 40.65309999999999,
-      "longitude": 47.7406,
-      "min_latitude": 40.5915353,
-      "min_longitude": 47.67448410000001,
-      "max_latitude": 40.6723061,
-      "max_longitude": 47.78572080000001
-    },
-    "name": "Göyçay"
+    "comments": null
   },
   "HAC": {
+    "name": "Haciqabul",
+    "code": null,
     "unofficial_names": "Haciqabul",
+    "geo": {
+      "latitude": 40.043333,
+      "longitude": 48.935556,
+      "min_latitude": 40.00655500000001,
+      "min_longitude": 48.8856411,
+      "max_latitude": 40.0635722,
+      "max_longitude": 48.959273
+    },
     "translations": {
       "en": "Hajigabul",
       "ar": "مقاطعة هايغابول",
@@ -1237,20 +1498,31 @@
       "th": "ฮาจิกาบูร",
       "tr": "Hacıkabul Rayonu",
       "ur": "حاجی قبول ضلع",
-      "vi": "Hacuqabul"
+      "vi": "Hacuqabul",
+      "lv": "Hadžigabulas rajons",
+      "ceb": "Hajigabul Rayon",
+      "sr_Latn": "Adžigabuljski rejon",
+      "lt": "Hadžigabulo apskritis",
+      "zh": "卡齊穆罕默德區",
+      "sq": "Hajigabul",
+      "ccp": "𑄦𑄎𑄨𑄉𑄝𑄪𑄣𑄴",
+      "uk": "Район Гаджигабул",
+      "mk": "Аџикабул"
     },
-    "geo": {
-      "latitude": 40.043333,
-      "longitude": 48.935556,
-      "min_latitude": 40.00655500000001,
-      "min_longitude": 48.8856411,
-      "max_latitude": 40.0635722,
-      "max_longitude": 48.959273
-    },
-    "name": "Haciqabul"
+    "comments": null
   },
   "IMI": {
+    "name": "Imisli",
+    "code": null,
     "unofficial_names": "Imisli",
+    "geo": {
+      "latitude": 39.8692,
+      "longitude": 48.06,
+      "min_latitude": 39.8378046,
+      "min_longitude": 48.0193521,
+      "max_latitude": 39.8917536,
+      "max_longitude": 48.1096519
+    },
     "translations": {
       "en": "Imishli",
       "ar": "مقاطعة إيميشلي",
@@ -1286,20 +1558,31 @@
       "tr": "İmişli Rayonu",
       "uk": "Імішлінський район",
       "ur": "ایمیشلی ضلع",
-      "vi": "Imishli (quận)"
+      "vi": "Imishli (quận)",
+      "lv": "Imišli rajons",
+      "ceb": "Imishli Rayon",
+      "sr_Latn": "Imišlinski rejon",
+      "lt": "Išmišlio apskritis",
+      "zh": "伊米什利區",
+      "sq": "Imishli (rajon)",
+      "ccp": "𑄃𑄨𑄟𑄨𑄌𑄴𑄣𑄨",
+      "et": "İmişli rajoon",
+      "mk": "Имишли (округ)"
     },
-    "geo": {
-      "latitude": 39.8692,
-      "longitude": 48.06,
-      "min_latitude": 39.8378046,
-      "min_longitude": 48.0193521,
-      "max_latitude": 39.8917536,
-      "max_longitude": 48.1096519
-    },
-    "name": "Imisli"
+    "comments": null
   },
   "ISM": {
+    "name": "Ismayilli",
+    "code": null,
     "unofficial_names": "Ismayilli",
+    "geo": {
+      "latitude": 40.79,
+      "longitude": 48.151944,
+      "min_latitude": 40.7646814,
+      "min_longitude": 48.13007349999999,
+      "max_latitude": 40.8119253,
+      "max_longitude": 48.2034588
+    },
     "translations": {
       "en": "Ismailli",
       "ar": "مقاطعة إسمايلي",
@@ -1336,20 +1619,30 @@
       "tr": "İsmayıllı Rayonu",
       "uk": "Ісмаїллінський район",
       "ur": "اسماعیلی ضلع",
-      "vi": "Ismailly (quận)"
+      "vi": "Ismailly (quận)",
+      "lv": "Ismajilli rajons",
+      "ceb": "Ismayilli Rayon",
+      "sr_Latn": "Ismajilinski rejon",
+      "lt": "Ismailio apskritis",
+      "zh": "伊斯梅爾雷區",
+      "sq": "Ismailli (rajon)",
+      "ccp": "𑄃𑄨𑄌𑄴𑄟𑄭𑄣𑄩",
+      "mk": "Исмаили (округ)"
     },
-    "geo": {
-      "latitude": 40.79,
-      "longitude": 48.151944,
-      "min_latitude": 40.7646814,
-      "min_longitude": 48.13007349999999,
-      "max_latitude": 40.8119253,
-      "max_longitude": 48.2034588
-    },
-    "name": "Ismayilli"
+    "comments": null
   },
   "KAL": {
+    "name": "Kälbäcär",
+    "code": null,
     "unofficial_names": "Kälbäcär",
+    "geo": {
+      "latitude": 40.1315615,
+      "longitude": 46.1674645,
+      "min_latitude": 39.81310999999999,
+      "min_longitude": 45.6090569,
+      "max_latitude": 40.31433699999999,
+      "max_longitude": 46.759549
+    },
     "translations": {
       "en": "Kalbajar",
       "ar": "مقاطعة كلبجر",
@@ -1386,20 +1679,32 @@
       "th": "เขตคาลบาจาร์",
       "tr": "Kelbecer Rayonu",
       "ur": "کلباجار ضلع",
-      "vi": "Kelbajar"
+      "vi": "Kelbajar",
+      "lv": "Kelbedžeras rajons",
+      "ceb": "Kəlbəcər Rayonu",
+      "sr_Latn": "Keljbadžarski rejon",
+      "lt": "Kalbadžaro apskritis",
+      "zh": "克爾巴賈爾區",
+      "sq": "Kalbajar",
+      "ccp": "𑄇𑄣𑄴𑄝𑄎𑄢𑄴",
+      "uk": "Кельбаджарський район",
+      "uz": "Kalbajar tumani",
+      "mk": "Келбеџер"
     },
-    "geo": {
-      "latitude": 40.1315615,
-      "longitude": 46.1674645,
-      "min_latitude": 39.81310999999999,
-      "min_longitude": 45.6090569,
-      "max_latitude": 40.31433699999999,
-      "max_longitude": 46.759549
-    },
-    "name": "Kälbäcär"
+    "comments": null
   },
   "KUR": {
+    "name": "Kürdämir",
+    "code": null,
     "unofficial_names": "Kürdämir",
+    "geo": {
+      "latitude": 40.34,
+      "longitude": 48.16,
+      "min_latitude": 40.3172317,
+      "min_longitude": 48.120718,
+      "max_latitude": 40.3976794,
+      "max_longitude": 48.2148742
+    },
     "translations": {
       "en": "Kurdamir",
       "ar": "مقاطعة كوردامير",
@@ -1434,20 +1739,31 @@
       "th": "เขตคูดาเมียร์",
       "tr": "Kürdemir Rayonu",
       "ur": "کردامیر ضلع",
-      "vi": "Kyurdamir"
+      "vi": "Kyurdamir",
+      "lv": "Kurdemiras rajons",
+      "ceb": "Kurdamir Rayon",
+      "sr_Latn": "Kjurdamirski rejon",
+      "lt": "Kiurdamiro apskritis",
+      "zh": "丘爾達米爾區",
+      "sq": "Kurdamir",
+      "ccp": "𑄇𑄪𑄢𑄴𑄓𑄟𑄨𑄢𑄴",
+      "uk": "Кюрдамирський район",
+      "mk": "Ќурдемир"
     },
-    "geo": {
-      "latitude": 40.34,
-      "longitude": 48.16,
-      "min_latitude": 40.3172317,
-      "min_longitude": 48.120718,
-      "max_latitude": 40.3976794,
-      "max_longitude": 48.2148742
-    },
-    "name": "Kürdämir"
+    "comments": null
   },
   "LA": {
+    "name": "Länkäran City",
+    "code": null,
     "unofficial_names": "Länkäran City",
+    "geo": {
+      "latitude": 38.753611,
+      "longitude": 48.851111,
+      "min_latitude": 38.7321757,
+      "min_longitude": 48.8232207,
+      "max_latitude": 38.7975439,
+      "max_longitude": 48.8669301
+    },
     "translations": {
       "en": "Lankaran",
       "ar": "مقاطعة لانكران",
@@ -1484,20 +1800,30 @@
       "tr": "Lenkeran Rayonu",
       "uk": "Ленкоранський район",
       "ur": "لنکران ضلع",
-      "vi": "Lenkaran"
+      "vi": "Lenkaran",
+      "lv": "Lenkeranas rajons",
+      "ceb": "Lankaran Rayon",
+      "sr_Latn": "Lenkoranski rejon",
+      "lt": "Lankarano apskritis",
+      "zh": "連科蘭區",
+      "sq": "Lankaran",
+      "ccp": "𑄣𑄧𑄁𑄇𑄢𑄚𑄴",
+      "mk": "Ленкеран"
     },
-    "geo": {
-      "latitude": 38.753611,
-      "longitude": 48.851111,
-      "min_latitude": 38.7321757,
-      "min_longitude": 48.8232207,
-      "max_latitude": 38.7975439,
-      "max_longitude": 48.8669301
-    },
-    "name": "Länkäran City"
+    "comments": null
   },
   "LAC": {
+    "name": "Laçin",
+    "code": null,
     "unofficial_names": "Laçin",
+    "geo": {
+      "latitude": 39.633333,
+      "longitude": 46.55,
+      "min_latitude": 39.6167968,
+      "min_longitude": 46.5265846,
+      "max_latitude": 39.652359,
+      "max_longitude": 46.5657878
+    },
     "translations": {
       "en": "Lachin",
       "ar": "مقاطعة لاتشين",
@@ -1522,20 +1848,28 @@
       "sv": "Latjyn",
       "tr": "Laçın Rayonu",
       "ur": "لاچین ضلع",
-      "vi": "Lachin"
+      "vi": "Lachin",
+      "ceb": "Laçın Rayonu",
+      "sr_Latn": "Lačinski rejon",
+      "zh": "拉欽區",
+      "sq": "Lachin",
+      "ccp": "𑄣𑄧𑄌𑄨𑄚𑄴",
+      "mk": "Лачин"
     },
-    "geo": {
-      "latitude": 39.633333,
-      "longitude": 46.55,
-      "min_latitude": 39.6167968,
-      "min_longitude": 46.5265846,
-      "max_latitude": 39.652359,
-      "max_longitude": 46.5657878
-    },
-    "name": "Laçin"
+    "comments": null
   },
   "LAN": {
+    "name": "Länkäran",
+    "code": null,
     "unofficial_names": "Länkäran",
+    "geo": {
+      "latitude": 38.753611,
+      "longitude": 48.851111,
+      "min_latitude": 38.7321757,
+      "min_longitude": 48.8232207,
+      "max_latitude": 38.7975439,
+      "max_longitude": 48.8669301
+    },
     "translations": {
       "en": "Lankaran District",
       "ar": "لنكران",
@@ -1584,20 +1918,28 @@
       "tr": "Lenkeran",
       "uk": "Ленкорань",
       "ur": "لنکران",
-      "vi": "Lankaran"
+      "vi": "Lankaran",
+      "ceb": "Lankaran",
+      "zh": "連科蘭",
+      "sq": "Lankaran²",
+      "ccp": "𑄣𑄧𑄁𑄇𑄢𑄚𑄴 𑄎𑄬𑄣",
+      "ky": "Ленкорань",
+      "uz": "Lenkoran"
     },
-    "geo": {
-      "latitude": 38.753611,
-      "longitude": 48.851111,
-      "min_latitude": 38.7321757,
-      "min_longitude": 48.8232207,
-      "max_latitude": 38.7975439,
-      "max_longitude": 48.8669301
-    },
-    "name": "Länkäran"
+    "comments": null
   },
   "LER": {
+    "name": "Lerik",
+    "code": null,
     "unofficial_names": "Lerik",
+    "geo": {
+      "latitude": 38.7736192,
+      "longitude": 48.4151483,
+      "min_latitude": 38.7643235,
+      "min_longitude": 48.3984231,
+      "max_latitude": 38.786539,
+      "max_longitude": 48.4290648
+    },
     "translations": {
       "en": "Lerik",
       "ar": "مقاطعة ليريك",
@@ -1632,20 +1974,31 @@
       "th": "เลริค",
       "tr": "Lerik Rayonu",
       "ur": "لیرک ضلع",
-      "vi": "Lerik"
+      "vi": "Lerik",
+      "lv": "Lerikas rajons",
+      "ceb": "Lerik Rayon",
+      "sr_Latn": "Lerički rejon",
+      "lt": "Leriko apskritis",
+      "zh": "列里克區",
+      "sq": "Lerik",
+      "ccp": "𑄣𑄬𑄢𑄨𑄇𑄴",
+      "uk": "Лерікський район",
+      "mk": "Лерик"
     },
-    "geo": {
-      "latitude": 38.7736192,
-      "longitude": 48.4151483,
-      "min_latitude": 38.7643235,
-      "min_longitude": 48.3984231,
-      "max_latitude": 38.786539,
-      "max_longitude": 48.4290648
-    },
-    "name": "Lerik"
+    "comments": null
   },
   "MAS": {
+    "name": "Masalli",
+    "code": null,
     "unofficial_names": "Masalli",
+    "geo": {
+      "latitude": 39.033333,
+      "longitude": 48.65,
+      "min_latitude": 39.0163495,
+      "min_longitude": 48.6470318,
+      "max_latitude": 39.0481191,
+      "max_longitude": 48.6902905
+    },
     "translations": {
       "en": "Masally",
       "ar": "مقاطعة ماساللي",
@@ -1680,20 +2033,31 @@
       "th": "เขตมาซอลลิ",
       "tr": "Masallı Rayonu",
       "ur": "ماسالی ضلع",
-      "vi": "Masally"
+      "vi": "Masally",
+      "lv": "Masalli rajons",
+      "ceb": "Masally District",
+      "sr_Latn": "Masalinski rejon",
+      "lt": "Masalio apskritis",
+      "zh": "馬薩雷區",
+      "sq": "Masally",
+      "ccp": "𑄟𑄥𑄣𑄩",
+      "uk": "Масаллінський район",
+      "mk": "Масали"
     },
-    "geo": {
-      "latitude": 39.033333,
-      "longitude": 48.65,
-      "min_latitude": 39.0163495,
-      "min_longitude": 48.6470318,
-      "max_latitude": 39.0481191,
-      "max_longitude": 48.6902905
-    },
-    "name": "Masalli"
+    "comments": null
   },
   "MI": {
+    "name": "Mingäçevir",
+    "code": null,
     "unofficial_names": "Mingäçevir",
+    "geo": {
+      "latitude": 40.7702563,
+      "longitude": 47.0496015,
+      "min_latitude": 40.73093360000001,
+      "min_longitude": 46.9520472,
+      "max_latitude": 40.7958107,
+      "max_longitude": 47.1156406
+    },
     "translations": {
       "en": "Mingachevir",
       "ar": "مينجا تشيفير",
@@ -1738,25 +2102,22 @@
       "tr": "Mingeçevir",
       "uk": "Мінгечаур",
       "ur": "منگچویر",
-      "vi": "Mingachevir"
+      "vi": "Mingachevir",
+      "lv": "Mingačevira",
+      "ceb": "Mingacevir City",
+      "sr_Latn": "Mingečevir",
+      "zh": "明盖恰乌尔",
+      "sq": "Mingachevir",
+      "ccp": "𑄟𑄨𑄁𑄉𑄌𑄬𑄞𑄨𑄢𑄴",
+      "ky": "Мингечуар",
+      "be": "Мінгечаур"
     },
-    "geo": {
-      "latitude": 40.7702563,
-      "longitude": 47.0496015,
-      "min_latitude": 40.73093360000001,
-      "min_longitude": 46.9520472,
-      "max_latitude": 40.7958107,
-      "max_longitude": 47.1156406
-    },
-    "name": "Mingäçevir"
+    "comments": null
   },
   "NA": {
+    "name": "Naftalan",
+    "code": null,
     "unofficial_names": "Naftalan",
-    "translations": {
-      "en": "Naftalan",
-      "de": "Naftalan",
-      "sv": "Naftalan Şəhəri"
-    },
     "geo": {
       "latitude": 40.506667,
       "longitude": 46.825,
@@ -1765,10 +2126,27 @@
       "max_latitude": 40.5216943,
       "max_longitude": 46.8460464
     },
-    "name": "Naftalan"
+    "translations": {
+      "en": "Naftalan",
+      "de": "Naftalan",
+      "sv": "Naftalan Şəhəri",
+      "ceb": "Naftalan",
+      "ccp": "𑄚𑄛𑄴𑄑𑄣𑄧𑄚𑄴"
+    },
+    "comments": null
   },
   "NEF": {
+    "name": "Neftçala",
+    "code": null,
     "unofficial_names": "Neftçala",
+    "geo": {
+      "latitude": 39.358611,
+      "longitude": 49.246944,
+      "min_latitude": 39.3435909,
+      "min_longitude": 49.2190934,
+      "max_latitude": 39.4222045,
+      "max_longitude": 49.2725657
+    },
     "translations": {
       "en": "Neftchala",
       "ar": "مقاطعة نيفتشالا",
@@ -1803,20 +2181,31 @@
       "th": "เขตเนฟท์ชาลา",
       "tr": "Neftçala Rayonu",
       "ur": "نفتچالا ضلع",
-      "vi": "Neftchala"
+      "vi": "Neftchala",
+      "lv": "Neftčalas rajons",
+      "ceb": "Neftchala Rayon",
+      "sr_Latn": "Neftečalinski rejon",
+      "lt": "Neftchalos apskritis",
+      "zh": "涅夫捷恰拉區",
+      "sq": "Neftchala",
+      "ccp": "𑄚𑄬𑄛𑄴𑄌𑄧𑄣",
+      "uk": "Район Нефтечала",
+      "mk": "Нефтчала"
     },
-    "geo": {
-      "latitude": 39.358611,
-      "longitude": 49.246944,
-      "min_latitude": 39.3435909,
-      "min_longitude": 49.2190934,
-      "max_latitude": 39.4222045,
-      "max_longitude": 49.2725657
-    },
-    "name": "Neftçala"
+    "comments": null
   },
   "NX": {
+    "name": "Naxçivan",
+    "code": null,
     "unofficial_names": "Naxçivan",
+    "geo": {
+      "latitude": 39.208889,
+      "longitude": 45.412222,
+      "min_latitude": 39.1708288,
+      "min_longitude": 45.3697586,
+      "max_latitude": 39.228264,
+      "max_longitude": 45.4377366
+    },
     "translations": {
       "en": "Nakhchivan AR",
       "af": "Nachitsjewan²",
@@ -1871,20 +2260,30 @@
       "tr": "Nahçıvan Özerk Cumhuriyeti",
       "uk": "Нахічеванська Автономна Республіка",
       "ur": "ناخچیوان خود مختار جمہوریہ",
-      "vi": "Nakhchivan²"
+      "vi": "Nakhchivan²",
+      "ceb": "Nakhchivan Autonomous Republic²",
+      "sr_Latn": "Nahčivan²",
+      "zh": "纳希切万自治共和国",
+      "ccp": "𑄚𑄇𑄴𑄌𑄨𑄞𑄧𑄚𑄴 𑄃𑄬𑄃𑄢𑄴",
+      "ky": "Нахичеван автономия республикасы",
+      "kk": "Нахшыван",
+      "uz": "Naxichevan",
+      "bs": "Nahičevan"
     },
-    "geo": {
-      "latitude": 39.208889,
-      "longitude": 45.412222,
-      "min_latitude": 39.1708288,
-      "min_longitude": 45.3697586,
-      "max_latitude": 39.228264,
-      "max_longitude": 45.4377366
-    },
-    "name": "Naxçivan"
+    "comments": null
   },
   "OGU": {
+    "name": "Oguz",
+    "code": null,
     "unofficial_names": "Oguz",
+    "geo": {
+      "latitude": 41.070833,
+      "longitude": 47.458333,
+      "min_latitude": 41.0595502,
+      "min_longitude": 47.4506378,
+      "max_latitude": 41.0923544,
+      "max_longitude": 47.4782753
+    },
     "translations": {
       "en": "Oghuz",
       "ar": "مقاطعة أغوز",
@@ -1921,20 +2320,31 @@
       "th": "เขตอ็อกฮัซ",
       "tr": "Oğuz Rayonu",
       "ur": "اغوز ضلع",
-      "vi": "Oghuz"
+      "vi": "Oghuz",
+      "lv": "Oghužas rajons",
+      "ceb": "Oghuz Rayon",
+      "sr_Latn": "Oguški rejon",
+      "lt": "Oguzo apskritis",
+      "zh": "奧古茲區",
+      "sq": "Oghuz",
+      "ccp": "𑄃𑄧𑄊𑄪𑄌𑄴",
+      "uk": "Огузький район",
+      "mk": "Огуз"
     },
-    "geo": {
-      "latitude": 41.070833,
-      "longitude": 47.458333,
-      "min_latitude": 41.0595502,
-      "min_longitude": 47.4506378,
-      "max_latitude": 41.0923544,
-      "max_longitude": 47.4782753
-    },
-    "name": "Oguz"
+    "comments": null
   },
   "ORD": {
+    "name": "Ordubad",
+    "code": null,
     "unofficial_names": "Ordubad",
+    "geo": {
+      "latitude": 38.9,
+      "longitude": 46.033333,
+      "min_latitude": 38.8915673,
+      "min_longitude": 46.0086823,
+      "max_latitude": 38.9190856,
+      "max_longitude": 46.0360623
+    },
     "translations": {
       "en": "Ordubad",
       "ar": "مقاطعة أوردوباد",
@@ -1972,20 +2382,30 @@
       "tr": "Ordubad Rayonu",
       "uk": "Ордубадський район",
       "ur": "اردوباد ضلع",
-      "vi": "Ordubad"
+      "vi": "Ordubad",
+      "lv": "Ordubadas rajons",
+      "ceb": "Ordubad Rayon",
+      "sr_Latn": "Ordubadski rejon",
+      "lt": "Ordubado apskritis",
+      "zh": "奧爾杜巴德區",
+      "ccp": "𑄃𑄧𑄢𑄴𑄓𑄨𑄝𑄖𑄴",
+      "be": "Ардубадскі раён",
+      "mk": "Ордубад"
     },
-    "geo": {
-      "latitude": 38.9,
-      "longitude": 46.033333,
-      "min_latitude": 38.8915673,
-      "min_longitude": 46.0086823,
-      "max_latitude": 38.9190856,
-      "max_longitude": 46.0360623
-    },
-    "name": "Ordubad"
+    "comments": null
   },
   "QAB": {
+    "name": "Qäbälä",
+    "code": null,
     "unofficial_names": "Qäbälä",
+    "geo": {
+      "latitude": 40.9981633,
+      "longitude": 47.8699826,
+      "min_latitude": 40.9477997,
+      "min_longitude": 47.8214693,
+      "max_latitude": 41.0042653,
+      "max_longitude": 47.8774202
+    },
     "translations": {
       "en": "Qabala",
       "ar": "مقاطعة غابالا",
@@ -2024,20 +2444,32 @@
       "th": "จังหวัดกะบาลา",
       "tr": "Kabala Rayonu",
       "ur": "قابالا ضلع",
-      "vi": "Gabala"
+      "vi": "Gabala",
+      "lv": "Gebeles rajons",
+      "ceb": "Qabala Rayon",
+      "sr_Latn": "Gabalinski rejon",
+      "lt": "Kabalos apskritis",
+      "zh": "蓋貝萊區",
+      "sq": "Qabala",
+      "ccp": "𑄇𑄧𑄝𑄧𑄣",
+      "uk": "Габалинський район",
+      "uz": "Qabala tumani",
+      "mk": "Кабала"
     },
-    "geo": {
-      "latitude": 40.9981633,
-      "longitude": 47.8699826,
-      "min_latitude": 40.9477997,
-      "min_longitude": 47.8214693,
-      "max_latitude": 41.0042653,
-      "max_longitude": 47.8774202
-    },
-    "name": "Qäbälä"
+    "comments": null
   },
   "QAX": {
+    "name": "Qax",
+    "code": null,
     "unofficial_names": "Qax",
+    "geo": {
+      "latitude": 41.4225,
+      "longitude": 46.924167,
+      "min_latitude": 41.4077159,
+      "min_longitude": 46.89085009999999,
+      "max_latitude": 41.4429194,
+      "max_longitude": 46.9906713
+    },
     "translations": {
       "en": "Qakh",
       "ar": "مقاطعة قاخ",
@@ -2074,20 +2506,31 @@
       "th": "เมืองคาร์ก",
       "tr": "Kah rayonu",
       "ur": "کاخ ضلع",
-      "vi": "Gakh"
+      "vi": "Gakh",
+      "lv": "Gahas rajons",
+      "ceb": "Qakh Rayon",
+      "sr_Latn": "Kaški rejon",
+      "lt": "Kako apskritis",
+      "zh": "卡希區",
+      "sq": "Qakh",
+      "ccp": "𑄇𑄧𑄇𑄴",
+      "uk": "Гахський район",
+      "mk": "Ках"
     },
-    "geo": {
-      "latitude": 41.4225,
-      "longitude": 46.924167,
-      "min_latitude": 41.4077159,
-      "min_longitude": 46.89085009999999,
-      "max_latitude": 41.4429194,
-      "max_longitude": 46.9906713
-    },
-    "name": "Qax"
+    "comments": null
   },
   "QAZ": {
+    "name": "Qazax",
+    "code": null,
     "unofficial_names": "Qazax",
+    "geo": {
+      "latitude": 41.093333,
+      "longitude": 45.366111,
+      "min_latitude": 41.0805481,
+      "min_longitude": 45.3229809,
+      "max_latitude": 41.1163487,
+      "max_longitude": 45.3892851
+    },
     "translations": {
       "en": "Qazakh",
       "ar": "مقاطعة قازاخ",
@@ -2126,20 +2569,32 @@
       "th": "กาซาฮ์",
       "tr": "Kazah Rayonu",
       "ur": "قازاخ ضلع",
-      "vi": "Gazakh"
+      "vi": "Gazakh",
+      "lv": "Gazahas rajons",
+      "ceb": "Qazakh Rayon",
+      "sr_Latn": "Kazaški rejon",
+      "lt": "Kazacho apskritis",
+      "zh": "哈薩克區",
+      "sq": "Qazakh",
+      "ccp": "𑄇𑄧𑄎𑄇𑄴",
+      "kk": "Қазақ ауданы",
+      "uk": "Газахський район",
+      "mk": "Казах"
     },
-    "geo": {
-      "latitude": 41.093333,
-      "longitude": 45.366111,
-      "min_latitude": 41.0805481,
-      "min_longitude": 45.3229809,
-      "max_latitude": 41.1163487,
-      "max_longitude": 45.3892851
-    },
-    "name": "Qazax"
+    "comments": null
   },
   "QBA": {
+    "name": "Quba",
+    "code": null,
     "unofficial_names": "Quba",
+    "geo": {
+      "latitude": 41.359722,
+      "longitude": 48.5125,
+      "min_latitude": 41.3494949,
+      "min_longitude": 48.4612941,
+      "max_latitude": 41.3764865,
+      "max_longitude": 48.557725
+    },
     "translations": {
       "en": "Quba",
       "ar": "قوبا",
@@ -2175,20 +2630,33 @@
       "th": "เขตคูบา",
       "tr": "Kuba Rayonu",
       "ur": "قوبا ضلع",
-      "vi": "Guba"
+      "vi": "Guba",
+      "lv": "Gubas rajons",
+      "ceb": "Quba Rayon",
+      "sr_Latn": "Kubinski rejon",
+      "lt": "Kubos apskritis",
+      "zh": "庫巴區",
+      "sq": "Quba",
+      "ccp": "𑄇𑄪𑄝",
+      "ka": "ყუბის რაიონი",
+      "uk": "Куба",
+      "uz": "Quba tumani",
+      "mk": "Куба"
     },
-    "geo": {
-      "latitude": 41.359722,
-      "longitude": 48.5125,
-      "min_latitude": 41.3494949,
-      "min_longitude": 48.4612941,
-      "max_latitude": 41.3764865,
-      "max_longitude": 48.557725
-    },
-    "name": "Quba"
+    "comments": null
   },
   "QBI": {
+    "name": "Qubadli",
+    "code": null,
     "unofficial_names": "Qubadli",
+    "geo": {
+      "latitude": 39.2713996,
+      "longitude": 46.6354312,
+      "min_latitude": 39.120843,
+      "min_longitude": 46.3865889,
+      "max_latitude": 39.489675,
+      "max_longitude": 46.829667
+    },
     "translations": {
       "en": "Qubadli",
       "ar": "منطقة قبادلي",
@@ -2224,20 +2692,32 @@
       "th": "เขตคิวแบดลิ",
       "tr": "Kubadlı Rayonu",
       "ur": "قوبادلی ضلع",
-      "vi": "Gubadly"
+      "vi": "Gubadly",
+      "lv": "Gubadli rajons",
+      "ceb": "Qubadli Rayon",
+      "sr_Latn": "Kubatlinski rejon",
+      "lt": "Kubadlio apskritis",
+      "zh": "庫巴特雷區",
+      "sq": "Qubadli",
+      "ccp": "𑄇𑄪𑄝𑄖𑄴𑄣𑄨",
+      "ka": "გუბადლის რაიონი",
+      "uk": "Кубатлинський район",
+      "mk": "Кубадли"
     },
-    "geo": {
-      "latitude": 39.2713996,
-      "longitude": 46.6354312,
-      "min_latitude": 39.120843,
-      "min_longitude": 46.3865889,
-      "max_latitude": 39.489675,
-      "max_longitude": 46.829667
-    },
-    "name": "Qubadli"
+    "comments": null
   },
   "QOB": {
+    "name": "Qobustan",
+    "code": null,
     "unofficial_names": "Qobustan",
+    "geo": {
+      "latitude": 40.0877962,
+      "longitude": 49.4030219,
+      "min_latitude": 40.0337922,
+      "min_longitude": 49.38769749999999,
+      "max_latitude": 40.1079896,
+      "max_longitude": 49.433756
+    },
     "translations": {
       "en": "Gobustan",
       "ar": "مقاطعة غوبوستان",
@@ -2275,20 +2755,30 @@
       "tr": "Kobustan Rayonu",
       "uk": "Гобустанський район",
       "ur": "قوبوستان ضلع",
-      "vi": "Gobustan"
+      "vi": "Gobustan",
+      "lv": "Gobustanas rajons",
+      "ceb": "Gobustan Rayon",
+      "sr_Latn": "Gobustanski rejon",
+      "lt": "Gobustano apskritis",
+      "zh": "戈布斯坦區",
+      "sq": "Gobustan",
+      "ccp": "𑄉𑄧𑄝𑄪𑄌𑄴𑄑𑄚𑄴",
+      "mk": "Гобустан"
     },
-    "geo": {
-      "latitude": 40.0877962,
-      "longitude": 49.4030219,
-      "min_latitude": 40.0337922,
-      "min_longitude": 49.38769749999999,
-      "max_latitude": 40.1079896,
-      "max_longitude": 49.433756
-    },
-    "name": "Qobustan"
+    "comments": null
   },
   "QUS": {
+    "name": "Qusar",
+    "code": null,
     "unofficial_names": "Qusar",
+    "geo": {
+      "latitude": 41.426389,
+      "longitude": 48.435556,
+      "min_latitude": 41.4036923,
+      "min_longitude": 48.3841753,
+      "max_latitude": 41.4406353,
+      "max_longitude": 48.4615945
+    },
     "translations": {
       "en": "Qusar",
       "ar": "مقاطعة كوسار",
@@ -2324,20 +2814,32 @@
       "th": "จังหวัดกูซาร์",
       "tr": "Kusar Rayonu",
       "ur": "قوسار ضلع",
-      "vi": "Gusar"
+      "vi": "Gusar",
+      "lv": "Gusaras rajons",
+      "ceb": "Qusar Rayon",
+      "sr_Latn": "Kusarski rejon",
+      "lt": "Kusaro provincija",
+      "zh": "庫薩雷區",
+      "sq": "Qusar",
+      "ccp": "𑄇𑄪𑄥𑄢𑄴",
+      "uk": "Гусарський район",
+      "uz": "Qusar tumani",
+      "mk": "Кусар"
     },
-    "geo": {
-      "latitude": 41.426389,
-      "longitude": 48.435556,
-      "min_latitude": 41.4036923,
-      "min_longitude": 48.3841753,
-      "max_latitude": 41.4406353,
-      "max_longitude": 48.4615945
-    },
-    "name": "Qusar"
+    "comments": null
   },
   "SA": {
+    "name": "Säki City",
+    "code": null,
     "unofficial_names": "Säki City",
+    "geo": {
+      "latitude": 34.0489281,
+      "longitude": -111.0937311,
+      "min_latitude": 31.3321771,
+      "min_longitude": -114.8165909,
+      "max_latitude": 37.0042599,
+      "max_longitude": -109.0452231
+    },
     "translations": {
       "en": "Shaki",
       "ar": "شكي",
@@ -2384,20 +2886,30 @@
       "tr": "Şeki",
       "uk": "Шекі",
       "ur": "شکی",
-      "vi": "Şəki"
+      "vi": "Şəki",
+      "lv": "Šeki",
+      "ceb": "Sheki",
+      "sr_Latn": "Šaki",
+      "zh": "舍基",
+      "sq": "Shaki (qytet)",
+      "ccp": "𑄥𑄇𑄨",
+      "be": "Шэкі",
+      "uz": "Sheki"
     },
-    "geo": {
-      "latitude": 34.0489281,
-      "longitude": -111.0937311,
-      "min_latitude": 31.3321771,
-      "min_longitude": -114.8165909,
-      "max_latitude": 37.0042599,
-      "max_longitude": -109.0452231
-    },
-    "name": "Säki City"
+    "comments": null
   },
   "SAB": {
+    "name": "Sabirabad",
+    "code": null,
     "unofficial_names": "Sabirabad",
+    "geo": {
+      "latitude": 40.012778,
+      "longitude": 48.478889,
+      "min_latitude": 39.9682403,
+      "min_longitude": 48.4441281,
+      "max_latitude": 40.0227507,
+      "max_longitude": 48.5010339
+    },
     "translations": {
       "en": "Sabirabad",
       "ar": "مقاطعة صابرآباد",
@@ -2434,20 +2946,32 @@
       "tr": "Sabirabad Rayonu",
       "uk": "Сабірабадський район",
       "ur": "سبیر آباد ضلع",
-      "vi": "Sabirabad"
+      "vi": "Sabirabad",
+      "lv": "Sabirabadas rajons",
+      "ceb": "Sabirabad Rayon",
+      "sr_Latn": "Sabirabadski rejon",
+      "lt": "Sabirabado apskritis",
+      "zh": "薩比拉巴德區",
+      "sq": "Sabirabad",
+      "ccp": "𑄥𑄧𑄝𑄨𑄢𑄝𑄖𑄴",
+      "et": "Sabirabadi rajoon",
+      "ml": "സാബിറാബാദ് ജില്ല",
+      "mk": "Сабирабад"
     },
-    "geo": {
-      "latitude": 40.012778,
-      "longitude": 48.478889,
-      "min_latitude": 39.9682403,
-      "min_longitude": 48.4441281,
-      "max_latitude": 40.0227507,
-      "max_longitude": 48.5010339
-    },
-    "name": "Sabirabad"
+    "comments": null
   },
   "SAD": {
+    "name": "Sädäräk",
+    "code": null,
     "unofficial_names": "Sädäräk",
+    "geo": {
+      "latitude": 39.7175,
+      "longitude": 44.876389,
+      "min_latitude": 39.6878368,
+      "min_longitude": 44.85340129999999,
+      "max_latitude": 39.7285114,
+      "max_longitude": 44.9173451
+    },
     "translations": {
       "en": "Sadarak",
       "ar": "مقاطعة ساداراك",
@@ -2485,20 +3009,29 @@
       "tr": "Sederek Rayonu",
       "uk": "Садарацький район",
       "ur": "صدرک ضلع",
-      "vi": "Sedarak"
+      "vi": "Sedarak",
+      "lv": "Sederekas rajons",
+      "ceb": "Sadarak Rayon",
+      "sr_Latn": "Sadarački rejon",
+      "lt": "Sadarako apskritis",
+      "zh": "薩達拉克區",
+      "ccp": "𑄥𑄓𑄢𑄇𑄴",
+      "mk": "Седерек"
     },
-    "geo": {
-      "latitude": 39.7175,
-      "longitude": 44.876389,
-      "min_latitude": 39.6878368,
-      "min_longitude": 44.85340129999999,
-      "max_latitude": 39.7285114,
-      "max_longitude": 44.9173451
-    },
-    "name": "Sädäräk"
+    "comments": null
   },
   "SAH": {
+    "name": "Sahbuz",
+    "code": null,
     "unofficial_names": "Sahbuz",
+    "geo": {
+      "latitude": 39.407222,
+      "longitude": 45.57388900000001,
+      "min_latitude": 39.39315759999999,
+      "min_longitude": 45.5522345,
+      "max_latitude": 39.4185908,
+      "max_longitude": 45.597639
+    },
     "translations": {
       "en": "Shahbuz",
       "ar": "مقاطعة شهبوز",
@@ -2535,20 +3068,28 @@
       "tr": "Şahbuz Rayonu",
       "uk": "Шахбузький район",
       "ur": "شاحبوز ضلع",
-      "vi": "Shahbuz (quận)"
+      "vi": "Shahbuz (quận)",
+      "lv": "Šahbuzas rajons",
+      "sr_Latn": "Šahbuški rejon",
+      "lt": "Šabuzo apskritis",
+      "zh": "沙赫布茲區",
+      "ccp": "𑄥𑄦𑄴𑄝𑄪𑄌𑄴",
+      "mk": "Шахбуз (округ)"
     },
-    "geo": {
-      "latitude": 39.407222,
-      "longitude": 45.57388900000001,
-      "min_latitude": 39.39315759999999,
-      "min_longitude": 45.5522345,
-      "max_latitude": 39.4185908,
-      "max_longitude": 45.597639
-    },
-    "name": "Sahbuz"
+    "comments": null
   },
   "SAK": {
+    "name": "Säki",
+    "code": null,
     "unofficial_names": "Säki",
+    "geo": {
+      "latitude": 41.1134662,
+      "longitude": 47.13169269999999,
+      "min_latitude": 40.7506485,
+      "min_longitude": 46.808805,
+      "max_latitude": 41.485622,
+      "max_longitude": 47.6075521
+    },
     "translations": {
       "en": "Shaki District",
       "ar": "مقاطعة شاكي",
@@ -2586,20 +3127,31 @@
       "th": "ซาร์กี้",
       "tr": "Şeki Rayonu",
       "ur": "شکی ضلع",
-      "vi": "Sheki"
+      "vi": "Sheki",
+      "lv": "Šeki rajons",
+      "ceb": "Shaki Rayon",
+      "sr_Latn": "Šekinski rejon",
+      "lt": "Šakio apskritis",
+      "zh": "舍基區",
+      "sq": "Shaki",
+      "ccp": "𑄥𑄇𑄨 𑄎𑄬𑄣",
+      "uk": "Шекинський район",
+      "mk": "Шеки"
     },
-    "geo": {
-      "latitude": 41.1134662,
-      "longitude": 47.13169269999999,
-      "min_latitude": 40.7506485,
-      "min_longitude": 46.808805,
-      "max_latitude": 41.485622,
-      "max_longitude": 47.6075521
-    },
-    "name": "Säki"
+    "comments": null
   },
   "SAL": {
+    "name": "Salyan",
+    "code": null,
     "unofficial_names": "Salyan",
+    "geo": {
+      "latitude": 39.595,
+      "longitude": 48.979167,
+      "min_latitude": 39.5387341,
+      "min_longitude": 48.91036039999999,
+      "max_latitude": 39.6451555,
+      "max_longitude": 49.0261459
+    },
     "translations": {
       "en": "Salyan",
       "ar": "مقاطعة ساليان",
@@ -2634,20 +3186,31 @@
       "th": "เขตซาลยาน",
       "tr": "Salyan Rayonu",
       "ur": "سالیان ضلع",
-      "vi": "Salyan"
+      "vi": "Salyan",
+      "lv": "Saljanas rajons",
+      "ceb": "Salyan Rayon",
+      "sr_Latn": "Saljanski rejon",
+      "lt": "Saljano apskritis",
+      "zh": "薩利揚區",
+      "sq": "Salyan",
+      "ccp": "𑄥𑄣𑄭𑄚𑄴",
+      "uk": "Сальянський район",
+      "mk": "Саљан"
     },
-    "geo": {
-      "latitude": 39.595,
-      "longitude": 48.979167,
-      "min_latitude": 39.5387341,
-      "min_longitude": 48.91036039999999,
-      "max_latitude": 39.6451555,
-      "max_longitude": 49.0261459
-    },
-    "name": "Salyan"
+    "comments": null
   },
   "SAR": {
+    "name": "Särur",
+    "code": null,
     "unofficial_names": "Särur",
+    "geo": {
+      "latitude": 39.5687523,
+      "longitude": 45.0823321,
+      "min_latitude": 39.3825,
+      "min_longitude": 44.82024,
+      "max_latitude": 39.785526,
+      "max_longitude": 45.2860981
+    },
     "translations": {
       "en": "Sharur",
       "az": "Şərur",
@@ -2672,20 +3235,28 @@
       "sv": "Sharur Rayon",
       "tr": "Şerur Rayonu",
       "uk": "Шарурський район",
-      "vi": "Sherur (quận)"
+      "vi": "Sherur (quận)",
+      "ceb": "Sharur Rayon",
+      "sr_Latn": "Šarurski rejon",
+      "zh": "沙魯爾區",
+      "ccp": "𑄥𑄢𑄪𑄢𑄴",
+      "he": "סחרור",
+      "mk": "Шерур"
     },
-    "geo": {
-      "latitude": 39.5687523,
-      "longitude": 45.0823321,
-      "min_latitude": 39.3825,
-      "min_longitude": 44.82024,
-      "max_latitude": 39.785526,
-      "max_longitude": 45.2860981
-    },
-    "name": "Särur"
+    "comments": null
   },
   "SAT": {
+    "name": "Saatli",
+    "code": null,
     "unofficial_names": "Saatli",
+    "geo": {
+      "latitude": 39.930833,
+      "longitude": 48.36944399999999,
+      "min_latitude": 39.8768098,
+      "min_longitude": 48.2874871,
+      "max_latitude": 39.9668589,
+      "max_longitude": 48.4565735
+    },
     "translations": {
       "en": "Saatly",
       "ar": "مقاطعة ساتلي",
@@ -2720,20 +3291,31 @@
       "th": "เขตซ๊าทลี่",
       "tr": "Saatlı Rayonu",
       "ur": "سااتلی ضلع",
-      "vi": "Saatly"
+      "vi": "Saatly",
+      "lv": "Saatli rajons",
+      "ceb": "Saatly Rayon",
+      "sr_Latn": "Satlinski rejon",
+      "lt": "Saatlio apskritis",
+      "zh": "薩特雷區",
+      "sq": "Saatly",
+      "ccp": "𑄥𑄖𑄣𑄩",
+      "uk": "Район Саатлі",
+      "mk": "Саатли"
     },
-    "geo": {
-      "latitude": 39.930833,
-      "longitude": 48.36944399999999,
-      "min_latitude": 39.8768098,
-      "min_longitude": 48.2874871,
-      "max_latitude": 39.9668589,
-      "max_longitude": 48.4565735
-    },
-    "name": "Saatli"
+    "comments": null
   },
   "SIY": {
+    "name": "Siyäzän",
+    "code": null,
     "unofficial_names": "Siyäzän",
+    "geo": {
+      "latitude": 41.0783833,
+      "longitude": 49.1118478,
+      "min_latitude": 41.0619124,
+      "min_longitude": 49.0923215,
+      "max_latitude": 41.09882270000001,
+      "max_longitude": 49.1377259
+    },
     "translations": {
       "en": "Siazan",
       "ar": "مقاطعة سيازن",
@@ -2769,20 +3351,31 @@
       "th": "เซ๊ยแซน",
       "tr": "Siyezen Rayonu",
       "ur": "سیاہ زن ضلع",
-      "vi": "Siazan"
+      "vi": "Siazan",
+      "lv": "Sijezenas rajons",
+      "ceb": "Siazan Rayon",
+      "sr_Latn": "Sijazanski rejon",
+      "lt": "Siazano apskritis",
+      "zh": "錫阿贊區",
+      "sq": "Siazan",
+      "ccp": "𑄥𑄨𑄠𑄎𑄧𑄚𑄴",
+      "uk": "Район Сіазань",
+      "mk": "Сијезен"
     },
-    "geo": {
-      "latitude": 41.0783833,
-      "longitude": 49.1118478,
-      "min_latitude": 41.0619124,
-      "min_longitude": 49.0923215,
-      "max_latitude": 41.09882270000001,
-      "max_longitude": 49.1377259
-    },
-    "name": "Siyäzän"
+    "comments": null
   },
   "SKR": {
+    "name": "Sämkir",
+    "code": null,
     "unofficial_names": "Sämkir",
+    "geo": {
+      "latitude": 40.88123969999999,
+      "longitude": 46.0179009,
+      "min_latitude": 40.570687,
+      "min_longitude": 45.713568,
+      "max_latitude": 41.129959,
+      "max_longitude": 46.323192
+    },
     "translations": {
       "en": "Shamkir",
       "ar": "مقاطعة شمكير",
@@ -2821,20 +3414,31 @@
       "tr": "Şemkir Rayonu",
       "uk": "Шамкірський район",
       "ur": "شمخور ضلع",
-      "vi": "Shamkir"
+      "vi": "Shamkir",
+      "lv": "Šemkiras rajons",
+      "ceb": "Shamkir Rayon",
+      "sr_Latn": "Šamkirski rejon",
+      "lt": "Šamkiro apskritis",
+      "zh": "沙姆基爾區",
+      "sq": "Shamkir",
+      "ccp": "𑄥𑄟𑄴𑄇𑄨𑄢𑄴",
+      "hy": "Շամխորի շրջան",
+      "mk": "Шемкир"
     },
-    "geo": {
-      "latitude": 40.88123969999999,
-      "longitude": 46.0179009,
-      "min_latitude": 40.570687,
-      "min_longitude": 45.713568,
-      "max_latitude": 41.129959,
-      "max_longitude": 46.323192
-    },
-    "name": "Sämkir"
+    "comments": null
   },
   "SM": {
+    "name": "Sumqayit",
+    "code": null,
     "unofficial_names": "Sumqayit",
+    "geo": {
+      "latitude": 40.5854765,
+      "longitude": 49.6317411,
+      "min_latitude": 40.5001047,
+      "min_longitude": 49.5211315,
+      "max_latitude": 40.6572359,
+      "max_longitude": 49.74102980000001
+    },
     "translations": {
       "en": "Sumqayit",
       "af": "Sumqayit",
@@ -2887,20 +3491,31 @@
       "tr": "Sumgayıt",
       "uk": "Сумгаїт",
       "ur": "سومقاییت",
-      "vi": "Sumqayit"
+      "vi": "Sumqayit",
+      "cy": "Sumqayıt",
+      "ceb": "Sumqayıt",
+      "sr_Latn": "Sumgajit",
+      "zh": "苏姆盖特",
+      "sq": "Sumqayit",
+      "ccp": "𑄥𑄪𑄟𑄇𑄮𑄃𑄨𑄖𑄴",
+      "ka": "სუმგაითი",
+      "uz": "Sumgait",
+      "mk": "Сумгајит"
     },
-    "geo": {
-      "latitude": 40.5854765,
-      "longitude": 49.6317411,
-      "min_latitude": 40.5001047,
-      "min_longitude": 49.5211315,
-      "max_latitude": 40.6572359,
-      "max_longitude": 49.74102980000001
-    },
-    "name": "Sumqayit"
+    "comments": null
   },
   "SMI": {
+    "name": "Samaxi",
+    "code": null,
     "unofficial_names": "Samaxi",
+    "geo": {
+      "latitude": 40.63187310000001,
+      "longitude": 48.6363801,
+      "min_latitude": 40.6056446,
+      "min_longitude": 48.6082792,
+      "max_latitude": 40.6541736,
+      "max_longitude": 48.6714078
+    },
     "translations": {
       "en": "Shamakhi",
       "ar": "مقاطعة شاماخي",
@@ -2928,20 +3543,28 @@
       "sv": "Sjamachy",
       "tr": "Şamahı Rayonu",
       "uk": "Шамахинський район",
-      "vi": "Shamakhy"
+      "vi": "Shamakhy",
+      "ceb": "Shamakhi Rayon",
+      "sr_Latn": "Šemahinski rejon",
+      "zh": "沙馬基區",
+      "sq": "Shamakhi",
+      "ccp": "𑄥𑄟𑄈𑄨",
+      "mk": "Шамахи"
     },
-    "geo": {
-      "latitude": 40.63187310000001,
-      "longitude": 48.6363801,
-      "min_latitude": 40.6056446,
-      "min_longitude": 48.6082792,
-      "max_latitude": 40.6541736,
-      "max_longitude": 48.6714078
-    },
-    "name": "Samaxi"
+    "comments": null
   },
   "SMX": {
+    "name": "Samux",
+    "code": null,
     "unofficial_names": "Samux",
+    "geo": {
+      "latitude": 40.765833,
+      "longitude": 46.40888899999999,
+      "min_latitude": 40.747452,
+      "min_longitude": 46.3920022,
+      "max_latitude": 40.7820362,
+      "max_longitude": 46.42375939999999
+    },
     "translations": {
       "en": "Samukh",
       "ar": "مقاطعة ساموخ",
@@ -2977,23 +3600,23 @@
       "th": "ซามุก",
       "tr": "Samuh Rayonu",
       "ur": "ساموخ ضلع",
-      "vi": "Samuh"
+      "vi": "Samuh",
+      "lv": "Samuhas rajons",
+      "ceb": "Samukh Rayon",
+      "sr_Latn": "Samuški rejon",
+      "lt": "Samuko apskritis",
+      "zh": "薩穆赫區",
+      "sq": "Samukh",
+      "ccp": "𑄥𑄟𑄪𑄇𑄴",
+      "uk": "Самухський район",
+      "mk": "Самух"
     },
-    "geo": {
-      "latitude": 40.765833,
-      "longitude": 46.40888899999999,
-      "min_latitude": 40.747452,
-      "min_longitude": 46.3920022,
-      "max_latitude": 40.7820362,
-      "max_longitude": 46.42375939999999
-    },
-    "name": "Samux"
+    "comments": null
   },
   "SS": {
+    "name": "Susa City",
+    "code": null,
     "unofficial_names": "Susa City",
-    "translations": {
-      "en": "Susa City"
-    },
     "geo": {
       "latitude": 39.7537438,
       "longitude": 46.7464755,
@@ -3002,10 +3625,23 @@
       "max_latitude": 39.7725926,
       "max_longitude": 46.765623
     },
-    "name": "Susa City"
+    "translations": {
+      "en": "Susa City"
+    },
+    "comments": null
   },
   "SUS": {
+    "name": "Susa",
+    "code": null,
     "unofficial_names": "Susa",
+    "geo": {
+      "latitude": 39.7537438,
+      "longitude": 46.7464755,
+      "min_latitude": 39.7456061,
+      "min_longitude": 46.7307758,
+      "max_latitude": 39.7725926,
+      "max_longitude": 46.765623
+    },
     "translations": {
       "en": "Shusha",
       "ar": "مقاطعة شوشا",
@@ -3043,20 +3679,31 @@
       "th": "เขตซูซา",
       "tr": "Şuşa Rayonu",
       "ur": "شوشا ضلع",
-      "vi": "Shusha"
+      "vi": "Shusha",
+      "lv": "Šušas rajons",
+      "sr_Latn": "Šušinski rejon",
+      "lt": "Šušos apskritis",
+      "zh": "舒沙區",
+      "sq": "Shusha",
+      "ccp": "𑄥𑄪𑄥",
+      "uk": "Шушинський район",
+      "uz": "Shusha tumani",
+      "mk": "Шуша"
     },
-    "geo": {
-      "latitude": 39.7537438,
-      "longitude": 46.7464755,
-      "min_latitude": 39.7456061,
-      "min_longitude": 46.7307758,
-      "max_latitude": 39.7725926,
-      "max_longitude": 46.765623
-    },
-    "name": "Susa"
+    "comments": null
   },
   "TAR": {
+    "name": "Tärtär",
+    "code": null,
     "unofficial_names": "Tärtär",
+    "geo": {
+      "latitude": 40.333333,
+      "longitude": 46.916667,
+      "min_latitude": 40.3265895,
+      "min_longitude": 46.9110202,
+      "max_latitude": 40.3576638,
+      "max_longitude": 46.96801199999999
+    },
     "translations": {
       "en": "Tartar",
       "ar": "مقاطعة تارتار",
@@ -3092,20 +3739,32 @@
       "th": "ทาร์ทาร์",
       "tr": "Terter Rayonu",
       "ur": "تارتار ضلع",
-      "vi": "Terter"
+      "vi": "Terter",
+      "lv": "Terteras rajons",
+      "ceb": "Tartar Rayon",
+      "sr_Latn": "Terterski rejon",
+      "lt": "Tartaro apskritis",
+      "zh": "泰爾泰爾區",
+      "sq": "Tartar",
+      "ccp": "𑄑𑄢𑄴𑄑𑄢𑄴",
+      "hy": "Թարթառի շրջան",
+      "uk": "Тертерський район",
+      "mk": "Тертер"
     },
-    "geo": {
-      "latitude": 40.333333,
-      "longitude": 46.916667,
-      "min_latitude": 40.3265895,
-      "min_longitude": 46.9110202,
-      "max_latitude": 40.3576638,
-      "max_longitude": 46.96801199999999
-    },
-    "name": "Tärtär"
+    "comments": null
   },
   "TOV": {
+    "name": "Tovuz",
+    "code": null,
     "unofficial_names": "Tovuz",
+    "geo": {
+      "latitude": 40.9922,
+      "longitude": 45.62889999999999,
+      "min_latitude": 40.9754255,
+      "min_longitude": 45.5907513,
+      "max_latitude": 41.0084997,
+      "max_longitude": 45.6436444
+    },
     "translations": {
       "en": "Tovuz",
       "ar": "مقاطعة توفوز",
@@ -3142,20 +3801,31 @@
       "th": "เขตทาวุช",
       "tr": "Tovuz Rayonu",
       "ur": "توووز ضلع",
-      "vi": "Tovuz"
+      "vi": "Tovuz",
+      "lv": "Tovuzas rajons",
+      "ceb": "Tovuz Rayon",
+      "sr_Latn": "Tovuški rejon",
+      "lt": "Tovuzo apskritis",
+      "zh": "塔烏茲區",
+      "sq": "Tovuz",
+      "ccp": "𑄑𑄧𑄞𑄪𑄌𑄴",
+      "uk": "Товузький район",
+      "mk": "Товуз"
     },
-    "geo": {
-      "latitude": 40.9922,
-      "longitude": 45.62889999999999,
-      "min_latitude": 40.9754255,
-      "min_longitude": 45.5907513,
-      "max_latitude": 41.0084997,
-      "max_longitude": 45.6436444
-    },
-    "name": "Tovuz"
+    "comments": null
   },
   "UCA": {
+    "name": "Ucar",
+    "code": null,
     "unofficial_names": "Ucar",
+    "geo": {
+      "latitude": 40.518333,
+      "longitude": 47.654167,
+      "min_latitude": 40.4896513,
+      "min_longitude": 47.6283074,
+      "max_latitude": 40.5296863,
+      "max_longitude": 47.6742697
+    },
     "translations": {
       "en": "Ujar",
       "ar": "مقاطعة أويار",
@@ -3190,20 +3860,31 @@
       "th": "เขตอูจาร์",
       "tr": "Ucar Rayonu",
       "ur": "اجڑ ضلع",
-      "vi": "Ujar"
+      "vi": "Ujar",
+      "lv": "Udžaras rajons",
+      "ceb": "Ujar Rayon",
+      "sr_Latn": "Udžarski rejon",
+      "lt": "Udžaro apskritis",
+      "zh": "烏賈雷區",
+      "sq": "Ujar",
+      "ccp": "𑄅𑄪𑄎𑄢𑄴",
+      "uk": "Уджарський район",
+      "mk": "Уџар"
     },
-    "geo": {
-      "latitude": 40.518333,
-      "longitude": 47.654167,
-      "min_latitude": 40.4896513,
-      "min_longitude": 47.6283074,
-      "max_latitude": 40.5296863,
-      "max_longitude": 47.6742697
-    },
-    "name": "Ucar"
+    "comments": null
   },
   "XA": {
+    "name": "Xankändi",
+    "code": null,
     "unofficial_names": "Xankändi",
+    "geo": {
+      "latitude": 39.8196258,
+      "longitude": 46.7594431,
+      "min_latitude": 39.7995519,
+      "min_longitude": 46.7298317,
+      "max_latitude": 39.8520223,
+      "max_longitude": 46.7890549
+    },
     "translations": {
       "en": "Stepanakert",
       "af": "Stepanakert",
@@ -3256,20 +3937,32 @@
       "tr": "Hankendi",
       "uk": "Степанакерт",
       "ur": "خان کندی",
-      "vi": "Khankendy"
+      "vi": "Khankendy",
+      "ceb": "Xankandi",
+      "zh": "斯捷潘納克特",
+      "yue_Hans": "斯捷潘纳克特",
+      "sq": "Khankendi",
+      "ccp": "𑄌𑄳𑄑𑄬𑄛𑄚𑄴𑄇𑄢𑄳𑄑𑄴",
+      "ky": "Степанакерт",
+      "yue": "斯捷潘納克特",
+      "uz": "Xonkendi",
+      "bs": "Stepanakert",
+      "mk": "Степанакерт"
     },
-    "geo": {
-      "latitude": 39.8196258,
-      "longitude": 46.7594431,
-      "min_latitude": 39.7995519,
-      "min_longitude": 46.7298317,
-      "max_latitude": 39.8520223,
-      "max_longitude": 46.7890549
-    },
-    "name": "Xankändi"
+    "comments": null
   },
   "XAC": {
+    "name": "Xaçmaz",
+    "code": null,
     "unofficial_names": "Xaçmaz",
+    "geo": {
+      "latitude": 41.470833,
+      "longitude": 48.809722,
+      "min_latitude": 41.4395092,
+      "min_longitude": 48.774619,
+      "max_latitude": 41.4863344,
+      "max_longitude": 48.8417817
+    },
     "translations": {
       "en": "Khachmaz",
       "ar": "مقاطعة خاتشماز",
@@ -3305,23 +3998,24 @@
       "th": "คัชมาช",
       "tr": "Haçmaz Rayonu",
       "ur": "خاشماز ضلع",
-      "vi": "Khachmaz"
+      "vi": "Khachmaz",
+      "lv": "Hačmazas rajons",
+      "ceb": "Khachmaz Rayon",
+      "sr_Latn": "Hačmaški rejon",
+      "lt": "Chačmazo apskritis",
+      "zh": "哈奇馬斯區",
+      "sq": "Khachmaz",
+      "ccp": "𑄈𑄌𑄴𑄟𑄌𑄴",
+      "ka": "ხაჩმაზის რაიონი",
+      "uk": "Хачмазький район",
+      "mk": "Хачмаз"
     },
-    "geo": {
-      "latitude": 41.470833,
-      "longitude": 48.809722,
-      "min_latitude": 41.4395092,
-      "min_longitude": 48.774619,
-      "max_latitude": 41.4863344,
-      "max_longitude": 48.8417817
-    },
-    "name": "Xaçmaz"
+    "comments": null
   },
   "XAN": {
+    "name": "Xanlar",
+    "code": null,
     "unofficial_names": "Xanlar",
-    "translations": {
-      "en": "Xanlar"
-    },
     "geo": {
       "latitude": 40.5008523,
       "longitude": 46.3454855,
@@ -3330,10 +4024,23 @@
       "max_latitude": 40.841456,
       "max_longitude": 46.51906
     },
-    "name": "Xanlar"
+    "translations": {
+      "en": "Xanlar"
+    },
+    "comments": null
   },
   "XCI": {
+    "name": "Xocali",
+    "code": null,
     "unofficial_names": "Xocali",
+    "geo": {
+      "latitude": 39.9132553,
+      "longitude": 46.794305,
+      "min_latitude": 39.9040514,
+      "min_longitude": 46.770262,
+      "max_latitude": 39.9206634,
+      "max_longitude": 46.8147892
+    },
     "translations": {
       "en": "Khojali",
       "ar": "مقاطعة خوجالي",
@@ -3371,20 +4078,33 @@
       "th": "เขตโคจาลิ",
       "tr": "Hocalı Rayonu",
       "ur": "خوجالی ضلع",
-      "vi": "Khojaly"
+      "vi": "Khojaly",
+      "lv": "Hodžalinas rajons",
+      "ceb": "Xocalı Rayonu",
+      "sr_Latn": "Hodžalinski rejon",
+      "lt": "Kojalio apskritis",
+      "zh": "霍賈雷區",
+      "sq": "Khojali",
+      "ccp": "𑄈𑄧𑄎𑄧𑄣𑄨",
+      "ka": "ხოჯალის რაიონი",
+      "hy": "Խոջալուի շրջան",
+      "uk": "Ходжалинський район",
+      "mk": "Хоџали"
     },
-    "geo": {
-      "latitude": 39.9132553,
-      "longitude": 46.794305,
-      "min_latitude": 39.9040514,
-      "min_longitude": 46.770262,
-      "max_latitude": 39.9206634,
-      "max_longitude": 46.8147892
-    },
-    "name": "Xocali"
+    "comments": null
   },
   "XIZ": {
+    "name": "Xizi",
+    "code": null,
     "unofficial_names": "Xizi",
+    "geo": {
+      "latitude": 40.9,
+      "longitude": 49.066667,
+      "min_latitude": 40.8974897,
+      "min_longitude": 49.0516375,
+      "max_latitude": 40.9251219,
+      "max_longitude": 49.0894889
+    },
     "translations": {
       "en": "Khizi",
       "az": "Xızı",
@@ -3407,20 +4127,28 @@
       "sr": "Хизински рејон",
       "sv": "Khizi Rayon",
       "tr": "Hızı Rayonu",
-      "vi": "Khyzy"
+      "vi": "Khyzy",
+      "ceb": "Khizi Rayon",
+      "sr_Latn": "Hizinski rejon",
+      "zh": "基茲區",
+      "sq": "Khizi",
+      "ccp": "𑄈𑄨𑄏𑄨",
+      "mk": "Хизи"
     },
-    "geo": {
-      "latitude": 40.9,
-      "longitude": 49.066667,
-      "min_latitude": 40.8974897,
-      "min_longitude": 49.0516375,
-      "max_latitude": 40.9251219,
-      "max_longitude": 49.0894889
-    },
-    "name": "Xizi"
+    "comments": null
   },
   "XVD": {
+    "name": "Xocavänd",
+    "code": null,
     "unofficial_names": "Xocavänd",
+    "geo": {
+      "latitude": 39.7060287,
+      "longitude": 47.064533,
+      "min_latitude": 39.3751951,
+      "min_longitude": 46.63206090000001,
+      "max_latitude": 39.883672,
+      "max_longitude": 47.345414
+    },
     "translations": {
       "en": "Khojavend",
       "az": "Xocavənd",
@@ -3444,20 +4172,28 @@
       "sr": "Хоџавендски рејон",
       "sv": "Chodzjavänd",
       "tr": "Hocavend Rayonu",
-      "vi": "Khojavend"
+      "vi": "Khojavend",
+      "ceb": "Xocavənd Rayonu",
+      "sr_Latn": "Hodžavendski rejon",
+      "zh": "霍賈文德區",
+      "sq": "Khojavend",
+      "ccp": "𑄈𑄧𑄎𑄞𑄬𑄚𑄳𑄓𑄴",
+      "mk": "Хоџавенд"
     },
-    "geo": {
-      "latitude": 39.7060287,
-      "longitude": 47.064533,
-      "min_latitude": 39.3751951,
-      "min_longitude": 46.63206090000001,
-      "max_latitude": 39.883672,
-      "max_longitude": 47.345414
-    },
-    "name": "Xocavänd"
+    "comments": null
   },
   "YAR": {
+    "name": "Yardimli",
+    "code": null,
     "unofficial_names": "Yardimli",
+    "geo": {
+      "latitude": 38.9058917,
+      "longitude": 48.24961270000001,
+      "min_latitude": 38.886824,
+      "min_longitude": 48.2148314,
+      "max_latitude": 38.9156798,
+      "max_longitude": 48.2865858
+    },
     "translations": {
       "en": "Yardymli",
       "ar": "مقاطعة يارديملي",
@@ -3494,20 +4230,30 @@
       "tr": "Yardımlı Rayonu",
       "uk": "Ярдимлинський район",
       "ur": "یارڈیملی ضلع",
-      "vi": "Yardymly"
+      "vi": "Yardymly",
+      "lv": "Jardimli rajons",
+      "ceb": "Yardymli Rayon",
+      "sr_Latn": "Jardimlinski rejon",
+      "lt": "Jardimlio apskritis",
+      "zh": "亞爾德姆雷區",
+      "sq": "Yardymli",
+      "ccp": "𑄃𑄨𑄠𑄢𑄴𑄓𑄨𑄟𑄴𑄣𑄨",
+      "mk": "Јардимли"
     },
-    "geo": {
-      "latitude": 38.9058917,
-      "longitude": 48.24961270000001,
-      "min_latitude": 38.886824,
-      "min_longitude": 48.2148314,
-      "max_latitude": 38.9156798,
-      "max_longitude": 48.2865858
-    },
-    "name": "Yardimli"
+    "comments": null
   },
   "YE": {
+    "name": "Yevlax City",
+    "code": null,
     "unofficial_names": "Yevlax City",
+    "geo": {
+      "latitude": 40.617222,
+      "longitude": 47.15,
+      "min_latitude": 40.5830618,
+      "min_longitude": 47.1098042,
+      "max_latitude": 40.6331705,
+      "max_longitude": 47.1835326
+    },
     "translations": {
       "en": "Yevlakh",
       "az": "Yevlax",
@@ -3536,8 +4282,19 @@
       "sv": "Jevlach",
       "tr": "Yevlah",
       "uk": "Євлах",
-      "ur": "یولاخ"
+      "ur": "یولاخ",
+      "ceb": "Yevlakh",
+      "sr_Latn": "Jevlah",
+      "zh": "葉夫拉赫",
+      "ccp": "𑄃𑄨𑄠𑄬𑄛𑄴𑄣𑄇𑄴",
+      "be": "Еўлах"
     },
+    "comments": null
+  },
+  "YEV": {
+    "name": "Yevlax",
+    "code": null,
+    "unofficial_names": "Yevlax",
     "geo": {
       "latitude": 40.617222,
       "longitude": 47.15,
@@ -3546,10 +4303,6 @@
       "max_latitude": 40.6331705,
       "max_longitude": 47.1835326
     },
-    "name": "Yevlax City"
-  },
-  "YEV": {
-    "unofficial_names": "Yevlax",
     "translations": {
       "en": "Yevlakh District",
       "ar": "مقاطعة يفلاخ",
@@ -3585,20 +4338,31 @@
       "tr": "Yevlah Rayonu",
       "uk": "Євлахський район",
       "ur": "ییولاخ ضلع",
-      "vi": "Yevlakh"
+      "vi": "Yevlakh",
+      "lv": "Jevlahas rajons",
+      "ceb": "Yevlakh Rayon",
+      "sr_Latn": "Jevlaški rejon",
+      "lt": "Jevlako apskritis",
+      "zh": "葉夫拉赫區",
+      "sq": "Yevlakh",
+      "ccp": "𑄃𑄨𑄠𑄬𑄛𑄴𑄣𑄇𑄴 𑄎𑄬𑄣",
+      "be": "Еўлахскі раён",
+      "mk": "Јевлах"
     },
-    "geo": {
-      "latitude": 40.617222,
-      "longitude": 47.15,
-      "min_latitude": 40.5830618,
-      "min_longitude": 47.1098042,
-      "max_latitude": 40.6331705,
-      "max_longitude": 47.1835326
-    },
-    "name": "Yevlax"
+    "comments": null
   },
   "ZAN": {
+    "name": "Zängilan",
+    "code": null,
     "unofficial_names": "Zängilan",
+    "geo": {
+      "latitude": 39.0318935,
+      "longitude": 46.6265379,
+      "min_latitude": 38.872734,
+      "min_longitude": 46.43833900000001,
+      "max_latitude": 39.224588,
+      "max_longitude": 46.8760261
+    },
     "translations": {
       "en": "Zangilan",
       "ar": "مقاطعة زنغلان",
@@ -3635,20 +4399,30 @@
       "tr": "Zengilan Rayonu",
       "uk": "Зангеланський район",
       "ur": "زنگلان ضلع",
-      "vi": "Zangilan (quận)"
+      "vi": "Zangilan (quận)",
+      "lv": "Zengilanas rajons",
+      "ceb": "Zangilan Rayon",
+      "sr_Latn": "Zangelanski rejon",
+      "lt": "Zangelano sritis",
+      "zh": "贊格蘭區",
+      "sq": "Zangilan (rajon)",
+      "ccp": "𑄎𑄋𑄴𑄉𑄨𑄣𑄚𑄴",
+      "mk": "Зенгилан (округ)"
     },
-    "geo": {
-      "latitude": 39.0318935,
-      "longitude": 46.6265379,
-      "min_latitude": 38.872734,
-      "min_longitude": 46.43833900000001,
-      "max_latitude": 39.224588,
-      "max_longitude": 46.8760261
-    },
-    "name": "Zängilan"
+    "comments": null
   },
   "ZAQ": {
+    "name": "Zaqatala",
+    "code": null,
     "unofficial_names": "Zaqatala",
+    "geo": {
+      "latitude": 41.63361099999999,
+      "longitude": 46.643333,
+      "min_latitude": 41.5850192,
+      "min_longitude": 46.6077804,
+      "max_latitude": 41.6469735,
+      "max_longitude": 46.6757584
+    },
     "translations": {
       "en": "Zaqatala",
       "ar": "مقاطعة زقاتالا",
@@ -3686,20 +4460,32 @@
       "th": "เขตซาดาคาลา",
       "tr": "Zakatala Rayonu",
       "ur": "زاقاتالا ضلع",
-      "vi": "Zagatala (quận)"
+      "vi": "Zagatala (quận)",
+      "lv": "Zagatalas rajons",
+      "ceb": "Zaqatala Rayon",
+      "sr_Latn": "Zakataljski rejon",
+      "lt": "Zakatala apskritis",
+      "zh": "扎卡塔雷區",
+      "sq": "Zaqatala (rajon)",
+      "ccp": "𑄎𑄇𑄑𑄣𑄴",
+      "uk": "Загатальський район",
+      "uz": "Zaqatala tumani",
+      "mk": "Закатала (округ)"
     },
-    "geo": {
-      "latitude": 41.63361099999999,
-      "longitude": 46.643333,
-      "min_latitude": 41.5850192,
-      "min_longitude": 46.6077804,
-      "max_latitude": 41.6469735,
-      "max_longitude": 46.6757584
-    },
-    "name": "Zaqatala"
+    "comments": null
   },
   "ZAR": {
+    "name": "Zärdab",
+    "code": null,
     "unofficial_names": "Zärdab",
+    "geo": {
+      "latitude": 40.218333,
+      "longitude": 47.708333,
+      "min_latitude": 40.2012645,
+      "min_longitude": 47.6942681,
+      "max_latitude": 40.2448614,
+      "max_longitude": 47.73121829999999
+    },
     "translations": {
       "en": "Zardab",
       "ar": "مقاطعة زارداب",
@@ -3734,19 +4520,31 @@
       "th": "เขตซาร์แดบ",
       "tr": "Zerdab Rayonu",
       "ur": "زارداب ضلع",
-      "vi": "Zerdab (quận)"
+      "vi": "Zerdab (quận)",
+      "lv": "Zerdabas rajons",
+      "ceb": "Zardab Rayon",
+      "sr_Latn": "Zerdapski rejon",
+      "lt": "Zardabo sritis",
+      "zh": "扎爾多布區",
+      "sq": "Zardab (rajon)",
+      "ccp": "𑄎𑄢𑄴𑄓𑄛𑄴",
+      "uk": "Зердабський район",
+      "mk": "Зердаб"
     },
-    "geo": {
-      "latitude": 40.218333,
-      "longitude": 47.708333,
-      "min_latitude": 40.2012645,
-      "min_longitude": 47.6942681,
-      "max_latitude": 40.2448614,
-      "max_longitude": 47.73121829999999
-    },
-    "name": "Zärdab"
+    "comments": null
   },
   "NV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Nachitsjewan",
       "ar": "نخجوان",
@@ -3798,10 +4596,30 @@
       "tr": "Nahçıvan",
       "uk": "Нахічевань",
       "ur": "ناخچیوان (شہر)",
-      "vi": "Nakhchivan"
-    }
+      "vi": "Nakhchivan",
+      "cy": "Nakhchivan",
+      "ceb": "Nakhchivan Autonomous Republic",
+      "sr_Latn": "Nahčivan",
+      "zh": "納希切萬",
+      "ccp": "𑄚𑄇𑄴𑄌𑄨𑄞𑄧𑄚𑄴",
+      "ky": "Нахичеван",
+      "eu": "Nakhitxevan²",
+      "uz": "Naxichevan (shahar)"
+    },
+    "comments": null
   },
   "KAN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كنجة",
       "az": "Kəngərli",
@@ -3838,10 +4656,29 @@
       "tr": "Kengerli Rayonu",
       "uk": "Кенгерлінський район",
       "ur": "کانجارلی ضلع",
-      "vi": "Kangarli"
-    }
+      "vi": "Kangarli",
+      "lv": "Kengerli rajons",
+      "ceb": "Kangarli Rayon",
+      "sr_Latn": "Kengerlinski rejon",
+      "lt": "Kangarlio apskritis",
+      "zh": "坎加利區",
+      "ccp": "𑄇𑄋𑄴𑄉𑄢𑄴𑄣𑄨",
+      "mk": "Кенгерли"
+    },
+    "comments": null
   },
   "SBN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة شابران",
       "az": "Şabran (rayon)",
@@ -3879,10 +4716,30 @@
       "th": "จังหวัดคอปเปอเบล",
       "tr": "Şabran rayonu",
       "ur": "شابران ضلع",
-      "vi": "Quận Shabran"
-    }
+      "vi": "Quận Shabran",
+      "lv": "Šabranas rajons",
+      "ceb": "Shabran Rayon",
+      "sr_Latn": "Šabranski rejon",
+      "lt": "Šabrano apskritis",
+      "zh": "迪維奇區",
+      "ccp": "𑄥𑄛𑄴𑄢𑄚𑄴",
+      "uk": "Шабранський район",
+      "mk": "Шабран"
+    },
+    "comments": null
   },
   "SR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "شيروان",
       "az": "Şirvan",
@@ -3914,10 +4771,29 @@
       "sv": "Shirvan",
       "tr": "Şirvan",
       "uk": "Ширван",
-      "ur": "شیروان"
-    }
+      "ur": "شیروان",
+      "lv": "Širvana",
+      "ceb": "Shirvan",
+      "sr_Latn": "Širvan",
+      "zh": "希爾萬",
+      "sq": "Shirvan",
+      "ccp": "𑄥𑄨𑄢𑄞𑄧𑄚𑄴",
+      "mk": "Ширван"
+    },
+    "comments": null
   },
   "GYG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Göygöl",
       "cs": "Göygöl",
@@ -3940,8 +4816,16 @@
       "sr": "Гогољски рејон",
       "sv": "Xanlar Rayonu",
       "tr": "Göygöl Rayonu",
-      "vi": "Goygol"
-    }
+      "vi": "Goygol",
+      "ceb": "Goygol Rayon",
+      "sr_Latn": "Gogoljski rejon",
+      "zh": "漢拉爾區",
+      "sq": "Goygol",
+      "ccp": "𑄉𑄧𑄠𑄴𑄉𑄮𑄣𑄴",
+      "hy": "Գոյգյոլի շրջան",
+      "mk": "Ѓојѓол"
+    },
+    "comments": null
   }
 }
 

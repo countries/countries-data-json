@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Niassa",
+    "code": null,
     "unofficial_names": "Niassa",
+    "geo": {
+      "latitude": -12.7826202,
+      "longitude": 36.6093926,
+      "min_latitude": -15.5072889,
+      "min_longitude": 34.60633,
+      "max_latitude": -11.2596681,
+      "max_longitude": 38.4838371
+    },
     "translations": {
       "en": "Niassa",
       "af": "Niassa",
@@ -43,20 +53,28 @@
       "uk": "Ньяса",
       "ur": "نیاسا صوبہ",
       "vi": "Tỉnh Niassa",
-      "zh": "尼亚萨省"
+      "zh": "尼亚萨省",
+      "lv": "Ņasas province",
+      "ceb": "Niassa Province",
+      "yue_Hans": "尼亚萨省",
+      "ccp": "𑄚𑄨𑄠𑄥",
+      "yue": "尼亞薩省",
+      "mk": "Њаса"
     },
-    "geo": {
-      "latitude": -12.7826202,
-      "longitude": 36.6093926,
-      "min_latitude": -15.5072889,
-      "min_longitude": 34.60633,
-      "max_latitude": -11.2596681,
-      "max_longitude": 38.4838371
-    },
-    "name": "Niassa"
+    "comments": null
   },
   "B": {
+    "name": "Manica",
+    "code": null,
     "unofficial_names": "Manica",
+    "geo": {
+      "latitude": -19.5059787,
+      "longitude": 33.438353,
+      "min_latitude": -21.58149,
+      "min_longitude": 32.3667179,
+      "max_latitude": -16.3896211,
+      "max_longitude": 34.576135
+    },
     "translations": {
       "en": "Manica",
       "af": "Manica",
@@ -99,20 +117,26 @@
       "tr": "Manica Bölgesi",
       "uk": "Маніка",
       "ur": "مانیکا صوبہ",
-      "vi": "Tỉnh Manica"
+      "vi": "Tỉnh Manica",
+      "lv": "Manikas province",
+      "ceb": "Manica Province",
+      "zh": "马尼卡省",
+      "ccp": "𑄟𑄧𑄚𑄨𑄇"
     },
-    "geo": {
-      "latitude": -19.5059787,
-      "longitude": 33.438353,
-      "min_latitude": -21.58149,
-      "min_longitude": 32.3667179,
-      "max_latitude": -16.3896211,
-      "max_longitude": 34.576135
-    },
-    "name": "Manica"
+    "comments": null
   },
   "G": {
+    "name": "Gaza",
+    "code": null,
     "unofficial_names": "Gaza",
+    "geo": {
+      "latitude": -23.0221928,
+      "longitude": 32.7181375,
+      "min_latitude": -25.3720382,
+      "min_longitude": 31.3063011,
+      "max_latitude": -21.309147,
+      "max_longitude": 34.492104
+    },
     "translations": {
       "en": "Gaza",
       "af": "Gaza",
@@ -155,20 +179,28 @@
       "tr": "Gaza Bölgesi",
       "uk": "Газа",
       "ur": "غزہ صوبہ",
-      "vi": "Tỉnh Gaza"
+      "vi": "Tỉnh Gaza",
+      "lv": "Gazas province",
+      "ceb": "Gaza Province",
+      "zh": "加扎省",
+      "fa": "استان گازا",
+      "ccp": "𑄉𑄎",
+      "ml": "ഗാസ പ്രവിശ്യ"
     },
-    "geo": {
-      "latitude": -23.0221928,
-      "longitude": 32.7181375,
-      "min_latitude": -25.3720382,
-      "min_longitude": 31.3063011,
-      "max_latitude": -21.309147,
-      "max_longitude": 34.492104
-    },
-    "name": "Gaza"
+    "comments": null
   },
   "I": {
+    "name": "Inhambane",
+    "code": null,
     "unofficial_names": "Inhambane",
+    "geo": {
+      "latitude": -23.866667,
+      "longitude": 35.383333,
+      "min_latitude": -23.9394282,
+      "min_longitude": 35.3777797,
+      "max_latitude": -23.8608789,
+      "max_longitude": 35.4259301
+    },
     "translations": {
       "en": "Inhambane",
       "af": "Inhambane",
@@ -210,20 +242,27 @@
       "tr": "Inhambane Bölgesi",
       "uk": "Іньямбане",
       "ur": "انہامبان صوبہ",
-      "vi": "Tỉnh Inhambane"
+      "vi": "Tỉnh Inhambane",
+      "lv": "Iņambanes province",
+      "ceb": "Inhambane Province",
+      "zh": "伊尼扬巴内省",
+      "fa": "استان اینهامبانه",
+      "ccp": "𑄃𑄨𑄚𑄴𑄦𑄟𑄴𑄝𑄚𑄴"
     },
-    "geo": {
-      "latitude": -23.866667,
-      "longitude": 35.383333,
-      "min_latitude": -23.9394282,
-      "min_longitude": 35.3777797,
-      "max_latitude": -23.8608789,
-      "max_longitude": 35.4259301
-    },
-    "name": "Inhambane"
+    "comments": null
   },
   "L": {
+    "name": "Maputo",
+    "code": null,
     "unofficial_names": "Maputo",
+    "geo": {
+      "latitude": -25.966667,
+      "longitude": 32.583333,
+      "min_latitude": -25.9839604,
+      "min_longitude": 32.5233079,
+      "max_latitude": -25.8085457,
+      "max_longitude": 32.6980592
+    },
     "translations": {
       "en": "Maputo Province",
       "af": "Maputo",
@@ -252,8 +291,19 @@
       "sw": "Mkoa wa Maputo",
       "tr": "Maputo Bölgesi",
       "uk": "Мапуту",
-      "ur": "ماپوتو صوبہ"
+      "ur": "ماپوتو صوبہ",
+      "ceb": "Maputo Province",
+      "sr_Latn": "Maputo (pokrajina)",
+      "zh": "马普托省",
+      "ccp": "𑄟𑄛𑄪𑄑𑄮 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴",
+      "sr": "Мапуто (покрајина)"
     },
+    "comments": null
+  },
+  "MPM": {
+    "name": "Maputo City",
+    "code": null,
+    "unofficial_names": "Maputo City",
     "geo": {
       "latitude": -25.966667,
       "longitude": 32.583333,
@@ -262,10 +312,6 @@
       "max_latitude": -25.8085457,
       "max_longitude": 32.6980592
     },
-    "name": "Maputo"
-  },
-  "MPM": {
-    "unofficial_names": "Maputo City",
     "translations": {
       "en": "Maputo",
       "af": "Maputo²",
@@ -325,20 +371,40 @@
       "tr": "Maputo",
       "uk": "Мапуту²",
       "ur": "ماپوتو",
-      "vi": "Maputo"
+      "vi": "Maputo",
+      "cy": "Maputo",
+      "ceb": "Maputo",
+      "sr_Latn": "Maputo",
+      "zh": "马普托",
+      "yue_Hans": "马布多",
+      "jv": "Maputo",
+      "sq": "Maputo",
+      "ccp": "𑄟𑄛𑄪𑄑𑄮",
+      "ga": "Maputo",
+      "ky": "Мапуту",
+      "ha": "Maputo",
+      "so": "Mabuto",
+      "pa": "ਮਾਪੂਤੋ",
+      "yue": "馬布多",
+      "yo": "Maputo",
+      "uz": "Maputu",
+      "bs": "Maputo",
+      "mk": "Мапуто"
     },
-    "geo": {
-      "latitude": -25.966667,
-      "longitude": 32.583333,
-      "min_latitude": -25.9839604,
-      "min_longitude": 32.5233079,
-      "max_latitude": -25.8085457,
-      "max_longitude": 32.6980592
-    },
-    "name": "Maputo City"
+    "comments": null
   },
   "N": {
+    "name": "Nampula",
+    "code": null,
     "unofficial_names": "Nampula",
+    "geo": {
+      "latitude": -15.116667,
+      "longitude": 39.266667,
+      "min_latitude": -15.1570817,
+      "min_longitude": 39.21147759999999,
+      "max_latitude": -15.0862734,
+      "max_longitude": 39.3180005
+    },
     "translations": {
       "en": "Nampula",
       "af": "Nampula",
@@ -379,20 +445,27 @@
       "tr": "Nampula Bölgesi",
       "uk": "Нампула",
       "ur": "نامپولا صوبہ",
-      "vi": "Tỉnh Nampula"
+      "vi": "Tỉnh Nampula",
+      "lv": "Nampulas province",
+      "ceb": "Nampula",
+      "zh": "楠普拉省",
+      "fa": "استان نامپولا",
+      "ccp": "𑄚𑄟𑄴𑄛𑄪𑄣"
     },
-    "geo": {
-      "latitude": -15.116667,
-      "longitude": 39.266667,
-      "min_latitude": -15.1570817,
-      "min_longitude": 39.21147759999999,
-      "max_latitude": -15.0862734,
-      "max_longitude": 39.3180005
-    },
-    "name": "Nampula"
+    "comments": null
   },
   "P": {
+    "name": "Cabo Delgado",
+    "code": null,
     "unofficial_names": "Cabo Delgado",
+    "geo": {
+      "latitude": -12.3335474,
+      "longitude": 39.3206241,
+      "min_latitude": -14.162181,
+      "min_longitude": 37.9843029,
+      "max_latitude": -10.4729195,
+      "max_longitude": 40.7165883
+    },
     "translations": {
       "en": "Cabo Delgado",
       "af": "Cabo Delgado",
@@ -433,20 +506,31 @@
       "tr": "Cabo Delgado Bölgesi",
       "uk": "Кабу-Делгаду",
       "ur": "کابو دیلگادو صوبہ",
-      "vi": "Tỉnh Cabo Delgado"
+      "vi": "Tỉnh Cabo Delgado",
+      "lv": "Kabu Delgadu province",
+      "ceb": "Cabo Delgado Province",
+      "zh": "德尔加杜角省",
+      "fa": "استان کابو دلگادو",
+      "yue_Hans": "卡布德加多省",
+      "ccp": "𑄇𑄝𑄮 𑄓𑄬𑄣𑄴𑄉𑄓𑄮",
+      "he": "מחוז קאבו דלגאדו",
+      "yue": "卡布德加多省",
+      "be": "Кабу-Дэлгаду"
     },
-    "geo": {
-      "latitude": -12.3335474,
-      "longitude": 39.3206241,
-      "min_latitude": -14.162181,
-      "min_longitude": 37.9843029,
-      "max_latitude": -10.4729195,
-      "max_longitude": 40.7165883
-    },
-    "name": "Cabo Delgado"
+    "comments": null
   },
   "Q": {
+    "name": "Zambézia",
+    "code": null,
     "unofficial_names": "Zambézia",
+    "geo": {
+      "latitude": -16.5638987,
+      "longitude": 36.6093926,
+      "min_latitude": -18.9168009,
+      "min_longitude": 35.147209,
+      "max_latitude": -14.989042,
+      "max_longitude": 39.1333621
+    },
     "translations": {
       "en": "Zambezia",
       "af": "Zambezia",
@@ -487,20 +571,27 @@
       "tr": "Zambezia Bölgesi",
       "uk": "Замбезія",
       "ur": "زامبیزیا صوبہ",
-      "vi": "Tỉnh Zambezia"
+      "vi": "Tỉnh Zambezia",
+      "lv": "Zambezijas province",
+      "ceb": "Província de Zambézia",
+      "zh": "赞比西亚省",
+      "fa": "استان زامبزیا",
+      "ccp": "𑄎𑄟𑄴𑄝𑄬𑄎𑄨𑄠"
     },
-    "geo": {
-      "latitude": -16.5638987,
-      "longitude": 36.6093926,
-      "min_latitude": -18.9168009,
-      "min_longitude": 35.147209,
-      "max_latitude": -14.989042,
-      "max_longitude": 39.1333621
-    },
-    "name": "Zambézia"
+    "comments": null
   },
   "S": {
+    "name": "Sofala",
+    "code": null,
     "unofficial_names": "Sofala",
+    "geo": {
+      "latitude": -19.2039073,
+      "longitude": 34.8624166,
+      "min_latitude": -21.3156439,
+      "min_longitude": 33.3992959,
+      "max_latitude": -16.810862,
+      "max_longitude": 36.1929811
+    },
     "translations": {
       "en": "Sofala",
       "af": "Sofala",
@@ -542,20 +633,27 @@
       "tr": "Sofala Bölgesi",
       "uk": "Софала",
       "ur": "سافولا صوبہ",
-      "vi": "Tỉnh Sofala"
+      "vi": "Tỉnh Sofala",
+      "lv": "Sofalas province",
+      "ceb": "Sofala Province",
+      "zh": "索法拉省",
+      "fa": "استان سوفالا",
+      "ccp": "𑄥𑄮𑄜𑄣"
     },
-    "geo": {
-      "latitude": -19.2039073,
-      "longitude": 34.8624166,
-      "min_latitude": -21.3156439,
-      "min_longitude": 33.3992959,
-      "max_latitude": -16.810862,
-      "max_longitude": 36.1929811
-    },
-    "name": "Sofala"
+    "comments": null
   },
   "T": {
+    "name": "Tete",
+    "code": null,
     "unofficial_names": "Tete",
+    "geo": {
+      "latitude": -16.166667,
+      "longitude": 33.6,
+      "min_latitude": -16.1891847,
+      "min_longitude": 33.55608369999999,
+      "max_latitude": -16.0807983,
+      "max_longitude": 33.6530061
+    },
     "translations": {
       "en": "Tete",
       "af": "Tete",
@@ -599,17 +697,14 @@
       "tr": "Tete Bölgesi",
       "uk": "Тете",
       "ur": "تیتے صوبہ",
-      "vi": "Tỉnh Tete"
+      "vi": "Tỉnh Tete",
+      "lv": "Tetes province",
+      "cy": "Talaith Tete",
+      "ceb": "Tete",
+      "zh": "太特省",
+      "ccp": "𑄑𑄬𑄑𑄬"
     },
-    "geo": {
-      "latitude": -16.166667,
-      "longitude": 33.6,
-      "min_latitude": -16.1891847,
-      "min_longitude": 33.55608369999999,
-      "max_latitude": -16.0807983,
-      "max_longitude": 33.6530061
-    },
-    "name": "Tete"
+    "comments": null
   }
 }
 

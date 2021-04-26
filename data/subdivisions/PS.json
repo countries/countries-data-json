@@ -1,5 +1,16 @@
 {
   "BTH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة بيت لحم",
       "bn": "বেথেলহাম গভর্নোরেট",
@@ -39,10 +50,25 @@
       "uk": "Вифлеєм (провінція)",
       "ur": "محافظہ بیت لحم",
       "vi": "Tỉnh Bethlehem",
-      "zh": "伯利恒省"
-    }
+      "zh": "伯利恒省",
+      "lv": "Bētlemes muhāfaza",
+      "ccp": "𑄝𑄬𑄗𑄬𑄣𑄴𑄦𑄟𑄴",
+      "be": "Віфлеем"
+    },
+    "comments": null
   },
   "DEB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "الوسطى",
       "bn": "দেইর আল-বালাহ গভর্নোরেট",
@@ -77,10 +103,29 @@
       "th": "แดร์ อัล บาลา",
       "tr": "Deir al-Balah Yönetimi",
       "ur": "محافظہ دیر البلح",
-      "vi": "Tỉnh Deir al-Balah"
-    }
+      "vi": "Tỉnh Deir al-Balah",
+      "lv": "Deirelbelehas muhāfaza",
+      "ceb": "Deir Al Balah",
+      "lt": "Deir al-Bachalo gubernija",
+      "zh": "代尔拜莱赫省",
+      "ccp": "𑄓𑄬𑄃𑄨𑄢𑄴 𑄃𑄣𑄴 𑄝𑄣𑄦𑄴",
+      "he": "דיר אל-בלח (נפה)",
+      "uk": "Муніципалітет Дейр-ель-Балах"
+    },
+    "comments": null
   },
   "GZA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة غزة",
       "ca": "Governació de Gaza",
@@ -98,10 +143,28 @@
       "ro": "Guvernoratul Gaza",
       "ru": "Газа",
       "tr": "Gazze valiliği",
-      "ur": "محافظہ غزہ"
-    }
+      "ur": "محافظہ غزہ",
+      "zh": "加沙省",
+      "pl": "Gaza",
+      "ccp": "𑄉𑄎",
+      "he": "עזה (נפה)",
+      "it": "governatorato di Gaza",
+      "uk": "мугафаза Ґаза"
+    },
+    "comments": null
   },
   "HBN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة الخليل",
       "bn": "হেবরন গভর্নোরেট",
@@ -140,10 +203,25 @@
       "tr": "Hebron Valiliği",
       "uk": "Хеврон (провінція)",
       "ur": "محافظہ الخلیل",
-      "vi": "Tỉnh Hebron"
-    }
+      "vi": "Tỉnh Hebron",
+      "lv": "Hebronas muhāfaza",
+      "zh": "希布伦省",
+      "ccp": "𑄦𑄬𑄝𑄳𑄢𑄧𑄚𑄴"
+    },
+    "comments": null
   },
   "JEM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "القدس",
       "ca": "Governació de Jerusalem",
@@ -162,10 +240,27 @@
       "ro": "Guvernoratul Ierusalim",
       "ru": "Иерусалим",
       "sv": "Jerusalems provins",
-      "ur": "محافظہ یروشلم"
-    }
+      "ur": "محافظہ یروشلم",
+      "zh": "耶路撒冷省",
+      "pl": "Jerozolima",
+      "ccp": "𑄎𑄬𑄢𑄪𑄎𑄣𑄬𑄟𑄴",
+      "de": "Gouvernement Jerusalem",
+      "be": "Іерусалім"
+    },
+    "comments": null
   },
   "JEN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جنين",
       "ca": "Governació de Jenin",
@@ -186,10 +281,25 @@
       "ro": "Guvernoratul Jenin",
       "ru": "Джанин",
       "tr": "Cenin valiliği",
-      "ur": "محافظہ جنین"
-    }
+      "ur": "محافظہ جنین",
+      "zh": "杰宁省",
+      "pl": "Dżanin",
+      "ccp": "𑄎𑄬𑄚𑄨𑄚𑄴"
+    },
+    "comments": null
   },
   "JRH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أريحا",
       "ca": "Governació de Jericó",
@@ -206,10 +316,25 @@
       "nl": "Jericho",
       "ro": "Guvernoratul Ierihon",
       "ru": "Иерихон",
-      "ur": "محافظہ اریحا"
-    }
+      "ur": "محافظہ اریحا",
+      "zh": "杰里科省",
+      "pl": "Jerycho",
+      "ccp": "𑄎𑄬𑄢𑄨𑄇𑄮"
+    },
+    "comments": null
   },
   "KYS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة خان يونس",
       "ca": "Governació de Khan Yunis",
@@ -227,10 +352,28 @@
       "ro": "Guvernoratul Khan Yunis",
       "ru": "Хан-Юнис",
       "tr": "Han Yunus valiliği",
-      "ur": "محافظہ خان یونس"
-    }
+      "ur": "محافظہ خان یونس",
+      "ceb": "Khan Yunis Governorate",
+      "zh": "汉尤尼斯省",
+      "pl": "Chan Junus",
+      "ccp": "𑄈𑄚𑄴 𑄃𑄨𑄅𑄪𑄚𑄪𑄌𑄴",
+      "he": "ח׳אן יונס (נפה)",
+      "it": "governatorato di Khan Yunis"
+    },
+    "comments": null
   },
   "NBS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة نابلس",
       "be": "Наблус",
@@ -269,10 +412,26 @@
       "th": "เขตการปกครองแนบลูส",
       "tr": "Nablus Yönetimi",
       "ur": "محافظہ نابلس",
-      "vi": "Tỉnh Nablus"
-    }
+      "vi": "Tỉnh Nablus",
+      "lv": "Nablusas muhāfaza",
+      "zh": "纳布卢斯省",
+      "ccp": "𑄚𑄛𑄴𑄣𑄌𑄴",
+      "uk": "Муніципалітет Наблус"
+    },
+    "comments": null
   },
   "NGZ": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "شمال غزة",
       "bn": "উত্তর গাজা গভর্নোরেট",
@@ -309,10 +468,28 @@
       "th": "กาซาเหนือ",
       "tr": "Kuzey Gazze valiliği",
       "ur": "محافظہ شمالی غزہ",
-      "vi": "Tỉnh Bắc Gaza"
-    }
+      "vi": "Tỉnh Bắc Gaza",
+      "lv": "Ziemeļgazas muhāfaza",
+      "lt": "Šiaurinė Gazos gubernija",
+      "zh": "北加沙省",
+      "ccp": "𑄅𑄧𑄖𑄳𑄦𑄧𑄢𑄴 𑄉𑄎",
+      "he": "צפון עזה (נפה)",
+      "uk": "Муніципалітет Північна Газа"
+    },
+    "comments": null
   },
   "QQA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة قلقيلية",
       "bn": "কাল্কিলিয়া গভর্নোরেট",
@@ -350,10 +527,26 @@
       "th": "คาลคิลยา",
       "tr": "Qalqilya District",
       "ur": "محافظہ قلقیلیہ",
-      "vi": "Tỉnh Qalqilya"
-    }
+      "vi": "Tỉnh Qalqilya",
+      "lv": "Kalkīljas muhāfaza",
+      "zh": "盖勒吉利耶省",
+      "ccp": "𑄇𑄪𑄠𑄣𑄴𑄇𑄪𑄣𑄨𑄠",
+      "uk": "Муніципалітет Калькілія"
+    },
+    "comments": null
   },
   "RBH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "رام الله والبيرة",
       "bn": "রামাল্লাহ ও আল-বিরেহ গভর্নোরেট",
@@ -390,10 +583,26 @@
       "th": "รามัลลาฮ์ แอนด์ อัล ไบเรฮ์ โกเวอโนเรท",
       "tr": "Ramallah ve al-Bireh Valiliği",
       "ur": "محافظہ رام الله اور البیرہ",
-      "vi": "Tỉnh Ramallah và al-Bireh"
-    }
+      "vi": "Tỉnh Ramallah và al-Bireh",
+      "lv": "Rāmallas un Bīras muhāfaza",
+      "zh": "拉马拉和比雷赫省",
+      "ccp": "𑄢𑄟𑄣𑄳𑄣𑄦𑄴 𑄃𑄳𑄃 𑄃𑄣𑄴-𑄝𑄨𑄢𑄬𑄦𑄴",
+      "uk": "Муніципалітет Рамалла та ель-Біра"
+    },
+    "comments": null
   },
   "RFH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة رفح الفلسطينية",
       "ca": "Governació de Rafah",
@@ -413,10 +622,26 @@
       "ro": "Guvernoratul Rafah",
       "ru": "Рафах",
       "uk": "Рафах",
-      "ur": "محافظہ رفح"
-    }
+      "ur": "محافظہ رفح",
+      "zh": "拉法省",
+      "pl": "Rafah",
+      "ccp": "𑄢𑄜𑄦𑄴",
+      "it": "governatorato di Rafah"
+    },
+    "comments": null
   },
   "SLT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة سلفيت",
       "bn": "সালফিত গভর্নোরেট",
@@ -454,10 +679,26 @@
       "th": "ฟรอเรียนา",
       "tr": "Salfint Yönetimi",
       "ur": "محافظہ سلفیت",
-      "vi": "Tỉnh Salfit"
-    }
+      "vi": "Tỉnh Salfit",
+      "lv": "Selfītas muhāfaza",
+      "zh": "萨尔费特省",
+      "ccp": "𑄥𑄣𑄴𑄜𑄨𑄖𑄴",
+      "uk": "Муніципалітет Салфіт"
+    },
+    "comments": null
   },
   "TBS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة طوباس",
       "ca": "Governació de Tubas",
@@ -476,10 +717,26 @@
       "ro": "Guvernoratul Tubas",
       "ru": "Тубас",
       "tr": "Tubas valiliği",
-      "ur": "محافظہ طوباس"
-    }
+      "ur": "محافظہ طوباس",
+      "zh": "图巴斯省",
+      "pl": "Tubas",
+      "ccp": "𑄑𑄪𑄝𑄌𑄴",
+      "it": "governatorato di Tubas"
+    },
+    "comments": null
   },
   "TKM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة طولكرم",
       "bn": "তুল্কারম গভর্নোরেট",
@@ -517,8 +774,13 @@
       "th": "ทัลคาม โกเวอโนเรท",
       "tr": "Tulkarm Yönetimi",
       "ur": "محافظہ طولکرم",
-      "vi": "Tỉnh Tulkarm"
-    }
+      "vi": "Tỉnh Tulkarm",
+      "lv": "Tūlkarmas muhāfaza",
+      "zh": "图勒凯尔姆省",
+      "ccp": "𑄑𑄪𑄣𑄴𑄇𑄢𑄴𑄟𑄴",
+      "uk": "Муніципалітет Тулькарм"
+    },
+    "comments": null
   }
 }
 

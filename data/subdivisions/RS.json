@@ -1,6 +1,16 @@
 {
   "00": {
+    "name": "Belgrade",
+    "code": null,
     "unofficial_names": "Belgrade",
+    "geo": {
+      "latitude": 44.786568,
+      "longitude": 20.4489216,
+      "min_latitude": 44.6880454,
+      "min_longitude": 20.2217102,
+      "max_latitude": 44.9424453,
+      "max_longitude": 20.6189345
+    },
     "translations": {
       "en": "Beograd",
       "af": "Belgrado",
@@ -61,20 +71,39 @@
       "uk": "Белград",
       "ur": "بلغراد",
       "vi": "Beograd",
-      "zh": "贝尔格莱德"
+      "zh": "贝尔格莱德",
+      "cy": "Beograd",
+      "ceb": "Belgrado",
+      "sr_Latn": "Beograd",
+      "yue_Hans": "贝尔格莱德",
+      "jv": "Beograd",
+      "sq": "Beogradi",
+      "ccp": "𑄝𑄨𑄃𑄮𑄉𑄳𑄢𑄖𑄴",
+      "ga": "Béalgrád",
+      "ky": "Белград",
+      "so": "Belgaraad",
+      "pa": "ਬੈਲਗ੍ਰਾਦ",
+      "kk": "Белград",
+      "yue": "貝爾格萊德",
+      "yo": "Belgrade",
+      "uz": "Belgrad",
+      "bs": "Beograd",
+      "mk": "Белград"
     },
-    "geo": {
-      "latitude": 44.786568,
-      "longitude": 20.4489216,
-      "min_latitude": 44.6880454,
-      "min_longitude": 20.2217102,
-      "max_latitude": 44.9424453,
-      "max_longitude": 20.6189345
-    },
-    "name": "Belgrade"
+    "comments": null
   },
   "01": {
+    "name": "Severna Backa",
+    "code": null,
     "unofficial_names": "Severna Backa",
+    "geo": {
+      "latitude": 45.9803394,
+      "longitude": 19.5907,
+      "min_latitude": 45.6242571,
+      "min_longitude": 19.3011208,
+      "max_latitude": 46.1912459,
+      "max_longitude": 19.875136
+    },
     "translations": {
       "en": "North Bačka",
       "ar": "مقاطعة شمال باكشتا",
@@ -118,20 +147,29 @@
       "tr": "Kuzey Bačka İlçesi",
       "uk": "Північно-Бацький округ",
       "ur": "شمالی باچکا ضلع",
-      "vi": "Quận Bắc Backa"
+      "vi": "Quận Bắc Backa",
+      "lv": "Ziemeļbačkas apgabals",
+      "sr_Latn": "Severnobački upravni okrug",
+      "lt": "Šiaurinis Bačkos regionas",
+      "zh": "北巴奇卡州",
+      "jv": "Bačka Lor",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄝𑄇",
+      "mn": "Умар Бачка аймаг"
     },
-    "geo": {
-      "latitude": 45.9803394,
-      "longitude": 19.5907,
-      "min_latitude": 45.6242571,
-      "min_longitude": 19.3011208,
-      "max_latitude": 46.1912459,
-      "max_longitude": 19.875136
-    },
-    "name": "Severna Backa"
+    "comments": null
   },
   "02": {
+    "name": "Srednji Banat",
+    "code": null,
     "unofficial_names": "Srednji Banat",
+    "geo": {
+      "latitude": 45.4788485,
+      "longitude": 20.6082522,
+      "min_latitude": 45.0783,
+      "min_longitude": 20.027785,
+      "max_latitude": 45.811237,
+      "max_longitude": 21.0307331
+    },
     "translations": {
       "en": "Central Banat",
       "ar": "مقاطعة سنترال بانات",
@@ -175,20 +213,28 @@
       "tr": "Orta Banat İlçesi",
       "uk": "Середньо-Банатський округ",
       "ur": "وسطی بانات ضلع",
-      "vi": "Quận Trung Banat"
+      "vi": "Quận Trung Banat",
+      "lv": "Centrālbanatas apgabals",
+      "sr_Latn": "Srednjobanatski upravni okrug",
+      "lt": "Centrinio Banato apskritis",
+      "zh": "中巴納特州",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄝𑄚𑄖𑄴",
+      "mn": "Төв Банат аймаг"
     },
-    "geo": {
-      "latitude": 45.4788485,
-      "longitude": 20.6082522,
-      "min_latitude": 45.0783,
-      "min_longitude": 20.027785,
-      "max_latitude": 45.811237,
-      "max_longitude": 21.0307331
-    },
-    "name": "Srednji Banat"
+    "comments": null
   },
   "03": {
+    "name": "Severni Banat",
+    "code": null,
     "unofficial_names": "Severni Banat",
+    "geo": {
+      "latitude": 45.906839,
+      "longitude": 19.9993417,
+      "min_latitude": 45.598248,
+      "min_longitude": 19.7715084,
+      "max_latitude": 46.178631,
+      "max_longitude": 20.665928
+    },
     "translations": {
       "en": "North Banat",
       "ar": "شمال مقاطعة بانات",
@@ -232,20 +278,29 @@
       "tr": "Kuzey Banat İlçesi",
       "uk": "Північно-Банатський округ",
       "ur": "شمالی بانات ضلع",
-      "vi": "Quận Bắc Banat"
+      "vi": "Quận Bắc Banat",
+      "lv": "Ziemeļbanatas apgabals",
+      "sr_Latn": "Severnobanatski upravni okrug",
+      "lt": "Šiaurės Banato apskritis",
+      "zh": "北巴納特州",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄝𑄚𑄖𑄴",
+      "sk": "Severobanátsky okres",
+      "be": "Паўночна-Банацкая акруга"
     },
-    "geo": {
-      "latitude": 45.906839,
-      "longitude": 19.9993417,
-      "min_latitude": 45.598248,
-      "min_longitude": 19.7715084,
-      "max_latitude": 46.178631,
-      "max_longitude": 20.665928
-    },
-    "name": "Severni Banat"
+    "comments": null
   },
   "04": {
+    "name": "Južni Banat",
+    "code": null,
     "unofficial_names": "Južni Banat",
+    "geo": {
+      "latitude": 45.0027457,
+      "longitude": 21.0542509,
+      "min_latitude": 44.65840499999999,
+      "min_longitude": 20.41565,
+      "max_latitude": 45.334724,
+      "max_longitude": 21.56465
+    },
     "translations": {
       "en": "South Banat",
       "ar": "مقاطعة جنوب بانات",
@@ -290,20 +345,30 @@
       "tr": "Güney Banat İlçesi",
       "uk": "Південно-Банатський округ",
       "ur": "جنوبی بانات ضلع",
-      "vi": "Quận Nam Banat"
+      "vi": "Quận Nam Banat",
+      "lv": "Dienvidbanatas apgabals",
+      "sr_Latn": "Južnobanatski upravni okrug",
+      "lt": "Pietų Banato apskritis",
+      "zh": "南巴納特州",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄝𑄚𑄖𑄴",
+      "mn": "Өмнө Банат аймаг",
+      "bs": "Južnobanatski upravni okrug",
+      "mk": "Јужнобанатски округ"
     },
-    "geo": {
-      "latitude": 45.0027457,
-      "longitude": 21.0542509,
-      "min_latitude": 44.65840499999999,
-      "min_longitude": 20.41565,
-      "max_latitude": 45.334724,
-      "max_longitude": 21.56465
-    },
-    "name": "Južni Banat"
+    "comments": null
   },
   "05": {
+    "name": "Zapadna Backa",
+    "code": null,
     "unofficial_names": "Zapadna Backa",
+    "geo": {
+      "latitude": 45.7355385,
+      "longitude": 19.1897364,
+      "min_latitude": 45.436847,
+      "min_longitude": 18.8493741,
+      "max_latitude": 46.0410499,
+      "max_longitude": 19.6157879
+    },
     "translations": {
       "en": "West Bačka",
       "ar": "مقاطعة غرب باكشتا",
@@ -346,20 +411,29 @@
       "tr": "Batı Bačka İlçesi",
       "uk": "Західно-Бацький округ",
       "ur": "مغربی باچکا ضلع",
-      "vi": "Quận Tây Backa"
+      "vi": "Quận Tây Backa",
+      "lv": "Rietumbačkas apgabals",
+      "sr_Latn": "Zapadnobački upravni okrug",
+      "lt": "Vakarų Bačkos apskritis",
+      "zh": "西巴奇卡州",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄝𑄇",
+      "mn": "Өрнө Бачка аймаг",
+      "bs": "Zapadnobački upravni okrug"
     },
-    "geo": {
-      "latitude": 45.7355385,
-      "longitude": 19.1897364,
-      "min_latitude": 45.436847,
-      "min_longitude": 18.8493741,
-      "max_latitude": 46.0410499,
-      "max_longitude": 19.6157879
-    },
-    "name": "Zapadna Backa"
+    "comments": null
   },
   "06": {
+    "name": "Južna Backa",
+    "code": null,
     "unofficial_names": "Južna Backa",
+    "geo": {
+      "latitude": 45.4890344,
+      "longitude": 19.6976187,
+      "min_latitude": 45.133575,
+      "min_longitude": 18.981784,
+      "max_latitude": 45.7750259,
+      "max_longitude": 20.313821
+    },
     "translations": {
       "en": "South Bačka",
       "ar": "مقاطعة جنوب باتشكا",
@@ -404,20 +478,28 @@
       "tr": "Güney Bačka İlçesi",
       "uk": "Південно-Бацький округ",
       "ur": "جنوبی باچکا ضلع",
-      "vi": "Quận Nam Backa"
+      "vi": "Quận Nam Backa",
+      "lv": "Dienvidbačkas apgabals",
+      "sr_Latn": "Južnobački upravni okrug",
+      "lt": "Pietų Bačkos apskritis",
+      "zh": "南巴奇卡州",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄝𑄇",
+      "mn": "Өмнө Бачка аймаг"
     },
-    "geo": {
-      "latitude": 45.4890344,
-      "longitude": 19.6976187,
-      "min_latitude": 45.133575,
-      "min_longitude": 18.981784,
-      "max_latitude": 45.7750259,
-      "max_longitude": 20.313821
-    },
-    "name": "Južna Backa"
+    "comments": null
   },
   "07": {
+    "name": "Srem",
+    "code": null,
     "unofficial_names": "Srem",
+    "geo": {
+      "latitude": 45.0029171,
+      "longitude": 19.8013773,
+      "min_latitude": 44.6294639,
+      "min_longitude": 18.9884937,
+      "max_latitude": 45.21000900000001,
+      "max_longitude": 20.361306
+    },
     "translations": {
       "en": "Srem",
       "ar": "مقاطعة سريم",
@@ -461,20 +543,27 @@
       "tr": "Srem İlçesi",
       "uk": "Сремський округ",
       "ur": "سریم ضلع",
-      "vi": "Syrmia"
+      "vi": "Syrmia",
+      "lv": "Sremas apgabals",
+      "sr_Latn": "Sremski upravni okrug",
+      "lt": "Sremo apskritis",
+      "zh": "斯雷姆州",
+      "ccp": "𑄥𑄳𑄢𑄬𑄟𑄴"
     },
-    "geo": {
-      "latitude": 45.0029171,
-      "longitude": 19.8013773,
-      "min_latitude": 44.6294639,
-      "min_longitude": 18.9884937,
-      "max_latitude": 45.21000900000001,
-      "max_longitude": 20.361306
-    },
-    "name": "Srem"
+    "comments": null
   },
   "08": {
+    "name": "Macva",
+    "code": null,
     "unofficial_names": "Macva",
+    "geo": {
+      "latitude": 44.5925314,
+      "longitude": 19.5082246,
+      "min_latitude": 44.1124741,
+      "min_longitude": 19.10721,
+      "max_latitude": 44.94040200000001,
+      "max_longitude": 20.000317
+    },
     "translations": {
       "en": "Mačva",
       "ar": "مقاطعة ماتشفا",
@@ -514,20 +603,29 @@
       "th": "เขตแม็กเวย์",
       "tr": "Maçva İlçesi",
       "ur": "ماچوا ضلع",
-      "vi": "Quận Macva"
+      "vi": "Quận Macva",
+      "lv": "Mačvas apgabals",
+      "sr_Latn": "Mačvanski upravni okrug",
+      "lt": "Mačvos apskritis",
+      "zh": "馬切萬州",
+      "ccp": "𑄟𑄳𑄠𑄇𑄴𑄞",
+      "uk": "Район Мачва",
+      "bs": "Mačvanski upravni okrug"
     },
-    "geo": {
-      "latitude": 44.5925314,
-      "longitude": 19.5082246,
-      "min_latitude": 44.1124741,
-      "min_longitude": 19.10721,
-      "max_latitude": 44.94040200000001,
-      "max_longitude": 20.000317
-    },
-    "name": "Macva"
+    "comments": null
   },
   "09": {
+    "name": "Kolubara",
+    "code": null,
     "unofficial_names": "Kolubara",
+    "geo": {
+      "latitude": 44.2674361,
+      "longitude": 19.8980841,
+      "min_latitude": 44.26653839999999,
+      "min_longitude": 19.8946778,
+      "max_latitude": 44.2683338,
+      "max_longitude": 19.9014904
+    },
     "translations": {
       "en": "Kolubara",
       "ar": "مقاطعة كولوبارا",
@@ -568,20 +666,30 @@
       "th": "เขตโคลูบารา",
       "tr": "Kolubara İlçesi",
       "ur": "کولوبارا ضلع",
-      "vi": "Quận Kolubara"
+      "vi": "Quận Kolubara",
+      "lv": "Kolubaras apgabals",
+      "sr_Latn": "Kolubarski upravni okrug",
+      "lt": "Kolubaros apskritis",
+      "zh": "科盧巴拉州",
+      "ccp": "𑄇𑄮𑄣𑄪𑄝𑄢",
+      "uk": "Район Колубара",
+      "mn": "Колубар аймаг",
+      "bs": "Kolubarski upravni okrug"
     },
-    "geo": {
-      "latitude": 44.2674361,
-      "longitude": 19.8980841,
-      "min_latitude": 44.26653839999999,
-      "min_longitude": 19.8946778,
-      "max_latitude": 44.2683338,
-      "max_longitude": 19.9014904
-    },
-    "name": "Kolubara"
+    "comments": null
   },
   "10": {
+    "name": "Podunavlje",
+    "code": null,
     "unofficial_names": "Podunavlje",
+    "geo": {
+      "latitude": 44.4729156,
+      "longitude": 20.9901426,
+      "min_latitude": 44.208296,
+      "min_longitude": 20.7518259,
+      "max_latitude": 44.7212919,
+      "max_longitude": 21.203335
+    },
     "translations": {
       "en": "Podunavlje",
       "ar": "مقاطعة بودونافلي",
@@ -621,20 +729,29 @@
       "th": "เทศบาลเมืองคูเคส",
       "tr": "Podunavlye İlçesi",
       "ur": "پودوناولیے ضلع",
-      "vi": "Quận Podunavlje"
+      "vi": "Quận Podunavlje",
+      "lv": "Podunavļes apgabals",
+      "sr_Latn": "Podunavski upravni okrug",
+      "lt": "Podunavlės apskritis",
+      "zh": "波杜那瓦州",
+      "ccp": "𑄛𑄧𑄓𑄪𑄚𑄛𑄴𑄎𑄬",
+      "uk": "Подунайський Район",
+      "mk": "Подунавски округ"
     },
-    "geo": {
-      "latitude": 44.4729156,
-      "longitude": 20.9901426,
-      "min_latitude": 44.208296,
-      "min_longitude": 20.7518259,
-      "max_latitude": 44.7212919,
-      "max_longitude": 21.203335
-    },
-    "name": "Podunavlje"
+    "comments": null
   },
   "11": {
+    "name": "Branicevo",
+    "code": null,
     "unofficial_names": "Branicevo",
+    "geo": {
+      "latitude": 44.705,
+      "longitude": 21.538333,
+      "min_latitude": 44.6723152,
+      "min_longitude": 21.5239334,
+      "max_latitude": 44.7191731,
+      "max_longitude": 21.5884781
+    },
     "translations": {
       "en": "Braničevo",
       "ar": "مقاطعة برانيتشيفو",
@@ -677,20 +794,28 @@
       "th": "เขตบรานิเชโว",
       "tr": "Braniçevo İlçesi",
       "ur": "برانیچیوو ضلع",
-      "vi": "Quận Branicevo"
+      "vi": "Quận Branicevo",
+      "lv": "Braničevas apgabals",
+      "sr_Latn": "Braničevski upravni okrug",
+      "lt": "Braničevo apskritis",
+      "zh": "布蘭尼切夫州",
+      "ccp": "𑄝𑄳𑄢𑄚𑄨𑄥𑄬𑄞𑄮",
+      "uk": "Бранічевський район"
     },
-    "geo": {
-      "latitude": 44.705,
-      "longitude": 21.538333,
-      "min_latitude": 44.6723152,
-      "min_longitude": 21.5239334,
-      "max_latitude": 44.7191731,
-      "max_longitude": 21.5884781
-    },
-    "name": "Branicevo"
+    "comments": null
   },
   "12": {
+    "name": "Šumadija",
+    "code": null,
     "unofficial_names": "Šumadija",
+    "geo": {
+      "latitude": 44.20506779999999,
+      "longitude": 20.7856565,
+      "min_latitude": 43.796296,
+      "min_longitude": 20.410712,
+      "max_latitude": 44.441987,
+      "max_longitude": 21.159204
+    },
     "translations": {
       "en": "Šumadija",
       "ar": "مقاطعة شوماديا",
@@ -731,20 +856,30 @@
       "th": "เขตซูมาดิจา",
       "tr": "Šumadija İlçesi",
       "ur": "شومادیا ضلع",
-      "vi": "Quận Sumadija"
+      "vi": "Quận Sumadija",
+      "lv": "Šumadijas apgabals",
+      "sr_Latn": "Šumadijski upravni okrug",
+      "lt": "Šumadijos apskritis",
+      "zh": "舒馬迪亞州",
+      "ccp": "𑄥𑄪𑄟𑄓𑄨𑄎",
+      "uk": "Район Шумадія",
+      "be": "Шумадыйская акруга",
+      "bs": "Šumadijski upravni okrug"
     },
-    "geo": {
-      "latitude": 44.20506779999999,
-      "longitude": 20.7856565,
-      "min_latitude": 43.796296,
-      "min_longitude": 20.410712,
-      "max_latitude": 44.441987,
-      "max_longitude": 21.159204
-    },
-    "name": "Šumadija"
+    "comments": null
   },
   "13": {
+    "name": "Pomoravlje",
+    "code": null,
     "unofficial_names": "Pomoravlje",
+    "geo": {
+      "latitude": 43.95913789999999,
+      "longitude": 21.271353,
+      "min_latitude": 43.7114669,
+      "min_longitude": 20.929701,
+      "max_latitude": 44.310024,
+      "max_longitude": 21.839969
+    },
     "translations": {
       "en": "Pomoravlje",
       "ar": "مقاطعة بومورافليه",
@@ -783,20 +918,30 @@
       "th": "เขตโปโมราฟลีเย",
       "tr": "Pomoravlje District",
       "ur": "پوموراولیے ضلع",
-      "vi": "Quận Pomoravlje"
+      "vi": "Quận Pomoravlje",
+      "lv": "Pomoravļes apgabals",
+      "sr_Latn": "Pomoravski upravni okrug",
+      "lt": "Pomoravlės apskritis",
+      "zh": "波莫拉夫列州",
+      "ccp": "𑄛𑄧𑄟𑄮𑄢𑄛𑄴𑄎𑄬",
+      "uk": "Поморавський Район",
+      "mn": "Поморав аймаг",
+      "bs": "Pomoravski upravni okrug"
     },
-    "geo": {
-      "latitude": 43.95913789999999,
-      "longitude": 21.271353,
-      "min_latitude": 43.7114669,
-      "min_longitude": 20.929701,
-      "max_latitude": 44.310024,
-      "max_longitude": 21.839969
-    },
-    "name": "Pomoravlje"
+    "comments": null
   },
   "14": {
+    "name": "Bor",
+    "code": null,
     "unofficial_names": "Bor",
+    "geo": {
+      "latitude": 44.0698918,
+      "longitude": 22.0985086,
+      "min_latitude": 44.0400952,
+      "min_longitude": 21.9936849,
+      "max_latitude": 44.1460006,
+      "max_longitude": 22.1439743
+    },
     "translations": {
       "en": "Bor",
       "ar": "مقاطعة بور",
@@ -838,20 +983,29 @@
       "th": "เขตบอร์",
       "tr": "Bor İlçesi",
       "ur": "بور ضلع",
-      "vi": "Quận Bor"
+      "vi": "Quận Bor",
+      "lv": "Boras apgabals",
+      "ceb": "Borski Okrug",
+      "sr_Latn": "Borski upravni okrug",
+      "lt": "Boro apskritis",
+      "zh": "博爾州",
+      "ccp": "𑄝𑄮𑄢𑄴",
+      "uk": "Район Бор"
     },
-    "geo": {
-      "latitude": 44.0698918,
-      "longitude": 22.0985086,
-      "min_latitude": 44.0400952,
-      "min_longitude": 21.9936849,
-      "max_latitude": 44.1460006,
-      "max_longitude": 22.1439743
-    },
-    "name": "Bor"
+    "comments": null
   },
   "15": {
+    "name": "Zajecar",
+    "code": null,
     "unofficial_names": "Zajecar",
+    "geo": {
+      "latitude": 43.9015048,
+      "longitude": 22.2738011,
+      "min_latitude": 43.8638665,
+      "min_longitude": 22.1834563,
+      "max_latitude": 43.9716926,
+      "max_longitude": 22.3112583
+    },
     "translations": {
       "en": "Zaječar",
       "ar": "مقاطعة زاييتشار",
@@ -890,20 +1044,29 @@
       "th": "ซาเจคาร์",
       "tr": "Zayeçar İlçesi",
       "ur": "زایئچار ضلع",
-      "vi": "Quận Zajecar"
+      "vi": "Quận Zajecar",
+      "lv": "Zaječaras apgabals",
+      "sr_Latn": "Zaječarski upravni okrug",
+      "lt": "Zaječaro apskritis",
+      "zh": "扎耶查爾州",
+      "ccp": "𑄎𑄎𑄬𑄇𑄢𑄴",
+      "uk": "Заєчарський район",
+      "mn": "Заечар аймаг"
     },
-    "geo": {
-      "latitude": 43.9015048,
-      "longitude": 22.2738011,
-      "min_latitude": 43.8638665,
-      "min_longitude": 22.1834563,
-      "max_latitude": 43.9716926,
-      "max_longitude": 22.3112583
-    },
-    "name": "Zajecar"
+    "comments": null
   },
   "16": {
+    "name": "Zlatibor",
+    "code": null,
     "unofficial_names": "Zlatibor",
+    "geo": {
+      "latitude": 43.6554553,
+      "longitude": 19.6633226,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Zlatibor",
       "ar": "مقاطعة زلاتيبور",
@@ -945,20 +1108,30 @@
       "th": "เขตซเลติบอร์",
       "tr": "Zlatibor District",
       "ur": "زلاتیبور ضلع",
-      "vi": "Quận Zlatibor"
+      "vi": "Quận Zlatibor",
+      "lv": "Zlatiboras apgabals",
+      "sr_Latn": "Zlatiborski upravni okrug",
+      "lt": "Zlatiboro apskritis",
+      "zh": "茲拉提波爾州",
+      "ccp": "𑄎𑄳𑄣𑄑𑄨𑄝𑄮𑄢𑄴",
+      "uk": "Район Златибор",
+      "be": "Злацібарская акруга",
+      "bs": "Zlatiborski upravni okrug"
     },
-    "geo": {
-      "latitude": 43.6554553,
-      "longitude": 19.6633226,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Zlatibor"
+    "comments": null
   },
   "17": {
+    "name": "Moravica",
+    "code": null,
     "unofficial_names": "Moravica",
+    "geo": {
+      "latitude": 43.5393662,
+      "longitude": 21.7117215,
+      "min_latitude": 43.5364745,
+      "min_longitude": 21.7100169,
+      "max_latitude": 43.542258,
+      "max_longitude": 21.7134261
+    },
     "translations": {
       "en": "Moravica",
       "ar": "مقاطعة مورافيكا",
@@ -999,20 +1172,30 @@
       "th": "เขตโมราวิค่า",
       "tr": "Moravica District",
       "ur": "موراویتسا ضلع",
-      "vi": "Quận Moravica"
+      "vi": "Quận Moravica",
+      "lv": "Moravicas apgabals",
+      "sr_Latn": "Moravički upravni okrug",
+      "lt": "Moravicos apskritis",
+      "zh": "莫拉瓦州",
+      "ccp": "𑄟𑄮𑄢𑄞𑄨𑄇",
+      "uk": "Моравичський район",
+      "mn": "Моравич аймаг",
+      "bs": "Moravički upravni okrug"
     },
-    "geo": {
-      "latitude": 43.5393662,
-      "longitude": 21.7117215,
-      "min_latitude": 43.5364745,
-      "min_longitude": 21.7100169,
-      "max_latitude": 43.542258,
-      "max_longitude": 21.7134261
-    },
-    "name": "Moravica"
+    "comments": null
   },
   "18": {
+    "name": "Raška",
+    "code": null,
     "unofficial_names": "Raška",
+    "geo": {
+      "latitude": 43.291944,
+      "longitude": 20.615556,
+      "min_latitude": 43.2702688,
+      "min_longitude": 20.5972195,
+      "max_latitude": 43.3038197,
+      "max_longitude": 20.6399633
+    },
     "translations": {
       "en": "Raška",
       "ar": "مقاطعة راشكا",
@@ -1053,20 +1236,29 @@
       "th": "เขตราสกา",
       "tr": "Raska District",
       "ur": "راشکا ضلع",
-      "vi": "Quận Raska"
+      "vi": "Quận Raska",
+      "lv": "Raškas apgabals",
+      "sr_Latn": "Raški upravni okrug",
+      "lt": "Raškos apskritis",
+      "zh": "拉什卡州",
+      "ccp": "𑄢𑄌𑄴𑄇",
+      "uk": "Район Рашка",
+      "bs": "Raški upravni okrug"
     },
-    "geo": {
-      "latitude": 43.291944,
-      "longitude": 20.615556,
-      "min_latitude": 43.2702688,
-      "min_longitude": 20.5972195,
-      "max_latitude": 43.3038197,
-      "max_longitude": 20.6399633
-    },
-    "name": "Raška"
+    "comments": null
   },
   "19": {
+    "name": "Rasina",
+    "code": null,
     "unofficial_names": "Rasina",
+    "geo": {
+      "latitude": 43.5789182,
+      "longitude": 21.3484472,
+      "min_latitude": 43.5644288,
+      "min_longitude": 21.3434582,
+      "max_latitude": 43.5934076,
+      "max_longitude": 21.3534361
+    },
     "translations": {
       "en": "Rasina",
       "ar": "مقاطعة راسينا",
@@ -1106,20 +1298,30 @@
       "th": "เขตราสินา",
       "tr": "Rasina District",
       "ur": "راسینا ضلع",
-      "vi": "Quận Rasina"
+      "vi": "Quận Rasina",
+      "lv": "Rasinas apgabals",
+      "sr_Latn": "Rasinski upravni okrug",
+      "lt": "Rasinos apskritis",
+      "zh": "拉辛那州",
+      "ccp": "𑄢𑄥𑄨𑄚",
+      "uk": "Район Расина",
+      "mn": "Расин аймаг",
+      "bs": "Rasinski okrug"
     },
-    "geo": {
-      "latitude": 43.5789182,
-      "longitude": 21.3484472,
-      "min_latitude": 43.5644288,
-      "min_longitude": 21.3434582,
-      "max_latitude": 43.5934076,
-      "max_longitude": 21.3534361
-    },
-    "name": "Rasina"
+    "comments": null
   },
   "20": {
+    "name": "Nišava",
+    "code": null,
     "unofficial_names": "Nišava",
+    "geo": {
+      "latitude": 43.3738902,
+      "longitude": 21.9322331,
+      "min_latitude": 43.075654,
+      "min_longitude": 21.4754701,
+      "max_latitude": 43.82438,
+      "max_longitude": 22.3710859
+    },
     "translations": {
       "en": "Nišava",
       "ar": "مقاطعة نيشافا",
@@ -1161,20 +1363,29 @@
       "th": "เขตนิชาวา",
       "tr": "Nišava İlçesi",
       "ur": "نیشاوا ضلع",
-      "vi": "Quận Nisava"
+      "vi": "Quận Nisava",
+      "lv": "Nišavas apgabals",
+      "ceb": "Nišavski Okrug",
+      "sr_Latn": "Nišavski upravni okrug",
+      "lt": "Nišavos apskritis",
+      "zh": "尼沙瓦州",
+      "ccp": "𑄚𑄨𑄥𑄞",
+      "uk": "Нишавський район"
     },
-    "geo": {
-      "latitude": 43.3738902,
-      "longitude": 21.9322331,
-      "min_latitude": 43.075654,
-      "min_longitude": 21.4754701,
-      "max_latitude": 43.82438,
-      "max_longitude": 22.3710859
-    },
-    "name": "Nišava"
+    "comments": null
   },
   "21": {
+    "name": "Toplica",
+    "code": null,
     "unofficial_names": "Toplica",
+    "geo": {
+      "latitude": 43.1906592,
+      "longitude": 21.3407762,
+      "min_latitude": 42.868147,
+      "min_longitude": 20.9121709,
+      "max_latitude": 43.4087109,
+      "max_longitude": 21.836189
+    },
     "translations": {
       "en": "Toplica",
       "ar": "مقاطعة توبليكا",
@@ -1213,20 +1424,30 @@
       "th": "เขตโทปิคา",
       "tr": "Toplica Dstrict",
       "ur": "توپلیتسا ضلع",
-      "vi": "Quận Toplica"
+      "vi": "Quận Toplica",
+      "lv": "Toplicas apgabals",
+      "sr_Latn": "Toplički upravni okrug",
+      "lt": "Toplicos apskritis",
+      "zh": "托普利卡州",
+      "sq": "Rrethi Toplica",
+      "ccp": "𑄑𑄧𑄛𑄴𑄣𑄨𑄇",
+      "uk": "Район Топліка",
+      "mn": "Топлич аймаг"
     },
-    "geo": {
-      "latitude": 43.1906592,
-      "longitude": 21.3407762,
-      "min_latitude": 42.868147,
-      "min_longitude": 20.9121709,
-      "max_latitude": 43.4087109,
-      "max_longitude": 21.836189
-    },
-    "name": "Toplica"
+    "comments": null
   },
   "22": {
+    "name": "Pirot",
+    "code": null,
     "unofficial_names": "Pirot",
+    "geo": {
+      "latitude": 43.1557012,
+      "longitude": 22.5856812,
+      "min_latitude": 43.1039909,
+      "min_longitude": 22.5426578,
+      "max_latitude": 43.2034866,
+      "max_longitude": 22.6113225
+    },
     "translations": {
       "en": "Pirot",
       "ar": "مقاطعة بيروت",
@@ -1265,20 +1486,29 @@
       "th": "เขตไพรอท",
       "tr": "Pirot İlçesi",
       "ur": "پیروت ضلع",
-      "vi": "Quận Pirot"
+      "vi": "Quận Pirot",
+      "lv": "Pirotas apgabals",
+      "sr_Latn": "Pirotski upravni okrug",
+      "lt": "Piroto apskritis",
+      "zh": "皮羅特州",
+      "ccp": "𑄛𑄭𑄢𑄧𑄖𑄴",
+      "uk": "Район Пірот",
+      "mn": "Пирот аймаг"
     },
-    "geo": {
-      "latitude": 43.1557012,
-      "longitude": 22.5856812,
-      "min_latitude": 43.1039909,
-      "min_longitude": 22.5426578,
-      "max_latitude": 43.2034866,
-      "max_longitude": 22.6113225
-    },
-    "name": "Pirot"
+    "comments": null
   },
   "23": {
+    "name": "Jablanica",
+    "code": null,
     "unofficial_names": "Jablanica",
+    "geo": {
+      "latitude": 43.443889,
+      "longitude": 21.271389,
+      "min_latitude": 43.3905789,
+      "min_longitude": 21.2557983,
+      "max_latitude": 43.47304099999999,
+      "max_longitude": 21.3261795
+    },
     "translations": {
       "en": "Jablanica",
       "ar": "محافظة يابلانيكا",
@@ -1320,20 +1550,31 @@
       "th": "จาบลานิคา",
       "tr": "Jablanica İlçesi",
       "ur": "جبلانیکاضلع",
-      "vi": "Quận Jablanica"
+      "vi": "Quận Jablanica",
+      "lv": "Jablanikas distrikts",
+      "sr_Latn": "Jablanički upravni okrug",
+      "lt": "Jablanikos apskritis",
+      "zh": "雅布蘭尼卡州",
+      "sq": "Rrethi Jablanica",
+      "ccp": "𑄎𑄚𑄴𑄣𑄚𑄨𑄇",
+      "uk": "Район Ябланіка",
+      "mn": "Ябланич аймаг",
+      "mk": "Јабланички округ"
     },
-    "geo": {
-      "latitude": 43.443889,
-      "longitude": 21.271389,
-      "min_latitude": 43.3905789,
-      "min_longitude": 21.2557983,
-      "max_latitude": 43.47304099999999,
-      "max_longitude": 21.3261795
-    },
-    "name": "Jablanica"
+    "comments": null
   },
   "24": {
+    "name": "Pcinja",
+    "code": null,
     "unofficial_names": "Pcinja",
+    "geo": {
+      "latitude": 42.5836362,
+      "longitude": 22.1430215,
+      "min_latitude": 42.2448299,
+      "min_longitude": 21.526959,
+      "max_latitude": 42.8436209,
+      "max_longitude": 22.5690361
+    },
     "translations": {
       "en": "Pčinja",
       "ar": "مقاطعة باتشبنيا",
@@ -1372,20 +1613,30 @@
       "th": "เขตพซินจา",
       "tr": "Pčinja İlçesi",
       "ur": "پچینیا ضلع",
-      "vi": "Quận Pcinja"
+      "vi": "Quận Pcinja",
+      "lv": "Pčiņas apgabals",
+      "sr_Latn": "Pčinjski upravni okrug",
+      "lt": "Pčinjos apskritis",
+      "zh": "普奇尼亞州",
+      "sq": "Qarku i Pçinjës",
+      "ccp": "𑄥𑄨𑄚𑄴𑄎",
+      "uk": "Район Пчінья",
+      "mk": "Пчињски округ"
     },
-    "geo": {
-      "latitude": 42.5836362,
-      "longitude": 22.1430215,
-      "min_latitude": 42.2448299,
-      "min_longitude": 21.526959,
-      "max_latitude": 42.8436209,
-      "max_longitude": 22.5690361
-    },
-    "name": "Pcinja"
+    "comments": null
   },
   "25": {
+    "name": "Kosovo",
+    "code": null,
     "unofficial_names": "Kosovo",
+    "geo": {
+      "latitude": 44.016521,
+      "longitude": 21.005859,
+      "min_latitude": 42.231503,
+      "min_longitude": 18.8385221,
+      "max_latitude": 46.190032,
+      "max_longitude": 23.0063095
+    },
     "translations": {
       "en": "Kosovo",
       "ca": "Districte de Kosovo",
@@ -1402,20 +1653,27 @@
       "ru": "Косовский округ",
       "sr": "Косовски управни округ",
       "tr": "Kosova İlçesi",
-      "ur": "کوسووہ ضلع"
+      "ur": "کوسووہ ضلع",
+      "sr_Latn": "Kosovski upravni okrug",
+      "zh": "科索沃州",
+      "ccp": "𑄇𑄧𑄥𑄮𑄞𑄮",
+      "es": "distrito de Kosovo",
+      "mn": "Косов аймаг"
     },
-    "geo": {
-      "latitude": 44.016521,
-      "longitude": 21.005859,
-      "min_latitude": 42.231503,
-      "min_longitude": 18.8385221,
-      "max_latitude": 46.190032,
-      "max_longitude": 23.0063095
-    },
-    "name": "Kosovo"
+    "comments": null
   },
   "26": {
+    "name": "Pec´",
+    "code": null,
     "unofficial_names": "Pec´",
+    "geo": {
+      "latitude": 43.5725,
+      "longitude": 19.8797222,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Peć",
       "ca": "Districte de Peć",
@@ -1426,20 +1684,27 @@
       "ru": "Печский округ",
       "sr": "Пећки управни округ",
       "uk": "Пецький округ",
-      "ur": "پیچ ضلع"
+      "ur": "پیچ ضلع",
+      "sr_Latn": "Pećki upravni okrug",
+      "ccp": "𑄛𑄬𑄇𑄴",
+      "fr": "Peć",
+      "mn": "Печ аймаг",
+      "be": "Печская акруга"
     },
+    "comments": null
+  },
+  "27": {
+    "name": "Prizren",
+    "code": null,
+    "unofficial_names": "Prizren",
     "geo": {
-      "latitude": 43.5725,
-      "longitude": 19.8797222,
+      "latitude": 43.6930556,
+      "longitude": 19.28,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Pec´"
-  },
-  "27": {
-    "unofficial_names": "Prizren",
     "translations": {
       "en": "Prizren",
       "ca": "Districte de Prizren (Sèrbia)",
@@ -1453,29 +1718,17 @@
       "ru": "Призренский округ",
       "sr": "Призренски управни округ",
       "uk": "Прізренський округ",
-      "ur": "پریزرین ضلع"
+      "ur": "پریزرین ضلع",
+      "sr_Latn": "Prizrenski upravni okrug",
+      "ccp": "𑄛𑄳𑄢𑄭𑄌𑄴𑄢𑄬𑄚𑄴",
+      "mn": "Призрен аймаг"
     },
-    "geo": {
-      "latitude": 43.6930556,
-      "longitude": 19.28,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Prizren"
+    "comments": null
   },
   "28": {
+    "name": "Kosovska Mitrovica",
+    "code": null,
     "unofficial_names": "Kosovska Mitrovica",
-    "translations": {
-      "en": "Kosovska Mitrovica",
-      "ca": "Districte de Kosovska Mitrovica",
-      "de": "Okrug Kosovska Mitrovica",
-      "ko": "코소브스카미트로비차 구",
-      "nl": "Kosovskomitrovački upravni okrug",
-      "sr": "Косовскомитровачки управни округ",
-      "ur": "کوسووسکا میتروویتسا ضلع"
-    },
     "geo": {
       "latitude": 44.9980615,
       "longitude": 19.8087171,
@@ -1484,10 +1737,34 @@
       "max_latitude": 44.998271,
       "max_longitude": 19.815715
     },
-    "name": "Kosovska Mitrovica"
+    "translations": {
+      "en": "Kosovska Mitrovica",
+      "ca": "Districte de Kosovska Mitrovica",
+      "de": "Okrug Kosovska Mitrovica",
+      "ko": "코소브스카미트로비차 구",
+      "nl": "Kosovskomitrovački upravni okrug",
+      "sr": "Косовскомитровачки управни округ",
+      "ur": "کوسووسکا میتروویتسا ضلع",
+      "sr_Latn": "Kosovskomitrovački upravni okrug",
+      "zh": "科索夫斯卡米特罗维察州",
+      "ccp": "𑄇𑄧𑄥𑄮𑄛𑄴𑄌𑄳𑄇 𑄟𑄨𑄑𑄳𑄢𑄮𑄞𑄨𑄇",
+      "fr": "Kosovska Mitrovica",
+      "mn": "Косов-Митровиц аймаг"
+    },
+    "comments": null
   },
   "29": {
+    "name": "Kosovo-Pomoravlje",
+    "code": null,
     "unofficial_names": "Kosovo-Pomoravlje",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Kosovo-Pomoravlje",
       "ca": "Districte de Kosovo-Pomoravlje",
@@ -1500,8 +1777,19 @@
       "pl": "Okręg Kosovo-Pomoravlje",
       "ru": "Косовско-Поморавский округ",
       "sr": "Косовскопоморавски управни округ",
-      "ur": "کوسووہ پوموراولیے ضلع"
+      "ur": "کوسووہ پوموراولیے ضلع",
+      "sr_Latn": "Kosovskopomoravski upravni okrug",
+      "zh": "科索沃-波莫拉夫列州",
+      "sq": "Anamorava",
+      "ccp": "𑄇𑄧𑄥𑄮𑄞𑄮 𑄛𑄧𑄟𑄮𑄢𑄛𑄴𑄎𑄬",
+      "mn": "Косов-Поморав аймаг"
     },
+    "comments": null
+  },
+  "VO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -1510,9 +1798,6 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Kosovo-Pomoravlje"
-  },
-  "VO": {
     "translations": {
       "af": "Vojvodina",
       "ar": "فويفودينا",
@@ -1560,10 +1845,35 @@
       "tr": "Voyvodina",
       "uk": "Воєводина",
       "ur": "وئوودینا",
-      "vi": "Vojvodina"
-    }
+      "vi": "Vojvodina",
+      "cy": "Vojvodina",
+      "ceb": "Autonomna Pokrajina Vojvodina",
+      "sr_Latn": "Vojvodina",
+      "ta": "வொய்வொதீனா",
+      "zh": "伏伊伏丁那",
+      "jv": "Vojvodina",
+      "sq": "Vojvodina",
+      "ccp": "𑄞𑄮𑄌𑄴𑄞𑄮𑄓𑄨𑄚",
+      "ga": "An Vóvaidín",
+      "yo": "Vojvodina",
+      "uz": "Voyevodina",
+      "bs": "Vojvodina",
+      "mk": "Војводина"
+    },
+    "comments": null
   },
   "KM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Косава і Мятохія",
       "ca": "Província autònoma de Kosovo i Metòkhia",
@@ -1584,8 +1894,17 @@
       "ru": "Косово и Метохия",
       "sr": "Косово и Метохија",
       "tr": "Kosova ve Metohiya Özerk Bölgesi",
-      "uk": "Автономний край Косово і Метохія"
-    }
+      "uk": "Автономний край Косово і Метохія",
+      "ar": "مقاطعة كوسوفو وميتوهيا المتمتعة بالحكم الذاتي",
+      "sr_Latn": "Kosovo i Metohija",
+      "zh": "科索沃和梅托希亚自治省",
+      "sq": "Krahina Autonome e Kosovës dhe Metohisë",
+      "ccp": "𑄇𑄧𑄥𑄮𑄞𑄬-𑄟𑄬𑄑𑄮𑄦𑄨𑄎",
+      "id": "Kosovo dan Metohija",
+      "az": "Kosova ve Metohiya muxtar vilayəti",
+      "mn": "Косов-Метох"
+    },
+    "comments": null
   }
 }
 

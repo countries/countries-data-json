@@ -1,9 +1,8 @@
 {
   "M": {
+    "name": "Miquelon",
+    "code": null,
     "unofficial_names": "Miquelon",
-    "translations": {
-      "en": "Miquelon"
-    },
     "geo": {
       "latitude": 46.95612,
       "longitude": -56.32656,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Miquelon",
+    "translations": {
+      "en": "Miquelon"
+    },
     "comments": null
   },
   "P": {
+    "name": "Saint Pierre",
+    "code": null,
     "unofficial_names": "Saint Pierre",
-    "translations": {
-      "en": "Saint Pierre"
-    },
     "geo": {
       "latitude": 46.78333,
       "longitude": -56.2,
@@ -28,7 +28,22 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint Pierre",
+    "translations": {
+      "en": "Saint Pierre"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 46.18353279999999,
+      "longitude": 1.8811603
+    },
+    "translations": {
+      "en": "St. Pierre & Miquelon"
+    },
     "comments": null
   }
 }

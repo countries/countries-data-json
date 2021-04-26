@@ -1,5 +1,7 @@
 {
   "13": {
+    "name": "Al Manamah (Al ‘Asimah)",
+    "code": null,
     "unofficial_names": [
       "Manāmah",
       "al-Manāmah",
@@ -7,6 +9,14 @@
       "Manama",
       "Manama"
     ],
+    "geo": {
+      "latitude": 26.2285161,
+      "longitude": 50.5860497,
+      "min_latitude": 26.1945071,
+      "min_longitude": 50.51370679999999,
+      "max_latitude": 26.247324,
+      "max_longitude": 50.6259022
+    },
     "translations": {
       "en": "Capital",
       "ar": "محافظة العاصمة",
@@ -29,19 +39,18 @@
       "sv": "Capital Governorate",
       "uk": "Столична мухафаза",
       "ur": "محافظہ دارالحکومت، بحرین",
-      "zh": "首都省"
+      "zh": "首都省",
+      "ceb": "Capital Governorate",
+      "ccp": "𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴",
+      "eu": "Hiriburuaren eskualdea",
+      "de": "Hauptstadt-Gouvernement",
+      "ca": "Governació de la Capital"
     },
-    "geo": {
-      "latitude": 26.2285161,
-      "longitude": 50.5860497,
-      "min_latitude": 26.1945071,
-      "min_longitude": 50.51370679999999,
-      "max_latitude": 26.247324,
-      "max_longitude": 50.6259022
-    },
-    "name": "Al Manamah (Al ‘Asimah)"
+    "comments": null
   },
   "14": {
+    "name": "Al Janubiyah",
+    "code": null,
     "unofficial_names": [
       "Eastern",
       "Hawa",
@@ -50,6 +59,14 @@
       "ash Sharqiyah",
       "aš-Šarqīyah"
     ],
+    "geo": {
+      "latitude": 25.9381018,
+      "longitude": 50.5756887,
+      "min_latitude": 25.5798401,
+      "min_longitude": 50.4545967,
+      "max_latitude": 26.138158,
+      "max_longitude": 50.8223101
+    },
     "translations": {
       "en": "Southern",
       "ar": "جنوبية",
@@ -71,20 +88,28 @@
       "ru": "Южная мухафаза",
       "sv": "Southern Governorate",
       "tr": "Güney Valiliği",
-      "ur": "محافظہ جنوبیہ"
+      "ur": "محافظہ جنوبیہ",
+      "ceb": "Southern Governorate",
+      "zh": "南方省",
+      "ccp": "𑄥𑄅𑄪𑄘𑄢𑄳𑄚𑄴",
+      "hy": "Հարավային մուհաֆազա",
+      "eu": "Hegoaldeko eskualdea",
+      "ca": "Governació del Sud"
     },
-    "geo": {
-      "latitude": 25.9381018,
-      "longitude": 50.5756887,
-      "min_latitude": 25.5798401,
-      "min_longitude": 50.4545967,
-      "max_latitude": 26.138158,
-      "max_longitude": 50.8223101
-    },
-    "name": "Al Janubiyah"
+    "comments": null
   },
   "15": {
+    "name": "Al Muharraq",
+    "code": null,
     "unofficial_names": "Al Muharraq",
+    "geo": {
+      "latitude": 26.266941,
+      "longitude": 50.63839,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Muharraq",
       "ar": "محافظة المحرق",
@@ -122,26 +147,23 @@
       "th": "เขตมุฮัรร็อก",
       "tr": "Muharraq Yönetimi",
       "ur": "محافظہ محرق",
-      "vi": "Tỉnh Muharraq"
+      "vi": "Tỉnh Muharraq",
+      "lv": "Muharrakas muhāfaza",
+      "ceb": "Muharraq Governorate",
+      "zh": "穆哈拉格省",
+      "ccp": "𑄟𑄪𑄦𑄢𑄇𑄴",
+      "eu": "Muharraq eskualdea",
+      "uk": "Муніципалітет Мухаррак"
     },
-    "geo": {
-      "latitude": 26.266941,
-      "longitude": 50.63839,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Al Muharraq"
+    "comments": null
   },
   "16": {
+    "name": "Al Wustá",
+    "code": null,
     "unofficial_names": [
       "Central",
       "al-Mintaqah al-Wusta"
     ],
-    "translations": {
-      "en": "Central"
-    },
     "geo": {
       "latitude": 26.1426093,
       "longitude": 50.5653294,
@@ -150,14 +172,28 @@
       "max_latitude": 26.1932879,
       "max_longitude": 50.671664
     },
-    "name": "Al Wustá"
+    "translations": {
+      "en": "Central",
+      "ccp": "𑄥𑄬𑄚𑄑𑄳𑄢𑄣𑄴"
+    },
+    "comments": null
   },
   "17": {
+    "name": "Ash Shamaliyah",
+    "code": null,
     "unofficial_names": [
       "Northern",
       "al-Mintaqa ash Shamaliyah",
       "ash Shamaliyah"
     ],
+    "geo": {
+      "latitude": 26.1551914,
+      "longitude": 50.4825173,
+      "min_latitude": 26.04768,
+      "min_longitude": 50.3788254,
+      "max_latitude": 26.235592,
+      "max_longitude": 50.5664624
+    },
     "translations": {
       "en": "Northern",
       "ar": "شمالية",
@@ -179,17 +215,14 @@
       "ru": "Северная мухафаза",
       "sv": "Northern Governorate",
       "tr": "Kuzey Valiliği",
-      "ur": "محافظہ شمالیہ"
+      "ur": "محافظہ شمالیہ",
+      "ceb": "Northern Governorate",
+      "zh": "北方省",
+      "ccp": "𑄚𑄧𑄢𑄴𑄘𑄢𑄳𑄚𑄴",
+      "eu": "Iparraldeko eskualdea",
+      "ca": "Governació del Nord"
     },
-    "geo": {
-      "latitude": 26.1551914,
-      "longitude": 50.4825173,
-      "min_latitude": 26.04768,
-      "min_longitude": 50.3788254,
-      "max_latitude": 26.235592,
-      "max_longitude": 50.5664624
-    },
-    "name": "Ash Shamaliyah"
+    "comments": null
   }
 }
 

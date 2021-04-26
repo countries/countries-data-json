@@ -1,6 +1,16 @@
 {
   "C": {
+    "name": "Centre",
+    "code": null,
     "unofficial_names": "Centre",
+    "geo": {
+      "latitude": 8.6586029,
+      "longitude": 1.0586135,
+      "min_latitude": 7.9023141,
+      "min_longitude": 0.3816739,
+      "max_latitude": 9.296292,
+      "max_longitude": 1.650187
+    },
     "translations": {
       "en": "Centrale",
       "ar": "الإقليم الأوسط",
@@ -38,20 +48,25 @@
       "uk": "Центральний регіон",
       "ur": "سونترال علاقہ، ٹوگو",
       "vi": "Centrale",
-      "zh": "中部区"
+      "zh": "中部区",
+      "lv": "Centrālais reģions",
+      "ceb": "Centrale",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴"
     },
-    "geo": {
-      "latitude": 8.6586029,
-      "longitude": 1.0586135,
-      "min_latitude": 7.9023141,
-      "min_longitude": 0.3816739,
-      "max_latitude": 9.296292,
-      "max_longitude": 1.650187
-    },
-    "name": "Centre"
+    "comments": null
   },
   "K": {
+    "name": "Kara",
+    "code": null,
     "unofficial_names": "Kara",
+    "geo": {
+      "latitude": 9.548888999999999,
+      "longitude": 1.190556,
+      "min_latitude": 9.534310099999999,
+      "min_longitude": 1.1657524,
+      "max_latitude": 9.5661352,
+      "max_longitude": 1.2201691
+    },
     "translations": {
       "en": "Kara",
       "ar": "إقليم كارا",
@@ -89,20 +104,27 @@
       "tr": "Kara",
       "uk": "Регіон Кари",
       "ur": "کارا علاقہ",
-      "vi": "Kara"
+      "vi": "Kara",
+      "lv": "Karas reģions",
+      "ceb": "Kara",
+      "zh": "卡拉区",
+      "sq": "Kara",
+      "ccp": "𑄇𑄢"
     },
-    "geo": {
-      "latitude": 9.548888999999999,
-      "longitude": 1.190556,
-      "min_latitude": 9.534310099999999,
-      "min_longitude": 1.1657524,
-      "max_latitude": 9.5661352,
-      "max_longitude": 1.2201691
-    },
-    "name": "Kara"
+    "comments": null
   },
   "M": {
+    "name": "Maritime (Région)",
+    "code": null,
     "unofficial_names": "Maritime (Région)",
+    "geo": {
+      "latitude": 6.4913504,
+      "longitude": 1.2891036,
+      "min_latitude": 6.109153399999999,
+      "min_longitude": 0.717368,
+      "max_latitude": 6.918175,
+      "max_longitude": 1.806693
+    },
     "translations": {
       "en": "Maritime",
       "ar": "إقليم البحرية",
@@ -142,20 +164,26 @@
       "tr": "Maritime",
       "uk": "Марітіме",
       "ur": "میری ٹائم علاقہ",
-      "vi": "Maritime"
+      "vi": "Maritime",
+      "lv": "Piejūras reģions",
+      "ceb": "Maritime",
+      "zh": "濱海區",
+      "ccp": "𑄟𑄬𑄢𑄨𑄑𑄭𑄟𑄴"
     },
-    "geo": {
-      "latitude": 6.4913504,
-      "longitude": 1.2891036,
-      "min_latitude": 6.109153399999999,
-      "min_longitude": 0.717368,
-      "max_latitude": 6.918175,
-      "max_longitude": 1.806693
-    },
-    "name": "Maritime (Région)"
+    "comments": null
   },
   "P": {
+    "name": "Plateaux",
+    "code": null,
     "unofficial_names": "Plateaux",
+    "geo": {
+      "latitude": 7.6101378,
+      "longitude": 1.0586135,
+      "min_latitude": 6.542187,
+      "min_longitude": 0.501813,
+      "max_latitude": 8.368130899999999,
+      "max_longitude": 1.677525
+    },
     "translations": {
       "en": "Plateaux",
       "ar": "إقليم بلاتيوكس",
@@ -191,20 +219,26 @@
       "tr": "Plateaux",
       "uk": "Регіон Плато",
       "ur": "پلاٹوس علاقہ، ٹوگو",
-      "vi": "Plateaux"
+      "vi": "Plateaux",
+      "lv": "Plato reģions",
+      "ceb": "Plateaux",
+      "zh": "高原區",
+      "ccp": "𑄛𑄳𑄣𑄑𑄨𑄠𑄇𑄴"
     },
-    "geo": {
-      "latitude": 7.6101378,
-      "longitude": 1.0586135,
-      "min_latitude": 6.542187,
-      "min_longitude": 0.501813,
-      "max_latitude": 8.368130899999999,
-      "max_longitude": 1.677525
-    },
-    "name": "Plateaux"
+    "comments": null
   },
   "S": {
+    "name": "Savannes",
+    "code": null,
     "unofficial_names": "Savannes",
+    "geo": {
+      "latitude": 10.5291781,
+      "longitude": 0.5257822999999999,
+      "min_latitude": 9.879532,
+      "min_longitude": -0.1473239,
+      "max_latitude": 11.138977,
+      "max_longitude": 0.9969091000000001
+    },
     "translations": {
       "en": "Savanes",
       "ar": "إقليم سافانس",
@@ -241,17 +275,13 @@
       "tr": "Savanes",
       "uk": "Регіон Саванн",
       "ur": "ساوانیس علاقہ، ٹوگو",
-      "vi": "Savanes"
+      "vi": "Savanes",
+      "lv": "Savanes reģions",
+      "ceb": "Savanes",
+      "zh": "草原區",
+      "ccp": "𑄥𑄝𑄚𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 10.5291781,
-      "longitude": 0.5257822999999999,
-      "min_latitude": 9.879532,
-      "min_longitude": -0.1473239,
-      "max_latitude": 11.138977,
-      "max_longitude": 0.9969091000000001
-    },
-    "name": "Savannes"
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "03": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
+    "geo": {
+      "latitude": 17.1078489,
+      "longitude": -61.7882743,
+      "min_latitude": 17.0828211,
+      "min_longitude": -61.8104881,
+      "max_latitude": 17.1695276,
+      "max_longitude": -61.74657209999999
+    },
     "translations": {
       "en": "Saint George",
       "ar": "أبرشية القديس جورج",
@@ -37,21 +47,27 @@
       "tr": "Saint George Parish",
       "ur": "سینٹ جارج پیرش، اینٹیگوا و باربوڈا",
       "vi": "Giáo xứ Saint George",
-      "zh": "聖喬治區"
+      "zh": "聖喬治區",
+      "ceb": "Parish of Saint George",
+      "sr_Latn": "Sent Džordž",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄢𑄳𑄎𑄴",
+      "uk": "Парафія Сент-Джордж",
+      "ca": "Parròquia de Saint George"
     },
-    "geo": {
-      "latitude": 17.1078489,
-      "longitude": -61.7882743,
-      "min_latitude": 17.0828211,
-      "min_longitude": -61.8104881,
-      "max_latitude": 17.1695276,
-      "max_longitude": -61.74657209999999
-    },
-    "name": "Saint George",
     "comments": null
   },
   "04": {
+    "name": "Saint John’s",
+    "code": null,
     "unofficial_names": "Saint John’s",
+    "geo": {
+      "latitude": 17.116667,
+      "longitude": -61.84999999999999,
+      "min_latitude": 17.1079801,
+      "min_longitude": -61.8614586,
+      "max_latitude": 17.1409954,
+      "max_longitude": -61.8271922
+    },
     "translations": {
       "en": "Saint John",
       "de": "Saint John",
@@ -72,21 +88,28 @@
       "ro": "Parohia Saint John",
       "sr": "Сент Џон",
       "sv": "Parish of Saint John",
-      "ur": "سینٹ جان پیرش، اینٹیگوا و باربوڈا"
+      "ur": "سینٹ جان پیرش، اینٹیگوا و باربوڈا",
+      "ceb": "Parish of Saint John (parokya sa Antigua ug Barbuda)",
+      "sr_Latn": "Sent Džon",
+      "zh": "圣约翰区",
+      "ja": "セント・ジョン教区",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄚𑄴",
+      "ca": "Parròquia de Saint John"
     },
-    "geo": {
-      "latitude": 17.116667,
-      "longitude": -61.84999999999999,
-      "min_latitude": 17.1079801,
-      "min_longitude": -61.8614586,
-      "max_latitude": 17.1409954,
-      "max_longitude": -61.8271922
-    },
-    "name": "Saint John’s",
     "comments": null
   },
   "05": {
+    "name": "Saint Mary",
+    "code": null,
     "unofficial_names": "Saint Mary",
+    "geo": {
+      "latitude": 17.0512064,
+      "longitude": -61.87602829999999,
+      "min_latitude": 17.0037693,
+      "min_longitude": -61.905935,
+      "max_latitude": 17.105279,
+      "max_longitude": -61.805473
+    },
     "translations": {
       "en": "Saint Mary",
       "ar": "أبرشية سانت ماري",
@@ -123,21 +146,28 @@
       "th": "ตำบลเซนต์ แมรี่",
       "tr": "Saint Mary Parish",
       "ur": "سینٹ میری پیرش، اینٹیگوا و باربوڈا",
-      "vi": "Giáo xứ Saint Mary"
+      "vi": "Giáo xứ Saint Mary",
+      "ceb": "Parish of Saint Mary",
+      "sr_Latn": "Sent Meri",
+      "zh": "聖瑪麗區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄟𑄬𑄢𑄨",
+      "uk": "Парафія Сент-Мері",
+      "ca": "Parròquia de Saint Mary"
     },
-    "geo": {
-      "latitude": 17.0512064,
-      "longitude": -61.87602829999999,
-      "min_latitude": 17.0037693,
-      "min_longitude": -61.905935,
-      "max_latitude": 17.105279,
-      "max_longitude": -61.805473
-    },
-    "name": "Saint Mary",
     "comments": null
   },
   "06": {
+    "name": "Saint Paul",
+    "code": null,
     "unofficial_names": "Saint Paul",
+    "geo": {
+      "latitude": 17.0371588,
+      "longitude": -61.7824256,
+      "min_latitude": 16.99795,
+      "min_longitude": -61.81293110000001,
+      "max_latitude": 17.065935,
+      "max_longitude": -61.73061
+    },
     "translations": {
       "en": "Saint Paul",
       "ar": "أبرشية القديس بول",
@@ -173,21 +203,28 @@
       "th": "เซนต์พอล",
       "tr": "Saint Paul PArish",
       "ur": "سینٹ پال پیرش",
-      "vi": "Giáo xứ Saint Paul"
+      "vi": "Giáo xứ Saint Paul",
+      "ceb": "Parish of Saint Paul",
+      "sr_Latn": "Sent Pol",
+      "zh": "聖保羅區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄧𑄣𑄴",
+      "uk": "Парафія Сент-Пол",
+      "ca": "Parròquia de Saint Paul"
     },
-    "geo": {
-      "latitude": 17.0371588,
-      "longitude": -61.7824256,
-      "min_latitude": 16.99795,
-      "min_longitude": -61.81293110000001,
-      "max_latitude": 17.065935,
-      "max_longitude": -61.73061
-    },
-    "name": "Saint Paul",
     "comments": null
   },
   "07": {
+    "name": "Saint Peter",
+    "code": null,
     "unofficial_names": "Saint Peter",
+    "geo": {
+      "latitude": 17.0980665,
+      "longitude": -61.75903289999999,
+      "min_latitude": 17.062068,
+      "min_longitude": -61.787629,
+      "max_latitude": 17.1485654,
+      "max_longitude": -61.71377
+    },
     "translations": {
       "en": "Saint Peter",
       "ar": "أبرشية القديس بيتر",
@@ -223,21 +260,28 @@
       "th": "ตำบลเซนต์ปีเตอร์",
       "tr": "Saint Peter Parish",
       "ur": "سینٹ پیٹر پیرش، اینٹیگوا و باربوڈا",
-      "vi": "Giáo xứ Saint Peter"
+      "vi": "Giáo xứ Saint Peter",
+      "ceb": "Parish of Saint Peter",
+      "sr_Latn": "Sent Piter",
+      "zh": "聖彼得區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄨𑄑𑄢𑄴",
+      "uk": "Парафія Сент-Пітер",
+      "ca": "Parròquia de Saint Peter"
     },
-    "geo": {
-      "latitude": 17.0980665,
-      "longitude": -61.75903289999999,
-      "min_latitude": 17.062068,
-      "min_longitude": -61.787629,
-      "max_latitude": 17.1485654,
-      "max_longitude": -61.71377
-    },
-    "name": "Saint Peter",
     "comments": null
   },
   "08": {
+    "name": "Saint Philip",
+    "code": null,
     "unofficial_names": "Saint Philip",
+    "geo": {
+      "latitude": 17.0480636,
+      "longitude": -61.71225699999999,
+      "min_latitude": 17.0310207,
+      "min_longitude": -61.74468299999999,
+      "max_latitude": 17.1040329,
+      "max_longitude": -61.660976
+    },
     "translations": {
       "en": "Saint Philip",
       "ar": "أبرشية سانت فيليب، أنتيغوا وبربودا",
@@ -273,21 +317,28 @@
       "th": "ตำบลเซนต์ ฟิลิป",
       "tr": "Saint Philip Paris",
       "ur": "سینٹ فلپ پیرش، اینٹیگوا و باربوڈا",
-      "vi": "Giáo xứ Saint Philip"
+      "vi": "Giáo xứ Saint Philip",
+      "ceb": "Parish of Saint Philip",
+      "sr_Latn": "Sent Filip",
+      "zh": "聖菲利普區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄜𑄨𑄣𑄨𑄛𑄴",
+      "uk": "Парафія Сент-Філіп",
+      "ca": "Parròquia de Saint Philip"
     },
-    "geo": {
-      "latitude": 17.0480636,
-      "longitude": -61.71225699999999,
-      "min_latitude": 17.0310207,
-      "min_longitude": -61.74468299999999,
-      "max_latitude": 17.1040329,
-      "max_longitude": -61.660976
-    },
-    "name": "Saint Philip",
     "comments": null
   },
   "10": {
+    "name": "Barbuda",
+    "code": null,
     "unofficial_names": "Barbuda",
+    "geo": {
+      "latitude": 17.626798,
+      "longitude": -61.7707288,
+      "min_latitude": 17.5437252,
+      "min_longitude": -61.885789,
+      "max_latitude": 17.7293354,
+      "max_longitude": -61.7318075
+    },
     "translations": {
       "en": "Barbuda",
       "ar": "بربودا",
@@ -333,24 +384,25 @@
       "tr": "Barbuda",
       "uk": "Барбуда",
       "ur": "باربوڈا",
-      "vi": "Barbuda"
+      "vi": "Barbuda",
+      "lv": "Barbuda",
+      "cy": "Barbuda",
+      "ceb": "Barbuda (parokya sa Antigua ug Barbuda)",
+      "sr_Latn": "Barbuda",
+      "zh": "巴布達島",
+      "yue_Hans": "巴布达岛",
+      "ccp": "𑄝𑄢𑄴𑄝𑄪𑄘",
+      "hu": "Barbuda",
+      "yue": "巴布達島",
+      "yo": "Bàrbúdà",
+      "mk": "Барбуда"
     },
-    "geo": {
-      "latitude": 17.626798,
-      "longitude": -61.7707288,
-      "min_latitude": 17.5437252,
-      "min_longitude": -61.885789,
-      "max_latitude": 17.7293354,
-      "max_longitude": -61.7318075
-    },
-    "name": "Barbuda",
     "comments": null
   },
   "X2~": {
+    "name": "Redonda",
+    "code": null,
     "unofficial_names": "Redonda",
-    "translations": {
-      "en": "Redonda"
-    },
     "geo": {
       "latitude": 16.938416,
       "longitude": -62.3455148,
@@ -359,10 +411,23 @@
       "max_latitude": 16.9430241,
       "max_longitude": -62.342078
     },
-    "name": "Redonda",
+    "translations": {
+      "en": "Redonda"
+    },
     "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ريدوندا",
       "be": "Востраў Рэдонда",
@@ -406,8 +471,17 @@
       "tr": "Redonda",
       "uk": "Редонда",
       "ur": "ریدوندا",
-      "vi": "Redonda"
-    }
+      "vi": "Redonda",
+      "lv": "Redonda",
+      "ceb": "Redonda",
+      "sr_Latn": "Redonda",
+      "zh": "雷東達島",
+      "ccp": "𑄢𑄬𑄓𑄮𑄚𑄴𑄘",
+      "ga": "Redonda",
+      "kk": "Редонда",
+      "mk": "Редонда"
+    },
+    "comments": null
   }
 }
 

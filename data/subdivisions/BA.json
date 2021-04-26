@@ -1,6 +1,16 @@
 {
   "BIH": {
+    "name": "Federacija Bosna i Hercegovina",
+    "code": null,
     "unofficial_names": "Federacija Bosna i Hercegovina",
+    "geo": {
+      "latitude": 43.8874897,
+      "longitude": 17.842793,
+      "min_latitude": 42.6075035,
+      "min_longitude": 15.7237473,
+      "max_latitude": 45.2271323,
+      "max_longitude": 19.0392512
+    },
     "translations": {
       "en": "Federation of Bosnia and Herzegovina",
       "ar": "اتحاد البوسنة والهرسك",
@@ -42,20 +52,31 @@
       "uk": "Федерація Боснія і Герцеговина",
       "ur": "وفاق بوسنیا و ہرزیگووینا",
       "vi": "Liên bang Bosna và Hercegovina",
-      "zh": "波士尼亞與赫塞哥維納聯邦"
+      "zh": "波士尼亞與赫塞哥維納聯邦",
+      "ceb": "Federation of Bosnia and Herzegovina",
+      "sr_Latn": "Federacija Bosne i Hercegovine",
+      "jv": "Federasi Bosnia Herzegovina",
+      "sq": "Federata e Bosnjës dhe Hercegovinës",
+      "ccp": "𑄜𑄬𑄓𑄢𑄬𑄥𑄧𑄚𑄴 𑄃𑄧𑄛𑄴 𑄝𑄧𑄌𑄴𑄚𑄨𑄠 𑄃𑄬𑄚𑄳𑄓𑄴 𑄦𑄢𑄴𑄎𑄮𑄉𑄧𑄞𑄨𑄚",
+      "hy": "Բոսնիա և Հերցեգովինա ֆեդերացիա",
+      "kk": "Босния және Герцеговина федерациясы",
+      "bs": "Federacija Bosne i Hercegovine",
+      "mk": "Федерација Босна и Херцеговина"
     },
-    "geo": {
-      "latitude": 43.8874897,
-      "longitude": 17.842793,
-      "min_latitude": 42.6075035,
-      "min_longitude": 15.7237473,
-      "max_latitude": 45.2271323,
-      "max_longitude": 19.0392512
-    },
-    "name": "Federacija Bosna i Hercegovina"
+    "comments": null
   },
   "SRP": {
+    "name": "Republika Srpska",
+    "code": null,
     "unofficial_names": "Republika Srpska",
+    "geo": {
+      "latitude": 44.7280186,
+      "longitude": 17.3148136,
+      "min_latitude": 42.5561996,
+      "min_longitude": 16.1924385,
+      "max_latitude": 45.2737124,
+      "max_longitude": 19.6256174
+    },
     "translations": {
       "en": "Republika Srpska",
       "ar": "جمهورية صرب البوسنة",
@@ -103,19 +124,33 @@
       "tr": "Sırp Cumhuriyeti",
       "uk": "Республіка Сербська",
       "ur": "سرپسکا",
-      "vi": "Cộng hòa Srpska"
+      "vi": "Cộng hòa Srpska",
+      "ceb": "Republika Srpska",
+      "yo_BJ": "Sérbíà Orílɛ̀-èdè Olómìnira",
+      "sr_Latn": "Republika Srpska",
+      "zh": "塞族共和國",
+      "jv": "Republika Srpska",
+      "sq": "Republika Serbe",
+      "ccp": "𑄢𑄬𑄛𑄛𑄴𑄣𑄨𑄇 𑄃𑄬𑄌𑄴𑄃𑄢𑄴𑄛𑄨𑄃𑄨𑄌𑄴𑄇𑄳𑄃",
+      "ky": "Серб Республикасы",
+      "yo": "Sérbíà Orílẹ̀-èdè Olómìnira",
+      "bs": "Republika Srpska",
+      "mk": "Република Српска"
     },
-    "geo": {
-      "latitude": 44.7280186,
-      "longitude": 17.3148136,
-      "min_latitude": 42.5561996,
-      "min_longitude": 16.1924385,
-      "max_latitude": 45.2737124,
-      "max_longitude": 19.6256174
-    },
-    "name": "Republika Srpska"
+    "comments": null
   },
   "BRC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة برتشو",
       "be": "Акруга Брчко",
@@ -164,58 +199,199 @@
       "tr": "Brçko Bölgesi",
       "uk": "Округ Брчко",
       "ur": "ضلع برچکو",
-      "vi": "Quận Brčko"
-    }
+      "vi": "Quận Brčko",
+      "ceb": "Brčko (entidad)",
+      "sr_Latn": "Brčko Distrikt",
+      "zh": "布爾奇科特區",
+      "fa": "بخش برچکو",
+      "jv": "Distrik Brčko",
+      "sq": "Distrikti i Brçkos",
+      "ccp": "𑄝𑄳𑄢𑄧𑄇𑄴𑄇𑄮 𑄎𑄬𑄣",
+      "sl": "Distrikt Brčko",
+      "bs": "Brčko Distrikt",
+      "mk": "Брчко"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Una-Sana"
-    }
+      "en": "Una-Sana",
+      "ccp": "𑄅𑄪𑄚-𑄥𑄚"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Posavina"
-    }
+      "en": "Posavina",
+      "ccp": "𑄛𑄧𑄥𑄞𑄨𑄚"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Tuzlanski"
-    }
+      "en": "Tuzlanski",
+      "ccp": "𑄑𑄪𑄌𑄴𑄣𑄚𑄴𑄇𑄨"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Zenica-Doboj"
-    }
+      "en": "Zenica-Doboj",
+      "ccp": "𑄎𑄬𑄚𑄨𑄇-𑄓𑄧𑄝𑄧𑄌𑄴"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Bosnian Podrinje"
-    }
+      "en": "Bosnian Podrinje",
+      "ccp": "𑄝𑄧𑄌𑄴𑄚𑄨𑄠𑄚𑄴 𑄛𑄧𑄖𑄴𑄢𑄨𑄚𑄴𑄎𑄬"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Central Bosnia"
-    }
+      "en": "Central Bosnia",
+      "ccp": "𑄟𑄧𑄌𑄴𑄙𑄳𑄠 𑄝𑄧𑄌𑄴𑄚𑄨𑄠"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Herzegovina-Neretva"
-    }
+      "en": "Herzegovina-Neretva",
+      "ccp": "𑄦𑄢𑄴𑄎𑄬𑄉𑄧𑄞𑄨𑄚-𑄚𑄬𑄢𑄬𑄖𑄴𑄞"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "West Herzegovina"
-    }
+      "en": "West Herzegovina",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄦𑄢𑄴𑄎𑄬𑄉𑄧𑄞𑄨𑄚"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Sarajevo"
-    }
+      "en": "Sarajevo",
+      "ccp": "𑄥𑄢𑄎𑄬𑄞𑄮"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Livanjski"
-    }
+      "en": "Livanjski",
+      "ccp": "𑄣𑄨𑄞𑄧𑄚𑄴𑄇𑄨"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "CA": {
+    "name": "Zambezi",
+    "code": null,
     "unofficial_names": "Zambezi",
+    "geo": {
+      "latitude": -17.8193419,
+      "longitude": 23.9536466,
+      "min_latitude": -18.5040471,
+      "min_longitude": 22.5141629,
+      "max_latitude": -17.476387,
+      "max_longitude": 25.256701
+    },
     "translations": {
       "en": "Zambezi",
       "af": "Caprivi",
@@ -44,20 +54,27 @@
       "uk": "Замбезі",
       "ur": "زامبیزی علاقہ",
       "vi": "Zambezi",
-      "zh": "卡普里维区"
+      "zh": "卡普里维区",
+      "lv": "Zambezi reģions",
+      "ceb": "Zambezi Region",
+      "fa": "منطقه زامبزی",
+      "ccp": "𑄎𑄟𑄴𑄝𑄬𑄎𑄨",
+      "pa": "ਕੈਪ੍ਰੀਵੀ"
     },
-    "geo": {
-      "latitude": -17.8193419,
-      "longitude": 23.9536466,
-      "min_latitude": -18.5040471,
-      "min_longitude": 22.5141629,
-      "max_latitude": -17.476387,
-      "max_longitude": 25.256701
-    },
-    "name": "Zambezi"
+    "comments": null
   },
   "ER": {
+    "name": "Erongo",
+    "code": null,
     "unofficial_names": "Erongo",
+    "geo": {
+      "latitude": -22.2565682,
+      "longitude": 15.4068079,
+      "min_latitude": -23.811575,
+      "min_longitude": 13.629421,
+      "max_latitude": -20.489704,
+      "max_longitude": 16.558625
+    },
     "translations": {
       "en": "Erongo",
       "af": "Erongo",
@@ -100,20 +117,28 @@
       "tr": "Erongo",
       "uk": "Еронго",
       "ur": "عرونگو علاقہ",
-      "vi": "Khu vực Erongo"
+      "vi": "Khu vực Erongo",
+      "lv": "Erongo reģions",
+      "ceb": "Erongo",
+      "zh": "埃龍戈區",
+      "fa": "منطقه ارونگو",
+      "ccp": "𑄃𑄨𑄢𑄮𑄚𑄴𑄉𑄮",
+      "cs": "Erongo"
     },
-    "geo": {
-      "latitude": -22.2565682,
-      "longitude": 15.4068079,
-      "min_latitude": -23.811575,
-      "min_longitude": 13.629421,
-      "max_latitude": -20.489704,
-      "max_longitude": 16.558625
-    },
-    "name": "Erongo"
+    "comments": null
   },
   "HA": {
+    "name": "Hardap",
+    "code": null,
     "unofficial_names": "Hardap",
+    "geo": {
+      "latitude": -24.2310134,
+      "longitude": 17.668887,
+      "min_latitude": -25.870015,
+      "min_longitude": 14.4522353,
+      "max_latitude": -23.165503,
+      "max_longitude": 20.000244
+    },
     "translations": {
       "en": "Hardap",
       "af": "Hardap",
@@ -155,20 +180,27 @@
       "tr": "Hardap",
       "uk": "Хардап",
       "ur": "ہارداپ علاقہ",
-      "vi": "Khu vực Hardap"
+      "vi": "Khu vực Hardap",
+      "lv": "Hardapas reģions",
+      "ceb": "Hardap",
+      "zh": "哈達普區",
+      "fa": "منطقه هارداپ",
+      "ccp": "𑄦𑄢𑄴𑄓𑄛𑄴"
     },
-    "geo": {
-      "latitude": -24.2310134,
-      "longitude": 17.668887,
-      "min_latitude": -25.870015,
-      "min_longitude": 14.4522353,
-      "max_latitude": -23.165503,
-      "max_longitude": 20.000244
-    },
-    "name": "Hardap"
+    "comments": null
   },
   "KA": {
+    "name": "Karas",
+    "code": null,
     "unofficial_names": "Karas",
+    "geo": {
+      "latitude": -26.8429645,
+      "longitude": 17.2902839,
+      "min_latitude": -28.9714299,
+      "min_longitude": 14.8018954,
+      "max_latitude": -25.011831,
+      "max_longitude": 20
+    },
     "translations": {
       "en": "Karas",
       "af": "Karas",
@@ -210,20 +242,27 @@
       "tr": "Karas",
       "uk": "Карас",
       "ur": "کراس ریجن، نمبیا",
-      "vi": "Khu vực Karas"
+      "vi": "Khu vực Karas",
+      "lv": "Karasas reģions",
+      "ceb": "Karas",
+      "zh": "卡拉斯區",
+      "fa": "منطقه کاراس",
+      "ccp": "𑄇𑄢𑄌𑄴"
     },
-    "geo": {
-      "latitude": -26.8429645,
-      "longitude": 17.2902839,
-      "min_latitude": -28.9714299,
-      "min_longitude": 14.8018954,
-      "max_latitude": -25.011831,
-      "max_longitude": 20
-    },
-    "name": "Karas"
+    "comments": null
   },
   "KE": {
+    "name": "Kavango East",
+    "code": null,
     "unofficial_names": "Kavango East",
+    "geo": {
+      "latitude": -18.271048,
+      "longitude": 18.4276047,
+      "min_latitude": -19.1762981,
+      "min_longitude": 17.995449,
+      "max_latitude": -17.393156,
+      "max_longitude": 22.522122
+    },
     "translations": {
       "en": "Kavango East",
       "af": "Kawango-Oos",
@@ -239,8 +278,18 @@
       "pt": "Kavango Oriental",
       "ru": "Восточное Каванго",
       "uk": "Східне Каванго",
-      "ur": "کاوانگو شرقی"
+      "ur": "کاوانگو شرقی",
+      "ceb": "Kavango East Region",
+      "zh": "東卡萬戈區",
+      "fa": "کاوانگو شرقی",
+      "ccp": "𑄇𑄞𑄚𑄴𑄉𑄮 𑄛𑄇𑄴"
     },
+    "comments": null
+  },
+  "KW": {
+    "name": "Kavango West",
+    "code": null,
+    "unofficial_names": "Kavango West",
     "geo": {
       "latitude": -18.271048,
       "longitude": 18.4276047,
@@ -249,10 +298,6 @@
       "max_latitude": -17.393156,
       "max_longitude": 22.522122
     },
-    "name": "Kavango East"
-  },
-  "KW": {
-    "unofficial_names": "Kavango West",
     "translations": {
       "en": "Kavango West",
       "af": "Kawango-Wes",
@@ -268,20 +313,25 @@
       "pt": "Kavango Ocidental",
       "ru": "Западное Каванго",
       "uk": "Західне Каванго",
-      "ur": "کاوانگو غربی"
+      "ur": "کاوانگو غربی",
+      "ceb": "Kavango West Region",
+      "fa": "کاوانگو غربی",
+      "ccp": "𑄇𑄞𑄧𑄚𑄴𑄉𑄮 𑄛𑄧𑄏𑄨𑄟𑄴"
     },
-    "geo": {
-      "latitude": -18.271048,
-      "longitude": 18.4276047,
-      "min_latitude": -19.1762981,
-      "min_longitude": 17.995449,
-      "max_latitude": -17.393156,
-      "max_longitude": 22.522122
-    },
-    "name": "Kavango West"
+    "comments": null
   },
   "KH": {
+    "name": "Khomas",
+    "code": null,
     "unofficial_names": "Khomas",
+    "geo": {
+      "latitude": -22.6377854,
+      "longitude": 17.1011931,
+      "min_latitude": -24.090521,
+      "min_longitude": 15.723871,
+      "max_latitude": -21.7083171,
+      "max_longitude": 18.4967611
+    },
     "translations": {
       "en": "Khomas",
       "af": "Khomas",
@@ -322,20 +372,27 @@
       "tr": "Khomas",
       "uk": "Кхомас",
       "ur": "خوماس علاقہ",
-      "vi": "Khomas"
+      "vi": "Khomas",
+      "lv": "Khomasas reģions",
+      "ceb": "Khomas",
+      "zh": "霍馬斯區",
+      "fa": "منطقه کوماس",
+      "ccp": "𑄈𑄮𑄟𑄌𑄴"
     },
-    "geo": {
-      "latitude": -22.6377854,
-      "longitude": 17.1011931,
-      "min_latitude": -24.090521,
-      "min_longitude": 15.723871,
-      "max_latitude": -21.7083171,
-      "max_longitude": 18.4967611
-    },
-    "name": "Khomas"
+    "comments": null
   },
   "KU": {
+    "name": "Kunene",
+    "code": null,
     "unofficial_names": "Kunene",
+    "geo": {
+      "latitude": -19.4086317,
+      "longitude": 13.914399,
+      "min_latitude": -21.1873635,
+      "min_longitude": 11.7242468,
+      "max_latitude": -16.959894,
+      "max_longitude": 16.72092
+    },
     "translations": {
       "en": "Kunene",
       "af": "Kunene",
@@ -377,20 +434,27 @@
       "tr": "Kunene",
       "uk": "Кунене",
       "ur": "کونینے علاقہ",
-      "vi": "Khu vực Kunene"
+      "vi": "Khu vực Kunene",
+      "lv": "Kunenes reģions",
+      "ceb": "Kunene",
+      "zh": "庫內內區",
+      "fa": "منطقه کوننه",
+      "ccp": "𑄇𑄪𑄚𑄬𑄚𑄴"
     },
-    "geo": {
-      "latitude": -19.4086317,
-      "longitude": 13.914399,
-      "min_latitude": -21.1873635,
-      "min_longitude": 11.7242468,
-      "max_latitude": -16.959894,
-      "max_longitude": 16.72092
-    },
-    "name": "Kunene"
+    "comments": null
   },
   "OD": {
+    "name": "Otjozondjupa",
+    "code": null,
     "unofficial_names": "Otjozondjupa",
+    "geo": {
+      "latitude": -20.5486916,
+      "longitude": 17.668887,
+      "min_latitude": -22.3778689,
+      "min_longitude": 15.5702269,
+      "max_latitude": -18.7453048,
+      "max_longitude": 20.997551
+    },
     "translations": {
       "en": "Otjozondjupa",
       "af": "Otjozondjoepa",
@@ -430,20 +494,28 @@
       "tr": "Otjozondjupa",
       "uk": "Очосондьюпа",
       "ur": "اوتجوزوندجوپا علاقہ",
-      "vi": "Khu vực Otjozondjupa"
+      "vi": "Khu vực Otjozondjupa",
+      "lv": "Očonzonķepas reģions",
+      "ceb": "Otjozondjupa",
+      "lt": "Očosondžiupos regionas",
+      "zh": "奧喬宗朱帕區",
+      "fa": "منطقه اوتجوزوندجوپا",
+      "ccp": "𑄃𑄧𑄖𑄴𑄎𑄮𑄎𑄮𑄚𑄳𑄓𑄴𑄎𑄪𑄛"
     },
-    "geo": {
-      "latitude": -20.5486916,
-      "longitude": 17.668887,
-      "min_latitude": -22.3778689,
-      "min_longitude": 15.5702269,
-      "max_latitude": -18.7453048,
-      "max_longitude": 20.997551
-    },
-    "name": "Otjozondjupa"
+    "comments": null
   },
   "OH": {
+    "name": "Omaheke",
+    "code": null,
     "unofficial_names": "Omaheke",
+    "geo": {
+      "latitude": -21.8466651,
+      "longitude": 19.1880047,
+      "min_latitude": -23.877103,
+      "min_longitude": 17.9521831,
+      "max_latitude": -20.2402009,
+      "max_longitude": 21.0017411
+    },
     "translations": {
       "en": "Omaheke",
       "af": "Omaheke",
@@ -471,20 +543,26 @@
       "sw": "Mkoa wa Omaheke",
       "tr": "Omaheke",
       "uk": "Омахеке",
-      "ur": "اوماہیکے علاقہ"
+      "ur": "اوماہیکے علاقہ",
+      "ceb": "Omaheke",
+      "zh": "奧馬海凱區",
+      "fa": "منطقه اوماهکه",
+      "ccp": "𑄃𑄧𑄟𑄦𑄬𑄇𑄬"
     },
-    "geo": {
-      "latitude": -21.8466651,
-      "longitude": 19.1880047,
-      "min_latitude": -23.877103,
-      "min_longitude": 17.9521831,
-      "max_latitude": -20.2402009,
-      "max_longitude": 21.0017411
-    },
-    "name": "Omaheke"
+    "comments": null
   },
   "ON": {
+    "name": "Oshana",
+    "code": null,
     "unofficial_names": "Oshana",
+    "geo": {
+      "latitude": -18.4305064,
+      "longitude": 15.6881788,
+      "min_latitude": -19.32805,
+      "min_longitude": 15.2764,
+      "max_latitude": -17.675126,
+      "max_longitude": 16.0409669
+    },
     "translations": {
       "en": "Oshana",
       "af": "Osjana",
@@ -522,20 +600,28 @@
       "tr": "Oshana",
       "uk": "Ошана",
       "ur": "اوشانا علاقہ",
-      "vi": "Khu vực Oshana"
+      "vi": "Khu vực Oshana",
+      "lv": "Ošanas reģions",
+      "ceb": "Oshana",
+      "lt": "Ošanos regionas",
+      "zh": "奧沙納區",
+      "fa": "منطقه اوشانا",
+      "ccp": "𑄃𑄧𑄌𑄴𑄦𑄚"
     },
-    "geo": {
-      "latitude": -18.4305064,
-      "longitude": 15.6881788,
-      "min_latitude": -19.32805,
-      "min_longitude": 15.2764,
-      "max_latitude": -17.675126,
-      "max_longitude": 16.0409669
-    },
-    "name": "Oshana"
+    "comments": null
   },
   "OS": {
+    "name": "Omusati",
+    "code": null,
     "unofficial_names": "Omusati",
+    "geo": {
+      "latitude": -18.4070294,
+      "longitude": 14.8454619,
+      "min_latitude": -19.4149837,
+      "min_longitude": 14.1303229,
+      "max_latitude": -17.3843629,
+      "max_longitude": 15.6579149
+    },
     "translations": {
       "en": "Omusati",
       "af": "Omoesati",
@@ -575,22 +661,32 @@
       "tr": "Omusati",
       "uk": "Омусаті",
       "ur": "اوموساتی علاقہ",
-      "vi": "Khu vực Omusati"
+      "vi": "Khu vực Omusati",
+      "lv": "Omusati reģions",
+      "ceb": "Omusati",
+      "lt": "Omusačio regionas",
+      "zh": "奧穆薩蒂區",
+      "fa": "منطقه اوموساتی",
+      "ccp": "𑄃𑄧𑄟𑄪𑄥𑄑𑄨",
+      "pa": "ਓਮੁਸਾਟੀ",
+      "ca": "Omusati"
     },
-    "geo": {
-      "latitude": -18.4070294,
-      "longitude": 14.8454619,
-      "min_latitude": -19.4149837,
-      "min_longitude": 14.1303229,
-      "max_latitude": -17.3843629,
-      "max_longitude": 15.6579149
-    },
-    "name": "Omusati"
+    "comments": null
   },
   "OT": {
+    "name": "Oshikoto",
+    "code": null,
     "unofficial_names": [
       "Otjikoto"
     ],
+    "geo": {
+      "latitude": -18.4152575,
+      "longitude": 16.912251,
+      "min_latitude": -19.520187,
+      "min_longitude": 15.8708732,
+      "max_latitude": -17.6955739,
+      "max_longitude": 18.2046669
+    },
     "translations": {
       "en": "Oshikoto",
       "af": "Osjikoto",
@@ -628,20 +724,28 @@
       "tr": "Oshikoto",
       "uk": "Ошикото",
       "ur": "اوشیکوتو علاقہ",
-      "vi": "Khu vực Oshikoto"
+      "vi": "Khu vực Oshikoto",
+      "lv": "Ošikoto reģions",
+      "ceb": "Oshikoto",
+      "lt": "Išikoto regionas",
+      "zh": "奧希科托區",
+      "fa": "منطقه اوشیکوتو",
+      "ccp": "𑄃𑄧𑄥𑄨𑄇𑄮𑄑𑄮"
     },
-    "geo": {
-      "latitude": -18.4152575,
-      "longitude": 16.912251,
-      "min_latitude": -19.520187,
-      "min_longitude": 15.8708732,
-      "max_latitude": -17.6955739,
-      "max_longitude": 18.2046669
-    },
-    "name": "Oshikoto"
+    "comments": null
   },
   "OW": {
+    "name": "Ohangwena",
+    "code": null,
     "unofficial_names": "Ohangwena",
+    "geo": {
+      "latitude": -17.5979291,
+      "longitude": 16.8178377,
+      "min_latitude": -17.9292601,
+      "min_longitude": 15.5463691,
+      "max_latitude": -17.391181,
+      "max_longitude": 18.000832
+    },
     "translations": {
       "en": "Ohangwena",
       "af": "Ohangwena",
@@ -682,17 +786,14 @@
       "tr": "Ohangwena",
       "uk": "Охангвена",
       "ur": "اوہانگوینا علاقہ",
-      "vi": "Khu vực Ohangwena"
+      "vi": "Khu vực Ohangwena",
+      "lv": "Ohanvenas reģions",
+      "ceb": "Ohangwena",
+      "zh": "奧漢圭納區",
+      "fa": "منطقه اوهانگونا",
+      "ccp": "𑄃𑄧𑄦𑄋𑄴𑄠𑄬𑄚"
     },
-    "geo": {
-      "latitude": -17.5979291,
-      "longitude": 16.8178377,
-      "min_latitude": -17.9292601,
-      "min_longitude": 15.5463691,
-      "max_latitude": -17.391181,
-      "max_longitude": 18.000832
-    },
-    "name": "Ohangwena"
+    "comments": null
   }
 }
 

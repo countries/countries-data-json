@@ -1,8 +1,18 @@
 {
   "BAL": {
+    "name": "Balkh",
+    "code": null,
     "unofficial_names": [
       "Balkh"
     ],
+    "geo": {
+      "latitude": 36.7550603,
+      "longitude": 66.8975372,
+      "min_latitude": 36.739847,
+      "min_longitude": 66.879015,
+      "max_latitude": 36.7744019,
+      "max_longitude": 66.9103004
+    },
     "translations": {
       "en": "Balkh",
       "ar": "ولاية بلخ",
@@ -53,25 +63,31 @@
       "uk": "Балх",
       "ur": "بلخ",
       "vi": "Balkh",
-      "zh": "巴尔赫省"
+      "zh": "巴尔赫省",
+      "cy": "Balkh",
+      "ceb": "Balkh",
+      "sr_Latn": "Provincija Balk",
+      "ccp": "𑄝𑄣𑄳𑄈𑄴",
+      "pa": "ਬਲਖ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 36.7550603,
-      "longitude": 66.8975372,
-      "min_latitude": 36.739847,
-      "min_longitude": 66.879015,
-      "max_latitude": 36.7744019,
-      "max_longitude": 66.9103004
-    },
-    "name": "Balkh",
     "comments": null
   },
   "BAM": {
+    "name": "Bamian",
+    "code": null,
     "unofficial_names": [
       "Bamian",
       "Bamiyan",
       "Bāmīān"
     ],
+    "geo": {
+      "latitude": 34.9073296,
+      "longitude": 67.1894488,
+      "min_latitude": 33.914066,
+      "min_longitude": 66.2868759,
+      "max_latitude": 35.479285,
+      "max_longitude": 68.2664631
+    },
     "translations": {
       "en": "Bamyan",
       "ar": "ولاية باميان",
@@ -123,25 +139,32 @@
       "tr": "Bamyan Vilayeti",
       "uk": "Баміан",
       "ur": "بامیان",
-      "vi": "Bamyan"
+      "vi": "Bamyan",
+      "cy": "Bamiyan",
+      "ceb": "Wilāyat-e Bāmyān",
+      "sr_Latn": "Provincija Bamijan",
+      "zh": "巴米扬省",
+      "ccp": "𑄝𑄟𑄨𑄠𑄚𑄴",
+      "ml": "ബാമിയാൻ പ്രവിശ്യ"
     },
-    "geo": {
-      "latitude": 34.9073296,
-      "longitude": 67.1894488,
-      "min_latitude": 33.914066,
-      "min_longitude": 66.2868759,
-      "max_latitude": 35.479285,
-      "max_longitude": 68.2664631
-    },
-    "name": "Bamian",
     "comments": null
   },
   "BDG": {
+    "name": "Badghis",
+    "code": null,
     "unofficial_names": [
       "Badghis",
       "Badgis",
       "Bādghīs"
     ],
+    "geo": {
+      "latitude": 35.1671339,
+      "longitude": 63.7695384,
+      "min_latitude": 34.51659600000001,
+      "min_longitude": 62.673593,
+      "max_latitude": 36.041935,
+      "max_longitude": 65.07057689999999
+    },
     "translations": {
       "en": "Badghis",
       "ar": "ولاية بادغيس",
@@ -192,23 +215,29 @@
       "tr": "Badgis Vilayeti",
       "uk": "Бадгіс",
       "ur": "صوبہ بادغیس",
-      "vi": "Badghis"
+      "vi": "Badghis",
+      "cy": "Badghis",
+      "ceb": "Bādghīs",
+      "sr_Latn": "Provincija Badgis",
+      "zh": "巴德吉斯省",
+      "ccp": "𑄝𑄖𑄴𑄊𑄨𑄌𑄴"
     },
-    "geo": {
-      "latitude": 35.1671339,
-      "longitude": 63.7695384,
-      "min_latitude": 34.51659600000001,
-      "min_longitude": 62.673593,
-      "max_latitude": 36.041935,
-      "max_longitude": 65.07057689999999
-    },
-    "name": "Badghis",
     "comments": null
   },
   "BDS": {
+    "name": "Badakhshan",
+    "code": null,
     "unofficial_names": [
       "Badaẖšan"
     ],
+    "geo": {
+      "latitude": 36.7347725,
+      "longitude": 70.81199529999999,
+      "min_latitude": 35.44512100000001,
+      "min_longitude": 69.98609689999999,
+      "max_latitude": 38.4906109,
+      "max_longitude": 74.8901951
+    },
     "translations": {
       "en": "Badakhshan",
       "ar": "ولاية بدخشان",
@@ -261,25 +290,32 @@
       "tr": "Badahşan Vilayeti",
       "uk": "Бадахшан",
       "ur": "صوبہ بدخشاں",
-      "vi": "Badakhshan"
+      "vi": "Badakhshan",
+      "cy": "Badakhshan",
+      "ceb": "Badakhshān",
+      "sr_Latn": "Provincija Badahsan",
+      "zh": "巴达赫尚省",
+      "ccp": "𑄝𑄘𑄇𑄴𑄥𑄚𑄴",
+      "pa": "ਸੂਬਾ ਬਦਖ਼ਸ਼ਾਂ"
     },
-    "geo": {
-      "latitude": 36.7347725,
-      "longitude": 70.81199529999999,
-      "min_latitude": 35.44512100000001,
-      "min_longitude": 69.98609689999999,
-      "max_latitude": 38.4906109,
-      "max_longitude": 74.8901951
-    },
-    "name": "Badakhshan",
     "comments": null
   },
   "BGL": {
+    "name": "Baghlan",
+    "code": null,
     "unofficial_names": [
       "Baghlan",
       "Baghlān",
       "Baglan"
     ],
+    "geo": {
+      "latitude": 36.17890260000001,
+      "longitude": 68.74530639999999,
+      "min_latitude": 36.162409,
+      "min_longitude": 68.7236881,
+      "max_latitude": 36.1897066,
+      "max_longitude": 68.7745
+    },
     "translations": {
       "en": "Baghlan",
       "ar": "ولاية بغلان",
@@ -328,23 +364,29 @@
       "tr": "Baglan Vilayeti",
       "uk": "Баглан",
       "ur": "صوبہ بغلان",
-      "vi": "Baghlan"
+      "vi": "Baghlan",
+      "cy": "Baghlan",
+      "ceb": "Wilāyat-e Baghlān",
+      "sr_Latn": "Provincija Baglan",
+      "zh": "巴格兰省",
+      "ccp": "𑄝𑄇𑄴𑄣𑄚𑄴"
     },
-    "geo": {
-      "latitude": 36.17890260000001,
-      "longitude": 68.74530639999999,
-      "min_latitude": 36.162409,
-      "min_longitude": 68.7236881,
-      "max_latitude": 36.1897066,
-      "max_longitude": 68.7745
-    },
-    "name": "Baghlan",
     "comments": null
   },
   "DAY": {
+    "name": "Daykondi",
+    "code": null,
     "unofficial_names": [
       "Daikondi"
     ],
+    "geo": {
+      "latitude": 33.669495,
+      "longitude": 66.0463534,
+      "min_latitude": 32.932084,
+      "min_longitude": 65.23819689999999,
+      "max_latitude": 34.36751,
+      "max_longitude": 67.4245309
+    },
     "translations": {
       "en": "Daykundi",
       "ar": "ولاية دايكندي",
@@ -385,23 +427,30 @@
       "tr": "Daykundi Vilayeti",
       "uk": "Дайкунді",
       "ur": "صوبہ دایکندی",
-      "vi": "Daykundi"
+      "vi": "Daykundi",
+      "ceb": "Daykundi Province",
+      "ms": "Wilayah Daykundi",
+      "sr_Latn": "Provincija Daikondi",
+      "ta": "தேக்கண்டி மாகாணம்",
+      "zh": "代孔迪省",
+      "ccp": "𑄓𑄬𑄇𑄪𑄚𑄴𑄘𑄨"
     },
-    "geo": {
-      "latitude": 33.669495,
-      "longitude": 66.0463534,
-      "min_latitude": 32.932084,
-      "min_longitude": 65.23819689999999,
-      "max_latitude": 34.36751,
-      "max_longitude": 67.4245309
-    },
-    "name": "Daykondi",
     "comments": null
   },
   "FRA": {
+    "name": "Farah",
+    "code": null,
     "unofficial_names": [
       "Fahrah"
     ],
+    "geo": {
+      "latitude": 32.495328,
+      "longitude": 62.2626627,
+      "min_latitude": 31.3958321,
+      "min_longitude": 60.5861239,
+      "max_latitude": 33.586982,
+      "max_longitude": 64.750407
+    },
     "translations": {
       "en": "Farah",
       "ar": "ولاية فراه",
@@ -448,23 +497,30 @@
       "tr": "Ferah Vilayeti",
       "uk": "Фарах",
       "ur": "صوبہ فراہ",
-      "vi": "Farah"
+      "vi": "Farah",
+      "lv": "Farāha",
+      "cy": "Farah",
+      "ceb": "Farāh (lalawigan sa Apganistan)",
+      "sr_Latn": "Provincija Farah",
+      "zh": "法拉省",
+      "ccp": "𑄜𑄢𑄦𑄴"
     },
-    "geo": {
-      "latitude": 32.495328,
-      "longitude": 62.2626627,
-      "min_latitude": 31.3958321,
-      "min_longitude": 60.5861239,
-      "max_latitude": 33.586982,
-      "max_longitude": 64.750407
-    },
-    "name": "Farah",
     "comments": null
   },
   "FYB": {
+    "name": "Faryab",
+    "code": null,
     "unofficial_names": [
       "Fariab"
     ],
+    "geo": {
+      "latitude": 36.0795613,
+      "longitude": 64.90595499999999,
+      "min_latitude": 35.1631961,
+      "min_longitude": 63.8947181,
+      "max_latitude": 37.2501681,
+      "max_longitude": 65.822068
+    },
     "translations": {
       "en": "Faryab",
       "ar": "ولاية فاریاب",
@@ -512,24 +568,32 @@
       "tr": "Faryab Vilayeti",
       "uk": "Фарʼяб",
       "ur": "صوبہ فاریاب",
-      "vi": "Faryab"
+      "vi": "Faryab",
+      "lv": "Farjaba",
+      "cy": "Faryab",
+      "ceb": "Faryab Province",
+      "sr_Latn": "Provincija Farjab",
+      "zh": "法利亚布省",
+      "ccp": "𑄜𑄢𑄨𑄠𑄛𑄴",
+      "uz": "Foryob (viloyat)"
     },
-    "geo": {
-      "latitude": 36.0795613,
-      "longitude": 64.90595499999999,
-      "min_latitude": 35.1631961,
-      "min_longitude": 63.8947181,
-      "max_latitude": 37.2501681,
-      "max_longitude": 65.822068
-    },
-    "name": "Faryab",
     "comments": null
   },
   "GHA": {
+    "name": "Ghazni",
+    "code": null,
     "unofficial_names": [
       "Gazni",
       "Ghazni"
     ],
+    "geo": {
+      "latitude": 33.4982289,
+      "longitude": 67.7615983,
+      "min_latitude": 32.085223,
+      "min_longitude": 66.8315989,
+      "max_latitude": 34.2320759,
+      "max_longitude": 68.834594
+    },
     "translations": {
       "en": "Ghazni",
       "ar": "ولاية غزني",
@@ -577,26 +641,35 @@
       "tr": "Gazni Vilayeti",
       "uk": "Газні",
       "ur": "صوبہ غزنی",
-      "vi": "Ghazni"
+      "vi": "Ghazni",
+      "lv": "Gazni province",
+      "cy": "Ghazni",
+      "ceb": "Wilāyat-e Ghaznī",
+      "sr_Latn": "Provincija Gazni",
+      "zh": "加兹尼省",
+      "ccp": "𑄊𑄌𑄴𑄚𑄨",
+      "hy": "Ղազնի",
+      "pa": "ਗਜ਼ਨੀ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 33.4982289,
-      "longitude": 67.7615983,
-      "min_latitude": 32.085223,
-      "min_longitude": 66.8315989,
-      "max_latitude": 34.2320759,
-      "max_longitude": 68.834594
-    },
-    "name": "Ghazni",
     "comments": null
   },
   "GHO": {
+    "name": "Ghowr",
+    "code": null,
     "unofficial_names": [
       "Ghawr",
       "Ghor",
       "Ghowr",
       "Gōr"
     ],
+    "geo": {
+      "latitude": 34.0995776,
+      "longitude": 64.90595499999999,
+      "min_latitude": 33.133217,
+      "min_longitude": 63.19821899999999,
+      "max_latitude": 35.276925,
+      "max_longitude": 66.736645
+    },
     "translations": {
       "en": "Ghōr",
       "ar": "ولاية غور",
@@ -643,24 +716,32 @@
       "tr": "Gur Vilayeti",
       "uk": "Гор",
       "ur": "صوبہ غور",
-      "vi": "Ghor"
+      "vi": "Ghor",
+      "lv": "Gouras province",
+      "cy": "Ghor",
+      "ceb": "Wilāyat-e Ghōr",
+      "sr_Latn": "Provincija Gor",
+      "zh": "古爾省",
+      "ccp": "𑄊𑄮𑄢𑄴",
+      "pa": "ਗ਼ੋਰ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 34.0995776,
-      "longitude": 64.90595499999999,
-      "min_latitude": 33.133217,
-      "min_longitude": 63.19821899999999,
-      "max_latitude": 35.276925,
-      "max_longitude": 66.736645
-    },
-    "name": "Ghowr",
     "comments": null
   },
   "HEL": {
+    "name": "Helmand",
+    "code": null,
     "unofficial_names": [
       "Helmand",
       "Hilmend"
     ],
+    "geo": {
+      "latitude": 31.3636474,
+      "longitude": 63.95861110000001,
+      "min_latitude": 29.377478,
+      "min_longitude": 62.553695,
+      "max_latitude": 33.3782999,
+      "max_longitude": 65.38026289999999
+    },
     "translations": {
       "en": "Helmand",
       "ar": "ولاية هلمند",
@@ -710,23 +791,31 @@
       "tr": "Helmend Vilayeti",
       "uk": "Гільменд",
       "ur": "صوبہ ہلمند",
-      "vi": "Helmand"
+      "vi": "Helmand",
+      "lv": "Helmandas province",
+      "cy": "Helmand",
+      "ceb": "Helmand",
+      "sr_Latn": "Provincija Helmand",
+      "zh": "赫尔曼德省",
+      "ccp": "𑄦𑄬𑄣𑄴𑄟𑄚𑄳𑄓𑄴",
+      "pa": "ਹੇਲਮੰਦ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 31.3636474,
-      "longitude": 63.95861110000001,
-      "min_latitude": 29.377478,
-      "min_longitude": 62.553695,
-      "max_latitude": 33.3782999,
-      "max_longitude": 65.38026289999999
-    },
-    "name": "Helmand",
     "comments": null
   },
   "HER": {
+    "name": "Herat",
+    "code": null,
     "unofficial_names": [
       "Herat"
     ],
+    "geo": {
+      "latitude": 34.341944,
+      "longitude": 62.203056,
+      "min_latitude": 34.3185577,
+      "min_longitude": 62.150774,
+      "max_latitude": 34.3883543,
+      "max_longitude": 62.2713661
+    },
     "translations": {
       "en": "Herat",
       "ar": "ولاية هرات",
@@ -773,20 +862,19 @@
       "tr": "Herat Vilayeti",
       "uk": "Герат",
       "ur": "صوبہ ہرات",
-      "vi": "Herat"
+      "vi": "Herat",
+      "lv": "Herāta",
+      "cy": "Herat",
+      "ceb": "Herāt",
+      "sr_Latn": "Provincija Herat",
+      "zh": "赫拉特省",
+      "ccp": "𑄦𑄬𑄢𑄖𑄴"
     },
-    "geo": {
-      "latitude": 34.341944,
-      "longitude": 62.203056,
-      "min_latitude": 34.3185577,
-      "min_longitude": 62.150774,
-      "max_latitude": 34.3883543,
-      "max_longitude": 62.2713661
-    },
-    "name": "Herat",
     "comments": null
   },
   "JOW": {
+    "name": "Jowzjan",
+    "code": null,
     "unofficial_names": [
       "Jawzjan",
       "Jowzjan",
@@ -794,6 +882,14 @@
       "Jozjan",
       "Juzjan"
     ],
+    "geo": {
+      "latitude": 36.8969692,
+      "longitude": 65.6658568,
+      "min_latitude": 35.90039410000001,
+      "min_longitude": 65.1666699,
+      "max_latitude": 37.544579,
+      "max_longitude": 66.583344
+    },
     "translations": {
       "en": "Jowzjan",
       "ar": "ولاية جوزجان",
@@ -842,26 +938,33 @@
       "tr": "Cüzcan Vilayeti",
       "uk": "Джаузджан",
       "ur": "صوبہ جوزجان",
-      "vi": "Jowzjan"
+      "vi": "Jowzjan",
+      "ceb": "Wilāyat-e Jowzjān",
+      "sr_Latn": "Provincija Đuzan",
+      "zh": "朱兹詹省",
+      "ccp": "𑄎𑄧𑄠𑄮𑄌𑄴𑄎𑄚𑄴",
+      "pa": "ਜੋਜਾਨ",
+      "uz": "Joʻzjon"
     },
-    "geo": {
-      "latitude": 36.8969692,
-      "longitude": 65.6658568,
-      "min_latitude": 35.90039410000001,
-      "min_longitude": 65.1666699,
-      "max_latitude": 37.544579,
-      "max_longitude": 66.583344
-    },
-    "name": "Jowzjan",
     "comments": null
   },
   "KAB": {
+    "name": "Kabul [Kabol]",
+    "code": null,
     "unofficial_names": [
       "Kabol",
       "Kābol",
       "Kābul",
       "Kabul"
     ],
+    "geo": {
+      "latitude": 34.533333,
+      "longitude": 69.166667,
+      "min_latitude": 34.3454912,
+      "min_longitude": 68.9495086,
+      "max_latitude": 34.7619227,
+      "max_longitude": 69.4459534
+    },
     "translations": {
       "en": "Kabul",
       "ar": "ولاية كابول",
@@ -908,23 +1011,31 @@
       "tr": "Kâbil Vilayeti",
       "uk": "Кабул",
       "ur": "صوبہ کابل",
-      "vi": "Tỉnh Kabul"
+      "vi": "Tỉnh Kabul",
+      "lv": "Kabulas province",
+      "cy": "Kabul",
+      "ceb": "Wilāyat-e Kābul",
+      "sr_Latn": "Provincija Kabul",
+      "zh": "喀布尔省",
+      "ccp": "𑄇𑄝𑄪𑄣𑄴",
+      "tk": "Kabul welaýaty"
     },
-    "geo": {
-      "latitude": 34.533333,
-      "longitude": 69.166667,
-      "min_latitude": 34.3454912,
-      "min_longitude": 68.9495086,
-      "max_latitude": 34.7619227,
-      "max_longitude": 69.4459534
-    },
-    "name": "Kabul [Kabol]",
     "comments": null
   },
   "KAN": {
+    "name": "Kandahar",
+    "code": null,
     "unofficial_names": [
       "Kandahar"
     ],
+    "geo": {
+      "latitude": 31.6119,
+      "longitude": 65.6811,
+      "min_latitude": 31.5973985,
+      "min_longitude": 65.6695744,
+      "max_latitude": 31.6725218,
+      "max_longitude": 65.8307648
+    },
     "translations": {
       "en": "Kandahar",
       "ar": "ولاية قندهار",
@@ -973,25 +1084,32 @@
       "tr": "Kandehar Vilayeti",
       "uk": "Кандагар",
       "ur": "صوبہ قندھار",
-      "vi": "Kandahar"
+      "vi": "Kandahar",
+      "lv": "Kandahāra",
+      "cy": "Kandahar",
+      "ceb": "Kandahār (lalawigan)",
+      "sr_Latn": "Provincija Kandahar",
+      "zh": "坎大哈省",
+      "ccp": "𑄇𑄚𑄴𑄘𑄦𑄢𑄴"
     },
-    "geo": {
-      "latitude": 31.6119,
-      "longitude": 65.6811,
-      "min_latitude": 31.5973985,
-      "min_longitude": 65.6695744,
-      "max_latitude": 31.6725218,
-      "max_longitude": 65.8307648
-    },
-    "name": "Kandahar",
     "comments": null
   },
   "KAP": {
+    "name": "Kapisa",
+    "code": null,
     "unofficial_names": [
       "Kapesa",
       "Kapisa",
       "Kapissa"
     ],
+    "geo": {
+      "latitude": 34.9810572,
+      "longitude": 69.6214562,
+      "min_latitude": 34.636847,
+      "min_longitude": 69.27812709999999,
+      "max_latitude": 35.1843449,
+      "max_longitude": 69.9292071
+    },
     "translations": {
       "en": "Kapisa",
       "ar": "ولاية كابيسا",
@@ -1037,26 +1155,35 @@
       "tr": "Kapisa Vilayeti",
       "uk": "Капіса",
       "ur": "صوبہ کاپیسا",
-      "vi": "Kapisa"
+      "vi": "Kapisa",
+      "lv": "Kapisa",
+      "cy": "Kapisa",
+      "ceb": "Wilāyat-e Kāpīsā",
+      "sr_Latn": "Provincija Kapisa",
+      "zh": "卡比萨省",
+      "bn": "কপিস’ প্রদেশ",
+      "ccp": "𑄇𑄛𑄨𑄥",
+      "pa": "ਕਾਪੀਸਾ"
     },
-    "geo": {
-      "latitude": 34.9810572,
-      "longitude": 69.6214562,
-      "min_latitude": 34.636847,
-      "min_longitude": 69.27812709999999,
-      "max_latitude": 35.1843449,
-      "max_longitude": 69.9292071
-    },
-    "name": "Kapisa",
     "comments": null
   },
   "KDZ": {
+    "name": "Kondoz [Kunduz]",
+    "code": null,
     "unofficial_names": [
       "Kondoz",
       "Kondūz",
       "Kūnduz",
       "Qondūz"
     ],
+    "geo": {
+      "latitude": 36.7285907,
+      "longitude": 68.8680663,
+      "min_latitude": 36.6518943,
+      "min_longitude": 68.7845421,
+      "max_latitude": 36.77299259999999,
+      "max_longitude": 68.9773179
+    },
     "translations": {
       "en": "Kunduz",
       "ar": "ولاية كندوز",
@@ -1105,20 +1232,19 @@
       "tr": "Kunduz Vilayeti",
       "uk": "Кундуз",
       "ur": "صوبہ قندوز",
-      "vi": "Tỉnh Kunduz"
+      "vi": "Tỉnh Kunduz",
+      "lv": "Kondozas province",
+      "cy": "Kunduz",
+      "ceb": "Kunduz",
+      "sr_Latn": "Provincija Kunduz",
+      "zh": "昆都士省",
+      "ccp": "𑄇𑄪𑄚𑄴𑄓𑄪𑄌𑄴"
     },
-    "geo": {
-      "latitude": 36.7285907,
-      "longitude": 68.8680663,
-      "min_latitude": 36.6518943,
-      "min_longitude": 68.7845421,
-      "max_latitude": 36.77299259999999,
-      "max_longitude": 68.9773179
-    },
-    "name": "Kondoz [Kunduz]",
     "comments": null
   },
   "KHO": {
+    "name": "Khowst",
+    "code": null,
     "unofficial_names": [
       "H̱ōst",
       "Khawst",
@@ -1127,6 +1253,14 @@
       "Matūn",
       "H̱awst"
     ],
+    "geo": {
+      "latitude": 33.3585079,
+      "longitude": 69.8597406,
+      "min_latitude": 33.028327,
+      "min_longitude": 69.3547779,
+      "max_latitude": 33.7335318,
+      "max_longitude": 70.3265909
+    },
     "translations": {
       "en": "Khost",
       "ar": "ولاية خوست",
@@ -1173,24 +1307,32 @@
       "tr": "Host Vilayeti",
       "uk": "Хост",
       "ur": "صوبہ خوست",
-      "vi": "Khost"
+      "vi": "Khost",
+      "lv": "Houstas province",
+      "cy": "Khost",
+      "ceb": "Velāyat-e Khowst",
+      "sr_Latn": "Provincija Koust",
+      "zh": "霍斯特省",
+      "ccp": "𑄈𑄮𑄈𑄳𑄑𑄴",
+      "pa": "ਖੋਸਤ"
     },
-    "geo": {
-      "latitude": 33.3585079,
-      "longitude": 69.8597406,
-      "min_latitude": 33.028327,
-      "min_longitude": 69.3547779,
-      "max_latitude": 33.7335318,
-      "max_longitude": 70.3265909
-    },
-    "name": "Khowst",
     "comments": null
   },
   "KNR": {
+    "name": "Konar [Kunar]",
+    "code": null,
     "unofficial_names": [
       "Konar",
       "Konarhā"
     ],
+    "geo": {
+      "latitude": 35.0883133,
+      "longitude": 71.36685039999999,
+      "min_latitude": 35.0861153,
+      "min_longitude": 71.3623594,
+      "max_latitude": 35.0906452,
+      "max_longitude": 71.3708674
+    },
     "translations": {
       "en": "Kunar",
       "ar": "ولاية كنر",
@@ -1237,25 +1379,32 @@
       "tr": "Kunar Vilayeti",
       "uk": "Кунар",
       "ur": "صوبہ کنڑ",
-      "vi": "Kunar"
+      "vi": "Kunar",
+      "lv": "Kunāra",
+      "ceb": "Wilāyat-e Kunaṟ",
+      "sr_Latn": "Provincija Kunar",
+      "zh": "库纳尔省",
+      "ccp": "𑄇𑄪𑄚𑄢𑄴",
+      "pa": "ਕੁਨੜ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 35.0883133,
-      "longitude": 71.36685039999999,
-      "min_latitude": 35.0861153,
-      "min_longitude": 71.3623594,
-      "max_latitude": 35.0906452,
-      "max_longitude": 71.3708674
-    },
-    "name": "Konar [Kunar]",
     "comments": null
   },
   "LAG": {
+    "name": "Laghman",
+    "code": null,
     "unofficial_names": [
       "Laghman",
       "Laghmān",
       "Lagman"
     ],
+    "geo": {
+      "latitude": 34.6897687,
+      "longitude": 70.1455805,
+      "min_latitude": 34.3999048,
+      "min_longitude": 69.8045771,
+      "max_latitude": 35.2196171,
+      "max_longitude": 70.63105999999999
+    },
     "translations": {
       "en": "Laghman",
       "ar": "ولاية لغمان",
@@ -1302,20 +1451,19 @@
       "tr": "Lagman Vilayeti",
       "uk": "Лагман",
       "ur": "لاگھمان صوبہ",
-      "vi": "Laghman"
+      "vi": "Laghman",
+      "lv": "Lagmāna",
+      "ceb": "Wilāyat-e Laghmān",
+      "sr_Latn": "Provincija Langmar",
+      "zh": "拉格曼省",
+      "ccp": "𑄣𑄇𑄴𑄟𑄳𑄠𑄚𑄴",
+      "pa": "ਲਗਮਾਨ"
     },
-    "geo": {
-      "latitude": 34.6897687,
-      "longitude": 70.1455805,
-      "min_latitude": 34.3999048,
-      "min_longitude": 69.8045771,
-      "max_latitude": 35.2196171,
-      "max_longitude": 70.63105999999999
-    },
-    "name": "Laghman",
     "comments": null
   },
   "LOW": {
+    "name": "Lowgar",
+    "code": null,
     "unofficial_names": [
       "Lawgar",
       "Logar",
@@ -1323,9 +1471,6 @@
       "Lowgar",
       "Lowghar"
     ],
-    "translations": {
-      "en": "Lowgar"
-    },
     "geo": {
       "latitude": 34.0145518,
       "longitude": 69.1923916,
@@ -1334,14 +1479,26 @@
       "max_latitude": 34.366983,
       "max_longitude": 69.8876531
     },
-    "name": "Lowgar",
+    "translations": {
+      "en": "Lowgar"
+    },
     "comments": null
   },
   "NAN": {
+    "name": "Nangrahar [Nangarhar]",
+    "code": null,
     "unofficial_names": [
       "Nangarhar",
       "Ningarhar"
     ],
+    "geo": {
+      "latitude": 34.1718313,
+      "longitude": 70.6216794,
+      "min_latitude": 33.9433401,
+      "min_longitude": 69.482636,
+      "max_latitude": 34.809976,
+      "max_longitude": 71.17125709999999
+    },
     "translations": {
       "en": "Nangarhar",
       "ar": "ولاية ننكرهار",
@@ -1389,26 +1546,34 @@
       "tr": "Nangarhar Vilayeti",
       "uk": "Нангархар",
       "ur": "صوبہ ننگرہار",
-      "vi": "Nangarhar"
+      "vi": "Nangarhar",
+      "lv": "Nangarhara",
+      "cy": "Nangarhar",
+      "ceb": "Nangarhār",
+      "sr_Latn": "Provincija Nangarhar",
+      "zh": "楠格哈尔省",
+      "ccp": "𑄚𑄧𑄁𑄉𑄧𑄢𑄴𑄦𑄢𑄴",
+      "pa": "ਨੰਗਰਹਾਰ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 34.1718313,
-      "longitude": 70.6216794,
-      "min_latitude": 33.9433401,
-      "min_longitude": 69.482636,
-      "max_latitude": 34.809976,
-      "max_longitude": 71.17125709999999
-    },
-    "name": "Nangrahar [Nangarhar]",
     "comments": null
   },
   "NIM": {
+    "name": "Nimruz",
+    "code": null,
     "unofficial_names": [
       "Chakhānsur",
       "Neemroze",
       "Nimroz",
       "Nimroze"
     ],
+    "geo": {
+      "latitude": 31.0261488,
+      "longitude": 62.4504154,
+      "min_latitude": 29.3889659,
+      "min_longitude": 60.87859700000001,
+      "max_latitude": 32.263132,
+      "max_longitude": 63.5857501
+    },
     "translations": {
       "en": "Nimruz",
       "ar": "ولاية نيمروز",
@@ -1456,25 +1621,33 @@
       "tr": "Nimruz Vilayeti",
       "uk": "Німруз",
       "ur": "صوبہ نیمروز",
-      "vi": "Nimruz"
+      "vi": "Nimruz",
+      "lv": "Nīmrūzas province",
+      "cy": "Nimruz",
+      "ceb": "Wilāyat-e Nīmrōz",
+      "sr_Latn": "Provincija Nimruz",
+      "zh": "尼姆鲁兹省",
+      "ccp": "𑄚𑄨𑄟𑄴𑄢𑄌𑄴",
+      "pa": "ਨੀਮਰੋਜ਼ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 31.0261488,
-      "longitude": 62.4504154,
-      "min_latitude": 29.3889659,
-      "min_longitude": 60.87859700000001,
-      "max_latitude": 32.263132,
-      "max_longitude": 63.5857501
-    },
-    "name": "Nimruz",
     "comments": null
   },
   "NUR": {
+    "name": "Nurestan",
+    "code": null,
     "unofficial_names": [
       "Nooristan",
       "Nouristan",
       "Nurestan"
     ],
+    "geo": {
+      "latitude": 35.3250223,
+      "longitude": 70.90712359999999,
+      "min_latitude": 34.9075738,
+      "min_longitude": 69.916771,
+      "max_latitude": 36.0492169,
+      "max_longitude": 71.614166
+    },
     "translations": {
       "en": "Nuristan",
       "ar": "ولاية نورستان",
@@ -1522,20 +1695,22 @@
       "tr": "Nuristan Vilayeti",
       "uk": "Нуристан",
       "ur": "صوبہ نورستان",
-      "vi": "Nuristan"
+      "vi": "Nuristan",
+      "lv": "Nūrestāna",
+      "ceb": "Velāyat-e Nūrestān",
+      "sr_Latn": "Provincija Nurestan",
+      "zh": "努尔斯坦省",
+      "sq": "Nuristani",
+      "ccp": "𑄚𑄪𑄢𑄨𑄌𑄴𑄑𑄚𑄴",
+      "is": "Núristan",
+      "pa": "ਨੂਰਿਸਤਾਨ ਸੂਬਾ",
+      "uz": "Nuriston"
     },
-    "geo": {
-      "latitude": 35.3250223,
-      "longitude": 70.90712359999999,
-      "min_latitude": 34.9075738,
-      "min_longitude": 69.916771,
-      "max_latitude": 36.0492169,
-      "max_longitude": 71.614166
-    },
-    "name": "Nurestan",
     "comments": null
   },
   "ORU": {
+    "name": "Oruzgan [Uruzgan]",
+    "code": null,
     "unofficial_names": [
       "Oruzgan",
       "Oruzghan",
@@ -1544,9 +1719,6 @@
       "Uruzghan",
       "Urūzghān"
     ],
-    "translations": {
-      "en": "Oruzgan [Uruzgan]"
-    },
     "geo": {
       "latitude": 32.93021,
       "longitude": 66.63642899999999,
@@ -1555,13 +1727,25 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Oruzgan [Uruzgan]",
+    "translations": {
+      "en": "Oruzgan [Uruzgan]"
+    },
     "comments": null
   },
   "PAN": {
+    "name": "Panjshir",
+    "code": null,
     "unofficial_names": [
       "Panjshir"
     ],
+    "geo": {
+      "latitude": 35.3350467,
+      "longitude": 69.7167783,
+      "min_latitude": 35.1242394,
+      "min_longitude": 69.53384400000002,
+      "max_latitude": 35.4374561,
+      "max_longitude": 69.7982025
+    },
     "translations": {
       "en": "Panjshir",
       "ar": "ولاية بانشير",
@@ -1600,25 +1784,31 @@
       "ta": "பாஞ்ச்சிர் மாகாணம்",
       "tr": "Pençşir Vilayeti",
       "uk": "Панджшер",
-      "ur": "پنج شیر"
+      "ur": "پنج شیر",
+      "ceb": "Panjshir",
+      "sr_Latn": "Provincija Panjšir",
+      "zh": "潘傑希爾省",
+      "ccp": "𑄛𑄐𑄴𑄥𑄨𑄢𑄴",
+      "pa": "ਪੰਜਸ਼ਿਰ"
     },
-    "geo": {
-      "latitude": 35.3350467,
-      "longitude": 69.7167783,
-      "min_latitude": 35.1242394,
-      "min_longitude": 69.53384400000002,
-      "max_latitude": 35.4374561,
-      "max_longitude": 69.7982025
-    },
-    "name": "Panjshir",
     "comments": null
   },
   "PAR": {
+    "name": "Parwan",
+    "code": null,
     "unofficial_names": [
       "Parvan",
       "Parvān",
       "Parwan"
     ],
+    "geo": {
+      "latitude": 34.9630977,
+      "longitude": 68.81088489999999,
+      "min_latitude": 34.588373,
+      "min_longitude": 68.1907899,
+      "max_latitude": 35.424221,
+      "max_longitude": 69.616604
+    },
     "translations": {
       "en": "Parwan",
       "ar": "ولاية بروان",
@@ -1666,25 +1856,32 @@
       "tr": "Parvan Vilayeti",
       "uk": "Парван",
       "ur": "صوبہ پروان",
-      "vi": "Tỉnh Parwan"
+      "vi": "Tỉnh Parwan",
+      "lv": "Parvanas province",
+      "ceb": "Parwān (lalawigan)",
+      "sr_Latn": "Provincija Parvan",
+      "zh": "帕尔旺省",
+      "ccp": "𑄛𑄧𑄢𑄴𑄃𑄮𑄠𑄚𑄴",
+      "pa": "ਪਰਵਾਨ"
     },
-    "geo": {
-      "latitude": 34.9630977,
-      "longitude": 68.81088489999999,
-      "min_latitude": 34.588373,
-      "min_longitude": 68.1907899,
-      "max_latitude": 35.424221,
-      "max_longitude": 69.616604
-    },
-    "name": "Parwan",
     "comments": null
   },
   "PIA": {
+    "name": "Paktia",
+    "code": null,
     "unofficial_names": [
       "Paktia",
       "Paktiya",
       "Paktīā"
     ],
+    "geo": {
+      "latitude": 33.706199,
+      "longitude": 69.3831079,
+      "min_latitude": 33.1592119,
+      "min_longitude": 68.772654,
+      "max_latitude": 34.0908599,
+      "max_longitude": 70.0056379
+    },
     "translations": {
       "en": "Paktia",
       "ar": "ولاية بكتيا",
@@ -1731,23 +1928,30 @@
       "tr": "Paktiya Vilayeti",
       "uk": "Пактія",
       "ur": "پکتیا",
-      "vi": "Paktia"
+      "vi": "Paktia",
+      "lv": "Paktija",
+      "ceb": "Wilāyat-e Paktiyā",
+      "sr_Latn": "Provincija Paktija",
+      "zh": "帕克蒂亚省",
+      "ccp": "𑄛𑄇𑄴𑄖𑄨𑄠",
+      "pa": "ਪਕਤੀਆ"
     },
-    "geo": {
-      "latitude": 33.706199,
-      "longitude": 69.3831079,
-      "min_latitude": 33.1592119,
-      "min_longitude": 68.772654,
-      "max_latitude": 34.0908599,
-      "max_longitude": 70.0056379
-    },
-    "name": "Paktia",
     "comments": null
   },
   "PKA": {
+    "name": "Paktika",
+    "code": null,
     "unofficial_names": [
       "Paktika"
     ],
+    "geo": {
+      "latitude": 32.2645386,
+      "longitude": 68.52471489999999,
+      "min_latitude": 31.593519,
+      "min_longitude": 67.82210479999999,
+      "max_latitude": 33.4239659,
+      "max_longitude": 69.5345761
+    },
     "translations": {
       "en": "Paktika",
       "ar": "ولاية بكتيكا",
@@ -1794,21 +1998,28 @@
       "tr": "Paktika Vilayeti",
       "uk": "Пактика",
       "ur": "صوبہ پکتیکا",
-      "vi": "Paktika"
+      "vi": "Paktika",
+      "lv": "Paktika",
+      "ceb": "Wilāyat-e Paktīkā",
+      "sr_Latn": "Provincija Paktika",
+      "zh": "帕克蒂卡省",
+      "ccp": "𑄛𑄇𑄴𑄖𑄨𑄇",
+      "pa": "ਪਕਤੀਕਾ"
     },
-    "geo": {
-      "latitude": 32.2645386,
-      "longitude": 68.52471489999999,
-      "min_latitude": 31.593519,
-      "min_longitude": 67.82210479999999,
-      "max_latitude": 33.4239659,
-      "max_longitude": 69.5345761
-    },
-    "name": "Paktika",
     "comments": null
   },
   "SAM": {
+    "name": "Samangan",
+    "code": null,
     "unofficial_names": "Samangan",
+    "geo": {
+      "latitude": 35.9807296,
+      "longitude": 67.57085359999999,
+      "min_latitude": 35.34659389999999,
+      "min_longitude": 66.88432,
+      "max_latitude": 36.638235,
+      "max_longitude": 68.5661071
+    },
     "translations": {
       "en": "Samangan",
       "ar": "ولاية سمنكان",
@@ -1856,25 +2067,32 @@
       "tr": "Samangan Vilayeti",
       "uk": "Саманган",
       "ur": "صوبہ سمنگان",
-      "vi": "Samangan"
+      "vi": "Samangan",
+      "lv": "Samangānas province",
+      "ceb": "Samangān",
+      "sr_Latn": "Provincija Samangan",
+      "zh": "萨曼甘省",
+      "ccp": "𑄥𑄟𑄧𑄚𑄴𑄉𑄳𑄠𑄚𑄴",
+      "pa": "ਸਮੰਗਾਨ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 35.9807296,
-      "longitude": 67.57085359999999,
-      "min_latitude": 35.34659389999999,
-      "min_longitude": 66.88432,
-      "max_latitude": 36.638235,
-      "max_longitude": 68.5661071
-    },
-    "name": "Samangan",
     "comments": null
   },
   "SAR": {
+    "name": "Sar-e Pol",
+    "code": null,
     "unofficial_names": [
       "Sar-e Pol",
       "Sar-i Pol",
       "Sari Pol"
     ],
+    "geo": {
+      "latitude": 36.22138899999999,
+      "longitude": 65.927778,
+      "min_latitude": 36.1827099,
+      "min_longitude": 65.9110165,
+      "max_latitude": 36.23838900000001,
+      "max_longitude": 65.9589957
+    },
     "translations": {
       "en": "Sar-e Pol",
       "ar": "ولاية سربل",
@@ -1921,25 +2139,32 @@
       "tr": "Sar-i Pol Vilayeti",
       "uk": "Сарі-Пуль",
       "ur": "صوبہ سرپل",
-      "vi": "Sar-e Pol"
+      "vi": "Sar-e Pol",
+      "lv": "Sarepola",
+      "ceb": "Sar-e Pul (lalawigan)",
+      "sr_Latn": "Provincija Saripol",
+      "zh": "薩爾普勒省",
+      "ccp": "𑄥𑄢𑄴-𑄃𑄨 𑄛𑄧𑄣𑄴",
+      "pa": "ਸਰੇ ਪੋਲ"
     },
-    "geo": {
-      "latitude": 36.22138899999999,
-      "longitude": 65.927778,
-      "min_latitude": 36.1827099,
-      "min_longitude": 65.9110165,
-      "max_latitude": 36.23838900000001,
-      "max_longitude": 65.9589957
-    },
-    "name": "Sar-e Pol",
     "comments": null
   },
   "TAK": {
+    "name": "Takhar",
+    "code": null,
     "unofficial_names": [
       "Tahar",
       "Takhar",
       "Takhār"
     ],
+    "geo": {
+      "latitude": 36.6698013,
+      "longitude": 69.4784541,
+      "min_latitude": 35.785804,
+      "min_longitude": 69.1752951,
+      "max_latitude": 37.62126,
+      "max_longitude": 70.4998339
+    },
     "translations": {
       "en": "Takhar",
       "ar": "ولاية تخار",
@@ -1987,25 +2212,32 @@
       "tr": "Tahar Vilayeti",
       "uk": "Тахар",
       "ur": "صوبہ تخار",
-      "vi": "Takhar"
+      "vi": "Takhar",
+      "lv": "Tahāra",
+      "ceb": "Wilāyat-e Takhār",
+      "sr_Latn": "Provincija Takar",
+      "zh": "塔哈尔省",
+      "ccp": "𑄖𑄧𑄈𑄧𑄢𑄴",
+      "pa": "ਤਖਾਰ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 36.6698013,
-      "longitude": 69.4784541,
-      "min_latitude": 35.785804,
-      "min_longitude": 69.1752951,
-      "max_latitude": 37.62126,
-      "max_longitude": 70.4998339
-    },
-    "name": "Takhar",
     "comments": null
   },
   "WAR": {
+    "name": "Wardak [Wardag]",
+    "code": null,
     "unofficial_names": [
       "Vardak",
       "Wardagh",
       "Wardak"
     ],
+    "geo": {
+      "latitude": 34.3513494,
+      "longitude": 68.2385339,
+      "min_latitude": 33.683571,
+      "min_longitude": 67.232205,
+      "max_latitude": 34.797575,
+      "max_longitude": 68.972619
+    },
     "translations": {
       "en": "Maidan Wardak",
       "ar": "ولاية وردك",
@@ -2052,25 +2284,32 @@
       "tr": "Vardak Vilayeti",
       "uk": "Вардак",
       "ur": "وردک",
-      "vi": "Wardak"
+      "vi": "Wardak",
+      "lv": "Vardaka",
+      "ceb": "Wardak (lalawigan)",
+      "sr_Latn": "Provincija Vardak",
+      "zh": "瓦尔达克省",
+      "ccp": "𑄟𑄳𑄆𑄓𑄧𑄚𑄴 𑄤𑄢𑄴𑄓𑄧𑄇𑄴",
+      "pa": "ਵਾਰਦਾਕ"
     },
-    "geo": {
-      "latitude": 34.3513494,
-      "longitude": 68.2385339,
-      "min_latitude": 33.683571,
-      "min_longitude": 67.232205,
-      "max_latitude": 34.797575,
-      "max_longitude": 68.972619
-    },
-    "name": "Wardak [Wardag]",
     "comments": null
   },
   "ZAB": {
+    "name": "Zabol [Zabul]",
+    "code": null,
     "unofficial_names": [
       "Zabol",
       "Zabul",
       "Zābol"
     ],
+    "geo": {
+      "latitude": 32.1918782,
+      "longitude": 67.1894488,
+      "min_latitude": 31.505068,
+      "min_longitude": 66.192899,
+      "max_latitude": 33.083939,
+      "max_longitude": 68.1166841
+    },
     "translations": {
       "en": "Zabul",
       "ar": "ولاية زابل",
@@ -2117,20 +2356,28 @@
       "tr": "Zabul Vilayeti",
       "uk": "Забуль",
       "ur": "زابل پراونس",
-      "vi": "Zabul (tỉnh)"
+      "vi": "Zabul (tỉnh)",
+      "lv": "Zābola",
+      "ceb": "Wilāyat-e Zābul",
+      "sr_Latn": "Provincija Zabul",
+      "zh": "扎布尔省",
+      "ccp": "𑄎𑄝𑄪𑄣𑄴",
+      "pa": "ਜ਼ਾਬੁਲ ਸੂਬਾ"
     },
-    "geo": {
-      "latitude": 32.1918782,
-      "longitude": 67.1894488,
-      "min_latitude": 31.505068,
-      "min_longitude": 66.192899,
-      "max_latitude": 33.083939,
-      "max_longitude": 68.1166841
-    },
-    "name": "Zabol [Zabul]",
     "comments": null
   },
   "LOG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ولاية لوكر",
       "az": "Lövgər vilayəti",
@@ -2178,10 +2425,28 @@
       "tr": "Lovgar Vilayeti",
       "uk": "Логар",
       "ur": "صوبہ لوگر",
-      "vi": "Logar"
-    }
+      "vi": "Logar",
+      "lv": "Lougara",
+      "ceb": "Wilāyat-e Lōgar",
+      "sr_Latn": "Provincija Logar",
+      "zh": "洛加尔省",
+      "ccp": "𑄣𑄧𑄉𑄢𑄴",
+      "uz": "Luvgar"
+    },
+    "comments": null
   },
   "URU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ولاية أروزكان",
       "az": "Uruzgan",
@@ -2228,8 +2493,16 @@
       "tr": "Uruzgan Vilayeti",
       "uk": "Урузган",
       "ur": "اروزگان",
-      "vi": "Oruzgan"
-    }
+      "vi": "Oruzgan",
+      "lv": "Orūzgānas province",
+      "ceb": "Uruzgān",
+      "sr_Latn": "Provincija Oruzgan",
+      "zh": "乌鲁兹甘省",
+      "ccp": "𑄅𑄪𑄢𑄧𑄌𑄴𑄉𑄧𑄚𑄴",
+      "pa": "ਓਰੁਜਗਾਨ ਸੂਬਾ",
+      "ml": "ഉറോസ്ഗാൻ പ്രവിശ്യ"
+    },
+    "comments": null
   }
 }
 

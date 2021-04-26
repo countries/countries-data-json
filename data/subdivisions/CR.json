@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Alajuela",
+    "code": null,
     "unofficial_names": "Alajuela",
+    "geo": {
+      "latitude": 10.391583,
+      "longitude": -84.4382721,
+      "min_latitude": 9.8215051,
+      "min_longitude": -85.43863999999999,
+      "max_latitude": 11.0793161,
+      "max_longitude": -84.149513
+    },
     "translations": {
       "en": "Alajuela",
       "ar": "الأخويلا",
@@ -45,20 +55,28 @@
       "uk": "Алахуела",
       "ur": "الاخویلا صوبہ",
       "vi": "Alajuela",
-      "zh": "阿拉胡埃拉省"
+      "zh": "阿拉胡埃拉省",
+      "lv": "Alahvelas province",
+      "ceb": "Provincia de Alajuela",
+      "sr_Latn": "Alahuela",
+      "ccp": "𑄃𑄣𑄴𑄎𑄪𑄠𑄬𑄣",
+      "sd": "الاخويلا",
+      "eu": "Alajuela (probintzia)"
     },
-    "geo": {
-      "latitude": 10.391583,
-      "longitude": -84.4382721,
-      "min_latitude": 9.8215051,
-      "min_longitude": -85.43863999999999,
-      "max_latitude": 11.0793161,
-      "max_longitude": -84.149513
-    },
-    "name": "Alajuela"
+    "comments": null
   },
   "C": {
+    "name": "Cartago",
+    "code": null,
     "unofficial_names": "Cartago",
+    "geo": {
+      "latitude": 9.7539596,
+      "longitude": -83.67739279999999,
+      "min_latitude": 9.505219100000001,
+      "min_longitude": -84.0711091,
+      "max_latitude": 10.1429971,
+      "max_longitude": -83.301808
+    },
     "translations": {
       "en": "Cartago",
       "ar": "كارتاغو",
@@ -91,20 +109,28 @@
       "sv": "Cartago",
       "uk": "Картаго",
       "ur": "کارتاگو صوبہ",
-      "vi": "Cartago"
+      "vi": "Cartago",
+      "ceb": "Provincia de Cartago",
+      "tr": "Cartago ili",
+      "sr_Latn": "Kartago",
+      "zh": "卡塔戈省",
+      "ccp": "𑄇𑄢𑄴𑄑𑄉𑄮",
+      "eu": "Cartago (probintzia)"
     },
-    "geo": {
-      "latitude": 9.7539596,
-      "longitude": -83.67739279999999,
-      "min_latitude": 9.505219100000001,
-      "min_longitude": -84.0711091,
-      "max_latitude": 10.1429971,
-      "max_longitude": -83.301808
-    },
-    "name": "Cartago"
+    "comments": null
   },
   "G": {
+    "name": "Guanacaste",
+    "code": null,
     "unofficial_names": "Guanacaste",
+    "geo": {
+      "latitude": 10.4957971,
+      "longitude": -85.35496499999999,
+      "min_latitude": 9.723861099999999,
+      "min_longitude": -85.9460828,
+      "max_latitude": 11.2168181,
+      "max_longitude": -84.760645
+    },
     "translations": {
       "en": "Guanacaste",
       "ar": "غواناكاسته",
@@ -148,20 +174,27 @@
       "tr": "Guanacaste Province",
       "uk": "Ґуанакасте",
       "ur": "گواناکاستے صوبہ",
-      "vi": "Guanacaste"
+      "vi": "Guanacaste",
+      "lv": "Gvanakastes province",
+      "ceb": "Provincia de Guanacaste",
+      "sr_Latn": "Gvanakaste",
+      "zh": "瓜纳卡斯特省",
+      "ccp": "𑄉𑄪𑄠𑄚𑄇𑄌𑄴𑄑𑄬"
     },
-    "geo": {
-      "latitude": 10.4957971,
-      "longitude": -85.35496499999999,
-      "min_latitude": 9.723861099999999,
-      "min_longitude": -85.9460828,
-      "max_latitude": 11.2168181,
-      "max_longitude": -84.760645
-    },
-    "name": "Guanacaste"
+    "comments": null
   },
   "H": {
+    "name": "Heredia",
+    "code": null,
     "unofficial_names": "Heredia",
+    "geo": {
+      "latitude": 10.473523,
+      "longitude": -84.01674229999999,
+      "min_latitude": 9.9513191,
+      "min_longitude": -84.19046589999999,
+      "max_latitude": 10.789644,
+      "max_longitude": -83.714804
+    },
     "translations": {
       "en": "Heredia",
       "ar": "إيريذيا",
@@ -195,20 +228,29 @@
       "sv": "Heredia",
       "uk": "Ередія",
       "ur": "ایریدیا صوبہ",
-      "vi": "Heredia"
+      "vi": "Heredia",
+      "ceb": "Provincia de Heredia",
+      "tr": "Heredia ili",
+      "sr_Latn": "Eredija",
+      "zh": "埃雷迪亚省",
+      "ccp": "𑄦𑄬𑄢𑄬𑄓𑄨𑄠",
+      "hu": "Heredia tartomány",
+      "eu": "Heredia (probintzia)"
     },
-    "geo": {
-      "latitude": 10.473523,
-      "longitude": -84.01674229999999,
-      "min_latitude": 9.9513191,
-      "min_longitude": -84.19046589999999,
-      "max_latitude": 10.789644,
-      "max_longitude": -83.714804
-    },
-    "name": "Heredia"
+    "comments": null
   },
   "L": {
+    "name": "Limón",
+    "code": null,
     "unofficial_names": "Limón",
+    "geo": {
+      "latitude": 9.983333,
+      "longitude": -83.033333,
+      "min_latitude": 9.9721473,
+      "min_longitude": -83.06642529999999,
+      "max_latitude": 10.0114533,
+      "max_longitude": -83.0199856
+    },
     "translations": {
       "en": "Limón",
       "ar": "ليمون",
@@ -240,20 +282,27 @@
       "sv": "Limón",
       "uk": "Лимон",
       "ur": "لیمون صوبہ",
-      "vi": "Limón"
+      "vi": "Limón",
+      "ceb": "Provincia de Limón",
+      "tr": "Limón ili",
+      "sr_Latn": "Limon",
+      "zh": "利蒙省",
+      "ccp": "𑄣𑄨𑄟𑄧𑄚𑄴"
     },
-    "geo": {
-      "latitude": 9.983333,
-      "longitude": -83.033333,
-      "min_latitude": 9.9721473,
-      "min_longitude": -83.06642529999999,
-      "max_latitude": 10.0114533,
-      "max_longitude": -83.0199856
-    },
-    "name": "Limón"
+    "comments": null
   },
   "P": {
+    "name": "Puntarenas",
+    "code": null,
     "unofficial_names": "Puntarenas",
+    "geo": {
+      "latitude": 9.9778439,
+      "longitude": -84.82942109999999,
+      "min_latitude": 9.9740775,
+      "min_longitude": -84.8512676,
+      "max_latitude": 9.983031,
+      "max_longitude": -84.7929956
+    },
     "translations": {
       "en": "Puntarenas",
       "ar": "بونتاريناس",
@@ -296,20 +345,28 @@
       "tr": "Puntaneras Province",
       "uk": "Пунтаренас",
       "ur": "پونتاریناس صوبہ",
-      "vi": "Puntarenas"
+      "vi": "Puntarenas",
+      "lv": "Puantarenasas province",
+      "ceb": "Provincia de Puntarenas",
+      "sr_Latn": "Puntarenas",
+      "zh": "蓬塔雷纳斯省",
+      "ccp": "𑄛𑄪𑄚𑄴𑄑𑄢𑄬𑄚𑄌𑄴",
+      "eu": "Puntarenas (probintzia)"
     },
-    "geo": {
-      "latitude": 9.9778439,
-      "longitude": -84.82942109999999,
-      "min_latitude": 9.9740775,
-      "min_longitude": -84.8512676,
-      "max_latitude": 9.983031,
-      "max_longitude": -84.7929956
-    },
-    "name": "Puntarenas"
+    "comments": null
   },
   "SJ": {
+    "name": "San José",
+    "code": null,
     "unofficial_names": "San José",
+    "geo": {
+      "latitude": 9.9280694,
+      "longitude": -84.0907246,
+      "min_latitude": 9.899968699999999,
+      "min_longitude": -84.1794991,
+      "max_latitude": 9.9712598,
+      "max_longitude": -84.047191
+    },
     "translations": {
       "en": "San José",
       "ar": "محافظة سان خوسيه",
@@ -352,17 +409,16 @@
       "tr": "San soze Province",
       "uk": "Сан-Хосе",
       "ur": "سان خوزے صوبہ",
-      "vi": "San José"
+      "vi": "San José",
+      "lv": "Sanhosē province",
+      "ceb": "Provincia de San José",
+      "sr_Latn": "San Hose",
+      "zh": "圣何塞省",
+      "ccp": "𑄥𑄚𑄴 𑄎𑄧𑄥𑄬",
+      "eu": "San Jose (probintzia)",
+      "be": "правінцыя Сан-Хасэ"
     },
-    "geo": {
-      "latitude": 9.9280694,
-      "longitude": -84.0907246,
-      "min_latitude": 9.899968699999999,
-      "min_longitude": -84.1794991,
-      "max_latitude": 9.9712598,
-      "max_longitude": -84.047191
-    },
-    "name": "San José"
+    "comments": null
   }
 }
 

@@ -1,8 +1,18 @@
 {
   "C": {
+    "name": "Connacht",
+    "code": null,
     "unofficial_names": [
       "Connaught"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Connacht",
       "ar": "كوناكت",
@@ -39,22 +49,35 @@
       "sv": "Connacht",
       "uk": "Коннахт",
       "ur": "کوناکٹ",
-      "zh": "康諾特省"
+      "zh": "康諾特省",
+      "cy": "Connacht",
+      "ceb": "Connaught",
+      "tr": "Connacht",
+      "sr_Latn": "Konot",
+      "vi": "Connacht",
+      "yue_Hans": "干诺省",
+      "ccp": "𑄇𑄮𑄚𑄌𑄴𑄑𑄴",
+      "ga": "Cúige Chonnacht",
+      "hy": "Կոննախտ",
+      "yue": "干諾省",
+      "mk": "Конахт"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Connacht"
+    "comments": null
   },
   "CE": {
+    "name": "Clare",
+    "code": null,
     "unofficial_names": [
       "An Clár"
     ],
+    "geo": {
+      "latitude": 52.86245280000001,
+      "longitude": -9.0471645,
+      "min_latitude": 52.5545323,
+      "min_longitude": -9.9386938,
+      "max_latitude": 53.1686759,
+      "max_longitude": -8.2839238
+    },
     "translations": {
       "en": "Clare",
       "ar": "مقاطعة كلير",
@@ -103,22 +126,33 @@
       "tr": "Clare County",
       "uk": "Клер",
       "ur": "کاؤنٹی کلیئر",
-      "vi": "Hạt Clare"
+      "vi": "Hạt Clare",
+      "lv": "Klēras grāfiste",
+      "cy": "Swydd Clare",
+      "ceb": "An Clár",
+      "sr_Latn": "Kler",
+      "zh": "克莱尔郡",
+      "ccp": "𑄇𑄳𑄣𑄢𑄬",
+      "ga": "Contae an Chláir",
+      "be": "графства Клэр",
+      "mk": "Клер"
     },
-    "geo": {
-      "latitude": 52.86245280000001,
-      "longitude": -9.0471645,
-      "min_latitude": 52.5545323,
-      "min_longitude": -9.9386938,
-      "max_latitude": 53.1686759,
-      "max_longitude": -8.2839238
-    },
-    "name": "Clare"
+    "comments": null
   },
   "CN": {
+    "name": "Cavan",
+    "code": null,
     "unofficial_names": [
       "An Cabhán"
     ],
+    "geo": {
+      "latitude": 53.9897186,
+      "longitude": -7.3633319,
+      "min_latitude": 53.9700812,
+      "min_longitude": -7.394294299999999,
+      "max_latitude": 54.00315670000001,
+      "max_longitude": -7.3168015
+    },
     "translations": {
       "en": "Cavan",
       "ar": "مقاطعة كافان",
@@ -165,22 +199,35 @@
       "tr": "Cavan County",
       "uk": "Каван",
       "ur": "کاؤنٹی کاوان",
-      "vi": "Hạt Cavan"
+      "vi": "Hạt Cavan",
+      "lv": "Kevanas grāfiste",
+      "cy": "Swydd Cavan",
+      "ceb": "An Cabhán",
+      "sr_Latn": "Kavan",
+      "zh": "卡文郡",
+      "fa": "شهرستان کاوان",
+      "ccp": "𑄇𑄳𑄠𑄞𑄧𑄚𑄴",
+      "ga": "Contae an Chabháin",
+      "he": "מחוז קאוואן",
+      "be": "графства Каван",
+      "mk": "Каван"
     },
-    "geo": {
-      "latitude": 53.9897186,
-      "longitude": -7.3633319,
-      "min_latitude": 53.9700812,
-      "min_longitude": -7.394294299999999,
-      "max_latitude": 54.00315670000001,
-      "max_longitude": -7.3168015
-    },
-    "name": "Cavan"
+    "comments": null
   },
   "CW": {
+    "name": "Carlow",
+    "code": null,
     "unofficial_names": [
       "Ceatharlach"
     ],
+    "geo": {
+      "latitude": 52.7189747,
+      "longitude": -6.8503703,
+      "min_latitude": 52.4638685,
+      "min_longitude": -7.107934699999999,
+      "max_latitude": 52.9179628,
+      "max_longitude": -6.5049107
+    },
     "translations": {
       "en": "Carlow",
       "ar": "مقاطعة كارلو",
@@ -229,22 +276,34 @@
       "tr": "Carlow County",
       "uk": "Карлоу",
       "ur": "کاؤنٹی کارلو",
-      "vi": "Hạt Carlow"
+      "vi": "Hạt Carlow",
+      "lv": "Kārlovas grāfiste",
+      "cy": "Swydd Carlow",
+      "ceb": "County Carlow",
+      "sr_Latn": "Karlou",
+      "zh": "卡洛郡",
+      "sq": "Carlow",
+      "ccp": "𑄇𑄢𑄴𑄣𑄮",
+      "ga": "Contae Cheatharlach",
+      "be": "графства Карлау",
+      "mk": "Карлоу"
     },
-    "geo": {
-      "latitude": 52.7189747,
-      "longitude": -6.8503703,
-      "min_latitude": 52.4638685,
-      "min_longitude": -7.107934699999999,
-      "max_latitude": 52.9179628,
-      "max_longitude": -6.5049107
-    },
-    "name": "Carlow"
+    "comments": null
   },
   "D": {
+    "name": "Dublin",
+    "code": null,
     "unofficial_names": [
       "Átha Cliath"
     ],
+    "geo": {
+      "latitude": 53.3498053,
+      "longitude": -6.2603097,
+      "min_latitude": 53.22343009999999,
+      "min_longitude": -6.450839999999999,
+      "max_latitude": 53.42521010000001,
+      "max_longitude": -6.05255
+    },
     "translations": {
       "en": "Dublin",
       "ar": "مقاطعة دبلن",
@@ -281,22 +340,31 @@
       "sv": "Dublin",
       "tr": "Dublin ili",
       "uk": "Дублін",
-      "ur": "کاؤنٹی ڈبلن"
+      "ur": "کاؤنٹی ڈبلن",
+      "cy": "Swydd Dulyn",
+      "sr_Latn": "Dablin",
+      "zh": "都柏林地區",
+      "ccp": "𑄓𑄪𑄛𑄴𑄣𑄨𑄚𑄴",
+      "ga": "Contae Bhaile Átha Cliath",
+      "hy": "Դուբլին",
+      "mk": "Даблин"
     },
-    "geo": {
-      "latitude": 53.3498053,
-      "longitude": -6.2603097,
-      "min_latitude": 53.22343009999999,
-      "min_longitude": -6.450839999999999,
-      "max_latitude": 53.42521010000001,
-      "max_longitude": -6.05255
-    },
-    "name": "Dublin"
+    "comments": null
   },
   "DL": {
+    "name": "Donegal",
+    "code": null,
     "unofficial_names": [
       "Dún na nGall"
     ],
+    "geo": {
+      "latitude": 54.6541972,
+      "longitude": -8.110546,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Donegal",
       "ar": "مقاطعة دونيجال",
@@ -347,22 +415,32 @@
       "tr": "Donegal Kontluğu",
       "uk": "Донегол",
       "ur": "کاؤنٹی ڈانیگول",
-      "vi": "Hạt Donegal"
+      "vi": "Hạt Donegal",
+      "lv": "Donegolas grāfiste",
+      "cy": "Swydd Donegal",
+      "ceb": "County Donegal",
+      "sr_Latn": "Donegol",
+      "zh": "多尼戈爾郡",
+      "ccp": "𑄓𑄧𑄚𑄴𑄉𑄳𑄠𑄣𑄴",
+      "ga": "Contae Dhún na nGall",
+      "mk": "Донегол"
     },
-    "geo": {
-      "latitude": 54.6541972,
-      "longitude": -8.110546,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Donegal"
+    "comments": null
   },
   "G": {
+    "name": "Galway",
+    "code": null,
     "unofficial_names": [
       "Gaillimh"
     ],
+    "geo": {
+      "latitude": 53.270668,
+      "longitude": -9.0567905,
+      "min_latitude": 53.2485394,
+      "min_longitude": -9.1426873,
+      "max_latitude": 53.31947049999999,
+      "max_longitude": -8.954820699999999
+    },
     "translations": {
       "en": "Galway",
       "ar": "مقاطعة جلوي",
@@ -410,22 +488,34 @@
       "tr": "Galway County",
       "uk": "Голвей",
       "ur": "کاؤنٹی گالوے",
-      "vi": "Hạt Galway"
+      "vi": "Hạt Galway",
+      "lv": "Golvejas grāfiste",
+      "cy": "Swydd Galway",
+      "ceb": "County Galway",
+      "sr_Latn": "Golvej",
+      "zh": "戈尔韦郡",
+      "ccp": "𑄉𑄧𑄣𑄴𑄃𑄮𑄠𑄬",
+      "ga": "Contae na Gaillimhe",
+      "sl": "Grofija Galway",
+      "be": "графства Голуэй",
+      "mk": "Голвеј"
     },
-    "geo": {
-      "latitude": 53.270668,
-      "longitude": -9.0567905,
-      "min_latitude": 53.2485394,
-      "min_longitude": -9.1426873,
-      "max_latitude": 53.31947049999999,
-      "max_longitude": -8.954820699999999
-    },
-    "name": "Galway"
+    "comments": null
   },
   "KE": {
+    "name": "Kildare",
+    "code": null,
     "unofficial_names": [
       "Cill Dara"
     ],
+    "geo": {
+      "latitude": 53.1589342,
+      "longitude": -6.9095683,
+      "min_latitude": 53.15196,
+      "min_longitude": -6.92259,
+      "max_latitude": 53.1828601,
+      "max_longitude": -6.8829899
+    },
     "translations": {
       "en": "Kildare",
       "ar": "مقاطعة كيلدير",
@@ -473,22 +563,35 @@
       "tr": "County Kildare",
       "uk": "Кілдер",
       "ur": "کاؤنٹی کلڈیئر",
-      "vi": "Hạt Kildare"
+      "vi": "Hạt Kildare",
+      "lv": "Kildēras grāfiste",
+      "cy": "Swydd Kildare",
+      "af": "Graafskap Kildare",
+      "ceb": "Kildare (kondado)",
+      "sr_Latn": "Kilder",
+      "zh": "基尔代尔郡",
+      "ccp": "𑄇𑄨𑄣𑄴𑄓𑄢𑄬",
+      "ga": "Contae Chill Dara",
+      "et": "Kildare’i krahvkond",
+      "kk": "Килдэйр",
+      "mk": "Килдер"
     },
-    "geo": {
-      "latitude": 53.1589342,
-      "longitude": -6.9095683,
-      "min_latitude": 53.15196,
-      "min_longitude": -6.92259,
-      "max_latitude": 53.1828601,
-      "max_longitude": -6.8829899
-    },
-    "name": "Kildare"
+    "comments": null
   },
   "KK": {
+    "name": "Kilkenny",
+    "code": null,
     "unofficial_names": [
       "Cill Chainnigh"
     ],
+    "geo": {
+      "latitude": 52.6541454,
+      "longitude": -7.2447879,
+      "min_latitude": 52.63111,
+      "min_longitude": -7.2731599,
+      "max_latitude": 52.67698000000001,
+      "max_longitude": -7.20547
+    },
     "translations": {
       "en": "Kilkenny",
       "ar": "مقاطعة كيكني",
@@ -537,23 +640,35 @@
       "tr": "Kilkenny County",
       "uk": "Кілкенні",
       "ur": "کاؤنٹی کلکینی",
-      "vi": "Hạt Kilkenny"
+      "vi": "Hạt Kilkenny",
+      "lv": "Kilkeni grāfiste",
+      "cy": "Swydd Kilkenny",
+      "sr_Latn": "Kilkeni",
+      "zh": "基爾肯尼郡",
+      "fa": "شهرستان کیلکنی",
+      "ccp": "𑄇𑄨𑄣𑄴𑄇𑄬𑄚𑄨",
+      "ga": "Contae Chill Chainnigh",
+      "he": "מחוז קילקני",
+      "kk": "Килкенни",
+      "mk": "Килкени"
     },
-    "geo": {
-      "latitude": 52.6541454,
-      "longitude": -7.2447879,
-      "min_latitude": 52.63111,
-      "min_longitude": -7.2731599,
-      "max_latitude": 52.67698000000001,
-      "max_longitude": -7.20547
-    },
-    "name": "Kilkenny"
+    "comments": null
   },
   "KY": {
+    "name": "Kerry",
+    "code": null,
     "unofficial_names": [
       "Ciarraighe",
       "Ciarraí"
     ],
+    "geo": {
+      "latitude": 52.15446069999999,
+      "longitude": -9.5668632,
+      "min_latitude": 51.6883223,
+      "min_longitude": -10.6183626,
+      "max_latitude": 52.59184,
+      "max_longitude": -9.118786
+    },
     "translations": {
       "en": "Kerry",
       "ar": "مقاطعة كري",
@@ -602,23 +717,33 @@
       "tr": "Kerry County",
       "uk": "Керрі",
       "ur": "کاؤنٹی کیری",
-      "vi": "Hạt Kerry"
+      "vi": "Hạt Kerry",
+      "lv": "Kerri grāfiste",
+      "cy": "Swydd Kerry",
+      "ceb": "Ciarraí",
+      "sr_Latn": "Keri",
+      "zh": "凱里郡",
+      "ccp": "𑄇𑄬𑄢𑄨",
+      "ga": "Contae Chiarraí",
+      "mk": "Кери"
     },
-    "geo": {
-      "latitude": 52.15446069999999,
-      "longitude": -9.5668632,
-      "min_latitude": 51.6883223,
-      "min_longitude": -10.6183626,
-      "max_latitude": 52.59184,
-      "max_longitude": -9.118786
-    },
-    "name": "Kerry"
+    "comments": null
   },
   "LD": {
+    "name": "Longford",
+    "code": null,
     "unofficial_names": [
       "Longphort",
       "Longphuirt"
     ],
+    "geo": {
+      "latitude": 53.7275564,
+      "longitude": -7.793108999999999,
+      "min_latitude": 53.5269053,
+      "min_longitude": -8.0358602,
+      "max_latitude": 53.9420806,
+      "max_longitude": -7.374903300000001
+    },
     "translations": {
       "en": "Longford",
       "ar": "مقاطعة لونجفورد",
@@ -666,23 +791,34 @@
       "tr": "Longford County",
       "uk": "Лонгфорд",
       "ur": "کاؤنٹی لونگفرڈ",
-      "vi": "Hạt Longford"
+      "vi": "Hạt Longford",
+      "lv": "Longfordas grāfiste",
+      "cy": "Swydd Longfoirt",
+      "ceb": "An Longfort (kondado sa Ireland)",
+      "sr_Latn": "Longford",
+      "zh": "朗福德郡",
+      "ccp": "𑄣𑄧𑄁𑄜𑄮𑄢𑄴𑄓𑄴",
+      "ga": "Contae an Longfoirt",
+      "be": "графства Лонгфард",
+      "mk": "Лонгфорд"
     },
-    "geo": {
-      "latitude": 53.7275564,
-      "longitude": -7.793108999999999,
-      "min_latitude": 53.5269053,
-      "min_longitude": -8.0358602,
-      "max_latitude": 53.9420806,
-      "max_longitude": -7.374903300000001
-    },
-    "name": "Longford"
+    "comments": null
   },
   "LH": {
+    "name": "Louth",
+    "code": null,
     "unofficial_names": [
       "Lughbhadh",
       "Lú"
     ],
+    "geo": {
+      "latitude": 53.8969758,
+      "longitude": -6.467097099999999,
+      "min_latitude": 53.6984916,
+      "min_longitude": -6.695343200000001,
+      "max_latitude": 54.1139513,
+      "max_longitude": -6.1030107
+    },
     "translations": {
       "en": "Louth",
       "ar": "مقاطعة لاوث",
@@ -729,22 +865,35 @@
       "tr": "County Louth",
       "uk": "Лаут",
       "ur": "کاؤنٹی لاوتھ",
-      "vi": "Hạt Louth"
+      "vi": "Hạt Louth",
+      "lv": "Lautas grāfiste",
+      "cy": "Swydd Louth",
+      "ceb": "Lú",
+      "sr_Latn": "Laud",
+      "zh": "劳斯郡",
+      "ccp": "𑄣𑄮𑄖𑄴",
+      "ga": "Contae Lú",
+      "he": "מחוז לאות׳",
+      "et": "Louthi krahvkond",
+      "az": "Laut",
+      "mk": "Лаут"
     },
-    "geo": {
-      "latitude": 53.8969758,
-      "longitude": -6.467097099999999,
-      "min_latitude": 53.6984916,
-      "min_longitude": -6.695343200000001,
-      "max_latitude": 54.1139513,
-      "max_longitude": -6.1030107
-    },
-    "name": "Louth"
+    "comments": null
   },
   "LK": {
+    "name": "Limerick",
+    "code": null,
     "unofficial_names": [
       "Luimneach"
     ],
+    "geo": {
+      "latitude": 52.6680204,
+      "longitude": -8.630497499999999,
+      "min_latitude": 52.6143899,
+      "min_longitude": -8.68994,
+      "max_latitude": 52.6886401,
+      "max_longitude": -8.5703399
+    },
     "translations": {
       "en": "Limerick",
       "ar": "مقاطعة لمريك",
@@ -793,22 +942,33 @@
       "tr": "County Limerick",
       "uk": "Лімерик",
       "ur": "کاؤنٹی لیمرک",
-      "vi": "Hạt Limerick"
+      "vi": "Hạt Limerick",
+      "lv": "Limerikas grāfiste",
+      "cy": "Swydd Limerick",
+      "ceb": "County Limerick",
+      "sr_Latn": "Limerik",
+      "zh": "利默里克郡",
+      "ccp": "𑄣𑄨𑄟𑄬𑄢𑄨𑄇𑄴",
+      "ga": "Contae Luimnigh",
+      "hy": "Լիմերիկ",
+      "mk": "Лимерик"
     },
-    "geo": {
-      "latitude": 52.6680204,
-      "longitude": -8.630497499999999,
-      "min_latitude": 52.6143899,
-      "min_longitude": -8.68994,
-      "max_latitude": 52.6886401,
-      "max_longitude": -8.5703399
-    },
-    "name": "Limerick"
+    "comments": null
   },
   "LM": {
+    "name": "Leitrim",
+    "code": null,
     "unofficial_names": [
       "Liathdroim"
     ],
+    "geo": {
+      "latitude": 53.9926007,
+      "longitude": -8.0655852,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Leitrim",
       "ar": "مقاطعة ليتريم",
@@ -854,23 +1014,35 @@
       "tr": "Leitrim County",
       "uk": "Літрім",
       "ur": "کاؤنٹی لیٹریم",
-      "vi": "Hạt Leitrim"
+      "vi": "Hạt Leitrim",
+      "lv": "Litrimas grāfiste",
+      "cy": "Swydd Leitrim",
+      "ceb": "County Leitrim",
+      "sr_Latn": "Litrim",
+      "zh": "利特里姆郡",
+      "fa": "شهرستان لیتریم",
+      "ccp": "𑄣𑄬𑄭𑄑𑄳𑄢𑄨𑄟𑄴",
+      "ga": "Contae Liatroma",
+      "be": "графства Літрым",
+      "mk": "Литрим"
     },
-    "geo": {
-      "latitude": 53.9926007,
-      "longitude": -8.0655852,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Leitrim"
+    "comments": null
   },
   "LS": {
+    "name": "Laois",
+    "code": null,
     "unofficial_names": [
       "Laoighis",
       "Queenʿs"
     ],
+    "geo": {
+      "latitude": 52.994295,
+      "longitude": -7.332300699999999,
+      "min_latitude": 52.7812693,
+      "min_longitude": -7.7346495,
+      "max_latitude": 53.2156522,
+      "max_longitude": -6.9321155
+    },
     "translations": {
       "en": "Laois",
       "ar": "مقاطعة ليش",
@@ -915,23 +1087,36 @@
       "tr": "County Laois",
       "uk": "Ліїш",
       "ur": "کاؤنٹی لیش",
-      "vi": "Hạt Laois"
+      "vi": "Hạt Laois",
+      "lv": "Lišas grāfiste",
+      "cy": "Swydd Laois",
+      "ceb": "Laois",
+      "sr_Latn": "Liš",
+      "zh": "萊伊什郡",
+      "fa": "شهرستان لیش",
+      "ccp": "𑄣𑄭𑄠𑄮𑄌𑄴",
+      "ga": "Contae Laoise",
+      "he": "מחוז לייש",
+      "be": "графтсва Лііш",
+      "mk": "Лиш"
     },
-    "geo": {
-      "latitude": 52.994295,
-      "longitude": -7.332300699999999,
-      "min_latitude": 52.7812693,
-      "min_longitude": -7.7346495,
-      "max_latitude": 53.2156522,
-      "max_longitude": -6.9321155
-    },
-    "name": "Laois"
+    "comments": null
   },
   "MH": {
+    "name": "Meath",
+    "code": null,
     "unofficial_names": [
       "An Mhí",
       "An Mhídhe"
     ],
+    "geo": {
+      "latitude": 53.60554800000001,
+      "longitude": -6.6564169,
+      "min_latitude": 53.38186640000001,
+      "min_longitude": -7.33552,
+      "max_latitude": 53.9176662,
+      "max_longitude": -6.212610499999999
+    },
     "translations": {
       "en": "Meath",
       "ar": "مقاطعة ميث",
@@ -977,22 +1162,36 @@
       "tr": "County Meath",
       "uk": "Міт",
       "ur": "کاؤنٹی میدھ",
-      "vi": "Hạt Meath"
+      "vi": "Hạt Meath",
+      "lv": "Mītas grāfiste",
+      "cy": "Swydd Meath",
+      "ceb": "An Mhí",
+      "sr_Latn": "Mid",
+      "zh": "米斯郡",
+      "yue_Hans": "中土郡",
+      "ccp": "𑄟𑄬𑄖𑄴",
+      "ga": "Contae na Mí",
+      "kk": "Мит (графтық)",
+      "yue": "中土郡",
+      "be": "графства Міт",
+      "mk": "Мит"
     },
-    "geo": {
-      "latitude": 53.60554800000001,
-      "longitude": -6.6564169,
-      "min_latitude": 53.38186640000001,
-      "min_longitude": -7.33552,
-      "max_latitude": 53.9176662,
-      "max_longitude": -6.212610499999999
-    },
-    "name": "Meath"
+    "comments": null
   },
   "MN": {
+    "name": "Monaghan",
+    "code": null,
     "unofficial_names": [
       "Muineachán"
     ],
+    "geo": {
+      "latitude": 54.2492046,
+      "longitude": -6.9683132,
+      "min_latitude": 53.9006798,
+      "min_longitude": -7.339505999999999,
+      "max_latitude": 54.4213907,
+      "max_longitude": -6.5497282
+    },
     "translations": {
       "en": "Monaghan",
       "ar": "مقاطعة موناغان",
@@ -1039,22 +1238,33 @@
       "tr": "Monaghan County",
       "uk": "Монахан",
       "ur": "کاؤنٹی مونیہین",
-      "vi": "Hạt Monaghan"
+      "vi": "Hạt Monaghan",
+      "lv": "Monahanas grāfiste",
+      "cy": "Swydd Monaghan",
+      "ceb": "County Monaghan",
+      "sr_Latn": "Monahan",
+      "zh": "莫纳亨郡",
+      "ccp": "𑄟𑄧𑄚𑄊𑄚𑄴",
+      "ga": "Contae Mhuineacháin",
+      "he": "מחוז מונאהן",
+      "mk": "Монахан"
     },
-    "geo": {
-      "latitude": 54.2492046,
-      "longitude": -6.9683132,
-      "min_latitude": 53.9006798,
-      "min_longitude": -7.339505999999999,
-      "max_latitude": 54.4213907,
-      "max_longitude": -6.5497282
-    },
-    "name": "Monaghan"
+    "comments": null
   },
   "MO": {
+    "name": "Mayo",
+    "code": null,
     "unofficial_names": [
       "Maigh Eo"
     ],
+    "geo": {
+      "latitude": 53.93458099999999,
+      "longitude": -9.351645600000001,
+      "min_latitude": 53.4719262,
+      "min_longitude": -10.2510017,
+      "max_latitude": 54.3454008,
+      "max_longitude": -8.5828617
+    },
     "translations": {
       "en": "Mayo",
       "ar": "مقاطعة مايو",
@@ -1103,25 +1313,36 @@
       "tr": "Mayo COunty",
       "uk": "Мейо",
       "ur": "کاؤنٹی میو",
-      "vi": "Hạt Mayo"
+      "vi": "Hạt Mayo",
+      "lv": "Mejo grāfiste",
+      "cy": "Swydd Mayo",
+      "ceb": "Maigh Eo",
+      "sr_Latn": "Mejo",
+      "zh": "梅奧郡",
+      "ccp": "𑄟𑄬𑄠𑄮",
+      "ga": "Contae Mhaigh Eo",
+      "hy": "Մեյո",
+      "mk": "Мејо"
     },
-    "geo": {
-      "latitude": 53.93458099999999,
-      "longitude": -9.351645600000001,
-      "min_latitude": 53.4719262,
-      "min_longitude": -10.2510017,
-      "max_latitude": 54.3454008,
-      "max_longitude": -8.5828617
-    },
-    "name": "Mayo"
+    "comments": null
   },
   "OY": {
+    "name": "Offaly",
+    "code": null,
     "unofficial_names": [
       "Kingʿs",
       "Kingʿs County",
       "Ua Uíbh Fhailí",
       "Uí Fáilghe"
     ],
+    "geo": {
+      "latitude": 53.2356871,
+      "longitude": -7.7122229,
+      "min_latitude": 52.8481718,
+      "min_longitude": -8.0838722,
+      "max_latitude": 53.424279,
+      "max_longitude": -6.9777077
+    },
     "translations": {
       "en": "Offaly",
       "ar": "مقاطعة أوفالي",
@@ -1167,22 +1388,35 @@
       "tr": "Offaly County",
       "uk": "Оффалі",
       "ur": "کاؤنٹی اوفلی",
-      "vi": "Hạt Offaly"
+      "vi": "Hạt Offaly",
+      "lv": "Ofali grāfiste",
+      "cy": "Swydd Offaly",
+      "ceb": "Uíbh Fhailí",
+      "sr_Latn": "Ofali",
+      "zh": "奧法利郡",
+      "ccp": "𑄃𑄧𑄜𑄣𑄨",
+      "ga": "Contae Uíbh Fhailí",
+      "he": "מחוז אופאלי",
+      "kk": "Оффали (графтық)",
+      "be": "графства Офалі",
+      "mk": "Офали"
     },
-    "geo": {
-      "latitude": 53.2356871,
-      "longitude": -7.7122229,
-      "min_latitude": 52.8481718,
-      "min_longitude": -8.0838722,
-      "max_latitude": 53.424279,
-      "max_longitude": -6.9777077
-    },
-    "name": "Offaly"
+    "comments": null
   },
   "RN": {
+    "name": "Roscommon",
+    "code": null,
     "unofficial_names": [
       "Ros Comáin"
     ],
+    "geo": {
+      "latitude": 53.6275906,
+      "longitude": -8.189095499999999,
+      "min_latitude": 53.6117699,
+      "min_longitude": -8.20713,
+      "max_latitude": 53.63941999999999,
+      "max_longitude": -8.16418
+    },
     "translations": {
       "en": "Roscommon",
       "ar": "مقاطعة روسكومون",
@@ -1230,22 +1464,33 @@
       "tr": "County Roscommon",
       "uk": "Роскоммон",
       "ur": "کاؤنٹی راسکومن",
-      "vi": "Hạt Roscommon"
+      "vi": "Hạt Roscommon",
+      "lv": "Roskomono grāfiste",
+      "cy": "Swydd Roscommon",
+      "ceb": "Roscommon",
+      "sr_Latn": "Roskomon",
+      "zh": "羅斯康芒郡",
+      "ccp": "𑄢𑄮𑄌𑄴𑄇𑄮𑄟𑄧𑄚𑄴",
+      "ga": "Contae Ros Comáin",
+      "be": "графства Раскоман",
+      "mk": "Роскомон"
     },
-    "geo": {
-      "latitude": 53.6275906,
-      "longitude": -8.189095499999999,
-      "min_latitude": 53.6117699,
-      "min_longitude": -8.20713,
-      "max_latitude": 53.63941999999999,
-      "max_longitude": -8.16418
-    },
-    "name": "Roscommon"
+    "comments": null
   },
   "SO": {
+    "name": "Sligo",
+    "code": null,
     "unofficial_names": [
       "Sligeach"
     ],
+    "geo": {
+      "latitude": 54.27661029999999,
+      "longitude": -8.4760888,
+      "min_latitude": 54.24951,
+      "min_longitude": -8.5193301,
+      "max_latitude": 54.2872399,
+      "max_longitude": -8.44213
+    },
     "translations": {
       "en": "Sligo",
       "ar": "مقاطعة سليجو",
@@ -1295,22 +1540,33 @@
       "tr": "County Sligo",
       "uk": "Слайго",
       "ur": "کاؤنٹی سلایگوہ",
-      "vi": "Hạt Sligo"
+      "vi": "Hạt Sligo",
+      "lv": "Slaigo grāfiste",
+      "cy": "Swydd Sligo",
+      "ceb": "Sligo (kondado)",
+      "sr_Latn": "Slajgo",
+      "zh": "斯萊戈郡",
+      "ccp": "𑄥𑄳𑄣𑄨𑄉𑄮",
+      "ga": "Contae Shligigh",
+      "be": "графства Слайга",
+      "mk": "Слајго"
     },
-    "geo": {
-      "latitude": 54.27661029999999,
-      "longitude": -8.4760888,
-      "min_latitude": 54.24951,
-      "min_longitude": -8.5193301,
-      "max_latitude": 54.2872399,
-      "max_longitude": -8.44213
-    },
-    "name": "Sligo"
+    "comments": null
   },
   "TA": {
+    "name": "Tipperary",
+    "code": null,
     "unofficial_names": [
       "Tiobraid Árann"
     ],
+    "geo": {
+      "latitude": 52.47378940000001,
+      "longitude": -8.1618514,
+      "min_latitude": 52.2020144,
+      "min_longitude": -8.4800793,
+      "max_latitude": 53.1675822,
+      "max_longitude": -7.372055800000001
+    },
     "translations": {
       "en": "Tipperary",
       "ar": "مقاطعة تيبيراري",
@@ -1357,22 +1613,32 @@
       "tr": "County Tipperary",
       "uk": "Тіпперері",
       "ur": "کاؤنٹی ٹپاریری",
-      "vi": "Hạt Tipperary"
+      "vi": "Hạt Tipperary",
+      "lv": "Tiperēri grāfiste",
+      "cy": "Swydd Tipperary",
+      "sr_Latn": "Tiperari",
+      "zh": "蒂珀雷里郡",
+      "ccp": "𑄑𑄨𑄛𑄢𑄴𑄢𑄨",
+      "ga": "Contae Thiobraid Árann",
+      "be": "графства Тыперэры",
+      "mk": "Типерери"
     },
-    "geo": {
-      "latitude": 52.47378940000001,
-      "longitude": -8.1618514,
-      "min_latitude": 52.2020144,
-      "min_longitude": -8.4800793,
-      "max_latitude": 53.1675822,
-      "max_longitude": -7.372055800000001
-    },
-    "name": "Tipperary"
+    "comments": null
   },
   "WD": {
+    "name": "Waterford",
+    "code": null,
     "unofficial_names": [
       "Port Láirge"
     ],
+    "geo": {
+      "latitude": 52.256667,
+      "longitude": -7.129167,
+      "min_latitude": 52.22481,
+      "min_longitude": -7.171189999999999,
+      "max_latitude": 52.27019989999999,
+      "max_longitude": -7.0548699
+    },
     "translations": {
       "en": "Waterford",
       "ar": "مقاطعة وترفورد",
@@ -1421,22 +1687,32 @@
       "tr": "Waterford County",
       "uk": "Вотерфорд",
       "ur": "کاؤنٹی واٹرفرڈ",
-      "vi": "Hạt Waterford"
+      "vi": "Hạt Waterford",
+      "lv": "Voterfordas grāfiste",
+      "cy": "Swydd Waterford",
+      "ceb": "Waterford (kondado)",
+      "sr_Latn": "Voterford",
+      "zh": "沃特福德郡",
+      "ccp": "𑄃𑄮𑄠𑄑𑄢𑄴𑄜𑄮𑄢𑄴𑄓𑄴",
+      "ga": "Contae Phort Láirge",
+      "mk": "Вотерфорд"
     },
-    "geo": {
-      "latitude": 52.256667,
-      "longitude": -7.129167,
-      "min_latitude": 52.22481,
-      "min_longitude": -7.171189999999999,
-      "max_latitude": 52.27019989999999,
-      "max_longitude": -7.0548699
-    },
-    "name": "Waterford"
+    "comments": null
   },
   "WH": {
+    "name": "Westmeath",
+    "code": null,
     "unofficial_names": [
       "An Iarmhidhe"
     ],
+    "geo": {
+      "latitude": 53.5345308,
+      "longitude": -7.4653217,
+      "min_latitude": 53.31796259999999,
+      "min_longitude": -7.9729531,
+      "max_latitude": 53.7879599,
+      "max_longitude": -6.9547842
+    },
     "translations": {
       "en": "Westmeath",
       "ar": "مقاطعة وستميث",
@@ -1481,23 +1757,35 @@
       "tr": "County Westmeath",
       "uk": "Західний Міт",
       "ur": "کاؤنٹی ویسٹمیدھ",
-      "vi": "Hạt Westmeath"
+      "vi": "Hạt Westmeath",
+      "lv": "Vestmītas grāfiste",
+      "cy": "Swydd Westmeath",
+      "ceb": "An Iarmhí",
+      "sr_Latn": "Vestmid",
+      "zh": "韋斯特米斯郡",
+      "fa": "وست میث",
+      "ccp": "𑄃𑄧𑄠𑄬𑄌𑄴𑄟𑄬𑄖𑄴",
+      "ga": "Contae na hIarmhí",
+      "be": "графства Уэстміт",
+      "mk": "Вестмит"
     },
-    "geo": {
-      "latitude": 53.5345308,
-      "longitude": -7.4653217,
-      "min_latitude": 53.31796259999999,
-      "min_longitude": -7.9729531,
-      "max_latitude": 53.7879599,
-      "max_longitude": -6.9547842
-    },
-    "name": "Westmeath"
+    "comments": null
   },
   "WW": {
+    "name": "Wicklow",
+    "code": null,
     "unofficial_names": [
       "Cill Maintain",
       "Cill Mhanntáin"
     ],
+    "geo": {
+      "latitude": 52.9808207,
+      "longitude": -6.044588999999999,
+      "min_latitude": 52.9661001,
+      "min_longitude": -6.07004,
+      "max_latitude": 52.99892,
+      "max_longitude": -6.0154599
+    },
     "translations": {
       "en": "Wicklow",
       "ar": "مقاطعة ويكلاو",
@@ -1546,22 +1834,33 @@
       "tr": "County Wicklow",
       "uk": "Віклоу",
       "ur": "کاؤنٹی ویکلو",
-      "vi": "Hạt Wicklow"
+      "vi": "Hạt Wicklow",
+      "lv": "Viklovas grāfiste",
+      "cy": "Swydd Wicklow",
+      "ceb": "Wicklow (kondado)",
+      "sr_Latn": "Viklou",
+      "zh": "威克洛郡",
+      "ccp": "𑄅𑄪𑄃𑄨𑄇𑄴𑄣𑄮",
+      "ga": "Contae Chill Mhantáin",
+      "he": "מחוז ויקלו",
+      "mk": "Виклоу"
     },
-    "geo": {
-      "latitude": 52.9808207,
-      "longitude": -6.044588999999999,
-      "min_latitude": 52.9661001,
-      "min_longitude": -6.07004,
-      "max_latitude": 52.99892,
-      "max_longitude": -6.0154599
-    },
-    "name": "Wicklow"
+    "comments": null
   },
   "WX": {
+    "name": "Wexford",
+    "code": null,
     "unofficial_names": [
       "Loch Garman"
     ],
+    "geo": {
+      "latitude": 52.336916,
+      "longitude": -6.4633381,
+      "min_latitude": 52.32044,
+      "min_longitude": -6.49995,
+      "max_latitude": 52.3470099,
+      "max_longitude": -6.4464301
+    },
     "translations": {
       "en": "Wexford",
       "ar": "مقاطعة وكسفورد",
@@ -1608,23 +1907,34 @@
       "tr": "Wexford Countt",
       "uk": "Вексфорд",
       "ur": "کاؤنٹی ویکسفرڈ",
-      "vi": "Wexford"
+      "vi": "Wexford",
+      "lv": "Veksfordas grāfiste",
+      "cy": "Swydd Wexford",
+      "ceb": "Loch Garman (kondado)",
+      "sr_Latn": "Veksford",
+      "zh": "韦克斯福德郡",
+      "ccp": "𑄃𑄮𑄠𑄬𑄇𑄴𑄜𑄮𑄢𑄴𑄓𑄴",
+      "ga": "Contae Loch Garman",
+      "be": "графства Уэксфард",
+      "mk": "Вексфорд"
     },
-    "geo": {
-      "latitude": 52.336916,
-      "longitude": -6.4633381,
-      "min_latitude": 52.32044,
-      "min_longitude": -6.49995,
-      "max_latitude": 52.3470099,
-      "max_longitude": -6.4464301
-    },
-    "name": "Wexford"
+    "comments": null
   },
   "CO": {
+    "name": "Cork",
+    "code": null,
     "unofficial_names": [
       "Corcaigh",
       "County Cork"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كورك",
       "be": "Графства Корк",
@@ -1676,9 +1986,23 @@
       "tr": "Cork Kontluğu",
       "uk": "Корк",
       "ur": "کاؤنٹی کورک",
-      "vi": "Hạt Cork"
+      "vi": "Hạt Cork",
+      "lv": "Korkas grāfiste",
+      "cy": "Swydd Corc",
+      "ceb": "County Cork",
+      "sr_Latn": "Kork",
+      "zh": "科克郡",
+      "sq": "Qarku Cork",
+      "ccp": "𑄇𑄧𑄢𑄴𑄇𑄴",
+      "ga": "Contae Chorcaí",
+      "mk": "Корк"
     },
-    "name": "Cork",
+    "comments": null
+  },
+  "L": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -1686,10 +2010,7 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
-  },
-  "L": {
-    "unofficial_names": null,
+    },
     "translations": {
       "ar": "لاينستر",
       "be": "Ленстэр",
@@ -1724,8 +2045,28 @@
       "sr": "Ленстер",
       "sv": "Leinster",
       "uk": "Ленстер",
-      "ur": "لینسٹر"
+      "ur": "لینسٹر",
+      "lv": "Lenstera",
+      "cy": "Laighin",
+      "ceb": "Leinster",
+      "tr": "Leinster",
+      "sr_Latn": "Lenster",
+      "vi": "Leinster",
+      "zh": "倫斯特省",
+      "yue_Hans": "利扬省",
+      "sq": "Leinsteri",
+      "ccp": "𑄣𑄬𑄭𑄚𑄴𑄌𑄳𑄑𑄢𑄴",
+      "ga": "Cúige Laighean",
+      "hy": "Լենստեր",
+      "yue": "利揚省",
+      "mk": "Ленстер"
     },
+    "comments": null
+  },
+  "M": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -1733,10 +2074,7 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
-  },
-  "M": {
-    "unofficial_names": null,
+    },
     "translations": {
       "ar": "مونستر",
       "be": "Манстэр",
@@ -1771,8 +2109,29 @@
       "sr": "Манстер",
       "sv": "Munster",
       "uk": "Манстер",
-      "ur": "مونسٹر"
+      "ur": "مونسٹر",
+      "lv": "Manstera",
+      "cy": "Munster",
+      "ceb": "Munster (lalawigan)",
+      "tr": "Munster",
+      "sr_Latn": "Manster",
+      "vi": "Munster",
+      "zh": "芒斯特省",
+      "yue_Hans": "莫云省",
+      "sq": "Munsteri",
+      "ccp": "𑄟𑄪𑄚𑄴𑄌𑄳𑄑𑄢𑄴",
+      "ga": "Cúige Mumhan",
+      "hy": "Մանսթեր",
+      "kk": "Мунстер",
+      "yue": "莫雲省",
+      "mk": "Манстер"
     },
+    "comments": null
+  },
+  "U": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -1780,10 +2139,7 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
-  },
-  "U": {
-    "unofficial_names": null,
+    },
     "translations": {
       "ar": "أولستر",
       "az": "Olster",
@@ -1825,16 +2181,21 @@
       "tr": "Ulster",
       "uk": "Ольстер",
       "ur": "السٹر",
-      "vi": "Ulster"
+      "vi": "Ulster",
+      "cy": "Ulster",
+      "af": "Ulster",
+      "ceb": "Ulster",
+      "sr_Latn": "Alster",
+      "zh": "阿爾斯特省",
+      "yue_Hans": "乌勒省",
+      "ccp": "𑄃𑄣𑄴𑄌𑄳𑄑𑄢𑄴",
+      "ga": "Cúige Uladh",
+      "is": "Ulster",
+      "yue": "烏勒省",
+      "bs": "Ulster",
+      "mk": "Алстер"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    }
+    "comments": null
   }
 }
 

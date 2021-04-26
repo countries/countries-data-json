@@ -1,9 +1,8 @@
 {
   "21": {
+    "name": "Svalbard",
+    "code": null,
     "unofficial_names": "Svalbard",
-    "translations": {
-      "en": "Svalbard"
-    },
     "geo": {
       "latitude": 78.15706,
       "longitude": 15.86426,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Svalbard",
+    "translations": {
+      "en": "Svalbard"
+    },
     "comments": null
   },
   "22": {
+    "name": "Jan Mayen",
+    "code": null,
     "unofficial_names": "Jan Mayen",
-    "translations": {
-      "en": "Jan Mayen"
-    },
     "geo": {
       "latitude": 70.98333,
       "longitude": -8.5,
@@ -28,7 +28,9 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Jan Mayen",
+    "translations": {
+      "en": "Jan Mayen"
+    },
     "comments": null
   }
 }

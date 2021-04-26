@@ -1,11 +1,21 @@
 {
   "DI": {
+    "name": "Dimashq",
+    "code": null,
     "unofficial_names": [
       "Dimashq",
       "Madīnat Dimašq",
       "Damaskus",
       "Damas"
     ],
+    "geo": {
+      "latitude": 33.513,
+      "longitude": 36.292,
+      "min_latitude": 33.4498124,
+      "min_longitude": 36.1978912,
+      "max_latitude": 33.5651386,
+      "max_longitude": 36.3678997
+    },
     "translations": {
       "en": "Damascus",
       "ar": "محافظة دمشق",
@@ -32,19 +42,17 @@
       "ru": "Дамаск",
       "tr": "Şam",
       "ur": "محافظہ دمشق",
-      "zh": "大馬士革省 (敘利亞)"
+      "zh": "大馬士革省 (敘利亞)",
+      "ceb": "Damascus Governorate",
+      "pl": "Damaszek-Miasto",
+      "ccp": "𑄓𑄟𑄌𑄴𑄇𑄌𑄴",
+      "de": "Gouvernement Damaskus"
     },
-    "geo": {
-      "latitude": 33.513,
-      "longitude": 36.292,
-      "min_latitude": 33.4498124,
-      "min_longitude": 36.1978912,
-      "max_latitude": 33.5651386,
-      "max_longitude": 36.3678997
-    },
-    "name": "Dimashq"
+    "comments": null
   },
   "DR": {
+    "name": "Dar'ā",
+    "code": null,
     "unofficial_names": [
       "Dara",
       "Darā",
@@ -52,6 +60,14 @@
       "Deraa",
       "Dārayyā"
     ],
+    "geo": {
+      "latitude": 32.625278,
+      "longitude": 36.106111,
+      "min_latitude": 32.5963599,
+      "min_longitude": 36.0721494,
+      "max_latitude": 32.6466746,
+      "max_longitude": 36.1277676
+    },
     "translations": {
       "en": "Daraa",
       "ar": "محافظة درعا",
@@ -84,23 +100,29 @@
       "tr": "Dera",
       "uk": "Дара",
       "ur": "محافظہ درعا",
-      "vi": "Daraa"
+      "vi": "Daraa",
+      "ceb": "Daraa Governorate",
+      "sr_Latn": "Dara (pokrajina)",
+      "zh": "德拉省",
+      "ccp": "𑄓𑄢𑄳𑄃"
     },
-    "geo": {
-      "latitude": 32.625278,
-      "longitude": 36.106111,
-      "min_latitude": 32.5963599,
-      "min_longitude": 36.0721494,
-      "max_latitude": 32.6466746,
-      "max_longitude": 36.1277676
-    },
-    "name": "Dar'ā"
+    "comments": null
   },
   "DY": {
+    "name": "Dayr az Zawr",
+    "code": null,
     "unofficial_names": [
       "Deir El-Zor",
       "Deir-ez-Zor"
     ],
+    "geo": {
+      "latitude": 35.336,
+      "longitude": 40.145,
+      "min_latitude": 35.2968173,
+      "min_longitude": 40.0813007,
+      "max_latitude": 35.3734271,
+      "max_longitude": 40.1946509
+    },
     "translations": {
       "en": "Deir ez-Zor",
       "ar": "محافظة دير الزور",
@@ -146,25 +168,32 @@
       "tr": "Deyrizor",
       "uk": "Дайр-аз-Заур",
       "ur": "محافظہ دیر الزور",
-      "vi": "Deir ez-Zor"
+      "vi": "Deir ez-Zor",
+      "lv": "Deir ez Zoras muhāfaza",
+      "ceb": "Deir ez-Zor Governorate",
+      "sr_Latn": "Dajr ez Zaur (pokrajina)",
+      "zh": "代尔祖尔省",
+      "ccp": "𑄓𑄠𑄬𑄢𑄴 𑄃𑄬𑄌𑄴-𑄎𑄮𑄢𑄴"
     },
-    "geo": {
-      "latitude": 35.336,
-      "longitude": 40.145,
-      "min_latitude": 35.2968173,
-      "min_longitude": 40.0813007,
-      "max_latitude": 35.3734271,
-      "max_longitude": 40.1946509
-    },
-    "name": "Dayr az Zawr"
+    "comments": null
   },
   "HA": {
+    "name": "Al Ḩasakah",
+    "code": null,
     "unofficial_names": [
       "El Haseke",
       "Hassetche",
       "H̨asakah",
       "al-Hasakah"
     ],
+    "geo": {
+      "latitude": 36.405515,
+      "longitude": 40.7969149,
+      "min_latitude": 35.5298381,
+      "min_longitude": 39.452599,
+      "max_latitude": 37.319145,
+      "max_longitude": 42.3850397
+    },
     "translations": {
       "en": "Al-Hasakah",
       "ar": "محافظة الحسكة",
@@ -210,23 +239,30 @@
       "tr": "Hasiçi",
       "uk": "Аль-Хасака",
       "ur": "محافظہ الحسکہ",
-      "vi": "Al-Hasakah"
+      "vi": "Al-Hasakah",
+      "lv": "Hasekas muhāfaza",
+      "ceb": "Al-Hasakah Governorate",
+      "sr_Latn": "Hasaka (pokrajina)",
+      "zh": "哈塞克省",
+      "ccp": "𑄃𑄣𑄴-𑄝𑄥𑄇𑄴𑄦𑄴"
     },
-    "geo": {
-      "latitude": 36.405515,
-      "longitude": 40.7969149,
-      "min_latitude": 35.5298381,
-      "min_longitude": 39.452599,
-      "max_latitude": 37.319145,
-      "max_longitude": 42.3850397
-    },
-    "name": "Al Ḩasakah"
+    "comments": null
   },
   "HI": {
+    "name": "Ḩimş",
+    "code": null,
     "unofficial_names": [
       "Hims",
       "Homs"
     ],
+    "geo": {
+      "latitude": 33.7348116,
+      "longitude": -117.9947778,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Homs",
       "ar": "محافظة حمص",
@@ -274,25 +310,32 @@
       "tr": "Humus",
       "uk": "Хомс",
       "ur": "محافظہ حمص",
-      "vi": "Homs"
+      "vi": "Homs",
+      "lv": "Himsas munāfaza",
+      "ceb": "Homs Governorate",
+      "sr_Latn": "Homs (pokrajina)",
+      "zh": "霍姆斯省",
+      "ccp": "𑄦𑄧𑄟𑄴𑄌𑄴"
     },
-    "geo": {
-      "latitude": 33.7348116,
-      "longitude": -117.9947778,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Ḩimş"
+    "comments": null
   },
   "HL": {
+    "name": "Ḩalab",
+    "code": null,
     "unofficial_names": [
       "Halab",
       "Haleb",
       "H̨alab",
       "Alep"
     ],
+    "geo": {
+      "latitude": 33.9166667,
+      "longitude": 38.3,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Aleppo",
       "ar": "محافظة حلب",
@@ -329,23 +372,30 @@
       "tr": "Halep",
       "uk": "Халеб",
       "ur": "محافظہ حلب",
-      "vi": "Aleppo"
+      "vi": "Aleppo",
+      "ceb": "Aleppo Governorate",
+      "sr_Latn": "Alep (pokrajina)",
+      "zh": "阿勒颇省",
+      "ccp": "𑄃𑄣𑄨𑄛𑄳𑄦𑄧",
+      "be": "Халеб"
     },
+    "comments": null
+  },
+  "HM": {
+    "name": "Ḩamāh",
+    "code": null,
+    "unofficial_names": [
+      "Hama",
+      "Hamah"
+    ],
     "geo": {
-      "latitude": 33.9166667,
-      "longitude": 38.3,
+      "latitude": 32.8947222,
+      "longitude": 37.12527780000001,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Ḩalab"
-  },
-  "HM": {
-    "unofficial_names": [
-      "Hama",
-      "Hamah"
-    ],
     "translations": {
       "en": "Hama",
       "ar": "محافظة حماة",
@@ -392,20 +442,27 @@
       "tr": "Hama",
       "uk": "Хама",
       "ur": "محافظہ حماہ",
-      "vi": "Hama"
+      "vi": "Hama",
+      "lv": "Hamas muhāfaza",
+      "ceb": "Hama Governorate",
+      "sr_Latn": "Hama (pokrajina)",
+      "zh": "哈馬省",
+      "ccp": "𑄦𑄟"
     },
-    "geo": {
-      "latitude": 32.8947222,
-      "longitude": 37.12527780000001,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Ḩamāh"
+    "comments": null
   },
   "ID": {
+    "name": "Idlib",
+    "code": null,
     "unofficial_names": "Idlib",
+    "geo": {
+      "latitude": 35.933333,
+      "longitude": 36.633333,
+      "min_latitude": 35.90606289999999,
+      "min_longitude": 36.6036813,
+      "max_latitude": 35.9471799,
+      "max_longitude": 36.6674555
+    },
     "translations": {
       "en": "Idlib",
       "ar": "محافظة إدلب",
@@ -451,19 +508,18 @@
       "tr": "İdlip",
       "uk": "Ідліб",
       "ur": "محافظہ ادلب",
-      "vi": "Idlib"
+      "vi": "Idlib",
+      "lv": "Idlibas munāfaza",
+      "ceb": "Idlib Governorate",
+      "sr_Latn": "Idlib (pokrajina)",
+      "zh": "伊德利卜省",
+      "ccp": "𑄃𑄨𑄖𑄴𑄣𑄨𑄛𑄴"
     },
-    "geo": {
-      "latitude": 35.933333,
-      "longitude": 36.633333,
-      "min_latitude": 35.90606289999999,
-      "min_longitude": 36.6036813,
-      "max_latitude": 35.9471799,
-      "max_longitude": 36.6674555
-    },
-    "name": "Idlib"
+    "comments": null
   },
   "LA": {
+    "name": "Al Ladhiqiyah",
+    "code": null,
     "unofficial_names": [
       "Latakia",
       "Lattakia",
@@ -471,6 +527,14 @@
       "Lādhiqīyah",
       "al-Ladhiqiyah"
     ],
+    "geo": {
+      "latitude": 35.6129791,
+      "longitude": 36.0023225,
+      "min_latitude": 35.194528,
+      "min_longitude": 35.7272339,
+      "max_latitude": 35.940891,
+      "max_longitude": 36.2848139
+    },
     "translations": {
       "en": "Latakia",
       "ar": "محافظة اللاذقية",
@@ -506,23 +570,29 @@
       "tr": "Lazkiye",
       "uk": "Латакія",
       "ur": "اللاذقیة",
-      "vi": "Latakia"
+      "vi": "Latakia",
+      "ceb": "Latakia Governorate",
+      "sr_Latn": "Latakija (pokrajina)",
+      "zh": "拉塔基亚省",
+      "ccp": "𑄣𑄑𑄇𑄨𑄠"
     },
-    "geo": {
-      "latitude": 35.6129791,
-      "longitude": 36.0023225,
-      "min_latitude": 35.194528,
-      "min_longitude": 35.7272339,
-      "max_latitude": 35.940891,
-      "max_longitude": 36.2848139
-    },
-    "name": "Al Ladhiqiyah"
+    "comments": null
   },
   "QU": {
+    "name": "Al Qunaytirah",
+    "code": null,
     "unofficial_names": [
       "Quneitra",
       "al-Qunaytirah"
     ],
+    "geo": {
+      "latitude": 33.0776318,
+      "longitude": 35.8934136,
+      "min_latitude": 32.836052,
+      "min_longitude": 35.8478781,
+      "max_latitude": 33.247301,
+      "max_longitude": 36.003361
+    },
     "translations": {
       "en": "Quneitra",
       "ar": "محافظة القنيطرة",
@@ -565,23 +635,31 @@
       "tr": "Kuneytire",
       "uk": "Ель-Кунейтра",
       "ur": "محافظہ قنیطرہ",
-      "vi": "Quneitra"
+      "vi": "Quneitra",
+      "lv": "Kunaitiras muhāfaza",
+      "ceb": "Quneitra Governorate",
+      "sr_Latn": "Kunejtra (pokrajina)",
+      "zh": "库奈特拉省",
+      "ccp": "𑄇𑄪𑄠𑄚𑄴𑄃𑄭𑄑𑄳𑄢",
+      "ca": "governació de Quneitra"
     },
-    "geo": {
-      "latitude": 33.0776318,
-      "longitude": 35.8934136,
-      "min_latitude": 32.836052,
-      "min_longitude": 35.8478781,
-      "max_latitude": 33.247301,
-      "max_longitude": 36.003361
-    },
-    "name": "Al Qunaytirah"
+    "comments": null
   },
   "RA": {
+    "name": "Ar Raqqah",
+    "code": null,
     "unofficial_names": [
       "Raqqah",
       "al-Rakka"
     ],
+    "geo": {
+      "latitude": 35.9594106,
+      "longitude": 38.9981052,
+      "min_latitude": 35.9272857,
+      "min_longitude": 38.9259338,
+      "max_latitude": 35.9821736,
+      "max_longitude": 39.0682411
+    },
     "translations": {
       "en": "Ar-Raqqah",
       "ar": "محافظة الرقة",
@@ -616,19 +694,18 @@
       "tr": "Rakka",
       "uk": "Ар-Ракка",
       "ur": "محافظہ الرقہ",
-      "vi": "Ar-Raqqah"
+      "vi": "Ar-Raqqah",
+      "ceb": "Ar-Raqqah Governorate",
+      "sr_Latn": "Raka (pokrajina)",
+      "zh": "拉卡省",
+      "ccp": "𑄃𑄢𑄴-𑄢𑄇𑄳𑄦",
+      "mk": "Рака"
     },
-    "geo": {
-      "latitude": 35.9594106,
-      "longitude": 38.9981052,
-      "min_latitude": 35.9272857,
-      "min_longitude": 38.9259338,
-      "max_latitude": 35.9821736,
-      "max_longitude": 39.0682411
-    },
-    "name": "Ar Raqqah"
+    "comments": null
   },
   "RD": {
+    "name": "Rif Dimashq",
+    "code": null,
     "unofficial_names": [
       "Dimashq",
       "Dimašq",
@@ -636,6 +713,14 @@
       "Damas",
       "Damascus"
     ],
+    "geo": {
+      "latitude": 33.5167289,
+      "longitude": 36.954107,
+      "min_latitude": 32.68313,
+      "min_longitude": 35.834707,
+      "max_latitude": 34.2120558,
+      "max_longitude": 38.313671
+    },
     "translations": {
       "en": "Rif Dimashq",
       "ar": "محافظة ريف دمشق",
@@ -681,22 +766,28 @@
       "tr": "Rif Şam",
       "uk": "Дамаск",
       "ur": "محافظہ ریف دمشق",
-      "vi": "Rif Dimashq"
+      "vi": "Rif Dimashq",
+      "lv": "Damaskas muhāfaza",
+      "sr_Latn": "Damask (pokrajina)",
+      "zh": "大马士革农村省",
+      "ccp": "𑄢𑄨𑄛𑄴 𑄓𑄨𑄟𑄌𑄴𑄇𑄴"
     },
-    "geo": {
-      "latitude": 33.5167289,
-      "longitude": 36.954107,
-      "min_latitude": 32.68313,
-      "min_longitude": 35.834707,
-      "max_latitude": 34.2120558,
-      "max_longitude": 38.313671
-    },
-    "name": "Rif Dimashq"
+    "comments": null
   },
   "SU": {
+    "name": "As Suwayda'",
+    "code": null,
     "unofficial_names": [
       "as-Suwayda"
     ],
+    "geo": {
+      "latitude": 32.7,
+      "longitude": 36.566667,
+      "min_latitude": 32.6688949,
+      "min_longitude": 36.5449906,
+      "max_latitude": 32.7348733,
+      "max_longitude": 36.6076899
+    },
     "translations": {
       "en": "As-Suwayda",
       "ar": "محافظة السويداء",
@@ -741,23 +832,30 @@
       "tr": "Süveyde",
       "uk": "Ас-Сувайда",
       "ur": "محافظہ السویداء",
-      "vi": "As-Suwayda"
+      "vi": "As-Suwayda",
+      "lv": "Suveidas muhāfaza",
+      "ceb": "As-Suwayda Governorate",
+      "sr_Latn": "Suvajda (pokrajina)",
+      "zh": "苏韦达省",
+      "ccp": "𑄃𑄌𑄴-𑄥𑄪𑄠𑄬𑄓"
     },
-    "geo": {
-      "latitude": 32.7,
-      "longitude": 36.566667,
-      "min_latitude": 32.6688949,
-      "min_longitude": 36.5449906,
-      "max_latitude": 32.7348733,
-      "max_longitude": 36.6076899
-    },
-    "name": "As Suwayda'"
+    "comments": null
   },
   "TA": {
+    "name": "Tartus",
+    "code": null,
     "unofficial_names": [
       "Tartoûs",
       "Tartus"
     ],
+    "geo": {
+      "latitude": 34.883333,
+      "longitude": 35.883333,
+      "min_latitude": 34.8481038,
+      "min_longitude": 35.8542896,
+      "max_latitude": 34.9235482,
+      "max_longitude": 35.9136459
+    },
     "translations": {
       "en": "Tartus",
       "ar": "محافظة طرطوس",
@@ -803,17 +901,14 @@
       "tr": "Tartus",
       "uk": "Тартус",
       "ur": "محافظہ طرطوس",
-      "vi": "Tartus"
+      "vi": "Tartus",
+      "lv": "Tartūsas muhāfaza",
+      "ceb": "Tartus Governorate",
+      "sr_Latn": "Tartus (pokrajina)",
+      "zh": "塔尔图斯省",
+      "ccp": "𑄑𑄢𑄴𑄑𑄌𑄴"
     },
-    "geo": {
-      "latitude": 34.883333,
-      "longitude": 35.883333,
-      "min_latitude": 34.8481038,
-      "min_longitude": 35.8542896,
-      "max_latitude": 34.9235482,
-      "max_longitude": 35.9136459
-    },
-    "name": "Tartus"
+    "comments": null
   }
 }
 

@@ -1,5 +1,7 @@
 {
   "BR": {
+    "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Bierascie",
       "Brest-Litovsk",
@@ -11,6 +13,14 @@
       "Brześć nad Bugiem",
       "Brześć-Litewski"
     ],
+    "geo": {
+      "latitude": 52.5296641,
+      "longitude": 25.460648,
+      "min_latitude": 51.4980539,
+      "min_longitude": 23.1783377,
+      "max_latitude": 53.4118989,
+      "max_longitude": 27.5825019
+    },
     "translations": {
       "en": "Brest",
       "ar": "بريست أوبلاست",
@@ -62,19 +72,19 @@
       "uk": "Берестейська область",
       "ur": "بریسٹ علاقہ",
       "vi": "Khu vực Brest",
-      "zh": "布列斯特州"
+      "zh": "布列斯特州",
+      "ceb": "Brest Oblast",
+      "sr_Latn": "Brestska oblast",
+      "fa": "منطقه بریست",
+      "ccp": "𑄝𑄳𑄢𑄬𑄥𑄳𑄑𑄴",
+      "uz": "Brest viloyati",
+      "bs": "Brestska oblast"
     },
-    "geo": {
-      "latitude": 52.5296641,
-      "longitude": 25.460648,
-      "min_latitude": 51.4980539,
-      "min_longitude": 23.1783377,
-      "max_latitude": 53.4118989,
-      "max_longitude": 27.5825019
-    },
-    "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)"
+    "comments": null
   },
   "HO": {
+    "name": "Homyel'skaya voblasts' (be) Gomel'skaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Gomel",
       "Gomelskaja Oblastʿ",
@@ -85,6 +95,14 @@
       "Homiel",
       "Homyel"
     ],
+    "geo": {
+      "latitude": 52.1648754,
+      "longitude": 29.1333251,
+      "min_latitude": 51.2620722,
+      "min_longitude": 27.2441409,
+      "max_latitude": 53.3679551,
+      "max_longitude": 31.7992701
+    },
     "translations": {
       "en": "Homel",
       "ar": "غومل أوبلاست",
@@ -137,19 +155,19 @@
       "uk": "Гомельська область",
       "ur": "گومل علاقہ",
       "vi": "Khu vực Gomel",
-      "zh": "戈梅利州"
+      "zh": "戈梅利州",
+      "ceb": "Gomel Oblast",
+      "sr_Latn": "Gomeljska oblast",
+      "ccp": "𑄦𑄮𑄟𑄬𑄣𑄴",
+      "uz": "Gomel viloyati",
+      "bs": "Gomelska oblast",
+      "mk": "Гомељска област"
     },
-    "geo": {
-      "latitude": 52.1648754,
-      "longitude": 29.1333251,
-      "min_latitude": 51.2620722,
-      "min_longitude": 27.2441409,
-      "max_latitude": 53.3679551,
-      "max_longitude": 31.7992701
-    },
-    "name": "Homyel'skaya voblasts' (be) Gomel'skaya oblast' (ru)"
+    "comments": null
   },
   "HR": {
+    "name": "Hrodzenskaya voblasts' (be) Grodnenskaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Gardinas",
       "Grodnenskaja Oblastʿ",
@@ -160,6 +178,14 @@
       "Hrodzenskaja Voblastsʿ",
       "Hrodzenskaya Voblastsʿ"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Hrodna",
       "ar": "أوبلاست جردونه",
@@ -211,19 +237,19 @@
       "uk": "Гродненська область",
       "ur": "گرودنو علاقہ",
       "vi": "Khu vực Grodno",
-      "zh": "格羅德諾州"
+      "zh": "格羅德諾州",
+      "ceb": "Grodno Oblast",
+      "sr_Latn": "Grodnjenska oblast",
+      "ccp": "𑄦𑄧𑄢𑄧𑄚𑄴𑄓",
+      "uz": "Grodno viloyati",
+      "bs": "Grodnenska oblast",
+      "mk": "Гродненска област"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Hrodzenskaya voblasts' (be) Grodnenskaya oblast' (ru)"
+    "comments": null
   },
   "MA": {
+    "name": "Mahilyowskaya voblasts' (be) Mogilevskaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Mahiljov",
       "Mahiljowskaja Voblastsʿ",
@@ -239,6 +265,14 @@
       "Mogilëv",
       "Mogilʿov"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Magileu",
       "ar": "موغيليوف أوبلاست",
@@ -292,24 +326,33 @@
       "uk": "Могильовська область",
       "ur": "موگیلیف علاقہ",
       "vi": "Khu vực Mogilev",
-      "zh": "莫吉廖夫州"
+      "zh": "莫吉廖夫州",
+      "ceb": "Mogilyov Oblast",
+      "sr_Latn": "Mogiljovska oblast",
+      "ccp": "𑄟𑄳𑄠𑄉𑄨𑄣𑄨𑄅𑄪",
+      "ky": "Могилёв областы",
+      "kk": "Могилев облысы",
+      "uz": "Mogilyov viloyati",
+      "bs": "Mogiljovska oblast"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Mahilyowskaya voblasts' (be) Mogilevskaya oblast' (ru)"
+    "comments": null
   },
   "MI": {
+    "name": "Minskaya voblasts' (be) Minskaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Minskaja Oblastʿ",
       "Minskaya Oblastʿ",
       "Minskaya Voblastsʿ"
     ],
+    "geo": {
+      "latitude": 53.4718561,
+      "longitude": 27.6969909,
+      "min_latitude": 52.37261179999999,
+      "min_longitude": 26.06101,
+      "max_latitude": 55.017477,
+      "max_longitude": 29.487841
+    },
     "translations": {
       "en": "Minsk Region",
       "ar": "إقليم مينسك",
@@ -363,19 +406,20 @@
       "uk": "Мінська область",
       "ur": "منسک علاقہ",
       "vi": "Khu vực Minsk",
-      "zh": "明斯克州"
+      "zh": "明斯克州",
+      "cy": "Minsk Region",
+      "ceb": "Minsk Oblast",
+      "sr_Latn": "Minska oblast",
+      "ccp": "𑄟𑄨𑄚𑄴𑄥𑄳𑄇𑄴 𑄢𑄬𑄎𑄨𑄠𑄧𑄚𑄴",
+      "uz": "Minsk viloyati",
+      "bs": "Minska oblast",
+      "mk": "Минска област"
     },
-    "geo": {
-      "latitude": 53.4718561,
-      "longitude": 27.6969909,
-      "min_latitude": 52.37261179999999,
-      "min_longitude": 26.06101,
-      "max_latitude": 55.017477,
-      "max_longitude": 29.487841
-    },
-    "name": "Minskaya voblasts' (be) Minskaya oblast' (ru)"
+    "comments": null
   },
   "VI": {
+    "name": "Vitsyebskaya voblasts' (be) Vitebskaya oblast' (ru)",
+    "code": null,
     "unofficial_names": [
       "Vicebskaja Voblastsʿ",
       "Vicebskaya Voblastsʿ",
@@ -386,6 +430,14 @@
       "Vitebskaya Oblastʿ",
       "Vitsyebsk"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Vitebsk",
       "ar": "فيتسبك أوبلاست",
@@ -437,27 +489,25 @@
       "uk": "Вітебська область",
       "ur": "ویٹبسک علاقہ",
       "vi": "Khu vực Vitebsk",
-      "zh": "维捷布斯克州"
+      "zh": "维捷布斯克州",
+      "ceb": "Vitebsk Oblast",
+      "sr_Latn": "Vitepska oblast",
+      "ccp": "𑄞𑄭𑄑𑄬𑄛𑄴𑄥𑄳𑄇𑄴",
+      "ky": "Витебск облусу",
+      "uz": "Vitebsk viloyati",
+      "bs": "Vitebska oblast",
+      "mk": "Витепска област"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Vitsyebskaya voblasts' (be) Vitebskaya oblast' (ru)"
+    "comments": null
   },
   "X1~": {
+    "name": "Horad Minsk",
+    "code": null,
     "unofficial_names": [
       "Gorod Minsk",
       "Horad Minsk",
       "Mensk"
     ],
-    "translations": {
-      "en": "Horad Minsk"
-    },
     "geo": {
       "latitude": 53.9029742,
       "longitude": 27.5549986,
@@ -466,9 +516,23 @@
       "max_latitude": 53.9069628,
       "max_longitude": 27.5616665
     },
-    "name": "Horad Minsk"
+    "translations": {
+      "en": "Horad Minsk"
+    },
+    "comments": null
   },
   "HM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Minsk",
       "am": "ሚንስክ",
@@ -531,8 +595,25 @@
       "ur": "منسک",
       "vi": "Minsk",
       "zh": "明斯克",
-      "zu": "Minsk"
-    }
+      "zu": "Minsk",
+      "cy": "Minsk",
+      "ceb": "Minsk",
+      "sr_Latn": "Minsk",
+      "yue_Hans": "明斯克",
+      "jv": "Minsk",
+      "sq": "Minsk",
+      "ccp": "𑄟𑄚𑄴𑄥𑄳𑄇𑄴",
+      "ga": "Minsc",
+      "ky": "Минск",
+      "pa": "ਮਿੰਸਕ",
+      "kk": "Минск",
+      "yue": "明斯克",
+      "yo": "Minsk",
+      "uz": "Minsk",
+      "bs": "Minsk",
+      "mk": "Минск"
+    },
+    "comments": null
   }
 }
 

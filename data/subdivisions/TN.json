@@ -1,5 +1,7 @@
 {
   "11": {
+    "name": "Tunis",
+    "code": null,
     "unofficial_names": [
       "Toûnis",
       "Tūnis",
@@ -7,6 +9,14 @@
       "Tunis",
       "Túnez"
     ],
+    "geo": {
+      "latitude": 36.8064948,
+      "longitude": 10.1815316,
+      "min_latitude": 36.7184274,
+      "min_longitude": 10.0179433,
+      "max_latitude": 36.8713385,
+      "max_longitude": 10.2686119
+    },
     "translations": {
       "en": "Tunis",
       "ar": "ولاية تونس",
@@ -32,24 +42,30 @@
       "tr": "Tunus ili",
       "uk": "Туніс",
       "ur": "تونس",
-      "zh": "突尼斯省"
+      "zh": "突尼斯省",
+      "cy": "Tunis",
+      "ceb": "Gouvernorat de Tunis",
+      "el": "Κυβερνείο Τύνιδας",
+      "ccp": "𑄑𑄪𑄚𑄨𑄌𑄴"
     },
-    "geo": {
-      "latitude": 36.8064948,
-      "longitude": 10.1815316,
-      "min_latitude": 36.7184274,
-      "min_longitude": 10.0179433,
-      "max_latitude": 36.8713385,
-      "max_longitude": 10.2686119
-    },
-    "name": "Tunis"
+    "comments": null
   },
   "12": {
+    "name": "L'Ariana",
+    "code": null,
     "unofficial_names": [
       "Ariano",
       "Iryanah",
       "Ariana"
     ],
+    "geo": {
+      "latitude": 36.9922751,
+      "longitude": 10.1255164,
+      "min_latitude": 36.827762,
+      "min_longitude": 9.976983899999999,
+      "max_latitude": 37.1352458,
+      "max_longitude": 10.2448928
+    },
     "translations": {
       "en": "Ariana",
       "ar": "ولاية أريانة",
@@ -80,23 +96,30 @@
       "tr": "Aryana Vilayeti",
       "uk": "Арʼяна",
       "ur": "آریانہ",
-      "vi": "Ariana"
+      "vi": "Ariana",
+      "cy": "Ariana",
+      "ceb": "Gouvernorat de l’Ariana",
+      "zh": "艾爾亞內省",
+      "ccp": "𑄃𑄢𑄨𑄠𑄚𑄴",
+      "az": "Aryana vilayəti"
     },
-    "geo": {
-      "latitude": 36.9922751,
-      "longitude": 10.1255164,
-      "min_latitude": 36.827762,
-      "min_longitude": 9.976983899999999,
-      "max_latitude": 37.1352458,
-      "max_longitude": 10.2448928
-    },
-    "name": "L'Ariana"
+    "comments": null
   },
   "13": {
+    "name": "Ben Arous",
+    "code": null,
     "unofficial_names": [
       "Bin Arus",
       "Ben Arous"
     ],
+    "geo": {
+      "latitude": 36.7435003,
+      "longitude": 10.2319757,
+      "min_latitude": 36.7297301,
+      "min_longitude": 10.2090426,
+      "max_latitude": 36.7632374,
+      "max_longitude": 10.2602512
+    },
     "translations": {
       "en": "Ben Arous",
       "ar": "ولاية بن عروس",
@@ -137,22 +160,30 @@
       "tr": "Ben Arus ili",
       "uk": "Бен-Арус",
       "ur": "بن عروس",
-      "vi": "Tỉnh Ben Arous"
+      "vi": "Tỉnh Ben Arous",
+      "lv": "Ben Aruso vilājets",
+      "cy": "Ben Arous",
+      "ceb": "Gouvernorat de Ben Arous",
+      "zh": "本阿魯斯省",
+      "ccp": "𑄝𑄬𑄚𑄴 𑄃𑄢𑄯𑄌𑄴",
+      "az": "Ben Arus vilayəti"
     },
-    "geo": {
-      "latitude": 36.7435003,
-      "longitude": 10.2319757,
-      "min_latitude": 36.7297301,
-      "min_longitude": 10.2090426,
-      "max_latitude": 36.7632374,
-      "max_longitude": 10.2602512
-    },
-    "name": "Ben Arous"
+    "comments": null
   },
   "14": {
+    "name": "La Manouba",
+    "code": null,
     "unofficial_names": [
       "Manouba"
     ],
+    "geo": {
+      "latitude": 36.8446504,
+      "longitude": 9.8571416,
+      "min_latitude": 36.592011,
+      "min_longitude": 9.553794,
+      "max_latitude": 36.9795789,
+      "max_longitude": 10.081348
+    },
     "translations": {
       "en": "Manouba",
       "ar": "ولاية منوبة",
@@ -190,23 +221,32 @@
       "tr": "Manuba ili",
       "uk": "Мануба",
       "ur": "منوبہ",
-      "vi": "Tỉnh Manouba"
+      "vi": "Tỉnh Manouba",
+      "lv": "Manūbas vilāja",
+      "cy": "Manouba",
+      "ceb": "Manouba (lalawigan)",
+      "lt": "Manubos gubernija",
+      "zh": "馬努巴省",
+      "ccp": "𑄟𑄚𑄯𑄝",
+      "az": "Manuba vilayəti"
     },
-    "geo": {
-      "latitude": 36.8446504,
-      "longitude": 9.8571416,
-      "min_latitude": 36.592011,
-      "min_longitude": 9.553794,
-      "max_latitude": 36.9795789,
-      "max_longitude": 10.081348
-    },
-    "name": "La Manouba"
+    "comments": null
   },
   "21": {
+    "name": "Nabeul",
+    "code": null,
     "unofficial_names": [
       "Nabul",
       "Nabeul"
     ],
+    "geo": {
+      "latitude": 36.454167,
+      "longitude": 10.734722,
+      "min_latitude": 36.4244781,
+      "min_longitude": 10.6720592,
+      "max_latitude": 36.4772055,
+      "max_longitude": 10.7524394
+    },
     "translations": {
       "en": "Nabeul",
       "ar": "ولاية نابل",
@@ -244,24 +284,33 @@
       "tr": "Nabil ili",
       "uk": "Набуль",
       "ur": "نابل",
-      "vi": "Tỉnh Nabeul"
+      "vi": "Tỉnh Nabeul",
+      "lv": "Nābulas vilāja",
+      "cy": "Nabeul",
+      "ceb": "Gouvernorat de Nabeul",
+      "lt": "Nabulo gubernija",
+      "zh": "納布勒省",
+      "ccp": "𑄚𑄝𑄬𑄅𑄪𑄣𑄴",
+      "az": "Nabul vilayəti"
     },
-    "geo": {
-      "latitude": 36.454167,
-      "longitude": 10.734722,
-      "min_latitude": 36.4244781,
-      "min_longitude": 10.6720592,
-      "max_latitude": 36.4772055,
-      "max_longitude": 10.7524394
-    },
-    "name": "Nabeul"
+    "comments": null
   },
   "22": {
+    "name": "Zaghouan",
+    "code": null,
     "unofficial_names": [
       "Zaghwan",
       "Zagwan",
       "Zaghouan"
     ],
+    "geo": {
+      "latitude": 36.4,
+      "longitude": 10.15,
+      "min_latitude": 36.3916477,
+      "min_longitude": 10.1144424,
+      "max_latitude": 36.4261047,
+      "max_longitude": 10.1580619
+    },
     "translations": {
       "en": "Zaghouan",
       "ar": "ولاية زغوان",
@@ -299,25 +348,33 @@
       "tr": "Zağvan ili",
       "uk": "Загуан (вілаєт)",
       "ur": "زغوان گوورنوراتے",
-      "vi": "Tỉnh Zaghouan"
+      "vi": "Tỉnh Zaghouan",
+      "lv": "Zagvānas vilāja",
+      "cy": "Zaghouan",
+      "ceb": "Gouvernorat de Zaghouan",
+      "lt": "Zahvano gubernija",
+      "zh": "宰格萬省",
+      "ccp": "𑄎𑄊𑄯𑄠𑄚𑄴"
     },
-    "geo": {
-      "latitude": 36.4,
-      "longitude": 10.15,
-      "min_latitude": 36.3916477,
-      "min_longitude": 10.1144424,
-      "max_latitude": 36.4261047,
-      "max_longitude": 10.1580619
-    },
-    "name": "Zaghouan"
+    "comments": null
   },
   "23": {
+    "name": "Bizerte",
+    "code": null,
     "unofficial_names": [
       "Banzart",
       "Benzert",
       "Bizerta",
       "Bizerte"
     ],
+    "geo": {
+      "latitude": 37.266667,
+      "longitude": 9.866667,
+      "min_latitude": 37.2544257,
+      "min_longitude": 9.839630099999999,
+      "max_latitude": 37.2958372,
+      "max_longitude": 9.885862999999999
+    },
     "translations": {
       "en": "Bizerte",
       "ar": "ولاية بنزرت",
@@ -358,23 +415,31 @@
       "tr": "Binzert ili",
       "uk": "Бізерта",
       "ur": "بنزرت",
-      "vi": "Tỉnh Bizerte"
+      "vi": "Tỉnh Bizerte",
+      "lv": "Bizertas vilāja",
+      "cy": "Bizerte",
+      "ceb": "Gouvernorat de Bizerte",
+      "zh": "比塞大省",
+      "ccp": "𑄝𑄭𑄎𑄢𑄴𑄑𑄬",
+      "az": "Bizerta vilayəti"
     },
-    "geo": {
-      "latitude": 37.266667,
-      "longitude": 9.866667,
-      "min_latitude": 37.2544257,
-      "min_longitude": 9.839630099999999,
-      "max_latitude": 37.2958372,
-      "max_longitude": 9.885862999999999
-    },
-    "name": "Bizerte"
+    "comments": null
   },
   "31": {
+    "name": "Béja",
+    "code": null,
     "unofficial_names": [
       "Bajah",
       "Béja"
     ],
+    "geo": {
+      "latitude": 36.733333,
+      "longitude": 9.183333,
+      "min_latitude": 36.713096,
+      "min_longitude": 9.1621957,
+      "max_latitude": 36.7463238,
+      "max_longitude": 9.213008799999999
+    },
     "translations": {
       "en": "Béja",
       "ar": "ولاية باجة",
@@ -404,23 +469,30 @@
       "sv": "Béja",
       "tr": "Bace ili",
       "uk": "Беджа",
-      "ur": "باجہ"
+      "ur": "باجہ",
+      "cy": "Béja",
+      "ceb": "Gouvernorat de Béja",
+      "zh": "巴傑省",
+      "ccp": "𑄝𑄬𑄎",
+      "az": "Beca vilayəti"
     },
-    "geo": {
-      "latitude": 36.733333,
-      "longitude": 9.183333,
-      "min_latitude": 36.713096,
-      "min_longitude": 9.1621957,
-      "max_latitude": 36.7463238,
-      "max_longitude": 9.213008799999999
-    },
-    "name": "Béja"
+    "comments": null
   },
   "32": {
+    "name": "Jendouba",
+    "code": null,
     "unofficial_names": [
       "Jundubah",
       "Jendouba"
     ],
+    "geo": {
+      "latitude": 36.5,
+      "longitude": 8.783332999999999,
+      "min_latitude": 36.485349,
+      "min_longitude": 8.750782,
+      "max_latitude": 36.5212251,
+      "max_longitude": 8.807001099999999
+    },
     "translations": {
       "en": "Jendouba",
       "ar": "ولاية جندوبة",
@@ -459,23 +531,31 @@
       "tr": "Cendube ili",
       "uk": "Джендуба",
       "ur": "جندوبہ",
-      "vi": "Tỉnh Jendouba"
+      "vi": "Tỉnh Jendouba",
+      "lv": "Džundūbas vilāja",
+      "cy": "Jendouba",
+      "ceb": "Gouvernorat de Jendouba",
+      "zh": "堅杜拜省",
+      "ccp": "𑄎𑄬𑄚𑄴𑄓𑄯𑄝",
+      "az": "Cenduba vilayəti"
     },
-    "geo": {
-      "latitude": 36.5,
-      "longitude": 8.783332999999999,
-      "min_latitude": 36.485349,
-      "min_longitude": 8.750782,
-      "max_latitude": 36.5212251,
-      "max_longitude": 8.807001099999999
-    },
-    "name": "Jendouba"
+    "comments": null
   },
   "33": {
+    "name": "Le Kef",
+    "code": null,
     "unofficial_names": [
       "El Kef",
       "Le Kef"
     ],
+    "geo": {
+      "latitude": 36.182222,
+      "longitude": 8.714722,
+      "min_latitude": 36.1414446,
+      "min_longitude": 8.670744899999999,
+      "max_latitude": 36.1922777,
+      "max_longitude": 8.7338974
+    },
     "translations": {
       "en": "Kef",
       "ar": "ولاية الكاف",
@@ -513,23 +593,32 @@
       "tr": "Kâf ili",
       "uk": "Ель-Кеф",
       "ur": "کاف (صوبہ)",
-      "vi": "Tỉnh Kef"
+      "vi": "Tỉnh Kef",
+      "lv": "Kāfas vilāja",
+      "cy": "El Kef",
+      "ceb": "Gouvernorat de Kef",
+      "lt": "Kefo gubernija",
+      "zh": "卡夫省",
+      "ccp": "𑄇𑄬𑄛𑄴",
+      "az": "Kef vilayəti"
     },
-    "geo": {
-      "latitude": 36.182222,
-      "longitude": 8.714722,
-      "min_latitude": 36.1414446,
-      "min_longitude": 8.670744899999999,
-      "max_latitude": 36.1922777,
-      "max_longitude": 8.7338974
-    },
-    "name": "Le Kef"
+    "comments": null
   },
   "34": {
+    "name": "Siliana",
+    "code": null,
     "unofficial_names": [
       "Silyanah",
       "Siliana"
     ],
+    "geo": {
+      "latitude": 36.08194400000001,
+      "longitude": 9.374722,
+      "min_latitude": 36.0747015,
+      "min_longitude": 9.349880200000001,
+      "max_latitude": 36.098909,
+      "max_longitude": 9.3806076
+    },
     "translations": {
       "en": "Siliana",
       "ar": "ولاية سليانة",
@@ -567,23 +656,31 @@
       "tr": "Silyana ili",
       "uk": "Сільяна",
       "ur": "سلیانہ",
-      "vi": "Tỉnh Siliana"
+      "vi": "Tỉnh Siliana",
+      "lv": "Siljānas vilāja",
+      "cy": "Siliana",
+      "ceb": "Gouvernorat de Siliana",
+      "lt": "Silianos gubernija",
+      "zh": "錫勒亞奈省",
+      "ccp": "𑄥𑄨𑄣𑄨𑄠𑄚"
     },
-    "geo": {
-      "latitude": 36.08194400000001,
-      "longitude": 9.374722,
-      "min_latitude": 36.0747015,
-      "min_longitude": 9.349880200000001,
-      "max_latitude": 36.098909,
-      "max_longitude": 9.3806076
-    },
-    "name": "Siliana"
+    "comments": null
   },
   "41": {
+    "name": "Kairouan",
+    "code": null,
     "unofficial_names": [
       "al-Qayrawan",
       "Kairouan"
     ],
+    "geo": {
+      "latitude": 35.6759137,
+      "longitude": 10.0919243,
+      "min_latitude": 35.64132439999999,
+      "min_longitude": 10.0691415,
+      "max_latitude": 35.7072139,
+      "max_longitude": 10.1331712
+    },
     "translations": {
       "en": "Kairouan",
       "ar": "ولاية القيروان",
@@ -609,23 +706,30 @@
       "ru": "Кайруан",
       "tr": "Kayravan",
       "uk": "Кайруан",
-      "ur": "قیروان"
+      "ur": "قیروان",
+      "cy": "Kairouan",
+      "ceb": "Gouvernorat de Kairouan",
+      "zh": "凱魯萬省",
+      "ccp": "𑄇𑄭𑄢𑄯𑄠𑄚𑄴",
+      "az": "Kayruan vilayəti"
     },
-    "geo": {
-      "latitude": 35.6759137,
-      "longitude": 10.0919243,
-      "min_latitude": 35.64132439999999,
-      "min_longitude": 10.0691415,
-      "max_latitude": 35.7072139,
-      "max_longitude": 10.1331712
-    },
-    "name": "Kairouan"
+    "comments": null
   },
   "42": {
+    "name": "Kasserine",
+    "code": null,
     "unofficial_names": [
       "Qasrayn",
       "Kasserine"
     ],
+    "geo": {
+      "latitude": 35.166667,
+      "longitude": 8.833333,
+      "min_latitude": 35.1505123,
+      "min_longitude": 8.780908499999999,
+      "max_latitude": 35.1900134,
+      "max_longitude": 8.8686274
+    },
     "translations": {
       "en": "Kasserine",
       "ar": "ولاية القصرين",
@@ -663,23 +767,32 @@
       "tr": "Kassarin ili",
       "uk": "Касерін",
       "ur": "قصرین",
-      "vi": "Tỉnh Kasserine"
+      "vi": "Tỉnh Kasserine",
+      "lv": "Kasrainas vilāja",
+      "cy": "Kasserine",
+      "ceb": "Gouvernorat de Kasserine",
+      "lt": "Kaserinės gubernija",
+      "zh": "卡塞林省",
+      "ccp": "𑄇𑄥𑄬𑄢𑄭𑄚𑄴",
+      "az": "Kasserin vilayəti"
     },
-    "geo": {
-      "latitude": 35.166667,
-      "longitude": 8.833333,
-      "min_latitude": 35.1505123,
-      "min_longitude": 8.780908499999999,
-      "max_latitude": 35.1900134,
-      "max_longitude": 8.8686274
-    },
-    "name": "Kasserine"
+    "comments": null
   },
   "43": {
+    "name": "Sidi Bouzid",
+    "code": null,
     "unofficial_names": [
       "Sidi Bu Zayd",
       "Sidi Bouzid"
     ],
+    "geo": {
+      "latitude": 35.033333,
+      "longitude": 9.5,
+      "min_latitude": 35.0233905,
+      "min_longitude": 9.4474748,
+      "max_latitude": 35.0493886,
+      "max_longitude": 9.506600599999999
+    },
     "translations": {
       "en": "Sidi Bouzid",
       "ar": "ولاية سيدي بوزيد",
@@ -717,23 +830,32 @@
       "tr": "Sidi Bu Zeyd ili",
       "uk": "Сіді-Бузід",
       "ur": "سیدی بوزید",
-      "vi": "Tỉnh Sidi Bouzid"
+      "vi": "Tỉnh Sidi Bouzid",
+      "lv": "Sīdī Bū Zeidas vilāja",
+      "cy": "Sidi Bouzid",
+      "ceb": "Gouvernorat de Sidi Bouzid",
+      "lt": "Sidi Buzido gubernija",
+      "zh": "西迪布濟德省",
+      "ccp": "𑄥𑄨𑄓𑄨 𑄝𑄯𑄎𑄨𑄖𑄴",
+      "az": "Sidi-Bu-Zid vilayəti"
     },
-    "geo": {
-      "latitude": 35.033333,
-      "longitude": 9.5,
-      "min_latitude": 35.0233905,
-      "min_longitude": 9.4474748,
-      "max_latitude": 35.0493886,
-      "max_longitude": 9.506600599999999
-    },
-    "name": "Sidi Bouzid"
+    "comments": null
   },
   "51": {
+    "name": "Sousse",
+    "code": null,
     "unofficial_names": [
       "Susah",
       "Sousse"
     ],
+    "geo": {
+      "latitude": 35.825603,
+      "longitude": 10.608395,
+      "min_latitude": 35.7857109,
+      "min_longitude": 10.5743716,
+      "max_latitude": 35.8729782,
+      "max_longitude": 10.666535
+    },
     "translations": {
       "en": "Sousse",
       "ar": "ولاية سوسة",
@@ -773,23 +895,30 @@
       "tr": "Susa ili",
       "uk": "Сус",
       "ur": "سوسہ",
-      "vi": "Tỉnh Sousse"
+      "vi": "Tỉnh Sousse",
+      "lv": "Sūsas vilāja",
+      "cy": "Sousse",
+      "ceb": "Gouvernorat de Sousse",
+      "zh": "蘇塞省",
+      "ccp": "𑄥𑄯𑄌𑄴"
     },
-    "geo": {
-      "latitude": 35.825603,
-      "longitude": 10.608395,
-      "min_latitude": 35.7857109,
-      "min_longitude": 10.5743716,
-      "max_latitude": 35.8729782,
-      "max_longitude": 10.666535
-    },
-    "name": "Sousse"
+    "comments": null
   },
   "52": {
+    "name": "Monastir",
+    "code": null,
     "unofficial_names": [
       "al-Munastir",
       "Monastir"
     ],
+    "geo": {
+      "latitude": 35.783333,
+      "longitude": 10.833333,
+      "min_latitude": 35.7204547,
+      "min_longitude": 10.7770729,
+      "max_latitude": 35.788039,
+      "max_longitude": 10.8437093
+    },
     "translations": {
       "en": "Monastir",
       "ar": "ولاية المنستير",
@@ -828,24 +957,33 @@
       "tr": "Munastır",
       "uk": "Монастір",
       "ur": "منستر",
-      "vi": "Tỉnh Monastir"
+      "vi": "Tỉnh Monastir",
+      "lv": "Monastīras vilāja",
+      "cy": "Monastir",
+      "ceb": "Gouvernorat de Monastir",
+      "lt": "Monastiro gubernija",
+      "zh": "莫納斯提爾省",
+      "ccp": "𑄟𑄮𑄚𑄌𑄴𑄑𑄨𑄢𑄴",
+      "az": "Monastir vilayəti"
     },
-    "geo": {
-      "latitude": 35.783333,
-      "longitude": 10.833333,
-      "min_latitude": 35.7204547,
-      "min_longitude": 10.7770729,
-      "max_latitude": 35.788039,
-      "max_longitude": 10.8437093
-    },
-    "name": "Monastir"
+    "comments": null
   },
   "53": {
+    "name": "Mahdia",
+    "code": null,
     "unofficial_names": [
       "Mahdia",
       "al-Mahdiyah",
       "Mehdia"
     ],
+    "geo": {
+      "latitude": 35.5024461,
+      "longitude": 11.045721,
+      "min_latitude": 35.4924656,
+      "min_longitude": 11.0219544,
+      "max_latitude": 35.516999,
+      "max_longitude": 11.0821596
+    },
     "translations": {
       "en": "Mahdia",
       "ar": "ولاية المهدية",
@@ -883,23 +1021,32 @@
       "tr": "Mehdiye ili",
       "uk": "Махдія",
       "ur": "مہدیہ",
-      "vi": "Tỉnh Mahdia"
+      "vi": "Tỉnh Mahdia",
+      "lv": "Mehdījas vilāja",
+      "cy": "Mahdia",
+      "ceb": "Gouvernorat de Mahdia",
+      "lt": "Machdijos gubernija",
+      "zh": "馬赫迪耶省",
+      "ccp": "𑄟𑄦𑄴𑄓𑄨𑄠",
+      "az": "Mahdiya vilayəti"
     },
-    "geo": {
-      "latitude": 35.5024461,
-      "longitude": 11.045721,
-      "min_latitude": 35.4924656,
-      "min_longitude": 11.0219544,
-      "max_latitude": 35.516999,
-      "max_longitude": 11.0821596
-    },
-    "name": "Mahdia"
+    "comments": null
   },
   "61": {
+    "name": "Sfax",
+    "code": null,
     "unofficial_names": [
       "Safaqis",
       "Sfax"
     ],
+    "geo": {
+      "latitude": 34.733333,
+      "longitude": 10.766667,
+      "min_latitude": 34.6996316,
+      "min_longitude": 10.677681,
+      "max_latitude": 34.8146488,
+      "max_longitude": 10.8035946
+    },
     "translations": {
       "en": "Sfax",
       "ar": "ولاية صفاقس",
@@ -939,20 +1086,29 @@
       "tr": "Sfaks ili",
       "uk": "Сфакс",
       "ur": "صفاقس",
-      "vi": "Tỉnh Sfax"
+      "vi": "Tỉnh Sfax",
+      "lv": "Sfāksas vilāja",
+      "cy": "Sfax",
+      "ceb": "Gouvernorat de Sfax",
+      "lt": "Sfakso gubernija",
+      "zh": "斯法克斯省",
+      "ccp": "𑄜𑄳𑄠𑄇𑄴",
+      "az": "Sfaqs vilayəti"
     },
-    "geo": {
-      "latitude": 34.733333,
-      "longitude": 10.766667,
-      "min_latitude": 34.6996316,
-      "min_longitude": 10.677681,
-      "max_latitude": 34.8146488,
-      "max_longitude": 10.8035946
-    },
-    "name": "Sfax"
+    "comments": null
   },
   "71": {
+    "name": "Gafsa",
+    "code": null,
     "unofficial_names": "Gafsa",
+    "geo": {
+      "latitude": 34.416667,
+      "longitude": 8.783332999999999,
+      "min_latitude": 34.403907,
+      "min_longitude": 8.744003,
+      "max_latitude": 34.4532756,
+      "max_longitude": 8.8033181
+    },
     "translations": {
       "en": "Gafsa",
       "ar": "ولاية قفصة",
@@ -992,22 +1148,30 @@
       "tr": "Kafsa ili",
       "uk": "Гафса",
       "ur": "قفصہ",
-      "vi": "Tỉnh Gafsa"
+      "vi": "Tỉnh Gafsa",
+      "lv": "Gafsas vilāja",
+      "cy": "Gafsa",
+      "ceb": "Gafsa Governorate",
+      "zh": "加夫薩省",
+      "ccp": "𑄉𑄛𑄴𑄥",
+      "az": "Qafsa vilayəti"
     },
-    "geo": {
-      "latitude": 34.416667,
-      "longitude": 8.783332999999999,
-      "min_latitude": 34.403907,
-      "min_longitude": 8.744003,
-      "max_latitude": 34.4532756,
-      "max_longitude": 8.8033181
-    },
-    "name": "Gafsa"
+    "comments": null
   },
   "72": {
+    "name": "Tozeur",
+    "code": null,
     "unofficial_names": [
       "Tozeur"
     ],
+    "geo": {
+      "latitude": 33.916667,
+      "longitude": 8.133333,
+      "min_latitude": 33.8938586,
+      "min_longitude": 8.082332599999999,
+      "max_latitude": 33.9435024,
+      "max_longitude": 8.157348599999999
+    },
     "translations": {
       "en": "Tozeur",
       "ar": "ولاية توزر",
@@ -1045,25 +1209,33 @@
       "tr": "Tuzer ili",
       "uk": "Таузар",
       "ur": "توزر",
-      "vi": "Tỉnh Tozeur"
+      "vi": "Tỉnh Tozeur",
+      "lv": "Tauzāras vilāja",
+      "cy": "Tozeur",
+      "ceb": "Gouvernorat de Tozeur",
+      "lt": "Tozuro gubernija",
+      "zh": "托澤爾省",
+      "ccp": "𑄑𑄮𑄎𑄬𑄅𑄪𑄢𑄴"
     },
-    "geo": {
-      "latitude": 33.916667,
-      "longitude": 8.133333,
-      "min_latitude": 33.8938586,
-      "min_longitude": 8.082332599999999,
-      "max_latitude": 33.9435024,
-      "max_longitude": 8.157348599999999
-    },
-    "name": "Tozeur"
+    "comments": null
   },
   "73": {
+    "name": "Kebili",
+    "code": null,
     "unofficial_names": [
       "Qabili",
       "Qabilī",
       "Qibili",
       "Kébili"
     ],
+    "geo": {
+      "latitude": 33.1245286,
+      "longitude": 8.8362755,
+      "min_latitude": 32.515911,
+      "min_longitude": 7.738455099999999,
+      "max_latitude": 34.209379,
+      "max_longitude": 9.998009099999999
+    },
     "translations": {
       "en": "Kebili",
       "ar": "ولاية قبلي",
@@ -1101,23 +1273,32 @@
       "tr": "Kabili ili",
       "uk": "Кебілі",
       "ur": "قبلی",
-      "vi": "Tỉnh Kebili"
+      "vi": "Tỉnh Kebili",
+      "lv": "Kibilī vilāja",
+      "cy": "Kébili",
+      "ceb": "Gouvernorat de Kébili",
+      "lt": "Kebilio gubernija",
+      "zh": "吉比利省",
+      "ccp": "𑄇𑄬𑄝𑄨𑄣𑄨",
+      "az": "Kebili vilayəti"
     },
-    "geo": {
-      "latitude": 33.1245286,
-      "longitude": 8.8362755,
-      "min_latitude": 32.515911,
-      "min_longitude": 7.738455099999999,
-      "max_latitude": 34.209379,
-      "max_longitude": 9.998009099999999
-    },
-    "name": "Kebili"
+    "comments": null
   },
   "81": {
+    "name": "Gabès",
+    "code": null,
     "unofficial_names": [
       "Qabis",
       "Gabès"
     ],
+    "geo": {
+      "latitude": 33.883333,
+      "longitude": 10.116667,
+      "min_latitude": 33.8708076,
+      "min_longitude": 10.0854492,
+      "max_latitude": 33.9077505,
+      "max_longitude": 10.1198673
+    },
     "translations": {
       "en": "Gabès",
       "ar": "ولاية قابس",
@@ -1157,23 +1338,31 @@
       "tr": "Gabes",
       "uk": "Габес",
       "ur": "گابس",
-      "vi": "Tỉnh Gabès"
+      "vi": "Tỉnh Gabès",
+      "lv": "Gābisas vilāja",
+      "cy": "Gabès",
+      "ceb": "Gouvernorat de Gabès",
+      "zh": "加貝斯省",
+      "ccp": "𑄉𑄝𑄬𑄌𑄴",
+      "az": "Qabes vilayəti"
     },
-    "geo": {
-      "latitude": 33.883333,
-      "longitude": 10.116667,
-      "min_latitude": 33.8708076,
-      "min_longitude": 10.0854492,
-      "max_latitude": 33.9077505,
-      "max_longitude": 10.1198673
-    },
-    "name": "Gabès"
+    "comments": null
   },
   "82": {
+    "name": "Medenine",
+    "code": null,
     "unofficial_names": [
       "Madaniyin",
       "Medenine"
     ],
+    "geo": {
+      "latitude": 33.354722,
+      "longitude": 10.505278,
+      "min_latitude": 33.3227112,
+      "min_longitude": 10.4608726,
+      "max_latitude": 33.3705348,
+      "max_longitude": 10.5216409
+    },
     "translations": {
       "en": "Medenine",
       "ar": "ولاية مدنين",
@@ -1211,23 +1400,32 @@
       "tr": "Medenin ili",
       "uk": "Меденін",
       "ur": "مدنین",
-      "vi": "Tỉnh Medenine"
+      "vi": "Tỉnh Medenine",
+      "lv": "Medenīnas vilāja",
+      "cy": "Médenine",
+      "ceb": "Gouvernorat de Médenine",
+      "lt": "Medeninos gubernija",
+      "zh": "梅德寧省",
+      "ccp": "𑄟𑄬𑄓𑄬𑄚𑄭𑄚𑄴",
+      "az": "Medenin vilayəti"
     },
-    "geo": {
-      "latitude": 33.354722,
-      "longitude": 10.505278,
-      "min_latitude": 33.3227112,
-      "min_longitude": 10.4608726,
-      "max_latitude": 33.3705348,
-      "max_longitude": 10.5216409
-    },
-    "name": "Medenine"
+    "comments": null
   },
   "83": {
+    "name": "Tataouine",
+    "code": null,
     "unofficial_names": [
       "Tatawin",
       "Tatouine"
     ],
+    "geo": {
+      "latitude": 32.933333,
+      "longitude": 10.45,
+      "min_latitude": 32.8872997,
+      "min_longitude": 10.4053402,
+      "max_latitude": 32.9618664,
+      "max_longitude": 10.4796697
+    },
     "translations": {
       "en": "Tataouine",
       "ar": "ولاية تطاوين",
@@ -1265,17 +1463,15 @@
       "tr": "Tatavin ili",
       "uk": "Татауїн",
       "ur": "تطاوین",
-      "vi": "Tỉnh Tataouine"
+      "vi": "Tỉnh Tataouine",
+      "lv": "Tatāvīnas vilāja",
+      "cy": "Tataouine",
+      "ceb": "Tataouine (lalawigan)",
+      "lt": "Tatujino gubernija",
+      "zh": "泰塔溫省",
+      "ccp": "𑄑𑄑𑄯𑄃𑄨𑄚𑄴"
     },
-    "geo": {
-      "latitude": 32.933333,
-      "longitude": 10.45,
-      "min_latitude": 32.8872997,
-      "min_longitude": 10.4053402,
-      "max_latitude": 32.9618664,
-      "max_longitude": 10.4796697
-    },
-    "name": "Tataouine"
+    "comments": null
   }
 }
 

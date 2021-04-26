@@ -1,5 +1,7 @@
 {
   "AKM": {
+    "name": "Aqmola oblysy",
+    "code": null,
     "unofficial_names": [
       "Akmola",
       "Akmolinsk",
@@ -7,6 +9,14 @@
       "Celinograd",
       "Tselinograd"
     ],
+    "geo": {
+      "latitude": 51.916532,
+      "longitude": 69.4110493,
+      "min_latitude": 50.111386,
+      "min_longitude": 65.2571501,
+      "max_latitude": 53.708545,
+      "max_longitude": 74.19755889999999
+    },
     "translations": {
       "en": "Akmola",
       "ar": "أوبليس أكمولا",
@@ -55,25 +65,35 @@
       "uk": "Акмолинська область",
       "ur": "اقمولا صوبہ",
       "vi": "Akmola",
-      "zh": "阿克莫拉州"
+      "zh": "阿克莫拉州",
+      "ceb": "Aqmola Oblysy",
+      "sr_Latn": "Akmolinska oblast",
+      "ccp": "𑄃𑄇𑄴𑄟𑄧𑄣",
+      "ky": "Акмоло облусу",
+      "he": "אקמולה (מחוז)",
+      "kk": "Ақмола облысы",
+      "uz": "Akmola viloyati",
+      "mk": "Акмола"
     },
-    "geo": {
-      "latitude": 51.916532,
-      "longitude": 69.4110493,
-      "min_latitude": 50.111386,
-      "min_longitude": 65.2571501,
-      "max_latitude": 53.708545,
-      "max_longitude": 74.19755889999999
-    },
-    "name": "Aqmola oblysy"
+    "comments": null
   },
   "AKT": {
+    "name": "Aqtöbe oblysy",
+    "code": null,
     "unofficial_names": [
       "Aktjubinsk",
       "Aktyubinsk",
       "Aktöbe",
       "Aktʿubinsk"
     ],
+    "geo": {
+      "latitude": 48.7797078,
+      "longitude": 57.9974377,
+      "min_latitude": 45.162695,
+      "min_longitude": 53.5261182,
+      "max_latitude": 51.339557,
+      "max_longitude": 64.1807611
+    },
     "translations": {
       "en": "Aktobe",
       "ar": "أوبليس أكتوبي",
@@ -121,24 +141,34 @@
       "uk": "Актюбінська область",
       "ur": "اقتوبے صوبہ",
       "vi": "Aktobe",
-      "zh": "阿克托貝州"
+      "zh": "阿克托貝州",
+      "ceb": "Aktyubinskaya Oblast’",
+      "sr_Latn": "Aktjubinska oblast",
+      "ccp": "𑄃𑄇𑄴𑄑𑄮𑄝𑄬",
+      "ky": "Актөбө облусу",
+      "he": "אקטובה (מחוז)",
+      "kk": "Ақтөбе облысы",
+      "uz": "Aqtoʻbe viloyati",
+      "mk": "Актобе"
     },
-    "geo": {
-      "latitude": 48.7797078,
-      "longitude": 57.9974377,
-      "min_latitude": 45.162695,
-      "min_longitude": 53.5261182,
-      "max_latitude": 51.339557,
-      "max_longitude": 64.1807611
-    },
-    "name": "Aqtöbe oblysy"
+    "comments": null
   },
   "ALA": {
+    "name": "Almaty",
+    "code": null,
     "unofficial_names": [
       "Almati Oblasti",
       "Almaty Oblasty",
       "Almatı"
     ],
+    "geo": {
+      "latitude": 43.2220146,
+      "longitude": 76.8512485,
+      "min_latitude": 43.0287453,
+      "min_longitude": 76.7415618,
+      "max_latitude": 43.4057021,
+      "max_longitude": 77.1467686
+    },
     "translations": {
       "en": "Almaty",
       "af": "Almaty",
@@ -200,20 +230,37 @@
       "ur": "الماتی",
       "vi": "Almaty",
       "zh": "阿拉木圖",
-      "zu": "Almaty"
+      "zu": "Almaty",
+      "cy": "Almaty",
+      "ceb": "Almaty (kapital sa lalawigan)",
+      "sr_Latn": "Almati",
+      "yue_Hans": "阿拉木图",
+      "sq": "Almati",
+      "ccp": "𑄃𑄣𑄴𑄟𑄑𑄨",
+      "ga": "Almaty",
+      "ky": "Алматы",
+      "pa": "ਅਲਮਾਟੀ",
+      "kk": "Алматы",
+      "yue": "阿拉木圖",
+      "yo": "Almaty",
+      "uz": "Almati",
+      "bs": "Almaty",
+      "mk": "Алмати"
     },
-    "geo": {
-      "latitude": 43.2220146,
-      "longitude": 76.8512485,
-      "min_latitude": 43.0287453,
-      "min_longitude": 76.7415618,
-      "max_latitude": 43.4057021,
-      "max_longitude": 77.1467686
-    },
-    "name": "Almaty"
+    "comments": null
   },
   "ALM": {
+    "name": "Almaty oblysy",
+    "code": null,
     "unofficial_names": "Almaty oblysy",
+    "geo": {
+      "latitude": 45.0119227,
+      "longitude": 78.4229392,
+      "min_latitude": 42.202049,
+      "min_longitude": 74.0447233,
+      "max_latitude": 47.329847,
+      "max_longitude": 82.63085889999999
+    },
     "translations": {
       "en": "Almaty Region",
       "ar": "أوبليس ألماطي",
@@ -263,20 +310,31 @@
       "uk": "Алматинська область",
       "ur": "الماتی صوبہ",
       "vi": "Almaty²",
-      "zh": "阿拉木圖州"
+      "zh": "阿拉木圖州",
+      "ceb": "Almaty Qalasy",
+      "sr_Latn": "Almatinska oblast",
+      "ccp": "𑄃𑄣𑄴𑄟𑄑𑄨 𑄢𑄨𑄎𑄨𑄠𑄧𑄚𑄴",
+      "ky": "Алматы облусу",
+      "he": "אלמטי (מחוז)",
+      "pa": "ਅਲਮਾਟੀ ਸੂਬਾ",
+      "kk": "Алматы облысы",
+      "uz": "Almati²",
+      "mk": "Алмати²"
     },
-    "geo": {
-      "latitude": 45.0119227,
-      "longitude": 78.4229392,
-      "min_latitude": 42.202049,
-      "min_longitude": 74.0447233,
-      "max_latitude": 47.329847,
-      "max_longitude": 82.63085889999999
-    },
-    "name": "Almaty oblysy"
+    "comments": null
   },
   "AST": {
+    "name": "Astana",
+    "code": null,
     "unofficial_names": "Astana",
+    "geo": {
+      "latitude": 51.16052269999999,
+      "longitude": 71.4703558,
+      "min_latitude": 51.0055461,
+      "min_longitude": 71.2160397,
+      "max_latitude": 51.2903453,
+      "max_longitude": 71.7427397
+    },
     "translations": {
       "en": "Astana",
       "af": "Astana",
@@ -340,19 +398,29 @@
       "uk": "Астана",
       "ur": "آستانہ",
       "vi": "Astana",
-      "zh": "阿斯塔納"
+      "zh": "阿斯塔納",
+      "cy": "Astana",
+      "ceb": "Astana",
+      "sr_Latn": "Astana",
+      "yue_Hans": "阿斯塔纳",
+      "jv": "Astana, Kazakhstan",
+      "sq": "Astana",
+      "ccp": "𑄃𑄌𑄴𑄑𑄚",
+      "ga": "Astana",
+      "ky": "Астана",
+      "pa": "ਅਸਤਾਨਾ",
+      "kk": "Астана қаласы",
+      "yue": "阿斯塔納",
+      "yo": "Astana",
+      "uz": "Ostona",
+      "bs": "Astana",
+      "mk": "Астана"
     },
-    "geo": {
-      "latitude": 51.16052269999999,
-      "longitude": 71.4703558,
-      "min_latitude": 51.0055461,
-      "min_longitude": 71.2160397,
-      "max_latitude": 51.2903453,
-      "max_longitude": 71.7427397
-    },
-    "name": "Astana"
+    "comments": null
   },
   "ATY": {
+    "name": "Atyrau oblysy",
+    "code": null,
     "unofficial_names": [
       "Ateransk",
       "Aterau",
@@ -361,6 +429,14 @@
       "Gurjev",
       "Guryev"
     ],
+    "geo": {
+      "latitude": 47.9053152,
+      "longitude": 51.3780767,
+      "min_latitude": 46.16998,
+      "min_longitude": 46.994003,
+      "max_latitude": 49.270703,
+      "max_longitude": 56.37093609999999
+    },
     "translations": {
       "en": "Atyrau",
       "ar": "أوبليس أتييرو",
@@ -408,20 +484,30 @@
       "uk": "Атирауська область",
       "ur": "اتیراؤ صوبہ",
       "vi": "Atyrau",
-      "zh": "阿特勞州"
+      "zh": "阿特勞州",
+      "ceb": "Atyraū Oblysy",
+      "sr_Latn": "Atirauska oblast",
+      "ccp": "𑄃𑄑𑄨𑄠𑄢𑄅𑄪",
+      "ky": "Атырау облусу",
+      "he": "מחוז אטיראו",
+      "kk": "Атырау облысы",
+      "uz": "Atirau viloyati",
+      "mk": "Атирау"
     },
-    "geo": {
-      "latitude": 47.9053152,
-      "longitude": 51.3780767,
-      "min_latitude": 46.16998,
-      "min_longitude": 46.994003,
-      "max_latitude": 49.270703,
-      "max_longitude": 56.37093609999999
-    },
-    "name": "Atyrau oblysy"
+    "comments": null
   },
   "BAY": {
+    "name": "Bayqongyr",
+    "code": null,
     "unofficial_names": "Bayqongyr",
+    "geo": {
+      "latitude": 45.6232258,
+      "longitude": 63.31398289999999,
+      "min_latitude": 45.6036048,
+      "min_longitude": 63.2785679,
+      "max_latitude": 45.6437181,
+      "max_longitude": 63.3368253
+    },
     "translations": {
       "en": "Bayqongyr",
       "ar": "بايكونور",
@@ -473,19 +559,20 @@
       "uk": "Байконур",
       "ur": "بایکونور",
       "vi": "Baikonur",
-      "zh": "拜科努爾"
+      "zh": "拜科努爾",
+      "ceb": "Bayqongyr Qalasy",
+      "sr_Latn": "Bajkonur",
+      "ccp": "𑄝𑄬𑄇𑄧𑄁𑄉𑄠𑄢𑄴",
+      "pa": "ਬਾਈਕੋਨਰ",
+      "kk": "Байқоңыр",
+      "uz": "Boyqoʻngʻir",
+      "mk": "Бајконур"
     },
-    "geo": {
-      "latitude": 45.6232258,
-      "longitude": 63.31398289999999,
-      "min_latitude": 45.6036048,
-      "min_longitude": 63.2785679,
-      "max_latitude": 45.6437181,
-      "max_longitude": 63.3368253
-    },
-    "name": "Bayqongyr"
+    "comments": null
   },
   "KAR": {
+    "name": "Qaraghandy oblysy",
+    "code": null,
     "unofficial_names": [
       "Karaganda",
       "Karagandi",
@@ -493,6 +580,14 @@
       "Qaraghandy",
       "Ķaragandı"
     ],
+    "geo": {
+      "latitude": 47.90221820000001,
+      "longitude": 71.77068059999999,
+      "min_latitude": 46.001395,
+      "min_longitude": 62.6005359,
+      "max_latitude": 51.38928199999999,
+      "max_longitude": 77.6211869
+    },
     "translations": {
       "en": "Karagandy",
       "ar": "أوبليس كراغندي",
@@ -542,19 +637,21 @@
       "uk": "Карагандинська область",
       "ur": "قاراغاندی صوبہ",
       "vi": "Karagandy",
-      "zh": "卡拉干達州"
+      "zh": "卡拉干達州",
+      "ceb": "Qaraghandy Oblysy",
+      "sr_Latn": "Karagandinska oblast",
+      "ccp": "𑄇𑄢𑄉𑄚𑄴𑄓𑄨",
+      "ky": "Караганды облусу",
+      "he": "קרגנדה (מחוז)",
+      "kk": "Қарағанды облысы",
+      "uz": "Qaragʻandi viloyati",
+      "mk": "Караганди"
     },
-    "geo": {
-      "latitude": 47.90221820000001,
-      "longitude": 71.77068059999999,
-      "min_latitude": 46.001395,
-      "min_longitude": 62.6005359,
-      "max_latitude": 51.38928199999999,
-      "max_longitude": 77.6211869
-    },
-    "name": "Qaraghandy oblysy"
+    "comments": null
   },
   "KUS": {
+    "name": "Qostanay oblysy",
+    "code": null,
     "unofficial_names": [
       "Kostanay",
       "Kustanai",
@@ -562,6 +659,14 @@
       "Kustanay",
       "Ķostanay"
     ],
+    "geo": {
+      "latitude": 51.5077096,
+      "longitude": 64.04790729999999,
+      "min_latitude": 48.197313,
+      "min_longitude": 60.0529098,
+      "max_latitude": 54.7125819,
+      "max_longitude": 68.02896299999999
+    },
     "translations": {
       "en": "Kostanay",
       "ar": "أوبليس كوستناي",
@@ -610,19 +715,23 @@
       "uk": "Костанайська область",
       "ur": "قوستانای صوبہ",
       "vi": "Kostanay",
-      "zh": "庫斯塔奈州"
+      "zh": "庫斯塔奈州",
+      "ceb": "Qostanay Oblysy",
+      "sr_Latn": "Kostanajska oblast",
+      "ccp": "𑄇𑄮𑄌𑄴𑄑𑄚𑄬",
+      "ky": "Костанай облусу",
+      "he": "קוסטנאי (מחוז)",
+      "pa": "ਕੋਸਤਾਨਾਏ ਸੂਬਾ",
+      "kk": "Қостанай облысы",
+      "ca": "província de Kostanay",
+      "uz": "Qoʻstanoy viloyati",
+      "mk": "Костанај"
     },
-    "geo": {
-      "latitude": 51.5077096,
-      "longitude": 64.04790729999999,
-      "min_latitude": 48.197313,
-      "min_longitude": 60.0529098,
-      "max_latitude": 54.7125819,
-      "max_longitude": 68.02896299999999
-    },
-    "name": "Qostanay oblysy"
+    "comments": null
   },
   "KZY": {
+    "name": "Qyzylorda oblysy",
+    "code": null,
     "unofficial_names": [
       "Ak-Mechet",
       "Kizilorda",
@@ -632,6 +741,14 @@
       "Qyzylorda",
       "Ķızılorda"
     ],
+    "geo": {
+      "latitude": 44.6922613,
+      "longitude": 62.6571885,
+      "min_latitude": 42.421028,
+      "min_longitude": 58.7882902,
+      "max_latitude": 47.854687,
+      "max_longitude": 68.0135679
+    },
     "translations": {
       "en": "Kyzylorda",
       "ar": "أوبليس كيزيلوردا",
@@ -680,25 +797,35 @@
       "uk": "Кизилординська область",
       "ur": "قیزیلوردا صوبہ",
       "vi": "Kyzylorda",
-      "zh": "克孜勒奧爾達州"
+      "zh": "克孜勒奧爾達州",
+      "ceb": "Qyzylorda Oblysy",
+      "sr_Latn": "Kizilordinska oblast",
+      "ccp": "𑄇𑄭𑄎𑄭𑄣𑄧𑄢𑄴𑄓",
+      "ky": "Кызыл-Ордо облусу",
+      "he": "קזילאורדה (מחוז)",
+      "kk": "Қызылорда облысы",
+      "uz": "Qiziloʼrda viloyati",
+      "mk": "Кизилорда"
     },
-    "geo": {
-      "latitude": 44.6922613,
-      "longitude": 62.6571885,
-      "min_latitude": 42.421028,
-      "min_longitude": 58.7882902,
-      "max_latitude": 47.854687,
-      "max_longitude": 68.0135679
-    },
-    "name": "Qyzylorda oblysy"
+    "comments": null
   },
   "MAN": {
+    "name": "Mangghystau oblysy",
+    "code": null,
     "unofficial_names": [
       "Mangghystau",
       "Mangistau",
       "Mangkistau",
       "Mangqystau"
     ],
+    "geo": {
+      "latitude": 44.590802,
+      "longitude": 53.84995079999999,
+      "min_latitude": 41.240135,
+      "min_longitude": 50.0048314,
+      "max_latitude": 46.461712,
+      "max_longitude": 56.696327
+    },
     "translations": {
       "en": "Mangystau",
       "ar": "أوبليس مانكيستاو",
@@ -744,20 +871,32 @@
       "uk": "Мангистауська область",
       "ur": "مانغیستاؤ صوبہ",
       "vi": "Mangistau",
-      "zh": "曼格斯套州"
+      "zh": "曼格斯套州",
+      "ceb": "Mangistauskaya Oblast’",
+      "sr_Latn": "Mangistauska oblast",
+      "ccp": "𑄟𑄁𑄉𑄨𑄌𑄴𑄑𑄅𑄪",
+      "ky": "Маңгыстоо областы",
+      "he": "מנגוסטאו (מחוז)",
+      "pa": "ਮਾਂਗਿਸਤੌ",
+      "kk": "Маңғыстау облысы",
+      "be": "Мангістаўская вобласць",
+      "uz": "Mangʻistov viloyati",
+      "mk": "Мангистау"
     },
-    "geo": {
-      "latitude": 44.590802,
-      "longitude": 53.84995079999999,
-      "min_latitude": 41.240135,
-      "min_longitude": 50.0048314,
-      "max_latitude": 46.461712,
-      "max_longitude": 56.696327
-    },
-    "name": "Mangghystau oblysy"
+    "comments": null
   },
   "PAV": {
+    "name": "Pavlodar oblysy",
+    "code": null,
     "unofficial_names": "Pavlodar oblysy",
+    "geo": {
+      "latitude": 52.65085440000001,
+      "longitude": 76.7773224,
+      "min_latitude": 50.023726,
+      "min_longitude": 73.282956,
+      "max_latitude": 54.4579159,
+      "max_longitude": 79.590622
+    },
     "translations": {
       "en": "Pavlodar",
       "ar": "أوبليس بافلودار",
@@ -805,24 +944,36 @@
       "uk": "Павлодарська область",
       "ur": "پاؤلودار صوبہ",
       "vi": "Pavlodar",
-      "zh": "巴甫洛達爾州"
+      "zh": "巴甫洛達爾州",
+      "ceb": "Pavlodar Oblysy",
+      "sr_Latn": "Pavlodarska oblast",
+      "ccp": "𑄛𑄛𑄴𑄣𑄮𑄓𑄢𑄴",
+      "hy": "Պավլոդարի մարզ",
+      "ky": "Павлодар областы",
+      "he": "פבלודר (מחוז)",
+      "pa": "ਪਾਵਲੋਦਰ",
+      "kk": "Павлодар облысы",
+      "uz": "Pavlodar viloyati",
+      "mk": "Павлодар"
     },
-    "geo": {
-      "latitude": 52.65085440000001,
-      "longitude": 76.7773224,
-      "min_latitude": 50.023726,
-      "min_longitude": 73.282956,
-      "max_latitude": 54.4579159,
-      "max_longitude": 79.590622
-    },
-    "name": "Pavlodar oblysy"
+    "comments": null
   },
   "SEV": {
+    "name": "Soltüstik Qazaqstan oblysy",
+    "code": null,
     "unofficial_names": [
       "Northern Kazakhstan",
       "Soltüstik Kazakstan",
       "Soltüstik Qazaqstan"
     ],
+    "geo": {
+      "latitude": 53.2948229,
+      "longitude": 69.4047872,
+      "min_latitude": 53.2533834,
+      "min_longitude": 69.35711859999999,
+      "max_latitude": 53.3444028,
+      "max_longitude": 69.4638061
+    },
     "translations": {
       "en": "North Kazakhstan",
       "ar": "أوبليس كازاخستان الشمالي",
@@ -871,24 +1022,34 @@
       "uk": "Північно-Казахстанська область",
       "ur": "شمالی قازقستان صوبہ",
       "vi": "Bắc Kazakhstan",
-      "zh": "北哈薩克斯坦州"
+      "zh": "北哈薩克斯坦州",
+      "ceb": "Severo-Kazakhstanskaya Oblast’",
+      "sr_Latn": "Severnokazahstanska oblast",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄎𑄈𑄌𑄴𑄑𑄚𑄴",
+      "he": "מחוז הצפון (קזחסטן)",
+      "pa": "ਉੱਤਰੀ ਕਜ਼ਾਖ਼ਿਸਤਾਨ ਸੂਬਾ",
+      "kk": "Солтүстік Қазақстан облысы",
+      "uz": "Shimoliy Qozogʻiston viloyati",
+      "mk": "Северен Казахстан"
     },
-    "geo": {
-      "latitude": 53.2948229,
-      "longitude": 69.4047872,
-      "min_latitude": 53.2533834,
-      "min_longitude": 69.35711859999999,
-      "max_latitude": 53.3444028,
-      "max_longitude": 69.4638061
-    },
-    "name": "Soltüstik Qazaqstan oblysy"
+    "comments": null
   },
   "VOS": {
+    "name": "Shyghys Qazaqstan oblysy",
+    "code": null,
     "unofficial_names": [
       "Eastern Kazakhstan",
       "Shyghys Qazaqstan",
       "Sigis Kazakstan"
     ],
+    "geo": {
+      "latitude": 48.4884873,
+      "longitude": 82.7103185,
+      "min_latitude": 45.57064099999999,
+      "min_longitude": 76.76924199999999,
+      "max_latitude": 51.4008139,
+      "max_longitude": 87.3126599
+    },
     "translations": {
       "en": "East Kazakhstan",
       "ar": "أوبليس كازاخستان الشرقي",
@@ -936,24 +1097,34 @@
       "uk": "Східно-Казахстанська область",
       "ur": "مشرقی قازقستان صوبہ",
       "vi": "Đông Kazakhstan",
-      "zh": "東哈薩克斯坦州"
+      "zh": "東哈薩克斯坦州",
+      "ceb": "Shyghys Qazaqstan Oblysy",
+      "sr_Latn": "Istočnokazahstanska oblast",
+      "ccp": "𑄛𑄪𑄇𑄴 𑄇𑄎𑄈𑄌𑄴𑄑𑄚𑄴",
+      "hy": "Արևելաղազախական շրջան",
+      "he": "מחוז המזרח (קזחסטן)",
+      "kk": "Шығыс Қазақстан облысы",
+      "uz": "Sharqiy Qozogʻiston viloyati",
+      "mk": "Источен Казахстан"
     },
-    "geo": {
-      "latitude": 48.4884873,
-      "longitude": 82.7103185,
-      "min_latitude": 45.57064099999999,
-      "min_longitude": 76.76924199999999,
-      "max_latitude": 51.4008139,
-      "max_longitude": 87.3126599
-    },
-    "name": "Shyghys Qazaqstan oblysy"
+    "comments": null
   },
   "YUZ": {
+    "name": "Ongtüstik Qazaqstan oblysy",
+    "code": null,
     "unofficial_names": [
       "Ongtüstik Qazaqstan",
       "Ongtüstük Kazakstan",
       "Southern Kazakhstan"
     ],
+    "geo": {
+      "latitude": 49.56797270000001,
+      "longitude": 50.8066617,
+      "min_latitude": 48.002499,
+      "min_longitude": 46.4918561,
+      "max_latitude": 51.76659799999999,
+      "max_longitude": 54.5574649
+    },
     "translations": {
       "en": "South Kazakhstan",
       "ar": "أوبليس كازاخستان الجنوبي",
@@ -1003,8 +1174,28 @@
       "uk": "Південно-Казахстанська область",
       "ur": "جنوبی قازقستان صوبہ",
       "vi": "Nam Kazakhstan",
-      "zh": "南哈薩克斯坦州"
+      "zh": "南哈薩克斯坦州",
+      "ceb": "Yuzhno-Kazakhstanskaya Oblast’",
+      "sr_Latn": "Južno-kazahstanska oblast",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄎𑄈𑄌𑄴𑄑𑄚𑄴",
+      "he": "מחוז הדרום (קזחסטן)",
+      "pa": "ਦੱਖਣੀ ਕਜ਼ਾਖ਼ਸਤਾਨ",
+      "kk": "Түркістан облысы",
+      "uz": "Turkiston viloyati",
+      "mk": "Јужен Казахстан"
     },
+    "comments": null
+  },
+  "ZAP": {
+    "name": "Batys Qazaqstan oblysy",
+    "code": null,
+    "unofficial_names": [
+      "Batis Kazakstan",
+      "Batys Qazaqstan",
+      "Uralsk",
+      "Uralskaya Oblast",
+      "Western Kazakhstan"
+    ],
     "geo": {
       "latitude": 49.56797270000001,
       "longitude": 50.8066617,
@@ -1013,16 +1204,6 @@
       "max_latitude": 51.76659799999999,
       "max_longitude": 54.5574649
     },
-    "name": "Ongtüstik Qazaqstan oblysy"
-  },
-  "ZAP": {
-    "unofficial_names": [
-      "Batis Kazakstan",
-      "Batys Qazaqstan",
-      "Uralsk",
-      "Uralskaya Oblast",
-      "Western Kazakhstan"
-    ],
     "translations": {
       "en": "West Kazakhstan",
       "ar": "كازاخستان الغربية",
@@ -1070,19 +1251,22 @@
       "uk": "Західно-Казахстанська область",
       "ur": "مغربی قازقستان صوبہ",
       "vi": "Tây Kazakhstan",
-      "zh": "西哈薩克斯坦州"
+      "zh": "西哈薩克斯坦州",
+      "ceb": "Batys Qazaqstan Oblysy",
+      "sr_Latn": "Zapadnokazahstanska oblast",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄇𑄎𑄈𑄌𑄴𑄑𑄚𑄴",
+      "ky": "Батыш Казакстан облусу",
+      "he": "מחוז המערב (קזחסטן)",
+      "kk": "Батыс Қазақстан облысы",
+      "be": "Заходне-Казахстанская вобласць",
+      "uz": "Gʻarbiy Qozogʻiston viloyati",
+      "mk": "Западноказахстанска област"
     },
-    "geo": {
-      "latitude": 49.56797270000001,
-      "longitude": 50.8066617,
-      "min_latitude": 48.002499,
-      "min_longitude": 46.4918561,
-      "max_latitude": 51.76659799999999,
-      "max_longitude": 54.5574649
-    },
-    "name": "Batys Qazaqstan oblysy"
+    "comments": null
   },
   "ZHA": {
+    "name": "Zhambyl oblysy",
+    "code": null,
     "unofficial_names": [
       "Aulie-Ata",
       "Auliye-Ata",
@@ -1094,6 +1278,14 @@
       "Zhambyl",
       "Zhambül"
     ],
+    "geo": {
+      "latitude": 44.2220308,
+      "longitude": 72.36579669999999,
+      "min_latitude": 42.2212301,
+      "min_longitude": 68.9939081,
+      "max_latitude": 46.0366224,
+      "max_longitude": 75.77342999999999
+    },
     "translations": {
       "en": "Jambyl",
       "ar": "أوبليس جامبيل",
@@ -1130,17 +1322,36 @@
       "uk": "Жамбилська область",
       "ur": "جمبیل پراونس",
       "vi": "Zhambyl",
-      "zh": "江布爾州"
+      "zh": "江布爾州",
+      "ceb": "Zhambyl Oblysy",
+      "sr_Latn": "Žambilska oblast",
+      "el": "Περιφέρεια Τζαμπίλ",
+      "ccp": "𑄎𑄟𑄴𑄝𑄨𑄣𑄴",
+      "ky": "Жамбыл облусу",
+      "he": "דז׳אמבול (מחוז)",
+      "kk": "Жамбыл облысы",
+      "be": "Жамбылская вобласць",
+      "uz": "Jambul viloyati",
+      "mk": "Жамбил"
     },
+    "comments": null
+  },
+  "SHY": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 44.2220308,
-      "longitude": 72.36579669999999,
-      "min_latitude": 42.2212301,
-      "min_longitude": 68.9939081,
-      "max_latitude": 46.0366224,
-      "max_longitude": 75.77342999999999
+      "latitude": 48.019573,
+      "longitude": 66.923684,
+      "min_latitude": 40.5685841,
+      "min_longitude": 46.493672,
+      "max_latitude": 55.4419839,
+      "max_longitude": 87.315415
     },
-    "name": "Zhambyl oblysy"
+    "translations": {
+      "en": "Shymkent"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "G": {
+    "name": "Gilbert Islands",
+    "code": null,
     "unofficial_names": "Gilbert Islands",
+    "geo": {
+      "latitude": -1.3611379,
+      "longitude": 176.4521827,
+      "min_latitude": -2.6717827,
+      "min_longitude": 169.5233729,
+      "max_latitude": 3.3917201,
+      "max_longitude": 176.847766
+    },
     "translations": {
       "en": "Gilbert Islands",
       "ar": "جزر جلبرت",
@@ -38,20 +48,33 @@
       "tr": "Gilbert Adaları",
       "uk": "Острови Гілберта",
       "vi": "Quần đảo Gilbert",
-      "zh": "吉尔伯特群岛"
+      "zh": "吉尔伯特群岛",
+      "ceb": "Gilbert Islands (kapuloan)",
+      "yue_Hans": "骄拔群岛",
+      "hi": "गिल्बर्ट द्वीप समूह",
+      "ccp": "𑄉𑄨𑄣𑄴𑄝𑄢𑄴𑄑𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "ky": "Гилберт аралдары",
+      "is": "Gilbertseyjar",
+      "id": "Kepulauan Gilbert",
+      "kk": "Гилберт аралдары",
+      "yue": "驕拔群島",
+      "uz": "Gilbert orollari",
+      "mk": "Гилбертови Острови"
     },
-    "geo": {
-      "latitude": -1.3611379,
-      "longitude": 176.4521827,
-      "min_latitude": -2.6717827,
-      "min_longitude": 169.5233729,
-      "max_latitude": 3.3917201,
-      "max_longitude": 176.847766
-    },
-    "name": "Gilbert Islands"
+    "comments": null
   },
   "L": {
+    "name": "Line Islands",
+    "code": null,
     "unofficial_names": "Line Islands",
+    "geo": {
+      "latitude": 0,
+      "longitude": -157,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Line Islands",
       "be": "Астравы Лайн",
@@ -86,19 +109,15 @@
       "ru": "Острова Лайн",
       "sv": "Line Islands",
       "uk": "Острови Лайн",
-      "vi": "Quần đảo Line"
+      "vi": "Quần đảo Line",
+      "zh": "莱恩群岛",
+      "ccp": "𑄣𑄭𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": 0,
-      "longitude": -157,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Line Islands"
+    "comments": null
   },
   "P": {
+    "name": "Phoenix Islands",
+    "code": null,
     "unofficial_names": [
       "Abariringa",
       "Canton",
@@ -114,6 +133,14 @@
       "Rawaki",
       "Sydney"
     ],
+    "geo": {
+      "latitude": -4.453147899999999,
+      "longitude": -171.2449677,
+      "min_latitude": -4.6957871,
+      "min_longitude": -174.5464169,
+      "max_latitude": -2.7657678,
+      "max_longitude": -170.7084199
+    },
     "translations": {
       "en": "Phoenix Islands",
       "be": "Астравы Фенікс",
@@ -146,17 +173,18 @@
       "sk": "Phoenixské ostrovy",
       "sv": "Phoenixöarna",
       "uk": "Острови Фенікс",
-      "vi": "Quần đảo Phoenix"
+      "vi": "Quần đảo Phoenix",
+      "ceb": "Phoenix Islands (kapuloan)",
+      "ar": "جزر فينيكس",
+      "tr": "Phoenix Adaları",
+      "zh": "菲尼克斯群岛",
+      "yue_Hans": "凤凰群岛",
+      "ccp": "𑄛𑄧𑄚𑄨𑄇𑄳𑄥𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "is": "Fönixeyjar",
+      "yue": "鳳凰群島",
+      "mk": "Феникс"
     },
-    "geo": {
-      "latitude": -4.453147899999999,
-      "longitude": -171.2449677,
-      "min_latitude": -4.6957871,
-      "min_longitude": -174.5464169,
-      "max_latitude": -2.7657678,
-      "max_longitude": -170.7084199
-    },
-    "name": "Phoenix Islands"
+    "comments": null
   }
 }
 

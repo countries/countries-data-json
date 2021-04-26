@@ -1,8 +1,18 @@
 {
   "01": {
+    "name": "Bandarban zila",
+    "code": null,
     "unofficial_names": [
       "Bandarban"
     ],
+    "geo": {
+      "latitude": 21.7444268,
+      "longitude": 92.38136209999999,
+      "min_latitude": 21.1972562,
+      "min_longitude": 92.06628789999999,
+      "max_latitude": 22.3738885,
+      "max_longitude": 92.6736258
+    },
     "translations": {
       "en": "Bandarban",
       "bn": "বান্দরবান জেলা",
@@ -24,20 +34,25 @@
       "uk": "Бандарбан",
       "ur": "بندربان ضلع",
       "vi": "Huyện Bandarban",
-      "zh": "班多爾班縣"
+      "zh": "班多爾班縣",
+      "ceb": "Bandarban",
+      "te": "బండార్బన్ జిల్లా",
+      "ccp": "𑄝𑄚𑄴𑄘𑄧𑄢𑄴𑄝𑄚𑄴"
     },
-    "geo": {
-      "latitude": 21.7444268,
-      "longitude": 92.38136209999999,
-      "min_latitude": 21.1972562,
-      "min_longitude": 92.06628789999999,
-      "max_latitude": 22.3738885,
-      "max_longitude": 92.6736258
-    },
-    "name": "Bandarban zila"
+    "comments": null
   },
   "02": {
+    "name": "Barguna zila",
+    "code": null,
     "unofficial_names": "Barguna zila",
+    "geo": {
+      "latitude": 22.0952915,
+      "longitude": 90.11206960000001,
+      "min_latitude": 21.8602242,
+      "min_longitude": 89.9018097,
+      "max_latitude": 22.4833355,
+      "max_longitude": 90.3753377
+    },
     "translations": {
       "en": "Barguna",
       "bn": "বরগুনা জেলা",
@@ -56,24 +71,32 @@
       "sv": "Barguna",
       "ta": "பர்குனா மாவட்டம்",
       "ur": "برگونا ضلع",
-      "vi": "Huyện Barguna"
+      "vi": "Huyện Barguna",
+      "ceb": "Barguna",
+      "te": "బార్గున జిల్లా",
+      "zh": "博爾古納縣",
+      "ccp": "𑄝𑄧𑄢𑄴𑄉𑄪𑄚",
+      "ml": "ബർഗുണ ജില്ല",
+      "az": "Barquna (dairə, Banqladeş)"
     },
-    "geo": {
-      "latitude": 22.0952915,
-      "longitude": 90.11206960000001,
-      "min_latitude": 21.8602242,
-      "min_longitude": 89.9018097,
-      "max_latitude": 22.4833355,
-      "max_longitude": 90.3753377
-    },
-    "name": "Barguna zila"
+    "comments": null
   },
   "03": {
+    "name": "Bogra zila",
+    "code": null,
     "unofficial_names": [
       "Bogora",
       "Bogra",
       "Borga Thana"
     ],
+    "geo": {
+      "latitude": 24.8473899,
+      "longitude": 89.37714079999999,
+      "min_latitude": 24.8471496,
+      "min_longitude": 89.37668409999999,
+      "max_latitude": 24.8477604,
+      "max_longitude": 89.3775746
+    },
     "translations": {
       "en": "Bogra",
       "bn": "বগুড়া জেলা",
@@ -89,23 +112,32 @@
       "ru": "Богра",
       "ta": "போக்ரா மாவட்டம்",
       "ur": "بوگرا ضلع",
-      "vi": "Huyện Bogra"
+      "vi": "Huyện Bogra",
+      "ceb": "Bogra (distrito)",
+      "te": "బోగ్రా జిల్లా",
+      "zh": "博格拉县",
+      "ccp": "𑄝𑄧𑄉𑄪𑄢",
+      "ml": "ബോഗ്ര ജില്ല",
+      "az": "Boqra (dairə, Banqladeş)",
+      "ne": "बगुडा जिल्ला"
     },
-    "geo": {
-      "latitude": 24.8473899,
-      "longitude": 89.37714079999999,
-      "min_latitude": 24.8471496,
-      "min_longitude": 89.37668409999999,
-      "max_latitude": 24.8477604,
-      "max_longitude": 89.3775746
-    },
-    "name": "Bogra zila"
+    "comments": null
   },
   "04": {
+    "name": "Brahmanbaria zila",
+    "code": null,
     "unofficial_names": [
       "Brahman Bariya",
       "Brahmanbaria"
     ],
+    "geo": {
+      "latitude": 24.0446149,
+      "longitude": 91.13530200000001,
+      "min_latitude": 23.6473547,
+      "min_longitude": 90.7208058,
+      "max_latitude": 24.2700489,
+      "max_longitude": 91.329775
+    },
     "translations": {
       "en": "Brahmanbaria",
       "bn": "ব্রাহ্মণবাড়ীয়া জেলা",
@@ -121,19 +153,19 @@
       "ru": "Брахманбария (округ)",
       "uk": "Брахманбарія",
       "ur": "برہمنباریا ضلع",
-      "vi": "Huyện Brahmanbaria"
+      "vi": "Huyện Brahmanbaria",
+      "ar": "مديرية برهمن‌ بريه",
+      "te": "బ్రాహ్మంబరియా జిల్లా",
+      "ta": "பிரம்மன்பரியா மாவட்டம்",
+      "zh": "婆羅門巴里亞縣",
+      "ccp": "𑄝𑄳𑄢𑄦𑄴𑄟𑄧𑄚𑄴𑄝𑄢𑄨𑄠",
+      "ml": "ബ്രഹ്മാൻബറിയ ജില്ല"
     },
-    "geo": {
-      "latitude": 24.0446149,
-      "longitude": 91.13530200000001,
-      "min_latitude": 23.6473547,
-      "min_longitude": 90.7208058,
-      "max_latitude": 24.2700489,
-      "max_longitude": 91.329775
-    },
-    "name": "Brahmanbaria zila"
+    "comments": null
   },
   "05": {
+    "name": "Bagerhat zila",
+    "code": null,
     "unofficial_names": [
       "Bagarhat",
       "Bagerhat",
@@ -141,6 +173,14 @@
       "Basabari",
       "Bāsābāri"
     ],
+    "geo": {
+      "latitude": 22.3336224,
+      "longitude": 89.77553379999999,
+      "min_latitude": 21.7142542,
+      "min_longitude": 89.5296264,
+      "max_latitude": 22.9821798,
+      "max_longitude": 89.9644057
+    },
     "translations": {
       "en": "Bagerhat",
       "bn": "বাগেরহাট জেলা",
@@ -157,22 +197,30 @@
       "sv": "Bagerhat",
       "ta": "பேகர்காட் மாவட்டம்",
       "ur": "باگرہٹ ضلع",
-      "vi": "Huyện Bagerhat"
+      "vi": "Huyện Bagerhat",
+      "ceb": "Bagerhat",
+      "te": "బగర్హాట్ జిల్లా",
+      "zh": "巴盖尔哈德县",
+      "ccp": "𑄝𑄉𑄬𑄢𑄴𑄦𑄖𑄴",
+      "ml": "ബഗെർഹറ്റ് ജില്ല",
+      "ne": "बागेरहाट जिल्ला"
     },
-    "geo": {
-      "latitude": 22.3336224,
-      "longitude": 89.77553379999999,
-      "min_latitude": 21.7142542,
-      "min_longitude": 89.5296264,
-      "max_latitude": 22.9821798,
-      "max_longitude": 89.9644057
-    },
-    "name": "Bagerhat zila"
+    "comments": null
   },
   "06": {
+    "name": "Barisal zila",
+    "code": null,
     "unofficial_names": [
       "Barisal"
     ],
+    "geo": {
+      "latitude": 22.8578618,
+      "longitude": 90.3371889,
+      "min_latitude": 22.4542665,
+      "min_longitude": 90.01811029999999,
+      "max_latitude": 23.0715591,
+      "max_longitude": 90.6517982
+    },
     "translations": {
       "en": "Barisal Division",
       "ar": "مقاطعة باريسال",
@@ -208,22 +256,30 @@
       "tr": "Barisal District",
       "uk": "Барісал (округ)",
       "ur": "باریسال ضلع",
-      "vi": "Huyện Barisal"
+      "vi": "Huyện Barisal",
+      "lv": "Barisālas apgabals",
+      "ceb": "Barisal",
+      "lt": "Barisalio apskritis",
+      "zh": "巴里薩爾縣",
+      "ccp": "𑄝𑄧𑄢𑄨𑄥𑄣𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "ml": "ബാരിസൽ ജില്ല"
     },
-    "geo": {
-      "latitude": 22.8578618,
-      "longitude": 90.3371889,
-      "min_latitude": 22.4542665,
-      "min_longitude": 90.01811029999999,
-      "max_latitude": 23.0715591,
-      "max_longitude": 90.6517982
-    },
-    "name": "Barisal zila"
+    "comments": null
   },
   "07": {
+    "name": "Bhola zila",
+    "code": null,
     "unofficial_names": [
       "Bhola"
     ],
+    "geo": {
+      "latitude": 22.6851314,
+      "longitude": 90.6471553,
+      "min_latitude": 22.6847416,
+      "min_longitude": 90.64671279999999,
+      "max_latitude": 22.6855212,
+      "max_longitude": 90.64759780000001
+    },
     "translations": {
       "en": "Bhola",
       "bn": "ভোলা জেলা",
@@ -242,23 +298,30 @@
       "sv": "Bhola (distrikt)",
       "ta": "போலா மாவட்டம்",
       "ur": "بھولا ضلع",
-      "vi": "Huyện Bhola"
+      "vi": "Huyện Bhola",
+      "ceb": "Bhola",
+      "te": "భోలా జిల్లా",
+      "zh": "波拉縣",
+      "ccp": "𑄞𑄮𑄣",
+      "ml": "ബോള ജില്ല"
     },
-    "geo": {
-      "latitude": 22.6851314,
-      "longitude": 90.6471553,
-      "min_latitude": 22.6847416,
-      "min_longitude": 90.64671279999999,
-      "max_latitude": 22.6855212,
-      "max_longitude": 90.64759780000001
-    },
-    "name": "Bhola zila"
+    "comments": null
   },
   "08": {
+    "name": "Comilla zila",
+    "code": null,
     "unofficial_names": [
       "Comilla",
       "Komilla"
     ],
+    "geo": {
+      "latitude": 23.4628949,
+      "longitude": 91.1817394,
+      "min_latitude": 23.4615535,
+      "min_longitude": 91.1800995,
+      "max_latitude": 23.4636252,
+      "max_longitude": 91.18206289999999
+    },
     "translations": {
       "en": "Comilla",
       "bn": "কুমিল্লা জেলা",
@@ -277,23 +340,30 @@
       "ta": "கொமில்லா மாவட்டம்",
       "uk": "Комілла",
       "ur": "کومیلا ضلع",
-      "vi": "Huyện Comilla"
+      "vi": "Huyện Comilla",
+      "ceb": "Comilla",
+      "te": "కొమిల్ల జిల్లా",
+      "zh": "庫米拉縣",
+      "ccp": "𑄇𑄪𑄟𑄨𑄣𑄳𑄦𑄴",
+      "ml": "കോമില ജില്ല"
     },
-    "geo": {
-      "latitude": 23.4628949,
-      "longitude": 91.1817394,
-      "min_latitude": 23.4615535,
-      "min_longitude": 91.1800995,
-      "max_latitude": 23.4636252,
-      "max_longitude": 91.18206289999999
-    },
-    "name": "Comilla zila"
+    "comments": null
   },
   "09": {
+    "name": "Chandpur zila",
+    "code": null,
     "unofficial_names": [
       "Chandipur",
       "Chandpur"
     ],
+    "geo": {
+      "latitude": 23.2246765,
+      "longitude": 90.6562431,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Chandpur",
       "bn": "চাঁদপুর জেলা",
@@ -310,23 +380,30 @@
       "sv": "Chandpur",
       "uk": "Чандпур",
       "ur": "چاندپور ضلع",
-      "vi": "Huyện Chandpur"
+      "vi": "Huyện Chandpur",
+      "ceb": "Chandpur",
+      "ta": "சந்திரபூர் மாவட்டம், வங்காளதேசம்",
+      "zh": "堅德布爾縣",
+      "ccp": "𑄌𑄖𑄴𑄛𑄪𑄢𑄴",
+      "ml": "ചാന്ദ്പുർ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.2246765,
-      "longitude": 90.6562431,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Chandpur zila"
+    "comments": null
   },
   "10": {
+    "name": "Chittagong zila",
+    "code": null,
     "unofficial_names": [
       "Chattagam",
       "Chittagong"
     ],
+    "geo": {
+      "latitude": 22.3417825,
+      "longitude": 91.8368089,
+      "min_latitude": 22.3378577,
+      "min_longitude": 91.8367609,
+      "max_latitude": 22.3421259,
+      "max_longitude": 91.8377062
+    },
     "translations": {
       "en": "Chittagong",
       "bn": "চট্টগ্রাম জেলা",
@@ -345,23 +422,33 @@
       "sv": "Chittagong",
       "uk": "Читтагонг",
       "ur": "چٹاگانگ ضلع",
-      "vi": "Huyện Chittagong"
+      "vi": "Huyện Chittagong",
+      "ceb": "Chittagong",
+      "te": "చిట్టగాంగ్ జిల్లా",
+      "ta": "சிட்டகாங் மாவட்டம்",
+      "zh": "吉大港縣",
+      "ccp": "𑄌𑄘𑄨𑄉𑄋𑄴",
+      "id": "Distrik Chattagram",
+      "ro": "Chittagong",
+      "ml": "ചിറ്റഗോങ് ജില്ല"
     },
-    "geo": {
-      "latitude": 22.3417825,
-      "longitude": 91.8368089,
-      "min_latitude": 22.3378577,
-      "min_longitude": 91.8367609,
-      "max_latitude": 22.3421259,
-      "max_longitude": 91.8377062
-    },
-    "name": "Chittagong zila"
+    "comments": null
   },
   "11": {
+    "name": "Cox's Bazar zila",
+    "code": null,
     "unofficial_names": [
       "Coxʿs Bazar",
       "Koks Bazar"
     ],
+    "geo": {
+      "latitude": 21.4404015,
+      "longitude": 91.9743392,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Cox’s Bazar",
       "bn": "কক্সবাজার জেলা",
@@ -379,22 +466,29 @@
       "ta": "காக்ஸ் பஜார் மாவட்டம்",
       "uk": "Коксс-Базар",
       "ur": "کاکس بازار ضلع",
-      "vi": "Huyện Cox’s Bazar"
+      "vi": "Huyện Cox’s Bazar",
+      "ceb": "Cox’s Bazar",
+      "te": "కాక్స్ బజార్ డిస్ట్రిక్ట్",
+      "zh": "科克斯巴扎爾縣",
+      "ccp": "𑄇𑄧𑄇𑄴𑄥𑄧 𑄝𑄎𑄢𑄴",
+      "ml": "കോസ്സ് ബസാർ ജില്ല"
     },
-    "geo": {
-      "latitude": 21.4404015,
-      "longitude": 91.9743392,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Cox's Bazar zila"
+    "comments": null
   },
   "12": {
+    "name": "Chuadanga zila",
+    "code": null,
     "unofficial_names": [
       "Chuadanga"
     ],
+    "geo": {
+      "latitude": 23.6160512,
+      "longitude": 88.8263006,
+      "min_latitude": 23.3713321,
+      "min_longitude": 88.62422,
+      "max_latitude": 23.839448,
+      "max_longitude": 89.0196419
+    },
     "translations": {
       "en": "Chuadanga",
       "bn": "চুয়াডাঙ্গা জেলা",
@@ -410,24 +504,30 @@
       "ru": "Чуаданга",
       "ta": "சௌதங்கா மாவட்டம்",
       "ur": "چوادانگا ضلع",
-      "vi": "Huyện Chuadanga"
+      "vi": "Huyện Chuadanga",
+      "te": "చుడంగా జిల్లా",
+      "zh": "朱瓦当加县",
+      "ccp": "𑄌𑄪𑄠𑄓𑄋𑄴𑄉",
+      "ml": "ചുണ്ടങ്ങ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.6160512,
-      "longitude": 88.8263006,
-      "min_latitude": 23.3713321,
-      "min_longitude": 88.62422,
-      "max_latitude": 23.839448,
-      "max_longitude": 89.0196419
-    },
-    "name": "Chuadanga zila"
+    "comments": null
   },
   "13": {
+    "name": "Dhaka zila",
+    "code": null,
     "unofficial_names": [
       "Dacca",
       "Dakka",
       "Dhaka"
     ],
+    "geo": {
+      "latitude": 24.5239682,
+      "longitude": 90.2995785,
+      "min_latitude": 22.844598,
+      "min_longitude": 89.312214,
+      "max_latitude": 25.409475,
+      "max_longitude": 91.276907
+    },
     "translations": {
       "en": "Dhaka",
       "bn": "ঢাকা জেলা",
@@ -444,22 +544,32 @@
       "ru": "Дакка",
       "sv": "Dhaka",
       "ur": "ڈھاکہ ضلع",
-      "vi": "Huyện Dhaka"
+      "vi": "Huyện Dhaka",
+      "ceb": "Dhaka",
+      "te": "ఢాకా జిల్లా",
+      "ta": "டாக்கா மாவட்டம்",
+      "zh": "达卡县",
+      "ccp": "𑄔𑄇",
+      "de": "Distrikt Dhaka",
+      "ml": "ധാക്ക ജില്ല",
+      "be": "Дака"
     },
-    "geo": {
-      "latitude": 24.5239682,
-      "longitude": 90.2995785,
-      "min_latitude": 22.844598,
-      "min_longitude": 89.312214,
-      "max_latitude": 25.409475,
-      "max_longitude": 91.276907
-    },
-    "name": "Dhaka zila"
+    "comments": null
   },
   "14": {
+    "name": "Dinajpur zila",
+    "code": null,
     "unofficial_names": [
       "Dinajpur"
     ],
+    "geo": {
+      "latitude": 25.6220932,
+      "longitude": 88.63703009999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Dinajpur",
       "bn": "দিনাজপুর জেলা",
@@ -477,22 +587,33 @@
       "ru": "Динаджпур",
       "sv": "Dinajpur",
       "uk": "Дінаджпур",
-      "ur": "دیناج پور ضلع، بنگلہ دیش"
+      "ur": "دیناج پور ضلع، بنگلہ دیش",
+      "ceb": "Dinājpur",
+      "te": "దినాజ్పూర్ జిల్లా",
+      "ta": "தினஜ்பூர் மாவட்டம், வங்காளதேசம்",
+      "zh": "迪纳杰布尔县",
+      "el": "Επαρχία Ντινατζπούρ",
+      "ccp": "𑄘𑄨𑄚𑄌𑄴𑄛𑄪𑄢𑄴",
+      "ml": "ദിനാജ്പുർ ജില്ല",
+      "az": "Dinacpur (dairə, Banqladeş)",
+      "ne": "दिनाजपुर जिल्ला"
     },
-    "geo": {
-      "latitude": 25.6220932,
-      "longitude": 88.63703009999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Dinajpur zila"
+    "comments": null
   },
   "15": {
+    "name": "Faridpur zila",
+    "code": null,
     "unofficial_names": [
       "Faridpur"
     ],
+    "geo": {
+      "latitude": 23.6085755,
+      "longitude": 89.84325969999999,
+      "min_latitude": 23.608268,
+      "min_longitude": 89.84295929999999,
+      "max_latitude": 23.6090422,
+      "max_longitude": 89.84357089999999
+    },
     "translations": {
       "en": "Faridpur",
       "bn": "ফরিদপুর জেলা",
@@ -508,22 +629,29 @@
       "sv": "Faridpur",
       "ta": "பரித்பூர் மாவட்டம்",
       "ur": "فرید پور ضلع",
-      "vi": "Huyện Faridpur"
+      "vi": "Huyện Faridpur",
+      "ceb": "Faridpur",
+      "te": "ఫరీద్పూర్ జిల్లా",
+      "zh": "福里德布尔县",
+      "ccp": "𑄜𑄧𑄢𑄨𑄖𑄴𑄛𑄪𑄢𑄴",
+      "ml": "ഫരീദ്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.6085755,
-      "longitude": 89.84325969999999,
-      "min_latitude": 23.608268,
-      "min_longitude": 89.84295929999999,
-      "max_latitude": 23.6090422,
-      "max_longitude": 89.84357089999999
-    },
-    "name": "Faridpur zila"
+    "comments": null
   },
   "16": {
+    "name": "Feni zila",
+    "code": null,
     "unofficial_names": [
       "Feni"
     ],
+    "geo": {
+      "latitude": 22.9473563,
+      "longitude": 91.4048249,
+      "min_latitude": 22.7720662,
+      "min_longitude": 91.2493516,
+      "max_latitude": 23.2796693,
+      "max_longitude": 91.5834905
+    },
     "translations": {
       "en": "Feni",
       "bn": "ফেনী জেলা",
@@ -541,22 +669,29 @@
       "ta": "பெனி மாவட்டம்",
       "uk": "Фені",
       "ur": "فینی ضلع",
-      "vi": "Huyện Feni"
+      "vi": "Huyện Feni",
+      "ceb": "Feni",
+      "te": "ఫెని జిల్లా",
+      "zh": "費尼縣",
+      "ccp": "𑄜𑄬𑄚𑄨",
+      "ml": "ഫെനി ജില്ല"
     },
-    "geo": {
-      "latitude": 22.9473563,
-      "longitude": 91.4048249,
-      "min_latitude": 22.7720662,
-      "min_longitude": 91.2493516,
-      "max_latitude": 23.2796693,
-      "max_longitude": 91.5834905
-    },
-    "name": "Feni zila"
+    "comments": null
   },
   "17": {
+    "name": "Gopalganj zila",
+    "code": null,
     "unofficial_names": [
       "Gopalganj"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Gopalganj",
       "bn": "গোপালগঞ্জ জেলা",
@@ -569,22 +704,32 @@
       "nl": "Gopalganj",
       "ru": "Гопалгандж (округ, Бангладеш)",
       "sv": "Gopalganj (distrikt i Bangladesh)",
-      "ur": "گوپال گنج ضلع، بنگلہ دیش"
+      "ur": "گوپال گنج ضلع، بنگلہ دیش",
+      "ceb": "Gopalganj (distrito sa Bangladesh)",
+      "te": "గోపల్గంజ్ జిల్లా",
+      "ta": "கோபால்கஞ்ச் மாவட்டம், வங்காளதேசம்",
+      "zh": "戈巴尔甘尼县",
+      "ccp": "𑄉𑄮𑄛𑄣𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "it": "distretto di Gopalganj",
+      "ml": "ഗോപാൽഗഞ്ച് ജില്ല",
+      "be": "Гапалгандж"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Gopalganj zila"
+    "comments": null
   },
   "18": {
+    "name": "Gazipur zila",
+    "code": null,
     "unofficial_names": [
       "Gajipur"
     ],
+    "geo": {
+      "latitude": 24.0958171,
+      "longitude": 90.4125181,
+      "min_latitude": 23.882777,
+      "min_longitude": 90.15131939999999,
+      "max_latitude": 24.3391985,
+      "max_longitude": 90.7003785
+    },
     "translations": {
       "en": "Gazipur",
       "bn": "গাজীপুর জেলা",
@@ -599,19 +744,20 @@
       "nl": "Gazipur",
       "ru": "Газипур",
       "ur": "غازی پور ضلع",
-      "vi": "Huyện Gazipur"
+      "vi": "Huyện Gazipur",
+      "ceb": "Gazipur",
+      "te": "గజిపూర్ జిల్లా",
+      "ta": "காஜிபூர் மாவட்டம்",
+      "zh": "加济布尔县",
+      "sv": "Gazipur",
+      "ccp": "𑄉𑄎𑄨𑄛𑄪𑄢𑄴",
+      "ml": "ഗസിപ്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 24.0958171,
-      "longitude": 90.4125181,
-      "min_latitude": 23.882777,
-      "min_longitude": 90.15131939999999,
-      "max_latitude": 24.3391985,
-      "max_longitude": 90.7003785
-    },
-    "name": "Gazipur zila"
+    "comments": null
   },
   "19": {
+    "name": "Gaibandha zila",
+    "code": null,
     "unofficial_names": [
       "Gaibanda",
       "Gaibandah",
@@ -619,6 +765,14 @@
       "Gaybanda",
       "Gaybandah"
     ],
+    "geo": {
+      "latitude": 25.1879868,
+      "longitude": 89.4742177,
+      "min_latitude": 25.0351387,
+      "min_longitude": 89.18460850000001,
+      "max_latitude": 25.6440024,
+      "max_longitude": 89.7584724
+    },
     "translations": {
       "en": "Gaibandha",
       "bn": "গাইবান্ধা জেলা",
@@ -634,24 +788,33 @@
       "sv": "Gaibandha",
       "ta": "காய்பாந்தா மாவட்டம்",
       "ur": "گائے بندھا ضلع",
-      "vi": "Huyện Gaibandha"
+      "vi": "Huyện Gaibandha",
+      "ceb": "Gaibandha",
+      "te": "గైబంధ జిల్లా",
+      "zh": "戈伊班达县",
+      "el": "Επαρχία Γκαϊμπάντα",
+      "ccp": "𑄉𑄭𑄝𑄚𑄴𑄙",
+      "ml": "ഗൈബന്ധ ജില്ല",
+      "ne": "गाईबान्धा जिल्ला"
     },
-    "geo": {
-      "latitude": 25.1879868,
-      "longitude": 89.4742177,
-      "min_latitude": 25.0351387,
-      "min_longitude": 89.18460850000001,
-      "max_latitude": 25.6440024,
-      "max_longitude": 89.7584724
-    },
-    "name": "Gaibandha zila"
+    "comments": null
   },
   "20": {
+    "name": "Habiganj zila",
+    "code": null,
     "unofficial_names": [
       "Habiganj",
       "Hobiganj",
       "Hobigonj"
     ],
+    "geo": {
+      "latitude": 24.372963,
+      "longitude": 91.4165201,
+      "min_latitude": 24.3727258,
+      "min_longitude": 91.41626819999999,
+      "max_latitude": 24.3734684,
+      "max_longitude": 91.41687689999999
+    },
     "translations": {
       "en": "Habiganj",
       "bn": "হবিগঞ্জ জেলা",
@@ -670,22 +833,29 @@
       "ta": "ஹபிகஞ்ச் மாவட்டம்",
       "uk": "Хабігандж",
       "ur": "حبی گنج ضلع",
-      "vi": "Huyện Habiganj"
+      "vi": "Huyện Habiganj",
+      "ceb": "Habiganj",
+      "te": "హబీగావ్ జిల్లా",
+      "zh": "霍比甘傑縣",
+      "ccp": "𑄦𑄧𑄝𑄨𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "ഹബീബ്ഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": 24.372963,
-      "longitude": 91.4165201,
-      "min_latitude": 24.3727258,
-      "min_longitude": 91.41626819999999,
-      "max_latitude": 24.3734684,
-      "max_longitude": 91.41687689999999
-    },
-    "name": "Habiganj zila"
+    "comments": null
   },
   "21": {
+    "name": "Jamalpur zila",
+    "code": null,
     "unofficial_names": [
       "Jamalpur"
     ],
+    "geo": {
+      "latitude": 24.9377671,
+      "longitude": 89.93422799999999,
+      "min_latitude": 24.9371815,
+      "min_longitude": 89.93349189999999,
+      "max_latitude": 24.9386408,
+      "max_longitude": 89.9348223
+    },
     "translations": {
       "en": "Jamalpur",
       "bn": "জামালপুর জেলা",
@@ -702,23 +872,32 @@
       "sv": "Jamalpur (distrikt)",
       "ta": "ஜமால்பூர் மாவட்டம்",
       "ur": "جمالپور ضلع",
-      "vi": "Huyện Jamalpur"
+      "vi": "Huyện Jamalpur",
+      "ceb": "Jamalpur",
+      "te": "జమల్పూర్ జిల్లా",
+      "zh": "杰马勒布尔县",
+      "el": "Επαρχία Τζαμαλπούρ",
+      "ccp": "𑄎𑄟𑄣𑄴𑄛𑄪𑄢𑄴",
+      "de": "Jamalpur (Distrikt)",
+      "ml": "ജമൽപുർ ജില്ല"
     },
-    "geo": {
-      "latitude": 24.9377671,
-      "longitude": 89.93422799999999,
-      "min_latitude": 24.9371815,
-      "min_longitude": 89.93349189999999,
-      "max_latitude": 24.9386408,
-      "max_longitude": 89.9348223
-    },
-    "name": "Jamalpur zila"
+    "comments": null
   },
   "22": {
+    "name": "Jessore zila",
+    "code": null,
     "unofficial_names": [
       "Jessore",
       "Jessur"
     ],
+    "geo": {
+      "latitude": 23.0943403,
+      "longitude": 89.1705998,
+      "min_latitude": 22.7923247,
+      "min_longitude": 88.8516283,
+      "max_latitude": 23.3734594,
+      "max_longitude": 89.5698166
+    },
     "translations": {
       "en": "Jessore",
       "bn": "যশোর জেলা",
@@ -735,19 +914,21 @@
       "ru": "Джессор",
       "ta": "ஜெஸ்சூர் மாவட்டம்",
       "ur": "جیسور ضلع",
-      "vi": "Huyện Jessore"
+      "vi": "Huyện Jessore",
+      "ceb": "Jessore",
+      "te": "జెస్సోర్ జిల్లా",
+      "zh": "杰索尔县",
+      "sv": "Jessore",
+      "ccp": "𑄎𑄧𑄥𑄮𑄢𑄴",
+      "ml": "ജെസ്സോർ ജില്ല",
+      "az": "Cessur",
+      "ne": "जशोर जिल्ला"
     },
-    "geo": {
-      "latitude": 23.0943403,
-      "longitude": 89.1705998,
-      "min_latitude": 22.7923247,
-      "min_longitude": 88.8516283,
-      "max_latitude": 23.3734594,
-      "max_longitude": 89.5698166
-    },
-    "name": "Jessore zila"
+    "comments": null
   },
   "23": {
+    "name": "Jhenaidah zila",
+    "code": null,
     "unofficial_names": [
       "Jhanaydah",
       "Jhanidah",
@@ -755,6 +936,14 @@
       "Jhenaida",
       "Jhenida"
     ],
+    "geo": {
+      "latitude": 23.4754162,
+      "longitude": 89.1705998,
+      "min_latitude": 23.2157123,
+      "min_longitude": 88.6967468,
+      "max_latitude": 23.7696749,
+      "max_longitude": 89.3786287
+    },
     "translations": {
       "en": "Jhenaidah",
       "bn": "ঝিনাইদহ জেলা",
@@ -770,24 +959,32 @@
       "ru": "Дженайда",
       "ta": "ஜெனிதக் மாவட்டம்",
       "ur": "جھینایداہ ضلع",
-      "vi": "Huyện Jhenaidah"
+      "vi": "Huyện Jhenaidah",
+      "ceb": "Jhenaidah",
+      "te": "జెనీడా జిల్లా",
+      "zh": "切尼达县",
+      "ccp": "𑄏𑄨𑄣𑄭𑄓𑄦𑄴",
+      "ml": "ജെനൈദഹ് ജില്ല",
+      "ne": "झिनाइदह जिल्ला"
     },
-    "geo": {
-      "latitude": 23.4754162,
-      "longitude": 89.1705998,
-      "min_latitude": 23.2157123,
-      "min_longitude": 88.6967468,
-      "max_latitude": 23.7696749,
-      "max_longitude": 89.3786287
-    },
-    "name": "Jhenaidah zila"
+    "comments": null
   },
   "24": {
+    "name": "Jaipurhat zila",
+    "code": null,
     "unofficial_names": [
       "Jaipur Hat",
       "Jaipurhat",
       "Joypurhat"
     ],
+    "geo": {
+      "latitude": 25.138494,
+      "longitude": 89.0561532,
+      "min_latitude": 24.8552882,
+      "min_longitude": 88.9223099,
+      "max_latitude": 25.2799365,
+      "max_longitude": 89.2781638
+    },
     "translations": {
       "en": "Joypurhat",
       "bn": "জয়পুরহাট জেলা",
@@ -802,23 +999,31 @@
       "sv": "Joypurhat",
       "ta": "ஜெய்பூர்ஹட் மாவட்டம்",
       "ur": "جیپرحت ضلع",
-      "vi": "Huyện Jaipurhat"
+      "vi": "Huyện Jaipurhat",
+      "ceb": "Joypurhat",
+      "te": "జోయ్ పూర్ జిల్లా",
+      "zh": "焦伊布尔哈德县",
+      "el": "Επαρχία Τζαϊπουρχάτ",
+      "ccp": "𑄎𑄧𑄠𑄴𑄛𑄪𑄢𑄴𑄦𑄖𑄴",
+      "ml": "ജയ്യ്പർഹത് ജില്ല"
     },
-    "geo": {
-      "latitude": 25.138494,
-      "longitude": 89.0561532,
-      "min_latitude": 24.8552882,
-      "min_longitude": 88.9223099,
-      "max_latitude": 25.2799365,
-      "max_longitude": 89.2781638
-    },
-    "name": "Jaipurhat zila"
+    "comments": null
   },
   "25": {
+    "name": "Jhalakati zila",
+    "code": null,
     "unofficial_names": [
       "Jhalakati",
       "Jhalokati"
     ],
+    "geo": {
+      "latitude": 22.57208,
+      "longitude": 90.1869644,
+      "min_latitude": 22.3446776,
+      "min_longitude": 90.0208569,
+      "max_latitude": 22.7844511,
+      "max_longitude": 90.39070129999999
+    },
     "translations": {
       "en": "Jhalokati",
       "bn": "ঝালকাঠি জেলা",
@@ -833,22 +1038,30 @@
       "ru": "Джалокати",
       "sv": "Jhalokati",
       "ur": "جھالوکاٹی ضلع",
-      "vi": "Huyện Jhalakati"
+      "vi": "Huyện Jhalakati",
+      "ceb": "Jhalokati",
+      "te": "ఝలాకటి జిల్లా",
+      "zh": "恰洛加蒂縣",
+      "ccp": "𑄏𑄣𑄧𑄇𑄑𑄨",
+      "id": "Distrik Jhalakathi",
+      "ml": "ജലലോക്കതി ജില്ല"
     },
-    "geo": {
-      "latitude": 22.57208,
-      "longitude": 90.1869644,
-      "min_latitude": 22.3446776,
-      "min_longitude": 90.0208569,
-      "max_latitude": 22.7844511,
-      "max_longitude": 90.39070129999999
-    },
-    "name": "Jhalakati zila"
+    "comments": null
   },
   "26": {
+    "name": "Kishoreganj zila",
+    "code": null,
     "unofficial_names": [
       "Kishoreganj"
     ],
+    "geo": {
+      "latitude": 24.4260457,
+      "longitude": 90.9820668,
+      "min_latitude": 24.0383905,
+      "min_longitude": 90.57661069999999,
+      "max_latitude": 24.6345348,
+      "max_longitude": 91.2555313
+    },
     "translations": {
       "en": "Kishoreganj",
       "bn": "কিশোরগঞ্জ জেলা",
@@ -864,22 +1077,28 @@
       "ta": "கிசோர்கஞ்ச் மாவட்டம்",
       "uk": "Кішоргандж",
       "ur": "کشور گنج ضلع",
-      "vi": "Huyện Kishoreganj"
+      "vi": "Huyện Kishoreganj",
+      "te": "కిషోర్గేంజ్ జిల్లా",
+      "zh": "吉绍尔甘杰县",
+      "ccp": "𑄇𑄨𑄥𑄮𑄢𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "കിഷോർഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": 24.4260457,
-      "longitude": 90.9820668,
-      "min_latitude": 24.0383905,
-      "min_longitude": 90.57661069999999,
-      "max_latitude": 24.6345348,
-      "max_longitude": 91.2555313
-    },
-    "name": "Kishoreganj zila"
+    "comments": null
   },
   "27": {
+    "name": "Khulna zila",
+    "code": null,
     "unofficial_names": [
       "Khulna"
     ],
+    "geo": {
+      "latitude": 22.8146371,
+      "longitude": 89.5705569,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Khulna",
       "bn": "খুলনা জেলা",
@@ -896,22 +1115,30 @@
       "sv": "Khulna",
       "ta": "குல்னா மாவட்டம்",
       "ur": "ضلع کھلنا",
-      "vi": "Huyện Khulna"
+      "vi": "Huyện Khulna",
+      "ceb": "Khulna",
+      "te": "ఖుల్నా జిల్లా",
+      "zh": "庫爾納縣",
+      "ccp": "𑄈𑄪𑄣𑄴𑄚",
+      "ml": "ഖുൽന ജില്ല",
+      "ne": "खुलना जिल्ला"
     },
-    "geo": {
-      "latitude": 22.8146371,
-      "longitude": 89.5705569,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Khulna zila"
+    "comments": null
   },
   "28": {
+    "name": "Kurigram zila",
+    "code": null,
     "unofficial_names": [
       "Kurigram"
     ],
+    "geo": {
+      "latitude": 25.7570397,
+      "longitude": 89.62516459999999,
+      "min_latitude": 25.3801294,
+      "min_longitude": 89.458022,
+      "max_latitude": 26.2355339,
+      "max_longitude": 89.8903942
+    },
     "translations": {
       "en": "Kurigram",
       "bn": "কুড়িগ্রাম জেলা",
@@ -927,20 +1154,29 @@
       "sv": "Kurigram",
       "ta": "குரிகிராம் மாவட்டம்",
       "ur": "کوریگرام ضلع",
-      "vi": "Huyện Kurigram"
+      "vi": "Huyện Kurigram",
+      "ceb": "Kurigram",
+      "te": "కురిగ్రామ్ జిల్లా",
+      "zh": "古里格拉姆县",
+      "el": "Επαρχία Κουριγκράμ",
+      "ccp": "𑄇𑄪𑄢𑄨𑄉𑄳𑄢𑄟𑄴",
+      "ml": "കുറിഗ്രം ജില്ല",
+      "ne": "कुडिग्राम जिल्ला"
     },
-    "geo": {
-      "latitude": 25.7570397,
-      "longitude": 89.62516459999999,
-      "min_latitude": 25.3801294,
-      "min_longitude": 89.458022,
-      "max_latitude": 26.2355339,
-      "max_longitude": 89.8903942
-    },
-    "name": "Kurigram zila"
+    "comments": null
   },
   "29": {
+    "name": "Khagrachari zila",
+    "code": null,
     "unofficial_names": "Khagrachari zila",
+    "geo": {
+      "latitude": 23.1321751,
+      "longitude": 91.949021,
+      "min_latitude": 22.693101,
+      "min_longitude": 91.7165709,
+      "max_latitude": 23.7311798,
+      "max_longitude": 92.17374799999999
+    },
     "translations": {
       "en": "Khagrachari",
       "bn": "খাগড়াছড়ি জেলা",
@@ -960,23 +1196,31 @@
       "ta": "கக்ராச்சாரி மாவட்டம்",
       "uk": "Кхаграчхарі",
       "ur": "کھاگراچاری ضلع",
-      "vi": "Huyện Khagrachari"
+      "vi": "Huyện Khagrachari",
+      "ceb": "Khagrachhari",
+      "te": "ఖగ్రచారీ జిల్లా",
+      "zh": "科格拉焦里縣",
+      "ccp": "𑄈𑄇𑄴𑄢𑄍𑄧𑄢𑄨",
+      "it": "distretto di Khagrachhari",
+      "ml": "ഖഘ്രചാരി ജില്ല"
     },
-    "geo": {
-      "latitude": 23.1321751,
-      "longitude": 91.949021,
-      "min_latitude": 22.693101,
-      "min_longitude": 91.7165709,
-      "max_latitude": 23.7311798,
-      "max_longitude": 92.17374799999999
-    },
-    "name": "Khagrachari zila"
+    "comments": null
   },
   "30": {
+    "name": "Kushtia zila",
+    "code": null,
     "unofficial_names": [
       "Kushtia",
       "Kushtiya"
     ],
+    "geo": {
+      "latitude": 23.9031823,
+      "longitude": 89.0561532,
+      "min_latitude": 23.6899617,
+      "min_longitude": 88.6941719,
+      "max_latitude": 24.2097079,
+      "max_longitude": 89.3705176
+    },
     "translations": {
       "en": "Kushtia",
       "bn": "কুষ্টিয়া জেলা",
@@ -996,23 +1240,31 @@
       "ta": "குஸ்தியா மாவட்டம்",
       "uk": "Куштія",
       "ur": "کوشتیا ضلع",
-      "vi": "Huyện Kushtia"
+      "vi": "Huyện Kushtia",
+      "ceb": "Kushtia",
+      "te": "కుష్టియా జిల్లా",
+      "zh": "库什蒂亚县",
+      "ccp": "𑄇𑄪𑄌𑄴𑄒𑄨𑄠",
+      "pa": "ਕੂਸ਼ਟੀਆ ਜ਼ਿਲ੍ਹਾ",
+      "ne": "कुष्टिया जिल्ला"
     },
-    "geo": {
-      "latitude": 23.9031823,
-      "longitude": 89.0561532,
-      "min_latitude": 23.6899617,
-      "min_longitude": 88.6941719,
-      "max_latitude": 24.2097079,
-      "max_longitude": 89.3705176
-    },
-    "name": "Kushtia zila"
+    "comments": null
   },
   "31": {
+    "name": "Lakshmipur zila",
+    "code": null,
     "unofficial_names": [
       "Lakshmipur",
       "Laksmipur"
     ],
+    "geo": {
+      "latitude": 22.9339332,
+      "longitude": 90.83216879999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Lakshmipur",
       "bn": "লক্ষ্মীপুর জেলা",
@@ -1031,23 +1283,31 @@
       "ta": "லெட்சுமிபூர் மாவட்டம்",
       "uk": "Лакшміпур",
       "ur": "لکشمی پور ضلع",
-      "vi": "Huyện Lakshmipur"
+      "vi": "Huyện Lakshmipur",
+      "ceb": "Lakshmipur",
+      "te": "లక్ష్మీపూర్ జిల్లా",
+      "zh": "羅基布爾縣",
+      "el": "Επαρχία Λακσμιπούρ",
+      "ccp": "𑄣𑄧𑄇𑄴𑄈𑄨𑄛𑄪𑄢𑄴",
+      "ml": "ലക്ഷ്മിപൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 22.9339332,
-      "longitude": 90.83216879999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Lakshmipur zila"
+    "comments": null
   },
   "32": {
+    "name": "Lalmonirhat zila",
+    "code": null,
     "unofficial_names": [
       "Lalmanir Hat",
       "Lalmonirhat"
     ],
+    "geo": {
+      "latitude": 25.9923398,
+      "longitude": 89.28472510000002,
+      "min_latitude": 25.7903088,
+      "min_longitude": 88.9110662,
+      "max_latitude": 26.4629664,
+      "max_longitude": 89.56303609999999
+    },
     "translations": {
       "en": "Lalmonirhat",
       "bn": "লালমনিরহাট জেলা",
@@ -1063,22 +1323,31 @@
       "sv": "Lalmonirhat (distrikt i Bangladesh)",
       "ta": "லால்முனிர்காட் மாவட்டம்",
       "ur": "لال مینار ہٹ ضلع",
-      "vi": "Huyện Lalmonirhat"
+      "vi": "Huyện Lalmonirhat",
+      "ceb": "Lalmonirhat (distrito sa Bangladesh)",
+      "te": "లల్మోనిరాట్ జిల్లా",
+      "zh": "拉尔莫尼哈德县",
+      "el": "Επαρχία Λαλμονιρχάτ",
+      "ccp": "𑄣𑄣𑄴𑄟𑄧𑄚𑄨𑄢𑄴𑄦𑄖𑄴",
+      "ml": "ലാൽമൊനിർഹറ്റ് ജില്ല",
+      "ne": "लालमनिरहाट जिल्ला"
     },
-    "geo": {
-      "latitude": 25.9923398,
-      "longitude": 89.28472510000002,
-      "min_latitude": 25.7903088,
-      "min_longitude": 88.9110662,
-      "max_latitude": 26.4629664,
-      "max_longitude": 89.56303609999999
-    },
-    "name": "Lalmonirhat zila"
+    "comments": null
   },
   "33": {
+    "name": "Manikganj zila",
+    "code": null,
     "unofficial_names": [
       "Manikganj"
     ],
+    "geo": {
+      "latitude": 23.8584557,
+      "longitude": 89.9253233,
+      "min_latitude": 23.6303708,
+      "min_longitude": 89.6924686,
+      "max_latitude": 24.0301595,
+      "max_longitude": 90.25637619999999
+    },
     "translations": {
       "en": "Manikganj",
       "bn": "মানিকগঞ্জ জেলা",
@@ -1094,24 +1363,32 @@
       "sv": "Manikganj",
       "ta": "மணிகஞ்ச் மாவட்டம்",
       "ur": "مانک گنج ضلع",
-      "vi": "Huyện Manikganj"
+      "vi": "Huyện Manikganj",
+      "ceb": "Manikganj",
+      "te": "బహదియ",
+      "zh": "马尼格甘杰县",
+      "ccp": "𑄟𑄚𑄨𑄇𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "da": "Manikganj",
+      "ml": "ബഹദിയ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.8584557,
-      "longitude": 89.9253233,
-      "min_latitude": 23.6303708,
-      "min_longitude": 89.6924686,
-      "max_latitude": 24.0301595,
-      "max_longitude": 90.25637619999999
-    },
-    "name": "Manikganj zila"
+    "comments": null
   },
   "34": {
+    "name": "Mymensingh zila",
+    "code": null,
     "unofficial_names": [
       "Mymensingh",
       "Nasirabad",
       "Nasirābād"
     ],
+    "geo": {
+      "latitude": 24.6188256,
+      "longitude": 90.37483540000001,
+      "min_latitude": 24.2478058,
+      "min_longitude": 90.08703229999999,
+      "max_latitude": 25.1973305,
+      "max_longitude": 90.81951149999999
+    },
     "translations": {
       "en": "Mymensingh",
       "bn": "ময়মনসিংহ জেলা",
@@ -1128,20 +1405,28 @@
       "ta": "மைமன்சிங் மாவட்டம்",
       "uk": "Міменсінгх",
       "ur": "میمن سنگھ ضلع",
-      "vi": "Huyện Mymensingh"
+      "vi": "Huyện Mymensingh",
+      "ceb": "Mymensingh (distrito)",
+      "te": "మైమెన్సింగ్ జిల్లా",
+      "zh": "迈门辛县",
+      "el": "Επαρχία Μίμενσινγκ",
+      "ccp": "𑄟𑄧𑄠𑄴𑄟𑄧𑄚𑄴𑄥𑄨𑄁𑄦𑄴",
+      "ml": "മൈസെന്സിങ് ജില്ല"
     },
-    "geo": {
-      "latitude": 24.6188256,
-      "longitude": 90.37483540000001,
-      "min_latitude": 24.2478058,
-      "min_longitude": 90.08703229999999,
-      "max_latitude": 25.1973305,
-      "max_longitude": 90.81951149999999
-    },
-    "name": "Mymensingh zila"
+    "comments": null
   },
   "35": {
+    "name": "Munshiganj zila",
+    "code": null,
     "unofficial_names": "Munshiganj zila",
+    "geo": {
+      "latitude": 23.5248687,
+      "longitude": 90.3371889,
+      "min_latitude": 23.3773986,
+      "min_longitude": 90.1798152,
+      "max_latitude": 23.6743985,
+      "max_longitude": 90.71299549999999
+    },
     "translations": {
       "en": "Munshiganj",
       "bn": "মুন্সিগঞ্জ জেলা",
@@ -1159,22 +1444,31 @@
       "ta": "முன்சிகஞ்ச் மாவட்டம்",
       "uk": "Муншигандж",
       "ur": "منشی گنج ضلع",
-      "vi": "Huyện Munshiganj"
+      "vi": "Huyện Munshiganj",
+      "ceb": "Munshiganj",
+      "te": "మున్షియంగజ్ జిల్లా",
+      "zh": "蒙希甘杰县",
+      "el": "Επαρχία Μουνσιγκάντζ",
+      "ccp": "𑄟𑄪𑄚𑄴𑄥𑄨𑄉𑄧𑄚𑄴𑄎𑄧",
+      "it": "distretto di Munshiganj",
+      "ml": "മുന്ഷിഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": 23.5248687,
-      "longitude": 90.3371889,
-      "min_latitude": 23.3773986,
-      "min_longitude": 90.1798152,
-      "max_latitude": 23.6743985,
-      "max_longitude": 90.71299549999999
-    },
-    "name": "Munshiganj zila"
+    "comments": null
   },
   "36": {
+    "name": "Madaripur zila",
+    "code": null,
     "unofficial_names": [
       "Madaripur"
     ],
+    "geo": {
+      "latitude": 23.1666835,
+      "longitude": 90.20494169999999,
+      "min_latitude": 23.1665025,
+      "min_longitude": 90.2048202,
+      "max_latitude": 23.1668738,
+      "max_longitude": 90.20507769999999
+    },
     "translations": {
       "en": "Madaripur",
       "bn": "মাদারীপুর জেলা",
@@ -1190,22 +1484,30 @@
       "sv": "Madaripur (distrikt i Bangladesh)",
       "ta": "மதாரிபூர் மாவட்டம்",
       "ur": "مداری پور ضلع",
-      "vi": "Huyện Madaripur"
+      "vi": "Huyện Madaripur",
+      "ceb": "Madaripur (distrito sa Bangladesh)",
+      "te": "మదరిపుర్ జిల్లా",
+      "zh": "马达里布尔县",
+      "ccp": "𑄟𑄘𑄢𑄨𑄛𑄪𑄢𑄴",
+      "kk": "Мадарипур",
+      "ml": "മദാരിപൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.1666835,
-      "longitude": 90.20494169999999,
-      "min_latitude": 23.1665025,
-      "min_longitude": 90.2048202,
-      "max_latitude": 23.1668738,
-      "max_longitude": 90.20507769999999
-    },
-    "name": "Madaripur zila"
+    "comments": null
   },
   "37": {
+    "name": "Magura zila",
+    "code": null,
     "unofficial_names": [
       "Magura"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Magura",
       "bn": "মাগুরা জেলা",
@@ -1223,23 +1525,31 @@
       "sv": "Magura",
       "ta": "மகுரா மாவட்டம்",
       "ur": "ماگورا ضلع",
-      "vi": "Huyện Magura"
+      "vi": "Huyện Magura",
+      "ceb": "Magura",
+      "te": "మగుర జిల్లా",
+      "zh": "马古拉县",
+      "ccp": "𑄟𑄉𑄪𑄢",
+      "ml": "മഗുര ജില്ല",
+      "ne": "मागुरा जिल्ला"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Magura zila"
+    "comments": null
   },
   "38": {
+    "name": "Moulvibazar zila",
+    "code": null,
     "unofficial_names": [
       "Maulvi Bazar",
       "Moulvi Bazar"
     ],
+    "geo": {
+      "latitude": 24.4191069,
+      "longitude": 91.7538817,
+      "min_latitude": 24.1370805,
+      "min_longitude": 91.59713760000001,
+      "max_latitude": 24.8346482,
+      "max_longitude": 92.29768759999999
+    },
     "translations": {
       "en": "Maulvi Bazar",
       "bn": "মৌলভীবাজার জেলা",
@@ -1259,20 +1569,28 @@
       "ta": "மௌலிபஜார் மாவட்டம்",
       "uk": "Маулвібазар",
       "ur": "مولوی بازار ضلع",
-      "vi": "Huyện Moulvibazar"
+      "vi": "Huyện Moulvibazar",
+      "ceb": "Maulvibazar",
+      "te": "మౌల్విబాజర్ జిల్లా",
+      "zh": "毛爾維巴扎爾縣",
+      "ccp": "𑄟𑄯𑄣𑄧𑄞𑄩 𑄝𑄎𑄢𑄴",
+      "pa": "ਮੌਲਵੀ ਬਾਜ਼ਾਰ ਜ਼ਿਲਾ",
+      "ml": "മൗൽവിബാസർ ജില്ല"
     },
-    "geo": {
-      "latitude": 24.4191069,
-      "longitude": 91.7538817,
-      "min_latitude": 24.1370805,
-      "min_longitude": 91.59713760000001,
-      "max_latitude": 24.8346482,
-      "max_longitude": 92.29768759999999
-    },
-    "name": "Moulvibazar zila"
+    "comments": null
   },
   "39": {
+    "name": "Meherpur zila",
+    "code": null,
     "unofficial_names": "Meherpur zila",
+    "geo": {
+      "latitude": 23.8051991,
+      "longitude": 88.6723578,
+      "min_latitude": 23.5995035,
+      "min_longitude": 88.5595894,
+      "max_latitude": 23.978685,
+      "max_longitude": 88.8895656
+    },
     "translations": {
       "en": "Meherpur",
       "bn": "মেহেরপুর জেলা",
@@ -1290,22 +1608,30 @@
       "sv": "Meherpur",
       "ta": "மெகர்பூர் மாவட்டம்",
       "ur": "مہر پور ضلع",
-      "vi": "Huyện Meherpur"
+      "vi": "Huyện Meherpur",
+      "ceb": "Meherpur",
+      "te": "మెహర్పూర్ జిల్లా",
+      "zh": "梅黑尔布尔县",
+      "ccp": "𑄟𑄬𑄦𑄬𑄢𑄴𑄛𑄪𑄢𑄴",
+      "ml": "മേഹർപൂർ ജില്ല",
+      "ne": "मेहेरपुर जिल्ला"
     },
-    "geo": {
-      "latitude": 23.8051991,
-      "longitude": 88.6723578,
-      "min_latitude": 23.5995035,
-      "min_longitude": 88.5595894,
-      "max_latitude": 23.978685,
-      "max_longitude": 88.8895656
-    },
-    "name": "Meherpur zila"
+    "comments": null
   },
   "40": {
+    "name": "Narayanganj zila",
+    "code": null,
     "unofficial_names": [
       "Narayanganj"
     ],
+    "geo": {
+      "latitude": 23.7146601,
+      "longitude": 90.563609,
+      "min_latitude": 23.5425862,
+      "min_longitude": 90.4319429,
+      "max_latitude": 23.9584895,
+      "max_longitude": 90.757885
+    },
     "translations": {
       "en": "Narayanganj",
       "bn": "নারায়ণগঞ্জ জেলা",
@@ -1319,23 +1645,31 @@
       "ru": "Нараянгандж",
       "sv": "Narayanganj (distrikt)",
       "ur": "نارائن گنج ضلع",
-      "vi": "Huyện Narayanganj"
+      "vi": "Huyện Narayanganj",
+      "ceb": "Narayanganj (distrito sa Bangladesh)",
+      "te": "నారాయణాంజ్ జిల్లా",
+      "ta": "நாராயண்கஞ்ச் மாவட்டம்",
+      "zh": "纳拉扬甘杰县",
+      "ccp": "𑄚𑄢𑄠𑄧𑄚𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "നാരായൺഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": 23.7146601,
-      "longitude": 90.563609,
-      "min_latitude": 23.5425862,
-      "min_longitude": 90.4319429,
-      "max_latitude": 23.9584895,
-      "max_longitude": 90.757885
-    },
-    "name": "Narayanganj zila"
+    "comments": null
   },
   "41": {
+    "name": "Netrakona zila",
+    "code": null,
     "unofficial_names": [
       "Netrakona",
       "Netrokana"
     ],
+    "geo": {
+      "latitude": 24.8834972,
+      "longitude": 90.7312453,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Netrokona",
       "bn": "নেত্রকোনা জেলা",
@@ -1351,22 +1685,31 @@
       "sv": "Netrakona",
       "ta": "நேத்ரோகோனா மாவட்டம்",
       "ur": "نیتورکونا ضلع",
-      "vi": "Huyện Netrakona"
+      "vi": "Huyện Netrakona",
+      "ceb": "Netrakona (distrito)",
+      "te": "నెట్కోనో జిల్లా",
+      "zh": "内德罗戈纳县",
+      "pl": "dystrykt Netrokona",
+      "el": "Επαρχία Νετροκόνα",
+      "ccp": "𑄚𑄬𑄖𑄳𑄢𑄧𑄇𑄧𑄚",
+      "ml": "നെറ്റ്രൊകൊന ജില്ല"
     },
-    "geo": {
-      "latitude": 24.8834972,
-      "longitude": 90.7312453,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Netrakona zila"
+    "comments": null
   },
   "42": {
+    "name": "Narsingdi zila",
+    "code": null,
     "unofficial_names": [
       "Narsinghdi"
     ],
+    "geo": {
+      "latitude": 23.9991955,
+      "longitude": 90.7913227,
+      "min_latitude": 23.7841667,
+      "min_longitude": 90.56034559999999,
+      "max_latitude": 24.2503296,
+      "max_longitude": 90.9857498
+    },
     "translations": {
       "en": "Narsingdi",
       "bn": "নরসিংদী জেলা",
@@ -1382,23 +1725,29 @@
       "ru": "Нарсингди",
       "ta": "நரசிங்கடி மாவட்டம்",
       "ur": "نارسینگدی ضلع",
-      "vi": "Huyện Narsingdi"
+      "vi": "Huyện Narsingdi",
+      "te": "నర్సింగి జిల్లా",
+      "zh": "诺尔辛迪县",
+      "ccp": "𑄚𑄧𑄢𑄴𑄥𑄨𑄁𑄘𑄨",
+      "ml": "നരസിംഗഡി ജില്ല"
     },
-    "geo": {
-      "latitude": 23.9991955,
-      "longitude": 90.7913227,
-      "min_latitude": 23.7841667,
-      "min_longitude": 90.56034559999999,
-      "max_latitude": 24.2503296,
-      "max_longitude": 90.9857498
-    },
-    "name": "Narsingdi zila"
+    "comments": null
   },
   "43": {
+    "name": "Narail zila",
+    "code": null,
     "unofficial_names": [
       "Narail",
       "Naral"
     ],
+    "geo": {
+      "latitude": 23.1436191,
+      "longitude": 89.5874819,
+      "min_latitude": 22.9538884,
+      "min_longitude": 89.37712669999999,
+      "max_latitude": 23.3145922,
+      "max_longitude": 89.7925473
+    },
     "translations": {
       "en": "Narail",
       "bn": "নড়াইল জেলা",
@@ -1416,23 +1765,31 @@
       "sv": "Narail (distrikt)",
       "ta": "நராய்ல் மாவட்டம்",
       "ur": "نارائل ضلع",
-      "vi": "Huyện Narail"
+      "vi": "Huyện Narail",
+      "ceb": "Narail (distrito)",
+      "te": "నారాయిల్ డిస్ట్రిక్ట్",
+      "zh": "诺拉尔县",
+      "ccp": "𑄚𑄢𑄭𑄣𑄴",
+      "ml": "നാറെയിൽ ജില്ല",
+      "ne": "नडाइल जिल्ला"
     },
-    "geo": {
-      "latitude": 23.1436191,
-      "longitude": 89.5874819,
-      "min_latitude": 22.9538884,
-      "min_longitude": 89.37712669999999,
-      "max_latitude": 23.3145922,
-      "max_longitude": 89.7925473
-    },
-    "name": "Narail zila"
+    "comments": null
   },
   "44": {
+    "name": "Natore zila",
+    "code": null,
     "unofficial_names": [
       "Nator",
       "Natore"
     ],
+    "geo": {
+      "latitude": 24.4260457,
+      "longitude": 89.0179332,
+      "min_latitude": 24.105237,
+      "min_longitude": 88.84579169999999,
+      "max_latitude": 24.6554422,
+      "max_longitude": 89.3405628
+    },
     "translations": {
       "en": "Natore",
       "bn": "নাটোর জেলা",
@@ -1449,23 +1806,31 @@
       "sv": "Natore (distrikt i Bangladesh)",
       "ta": "நத்தோர் மாவட்டம்",
       "ur": "نتور ضلع",
-      "vi": "Huyện Natore"
+      "vi": "Huyện Natore",
+      "ceb": "Natore",
+      "te": "నాటోర్ జిల్లా",
+      "zh": "诺多尔县",
+      "ccp": "𑄚𑄑𑄮𑄢𑄴",
+      "ml": "നാറ്റോർ ജില്ല",
+      "ne": "नाटोर जिल्ला"
     },
-    "geo": {
-      "latitude": 24.4260457,
-      "longitude": 89.0179332,
-      "min_latitude": 24.105237,
-      "min_longitude": 88.84579169999999,
-      "max_latitude": 24.6554422,
-      "max_longitude": 89.3405628
-    },
-    "name": "Natore zila"
+    "comments": null
   },
   "45": {
+    "name": "Nawabganj zila",
+    "code": null,
     "unofficial_names": [
       "Nawabganj",
       "Nawabgonj"
     ],
+    "geo": {
+      "latitude": 29.9688,
+      "longitude": 77.5495,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nawabganj",
       "bn": "চাঁপাইনবাবগঞ্জ জেলা",
@@ -1483,22 +1848,30 @@
       "sv": "Chapai Nababganj",
       "ta": "சபாய் நவாப்கஞ்ச் மாவட்டம்",
       "ur": "چپائی نواب گنج ضلع",
-      "vi": "Huyện Nawabganj"
+      "vi": "Huyện Nawabganj",
+      "ceb": "Chapai Nababganj",
+      "te": "చపాయ్ నవాబ్గంజ్ జిల్లా",
+      "zh": "诺瓦布甘杰县",
+      "ccp": "𑄚𑄧𑄃𑄮𑄠𑄛𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "ചാപായ് നവാബ്ഗഞ്ച് ജില്ല",
+      "ne": "चाँपाइनबाबगञ्ज जिल्ला"
     },
-    "geo": {
-      "latitude": 29.9688,
-      "longitude": 77.5495,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Nawabganj zila"
+    "comments": null
   },
   "46": {
+    "name": "Nilphamari zila",
+    "code": null,
     "unofficial_names": [
       "Nilphamari"
     ],
+    "geo": {
+      "latitude": 25.989962,
+      "longitude": 88.90306,
+      "min_latitude": 25.7392149,
+      "min_longitude": 88.7379457,
+      "max_latitude": 26.3130356,
+      "max_longitude": 89.1966248
+    },
     "translations": {
       "en": "Nilphamari",
       "bn": "নীলফামারী জেলা",
@@ -1514,22 +1887,32 @@
       "sv": "Nilphamari Zila",
       "ta": "நீல்பமரி மாவட்டம்",
       "ur": "نیلپھاماری ضلع",
-      "vi": "Huyện Nilphamari"
+      "vi": "Huyện Nilphamari",
+      "ceb": "Nilphamari Zila",
+      "te": "నిల్ఫామారి జిల్లా",
+      "as": "নীলফামাৰী জিলা",
+      "zh": "尼尔帕马里县",
+      "el": "Επαρχία Νιλφαμάρι",
+      "ccp": "𑄚𑄩𑄣𑄴𑄜𑄟𑄢𑄨",
+      "ml": "നിൽഫമാറി ജില്ല",
+      "ne": "नीलफामारी जिल्ला"
     },
-    "geo": {
-      "latitude": 25.989962,
-      "longitude": 88.90306,
-      "min_latitude": 25.7392149,
-      "min_longitude": 88.7379457,
-      "max_latitude": 26.3130356,
-      "max_longitude": 89.1966248
-    },
-    "name": "Nilphamari zila"
+    "comments": null
   },
   "47": {
+    "name": "Noakhali zila",
+    "code": null,
     "unofficial_names": [
       "Noakhali"
     ],
+    "geo": {
+      "latitude": 22.5205292,
+      "longitude": 91.13530200000001,
+      "min_latitude": 22.0278874,
+      "min_longitude": 90.8422743,
+      "max_latitude": 23.1329408,
+      "max_longitude": 91.4192964
+    },
     "translations": {
       "en": "Noakhali",
       "bn": "নোয়াখালী জেলা",
@@ -1551,23 +1934,28 @@
       "ta": "நவகாளி மாவட்டம்",
       "uk": "Ноакхалі",
       "ur": "نواکھالی ضلع",
-      "vi": "Huyện Noakhali"
+      "vi": "Huyện Noakhali",
+      "te": "నోహాళీ జిల్లా",
+      "zh": "諾阿卡利縣",
+      "ccp": "𑄚𑄱𑄈𑄣𑄨"
     },
-    "geo": {
-      "latitude": 22.5205292,
-      "longitude": 91.13530200000001,
-      "min_latitude": 22.0278874,
-      "min_longitude": 90.8422743,
-      "max_latitude": 23.1329408,
-      "max_longitude": 91.4192964
-    },
-    "name": "Noakhali zila"
+    "comments": null
   },
   "48": {
+    "name": "Naogaon zila",
+    "code": null,
     "unofficial_names": [
       "Naogaon",
       "Naugaon"
     ],
+    "geo": {
+      "latitude": 24.8127781,
+      "longitude": 88.9415362,
+      "min_latitude": 24.8123151,
+      "min_longitude": 88.94079579999999,
+      "max_latitude": 24.8134302,
+      "max_longitude": 88.94238349999999
+    },
     "translations": {
       "en": "Naogaon",
       "bn": "নওগাঁ জেলা",
@@ -1582,22 +1970,32 @@
       "ru": "Наогаон",
       "ta": "நவகோன் மாவட்டம்",
       "ur": "ناو گاؤں ضلع",
-      "vi": "Huyện Naogaon"
+      "vi": "Huyện Naogaon",
+      "ceb": "Naogaon",
+      "te": "నాగాన్ జిల్లా",
+      "zh": "瑙冈县",
+      "sv": "Naogaon District",
+      "hi": "नौगाँव जिला",
+      "ccp": "𑄚𑄧𑄃𑄮𑄉",
+      "ml": "നഒഗോൺ ജില്ല",
+      "ne": "नउगाँ जिल्ला"
     },
-    "geo": {
-      "latitude": 24.8127781,
-      "longitude": 88.9415362,
-      "min_latitude": 24.8123151,
-      "min_longitude": 88.94079579999999,
-      "max_latitude": 24.8134302,
-      "max_longitude": 88.94238349999999
-    },
-    "name": "Naogaon zila"
+    "comments": null
   },
   "49": {
+    "name": "Pabna zila",
+    "code": null,
     "unofficial_names": [
       "Pabna"
     ],
+    "geo": {
+      "latitude": 24.0021069,
+      "longitude": 89.2332005,
+      "min_latitude": 24.0016952,
+      "min_longitude": 89.23269499999999,
+      "max_latitude": 24.0029743,
+      "max_longitude": 89.2340201
+    },
     "translations": {
       "en": "Pabna",
       "bn": "পাবনা জেলা",
@@ -1613,23 +2011,31 @@
       "ta": "பப்னா மாவட்டம்",
       "uk": "Пабна",
       "ur": "پبنا ضلع",
-      "vi": "Huyện Pabna"
+      "vi": "Huyện Pabna",
+      "ceb": "Pabna (distrito sa Bangladesh)",
+      "te": "పాబ్నా జిల్లా",
+      "zh": "巴布纳县",
+      "ccp": "𑄛𑄛𑄴𑄚",
+      "ml": "പബ്നാ ജില്ല",
+      "ne": "पाबना जिल्ला"
     },
-    "geo": {
-      "latitude": 24.0021069,
-      "longitude": 89.2332005,
-      "min_latitude": 24.0016952,
-      "min_longitude": 89.23269499999999,
-      "max_latitude": 24.0029743,
-      "max_longitude": 89.2340201
-    },
-    "name": "Pabna zila"
+    "comments": null
   },
   "50": {
+    "name": "Pirojpur zila",
+    "code": null,
     "unofficial_names": [
       "Perojpur",
       "Pirojpur"
     ],
+    "geo": {
+      "latitude": 25.6657924,
+      "longitude": 88.1364591,
+      "min_latitude": 25.6537201,
+      "min_longitude": 88.1259999,
+      "max_latitude": 25.6812,
+      "max_longitude": 88.1489501
+    },
     "translations": {
       "en": "Pirojpur",
       "bn": "পিরোজপুর জেলা",
@@ -1646,22 +2052,30 @@
       "sv": "Pirojpur",
       "ta": "பிரோஜ்பூர் மாவட்டம்",
       "ur": "پیروجپور ضلع",
-      "vi": "Huyện Pirojpur"
+      "vi": "Huyện Pirojpur",
+      "ceb": "Pirojpur",
+      "te": "పిరోజ్పూర్ జిల్లా",
+      "zh": "比羅傑布爾縣",
+      "hi": "पीरोजपुर जिला",
+      "ccp": "𑄛𑄨𑄢𑄮𑄌𑄴𑄛𑄪𑄢𑄴",
+      "ml": "പിരോജ്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 25.6657924,
-      "longitude": 88.1364591,
-      "min_latitude": 25.6537201,
-      "min_longitude": 88.1259999,
-      "max_latitude": 25.6812,
-      "max_longitude": 88.1489501
-    },
-    "name": "Pirojpur zila"
+    "comments": null
   },
   "51": {
+    "name": "Patuakhali zila",
+    "code": null,
     "unofficial_names": [
       "Patukhali"
     ],
+    "geo": {
+      "latitude": 21.951824,
+      "longitude": 90.37483540000001,
+      "min_latitude": 21.8004674,
+      "min_longitude": 90.0830841,
+      "max_latitude": 22.6105247,
+      "max_longitude": 90.66673279999999
+    },
     "translations": {
       "en": "Patuakhali",
       "bn": "পটুয়াখালী জেলা",
@@ -1678,20 +2092,27 @@
       "sv": "Patuakhali",
       "ta": "பதுவாகாளி மாவட்டம்",
       "ur": "پاتواکھاکی ضلع",
-      "vi": "Huyện Patuakhali"
+      "vi": "Huyện Patuakhali",
+      "ceb": "Patuakhali",
+      "te": "పతువాలి జిల్లా",
+      "zh": "博杜阿卡利縣",
+      "ccp": "𑄛𑄧𑄑𑄪𑄠𑄈𑄣𑄨",
+      "ml": "പറ്റുഖലി ജില്ല"
     },
-    "geo": {
-      "latitude": 21.951824,
-      "longitude": 90.37483540000001,
-      "min_latitude": 21.8004674,
-      "min_longitude": 90.0830841,
-      "max_latitude": 22.6105247,
-      "max_longitude": 90.66673279999999
-    },
-    "name": "Patuakhali zila"
+    "comments": null
   },
   "52": {
+    "name": "Panchagarh zila",
+    "code": null,
     "unofficial_names": "Panchagarh zila",
+    "geo": {
+      "latitude": 26.335376,
+      "longitude": 88.551698,
+      "min_latitude": 26.3172288,
+      "min_longitude": 88.5441398,
+      "max_latitude": 26.3444988,
+      "max_longitude": 88.5685159
+    },
     "translations": {
       "en": "Panchagarh",
       "bn": "পঞ্চগড় জেলা",
@@ -1707,22 +2128,31 @@
       "sv": "Panchagarh (distrikt)",
       "ta": "பஞ்சகர் மாவட்டம்",
       "ur": "پنچھاگڑھ ضلع",
-      "vi": "Huyện Panchagarh"
+      "vi": "Huyện Panchagarh",
+      "ceb": "Panchagarh (distrito)",
+      "te": "పంచగర్ జిల్లా",
+      "zh": "班乔戈尔县",
+      "el": "Επαρχία Παντσαγκάρ",
+      "ccp": "𑄛𑄧𑄚𑄴𑄌𑄧𑄉𑄧𑄢𑄴",
+      "ml": "പഞ്ചഗർഹ് ജില്ല",
+      "ne": "पञ्चगढ जिल्ला"
     },
-    "geo": {
-      "latitude": 26.335376,
-      "longitude": 88.551698,
-      "min_latitude": 26.3172288,
-      "min_longitude": 88.5441398,
-      "max_latitude": 26.3444988,
-      "max_longitude": 88.5685159
-    },
-    "name": "Panchagarh zila"
+    "comments": null
   },
   "53": {
+    "name": "Rajbari zila",
+    "code": null,
     "unofficial_names": [
       "Rajbari"
     ],
+    "geo": {
+      "latitude": 23.715134,
+      "longitude": 89.5874819,
+      "min_latitude": 23.567016,
+      "min_longitude": 89.2988491,
+      "max_latitude": 23.908124,
+      "max_longitude": 89.8695803
+    },
     "translations": {
       "en": "Rajbari",
       "bn": "রাজবাড়ী জেলা",
@@ -1739,23 +2169,31 @@
       "sv": "Rajbari",
       "ta": "ராஜ்பாரி மாவட்டம்",
       "ur": "راج باڑی ضلع",
-      "vi": "Huyện Rajbari"
+      "vi": "Huyện Rajbari",
+      "ceb": "Rajbari",
+      "te": "రాజ్బరి జిల్లా",
+      "zh": "拉杰巴里县",
+      "el": "Επαρχία Ρατζμπάρι",
+      "ccp": "𑄢𑄌𑄴𑄝𑄢𑄨",
+      "ml": "രാജ്ബാഡി ജില്ല"
     },
-    "geo": {
-      "latitude": 23.715134,
-      "longitude": 89.5874819,
-      "min_latitude": 23.567016,
-      "min_longitude": 89.2988491,
-      "max_latitude": 23.908124,
-      "max_longitude": 89.8695803
-    },
-    "name": "Rajbari zila"
+    "comments": null
   },
   "54": {
+    "name": "Rajshahi zila",
+    "code": null,
     "unofficial_names": [
       "Rajshahi",
       "Rampur Boalia"
     ],
+    "geo": {
+      "latitude": 24.4130584,
+      "longitude": 88.9822586,
+      "min_latitude": 24.4116991,
+      "min_longitude": 88.9815109,
+      "max_latitude": 24.4145705,
+      "max_longitude": 88.9830614
+    },
     "translations": {
       "en": "Rajshahi",
       "ar": "مقاطعة رايشاهي",
@@ -1789,22 +2227,32 @@
       "th": "เมืองกรานาดา",
       "tr": "Rajshahi District",
       "ur": "راجشاہی ضلع",
-      "vi": "Huyện Rajshahi"
+      "vi": "Huyện Rajshahi",
+      "lv": "Rādžšāhī apgabals",
+      "ceb": "Rajshahi",
+      "lt": "Radžšachio apskritis",
+      "zh": "拉傑沙希縣",
+      "ccp": "𑄢𑄌𑄴𑄥𑄦𑄨",
+      "ml": "രാജ്ഷാഹി ജില്ല",
+      "uk": "Район Раджшагі",
+      "or": "ରାଜସାହୀ ଜିଲ୍ଲା"
     },
-    "geo": {
-      "latitude": 24.4130584,
-      "longitude": 88.9822586,
-      "min_latitude": 24.4116991,
-      "min_longitude": 88.9815109,
-      "max_latitude": 24.4145705,
-      "max_longitude": 88.9830614
-    },
-    "name": "Rajshahi zila"
+    "comments": null
   },
   "55": {
+    "name": "Rangpur zila",
+    "code": null,
     "unofficial_names": [
       "Rangpur"
     ],
+    "geo": {
+      "latitude": 25.7588,
+      "longitude": 89.24337700000001,
+      "min_latitude": 25.7585418,
+      "min_longitude": 89.2431368,
+      "max_latitude": 25.758965,
+      "max_longitude": 89.2436118
+    },
     "translations": {
       "en": "Rangpur",
       "ar": "مقاطعة رانجبور",
@@ -1840,22 +2288,30 @@
       "tr": "Rangpur",
       "uk": "Рангпур",
       "ur": "رنگ پور ضلع",
-      "vi": "Huyện Rangpur"
+      "vi": "Huyện Rangpur",
+      "lv": "Rangpura",
+      "ceb": "Rangpur",
+      "lt": "Rangpuro apskritis",
+      "zh": "朗布尔县",
+      "ccp": "𑄢𑄧𑄁𑄛𑄪𑄢𑄴",
+      "ml": "രംഗ്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 25.7588,
-      "longitude": 89.24337700000001,
-      "min_latitude": 25.7585418,
-      "min_longitude": 89.2431368,
-      "max_latitude": 25.758965,
-      "max_longitude": 89.2436118
-    },
-    "name": "Rangpur zila"
+    "comments": null
   },
   "56": {
+    "name": "Rangamati zila",
+    "code": null,
     "unofficial_names": [
       "Rangamati"
     ],
+    "geo": {
+      "latitude": 25.158978,
+      "longitude": 91.685097,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Rangamati Hill",
       "bn": "রাঙামাটি জেলা",
@@ -1872,22 +2328,31 @@
       "sv": "Rangamati",
       "ta": "ரங்கமதி மாவட்டம்",
       "uk": "Рангаматі",
-      "ur": "رنگامتی ضلع"
+      "ur": "رنگامتی ضلع",
+      "ceb": "Rangamati",
+      "te": "రంగమతి హిల్ డిస్ట్రిక్ట్",
+      "vi": "Huyện Rangamati",
+      "zh": "蘭加馬蒂縣",
+      "pl": "dystrykt Rangamati",
+      "ccp": "𑄢𑄋𑄟𑄖𑄳𑄠𑄬 𑄦𑄨𑄣𑄴",
+      "ml": "രംഗമതി ഹിൽ ജില്ല"
     },
-    "geo": {
-      "latitude": 25.158978,
-      "longitude": 91.685097,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Rangamati zila"
+    "comments": null
   },
   "57": {
+    "name": "Sherpur zila",
+    "code": null,
     "unofficial_names": [
       "Sherpur"
     ],
+    "geo": {
+      "latitude": 25.0465571,
+      "longitude": 90.11206960000001,
+      "min_latitude": 24.8837113,
+      "min_longitude": 89.8807812,
+      "max_latitude": 25.3026742,
+      "max_longitude": 90.3096772
+    },
     "translations": {
       "en": "Sherpur",
       "bn": "শেরপুর জেলা",
@@ -1904,22 +2369,31 @@
       "sv": "Sherpur",
       "ta": "செர்பூர் மாவட்டம்",
       "ur": "شیر پور ضلع",
-      "vi": "Huyện Sherpur"
+      "vi": "Huyện Sherpur",
+      "ceb": "Sherpur",
+      "te": "షేర్పూర్ జిల్లా",
+      "zh": "谢尔布尔县",
+      "el": "Επαρχία Σερπούρ",
+      "ccp": "𑄥𑄬𑄢𑄴𑄛𑄪𑄢𑄴",
+      "it": "distretto di Sherpur",
+      "ml": "ഷേർപ്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 25.0465571,
-      "longitude": 90.11206960000001,
-      "min_latitude": 24.8837113,
-      "min_longitude": 89.8807812,
-      "max_latitude": 25.3026742,
-      "max_longitude": 90.3096772
-    },
-    "name": "Sherpur zila"
+    "comments": null
   },
   "58": {
+    "name": "Satkhira zila",
+    "code": null,
     "unofficial_names": [
       "Satkhira"
     ],
+    "geo": {
+      "latitude": 21.9501677,
+      "longitude": 89.1705998,
+      "min_latitude": 21.6379626,
+      "min_longitude": 88.90323389999999,
+      "max_latitude": 22.9491463,
+      "max_longitude": 89.3596172
+    },
     "translations": {
       "en": "Satkhira",
       "bn": "সাতক্ষীরা জেলা",
@@ -1938,23 +2412,31 @@
       "sv": "Satkhira",
       "ta": "சத்கீரா மாவட்டம்",
       "ur": "ساتخیرا ضلع",
-      "vi": "Huyện Satkhira"
+      "vi": "Huyện Satkhira",
+      "ceb": "Satkhira",
+      "te": "సత్ఖిర జిల్లా",
+      "zh": "萨德基拉县",
+      "ccp": "𑄥𑄖𑄴𑄈𑄨𑄢",
+      "ml": "സത്ഖിറ ജില്ല",
+      "ne": "सातखीरा जिल्ला"
     },
-    "geo": {
-      "latitude": 21.9501677,
-      "longitude": 89.1705998,
-      "min_latitude": 21.6379626,
-      "min_longitude": 88.90323389999999,
-      "max_latitude": 22.9491463,
-      "max_longitude": 89.3596172
-    },
-    "name": "Satkhira zila"
+    "comments": null
   },
   "59": {
+    "name": "Sirajganj zila",
+    "code": null,
     "unofficial_names": [
       "Serajgonj",
       "Sirajganj"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Sirajganj",
       "bn": "সিরাজগঞ্জ জেলা",
@@ -1968,23 +2450,30 @@
       "sv": "Sirajganj (distrikt)",
       "ta": "சிராஜ்கஞ்ச் மாவட்டம்",
       "ur": "سراج گنج ضلع",
-      "vi": "Huyện Sirajganj"
+      "vi": "Huyện Sirajganj",
+      "ceb": "Sirajganj (distrito sa Bangladesh)",
+      "te": "సిరాజ్గంజ్ జిల్లా",
+      "zh": "锡拉杰甘杰县",
+      "ccp": "𑄥𑄨𑄢𑄌𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "സിറാജ്ഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Sirajganj zila"
+    "comments": null
   },
   "60": {
+    "name": "Sylhet zila",
+    "code": null,
     "unofficial_names": [
       "Silhat",
       "Sylhet"
     ],
+    "geo": {
+      "latitude": 24.8902772,
+      "longitude": 91.86371419999999,
+      "min_latitude": 24.8900448,
+      "min_longitude": 91.8633924,
+      "max_latitude": 24.8905095,
+      "max_longitude": 91.864036
+    },
     "translations": {
       "en": "Sylhet",
       "ar": "مقاطعة سيلهيت",
@@ -2019,23 +2508,31 @@
       "tr": "Sylhet District",
       "uk": "Сілхет",
       "ur": "سلہٹ ضلع",
-      "vi": "Huyện Sylhet"
+      "vi": "Huyện Sylhet",
+      "lv": "Siletas apgabals",
+      "ceb": "Sylhet",
+      "lt": "Sileto apskritis",
+      "zh": "錫爾赫特縣",
+      "ccp": "𑄥𑄨𑄣𑄬𑄖𑄴",
+      "ml": "സിൽഹെഡ് ജില്ല"
     },
-    "geo": {
-      "latitude": 24.8902772,
-      "longitude": 91.86371419999999,
-      "min_latitude": 24.8900448,
-      "min_longitude": 91.8633924,
-      "max_latitude": 24.8905095,
-      "max_longitude": 91.864036
-    },
-    "name": "Sylhet zila"
+    "comments": null
   },
   "61": {
+    "name": "Sunamganj zila",
+    "code": null,
     "unofficial_names": [
       "Shunamganj",
       "Sunamganj"
     ],
+    "geo": {
+      "latitude": 24.993592,
+      "longitude": 91.28910359999999,
+      "min_latitude": 24.5661716,
+      "min_longitude": 90.93542579999999,
+      "max_latitude": 25.2041646,
+      "max_longitude": 91.739831
+    },
     "translations": {
       "en": "Sunamganj",
       "bn": "সুনামগঞ্জ জেলা",
@@ -2053,22 +2550,28 @@
       "ta": "சுனாம்கஞ்ச் மாவட்டம்",
       "uk": "Сунамгандж",
       "ur": "سونم گنج ضلع",
-      "vi": "Huyện Sunamganj"
+      "vi": "Huyện Sunamganj",
+      "te": "సునంగంజ్ జిల్లా",
+      "zh": "蘇納姆甘傑縣",
+      "ccp": "𑄥𑄪𑄚𑄟𑄴𑄉𑄧𑄚𑄴𑄎𑄧",
+      "ml": "സുനാമ്ഗഞ്ച് ജില്ല"
     },
-    "geo": {
-      "latitude": 24.993592,
-      "longitude": 91.28910359999999,
-      "min_latitude": 24.5661716,
-      "min_longitude": 90.93542579999999,
-      "max_latitude": 25.2041646,
-      "max_longitude": 91.739831
-    },
-    "name": "Sunamganj zila"
+    "comments": null
   },
   "62": {
+    "name": "Shariatpur zila",
+    "code": null,
     "unofficial_names": [
       "Shariatpur"
     ],
+    "geo": {
+      "latitude": 23.2866398,
+      "longitude": 90.37483540000001,
+      "min_latitude": 23.0103863,
+      "min_longitude": 90.2019596,
+      "max_latitude": 23.4635612,
+      "max_longitude": 90.6138611
+    },
     "translations": {
       "en": "Shariatpur",
       "bn": "শরিয়তপুর জেলা",
@@ -2082,23 +2585,32 @@
       "ru": "Шариатпур",
       "ta": "சரியத்பூர் மாவட்டம்",
       "ur": "شریعت پور ضلع",
-      "vi": "Huyện Shariatpur"
+      "vi": "Huyện Shariatpur",
+      "ceb": "Shariatpur",
+      "te": "షరియత్పూర్ జిల్లా",
+      "zh": "沙里亚德布尔县",
+      "sv": "Shariatpur",
+      "ccp": "𑄥𑄧𑄢𑄨𑄠𑄧𑄖𑄴𑄛𑄪𑄢𑄴",
+      "it": "distretto di Shariatpur",
+      "ml": "ശരിയത്പൂർ ജില്ല"
     },
-    "geo": {
-      "latitude": 23.2866398,
-      "longitude": 90.37483540000001,
-      "min_latitude": 23.0103863,
-      "min_longitude": 90.2019596,
-      "max_latitude": 23.4635612,
-      "max_longitude": 90.6138611
-    },
-    "name": "Shariatpur zila"
+    "comments": null
   },
   "63": {
+    "name": "Tangail zila",
+    "code": null,
     "unofficial_names": [
       "Tangail",
       "Tangayal"
     ],
+    "geo": {
+      "latitude": 24.2574606,
+      "longitude": 89.9172914,
+      "min_latitude": 24.2489937,
+      "min_longitude": 89.9137585,
+      "max_latitude": 24.2642256,
+      "max_longitude": 89.9231774
+    },
     "translations": {
       "en": "Tangail",
       "ar": "منطقة تانغيل",
@@ -2115,22 +2627,32 @@
       "ta": "தங்காயில் மாவட்டம்",
       "uk": "Тангайл",
       "ur": "تنگیل ضلع",
-      "vi": "Huyện Tangail"
+      "vi": "Huyện Tangail",
+      "ceb": "Tangail",
+      "te": "తంగైల్ జిల్లా",
+      "zh": "坦盖尔县",
+      "yue_Hans": "坦盖尔县",
+      "ccp": "𑄑𑄋𑄴𑄉𑄭𑄣𑄴",
+      "it": "distretto di Tangail",
+      "ml": "ടംഗൈൽ ജില്ല",
+      "yue": "坦蓋爾縣"
     },
-    "geo": {
-      "latitude": 24.2574606,
-      "longitude": 89.9172914,
-      "min_latitude": 24.2489937,
-      "min_longitude": 89.9137585,
-      "max_latitude": 24.2642256,
-      "max_longitude": 89.9231774
-    },
-    "name": "Tangail zila"
+    "comments": null
   },
   "64": {
+    "name": "Thakurgaon zila",
+    "code": null,
     "unofficial_names": [
       "Thakurgaon"
     ],
+    "geo": {
+      "latitude": 25.9848836,
+      "longitude": 88.362785,
+      "min_latitude": 25.6658205,
+      "min_longitude": 88.0882072,
+      "max_latitude": 26.2147449,
+      "max_longitude": 88.64207259999999
+    },
     "translations": {
       "en": "Thakurgaon",
       "bn": "ঠাকুরগাঁও জেলা",
@@ -2145,19 +2667,30 @@
       "ru": "Тхакургаон",
       "sv": "Thakurgaon (distrikt i Bangladesh)",
       "ur": "ٹھاکر گاؤں ضلع",
-      "vi": "Huyện Thakurgaon"
+      "vi": "Huyện Thakurgaon",
+      "ceb": "Thakurgaon (distrito sa Bangladesh)",
+      "te": "థాకుర్గావ్ జిల్లా",
+      "ta": "தாகுர்காவ்ன் மாவட்டம்",
+      "zh": "塔古尔冈县",
+      "el": "Επαρχία Θακουργκαόν",
+      "ccp": "𑄒𑄇𑄪𑄢𑄴𑄉𑄀𑄃𑄮",
+      "ml": "തകുർഗോൺ ജില്ല",
+      "ne": "ठाकुरगाँउ जिल्ला"
     },
-    "geo": {
-      "latitude": 25.9848836,
-      "longitude": 88.362785,
-      "min_latitude": 25.6658205,
-      "min_longitude": 88.0882072,
-      "max_latitude": 26.2147449,
-      "max_longitude": 88.64207259999999
-    },
-    "name": "Thakurgaon zila"
+    "comments": null
   },
   "A": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة باريسال",
       "bg": "Барисал",
@@ -2187,10 +2720,28 @@
       "tr": "Barisal Bölümü",
       "uk": "Барісал",
       "ur": "باریسال ڈویژن",
-      "vi": "Barisal"
-    }
+      "vi": "Barisal",
+      "ceb": "Barisal Division",
+      "zh": "巴里薩爾專區",
+      "el": "Διαίρεση Μπαρισάλ",
+      "ccp": "𑄝𑄧𑄢𑄨𑄥𑄣𑄴",
+      "eu": "Barisal dibisioa",
+      "az": "Barisal (əyalət, Banqladeş)"
+    },
+    "comments": null
   },
   "B": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة تشيتاغونغ",
       "bg": "Читагонг",
@@ -2221,10 +2772,29 @@
       "ta": "சிட்டகாங் கோட்டம்",
       "uk": "Чіттаґонґ",
       "ur": "چٹاگانگ ڈویژن",
-      "vi": "Chittagong"
-    }
+      "vi": "Chittagong",
+      "ceb": "Chittagong²",
+      "tr": "Chittagong İli",
+      "zh": "吉大港專區",
+      "el": "Διαίρεση Τσιταγκόνγκ",
+      "ccp": "𑄌𑄘𑄨𑄉𑄋𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "ro": "Chittagong²",
+      "eu": "Chittagong dibisioa"
+    },
+    "comments": null
   },
   "C": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة داكا",
       "bg": "Дака",
@@ -2263,10 +2833,30 @@
       "tr": "Dhaka Division",
       "uk": "Дака",
       "ur": "ڈھاکہ ڈویژن",
-      "vi": "Dhaka"
-    }
+      "vi": "Dhaka",
+      "lv": "Dakas apgabals",
+      "ceb": "Dhaka Division",
+      "zh": "達卡專區",
+      "yue_Hans": "达卡专区",
+      "ccp": "𑄔𑄇 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "eu": "Dhaka dibisioa",
+      "yue": "達卡專區",
+      "be": "Дака²"
+    },
+    "comments": null
   },
   "D": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "قسم خولنا",
       "bg": "Кхулна",
@@ -2305,10 +2895,27 @@
       "tr": "Khulna Division",
       "uk": "Кхулна",
       "ur": "کھلنا ڈویژن",
-      "vi": "Khulna"
-    }
+      "vi": "Khulna",
+      "lv": "Khulnas apgabals",
+      "ceb": "Khulna Division",
+      "zh": "庫爾納專區",
+      "ccp": "𑄈𑄪𑄣𑄴𑄚 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "eu": "Khulna dibisioa"
+    },
+    "comments": null
   },
   "F": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Рангпур²",
       "bg": "Рангпур",
@@ -2335,10 +2942,28 @@
       "ta": "ரங்க்பூர் கோட்டம்",
       "uk": "Рангпур²",
       "ur": "رنگپور ڈویژن",
-      "vi": "Rangpur"
-    }
+      "vi": "Rangpur",
+      "ceb": "Rangpur Division",
+      "zh": "朗布尔专区",
+      "el": "Διαίρεση Ρανγκπούρ",
+      "ccp": "𑄢𑄧𑄁𑄛𑄪𑄢𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "eu": "Rangpur dibisioa",
+      "ca": "Divisió de Rangpur"
+    },
+    "comments": null
   },
   "E": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bg": "Раджшахи",
       "bn": "রাজশাহী বিভাগ",
@@ -2365,10 +2990,27 @@
       "ta": "ராஜசாகி கோட்டம்",
       "uk": "Раджшахі",
       "ur": "راجشاہی ڈویژن",
-      "vi": "Rajshahi"
-    }
+      "vi": "Rajshahi",
+      "ceb": "Rājshāhi Division",
+      "zh": "拉傑沙希專區",
+      "el": "Διαίρεση Ρατζσάχι",
+      "ccp": "𑄢𑄌𑄴𑄥𑄦𑄨 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "eu": "Rajshahi dibisioa"
+    },
+    "comments": null
   },
   "G": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bg": "Силхет",
       "bn": "সিলেট বিভাগ",
@@ -2396,10 +3038,26 @@
       "ta": "சில்ஹெட் கோட்டம்",
       "uk": "Сілет",
       "ur": "سلہٹ ڈویژن",
-      "vi": "Sylhet"
-    }
+      "vi": "Sylhet",
+      "ceb": "Sylhet Division",
+      "zh": "錫爾赫特專區",
+      "ccp": "𑄥𑄨𑄣𑄬𑄖𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "eu": "Sylhet dibisioa"
+    },
+    "comments": null
   },
   "H": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bn": "ময়মনসিংহ বিভাগ",
       "de": "Maimansingh²",
@@ -2412,8 +3070,18 @@
       "ko": "마이멘싱 구",
       "ru": "Маймансингх",
       "ta": "மைமன்சிங் கோட்டம்",
-      "ur": "میمن سنگھ ڈویژن"
-    }
+      "ur": "میمن سنگھ ڈویژن",
+      "vi": "Mymensingh",
+      "zh": "迈门辛专区",
+      "el": "Διαίρεση Μίμενσινγκ",
+      "ccp": "𑄟𑄧𑄠𑄴𑄟𑄧𑄚𑄴𑄥𑄨𑄁𑄦𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "es": "Mymensingh²",
+      "eu": "Mymensingh dibisioa",
+      "uk": "Майменсінгх",
+      "ca": "Divisió de Mymensingh",
+      "mk": "Мајмансинг"
+    },
+    "comments": null
   }
 }
 

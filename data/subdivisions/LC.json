@@ -1,5 +1,16 @@
 {
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "حي أنس لا راي",
       "bn": "আন্স লা রায়ে কোয়ার্টার",
@@ -35,10 +46,27 @@
       "tr": "Anse la Raye (şehir)",
       "ur": "انسے لا رائے کوارٹر",
       "vi": "Anse la Raye",
-      "zh": "昂斯拉雷區"
-    }
+      "zh": "昂斯拉雷區",
+      "lv": "Anslavua",
+      "ceb": "Anse-la-Raye",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬 𑄣 𑄢𑄠𑄬",
+      "uk": "Анс-Лавуа",
+      "mk": "Анс ла Реј"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "حي دينيري",
       "bn": "ডেনিরি কোয়ার্টার",
@@ -73,10 +101,27 @@
       "th": "เขตเดนเนอรี",
       "tr": "Dennery (şehir)",
       "ur": "دیننیری کوارٹر",
-      "vi": "Dennery (quận)"
-    }
+      "vi": "Dennery (quận)",
+      "lv": "Denerī",
+      "ceb": "Dennery (baranggay)",
+      "zh": "登內里區",
+      "ccp": "𑄓𑄬𑄥𑄢𑄩",
+      "uk": "Денері"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "حي غروس إسليت",
       "bn": "গ্রোস ইজলেট কোয়ার্টার",
@@ -110,10 +155,28 @@
       "th": "โกร ไอส์เลต ควอเตอร์",
       "tr": "Gros Islet (şehir)",
       "ur": "گروس آئلیٹ کوارٹر",
-      "vi": "Gros Islet"
-    }
+      "vi": "Gros Islet",
+      "lv": "Grozilē",
+      "ceb": "Gros-Islet",
+      "zh": "格羅斯伊斯勒區",
+      "ccp": "𑄉𑄳𑄢𑄧𑄌𑄴 𑄃𑄭𑄌𑄴𑄣𑄬𑄖𑄴",
+      "uk": "Грос-Айлет",
+      "be": "Грос-Айлет"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "حي لابوري",
       "bn": "লেবুরি কোয়ার্টার",
@@ -148,10 +211,27 @@
       "th": "ลาบอรี ควอเตอร์",
       "tr": "Laborie",
       "ur": "لابوری کوارٹیر",
-      "vi": "Laborie"
-    }
+      "vi": "Laborie",
+      "lv": "Laborī",
+      "ceb": "Laborie (baranggay)",
+      "zh": "拉博列區",
+      "ccp": "𑄣𑄝𑄮𑄢𑄨",
+      "uk": "Лаборі"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "حي ميكود",
       "bn": "মাইকড কোয়ার্টার",
@@ -185,10 +265,27 @@
       "th": "มิคู ควอเตอร์",
       "tr": "Micoud (şehir)",
       "ur": "میکود کوارٹر",
-      "vi": "Micoud"
-    }
+      "vi": "Micoud",
+      "lv": "Mikū",
+      "ceb": "Micoud",
+      "zh": "米庫區",
+      "ccp": "𑄟𑄨𑄇𑄅𑄪𑄖𑄴",
+      "uk": "Міку"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "فيو فورت",
       "bn": "ভিয়ক্স ফোর্ট কোয়ার্টার",
@@ -222,10 +319,27 @@
       "th": "วิยู ฟอร์ท ควอเตอร์",
       "tr": "Vieux Fort",
       "ur": "ویو فورٹ کوارٹر",
-      "vi": "Vieux Fort"
-    }
+      "vi": "Vieux Fort",
+      "lv": "Vjēfora",
+      "ceb": "Vieux-Fort (baranggay)",
+      "zh": "伯堡區",
+      "ccp": "𑄞𑄭𑄠𑄬𑄇𑄴𑄥𑄴 𑄜𑄮𑄢𑄴𑄑𑄴",
+      "uk": "Вʼє-Форт"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزر الكناري",
       "bn": "কানারাইসে",
@@ -258,10 +372,28 @@
       "th": "คานารี่ เซนต์ ลูเซีย",
       "tr": "Canaries",
       "ur": "کناریز، سینٹ لوسیا",
-      "vi": "Canaries"
-    }
+      "vi": "Canaries",
+      "lv": "Kanarisa",
+      "ceb": "Canaries",
+      "lt": "Kanaris",
+      "zh": "卡納里斯",
+      "ccp": "𑄇𑄳𑄠𑄚𑄢𑄨𑄌𑄴",
+      "uk": "Канаріс"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Castries",
       "en": "Castries",
@@ -278,10 +410,25 @@
       "sv": "Castries (kvarter)",
       "tr": "Castries (şehir)",
       "ur": "کاستریس کوارٹر",
-      "vi": "Castries (quận)"
-    }
+      "vi": "Castries (quận)",
+      "ceb": "Castries (baranggay)",
+      "zh": "卡斯特里區",
+      "ccp": "𑄇𑄌𑄴𑄑𑄳𑄢𑄭𑄌𑄴"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Choiseul",
       "en": "Choiseul",
@@ -298,10 +445,25 @@
       "sv": "Choiseul (kvarter i Saint Lucia, lat 13,79, long -61,03)",
       "tr": "Choiseul (şehir)",
       "ur": "چویسول کوارٹر",
-      "vi": "Choiseul (quận)"
-    }
+      "vi": "Choiseul (quận)",
+      "ceb": "Choiseul (baranggay sa Saint Lucia, lat 13,79, long -61,03)",
+      "zh": "舒瓦瑟爾區",
+      "ccp": "𑄇𑄰𑄱𑄥𑄨𑄅𑄪𑄣𑄴"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Soufrière",
       "en": "Soufrière",
@@ -319,8 +481,12 @@
       "ru": "Суфриер",
       "sv": "Soufrière (kvarter)",
       "tr": "Soufrière",
-      "vi": "Soufrière"
-    }
+      "vi": "Soufrière",
+      "ceb": "Soufrière (baranggay)",
+      "zh": "蘇弗里耶爾區",
+      "ccp": "𑄥𑄯𑄜𑄳𑄢𑄭𑄠𑄢𑄴"
+    },
+    "comments": null
   }
 }
 

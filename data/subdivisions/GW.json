@@ -1,6 +1,16 @@
 {
   "BA": {
+    "name": "Bafatá",
+    "code": null,
     "unofficial_names": "Bafatá",
+    "geo": {
+      "latitude": 12.171944,
+      "longitude": -14.6575,
+      "min_latitude": 12.1559758,
+      "min_longitude": -14.6747733,
+      "max_latitude": 12.2007357,
+      "max_longitude": -14.6261502
+    },
     "translations": {
       "en": "Bafatá",
       "ar": "محافظة بافاتا",
@@ -39,20 +49,25 @@
       "uk": "Бафата",
       "ur": "بافاتا ریجن",
       "vi": "Khu vực Bafatá",
-      "zh": "巴法塔區"
+      "zh": "巴法塔區",
+      "lv": "Bafatas reģions",
+      "ceb": "Bafatá",
+      "ccp": "𑄝𑄜𑄑"
     },
-    "geo": {
-      "latitude": 12.171944,
-      "longitude": -14.6575,
-      "min_latitude": 12.1559758,
-      "min_longitude": -14.6747733,
-      "max_latitude": 12.2007357,
-      "max_longitude": -14.6261502
-    },
-    "name": "Bafatá"
+    "comments": null
   },
   "BL": {
+    "name": "Bolama",
+    "code": null,
     "unofficial_names": "Bolama",
+    "geo": {
+      "latitude": 11.5770712,
+      "longitude": -15.4800382,
+      "min_latitude": 11.5640396,
+      "min_longitude": -15.4946602,
+      "max_latitude": 11.5904801,
+      "max_longitude": -15.4710599
+    },
     "translations": {
       "en": "Bolama",
       "ar": "إقليم بولاما",
@@ -91,20 +106,26 @@
       "tr": "Bolama Bölgesi",
       "uk": "Болама",
       "ur": "بولاما ریجن",
-      "vi": "Khu vực Bolama"
+      "vi": "Khu vực Bolama",
+      "lv": "Bolamas reģions",
+      "ceb": "Bolama",
+      "zh": "博拉馬區",
+      "ccp": "𑄝𑄧𑄣𑄟"
     },
-    "geo": {
-      "latitude": 11.5770712,
-      "longitude": -15.4800382,
-      "min_latitude": 11.5640396,
-      "min_longitude": -15.4946602,
-      "max_latitude": 11.5904801,
-      "max_longitude": -15.4710599
-    },
-    "name": "Bolama"
+    "comments": null
   },
   "BM": {
+    "name": "Biombo",
+    "code": null,
     "unofficial_names": "Biombo",
+    "geo": {
+      "latitude": 11.8529061,
+      "longitude": -15.7351171,
+      "min_latitude": 11.7364393,
+      "min_longitude": -15.9681988,
+      "max_latitude": 12.026648,
+      "max_longitude": -15.6145911
+    },
     "translations": {
       "en": "Biombo",
       "ar": "إقليم بيومبو",
@@ -142,20 +163,26 @@
       "tr": "Biombo Region",
       "uk": "Біомбо",
       "ur": "بیومبو ریجن",
-      "vi": "Khu vực Biombo"
+      "vi": "Khu vực Biombo",
+      "lv": "Biombo reģions",
+      "ceb": "Biombo",
+      "zh": "比翁博區",
+      "ccp": "𑄝𑄭𑄃𑄮𑄟𑄴𑄝𑄮"
     },
-    "geo": {
-      "latitude": 11.8529061,
-      "longitude": -15.7351171,
-      "min_latitude": 11.7364393,
-      "min_longitude": -15.9681988,
-      "max_latitude": 12.026648,
-      "max_longitude": -15.6145911
-    },
-    "name": "Biombo"
+    "comments": null
   },
   "BS": {
+    "name": "Bissau",
+    "code": null,
     "unofficial_names": "Bissau",
+    "geo": {
+      "latitude": 11.8816553,
+      "longitude": -15.6177942,
+      "min_latitude": 11.8207819,
+      "min_longitude": -15.6621402,
+      "max_latitude": 11.9180031,
+      "max_longitude": -15.5579567
+    },
     "translations": {
       "en": "Bissau",
       "af": "Bissau",
@@ -214,22 +241,42 @@
       "tr": "Bissau",
       "uk": "Бісау",
       "ur": "بساؤ",
-      "vi": "Bissau"
+      "vi": "Bissau",
+      "cy": "Bissau",
+      "ceb": "Bissau Region",
+      "sr_Latn": "Bisao",
+      "zh": "比绍",
+      "yue_Hans": "比绍",
+      "jv": "Bissau",
+      "sq": "Bissau",
+      "ccp": "𑄝𑄨𑄥𑄪𑄅𑄪",
+      "ga": "Bissau",
+      "ky": "Бисау",
+      "so": "Bissau",
+      "pa": "ਬਿਸਾਊ",
+      "kk": "Бисау",
+      "yue": "比紹",
+      "yo": "Bissau",
+      "uz": "Bisau",
+      "bs": "Bissau",
+      "mk": "Бисао"
     },
-    "geo": {
-      "latitude": 11.8816553,
-      "longitude": -15.6177942,
-      "min_latitude": 11.8207819,
-      "min_longitude": -15.6621402,
-      "max_latitude": 11.9180031,
-      "max_longitude": -15.5579567
-    },
-    "name": "Bissau"
+    "comments": null
   },
   "CA": {
+    "name": "Cacheu",
+    "code": null,
     "unofficial_names": [
       "Cacheo"
     ],
+    "geo": {
+      "latitude": 12.2732631,
+      "longitude": -16.1669156,
+      "min_latitude": 12.2542116,
+      "min_longitude": -16.1758661,
+      "max_latitude": 12.2793106,
+      "max_longitude": -16.1526919
+    },
     "translations": {
       "en": "Cacheu",
       "ar": "اقليم كاشيو",
@@ -266,20 +313,27 @@
       "th": "เขตแคชู",
       "tr": "Cacheu",
       "ur": "کاشیو علاقہ",
-      "vi": "Khu vực Cacheu"
+      "vi": "Khu vực Cacheu",
+      "lv": "Kašeu reģions",
+      "ceb": "Cacheu Region",
+      "zh": "卡謝烏區",
+      "ccp": "𑄇𑄬𑄌𑄬𑄅𑄪",
+      "uk": "Регіон Кашеу"
     },
-    "geo": {
-      "latitude": 12.2732631,
-      "longitude": -16.1669156,
-      "min_latitude": 12.2542116,
-      "min_longitude": -16.1758661,
-      "max_latitude": 12.2793106,
-      "max_longitude": -16.1526919
-    },
-    "name": "Cacheu"
+    "comments": null
   },
   "GA": {
+    "name": "Gabú",
+    "code": null,
     "unofficial_names": "Gabú",
+    "geo": {
+      "latitude": 11.8962488,
+      "longitude": -14.1001326,
+      "min_latitude": 11.56273,
+      "min_longitude": -14.570715,
+      "max_latitude": 12.6777339,
+      "max_longitude": -13.6365221
+    },
     "translations": {
       "en": "Gabú",
       "ar": "لإقلين غابو",
@@ -316,20 +370,26 @@
       "th": "เขตกาบู",
       "tr": "Gabu Bölgesi",
       "ur": "گابو علاقہ",
-      "vi": "Khu vực Gabú"
+      "vi": "Khu vực Gabú",
+      "lv": "Gabu reģions",
+      "zh": "加布區",
+      "ccp": "𑄉𑄝𑄪",
+      "uk": "Регіон Габу"
     },
-    "geo": {
-      "latitude": 11.8962488,
-      "longitude": -14.1001326,
-      "min_latitude": 11.56273,
-      "min_longitude": -14.570715,
-      "max_latitude": 12.6777339,
-      "max_longitude": -13.6365221
-    },
-    "name": "Gabú"
+    "comments": null
   },
   "OI": {
+    "name": "Oio",
+    "code": null,
     "unofficial_names": "Oio",
+    "geo": {
+      "latitude": 12.2760709,
+      "longitude": -15.3131185,
+      "min_latitude": 11.890556,
+      "min_longitude": -15.765291,
+      "max_latitude": 12.680788,
+      "max_longitude": -14.841685
+    },
     "translations": {
       "en": "Oio",
       "ar": "إقليم أويو",
@@ -367,20 +427,27 @@
       "th": "เขตโอไอโอ",
       "tr": "Oio Bölgesi",
       "ur": "ویو ریجن",
-      "vi": "Khu vực Oio"
+      "vi": "Khu vực Oio",
+      "lv": "Oio reģions",
+      "ceb": "Oio Region",
+      "zh": "奧約區",
+      "ccp": "𑄃𑄮𑄃𑄰",
+      "uk": "Ойо"
     },
-    "geo": {
-      "latitude": 12.2760709,
-      "longitude": -15.3131185,
-      "min_latitude": 11.890556,
-      "min_longitude": -15.765291,
-      "max_latitude": 12.680788,
-      "max_longitude": -14.841685
-    },
-    "name": "Oio"
+    "comments": null
   },
   "QU": {
+    "name": "Quinara",
+    "code": null,
     "unofficial_names": "Quinara",
+    "geo": {
+      "latitude": 11.795562,
+      "longitude": -15.1726816,
+      "min_latitude": 11.3275232,
+      "min_longitude": -15.6142401,
+      "max_latitude": 11.9419759,
+      "max_longitude": -14.8287029
+    },
     "translations": {
       "en": "Quinara",
       "ar": "إقليم كوينارا",
@@ -418,20 +485,27 @@
       "th": "คิวนารา",
       "tr": "Quinara Bölgesi",
       "ur": "کوینارا علاقہ",
-      "vi": "Khu vực Quinara"
+      "vi": "Khu vực Quinara",
+      "lv": "Kinaras reģions",
+      "ceb": "Quinara",
+      "zh": "基納拉區",
+      "ccp": "𑄇𑄭𑄪𑄚𑄢",
+      "uk": "Регіон Кінара"
     },
-    "geo": {
-      "latitude": 11.795562,
-      "longitude": -15.1726816,
-      "min_latitude": 11.3275232,
-      "min_longitude": -15.6142401,
-      "max_latitude": 11.9419759,
-      "max_longitude": -14.8287029
-    },
-    "name": "Quinara"
+    "comments": null
   },
   "TO": {
+    "name": "Tombali",
+    "code": null,
     "unofficial_names": "Tombali",
+    "geo": {
+      "latitude": 11.300838,
+      "longitude": -15.409939,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Tombali",
       "ar": "إقليم تومبالي",
@@ -468,32 +542,71 @@
       "th": "ทอมบาลี",
       "tr": "Tombali Bölgesi",
       "ur": "تومبالی ریجن",
-      "vi": "Khu vực Tombali"
+      "vi": "Khu vực Tombali",
+      "lv": "Tombali reģions",
+      "ceb": "Tombali",
+      "zh": "通巴利區",
+      "ccp": "𑄑𑄟𑄴𑄝𑄣𑄨",
+      "uk": "Район Томбалі"
     },
+    "comments": null
+  },
+  "L": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 11.300838,
-      "longitude": -15.409939,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Tombali"
-  },
-  "L": {
     "translations": {
-      "en": "Leste"
-    }
+      "en": "Leste",
+      "ccp": "𑄣𑄬𑄌𑄴𑄑𑄬",
+      "de": "Provinz Leste"
+    },
+    "comments": null
   },
   "N": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Norte"
-    }
+      "en": "Norte",
+      "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬",
+      "de": "Provinz Norte"
+    },
+    "comments": null
   },
   "S": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Sul"
-    }
+      "en": "Sul",
+      "ccp": "𑄥𑄣𑄴",
+      "de": "Provinz Sul"
+    },
+    "comments": null
   }
 }
 

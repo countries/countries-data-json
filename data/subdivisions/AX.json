@@ -1,9 +1,8 @@
 {
   "211": {
+    "name": "Mariehamn",
+    "code": null,
     "unofficial_names": "Mariehamn",
-    "translations": {
-      "en": "Mariehamn"
-    },
     "geo": {
       "latitude": 60.08348,
       "longitude": 19.94307,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Mariehamn",
+    "translations": {
+      "en": "Mariehamn"
+    },
     "comments": null
   },
   "212": {
+    "name": "Alands landsbygd",
+    "code": null,
     "unofficial_names": "Alands landsbygd",
-    "translations": {
-      "en": "Alands landsbygd"
-    },
     "geo": {
       "latitude": 60.22496,
       "longitude": 19.93363,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Alands landsbygd",
+    "translations": {
+      "en": "Alands landsbygd"
+    },
     "comments": null
   },
   "213": {
+    "name": "Alands skaergard",
+    "code": null,
     "unofficial_names": "Alands skaergard",
-    "translations": {
-      "en": "Alands skaergard"
-    },
     "geo": {
       "latitude": 60.17575,
       "longitude": 20.71799,
@@ -44,7 +45,19 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Alands skaergard",
+    "translations": {
+      "en": "Alands skaergard"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Åland Islands"
+    },
     "comments": null
   }
 }

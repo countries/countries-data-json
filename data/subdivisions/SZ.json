@@ -1,6 +1,16 @@
 {
   "HH": {
+    "name": "Hhohho",
+    "code": null,
     "unofficial_names": "Hhohho",
+    "geo": {
+      "latitude": -26.1365662,
+      "longitude": 31.3541631,
+      "min_latitude": -26.475104,
+      "min_longitude": 30.908245,
+      "max_latitude": -25.7196479,
+      "max_longitude": 31.760738
+    },
     "translations": {
       "en": "Hhohho",
       "ar": "مقاطعة هوهو",
@@ -40,22 +50,29 @@
       "uk": "Хохо",
       "ur": "ہوہو علاقہ",
       "vi": "Quận Hhohho",
-      "zh": "霍霍"
+      "zh": "霍霍",
+      "lv": "Hoho reģions",
+      "ceb": "Hhohho District",
+      "sr_Latn": "Hoho",
+      "ccp": "𑄦𑄮𑄦𑄮",
+      "he": "מחוז האהוהאהו"
     },
-    "geo": {
-      "latitude": -26.1365662,
-      "longitude": 31.3541631,
-      "min_latitude": -26.475104,
-      "min_longitude": 30.908245,
-      "max_latitude": -25.7196479,
-      "max_longitude": 31.760738
-    },
-    "name": "Hhohho"
+    "comments": null
   },
   "LU": {
+    "name": "Lubombo",
+    "code": null,
     "unofficial_names": [
       "Lebombo"
     ],
+    "geo": {
+      "latitude": -26.7851773,
+      "longitude": 31.8107079,
+      "min_latitude": -27.1706039,
+      "min_longitude": 31.4920601,
+      "max_latitude": -25.93021,
+      "max_longitude": 32.13726
+    },
     "translations": {
       "en": "Lubombo",
       "ar": "مقاطعة لوبومبو",
@@ -92,20 +109,28 @@
       "tr": "Lubombo District",
       "uk": "Лубомбо",
       "ur": "لوبومبو علاقہ",
-      "vi": "Quận Lubombo"
+      "vi": "Quận Lubombo",
+      "lv": "Lubombo reģions",
+      "ceb": "Lubombo District",
+      "zh": "卢邦博",
+      "ccp": "𑄣𑄪𑄝𑄪𑄟𑄴𑄝𑄮",
+      "he": "מחוז לובומבו",
+      "ca": "Lubombo"
     },
-    "geo": {
-      "latitude": -26.7851773,
-      "longitude": 31.8107079,
-      "min_latitude": -27.1706039,
-      "min_longitude": 31.4920601,
-      "max_latitude": -25.93021,
-      "max_longitude": 32.13726
-    },
-    "name": "Lubombo"
+    "comments": null
   },
   "MA": {
+    "name": "Manzini",
+    "code": null,
     "unofficial_names": "Manzini",
+    "geo": {
+      "latitude": -26.644588,
+      "longitude": 31.3541631,
+      "min_latitude": -26.8945191,
+      "min_longitude": 30.794107,
+      "max_latitude": -26.1589679,
+      "max_longitude": 31.706045
+    },
     "translations": {
       "en": "Manzini",
       "ar": "مقاطعة منزيني",
@@ -142,20 +167,27 @@
       "tr": "Manzini District",
       "uk": "Манзіні",
       "ur": "مانزینی علاقہ",
-      "vi": "Quận Manzini"
+      "vi": "Quận Manzini",
+      "lv": "Manzini reģions",
+      "ceb": "Manzini District",
+      "zh": "曼齊尼區",
+      "ccp": "𑄟𑄚𑄴𑄎𑄨𑄚𑄨",
+      "he": "מחוז מנזיני"
     },
-    "geo": {
-      "latitude": -26.644588,
-      "longitude": 31.3541631,
-      "min_latitude": -26.8945191,
-      "min_longitude": 30.794107,
-      "max_latitude": -26.1589679,
-      "max_longitude": 31.706045
-    },
-    "name": "Manzini"
+    "comments": null
   },
   "SH": {
+    "name": "Shiselweni",
+    "code": null,
     "unofficial_names": "Shiselweni",
+    "geo": {
+      "latitude": -26.9827577,
+      "longitude": 31.3541631,
+      "min_latitude": -27.317101,
+      "min_longitude": 30.902433,
+      "max_latitude": -26.75172,
+      "max_longitude": 31.980196
+    },
     "translations": {
       "en": "Shiselweni",
       "ar": "مقاطعة شيزلويني",
@@ -193,17 +225,14 @@
       "tr": "Shiselweni District",
       "uk": "Шіселвені",
       "ur": "شیزلوینی علاقہ",
-      "vi": "Quận Shiselweni"
+      "vi": "Quận Shiselweni",
+      "lv": "Šiselveni reģions",
+      "ceb": "Shiselweni District",
+      "zh": "希塞卢韦尼",
+      "ccp": "𑄥𑄭𑄥𑄬𑄣𑄴𑄤𑄚𑄨",
+      "he": "מחוז שיסלוואני"
     },
-    "geo": {
-      "latitude": -26.9827577,
-      "longitude": 31.3541631,
-      "min_latitude": -27.317101,
-      "min_longitude": 30.902433,
-      "max_latitude": -26.75172,
-      "max_longitude": 31.980196
-    },
-    "name": "Shiselweni"
+    "comments": null
   }
 }
 

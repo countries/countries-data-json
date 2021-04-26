@@ -1,6 +1,16 @@
 {
   "67": {
+    "name": "Johnston Atoll",
+    "code": null,
     "unofficial_names": "Johnston Atoll",
+    "geo": {
+      "latitude": 16.7322716,
+      "longitude": -169.5308371,
+      "min_latitude": 16.7265491,
+      "min_longitude": -169.5434875,
+      "max_latitude": 16.7411327,
+      "max_longitude": -169.5171051
+    },
     "translations": {
       "en": "Johnston Atoll",
       "af": "Johnston-atol",
@@ -56,20 +66,30 @@
       "uk": "Джонстон",
       "ur": "جزیرہ جانسٹن",
       "vi": "Đảo Johnston",
-      "zh": "约翰斯顿环礁"
+      "zh": "约翰斯顿环礁",
+      "ceb": "Johnston Atoll",
+      "sr_Latn": "Atol Džonson",
+      "yue_Hans": "强斯顿环礁",
+      "jv": "Atol Johnston",
+      "ccp": "𑄎𑄧𑄚𑄴𑄑𑄧𑄚𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "yue": "強斯頓環礁",
+      "bs": "Atol Johnston",
+      "mk": "Џонстонов Атол"
     },
-    "geo": {
-      "latitude": 16.7322716,
-      "longitude": -169.5308371,
-      "min_latitude": 16.7265491,
-      "min_longitude": -169.5434875,
-      "max_latitude": 16.7411327,
-      "max_longitude": -169.5171051
-    },
-    "name": "Johnston Atoll"
+    "comments": null
   },
   "71": {
+    "name": "Midway Islands",
+    "code": null,
     "unofficial_names": "Midway Islands",
+    "geo": {
+      "latitude": 28.2100759,
+      "longitude": -177.3761105,
+      "min_latitude": 28.1950941,
+      "min_longitude": -177.3967235,
+      "max_latitude": 28.218655,
+      "max_longitude": -177.3599096
+    },
     "translations": {
       "en": "Midway Atoll",
       "af": "Midway-atol",
@@ -128,20 +148,35 @@
       "tr": "Midway Adası",
       "uk": "Мідвей",
       "ur": "جزیرہ مڈوے",
-      "vi": "Đảo san hô vòng Midway"
+      "vi": "Đảo san hô vòng Midway",
+      "ceb": "Midway Islands",
+      "sr_Latn": "Midvej",
+      "zh": "中途島",
+      "yue_Hans": "中途岛",
+      "jv": "Atol Midway",
+      "sq": "Miduej",
+      "ccp": "𑄟𑄨𑄖𑄴𑄃𑄮𑄠𑄬 𑄃𑄑𑄮𑄣𑄴",
+      "ky": "Мидуэй атоллу",
+      "kk": "Мидуэй",
+      "yue": "中途島",
+      "uz": "Midway",
+      "bs": "Atol Midway",
+      "mk": "Мидвејски Атол"
     },
-    "geo": {
-      "latitude": 28.2100759,
-      "longitude": -177.3761105,
-      "min_latitude": 28.1950941,
-      "min_longitude": -177.3967235,
-      "max_latitude": 28.218655,
-      "max_longitude": -177.3599096
-    },
-    "name": "Midway Islands"
+    "comments": null
   },
   "76": {
+    "name": "Navassa Island",
+    "code": null,
     "unofficial_names": "Navassa Island",
+    "geo": {
+      "latitude": 18.4100689,
+      "longitude": -75.0114612,
+      "min_latitude": 18.3965558,
+      "min_longitude": -75.02838129999999,
+      "max_latitude": 18.4211503,
+      "max_longitude": -75.0000572
+    },
     "translations": {
       "en": "Navassa Island",
       "af": "Navassa",
@@ -197,20 +232,36 @@
       "tr": "Navassa Adası",
       "uk": "Навасса",
       "ur": "جزیرہ ناواسا",
-      "vi": "Đảo Navassa"
+      "vi": "Đảo Navassa",
+      "ceb": "Navassa Island (administratibo nga pulo)",
+      "yo_BJ": "Erékùshù Navassa",
+      "sr_Latn": "Navasa",
+      "zh": "納弗沙島",
+      "yue_Hans": "纳弗沙岛",
+      "jv": "Pulo Navassa",
+      "ccp": "𑄚𑄞𑄥 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ky": "Навасса аралы",
+      "pa": "ਨਵਾਸ ਟਾਪੂ",
+      "kk": "Навасса аралы",
+      "yue": "納弗沙島",
+      "yo": "Erékùṣù Navassa",
+      "bs": "Ostrvo Navasa",
+      "mk": "Наваса"
     },
-    "geo": {
-      "latitude": 18.4100689,
-      "longitude": -75.0114612,
-      "min_latitude": 18.3965558,
-      "min_longitude": -75.02838129999999,
-      "max_latitude": 18.4211503,
-      "max_longitude": -75.0000572
-    },
-    "name": "Navassa Island"
+    "comments": null
   },
   "79": {
+    "name": "Wake Island",
+    "code": null,
     "unofficial_names": "Wake Island",
+    "geo": {
+      "latitude": 19.2823192,
+      "longitude": 166.647047,
+      "min_latitude": -0.3824678,
+      "min_longitude": 166.5989221,
+      "max_latitude": 28.3977184,
+      "max_longitude": -159.9849071
+    },
     "translations": {
       "en": "Wake Island",
       "af": "Wake-eiland",
@@ -266,20 +317,35 @@
       "tr": "Wake Adası",
       "uk": "Вейк",
       "ur": "جزیرہ ویک",
-      "vi": "Đảo Wake"
+      "vi": "Đảo Wake",
+      "ceb": "Wake Island",
+      "yo_BJ": "Erékùshù Wake",
+      "sr_Latn": "Vejk",
+      "zh": "威克島",
+      "yue_Hans": "威克岛",
+      "jv": "Pulo Wake",
+      "ccp": "𑄃𑄮𑄠𑄬𑄇𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "pa": "ਵੇਕ ਟਾਪੂ",
+      "kk": "Уэйк аралы",
+      "yue": "威克島",
+      "yo": "Erékùṣù Wake",
+      "bs": "Ostrvo Wake",
+      "mk": "Вејк"
     },
-    "geo": {
-      "latitude": 19.2823192,
-      "longitude": 166.647047,
-      "min_latitude": -0.3824678,
-      "min_longitude": 166.5989221,
-      "max_latitude": 28.3977184,
-      "max_longitude": -159.9849071
-    },
-    "name": "Wake Island"
+    "comments": null
   },
   "81": {
+    "name": "Baker Island",
+    "code": null,
     "unofficial_names": "Baker Island",
+    "geo": {
+      "latitude": 0.1936266,
+      "longitude": -176.476908,
+      "min_latitude": 0.1899033,
+      "min_longitude": -176.4867685,
+      "max_latitude": 0.2008295,
+      "max_longitude": -176.4701875
+    },
     "translations": {
       "en": "Baker Island",
       "af": "Baker-eiland",
@@ -334,20 +400,34 @@
       "tr": "Baker Adası",
       "uk": "Бейкер",
       "ur": "جزیرہ بیکر",
-      "vi": "Đảo Baker"
+      "vi": "Đảo Baker",
+      "ceb": "Baker Island (administratibo nga pulo)",
+      "yo_BJ": "Erékùshù Baker",
+      "sr_Latn": "Bejker",
+      "zh": "貝克島",
+      "yue_Hans": "贝克岛",
+      "jv": "Pulo Baker",
+      "ccp": "𑄝𑄇𑄬𑄢𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "kk": "Бейкер аралы",
+      "yue": "貝克島",
+      "yo": "Erékùṣù Baker",
+      "bs": "Ostrvo Baker",
+      "mk": "Бејкеров Остров"
     },
-    "geo": {
-      "latitude": 0.1936266,
-      "longitude": -176.476908,
-      "min_latitude": 0.1899033,
-      "min_longitude": -176.4867685,
-      "max_latitude": 0.2008295,
-      "max_longitude": -176.4701875
-    },
-    "name": "Baker Island"
+    "comments": null
   },
   "84": {
+    "name": "Howland Island",
+    "code": null,
     "unofficial_names": "Howland Island",
+    "geo": {
+      "latitude": 0.8113218999999999,
+      "longitude": -176.6182736,
+      "min_latitude": 0.7952522000000001,
+      "min_longitude": -176.6238443,
+      "max_latitude": 0.8192775000000001,
+      "max_longitude": -176.6115152
+    },
     "translations": {
       "en": "Howland Island",
       "af": "Howland-eiland",
@@ -402,20 +482,34 @@
       "tr": "Howland Adası",
       "uk": "Гауленд",
       "ur": "جزیرہ ہاولینڈ",
-      "vi": "Đảo Howland"
+      "vi": "Đảo Howland",
+      "ceb": "Howland Island (administratibo nga pulo)",
+      "yo_BJ": "Erékùshù Howland",
+      "sr_Latn": "Hauland",
+      "zh": "豪蘭島",
+      "yue_Hans": "豪兰岛",
+      "jv": "Pulo Howland",
+      "ccp": "𑄦𑄅𑄪𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "kk": "Хаулэнд аралы",
+      "yue": "豪蘭島",
+      "yo": "Erékùṣù Howland",
+      "bs": "Ostrvo Howland",
+      "mk": "Хауленд"
     },
-    "geo": {
-      "latitude": 0.8113218999999999,
-      "longitude": -176.6182736,
-      "min_latitude": 0.7952522000000001,
-      "min_longitude": -176.6238443,
-      "max_latitude": 0.8192775000000001,
-      "max_longitude": -176.6115152
-    },
-    "name": "Howland Island"
+    "comments": null
   },
   "86": {
+    "name": "Jarvis Island",
+    "code": null,
     "unofficial_names": "Jarvis Island",
+    "geo": {
+      "latitude": -0.3743503,
+      "longitude": -159.9967206,
+      "min_latitude": -0.3824678,
+      "min_longitude": -160.0134561,
+      "max_latitude": -0.3624568,
+      "max_longitude": -159.9849071
+    },
     "translations": {
       "en": "Jarvis Island",
       "af": "Jarvis-eiland",
@@ -471,20 +565,34 @@
       "tr": "Jarvis Adası",
       "uk": "Джарвіс",
       "ur": "جزیرہ جاروس",
-      "vi": "Đảo Jarvis"
+      "vi": "Đảo Jarvis",
+      "ceb": "Jarvis Island",
+      "yo_BJ": "Erékùshù Jarvis",
+      "sr_Latn": "Džarvis",
+      "zh": "賈維斯島",
+      "yue_Hans": "贾维斯岛",
+      "jv": "Pulo Jarvis",
+      "ccp": "𑄎𑄢𑄴𑄞𑄨𑄌𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "kk": "Джарвис аралы",
+      "yue": "賈維斯島",
+      "yo": "Erékùṣù Jarvis",
+      "bs": "Ostrvo Jarvis",
+      "mk": "Џарвисов Остров"
     },
-    "geo": {
-      "latitude": -0.3743503,
-      "longitude": -159.9967206,
-      "min_latitude": -0.3824678,
-      "min_longitude": -160.0134561,
-      "max_latitude": -0.3624568,
-      "max_longitude": -159.9849071
-    },
-    "name": "Jarvis Island"
+    "comments": null
   },
   "89": {
+    "name": "Kingman Reef",
+    "code": null,
     "unofficial_names": "Kingman Reef",
+    "geo": {
+      "latitude": 6.4331783,
+      "longitude": -162.387346,
+      "min_latitude": 6.3790511,
+      "min_longitude": -162.4195682,
+      "max_latitude": 6.4460001,
+      "max_longitude": -162.3323852
+    },
     "translations": {
       "en": "Kingman Reef",
       "af": "Kingman-rif",
@@ -540,20 +648,32 @@
       "tr": "Kingman Resifi",
       "uk": "Кінгмен",
       "ur": "کنگمین ریف",
-      "vi": "Đảo đá Kingman"
+      "vi": "Đảo đá Kingman",
+      "ceb": "Kingman Reef",
+      "sr_Latn": "Kingmen",
+      "zh": "金曼礁",
+      "yue_Hans": "金曼礁",
+      "jv": "Karang Kingman",
+      "ccp": "𑄇𑄨𑄁𑄟𑄳𑄠𑄚𑄴 𑄢𑄩𑄛𑄴",
+      "kk": "Кингмен рифы",
+      "yue": "金曼礁",
+      "bs": "Greben Kingman",
+      "mk": "Кингменов Гребен"
     },
-    "geo": {
-      "latitude": 6.4331783,
-      "longitude": -162.387346,
-      "min_latitude": 6.3790511,
-      "min_longitude": -162.4195682,
-      "max_latitude": 6.4460001,
-      "max_longitude": -162.3323852
-    },
-    "name": "Kingman Reef"
+    "comments": null
   },
   "95": {
+    "name": "Palmyra Atoll",
+    "code": null,
     "unofficial_names": "Palmyra Atoll",
+    "geo": {
+      "latitude": 5.883332999999999,
+      "longitude": -162.083333,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Palmyra Atoll",
       "af": "Palmyra-atol",
@@ -607,17 +727,32 @@
       "tr": "Palmyra Atolü",
       "uk": "Пальміра",
       "ur": "جزیرہ پالمیرا",
-      "vi": "Đảo san hô Palmyra"
+      "vi": "Đảo san hô Palmyra",
+      "ceb": "Palmyra Atoll (administratibo nga pulo)",
+      "sr_Latn": "Palmira",
+      "zh": "帕邁拉環礁",
+      "yue_Hans": "帕迈拉环礁",
+      "jv": "Atol Palmyra",
+      "ccp": "𑄛𑄣𑄴𑄟𑄭𑄢 𑄃𑄑𑄮𑄣𑄴",
+      "ky": "Пальмира атоллу",
+      "yue": "帕邁拉環礁",
+      "bs": "Atol Palmyra",
+      "mk": "Палмирски Атол"
     },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 5.883332999999999,
-      "longitude": -162.083333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "latitude": 3.1209046,
+      "longitude": 101.6538414
     },
-    "name": "Palmyra Atoll"
+    "translations": {
+      "en": "U.S. Outlying Islands"
+    },
+    "comments": null
   }
 }
 

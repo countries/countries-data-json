@@ -1,9 +1,8 @@
 {
   "C": {
+    "name": "Saint Croix",
+    "code": null,
     "unofficial_names": "Saint Croix",
-    "translations": {
-      "en": "Saint Croix"
-    },
     "geo": {
       "latitude": 17.73563,
       "longitude": -64.74795,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint Croix",
+    "translations": {
+      "en": "Saint Croix"
+    },
     "comments": null
   },
   "J": {
+    "name": "Saint John",
+    "code": null,
     "unofficial_names": "Saint John",
-    "translations": {
-      "en": "Saint John"
-    },
     "geo": {
       "latitude": 18.32758,
       "longitude": -64.73771,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint John",
+    "translations": {
+      "en": "Saint John"
+    },
     "comments": null
   },
   "T": {
+    "name": "Saint Thomas",
+    "code": null,
     "unofficial_names": "Saint Thomas",
-    "translations": {
-      "en": "Saint Thomas"
-    },
     "geo": {
       "latitude": 18.34537,
       "longitude": -64.92755,
@@ -44,7 +45,26 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Saint Thomas",
+    "translations": {
+      "en": "Saint Thomas"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 18.335765,
+      "longitude": -64.896335,
+      "min_latitude": 17.5482999,
+      "min_longitude": -65.1101,
+      "max_latitude": 18.4239,
+      "max_longitude": -64.4391
+    },
+    "translations": {
+      "en": "U.S. Virgin Islands"
+    },
     "comments": null
   }
 }

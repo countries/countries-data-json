@@ -1,9 +1,19 @@
 {
   "11": {
+    "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
+    "code": null,
     "unofficial_names": [
       "Seoul",
       "Soul"
     ],
+    "geo": {
+      "latitude": 37.566535,
+      "longitude": 126.9779692,
+      "min_latitude": 37.4259627,
+      "min_longitude": 126.7645827,
+      "max_latitude": 37.7017495,
+      "max_longitude": 127.18359
+    },
     "translations": {
       "en": "Seoul",
       "af": "Seoel",
@@ -68,22 +78,44 @@
       "uk": "Сеул",
       "ur": "سیول",
       "vi": "Seoul",
-      "zh": "首爾"
+      "zh": "首爾",
+      "cy": "Seoul",
+      "ceb": "Seoul",
+      "as": "ছিউল",
+      "sr_Latn": "Seul",
+      "yue_Hans": "首尔",
+      "jv": "Seoul",
+      "sq": "Seoul",
+      "ccp": "𑄥𑄨𑄅𑄪𑄣𑄴",
+      "ga": "Seoul",
+      "ky": "Сеул",
+      "ha": "Seoul",
+      "so": "Seoul",
+      "pa": "ਸਿਓਲ",
+      "kk": "Сеул",
+      "yue": "首爾",
+      "my": "ဆိုးလ်မြို့",
+      "yo": "Seoul",
+      "uz": "Seul",
+      "bs": "Seul",
+      "mk": "Сеул"
     },
-    "geo": {
-      "latitude": 37.566535,
-      "longitude": 126.9779692,
-      "min_latitude": 37.4259627,
-      "min_longitude": 126.7645827,
-      "max_latitude": 37.7017495,
-      "max_longitude": 127.18359
-    },
-    "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]"
+    "comments": null
   },
   "26": {
+    "name": "Busan Gwang'yeogsi [Pusan-Kwangyokshi]",
+    "code": null,
     "unofficial_names": [
       "Busan"
     ],
+    "geo": {
+      "latitude": 35.1795543,
+      "longitude": 129.0756416,
+      "min_latitude": 34.9835815,
+      "min_longitude": 128.787197,
+      "max_latitude": 35.3874414,
+      "max_longitude": 129.3100483
+    },
     "translations": {
       "en": "Busan",
       "af": "Busan",
@@ -139,22 +171,44 @@
       "tr": "Busan",
       "uk": "Пусан",
       "ur": "بوسان",
-      "vi": "Busan"
+      "vi": "Busan",
+      "cy": "Busan",
+      "ceb": "Busan (lalawigan)",
+      "sr_Latn": "Busan",
+      "zh": "釜山",
+      "yue_Hans": "釜山",
+      "jv": "Busan",
+      "sq": "Busan",
+      "ccp": "𑄝𑄪𑄥𑄚𑄴",
+      "ga": "Busan",
+      "ky": "Пусан",
+      "is": "Busan",
+      "ha": "Busan",
+      "sl": "Pusan",
+      "pa": "ਬੂਸਾਨ",
+      "kk": "Пусан",
+      "yue": "釜山",
+      "am": "ቡሳን",
+      "my": "ဘူဆန်မြို့",
+      "uz": "Pusan",
+      "mk": "Пусан"
     },
-    "geo": {
-      "latitude": 35.1795543,
-      "longitude": 129.0756416,
-      "min_latitude": 34.9835815,
-      "min_longitude": 128.787197,
-      "max_latitude": 35.3874414,
-      "max_longitude": 129.3100483
-    },
-    "name": "Busan Gwang'yeogsi [Pusan-Kwangyokshi]"
+    "comments": null
   },
   "27": {
+    "name": "Daegu Gwang'yeogsi [Taegu-Kwangyokshi]",
+    "code": null,
     "unofficial_names": [
       "Daegu"
     ],
+    "geo": {
+      "latitude": 35.8714354,
+      "longitude": 128.601445,
+      "min_latitude": 35.6071707,
+      "min_longitude": 128.3497208,
+      "max_latitude": 36.0172827,
+      "max_longitude": 128.7632175
+    },
     "translations": {
       "en": "Daegu",
       "af": "Daegu",
@@ -208,23 +262,35 @@
       "tr": "Daegu",
       "uk": "Тегу",
       "ur": "ڈائے گو",
-      "vi": "Daegu"
+      "vi": "Daegu",
+      "ceb": "Daegu (lalawigan)",
+      "sr_Latn": "Tegu",
+      "zh": "大邱廣域市",
+      "yue_Hans": "大邱",
+      "ccp": "𑄓𑄠𑄬𑄉𑄪",
+      "ka": "ტეგუ",
+      "ha": "Daegu",
+      "hr": "Daegu",
+      "kk": "Тэгу",
+      "yue": "大邱"
     },
-    "geo": {
-      "latitude": 35.8714354,
-      "longitude": 128.601445,
-      "min_latitude": 35.6071707,
-      "min_longitude": 128.3497208,
-      "max_latitude": 36.0172827,
-      "max_longitude": 128.7632175
-    },
-    "name": "Daegu Gwang'yeogsi [Taegu-Kwangyokshi]"
+    "comments": null
   },
   "28": {
+    "name": "Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]",
+    "code": null,
     "unofficial_names": [
       "Incheon",
       "Inchon"
     ],
+    "geo": {
+      "latitude": 37.4562557,
+      "longitude": 126.7052062,
+      "min_latitude": 37.0063057,
+      "min_longitude": 124.608139,
+      "max_latitude": 37.982666,
+      "max_longitude": 126.7936273
+    },
     "translations": {
       "en": "Incheon",
       "af": "Incheon",
@@ -277,22 +343,38 @@
       "tr": "İncheon",
       "uk": "Інчхон",
       "ur": "ان چیون",
-      "vi": "Incheon"
+      "vi": "Incheon",
+      "cy": "Incheon",
+      "ceb": "Incheon",
+      "sr_Latn": "Inčon",
+      "zh": "仁川廣域市",
+      "yue_Hans": "仁川",
+      "jv": "Incheon",
+      "ccp": "𑄃𑄨𑄚𑄴𑄥𑄨𑄠𑄧𑄚𑄴",
+      "ky": "Инчхон",
+      "ha": "Incheon",
+      "pa": "ਇਨਚਨ",
+      "kk": "Инчхон",
+      "yue": "仁川",
+      "my": "အင်ချွန်းမြို့",
+      "uz": "Inchxon"
     },
-    "geo": {
-      "latitude": 37.4562557,
-      "longitude": 126.7052062,
-      "min_latitude": 37.0063057,
-      "min_longitude": 124.608139,
-      "max_latitude": 37.982666,
-      "max_longitude": 126.7936273
-    },
-    "name": "Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]"
+    "comments": null
   },
   "29": {
+    "name": "Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]",
+    "code": null,
     "unofficial_names": [
       "Gwangju"
     ],
+    "geo": {
+      "latitude": 35.1595454,
+      "longitude": 126.8526012,
+      "min_latitude": 35.0508149,
+      "min_longitude": 126.6449036,
+      "max_latitude": 35.2589426,
+      "max_longitude": 127.0229414
+    },
     "translations": {
       "en": "Gwangju City",
       "af": "Gwangju",
@@ -345,24 +427,37 @@
       "tr": "Gwangju",
       "uk": "Кванджу",
       "ur": "گوانگ جو",
-      "vi": "Gwangju"
+      "vi": "Gwangju",
+      "cy": "Gwangju",
+      "ceb": "Gwangju (lalawigan)",
+      "sr_Latn": "Kvangdžu",
+      "zh": "光州廣域市",
+      "yue_Hans": "光州",
+      "jv": "Gwangju",
+      "ccp": "𑄉𑄧𑄁𑄎𑄪 𑄥𑄨𑄑𑄨",
+      "ky": "Кванже",
+      "kk": "Кванджу",
+      "yue": "光州",
+      "mk": "Квангџу"
     },
-    "geo": {
-      "latitude": 35.1595454,
-      "longitude": 126.8526012,
-      "min_latitude": 35.0508149,
-      "min_longitude": 126.6449036,
-      "max_latitude": 35.2589426,
-      "max_longitude": 127.0229414
-    },
-    "name": "Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]"
+    "comments": null
   },
   "30": {
+    "name": "Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]",
+    "code": null,
     "unofficial_names": [
       "Daejeon",
       "Taejeon",
       "Taejon"
     ],
+    "geo": {
+      "latitude": 36.3504119,
+      "longitude": 127.3845475,
+      "min_latitude": 36.1833708,
+      "min_longitude": 127.2464501,
+      "max_latitude": 36.4999477,
+      "max_longitude": 127.5590437
+    },
     "translations": {
       "en": "Daejeon",
       "af": "Daejeon",
@@ -413,20 +508,34 @@
       "tr": "Daejeon",
       "uk": "Теджон",
       "ur": "ڈائے جیون",
-      "vi": "Daejeon"
+      "vi": "Daejeon",
+      "ceb": "Daejeon (lalawigan)",
+      "sr_Latn": "Tedžon",
+      "zh": "大田广域市",
+      "yue_Hans": "大田",
+      "jv": "Daejeon",
+      "ccp": "𑄓𑄬𑄎𑄨𑄠𑄧𑄚𑄴",
+      "ha": "Daejeon",
+      "hr": "Daejeon",
+      "kk": "Тэджон",
+      "yue": "大田",
+      "uz": "Daejeon",
+      "mk": "Теџон"
     },
-    "geo": {
-      "latitude": 36.3504119,
-      "longitude": 127.3845475,
-      "min_latitude": 36.1833708,
-      "min_longitude": 127.2464501,
-      "max_latitude": 36.4999477,
-      "max_longitude": 127.5590437
-    },
-    "name": "Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]"
+    "comments": null
   },
   "31": {
+    "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
+    "code": null,
     "unofficial_names": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
+    "geo": {
+      "latitude": 35.5383773,
+      "longitude": 129.3113596,
+      "min_latitude": 35.3218658,
+      "min_longitude": 128.9756829,
+      "max_latitude": 35.7252482,
+      "max_longitude": 129.4666138
+    },
     "translations": {
       "en": "Ulsan",
       "af": "Ulsan",
@@ -475,20 +584,32 @@
       "tr": "Ulsan",
       "uk": "Ульсан",
       "ur": "السان",
-      "vi": "Ulsan"
+      "vi": "Ulsan",
+      "ceb": "Ulsan",
+      "sr_Latn": "Ulsan",
+      "zh": "蔚山广域市",
+      "yue_Hans": "蔚山",
+      "ccp": "𑄃𑄣𑄴𑄥𑄚𑄴",
+      "kk": "Ульсан",
+      "yue": "蔚山",
+      "az": "Ulsan",
+      "my": "အောလ်ဆန်မြို့",
+      "uz": "Ulsan"
     },
-    "geo": {
-      "latitude": 35.5383773,
-      "longitude": 129.3113596,
-      "min_latitude": 35.3218658,
-      "min_longitude": 128.9756829,
-      "max_latitude": 35.7252482,
-      "max_longitude": 129.4666138
-    },
-    "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]"
+    "comments": null
   },
   "41": {
+    "name": "Gyeonggido [Kyonggi-do]",
+    "code": null,
     "unofficial_names": "Gyeonggido [Kyonggi-do]",
+    "geo": {
+      "latitude": 37.41379999999999,
+      "longitude": 127.5183,
+      "min_latitude": 36.8939685,
+      "min_longitude": 126.3763885,
+      "max_latitude": 38.3026711,
+      "max_longitude": 127.8582527
+    },
     "translations": {
       "en": "Gyeonggi",
       "ar": "مقاطعة غيونغي",
@@ -534,22 +655,34 @@
       "tr": "Gyeonggi",
       "uk": "Провінція Кьонгі",
       "ur": "گیئونگی صوبہ",
-      "vi": "Gyeonggi"
+      "vi": "Gyeonggi",
+      "lv": "Kjongido",
+      "cy": "Talaith Gyeonggi",
+      "ceb": "Gyeonggi-do",
+      "zh": "京畿道",
+      "yue_Hans": "京畿道",
+      "ccp": "𑄉𑄭𑄠𑄮𑄚𑄴𑄉𑄨",
+      "ka": "კიონგიდო",
+      "eu": "Gyeonggi",
+      "kk": "Кёңгидо",
+      "yue": "京畿道"
     },
-    "geo": {
-      "latitude": 37.41379999999999,
-      "longitude": 127.5183,
-      "min_latitude": 36.8939685,
-      "min_longitude": 126.3763885,
-      "max_latitude": 38.3026711,
-      "max_longitude": 127.8582527
-    },
-    "name": "Gyeonggido [Kyonggi-do]"
+    "comments": null
   },
   "42": {
+    "name": "Gang'weondo [Kang-won-do]",
+    "code": null,
     "unofficial_names": [
       "Kangwon"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Gangwon",
       "ar": "مقاطعة غانغوون",
@@ -595,8 +728,27 @@
       "tr": "Kangvon",
       "uk": "Провінція Канвон",
       "ur": "گانگوان صوبہ",
-      "vi": "Gangwon"
+      "vi": "Gangwon",
+      "lv": "Kanvondo province",
+      "cy": "Talaith Gangwon",
+      "ceb": "Gangwon-do",
+      "zh": "江原道",
+      "yue_Hans": "江原道",
+      "ccp": "𑄉𑄳𑄠𑄁𑄤𑄚𑄴",
+      "eu": "Gangwon",
+      "kk": "Канвондо",
+      "yue": "江原道",
+      "be": "правінцыя Канвандо",
+      "mk": "Кангвон"
     },
+    "comments": null
+  },
+  "43": {
+    "name": "Chungcheongbugdo [Ch'ungch'ongbuk-do]",
+    "code": null,
+    "unofficial_names": [
+      "North Chungchong"
+    ],
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -605,12 +757,6 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Gang'weondo [Kang-won-do]"
-  },
-  "43": {
-    "unofficial_names": [
-      "North Chungchong"
-    ],
     "translations": {
       "en": "North Chungcheong",
       "ar": "تشنغتشونغ الشمالية",
@@ -655,22 +801,34 @@
       "tr": "Kuzey Çungçeong",
       "uk": "Північна провінція Чхунчхон",
       "ur": "شمالی چونگچیونگ صوبہ",
-      "vi": "Chungcheong Bắc"
+      "vi": "Chungcheong Bắc",
+      "lv": "Čhunčhonpukto province",
+      "cy": "Chungcheongbuk-do",
+      "ceb": "Chungcheongbuk-do",
+      "zh": "忠清北道",
+      "yue_Hans": "忠清北道",
+      "jv": "Chungcheong Utara",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄌𑄪𑄁𑄌𑄨𑄠𑄧𑄁",
+      "eu": "Ipar Chungcheong",
+      "yue": "忠清北道",
+      "be": "Чхунчхон-Пукто"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Chungcheongbugdo [Ch'ungch'ongbuk-do]"
+    "comments": null
   },
   "44": {
+    "name": "Chungcheongnamdo [Ch'ungch'ongnam-do]",
+    "code": null,
     "unofficial_names": [
       "South Chungchong"
     ],
+    "geo": {
+      "latitude": 36.5184,
+      "longitude": 126.8,
+      "min_latitude": 35.9806574,
+      "min_longitude": 125.9581375,
+      "max_latitude": 37.0618896,
+      "max_longitude": 127.6396353
+    },
     "translations": {
       "en": "South Chungcheong",
       "ar": "مقاطعة تشنغتشونغ الجنوبية",
@@ -715,23 +873,34 @@
       "tr": "Güney Çungçeong",
       "uk": "Південна провінція Чхунчхон",
       "ur": "جنوبی چونگچیونگ صوبہ",
-      "vi": "Chungcheong Nam"
+      "vi": "Chungcheong Nam",
+      "lv": "Čhunčhonnamdo province",
+      "cy": "Talaith De Chungcheong",
+      "ceb": "Chungcheongnam-do",
+      "zh": "忠清南道",
+      "yue_Hans": "忠清南道",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄌𑄪𑄁𑄌𑄨𑄠𑄧𑄁",
+      "eu": "Hego Chungcheong",
+      "kk": "Чхуңчхоң-Намдо",
+      "yue": "忠清南道"
     },
-    "geo": {
-      "latitude": 36.5184,
-      "longitude": 126.8,
-      "min_latitude": 35.9806574,
-      "min_longitude": 125.9581375,
-      "max_latitude": 37.0618896,
-      "max_longitude": 127.6396353
-    },
-    "name": "Chungcheongnamdo [Ch'ungch'ongnam-do]"
+    "comments": null
   },
   "45": {
+    "name": "Jeonrabugdo[Chollabuk-do]",
+    "code": null,
     "unofficial_names": [
       "Chollapuk",
       "North Cholla"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "North Jeolla",
       "ar": "مقاطعة جولا الشمالية",
@@ -776,8 +945,26 @@
       "tr": "Kuzey Jeolla Province",
       "uk": "Північна провінція Чолла",
       "ur": "شمالی جئولا صوبہ",
-      "vi": "Jeolla Bắc"
+      "vi": "Jeolla Bắc",
+      "lv": "Čollapukto province",
+      "cy": "Talaith Gogledd Jeolla",
+      "ceb": "Jeollabuk-do",
+      "zh": "全羅北道",
+      "yue_Hans": "全罗北道",
+      "jv": "Jeollabuk-do",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄎𑄨𑄠𑄮𑄣𑄳𑄦",
+      "eu": "Ipar Jeolla",
+      "kk": "Чолла-Пукто",
+      "yue": "全羅北道"
     },
+    "comments": null
+  },
+  "46": {
+    "name": "Jeonranamdo [Chollanam-do]",
+    "code": null,
+    "unofficial_names": [
+      "South Cholla"
+    ],
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -786,12 +973,6 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Jeonrabugdo[Chollabuk-do]"
-  },
-  "46": {
-    "unofficial_names": [
-      "South Cholla"
-    ],
     "translations": {
       "en": "South Jeolla",
       "ar": "مقاطعة جولا الجنوبية",
@@ -837,22 +1018,33 @@
       "tr": "Güney Jeolla",
       "uk": "Південна провінція Чолла",
       "ur": "جنوبی جئولا صوبہ",
-      "vi": "Jeolla Nam"
+      "vi": "Jeolla Nam",
+      "lv": "Čollanamdo province",
+      "cy": "Talaith De Jeolla",
+      "ceb": "Jeollanam-do",
+      "zh": "全羅南道",
+      "yue_Hans": "全罗南道",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄎𑄨𑄠𑄮𑄣𑄳𑄦",
+      "eu": "Hego Jeolla",
+      "kk": "Чолла-Намдо",
+      "yue": "全羅南道"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Jeonranamdo [Chollanam-do]"
+    "comments": null
   },
   "47": {
+    "name": "Gyeongsangbugdo [Kyongsangbuk-do]",
+    "code": null,
     "unofficial_names": [
       "North Kyongsang"
     ],
+    "geo": {
+      "latitude": 36.4919,
+      "longitude": 128.8889,
+      "min_latitude": 35.5664734,
+      "min_longitude": 127.7938878,
+      "max_latitude": 37.542778,
+      "max_longitude": 130.9232178
+    },
     "translations": {
       "en": "North Gyeongsang",
       "ar": "مقاطعة غيونغسانغ الشمالية",
@@ -897,22 +1089,34 @@
       "tr": "Kuzey Gyeongsang",
       "uk": "Північна провінція Кьонсан",
       "ur": "شمالی گیئونگسانگ صوبہ",
-      "vi": "Gyeongsang Bắc"
+      "vi": "Gyeongsang Bắc",
+      "lv": "Kjonsanpukto province",
+      "cy": "Talaith Gogledd Gyeongsang",
+      "ceb": "Gyeongsangbuk-do",
+      "zh": "庆尚北道",
+      "yue_Hans": "庆尚北道",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄎𑄨𑄠𑄧𑄁𑄥𑄁",
+      "eu": "Ipar Gyeongsang",
+      "kk": "Кёңсаң-Пукто",
+      "yue": "慶尚北道",
+      "be": "Кёнсан-Пукта"
     },
-    "geo": {
-      "latitude": 36.4919,
-      "longitude": 128.8889,
-      "min_latitude": 35.5664734,
-      "min_longitude": 127.7938878,
-      "max_latitude": 37.542778,
-      "max_longitude": 130.9232178
-    },
-    "name": "Gyeongsangbugdo [Kyongsangbuk-do]"
+    "comments": null
   },
   "48": {
+    "name": "Gyeongsangnamdo [Kyongsangnam-do]",
+    "code": null,
     "unofficial_names": [
       "Gyeongsangnamdo/ Kyongsang-namdo/ South Kyongsang"
     ],
+    "geo": {
+      "latitude": 35.4606,
+      "longitude": 128.2132,
+      "min_latitude": 34.5321655,
+      "min_longitude": 127.5622163,
+      "max_latitude": 35.9099572,
+      "max_longitude": 129.2198762
+    },
     "translations": {
       "en": "South Gyeongsang",
       "ar": "مقاطعة غيونغسانغ الجنوبية",
@@ -957,23 +1161,34 @@
       "tr": "Güney Gyeongsang",
       "uk": "Південна провінція Кьонсан",
       "ur": "جنوبی گیئونگسانگ صوبہ",
-      "vi": "Gyeongsang Nam"
+      "vi": "Gyeongsang Nam",
+      "lv": "Kjonsannamdo province",
+      "cy": "Talaith De Gyeongsang",
+      "ceb": "Gyeongsangnam-do",
+      "zh": "庆尚南道",
+      "yue_Hans": "庆尚南道",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄎𑄨𑄠𑄧𑄁𑄥𑄁",
+      "eu": "Hego Gyeongsang",
+      "kk": "Кёнсан-Намдо",
+      "yue": "慶尚南道"
     },
-    "geo": {
-      "latitude": 35.4606,
-      "longitude": 128.2132,
-      "min_latitude": 34.5321655,
-      "min_longitude": 127.5622163,
-      "max_latitude": 35.9099572,
-      "max_longitude": 129.2198762
-    },
-    "name": "Gyeongsangnamdo [Kyongsangnam-do]"
+    "comments": null
   },
   "49": {
+    "name": "Jejudo [Cheju-do]",
+    "code": null,
     "unofficial_names": [
       "Jeju",
       "Quelpart"
     ],
+    "geo": {
+      "latitude": 33.4890113,
+      "longitude": 126.4983023,
+      "min_latitude": 33.1061096,
+      "min_longitude": 126.1637192,
+      "max_latitude": 34.0062218,
+      "max_longitude": 126.9742813
+    },
     "translations": {
       "en": "Jeju",
       "ar": "مقاطعة جيجو",
@@ -1023,19 +1238,33 @@
       "tr": "Jeju",
       "uk": "Провінція Чеджу",
       "ur": "جیجو صوبہ",
-      "vi": "Jeju"
+      "vi": "Jeju",
+      "lv": "Čendžu",
+      "ceb": "Jeju-do",
+      "sr_Latn": "Čedžu",
+      "zh": "濟州特別自治道",
+      "yue_Hans": "济州特别自治道",
+      "jv": "Jejudo",
+      "ccp": "𑄎𑄬𑄎𑄪",
+      "kk": "Чеджудо",
+      "yue": "濟州特別自治道",
+      "az": "Çejudo adası",
+      "mk": "Чеџу"
     },
-    "geo": {
-      "latitude": 33.4890113,
-      "longitude": 126.4983023,
-      "min_latitude": 33.1061096,
-      "min_longitude": 126.1637192,
-      "max_latitude": 34.0062218,
-      "max_longitude": 126.9742813
-    },
-    "name": "Jejudo [Cheju-do]"
+    "comments": null
   },
   "50": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مدينة سيجونغ",
       "bn": "সেজং শহর",
@@ -1072,8 +1301,19 @@
       "th": "เมืองเซจง",
       "tr": "Sejong",
       "ur": "سیجونگ شہر",
-      "vi": "Sejong"
-    }
+      "vi": "Sejong",
+      "lv": "Sedžonga",
+      "ceb": "Sejong-si",
+      "zh": "世宗特別自治市",
+      "yue_Hans": "世宗特别自治市",
+      "ccp": "𑄥𑄬𑄎𑄧𑄁",
+      "hy": "Սեջոնգ",
+      "eu": "Sejong",
+      "kk": "Сечжон",
+      "uk": "Седжон",
+      "yue": "世宗特別自治市"
+    },
+    "comments": null
   }
 }
 

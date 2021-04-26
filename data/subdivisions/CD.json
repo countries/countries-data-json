@@ -1,8 +1,18 @@
 {
   "BC": {
+    "name": "Bas-Congo",
+    "code": null,
     "unofficial_names": [
       "Bas-Zaire"
     ],
+    "geo": {
+      "latitude": -5.2365685,
+      "longitude": 13.914399,
+      "min_latitude": -6.0573001,
+      "min_longitude": 12.206631,
+      "max_latitude": -4.279237999999999,
+      "max_longitude": 16.2585949
+    },
     "translations": {
       "en": "Bas-Congo",
       "ar": "الكونغو الوسطى",
@@ -46,23 +56,21 @@
       "uk": "Нижнє Конго",
       "ur": "زیریں-کانگو",
       "vi": "Bas-Congo",
-      "zh": "下刚果省"
+      "zh": "下刚果省",
+      "lv": "Centrālās Kongo province",
+      "ceb": "Province du Bas-Congo",
+      "fa": "کنگو مرکزی",
+      "ccp": "𑄝𑄌𑄴-𑄇𑄧𑄚𑄴𑄉𑄮",
+      "hy": "Ներքին Կոնգո",
+      "ca": "Província del Baix Congo",
+      "mk": "Долно Конго"
     },
-    "geo": {
-      "latitude": -5.2365685,
-      "longitude": 13.914399,
-      "min_latitude": -6.0573001,
-      "min_longitude": 12.206631,
-      "max_latitude": -4.279237999999999,
-      "max_longitude": 16.2585949
-    },
-    "name": "Bas-Congo"
+    "comments": null
   },
   "BN": {
+    "name": "Bandundu",
+    "code": null,
     "unofficial_names": "Bandundu",
-    "translations": {
-      "en": "Bandundu"
-    },
     "geo": {
       "latitude": -3.316667,
       "longitude": 17.366667,
@@ -71,10 +79,24 @@
       "max_latitude": -3.2987836,
       "max_longitude": 17.4044975
     },
-    "name": "Bandundu"
+    "translations": {
+      "en": "Bandundu",
+      "ccp": "𑄝𑄚𑄴𑄘𑄪𑄚𑄴𑄓𑄪"
+    },
+    "comments": null
   },
   "EQ": {
+    "name": "Équateur",
+    "code": null,
     "unofficial_names": "Équateur",
+    "geo": {
+      "latitude": 0.5640035999999999,
+      "longitude": 20.3308814,
+      "min_latitude": -2.529217,
+      "min_longitude": 16.5381639,
+      "max_latitude": 5.14574,
+      "max_longitude": 24.4267169
+    },
     "translations": {
       "en": "Équateur",
       "ar": "إكواتور",
@@ -113,25 +135,22 @@
       "th": "อเควเตอร์",
       "tr": "Equateur",
       "ur": "یقواتیور",
-      "vi": "Equateur"
+      "vi": "Equateur",
+      "lv": "Ekvators",
+      "lt": "Ekvatorius",
+      "zh": "赤道省",
+      "fa": "ایکواته",
+      "ccp": "𑄃𑄨𑄇𑄱𑄑𑄬𑄅𑄪𑄢𑄴",
+      "uk": "Екватор (Екваторіальна провінція)"
     },
-    "geo": {
-      "latitude": 0.5640035999999999,
-      "longitude": 20.3308814,
-      "min_latitude": -2.529217,
-      "min_longitude": 16.5381639,
-      "max_latitude": 5.14574,
-      "max_longitude": 24.4267169
-    },
-    "name": "Équateur"
+    "comments": null
   },
   "KA": {
+    "name": "Katanga",
+    "code": null,
     "unofficial_names": [
       "Shaba"
     ],
-    "translations": {
-      "en": "Katanga"
-    },
     "geo": {
       "latitude": -8.8851145,
       "longitude": 26.419389,
@@ -140,10 +159,24 @@
       "max_latitude": -4.999066,
       "max_longitude": 30.5928848
     },
-    "name": "Katanga"
+    "translations": {
+      "en": "Katanga",
+      "ccp": "𑄇𑄑𑄋𑄴𑄉"
+    },
+    "comments": null
   },
   "KE": {
+    "name": "Kasai-Oriental",
+    "code": null,
     "unofficial_names": "Kasai-Oriental",
+    "geo": {
+      "latitude": -2.8437453,
+      "longitude": 23.3823545,
+      "min_latitude": -7.9387741,
+      "min_longitude": 21.9100151,
+      "max_latitude": -1.738482,
+      "max_longitude": 26.265937
+    },
     "translations": {
       "en": "Kasaï-Oriental",
       "ar": "كاساي الشرقية",
@@ -185,20 +218,28 @@
       "tr": "Doğu Kasai",
       "uk": "Східне Касаї",
       "ur": "کاسائی-مشرقی",
-      "vi": "Kasai-Oriental"
+      "vi": "Kasai-Oriental",
+      "lv": "Austrumkaisai province",
+      "ceb": "Tshilenge District",
+      "zh": "东开赛省",
+      "fa": "کاسای",
+      "ccp": "𑄇𑄥𑄭-𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
+      "hy": "Արևելյան Կասայ"
     },
-    "geo": {
-      "latitude": -2.8437453,
-      "longitude": 23.3823545,
-      "min_latitude": -7.9387741,
-      "min_longitude": 21.9100151,
-      "max_latitude": -1.738482,
-      "max_longitude": 26.265937
-    },
-    "name": "Kasai-Oriental"
+    "comments": null
   },
   "KN": {
+    "name": "Kinshasa",
+    "code": null,
     "unofficial_names": "Kinshasa",
+    "geo": {
+      "latitude": -4.325,
+      "longitude": 15.322222,
+      "min_latitude": -4.5093664,
+      "min_longitude": 15.1764986,
+      "max_latitude": -4.2934483,
+      "max_longitude": 15.4694102
+    },
     "translations": {
       "en": "Kinshasa",
       "af": "Kinshasa",
@@ -258,23 +299,34 @@
       "tr": "Kinşasa",
       "uk": "Кіншаса",
       "ur": "کنشاسا",
-      "vi": "Kinshasa"
+      "vi": "Kinshasa",
+      "cy": "Kinshasa",
+      "ceb": "Kinshasa",
+      "sr_Latn": "Kinšasa",
+      "zh": "金夏沙",
+      "yue_Hans": "金沙萨",
+      "jv": "Kinshasa",
+      "sq": "Kinsasha",
+      "ccp": "𑄇𑄨𑄚𑄴𑄥𑄥",
+      "ga": "Kinshasa",
+      "ky": "Киншаса",
+      "ha": "Kinshasa",
+      "so": "Kinshasa",
+      "pa": "ਕਿਨਸ਼ਾਸਾ",
+      "kk": "Киншаса",
+      "yue": "金沙薩",
+      "my": "ကင်ရှာဆာမြို့",
+      "yo": "Kinshasa",
+      "uz": "Kinshasa",
+      "bs": "Kinshasa",
+      "mk": "Киншаса"
     },
-    "geo": {
-      "latitude": -4.325,
-      "longitude": 15.322222,
-      "min_latitude": -4.5093664,
-      "min_longitude": 15.1764986,
-      "max_latitude": -4.2934483,
-      "max_longitude": 15.4694102
-    },
-    "name": "Kinshasa"
+    "comments": null
   },
   "KW": {
+    "name": "Kasai-Occidental",
+    "code": null,
     "unofficial_names": "Kasai-Occidental",
-    "translations": {
-      "en": "Kasaï-Occidental"
-    },
     "geo": {
       "latitude": -5.320547299999999,
       "longitude": 21.8568586,
@@ -283,10 +335,24 @@
       "max_latitude": -2.338351,
       "max_longitude": 23.742881
     },
-    "name": "Kasai-Occidental"
+    "translations": {
+      "en": "Kasaï-Occidental",
+      "ccp": "𑄇𑄥𑄭-𑄃𑄧𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Maniema",
+    "code": null,
     "unofficial_names": "Maniema",
+    "geo": {
+      "latitude": -3.0730929,
+      "longitude": 26.0413889,
+      "min_latitude": -5.000742499999999,
+      "min_longitude": 24.456906,
+      "max_latitude": -0.082443,
+      "max_longitude": 28.8420401
+    },
     "translations": {
       "en": "Maniema",
       "ar": "مانيما",
@@ -329,20 +395,27 @@
       "tr": "Maniema",
       "uk": "Манієма",
       "ur": "مانیما",
-      "vi": "Maniema"
+      "vi": "Maniema",
+      "lv": "Maniema",
+      "ceb": "Province du Maniema",
+      "zh": "马涅马省",
+      "ccp": "𑄟𑄚𑄨𑄠𑄬𑄟",
+      "he": "מניימה"
     },
-    "geo": {
-      "latitude": -3.0730929,
-      "longitude": 26.0413889,
-      "min_latitude": -5.000742499999999,
-      "min_longitude": 24.456906,
-      "max_latitude": -0.082443,
-      "max_longitude": 28.8420401
-    },
-    "name": "Maniema"
+    "comments": null
   },
   "NK": {
+    "name": "Nord-Kivu",
+    "code": null,
     "unofficial_names": "Nord-Kivu",
+    "geo": {
+      "latitude": -0.7917729,
+      "longitude": 29.0459927,
+      "min_latitude": -2.0661759,
+      "min_longitude": 27.201624,
+      "max_latitude": 0.9623669,
+      "max_longitude": 29.984388
+    },
     "translations": {
       "en": "North Kivu",
       "ar": "كيفو الشمالية",
@@ -386,26 +459,23 @@
       "tr": "Kuzey Kivu",
       "uk": "Північне Ківу",
       "ur": "شمالی کیوو",
-      "vi": "Bắc Kivu"
+      "vi": "Bắc Kivu",
+      "lv": "Ziemeļu Kivu",
+      "ceb": "Province du Nord-Kivu",
+      "zh": "北基伍省",
+      "fa": "کیوو شمالی",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄨𑄞𑄪",
+      "az": "Şimali Kivu"
     },
-    "geo": {
-      "latitude": -0.7917729,
-      "longitude": 29.0459927,
-      "min_latitude": -2.0661759,
-      "min_longitude": 27.201624,
-      "max_latitude": 0.9623669,
-      "max_longitude": 29.984388
-    },
-    "name": "Nord-Kivu"
+    "comments": null
   },
   "OR": {
+    "name": "Orientale",
+    "code": null,
     "unofficial_names": [
       "Haut-Zaire",
       "Orientale"
     ],
-    "translations": {
-      "en": "Orientale"
-    },
     "geo": {
       "latitude": 1.6406296,
       "longitude": 26.419389,
@@ -414,10 +484,24 @@
       "max_latitude": 5.386098,
       "max_longitude": 31.2769461
     },
-    "name": "Orientale"
+    "translations": {
+      "en": "Orientale",
+      "ccp": "𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴"
+    },
+    "comments": null
   },
   "SK": {
+    "name": "Sud-Kivu",
+    "code": null,
     "unofficial_names": "Sud-Kivu",
+    "geo": {
+      "latitude": -3.011658,
+      "longitude": 28.299435,
+      "min_latitude": -4.9999781,
+      "min_longitude": 26.798393,
+      "max_latitude": -1.568222,
+      "max_longitude": 29.2644927
+    },
     "translations": {
       "en": "South Kivu",
       "ar": "كيفو الجنوبية",
@@ -459,19 +543,29 @@
       "tr": "Güney Kivu",
       "uk": "Південне Ківу",
       "ur": "جنوبی کیوو",
-      "vi": "Nam Kivu"
+      "vi": "Nam Kivu",
+      "lv": "Dienvidkivu",
+      "ceb": "South Kivu Province",
+      "zh": "南基伍省",
+      "fa": "سود کیوا",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄨𑄞𑄪",
+      "uz": "Janubiy Kivu",
+      "mk": "Јужно Киву"
     },
-    "geo": {
-      "latitude": -3.011658,
-      "longitude": 28.299435,
-      "min_latitude": -4.9999781,
-      "min_longitude": 26.798393,
-      "max_latitude": -1.568222,
-      "max_longitude": 29.2644927
-    },
-    "name": "Sud-Kivu"
+    "comments": null
   },
   "BU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Ніжняе Уэле",
       "bg": "Ба Уеле",
@@ -493,10 +587,26 @@
       "ru": "Нижнее Уэле",
       "sv": "Bas-Uele",
       "sw": "Mkoa wa Wele Chini",
-      "uk": "Нижнє Уеле"
-    }
+      "uk": "Нижнє Уеле",
+      "ceb": "Bas Uele",
+      "zh": "下韦莱省",
+      "ccp": "𑄝𑄌𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
+      "he": "מחוז אואלה תחתית"
+    },
+    "comments": null
   },
   "HK": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Верхняя Катанга",
       "bg": "О Катанга",
@@ -519,10 +629,26 @@
       "ru": "Верхняя Катанга",
       "sv": "Haut-Katanga",
       "sw": "Mkoa wa Katanga Juu",
-      "uk": "Верхня Катанга"
-    }
+      "uk": "Верхня Катанга",
+      "ceb": "Haut Katanga",
+      "zh": "上加丹加省",
+      "ccp": "𑄦𑄖𑄴-𑄇𑄑𑄁𑄉",
+      "hy": "Վերին Կատանգա"
+    },
+    "comments": null
   },
   "HL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Верхняе Ламамі",
       "bg": "О Ломами",
@@ -544,10 +670,26 @@
       "ru": "Верхнее Ломами",
       "sv": "Haut-Lomami",
       "sw": "Mkoa wa Lomami Juu",
-      "uk": "Верхнє Ломамі"
-    }
+      "uk": "Верхнє Ломамі",
+      "ceb": "Haut Lomami",
+      "zh": "上洛马米省",
+      "ccp": "𑄦𑄖𑄴-𑄣𑄧𑄟𑄟𑄨",
+      "hy": "Վերին Լոմամի"
+    },
+    "comments": null
   },
   "HU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Верхняе Уэле",
       "bg": "О Уеле",
@@ -569,10 +711,26 @@
       "ru": "Верхнее Уэле",
       "sv": "Haut-Uele",
       "sw": "Mkoa wa Wele Juu",
-      "uk": "Верхнє Уеле"
-    }
+      "uk": "Верхнє Уеле",
+      "ceb": "Haut Uele",
+      "zh": "上韦莱省",
+      "ccp": "𑄦𑄖𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
+      "hy": "Վերին Ուելե"
+    },
+    "comments": null
   },
   "KC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Лулуа",
       "bg": "Лулуа",
@@ -592,10 +750,28 @@
       "ru": "Лулуа",
       "sv": "Lulua",
       "sw": "Mkoa wa Lulua",
-      "uk": "Лулуа"
-    }
+      "uk": "Лулуа",
+      "ceb": "Lulua District",
+      "zh": "卢卢阿省",
+      "ccp": "𑄇𑄥𑄭 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "ka": "ლულუის პროვინცია",
+      "fi": "Keski-Kasai",
+      "it": "Provincia del Kasai Centrale"
+    },
+    "comments": null
   },
   "KG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Кванго",
       "bg": "Кванго",
@@ -612,10 +788,24 @@
       "ro": "Provincia Kwango",
       "ru": "Кванго",
       "sv": "Kwango",
-      "uk": "Кванго"
-    }
+      "uk": "Кванго",
+      "zh": "宽果省",
+      "ccp": "𑄇𑄧𑄠𑄪𑄁𑄉𑄮"
+    },
+    "comments": null
   },
   "KL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Квілу",
       "bg": "Квилу",
@@ -637,10 +827,26 @@
       "ro": "Provincia Kwilu",
       "ru": "Квилу",
       "sv": "Kwilu",
-      "uk": "Квілу"
-    }
+      "uk": "Квілу",
+      "ceb": "Kwilu (distrito)",
+      "zh": "奎卢省",
+      "ccp": "𑄇𑄧𑄃𑄨𑄣𑄪",
+      "hy": "Կվիլու"
+    },
+    "comments": null
   },
   "LO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Ламамі",
       "bg": "Ломами",
@@ -660,10 +866,25 @@
       "ro": "Provincia Lomami",
       "ru": "Ломами",
       "sv": "Lomami",
-      "uk": "Ломамі"
-    }
+      "uk": "Ломамі",
+      "zh": "洛马米省",
+      "ccp": "𑄣𑄧𑄟𑄟𑄨",
+      "ka": "ლომამის პროვინცია"
+    },
+    "comments": null
   },
   "LU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Луалаба",
       "bg": "Луалаба",
@@ -686,10 +907,24 @@
       "ru": "Луалаба (провинция)",
       "sv": "Lualaba (provins)",
       "sw": "Mkoa wa Lualaba",
-      "uk": "Луалаба"
-    }
+      "uk": "Луалаба",
+      "zh": "卢阿拉巴省",
+      "ccp": "𑄣𑄪𑄠𑄣𑄝"
+    },
+    "comments": null
   },
   "MN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Маі-Ндамбэ",
       "bg": "Ме Ндомбе",
@@ -709,10 +944,24 @@
       "ro": "Provincia Mai-Ndombe",
       "ru": "Маи-Ндомбе (провинция)",
       "sv": "Mai-Ndombe",
-      "uk": "Маї-Ндомбе"
-    }
+      "uk": "Маї-Ндомбе",
+      "zh": "马伊恩东贝省",
+      "ccp": "𑄟𑄭-𑄓𑄮𑄟𑄴𑄝𑄬"
+    },
+    "comments": null
   },
   "MO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Мангала",
       "bg": "Монгала",
@@ -733,10 +982,26 @@
       "ru": "Монгала",
       "sv": "Mongala",
       "sw": "Mkoa wa Mongala",
-      "uk": "Монгала"
-    }
+      "uk": "Монгала",
+      "ceb": "Mongala",
+      "zh": "蒙加拉省",
+      "ccp": "𑄟𑄧𑄁𑄉𑄧𑄣",
+      "nb": "Mongala"
+    },
+    "comments": null
   },
   "NU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Паўночнае Убангі",
       "bg": "Нор Убанги",
@@ -757,10 +1022,26 @@
       "ro": "Provincia Nord-Ubangi",
       "ru": "Северное Убанги",
       "sv": "Nord-Ubangi",
-      "uk": "Північне Убангі"
-    }
+      "uk": "Північне Убангі",
+      "ceb": "Nord Ubangi",
+      "zh": "北乌班吉省",
+      "ccp": "𑄚𑄧𑄢𑄳𑄓𑄴-𑄃𑄪𑄝𑄋𑄴𑄉𑄨",
+      "nb": "Nord-Ubangi"
+    },
+    "comments": null
   },
   "SA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Санкуру",
       "bg": "Санкуру",
@@ -780,10 +1061,26 @@
       "ru": "Санкуру",
       "sv": "Sankuru",
       "sw": "Mkoa wa Sankuru",
-      "uk": "Санкуру"
-    }
+      "uk": "Санкуру",
+      "ceb": "Sankuru",
+      "zh": "桑库鲁省",
+      "ccp": "𑄥𑄁𑄇𑄪𑄢𑄪",
+      "nb": "Sankuru"
+    },
+    "comments": null
   },
   "SU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Паўднёвае Убангі",
       "bg": "Сюд Убанги",
@@ -803,10 +1100,26 @@
       "ro": "Provincia Sud-Ubangi",
       "ru": "Южное Убанги",
       "sv": "Sud-Ubangi",
-      "uk": "Південне Убангі"
-    }
+      "uk": "Південне Убангі",
+      "ceb": "Sud Ubangi",
+      "zh": "南乌班吉省",
+      "ccp": "𑄥𑄖𑄴-𑄅𑄪𑄝𑄋𑄴𑄉𑄨",
+      "nb": "Sud-Ubangi"
+    },
+    "comments": null
   },
   "TA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Танганьіка",
       "bg": "Танганика",
@@ -828,10 +1141,25 @@
       "ru": "Танганьика",
       "sv": "Tanganyika",
       "sw": "Mkoa wa Tanganyika",
-      "uk": "Танганьїка"
-    }
+      "uk": "Танганьїка",
+      "ceb": "Kongolo Tanganyika District",
+      "zh": "坦噶尼喀省",
+      "ccp": "𑄑𑄋𑄴𑄉𑄚𑄨𑄠𑄇"
+    },
+    "comments": null
   },
   "TO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Чапо",
       "bg": "Чопо",
@@ -853,10 +1181,25 @@
       "ru": "Чопо",
       "sv": "Tshopo",
       "sw": "Mkoa wa Tshopo",
-      "uk": "Чопо"
-    }
+      "uk": "Чопо",
+      "ceb": "Tshopo",
+      "zh": "乔波省",
+      "ccp": "𑄥𑄮𑄛𑄮"
+    },
+    "comments": null
   },
   "TU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Правінцыя Чуапа",
       "bg": "Чуапа",
@@ -878,15 +1221,44 @@
       "ru": "Чуапа",
       "sv": "Tshuapa",
       "sw": "Mkoa wa Tshuapa",
-      "uk": "Чуапа"
-    }
+      "uk": "Чуапа",
+      "ceb": "Tshuapa",
+      "zh": "楚阿帕省",
+      "ccp": "𑄥𑄪𑄠𑄛"
+    },
+    "comments": null
   },
   "IT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Ituri"
-    }
+      "en": "Ituri",
+      "zh": "伊图里临时行政区",
+      "ccp": "𑄃𑄭𑄑𑄪𑄢𑄨"
+    },
+    "comments": null
   },
   "KS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Kasaï",
       "fr": "Kasaï",
@@ -899,8 +1271,10 @@
       "ro": "Provincia Kasaï",
       "ru": "Касаи",
       "sv": "Kasaï",
-      "uk": "Касаї"
-    }
+      "uk": "Касаї",
+      "ccp": "𑄇𑄥𑄭"
+    },
+    "comments": null
   }
 }
 

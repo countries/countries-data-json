@@ -1,6 +1,16 @@
 {
   "BR": {
+    "name": "Brava",
+    "code": null,
     "unofficial_names": "Brava",
+    "geo": {
+      "latitude": 14.8661257,
+      "longitude": -24.7024179,
+      "min_latitude": 14.8026825,
+      "min_longitude": -24.7488499,
+      "max_latitude": 14.979173,
+      "max_longitude": -24.640837
+    },
     "translations": {
       "en": "Brava",
       "ar": "برافا",
@@ -33,20 +43,27 @@
       "th": "บราวา",
       "tr": "Brava",
       "ur": "براوا",
-      "vi": "Brava"
+      "vi": "Brava",
+      "lv": "Brava",
+      "lt": "Brava",
+      "zh": "布拉瓦島縣",
+      "ccp": "𑄝𑄳𑄢𑄞",
+      "uk": "Брава"
     },
-    "geo": {
-      "latitude": 14.8661257,
-      "longitude": -24.7024179,
-      "min_latitude": 14.8026825,
-      "min_longitude": -24.7488499,
-      "max_latitude": 14.979173,
-      "max_longitude": -24.640837
-    },
-    "name": "Brava"
+    "comments": null
   },
   "BV": {
+    "name": "Boa Vista",
+    "code": null,
     "unofficial_names": "Boa Vista",
+    "geo": {
+      "latitude": 16.1372504,
+      "longitude": -22.858217,
+      "min_latitude": 15.9687814,
+      "min_longitude": -22.9649422,
+      "max_latitude": 16.2250611,
+      "max_longitude": -22.6695356
+    },
     "translations": {
       "en": "Boa Vista",
       "ar": "بوا فيستا",
@@ -79,20 +96,28 @@
       "th": "เบา วิสตา",
       "tr": "Boa Vista",
       "ur": "بوا وسٹا",
-      "vi": "Boa Vista"
+      "vi": "Boa Vista",
+      "lv": "Boavišta",
+      "lt": "Boa Vista",
+      "zh": "博阿維斯塔島縣",
+      "ccp": "𑄝𑄮𑄠 𑄞𑄨𑄌𑄴𑄑",
+      "ro": "Municipalitatea Boa Vista, Capul Verde",
+      "uk": "Боа-Вішта"
     },
-    "geo": {
-      "latitude": 16.1372504,
-      "longitude": -22.858217,
-      "min_latitude": 15.9687814,
-      "min_longitude": -22.9649422,
-      "max_latitude": 16.2250611,
-      "max_longitude": -22.6695356
-    },
-    "name": "Boa Vista"
+    "comments": null
   },
   "CA": {
+    "name": "Santa Catarina",
+    "code": null,
     "unofficial_names": "Santa Catarina",
+    "geo": {
+      "latitude": 15.0992532,
+      "longitude": -23.6918783,
+      "min_latitude": 14.9808349,
+      "min_longitude": -23.7812941,
+      "max_latitude": 15.199731,
+      "max_longitude": -23.6272161
+    },
     "translations": {
       "en": "Santa Catarina",
       "ar": "سانتا كاتارينا",
@@ -127,20 +152,28 @@
       "th": "ปาร์มา",
       "tr": "Santa Catarina",
       "ur": "سنتا کاتارینا",
-      "vi": "Santa Catarina"
+      "vi": "Santa Catarina",
+      "lv": "Santakatarina",
+      "ceb": "Concelho de Santa Catarina",
+      "zh": "聖卡塔琳娜縣",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄠𑄑𑄢𑄨𑄚",
+      "he": "סנטה קטרינה",
+      "uk": "Санта-Катаріна"
     },
-    "geo": {
-      "latitude": 15.0992532,
-      "longitude": -23.6918783,
-      "min_latitude": 14.9808349,
-      "min_longitude": -23.7812941,
-      "max_latitude": 15.199731,
-      "max_longitude": -23.6272161
-    },
-    "name": "Santa Catarina"
+    "comments": null
   },
   "CR": {
+    "name": "Santa Cruz",
+    "code": null,
     "unofficial_names": "Santa Cruz",
+    "geo": {
+      "latitude": 15.1027292,
+      "longitude": -23.5609459,
+      "min_latitude": 15.041449,
+      "min_longitude": -23.639359,
+      "max_latitude": 15.1868812,
+      "max_longitude": -23.4919112
+    },
     "translations": {
       "en": "Santa Cruz",
       "ar": "سانتا كروز",
@@ -176,23 +209,19 @@
       "th": "ซานตาครูซ",
       "tr": "Santa Cruz",
       "ur": "سنتا کروز",
-      "vi": "Santa Cruz"
+      "vi": "Santa Cruz",
+      "lv": "Santakruza",
+      "ceb": "Santa Cruz",
+      "zh": "聖克魯斯縣",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄢𑄪𑄌𑄴",
+      "uk": "Санта-Круз"
     },
-    "geo": {
-      "latitude": 15.1027292,
-      "longitude": -23.5609459,
-      "min_latitude": 15.041449,
-      "min_longitude": -23.639359,
-      "max_latitude": 15.1868812,
-      "max_longitude": -23.4919112
-    },
-    "name": "Santa Cruz"
+    "comments": null
   },
   "CS": {
+    "name": "Calheta de São Miguel",
+    "code": null,
     "unofficial_names": "Calheta de São Miguel",
-    "translations": {
-      "en": "Calheta de São Miguel"
-    },
     "geo": {
       "latitude": 15.1875,
       "longitude": -23.593,
@@ -201,10 +230,23 @@
       "max_latitude": 15.1908814,
       "max_longitude": -23.5874318
     },
-    "name": "Calheta de São Miguel"
+    "translations": {
+      "en": "Calheta de São Miguel"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Maio",
+    "code": null,
     "unofficial_names": "Maio",
+    "geo": {
+      "latitude": 15.2003098,
+      "longitude": -23.1679793,
+      "min_latitude": 15.118355,
+      "min_longitude": -23.2338931,
+      "max_latitude": 15.3377624,
+      "max_longitude": -23.0840044
+    },
     "translations": {
       "en": "Maio",
       "ca": "Maio",
@@ -215,20 +257,26 @@
       "ja": "マイオ (カーボベルデ)",
       "ko": "마이우 시",
       "nl": "Maio",
-      "pt": "Maio"
+      "pt": "Maio",
+      "ceb": "Concelho do Maio",
+      "ur": "مائیو، کیپ ورڈی",
+      "zh": "馬約島縣",
+      "ccp": "𑄟𑄭𑄃𑄮"
     },
-    "geo": {
-      "latitude": 15.2003098,
-      "longitude": -23.1679793,
-      "min_latitude": 15.118355,
-      "min_longitude": -23.2338931,
-      "max_latitude": 15.3377624,
-      "max_longitude": -23.0840044
-    },
-    "name": "Maio"
+    "comments": null
   },
   "MO": {
+    "name": "Mosteiros",
+    "code": null,
     "unofficial_names": "Mosteiros",
+    "geo": {
+      "latitude": 15.034,
+      "longitude": -24.325,
+      "min_latitude": 15.023137,
+      "min_longitude": -24.3313264,
+      "max_latitude": 15.0359258,
+      "max_longitude": -24.3187952
+    },
     "translations": {
       "en": "Mosteiros",
       "ar": "موستيروس، الرأس الأخضر",
@@ -262,20 +310,27 @@
       "th": "มอสเตอร์รอส",
       "tr": "Mosteiros",
       "ur": "موستییروس",
-      "vi": "Mosteiros"
+      "vi": "Mosteiros",
+      "lv": "Mosteiros",
+      "ceb": "Concelho dos Mosteiros",
+      "zh": "莫什泰魯什縣",
+      "ccp": "𑄟𑄧𑄌𑄴𑄑𑄬𑄭𑄢𑄮𑄌𑄴",
+      "uk": "Моштейруш"
     },
-    "geo": {
-      "latitude": 15.034,
-      "longitude": -24.325,
-      "min_latitude": 15.023137,
-      "min_longitude": -24.3313264,
-      "max_latitude": 15.0359258,
-      "max_longitude": -24.3187952
-    },
-    "name": "Mosteiros"
+    "comments": null
   },
   "PA": {
+    "name": "Paúl",
+    "code": null,
     "unofficial_names": "Paúl",
+    "geo": {
+      "latitude": 17.1005359,
+      "longitude": -24.9872821,
+      "min_latitude": 17.0717081,
+      "min_longitude": -25.075462,
+      "max_latitude": 17.153166,
+      "max_longitude": -24.967329
+    },
     "translations": {
       "en": "Paul",
       "ar": "بول",
@@ -310,20 +365,27 @@
       "th": "พอล",
       "tr": "Paul",
       "ur": "پال",
-      "vi": "Paul"
+      "vi": "Paul",
+      "lv": "Paula",
+      "ceb": "Concelho do Paul",
+      "zh": "保爾縣",
+      "ccp": "𑄛𑄧𑄣𑄴",
+      "uk": "Поль"
     },
-    "geo": {
-      "latitude": 17.1005359,
-      "longitude": -24.9872821,
-      "min_latitude": 17.0717081,
-      "min_longitude": -25.075462,
-      "max_latitude": 17.153166,
-      "max_longitude": -24.967329
-    },
-    "name": "Paúl"
+    "comments": null
   },
   "PN": {
+    "name": "Porto Novo",
+    "code": null,
     "unofficial_names": "Porto Novo",
+    "geo": {
+      "latitude": 16.9911107,
+      "longitude": -25.2363408,
+      "min_latitude": 16.9104722,
+      "min_longitude": -25.3556249,
+      "max_latitude": 17.1292379,
+      "max_longitude": -24.979912
+    },
     "translations": {
       "en": "Porto Novo",
       "ar": "بورتو نوفو",
@@ -358,20 +420,27 @@
       "th": "คีชีเนา",
       "tr": "Porto Novo",
       "ur": "پورٹو نووو",
-      "vi": "Porto Novo"
+      "vi": "Porto Novo",
+      "lv": "Portonovu",
+      "ceb": "Porto Novo",
+      "zh": "波多諾伏縣",
+      "ccp": "𑄛𑄧𑄢𑄴𑄑𑄮 𑄚𑄮𑄞𑄮",
+      "uk": "Порто-Ново"
     },
-    "geo": {
-      "latitude": 16.9911107,
-      "longitude": -25.2363408,
-      "min_latitude": 16.9104722,
-      "min_longitude": -25.3556249,
-      "max_latitude": 17.1292379,
-      "max_longitude": -24.979912
-    },
-    "name": "Porto Novo"
+    "comments": null
   },
   "PR": {
+    "name": "Praia",
+    "code": null,
     "unofficial_names": "Praia",
+    "geo": {
+      "latitude": 14.95,
+      "longitude": -23.52,
+      "min_latitude": 14.9001745,
+      "min_longitude": -23.5428429,
+      "max_latitude": 14.9727297,
+      "max_longitude": -23.4706162
+    },
     "translations": {
       "en": "Praia",
       "ar": "برايا",
@@ -405,22 +474,32 @@
       "th": "ไปรอา",
       "tr": "Praia",
       "ur": "پرایا",
-      "vi": "Praia"
+      "vi": "Praia",
+      "lv": "Praja",
+      "ceb": "Concelho da Praia",
+      "lt": "Praja",
+      "zh": "普拉亞縣",
+      "ccp": "𑄛𑄳𑄢𑄭𑄠",
+      "ro": "Municipalitatea Praia, Capul Verde",
+      "uk": "Прая",
+      "be": "Прая"
     },
-    "geo": {
-      "latitude": 14.95,
-      "longitude": -23.52,
-      "min_latitude": 14.9001745,
-      "min_longitude": -23.5428429,
-      "max_latitude": 14.9727297,
-      "max_longitude": -23.4706162
-    },
-    "name": "Praia"
+    "comments": null
   },
   "RG": {
+    "name": "Ribeira Grande",
+    "code": null,
     "unofficial_names": [
       "Santiago"
     ],
+    "geo": {
+      "latitude": 17.1601387,
+      "longitude": -25.1177654,
+      "min_latitude": 17.077749,
+      "min_longitude": -25.2308923,
+      "max_latitude": 17.199805,
+      "max_longitude": -25.0201209
+    },
     "translations": {
       "en": "Ribeira Grande",
       "ar": "ريبيرا غراندي",
@@ -455,20 +534,27 @@
       "th": "จังหวัดเบเนเวนโต",
       "tr": "Riberie GRande",
       "ur": "ریبییرا جراندی",
-      "vi": "Ribeira Grande"
+      "vi": "Ribeira Grande",
+      "lv": "Ribeiragrandi",
+      "ceb": "Concelho da Ribeira Grande",
+      "zh": "大里貝拉縣",
+      "ccp": "𑄢𑄨𑄝𑄬𑄭𑄢 𑄉𑄳𑄢𑄚𑄴𑄓𑄬",
+      "uk": "Рібейра-Гранде"
     },
-    "geo": {
-      "latitude": 17.1601387,
-      "longitude": -25.1177654,
-      "min_latitude": 17.077749,
-      "min_longitude": -25.2308923,
-      "max_latitude": 17.199805,
-      "max_longitude": -25.0201209
-    },
-    "name": "Ribeira Grande"
+    "comments": null
   },
   "SD": {
+    "name": "São Domingos",
+    "code": null,
     "unofficial_names": "São Domingos",
+    "geo": {
+      "latitude": 15.025,
+      "longitude": -23.5625,
+      "min_latitude": 15.0196346,
+      "min_longitude": -23.5748148,
+      "max_latitude": 15.0340585,
+      "max_longitude": -23.552177
+    },
     "translations": {
       "en": "São Domingos",
       "ar": "ساو دومينغوس",
@@ -503,20 +589,27 @@
       "th": "เซา โดมินโกส",
       "tr": "Sao Domingos",
       "ur": "ساؤ دومینجوس",
-      "vi": "Sao Domingos"
+      "vi": "Sao Domingos",
+      "lv": "Sandomigusa",
+      "ceb": "Concelho de São Domingos",
+      "zh": "聖多明戈斯縣",
+      "ccp": "𑄥𑄃𑄮 𑄓𑄮𑄟𑄨𑄚𑄴𑄉𑄮𑄌𑄴",
+      "uk": "Сан-Домінгос"
     },
-    "geo": {
-      "latitude": 15.025,
-      "longitude": -23.5625,
-      "min_latitude": 15.0196346,
-      "min_longitude": -23.5748148,
-      "max_latitude": 15.0340585,
-      "max_longitude": -23.552177
-    },
-    "name": "São Domingos"
+    "comments": null
   },
   "SF": {
+    "name": "São Filipe",
+    "code": null,
     "unofficial_names": "São Filipe",
+    "geo": {
+      "latitude": 14.895,
+      "longitude": -24.498,
+      "min_latitude": 14.8795941,
+      "min_longitude": -24.5021173,
+      "max_latitude": 14.9068766,
+      "max_longitude": -24.4744921
+    },
     "translations": {
       "en": "São Filipe",
       "ar": "ساو فيليب",
@@ -550,20 +643,27 @@
       "th": "เซา ฟิลิเป้",
       "tr": "Sao Filipe",
       "ur": "ساؤ فیلیپی",
-      "vi": "São Filipe"
+      "vi": "São Filipe",
+      "lv": "Sanfilipi",
+      "ceb": "Concelho do São Filipe",
+      "zh": "聖菲利佩縣",
+      "ccp": "𑄥𑄃𑄮 𑄜𑄨𑄣𑄨𑄛𑄴",
+      "uk": "Сан-Філіпе"
     },
-    "geo": {
-      "latitude": 14.895,
-      "longitude": -24.498,
-      "min_latitude": 14.8795941,
-      "min_longitude": -24.5021173,
-      "max_latitude": 14.9068766,
-      "max_longitude": -24.4744921
-    },
-    "name": "São Filipe"
+    "comments": null
   },
   "SL": {
+    "name": "Sal",
+    "code": null,
     "unofficial_names": "Sal",
+    "geo": {
+      "latitude": 16.7266152,
+      "longitude": -22.9297109,
+      "min_latitude": 16.5853415,
+      "min_longitude": -22.9942131,
+      "max_latitude": 16.8537251,
+      "max_longitude": -22.8727016
+    },
     "translations": {
       "en": "Sal",
       "ar": "سال",
@@ -597,23 +697,20 @@
       "th": "ซาล",
       "tr": "Sal",
       "ur": "سال",
-      "vi": "Sal"
+      "vi": "Sal",
+      "lv": "Sala",
+      "ceb": "Sal Municipality",
+      "lt": "Salas",
+      "zh": "薩爾縣",
+      "ccp": "𑄥𑄣𑄴",
+      "uk": "Сал"
     },
-    "geo": {
-      "latitude": 16.7266152,
-      "longitude": -22.9297109,
-      "min_latitude": 16.5853415,
-      "min_longitude": -22.9942131,
-      "max_latitude": 16.8537251,
-      "max_longitude": -22.8727016
-    },
-    "name": "Sal"
+    "comments": null
   },
   "SN": {
+    "name": "São Nicolau",
+    "code": null,
     "unofficial_names": "São Nicolau",
-    "translations": {
-      "en": "São Nicolau"
-    },
     "geo": {
       "latitude": 16.6048609,
       "longitude": -24.3103718,
@@ -622,10 +719,23 @@
       "max_latitude": 16.6813965,
       "max_longitude": -24.0076803
     },
-    "name": "São Nicolau"
+    "translations": {
+      "en": "São Nicolau"
+    },
+    "comments": null
   },
   "SV": {
+    "name": "São Vicente",
+    "code": null,
     "unofficial_names": "São Vicente",
+    "geo": {
+      "latitude": 16.8341271,
+      "longitude": -24.9279547,
+      "min_latitude": 16.6069539,
+      "min_longitude": -25.0855633,
+      "max_latitude": 16.9222019,
+      "max_longitude": -24.5742091
+    },
     "translations": {
       "en": "São Vicente",
       "ar": "ساو فيسنتي",
@@ -659,20 +769,27 @@
       "th": "เขตเซา วิเซนเต",
       "tr": "Sao Vicente",
       "ur": "ساؤ ویکینتی",
-      "vi": "Sao Vicente"
+      "vi": "Sao Vicente",
+      "lv": "Sanvinsenti",
+      "ceb": "Concelho de São Vicente",
+      "zh": "聖維森特縣",
+      "ccp": "𑄥𑄃𑄮 𑄞𑄭𑄥𑄬𑄚𑄴𑄑𑄬",
+      "uk": "Сан-Вісенті"
     },
-    "geo": {
-      "latitude": 16.8341271,
-      "longitude": -24.9279547,
-      "min_latitude": 16.6069539,
-      "min_longitude": -25.0855633,
-      "max_latitude": 16.9222019,
-      "max_longitude": -24.5742091
-    },
-    "name": "São Vicente"
+    "comments": null
   },
   "TA": {
+    "name": "Tarrafal",
+    "code": null,
     "unofficial_names": "Tarrafal",
+    "geo": {
+      "latitude": 15.278,
+      "longitude": -23.752,
+      "min_latitude": 15.2685529,
+      "min_longitude": -23.7590069,
+      "max_latitude": 15.283593,
+      "max_longitude": -23.7384294
+    },
     "translations": {
       "en": "Tarrafal",
       "ar": "تارفال",
@@ -708,19 +825,27 @@
       "th": "ทาร์ราฟาล",
       "tr": "Tarrafal",
       "ur": "تارافال",
-      "vi": "Tarrafal"
+      "vi": "Tarrafal",
+      "lv": "Tarafala",
+      "ceb": "Concelho do Tarrafal",
+      "zh": "塔拉法爾縣",
+      "ccp": "𑄑𑄢𑄜𑄧𑄣𑄴",
+      "uk": "Таррафал"
     },
-    "geo": {
-      "latitude": 15.278,
-      "longitude": -23.752,
-      "min_latitude": 15.2685529,
-      "min_longitude": -23.7590069,
-      "max_latitude": 15.283593,
-      "max_longitude": -23.7384294
-    },
-    "name": "Tarrafal"
+    "comments": null
   },
   "CF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سانتا كاتارينا دو فوجو",
       "bn": "স্যান্টা ক্যাটারিনা দো ফোগো",
@@ -754,10 +879,27 @@
       "th": "านต้า ซาตารินาโด โฟโก",
       "tr": "Santa Catarina do Fogo",
       "ur": "سنتا کاتارینا دو فوجو",
-      "vi": "Santa Catarina do Fogo"
-    }
+      "vi": "Santa Catarina do Fogo",
+      "lv": "Santakatarina du Fugu",
+      "ceb": "Concelho de Santa Catarina do Fogo",
+      "zh": "福戈聖卡塔琳娜縣",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄠𑄑𑄢𑄨𑄚 𑄓𑄮 𑄜𑄧𑄉𑄮",
+      "uk": "Санта-Катаріна-до-Фого"
+    },
+    "comments": null
   },
   "RB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ريبيرا برافا",
       "bn": "রিবেইরা ব্রাভা",
@@ -792,10 +934,27 @@
       "th": "ริเบียรา บราว่า",
       "tr": "Ribeira Brava",
       "ur": "ریبییرا براوا",
-      "vi": "Ribeira Brava"
-    }
+      "vi": "Ribeira Brava",
+      "lv": "Ribeirabrava",
+      "ceb": "Concelho da Ribeira Brava",
+      "zh": "里貝拉布拉瓦縣",
+      "ccp": "𑄢𑄨𑄝𑄬𑄭𑄢 𑄝𑄳𑄢𑄞",
+      "uk": "Рібейра-Брава"
+    },
+    "comments": null
   },
   "RS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ريبيرا غراندي دي سانتياغو، الرأس الأخضر",
       "bg": "Рибейра Гранде де Сантяго",
@@ -830,10 +989,27 @@
       "th": "ริเบรา กรานเด ซานติอาโก",
       "tr": "Ribeira Grande de Santiago",
       "ur": "ریبییرا جراندی دے سانتیاگو",
-      "vi": "Ribeira Grande de Santiago"
-    }
+      "vi": "Ribeira Grande de Santiago",
+      "lv": "Ribeiragrandi di Santjagu pašvaldība",
+      "ceb": "Concelho de Ribeira Grande de Santiago",
+      "zh": "聖地亞哥大里貝拉縣",
+      "ccp": "𑄢𑄨𑄝𑄬𑄭𑄢 𑄉𑄳𑄢𑄚𑄴𑄓𑄬 𑄓𑄬 𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮",
+      "uk": "Рібейра-Гранде-де-Сантьяго"
+    },
+    "comments": null
   },
   "S": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزر سوتافينتو",
       "ca": "Illes de Sotavento",
@@ -856,10 +1032,27 @@
       "nl": "Sotavento",
       "pl": "Wyspy Podwietrzne",
       "pt": "Ilhas de Sotavento",
-      "sv": "Sotavento"
-    }
+      "sv": "Sotavento",
+      "ceb": "Ilhas do Sotavento",
+      "ur": "سوتاوینتو جزائر",
+      "zh": "背風群島",
+      "ccp": "𑄥𑄮𑄑𑄞𑄬𑄚𑄴𑄑𑄮 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "be": "астравы Сатавенту"
+    },
+    "comments": null
   },
   "SO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ساو لورينسو دوس أورغاوس",
       "bn": "সেন্ট লরেন্স দোস অরগ্যাস",
@@ -893,10 +1086,27 @@
       "th": "เซา รัวเรนโค ดอส ออกาโอส",
       "tr": "Sao Lourenco dos Orgaos",
       "ur": "ساؤ لوورینکو ڈوز ورجاوس",
-      "vi": "Sao Lourenco dos Orgaos"
-    }
+      "vi": "Sao Lourenco dos Orgaos",
+      "lv": "Sanlourensu du Orgaosa",
+      "ceb": "São Lourenço dos Órgãos",
+      "zh": "聖洛倫索縣",
+      "ccp": "𑄥𑄃𑄮 𑄣𑄮𑄢𑄬𑄚𑄴𑄇𑄮 𑄓𑄮𑄌𑄴 𑄃𑄧𑄢𑄴𑄉𑄃𑄮𑄌𑄴",
+      "uk": "Сан-Лоренсу-душ-Оргауш"
+    },
+    "comments": null
   },
   "SS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ساو سلفادور دو موندو",
       "bg": "Сао Салвадор до Мундо",
@@ -931,10 +1141,27 @@
       "th": "เซา ซัลวาดอร์ โดมอนโด",
       "tr": "Sao Salvador do Mundo",
       "ur": "ساؤ سالوادور دو موندو",
-      "vi": "São Salvador do Mundo"
-    }
+      "vi": "São Salvador do Mundo",
+      "lv": "Sansalvadora du Mundu",
+      "ceb": "Concelho de São Salvador do Mundo",
+      "zh": "聖薩爾瓦多蒙多縣",
+      "ccp": "𑄥𑄃𑄮 𑄥𑄣𑄴𑄞𑄘𑄧𑄢𑄴 𑄓𑄮 𑄟𑄪𑄚𑄴𑄓𑄮",
+      "uk": "Сан-Сальвадор-до-Мундо"
+    },
+    "comments": null
   },
   "TS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "تارفال دي ساو نيكولاو",
       "bn": "ত্ররাফাল দে সাও নিকোলাউ",
@@ -968,10 +1195,27 @@
       "th": "ทาราฟาว เดอ เสา นิโคลัว",
       "tr": "Tarrafal de Sao Belediyesi",
       "ur": "تارافال دے ساؤ نیکولاو",
-      "vi": "Tarrafal de Sao Nicolau"
-    }
+      "vi": "Tarrafal de Sao Nicolau",
+      "lv": "Tarafala du Sanikolava",
+      "ceb": "Concelho do Tarrafal de São Nicolau",
+      "zh": "聖尼古勞塔拉法爾縣",
+      "ccp": "𑄑𑄳𑄠𑄢𑄜𑄧𑄣𑄴 𑄓𑄬 𑄥𑄃𑄮 𑄚𑄨𑄇𑄮𑄣𑄭𑄅𑄪",
+      "uk": "Таррафал-де-Сан-Ніколау"
+    },
+    "comments": null
   },
   "SM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bg": "Сао Мигел",
       "ca": "São Miguel",
@@ -986,10 +1230,26 @@
       "nb": "São Miguel",
       "nl": "São Miguel (Kaapverdië)",
       "pl": "São Miguel",
-      "pt": "São Miguel"
-    }
+      "pt": "São Miguel",
+      "ceb": "Concelho de São Miguel",
+      "ur": "سآو میگوئل، کیپ ورڈی",
+      "zh": "聖米戈爾縣",
+      "ccp": "𑄥𑄃𑄮 𑄟𑄭𑄉𑄪𑄠𑄬𑄣𑄴"
+    },
+    "comments": null
   },
   "B": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Illes de Barlavento",
       "cs": "Barlavento",
@@ -1011,8 +1271,15 @@
       "pl": "Wyspy Zawietrzne",
       "pt": "Ilhas de Barlavento",
       "sv": "Barlavento",
-      "zh": "向风群岛"
-    }
+      "zh": "向风群岛",
+      "ceb": "Ilhas do Barlavento",
+      "ar": "الجزر لافينتو",
+      "tr": "Barlavento Adaları",
+      "ur": "بارلاوینتو جزائر",
+      "ccp": "𑄝𑄢𑄴𑄣𑄞𑄬𑄚𑄴𑄑𑄮 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "be": "астравы Барлавенту"
+    },
+    "comments": null
   }
 }
 

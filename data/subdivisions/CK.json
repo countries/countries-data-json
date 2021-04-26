@@ -1,9 +1,8 @@
 {
   "AI": {
+    "name": "Aitutaki",
+    "code": null,
     "unofficial_names": "Aitutaki",
-    "translations": {
-      "en": "Aitutaki"
-    },
     "geo": {
       "latitude": -18.85593,
       "longitude": -159.78567,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Aitutaki",
+    "translations": {
+      "en": "Aitutaki"
+    },
     "comments": null
   },
   "AT": {
+    "name": "Atiu",
+    "code": null,
     "unofficial_names": "Atiu",
-    "translations": {
-      "en": "Atiu"
-    },
     "geo": {
       "latitude": -19.99569,
       "longitude": -158.10948,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Atiu",
+    "translations": {
+      "en": "Atiu"
+    },
     "comments": null
   },
   "MG": {
+    "name": "Mangaia",
+    "code": null,
     "unofficial_names": "Mangaia",
-    "translations": {
-      "en": "Mangaia"
-    },
     "geo": {
       "latitude": -21.92601,
       "longitude": -157.91851,
@@ -44,14 +45,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Mangaia",
+    "translations": {
+      "en": "Mangaia"
+    },
     "comments": null
   },
   "MK": {
+    "name": "Manihiki",
+    "code": null,
     "unofficial_names": "Manihiki",
-    "translations": {
-      "en": "Manihiki"
-    },
     "geo": {
       "latitude": -10.42603,
       "longitude": -160.97992,
@@ -60,14 +62,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Manihiki",
+    "translations": {
+      "en": "Manihiki"
+    },
     "comments": null
   },
   "MU": {
+    "name": "Ma'uke",
+    "code": null,
     "unofficial_names": "Ma'uke",
-    "translations": {
-      "en": "Ma'uke"
-    },
     "geo": {
       "latitude": -20.16732,
       "longitude": -157.33675,
@@ -76,14 +79,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Ma'uke",
+    "translations": {
+      "en": "Ma'uke"
+    },
     "comments": null
   },
   "MT": {
+    "name": "Mitiaro",
+    "code": null,
     "unofficial_names": "Mitiaro",
-    "translations": {
-      "en": "Mitiaro"
-    },
     "geo": {
       "latitude": -19.86861,
       "longitude": -157.709,
@@ -92,14 +96,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Mitiaro",
+    "translations": {
+      "en": "Mitiaro"
+    },
     "comments": null
   },
   "PA": {
+    "name": "Palmerston",
+    "code": null,
     "unofficial_names": "Palmerston",
-    "translations": {
-      "en": "Palmerston"
-    },
     "geo": {
       "latitude": -18.05856,
       "longitude": -163.18233,
@@ -108,14 +113,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Palmerston",
+    "translations": {
+      "en": "Palmerston"
+    },
     "comments": null
   },
   "PE": {
+    "name": "Penrhyn",
+    "code": null,
     "unofficial_names": "Penrhyn",
-    "translations": {
-      "en": "Penrhyn"
-    },
     "geo": {
       "latitude": -8.99479,
       "longitude": -157.96555,
@@ -124,14 +130,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Penrhyn",
+    "translations": {
+      "en": "Penrhyn"
+    },
     "comments": null
   },
   "PU": {
+    "name": "Pukapuka",
+    "code": null,
     "unofficial_names": "Pukapuka",
-    "translations": {
-      "en": "Pukapuka"
-    },
     "geo": {
       "latitude": -10.85371,
       "longitude": -165.84738,
@@ -140,14 +147,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Pukapuka",
+    "translations": {
+      "en": "Pukapuka"
+    },
     "comments": null
   },
   "RK": {
+    "name": "Rakahanga",
+    "code": null,
     "unofficial_names": "Rakahanga",
-    "translations": {
-      "en": "Rakahanga"
-    },
     "geo": {
       "latitude": -10.03174,
       "longitude": -161.09098,
@@ -156,14 +164,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Rakahanga",
+    "translations": {
+      "en": "Rakahanga"
+    },
     "comments": null
   },
   "RR": {
+    "name": "Rarotonga",
+    "code": null,
     "unofficial_names": "Rarotonga",
-    "translations": {
-      "en": "Rarotonga"
-    },
     "geo": {
       "latitude": -21.23274,
       "longitude": -159.77245,
@@ -172,7 +181,9 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Rarotonga",
+    "translations": {
+      "en": "Rarotonga"
+    },
     "comments": null
   }
 }

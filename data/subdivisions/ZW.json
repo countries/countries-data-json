@@ -1,10 +1,8 @@
 {
   "BU": {
+    "name": "Bulawayo",
+    "code": null,
     "unofficial_names": "Bulawayo",
-    "translations": {
-      "en": "Bulawayo",
-      "ru": "Булавайо"
-    },
     "geo": {
       "latitude": -20.1325066,
       "longitude": 28.626479,
@@ -13,15 +11,20 @@
       "max_latitude": -19.9920628,
       "max_longitude": 28.7632372
     },
-    "name": "Bulawayo"
+    "translations": {
+      "en": "Bulawayo",
+      "ru": "Булавайо",
+      "ceb": "Bulawayo Province",
+      "ar": "إقليم بولاوايو",
+      "ccp": "𑄝𑄪𑄣𑄤𑄃𑄮",
+      "be": "Булавая"
+    },
+    "comments": null
   },
   "HA": {
+    "name": "Harare",
+    "code": null,
     "unofficial_names": "Harare",
-    "translations": {
-      "en": "Harare",
-      "de": "Provinz Harare",
-      "ru": "Хараре"
-    },
     "geo": {
       "latitude": -17.863889,
       "longitude": 31.029722,
@@ -30,10 +33,33 @@
       "max_latitude": -17.6775542,
       "max_longitude": 31.2246813
     },
-    "name": "Harare"
+    "translations": {
+      "en": "Harare",
+      "de": "Provinz Harare",
+      "ru": "Хараре",
+      "ceb": "Harare Province",
+      "ar": "إقليم هراري",
+      "ja": "ハラレ州",
+      "ccp": "𑄦𑄢𑄢𑄬",
+      "ko": "하라레주",
+      "pt": "Harare",
+      "nb": "Harare Province",
+      "ne": "हरारे प्रदेश"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Manicaland",
+    "code": null,
     "unofficial_names": "Manicaland",
+    "geo": {
+      "latitude": -18.9216386,
+      "longitude": 32.174605,
+      "min_latitude": -21.328112,
+      "min_longitude": 31.23346299999999,
+      "max_latitude": -17.250581,
+      "max_longitude": 33.0563049
+    },
     "translations": {
       "en": "Manicaland",
       "af": "Manicaland",
@@ -78,20 +104,26 @@
       "uk": "Манікаленд",
       "ur": "مانیکالینڈ صوبہ",
       "vi": "Tỉnh Manicaland",
-      "zh": "馬尼卡蘭省"
+      "zh": "馬尼卡蘭省",
+      "lv": "Manikalandes province",
+      "ceb": "Manicaland Province",
+      "sr_Latn": "Manikalend",
+      "ccp": "𑄟𑄧𑄚𑄨𑄇𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
     },
-    "geo": {
-      "latitude": -18.9216386,
-      "longitude": 32.174605,
-      "min_latitude": -21.328112,
-      "min_longitude": 31.23346299999999,
-      "max_latitude": -17.250581,
-      "max_longitude": 33.0563049
-    },
-    "name": "Manicaland"
+    "comments": null
   },
   "MC": {
+    "name": "Mashonaland Central",
+    "code": null,
     "unofficial_names": "Mashonaland Central",
+    "geo": {
+      "latitude": -16.7644295,
+      "longitude": 31.0793705,
+      "min_latitude": -17.744136,
+      "min_longitude": 30.048639,
+      "max_latitude": -15.617567,
+      "max_longitude": 32.7613351
+    },
     "translations": {
       "en": "Mashonaland Central",
       "af": "Masjonaland-Sentraal",
@@ -135,20 +167,26 @@
       "uk": "Центральний Машоналенд",
       "ur": "ماشونالینڈ وسطی صوبہ",
       "vi": "Tỉnh Miền Trung Mashonaland",
-      "zh": "中馬紹納蘭省"
+      "zh": "中馬紹納蘭省",
+      "lv": "Centrālās Mašonalendas province",
+      "ceb": "Mashonaland Central Province",
+      "sr_Latn": "Mašonalend Central",
+      "ccp": "𑄟𑄥𑄮𑄚𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴"
     },
-    "geo": {
-      "latitude": -16.7644295,
-      "longitude": 31.0793705,
-      "min_latitude": -17.744136,
-      "min_longitude": 30.048639,
-      "max_latitude": -15.617567,
-      "max_longitude": 32.7613351
-    },
-    "name": "Mashonaland Central"
+    "comments": null
   },
   "ME": {
+    "name": "Mashonaland East",
+    "code": null,
     "unofficial_names": "Mashonaland East",
+    "geo": {
+      "latitude": -18.5871642,
+      "longitude": 31.2626366,
+      "min_latitude": -19.2712461,
+      "min_longitude": 30.485893,
+      "max_latitude": -16.6989399,
+      "max_longitude": 32.9946659
+    },
     "translations": {
       "en": "Mashonaland East",
       "af": "Masjonaland-Oos",
@@ -192,20 +230,27 @@
       "uk": "Східний Машоналенд",
       "ur": "ماشونالینڈ مشرقی صوبہ",
       "vi": "Tỉnh Mashonaland East",
-      "zh": "東馬紹納蘭省"
+      "zh": "東馬紹納蘭省",
+      "lv": "Austrummašonalendas province",
+      "ceb": "Mashonaland East Province",
+      "sr_Latn": "Mašonalend Istok",
+      "ccp": "𑄟𑄥𑄮𑄚𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄛𑄪𑄇𑄴",
+      "he": "משונאלנד מזרח פרובינציה"
     },
-    "geo": {
-      "latitude": -18.5871642,
-      "longitude": 31.2626366,
-      "min_latitude": -19.2712461,
-      "min_longitude": 30.485893,
-      "max_latitude": -16.6989399,
-      "max_longitude": 32.9946659
-    },
-    "name": "Mashonaland East"
+    "comments": null
   },
   "MI": {
+    "name": "Midlands",
+    "code": null,
     "unofficial_names": "Midlands",
+    "geo": {
+      "latitude": -19.0552009,
+      "longitude": 29.6035495,
+      "min_latitude": -21.045869,
+      "min_longitude": 27.989973,
+      "max_latitude": -17.132798,
+      "max_longitude": 30.8542231
+    },
     "translations": {
       "en": "Midlands",
       "af": "Midlands",
@@ -249,20 +294,26 @@
       "uk": "Мідлендс",
       "ur": "مڈلینڈز صوبہ",
       "vi": "Tỉnh Midlands",
-      "zh": "中部省"
+      "zh": "中部省",
+      "lv": "Midlendsas province",
+      "ceb": "Midlands Province",
+      "sr_Latn": "Midlends",
+      "ccp": "𑄟𑄨𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": -19.0552009,
-      "longitude": 29.6035495,
-      "min_latitude": -21.045869,
-      "min_longitude": 27.989973,
-      "max_latitude": -17.132798,
-      "max_longitude": 30.8542231
-    },
-    "name": "Midlands"
+    "comments": null
   },
   "MN": {
+    "name": "Matabeleland North",
+    "code": null,
     "unofficial_names": "Matabeleland North",
+    "geo": {
+      "latitude": -18.5331566,
+      "longitude": 27.5495846,
+      "min_latitude": -20.343325,
+      "min_longitude": 25.237028,
+      "max_latitude": -17.0204861,
+      "max_longitude": 29.2292519
+    },
     "translations": {
       "en": "Matabeleland North",
       "af": "Matabeleland-Noord",
@@ -307,20 +358,26 @@
       "uk": "Північний Матабелеленд",
       "ur": "ماتابیلےلینڈ شمالی صوبہ",
       "vi": "Tỉnh Matabeleland North",
-      "zh": "北馬塔貝萊蘭省"
+      "zh": "北馬塔貝萊蘭省",
+      "lv": "Ziemeļmatabelelendas province",
+      "ceb": "Matabeleland North Province",
+      "sr_Latn": "Matabelelend Sever",
+      "ccp": "𑄟𑄑𑄝𑄨𑄣𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴"
     },
-    "geo": {
-      "latitude": -18.5331566,
-      "longitude": 27.5495846,
-      "min_latitude": -20.343325,
-      "min_longitude": 25.237028,
-      "max_latitude": -17.0204861,
-      "max_longitude": 29.2292519
-    },
-    "name": "Matabeleland North"
+    "comments": null
   },
   "MS": {
+    "name": "Matabeleland South",
+    "code": null,
     "unofficial_names": "Matabeleland South",
+    "geo": {
+      "latitude": -21.052337,
+      "longitude": 29.0459927,
+      "min_latitude": -22.351074,
+      "min_longitude": 26.6982439,
+      "max_latitude": -19.48262,
+      "max_longitude": 31.1148949
+    },
     "translations": {
       "en": "Matabeleland South",
       "af": "Matabeleland-Suid",
@@ -364,20 +421,26 @@
       "uk": "Південний Матабелеленд",
       "ur": "ماتابیلےلینڈ جنوبی صوبہ",
       "vi": "Tỉnh Matabeleland South",
-      "zh": "南馬塔貝萊蘭省"
+      "zh": "南馬塔貝萊蘭省",
+      "lv": "Dienvidmatabelelendas province",
+      "ceb": "Matabeleland South Province",
+      "sr_Latn": "Matabelelend Jug",
+      "ccp": "𑄟𑄑𑄝𑄨𑄣𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄘𑄧𑄊𑄨𑄚𑄴"
     },
-    "geo": {
-      "latitude": -21.052337,
-      "longitude": 29.0459927,
-      "min_latitude": -22.351074,
-      "min_longitude": 26.6982439,
-      "max_latitude": -19.48262,
-      "max_longitude": 31.1148949
-    },
-    "name": "Matabeleland South"
+    "comments": null
   },
   "MV": {
+    "name": "Masvingo",
+    "code": null,
     "unofficial_names": "Masvingo",
+    "geo": {
+      "latitude": -20.074444,
+      "longitude": 30.83277799999999,
+      "min_latitude": -20.1076843,
+      "min_longitude": 30.7932604,
+      "max_latitude": -20.0377179,
+      "max_longitude": 30.86741769999999
+    },
     "translations": {
       "en": "Masvingo",
       "af": "Masvingo",
@@ -421,20 +484,26 @@
       "uk": "Масвінго",
       "ur": "ماسونگو صوبہ",
       "vi": "Tỉnh Masvingo",
-      "zh": "馬斯溫戈省"
+      "zh": "馬斯溫戈省",
+      "lv": "Masvingo province",
+      "ceb": "Masvingo Province",
+      "sr_Latn": "Mašvingo",
+      "ccp": "𑄟𑄌𑄴𑄞𑄨𑄁𑄉𑄮"
     },
-    "geo": {
-      "latitude": -20.074444,
-      "longitude": 30.83277799999999,
-      "min_latitude": -20.1076843,
-      "min_longitude": 30.7932604,
-      "max_latitude": -20.0377179,
-      "max_longitude": 30.86741769999999
-    },
-    "name": "Masvingo"
+    "comments": null
   },
   "MW": {
+    "name": "Mashonaland West",
+    "code": null,
     "unofficial_names": "Mashonaland West",
+    "geo": {
+      "latitude": -17.4851029,
+      "longitude": 29.7889248,
+      "min_latitude": -18.902802,
+      "min_longitude": 28.026284,
+      "max_latitude": -15.6088341,
+      "max_longitude": 30.993064
+    },
     "translations": {
       "en": "Mashonaland West",
       "af": "Masjonaland-Wes",
@@ -478,17 +547,13 @@
       "uk": "Західний Машоналенд",
       "ur": "ماشونالینڈ مغربی صوبہ",
       "vi": "Tỉnh Mashonaland West",
-      "zh": "西馬紹納蘭省"
+      "zh": "西馬紹納蘭省",
+      "lv": "Rietummašonalendas province",
+      "ceb": "Mashonaland West Province",
+      "sr_Latn": "Mašonalend Zapad",
+      "ccp": "𑄟𑄥𑄮𑄚𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄛𑄧𑄏𑄨𑄟𑄴"
     },
-    "geo": {
-      "latitude": -17.4851029,
-      "longitude": 29.7889248,
-      "min_latitude": -18.902802,
-      "min_longitude": 28.026284,
-      "max_latitude": -15.6088341,
-      "max_longitude": 30.993064
-    },
-    "name": "Mashonaland West"
+    "comments": null
   }
 }
 

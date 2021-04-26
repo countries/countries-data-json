@@ -1,6 +1,16 @@
 {
   "AGD": {
+    "name": "Agadir*",
+    "code": null,
     "unofficial_names": "Agadir*",
+    "geo": {
+      "latitude": 30.4277547,
+      "longitude": -9.5981072,
+      "min_latitude": 30.3692836,
+      "min_longitude": -9.6682679,
+      "max_latitude": 30.4702104,
+      "max_longitude": -9.4871341
+    },
     "translations": {
       "en": "Agadir-Ida Ou Tanane",
       "ar": "أكادير",
@@ -48,20 +58,33 @@
       "tr": "Agadir",
       "uk": "Агадір",
       "ur": "اغادیر",
-      "vi": "Agadir"
+      "vi": "Agadir",
+      "cy": "Agadir",
+      "ceb": "Agadir",
+      "sr_Latn": "Agadir",
+      "zh": "阿加迪尔",
+      "sq": "Agadir",
+      "ccp": "𑄃𑄉𑄓𑄨𑄢𑄴-𑄃𑄨𑄓 𑄃𑄯 𑄑𑄚𑄚𑄬",
+      "ka": "აგადირი",
+      "kk": "Агадир қаласы",
+      "be": "Агадыр",
+      "uz": "Agadir",
+      "mk": "Агадир"
     },
-    "geo": {
-      "latitude": 30.4277547,
-      "longitude": -9.5981072,
-      "min_latitude": 30.3692836,
-      "min_longitude": -9.6682679,
-      "max_latitude": 30.4702104,
-      "max_longitude": -9.4871341
-    },
-    "name": "Agadir*"
+    "comments": null
   },
   "AOU": {
+    "name": "Aousserd",
+    "code": null,
     "unofficial_names": "Aousserd",
+    "geo": {
+      "latitude": 30.3920338,
+      "longitude": -9.564496499999999,
+      "min_latitude": 30.39160919999999,
+      "min_longitude": -9.5660522,
+      "max_latitude": 30.3923136,
+      "max_longitude": -9.5620805
+    },
     "translations": {
       "en": "Aousserd",
       "ar": "إقليم أوسرد",
@@ -72,20 +95,25 @@
       "it": "Prefettura di Aousserd",
       "ja": "アウサード州",
       "nl": "Aousserd",
-      "sv": "Aousserd (provins)"
+      "sv": "Aousserd (provins)",
+      "ceb": "Aousserd (lalawigan)",
+      "zh": "奧塞爾德省",
+      "ccp": "𑄃𑄃𑄯𑄥𑄬𑄢𑄴𑄓𑄴"
     },
-    "geo": {
-      "latitude": 30.3920338,
-      "longitude": -9.564496499999999,
-      "min_latitude": 30.39160919999999,
-      "min_longitude": -9.5660522,
-      "max_latitude": 30.3923136,
-      "max_longitude": -9.5620805
-    },
-    "name": "Aousserd"
+    "comments": null
   },
   "ASZ": {
+    "name": "Assa-Zag",
+    "code": null,
     "unofficial_names": "Assa-Zag",
+    "geo": {
+      "latitude": 28.1402395,
+      "longitude": -9.7232673,
+      "min_latitude": 27.662115,
+      "min_longitude": -10.7308961,
+      "max_latitude": 28.8133365,
+      "max_longitude": -8.670276
+    },
     "translations": {
       "en": "Assa-Zag",
       "ar": "إقليم آسا الزاك",
@@ -98,20 +126,25 @@
       "ja": "アサ・ザグ州",
       "nl": "Assa-Zag",
       "pt": "Assa-Zag",
-      "sv": "Assa-Zag"
+      "sv": "Assa-Zag",
+      "ceb": "Assa-Zag",
+      "zh": "阿薩-扎格省",
+      "ccp": "𑄃𑄌𑄳𑄦𑄴-𑄎𑄇𑄴"
     },
-    "geo": {
-      "latitude": 28.1402395,
-      "longitude": -9.7232673,
-      "min_latitude": 27.662115,
-      "min_longitude": -10.7308961,
-      "max_latitude": 28.8133365,
-      "max_longitude": -8.670276
-    },
-    "name": "Assa-Zag"
+    "comments": null
   },
   "AZI": {
+    "name": "Azilal",
+    "code": null,
     "unofficial_names": "Azilal",
+    "geo": {
+      "latitude": 31.966944,
+      "longitude": -6.569444,
+      "min_latitude": 31.9387247,
+      "min_longitude": -6.6000795,
+      "max_latitude": 31.9825259,
+      "max_longitude": -6.5521861
+    },
     "translations": {
       "en": "Azilal",
       "ar": "إقليم أزيلال",
@@ -123,23 +156,17 @@
       "ja": "アジラル州",
       "nl": "Azilal",
       "pt": "Azilal (província)",
-      "sv": "Azilal Province"
+      "sv": "Azilal Province",
+      "ceb": "Azilal Province",
+      "zh": "艾濟拉勒省",
+      "ccp": "𑄃𑄎𑄨𑄣𑄣𑄴"
     },
-    "geo": {
-      "latitude": 31.966944,
-      "longitude": -6.569444,
-      "min_latitude": 31.9387247,
-      "min_longitude": -6.6000795,
-      "max_latitude": 31.9825259,
-      "max_longitude": -6.5521861
-    },
-    "name": "Azilal"
+    "comments": null
   },
   "BAH": {
+    "name": "Aït Baha",
+    "code": null,
     "unofficial_names": "Aït Baha",
-    "translations": {
-      "en": "Aït Baha"
-    },
     "geo": {
       "latitude": 30.0688758,
       "longitude": -9.152534,
@@ -148,10 +175,23 @@
       "max_latitude": 30.0738757,
       "max_longitude": -9.1488218
     },
-    "name": "Aït Baha"
+    "translations": {
+      "en": "Aït Baha"
+    },
+    "comments": null
   },
   "BEM": {
+    "name": "Beni Mellal",
+    "code": null,
     "unofficial_names": "Beni Mellal",
+    "geo": {
+      "latitude": 32.339444,
+      "longitude": -6.360833,
+      "min_latitude": 32.2941706,
+      "min_longitude": -6.4301777,
+      "max_latitude": 32.367638,
+      "max_longitude": -6.3162803
+    },
     "translations": {
       "en": "Béni-Mellal",
       "ar": "إقليم بني ملال",
@@ -163,20 +203,25 @@
       "ja": "ベニ・メラル州",
       "nl": "Béni-Mellal",
       "pt": "Beni Mellal (província)",
-      "sv": "Beni-Mellal"
+      "sv": "Beni-Mellal",
+      "ceb": "Beni-Mellal",
+      "zh": "貝尼邁拉勒省",
+      "ccp": "𑄝𑄬𑄚𑄨-𑄟𑄬𑄣𑄣𑄴"
     },
-    "geo": {
-      "latitude": 32.339444,
-      "longitude": -6.360833,
-      "min_latitude": 32.2941706,
-      "min_longitude": -6.4301777,
-      "max_latitude": 32.367638,
-      "max_longitude": -6.3162803
-    },
-    "name": "Beni Mellal"
+    "comments": null
   },
   "BER": {
+    "name": "Berkane",
+    "code": null,
     "unofficial_names": "Berkane",
+    "geo": {
+      "latitude": 34.916667,
+      "longitude": -2.316667,
+      "min_latitude": 34.8987438,
+      "min_longitude": -2.3526192,
+      "max_latitude": 34.9551815,
+      "max_longitude": -2.2930527
+    },
     "translations": {
       "en": "Berkane",
       "ar": "إقليم بركان",
@@ -188,20 +233,26 @@
       "ja": "ベルカンヌ州",
       "nl": "Berkane",
       "sv": "Berkane-Taourirt",
-      "ur": "برکان صوبہ"
+      "ur": "برکان صوبہ",
+      "ceb": "Berkane-Taourirt",
+      "zh": "貝爾坎省",
+      "fa": "استان برکان",
+      "ccp": "𑄝𑄬𑄢𑄴𑄇𑄚𑄴"
     },
-    "geo": {
-      "latitude": 34.916667,
-      "longitude": -2.316667,
-      "min_latitude": 34.8987438,
-      "min_longitude": -2.3526192,
-      "max_latitude": 34.9551815,
-      "max_longitude": -2.2930527
-    },
-    "name": "Berkane"
+    "comments": null
   },
   "BES": {
+    "name": "Ben Slimane",
+    "code": null,
     "unofficial_names": "Ben Slimane",
+    "geo": {
+      "latitude": 33.616667,
+      "longitude": -7.116667,
+      "min_latitude": 33.5937142,
+      "min_longitude": -7.1562243,
+      "max_latitude": 33.6338072,
+      "max_longitude": -7.1013782
+    },
     "translations": {
       "en": "Ben Slimane",
       "ar": "إقليم بنسليمان",
@@ -213,20 +264,25 @@
       "ja": "ベン・スリマン州",
       "nl": "Ben Slimane",
       "ru": "Бен-Слиман",
-      "sv": "Benslimane (provins)"
+      "sv": "Benslimane (provins)",
+      "ceb": "Benslimane (lalawigan)",
+      "zh": "本蘇萊曼省",
+      "ccp": "𑄝𑄬𑄚𑄴 𑄥𑄳𑄣𑄨𑄟𑄚𑄴"
     },
-    "geo": {
-      "latitude": 33.616667,
-      "longitude": -7.116667,
-      "min_latitude": 33.5937142,
-      "min_longitude": -7.1562243,
-      "max_latitude": 33.6338072,
-      "max_longitude": -7.1013782
-    },
-    "name": "Ben Slimane"
+    "comments": null
   },
   "BOD": {
+    "name": "Boujdour (EH)",
+    "code": null,
     "unofficial_names": "Boujdour (EH)",
+    "geo": {
+      "latitude": 27.8521664,
+      "longitude": -12.1632718,
+      "min_latitude": 27.6665817,
+      "min_longitude": -13.1729662,
+      "max_latitude": 28.2162268,
+      "max_longitude": -11.50715
+    },
     "translations": {
       "en": "Boujdour",
       "ar": "إقليم بوجدور",
@@ -237,20 +293,25 @@
       "it": "Provincia di Boujdour",
       "ja": "ブジュール州",
       "nl": "Boujdour",
-      "sv": "Boujdour (provins)"
+      "sv": "Boujdour (provins)",
+      "ceb": "Boujdour (lalawigan)",
+      "zh": "布支杜爾省",
+      "ccp": "𑄝𑄯𑄌𑄴𑄓𑄯𑄢𑄴"
     },
-    "geo": {
-      "latitude": 27.8521664,
-      "longitude": -12.1632718,
-      "min_latitude": 27.6665817,
-      "min_longitude": -13.1729662,
-      "max_latitude": 28.2162268,
-      "max_longitude": -11.50715
-    },
-    "name": "Boujdour (EH)"
+    "comments": null
   },
   "BOM": {
+    "name": "Boulemane",
+    "code": null,
     "unofficial_names": "Boulemane",
+    "geo": {
+      "latitude": 33.3625159,
+      "longitude": -4.7303397,
+      "min_latitude": 33.3536884,
+      "min_longitude": -4.7400855,
+      "max_latitude": 33.3740471,
+      "max_longitude": -4.720602
+    },
     "translations": {
       "en": "Boulemane",
       "ar": "إقليم بولمان",
@@ -261,20 +322,25 @@
       "it": "Provincia di Boulemane",
       "ja": "ブルマーヌ州",
       "nl": "Boulmane",
-      "sv": "Boulemane (provins)"
+      "sv": "Boulemane (provins)",
+      "ceb": "Boulemane (lalawigan)",
+      "zh": "布勒曼省",
+      "ccp": "𑄝𑄯𑄣𑄬𑄟𑄚𑄴"
     },
-    "geo": {
-      "latitude": 33.3625159,
-      "longitude": -4.7303397,
-      "min_latitude": 33.3536884,
-      "min_longitude": -4.7400855,
-      "max_latitude": 33.3740471,
-      "max_longitude": -4.720602
-    },
-    "name": "Boulemane"
+    "comments": null
   },
   "CAS": {
+    "name": "Casablanca [Dar el Beïda]*",
+    "code": null,
     "unofficial_names": "Casablanca [Dar el Beïda]*",
+    "geo": {
+      "latitude": 33.5731104,
+      "longitude": -7.589843399999999,
+      "min_latitude": 33.495279,
+      "min_longitude": -7.7164613,
+      "max_latitude": 33.649659,
+      "max_longitude": -7.4582757
+    },
     "translations": {
       "en": "Casablanca",
       "af": "Casablanca",
@@ -335,20 +401,38 @@
       "tr": "Kazablanka",
       "uk": "Касабланка",
       "ur": "دار البیضاء",
-      "vi": "Casablanca"
+      "vi": "Casablanca",
+      "cy": "Casablanca",
+      "sr_Latn": "Kazablanka",
+      "zh": "卡萨布兰卡",
+      "yue_Hans": "卡萨布兰卡",
+      "sq": "Kasablanka",
+      "ccp": "𑄇𑄥𑄝𑄳𑄣𑄁𑄇",
+      "ky": "Касабланка",
+      "ha": "Casablanca",
+      "pa": "ਕਾਸਾਬਲਾਂਕਾ",
+      "kk": "Касабланка",
+      "yue": "卡薩布蘭卡",
+      "my": "ကာဆာဘလန်ကာမြို့",
+      "yo": "Casablanca",
+      "uz": "Kasablanka",
+      "bs": "Casablanca",
+      "mk": "Казабланка"
     },
-    "geo": {
-      "latitude": 33.5731104,
-      "longitude": -7.589843399999999,
-      "min_latitude": 33.495279,
-      "min_longitude": -7.7164613,
-      "max_latitude": 33.649659,
-      "max_longitude": -7.4582757
-    },
-    "name": "Casablanca [Dar el Beïda]*"
+    "comments": null
   },
   "CHE": {
+    "name": "Chefchaouene",
+    "code": null,
     "unofficial_names": "Chefchaouene",
+    "geo": {
+      "latitude": 35.171389,
+      "longitude": -5.269722000000001,
+      "min_latitude": 35.152179,
+      "min_longitude": -5.287148999999999,
+      "max_latitude": 35.185559,
+      "max_longitude": -5.2556705
+    },
     "translations": {
       "en": "Chefchaouen",
       "ar": "إقليم شفشاون",
@@ -360,20 +444,25 @@
       "ja": "シャウエン州",
       "nl": "Chefchaouen",
       "sv": "Chefchaouen Province",
-      "ur": "شفشاون صوبہ"
+      "ur": "شفشاون صوبہ",
+      "ceb": "Chefchaouen Province",
+      "zh": "謝夫沙萬省",
+      "ccp": "𑄌𑄬𑄛𑄴𑄌𑄬𑄠𑄯𑄠𑄬𑄚𑄴"
     },
-    "geo": {
-      "latitude": 35.171389,
-      "longitude": -5.269722000000001,
-      "min_latitude": 35.152179,
-      "min_longitude": -5.287148999999999,
-      "max_latitude": 35.185559,
-      "max_longitude": -5.2556705
-    },
-    "name": "Chefchaouene"
+    "comments": null
   },
   "CHI": {
+    "name": "Chichaoua",
+    "code": null,
     "unofficial_names": "Chichaoua",
+    "geo": {
+      "latitude": 31.533333,
+      "longitude": -8.766667,
+      "min_latitude": 31.5162154,
+      "min_longitude": -8.779620999999999,
+      "max_latitude": 31.5541463,
+      "max_longitude": -8.7405252
+    },
     "translations": {
       "en": "Chichaoua",
       "ar": "إقليم شيشاوة",
@@ -386,20 +475,26 @@
       "nl": "Chichaoua",
       "pt": "Chichaoua (província)",
       "sv": "Chichaoua (provins)",
-      "ur": "شیشاوہ صوبہ"
+      "ur": "شیشاوہ صوبہ",
+      "ceb": "Chichaoua",
+      "zh": "希沙瓦省",
+      "fa": "استان شیشاوه",
+      "ccp": "𑄌𑄨𑄌𑄯𑄤"
     },
-    "geo": {
-      "latitude": 31.533333,
-      "longitude": -8.766667,
-      "min_latitude": 31.5162154,
-      "min_longitude": -8.779620999999999,
-      "max_latitude": 31.5541463,
-      "max_longitude": -8.7405252
-    },
-    "name": "Chichaoua"
+    "comments": null
   },
   "CHT": {
+    "name": "Chtouka-Ait Baha",
+    "code": null,
     "unofficial_names": "Chtouka-Ait Baha",
+    "geo": {
+      "latitude": 30.0688758,
+      "longitude": -9.152534,
+      "min_latitude": 30.0648089,
+      "min_longitude": -9.166395699999999,
+      "max_latitude": 30.0738757,
+      "max_longitude": -9.1488218
+    },
     "translations": {
       "en": "Chtouka Aït Baha",
       "ar": "إقليم شتوكة آيت باها",
@@ -412,20 +507,25 @@
       "ja": "チュトウカ・アイト・バハ州",
       "nl": "Chtouka-Aït Baha",
       "pt": "Chtouka-Aït Baha",
-      "sv": "Chtouka-Ait-Baha"
+      "sv": "Chtouka-Ait-Baha",
+      "ceb": "Chtouka-Ait-Baha",
+      "zh": "希圖卡阿伊特巴哈省",
+      "ccp": "𑄑𑄮𑄇 𑄃𑄃𑄨𑄖𑄴 𑄝𑄦"
     },
-    "geo": {
-      "latitude": 30.0688758,
-      "longitude": -9.152534,
-      "min_latitude": 30.0648089,
-      "min_longitude": -9.166395699999999,
-      "max_latitude": 30.0738757,
-      "max_longitude": -9.1488218
-    },
-    "name": "Chtouka-Ait Baha"
+    "comments": null
   },
   "ERR": {
+    "name": "Errachidia",
+    "code": null,
     "unofficial_names": "Errachidia",
+    "geo": {
+      "latitude": 31.931944,
+      "longitude": -4.424443999999999,
+      "min_latitude": 31.9077638,
+      "min_longitude": -4.4768859,
+      "max_latitude": 31.9623573,
+      "max_longitude": -4.3753052
+    },
     "translations": {
       "en": "Errachidia",
       "ar": "إقليم الرشيدية",
@@ -436,20 +536,26 @@
       "it": "Provincia di al-Rashidiyya",
       "ja": "エルラシディア州",
       "nl": "Errachidia",
-      "sv": "Errachidia"
+      "sv": "Errachidia",
+      "ceb": "Errachidia",
+      "zh": "拉希迪耶省",
+      "fa": "استان رشیدیه",
+      "ccp": "𑄃𑄩𑄢𑄌𑄨𑄘𑄨𑄠"
     },
-    "geo": {
-      "latitude": 31.931944,
-      "longitude": -4.424443999999999,
-      "min_latitude": 31.9077638,
-      "min_longitude": -4.4768859,
-      "max_latitude": 31.9623573,
-      "max_longitude": -4.3753052
-    },
-    "name": "Errachidia"
+    "comments": null
   },
   "ESI": {
+    "name": "Essaouira",
+    "code": null,
     "unofficial_names": "Essaouira",
+    "geo": {
+      "latitude": 31.5084926,
+      "longitude": -9.7595041,
+      "min_latitude": 31.4950698,
+      "min_longitude": -9.7755215,
+      "max_latitude": 31.5268173,
+      "max_longitude": -9.7492435
+    },
     "translations": {
       "en": "Essaouira",
       "ar": "إقليم الصويرة",
@@ -462,20 +568,26 @@
       "ja": "エッサウィラ州",
       "nl": "Essaouira",
       "pt": "Essaouira (província)",
-      "ur": "صویرہ صوبہ"
+      "ur": "صویرہ صوبہ",
+      "ceb": "Essaouira",
+      "zh": "索維拉省",
+      "fa": "استان صویره",
+      "ccp": "𑄃𑄨𑄥𑄯𑄃𑄨𑄢"
     },
-    "geo": {
-      "latitude": 31.5084926,
-      "longitude": -9.7595041,
-      "min_latitude": 31.4950698,
-      "min_longitude": -9.7755215,
-      "max_latitude": 31.5268173,
-      "max_longitude": -9.7492435
-    },
-    "name": "Essaouira"
+    "comments": null
   },
   "ESM": {
+    "name": "Es Smara (EH)",
+    "code": null,
     "unofficial_names": "Es Smara (EH)",
+    "geo": {
+      "latitude": 28.7082053,
+      "longitude": -9.5450974,
+      "min_latitude": 27.6666665,
+      "min_longitude": -11.1281028,
+      "max_latitude": 30.4073509,
+      "max_longitude": -6.263147
+    },
     "translations": {
       "en": "Es Semara",
       "ar": "إقليم السمارة",
@@ -486,20 +598,25 @@
       "it": "Provincia di Smara",
       "ja": "スマラ州",
       "nl": "Es-Semara",
-      "sv": "Es-Semara (provins)"
+      "sv": "Es-Semara (provins)",
+      "ceb": "Es-Semara (lalawigan)",
+      "zh": "塞馬拉省",
+      "ccp": "𑄃𑄨𑄌𑄴 𑄥𑄬𑄟𑄢"
     },
-    "geo": {
-      "latitude": 28.7082053,
-      "longitude": -9.5450974,
-      "min_latitude": 27.6666665,
-      "min_longitude": -11.1281028,
-      "max_latitude": 30.4073509,
-      "max_longitude": -6.263147
-    },
-    "name": "Es Smara (EH)"
+    "comments": null
   },
   "FAH": {
+    "name": "Fahs-Beni Makada",
+    "code": null,
     "unofficial_names": "Fahs-Beni Makada",
+    "geo": {
+      "latitude": 35.757668,
+      "longitude": -5.8109107,
+      "min_latitude": 35.757346,
+      "min_longitude": -5.8115019,
+      "max_latitude": 35.7583864,
+      "max_longitude": -5.8102681
+    },
     "translations": {
       "en": "Fahs-Beni Makada",
       "ar": "إقليم فحص أنجرة",
@@ -511,20 +628,27 @@
       "ja": "ファフス・アンジュラ州",
       "nl": "Fahs-Bni Mkada",
       "sv": "Fahs-Anjra",
-      "ur": "فاہس انجرا"
+      "ur": "فاہس انجرا",
+      "ceb": "Fahs-Anjra",
+      "zh": "法斯-安傑拉省",
+      "fa": "استان فحص انجره",
+      "pl": "prowincja Fahs Anjra",
+      "ccp": "𑄜𑄦𑄴𑄥𑄴-𑄝𑄬𑄚𑄨 𑄟𑄖𑄓"
     },
-    "geo": {
-      "latitude": 35.757668,
-      "longitude": -5.8109107,
-      "min_latitude": 35.757346,
-      "min_longitude": -5.8115019,
-      "max_latitude": 35.7583864,
-      "max_longitude": -5.8102681
-    },
-    "name": "Fahs-Beni Makada"
+    "comments": null
   },
   "FES": {
+    "name": "Fès*",
+    "code": null,
     "unofficial_names": "Fès*",
+    "geo": {
+      "latitude": 34.033333,
+      "longitude": -5,
+      "min_latitude": 33.9725487,
+      "min_longitude": -5.0755978,
+      "max_latitude": 34.075377,
+      "max_longitude": -4.927883
+    },
     "translations": {
       "en": "Fès-Dar-Dbibegh",
       "af": "Fes",
@@ -573,20 +697,33 @@
       "tr": "Fes",
       "uk": "Фес",
       "ur": "فاس",
-      "vi": "Fes"
+      "vi": "Fes",
+      "cy": "Fès",
+      "ceb": "Fès",
+      "sr_Latn": "Fes",
+      "zh": "非斯",
+      "hi": "फेज़",
+      "ccp": "𑄜𑄬𑄌𑄴-𑄓𑄢𑄴-𑄝𑄨𑄝𑄬𑄇𑄴",
+      "ky": "Фес",
+      "pa": "ਫ਼ਾਸ",
+      "kk": "Фес (Фез) қаласы",
+      "bs": "Fes",
+      "mk": "Фес"
     },
-    "geo": {
-      "latitude": 34.033333,
-      "longitude": -5,
-      "min_latitude": 33.9725487,
-      "min_longitude": -5.0755978,
-      "max_latitude": 34.075377,
-      "max_longitude": -4.927883
-    },
-    "name": "Fès*"
+    "comments": null
   },
   "FIG": {
+    "name": "Figuig",
+    "code": null,
     "unofficial_names": "Figuig",
+    "geo": {
+      "latitude": 32.1092613,
+      "longitude": -1.229806,
+      "min_latitude": 32.082611,
+      "min_longitude": -1.2536429,
+      "max_latitude": 32.1282694,
+      "max_longitude": -1.1983252
+    },
     "translations": {
       "en": "Figuig",
       "ar": "إقليم فكيك",
@@ -598,20 +735,26 @@
       "ja": "フィギグ州",
       "nl": "Figuig",
       "sv": "Figuig",
-      "ur": "فکیک صوبہ"
+      "ur": "فکیک صوبہ",
+      "ceb": "Figuig (lalawigan)",
+      "zh": "菲吉格省",
+      "fa": "استان فکیک",
+      "ccp": "𑄜𑄨𑄉𑄪𑄃𑄨𑄇𑄴"
     },
-    "geo": {
-      "latitude": 32.1092613,
-      "longitude": -1.229806,
-      "min_latitude": 32.082611,
-      "min_longitude": -1.2536429,
-      "max_latitude": 32.1282694,
-      "max_longitude": -1.1983252
-    },
-    "name": "Figuig"
+    "comments": null
   },
   "GUE": {
+    "name": "Guelmim",
+    "code": null,
     "unofficial_names": "Guelmim",
+    "geo": {
+      "latitude": 28.98333299999999,
+      "longitude": -10.066667,
+      "min_latitude": 28.9644067,
+      "min_longitude": -10.0787115,
+      "max_latitude": 29.0155338,
+      "max_longitude": -10.0353242
+    },
     "translations": {
       "en": "Guelmim",
       "ar": "إقليم كلميم",
@@ -644,20 +787,28 @@
       "th": "จังหวัดกูลมิม",
       "tr": "Guelmim Province",
       "ur": "جویلمیم صوبہ",
-      "vi": "Tỉnh Guelmim"
+      "vi": "Tỉnh Guelmim",
+      "lv": "Guelmimas province",
+      "ceb": "Guelmim (lalawigan)",
+      "lt": "Guelmimo provincija",
+      "zh": "蓋勒敏省",
+      "ccp": "𑄉𑄪𑄠𑄬𑄣𑄴𑄟𑄨𑄟𑄴",
+      "uk": "Гельмім"
     },
-    "geo": {
-      "latitude": 28.98333299999999,
-      "longitude": -10.066667,
-      "min_latitude": 28.9644067,
-      "min_longitude": -10.0787115,
-      "max_latitude": 29.0155338,
-      "max_longitude": -10.0353242
-    },
-    "name": "Guelmim"
+    "comments": null
   },
   "HAJ": {
+    "name": "El Hajeb",
+    "code": null,
     "unofficial_names": "El Hajeb",
+    "geo": {
+      "latitude": 33.692778,
+      "longitude": -5.371111,
+      "min_latitude": 33.6618291,
+      "min_longitude": -5.3847214,
+      "max_latitude": 33.7026764,
+      "max_longitude": -5.358757
+    },
     "translations": {
       "en": "El Hajeb",
       "ar": "إقليم الحاجب",
@@ -667,20 +818,25 @@
       "fr": "province d’El Hajeb",
       "it": "Provincia di El Hajeb",
       "ja": "ハジェブ州",
-      "nl": "El Hajeb"
+      "nl": "El Hajeb",
+      "ceb": "El-Hajeb",
+      "zh": "哈傑卜省",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄝𑄎𑄨𑄛𑄴"
     },
-    "geo": {
-      "latitude": 33.692778,
-      "longitude": -5.371111,
-      "min_latitude": 33.6618291,
-      "min_longitude": -5.3847214,
-      "max_latitude": 33.7026764,
-      "max_longitude": -5.358757
-    },
-    "name": "El Hajeb"
+    "comments": null
   },
   "HAO": {
+    "name": "Al Haouz",
+    "code": null,
     "unofficial_names": "Al Haouz",
+    "geo": {
+      "latitude": 31.2956729,
+      "longitude": -7.872159999999999,
+      "min_latitude": 30.862742,
+      "min_longitude": -8.5580064,
+      "max_latitude": 31.7052412,
+      "max_longitude": -7.0889282
+    },
     "translations": {
       "en": "Al Haouz",
       "ar": "إقليم الحوز",
@@ -694,20 +850,26 @@
       "nl": "Al Haouz",
       "pt": "Al Haouz",
       "sv": "Al-Haouz",
-      "ur": "الحوز صوبہ"
+      "ur": "الحوز صوبہ",
+      "ceb": "Al-Haouz",
+      "zh": "豪茲省",
+      "pl": "prowincja Al Haouz",
+      "ccp": "𑄃𑄣𑄴 𑄦𑄅𑄪𑄌𑄴"
     },
-    "geo": {
-      "latitude": 31.2956729,
-      "longitude": -7.872159999999999,
-      "min_latitude": 30.862742,
-      "min_longitude": -8.5580064,
-      "max_latitude": 31.7052412,
-      "max_longitude": -7.0889282
-    },
-    "name": "Al Haouz"
+    "comments": null
   },
   "HOC": {
+    "name": "Al Hoceïma",
+    "code": null,
     "unofficial_names": "Al Hoceïma",
+    "geo": {
+      "latitude": 35.25,
+      "longitude": -3.933333,
+      "min_latitude": 35.2178035,
+      "min_longitude": -3.9659865,
+      "max_latitude": 35.2618515,
+      "max_longitude": -3.9094573
+    },
     "translations": {
       "en": "Al Hoceïma",
       "ar": "إقليم الحسيمة",
@@ -720,20 +882,26 @@
       "nl": "Al Hoceima",
       "ru": "Эль-Хосейма (провинция)",
       "sv": "Al-Hoceima (provins i Marocko)",
-      "ur": "الحسیمہ صوبہ"
+      "ur": "الحسیمہ صوبہ",
+      "ceb": "Al-Hoceima",
+      "zh": "胡塞馬省",
+      "ccp": "𑄃𑄣𑄴 𑄦𑄮𑄥𑄬𑄭𑄟",
+      "gl": "Provincia de Al-Hoceima"
     },
-    "geo": {
-      "latitude": 35.25,
-      "longitude": -3.933333,
-      "min_latitude": 35.2178035,
-      "min_longitude": -3.9659865,
-      "max_latitude": 35.2618515,
-      "max_longitude": -3.9094573
-    },
-    "name": "Al Hoceïma"
+    "comments": null
   },
   "IFR": {
+    "name": "Ifrane",
+    "code": null,
     "unofficial_names": "Ifrane",
+    "geo": {
+      "latitude": 33.5228062,
+      "longitude": -5.1109552,
+      "min_latitude": 33.4804938,
+      "min_longitude": -5.169239,
+      "max_latitude": 33.5549144,
+      "max_longitude": -5.086154899999999
+    },
     "translations": {
       "en": "Ifrane",
       "ar": "إقليم إفران",
@@ -745,20 +913,25 @@
       "ja": "イフレン州",
       "nl": "Ifrane",
       "ru": "Ифран (провинция)",
-      "sv": "Ifrane"
+      "sv": "Ifrane",
+      "ceb": "Ifrane (lalawigan)",
+      "zh": "伊夫蘭省",
+      "ccp": "𑄃𑄨𑄜𑄳𑄢𑄭𑄚𑄴"
     },
-    "geo": {
-      "latitude": 33.5228062,
-      "longitude": -5.1109552,
-      "min_latitude": 33.4804938,
-      "min_longitude": -5.169239,
-      "max_latitude": 33.5549144,
-      "max_longitude": -5.086154899999999
-    },
-    "name": "Ifrane"
+    "comments": null
   },
   "JDI": {
+    "name": "El Jadida",
+    "code": null,
     "unofficial_names": "El Jadida",
+    "geo": {
+      "latitude": 33.233333,
+      "longitude": -8.5,
+      "min_latitude": 33.202792,
+      "min_longitude": -8.5413515,
+      "max_latitude": 33.2641124,
+      "max_longitude": -8.4659775
+    },
     "translations": {
       "en": "El Jadida",
       "ar": "إقليم الجديدة",
@@ -769,20 +942,25 @@
       "it": "Provincia di El Jadida",
       "ja": "アル・ジャディーダ州",
       "nl": "El Jadida",
-      "sv": "El-Jadida"
+      "sv": "El-Jadida",
+      "ceb": "El-Jadida (lalawigan)",
+      "zh": "傑迪代省",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄎𑄓𑄨𑄘"
     },
-    "geo": {
-      "latitude": 33.233333,
-      "longitude": -8.5,
-      "min_latitude": 33.202792,
-      "min_longitude": -8.5413515,
-      "max_latitude": 33.2641124,
-      "max_longitude": -8.4659775
-    },
-    "name": "El Jadida"
+    "comments": null
   },
   "JRA": {
+    "name": "Jerada",
+    "code": null,
     "unofficial_names": "Jerada",
+    "geo": {
+      "latitude": 34.311667,
+      "longitude": -2.163611,
+      "min_latitude": 34.2897364,
+      "min_longitude": -2.2159766,
+      "max_latitude": 34.3264968,
+      "max_longitude": -2.1487284
+    },
     "translations": {
       "en": "Jerada",
       "ar": "إقليم جرادة",
@@ -794,20 +972,26 @@
       "ja": "ジェラダ州",
       "nl": "Jerada",
       "sv": "Jerada (provins)",
-      "ur": "جرادہ صوبہ"
+      "ur": "جرادہ صوبہ",
+      "ceb": "Jerada (lalawigan)",
+      "zh": "傑拉達省",
+      "fa": "استان جراده",
+      "ccp": "𑄎𑄬𑄢𑄓"
     },
-    "geo": {
-      "latitude": 34.311667,
-      "longitude": -2.163611,
-      "min_latitude": 34.2897364,
-      "min_longitude": -2.2159766,
-      "max_latitude": 34.3264968,
-      "max_longitude": -2.1487284
-    },
-    "name": "Jerada"
+    "comments": null
   },
   "KEN": {
+    "name": "Kénitra",
+    "code": null,
     "unofficial_names": "Kénitra",
+    "geo": {
+      "latitude": 34.25,
+      "longitude": -6.583333,
+      "min_latitude": 34.2233904,
+      "min_longitude": -6.682949,
+      "max_latitude": 34.310032,
+      "max_longitude": -6.5178107
+    },
     "translations": {
       "en": "Kénitra",
       "ar": "إقليم القنيطرة",
@@ -820,20 +1004,26 @@
       "nl": "Kénitra",
       "ru": "провинция Кенитра",
       "sv": "Kenitra Province",
-      "ur": "قنیطرہ صوبہ"
+      "ur": "قنیطرہ صوبہ",
+      "ceb": "Kenitra Province",
+      "zh": "蓋尼特拉省",
+      "fa": "استان قنیطره",
+      "ccp": "𑄇𑄬𑄚𑄨𑄑𑄳𑄢"
     },
-    "geo": {
-      "latitude": 34.25,
-      "longitude": -6.583333,
-      "min_latitude": 34.2233904,
-      "min_longitude": -6.682949,
-      "max_latitude": 34.310032,
-      "max_longitude": -6.5178107
-    },
-    "name": "Kénitra"
+    "comments": null
   },
   "KES": {
+    "name": "Kelaat Sraghna",
+    "code": null,
     "unofficial_names": "Kelaat Sraghna",
+    "geo": {
+      "latitude": 32.048056,
+      "longitude": -7.408333000000001,
+      "min_latitude": 32.0310284,
+      "min_longitude": -7.431478500000001,
+      "max_latitude": 32.0710322,
+      "max_longitude": -7.3746578
+    },
     "translations": {
       "en": "Kelaat Sraghna",
       "ar": "إقليم قلعة السراغنة",
@@ -846,20 +1036,26 @@
       "nl": "Kelâat Es-Sraghna",
       "pt": "El Kelâat Es-Sraghna",
       "sv": "Kelaa-Des-Sraghna",
-      "ur": "القعہ سراغنہ صوبہ"
+      "ur": "القعہ سراغنہ صوبہ",
+      "ceb": "Kelaa-Des-Sraghna",
+      "zh": "斯拉格奈堡省",
+      "fa": "استان قلعه سراغنه",
+      "ccp": "𑄇𑄬𑄣𑄖𑄴 𑄥𑄳𑄢𑄇𑄴𑄚"
     },
-    "geo": {
-      "latitude": 32.048056,
-      "longitude": -7.408333000000001,
-      "min_latitude": 32.0310284,
-      "min_longitude": -7.431478500000001,
-      "max_latitude": 32.0710322,
-      "max_longitude": -7.3746578
-    },
-    "name": "Kelaat Sraghna"
+    "comments": null
   },
   "KHE": {
+    "name": "Khemisset",
+    "code": null,
     "unofficial_names": "Khemisset",
+    "geo": {
+      "latitude": 33.816667,
+      "longitude": -6.066667,
+      "min_latitude": 33.7989952,
+      "min_longitude": -6.1040727,
+      "max_latitude": 33.848522,
+      "max_longitude": -6.0419214
+    },
     "translations": {
       "en": "Khemisset",
       "ar": "إقليم الخميسات",
@@ -870,20 +1066,25 @@
       "it": "Provincia di Khemisset",
       "ja": "ケミセット州",
       "nl": "Khémisset",
-      "sv": "Khemisset (provins i Marocko)"
+      "sv": "Khemisset (provins i Marocko)",
+      "ceb": "Khemisset (lalawigan)",
+      "zh": "海米薩特省",
+      "ccp": "𑄈𑄬𑄟𑄨𑄥𑄬𑄖𑄴"
     },
-    "geo": {
-      "latitude": 33.816667,
-      "longitude": -6.066667,
-      "min_latitude": 33.7989952,
-      "min_longitude": -6.1040727,
-      "max_latitude": 33.848522,
-      "max_longitude": -6.0419214
-    },
-    "name": "Khemisset"
+    "comments": null
   },
   "KHN": {
+    "name": "Khenifra",
+    "code": null,
     "unofficial_names": "Khenifra",
+    "geo": {
+      "latitude": 32.939444,
+      "longitude": -5.6675,
+      "min_latitude": 32.9063255,
+      "min_longitude": -5.691261300000001,
+      "max_latitude": 32.9613621,
+      "max_longitude": -5.6215668
+    },
     "translations": {
       "en": "Khénifra",
       "ar": "إقليم خنيفرة",
@@ -893,20 +1094,25 @@
       "fr": "province de Khénifra",
       "it": "Provincia di Khenifra",
       "ja": "ヘニフラ州",
-      "nl": "Khénifra"
+      "nl": "Khénifra",
+      "ceb": "Khenifra (lalawigan)",
+      "zh": "海尼夫拉省",
+      "ccp": "𑄈𑄬𑄚𑄨𑄜𑄳𑄢"
     },
-    "geo": {
-      "latitude": 32.939444,
-      "longitude": -5.6675,
-      "min_latitude": 32.9063255,
-      "min_longitude": -5.691261300000001,
-      "max_latitude": 32.9613621,
-      "max_longitude": -5.6215668
-    },
-    "name": "Khenifra"
+    "comments": null
   },
   "KHO": {
+    "name": "Khouribga",
+    "code": null,
     "unofficial_names": "Khouribga",
+    "geo": {
+      "latitude": 32.886023,
+      "longitude": -6.9208655,
+      "min_latitude": 32.8434018,
+      "min_longitude": -6.963607000000001,
+      "max_latitude": 32.9182217,
+      "max_longitude": -6.8709799
+    },
     "translations": {
       "en": "Khouribga",
       "ar": "إقليم خريبكة",
@@ -917,20 +1123,25 @@
       "it": "Provincia di Khouribga",
       "ja": "クーリブカ州",
       "nl": "Khouribga (provincie)",
-      "sv": "Khouribga Province"
+      "sv": "Khouribga Province",
+      "ceb": "Khouribga Province",
+      "zh": "胡里卜蓋省",
+      "ccp": "𑄈𑄯𑄢𑄨𑄛𑄴𑄉"
     },
-    "geo": {
-      "latitude": 32.886023,
-      "longitude": -6.9208655,
-      "min_latitude": 32.8434018,
-      "min_longitude": -6.963607000000001,
-      "max_latitude": 32.9182217,
-      "max_longitude": -6.8709799
-    },
-    "name": "Khouribga"
+    "comments": null
   },
   "LAA": {
+    "name": "Laâyoune* (EH)",
+    "code": null,
     "unofficial_names": "Laâyoune* (EH)",
+    "geo": {
+      "latitude": 27.1252867,
+      "longitude": -13.1625005,
+      "min_latitude": 27.0811371,
+      "min_longitude": -13.2541466,
+      "max_latitude": 27.1669433,
+      "max_longitude": -13.0969906
+    },
     "translations": {
       "en": "Laâyoune",
       "ar": "إقليم العيون",
@@ -942,20 +1153,25 @@
       "ja": "アイウン州",
       "nl": "Laâyoune",
       "pt": "Laâyoune",
-      "sv": "Laayoune (provins)"
+      "sv": "Laayoune (provins)",
+      "ceb": "Laayoune (lalawigan)",
+      "zh": "阿尤恩省",
+      "ccp": "𑄣𑄬𑄃𑄯𑄚𑄴"
     },
-    "geo": {
-      "latitude": 27.1252867,
-      "longitude": -13.1625005,
-      "min_latitude": 27.0811371,
-      "min_longitude": -13.2541466,
-      "max_latitude": 27.1669433,
-      "max_longitude": -13.0969906
-    },
-    "name": "Laâyoune* (EH)"
+    "comments": null
   },
   "LAR": {
+    "name": "Larache",
+    "code": null,
     "unofficial_names": "Larache",
+    "geo": {
+      "latitude": 35.183333,
+      "longitude": -6.15,
+      "min_latitude": 35.1456698,
+      "min_longitude": -6.1814405,
+      "max_latitude": 35.2061451,
+      "max_longitude": -6.129512800000001
+    },
     "translations": {
       "en": "Larache",
       "ar": "إقليم العرائش",
@@ -968,23 +1184,18 @@
       "nl": "Larache",
       "ru": "Лараш",
       "sv": "Larache (provins)",
-      "ur": "العرائش صوبہ"
+      "ur": "العرائش صوبہ",
+      "ceb": "Larache (lalawigan)",
+      "zh": "拉臘什省",
+      "ccp": "𑄣𑄢𑄴𑄥𑄬",
+      "be": "Лараш"
     },
-    "geo": {
-      "latitude": 35.183333,
-      "longitude": -6.15,
-      "min_latitude": 35.1456698,
-      "min_longitude": -6.1814405,
-      "max_latitude": 35.2061451,
-      "max_longitude": -6.129512800000001
-    },
-    "name": "Larache"
+    "comments": null
   },
   "MAR": {
+    "name": "Marrakech*",
+    "code": null,
     "unofficial_names": "Marrakech*",
-    "translations": {
-      "en": "Marrakech*"
-    },
     "geo": {
       "latitude": 31.63,
       "longitude": -8.008889,
@@ -993,10 +1204,23 @@
       "max_latitude": 31.7162668,
       "max_longitude": -7.887625799999999
     },
-    "name": "Marrakech*"
+    "translations": {
+      "en": "Marrakech"
+    },
+    "comments": null
   },
   "MED": {
+    "name": "Médiouna",
+    "code": null,
     "unofficial_names": "Médiouna",
+    "geo": {
+      "latitude": 33.4525,
+      "longitude": -7.514722,
+      "min_latitude": 33.44092,
+      "min_longitude": -7.526265299999999,
+      "max_latitude": 33.4622099,
+      "max_longitude": -7.508552099999999
+    },
     "translations": {
       "en": "Médiouna",
       "ar": "إقليم مديونة",
@@ -1006,20 +1230,25 @@
       "fr": "province de Médiouna",
       "it": "Provincia di Mediouna",
       "ja": "メディウナ州",
-      "nl": "Médiouna"
+      "nl": "Médiouna",
+      "ceb": "Mediouna",
+      "zh": "梅久那省",
+      "ccp": "𑄟𑄬𑄓𑄨𑄃𑄯𑄚"
     },
-    "geo": {
-      "latitude": 33.4525,
-      "longitude": -7.514722,
-      "min_latitude": 33.44092,
-      "min_longitude": -7.526265299999999,
-      "max_latitude": 33.4622099,
-      "max_longitude": -7.508552099999999
-    },
-    "name": "Médiouna"
+    "comments": null
   },
   "MEK": {
+    "name": "Meknès*",
+    "code": null,
     "unofficial_names": "Meknès*",
+    "geo": {
+      "latitude": 33.895,
+      "longitude": -5.554722,
+      "min_latitude": 33.8338915,
+      "min_longitude": -5.6096258,
+      "max_latitude": 33.9281185,
+      "max_longitude": -5.466414599999999
+    },
     "translations": {
       "en": "Meknès",
       "ar": "مكناس",
@@ -1067,23 +1296,23 @@
       "tr": "Meknes",
       "uk": "Мекнес",
       "ur": "مکناس",
-      "vi": "Meknes"
+      "vi": "Meknes",
+      "lv": "Meknesa",
+      "cy": "Meknès",
+      "ceb": "Meknès",
+      "sr_Latn": "Meknes",
+      "zh": "梅克内斯",
+      "ccp": "𑄟𑄬𑄇𑄴𑄚𑄨𑄌𑄴",
+      "kk": "Мекнес қаласы",
+      "uz": "Miknas",
+      "mk": "Мекнес"
     },
-    "geo": {
-      "latitude": 33.895,
-      "longitude": -5.554722,
-      "min_latitude": 33.8338915,
-      "min_longitude": -5.6096258,
-      "max_latitude": 33.9281185,
-      "max_longitude": -5.466414599999999
-    },
-    "name": "Meknès*"
+    "comments": null
   },
   "MEL": {
+    "name": "Aït Melloul",
+    "code": null,
     "unofficial_names": "Aït Melloul",
-    "translations": {
-      "en": "Aït Melloul"
-    },
     "geo": {
       "latitude": 30.334167,
       "longitude": -9.497221999999999,
@@ -1092,10 +1321,23 @@
       "max_latitude": 30.3755411,
       "max_longitude": -9.4401741
     },
-    "name": "Aït Melloul"
+    "translations": {
+      "en": "Aït Melloul"
+    },
+    "comments": null
   },
   "MOU": {
+    "name": "Moulay Yacoub",
+    "code": null,
     "unofficial_names": "Moulay Yacoub",
+    "geo": {
+      "latitude": 34.0878,
+      "longitude": -5.1811,
+      "min_latitude": 34.0821661,
+      "min_longitude": -5.1857186,
+      "max_latitude": 34.0926153,
+      "max_longitude": -5.1716422
+    },
     "translations": {
       "en": "Moulay Yacoub",
       "ar": "إقليم مولاي يعقوب",
@@ -1106,20 +1348,25 @@
       "it": "Prefettura di Moulay Yacoub",
       "ja": "ムーレイ・ヤコブ州",
       "nl": "Moulay Yacoub",
-      "sv": "Moulay-Yacoub"
+      "sv": "Moulay-Yacoub",
+      "ceb": "Moulay-Yacoub",
+      "zh": "穆雷省",
+      "ccp": "𑄟𑄯𑄣𑄬 𑄃𑄨𑄠𑄇𑄪𑄛𑄴"
     },
-    "geo": {
-      "latitude": 34.0878,
-      "longitude": -5.1811,
-      "min_latitude": 34.0821661,
-      "min_longitude": -5.1857186,
-      "max_latitude": 34.0926153,
-      "max_longitude": -5.1716422
-    },
-    "name": "Moulay Yacoub"
+    "comments": null
   },
   "NAD": {
+    "name": "Nador",
+    "code": null,
     "unofficial_names": "Nador",
+    "geo": {
+      "latitude": 35.166667,
+      "longitude": -2.933333,
+      "min_latitude": 35.1237717,
+      "min_longitude": -2.9779407,
+      "max_latitude": 35.2065182,
+      "max_longitude": -2.9002642
+    },
     "translations": {
       "en": "Nador",
       "ar": "إقليم الناظور",
@@ -1132,20 +1379,28 @@
       "nl": "Nador",
       "ru": "Надор",
       "sv": "Nador (provins)",
-      "ur": "ناظور صوبہ"
+      "ur": "ناظور صوبہ",
+      "af": "Nador (provinsie)",
+      "ceb": "Nador (lalawigan)",
+      "zh": "納祖爾省",
+      "fa": "استان ناظور",
+      "el": "Επαρχία του Ναντόρ",
+      "ccp": "𑄚𑄓𑄧𑄢𑄴"
     },
-    "geo": {
-      "latitude": 35.166667,
-      "longitude": -2.933333,
-      "min_latitude": 35.1237717,
-      "min_longitude": -2.9779407,
-      "max_latitude": 35.2065182,
-      "max_longitude": -2.9002642
-    },
-    "name": "Nador"
+    "comments": null
   },
   "NOU": {
+    "name": "Nouaceur",
+    "code": null,
     "unofficial_names": "Nouaceur",
+    "geo": {
+      "latitude": 33.3721834,
+      "longitude": -7.547006599999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nouaceur",
       "ar": "إقليم النواصر",
@@ -1155,20 +1410,26 @@
       "fr": "province de Nouaceur",
       "it": "Provincia di Nouaceur",
       "ja": "ノウアセウル州",
-      "nl": "Nouaceur"
+      "nl": "Nouaceur",
+      "ceb": "Nouaceur (lalawigan)",
+      "ur": "صوبہ نواصر",
+      "zh": "諾瓦瑟爾省",
+      "ccp": "𑄚𑄯𑄃𑄥𑄬𑄅𑄪𑄢𑄴"
     },
-    "geo": {
-      "latitude": 33.3721834,
-      "longitude": -7.547006599999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Nouaceur"
+    "comments": null
   },
   "OUA": {
+    "name": "Ouarzazate",
+    "code": null,
     "unofficial_names": "Ouarzazate",
+    "geo": {
+      "latitude": 30.9335436,
+      "longitude": -6.937016,
+      "min_latitude": 30.915294,
+      "min_longitude": -6.99224,
+      "max_latitude": 30.9557508,
+      "max_longitude": -6.8729387
+    },
     "translations": {
       "en": "Ouarzazate",
       "ar": "إقليم ورززات",
@@ -1179,20 +1440,27 @@
       "it": "Provincia di Ouarzazate",
       "ja": "ワルザザート州",
       "nl": "Ouarzazate",
-      "pt": "Ouarzazate"
+      "pt": "Ouarzazate",
+      "ceb": "Ouarzazate",
+      "zh": "瓦爾扎扎特省",
+      "fa": "استان ورززات",
+      "pl": "prowincja Ouarzazate",
+      "ccp": "𑄇𑄯𑄢𑄴𑄎𑄎𑄖𑄴"
     },
-    "geo": {
-      "latitude": 30.9335436,
-      "longitude": -6.937016,
-      "min_latitude": 30.915294,
-      "min_longitude": -6.99224,
-      "max_latitude": 30.9557508,
-      "max_longitude": -6.8729387
-    },
-    "name": "Ouarzazate"
+    "comments": null
   },
   "OUD": {
+    "name": "Oued ed Dahab (EH)",
+    "code": null,
     "unofficial_names": "Oued ed Dahab (EH)",
+    "geo": {
+      "latitude": 21.369212,
+      "longitude": -16.9570741,
+      "min_latitude": 21.3686192,
+      "min_longitude": -16.9578964,
+      "max_latitude": 21.3696659,
+      "max_longitude": -16.9564694
+    },
     "translations": {
       "en": "Oued Ed-Dahab",
       "ar": "إقليم وادي الذهب",
@@ -1224,20 +1492,28 @@
       "th": "จังหวัดเกด เอด ดาอับ",
       "tr": "Oued Ed-Dahab Province",
       "ur": "ووید ید-داحاب صوبہ",
-      "vi": "Oued Ed-Dahab Tỉnh"
+      "vi": "Oued Ed-Dahab Tỉnh",
+      "lv": "Oued Ed-Dahabas province",
+      "ceb": "Oued Ed-Dahab-Lagouira",
+      "lt": "Ued Ed-Dahabas",
+      "zh": "黃金谷地省",
+      "ccp": "𑄇𑄪𑄠𑄬𑄖𑄴 𑄃𑄨𑄖𑄴-𑄓𑄦𑄛𑄴",
+      "uk": "Провінція Уед-Ед-Дахаб"
     },
-    "geo": {
-      "latitude": 21.369212,
-      "longitude": -16.9570741,
-      "min_latitude": 21.3686192,
-      "min_longitude": -16.9578964,
-      "max_latitude": 21.3696659,
-      "max_longitude": -16.9564694
-    },
-    "name": "Oued ed Dahab (EH)"
+    "comments": null
   },
   "OUJ": {
+    "name": "Oujda*",
+    "code": null,
     "unofficial_names": "Oujda*",
+    "geo": {
+      "latitude": 34.686667,
+      "longitude": -1.911389,
+      "min_latitude": 34.6418294,
+      "min_longitude": -1.963159,
+      "max_latitude": 34.7273116,
+      "max_longitude": -1.8517972
+    },
     "translations": {
       "en": "Oujda-Angad",
       "ar": "وجدة",
@@ -1282,23 +1558,23 @@
       "tr": "Ucda",
       "uk": "Уджда",
       "ur": "وجدہ",
-      "vi": "Oujda"
+      "vi": "Oujda",
+      "lv": "Udždza",
+      "cy": "Oujda",
+      "ceb": "Oujda (kapital sa rehiyon)",
+      "zh": "乌季达",
+      "sq": "Oujda",
+      "ccp": "𑄃𑄯𑄌𑄴𑄓-𑄃𑄚𑄴𑄉𑄖𑄴",
+      "gl": "Oujda",
+      "kk": "Уджда қаласы",
+      "mk": "Уџда"
     },
-    "geo": {
-      "latitude": 34.686667,
-      "longitude": -1.911389,
-      "min_latitude": 34.6418294,
-      "min_longitude": -1.963159,
-      "max_latitude": 34.7273116,
-      "max_longitude": -1.8517972
-    },
-    "name": "Oujda*"
+    "comments": null
   },
   "RBA": {
+    "name": "Rabat-Salé*",
+    "code": null,
     "unofficial_names": "Rabat-Salé*",
-    "translations": {
-      "en": "Rabat-Salé*"
-    },
     "geo": {
       "latitude": 33.9715904,
       "longitude": -6.8498129,
@@ -1307,10 +1583,23 @@
       "max_latitude": 34.0348239,
       "max_longitude": -6.791642
     },
-    "name": "Rabat-Salé*"
+    "translations": {
+      "en": "Rabat-Salé*"
+    },
+    "comments": null
   },
   "SAF": {
+    "name": "Safi",
+    "code": null,
     "unofficial_names": "Safi",
+    "geo": {
+      "latitude": 32.3008151,
+      "longitude": -9.2272033,
+      "min_latitude": 32.2431484,
+      "min_longitude": -9.2796346,
+      "max_latitude": 32.3430063,
+      "max_longitude": -9.1936504
+    },
     "translations": {
       "en": "Safi",
       "ar": "إقليم آسفي",
@@ -1321,20 +1610,26 @@
       "it": "Provincia di Safi",
       "ja": "サフィ州",
       "nl": "Safi",
-      "sv": "Safi (provins)"
+      "sv": "Safi (provins)",
+      "ceb": "Safi (lalawigan)",
+      "zh": "薩非省",
+      "el": "επαρχία Σάφι",
+      "ccp": "𑄥𑄜𑄨"
     },
-    "geo": {
-      "latitude": 32.3008151,
-      "longitude": -9.2272033,
-      "min_latitude": 32.2431484,
-      "min_longitude": -9.2796346,
-      "max_latitude": 32.3430063,
-      "max_longitude": -9.1936504
-    },
-    "name": "Safi"
+    "comments": null
   },
   "SAL": {
+    "name": "Salé",
+    "code": null,
     "unofficial_names": "Salé",
+    "geo": {
+      "latitude": 34.0336969,
+      "longitude": -6.770813800000001,
+      "min_latitude": 33.9791132,
+      "min_longitude": -6.834943,
+      "max_latitude": 34.0964405,
+      "max_longitude": -6.709358600000001
+    },
     "translations": {
       "en": "Salé",
       "ar": "سلا",
@@ -1378,20 +1673,32 @@
       "tr": "Salé",
       "uk": "Сале",
       "ur": "سلا",
-      "vi": "Salé"
+      "vi": "Salé",
+      "lv": "Sale",
+      "cy": "Salé",
+      "ceb": "Sale",
+      "sr_Latn": "Sale",
+      "zh": "塞拉",
+      "ccp": "𑄥𑄣𑄬",
+      "sr": "Сале",
+      "kk": "Сале",
+      "cs": "Salé",
+      "mk": "Сале"
     },
-    "geo": {
-      "latitude": 34.0336969,
-      "longitude": -6.770813800000001,
-      "min_latitude": 33.9791132,
-      "min_longitude": -6.834943,
-      "max_latitude": 34.0964405,
-      "max_longitude": -6.709358600000001
-    },
-    "name": "Salé"
+    "comments": null
   },
   "SEF": {
+    "name": "Sefrou",
+    "code": null,
     "unofficial_names": "Sefrou",
+    "geo": {
+      "latitude": 33.8305244,
+      "longitude": -4.835315400000001,
+      "min_latitude": 33.8098898,
+      "min_longitude": -4.854927099999999,
+      "max_latitude": 33.8492472,
+      "max_longitude": -4.802141199999999
+    },
     "translations": {
       "en": "Sefrou",
       "ar": "إقليم صفرو",
@@ -1402,20 +1709,25 @@
       "it": "Provincia di Sefrou",
       "ja": "セフル州",
       "nl": "Sefrou",
-      "sv": "Sefrou (provins)"
+      "sv": "Sefrou (provins)",
+      "ceb": "Sefrou (lalawigan)",
+      "zh": "塞夫勞省",
+      "ccp": "𑄥𑄬𑄜𑄳𑄢𑄧𑄮"
     },
-    "geo": {
-      "latitude": 33.8305244,
-      "longitude": -4.835315400000001,
-      "min_latitude": 33.8098898,
-      "min_longitude": -4.854927099999999,
-      "max_latitude": 33.8492472,
-      "max_longitude": -4.802141199999999
-    },
-    "name": "Sefrou"
+    "comments": null
   },
   "SET": {
+    "name": "Settat",
+    "code": null,
     "unofficial_names": "Settat",
+    "geo": {
+      "latitude": 33,
+      "longitude": -7.6167,
+      "min_latitude": 32.9683838,
+      "min_longitude": -7.663727499999998,
+      "max_latitude": 33.0173469,
+      "max_longitude": -7.575590699999998
+    },
     "translations": {
       "en": "Settat",
       "ar": "إقليم سطات",
@@ -1426,20 +1738,25 @@
       "it": "Provincia di Settat",
       "ja": "セタト州",
       "nl": "Settat",
-      "sv": "Settat Province"
+      "sv": "Settat Province",
+      "ceb": "Settat Province",
+      "zh": "塞塔特省",
+      "ccp": "𑄥𑄬𑄖𑄴𑄑𑄖𑄴"
     },
-    "geo": {
-      "latitude": 33,
-      "longitude": -7.6167,
-      "min_latitude": 32.9683838,
-      "min_longitude": -7.663727499999998,
-      "max_latitude": 33.0173469,
-      "max_longitude": -7.575590699999998
-    },
-    "name": "Settat"
+    "comments": null
   },
   "SIK": {
+    "name": "Sidi Kacem",
+    "code": null,
     "unofficial_names": "Sidi Kacem",
+    "geo": {
+      "latitude": 34.216667,
+      "longitude": -5.7,
+      "min_latitude": 34.2092469,
+      "min_longitude": -5.7565785,
+      "max_latitude": 34.2702685,
+      "max_longitude": -5.6877422
+    },
     "translations": {
       "en": "Sidi Kacem",
       "ar": "إقليم سيدي قاسم",
@@ -1451,20 +1768,26 @@
       "ja": "シディ・カセム州",
       "nl": "Sidi Kacem",
       "sv": "Sidi-Kacem (provins i Marocko)",
-      "ur": "سیدی قاسم صوبہ"
+      "ur": "سیدی قاسم صوبہ",
+      "ceb": "Sidi-Kacem (lalawigan)",
+      "zh": "西迪卡塞姆省",
+      "fa": "استان سیدی قاسم",
+      "ccp": "𑄥𑄨𑄓𑄨 𑄇𑄥𑄬𑄟𑄴"
     },
-    "geo": {
-      "latitude": 34.216667,
-      "longitude": -5.7,
-      "min_latitude": 34.2092469,
-      "min_longitude": -5.7565785,
-      "max_latitude": 34.2702685,
-      "max_longitude": -5.6877422
-    },
-    "name": "Sidi Kacem"
+    "comments": null
   },
   "SKH": {
+    "name": "Skhirate-Témara",
+    "code": null,
     "unofficial_names": "Skhirate-Témara",
+    "geo": {
+      "latitude": 33.9278354,
+      "longitude": -6.9051819,
+      "min_latitude": 33.8619702,
+      "min_longitude": -7.0053398,
+      "max_latitude": 33.9586252,
+      "max_longitude": -6.877097999999999
+    },
     "translations": {
       "en": "Skhirat-Témara",
       "ar": "تمارة",
@@ -1499,20 +1822,28 @@
       "th": "เตมารา",
       "tr": "Temara",
       "ur": "تمارہ",
-      "vi": "Temara"
+      "vi": "Temara",
+      "lv": "Temara",
+      "ceb": "Temara (kapital sa munisipyo)",
+      "zh": "特马拉",
+      "ccp": "𑄈𑄨𑄢𑄖𑄴-𑄑𑄬𑄟𑄢",
+      "uk": "Темара",
+      "cs": "Temara"
     },
-    "geo": {
-      "latitude": 33.9278354,
-      "longitude": -6.9051819,
-      "min_latitude": 33.8619702,
-      "min_longitude": -7.0053398,
-      "max_latitude": 33.9586252,
-      "max_longitude": -6.877097999999999
-    },
-    "name": "Skhirate-Témara"
+    "comments": null
   },
   "SYB": {
+    "name": "Sidi Youssef Ben Ali",
+    "code": null,
     "unofficial_names": "Sidi Youssef Ben Ali",
+    "geo": {
+      "latitude": 31.6084373,
+      "longitude": -7.965306699999999,
+      "min_latitude": 31.5528848,
+      "min_longitude": -7.978788499999999,
+      "max_latitude": 31.6256135,
+      "max_longitude": -7.920498799999999
+    },
     "translations": {
       "en": "Sidi Youssef Ben Ali",
       "af": "Marrakesj³",
@@ -1568,20 +1899,25 @@
       "tr": "Marakeş³",
       "uk": "Марракеш³",
       "ur": "مراکش (شہر)³",
-      "vi": "Marrakech³"
+      "vi": "Marrakech³",
+      "sr_Latn": "Marakeš³",
+      "zh": "马拉喀什³",
+      "ccp": "𑄥𑄨𑄓𑄨 𑄃𑄨𑄅𑄪𑄥𑄬𑄛𑄴 𑄝𑄬𑄚𑄴 𑄃𑄣𑄨"
     },
-    "geo": {
-      "latitude": 31.6084373,
-      "longitude": -7.965306699999999,
-      "min_latitude": 31.5528848,
-      "min_longitude": -7.978788499999999,
-      "max_latitude": 31.6256135,
-      "max_longitude": -7.920498799999999
-    },
-    "name": "Sidi Youssef Ben Ali"
+    "comments": null
   },
   "TAI": {
+    "name": "Taourirt",
+    "code": null,
     "unofficial_names": "Taourirt",
+    "geo": {
+      "latitude": 34.3983716,
+      "longitude": -2.8935028,
+      "min_latitude": 34.3875042,
+      "min_longitude": -2.9234147,
+      "max_latitude": 34.4237263,
+      "max_longitude": -2.8746414
+    },
     "translations": {
       "en": "Taourirt",
       "ar": "إقليم تاوريرت",
@@ -1593,20 +1929,25 @@
       "ja": "タウリル州",
       "nl": "Taourirt",
       "pl": "Taurirt",
-      "ur": "تاوریرت صوبہ"
+      "ur": "تاوریرت صوبہ",
+      "zh": "陶里爾特省",
+      "fa": "استان تاوریرت",
+      "ccp": "𑄑𑄯𑄢𑄨𑄢𑄴𑄑𑄴"
     },
-    "geo": {
-      "latitude": 34.3983716,
-      "longitude": -2.8935028,
-      "min_latitude": 34.3875042,
-      "min_longitude": -2.9234147,
-      "max_latitude": 34.4237263,
-      "max_longitude": -2.8746414
-    },
-    "name": "Taourirt"
+    "comments": null
   },
   "TAO": {
+    "name": "Taounate",
+    "code": null,
     "unofficial_names": "Taounate",
+    "geo": {
+      "latitude": 34.535833,
+      "longitude": -4.64,
+      "min_latitude": 34.5246897,
+      "min_longitude": -4.6587909,
+      "max_latitude": 34.555448,
+      "max_longitude": -4.6242773
+    },
     "translations": {
       "en": "Taounate",
       "ar": "إقليم تاونات",
@@ -1617,20 +1958,25 @@
       "it": "Provincia di Taounate",
       "ja": "タウナト州",
       "nl": "Taounate",
-      "sv": "Taounate (provins)"
+      "sv": "Taounate (provins)",
+      "ceb": "Taounate",
+      "zh": "陶納特省",
+      "ccp": "𑄑𑄯𑄚𑄖𑄴"
     },
-    "geo": {
-      "latitude": 34.535833,
-      "longitude": -4.64,
-      "min_latitude": 34.5246897,
-      "min_longitude": -4.6587909,
-      "max_latitude": 34.555448,
-      "max_longitude": -4.6242773
-    },
-    "name": "Taounate"
+    "comments": null
   },
   "TAR": {
+    "name": "Taroudannt",
+    "code": null,
     "unofficial_names": "Taroudannt",
+    "geo": {
+      "latitude": 30.466944,
+      "longitude": -8.879999999999999,
+      "min_latitude": 30.459809,
+      "min_longitude": -8.9028739,
+      "max_latitude": 30.497608,
+      "max_longitude": -8.8509464
+    },
     "translations": {
       "en": "Taroudant",
       "ar": "إقليم تارودانت",
@@ -1643,20 +1989,25 @@
       "ja": "タルーダント州",
       "nl": "Taroudant",
       "pt": "Tarudante",
-      "sv": "Taroudannt (provins)"
+      "sv": "Taroudannt (provins)",
+      "ceb": "Taroudannt",
+      "zh": "塔魯丹特省",
+      "ccp": "𑄑𑄢𑄯𑄓𑄚𑄴𑄑𑄴"
     },
-    "geo": {
-      "latitude": 30.466944,
-      "longitude": -8.879999999999999,
-      "min_latitude": 30.459809,
-      "min_longitude": -8.9028739,
-      "max_latitude": 30.497608,
-      "max_longitude": -8.8509464
-    },
-    "name": "Taroudannt"
+    "comments": null
   },
   "TAT": {
+    "name": "Tata",
+    "code": null,
     "unofficial_names": "Tata",
+    "geo": {
+      "latitude": 29.742778,
+      "longitude": -7.972499999999998,
+      "min_latitude": 29.7337501,
+      "min_longitude": -7.996587799999999,
+      "max_latitude": 29.7831515,
+      "max_longitude": -7.9531574
+    },
     "translations": {
       "en": "Tata",
       "ar": "إقليم طاطا",
@@ -1667,20 +2018,25 @@
       "it": "Provincia di Tata",
       "ja": "タタ州",
       "nl": "Tata",
-      "sv": "Tata (provins)"
+      "sv": "Tata (provins)",
+      "ceb": "Tata",
+      "zh": "塔塔省",
+      "ccp": "𑄑𑄑"
     },
-    "geo": {
-      "latitude": 29.742778,
-      "longitude": -7.972499999999998,
-      "min_latitude": 29.7337501,
-      "min_longitude": -7.996587799999999,
-      "max_latitude": 29.7831515,
-      "max_longitude": -7.9531574
-    },
-    "name": "Tata"
+    "comments": null
   },
   "TAZ": {
+    "name": "Taza",
+    "code": null,
     "unofficial_names": "Taza",
+    "geo": {
+      "latitude": 34.216667,
+      "longitude": -4.016667,
+      "min_latitude": 34.1945525,
+      "min_longitude": -4.0451144,
+      "max_latitude": 34.2452976,
+      "max_longitude": -3.9336206
+    },
     "translations": {
       "en": "Taza",
       "ar": "إقليم تازة",
@@ -1691,20 +2047,25 @@
       "it": "Provincia di Taza",
       "ja": "ターザ州",
       "nl": "Taza",
-      "sv": "Taza (provins)"
+      "sv": "Taza (provins)",
+      "ceb": "Taza (lalawigan)",
+      "zh": "塔扎省",
+      "ccp": "𑄑𑄎"
     },
-    "geo": {
-      "latitude": 34.216667,
-      "longitude": -4.016667,
-      "min_latitude": 34.1945525,
-      "min_longitude": -4.0451144,
-      "max_latitude": 34.2452976,
-      "max_longitude": -3.9336206
-    },
-    "name": "Taza"
+    "comments": null
   },
   "TET": {
+    "name": "Tétouan*",
+    "code": null,
     "unofficial_names": "Tétouan*",
+    "geo": {
+      "latitude": 35.566667,
+      "longitude": -5.366667,
+      "min_latitude": 35.5562292,
+      "min_longitude": -5.4377174,
+      "max_latitude": 35.6139067,
+      "max_longitude": -5.2952385
+    },
     "translations": {
       "en": "Tétouan",
       "ar": "إقليم تطوان",
@@ -1716,20 +2077,25 @@
       "ja": "テトゥアン州",
       "nl": "Tétouan",
       "sv": "Tetouan (provins i Marocko)",
-      "ur": "تطوان صوبہ"
+      "ur": "تطوان صوبہ",
+      "ceb": "Tetouan",
+      "zh": "得土安省",
+      "ccp": "𑄑𑄬𑄑𑄯𑄠𑄚𑄴"
     },
-    "geo": {
-      "latitude": 35.566667,
-      "longitude": -5.366667,
-      "min_latitude": 35.5562292,
-      "min_longitude": -5.4377174,
-      "max_latitude": 35.6139067,
-      "max_longitude": -5.2952385
-    },
-    "name": "Tétouan*"
+    "comments": null
   },
   "TIZ": {
+    "name": "Tiznit",
+    "code": null,
     "unofficial_names": "Tiznit",
+    "geo": {
+      "latitude": 29.693392,
+      "longitude": -9.732156999999999,
+      "min_latitude": 29.67264399999999,
+      "min_longitude": -9.7581326,
+      "max_latitude": 29.7290494,
+      "max_longitude": -9.702920899999999
+    },
     "translations": {
       "en": "Tiznit",
       "ar": "إقليم تيزنيت",
@@ -1741,20 +2107,26 @@
       "ja": "ティーズニート州",
       "nl": "Tiznit",
       "pt": "Tiznit",
-      "sv": "Tiznit (provins)"
+      "sv": "Tiznit (provins)",
+      "ceb": "Tiznit (lalawigan)",
+      "zh": "提茲尼特省",
+      "ru": "Тизнит",
+      "ccp": "𑄑𑄨𑄌𑄴𑄚𑄨𑄖𑄴"
     },
-    "geo": {
-      "latitude": 29.693392,
-      "longitude": -9.732156999999999,
-      "min_latitude": 29.67264399999999,
-      "min_longitude": -9.7581326,
-      "max_latitude": 29.7290494,
-      "max_longitude": -9.702920899999999
-    },
-    "name": "Tiznit"
+    "comments": null
   },
   "TNG": {
+    "name": "Tanger",
+    "code": null,
     "unofficial_names": "Tanger",
+    "geo": {
+      "latitude": 35.7594651,
+      "longitude": -5.833954299999999,
+      "min_latitude": 35.7008015,
+      "min_longitude": -5.9487488,
+      "max_latitude": 35.8257368,
+      "max_longitude": -5.718555500000001
+    },
     "translations": {
       "en": "Tangier-Assilah",
       "af": "Tangier",
@@ -1807,20 +2179,35 @@
       "tr": "Tanca",
       "uk": "Танжер",
       "ur": "طنجہ",
-      "vi": "Tangier"
+      "vi": "Tangier",
+      "cy": "Tanger",
+      "ceb": "Tanger-Assilah",
+      "sr_Latn": "Tanger",
+      "zh": "丹吉尔",
+      "yue_Hans": "丹吉尔",
+      "ccp": "𑄑𑄚𑄴𑄉𑄨𑄠𑄢𑄴-𑄃𑄥𑄨𑄣𑄦𑄴",
+      "gl": "Tánxer",
+      "et": "Tanger",
+      "kk": "Танжер қаласы",
+      "yue": "丹吉爾",
+      "my": "တန်ဂျီးယားမြို့",
+      "bs": "Tanger",
+      "mk": "Тангер"
     },
-    "geo": {
-      "latitude": 35.7594651,
-      "longitude": -5.833954299999999,
-      "min_latitude": 35.7008015,
-      "min_longitude": -5.9487488,
-      "max_latitude": 35.8257368,
-      "max_longitude": -5.718555500000001
-    },
-    "name": "Tanger"
+    "comments": null
   },
   "TNT": {
+    "name": "Tan-Tan",
+    "code": null,
     "unofficial_names": "Tan-Tan",
+    "geo": {
+      "latitude": 28.4380408,
+      "longitude": -11.0987374,
+      "min_latitude": 28.4089164,
+      "min_longitude": -11.125803,
+      "max_latitude": 28.4523924,
+      "max_longitude": -11.0713005
+    },
     "translations": {
       "en": "Tan-Tan",
       "ar": "إقليم طانطان",
@@ -1831,23 +2218,18 @@
       "it": "Provincia di Tan-Tan",
       "ja": "タンタン州",
       "nl": "Tan-Tan",
-      "sv": "Tan-Tan (provins)"
+      "sv": "Tan-Tan (provins)",
+      "ceb": "Tan-Tan (lalawigan)",
+      "zh": "坦坦省",
+      "ru": "Тан-Тан",
+      "ccp": "𑄑𑄚𑄴-𑄑𑄚𑄴"
     },
-    "geo": {
-      "latitude": 28.4380408,
-      "longitude": -11.0987374,
-      "min_latitude": 28.4089164,
-      "min_longitude": -11.125803,
-      "max_latitude": 28.4523924,
-      "max_longitude": -11.0713005
-    },
-    "name": "Tan-Tan"
+    "comments": null
   },
   "X1~": {
+    "name": "Laayoune-Boujdour-Sakia El Hamra",
+    "code": null,
     "unofficial_names": "Laayoune-Boujdour-Sakia El Hamra",
-    "translations": {
-      "en": "Laayoune-Boujdour-Sakia El Hamra"
-    },
     "geo": {
       "latitude": 27.8521664,
       "longitude": -12.1632718,
@@ -1856,10 +2238,23 @@
       "max_latitude": 28.2162268,
       "max_longitude": -11.50715
     },
-    "name": "Laayoune-Boujdour-Sakia El Hamra"
+    "translations": {
+      "en": "Laayoune-Boujdour-Sakia El Hamra"
+    },
+    "comments": null
   },
   "ZAG": {
+    "name": "Zagora",
+    "code": null,
     "unofficial_names": "Zagora",
+    "geo": {
+      "latitude": 30.330556,
+      "longitude": -5.838056,
+      "min_latitude": 30.3173955,
+      "min_longitude": -5.8603477,
+      "max_latitude": 30.3685246,
+      "max_longitude": -5.8262927
+    },
     "translations": {
       "en": "Zagora",
       "ar": "إقليم زاكورة",
@@ -1870,19 +2265,25 @@
       "it": "Provincia di Zagora",
       "ja": "ザゴラ州",
       "nl": "Zagora",
-      "pt": "Zagora"
+      "pt": "Zagora",
+      "ceb": "Zagora (lalawigan)",
+      "zh": "扎古拉省",
+      "ccp": "𑄎𑄉𑄮𑄢"
     },
-    "geo": {
-      "latitude": 30.330556,
-      "longitude": -5.838056,
-      "min_latitude": 30.3173955,
-      "min_longitude": -5.8603477,
-      "max_latitude": 30.3685246,
-      "max_longitude": -5.8262927
-    },
-    "name": "Zagora"
+    "comments": null
   },
   "MMD": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Marrakesj",
       "ar": "مراكش",
@@ -1938,10 +2339,25 @@
       "tr": "Marakeş",
       "uk": "Марракеш",
       "ur": "مراکش (شہر)",
-      "vi": "Marrakech"
-    }
+      "vi": "Marrakech",
+      "sr_Latn": "Marakeš",
+      "zh": "马拉喀什",
+      "ccp": "𑄟𑄢𑄇𑄬𑄌𑄴-𑄟𑄬𑄓𑄨𑄚"
+    },
+    "comments": null
   },
   "MMN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Marrakesj²",
       "ar": "مراكش²",
@@ -1997,10 +2413,25 @@
       "tr": "Marakeş²",
       "uk": "Марракеш²",
       "ur": "مراکش (شہر)²",
-      "vi": "Marrakech²"
-    }
+      "vi": "Marrakech²",
+      "sr_Latn": "Marakeš²",
+      "zh": "马拉喀什²",
+      "ccp": "𑄟𑄢𑄇𑄬𑄌𑄴-𑄟𑄬𑄚𑄢"
+    },
+    "comments": null
   },
   "RAB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Rabat",
       "am": "ራባት",
@@ -2062,10 +2493,40 @@
       "tr": "Rabat",
       "uk": "Рабат",
       "ur": "رباط",
-      "vi": "Rabat"
-    }
+      "vi": "Rabat",
+      "cy": "Rabat",
+      "sr_Latn": "Rabat",
+      "zh": "拉巴特",
+      "yue_Hans": "剌八",
+      "jv": "Rabat",
+      "sq": "Rabati",
+      "ccp": "𑄢𑄧𑄝𑄖𑄴",
+      "ga": "Rabat",
+      "ky": "Рабат",
+      "ha": "Rabat",
+      "so": "Rabat",
+      "pa": "ਰਬਾਤ",
+      "ml": "റാബത്ത്",
+      "yue": "剌八",
+      "yo": "Rabat",
+      "uz": "Rabot",
+      "bs": "Rabat",
+      "mk": "Рабат"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "طنجة تطوان",
       "bg": "Танжер - Тетуан",
@@ -2105,10 +2566,24 @@
       "uk": "Танжер-Тетуан",
       "ur": "طنجہ تطوان",
       "vi": "Tangier-Tetouan",
-      "zh": "丹吉爾-得土安大區"
-    }
+      "zh": "丹吉爾-得土安大區",
+      "lv": "Tanžera-Tetuāna",
+      "ccp": "𑄑𑄚𑄴𑄉𑄨𑄠𑄢𑄴-𑄑𑄬𑄑𑄪𑄠𑄚𑄴"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "الغرب شراردة بني حسين",
       "be": "Вобласць Гарб-Шрарда-Бені-Хсен",
@@ -2148,10 +2623,32 @@
       "tr": "Gharb-Chrarda-Béni Hssen",
       "uk": "Гарб-Шрарда-Бені-Хсен",
       "ur": "غرب شراردہ بنی حسین",
-      "vi": "Gharb-Chrarda-Béni Hssen"
-    }
+      "vi": "Gharb-Chrarda-Béni Hssen",
+      "lv": "Garba-Šrarda-Beni-Hsena",
+      "cy": "Gharb-Chrarda-Beni Hssen",
+      "ceb": "Gharb-Chrarda-Beni Hssen",
+      "zh": "西部-舍拉拉德-貝尼赫森大區",
+      "jv": "Gharb-Chrarda-Béni Hssen",
+      "ja": "オリアンタル地方²",
+      "ccp": "𑄊𑄢𑄴𑄛𑄴-𑄌𑄳𑄢𑄢𑄴𑄓-𑄝𑄬𑄚𑄨 𑄥𑄬𑄚𑄴",
+      "he": "אוריינטל",
+      "kk": "Гарб-Шрарда-Бени-Хсен",
+      "bs": "Gharb-Chrarda-Béni Hssen"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة تازة الحسيمة تاونات",
       "bg": "Таза - Ал-Хосейма - Таунат",
@@ -2190,10 +2687,30 @@
       "tr": "Taza-Al Hoceima-Taounate",
       "uk": "Таза-ель-Хосейма-Таунат",
       "ur": "تازہ الحسیمہ تاونات",
-      "vi": "Taza-Al Hoceima-Taounate"
-    }
+      "vi": "Taza-Al Hoceima-Taounate",
+      "lv": "Taza-Al-Hoseima-Taunata",
+      "cy": "Taza-Al Hoceima-Taounate",
+      "ceb": "Taza-Al Hoceima-Taounate",
+      "zh": "塔扎-胡塞馬-陶納特大區",
+      "jv": "Taza-Al Hoceima-Taounate",
+      "ccp": "𑄑𑄎-𑄃𑄣𑄴 𑄝𑄥𑄬𑄟-𑄑𑄯𑄚𑄖𑄴",
+      "kk": "Таза-Әл-Хосейма-Таунат",
+      "bs": "Taza-Al Hoceima-Taounate"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "الجهة الشرقية",
       "bg": "Източен регион",
@@ -2232,10 +2749,30 @@
       "tr": "Oriental",
       "uk": "Східна область",
       "ur": "جھہ شرقیہ",
-      "vi": "Oriental"
-    }
+      "vi": "Oriental",
+      "lv": "Austrumu reģions",
+      "cy": "L’Oriental",
+      "ceb": "Oriental Region",
+      "zh": "東部大區",
+      "fa": "رباط سلا قنیطره",
+      "jv": "Oriental Region",
+      "ccp": "𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
+      "bs": "Oriental"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة فاس بولمان",
       "bg": "Фес - Булман",
@@ -2274,10 +2811,31 @@
       "th": "เฟส โบวเลเมน",
       "tr": "Fès-Boulemane",
       "ur": "فاس بولمان",
-      "vi": "Fès-Boulemane"
-    }
+      "vi": "Fès-Boulemane",
+      "lv": "Fes-Bulmane",
+      "cy": "Fès-Boulemane",
+      "ceb": "Région de Fès-Boulemane",
+      "zh": "非斯-布勒曼大區",
+      "jv": "Fès-Boulemane",
+      "ccp": "𑄜𑄬𑄌𑄴-𑄝𑄯𑄣𑄬𑄟𑄳𑄠𑄚𑄴",
+      "gl": "Béni Mellal-Khénifra",
+      "uk": "Фес-Бульман",
+      "bs": "Fès-Boulemane"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مكناس تافيلالت",
       "bg": "Мекнес - Тафилалет",
@@ -2315,10 +2873,30 @@
       "th": "กามูลิ",
       "tr": "Meknès-Tafilalet",
       "ur": "مکناس تافیلالت",
-      "vi": "Meknès-Tafilalet"
-    }
+      "vi": "Meknès-Tafilalet",
+      "lv": "Miknēsa-Tafilaleta",
+      "cy": "Meknès-Tafilalet",
+      "ceb": "Région de Meknès-Tafilalet",
+      "zh": "梅克內斯-塔菲拉勒特大區",
+      "jv": "Meknès-Tafilalet",
+      "ccp": "𑄟𑄬𑄇𑄴𑄚𑄬𑄌𑄴-𑄑𑄜𑄨𑄣𑄣𑄬𑄖𑄴",
+      "uk": "Мекнес-Тафілалет",
+      "bs": "Meknès-Tafilalet"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "الرباط سلا زمور زعير",
       "bg": "Рабат - Сале - Замур - Заер",
@@ -2356,10 +2934,31 @@
       "th": "ราบัต-เซล-เซมมัว-เซีย",
       "tr": "Rabat-Salé-Zemmour-Zaer",
       "ur": "رباط سلا زمور زعیر",
-      "vi": "Rabat-Salé-Zemmour-Zaer"
-    }
+      "vi": "Rabat-Salé-Zemmour-Zaer",
+      "lv": "Rabāta-Salē-Zammura-Zaera",
+      "cy": "Rabat-Salé-Zemmour-Zaer",
+      "ceb": "Région de Rabat-Salé-Zemmour-Zaër",
+      "zh": "拉巴特-薩累-宰穆爾-扎埃爾大區",
+      "jv": "Rabat-Salé-Zemmour-Zaer",
+      "ccp": "𑄢𑄧𑄝𑄧𑄖𑄴-𑄥𑄣𑄬-𑄎𑄬𑄟𑄯𑄢𑄴-𑄎𑄨𑄠𑄢𑄴",
+      "kk": "Рабат-Сале-Заммур-Заер",
+      "uk": "Рабат-Сале-Заммур-Заер",
+      "bs": "Rabat-Salé-Zemmour-Zaer"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة الدار البيضاء الكبرى",
       "bg": "Голяма Казабланка",
@@ -2398,10 +2997,30 @@
       "th": "แกรนด์ คาซาบลังก้า",
       "tr": "Grand Casablanca",
       "ur": "دار البیضاء الکبری",
-      "vi": "Grand Casablanca"
-    }
+      "vi": "Grand Casablanca",
+      "lv": "Grand-Kasablanka",
+      "cy": "Grand Casablanca",
+      "ceb": "Région du Grand Casablanca",
+      "zh": "大卡薩布蘭卡大區",
+      "jv": "Grand Casablanca",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄇𑄥𑄝𑄳𑄣𑄁𑄇",
+      "uk": "Велика Касабланка",
+      "bs": "Grand Casablanca"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "الشاوية ورديغة",
       "bg": "Шауя - Уардига",
@@ -2439,10 +3058,31 @@
       "th": "เชียวเอีย อัวดิกฮา",
       "tr": "Chaouia-Ouardigha",
       "ur": "شاویہ وردیغہ",
-      "vi": "Chaouia-Ouardigha"
-    }
+      "vi": "Chaouia-Ouardigha",
+      "lv": "Šaoija Uardigna",
+      "cy": "Chaouia-Ouardigha",
+      "ceb": "Chaouia-Ouardigha",
+      "zh": "沙維雅-瓦拉迪格大區",
+      "jv": "Chaouia-Ouardigha",
+      "ccp": "𑄇𑄃𑄯𑄃𑄨-𑄃𑄮𑄢𑄴𑄓𑄨𑄊",
+      "kk": "Шавия-Уардига",
+      "uk": "Регіон Шавія-Уардіга",
+      "bs": "Chaouia-Ouardigha"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "دكالة عبدة",
       "be": "Вобласць Дукала-Абда",
@@ -2481,10 +3121,31 @@
       "th": "เดาค์คาลา อับดา",
       "tr": "Doukkala-Abda",
       "ur": "دکالہ عبدہ",
-      "vi": "Doukkala-Abda"
-    }
+      "vi": "Doukkala-Abda",
+      "lv": "Dukkala-Abda",
+      "cy": "Doukhala-Abda",
+      "ceb": "Doukkala-Abda",
+      "zh": "杜卡拉-阿卜達大區",
+      "jv": "Doukkala-Abda",
+      "ccp": "𑄓𑄯𑄇𑄳𑄦𑄴𑄣 𑄃𑄛𑄴𑄓",
+      "kk": "Дуккала-Абда",
+      "uk": "Дукала-Абда",
+      "bs": "Doukkala-Abda"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة مراكش تانسيفت الحوز",
       "bg": "Маракеш - Тенсифт - Ел-Ауз",
@@ -2522,10 +3183,30 @@
       "th": "มากาเรท-เทนซิฟ-อัลหาว",
       "tr": "Marrakech-Tensift-El Haouz",
       "ur": "مراکش تانسیف الحوز",
-      "vi": "Marrakesh-Tensift-El Haouz"
-    }
+      "vi": "Marrakesh-Tensift-El Haouz",
+      "lv": "Marrākeša-Tensifta-Elhauza",
+      "cy": "Marrakech-Tensift-El Haouz",
+      "ceb": "Marrakech-Tensift-Al Haouz",
+      "zh": "馬拉喀什-坦西夫特-豪茲大區",
+      "jv": "Marrakech-Tensift-El Haouz",
+      "ccp": "𑄟𑄢𑄇𑄬𑄌𑄴-𑄑𑄚𑄴𑄥𑄨𑄛𑄴𑄑𑄴-𑄃𑄬𑄣𑄴 𑄦𑄅𑄪𑄌𑄴",
+      "uk": "Регіон Марракеш-Тенсіфт-Ель-Хауз",
+      "bs": "Marrakech-Tensift-El Haouz"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة تادلة أزيلال",
       "bg": "Тадла - Азилал",
@@ -2563,10 +3244,31 @@
       "th": "ทัดลา-อซิลัล",
       "tr": "Tadla-Azilal",
       "ur": "تادلہ ازیال",
-      "vi": "Tadla-Azilal"
-    }
+      "vi": "Tadla-Azilal",
+      "lv": "Tadla-Azilalas reģions",
+      "cy": "Tadla-Azilal",
+      "ceb": "Tadla-Azilal",
+      "zh": "塔德萊-艾濟拉勒大區",
+      "jv": "Tadla-Azilal",
+      "ccp": "𑄑𑄖𑄴𑄣-𑄃𑄎𑄨𑄣𑄣𑄴",
+      "kk": "Тадла-Азилаль",
+      "uk": "Регіон Тадла-Азілаль",
+      "bs": "Tadla-Azilal"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سوس ماسة درعة",
       "bg": "Сус - Маса - Драа",
@@ -2604,10 +3306,24 @@
       "th": "ซูส-มาสซา-ดรา",
       "tr": "Souss-Massa-Draâ",
       "ur": "سوس ماسہ درعہ",
-      "vi": "Souss-Massa-Draa"
-    }
+      "vi": "Souss-Massa-Draa",
+      "zh": "蘇斯-馬塞-德拉大區",
+      "ccp": "𑄥𑄯𑄌𑄴-𑄟𑄥-𑄓𑄳𑄢"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كلميم السمارة",
       "be": "Вобласць Гулімім-Эс-Смара",
@@ -2646,10 +3362,24 @@
       "th": "กูเอลมิม เอส เซมาลา",
       "tr": "Guelmim-Es Semara",
       "ur": "کلمیم السمارہ",
-      "vi": "Guelmim-Es Semara"
-    }
+      "vi": "Guelmim-Es Semara",
+      "zh": "蓋勒敏-塞馬拉大區",
+      "ccp": "𑄎𑄪𑄠𑄬𑄣𑄴𑄟𑄟𑄴-𑄃𑄨𑄌𑄴 𑄥𑄨𑄟𑄢"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "العيون بوجدور",
       "bg": "Лааюн - Буждур - Сакиа Ел-Хамра",
@@ -2686,10 +3416,24 @@
       "th": "เอลอายูน โบวเดอ ซาเกีย แอล แฮมรา",
       "tr": "Laâyoune-Boujdour-Sakia El Hamra",
       "ur": "لایونی-بوجڈور-ساکیا الحمراء",
-      "vi": "Laâyoune-Boujdour-Sakia El Hamra"
-    }
+      "vi": "Laâyoune-Boujdour-Sakia El Hamra",
+      "zh": "阿尤恩-布支杜爾-薩基亞-阿姆拉大區",
+      "ccp": "𑄣𑄠𑄬𑄃𑄯𑄚𑄴-𑄝𑄯𑄌𑄴𑄓𑄮𑄢𑄴-𑄥𑄇𑄨𑄠 𑄃𑄬𑄣𑄴 𑄦𑄟𑄴𑄢"
+    },
+    "comments": null
   },
   "16": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جهة وادي الذهب الكويرة",
       "bg": "Уед Ед-Дахаб - Лагуира",
@@ -2712,10 +3456,24 @@
       "ru": "Вади-эд-Дахаб-эль-Кувира",
       "sv": "Oued Ed-Dahab-Lagouira",
       "tr": "Oued Ed-Dahab-Lagouira",
-      "ur": "وادی ذہب لکویرہ"
-    }
+      "ur": "وادی ذہب لکویرہ",
+      "zh": "達赫拉-黃金谷地大區",
+      "ccp": "𑄇𑄮𑄠𑄬𑄖𑄴 𑄃𑄨𑄖𑄴-𑄘𑄦𑄛𑄴-𑄣𑄉𑄰𑄱𑄢"
+    },
+    "comments": null
   },
   "INE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "عمالة إنزكان آيت ملول",
       "ca": "Prefectura d’Inezgane-Aït Melloul",
@@ -2727,10 +3485,27 @@
       "nl": "Inezgane-Aït Melloul",
       "pt": "Inezgane-Aït Melloul",
       "sv": "Inezgane-Ait Mellou",
-      "ur": "انزکان آیت ملول"
-    }
+      "ur": "انزکان آیت ملول",
+      "ceb": "Inezgane-Ait Mellou",
+      "zh": "因茲甘-阿伊特邁盧勒省",
+      "ja": "イネガーヌ・アイト・メロウル県",
+      "ccp": "𑄃𑄨𑄚𑄬𑄌𑄴𑄉𑄚𑄴-𑄃𑄃𑄨𑄖𑄴 𑄟𑄣𑄃𑄯𑄣𑄴",
+      "eu": "Inezgane-Ait Melloul prefektura"
+    },
+    "comments": null
   },
   "MOH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "المحمدية",
       "az": "Məhəmmədiyyə",
@@ -2769,8 +3544,207 @@
       "th": "มูฮัมเมดิอา",
       "tr": "Muhammediye",
       "ur": "محمدیہ",
-      "vi": "Mohammedia"
-    }
+      "vi": "Mohammedia",
+      "lv": "Mohamedija",
+      "cy": "Mohammédia",
+      "ceb": "Mohammedia",
+      "zh": "穆罕默迪耶",
+      "sq": "Mohammedia",
+      "ccp": "𑄟𑄮𑄦𑄟𑄴𑄟𑄧𑄘𑄨𑄠",
+      "uk": "Мохаммедія"
+    },
+    "comments": null
+  },
+  "BRR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Berrechid"
+    },
+    "comments": null
+  },
+  "DRI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Driouch"
+    },
+    "comments": null
+  },
+  "FQH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 31.791702,
+      "longitude": -7.092619999999999,
+      "min_latitude": 27.6672693,
+      "min_longitude": -13.3044001,
+      "max_latitude": 35.9344,
+      "max_longitude": -0.9969759
+    },
+    "translations": {
+      "en": "Fquih Ben Salah"
+    },
+    "comments": null
+  },
+  "GUF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 39.5059889,
+      "longitude": 2.5307101,
+      "min_latitude": 39.5016927,
+      "min_longitude": 2.5269251,
+      "max_latitude": 39.5128789,
+      "max_longitude": 2.5327309
+    },
+    "translations": {
+      "en": "Guercif"
+    },
+    "comments": null
+  },
+  "MDF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 33.5521196,
+      "longitude": -7.4780258
+    },
+    "translations": {
+      "en": "M’diq-Fnideq"
+    },
+    "comments": null
+  },
+  "MID": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 31.791702,
+      "longitude": -7.092619999999999,
+      "min_latitude": 27.6672693,
+      "min_longitude": -13.3044001,
+      "max_latitude": 35.9344,
+      "max_longitude": -0.9969759
+    },
+    "translations": {
+      "en": "Midelt"
+    },
+    "comments": null
+  },
+  "OUZ": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 31.791702,
+      "longitude": -7.092619999999999,
+      "min_latitude": 27.6672693,
+      "min_longitude": -13.3044001,
+      "max_latitude": 35.9344,
+      "max_longitude": -0.9969759
+    },
+    "translations": {
+      "en": "Ouezzane"
+    },
+    "comments": null
+  },
+  "REH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Rehamna"
+    },
+    "comments": null
+  },
+  "SIB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Sidi Bennour"
+    },
+    "comments": null
+  },
+  "SIF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 26.660768,
+      "longitude": 49.8393179,
+      "min_latitude": 26.6544679,
+      "min_longitude": 49.81823420000001,
+      "max_latitude": 26.6660987,
+      "max_longitude": 49.8596116
+    },
+    "translations": {
+      "en": "Sidi Ifni"
+    },
+    "comments": null
+  },
+  "SIL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 37.147821,
+      "longitude": -8.5584885
+    },
+    "translations": {
+      "en": "Sidi Slimane"
+    },
+    "comments": null
+  },
+  "TAF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 31.6360026,
+      "longitude": -8.057429899999999,
+      "min_latitude": 31.5600339,
+      "min_longitude": -8.1314279,
+      "max_latitude": 31.72042849999999,
+      "max_longitude": -8.0045699
+    },
+    "translations": {
+      "en": "Tarfaya (EH-partial)"
+    },
+    "comments": null
+  },
+  "TIN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 30.9263125,
+      "longitude": -6.9072676
+    },
+    "translations": {
+      "en": "Tinghir"
+    },
+    "comments": null
+  },
+  "YUS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Youssoufia"
+    },
+    "comments": null
   }
 }
 

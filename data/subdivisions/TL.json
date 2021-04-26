@@ -1,6 +1,16 @@
 {
   "AL": {
+    "name": "Aileu",
+    "code": null,
     "unofficial_names": "Aileu",
+    "geo": {
+      "latitude": -8.7043994,
+      "longitude": 125.6095474,
+      "min_latitude": -8.850384000000002,
+      "min_longitude": 125.4551079,
+      "max_latitude": -8.559498999999999,
+      "max_longitude": 125.818058
+    },
     "translations": {
       "en": "Aileu",
       "ar": "بلدية ايلو",
@@ -38,20 +48,26 @@
       "uk": "Айлеу",
       "ur": "آئلیو ضلع",
       "vi": "Aileu (quận)",
-      "zh": "阿伊萊烏縣"
+      "zh": "阿伊萊烏縣",
+      "lv": "Aileu pašvaldība",
+      "ceb": "Aileu (distrito)",
+      "lt": "Ailo apskritis",
+      "ccp": "𑄃𑄭𑄣𑄨𑄅𑄪"
     },
-    "geo": {
-      "latitude": -8.7043994,
-      "longitude": 125.6095474,
-      "min_latitude": -8.850384000000002,
-      "min_longitude": 125.4551079,
-      "max_latitude": -8.559498999999999,
-      "max_longitude": 125.818058
-    },
-    "name": "Aileu"
+    "comments": null
   },
   "AN": {
+    "name": "Ainaro",
+    "code": null,
     "unofficial_names": "Ainaro",
+    "geo": {
+      "latitude": -9.0113171,
+      "longitude": 125.5220012,
+      "min_latitude": -9.2259576,
+      "min_longitude": 125.4256071,
+      "max_latitude": -8.756097,
+      "max_longitude": 125.726574
+    },
     "translations": {
       "en": "Ainaro",
       "ar": "بلدية إينارو",
@@ -88,22 +104,29 @@
       "tr": "Ainora Belediyesi",
       "uk": "Айнару",
       "ur": "اینارو ضلع",
-      "vi": "Ainaro (quận)"
+      "vi": "Ainaro (quận)",
+      "lv": "Ainaro pašvaldība",
+      "ceb": "Ainaro (distrito)",
+      "lt": "Ainaro apskritis",
+      "zh": "阿伊納羅縣",
+      "ccp": "𑄃𑄭𑄚𑄢𑄮"
     },
-    "geo": {
-      "latitude": -9.0113171,
-      "longitude": 125.5220012,
-      "min_latitude": -9.2259576,
-      "min_longitude": 125.4256071,
-      "max_latitude": -8.756097,
-      "max_longitude": 125.726574
-    },
-    "name": "Ainaro"
+    "comments": null
   },
   "BA": {
+    "name": "Baucau",
+    "code": null,
     "unofficial_names": [
       "Baukau"
     ],
+    "geo": {
+      "latitude": -8.466667,
+      "longitude": 126.45,
+      "min_latitude": -8.4914305,
+      "min_longitude": 126.4455986,
+      "max_latitude": -8.4566878,
+      "max_longitude": 126.4652108
+    },
     "translations": {
       "en": "Baucau",
       "ar": "بلدية بوكاو",
@@ -139,20 +162,27 @@
       "tr": "Baucau Belediyesi",
       "uk": "Баукау",
       "ur": "باوکاو ضلع",
-      "vi": "Baucau (quận)"
+      "vi": "Baucau (quận)",
+      "lv": "Baukau pašvaldība",
+      "ceb": "Baucau (distrito)",
+      "lt": "Baukau savivaldybė",
+      "zh": "包考縣",
+      "ccp": "𑄝𑄅𑄪𑄇𑄅𑄪"
     },
-    "geo": {
-      "latitude": -8.466667,
-      "longitude": 126.45,
-      "min_latitude": -8.4914305,
-      "min_longitude": 126.4455986,
-      "max_latitude": -8.4566878,
-      "max_longitude": 126.4652108
-    },
-    "name": "Baucau"
+    "comments": null
   },
   "BO": {
+    "name": "Bobonaro",
+    "code": null,
     "unofficial_names": "Bobonaro",
+    "geo": {
+      "latitude": -9.031944,
+      "longitude": 125.325,
+      "min_latitude": -9.037585,
+      "min_longitude": 125.3164996,
+      "max_latitude": -9.025768099999999,
+      "max_longitude": 125.3293933
+    },
     "translations": {
       "en": "Bobonaro",
       "ar": "بلدية بوبونارو",
@@ -188,22 +218,29 @@
       "tr": "Bobonaro Belediyesi",
       "uk": "Бобонару",
       "ur": "بوبونارو ضلع",
-      "vi": "Bobonaro"
+      "vi": "Bobonaro",
+      "lv": "Bobonaro pašvaldība",
+      "ceb": "Bobonaro",
+      "lt": "Bobonaro apskritis",
+      "zh": "博博納羅縣",
+      "ccp": "𑄝𑄮𑄚𑄮𑄚𑄢𑄮"
     },
-    "geo": {
-      "latitude": -9.031944,
-      "longitude": 125.325,
-      "min_latitude": -9.037585,
-      "min_longitude": 125.3164996,
-      "max_latitude": -9.025768099999999,
-      "max_longitude": 125.3293933
-    },
-    "name": "Bobonaro"
+    "comments": null
   },
   "CO": {
+    "name": "Cova Lima",
+    "code": null,
     "unofficial_names": [
       "Kova-Lima"
     ],
+    "geo": {
+      "latitude": -9.2650375,
+      "longitude": 125.2587964,
+      "min_latitude": -9.459087799999999,
+      "min_longitude": 124.978455,
+      "max_latitude": -9.005953,
+      "max_longitude": 125.5403839
+    },
     "translations": {
       "en": "Cova Lima",
       "ar": "بلدية كوفا ليما",
@@ -239,20 +276,27 @@
       "tr": "Cova Lima Belediyesi",
       "uk": "Кова-Ліма",
       "ur": "کووا لیما ضلع",
-      "vi": "Cova Lima"
+      "vi": "Cova Lima",
+      "lv": "Kova Lima pašvaldība",
+      "ceb": "Cova Lima",
+      "lt": "Kova Limos apskritis",
+      "zh": "科瓦利馬縣",
+      "ccp": "𑄇𑄮𑄞 𑄣𑄨𑄟"
     },
-    "geo": {
-      "latitude": -9.2650375,
-      "longitude": 125.2587964,
-      "min_latitude": -9.459087799999999,
-      "min_longitude": 124.978455,
-      "max_latitude": -9.005953,
-      "max_longitude": 125.5403839
-    },
-    "name": "Cova Lima"
+    "comments": null
   },
   "DI": {
+    "name": "Dili",
+    "code": null,
     "unofficial_names": "Dili",
+    "geo": {
+      "latitude": -8.549999999999999,
+      "longitude": 125.566667,
+      "min_latitude": -8.5751071,
+      "min_longitude": 125.5108341,
+      "max_latitude": -8.5378049,
+      "max_longitude": 125.6291083
+    },
     "translations": {
       "en": "Dili",
       "ar": "بلدية ديلي",
@@ -288,20 +332,28 @@
       "tr": "Dili",
       "uk": "Ділі",
       "ur": "دیلی ضلع",
-      "vi": "Dili"
+      "vi": "Dili",
+      "lv": "Dili pašvaldība",
+      "ceb": "Díli (distrito sa Sidlakang Timor)",
+      "lt": "Dilio savivaldybė",
+      "zh": "帝力縣",
+      "ccp": "𑄘𑄨𑄣𑄨",
+      "be": "Дылі"
     },
-    "geo": {
-      "latitude": -8.549999999999999,
-      "longitude": 125.566667,
-      "min_latitude": -8.5751071,
-      "min_longitude": 125.5108341,
-      "max_latitude": -8.5378049,
-      "max_longitude": 125.6291083
-    },
-    "name": "Dili"
+    "comments": null
   },
   "ER": {
+    "name": "Ermera",
+    "code": null,
     "unofficial_names": "Ermera",
+    "geo": {
+      "latitude": -8.752222,
+      "longitude": 125.396944,
+      "min_latitude": -8.756429299999999,
+      "min_longitude": 125.3915809,
+      "max_latitude": -8.7455862,
+      "max_longitude": 125.4051295
+    },
     "translations": {
       "en": "Ermera",
       "ar": "مقاطعة إرميرا",
@@ -337,20 +389,27 @@
       "tr": "Ermera District",
       "uk": "Ермера",
       "ur": "عرمیرا ضلع",
-      "vi": "Ermera"
+      "vi": "Ermera",
+      "lv": "Ermeras distrikts",
+      "ceb": "Ermera",
+      "lt": "Ermeros apskritis",
+      "zh": "埃爾梅拉縣",
+      "ccp": "𑄃𑄨𑄢𑄴𑄟𑄬𑄢"
     },
-    "geo": {
-      "latitude": -8.752222,
-      "longitude": 125.396944,
-      "min_latitude": -8.756429299999999,
-      "min_longitude": 125.3915809,
-      "max_latitude": -8.7455862,
-      "max_longitude": 125.4051295
-    },
-    "name": "Ermera"
+    "comments": null
   },
   "LA": {
+    "name": "Lautem",
+    "code": null,
     "unofficial_names": "Lautem",
+    "geo": {
+      "latitude": -8.363999999999999,
+      "longitude": 126.904,
+      "min_latitude": -8.3692441,
+      "min_longitude": 126.8967569,
+      "max_latitude": -8.3597863,
+      "max_longitude": 126.9085371
+    },
     "translations": {
       "en": "Lautém",
       "ar": "بلدية لوتيم",
@@ -386,22 +445,29 @@
       "tr": "Lautém Belediyesi",
       "uk": "Лаутен",
       "ur": "لاوتیم ضلع",
-      "vi": "Lautém"
+      "vi": "Lautém",
+      "lv": "Lautenas pašvaldība",
+      "ceb": "Lautém",
+      "lt": "Lautemo apskritis",
+      "zh": "勞滕縣",
+      "ccp": "𑄣𑄧𑄅𑄪𑄑𑄬𑄟𑄴"
     },
-    "geo": {
-      "latitude": -8.363999999999999,
-      "longitude": 126.904,
-      "min_latitude": -8.3692441,
-      "min_longitude": 126.8967569,
-      "max_latitude": -8.3597863,
-      "max_longitude": 126.9085371
-    },
-    "name": "Lautem"
+    "comments": null
   },
   "LI": {
+    "name": "Liquiça",
+    "code": null,
     "unofficial_names": [
       "Likisia"
     ],
+    "geo": {
+      "latitude": -8.6674095,
+      "longitude": 125.2587964,
+      "min_latitude": -8.757555,
+      "min_longitude": 125.093361,
+      "max_latitude": -8.5633059,
+      "max_longitude": 125.527085
+    },
     "translations": {
       "en": "Liquiçá",
       "ar": "مقاطعة ليكويتشيا",
@@ -437,20 +503,27 @@
       "tr": "Liquaca Belediyesi",
       "uk": "Ликіса",
       "ur": "لیکیسا ضلع",
-      "vi": "Liquiçá"
+      "vi": "Liquiçá",
+      "lv": "Likisas pašvaldība",
+      "ceb": "Liquiçá",
+      "lt": "Likisos apskritis",
+      "zh": "利逵薩縣",
+      "ccp": "𑄣𑄨𑄇𑄭𑄪𑄇"
     },
-    "geo": {
-      "latitude": -8.6674095,
-      "longitude": 125.2587964,
-      "min_latitude": -8.757555,
-      "min_longitude": 125.093361,
-      "max_latitude": -8.5633059,
-      "max_longitude": 125.527085
-    },
-    "name": "Liquiça"
+    "comments": null
   },
   "MF": {
+    "name": "Manufahi",
+    "code": null,
     "unofficial_names": "Manufahi",
+    "geo": {
+      "latitude": -9.0145495,
+      "longitude": 125.8279959,
+      "min_latitude": -9.192457899999999,
+      "min_longitude": 125.587778,
+      "max_latitude": -8.738135,
+      "max_longitude": 126.0595401
+    },
     "translations": {
       "en": "Manufahi",
       "ar": "بلدية مانوفاهي",
@@ -487,20 +560,27 @@
       "tr": "Manufahi Belediyesi",
       "uk": "Мануфагі",
       "ur": "مانوفاہی ضلع",
-      "vi": "Manufahi"
+      "vi": "Manufahi",
+      "lv": "Manufahi distrikts",
+      "ceb": "Manufahi",
+      "lt": "Manufagio apskritis",
+      "zh": "馬努法伊縣",
+      "ccp": "𑄟𑄚𑄪𑄜𑄦𑄨"
     },
-    "geo": {
-      "latitude": -9.0145495,
-      "longitude": 125.8279959,
-      "min_latitude": -9.192457899999999,
-      "min_longitude": 125.587778,
-      "max_latitude": -8.738135,
-      "max_longitude": 126.0595401
-    },
-    "name": "Manufahi"
+    "comments": null
   },
   "MT": {
+    "name": "Manatuto",
+    "code": null,
     "unofficial_names": "Manatuto",
+    "geo": {
+      "latitude": -8.7406923,
+      "longitude": 125.958777,
+      "min_latitude": -9.0597129,
+      "min_longitude": 125.7584121,
+      "max_latitude": -8.4820159,
+      "max_longitude": 126.196725
+    },
     "translations": {
       "en": "Manatuto",
       "ar": "مقاطعة ماناتوتو",
@@ -536,24 +616,31 @@
       "tr": "Manatuto District",
       "uk": "Манатуту",
       "ur": "ماناتوتو ضلع",
-      "vi": "Manatuto"
+      "vi": "Manatuto",
+      "lv": "Manatuto distrikts",
+      "ceb": "Manatuto (distrito)",
+      "lt": "Manatuto apskritis",
+      "zh": "馬納圖托縣",
+      "ccp": "𑄟𑄚𑄑𑄪𑄑𑄮"
     },
-    "geo": {
-      "latitude": -8.7406923,
-      "longitude": 125.958777,
-      "min_latitude": -9.0597129,
-      "min_longitude": 125.7584121,
-      "max_latitude": -8.4820159,
-      "max_longitude": 126.196725
-    },
-    "name": "Manatuto"
+    "comments": null
   },
   "OE": {
+    "name": "Oecussi",
+    "code": null,
     "unofficial_names": [
       "Ambeno",
       "Ambino",
       "Oecusse"
     ],
+    "geo": {
+      "latitude": -9.2970576,
+      "longitude": 124.2866091,
+      "min_latitude": -9.501416899999999,
+      "min_longitude": 124.075439,
+      "max_latitude": -9.174905,
+      "max_longitude": 124.4829029
+    },
     "translations": {
       "en": "Oecusse",
       "ar": "بلدية أويكيوس",
@@ -590,22 +677,30 @@
       "tr": "Oecusse Belediyesi",
       "uk": "Окусі-Амбено",
       "ur": "اویکوسی ضلع",
-      "vi": "Oecusse"
+      "vi": "Oecusse",
+      "lv": "Okussi pašvaldība",
+      "ceb": "Oecusse District",
+      "lt": "Ekusės savivaldybė",
+      "zh": "歐庫西-安貝諾縣",
+      "ccp": "𑄃𑄮𑄠𑄬𑄇𑄪𑄌𑄴",
+      "ca": "Oecusse"
     },
-    "geo": {
-      "latitude": -9.2970576,
-      "longitude": 124.2866091,
-      "min_latitude": -9.501416899999999,
-      "min_longitude": 124.075439,
-      "max_latitude": -9.174905,
-      "max_longitude": 124.4829029
-    },
-    "name": "Oecussi"
+    "comments": null
   },
   "VI": {
+    "name": "Viqueque",
+    "code": null,
     "unofficial_names": [
       "Vikeke"
     ],
+    "geo": {
+      "latitude": -8.8083212,
+      "longitude": 126.3498097,
+      "min_latitude": -8.99103,
+      "min_longitude": 126.0464829,
+      "max_latitude": -8.591630000000002,
+      "max_longitude": 126.7401707
+    },
     "translations": {
       "en": "Viqueque",
       "ar": "بلدية فيكيك",
@@ -641,17 +736,14 @@
       "tr": "Viqueque Belediyesi",
       "uk": "Вікеке",
       "ur": "ویقیقی ضلع",
-      "vi": "Viqueque"
+      "vi": "Viqueque",
+      "lv": "Vikekes pašvaldība",
+      "ceb": "Viqueque (distrito)",
+      "lt": "Vikekės apskritis",
+      "zh": "維克克縣",
+      "ccp": "𑄞𑄨𑄇𑄪𑄇𑄪"
     },
-    "geo": {
-      "latitude": -8.8083212,
-      "longitude": 126.3498097,
-      "min_latitude": -8.99103,
-      "min_longitude": 126.0464829,
-      "max_latitude": -8.591630000000002,
-      "max_longitude": 126.7401707
-    },
-    "name": "Viqueque"
+    "comments": null
   }
 }
 

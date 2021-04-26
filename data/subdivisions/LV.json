@@ -1,9 +1,25 @@
 {
   "AI": {
+    "name": "Aizkraukles Aprinkis",
+    "code": null,
     "unofficial_names": "Aizkraukles Aprinkis",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Aizkraukles Aprinkis"
     },
+    "comments": null
+  },
+  "AL": {
+    "name": "Aluksnes Aprinkis",
+    "code": null,
+    "unofficial_names": "Aluksnes Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -12,13 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Aizkraukles Aprinkis"
-  },
-  "AL": {
-    "unofficial_names": "Aluksnes Aprinkis",
     "translations": {
       "en": "Aluksnes Aprinkis"
     },
+    "comments": null
+  },
+  "BL": {
+    "name": "Balvu Aprinkis",
+    "code": null,
+    "unofficial_names": "Balvu Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -27,13 +45,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Aluksnes Aprinkis"
-  },
-  "BL": {
-    "unofficial_names": "Balvu Aprinkis",
     "translations": {
       "en": "Balvu Aprinkis"
     },
+    "comments": null
+  },
+  "BU": {
+    "name": "Bauskas Aprinkis",
+    "code": null,
+    "unofficial_names": "Bauskas Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -42,13 +62,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Balvu Aprinkis"
-  },
-  "BU": {
-    "unofficial_names": "Bauskas Aprinkis",
     "translations": {
       "en": "Bauskas Aprinkis"
     },
+    "comments": null
+  },
+  "CE": {
+    "name": "Cesu Aprinkis",
+    "code": null,
+    "unofficial_names": "Cesu Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -57,28 +79,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Bauskas Aprinkis"
-  },
-  "CE": {
-    "unofficial_names": "Cesu Aprinkis",
     "translations": {
       "en": "Cesu Aprinkis"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Cesu Aprinkis"
+    "comments": null
   },
   "DA": {
+    "name": "Daugavpils Aprinkis",
+    "code": null,
     "unofficial_names": "Daugavpils Aprinkis",
-    "translations": {
-      "en": "Daugavpils Aprinkis"
-    },
     "geo": {
       "latitude": 55.874736,
       "longitude": 26.536179,
@@ -87,10 +96,23 @@
       "max_latitude": 55.955541,
       "max_longitude": 26.6361371
     },
-    "name": "Daugavpils Aprinkis"
+    "translations": {
+      "en": "Daugavpils Aprinkis"
+    },
+    "comments": null
   },
   "DGV": {
+    "name": "Daugavpils",
+    "code": null,
     "unofficial_names": "Daugavpils",
+    "geo": {
+      "latitude": 55.874736,
+      "longitude": 26.536179,
+      "min_latitude": 55.836144,
+      "min_longitude": 26.438294,
+      "max_latitude": 55.955541,
+      "max_longitude": 26.6361371
+    },
     "translations": {
       "en": "Daugavpils",
       "af": "Daugavpils",
@@ -145,23 +167,22 @@
       "uk": "Даугавпілс",
       "ur": "داوگاوپلس",
       "vi": "Daugavpils",
-      "zh": "陶格夫匹尔斯"
+      "zh": "陶格夫匹尔斯",
+      "cy": "Daugavpils",
+      "ceb": "Daugavpils",
+      "sr_Latn": "Daugavpils",
+      "sq": "Daugavpils",
+      "ccp": "𑄓𑄯𑄉𑄛𑄴𑄛𑄨𑄣𑄴𑄥𑄴",
+      "kk": "Даугавпилс",
+      "uz": "Daugavpils",
+      "mk": "Даугавпилс"
     },
-    "geo": {
-      "latitude": 55.874736,
-      "longitude": 26.536179,
-      "min_latitude": 55.836144,
-      "min_longitude": 26.438294,
-      "max_latitude": 55.955541,
-      "max_longitude": 26.6361371
-    },
-    "name": "Daugavpils"
+    "comments": null
   },
   "DO": {
+    "name": "Dobeles Aprinkis",
+    "code": null,
     "unofficial_names": "Dobeles Aprinkis",
-    "translations": {
-      "en": "Dobeles Aprinkis"
-    },
     "geo": {
       "latitude": 56.6249062,
       "longitude": 23.2791069,
@@ -170,13 +191,15 @@
       "max_latitude": 56.644934,
       "max_longitude": 23.3128299
     },
-    "name": "Dobeles Aprinkis"
+    "translations": {
+      "en": "Dobeles Aprinkis"
+    },
+    "comments": null
   },
   "GU": {
+    "name": "Gulbenes Aprinkis",
+    "code": null,
     "unofficial_names": "Gulbenes Aprinkis",
-    "translations": {
-      "en": "Gulbenes Aprinkis"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -185,10 +208,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Gulbenes Aprinkis"
+    "translations": {
+      "en": "Gulbenes Aprinkis"
+    },
+    "comments": null
   },
   "JEL": {
+    "name": "Jelgava",
+    "code": null,
     "unofficial_names": "Jelgava",
+    "geo": {
+      "latitude": 56.6511091,
+      "longitude": 23.7213541,
+      "min_latitude": 56.596751,
+      "min_longitude": 23.623268,
+      "max_latitude": 56.6916349,
+      "max_longitude": 23.8002769
+    },
     "translations": {
       "en": "Jelgava",
       "af": "Jelgava",
@@ -243,23 +279,21 @@
       "uk": "Єлгава",
       "ur": "یالگاوا",
       "vi": "Jelgava",
-      "zh": "叶尔加瓦"
+      "zh": "叶尔加瓦",
+      "cy": "Jelgava",
+      "ceb": "Jelgava (munisipyo)",
+      "sr_Latn": "Jelgava",
+      "ccp": "𑄎𑄬𑄣𑄴𑄉𑄞",
+      "kk": "Елгава",
+      "uz": "Yelgava",
+      "mk": "Јелгава²"
     },
-    "geo": {
-      "latitude": 56.6511091,
-      "longitude": 23.7213541,
-      "min_latitude": 56.596751,
-      "min_longitude": 23.623268,
-      "max_latitude": 56.6916349,
-      "max_longitude": 23.8002769
-    },
-    "name": "Jelgava"
+    "comments": null
   },
   "JK": {
+    "name": "Jekabpils Aprinkis",
+    "code": null,
     "unofficial_names": "Jekabpils Aprinkis",
-    "translations": {
-      "en": "Jekabpils Aprinkis"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -268,13 +302,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Jekabpils Aprinkis"
+    "translations": {
+      "en": "Jekabpils Aprinkis"
+    },
+    "comments": null
   },
   "JL": {
+    "name": "Jelgavas Aprinkis",
+    "code": null,
     "unofficial_names": "Jelgavas Aprinkis",
-    "translations": {
-      "en": "Jelgavas Aprinkis"
-    },
     "geo": {
       "latitude": 56.6511091,
       "longitude": 23.7213541,
@@ -283,10 +319,23 @@
       "max_latitude": 56.6916349,
       "max_longitude": 23.8002769
     },
-    "name": "Jelgavas Aprinkis"
+    "translations": {
+      "en": "Jelgavas Aprinkis"
+    },
+    "comments": null
   },
   "JUR": {
+    "name": "Jurmala",
+    "code": null,
     "unofficial_names": "Jurmala",
+    "geo": {
+      "latitude": 56.947079,
+      "longitude": 23.6168486,
+      "min_latitude": 56.923886,
+      "min_longitude": 23.47297,
+      "max_latitude": 57.007044,
+      "max_longitude": 23.9693479
+    },
     "translations": {
       "en": "Jūrmala",
       "af": "Jūrmala",
@@ -341,23 +390,37 @@
       "uk": "Юрмала",
       "ur": "یورمالا",
       "vi": "Jūrmala",
-      "zh": "尤爾馬拉"
+      "zh": "尤爾馬拉",
+      "cy": "Jūrmala",
+      "sr_Latn": "Jurmala",
+      "ccp": "𑄎𑄢𑄴𑄟𑄣",
+      "kk": "Юрмала",
+      "uz": "Yurmala",
+      "mk": "Јурмала"
     },
-    "geo": {
-      "latitude": 56.947079,
-      "longitude": 23.6168486,
-      "min_latitude": 56.923886,
-      "min_longitude": 23.47297,
-      "max_latitude": 57.007044,
-      "max_longitude": 23.9693479
-    },
-    "name": "Jurmala"
+    "comments": null
   },
   "KR": {
+    "name": "Kraslavas Aprinkis",
+    "code": null,
     "unofficial_names": "Kraslavas Aprinkis",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Kraslavas Aprinkis"
     },
+    "comments": null
+  },
+  "KU": {
+    "name": "Kuldigas Aprinkis",
+    "code": null,
+    "unofficial_names": "Kuldigas Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -366,13 +429,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Kraslavas Aprinkis"
-  },
-  "KU": {
-    "unofficial_names": "Kuldigas Aprinkis",
     "translations": {
       "en": "Kuldigas Aprinkis"
     },
+    "comments": null
+  },
+  "LE": {
+    "name": "Liepajas Aprinkis",
+    "code": null,
+    "unofficial_names": "Liepajas Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -381,13 +446,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Kuldigas Aprinkis"
-  },
-  "LE": {
-    "unofficial_names": "Liepajas Aprinkis",
     "translations": {
       "en": "Liepajas Aprinkis"
     },
+    "comments": null
+  },
+  "LM": {
+    "name": "Limbažu Aprinkis",
+    "code": null,
+    "unofficial_names": "Limbažu Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -396,25 +463,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Liepajas Aprinkis"
-  },
-  "LM": {
-    "unofficial_names": "Limbažu Aprinkis",
     "translations": {
       "en": "Limbažu Aprinkis"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Limbažu Aprinkis"
+    "comments": null
   },
   "LPX": {
+    "name": "Liepaja",
+    "code": null,
     "unofficial_names": "Liepaja",
+    "geo": {
+      "latitude": 56.5046678,
+      "longitude": 21.010806,
+      "min_latitude": 56.464691,
+      "min_longitude": 20.971237,
+      "max_latitude": 56.60919999999999,
+      "max_longitude": 21.1057334
+    },
     "translations": {
       "en": "Liepāja",
       "af": "Liepaja",
@@ -467,23 +532,22 @@
       "uk": "Лієпая",
       "ur": "لیاپائیا",
       "vi": "Liepāja",
-      "zh": "利耶帕亚"
+      "zh": "利耶帕亚",
+      "cy": "Liepāja",
+      "ceb": "Liepāja",
+      "sr_Latn": "Lijepaja",
+      "ccp": "𑄣𑄭𑄛𑄎",
+      "ky": "Лиепая",
+      "pa": "ਲਿਪਾਯਾ",
+      "kk": "Лиепая",
+      "uz": "Liyepaya"
     },
-    "geo": {
-      "latitude": 56.5046678,
-      "longitude": 21.010806,
-      "min_latitude": 56.464691,
-      "min_longitude": 20.971237,
-      "max_latitude": 56.60919999999999,
-      "max_longitude": 21.1057334
-    },
-    "name": "Liepaja"
+    "comments": null
   },
   "LU": {
+    "name": "Ludzas Aprinkis",
+    "code": null,
     "unofficial_names": "Ludzas Aprinkis",
-    "translations": {
-      "en": "Ludzas Aprinkis"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -492,13 +556,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Ludzas Aprinkis"
+    "translations": {
+      "en": "Ludzas Aprinkis"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Madonas Aprinkis",
+    "code": null,
     "unofficial_names": "Madonas Aprinkis",
-    "translations": {
-      "en": "Madonas Aprinkis"
-    },
     "geo": {
       "latitude": 49.8498701,
       "longitude": 18.2723841,
@@ -507,30 +573,51 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Madonas Aprinkis"
+    "translations": {
+      "en": "Madonas Aprinkis"
+    },
+    "comments": null
   },
   "OG": {
+    "name": "Ogres Aprinkis",
+    "code": null,
     "unofficial_names": "Ogres Aprinkis",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Ogres Aprinkis"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Ogres Aprinkis"
+    "comments": null
   },
   "PR": {
+    "name": "Preilu Aprinkis",
+    "code": null,
     "unofficial_names": [
       "Preiju"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Preilu Aprinkis"
     },
+    "comments": null
+  },
+  "RE": {
+    "name": "Rezeknes Aprinkis",
+    "code": null,
+    "unofficial_names": "Rezeknes Aprinkis",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -539,25 +626,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Preilu Aprinkis"
-  },
-  "RE": {
-    "unofficial_names": "Rezeknes Aprinkis",
     "translations": {
       "en": "Rezeknes Aprinkis"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Rezeknes Aprinkis"
+    "comments": null
   },
   "REZ": {
+    "name": "Rezekne",
+    "code": null,
     "unofficial_names": "Rezekne",
+    "geo": {
+      "latitude": 56.5099223,
+      "longitude": 27.3331357,
+      "min_latitude": 56.4775499,
+      "min_longitude": 27.3038497,
+      "max_latitude": 56.53846009999999,
+      "max_longitude": 27.379451
+    },
     "translations": {
       "en": "Rēzekne",
       "af": "Rēzekne",
@@ -611,23 +696,22 @@
       "uk": "Резекне",
       "ur": "ریزکنے",
       "vi": "Rezekne",
-      "zh": "雷澤克內"
+      "zh": "雷澤克內",
+      "cy": "Rēzekne",
+      "ceb": "Rēzekne (kapital sa munisipyo)",
+      "sr_Latn": "Rezekne",
+      "sq": "Rēzekne",
+      "ccp": "𑄢𑄬𑄎𑄬𑄇𑄴𑄚𑄨",
+      "pa": "ਰੀਜਿਕਨ",
+      "kk": "Резекне",
+      "mk": "Резекне²"
     },
-    "geo": {
-      "latitude": 56.5099223,
-      "longitude": 27.3331357,
-      "min_latitude": 56.4775499,
-      "min_longitude": 27.3038497,
-      "max_latitude": 56.53846009999999,
-      "max_longitude": 27.379451
-    },
-    "name": "Rezekne"
+    "comments": null
   },
   "RI": {
+    "name": "Rigas Aprinkis",
+    "code": null,
     "unofficial_names": "Rigas Aprinkis",
-    "translations": {
-      "en": "Rigas Aprinkis"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -636,10 +720,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Rigas Aprinkis"
+    "translations": {
+      "en": "Rigas Aprinkis"
+    },
+    "comments": null
   },
   "RIX": {
+    "name": "Riga",
+    "code": null,
     "unofficial_names": "Riga",
+    "geo": {
+      "latitude": 56.9496487,
+      "longitude": 24.1051864,
+      "min_latitude": 56.8570279,
+      "min_longitude": 23.9336591,
+      "max_latitude": 57.085921,
+      "max_longitude": 24.3246659
+    },
     "translations": {
       "en": "Riga",
       "af": "Riga",
@@ -701,23 +798,32 @@
       "ur": "ریگا",
       "vi": "Riga",
       "zh": "里加",
-      "zu": "IRiga"
+      "zu": "IRiga",
+      "cy": "Riga",
+      "ceb": "Riga",
+      "sr_Latn": "Riga",
+      "yue_Hans": "里加",
+      "jv": "Riga",
+      "sq": "Riga",
+      "ccp": "𑄢𑄨𑄉",
+      "ga": "Ríge",
+      "ky": "Рига",
+      "ha": "Riga",
+      "pa": "ਰੀਗਾ",
+      "kk": "Рига",
+      "yue": "里加",
+      "my": "ရီဂါမြို့",
+      "yo": "Riga",
+      "uz": "Riga",
+      "bs": "Riga",
+      "mk": "Рига"
     },
-    "geo": {
-      "latitude": 56.9496487,
-      "longitude": 24.1051864,
-      "min_latitude": 56.8570279,
-      "min_longitude": 23.9336591,
-      "max_latitude": 57.085921,
-      "max_longitude": 24.3246659
-    },
-    "name": "Riga"
+    "comments": null
   },
   "SA": {
+    "name": "Saldus Aprinkis",
+    "code": null,
     "unofficial_names": "Saldus Aprinkis",
-    "translations": {
-      "en": "Saldus Aprinkis"
-    },
     "geo": {
       "latitude": 56.6653019,
       "longitude": 22.492169,
@@ -726,13 +832,15 @@
       "max_latitude": 56.6855229,
       "max_longitude": 22.5252327
     },
-    "name": "Saldus Aprinkis"
+    "translations": {
+      "en": "Saldus Aprinkis"
+    },
+    "comments": null
   },
   "TA": {
+    "name": "Talsu Aprinkis",
+    "code": null,
     "unofficial_names": "Talsu Aprinkis",
-    "translations": {
-      "en": "Talsu Aprinkis"
-    },
     "geo": {
       "latitude": 57.2480409,
       "longitude": 22.5873859,
@@ -741,13 +849,15 @@
       "max_latitude": 57.265104,
       "max_longitude": 22.6215941
     },
-    "name": "Talsu Aprinkis"
+    "translations": {
+      "en": "Talsu Aprinkis"
+    },
+    "comments": null
   },
   "TU": {
+    "name": "Tukuma Aprinkis",
+    "code": null,
     "unofficial_names": "Tukuma Aprinkis",
-    "translations": {
-      "en": "Tukuma Aprinkis"
-    },
     "geo": {
       "latitude": 56.96966399999999,
       "longitude": 23.15319,
@@ -756,13 +866,15 @@
       "max_latitude": 56.9880529,
       "max_longitude": 23.205056
     },
-    "name": "Tukuma Aprinkis"
+    "translations": {
+      "en": "Tukuma Aprinkis"
+    },
+    "comments": null
   },
   "VE": {
+    "name": "Ventspils Aprinkis",
+    "code": null,
     "unofficial_names": "Ventspils Aprinkis",
-    "translations": {
-      "en": "Ventspils Aprinkis"
-    },
     "geo": {
       "latitude": 57.3937216,
       "longitude": 21.5647066,
@@ -771,10 +883,23 @@
       "max_latitude": 57.47072199999999,
       "max_longitude": 21.6736649
     },
-    "name": "Ventspils Aprinkis"
+    "translations": {
+      "en": "Ventspils Aprinkis"
+    },
+    "comments": null
   },
   "VEN": {
+    "name": "Ventspils",
+    "code": null,
     "unofficial_names": "Ventspils",
+    "geo": {
+      "latitude": 57.3937216,
+      "longitude": 21.5647066,
+      "min_latitude": 57.34809389999999,
+      "min_longitude": 21.5157259,
+      "max_latitude": 57.47072199999999,
+      "max_longitude": 21.6736649
+    },
     "translations": {
       "en": "Ventspils",
       "af": "Ventspils",
@@ -826,23 +951,24 @@
       "uk": "Вентспілс",
       "ur": "وینتپلس",
       "vi": "Ventspils",
-      "zh": "文茨皮尔斯"
+      "zh": "文茨皮尔斯",
+      "cy": "Ventspils",
+      "ceb": "Ventspils",
+      "sr_Latn": "Ventspils",
+      "ccp": "𑄞𑄚𑄴𑄑𑄴𑄛𑄨𑄣𑄴𑄥𑄴",
+      "ky": "Вентспилс",
+      "hr": "Ventspils",
+      "pa": "ਵੇਂਟਸਪਿਲਸ",
+      "kk": "Вентспилс",
+      "uz": "Ventspils",
+      "mk": "Вентспилс²"
     },
-    "geo": {
-      "latitude": 57.3937216,
-      "longitude": 21.5647066,
-      "min_latitude": 57.34809389999999,
-      "min_longitude": 21.5157259,
-      "max_latitude": 57.47072199999999,
-      "max_longitude": 21.6736649
-    },
-    "name": "Ventspils"
+    "comments": null
   },
   "VK": {
+    "name": "Valkas Aprinkis",
+    "code": null,
     "unofficial_names": "Valkas Aprinkis",
-    "translations": {
-      "en": "Valkas Aprinkis"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -851,13 +977,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Valkas Aprinkis"
+    "translations": {
+      "en": "Valkas Aprinkis"
+    },
+    "comments": null
   },
   "VM": {
+    "name": "Valmieras Aprinkis",
+    "code": null,
     "unofficial_names": "Valmieras Aprinkis",
-    "translations": {
-      "en": "Valmieras Aprinkis"
-    },
     "geo": {
       "latitude": 57.5384659,
       "longitude": 25.4263618,
@@ -866,9 +994,23 @@
       "max_latitude": 57.5552188,
       "max_longitude": 25.4684289
     },
-    "name": "Valmieras Aprinkis"
+    "translations": {
+      "en": "Valmieras Aprinkis"
+    },
+    "comments": null
   },
   "001": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أغلونا",
       "be": "Агланскі край",
@@ -910,10 +1052,27 @@
       "uk": "Аглонський край",
       "ur": "بلدیہ اگلونا",
       "vi": "Đô thị tự trị Aglona",
-      "zh": "阿格洛納自治市"
-    }
+      "zh": "阿格洛納自治市",
+      "ceb": "Aglonas Novads",
+      "ccp": "𑄃𑄇𑄴𑄣𑄮𑄚",
+      "eu": "Aglona udalerria",
+      "az": "Aqlon diyarı",
+      "mk": "Аглона"
+    },
+    "comments": null
   },
   "002": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إيزكروكل",
       "be": "Айзкраўкльскі край",
@@ -955,10 +1114,26 @@
       "tr": "Aizkraukle Belediyesi",
       "uk": "Айзкраукльський край",
       "ur": "آئزکراوکلے بلدیہ",
-      "vi": "Đô thị tự trị Aizkraukle"
-    }
+      "vi": "Đô thị tự trị Aizkraukle",
+      "zh": "艾茲克勞克萊自治市",
+      "ccp": "𑄃𑄃𑄨𑄌𑄴𑄇𑄳𑄢𑄭𑄅𑄪𑄇𑄴𑄣𑄬",
+      "az": "Ayzqrauql diyarı",
+      "mk": "Ајзкраукле"
+    },
+    "comments": null
   },
   "003": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية آيزبوته",
       "be": "Айзпуцкі край",
@@ -1000,10 +1175,26 @@
       "uk": "Айзпутський край",
       "ur": "آئزپوتے بلدیہ",
       "vi": "Đô thị tự trị Aizpute",
-      "zh": "艾茲普泰自治市"
-    }
+      "zh": "艾茲普泰自治市",
+      "ccp": "𑄃𑄃𑄨𑄌𑄴𑄛𑄨𑄅𑄪𑄖𑄴",
+      "eu": "Aizpute udalerria",
+      "az": "Ayzput diyarı",
+      "mk": "Аизпуте"
+    },
+    "comments": null
   },
   "004": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أكنيسته",
       "be": "Акнісцкі край",
@@ -1045,10 +1236,27 @@
       "uk": "Акністський край",
       "ur": "آکنیستے بلدیہ",
       "vi": "Đô thị tự trị Akniste",
-      "zh": "艾克尼斯泰自治市"
-    }
+      "zh": "艾克尼斯泰自治市",
+      "ceb": "Aknīstes Novads",
+      "ccp": "𑄃𑄇𑄴𑄚𑄨𑄌𑄴𑄑𑄴",
+      "eu": "Aknīste udalerria",
+      "az": "Aqnist diyarı",
+      "mk": "Акнисте"
+    },
+    "comments": null
   },
   "005": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ألويا",
       "be": "Алайскі край",
@@ -1090,10 +1298,27 @@
       "uk": "Алойський край",
       "ur": "آلویا بلدیہ",
       "vi": "Đô thị tự trị Aloja",
-      "zh": "亞洛亞自治市"
-    }
+      "zh": "亞洛亞自治市",
+      "ceb": "Alojas Novads",
+      "ccp": "𑄃𑄣𑄮𑄎",
+      "eu": "Aloja udalerria",
+      "az": "Aloy diyarı",
+      "mk": "Алоја (општина)"
+    },
+    "comments": null
   },
   "006": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ألسونغا",
       "be": "Алсунгскі край",
@@ -1134,10 +1359,27 @@
       "tr": "Alsunga Belediyesi",
       "uk": "Алсунгський край",
       "ur": "آلسونگا بلدیہ",
-      "vi": "Đô thị tự trị Alsunga"
-    }
+      "vi": "Đô thị tự trị Alsunga",
+      "ceb": "Alsungas Novads",
+      "zh": "阿爾松加自治市",
+      "ccp": "𑄃𑄣𑄴𑄥𑄪𑄚𑄴𑄉",
+      "eu": "Alsunga udalerria",
+      "mk": "Алсунга"
+    },
+    "comments": null
   },
   "007": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ألوكسنه",
       "be": "Алуксненскі край",
@@ -1178,10 +1420,26 @@
       "tr": "Aluksne Belediyesi",
       "uk": "Алуксненський край",
       "ur": "آلوکسنے بلدیہ",
-      "vi": "Đô thị tự trị Aluksne"
-    }
+      "vi": "Đô thị tự trị Aluksne",
+      "zh": "阿盧克斯內自治市",
+      "ccp": "𑄃𑄣𑄪𑄇𑄴𑄌𑄴",
+      "eu": "Alūksne udalerria",
+      "mk": "Алуксне"
+    },
+    "comments": null
   },
   "008": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أماتا",
       "be": "Амацкі край",
@@ -1223,10 +1481,26 @@
       "uk": "Аматський край",
       "ur": "آماتا بلدیہ",
       "vi": "Đô thị tự trị Amata",
-      "zh": "阿馬塔自治市"
-    }
+      "zh": "阿馬塔自治市",
+      "ceb": "Amatas Novads",
+      "ccp": "𑄃𑄟𑄖",
+      "eu": "Amata udalerria",
+      "mk": "Амата"
+    },
+    "comments": null
   },
   "009": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية آبي",
       "be": "Апскі край",
@@ -1267,10 +1541,27 @@
       "uk": "Апський край",
       "ur": "آپے بلدیہ",
       "vi": "Đô thị tự trị Ape",
-      "zh": "阿佩自治市"
-    }
+      "zh": "阿佩自治市",
+      "ceb": "Apes Novads",
+      "fa": "شهرداری آپه",
+      "ccp": "𑄃𑄳𑄠𑄛𑄴",
+      "eu": "Ape udalerria",
+      "mk": "Апе"
+    },
+    "comments": null
   },
   "010": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أوكه",
       "be": "Аўцскі край",
@@ -1310,10 +1601,28 @@
       "tr": "Auce Belediyesi",
       "uk": "Ауцський край",
       "ur": "آوچے بلدیہ",
-      "vi": "Đô thị tự trị Auce"
-    }
+      "vi": "Đô thị tự trị Auce",
+      "ceb": "Auces Novads",
+      "zh": "奧采自治市",
+      "fa": "شهرداری آوتسه",
+      "ccp": "𑄃𑄧𑄌𑄴",
+      "eu": "Auce udalerria",
+      "mk": "Ауце"
+    },
+    "comments": null
   },
   "011": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية آداجي",
       "be": "Адажскі край",
@@ -1353,10 +1662,28 @@
       "tr": "Adazi Belediyesi",
       "uk": "Адажський край",
       "ur": "آداژی بلدیہ",
-      "vi": "Đô thị tự trị Adazi"
-    }
+      "vi": "Đô thị tự trị Adazi",
+      "ceb": "Ādažu Novads",
+      "zh": "阿達日自治市",
+      "fa": "شهرداری آداژی",
+      "ccp": "𑄃𑄓𑄎𑄨",
+      "eu": "Ādaži udalerria",
+      "mk": "Адажи"
+    },
+    "comments": null
   },
   "012": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ببيت",
       "be": "Бабіцкі край",
@@ -1396,10 +1723,27 @@
       "tr": "Babite Belediyesi",
       "uk": "Бабітський край",
       "ur": "بابیتے بلدیہ",
-      "vi": "Đô thị tự trị Babite"
-    }
+      "vi": "Đô thị tự trị Babite",
+      "zh": "巴比泰自治市",
+      "fa": "شهرداری بابیته",
+      "ccp": "𑄝𑄧𑄝𑄨𑄖𑄴",
+      "eu": "Babīte udalerria",
+      "mk": "Бабите"
+    },
+    "comments": null
   },
   "013": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بالدون",
       "be": "Балданскі край",
@@ -1440,10 +1784,28 @@
       "tr": "Baldone Belediyesi",
       "uk": "Балдонський край",
       "ur": "بالدونے بلدیہ",
-      "vi": "Đô thị tự trị Baldone"
-    }
+      "vi": "Đô thị tự trị Baldone",
+      "ceb": "Baldones Novads",
+      "zh": "巴爾多內自治市",
+      "fa": "شهرداری بالدون",
+      "ccp": "𑄝𑄧𑄣𑄴𑄓𑄮𑄚𑄴",
+      "eu": "Baldone udalerria",
+      "mk": "Балдоне"
+    },
+    "comments": null
   },
   "014": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بالتينافا",
       "be": "Балцінаўскі край",
@@ -1485,10 +1847,27 @@
       "uk": "Балтінавський край",
       "ur": "بالتیناوا بلدیہ",
       "vi": "Đô thị tự trị Baltinava",
-      "zh": "巴爾季納瓦自治市"
-    }
+      "zh": "巴爾季納瓦自治市",
+      "ceb": "Baltinavas Novads",
+      "fa": "شهرداری بالتیناوا",
+      "ccp": "𑄝𑄧𑄣𑄴𑄑𑄨𑄚𑄞",
+      "eu": "Baltinava udalerria",
+      "mk": "Балтинава"
+    },
+    "comments": null
   },
   "015": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بالفي",
       "be": "Балвскі край",
@@ -1529,10 +1908,26 @@
       "uk": "Балвський край",
       "ur": "بالوی بلدیہ",
       "vi": "Đô thị tự trị Balvi",
-      "zh": "巴爾維自治市"
-    }
+      "zh": "巴爾維自治市",
+      "fa": "شهرداری بالوی",
+      "ccp": "𑄝𑄧𑄣𑄴𑄞𑄨",
+      "eu": "Balvi udalerria",
+      "mk": "Балви"
+    },
+    "comments": null
   },
   "016": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بوسكا",
       "be": "Баўскі край",
@@ -1572,10 +1967,27 @@
       "tr": "Bauska Belediyesi",
       "uk": "Бауський край",
       "ur": "باوسکا میونسپلٹی",
-      "vi": "Đô thị tự trị Bauska"
-    }
+      "vi": "Đô thị tự trị Bauska",
+      "zh": "包斯卡自治市",
+      "fa": "شهرداری باوسکا",
+      "ccp": "𑄝𑄅𑄪𑄌𑄴𑄇",
+      "eu": "Bauska udalerria",
+      "mk": "Бауска"
+    },
+    "comments": null
   },
   "017": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بيفيرينا",
       "be": "Бэвэрынскі край",
@@ -1616,10 +2028,27 @@
       "uk": "Беверінський край",
       "ur": "بیویرینا بلدیہ",
       "vi": "Đô thị tự trị Beverina",
-      "zh": "貝韋里納自治市"
-    }
+      "zh": "貝韋里納自治市",
+      "ceb": "Beverīnas Novads",
+      "fa": "شهرداری بورینا",
+      "ccp": "𑄝𑄬𑄞𑄬𑄢𑄨𑄚",
+      "eu": "Beverīna udalerria",
+      "mk": "Беверина"
+    },
+    "comments": null
   },
   "018": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بروتشني",
       "bn": "ব্রোসেনি পৌরসভা",
@@ -1657,10 +2086,29 @@
       "tr": "Broceni Belediyesi",
       "uk": "Броценський край",
       "ur": "بروکینی میونسپلٹی",
-      "vi": "Đô thị tự trị Broceni"
-    }
+      "vi": "Đô thị tự trị Broceni",
+      "ceb": "Brocēnu Novads",
+      "zh": "布羅采尼自治市",
+      "fa": "شهرداری بروتسنی",
+      "ccp": "𑄝𑄳𑄢𑄮𑄥𑄬𑄚𑄨",
+      "eu": "Brocēni udalerria",
+      "be": "Броцэнскі край",
+      "mk": "Броцени"
+    },
+    "comments": null
   },
   "019": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بورتنيكي",
       "be": "Буртніекскі край",
@@ -1701,10 +2149,26 @@
       "uk": "Буртнієкський край",
       "ur": "بورتنیئکی بلدیہ",
       "vi": "Đô thị tự trị Burtnieki",
-      "zh": "伯特尼庫自治市"
-    }
+      "zh": "伯特尼庫自治市",
+      "fa": "شهرداری بورتنیکی",
+      "ccp": "𑄝𑄪𑄢𑄴𑄑𑄴𑄚𑄨𑄠𑄬𑄇𑄨",
+      "eu": "Burtnieki udalerria",
+      "mk": "Буртниеки"
+    },
+    "comments": null
   },
   "020": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كارنيكافا",
       "bn": "কার্নিকাভা পৌরসভা",
@@ -1742,10 +2206,29 @@
       "tr": "Carkiava Belediyesi",
       "uk": "Царнікавський край",
       "ur": "چارنیکاوا بلدیہ",
-      "vi": "Đô thị tự trị Carnikava"
-    }
+      "vi": "Đô thị tự trị Carnikava",
+      "ceb": "Carnikavas Novads",
+      "zh": "察爾尼卡瓦自治市",
+      "fa": "شهرداری سارنیکاوا",
+      "ccp": "𑄇𑄢𑄴𑄚𑄨𑄇𑄞",
+      "eu": "Carnikava udalerria",
+      "be": "Царнікаўскі край",
+      "mk": "Царникава"
+    },
+    "comments": null
   },
   "021": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سيسفاين",
       "bn": "সেচভাইন পৌরসভা",
@@ -1784,10 +2267,28 @@
       "uk": "Цесвайнський край",
       "ur": "چیسوائنے بلدیہ",
       "vi": "Đô thị tự trị Cesvaine",
-      "zh": "采斯瓦伊內斯自治市"
-    }
+      "zh": "采斯瓦伊內斯自治市",
+      "ceb": "Cesvaines Novads",
+      "fa": "شهرداری سسواین",
+      "ccp": "𑄥𑄬𑄌𑄴𑄞𑄭𑄚𑄴",
+      "eu": "Cesvaine udalerria",
+      "be": "Цэсвайнскі край",
+      "mk": "Цесвајне"
+    },
+    "comments": null
   },
   "022": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية تسيسس",
       "be": "Цэсіскі край",
@@ -1826,10 +2327,28 @@
       "tr": "Cesis Bölgesi",
       "uk": "Цесіський край",
       "ur": "چیسس بلدیہ",
-      "vi": "Đô thị tự trị Cesis"
-    }
+      "vi": "Đô thị tự trị Cesis",
+      "ceb": "Cēsu Novads",
+      "zh": "采西斯自治市",
+      "fa": "شهرداری سسیس",
+      "ccp": "𑄥𑄬𑄌𑄨𑄌𑄴",
+      "eu": "Cēsis udalerria",
+      "mk": "Цесис"
+    },
+    "comments": null
   },
   "023": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سيبلا",
       "bn": "সিব্লা পৌরসভা",
@@ -1867,10 +2386,30 @@
       "tr": "Cibla Belediyesi",
       "uk": "Ціблський край",
       "ur": "چیبلا بلدیہ",
-      "vi": "Đô thị tự trị Cibla"
-    }
+      "vi": "Đô thị tự trị Cibla",
+      "ceb": "Ciblas Novads",
+      "zh": "齊布拉自治市",
+      "fa": "شهرداری سیبلا",
+      "ccp": "𑄥𑄨𑄛𑄴𑄣",
+      "hy": "Ցիբլայի շրջան",
+      "eu": "Cibla udalerria",
+      "be": "Цыблскі край",
+      "mk": "Цибла"
+    },
+    "comments": null
   },
   "024": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية داغدا",
       "be": "Дагдскі край",
@@ -1910,10 +2449,28 @@
       "tr": "Dagda Municipality",
       "uk": "Дагдський край",
       "ur": "داگدا بلدیہ",
-      "vi": "Đô thị tự trị Dagda"
-    }
+      "vi": "Đô thị tự trị Dagda",
+      "ceb": "Dagdas Novads",
+      "zh": "達格達自治市",
+      "fa": "شهرداری داگدا",
+      "ccp": "𑄓𑄇𑄴𑄓",
+      "eu": "Dagda udalerria",
+      "mk": "Дагда"
+    },
+    "comments": null
   },
   "025": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية داوغابيلس",
       "be": "Даўгаўпілскі край",
@@ -1954,10 +2511,27 @@
       "uk": "Даугавпілський край",
       "ur": "داوگاوپلس بلدیہ",
       "vi": "Đô thị tự trị Daugavpils",
-      "zh": "陶格夫匹爾斯自治市"
-    }
+      "zh": "陶格夫匹爾斯自治市",
+      "ceb": "Daugavpils municipality",
+      "fa": "شهرداری دوگوپیلس",
+      "ccp": "𑄓𑄯𑄉𑄛𑄴𑄛𑄨𑄣𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "eu": "Daugavpils udalerria",
+      "mk": "Општина Даугавпилс"
+    },
+    "comments": null
   },
   "026": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية دوبيل",
       "bn": "ডোবেল পৌরসভা",
@@ -1997,10 +2571,27 @@
       "uk": "Добельський край",
       "ur": "دوبیلے بلدیہ",
       "vi": "Đô thị tự trị Dobele",
-      "zh": "多貝萊自治市"
-    }
+      "zh": "多貝萊自治市",
+      "fa": "شهرداری دوبل",
+      "ccp": "𑄓𑄧𑄝𑄨𑄣𑄨",
+      "eu": "Dobele udalerria",
+      "be": "Добэльскі край",
+      "mk": "Добеле"
+    },
+    "comments": null
   },
   "027": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية دونداغا",
       "bn": "দুন্দাগা পৌরসভা",
@@ -2039,10 +2630,29 @@
       "uk": "Дундагський край",
       "ur": "دونداگا بلدیہ",
       "vi": "Đô thị tự trị Dundaga",
-      "zh": "敦達加自治市"
-    }
+      "zh": "敦達加自治市",
+      "ceb": "Dundagas Novads",
+      "fa": "شهرداری دونداگا",
+      "ccp": "𑄓𑄚𑄴𑄓𑄉",
+      "hy": "Դունդագայի շրջան",
+      "eu": "Dundaga udalerria",
+      "be": "Дундагскі край",
+      "mk": "Дундага"
+    },
+    "comments": null
   },
   "028": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية دوربه",
       "be": "Дурбскі край",
@@ -2082,10 +2692,28 @@
       "uk": "Дурбський край",
       "ur": "دوربے بلدیہ",
       "vi": "Đô thị tự trị Durbe",
-      "zh": "杜爾貝自治市"
-    }
+      "zh": "杜爾貝自治市",
+      "ceb": "Durbes Novads",
+      "fa": "شهرداری دوربه",
+      "ccp": "𑄓𑄪𑄢𑄴𑄝𑄬",
+      "hy": "Դուրբեի շրջան",
+      "eu": "Durbe udalerria",
+      "mk": "Дурбе"
+    },
+    "comments": null
   },
   "029": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إنغور",
       "be": "Энгурскі край",
@@ -2125,10 +2753,28 @@
       "uk": "Енгурський край",
       "ur": "اینگورے بلدیہ",
       "vi": "Đô thị tự trị Engure",
-      "zh": "恩古雷自治市"
-    }
+      "zh": "恩古雷自治市",
+      "ceb": "Engures Novads",
+      "fa": "شهرداری انگوره",
+      "ccp": "𑄃𑄬𑄚𑄴𑄉𑄪𑄢𑄬",
+      "hy": "Էնգուրեյի շրջան",
+      "eu": "Engure udalerria",
+      "mk": "Енгуре"
+    },
+    "comments": null
   },
   "030": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إيرغلي",
       "be": "Эргльскі край",
@@ -2168,10 +2814,27 @@
       "uk": "Ергльський край",
       "ur": "ایرگلی بلدیہ",
       "vi": "Đô thị tự trị Ergli",
-      "zh": "埃爾格利自治市"
-    }
+      "zh": "埃爾格利自治市",
+      "ceb": "Ērgļu Novads",
+      "fa": "شهرداری ارگلی",
+      "ccp": "𑄃𑄬𑄢𑄴𑄉𑄳𑄢𑄩",
+      "eu": "Ērgļi udalerria",
+      "mk": "Ергљи"
+    },
+    "comments": null
   },
   "031": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية غاركالن",
       "bn": "গারকালনে পৌরসভা",
@@ -2211,10 +2874,28 @@
       "uk": "Гаркалнський край",
       "ur": "گارکالنے بلدیہ",
       "vi": "Đô thị tự trị Garkalne",
-      "zh": "加卡爾尼斯自治市"
-    }
+      "zh": "加卡爾尼斯自治市",
+      "ceb": "Garkalne Municipality",
+      "fa": "شهرداری گارکالنه",
+      "ccp": "𑄉𑄢𑄴𑄇𑄣𑄴𑄚𑄬",
+      "eu": "Garkalne udalerria",
+      "be": "Гаркалнскі край",
+      "mk": "Гаркалне"
+    },
+    "comments": null
   },
   "032": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية غروبيتا",
       "be": "Гробінскі край",
@@ -2255,10 +2936,27 @@
       "uk": "Гробіньський край",
       "ur": "گروبینیا بلدیہ",
       "vi": "Đô thị tự trị Grobina",
-      "zh": "格羅比納自治市"
-    }
+      "zh": "格羅比納自治市",
+      "ceb": "Grobiņas Novads",
+      "fa": "شهرداری گروبینا",
+      "ccp": "𑄉𑄳𑄢𑄮𑄝𑄨𑄚",
+      "eu": "Grobiņa udalerria",
+      "mk": "Гробиња"
+    },
+    "comments": null
   },
   "033": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية غولبين",
       "be": "Гулбенскі край",
@@ -2299,10 +2997,26 @@
       "uk": "Гулбенський край",
       "ur": "گولبینے بلدیہ",
       "vi": "Đô thị tự trị Gulbene",
-      "zh": "古爾貝內自治市"
-    }
+      "zh": "古爾貝內自治市",
+      "fa": "شهرداری گولبن",
+      "ccp": "𑄉𑄪𑄣𑄴𑄝𑄬𑄚𑄬",
+      "eu": "Gulbene udalerria",
+      "mk": "Гулбене"
+    },
+    "comments": null
   },
   "034": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إيكافا",
       "be": "Іецаўскі край",
@@ -2342,10 +3056,28 @@
       "uk": "Ієцавський край",
       "ur": "ایئچاوا بلدیہ",
       "vi": "Đô thị tự trị Iecava",
-      "zh": "艾卡瓦斯自治市"
-    }
+      "zh": "艾卡瓦斯自治市",
+      "ceb": "Iecavas Novads",
+      "fa": "شهرداری ایتساوا",
+      "ccp": "𑄃𑄭𑄇𑄝",
+      "hy": "Իեցավայի շրջան",
+      "eu": "Iecava udalerria",
+      "mk": "Иецава"
+    },
+    "comments": null
   },
   "035": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إكشجيله",
       "be": "Ікшкільскі край",
@@ -2385,10 +3117,27 @@
       "uk": "Ікшкільський край",
       "ur": "ایکشکیلے بلدیہ",
       "vi": "Đô thị tự trị Ikskile",
-      "zh": "伊克斯基爾自治市"
-    }
+      "zh": "伊克斯基爾自治市",
+      "fa": "شهرداری ایکشکیل",
+      "ccp": "𑄃𑄨𑄇𑄴𑄇𑄭𑄣𑄴",
+      "hy": "Իքշկիլեի շրջան",
+      "eu": "Ikšķile udalerria",
+      "mk": "Икшќиле"
+    },
+    "comments": null
   },
   "036": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية يلوكسته",
       "be": "Ілуксцкі край",
@@ -2427,10 +3176,28 @@
       "tr": "IIukste Belediyesi",
       "uk": "Ілукстський край",
       "ur": "الوکستے بلدیہ",
-      "vi": "Đô thị tự trị Ilukste"
-    }
+      "vi": "Đô thị tự trị Ilukste",
+      "ceb": "Ilūkstes Novads",
+      "zh": "伊盧克斯泰自治市",
+      "fa": "شهرداری ایلوکست",
+      "ccp": "𑄃𑄨𑄣𑄪𑄇𑄴𑄌𑄳𑄑𑄬",
+      "eu": "Ilūkste udalerria",
+      "mk": "Илуксте"
+    },
+    "comments": null
   },
   "037": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية إنكوكالنز",
       "be": "Інчукалнскі край",
@@ -2471,10 +3238,27 @@
       "uk": "Інчукалнський край",
       "ur": "انچوکالنس بلدیہ",
       "vi": "Đô thị tự trị Incukalns",
-      "zh": "英丘卡爾納自治市"
-    }
+      "zh": "英丘卡爾納自治市",
+      "ceb": "Inčukalna Novads",
+      "fa": "شهرداری اینچوکالنس",
+      "ccp": "𑄃𑄨𑄚𑄴𑄇𑄨𑄅𑄪𑄇𑄣𑄴𑄚𑄴",
+      "eu": "Inčukalns udalerria",
+      "mk": "Инчукалнс"
+    },
+    "comments": null
   },
   "038": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ياونيلغافا",
       "bn": "জঞ্জেল্গাভা পৌরসভা",
@@ -2513,10 +3297,28 @@
       "uk": "Яунʼєлгавський край",
       "ur": "یاونیئلگاوا بلدیہ",
       "vi": "Đô thị tự trị Jaunjelgava",
-      "zh": "新葉爾加瓦自治市"
-    }
+      "zh": "新葉爾加瓦自治市",
+      "ceb": "Jaunjelgavas Novads",
+      "fa": "شهرداری یاونیلگاوا",
+      "ccp": "𑄎𑄯𑄚𑄴𑄎𑄬𑄣𑄴𑄉𑄞",
+      "hy": "Յաունելգավաի շրջան",
+      "eu": "Jaunjelgava udalerria",
+      "mk": "Јаунјелгава"
+    },
+    "comments": null
   },
   "039": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية جونبيبالغا",
       "bn": "জনপিবাল্গা পৌরসভা",
@@ -2555,10 +3357,28 @@
       "uk": "Яунпієбалгський край",
       "ur": "یاونیپیئبالگا بلدیہ",
       "vi": "Đô thị tự trị Jaunpiebalga",
-      "zh": "新皮爾巴爾加自治市"
-    }
+      "zh": "新皮爾巴爾加自治市",
+      "ceb": "Jaunpiebalgas Novads",
+      "fa": "شهرداری یانپیبالگا",
+      "ccp": "𑄎𑄯𑄚𑄴𑄛𑄭𑄝𑄧𑄣𑄴𑄉",
+      "eu": "Jaunpiebalga udalerria",
+      "be": "Яўнпіебалгскі край",
+      "mk": "Јаунпиебалга"
+    },
+    "comments": null
   },
   "040": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ياونبيلس",
       "be": "Яўнпілскі край",
@@ -2597,10 +3417,28 @@
       "tr": "Jaunpils Belediyesi",
       "uk": "Яунпілський край",
       "ur": "یاونپلس بلدیہ",
-      "vi": "Đô thị tự trị Jaunpils"
-    }
+      "vi": "Đô thị tự trị Jaunpils",
+      "ceb": "Jaunpils Novads",
+      "zh": "新皮爾斯自治市",
+      "fa": "شهرداری یانپیلس",
+      "ccp": "𑄎𑄯𑄚𑄴𑄛𑄨𑄣𑄴𑄌𑄴",
+      "eu": "Jaunpils udalerria",
+      "mk": "Јаунпилс"
+    },
+    "comments": null
   },
   "041": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية جيلغافا",
       "bn": "জেল্গাভা পৌরসভা",
@@ -2639,10 +3477,28 @@
       "uk": "Єлгавський край",
       "ur": "جیلجاوا میونسپلٹی",
       "vi": "Đô thị tự trị Jelgava",
-      "zh": "葉爾加瓦自治市"
-    }
+      "zh": "葉爾加瓦自治市",
+      "fa": "شهرداری یلگاوا",
+      "ccp": "𑄎𑄬𑄣𑄴𑄉𑄞 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "hy": "Ելգավայի շրջան",
+      "eu": "Jelgava udalerria",
+      "be": "Елгаўскі край",
+      "mk": "Јелгава"
+    },
+    "comments": null
   },
   "042": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية جوكابيلز",
       "bn": "জেকাবপিলস পৌরসভা",
@@ -2680,10 +3536,30 @@
       "tr": "Jekabpils Belediyesi",
       "uk": "Єкабпілський край",
       "ur": "جیکابپیلس میونسپلٹی",
-      "vi": "Đô thị tự trị Jekabpils"
-    }
+      "vi": "Đô thị tự trị Jekabpils",
+      "ceb": "Jēkabpils Municipality",
+      "zh": "葉卡布皮爾斯自治市",
+      "fa": "شهرداری یکابپلیس",
+      "ccp": "𑄎𑄬𑄇𑄛𑄴𑄛𑄨𑄣𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "hy": "Եկաբպիսլի շրջան",
+      "eu": "Jēkabpils udalerria",
+      "be": "Екабпілскі край",
+      "mk": "Јекабпилс"
+    },
+    "comments": null
   },
   "043": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كاندافا",
       "bn": "কান্দাভা পৌরসভা",
@@ -2722,10 +3598,29 @@
       "uk": "Кандавський край",
       "ur": "کانداوا میونسپلٹی",
       "vi": "Đô thị tự trị Kandava",
-      "zh": "坎達瓦自治市"
-    }
+      "zh": "坎達瓦自治市",
+      "ceb": "Kandavas Novads",
+      "fa": "شهرداری کانداوا",
+      "ccp": "𑄇𑄚𑄴𑄓𑄞",
+      "hy": "Կանդավայի շրջան",
+      "eu": "Kandava udalerria",
+      "be": "Кандаўскі край",
+      "mk": "Кандава"
+    },
+    "comments": null
   },
   "044": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كارسافا",
       "bn": "কারসাভা পৌরসভা",
@@ -2763,10 +3658,29 @@
       "tr": "Karsava Belediyesi",
       "uk": "Карсавський край",
       "ur": "کرساوا میونسپلٹی",
-      "vi": "Đô thị tự trị Karsava"
-    }
+      "vi": "Đô thị tự trị Karsava",
+      "ceb": "Kārsavas Novads",
+      "zh": "卡爾薩瓦自治市",
+      "fa": "شهرداری کارساوا",
+      "ccp": "𑄇𑄢𑄴𑄥𑄞",
+      "eu": "Kārsava udalerria",
+      "be": "Карсаўскі край",
+      "mk": "Карсава"
+    },
+    "comments": null
   },
   "045": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كوتسيني",
       "bn": "কোকেনি পৌরসভা",
@@ -2805,10 +3719,28 @@
       "tr": "Koceni Belediyesi",
       "uk": "Коценський край",
       "ur": "کوکینی میونسپلٹی",
-      "vi": "Đô thị tự trị Koceni"
-    }
+      "vi": "Đô thị tự trị Koceni",
+      "ceb": "Valmiera District",
+      "fa": "شهرداری کوتسنی",
+      "ccp": "𑄇𑄮𑄥𑄬𑄚𑄨",
+      "eu": "Kocēni udalerria",
+      "be": "Коцэнскі край",
+      "mk": "Коцени"
+    },
+    "comments": null
   },
   "046": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كوكنيس",
       "bn": "ককনিস পৌরসভা",
@@ -2846,10 +3778,30 @@
       "tr": "Koknese Belediyesi",
       "uk": "Кокнеський край",
       "ur": "کوکنیسی میونسپلٹی",
-      "vi": "Đô thị tự trị Koknese"
-    }
+      "vi": "Đô thị tự trị Koknese",
+      "ceb": "Kokneses Novads",
+      "zh": "科克內塞自治市",
+      "fa": "شهرداری کوکنس",
+      "ccp": "𑄇𑄧𑄇𑄴𑄚𑄬𑄌𑄴",
+      "hy": "Կոկնեսեի շրջան",
+      "eu": "Koknese udalerria",
+      "be": "Кокнэскі край",
+      "mk": "Кокнесе"
+    },
+    "comments": null
   },
   "047": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كراسلافا",
       "be": "Краслаўскі край",
@@ -2889,10 +3841,26 @@
       "uk": "Краславський край",
       "ur": "کراسلاوا میونسپلٹی",
       "vi": "Đô thị tự trị Kraslava",
-      "zh": "克拉斯拉瓦自治市"
-    }
+      "zh": "克拉斯拉瓦自治市",
+      "fa": "شهرداری کراسلاوا",
+      "ccp": "𑄇𑄳𑄢𑄌𑄴𑄣𑄞",
+      "eu": "Krāslava udalerria",
+      "mk": "Краслава"
+    },
+    "comments": null
   },
   "048": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كريمولدا",
       "bn": "ক্রিমুলদা পৌরসভা",
@@ -2931,10 +3899,29 @@
       "uk": "Крімулдський край",
       "ur": "کریمولدا میونسپلٹی",
       "vi": "Đô thị tự trị Krimulda",
-      "zh": "克里穆爾達斯自治市"
-    }
+      "zh": "克里穆爾達斯自治市",
+      "ceb": "Krimuldas Novads",
+      "fa": "شهرداری کریمولدا",
+      "ccp": "𑄇𑄳𑄢𑄨𑄟𑄪𑄣𑄴𑄓",
+      "hy": "Կրիմուլդայի շրջան",
+      "eu": "Krimulda udalerria",
+      "be": "Крымулдскі край",
+      "mk": "Кримулда"
+    },
+    "comments": null
   },
   "049": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كروستبيلس",
       "bn": "ক্রাস্টপিলস পৌরসভা",
@@ -2973,10 +3960,29 @@
       "uk": "Крустпілський край",
       "ur": "کروستپیلس میونسپلٹی",
       "vi": "Đô thị tự trị Krustpils",
-      "zh": "克魯斯皮爾自治市"
-    }
+      "zh": "克魯斯皮爾自治市",
+      "ceb": "Krustpils Novads",
+      "fa": "شهرداری کروستپیلس",
+      "ccp": "𑄇𑄳𑄢𑄪𑄌𑄴𑄥𑄴𑄛𑄨𑄣𑄴𑄥𑄴",
+      "hy": "Կրուստպիլսի շրջան",
+      "eu": "Krustpils udalerria",
+      "be": "Крустпілскі край",
+      "mk": "Крустпилс"
+    },
+    "comments": null
   },
   "050": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كولديغا",
       "be": "Кулдыгскі край",
@@ -3015,10 +4021,27 @@
       "tr": "Kuldiga Belediyesi",
       "uk": "Кулдізький край",
       "ur": "کولدیجا میونسپلٹی",
-      "vi": "Đô thị tự trị Kuldiga"
-    }
+      "vi": "Đô thị tự trị Kuldiga",
+      "zh": "庫爾迪加自治市",
+      "fa": "شهرداری کولدیگا",
+      "ccp": "𑄇𑄪𑄣𑄴𑄓𑄨𑄉",
+      "eu": "Kuldīga udalerria",
+      "mk": "Кулдига"
+    },
+    "comments": null
   },
   "051": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كغومس",
       "bn": "কেগুমস পৌরসভা",
@@ -3056,10 +4079,29 @@
       "tr": "Kegums Belediyesi",
       "uk": "Кегумський край",
       "ur": "کیجومس میونسپلٹی",
-      "vi": "Đô thị tự trị Kegums"
-    }
+      "vi": "Đô thị tự trị Kegums",
+      "ceb": "Ķeguma Novads",
+      "zh": "凱古姆斯自治市",
+      "fa": "شهرداری کگومس",
+      "ccp": "𑄇𑄬𑄉𑄟𑄴𑄥𑄴",
+      "eu": "Ķegums udalerria",
+      "be": "Кегумскі край",
+      "mk": "Ќегумс"
+    },
+    "comments": null
   },
   "052": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية كيكافا",
       "bn": "কেকাভা পৌরসভা",
@@ -3098,10 +4140,28 @@
       "uk": "Кекавський край",
       "ur": "کیکاوا میونسپلٹی",
       "vi": "Đô thị tự trị Kekava",
-      "zh": "科卡瓦斯自治市"
-    }
+      "zh": "科卡瓦斯自治市",
+      "fa": "شهرداری ککاوا",
+      "ccp": "𑄇𑄬𑄇𑄞",
+      "hy": "Կեկավայի շրջան",
+      "eu": "Ķekava udalerria",
+      "be": "Кекаўскі край",
+      "mk": "Ќекава"
+    },
+    "comments": null
   },
   "053": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ليلفارد",
       "bn": "লিয়েল্ভার্দে পৌরসভা",
@@ -3141,10 +4201,28 @@
       "uk": "Лієлвардський край",
       "ur": "لییلواردی میونسپلٹی",
       "vi": "Đô thị tự trị Lielvarde",
-      "zh": "利耶爾瓦爾代自治市"
-    }
+      "zh": "利耶爾瓦爾代自治市",
+      "ceb": "Lielvārdes Novads",
+      "fa": "شهرداری لیوارده",
+      "ccp": "𑄣𑄭𑄣𑄴𑄞𑄢𑄴𑄓𑄬",
+      "eu": "Lielvārde udalerria",
+      "be": "Ліелвардскі край",
+      "mk": "Лиелварде"
+    },
+    "comments": null
   },
   "054": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ليمباجي",
       "bn": "লিম্বাজি পৌরসভা",
@@ -3184,10 +4262,27 @@
       "uk": "Лімбазький край",
       "ur": "لیمبازی میونسپلٹی",
       "vi": "Đô thị tự trị Limbazi",
-      "zh": "林巴濟自治市"
-    }
+      "zh": "林巴濟自治市",
+      "fa": "شهرداری لیمباژی",
+      "ccp": "𑄣𑄟𑄴𑄝𑄎𑄨",
+      "eu": "Limbaži udalerria",
+      "be": "Лімбажскі край",
+      "mk": "Лимбажи"
+    },
+    "comments": null
   },
   "055": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ليغاتن",
       "bn": "লিগান্তে পৌরসভা",
@@ -3226,10 +4321,28 @@
       "uk": "Лігатненський край",
       "ur": "لیجاتنی میونسپلٹی",
       "vi": "Đô thị tự trị Ligatne",
-      "zh": "里加特內斯自治市"
-    }
+      "zh": "里加特內斯自治市",
+      "fa": "شهرداری لیگاتنه",
+      "ccp": "𑄣𑄨𑄉𑄖𑄴𑄚𑄬",
+      "hy": "Լիգատնեի շրջան",
+      "eu": "Līgatne udalerria",
+      "be": "Лігатнэнскі край",
+      "mk": "Лигатне"
+    },
+    "comments": null
   },
   "056": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ليفاني",
       "bn": "লিভানি পৌরসভা",
@@ -3268,10 +4381,29 @@
       "uk": "Ліванський край",
       "ur": "لیوانی میونسپلٹی",
       "vi": "Đô thị tự trị Livani",
-      "zh": "利瓦尼自治市"
-    }
+      "zh": "利瓦尼自治市",
+      "ceb": "Līvānu Novads",
+      "fa": "شهرداری لیوانی",
+      "ccp": "𑄣𑄨𑄞𑄚𑄨",
+      "hy": "Լիվանիի շրջան",
+      "eu": "Līvāni udalerria",
+      "be": "Ліванскі край",
+      "mk": "Ливани"
+    },
+    "comments": null
   },
   "057": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية لوبانا",
       "be": "Лубанскі край",
@@ -3310,10 +4442,28 @@
       "tr": "Lubana Belediyesi",
       "uk": "Лубанський край",
       "ur": "لوبانا میونسپلٹی",
-      "vi": "Đô thị tự trị Lubana"
-    }
+      "vi": "Đô thị tự trị Lubana",
+      "ceb": "Lubānas Novads",
+      "zh": "盧巴納自治市",
+      "fa": "شهرداری لوبانا",
+      "ccp": "𑄣𑄪𑄛𑄴𑄚",
+      "eu": "Lubāna udalerria",
+      "mk": "Лубана"
+    },
+    "comments": null
   },
   "058": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية لودزا",
       "be": "Лудзенскі край",
@@ -3352,10 +4502,28 @@
       "tr": "Ludza Belediyesi",
       "uk": "Лудзенський край",
       "ur": "لودزا میونسپلٹی",
-      "vi": "Đô thị tự trị Ludza"
-    }
+      "vi": "Đô thị tự trị Ludza",
+      "ceb": "Lielais Ludzas Ezers",
+      "zh": "盧扎自治市",
+      "fa": "شهرداری لودزا",
+      "ccp": "𑄣𑄪𑄖𑄴𑄎",
+      "eu": "Ludza udalerria",
+      "mk": "Луѕа"
+    },
+    "comments": null
   },
   "059": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية مادونا",
       "bn": "ম্যাডোনা পৌরসভা",
@@ -3394,10 +4562,28 @@
       "uk": "Мадонський край",
       "ur": "مادونا میونسپلٹی",
       "vi": "Đô thị tự trị Madona",
-      "zh": "馬多納自治市"
-    }
+      "zh": "馬多納自治市",
+      "ceb": "Madona Municipality",
+      "fa": "شهرداری مادونا",
+      "ccp": "𑄟𑄧𑄓𑄮𑄚",
+      "eu": "Madona udalerria",
+      "be": "Маданскі край",
+      "mk": "Мадона"
+    },
+    "comments": null
   },
   "060": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية مازالاكا",
       "bn": "মাজস্যালাকা পৌরসভা",
@@ -3436,10 +4622,28 @@
       "uk": "Мазсалацський край",
       "ur": "مازسالاکا میونسپلٹی",
       "vi": "Đô thị tự trị Mazsalaca",
-      "zh": "馬茲薩拉察自治市"
-    }
+      "zh": "馬茲薩拉察自治市",
+      "ceb": "Mazsalacas Novads",
+      "fa": "شهرداری ماسالاتسا",
+      "ccp": "𑄟𑄌𑄴𑄥𑄣𑄇",
+      "eu": "Mazsalaca udalerria",
+      "be": "Мазсалацкі край",
+      "mk": "Мазсалаца"
+    },
+    "comments": null
   },
   "061": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية مالبيلس",
       "bn": "মাল্পিলস পৌরসভা",
@@ -3477,10 +4681,30 @@
       "tr": "Malpils Belediyesi",
       "uk": "Малпілський край",
       "ur": "مالپیلس میونسپلٹی",
-      "vi": "Đô thị tự trị Malpils"
-    }
+      "vi": "Đô thị tự trị Malpils",
+      "ceb": "Mālpils Novads",
+      "zh": "馬爾皮爾斯自治市",
+      "fa": "شهرداری مالپیلس",
+      "ccp": "𑄟𑄣𑄴𑄛𑄨𑄣𑄴𑄥𑄴Mālpils",
+      "hy": "Մալպիլսի շրջան",
+      "eu": "Mālpils udalerria",
+      "be": "Малпілскі край",
+      "mk": "Малпилс"
+    },
+    "comments": null
   },
   "062": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ماروب",
       "bn": "মারুপ পৌরসভা",
@@ -3519,10 +4743,30 @@
       "uk": "Марупський край",
       "ur": "مروپی میونسپلٹی",
       "vi": "Đô thị tự trị Marupe",
-      "zh": "馬魯皮斯自治市"
-    }
+      "zh": "馬魯皮斯自治市",
+      "ceb": "Mārupes Novads",
+      "fa": "شهرداری ماروپه",
+      "ccp": "𑄟𑄢𑄪𑄛𑄴",
+      "hy": "Մարուպեի շրջան",
+      "eu": "Mārupe udalerria",
+      "sl": "Mārupe",
+      "be": "Марупскі край",
+      "mk": "Марупе"
+    },
+    "comments": null
   },
   "063": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية مورسراغس",
       "bn": "মার্সর‍্যাগস পৌরসভা",
@@ -3560,10 +4804,30 @@
       "uk": "Мерсрагський край",
       "ur": "میرسراجس میونسپلٹی",
       "vi": "Đô thị tự trị Mersrags",
-      "zh": "梅斯拉格自治市"
-    }
+      "zh": "梅斯拉格自治市",
+      "ceb": "Mērsraga Novads",
+      "lt": "Mesrago savivaldybė",
+      "fa": "شهرداری مرسراگس",
+      "ccp": "𑄟𑄢𑄴𑄥𑄴𑄢𑄇𑄴𑄥𑄴",
+      "hy": "Մերսրագսի շրջան",
+      "eu": "Mērsrags udalerria",
+      "be": "Мэрсрагскі край",
+      "mk": "Мерсрагс"
+    },
+    "comments": null
   },
   "064": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية نوكتسيني",
       "bn": "নৌকচেনি পৌরসভা",
@@ -3602,10 +4866,29 @@
       "uk": "Наукшенський край",
       "ur": "ناوکسینی میونسپلٹی",
       "vi": "Đô thị tự trị Naukseni",
-      "zh": "納克謝奴自治市"
-    }
+      "zh": "納克謝奴自治市",
+      "ceb": "Naukšēnu Novads",
+      "fa": "شهرداری ناوکشنی",
+      "ccp": "𑄚𑄯𑄇𑄴𑄥𑄬𑄚𑄨",
+      "hy": "Նաուկշենի շրջան",
+      "eu": "Naukšēni udalerria",
+      "be": "Наўкшэнскі край",
+      "mk": "Наукшени"
+    },
+    "comments": null
   },
   "065": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية نيريتا",
       "bn": "নেরেটা পৌরসভা",
@@ -3644,10 +4927,29 @@
       "uk": "Неретський край",
       "ur": "نیریتا میونسپلٹی",
       "vi": "Đô thị tự trị Nereta",
-      "zh": "內雷塔自治市"
-    }
+      "zh": "內雷塔自治市",
+      "ceb": "Neretas Novads",
+      "fa": "شهرداری نرتا",
+      "ccp": "𑄚𑄬𑄢𑄬𑄑",
+      "hy": "Ներետայի շրջան",
+      "eu": "Nereta udalerria",
+      "be": "Нэрэцкі край",
+      "mk": "Нерета"
+    },
+    "comments": null
   },
   "066": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية نيتسا",
       "bn": "নিকা পৌরসভা",
@@ -3686,10 +4988,29 @@
       "uk": "Ніцький край",
       "ur": "نیکا میونسپلٹی",
       "vi": "Đô thị tự trị Nica",
-      "zh": "尼察自治市"
-    }
+      "zh": "尼察自治市",
+      "ceb": "Nīcas Novads",
+      "fa": "شهرداری نیتسا",
+      "ccp": "𑄚𑄨𑄇",
+      "hy": "Նիցայի շրջան",
+      "eu": "Nīca udalerria",
+      "be": "Ніцкі край",
+      "mk": "Ница"
+    },
+    "comments": null
   },
   "067": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أوغري",
       "bn": "ওগ্রে পৌরসভা",
@@ -3729,10 +5050,28 @@
       "uk": "Огрський край",
       "ur": "وجری میونسپلٹی",
       "vi": "Đô thị tự trị Ogre",
-      "zh": "奧格雷自治市"
-    }
+      "zh": "奧格雷自治市",
+      "ceb": "Ogres novads",
+      "fa": "شهرداری اوگره",
+      "ccp": "𑄃𑄧𑄉𑄳𑄢𑄬",
+      "eu": "Ogre udalerria",
+      "be": "Огрскі край",
+      "mk": "Огре"
+    },
+    "comments": null
   },
   "068": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أولاين",
       "bn": "ওলাইন পৌরসভা",
@@ -3772,10 +5111,27 @@
       "uk": "Олайнський край",
       "ur": "ولاینی میونسپلٹی",
       "vi": "Đô thị tự trị Olaine",
-      "zh": "奧萊內自治市"
-    }
+      "zh": "奧萊內自治市",
+      "fa": "شهرداری اولاین",
+      "ccp": "𑄃𑄮𑄣𑄭𑄚𑄴",
+      "eu": "Olaine udalerria",
+      "be": "Олайнскі край",
+      "mk": "Олаине"
+    },
+    "comments": null
   },
   "069": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية أوزولنيكي",
       "bn": "ওজলনিয়েকি পৌরসভা",
@@ -3815,10 +5171,28 @@
       "uk": "Озолнієкський край",
       "ur": "وزولنییکی میونسپلٹی",
       "vi": "Đô thị tự trị Ozolnieki",
-      "zh": "奧佐內庫自治市"
-    }
+      "zh": "奧佐內庫自治市",
+      "ceb": "Ozolnieku Novads",
+      "fa": "شهرداری اوزونیکی",
+      "ccp": "𑄃𑄮𑄎𑄮𑄣𑄴𑄚𑄠𑄬𑄇𑄨",
+      "eu": "Ozolnieki udalerria",
+      "be": "Озалніекскі край",
+      "mk": "Озолниеки"
+    },
+    "comments": null
   },
   "070": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بارغويا",
       "bn": "পারগুজা পৌরসভা",
@@ -3856,10 +5230,30 @@
       "tr": "Parguja Belediyesi",
       "uk": "Паргауйський край",
       "ur": "پارجاوجا میونسپلٹی",
-      "vi": "Đô thị tự trị Pargauja"
-    }
+      "vi": "Đô thị tự trị Pargauja",
+      "ceb": "Pārgaujas Novads",
+      "zh": "帕高亞自治市",
+      "fa": "شهرداری پارگاویا",
+      "ccp": "𑄛𑄢𑄴𑄉𑄅𑄪𑄎",
+      "hy": "Պարգաույայի շրջան",
+      "eu": "Pārgauja udalerria",
+      "be": "Паргаўйскі край",
+      "mk": "Паргауја"
+    },
+    "comments": null
   },
   "071": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بافيلوستا",
       "be": "Павіласцкі край",
@@ -3899,10 +5293,27 @@
       "uk": "Павілостський край",
       "ur": "پاویلوستا میونسپلٹی",
       "vi": "Đô thị tự trị Pavilosta",
-      "zh": "帕維洛斯塔自治市"
-    }
+      "zh": "帕維洛斯塔自治市",
+      "ceb": "Pāvilostas Novads",
+      "fa": "شهرداری پاویلوستا",
+      "ccp": "𑄛𑄞𑄨𑄣𑄮𑄌𑄴𑄑",
+      "eu": "Pāvilosta udalerria",
+      "mk": "Павилоста"
+    },
+    "comments": null
   },
   "072": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بافيواس",
       "bn": "প্লাভিনাস পৌরসভা",
@@ -3942,10 +5353,28 @@
       "uk": "Плявіньський край",
       "ur": "پلاویناس میونسپلٹی",
       "vi": "Đô thị tự trị Plavinas",
-      "zh": "普拉維納斯自治市"
-    }
+      "zh": "普拉維納斯自治市",
+      "ceb": "Pļaviņu Novads",
+      "fa": "شهرداری پلاویناس",
+      "ccp": "𑄛𑄳𑄣𑄞𑄨𑄚𑄌𑄴",
+      "eu": "Pļaviņas udalerria",
+      "be": "Плявіньскі край",
+      "mk": "Пљавињас"
+    },
+    "comments": null
   },
   "073": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بريلي",
       "bn": "প্রেইলি পৌরসভা",
@@ -3984,10 +5413,28 @@
       "uk": "Прейльський край",
       "ur": "میونسپلٹی",
       "vi": "Đô Thị Tự Trị Preili",
-      "zh": "普雷利自治市"
-    }
+      "zh": "普雷利自治市",
+      "ceb": "Preiļi Municipality",
+      "fa": "شهرداری پریلی",
+      "ccp": "𑄛𑄳𑄢𑄭𑄣𑄨",
+      "eu": "Preiļi udalerria",
+      "be": "Прэйльскі край",
+      "mk": "Преиљи"
+    },
+    "comments": null
   },
   "074": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بريكول",
       "bn": "প্রিকুলে পৌরসভা",
@@ -4025,10 +5472,29 @@
       "tr": "Priekule Belediyesi",
       "uk": "Прієкулеський край",
       "ur": "پرییکولی میونسپلٹی",
-      "vi": "Đô thị tự trị Priekule"
-    }
+      "vi": "Đô thị tự trị Priekule",
+      "ceb": "Priekules Novads",
+      "zh": "普列庫萊自治市",
+      "fa": "شهرداری پریکول",
+      "ccp": "𑄛𑄳𑄢𑄬𑄃𑄨𑄇𑄪𑄣𑄴",
+      "eu": "Priekule udalerria",
+      "be": "Прыекульскі край",
+      "mk": "Приекуле"
+    },
+    "comments": null
   },
   "075": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية بريكولي",
       "bn": "প্রিয়েকুলি পৌরসভা",
@@ -4068,10 +5534,28 @@
       "uk": "Прієкульський край",
       "ur": "پرییکولی میونسپلٹی²",
       "vi": "Đô thị tự trị Priekuli",
-      "zh": "普里埃庫利自治市"
-    }
+      "zh": "普里埃庫利自治市",
+      "ceb": "Priekuļi Municipality",
+      "fa": "شهرداری پریکولی",
+      "ccp": "𑄛𑄳𑄢𑄬𑄇𑄪𑄣𑄨",
+      "eu": "Priekuļi udalerria",
+      "be": "Прыекульскі край²",
+      "mk": "Приекуљи"
+    },
+    "comments": null
   },
   "076": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية راونا",
       "bn": "রনা পৌরসভা",
@@ -4111,10 +5595,28 @@
       "uk": "Раунський край",
       "ur": "راونا میونسپلٹی",
       "vi": "Đô thị tự trị Rauna",
-      "zh": "勞納自治市"
-    }
+      "zh": "勞納自治市",
+      "ceb": "Raunas Novads",
+      "fa": "شهرداری راونا",
+      "ccp": "𑄢𑄯𑄚",
+      "eu": "Rauna udalerria",
+      "be": "Раўнскі край",
+      "mk": "Рауна"
+    },
+    "comments": null
   },
   "077": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ريزكنه",
       "bn": "রেজেকনি পৌরসভা",
@@ -4152,10 +5654,29 @@
       "tr": "Rezekne Belediyesi",
       "uk": "Резекненський край",
       "ur": "ریزیکنی میونسپلٹی",
-      "vi": "Đô thị tự trị Rezekne"
-    }
+      "vi": "Đô thị tự trị Rezekne",
+      "ceb": "Rēzeknes Novads",
+      "zh": "雷澤克內自治市",
+      "fa": "شهرداری رزکنه",
+      "ccp": "𑄢𑄬𑄎𑄬𑄇𑄴𑄚𑄨 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "eu": "Rēzekne udalerria",
+      "be": "Рэзэкненскі край",
+      "mk": "Резекне"
+    },
+    "comments": null
   },
   "078": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ريبيني",
       "bn": "রিবিনি পৌরসভা",
@@ -4194,10 +5715,29 @@
       "uk": "Рієбіньський край",
       "ur": "میونسپلٹی²",
       "vi": "Đô thị tự trị Riebini",
-      "zh": "里埃比尼自治市"
-    }
+      "zh": "里埃比尼自治市",
+      "ceb": "Riebiņu Novads",
+      "fa": "شهرداری ریبینی",
+      "ccp": "𑄢𑄭𑄝𑄨𑄚𑄨",
+      "hy": "Ռիեբինիյի շրջան",
+      "eu": "Riebiņi udalerria",
+      "be": "Рыебіньскі край",
+      "mk": "Риебињи"
+    },
+    "comments": null
   },
   "079": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية رويا",
       "bn": "রোজা পৌরসভা",
@@ -4235,10 +5775,29 @@
       "tr": "Roja Belediyesi",
       "uk": "Ройський край",
       "ur": "روجہ میونسپلٹی",
-      "vi": "Đô thị tự trị Roja"
-    }
+      "vi": "Đô thị tự trị Roja",
+      "ceb": "Rojas Novads",
+      "zh": "羅亞自治市",
+      "fa": "شهرداری رویا",
+      "ccp": "𑄢𑄮𑄎",
+      "eu": "Roja udalerria",
+      "be": "Ройскі край",
+      "mk": "Роја"
+    },
+    "comments": null
   },
   "080": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية روباجي",
       "bn": "রোপাজা পৌরসভা",
@@ -4277,10 +5836,28 @@
       "uk": "Ропажський край",
       "ur": "روپازی میونسپلٹی",
       "vi": "Đô thị tự trị Ropazi",
-      "zh": "羅帕日自治市"
-    }
+      "zh": "羅帕日自治市",
+      "ceb": "Ropažu Novads",
+      "fa": "شهرداری روپاژی",
+      "ccp": "𑄢𑄮𑄛𑄎𑄨",
+      "eu": "Ropaži udalerria",
+      "be": "Ропажскі край",
+      "mk": "Ропажи"
+    },
+    "comments": null
   },
   "081": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية روكافا",
       "bn": "রুকাভা পৌরসভা",
@@ -4319,10 +5896,28 @@
       "uk": "Руцавський край",
       "ur": "روکاوا میونسپلٹی",
       "vi": "Đô thị tự trị Rucava",
-      "zh": "魯察瓦自治市"
-    }
+      "zh": "魯察瓦自治市",
+      "ceb": "Rucavas Novads",
+      "fa": "شهرداری روتساوا",
+      "ccp": "𑄢𑄨𑄇𑄞",
+      "eu": "Rucava udalerria",
+      "be": "Руцаўскі край",
+      "mk": "Руцава"
+    },
+    "comments": null
   },
   "082": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية روغايا",
       "bn": "রুগাজি পৌরসভা",
@@ -4360,10 +5955,29 @@
       "tr": "Ruaji Belediyesi",
       "uk": "Ругайський край",
       "ur": "روجاجی میونسپلٹی",
-      "vi": "Đô thị tự trị Rugaji"
-    }
+      "vi": "Đô thị tự trị Rugaji",
+      "ceb": "Rugāju Novads",
+      "fa": "شهرداری روگایی",
+      "ccp": "𑄢𑄪𑄉𑄎𑄨",
+      "hy": "Ռուգայիի շրջան",
+      "eu": "Rugāji udalerria",
+      "be": "Ругайскі край",
+      "mk": "Ругаји"
+    },
+    "comments": null
   },
   "083": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية روندال",
       "be": "Рундальскі край",
@@ -4403,10 +6017,28 @@
       "uk": "Рундальський край",
       "ur": "رندالی میونسپلٹی",
       "vi": "Đô thị tự trị Rundale",
-      "zh": "朗岱爾斯自治市"
-    }
+      "zh": "朗岱爾斯自治市",
+      "ceb": "Rundāles Novads",
+      "fa": "شهرداری رونداله",
+      "ccp": "𑄢𑄪𑄚𑄴𑄓𑄣𑄨",
+      "hy": "Ռունդալեի շրջան",
+      "eu": "Rundāle udalerria",
+      "mk": "Рундале"
+    },
+    "comments": null
   },
   "084": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية روجينا",
       "bn": "রুজিয়েনা পৌরসভা",
@@ -4445,10 +6077,29 @@
       "uk": "Руїенський край",
       "ur": "روجیینا میونسپلٹی",
       "vi": "Đô thị tự trị Rujiena",
-      "zh": "魯伊耶納自治市"
-    }
+      "zh": "魯伊耶納自治市",
+      "ceb": "Rūjienas Novads",
+      "fa": "شهرداری رویینا",
+      "ccp": "𑄢𑄪𑄎𑄨𑄠𑄬𑄚",
+      "hy": "Ռույիենայի շրջան",
+      "eu": "Rūjiena udalerria",
+      "be": "Руіенскі край",
+      "mk": "Рујиена"
+    },
+    "comments": null
   },
   "085": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سالا، لاتفيا",
       "bn": "সালা পৌরসভা, লাটভিয়া",
@@ -4486,10 +6137,30 @@
       "tr": "Sala,Belediyesi Latvia",
       "uk": "Салський край",
       "ur": "سالا میونسپلٹی ، لاتویا",
-      "vi": "Đô thị tự trị Sala, Latvia"
-    }
+      "vi": "Đô thị tự trị Sala, Latvia",
+      "ceb": "Salas Novads",
+      "zh": "薩拉自治市",
+      "fa": "شهرداری سالا",
+      "ccp": "𑄥𑄣",
+      "hy": "Սալայի շրջան",
+      "eu": "Salacgrīva udalerria",
+      "be": "Салскі край",
+      "mk": "Сала (општина)"
+    },
+    "comments": null
   },
   "086": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سالاكريفا",
       "bn": "স্যালাকগ্রিভা পৌরসভা",
@@ -4528,10 +6199,28 @@
       "uk": "Салацгрівський край",
       "ur": "سالاکجریوا میونسپلٹی",
       "vi": "Đô thị tự trị Salacgriva",
-      "zh": "薩拉茨格里瓦自治市"
-    }
+      "zh": "薩拉茨格里瓦自治市",
+      "ceb": "Salacgrīvas Novads",
+      "fa": "شهرداری سالاتسگریوا",
+      "ccp": "𑄥𑄣𑄇𑄴𑄉𑄳𑄢𑄨𑄞",
+      "eu": "Sala udalerria",
+      "be": "Салацгрыўскі край",
+      "mk": "Салацгрива"
+    },
+    "comments": null
   },
   "087": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سالاسبيلز",
       "bn": "সালাস্পিলস পৌরসভা",
@@ -4569,10 +6258,30 @@
       "tr": "Salaspils Belediyesi",
       "uk": "Саласпілський край",
       "ur": "سالاسپیلس میونسپلٹی",
-      "vi": "Đô thị tự trị Salaspils"
-    }
+      "vi": "Đô thị tự trị Salaspils",
+      "ceb": "Salaspils Novads",
+      "zh": "薩拉斯皮爾斯自治市",
+      "fa": "شهرداری سالاسپیلس",
+      "ccp": "𑄥𑄣𑄌𑄴𑄛𑄨𑄣𑄴𑄥𑄴",
+      "hy": "Սալասպիլսի շրջան",
+      "eu": "Salaspils udalerria",
+      "be": "Саласпілскі край",
+      "mk": "Саласпилс"
+    },
+    "comments": null
   },
   "088": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سالدوس",
       "bn": "স্যালদুস পৌরসভা",
@@ -4610,10 +6319,30 @@
       "tr": "Saldus Belediyesi",
       "uk": "Салдуський край",
       "ur": "سالدوس میونسپلٹی",
-      "vi": "Đô thị tự trị Saldus"
-    }
+      "vi": "Đô thị tự trị Saldus",
+      "ceb": "Saldus Municipality",
+      "zh": "薩爾杜斯自治市",
+      "fa": "شهرداری سالدوس",
+      "ccp": "𑄥𑄣𑄴𑄓𑄌𑄴",
+      "hy": "Սալդուսի շրջան",
+      "eu": "Saldus udalerria",
+      "be": "Салдускі край",
+      "mk": "Салдус"
+    },
+    "comments": null
   },
   "089": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سولكراستي",
       "bn": "সল্ক্রাস্তি পৌরসভা",
@@ -4651,10 +6380,29 @@
       "tr": "Saulkrasti Belediyesi",
       "uk": "Саулкрастський край",
       "ur": "ساولکراستی میونسپلٹی",
-      "vi": "Đô thị tự trị Saulkrasti"
-    }
+      "vi": "Đô thị tự trị Saulkrasti",
+      "ceb": "Saulkrastu Novads",
+      "zh": "薩烏爾克拉斯蒂自治市",
+      "fa": "شهرداری ساولکراستی",
+      "ccp": "𑄥𑄯𑄇𑄴𑄇𑄳𑄢𑄌𑄴𑄑𑄨",
+      "eu": "Saulkrasti udalerria",
+      "be": "Саўлкрасцкі край",
+      "mk": "Саулкрасти"
+    },
+    "comments": null
   },
   "090": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سييا",
       "bn": "সেজা পৌরসভা",
@@ -4692,10 +6440,30 @@
       "tr": "Seja Belediyesi",
       "uk": "Сейський край",
       "ur": "سیجا میونسپلٹی",
-      "vi": "Đô thị tự trị Seja"
-    }
+      "vi": "Đô thị tự trị Seja",
+      "ceb": "Sējas Novads",
+      "zh": "塞亞自治市",
+      "fa": "شهرداری سیا",
+      "ccp": "𑄥𑄬𑄎",
+      "hy": "Սեյայի շրջան",
+      "eu": "Sēja udalerria",
+      "be": "Сейскі край",
+      "mk": "Сеја"
+    },
+    "comments": null
   },
   "091": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سيغولدا",
       "bn": "সিগুল্ডা পৌরসভা",
@@ -4733,10 +6501,29 @@
       "tr": "Sigulda Belediyesi",
       "uk": "Сігулдський край",
       "ur": "سیجولدا میونسپلٹی",
-      "vi": "Đô thị tự trị Sigulda"
-    }
+      "vi": "Đô thị tự trị Sigulda",
+      "ceb": "Siguldas Novads",
+      "zh": "錫古爾達自治市",
+      "fa": "شهرداری سیگولدا",
+      "ccp": "𑄥𑄨𑄉𑄪𑄣𑄴𑄓",
+      "eu": "Sigulda udalerria",
+      "be": "Сігулдскі край",
+      "mk": "Сигулда"
+    },
+    "comments": null
   },
   "092": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سكريفري",
       "bn": "স্ক্রিভারি পৌরসভা",
@@ -4774,10 +6561,30 @@
       "tr": "Skriveri Belediyesi",
       "uk": "Скріверський край",
       "ur": "سکریویری میونسپلٹی",
-      "vi": "Đô thị tự trị Skriveri"
-    }
+      "vi": "Đô thị tự trị Skriveri",
+      "ceb": "Skrīveru Novads",
+      "zh": "斯克里韋里自治市",
+      "fa": "شهرداری اسکریوری",
+      "ccp": "𑄇𑄳𑄢𑄨𑄞𑄢𑄨",
+      "hy": "Սկրիվերի շրջան",
+      "eu": "Skrīveri udalerria",
+      "be": "Скрывэрскі край",
+      "mk": "Скривери"
+    },
+    "comments": null
   },
   "093": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سكروندا",
       "bn": "স্ক্রুন্ডা পৌরসভা",
@@ -4815,10 +6622,29 @@
       "tr": "Skrunda Belediyesi",
       "uk": "Скрундський край",
       "ur": "سکروندا میونسپلٹی",
-      "vi": "Đô thị tự trị Skrunda"
-    }
+      "vi": "Đô thị tự trị Skrunda",
+      "ceb": "Skrundas Novads",
+      "zh": "斯克倫達自治市",
+      "fa": "شهرداری اسکروندا",
+      "ccp": "𑄇𑄳𑄢𑄪𑄚𑄴𑄓",
+      "eu": "Skrunda udalerria",
+      "be": "Скрундскі край",
+      "mk": "Скрунда"
+    },
+    "comments": null
   },
   "094": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سميلتين",
       "bn": "স্মিল্টেন পৌরসভা",
@@ -4858,10 +6684,28 @@
       "uk": "Смілтенський край",
       "ur": "سمیلتینی میونسپلٹی",
       "vi": "Đô thị tự trị Smiltene",
-      "zh": "斯米爾泰內自治市"
-    }
+      "zh": "斯米爾泰內自治市",
+      "ceb": "Smiltenes Novads",
+      "fa": "شهرداری اسمیلتن",
+      "ccp": "𑄌𑄳𑄟𑄭𑄣𑄴𑄑𑄬𑄚𑄬",
+      "eu": "Smiltene udalerria",
+      "be": "Смілтэнскі край",
+      "mk": "Смилтене"
+    },
+    "comments": null
   },
   "095": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية ستوبيني",
       "bn": "স্টপিনি পৌরসভা",
@@ -4900,10 +6744,29 @@
       "uk": "Стопіньський край",
       "ur": "ستوپینی میونسپلٹی",
       "vi": "Đô thị tự trị Stopini",
-      "zh": "斯托皮努自治市"
-    }
+      "zh": "斯托皮努自治市",
+      "ceb": "Stopiņu Novads",
+      "fa": "شهرداری استوپینی",
+      "ccp": "𑄌𑄳𑄑𑄧𑄛𑄨𑄚𑄨",
+      "hy": "Ստոպինյիի շրջան",
+      "eu": "Stopiņi udalerria",
+      "be": "Стопіньскі край",
+      "mk": "Стопињи"
+    },
+    "comments": null
   },
   "096": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية سترنتسي",
       "bn": "স্ট্রেন্সি পৌরসভা",
@@ -4941,10 +6804,29 @@
       "tr": "Strenci Belediyesi",
       "uk": "Стренчський край",
       "ur": "اسٹرینکی میونسپلٹی",
-      "vi": "Đô thị tự trị Strenci"
-    }
+      "vi": "Đô thị tự trị Strenci",
+      "ceb": "Strenču Novads",
+      "zh": "斯特倫奇自治市",
+      "fa": "شهرداری استرنچی",
+      "ccp": "𑄑𑄳𑄢𑄬𑄚𑄴𑄥𑄨",
+      "eu": "Strenči udalerria",
+      "be": "Стрэнцкі край",
+      "mk": "Стренчи"
+    },
+    "comments": null
   },
   "097": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية تالشي",
       "bn": "তালসি পৌরসভা",
@@ -4983,10 +6865,29 @@
       "uk": "Талсінський край",
       "ur": "تالسی میونسپلٹی",
       "vi": "Đô thị tự trị Talsi",
-      "zh": "塔爾西自治市"
-    }
+      "zh": "塔爾西自治市",
+      "ceb": "Talsi Municipality",
+      "fa": "شهرداری تالسی",
+      "ccp": "𑄑𑄣𑄴𑄥𑄨",
+      "hy": "Տալսիի շրջան",
+      "eu": "Talsi udalerria",
+      "be": "Талсінскі край",
+      "mk": "Талси"
+    },
+    "comments": null
   },
   "098": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية تيرفته",
       "bn": "তারভেত পৌরসভা",
@@ -5026,10 +6927,27 @@
       "uk": "Терветський край",
       "ur": "تیرویتی میونسپلٹی",
       "vi": "Đô thị tự trị Tervete",
-      "zh": "特維提斯自治市"
-    }
+      "zh": "特維提斯自治市",
+      "ceb": "Tērvetes Novads",
+      "ccp": "𑄑𑄬𑄢𑄴𑄞𑄬𑄑𑄬",
+      "eu": "Tērvete udalerria",
+      "be": "Тэрвэцкі край",
+      "mk": "Тервете"
+    },
+    "comments": null
   },
   "099": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية توكومز",
       "be": "Тукумскі край",
@@ -5070,10 +6988,29 @@
       "tr": "Tukums Belediyesi",
       "uk": "Тукумський край",
       "ur": "توکومس میونسپلٹی",
-      "vi": "Đô thị tự trị Tukums"
-    }
+      "vi": "Đô thị tự trị Tukums",
+      "zh": "圖庫姆斯自治市",
+      "fa": "شهرداری توکومس",
+      "ccp": "𑄑𑄪𑄇𑄪𑄟𑄴𑄌𑄴",
+      "hy": "Տուկումայի շրջան",
+      "he": "טוקומס",
+      "eu": "Tukums udalerria",
+      "mk": "Тукумс"
+    },
+    "comments": null
   },
   "100": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فاينود",
       "be": "Вайнёдскі край",
@@ -5114,10 +7051,27 @@
       "uk": "Вайньодський край",
       "ur": "واینودی میونسپلٹی",
       "vi": "Đô thị tự trị Vainode",
-      "zh": "瓦伊諾迪斯自治市"
-    }
+      "zh": "瓦伊諾迪斯自治市",
+      "ceb": "Vaiņodes Novads",
+      "fa": "شهرداری واینوده",
+      "ccp": "𑄞𑄭𑄚𑄮𑄖𑄴",
+      "eu": "Vaiņode udalerria",
+      "mk": "Ваињоде"
+    },
+    "comments": null
   },
   "101": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فالكا",
       "be": "Валцкі край",
@@ -5158,10 +7112,27 @@
       "uk": "Валкський край",
       "ur": "والکا میونسپلٹی",
       "vi": "Đô thị tự trị Valka",
-      "zh": "瓦爾加自治市"
-    }
+      "zh": "瓦爾加自治市",
+      "ceb": "Valka Municipality",
+      "fa": "شهرداری والکا",
+      "ccp": "𑄞𑄣𑄴𑄇",
+      "eu": "Valka udalerria",
+      "mk": "Валка"
+    },
+    "comments": null
   },
   "102": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فاراكاياني",
       "bn": "ভারাক্লানি পৌরসভা",
@@ -5202,10 +7173,27 @@
       "uk": "Вараклянський край",
       "ur": "واراکلانی میونسپلٹی",
       "vi": "Đô thị tự trị Varaklani",
-      "zh": "瓦拉克利亞尼自治市"
-    }
+      "zh": "瓦拉克利亞尼自治市",
+      "ceb": "Varakļānu Novads",
+      "ccp": "𑄞𑄢𑄇𑄴𑄣𑄚𑄨",
+      "eu": "Varakļāni udalerria",
+      "be": "Вараклянскі край",
+      "mk": "Варакљани"
+    },
+    "comments": null
   },
   "103": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فاركافا",
       "bn": "ভারকাভা পৌরসভা",
@@ -5245,10 +7233,28 @@
       "uk": "Варкавський край",
       "ur": "وارکاوا میونسپلٹی",
       "vi": "Đô thị tự trị Varkava",
-      "zh": "瓦卡瓦斯自治市"
-    }
+      "zh": "瓦卡瓦斯自治市",
+      "ceb": "Vārkavas Novads",
+      "fa": "شهرداری وارکاوا",
+      "ccp": "𑄞𑄢𑄴𑄇𑄞",
+      "eu": "Vārkava udalerria",
+      "be": "Варкаўскі край",
+      "mk": "Варкава"
+    },
+    "comments": null
   },
   "104": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فيكبيبالغا",
       "bn": "ভেকপিবাল্গা পৌরসভা",
@@ -5288,10 +7294,28 @@
       "tr": "Vecpiebalga Belediyesi",
       "uk": "Вецпієбалгський край",
       "ur": "ویکپییبالجا میونسپلٹی",
-      "vi": "Đô thị tự trị Vecpiebalga"
-    }
+      "vi": "Đô thị tự trị Vecpiebalga",
+      "ceb": "Vecpiebalgas Novads",
+      "zh": "舊皮耶巴爾加自治市",
+      "ccp": "𑄞𑄬𑄇𑄴𑄛𑄭𑄝𑄣𑄴𑄉",
+      "eu": "Vecpiebalga udalerria",
+      "be": "Вецпіебалгскі край",
+      "mk": "Вецпиебалга"
+    },
+    "comments": null
   },
   "105": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فيكومنيكي",
       "bn": "ভুকুম্নিকি পৌরসভা",
@@ -5331,10 +7355,27 @@
       "uk": "Вецумнієкський край",
       "ur": "ویکومنییکی میونسپلٹی",
       "vi": "Đô thị tự trị Vecumnieki",
-      "zh": "舊庫米尼庫自治市"
-    }
+      "zh": "舊庫米尼庫自治市",
+      "ceb": "Vecumnieku Novads",
+      "ccp": "𑄞𑄬𑄇𑄪𑄟𑄴𑄚𑄨𑄠𑄬𑄇𑄨",
+      "eu": "Vecumnieki udalerria",
+      "be": "Вэцумніекскі край",
+      "mk": "Вецумниеки"
+    },
+    "comments": null
   },
   "106": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فينتسبيلس",
       "be": "Вэнтспілскі край",
@@ -5375,10 +7416,27 @@
       "uk": "Вентспілський край",
       "ur": "وینتسپیلس میونسپلٹی",
       "vi": "Đô thị tự trị Ventspils",
-      "zh": "文茨皮爾斯自治市"
-    }
+      "zh": "文茨皮爾斯自治市",
+      "ceb": "Ventspils Municipality",
+      "ccp": "𑄞𑄬𑄚𑄴𑄑𑄴𑄛𑄨𑄣𑄴𑄥𑄴 𑄟𑄨𑄅𑄪𑄚𑄨𑄥𑄨𑄛𑄣𑄨𑄑𑄨",
+      "hy": "Վենտսպիլսի շրջան",
+      "eu": "Ventspils udalerria",
+      "mk": "Вентспилс"
+    },
+    "comments": null
   },
   "107": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فيسيت",
       "bn": "ভিসাইত পৌরসভা",
@@ -5417,10 +7475,29 @@
       "uk": "Вієсітський край",
       "ur": "وییسیتی میونسپلٹی",
       "vi": "Đô thị tự trị Viesite",
-      "zh": "維埃賽提斯自治市"
-    }
+      "zh": "維埃賽提斯自治市",
+      "ceb": "Viesītes Novads",
+      "fa": "شهرداری ویسیت",
+      "ccp": "𑄞𑄭𑄥𑄭𑄖𑄴",
+      "hy": "Վիեսիտեի շրջան",
+      "eu": "Viesīte udalerria",
+      "be": "Віесіцкі край",
+      "mk": "Виесите"
+    },
+    "comments": null
   },
   "108": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فيلاكا",
       "be": "Вілякскі край",
@@ -5460,10 +7537,27 @@
       "uk": "Вілякський край",
       "ur": "ویلاکا میونسپلٹی",
       "vi": "Đô thị tự trị Vilaka",
-      "zh": "維拉卡自治市"
-    }
+      "zh": "維拉卡自治市",
+      "ceb": "Viļakas Novads",
+      "fa": "شهرداری ویلاکا",
+      "ccp": "𑄞𑄨𑄣𑄇",
+      "eu": "Viļaka udalerria",
+      "mk": "Виљака"
+    },
+    "comments": null
   },
   "109": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية فيلاني",
       "be": "Вілянскі край",
@@ -5502,10 +7596,29 @@
       "tr": "Vjlani Belediyesi",
       "uk": "Вілянський край",
       "ur": "ویلانی میونسپلٹی",
-      "vi": "Đô thị tự trị Vilāni"
-    }
+      "vi": "Đô thị tự trị Vilāni",
+      "ceb": "Viļānu Novads",
+      "zh": "維利亞尼自治市",
+      "fa": "شهرداری ویلانی",
+      "ccp": "𑄞𑄨𑄣𑄚𑄨",
+      "eu": "Viļāni udalerria",
+      "az": "Vilyan",
+      "mk": "Виљани"
+    },
+    "comments": null
   },
   "110": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية زيلوب",
       "bn": "জিলুপ পৌরসভা",
@@ -5544,10 +7657,29 @@
       "uk": "Зілупський край",
       "ur": "زیلوپی میونسپلٹی",
       "vi": "Đô thị tự trị Zilupe",
-      "zh": "濟盧佩自治市"
-    }
+      "zh": "濟盧佩自治市",
+      "ceb": "Zilupes Novads",
+      "fa": "شهرداری زیلوپ",
+      "ccp": "𑄎𑄨𑄣𑄪𑄛𑄴",
+      "hy": "Զիլուպեի շրջան",
+      "eu": "Zilupe udalerria",
+      "be": "Зілупскі край",
+      "mk": "Зилупе"
+    },
+    "comments": null
   },
   "JKB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جيكاببيلس",
       "az": "Yekabpils",
@@ -5598,10 +7730,31 @@
       "uk": "Єкабпілс",
       "ur": "یاکاپلس",
       "vi": "Jekabpils",
-      "zh": "葉卡布皮爾斯"
-    }
+      "zh": "葉卡布皮爾斯",
+      "cy": "Jēkabpils",
+      "ceb": "Jēkabpils",
+      "sr_Latn": "Jekabpils",
+      "sq": "Jēkabpils",
+      "ccp": "𑄎𑄬𑄇𑄛𑄴𑄛𑄨𑄣𑄴𑄥𑄴",
+      "eu": "Jēkabpils",
+      "pa": "ਜੀਕਾਬਪਿਲਸ",
+      "kk": "Екабпилс",
+      "mk": "Јекабпилс²"
+    },
+    "comments": null
   },
   "VMR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "فالميرا",
       "az": "Valmiera",
@@ -5651,8 +7804,18 @@
       "uk": "Валмієра",
       "ur": "والمیرا",
       "vi": "Valmiera",
-      "zh": "瓦爾米耶拉"
-    }
+      "zh": "瓦爾米耶拉",
+      "cy": "Valmiera",
+      "ceb": "Valmiera",
+      "sr_Latn": "Valmijera",
+      "sq": "Valmiera",
+      "ccp": "𑄞𑄧𑄣𑄴𑄟𑄨𑄠𑄬𑄢",
+      "eu": "Valmiera",
+      "pa": "ਵਾਲਮੀਰਾ",
+      "kk": "Валмиера",
+      "mk": "Валмиера"
+    },
+    "comments": null
   }
 }
 

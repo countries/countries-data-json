@@ -1,10 +1,20 @@
 {
   "AT": {
+    "name": "Attapu [Attopeu]",
+    "code": null,
     "unofficial_names": [
       "Attapu",
       "Attopei",
       "Attopeu"
     ],
+    "geo": {
+      "latitude": 14.8193696,
+      "longitude": 106.8207875,
+      "min_latitude": 14.8034134,
+      "min_longitude": 106.8068505,
+      "max_latitude": 14.8316255,
+      "max_longitude": 106.8385219
+    },
     "translations": {
       "en": "Attapeu",
       "ar": "محافظة أتابيو",
@@ -46,20 +56,26 @@
       "uk": "Аттапи",
       "ur": "اتوپو صوبہ",
       "vi": "Attapeu",
-      "zh": "阿速坡省"
+      "zh": "阿速坡省",
+      "lv": "Atapī province",
+      "ceb": "Attapu (lalawigan)",
+      "ccp": "𑄃𑄖𑄳𑄦𑄛𑄬𑄠𑄮",
+      "ca": "província d’Attapeu"
     },
-    "geo": {
-      "latitude": 14.8193696,
-      "longitude": 106.8207875,
-      "min_latitude": 14.8034134,
-      "min_longitude": 106.8068505,
-      "max_latitude": 14.8316255,
-      "max_longitude": 106.8385219
-    },
-    "name": "Attapu [Attopeu]"
+    "comments": null
   },
   "BK": {
+    "name": "Bokèo",
+    "code": null,
     "unofficial_names": "Bokèo",
+    "geo": {
+      "latitude": 20.2872662,
+      "longitude": 100.7097867,
+      "min_latitude": 19.7742428,
+      "min_longitude": 100.093056,
+      "max_latitude": 20.838158,
+      "max_longitude": 101.2517739
+    },
     "translations": {
       "en": "Bokeo",
       "ar": "محافظة بوكيو",
@@ -98,24 +114,30 @@
       "tr": "Bokeo Province",
       "uk": "Бокеу",
       "ur": "بوکیو صوبہ",
-      "vi": "Bokeo"
+      "vi": "Bokeo",
+      "lv": "Bokēo province",
+      "ceb": "Khouèng Bokèo",
+      "zh": "博胶省",
+      "ccp": "𑄝𑄧𑄇𑄨𑄃𑄮"
     },
-    "geo": {
-      "latitude": 20.2872662,
-      "longitude": 100.7097867,
-      "min_latitude": 19.7742428,
-      "min_longitude": 100.093056,
-      "max_latitude": 20.838158,
-      "max_longitude": 101.2517739
-    },
-    "name": "Bokèo"
+    "comments": null
   },
   "BL": {
+    "name": "Bolikhamxai [Borikhane]",
+    "code": null,
     "unofficial_names": [
       "Bolikhamsai",
       "Bolikhamxai",
       "Borikhamxai"
     ],
+    "geo": {
+      "latitude": 18.4362924,
+      "longitude": 104.4723301,
+      "min_latitude": 17.8729919,
+      "min_longitude": 102.806132,
+      "max_latitude": 19.123211,
+      "max_longitude": 105.26368
+    },
     "translations": {
       "en": "Bolikhamsai",
       "ar": "محافظة بوليخاماسي",
@@ -154,23 +176,29 @@
       "tr": "bolikhamsai Province",
       "uk": "Болікхамсай",
       "ur": "بولیخامسائی صوبہ",
-      "vi": "Borikhamxay"
+      "vi": "Borikhamxay",
+      "lv": "Bolikhamsai province",
+      "ceb": "Bolikhamxai",
+      "zh": "博利坎赛省",
+      "ccp": "𑄝𑄧𑄣𑄨𑄈𑄟𑄴𑄥𑄭"
     },
-    "geo": {
-      "latitude": 18.4362924,
-      "longitude": 104.4723301,
-      "min_latitude": 17.8729919,
-      "min_longitude": 102.806132,
-      "max_latitude": 19.123211,
-      "max_longitude": 105.26368
-    },
-    "name": "Bolikhamxai [Borikhane]"
+    "comments": null
   },
   "CH": {
+    "name": "Champasak [Champassak]",
+    "code": null,
     "unofficial_names": [
       "Champasack",
       "Champassak"
     ],
+    "geo": {
+      "latitude": 14.9030362,
+      "longitude": 105.8642593,
+      "min_latitude": 14.8811701,
+      "min_longitude": 105.8406544,
+      "max_latitude": 14.9311844,
+      "max_longitude": 105.8913803
+    },
     "translations": {
       "en": "Champasak",
       "ar": "محافظة تشامباساك",
@@ -209,22 +237,29 @@
       "tr": "Champasak Province",
       "uk": "Тямпасак",
       "ur": "چامپاساک صوبہ",
-      "vi": "Champasack"
+      "vi": "Champasack",
+      "lv": "Čampāsakas province",
+      "ceb": "Champasak",
+      "lt": "Tiampasako provincija",
+      "zh": "占巴塞省",
+      "ccp": "𑄌𑄟𑄴𑄛𑄥𑄇𑄴"
     },
-    "geo": {
-      "latitude": 14.9030362,
-      "longitude": 105.8642593,
-      "min_latitude": 14.8811701,
-      "min_longitude": 105.8406544,
-      "max_latitude": 14.9311844,
-      "max_longitude": 105.8913803
-    },
-    "name": "Champasak [Champassak]"
+    "comments": null
   },
   "HO": {
+    "name": "Houaphan",
+    "code": null,
     "unofficial_names": [
       "Houaphan"
     ],
+    "geo": {
+      "latitude": 20.3254175,
+      "longitude": 104.1001326,
+      "min_latitude": 19.617208,
+      "min_longitude": 103.105952,
+      "max_latitude": 20.981848,
+      "max_longitude": 104.9918211
+    },
     "translations": {
       "en": "Houaphanh",
       "ar": "محافظة هوا فان",
@@ -263,20 +298,27 @@
       "tr": "Huaphanh",
       "uk": "Хуапхан",
       "ur": "ہوافان صوبہ",
-      "vi": "Huaphanh"
+      "vi": "Huaphanh",
+      "lv": "Hūephanas province",
+      "ceb": "Houaphan",
+      "lt": "Huaphano provincija",
+      "zh": "华潘省",
+      "ccp": "𑄦𑄯𑄠𑄜𑄚𑄴"
     },
-    "geo": {
-      "latitude": 20.3254175,
-      "longitude": 104.1001326,
-      "min_latitude": 19.617208,
-      "min_longitude": 103.105952,
-      "max_latitude": 20.981848,
-      "max_longitude": 104.9918211
-    },
-    "name": "Houaphan"
+    "comments": null
   },
   "KH": {
+    "name": "Khammouan",
+    "code": null,
     "unofficial_names": "Khammouan",
+    "geo": {
+      "latitude": 17.6384066,
+      "longitude": 105.2194808,
+      "min_latitude": 16.9009419,
+      "min_longitude": 104.2752,
+      "max_latitude": 18.26511,
+      "max_longitude": 106.4278179
+    },
     "translations": {
       "en": "Khammouane",
       "ar": "محافظة خامواني",
@@ -314,25 +356,33 @@
       "th": "แขวงคำม่วน",
       "tr": "Khammouane Province",
       "ur": "خاموان صوبہ",
-      "vi": "Khammuane"
+      "vi": "Khammuane",
+      "lv": "Khammūanas province",
+      "ceb": "Khammouan",
+      "lt": "Kamuvanės provincija",
+      "zh": "甘蒙省",
+      "ccp": "𑄈𑄟𑄯𑄚𑄬",
+      "uk": "Провінція Кхамуан"
     },
-    "geo": {
-      "latitude": 17.6384066,
-      "longitude": 105.2194808,
-      "min_latitude": 16.9009419,
-      "min_longitude": 104.2752,
-      "max_latitude": 18.26511,
-      "max_longitude": 106.4278179
-    },
-    "name": "Khammouan"
+    "comments": null
   },
   "LM": {
+    "name": "Louang Namtha",
+    "code": null,
     "unofficial_names": [
       "Louang Namtha",
       "Louangnamtha",
       "Luang Namtha",
       "Luong Nam Tha"
     ],
+    "geo": {
+      "latitude": 20.95,
+      "longitude": 101.4,
+      "min_latitude": 20.9250468,
+      "min_longitude": 101.3745403,
+      "max_latitude": 21.0397262,
+      "max_longitude": 101.4444065
+    },
     "translations": {
       "en": "Luang Namtha",
       "ar": "محافظة لوانغ نامثا",
@@ -369,25 +419,34 @@
       "th": "แขวงหลวงน้ำทา",
       "tr": "Luang Namtha Province",
       "ur": "لوانگ نامتھا صوبہ",
-      "vi": "Luangnamtha"
+      "vi": "Luangnamtha",
+      "lv": "Lūennamthā province",
+      "cy": "Talaith Luang Namtha",
+      "ceb": "Louangnamtha",
+      "lt": "Luang Namtos provincija",
+      "zh": "琅南塔省",
+      "ccp": "𑄣𑄁 𑄚𑄟𑄴𑄗",
+      "uk": "Провінція Луанг-Намта"
     },
-    "geo": {
-      "latitude": 20.95,
-      "longitude": 101.4,
-      "min_latitude": 20.9250468,
-      "min_longitude": 101.3745403,
-      "max_latitude": 21.0397262,
-      "max_longitude": 101.4444065
-    },
-    "name": "Louang Namtha"
+    "comments": null
   },
   "LP": {
+    "name": "Louangphabang [Louang Prabang]",
+    "code": null,
     "unofficial_names": [
       "Louang Phrabang",
       "Louang Prabang",
       "Louangphrabang",
       "Luang Phrabang"
     ],
+    "geo": {
+      "latitude": 19.8833959,
+      "longitude": 102.1346874,
+      "min_latitude": 19.8651358,
+      "min_longitude": 102.1182632,
+      "max_latitude": 19.906138,
+      "max_longitude": 102.1728516
+    },
     "translations": {
       "en": "Luang Prabang",
       "ar": "محافظة لوانغ برابانغ",
@@ -425,23 +484,32 @@
       "th": "แขวงหลวงพระบาง",
       "tr": "Luang prabang Province",
       "ur": "لوانگ پرابانگ صوبہ",
-      "vi": "Luangprabang"
+      "vi": "Luangprabang",
+      "lv": "Lūenphabānas province",
+      "ceb": "Luang Prabang Province",
+      "lt": "Luang Prabango provincija",
+      "zh": "琅勃拉邦省",
+      "ccp": "𑄣𑄁 𑄛𑄳𑄢𑄝𑄁",
+      "uk": "Луанг-Прабанг",
+      "be": "Луангпхабанг"
     },
-    "geo": {
-      "latitude": 19.8833959,
-      "longitude": 102.1346874,
-      "min_latitude": 19.8651358,
-      "min_longitude": 102.1182632,
-      "max_latitude": 19.906138,
-      "max_longitude": 102.1728516
-    },
-    "name": "Louangphabang [Louang Prabang]"
+    "comments": null
   },
   "OU": {
+    "name": "Oudômxai [Oudomsai]",
+    "code": null,
     "unofficial_names": [
       "Oudomsai",
       "Oudomsay"
     ],
+    "geo": {
+      "latitude": 20.4921929,
+      "longitude": 101.8891721,
+      "min_latitude": 19.817,
+      "min_longitude": 100.7239439,
+      "max_latitude": 21.2127588,
+      "max_longitude": 102.35669
+    },
     "translations": {
       "en": "Oudomxay",
       "ar": "محافظة أودومكساي",
@@ -481,22 +549,29 @@
       "tr": "Oudomxay Province",
       "uk": "Удомсай",
       "ur": "اودامسائے صوبہ",
-      "vi": "Oudomxay"
+      "vi": "Oudomxay",
+      "lv": "Udomsai province",
+      "cy": "Talaith Oudomxay",
+      "ceb": "Khouèng Oudômxai",
+      "zh": "乌多姆塞省",
+      "ccp": "𑄃𑄯𑄓𑄧𑄟𑄴𑄎𑄳𑄠𑄬"
     },
-    "geo": {
-      "latitude": 20.4921929,
-      "longitude": 101.8891721,
-      "min_latitude": 19.817,
-      "min_longitude": 100.7239439,
-      "max_latitude": 21.2127588,
-      "max_longitude": 102.35669
-    },
-    "name": "Oudômxai [Oudomsai]"
+    "comments": null
   },
   "PH": {
+    "name": "Phôngsali [Phong Saly]",
+    "code": null,
     "unofficial_names": [
       "Phongsali"
     ],
+    "geo": {
+      "latitude": 21.683333,
+      "longitude": 102.1,
+      "min_latitude": 21.6663623,
+      "min_longitude": 102.0874929,
+      "max_latitude": 21.6996212,
+      "max_longitude": 102.1256446
+    },
     "translations": {
       "en": "Phongsaly",
       "ar": "محافظة فونغ سالي",
@@ -535,22 +610,30 @@
       "tr": "Phongsaly Province",
       "uk": "Пхонгсалі",
       "ur": "فونگسالی صوبہ",
-      "vi": "Phongsaly"
+      "vi": "Phongsaly",
+      "lv": "Phonsālī province",
+      "cy": "Talaith Phongsaly",
+      "ceb": "Khouèng Phôngsali",
+      "lt": "Fongsalio provincija",
+      "zh": "丰沙里省",
+      "ccp": "𑄛𑄧𑄁𑄥𑄣𑄨"
     },
-    "geo": {
-      "latitude": 21.683333,
-      "longitude": 102.1,
-      "min_latitude": 21.6663623,
-      "min_longitude": 102.0874929,
-      "max_latitude": 21.6996212,
-      "max_longitude": 102.1256446
-    },
-    "name": "Phôngsali [Phong Saly]"
+    "comments": null
   },
   "SL": {
+    "name": "Salavan [Saravane]",
+    "code": null,
     "unofficial_names": [
       "Saravane"
     ],
+    "geo": {
+      "latitude": 15.716667,
+      "longitude": 106.416667,
+      "min_latitude": 15.7041926,
+      "min_longitude": 106.393404,
+      "max_latitude": 15.725096,
+      "max_longitude": 106.4305044
+    },
     "translations": {
       "en": "Salavan",
       "ar": "سالافان",
@@ -589,20 +672,26 @@
       "tr": "Salavan Province",
       "uk": "Сараван",
       "ur": "سالاوان صوبہ",
-      "vi": "Saravane"
+      "vi": "Saravane",
+      "lv": "Sālavanas province",
+      "ceb": "Salavan (lalawigan)",
+      "zh": "沙拉湾省",
+      "ccp": "𑄥𑄣𑄴𑄞𑄧𑄣𑄴"
     },
-    "geo": {
-      "latitude": 15.716667,
-      "longitude": 106.416667,
-      "min_latitude": 15.7041926,
-      "min_longitude": 106.393404,
-      "max_latitude": 15.725096,
-      "max_longitude": 106.4305044
-    },
-    "name": "Salavan [Saravane]"
+    "comments": null
   },
   "SV": {
+    "name": "Savannakhét",
+    "code": null,
     "unofficial_names": "Savannakhét",
+    "geo": {
+      "latitude": 16.5722464,
+      "longitude": 104.7705509,
+      "min_latitude": 16.5072445,
+      "min_longitude": 104.7402586,
+      "max_latitude": 16.6266521,
+      "max_longitude": 104.7958841
+    },
     "translations": {
       "en": "Savannakhet",
       "ar": "محافظة سافاناكيت",
@@ -641,22 +730,30 @@
       "tr": "Savanakhet Province",
       "uk": "Саваннакхет",
       "ur": "ساواناخیت صوبہ",
-      "vi": "Savannakhet"
+      "vi": "Savannakhet",
+      "lv": "Savannakhētas province",
+      "ceb": "Khouèng Savannakhét",
+      "zh": "沙湾拿吉省",
+      "ccp": "𑄥𑄞𑄚𑄴𑄈𑄬𑄖𑄴",
+      "ml": "സവണ്ണഖേത്",
+      "be": "Саванакхет"
     },
-    "geo": {
-      "latitude": 16.5722464,
-      "longitude": 104.7705509,
-      "min_latitude": 16.5072445,
-      "min_longitude": 104.7402586,
-      "max_latitude": 16.6266521,
-      "max_longitude": 104.7958841
-    },
-    "name": "Savannakhét"
+    "comments": null
   },
   "VI": {
+    "name": "Vientiane",
+    "code": null,
     "unofficial_names": [
       "Vientiane Province"
     ],
+    "geo": {
+      "latitude": 17.966667,
+      "longitude": 102.6,
+      "min_latitude": 17.8847653,
+      "min_longitude": 102.5341096,
+      "max_latitude": 18.0318289,
+      "max_longitude": 102.6774216
+    },
     "translations": {
       "en": "Vientiane Province",
       "ar": "محافظة فيينتيان",
@@ -683,23 +780,28 @@
       "th": "แขวงเวียงจันทน์",
       "uk": "Вʼєнтьян",
       "ur": "وینتیان صوبہ",
-      "vi": "Viêng Chăn"
+      "vi": "Viêng Chăn",
+      "ceb": "Vientiane Province",
+      "zh": "万象省",
+      "ccp": "𑄞𑄨𑄠𑄬𑄚𑄴𑄑𑄨𑄠𑄬𑄚𑄴 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": 17.966667,
-      "longitude": 102.6,
-      "min_latitude": 17.8847653,
-      "min_longitude": 102.5341096,
-      "max_latitude": 18.0318289,
-      "max_longitude": 102.6774216
-    },
-    "name": "Vientiane"
+    "comments": null
   },
   "VT": {
+    "name": "Vientiane Prefecture",
+    "code": null,
     "unofficial_names": [
       "Viangchan City",
       "Vientiane City"
     ],
+    "geo": {
+      "latitude": 18.110541,
+      "longitude": 102.5298028,
+      "min_latitude": 17.804958,
+      "min_longitude": 102.0385339,
+      "max_latitude": 18.43515,
+      "max_longitude": 103.101063
+    },
     "translations": {
       "en": "Vientiane",
       "ar": "مقاطعة فيينتيان",
@@ -724,24 +826,29 @@
       "pt": "Vientiane²",
       "ru": "Вьентьян²",
       "th": "นครหลวงเวียงจันทน์",
-      "ur": "وینتیان پریفیکچر"
+      "ur": "وینتیان پریفیکچر",
+      "ceb": "Vientiane Prefecture",
+      "zh": "永珍市",
+      "ccp": "𑄞𑄨𑄠𑄬𑄚𑄴𑄑𑄨𑄠𑄬𑄚𑄴"
     },
-    "geo": {
-      "latitude": 18.110541,
-      "longitude": 102.5298028,
-      "min_latitude": 17.804958,
-      "min_longitude": 102.0385339,
-      "max_latitude": 18.43515,
-      "max_longitude": 103.101063
-    },
-    "name": "Vientiane Prefecture"
+    "comments": null
   },
   "XA": {
+    "name": "Xaignabouli [Sayaboury]",
+    "code": null,
     "unofficial_names": [
       "Sayaboury",
       "Sayabury",
       "Xaignaboury"
     ],
+    "geo": {
+      "latitude": 19.3907886,
+      "longitude": 101.5248055,
+      "min_latitude": 17.466822,
+      "min_longitude": 100.4117971,
+      "max_latitude": 19.9302149,
+      "max_longitude": 101.8970158
+    },
     "translations": {
       "en": "Sainyabuli",
       "ar": "محافظة سايذيبولي",
@@ -780,22 +887,30 @@
       "tr": "Sainyabuli Province",
       "uk": "Сайнябулі",
       "ur": "سائنیابولی صوبہ",
-      "vi": "Xayabury"
+      "vi": "Xayabury",
+      "lv": "Saiņabūlī province",
+      "ceb": "Xaignabouli",
+      "lt": "Sainjabulio provincija",
+      "zh": "沙耶武里省",
+      "ccp": "𑄥𑄭𑄚𑄨𑄠𑄝𑄪𑄣𑄨",
+      "ml": "സൈന്യാബുലി പ്രവിശ്യ"
     },
-    "geo": {
-      "latitude": 19.3907886,
-      "longitude": 101.5248055,
-      "min_latitude": 17.466822,
-      "min_longitude": 100.4117971,
-      "max_latitude": 19.9302149,
-      "max_longitude": 101.8970158
-    },
-    "name": "Xaignabouli [Sayaboury]"
+    "comments": null
   },
   "XE": {
+    "name": "Xékong [Sékong]",
+    "code": null,
     "unofficial_names": [
       "Xékong"
     ],
+    "geo": {
+      "latitude": 15.344444,
+      "longitude": 106.7175,
+      "min_latitude": 15.3299657,
+      "min_longitude": 106.6949272,
+      "max_latitude": 15.3708533,
+      "max_longitude": 106.7550086
+    },
     "translations": {
       "en": "Sekong",
       "ar": "محافظة سيكونغ",
@@ -832,25 +947,33 @@
       "tr": "Sekong Province",
       "uk": "Секонг",
       "ur": "سیکونگ صوبہ",
-      "vi": "Sekong"
+      "vi": "Sekong",
+      "lv": "Sēkonas province",
+      "ceb": "Khouèng Xékong",
+      "lt": "Sekongo provincija",
+      "zh": "塞公省",
+      "ccp": "𑄥𑄨𑄇𑄧𑄁",
+      "hy": "Սեկոնգ"
     },
-    "geo": {
-      "latitude": 15.344444,
-      "longitude": 106.7175,
-      "min_latitude": 15.3299657,
-      "min_longitude": 106.6949272,
-      "max_latitude": 15.3708533,
-      "max_longitude": 106.7550086
-    },
-    "name": "Xékong [Sékong]"
+    "comments": null
   },
   "XI": {
+    "name": "Xiangkhoang [Xieng Khouang]",
+    "code": null,
     "unofficial_names": [
       "Xiang Khouang",
       "Xiangkhouang",
       "Xiangkhuang",
       "Xieng Khouang"
     ],
+    "geo": {
+      "latitude": 19.6093003,
+      "longitude": 103.7289167,
+      "min_latitude": 18.813512,
+      "min_longitude": 102.661909,
+      "max_latitude": 20.040053,
+      "max_longitude": 104.279344
+    },
     "translations": {
       "en": "Xiangkhouang",
       "ar": "محافظة زيانغهوانغ",
@@ -889,25 +1012,20 @@
       "tr": "Xiengkhuang",
       "uk": "Сіангкхуанг",
       "ur": "سیانگہوانگ صوبہ",
-      "vi": "Xiengkhuang"
+      "vi": "Xiengkhuang",
+      "lv": "Sjenkhoānas province",
+      "ceb": "Xiangkhouang",
+      "zh": "川圹省",
+      "ccp": "𑄎𑄨𑄠𑄁𑄇𑄯𑄁"
     },
-    "geo": {
-      "latitude": 19.6093003,
-      "longitude": 103.7289167,
-      "min_latitude": 18.813512,
-      "min_longitude": 102.661909,
-      "max_latitude": 20.040053,
-      "max_longitude": 104.279344
-    },
-    "name": "Xiangkhoang [Xieng Khouang]"
+    "comments": null
   },
   "XN": {
+    "name": "Xaisômboun",
+    "code": null,
     "unofficial_names": [
       "Xaisômboun"
     ],
-    "translations": {
-      "en": "Xaisomboun"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -916,20 +1034,41 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Xaisômboun"
+    "translations": {
+      "en": "Xaisomboun",
+      "ccp": "𑄎𑄭𑄥𑄧𑄟𑄴𑄝𑄯𑄚𑄴"
+    },
+    "comments": null
   },
   "XS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Provinz Saysomboun",
-      "en": "Xaisomboun²",
+      "en": "Xaisomboun",
       "hi": "साइसोम्बून प्रान्त",
       "it": "Provincia di Xaisomboun",
       "ja": "サイソムブーン県",
       "lo": "ແຂວງໄຊສົມບູນ",
       "pl": "Prowincja Xaisômboun",
       "th": "แขวงไชยสมบูรณ์",
-      "ur": "سائسومبون صوبہ"
-    }
+      "ur": "سائسومبون صوبہ",
+      "vi": "Xaysomboun",
+      "zh": "賽宋奔省",
+      "ccp": "𑄎𑄭𑄥𑄧𑄟𑄴𑄝𑄯𑄚𑄴",
+      "fr": "Province de Xaisomboun",
+      "ko": "싸이솜분 주"
+    },
+    "comments": null
   }
 }
 

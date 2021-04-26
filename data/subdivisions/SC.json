@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Anse aux Pins",
+    "code": null,
     "unofficial_names": "Anse aux Pins",
+    "geo": {
+      "latitude": -4.6900443,
+      "longitude": 55.5150289,
+      "min_latitude": -4.698596999999999,
+      "min_longitude": 55.502337,
+      "max_latitude": -4.685153,
+      "max_longitude": 55.5228579
+    },
     "translations": {
       "en": "Anse aux Pins",
       "ar": "آنسي-أوكس-بينس",
@@ -34,20 +44,29 @@
       "tr": "Anse-aux-Pins",
       "ur": "انسی-اوز-پینس",
       "vi": "Anse-aux-Pins",
-      "zh": "安塞奧潘區"
+      "zh": "安塞奧潘區",
+      "lv": "Ansopina",
+      "ceb": "Anse aux Pins",
+      "lt": "Anse-o-pinsas",
+      "jv": "Anse aux Pins",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬 𑄃𑄧𑄇𑄴 𑄛𑄨𑄚𑄴𑄥𑄴",
+      "ka": "ანს-ო-პენი",
+      "uk": "Анс-о-Пен"
     },
-    "geo": {
-      "latitude": -4.6900443,
-      "longitude": 55.5150289,
-      "min_latitude": -4.698596999999999,
-      "min_longitude": 55.502337,
-      "max_latitude": -4.685153,
-      "max_longitude": 55.5228579
-    },
-    "name": "Anse aux Pins"
+    "comments": null
   },
   "02": {
+    "name": "Anse Boileau",
+    "code": null,
     "unofficial_names": "Anse Boileau",
+    "geo": {
+      "latitude": -4.7047268,
+      "longitude": 55.4859363,
+      "min_latitude": -4.7371169,
+      "min_longitude": 55.4748002,
+      "max_latitude": -4.6840339,
+      "max_longitude": 55.50535
+    },
     "translations": {
       "en": "Anse Boileau",
       "ar": "أنس بويلاو",
@@ -81,20 +100,30 @@
       "th": "แอนซี่ บอยเลียว",
       "tr": "Anse Boileau",
       "ur": "انسے بویلیاو",
-      "vi": "Anse Boileau"
+      "vi": "Anse Boileau",
+      "lv": "Ansebualo",
+      "ceb": "Anse Boileau",
+      "lt": "Anse Bualo",
+      "zh": "安塞布瓦洛區",
+      "jv": "Anse Boileau",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬 𑄝𑄰𑄣𑄨𑄅𑄪",
+      "ka": "ანს-ბუალო",
+      "uk": "Анс-Буало"
     },
-    "geo": {
-      "latitude": -4.7047268,
-      "longitude": 55.4859363,
-      "min_latitude": -4.7371169,
-      "min_longitude": 55.4748002,
-      "max_latitude": -4.6840339,
-      "max_longitude": 55.50535
-    },
-    "name": "Anse Boileau"
+    "comments": null
   },
   "03": {
+    "name": "Anse Étoile",
+    "code": null,
     "unofficial_names": "Anse Étoile",
+    "geo": {
+      "latitude": -4.5962834,
+      "longitude": 55.4499303,
+      "min_latitude": -4.609877,
+      "min_longitude": 55.43989500000001,
+      "max_latitude": -4.581683,
+      "max_longitude": 55.462322
+    },
     "translations": {
       "en": "Anse Etoile",
       "ar": "آنسي إيتوال",
@@ -128,20 +157,30 @@
       "th": "ชินยานกา",
       "tr": "Anse Etoile",
       "ur": "انسے یتویلی",
-      "vi": "Anse Etoile"
+      "vi": "Anse Etoile",
+      "lv": "Ansetolē",
+      "ceb": "Anse Etoile",
+      "lt": "Anse Etolė",
+      "zh": "安塞艾托瓦區",
+      "jv": "Anse Etoile",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬 𑄃𑄨𑄑𑄰𑄣𑄴",
+      "ka": "ანს-ეტუალი",
+      "uk": "Анс-Етуаль"
     },
-    "geo": {
-      "latitude": -4.5962834,
-      "longitude": 55.4499303,
-      "min_latitude": -4.609877,
-      "min_longitude": 55.43989500000001,
-      "max_latitude": -4.581683,
-      "max_longitude": 55.462322
-    },
-    "name": "Anse Étoile"
+    "comments": null
   },
   "04": {
+    "name": "Anse Louis",
+    "code": null,
     "unofficial_names": "Anse Louis",
+    "geo": {
+      "latitude": -4.7189825,
+      "longitude": 55.4783184,
+      "min_latitude": -4.7208305,
+      "min_longitude": 55.47635450000001,
+      "max_latitude": -4.7165001,
+      "max_longitude": 55.4798841
+    },
     "translations": {
       "en": "Au Cap",
       "ar": "أو كاب",
@@ -175,20 +214,29 @@
       "th": "โอแคป",
       "tr": "Au Cap",
       "ur": "او کیپ",
-      "vi": "Au Cap"
+      "vi": "Au Cap",
+      "lv": "Aukapa",
+      "ceb": "Au Cap",
+      "lt": "Au Kapas",
+      "zh": "奧凱普區",
+      "ccp": "𑄃𑄧𑄅𑄪 𑄇𑄳𑄠𑄛𑄴",
+      "ka": "ო-კაპი",
+      "uk": "О-Кап"
     },
-    "geo": {
-      "latitude": -4.7189825,
-      "longitude": 55.4783184,
-      "min_latitude": -4.7208305,
-      "min_longitude": 55.47635450000001,
-      "max_latitude": -4.7165001,
-      "max_longitude": 55.4798841
-    },
-    "name": "Anse Louis"
+    "comments": null
   },
   "05": {
+    "name": "Anse Royale",
+    "code": null,
     "unofficial_names": "Anse Royale",
+    "geo": {
+      "latitude": -4.733333,
+      "longitude": 55.51666700000001,
+      "min_latitude": -4.75697,
+      "min_longitude": 55.4960203,
+      "max_latitude": -4.7266898,
+      "max_longitude": 55.52538509999999
+    },
     "translations": {
       "en": "Anse Royale",
       "ar": "أنس رويال",
@@ -222,20 +270,29 @@
       "th": "แอนซี่ รอยัล",
       "tr": "Anse Royale",
       "ur": "انسے رویالی",
-      "vi": "Anse Royale"
+      "vi": "Anse Royale",
+      "lv": "Ansurualē",
+      "ceb": "Anse Royale",
+      "lt": "Anse Rojal",
+      "zh": "安塞羅亞萊區",
+      "ccp": "𑄃𑄚𑄴𑄥𑄬 𑄢𑄮𑄠𑄣𑄴",
+      "ka": "ანს-რუაიალი",
+      "uk": "Анс-Рояль"
     },
-    "geo": {
-      "latitude": -4.733333,
-      "longitude": 55.51666700000001,
-      "min_latitude": -4.75697,
-      "min_longitude": 55.4960203,
-      "max_latitude": -4.7266898,
-      "max_longitude": 55.52538509999999
-    },
-    "name": "Anse Royale"
+    "comments": null
   },
   "06": {
+    "name": "Baie Lazare",
+    "code": null,
     "unofficial_names": "Baie Lazare",
+    "geo": {
+      "latitude": -4.7482525,
+      "longitude": 55.4859363,
+      "min_latitude": -4.766401,
+      "min_longitude": 55.464302,
+      "max_latitude": -4.7334042,
+      "max_longitude": 55.509342
+    },
     "translations": {
       "en": "Baie Lazare",
       "ar": "باي لازاري",
@@ -269,20 +326,29 @@
       "th": "เบย์ ราแซย์",
       "tr": "Baie Lazare",
       "ur": "بایی لازاری",
-      "vi": "Baie Lazare"
+      "vi": "Baie Lazare",
+      "lv": "Belazare",
+      "ceb": "Baie Lazare",
+      "lt": "Be Lazarė",
+      "zh": "貝拉扎爾區",
+      "ccp": "𑄝𑄭 𑄣𑄎𑄢𑄴",
+      "ka": "ბე-ლაზარი",
+      "uk": "Бе-Лазар"
     },
-    "geo": {
-      "latitude": -4.7482525,
-      "longitude": 55.4859363,
-      "min_latitude": -4.766401,
-      "min_longitude": 55.464302,
-      "max_latitude": -4.7334042,
-      "max_longitude": 55.509342
-    },
-    "name": "Baie Lazare"
+    "comments": null
   },
   "07": {
+    "name": "Baie Sainte Anne",
+    "code": null,
     "unofficial_names": "Baie Sainte Anne",
+    "geo": {
+      "latitude": -4.3193277,
+      "longitude": 55.74116919999999,
+      "min_latitude": -4.352547899999999,
+      "min_longitude": 55.68746609999999,
+      "max_latitude": -4.276453099999999,
+      "max_longitude": 55.7889993
+    },
     "translations": {
       "en": "Baie Sainte Anne",
       "ar": "باي سينت آن",
@@ -316,20 +382,29 @@
       "th": "เบเซนต์แอนน์",
       "tr": "Baie Sainte Anne",
       "ur": "بایی ساینتی آنے",
-      "vi": "Baie Sainte Anne"
+      "vi": "Baie Sainte Anne",
+      "lv": "Besentanne",
+      "ceb": "Baie Sainte Anne",
+      "lt": "Baje Saint Ana",
+      "zh": "貝聖安那區",
+      "ccp": "𑄝𑄭 𑄥𑄬𑄚𑄴𑄑𑄴 𑄃𑄬𑄚𑄨",
+      "ka": "ბე-სენტ-ანი",
+      "uk": "Бе-Сент-Анн"
     },
-    "geo": {
-      "latitude": -4.3193277,
-      "longitude": 55.74116919999999,
-      "min_latitude": -4.352547899999999,
-      "min_longitude": 55.68746609999999,
-      "max_latitude": -4.276453099999999,
-      "max_longitude": 55.7889993
-    },
-    "name": "Baie Sainte Anne"
+    "comments": null
   },
   "08": {
+    "name": "Beau Vallon",
+    "code": null,
     "unofficial_names": "Beau Vallon",
+    "geo": {
+      "latitude": -4.6210967,
+      "longitude": 55.4277802,
+      "min_latitude": -4.627564899999999,
+      "min_longitude": 55.4202533,
+      "max_latitude": -4.6111603,
+      "max_longitude": 55.43984409999999
+    },
     "translations": {
       "en": "Beau Vallon",
       "ar": "بيو فالون",
@@ -363,20 +438,29 @@
       "th": "บิววัลลอน",
       "tr": "Beau Vallon",
       "ur": "بیو والون",
-      "vi": "Beau Vallon"
+      "vi": "Beau Vallon",
+      "lv": "Bevalonna",
+      "ceb": "Beau Vallon",
+      "lt": "Bo Valonas",
+      "zh": "博瓦隆區",
+      "ccp": "𑄝𑄨𑄅𑄪 𑄞𑄣𑄮𑄚𑄴",
+      "ka": "ბო-ვალონი",
+      "uk": "Бо-Валон"
     },
-    "geo": {
-      "latitude": -4.6210967,
-      "longitude": 55.4277802,
-      "min_latitude": -4.627564899999999,
-      "min_longitude": 55.4202533,
-      "max_latitude": -4.6111603,
-      "max_longitude": 55.43984409999999
-    },
-    "name": "Beau Vallon"
+    "comments": null
   },
   "09": {
+    "name": "Bel Air",
+    "code": null,
     "unofficial_names": "Bel Air",
+    "geo": {
+      "latitude": -4.6440325,
+      "longitude": 55.4499303,
+      "min_latitude": -4.657465,
+      "min_longitude": 55.4380879,
+      "max_latitude": -4.619837,
+      "max_longitude": 55.46115529999999
+    },
     "translations": {
       "en": "Bel Air",
       "ar": "بيل اير",
@@ -410,20 +494,29 @@
       "th": "เบล แอร์",
       "tr": "Bel Air",
       "ur": "بل ایئر",
-      "vi": "Bel Air"
+      "vi": "Bel Air",
+      "lv": "Belaira",
+      "lt": "Bel Eiras",
+      "zh": "貝爾艾爾區",
+      "jv": "Bel Air, Syechelles",
+      "ccp": "𑄝𑄬𑄣𑄴 𑄃𑄨𑄠𑄢𑄴",
+      "ka": "ბელ-ერი",
+      "uk": "Белер"
     },
-    "geo": {
-      "latitude": -4.6440325,
-      "longitude": 55.4499303,
-      "min_latitude": -4.657465,
-      "min_longitude": 55.4380879,
-      "max_latitude": -4.619837,
-      "max_longitude": 55.46115529999999
-    },
-    "name": "Bel Air"
+    "comments": null
   },
   "10": {
+    "name": "Bel Ombre",
+    "code": null,
     "unofficial_names": "Bel Ombre",
+    "geo": {
+      "latitude": -4.6204838,
+      "longitude": 55.4167072,
+      "min_latitude": -4.6257684,
+      "min_longitude": 55.3988171,
+      "max_latitude": -4.6146267,
+      "max_longitude": 55.4232574
+    },
     "translations": {
       "en": "Bel Ombre",
       "ar": "بيل أومبير",
@@ -457,20 +550,29 @@
       "th": "เบล อมบรี",
       "tr": "Bel Ombre",
       "ur": "بل ومبری",
-      "vi": "Bel Ombre"
+      "vi": "Bel Ombre",
+      "lv": "Belombre",
+      "lt": "Bel Ombrė",
+      "zh": "貝爾翁布雷區",
+      "jv": "Bel Ombre",
+      "ccp": "𑄝𑄬𑄣𑄴 𑄃𑄮𑄟𑄴𑄝𑄳𑄢𑄬",
+      "ka": "ბელ-ომბრი",
+      "uk": "Бел-Омбре"
     },
-    "geo": {
-      "latitude": -4.6204838,
-      "longitude": 55.4167072,
-      "min_latitude": -4.6257684,
-      "min_longitude": 55.3988171,
-      "max_latitude": -4.6146267,
-      "max_longitude": 55.4232574
-    },
-    "name": "Bel Ombre"
+    "comments": null
   },
   "11": {
+    "name": "Cascade",
+    "code": null,
     "unofficial_names": "Cascade",
+    "geo": {
+      "latitude": -4.670554099999999,
+      "longitude": 55.49701810000001,
+      "min_latitude": -4.6916291,
+      "min_longitude": 55.4701,
+      "max_latitude": -4.650223500000001,
+      "max_longitude": 55.511308
+    },
     "translations": {
       "en": "Cascade",
       "ar": "كاسكاد",
@@ -504,20 +606,29 @@
       "th": "คาสเคด เซเชลเลส",
       "tr": "Cascade",
       "ur": "کاسکادی",
-      "vi": "Cascade"
+      "vi": "Cascade",
+      "lv": "Kaskāde",
+      "ceb": "Cascade",
+      "lt": "Kaskada",
+      "zh": "卡斯喀得區",
+      "ccp": "𑄇𑄌𑄴𑄇𑄖𑄴",
+      "ka": "კასკადი",
+      "uk": "Каскад"
     },
-    "geo": {
-      "latitude": -4.670554099999999,
-      "longitude": 55.49701810000001,
-      "min_latitude": -4.6916291,
-      "min_longitude": 55.4701,
-      "max_latitude": -4.650223500000001,
-      "max_longitude": 55.511308
-    },
-    "name": "Cascade"
+    "comments": null
   },
   "12": {
+    "name": "Glacis",
+    "code": null,
     "unofficial_names": "Glacis",
+    "geo": {
+      "latitude": -4.5719729,
+      "longitude": 55.4416234,
+      "min_latitude": -4.5966793,
+      "min_longitude": 55.4318189,
+      "max_latitude": -4.5638565,
+      "max_longitude": 55.462322
+    },
     "translations": {
       "en": "Glacis",
       "ar": "غلاسيس",
@@ -551,20 +662,30 @@
       "th": "กลาซิส เซย์เชลเลส",
       "tr": "Glacis",
       "ur": "جلاکیس",
-      "vi": "Glacis"
+      "vi": "Glacis",
+      "lv": "Glāsisa",
+      "ceb": "Glacis",
+      "lt": "Glasisas",
+      "zh": "格拉西斯區",
+      "ccp": "𑄉𑄳𑄣𑄌𑄨𑄌𑄴",
+      "ka": "გლასი",
+      "uk": "Гласі, Глясі",
+      "be": "Гласіс"
     },
-    "geo": {
-      "latitude": -4.5719729,
-      "longitude": 55.4416234,
-      "min_latitude": -4.5966793,
-      "min_longitude": 55.4318189,
-      "max_latitude": -4.5638565,
-      "max_longitude": 55.462322
-    },
-    "name": "Glacis"
+    "comments": null
   },
   "13": {
+    "name": "Grand' Anse (Mahé)",
+    "code": null,
     "unofficial_names": "Grand' Anse (Mahé)",
+    "geo": {
+      "latitude": -4.677392,
+      "longitude": 55.463777,
+      "min_latitude": -4.7082592,
+      "min_longitude": 55.43838100000001,
+      "max_latitude": -4.657465,
+      "max_longitude": 55.486098
+    },
     "translations": {
       "en": "Grand’Anse Mahé",
       "ca": "Grand’ Anse",
@@ -577,20 +698,27 @@
       "nl": "Grand’ Anse",
       "pl": "Grand’ Anse",
       "ro": "Districtul Grand’Anse Mahé",
-      "sv": "Grand’Anse Mahé"
+      "sv": "Grand’Anse Mahé",
+      "ceb": "Grand Anse Mahe",
+      "zh": "馬埃大安塞區",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄃𑄚𑄴𑄥𑄬 𑄟𑄦𑄨",
+      "ka": "გრანდ-ანსი",
+      "de": "Grand Anse (Mahé)"
     },
-    "geo": {
-      "latitude": -4.677392,
-      "longitude": 55.463777,
-      "min_latitude": -4.7082592,
-      "min_longitude": 55.43838100000001,
-      "max_latitude": -4.657465,
-      "max_longitude": 55.486098
-    },
-    "name": "Grand' Anse (Mahé)"
+    "comments": null
   },
   "14": {
+    "name": "Grand' Anse (Praslin)",
+    "code": null,
     "unofficial_names": "Grand' Anse (Praslin)",
+    "geo": {
+      "latitude": -4.3176219,
+      "longitude": 55.7078363,
+      "min_latitude": -4.3582979,
+      "min_longitude": 55.6446526,
+      "max_latitude": -4.292169599999999,
+      "max_longitude": 55.761684
+    },
     "translations": {
       "en": "Grand’Anse Praslin",
       "ar": "غراند آنز براسلين",
@@ -622,20 +750,30 @@
       "te": "గ్రాండ్ఆన్స్ ప్రాస్లిన్",
       "th": "ไอกาอิเลไต",
       "tr": "Grand’Anse Praslin",
-      "vi": "Grand’Anse Praslin"
+      "vi": "Grand’Anse Praslin",
+      "lv": "Grandansepraslina",
+      "ceb": "Grand Anse Praslin",
+      "lt": "Grand Anse Praslinas",
+      "zh": "普拉蘭大安塞區",
+      "bn": "গ্রান্ড’আন্সে প্রাস্লিন",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄃𑄚𑄴𑄥𑄬 𑄛𑄳𑄢𑄌𑄴𑄣𑄨𑄚𑄴",
+      "ka": "გრანდ-ანსი²",
+      "uk": "Гранд-Анс-Праслін"
     },
-    "geo": {
-      "latitude": -4.3176219,
-      "longitude": 55.7078363,
-      "min_latitude": -4.3582979,
-      "min_longitude": 55.6446526,
-      "max_latitude": -4.292169599999999,
-      "max_longitude": 55.761684
-    },
-    "name": "Grand' Anse (Praslin)"
+    "comments": null
   },
   "15": {
+    "name": "La Digue",
+    "code": null,
     "unofficial_names": "La Digue",
+    "geo": {
+      "latitude": -4.3590972,
+      "longitude": 55.8412424,
+      "min_latitude": -4.3831656,
+      "min_longitude": 55.8242892,
+      "max_latitude": -4.3370025,
+      "max_longitude": 55.8564263
+    },
     "translations": {
       "en": "La Digue",
       "ar": "لا ديغو",
@@ -661,20 +799,26 @@
       "sk": "La Digue",
       "sv": "La Digue",
       "tr": "La Digue",
-      "uk": "Ла-Діг"
+      "uk": "Ла-Діг",
+      "ceb": "La Digue",
+      "zh": "拉迪格岛",
+      "ccp": "𑄣 𑄓𑄨𑄉𑄪",
+      "cs": "La Digue"
     },
-    "geo": {
-      "latitude": -4.3590972,
-      "longitude": 55.8412424,
-      "min_latitude": -4.3831656,
-      "min_longitude": 55.8242892,
-      "max_latitude": -4.3370025,
-      "max_longitude": 55.8564263
-    },
-    "name": "La Digue"
+    "comments": null
   },
   "16": {
+    "name": "La Rivière Anglaise",
+    "code": null,
     "unofficial_names": "La Rivière Anglaise",
+    "geo": {
+      "latitude": -4.6149553,
+      "longitude": 55.4540841,
+      "min_latitude": -4.624853,
+      "min_longitude": 55.4484299,
+      "max_latitude": -4.6065289,
+      "max_longitude": 55.45868609999999
+    },
     "translations": {
       "en": "La Rivière Anglaise",
       "ar": "لا ريفيير أنغليز",
@@ -708,20 +852,29 @@
       "th": "ลา ริเวีบเร่ แองไลเซ่",
       "tr": "La Rivière Anglaise",
       "ur": "لا ریوییری انجلایسی",
-      "vi": "La Rivière Anglaise"
+      "vi": "La Rivière Anglaise",
+      "lv": "Inglišrivera",
+      "ceb": "English River",
+      "lt": "La Rivjer Angles",
+      "zh": "英吉利河",
+      "ccp": "𑄣 𑄢𑄨𑄞𑄢𑄴 𑄃𑄁𑄣𑄭𑄌𑄴",
+      "ka": "ლა-რივიერ-ანგლეზი",
+      "uk": "Ла-Рівьєр-Англез"
     },
-    "geo": {
-      "latitude": -4.6149553,
-      "longitude": 55.4540841,
-      "min_latitude": -4.624853,
-      "min_longitude": 55.4484299,
-      "max_latitude": -4.6065289,
-      "max_longitude": 55.45868609999999
-    },
-    "name": "La Rivière Anglaise"
+    "comments": null
   },
   "17": {
+    "name": "Mont Buxton",
+    "code": null,
     "unofficial_names": "Mont Buxton",
+    "geo": {
+      "latitude": -4.6166667,
+      "longitude": 55.4457768,
+      "min_latitude": -4.622685,
+      "min_longitude": 55.4409089,
+      "max_latitude": -4.609877,
+      "max_longitude": 55.453148
+    },
     "translations": {
       "en": "Mont Buxton",
       "ar": "مونت بوكستون",
@@ -755,20 +908,29 @@
       "th": "มอนต์ บุคทอล",
       "tr": "Mont Buxton",
       "ur": "مونٹ بوزتون",
-      "vi": "Mont Buxton"
+      "vi": "Mont Buxton",
+      "lv": "Montbakstona",
+      "ceb": "Mont Buxton",
+      "lt": "Mont Bakstonas",
+      "zh": "蒙巴克斯頓區",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄴 𑄝𑄪𑄇𑄴𑄑𑄧𑄚𑄴",
+      "ka": "მონ-ბაქსტონი",
+      "uk": "Монт-Бакстон"
     },
-    "geo": {
-      "latitude": -4.6166667,
-      "longitude": 55.4457768,
-      "min_latitude": -4.622685,
-      "min_longitude": 55.4409089,
-      "max_latitude": -4.609877,
-      "max_longitude": 55.453148
-    },
-    "name": "Mont Buxton"
+    "comments": null
   },
   "18": {
+    "name": "Mont Fleuri",
+    "code": null,
     "unofficial_names": "Mont Fleuri",
+    "geo": {
+      "latitude": -4.6356543,
+      "longitude": 55.4554688,
+      "min_latitude": -4.644636,
+      "min_longitude": 55.4475631,
+      "max_latitude": -4.60039,
+      "max_longitude": 55.50656499999999
+    },
     "translations": {
       "en": "Mont Fleuri",
       "ar": "مونت فليوري",
@@ -802,20 +964,29 @@
       "th": "อนท์ เฟิลอูริ",
       "tr": "Mont Fleuri",
       "ur": "مونٹ فلیوری",
-      "vi": "Mont Fleuri"
+      "vi": "Mont Fleuri",
+      "lv": "Monfleri",
+      "ceb": "Mont Fleuri",
+      "lt": "Mont Fleris",
+      "zh": "蒙弗勒利區",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄴 𑄜𑄳𑄣𑄬𑄅𑄪𑄢𑄨",
+      "ka": "მონ-ფლორი",
+      "uk": "Монт-Флері"
     },
-    "geo": {
-      "latitude": -4.6356543,
-      "longitude": 55.4554688,
-      "min_latitude": -4.644636,
-      "min_longitude": 55.4475631,
-      "max_latitude": -4.60039,
-      "max_longitude": 55.50656499999999
-    },
-    "name": "Mont Fleuri"
+    "comments": null
   },
   "19": {
+    "name": "Plaisance",
+    "code": null,
     "unofficial_names": "Plaisance",
+    "geo": {
+      "latitude": -4.6489918,
+      "longitude": 55.4610075,
+      "min_latitude": -4.667039,
+      "min_longitude": 55.4511051,
+      "max_latitude": -4.6315425,
+      "max_longitude": 55.4712058
+    },
     "translations": {
       "en": "Plaisance",
       "ar": "بلايزانس",
@@ -849,20 +1020,29 @@
       "th": "ไพรแซนซ์",
       "tr": "Plasiance",
       "ur": "پلایسانکی",
-      "vi": "Plaisance"
+      "vi": "Plaisance",
+      "lv": "Plezanse",
+      "ceb": "Plaisance (distrito)",
+      "lt": "Plezansas",
+      "zh": "普萊桑斯區",
+      "ccp": "𑄛𑄳𑄣𑄭𑄥𑄬𑄚𑄴𑄌𑄴",
+      "ka": "პლეზანსი",
+      "uk": "Плезанс"
     },
-    "geo": {
-      "latitude": -4.6489918,
-      "longitude": 55.4610075,
-      "min_latitude": -4.667039,
-      "min_longitude": 55.4511051,
-      "max_latitude": -4.6315425,
-      "max_longitude": 55.4712058
-    },
-    "name": "Plaisance"
+    "comments": null
   },
   "20": {
+    "name": "Pointe La Rue",
+    "code": null,
     "unofficial_names": "Pointe La Rue",
+    "geo": {
+      "latitude": -4.680489,
+      "longitude": 55.51918569999999,
+      "min_latitude": -4.686879999999999,
+      "min_longitude": 55.50524799999999,
+      "max_latitude": -4.6648396,
+      "max_longitude": 55.5340801
+    },
     "translations": {
       "en": "Pointe La Rue",
       "ar": "بوينت لا رو",
@@ -896,20 +1076,29 @@
       "th": "พอยท์ลาลู",
       "tr": "Point La Rue",
       "ur": "پوائنٹ لا روی",
-      "vi": "Pointe La Rue"
+      "vi": "Pointe La Rue",
+      "lv": "Puantlaru",
+      "ceb": "Pointe Larue",
+      "lt": "Puant La Ru",
+      "zh": "普安特拉儒區",
+      "ccp": "𑄛𑄧𑄠𑄬𑄚𑄴𑄑𑄴 𑄣 𑄛𑄪",
+      "ka": "პუანტ-ლა-რუ",
+      "uk": "Пуант-Ларю"
     },
-    "geo": {
-      "latitude": -4.680489,
-      "longitude": 55.51918569999999,
-      "min_latitude": -4.686879999999999,
-      "min_longitude": 55.50524799999999,
-      "max_latitude": -4.6648396,
-      "max_longitude": 55.5340801
-    },
-    "name": "Pointe La Rue"
+    "comments": null
   },
   "21": {
+    "name": "Port Glaud",
+    "code": null,
     "unofficial_names": "Port Glaud",
+    "geo": {
+      "latitude": -4.6488523,
+      "longitude": 55.41947529999999,
+      "min_latitude": -4.6793682,
+      "min_longitude": 55.3605731,
+      "max_latitude": -4.6252479,
+      "max_longitude": 55.4511051
+    },
     "translations": {
       "en": "Port Glaud",
       "ar": "بورت غلاود",
@@ -943,20 +1132,29 @@
       "th": "พอร์ตกลาด์",
       "tr": "Port Glaud",
       "ur": "پورٹ جلاود",
-      "vi": "Port Glaud"
+      "vi": "Port Glaud",
+      "lv": "Portglo",
+      "ceb": "Port Glaud",
+      "lt": "Port Glo",
+      "zh": "波特格勞德區",
+      "ccp": "𑄛𑄮𑄢𑄴𑄑𑄴 𑄉𑄳𑄣𑄅𑄪𑄖𑄴",
+      "ka": "პორტ-გლოდი",
+      "uk": "Пор Гло"
     },
-    "geo": {
-      "latitude": -4.6488523,
-      "longitude": 55.41947529999999,
-      "min_latitude": -4.6793682,
-      "min_longitude": 55.3605731,
-      "max_latitude": -4.6252479,
-      "max_longitude": 55.4511051
-    },
-    "name": "Port Glaud"
+    "comments": null
   },
   "22": {
+    "name": "Saint Louis",
+    "code": null,
     "unofficial_names": "Saint Louis",
+    "geo": {
+      "latitude": -4.625194899999999,
+      "longitude": 55.4430078,
+      "min_latitude": -4.6316139,
+      "min_longitude": 55.4323299,
+      "max_latitude": -4.61719,
+      "max_longitude": 55.4484299
+    },
     "translations": {
       "en": "Saint Louis",
       "ar": "سانت لويس",
@@ -989,20 +1187,31 @@
       "th": "เซนต์ ลูอิส",
       "tr": "Saint Louis",
       "ur": "سینٹ لوویس",
-      "vi": "Saint Louis"
+      "vi": "Saint Louis",
+      "lv": "Sentluisa",
+      "ceb": "Saint Louis",
+      "lt": "Saint Luisas",
+      "zh": "聖路易區",
+      "jv": "Saint Louis, Seychelles",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄣𑄪𑄃𑄨𑄌𑄴",
+      "ka": "სენ-ლუი",
+      "ml": "സെന്റ് ലൂയിസ് ജില്ല",
+      "uk": "Парафія Сент-Луїс"
     },
-    "geo": {
-      "latitude": -4.625194899999999,
-      "longitude": 55.4430078,
-      "min_latitude": -4.6316139,
-      "min_longitude": 55.4323299,
-      "max_latitude": -4.61719,
-      "max_longitude": 55.4484299
-    },
-    "name": "Saint Louis"
+    "comments": null
   },
   "23": {
+    "name": "Takamaka",
+    "code": null,
     "unofficial_names": "Takamaka",
+    "geo": {
+      "latitude": -4.7843688,
+      "longitude": 55.5081012,
+      "min_latitude": -4.805029999999999,
+      "min_longitude": 55.486445,
+      "max_latitude": -4.7590715,
+      "max_longitude": 55.534912
+    },
     "translations": {
       "en": "Takamaka",
       "ar": "تاكاماكا، سيشيل",
@@ -1036,19 +1245,29 @@
       "th": "ทากามากา",
       "tr": "Takamaka",
       "ur": "تاکاماکا",
-      "vi": "Takamaka"
+      "vi": "Takamaka",
+      "lv": "Takamaka",
+      "ceb": "Takamaka",
+      "lt": "Takamaka",
+      "zh": "塔卡瑪卡區",
+      "ccp": "𑄑𑄇𑄟𑄇",
+      "ka": "ტაკამაკა",
+      "uk": "Такамака"
     },
-    "geo": {
-      "latitude": -4.7843688,
-      "longitude": 55.5081012,
-      "min_latitude": -4.805029999999999,
-      "min_longitude": 55.486445,
-      "max_latitude": -4.7590715,
-      "max_longitude": 55.534912
-    },
-    "name": "Takamaka"
+    "comments": null
   },
   "24": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "لس ماميلس",
       "bn": "লেস মামেলস",
@@ -1082,10 +1301,29 @@
       "th": "เลส มาเมลเลส",
       "tr": "Les Mamelles",
       "ur": "لیس مامیلیس",
-      "vi": "Les Mamelles"
-    }
+      "vi": "Les Mamelles",
+      "lv": "Lesmamelles",
+      "ceb": "Les Mamelles",
+      "lt": "Les Mamelesas",
+      "zh": "雷瑪麥爾區",
+      "ccp": "𑄣𑄬𑄌𑄴 𑄟𑄟𑄬𑄣𑄨𑄌𑄴",
+      "ka": "ლე-მამელი",
+      "uk": "Ле-Мамель"
+    },
+    "comments": null
   },
   "25": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "روتش كايمان",
       "bn": "রোচ কাইম্যান",
@@ -1119,8 +1357,16 @@
       "th": "โรเซ่ ไซแมน",
       "tr": "Roche Caiman",
       "ur": "روچی کایمان",
-      "vi": "Roche Caiman"
-    }
+      "vi": "Roche Caiman",
+      "lv": "Roškaimana",
+      "ceb": "Roche Caiman",
+      "lt": "Rošė Kaimanas",
+      "zh": "羅切凱曼區",
+      "ccp": "𑄢𑄮𑄌𑄴 𑄇𑄭𑄟𑄧𑄚𑄴",
+      "ka": "როშ-კაიმანი",
+      "uk": "Рош-Кайман"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "AB": {
+    "name": "Abia",
+    "code": null,
     "unofficial_names": "Abia",
+    "geo": {
+      "latitude": 5.430892099999999,
+      "longitude": 7.524724300000001,
+      "min_latitude": 4.810874,
+      "min_longitude": 7.150823,
+      "max_latitude": 6.0191921,
+      "max_longitude": 7.9630091
+    },
     "translations": {
       "en": "Abia",
       "ar": "ولاية أبيا",
@@ -46,23 +56,32 @@
       "uk": "Абія",
       "ur": "ابیا ریاست",
       "vi": "Bang Abia",
-      "zh": "阿比亚州"
+      "zh": "阿比亚州",
+      "ceb": "Abia State",
+      "yo_BJ": "Ìpínlɛ̀ Ábíá",
+      "sr_Latn": "Abija",
+      "ccp": "𑄃𑄝𑄨𑄠",
+      "ig": "Ȯra Abia",
+      "ha": "Abiya",
+      "yo": "Ìpínlẹ̀ Ábíá"
     },
-    "geo": {
-      "latitude": 5.430892099999999,
-      "longitude": 7.524724300000001,
-      "min_latitude": 4.810874,
-      "min_longitude": 7.150823,
-      "max_latitude": 6.0191921,
-      "max_longitude": 7.9630091
-    },
-    "name": "Abia"
+    "comments": null
   },
   "AD": {
+    "name": "Adamawa",
+    "code": null,
     "unofficial_names": [
       "Adamaoua",
       "Gongola"
     ],
+    "geo": {
+      "latitude": 9.3250497,
+      "longitude": 12.4380581,
+      "min_latitude": 7.452592,
+      "min_longitude": 11.392936,
+      "max_latitude": 10.943588,
+      "max_longitude": 13.6924919
+    },
     "translations": {
       "en": "Adamawa",
       "ar": "ولاية آدماوة",
@@ -105,20 +124,31 @@
       "tr": "Adamawa Eyaleti",
       "uk": "Адамава",
       "ur": "اداماوا ریاست",
-      "vi": "Bang Adamawa"
+      "vi": "Bang Adamawa",
+      "lv": "Adamavas štats",
+      "ceb": "Adamawa State",
+      "yo_BJ": "Ìpínlɛ̀ Adámáwá",
+      "sr_Latn": "Adamava",
+      "zh": "阿達馬瓦",
+      "ccp": "𑄃𑄓𑄟𑄴𑄤",
+      "ig": "Ȯra Adamawa",
+      "ha": "Adamawa",
+      "yo": "Ìpínlẹ̀ Adámáwá"
     },
-    "geo": {
-      "latitude": 9.3250497,
-      "longitude": 12.4380581,
-      "min_latitude": 7.452592,
-      "min_longitude": 11.392936,
-      "max_latitude": 10.943588,
-      "max_longitude": 13.6924919
-    },
-    "name": "Adamawa"
+    "comments": null
   },
   "AK": {
+    "name": "Akwa Ibom",
+    "code": null,
     "unofficial_names": "Akwa Ibom",
+    "geo": {
+      "latitude": 4.929986899999999,
+      "longitude": 7.872159999999999,
+      "min_latitude": 4.4780049,
+      "min_longitude": 7.4605409,
+      "max_latitude": 5.530245,
+      "max_longitude": 8.340371
+    },
     "translations": {
       "en": "Akwa Ibom",
       "ar": "ولاية اكوا ايبوم",
@@ -160,20 +190,32 @@
       "tr": "Akwa Ibom Eyaleti",
       "uk": "Аква-Ібом",
       "ur": "اکوا ایبوم ریاست",
-      "vi": "Bang Akwa Ibom"
+      "vi": "Bang Akwa Ibom",
+      "lv": "Akvas Ibomas štats",
+      "ceb": "Akwa Ibom State",
+      "yo_BJ": "Ìpínlɛ̀ Akwa Íbɔm",
+      "sr_Latn": "Akva Ibom",
+      "lt": "Ava Ibomo valstija",
+      "zh": "阿夸伊博姆州",
+      "ccp": "𑄃𑄧𑄇𑄴𑄤 𑄃𑄨𑄝𑄧𑄟𑄴",
+      "ig": "Ȯra Akwa Ibom",
+      "ha": "Akwa Ibom",
+      "yo": "Ìpínlẹ̀ Akwa Íbọm"
     },
-    "geo": {
-      "latitude": 4.929986899999999,
-      "longitude": 7.872159999999999,
-      "min_latitude": 4.4780049,
-      "min_longitude": 7.4605409,
-      "max_latitude": 5.530245,
-      "max_longitude": 8.340371
-    },
-    "name": "Akwa Ibom"
+    "comments": null
   },
   "AN": {
+    "name": "Anambra",
+    "code": null,
     "unofficial_names": "Anambra",
+    "geo": {
+      "latitude": 6.2757656,
+      "longitude": 7.0068393,
+      "min_latitude": 5.692615000000001,
+      "min_longitude": 6.613086,
+      "max_latitude": 6.7795999,
+      "max_longitude": 7.355934
+    },
     "translations": {
       "en": "Anambra",
       "ar": "ولاية أنمبرة",
@@ -214,20 +256,35 @@
       "th": "รัฐอะนัมบรา",
       "tr": "Anambra Eyaleti",
       "ur": "انامبرا ریاست",
-      "vi": "Bang Anambra"
+      "vi": "Bang Anambra",
+      "lv": "Anambras štats",
+      "ceb": "Anambra State",
+      "yo_BJ": "Ìpínlɛ̀ Anámbra",
+      "sr_Latn": "Anambra",
+      "lt": "Anambros valstija",
+      "zh": "阿南布拉州",
+      "yue_Hans": "阿南布拉州",
+      "ccp": "𑄃𑄚𑄟𑄴𑄝𑄳𑄢",
+      "ig": "Ȯra Anambra",
+      "ha": "Anambra",
+      "uk": "Анамбра",
+      "yue": "阿南布拉州",
+      "yo": "Ìpínlẹ̀ Anámbra"
     },
-    "geo": {
-      "latitude": 6.2757656,
-      "longitude": 7.0068393,
-      "min_latitude": 5.692615000000001,
-      "min_longitude": 6.613086,
-      "max_latitude": 6.7795999,
-      "max_longitude": 7.355934
-    },
-    "name": "Anambra"
+    "comments": null
   },
   "BA": {
+    "name": "Bauchi",
+    "code": null,
     "unofficial_names": "Bauchi",
+    "geo": {
+      "latitude": 10.315833,
+      "longitude": 9.844166999999999,
+      "min_latitude": 10.255381,
+      "min_longitude": 9.779892,
+      "max_latitude": 10.3398292,
+      "max_longitude": 9.864006
+    },
     "translations": {
       "en": "Bauchi",
       "ar": "ولاية باوتشي",
@@ -268,20 +325,34 @@
       "th": "รัฐเบาชี",
       "tr": "Bauchi Eyaleti",
       "ur": "باوچی ریاست",
-      "vi": "Bang Bauchi"
+      "vi": "Bang Bauchi",
+      "lv": "Bauči štats",
+      "ceb": "Bauchi State",
+      "yo_BJ": "Ìpínlɛ̀ Bauchi",
+      "sr_Latn": "Bauči",
+      "lt": "Baučio valstija",
+      "zh": "包奇州",
+      "ccp": "𑄝𑄯𑄌𑄨",
+      "ig": "Ȯra Bauchi",
+      "is": "Bauchi-fylki",
+      "ha": "Bauchi",
+      "uk": "Баучі",
+      "yo": "Ìpínlẹ̀ Bauchi"
     },
-    "geo": {
-      "latitude": 10.315833,
-      "longitude": 9.844166999999999,
-      "min_latitude": 10.255381,
-      "min_longitude": 9.779892,
-      "max_latitude": 10.3398292,
-      "max_longitude": 9.864006
-    },
-    "name": "Bauchi"
+    "comments": null
   },
   "BE": {
+    "name": "Benue",
+    "code": null,
     "unofficial_names": "Benue",
+    "geo": {
+      "latitude": 7.350825899999999,
+      "longitude": 8.8362755,
+      "min_latitude": 6.4427789,
+      "min_longitude": 7.4893301,
+      "max_latitude": 8.149299,
+      "max_longitude": 9.918301
+    },
     "translations": {
       "en": "Benue",
       "ar": "ولاية بينو",
@@ -322,20 +393,33 @@
       "th": "เบนิว",
       "tr": "Benue Eyaleti",
       "ur": "بینوے ریاست",
-      "vi": "Bang Benue"
+      "vi": "Bang Benue",
+      "lv": "Benue štats",
+      "ceb": "Benue State",
+      "yo_BJ": "Ìpínlɛ̀ Bɛ́núé",
+      "sr_Latn": "Benue",
+      "lt": "Benujės valstija",
+      "zh": "贝努埃州",
+      "ccp": "𑄝𑄬𑄚𑄪𑄠𑄨",
+      "ig": "Ȯra Benue",
+      "ha": "Benue",
+      "uk": "Бенуе",
+      "yo": "Ìpínlẹ̀ Bẹ́núé"
     },
-    "geo": {
-      "latitude": 7.350825899999999,
-      "longitude": 8.8362755,
-      "min_latitude": 6.4427789,
-      "min_longitude": 7.4893301,
-      "max_latitude": 8.149299,
-      "max_longitude": 9.918301
-    },
-    "name": "Benue"
+    "comments": null
   },
   "BO": {
+    "name": "Borno",
+    "code": null,
     "unofficial_names": "Borno",
+    "geo": {
+      "latitude": 11.5097479,
+      "longitude": 12.9789121,
+      "min_latitude": 10.0291549,
+      "min_longitude": 11.6286559,
+      "max_latitude": 13.7144441,
+      "max_longitude": 14.680073
+    },
     "translations": {
       "en": "Borno",
       "ar": "ولاية بورنو",
@@ -379,20 +463,34 @@
       "th": "รัฐโบร์โน",
       "tr": "Borno Eyaleti",
       "ur": "بورنو ریاست",
-      "vi": "Borno"
+      "vi": "Borno",
+      "lv": "Borno štats",
+      "ceb": "Borno State",
+      "yo_BJ": "Ìpínlɛ̀ Bɔ̀rnó",
+      "sr_Latn": "Borno",
+      "lt": "Borno valstija",
+      "zh": "博尔诺州",
+      "ccp": "𑄝𑄧𑄢𑄴𑄚𑄮",
+      "ig": "Ȯra Borno",
+      "ha": "jihar Borno",
+      "uk": "Борно",
+      "yo": "Ìpínlẹ̀ Bọ̀rnó",
+      "mk": "Борно"
     },
-    "geo": {
-      "latitude": 11.5097479,
-      "longitude": 12.9789121,
-      "min_latitude": 10.0291549,
-      "min_longitude": 11.6286559,
-      "max_latitude": 13.7144441,
-      "max_longitude": 14.680073
-    },
-    "name": "Borno"
+    "comments": null
   },
   "BY": {
+    "name": "Bayelsa",
+    "code": null,
     "unofficial_names": "Bayelsa",
+    "geo": {
+      "latitude": 4.867776699999999,
+      "longitude": 5.898713900000001,
+      "min_latitude": 4.2771439,
+      "min_longitude": 5.370120500000001,
+      "max_latitude": 5.3933139,
+      "max_longitude": 6.724865899999999
+    },
     "translations": {
       "en": "Bayelsa",
       "ar": "ولاية بايلسا",
@@ -433,20 +531,33 @@
       "th": "เขตหงสาวดี",
       "tr": "Bayelsa Eyaleti",
       "ur": "بایلسا ریاست",
-      "vi": "Bang Bayelsa"
+      "vi": "Bang Bayelsa",
+      "lv": "Bajelsas štats",
+      "ceb": "Bayelsa State",
+      "yo_BJ": "Ìpínlɛ̀ Bàyélsà",
+      "sr_Latn": "Bajelsa",
+      "lt": "Bajelsos valstija",
+      "zh": "巴耶尔萨州",
+      "ccp": "𑄝𑄬𑄠𑄬𑄣𑄴𑄥",
+      "ig": "Ȯra Bayelsa",
+      "ha": "Bayelsa",
+      "uk": "Байельса",
+      "yo": "Ìpínlẹ̀ Bàyélsà"
     },
-    "geo": {
-      "latitude": 4.867776699999999,
-      "longitude": 5.898713900000001,
-      "min_latitude": 4.2771439,
-      "min_longitude": 5.370120500000001,
-      "max_latitude": 5.3933139,
-      "max_longitude": 6.724865899999999
-    },
-    "name": "Bayelsa"
+    "comments": null
   },
   "CR": {
+    "name": "Cross River",
+    "code": null,
     "unofficial_names": "Cross River",
+    "geo": {
+      "latitude": 6.167031499999999,
+      "longitude": 8.6600586,
+      "min_latitude": 4.690596000000001,
+      "min_longitude": 7.863165999999999,
+      "max_latitude": 6.899680999999999,
+      "max_longitude": 9.472486
+    },
     "translations": {
       "en": "Cross River",
       "ar": "ولاية كروس ريفر",
@@ -487,20 +598,33 @@
       "tr": "Cross River Eyaleti",
       "uk": "Крос-Рівер",
       "ur": "کراس ریور ریاست",
-      "vi": "Bang Cross River"
+      "vi": "Bang Cross River",
+      "lv": "Krosriveras štats",
+      "ceb": "Cross River State",
+      "yo_BJ": "Ìpínlɛ̀ Cross River",
+      "sr_Latn": "Kros River",
+      "lt": "Kros Riverso valstija",
+      "zh": "克里斯河州",
+      "ccp": "𑄇𑄳𑄢𑄧𑄌𑄴 𑄢𑄨𑄞𑄢𑄴",
+      "ka": "კროს-რივერის შტატი",
+      "ig": "Ȯra Cross River",
+      "ha": "Cross River",
+      "yo": "Ìpínlẹ̀ Cross River"
     },
-    "geo": {
-      "latitude": 6.167031499999999,
-      "longitude": 8.6600586,
-      "min_latitude": 4.690596000000001,
-      "min_longitude": 7.863165999999999,
-      "max_latitude": 6.899680999999999,
-      "max_longitude": 9.472486
-    },
-    "name": "Cross River"
+    "comments": null
   },
   "DE": {
+    "name": "Delta",
+    "code": null,
     "unofficial_names": "Delta",
+    "geo": {
+      "latitude": 5.5324624,
+      "longitude": 5.898713900000001,
+      "min_latitude": 5.024351999999999,
+      "min_longitude": 5.000000099999999,
+      "max_latitude": 6.5248195,
+      "max_longitude": 6.7653911
+    },
     "translations": {
       "en": "Delta",
       "ar": "ولاية دلتا",
@@ -543,20 +667,34 @@
       "tr": "Delta Eyaleti",
       "uk": "Дельта",
       "ur": "ڈیلٹا ریاست",
-      "vi": "Bang Delta"
+      "vi": "Bang Delta",
+      "lv": "Deltas štats",
+      "ceb": "Delta State",
+      "yo_BJ": "Ìpínlɛ̀ Dɛ́ltà",
+      "sr_Latn": "Delta",
+      "lt": "Deltos valstija",
+      "zh": "三角州",
+      "ccp": "𑄓𑄬𑄣𑄴𑄑",
+      "hy": "Դելտա",
+      "ig": "Ȯra Delta",
+      "ha": "Delta",
+      "he": "מדינת דלתא",
+      "yo": "Ìpínlẹ̀ Dẹ́ltà"
     },
-    "geo": {
-      "latitude": 5.5324624,
-      "longitude": 5.898713900000001,
-      "min_latitude": 5.024351999999999,
-      "min_longitude": 5.000000099999999,
-      "max_latitude": 6.5248195,
-      "max_longitude": 6.7653911
-    },
-    "name": "Delta"
+    "comments": null
   },
   "EB": {
+    "name": "Ebonyi",
+    "code": null,
     "unofficial_names": "Ebonyi",
+    "geo": {
+      "latitude": 6.177973,
+      "longitude": 7.959286299999999,
+      "min_latitude": 5.6873539,
+      "min_longitude": 7.5251131,
+      "max_latitude": 6.807093,
+      "max_longitude": 8.4470269
+    },
     "translations": {
       "en": "Ebonyi",
       "ar": "ولاية إبونيه",
@@ -597,22 +735,33 @@
       "th": "อีบอนยี",
       "tr": "Ebonyi Eyaleti",
       "ur": "عبونئی ریاست",
-      "vi": "Bang Ebonyi"
+      "vi": "Bang Ebonyi",
+      "lv": "Eboņi štats",
+      "ceb": "Ebonyi State",
+      "sr_Latn": "Ebonji",
+      "lt": "Ebondžo valstija",
+      "zh": "埃邦伊州",
+      "ccp": "𑄃𑄨𑄝𑄧𑄚𑄨",
+      "ig": "Ȯra Ebonyi",
+      "ha": "Ebonyi",
+      "uk": "Ебоньі"
     },
-    "geo": {
-      "latitude": 6.177973,
-      "longitude": 7.959286299999999,
-      "min_latitude": 5.6873539,
-      "min_longitude": 7.5251131,
-      "max_latitude": 6.807093,
-      "max_longitude": 8.4470269
-    },
-    "name": "Ebonyi"
+    "comments": null
   },
   "ED": {
+    "name": "Edo",
+    "code": null,
     "unofficial_names": [
       "Bendel"
     ],
+    "geo": {
+      "latitude": 6.5438101,
+      "longitude": 5.898713900000001,
+      "min_latitude": 5.7386799,
+      "min_longitude": 4.975229,
+      "max_latitude": 7.5721479,
+      "max_longitude": 6.707891000000001
+    },
     "translations": {
       "en": "Edo",
       "ar": "ولاية إدو",
@@ -655,20 +804,33 @@
       "th": "รัฐอีโด",
       "tr": "Edo Eyaleti",
       "ur": "عدو ریاست",
-      "vi": "Bang Edo"
+      "vi": "Bang Edo",
+      "lv": "Edo štats",
+      "ceb": "Edo",
+      "yo_BJ": "Ìpínlɛ̀ Ɛdó",
+      "sr_Latn": "Edo",
+      "lt": "Edo valstija",
+      "zh": "埃多州",
+      "ccp": "𑄃𑄨𑄓𑄮",
+      "ig": "Ȯra Edo",
+      "ha": "Edo",
+      "uk": "Едо",
+      "yo": "Ìpínlẹ̀ Ẹdó"
     },
-    "geo": {
-      "latitude": 6.5438101,
-      "longitude": 5.898713900000001,
-      "min_latitude": 5.7386799,
-      "min_longitude": 4.975229,
-      "max_latitude": 7.5721479,
-      "max_longitude": 6.707891000000001
-    },
-    "name": "Edo"
+    "comments": null
   },
   "EK": {
+    "name": "Ekiti",
+    "code": null,
     "unofficial_names": "Ekiti",
+    "geo": {
+      "latitude": 7.665581299999999,
+      "longitude": 5.3102505,
+      "min_latitude": 7.272215999999999,
+      "min_longitude": 4.9103081,
+      "max_latitude": 8.0674911,
+      "max_longitude": 5.8048959
+    },
     "translations": {
       "en": "Ekiti",
       "ar": "ولاية إكيتي",
@@ -708,20 +870,34 @@
       "th": "เอกกิติ สเตจ",
       "tr": "Ekiti Eyaleti",
       "ur": "عکیتی ریاست",
-      "vi": "Bang Ekiti"
+      "vi": "Bang Ekiti",
+      "lv": "Ekiti štats",
+      "ceb": "Ekiti State",
+      "yo_BJ": "Ìpínlɛ̀ Èkìtì",
+      "sr_Latn": "Ekiti",
+      "lt": "Ekičio valstija",
+      "zh": "埃基蒂州",
+      "ccp": "𑄃𑄨𑄇𑄨𑄑𑄨",
+      "ka": "ეკიტის შტატი",
+      "ig": "Ȯra Ekiti",
+      "ha": "Ekiti",
+      "uk": "Екіті",
+      "yo": "Ìpínlẹ̀ Èkìtì"
     },
-    "geo": {
-      "latitude": 7.665581299999999,
-      "longitude": 5.3102505,
-      "min_latitude": 7.272215999999999,
-      "min_longitude": 4.9103081,
-      "max_latitude": 8.0674911,
-      "max_longitude": 5.8048959
-    },
-    "name": "Ekiti"
+    "comments": null
   },
   "EN": {
+    "name": "Enugu",
+    "code": null,
     "unofficial_names": "Enugu",
+    "geo": {
+      "latitude": 6.452667,
+      "longitude": 7.510332999999998,
+      "min_latitude": 6.360852,
+      "min_longitude": 7.458772700000001,
+      "max_latitude": 6.5155669,
+      "max_longitude": 7.618160199999999
+    },
     "translations": {
       "en": "Enugu",
       "ar": "ولاية إينوغو",
@@ -761,20 +937,35 @@
       "th": "อินูกู",
       "tr": "Enugu Eyaleti",
       "ur": "عنوگو ریاست",
-      "vi": "Bang Enugu"
+      "vi": "Bang Enugu",
+      "lv": "Enugu štats",
+      "ceb": "Enugu (kapital sa estado sa Nigeria)",
+      "yo_BJ": "Ìpínlɛ̀ Ɛnúgu",
+      "sr_Latn": "Enugu",
+      "lt": "Enugo valstija",
+      "zh": "埃努古州",
+      "ccp": "𑄃𑄬𑄚𑄪𑄉𑄪",
+      "ka": "ენუგუს შტატი",
+      "ig": "Ȯra Enugu",
+      "ha": "Enugu",
+      "uk": "Енугу",
+      "be": "Энугу",
+      "yo": "Ìpínlẹ̀ Ẹnúgu"
     },
-    "geo": {
-      "latitude": 6.452667,
-      "longitude": 7.510332999999998,
-      "min_latitude": 6.360852,
-      "min_longitude": 7.458772700000001,
-      "max_latitude": 6.5155669,
-      "max_longitude": 7.618160199999999
-    },
-    "name": "Enugu"
+    "comments": null
   },
   "FC": {
+    "name": "Abuja Capital Territory",
+    "code": null,
     "unofficial_names": "Abuja Capital Territory",
+    "geo": {
+      "latitude": 8.8556838,
+      "longitude": 7.179025999999999,
+      "min_latitude": 8.396675,
+      "min_longitude": 6.749135,
+      "max_latitude": 9.3574219,
+      "max_longitude": 7.617400000000001
+    },
     "translations": {
       "en": "Federal Capital Territory",
       "ar": "منطقة العاصمة الإتحادية لنيجيريا",
@@ -812,20 +1003,32 @@
       "th": "หมู่เกาะแชทัม",
       "tr": "Federal Başkent Bölgesi",
       "ur": "وفاقی دارالحکومت علاقہ، نائجیریا",
-      "vi": "Lãnh thổ Thủ đô liên bang"
+      "vi": "Lãnh thổ Thủ đô liên bang",
+      "lv": "Federālā galvaspilsētas teritorija",
+      "ceb": "Federal Capital Territory",
+      "yo_BJ": "Agbègbè Olú-ìlú Ìjɔba Àpapɔ̀ Nàíjíríà",
+      "lt": "Federalinė sostinės teritorija",
+      "zh": "聯邦首都特區",
+      "ccp": "𑄜𑄬𑄓𑄢𑄬𑄣𑄴 𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴 𑄑𑄬𑄢𑄨𑄑𑄮𑄢𑄨",
+      "ka": "დედაქალაქის ფედერალური ტერიტორია",
+      "uk": "Федеральна столична територія",
+      "be": "Федэральная сталічная тэрыторыя",
+      "yo": "Agbègbè Olú-ìlú Ìjọba Àpapọ̀ Nàíjíríà"
     },
-    "geo": {
-      "latitude": 8.8556838,
-      "longitude": 7.179025999999999,
-      "min_latitude": 8.396675,
-      "min_longitude": 6.749135,
-      "max_latitude": 9.3574219,
-      "max_longitude": 7.617400000000001
-    },
-    "name": "Abuja Capital Territory"
+    "comments": null
   },
   "GO": {
+    "name": "Gombe",
+    "code": null,
     "unofficial_names": "Gombe",
+    "geo": {
+      "latitude": 10.283333,
+      "longitude": 11.166667,
+      "min_latitude": 10.264117,
+      "min_longitude": 11.1424112,
+      "max_latitude": 10.3128497,
+      "max_longitude": 11.2147019
+    },
     "translations": {
       "en": "Gombe",
       "ar": "ولاية غومبي",
@@ -867,20 +1070,33 @@
       "th": "กอมเบ",
       "tr": "Gombe Eyaleti",
       "ur": "گومبے ریاست",
-      "vi": "Bang Gombe"
+      "vi": "Bang Gombe",
+      "lv": "Gombes štats",
+      "ceb": "Gombe (kapital sa estado)",
+      "yo_BJ": "Ìpínlɛ̀ Gòmbè",
+      "sr_Latn": "Gombe",
+      "lt": "Gombės valstija",
+      "zh": "贡贝州",
+      "ccp": "𑄉𑄮𑄟𑄴𑄝𑄬",
+      "ig": "Ȯra Gombe",
+      "ha": "Gombe",
+      "uk": "Гомбе",
+      "yo": "Ìpínlẹ̀ Gòmbè"
     },
-    "geo": {
-      "latitude": 10.283333,
-      "longitude": 11.166667,
-      "min_latitude": 10.264117,
-      "min_longitude": 11.1424112,
-      "max_latitude": 10.3128497,
-      "max_longitude": 11.2147019
-    },
-    "name": "Gombe"
+    "comments": null
   },
   "IM": {
+    "name": "Imo",
+    "code": null,
     "unofficial_names": "Imo",
+    "geo": {
+      "latitude": 5.5214533,
+      "longitude": 6.920913499999999,
+      "min_latitude": 5.179824000000001,
+      "min_longitude": 6.622309899999999,
+      "max_latitude": 5.928465,
+      "max_longitude": 7.404109
+    },
     "translations": {
       "en": "Imo",
       "ar": "ولاية إيمو",
@@ -920,20 +1136,36 @@
       "th": "อีโม",
       "tr": "Imo Eyaleti",
       "ur": "امو ریاست",
-      "vi": "Bang Imo"
+      "vi": "Bang Imo",
+      "lv": "Imo štats",
+      "ceb": "Imo State",
+      "yo_BJ": "Ìpínlɛ̀ Ímò",
+      "sr_Latn": "Imo",
+      "lt": "Imo valstija",
+      "zh": "伊莫州",
+      "ccp": "𑄃𑄨𑄟𑄮",
+      "ka": "იმოს შტატი",
+      "hy": "Իմո",
+      "ig": "Ȯra Imo",
+      "ha": "Imo",
+      "he": "אימו",
+      "uk": "Імо",
+      "yo": "Ìpínlẹ̀ Ímò"
     },
-    "geo": {
-      "latitude": 5.5214533,
-      "longitude": 6.920913499999999,
-      "min_latitude": 5.179824000000001,
-      "min_longitude": 6.622309899999999,
-      "max_latitude": 5.928465,
-      "max_longitude": 7.404109
-    },
-    "name": "Imo"
+    "comments": null
   },
   "JI": {
+    "name": "Jigawa",
+    "code": null,
     "unofficial_names": "Jigawa",
+    "geo": {
+      "latitude": 12.5700315,
+      "longitude": 8.9400589,
+      "min_latitude": 12.5688205,
+      "min_longitude": 8.9387779,
+      "max_latitude": 12.5708993,
+      "max_longitude": 8.9410364
+    },
     "translations": {
       "en": "Jigawa",
       "ar": "ولاية جيغاوة",
@@ -973,20 +1205,34 @@
       "th": "จิกาวา",
       "tr": "Jigawa Eyaleti",
       "ur": "جیگاوا ریاست",
-      "vi": "Bang Jigawa"
+      "vi": "Bang Jigawa",
+      "lv": "Džigavas štats",
+      "ceb": "Jigawa State",
+      "yo_BJ": "Ìpínlɛ̀ Jígàwà",
+      "sr_Latn": "Džigava",
+      "lt": "Džigavos valstija",
+      "zh": "吉加瓦州",
+      "ccp": "𑄎𑄨𑄉𑄤",
+      "ka": "ჯიგავის შტატი",
+      "ig": "Ȯra Jigawa",
+      "ha": "Jigawa",
+      "uk": "Джигава",
+      "yo": "Ìpínlẹ̀ Jígàwà"
     },
-    "geo": {
-      "latitude": 12.5700315,
-      "longitude": 8.9400589,
-      "min_latitude": 12.5688205,
-      "min_longitude": 8.9387779,
-      "max_latitude": 12.5708993,
-      "max_longitude": 8.9410364
-    },
-    "name": "Jigawa"
+    "comments": null
   },
   "KD": {
+    "name": "Kaduna",
+    "code": null,
     "unofficial_names": "Kaduna",
+    "geo": {
+      "latitude": 10.516667,
+      "longitude": 7.433332999999999,
+      "min_latitude": 10.3971566,
+      "min_longitude": 7.349789099999999,
+      "max_latitude": 10.6169963,
+      "max_longitude": 7.508812000000001
+    },
     "translations": {
       "en": "Kaduna",
       "ar": "ولاية كادونا",
@@ -1025,20 +1271,35 @@
       "th": "รัฐคาดูนา",
       "tr": "Kaduna Eyaleti",
       "ur": "کادونا اسٹیٹ",
-      "vi": "Bang Kaduna"
+      "vi": "Bang Kaduna",
+      "lv": "Kadunas štats",
+      "ceb": "Kaduna State",
+      "yo_BJ": "Ìpínlɛ̀ Kàdúná",
+      "sr_Latn": "Kaduna",
+      "lt": "Kadunos valstija",
+      "zh": "卡杜纳州",
+      "ccp": "𑄇𑄓𑄪𑄚",
+      "ka": "კადუნის შტატი",
+      "ig": "Ȯra Kaduna",
+      "ha": "Kaduna",
+      "he": "קדונה (מדינה)",
+      "uk": "Кадуна",
+      "yo": "Ìpínlẹ̀ Kàdúná"
     },
-    "geo": {
-      "latitude": 10.516667,
-      "longitude": 7.433332999999999,
-      "min_latitude": 10.3971566,
-      "min_longitude": 7.349789099999999,
-      "max_latitude": 10.6169963,
-      "max_longitude": 7.508812000000001
-    },
-    "name": "Kaduna"
+    "comments": null
   },
   "KE": {
+    "name": "Kebbi",
+    "code": null,
     "unofficial_names": "Kebbi",
+    "geo": {
+      "latitude": 11.6781241,
+      "longitude": 4.0695454,
+      "min_latitude": 10.0931591,
+      "min_longitude": 3.4958741,
+      "max_latitude": 13.232542,
+      "max_longitude": 6.027123
+    },
     "translations": {
       "en": "Kebbi",
       "ar": "ولاية كبي",
@@ -1078,20 +1339,34 @@
       "th": "รัฐเคบบิ",
       "tr": "Kebbi Eyaleti",
       "ur": "کیبی ریاست",
-      "vi": "Bang Kebbi"
+      "vi": "Bang Kebbi",
+      "lv": "Kebi štats",
+      "ceb": "Kebbi State",
+      "yo_BJ": "Ìpínlɛ̀ Kébbí",
+      "sr_Latn": "Kebi",
+      "lt": "Kebio valstija",
+      "zh": "凯比州",
+      "ccp": "𑄇𑄬𑄝𑄳𑄦𑄨",
+      "ka": "კების შტატი",
+      "ig": "Ȯra Kebbi",
+      "ha": "Kebbi",
+      "uk": "Кеббі",
+      "yo": "Ìpínlẹ̀ Kébbí"
     },
-    "geo": {
-      "latitude": 11.6781241,
-      "longitude": 4.0695454,
-      "min_latitude": 10.0931591,
-      "min_longitude": 3.4958741,
-      "max_latitude": 13.232542,
-      "max_longitude": 6.027123
-    },
-    "name": "Kebbi"
+    "comments": null
   },
   "KN": {
+    "name": "Kano",
+    "code": null,
     "unofficial_names": "Kano",
+    "geo": {
+      "latitude": 12.0021794,
+      "longitude": 8.591956099999999,
+      "min_latitude": 11.912873,
+      "min_longitude": 8.411321599999999,
+      "max_latitude": 12.0829016,
+      "max_longitude": 8.6704765
+    },
     "translations": {
       "en": "Kano",
       "ar": "ولاية كانو",
@@ -1131,20 +1406,35 @@
       "th": "รัฐคาโน",
       "tr": "Kano Devleti",
       "ur": "کانو ریاست",
-      "vi": "Bang Kano"
+      "vi": "Bang Kano",
+      "lv": "Kano štats",
+      "ceb": "Kano State",
+      "yo_BJ": "Ìpínlɛ̀ Kánò",
+      "sr_Latn": "Kano",
+      "lt": "Kano valstija",
+      "zh": "卡诺州",
+      "ccp": "𑄇𑄚𑄮",
+      "ka": "კანოს შტატი",
+      "ig": "Nkeji Ochíchííwu Kano",
+      "ha": "jihar Kano",
+      "he": "קנו (מדינה)",
+      "uk": "Кано",
+      "yo": "Ìpínlẹ̀ Kánò"
     },
-    "geo": {
-      "latitude": 12.0021794,
-      "longitude": 8.591956099999999,
-      "min_latitude": 11.912873,
-      "min_longitude": 8.411321599999999,
-      "max_latitude": 12.0829016,
-      "max_longitude": 8.6704765
-    },
-    "name": "Kano"
+    "comments": null
   },
   "KO": {
+    "name": "Kogi",
+    "code": null,
     "unofficial_names": "Kogi",
+    "geo": {
+      "latitude": 7.561891,
+      "longitude": 6.5783387,
+      "min_latitude": 6.528274199999999,
+      "min_longitude": 5.340376,
+      "max_latitude": 8.7320238,
+      "max_longitude": 7.8822179
+    },
     "translations": {
       "en": "Kogi",
       "ar": "ولاية كوجي",
@@ -1185,20 +1475,33 @@
       "tr": "Kogi Eyaleti",
       "uk": "Когі",
       "ur": "کوگی ریاست",
-      "vi": "Bang Kogi"
+      "vi": "Bang Kogi",
+      "lv": "Kogi štats",
+      "ceb": "Kogi State",
+      "yo_BJ": "Ìpínlɛ̀ Kogí",
+      "sr_Latn": "Kogi",
+      "lt": "Kogio valstija",
+      "zh": "科吉州",
+      "ccp": "𑄇𑄮𑄉𑄨",
+      "ka": "კოგის შტატი",
+      "ig": "Ȯra Kogi",
+      "ha": "Kogi",
+      "yo": "Ìpínlẹ̀ Kogí"
     },
-    "geo": {
-      "latitude": 7.561891,
-      "longitude": 6.5783387,
-      "min_latitude": 6.528274199999999,
-      "min_longitude": 5.340376,
-      "max_latitude": 8.7320238,
-      "max_longitude": 7.8822179
-    },
-    "name": "Kogi"
+    "comments": null
   },
   "KT": {
+    "name": "Katsina",
+    "code": null,
     "unofficial_names": "Katsina",
+    "geo": {
+      "latitude": 12.983333,
+      "longitude": 7.6,
+      "min_latitude": 12.934095,
+      "min_longitude": 7.5706298,
+      "max_latitude": 13.0357094,
+      "max_longitude": 7.676266000000001
+    },
     "translations": {
       "en": "Katsina",
       "ar": "ولاية كاتسينا",
@@ -1238,20 +1541,35 @@
       "th": "รัฐคัตซินา",
       "tr": "Katsina Eyaleti",
       "ur": "کاتسینا ریاست",
-      "vi": "Bang Katsina"
+      "vi": "Bang Katsina",
+      "lv": "Kacinas štats",
+      "ceb": "Katsina State",
+      "yo_BJ": "Ìpínlɛ̀ Kàtsínà",
+      "sr_Latn": "Kacina",
+      "lt": "Katsinos valstija",
+      "zh": "卡齐纳州",
+      "ccp": "𑄇𑄖𑄴𑄥𑄨𑄚",
+      "ka": "კატსინის შტატი",
+      "ig": "Ȯra Katsina",
+      "ha": "Jihar Katsina",
+      "uk": "Кацина",
+      "be": "штат Кацына",
+      "yo": "Ìpínlẹ̀ Kàtsínà"
     },
-    "geo": {
-      "latitude": 12.983333,
-      "longitude": 7.6,
-      "min_latitude": 12.934095,
-      "min_longitude": 7.5706298,
-      "max_latitude": 13.0357094,
-      "max_longitude": 7.676266000000001
-    },
-    "name": "Katsina"
+    "comments": null
   },
   "KW": {
+    "name": "Kwara",
+    "code": null,
     "unofficial_names": "Kwara",
+    "geo": {
+      "latitude": 8.9847995,
+      "longitude": 4.5624426,
+      "min_latitude": 7.966079000000001,
+      "min_longitude": 2.728413,
+      "max_latitude": 10.152084,
+      "max_longitude": 6.2142591
+    },
     "translations": {
       "en": "Kwara",
       "ar": "ولاية كوارة",
@@ -1291,20 +1609,35 @@
       "th": "รัฐควารา",
       "tr": "Kwara Eyaleti",
       "ur": "کوارا ریاست",
-      "vi": "Bang Kwara"
+      "vi": "Bang Kwara",
+      "lv": "Kvaras štats",
+      "ceb": "Kwara State",
+      "yo_BJ": "Ìpínlɛ̀ Kúárà",
+      "sr_Latn": "Kvara",
+      "lt": "Kvaros valstija",
+      "zh": "夸拉州",
+      "ccp": "𑄇𑄧𑄤𑄢",
+      "ka": "კვარის შტატი",
+      "ig": "Ȯra Kwara",
+      "ha": "Kwara",
+      "he": "מדינת קווארה",
+      "uk": "Квара",
+      "yo": "Ìpínlẹ̀ Kúárà"
     },
-    "geo": {
-      "latitude": 8.9847995,
-      "longitude": 4.5624426,
-      "min_latitude": 7.966079000000001,
-      "min_longitude": 2.728413,
-      "max_latitude": 10.152084,
-      "max_longitude": 6.2142591
-    },
-    "name": "Kwara"
+    "comments": null
   },
   "LA": {
+    "name": "Lagos",
+    "code": null,
     "unofficial_names": "Lagos",
+    "geo": {
+      "latitude": 6.5243793,
+      "longitude": 3.3792057,
+      "min_latitude": 6.3936419,
+      "min_longitude": 3.0982732,
+      "max_latitude": 6.7027984,
+      "max_longitude": 3.696727799999999
+    },
     "translations": {
       "en": "Lagos",
       "ar": "ولاية لاغوس",
@@ -1334,22 +1667,36 @@
       "sv": "Lagos",
       "sw": "Jimbo la Lagos",
       "tr": "Lagos Eyaleti",
-      "ur": "لاگوس ریاست"
+      "ur": "لاگوس ریاست",
+      "ceb": "Lagos State",
+      "sr_Latn": "Lagos",
+      "zh": "拉各斯州",
+      "ccp": "𑄣𑄉𑄮𑄌𑄴",
+      "ka": "ლაგოსის შტატი",
+      "hy": "Լագոս",
+      "ig": "Ȯra Lagos",
+      "ha": "Lagos",
+      "he": "לאגוס (מדינה)",
+      "uk": "Лагос",
+      "th": "รัฐเลกอส",
+      "yo": "Èkó"
     },
-    "geo": {
-      "latitude": 6.5243793,
-      "longitude": 3.3792057,
-      "min_latitude": 6.3936419,
-      "min_longitude": 3.0982732,
-      "max_latitude": 6.7027984,
-      "max_longitude": 3.696727799999999
-    },
-    "name": "Lagos"
+    "comments": null
   },
   "NA": {
+    "name": "Nassarawa",
+    "code": null,
     "unofficial_names": [
       "Nasarawa"
     ],
+    "geo": {
+      "latitude": 8.5705151,
+      "longitude": 8.3088441,
+      "min_latitude": 7.769181,
+      "min_longitude": 6.924008,
+      "max_latitude": 9.365964000000002,
+      "max_longitude": 9.605724
+    },
     "translations": {
       "en": "Nasarawa",
       "ar": "ولاية نصراوة",
@@ -1390,20 +1737,34 @@
       "th": "นาซซาราวา",
       "tr": "Nasarawa Eyaleti",
       "ur": "نصراوا ریاست",
-      "vi": "Bang Nasarawa"
+      "vi": "Bang Nasarawa",
+      "lv": "Nasaravas štats",
+      "ceb": "Nasarawa State",
+      "yo_BJ": "Ìpínlɛ̀ Násáráwá",
+      "sr_Latn": "Nasarava",
+      "lt": "Nasaravos valstija",
+      "zh": "纳萨拉瓦州",
+      "ccp": "𑄚𑄥𑄢𑄧𑄤",
+      "ka": "ნასარავის შტატი",
+      "ig": "Ȯra Nasarawa",
+      "ha": "Nasarawa",
+      "uk": "Насарава",
+      "yo": "Ìpínlẹ̀ Násáráwá"
     },
-    "geo": {
-      "latitude": 8.5705151,
-      "longitude": 8.3088441,
-      "min_latitude": 7.769181,
-      "min_longitude": 6.924008,
-      "max_latitude": 9.365964000000002,
-      "max_longitude": 9.605724
-    },
-    "name": "Nassarawa"
+    "comments": null
   },
   "NI": {
+    "name": "Niger",
+    "code": null,
     "unofficial_names": "Niger",
+    "geo": {
+      "latitude": 9.081999,
+      "longitude": 8.675277,
+      "min_latitude": 4.269857099999999,
+      "min_longitude": 2.676932,
+      "max_latitude": 13.885645,
+      "max_longitude": 14.677982
+    },
     "translations": {
       "en": "Niger",
       "ar": "ولاية نيجر",
@@ -1443,20 +1804,34 @@
       "th": "ไนเจอร",
       "tr": "Niger Eyaleti",
       "ur": "نائیجر ریاست",
-      "vi": "Bang Niger"
+      "vi": "Bang Niger",
+      "lv": "Nigēras štats",
+      "ceb": "Niger State",
+      "yo_BJ": "Ìpínlɛ̀ Niger",
+      "sr_Latn": "Niger",
+      "lt": "Nigerio valstija",
+      "zh": "尼日尔州",
+      "ccp": "𑄚𑄭𑄎𑄢𑄴",
+      "ka": "ნიგერის შტატი",
+      "ig": "Ȯra Niger",
+      "ha": "Neja",
+      "uk": "Нігер",
+      "yo": "Ìpínlẹ̀ Niger"
     },
-    "geo": {
-      "latitude": 9.081999,
-      "longitude": 8.675277,
-      "min_latitude": 4.269857099999999,
-      "min_longitude": 2.676932,
-      "max_latitude": 13.885645,
-      "max_longitude": 14.677982
-    },
-    "name": "Niger"
+    "comments": null
   },
   "OG": {
+    "name": "Ogun",
+    "code": null,
     "unofficial_names": "Ogun",
+    "geo": {
+      "latitude": 6.9098333,
+      "longitude": 3.2583626,
+      "min_latitude": 6.315346099999999,
+      "min_longitude": 2.668432,
+      "max_latitude": 7.974634999999999,
+      "max_longitude": 4.5990951
+    },
     "translations": {
       "en": "Ogun",
       "ar": "ولاية أوغون",
@@ -1496,20 +1871,36 @@
       "th": "โอกัน",
       "tr": "Ogun Eyaleti",
       "ur": "اوگون ریاست",
-      "vi": "Bang Ogun"
+      "vi": "Bang Ogun",
+      "lv": "Oguno štats",
+      "ceb": "Ogun State",
+      "yo_BJ": "Ìpínlɛ̀ Ògùn",
+      "sr_Latn": "Ogun",
+      "lt": "Oguno valstija",
+      "zh": "奥贡州",
+      "ccp": "𑄃𑄮𑄉𑄚𑄴",
+      "ka": "ოგუნის შტატი",
+      "hy": "Օգուն",
+      "ig": "Ȯra Ogun",
+      "ha": "Ogun",
+      "he": "אוגון",
+      "uk": "Огун",
+      "yo": "Ìpínlẹ̀ Ògùn"
     },
-    "geo": {
-      "latitude": 6.9098333,
-      "longitude": 3.2583626,
-      "min_latitude": 6.315346099999999,
-      "min_longitude": 2.668432,
-      "max_latitude": 7.974634999999999,
-      "max_longitude": 4.5990951
-    },
-    "name": "Ogun"
+    "comments": null
   },
   "ON": {
+    "name": "Ondo",
+    "code": null,
     "unofficial_names": "Ondo",
+    "geo": {
+      "latitude": 7.083333,
+      "longitude": 4.833333,
+      "min_latitude": 7.0529381,
+      "min_longitude": 4.7963046,
+      "max_latitude": 7.1249106,
+      "max_longitude": 4.871921599999999
+    },
     "translations": {
       "en": "Ondo",
       "ar": "ولاية أوندو",
@@ -1550,20 +1941,34 @@
       "th": "รัฐออนโด",
       "tr": "Ondo Eyaleti",
       "ur": "اوندو ریاست",
-      "vi": "Bang Ondo"
+      "vi": "Bang Ondo",
+      "ceb": "Ondo State",
+      "yo_BJ": "Ìpínlɛ̀ Òndó",
+      "sr_Latn": "Ondo",
+      "lt": "Ondo valstija",
+      "zh": "翁多州",
+      "ccp": "𑄃𑄚𑄴𑄓𑄮",
+      "ka": "ონდოს შტატი",
+      "ig": "Ȯra Ondo",
+      "ha": "Ondo",
+      "he": "אונדו",
+      "uk": "Ондо",
+      "yo": "Ìpínlẹ̀ Òndó"
     },
-    "geo": {
-      "latitude": 7.083333,
-      "longitude": 4.833333,
-      "min_latitude": 7.0529381,
-      "min_longitude": 4.7963046,
-      "max_latitude": 7.1249106,
-      "max_longitude": 4.871921599999999
-    },
-    "name": "Ondo"
+    "comments": null
   },
   "OS": {
+    "name": "Osun",
+    "code": null,
     "unofficial_names": "Osun",
+    "geo": {
+      "latitude": 7.5875843,
+      "longitude": 4.5624426,
+      "min_latitude": 6.969976,
+      "min_longitude": 4.020612,
+      "max_latitude": 8.088640999999999,
+      "max_longitude": 5.0647019
+    },
     "translations": {
       "en": "Osun",
       "ar": "ولاية أوشون",
@@ -1603,20 +2008,33 @@
       "th": "โอซุน",
       "tr": "Osun Eyaleti",
       "ur": "اوسون ریاست",
-      "vi": "Bang Osun"
+      "vi": "Bang Osun",
+      "lv": "Osunas štats",
+      "ceb": "Osun State",
+      "sr_Latn": "Osun",
+      "lt": "Osuno valstija",
+      "zh": "奥孙州",
+      "ccp": "𑄃𑄮𑄥𑄚𑄴",
+      "ka": "ოსუნის შტატი",
+      "ig": "Ȯra Osun",
+      "ha": "Osun",
+      "he": "מדינת אוסון",
+      "uk": "Осун"
     },
-    "geo": {
-      "latitude": 7.5875843,
-      "longitude": 4.5624426,
-      "min_latitude": 6.969976,
-      "min_longitude": 4.020612,
-      "max_latitude": 8.088640999999999,
-      "max_longitude": 5.0647019
-    },
-    "name": "Osun"
+    "comments": null
   },
   "OY": {
+    "name": "Oyo",
+    "code": null,
     "unofficial_names": "Oyo",
+    "geo": {
+      "latitude": 7.85,
+      "longitude": 3.933,
+      "min_latitude": 7.790425099999999,
+      "min_longitude": 3.8832377,
+      "max_latitude": 7.8899933,
+      "max_longitude": 3.9751624
+    },
     "translations": {
       "en": "Oyo",
       "ar": "ولاية أويو",
@@ -1647,20 +2065,30 @@
       "sw": "Jimbo la Oyo",
       "tr": "Oyo Eyaleti",
       "uk": "Ойо (штат)",
-      "ur": "اویو ریاست"
+      "ur": "اویو ریاست",
+      "ceb": "Oyo State",
+      "sr_Latn": "Ojo",
+      "zh": "奥约州",
+      "ccp": "𑄃𑄮𑄠𑄮",
+      "ka": "ოიოს შტატი",
+      "ig": "Ȯra Ọyọ",
+      "ha": "Oyo",
+      "he": "אויו"
     },
-    "geo": {
-      "latitude": 7.85,
-      "longitude": 3.933,
-      "min_latitude": 7.790425099999999,
-      "min_longitude": 3.8832377,
-      "max_latitude": 7.8899933,
-      "max_longitude": 3.9751624
-    },
-    "name": "Oyo"
+    "comments": null
   },
   "PL": {
+    "name": "Plateau",
+    "code": null,
     "unofficial_names": "Plateau",
+    "geo": {
+      "latitude": 9.2350817,
+      "longitude": 9.7232673,
+      "min_latitude": 8.350639,
+      "min_longitude": 8.544271,
+      "max_latitude": 10.3447241,
+      "max_longitude": 10.6606639
+    },
     "translations": {
       "en": "Plateau",
       "ar": "ولاية بلاتو",
@@ -1702,20 +2130,33 @@
       "tr": "Plateau Eyaleti",
       "uk": "Плато",
       "ur": "پلیٹئو ریاست",
-      "vi": "Bang Plateau"
+      "vi": "Bang Plateau",
+      "lv": "Plato štats",
+      "ceb": "Plateau State",
+      "yo_BJ": "Ìpínlɛ̀ Plateau",
+      "sr_Latn": "Plato",
+      "lt": "Plato valstija",
+      "zh": "高原州",
+      "ccp": "𑄛𑄳𑄣𑄑𑄨𑄅𑄪",
+      "ka": "პლატოს შტატი",
+      "ig": "Ȯra Plateau",
+      "ha": "Plateau",
+      "yo": "Ìpínlẹ̀ Plateau"
     },
-    "geo": {
-      "latitude": 9.2350817,
-      "longitude": 9.7232673,
-      "min_latitude": 8.350639,
-      "min_longitude": 8.544271,
-      "max_latitude": 10.3447241,
-      "max_longitude": 10.6606639
-    },
-    "name": "Plateau"
+    "comments": null
   },
   "RI": {
+    "name": "Rivers",
+    "code": null,
     "unofficial_names": "Rivers",
+    "geo": {
+      "latitude": 4.8580767,
+      "longitude": 6.920913499999999,
+      "min_latitude": 4.347035099999999,
+      "min_longitude": 6.382472000000001,
+      "max_latitude": 5.694652899999999,
+      "max_longitude": 7.591592899999998
+    },
     "translations": {
       "en": "Rivers",
       "ar": "ولاية ريفرز",
@@ -1758,20 +2199,34 @@
       "tr": "Rivers Eyaleti",
       "uk": "Ріверс",
       "ur": "ریورز ریاست",
-      "vi": "Bang Rivers"
+      "vi": "Bang Rivers",
+      "lv": "Riversas štats",
+      "ceb": "Rivers State",
+      "yo_BJ": "Ìpínlɛ̀ Rivers",
+      "sr_Latn": "Rivers",
+      "lt": "Riverso valstija",
+      "zh": "河流州",
+      "ccp": "𑄢𑄨𑄞𑄢𑄴𑄌𑄴",
+      "ka": "რივერსის შტატი",
+      "hy": "Ռիվերս նահանգ",
+      "ig": "Ȯra Rivers",
+      "ha": "Rivers",
+      "yo": "Ìpínlẹ̀ Rivers"
     },
-    "geo": {
-      "latitude": 4.8580767,
-      "longitude": 6.920913499999999,
-      "min_latitude": 4.347035099999999,
-      "min_longitude": 6.382472000000001,
-      "max_latitude": 5.694652899999999,
-      "max_longitude": 7.591592899999998
-    },
-    "name": "Rivers"
+    "comments": null
   },
   "SO": {
+    "name": "Sokoto",
+    "code": null,
     "unofficial_names": "Sokoto",
+    "geo": {
+      "latitude": 13.066667,
+      "longitude": 5.233333,
+      "min_latitude": 12.9764148,
+      "min_longitude": 5.1676084,
+      "max_latitude": 13.0880893,
+      "max_longitude": 5.2881144
+    },
     "translations": {
       "en": "Sokoto",
       "ar": "ولاية صكتو",
@@ -1813,20 +2268,33 @@
       "tr": "Sokoto Eyaleti",
       "uk": "Сокото",
       "ur": "سوکوتو ریاست",
-      "vi": "Bang Sokoto"
+      "vi": "Bang Sokoto",
+      "lv": "Sokoto štats",
+      "ceb": "Sokoto State",
+      "yo_BJ": "Ìpínlɛ̀ Sókótó",
+      "sr_Latn": "Sokoto",
+      "lt": "Sokoto valstija",
+      "zh": "索科托州",
+      "ccp": "𑄥𑄮𑄇𑄮𑄑𑄮",
+      "ka": "სოკოტოს შტატი",
+      "ig": "Ȯra Sokoto",
+      "ha": "jihar Sokoto",
+      "yo": "Ìpínlẹ̀ Sókótó"
     },
-    "geo": {
-      "latitude": 13.066667,
-      "longitude": 5.233333,
-      "min_latitude": 12.9764148,
-      "min_longitude": 5.1676084,
-      "max_latitude": 13.0880893,
-      "max_longitude": 5.2881144
-    },
-    "name": "Sokoto"
+    "comments": null
   },
   "TA": {
+    "name": "Taraba",
+    "code": null,
     "unofficial_names": "Taraba",
+    "geo": {
+      "latitude": 7.9868755,
+      "longitude": 10.9807003,
+      "min_latitude": 6.502453999999999,
+      "min_longitude": 9.1043009,
+      "max_latitude": 9.604444899999999,
+      "max_longitude": 11.981274
+    },
     "translations": {
       "en": "Taraba",
       "ar": "ولاية ترابة",
@@ -1867,20 +2335,34 @@
       "tr": "Taraba Eyaleti",
       "uk": "Тараба",
       "ur": "تارابا ریاست",
-      "vi": "Taraba"
+      "vi": "Taraba",
+      "lv": "Tarabas štats",
+      "ceb": "Taraba State",
+      "yo_BJ": "Ìpínlɛ̀ Tàràbà",
+      "sr_Latn": "Taraba",
+      "lt": "Tarabos valstija",
+      "zh": "塔拉巴州",
+      "ccp": "𑄑𑄢𑄝",
+      "ka": "ტარაბის შტატი",
+      "ig": "Ȯra Taraba",
+      "ha": "Taraba",
+      "kk": "Тараба",
+      "yo": "Ìpínlẹ̀ Tàràbà"
     },
-    "geo": {
-      "latitude": 7.9868755,
-      "longitude": 10.9807003,
-      "min_latitude": 6.502453999999999,
-      "min_longitude": 9.1043009,
-      "max_latitude": 9.604444899999999,
-      "max_longitude": 11.981274
-    },
-    "name": "Taraba"
+    "comments": null
   },
   "YO": {
+    "name": "Yobe",
+    "code": null,
     "unofficial_names": "Yobe",
+    "geo": {
+      "latitude": 12.1871412,
+      "longitude": 11.7068294,
+      "min_latitude": 10.5932052,
+      "min_longitude": 9.665973100000002,
+      "max_latitude": 13.376133,
+      "max_longitude": 12.494047
+    },
     "translations": {
       "en": "Yobe",
       "ar": "ولاية يوبي",
@@ -1921,20 +2403,34 @@
       "tr": "Yobe Eyaleti",
       "uk": "Йобе",
       "ur": "یوبے اسٹیٹ",
-      "vi": "Bang Yobe"
+      "vi": "Bang Yobe",
+      "lv": "Jobes štats",
+      "ceb": "Yobe State",
+      "yo_BJ": "Ìpínlɛ̀ Yòbè",
+      "sr_Latn": "Jobe",
+      "lt": "Jobės valstija",
+      "zh": "约贝州",
+      "ccp": "𑄃𑄨𑄠𑄮𑄝𑄬",
+      "ka": "იობეს შტატი",
+      "ig": "Ȯra Yobe",
+      "ha": "Yobe",
+      "cs": "Yobe",
+      "yo": "Ìpínlẹ̀ Yòbè"
     },
-    "geo": {
-      "latitude": 12.1871412,
-      "longitude": 11.7068294,
-      "min_latitude": 10.5932052,
-      "min_longitude": 9.665973100000002,
-      "max_latitude": 13.376133,
-      "max_longitude": 12.494047
-    },
-    "name": "Yobe"
+    "comments": null
   },
   "ZA": {
+    "name": "Zamfara",
+    "code": null,
     "unofficial_names": "Zamfara",
+    "geo": {
+      "latitude": 12.1844159,
+      "longitude": 6.2375947,
+      "min_latitude": 10.854616,
+      "min_longitude": 5.021007099999999,
+      "max_latitude": 13.207291,
+      "max_longitude": 7.245729999999999
+    },
     "translations": {
       "en": "Zamfara",
       "ar": "ولاية زامفارة",
@@ -1975,17 +2471,20 @@
       "tr": "Zamfara Eyaleti",
       "uk": "Замфара",
       "ur": "زمفارا ریاست",
-      "vi": "Bang Zamfara"
+      "vi": "Bang Zamfara",
+      "lv": "Zamfaras štats",
+      "ceb": "Zamfara State",
+      "yo_BJ": "Ìpínlɛ̀ Zamfara",
+      "sr_Latn": "Zamfara",
+      "lt": "Zamfaros valstija",
+      "zh": "扎姆法拉州",
+      "ccp": "𑄎𑄟𑄴𑄜𑄢",
+      "ka": "ზამფარის შტატი",
+      "ig": "Ȯra Zamfara",
+      "ha": "Zamfara",
+      "yo": "Ìpínlẹ̀ Zamfara"
     },
-    "geo": {
-      "latitude": 12.1844159,
-      "longitude": 6.2375947,
-      "min_latitude": 10.854616,
-      "min_longitude": 5.021007099999999,
-      "max_latitude": 13.207291,
-      "max_longitude": 7.245729999999999
-    },
-    "name": "Zamfara"
+    "comments": null
   }
 }
 

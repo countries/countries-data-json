@@ -1,6 +1,16 @@
 {
   "02": {
+    "name": "Saint Andrew",
+    "code": null,
     "unofficial_names": "Saint Andrew",
+    "geo": {
+      "latitude": 15.5542442,
+      "longitude": -61.3501856,
+      "min_latitude": 15.453767,
+      "min_longitude": -61.44272400000001,
+      "max_latitude": 15.639894,
+      "max_longitude": -61.272358
+    },
     "translations": {
       "en": "Saint Andrew",
       "ar": "أبرشية سانت أندرو",
@@ -36,20 +46,26 @@
       "tr": "Saint Andrew Parish",
       "ur": "سینٹ اینڈریو پیرش، ڈومینیکا",
       "vi": "Giáo xứ Saint Andrew",
-      "zh": "圣安德鲁区"
+      "zh": "圣安德鲁区",
+      "ceb": "Saint Andrew",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄪",
+      "uk": "Парафія Сент-Андру",
+      "ca": "Parròquia de Saint Andrew"
     },
-    "geo": {
-      "latitude": 15.5542442,
-      "longitude": -61.3501856,
-      "min_latitude": 15.453767,
-      "min_longitude": -61.44272400000001,
-      "max_latitude": 15.639894,
-      "max_longitude": -61.272358
-    },
-    "name": "Saint Andrew"
+    "comments": null
   },
   "03": {
+    "name": "Saint David",
+    "code": null,
     "unofficial_names": "Saint David",
+    "geo": {
+      "latitude": 15.4081998,
+      "longitude": -61.29186180000001,
+      "min_latitude": 15.3278939,
+      "min_longitude": -61.32912589999999,
+      "max_latitude": 15.5205011,
+      "max_longitude": -61.24131209999999
+    },
     "translations": {
       "en": "Saint David",
       "ar": "أبرشية القديس ديفيد",
@@ -84,20 +100,27 @@
       "th": "เซนต์เดวิด",
       "tr": "Saint David Parish",
       "ur": "سینٹ ڈیوڈ پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint David"
+      "vi": "Giáo xứ Saint David",
+      "ceb": "Saint David",
+      "zh": "聖戴維堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄓𑄬𑄞𑄨𑄖𑄴",
+      "uk": "Парафія Сент-Девід",
+      "ca": "Parròquia de Saint David"
     },
-    "geo": {
-      "latitude": 15.4081998,
-      "longitude": -61.29186180000001,
-      "min_latitude": 15.3278939,
-      "min_longitude": -61.32912589999999,
-      "max_latitude": 15.5205011,
-      "max_longitude": -61.24131209999999
-    },
-    "name": "Saint David"
+    "comments": null
   },
   "04": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
+    "geo": {
+      "latitude": 15.3087847,
+      "longitude": -61.33851909999999,
+      "min_latitude": 15.263895,
+      "min_longitude": -61.3926681,
+      "max_latitude": 15.3546189,
+      "max_longitude": -61.2987611
+    },
     "translations": {
       "en": "Saint George",
       "ar": "ابرشية القديس جورج",
@@ -132,20 +155,27 @@
       "th": "จังหวัดซามานา",
       "tr": "Saint George Parish",
       "ur": "سینٹ جارج پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint George"
+      "vi": "Giáo xứ Saint George",
+      "ceb": "Saint George",
+      "zh": "聖喬治堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄢𑄴𑄉𑄴",
+      "uk": "Парафія Сент-Джордж",
+      "ca": "Parròquia de Saint George"
     },
-    "geo": {
-      "latitude": 15.3087847,
-      "longitude": -61.33851909999999,
-      "min_latitude": 15.263895,
-      "min_longitude": -61.3926681,
-      "max_latitude": 15.3546189,
-      "max_longitude": -61.2987611
-    },
-    "name": "Saint George"
+    "comments": null
   },
   "05": {
+    "name": "Saint John",
+    "code": null,
     "unofficial_names": "Saint John",
+    "geo": {
+      "latitude": 15.5763757,
+      "longitude": -61.4318742,
+      "min_latitude": 15.5123079,
+      "min_longitude": -61.47965900000001,
+      "max_latitude": 15.6391931,
+      "max_longitude": -61.40151209999999
+    },
     "translations": {
       "en": "Saint John",
       "ar": "أبرشية القديس جون",
@@ -180,20 +210,27 @@
       "th": "เซนต์ จอน แพริช",
       "tr": "Saint John Parish",
       "ur": "سینٹ جان پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint John"
+      "vi": "Giáo xứ Saint John",
+      "ceb": "Saint John",
+      "zh": "聖約翰堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄚𑄴",
+      "uk": "Парафія Сент-Джон",
+      "ca": "Parròquia de Saint John"
     },
-    "geo": {
-      "latitude": 15.5763757,
-      "longitude": -61.4318742,
-      "min_latitude": 15.5123079,
-      "min_longitude": -61.47965900000001,
-      "max_latitude": 15.6391931,
-      "max_longitude": -61.40151209999999
-    },
-    "name": "Saint John"
+    "comments": null
   },
   "06": {
+    "name": "Saint Joseph",
+    "code": null,
     "unofficial_names": "Saint Joseph",
+    "geo": {
+      "latitude": 15.4335083,
+      "longitude": -61.39685979999999,
+      "min_latitude": 15.3909401,
+      "min_longitude": -61.45424289999999,
+      "max_latitude": 15.5042691,
+      "max_longitude": -61.315627
+    },
     "translations": {
       "en": "Saint Joseph",
       "ar": "أبرشية القديس جوزيف",
@@ -228,20 +265,27 @@
       "th": "เซนต์ โจเซฟ แพริช",
       "tr": "Sain Joseph Parish",
       "ur": "سینٹ جوزف پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Joseph"
+      "vi": "Giáo xứ Saint Joseph",
+      "ceb": "Saint Joseph",
+      "zh": "聖約瑟夫堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄥𑄬𑄛𑄴",
+      "uk": "Парафія Сент-Джозеф",
+      "ca": "Parròquia de Saint Joseph"
     },
-    "geo": {
-      "latitude": 15.4335083,
-      "longitude": -61.39685979999999,
-      "min_latitude": 15.3909401,
-      "min_longitude": -61.45424289999999,
-      "max_latitude": 15.5042691,
-      "max_longitude": -61.315627
-    },
-    "name": "Saint Joseph"
+    "comments": null
   },
   "07": {
+    "name": "Saint Luke",
+    "code": null,
     "unofficial_names": "Saint Luke",
+    "geo": {
+      "latitude": 15.254587,
+      "longitude": -61.36768679999999,
+      "min_latitude": 15.2373251,
+      "min_longitude": -61.3773769,
+      "max_latitude": 15.2727258,
+      "max_longitude": -61.34495099999999
+    },
     "translations": {
       "en": "Saint Luke",
       "ar": "أبرشية سانت لوك، دومينيكا",
@@ -276,20 +320,27 @@
       "th": "ตำบลเซนลุค",
       "tr": "Saint Luke Parish",
       "ur": "سینٹ لوق پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Luke"
+      "vi": "Giáo xứ Saint Luke",
+      "ceb": "Saint Luke",
+      "zh": "聖盧克堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄣𑄪𑄇𑄬",
+      "uk": "Парафія Сент-Люк",
+      "ca": "Parròquia de Saint Luke"
     },
-    "geo": {
-      "latitude": 15.254587,
-      "longitude": -61.36768679999999,
-      "min_latitude": 15.2373251,
-      "min_longitude": -61.3773769,
-      "max_latitude": 15.2727258,
-      "max_longitude": -61.34495099999999
-    },
-    "name": "Saint Luke"
+    "comments": null
   },
   "08": {
+    "name": "Saint Mark",
+    "code": null,
     "unofficial_names": "Saint Mark",
+    "geo": {
+      "latitude": 15.2195922,
+      "longitude": -61.34435219999999,
+      "min_latitude": 15.207682,
+      "min_longitude": -61.373916,
+      "max_latitude": 15.254047,
+      "max_longitude": -61.329852
+    },
     "translations": {
       "en": "Saint Mark",
       "ar": "أبرشية القديس مارك",
@@ -324,20 +375,27 @@
       "th": "เซนต์มาร์ค",
       "tr": "Saint Mark Parish",
       "ur": "سینٹ مارک پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Mark"
+      "vi": "Giáo xứ Saint Mark",
+      "ceb": "Saint Mark",
+      "zh": "聖馬克堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄟𑄢𑄴𑄇𑄴",
+      "uk": "Парафія Сент-Марк",
+      "ca": "Parròquia de Saint Mark"
     },
-    "geo": {
-      "latitude": 15.2195922,
-      "longitude": -61.34435219999999,
-      "min_latitude": 15.207682,
-      "min_longitude": -61.373916,
-      "max_latitude": 15.254047,
-      "max_longitude": -61.329852
-    },
-    "name": "Saint Mark"
+    "comments": null
   },
   "09": {
+    "name": "Saint Patrick",
+    "code": null,
     "unofficial_names": "Saint Patrick",
+    "geo": {
+      "latitude": 15.2811117,
+      "longitude": -61.29186180000001,
+      "min_latitude": 15.2171499,
+      "min_longitude": -61.3454931,
+      "max_latitude": 15.345993,
+      "max_longitude": -61.241828
+    },
     "translations": {
       "en": "Saint Patrick",
       "ar": "أبرشية القديس باتريك",
@@ -372,20 +430,27 @@
       "th": "เซนต์ แพทริค แพริช",
       "tr": "Saint Patrick Parish",
       "ur": "سینٹ پیٹرک پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Patrick"
+      "vi": "Giáo xứ Saint Patrick",
+      "ceb": "Saint Patrick",
+      "zh": "聖帕特里克堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄬𑄑𑄳𑄢𑄨𑄇𑄴",
+      "uk": "Парафія Сент-Патрік",
+      "ca": "Parròquia de Saint Patrick"
     },
-    "geo": {
-      "latitude": 15.2811117,
-      "longitude": -61.29186180000001,
-      "min_latitude": 15.2171499,
-      "min_longitude": -61.3454931,
-      "max_latitude": 15.345993,
-      "max_longitude": -61.241828
-    },
-    "name": "Saint Patrick"
+    "comments": null
   },
   "10": {
+    "name": "Saint Paul",
+    "code": null,
     "unofficial_names": "Saint Paul",
+    "geo": {
+      "latitude": 15.3756073,
+      "longitude": -61.3618529,
+      "min_latitude": 15.3193611,
+      "min_longitude": -61.421957,
+      "max_latitude": 15.415029,
+      "max_longitude": -61.3198599
+    },
     "translations": {
       "en": "Saint Paul",
       "ar": "سانت باول الدومينيكان",
@@ -420,20 +485,27 @@
       "th": "เซนต์ปอล",
       "tr": "Saint Paul Parish",
       "ur": "سینٹ پال پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Paul"
+      "vi": "Giáo xứ Saint Paul",
+      "ceb": "Saint Paul (parokya)",
+      "zh": "聖保羅堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄧𑄣𑄴",
+      "uk": "Парафія Сент-Пол",
+      "ca": "Parròquia de Saint Paul"
     },
-    "geo": {
-      "latitude": 15.3756073,
-      "longitude": -61.3618529,
-      "min_latitude": 15.3193611,
-      "min_longitude": -61.421957,
-      "max_latitude": 15.415029,
-      "max_longitude": -61.3198599
-    },
-    "name": "Saint Paul"
+    "comments": null
   },
   "11": {
+    "name": "Saint Peter",
+    "code": null,
     "unofficial_names": "Saint Peter",
+    "geo": {
+      "latitude": 15.5098288,
+      "longitude": -61.4493842,
+      "min_latitude": 15.46307,
+      "min_longitude": -61.478264,
+      "max_latitude": 15.541238,
+      "max_longitude": -61.39976799999999
+    },
     "translations": {
       "en": "Saint Peter",
       "ar": "أبرشية القديس بيتر",
@@ -468,17 +540,14 @@
       "th": "ลุมพินีวัน",
       "tr": "Saint Peter Parish",
       "ur": "سینٹ پیٹر پیرش، ڈومینیکا",
-      "vi": "Giáo xứ Saint Peter"
+      "vi": "Giáo xứ Saint Peter",
+      "ceb": "Saint Peter",
+      "zh": "聖彼得堂區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄨𑄑𑄢𑄴",
+      "uk": "Парафія Сент-Пітер",
+      "ca": "Parròquia de Saint Peter"
     },
-    "geo": {
-      "latitude": 15.5098288,
-      "longitude": -61.4493842,
-      "min_latitude": 15.46307,
-      "min_longitude": -61.478264,
-      "max_latitude": 15.541238,
-      "max_longitude": -61.39976799999999
-    },
-    "name": "Saint Peter"
+    "comments": null
   }
 }
 

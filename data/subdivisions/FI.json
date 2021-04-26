@@ -1,11 +1,10 @@
 {
   "AL": {
+    "name": "Ahvenanmaan lääni",
+    "code": null,
     "unofficial_names": [
       "Åland"
     ],
-    "translations": {
-      "en": "Ahvenanmaan lääni"
-    },
     "geo": {
       "latitude": 60.177002,
       "longitude": 19.915002,
@@ -14,13 +13,15 @@
       "max_latitude": 60.6547739,
       "max_longitude": 21.1111317
     },
-    "name": "Ahvenanmaan lääni"
+    "translations": {
+      "en": "Ahvenanmaan lääni"
+    },
+    "comments": null
   },
   "ES": {
+    "name": "Etelä-Suomen lääni",
+    "code": null,
     "unofficial_names": "Etelä-Suomen lääni",
-    "translations": {
-      "en": "Etelä-Suomen lääni"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -29,17 +30,19 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Etelä-Suomen lääni"
+    "translations": {
+      "en": "Etelä-Suomen lääni"
+    },
+    "comments": null
   },
   "IS": {
+    "name": "Itä-Suomen lääni",
+    "code": null,
     "unofficial_names": [
       "Östra Nyland",
       "Itä-Uusimaa",
       "Uusima de lʿEst"
     ],
-    "translations": {
-      "en": "Itä-Suomen lääni"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -48,18 +51,20 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Itä-Suomen lääni"
+    "translations": {
+      "en": "Itä-Suomen lääni"
+    },
+    "comments": null
   },
   "LL": {
+    "name": "Lapin lääni",
+    "code": null,
     "unofficial_names": [
       "Lappland",
       "Lappi",
       "Lappland",
       "Laponie"
     ],
-    "translations": {
-      "en": "Lapin lääni"
-    },
     "geo": {
       "latitude": 67.9222304,
       "longitude": 26.5046438,
@@ -68,13 +73,15 @@
       "max_latitude": 70.092444,
       "max_longitude": 30.016886
     },
-    "name": "Lapin lääni"
+    "translations": {
+      "en": "Lapin lääni"
+    },
+    "comments": null
   },
   "LS": {
+    "name": "Länsi-Suomen lääni",
+    "code": null,
     "unofficial_names": "Länsi-Suomen lääni",
-    "translations": {
-      "en": "Länsi-Suomen lääni"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -83,13 +90,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Länsi-Suomen lääni"
+    "translations": {
+      "en": "Länsi-Suomen lääni"
+    },
+    "comments": null
   },
   "OL": {
+    "name": "Oulun lääni",
+    "code": null,
     "unofficial_names": "Oulun lääni",
-    "translations": {
-      "en": "Oulun lääni"
-    },
     "geo": {
       "latitude": 65.6234319,
       "longitude": 25.1482406,
@@ -98,9 +107,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Oulun lääni"
+    "translations": {
+      "en": "Oulun lääni"
+    },
+    "comments": null
   },
   "18": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Uusimaa",
       "ar": "أوسيما",
@@ -149,10 +172,31 @@
       "tr": "Uusimaa",
       "uk": "Уусімаа",
       "ur": "وسیما",
-      "vi": "Uusimaa"
-    }
+      "vi": "Uusimaa",
+      "lv": "Ūsimā",
+      "ceb": "Uusimaa",
+      "sr_Latn": "Nova Zemlja",
+      "zh": "新地区",
+      "sq": "Uusimaa",
+      "ccp": "𑄅𑄫𑄪𑄥𑄨𑄟𑄳𑄦",
+      "ga": "An Nualainn",
+      "hy": "Ուուսիմաա",
+      "mk": "Усима"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كاريليا الجنوبية",
       "bn": "দক্ষিন কারেলিয়া",
@@ -199,10 +243,28 @@
       "uk": "Південна Карелія",
       "ur": "جنوبی کاریلیا",
       "vi": "Nam Karelia",
-      "zh": "南卡累利阿區"
-    }
+      "zh": "南卡累利阿區",
+      "lv": "Dienvidkarēlija",
+      "ceb": "Etelä-Karjala",
+      "sr_Latn": "Južna Karelija",
+      "sq": "Karelia Jugore",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄢𑄬𑄣𑄨𑄠",
+      "ga": "An Chairéil Theas"
+    },
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بوهيانما الجنوبية",
       "be": "Паўднёвая Астработнія",
@@ -247,10 +309,29 @@
       "tr": "Güney Ostrobothnia",
       "uk": "Південна Погʼянмаа",
       "ur": "جنوبی اوستروبوثنیہ",
-      "vi": "Phía Nam Ostrobothnia"
-    }
+      "vi": "Phía Nam Ostrobothnia",
+      "lv": "Dienvidpohjanmā",
+      "ceb": "Etelä-Pohjanmaa",
+      "sr_Latn": "Južna Ostrobotnija",
+      "zh": "南博滕區",
+      "sq": "Ostrobothnia Jugore",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "hy": "Հարավային Օստրոբոտնիա"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سافو الجنوبية",
       "be": "Паўднёвае Сава",
@@ -296,10 +377,29 @@
       "tr": "Güney Savonya",
       "uk": "Південна Савонія",
       "ur": "سدرن ساوونیا",
-      "vi": "Phía Nam Savonia"
-    }
+      "vi": "Phía Nam Savonia",
+      "lv": "Dienvidsavo",
+      "ceb": "Southern Savonia",
+      "sr_Latn": "Južna Savonija",
+      "zh": "南萨沃尼亚区",
+      "sq": "Savonia Jugore",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄞𑄮𑄚𑄨𑄠",
+      "hu": "Dél-Savo"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كاينو",
       "be": "Кайнуу",
@@ -347,10 +447,30 @@
       "tr": "Kainuu",
       "uk": "Кайнуу",
       "ur": "کاینو",
-      "vi": "Kainuu"
-    }
+      "vi": "Kainuu",
+      "lv": "Kainū",
+      "ceb": "Kainuu",
+      "sr_Latn": "Kajinu",
+      "zh": "凱努區",
+      "sq": "Kainuu",
+      "ccp": "𑄇𑄭𑄚𑄪",
+      "ga": "Kainuu",
+      "mk": "Каину"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كانتا هامي",
       "bn": "তাস্তিয়া প্রপার",
@@ -393,10 +513,28 @@
       "tr": "Tavastia Proper",
       "uk": "Канта-Гяме",
       "ur": "تاواستیا پروپر",
-      "vi": "Tavastia Proper"
-    }
+      "vi": "Tavastia Proper",
+      "lv": "Kantaheme",
+      "ceb": "Häme",
+      "sr_Latn": "Uža Tavastija",
+      "zh": "坎塔海梅區",
+      "sq": "Tavastia Proper",
+      "ccp": "𑄑𑄞𑄌𑄴𑄑𑄨𑄠 𑄛𑄳𑄢𑄮𑄛𑄢𑄴"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بوهيانما الوسطى",
       "bn": "সেন্ট্রাল অস্ট্রোবোথনিয়া",
@@ -441,10 +579,29 @@
       "tr": "Orta Ostrobothnia",
       "uk": "Центральна Погʼянмаа",
       "ur": "وسطی اوستروبوثنیہ",
-      "vi": "Miền Trung Ostrobothnia"
-    }
+      "vi": "Miền Trung Ostrobothnia",
+      "lv": "Viduspohjanmā",
+      "ceb": "Keski-Pohjanmaa",
+      "sr_Latn": "Središnja Ostrobotnija",
+      "zh": "中博滕區",
+      "sq": "Ostrobothnia Qendrore",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "hy": "Կենտրոնական Օստրոբոտնիա"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "فنلندا الوسطى",
       "bn": "সেন্ট্রাল ফিনল্যান্ড",
@@ -488,10 +645,30 @@
       "tr": "Orta Finlandiya",
       "uk": "Центральна Фінляндія",
       "ur": "وسطی فن لینڈ",
-      "vi": "Miền Trung Phần Lan"
-    }
+      "vi": "Miền Trung Phần Lan",
+      "lv": "Vidussomija",
+      "ceb": "Keski-Suomi",
+      "sr_Latn": "Središnja Finska",
+      "zh": "中芬蘭區",
+      "sq": "Finlanda Qendrore",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄜𑄨𑄚𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "hy": "Կենտրոնական Ֆինլանդիա",
+      "be": "Цэнтральная Фінляндыя"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كومنلاكسو",
       "bg": "Кйменлаксо",
@@ -536,10 +713,29 @@
       "tr": "Kymenlaakso",
       "uk": "Кюменлааксо",
       "ur": "کومنلاکسو",
-      "vi": "Kymenlaakso"
-    }
+      "vi": "Kymenlaakso",
+      "lv": "Kjumenlākso",
+      "ceb": "Kymenlaakso",
+      "sr_Latn": "Kimenska Dolina",
+      "zh": "屈米區",
+      "sq": "Kymenlaakso",
+      "ccp": "𑄇𑄭𑄟𑄬𑄚𑄴𑄣𑄇𑄴𑄥𑄮",
+      "be": "Кюменлаакса"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم لابي",
       "be": "Лапландыя",
@@ -577,10 +773,29 @@
       "tr": "Lappi",
       "uk": "Лапландія",
       "ur": "لاپلند",
-      "vi": "Lapland"
-    }
+      "vi": "Lapland",
+      "af": "Lapland",
+      "ceb": "Lappi (lalawigan)",
+      "sr_Latn": "Laponija",
+      "zh": "拉普蘭區",
+      "sq": "Lapland",
+      "ccp": "𑄣𑄛𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "mk": "Лапонија"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بيركنما",
       "bg": "Пирканма",
@@ -626,10 +841,31 @@
       "tr": "Pirkanmaa",
       "uk": "Пірканмаа",
       "ur": "پیرکانما",
-      "vi": "Pirkanmaa"
-    }
+      "vi": "Pirkanmaa",
+      "lv": "Pirkanmā",
+      "ceb": "Pirkanmaa",
+      "sr_Latn": "Pirkanska zemlja",
+      "zh": "皮爾卡區",
+      "sq": "Pirkanmaa",
+      "ccp": "𑄛𑄨𑄢𑄴𑄇𑄚𑄴𑄟𑄳𑄦",
+      "ga": "Pirkanmaa",
+      "hy": "Պիրկանմաա",
+      "be": "Пірканмаа"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بوهيانما",
       "be": "Астработнія",
@@ -662,10 +898,28 @@
       "sv": "Österbotten",
       "tr": "Ostrobothnia",
       "uk": "Погʼянмаа",
-      "ur": "اوستروبوثنیہ"
-    }
+      "ur": "اوستروبوثنیہ",
+      "ceb": "Pohjanmaa",
+      "sr_Latn": "Ostrobotnija",
+      "zh": "博滕區",
+      "sq": "Ostrobothnia",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "hu": "Pohjanmaa"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كاريليا الشمالية",
       "bn": "কারেলিয়া",
@@ -712,10 +966,29 @@
       "tr": "Kuzey Karelya",
       "uk": "Північна Карелія",
       "ur": "شمالی کاریلیا",
-      "vi": "Bắc Karelia"
-    }
+      "vi": "Bắc Karelia",
+      "lv": "Ziemeļkarēlija",
+      "ceb": "Pohjois-Karjala",
+      "sr_Latn": "Severna Karelija",
+      "zh": "北卡累利阿區",
+      "sq": "Karelia Veriore",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄬𑄢𑄬𑄣𑄨𑄚",
+      "mk": "Северна Карелија"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بوهيانما الشمالية",
       "bn": "নর্দান ওস্ট্রোবোথনিয়া",
@@ -762,10 +1035,30 @@
       "tr": "Kuzey Ostrobothnia",
       "uk": "Північна Погʼянмаа",
       "ur": "شمالی اوستروبوثنیہ",
-      "vi": "Phía Bắc Ostrobothnia"
-    }
+      "vi": "Phía Bắc Ostrobothnia",
+      "lv": "Ziemeļpohjanmā",
+      "ceb": "Pohjois-Pohjanmaa",
+      "sr_Latn": "Severna Ostrobotnija",
+      "zh": "北博滕區",
+      "sq": "Ostrobothnia Veriore",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "be": "Паўночная Астработнія",
+      "mk": "Северна Остроботнија"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سافو الشمالية",
       "be": "Паўночнае Сава",
@@ -813,10 +1106,29 @@
       "tr": "Kuzey Savonya",
       "uk": "Північна Савонія",
       "ur": "شمالی ساوونیا",
-      "vi": "Phía Bắc Savonia"
-    }
+      "vi": "Phía Bắc Savonia",
+      "lv": "Ziemeļsavo",
+      "ceb": "Pohjois-Savo",
+      "sr_Latn": "Severna Savonija",
+      "zh": "北薩沃尼亞區",
+      "sq": "Savonia Veriore",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄧𑄞𑄮𑄚𑄨𑄠",
+      "mk": "Северна Савонија"
+    },
+    "comments": null
   },
   "16": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بايات هامي",
       "be": "Пяят-Хямэ",
@@ -860,10 +1172,30 @@
       "tr": "Päijänne Tavastia",
       "uk": "Пяйят-Гяме",
       "ur": "پائینے تاواستیا",
-      "vi": "Päijänne Tavastia"
-    }
+      "vi": "Päijänne Tavastia",
+      "lv": "Peijetheme",
+      "ceb": "Päijänne-Tavastland",
+      "sr_Latn": "Pejenska Tavastija",
+      "zh": "派亞特海梅區",
+      "sq": "Päijänne Tavastia",
+      "ccp": "𑄛𑄭𑄎𑄚𑄬 𑄑𑄞𑄌𑄴𑄑𑄨𑄠",
+      "ga": "Päijät-Häme",
+      "hy": "Պյայատ-Հյամե"
+    },
+    "comments": null
   },
   "17": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ستاكونتا",
       "bg": "Сатакунта",
@@ -909,10 +1241,33 @@
       "tr": "Satakunta",
       "uk": "Сатакунта",
       "ur": "ساتاکونتا",
-      "vi": "Satakunta"
-    }
+      "vi": "Satakunta",
+      "lv": "Satakunta",
+      "ceb": "Satakunta",
+      "sr_Latn": "Satakunta",
+      "zh": "薩卡昆達區",
+      "sq": "Satakunta",
+      "ccp": "𑄥𑄑𑄇𑄪𑄚𑄴𑄑",
+      "ga": "Satakunta",
+      "hy": "Սատակունա",
+      "az": "Satakunta",
+      "be": "Сатакунта",
+      "bs": "Satakunta"
+    },
+    "comments": null
   },
   "19": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "فارسينايس سوومي",
       "be": "Паўднёва-Заходняя Фінляндыя",
@@ -957,13 +1312,33 @@
       "tr": "Güneybatı Finlandiya",
       "uk": "Південно-західна Фінляндія",
       "ur": "جنوب مغربی فن لینڈ",
-      "vi": "Finland Proper"
-    }
+      "vi": "Finland Proper",
+      "lv": "Dienvidrietumsomija",
+      "ceb": "Varsinais-Suomi",
+      "sr_Latn": "Uža Finska",
+      "zh": "西南芬蘭區",
+      "sq": "Finlanda Jugperëndimore",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄜𑄨𑄚𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Åland Islands"
-    }
+      "en": "Åland Islands",
+      "ccp": "𑄃𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
+    },
+    "comments": null
   }
 }
 

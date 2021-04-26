@@ -1,9 +1,8 @@
 {
   "AC": {
+    "name": "Acklins and Crooked Islands",
+    "code": null,
     "unofficial_names": "Acklins and Crooked Islands",
-    "translations": {
-      "en": "Acklins and Crooked Islands"
-    },
     "geo": {
       "latitude": 22.6390982,
       "longitude": -74.006509,
@@ -12,12 +11,25 @@
       "max_latitude": 22.8505193,
       "max_longitude": -73.83293139999999
     },
-    "name": "Acklins and Crooked Islands"
+    "translations": {
+      "en": "Acklins and Crooked Islands"
+    },
+    "comments": null
   },
   "BI": {
+    "name": "Bimini",
+    "code": null,
     "unofficial_names": [
       "Bimini Islands"
     ],
+    "geo": {
+      "latitude": 25.7335838,
+      "longitude": -79.2730734,
+      "min_latitude": 23.5008488,
+      "min_longitude": -79.6230087,
+      "max_latitude": 25.7793547,
+      "max_longitude": -79.2407364
+    },
     "translations": {
       "en": "Bimini",
       "ar": "بيميني",
@@ -55,20 +67,29 @@
       "th": "บิมินิ",
       "tr": "Brimini",
       "ur": "بیمینی",
-      "vi": "Bimini"
+      "vi": "Bimini",
+      "lv": "Bimini",
+      "ceb": "Bimini Islands",
+      "zh": "比米尼群島",
+      "ccp": "𑄝𑄨𑄟𑄨𑄚𑄨",
+      "eu": "Bimini",
+      "uk": "Біміні",
+      "ca": "Birmini"
     },
-    "geo": {
-      "latitude": 25.7335838,
-      "longitude": -79.2730734,
-      "min_latitude": 23.5008488,
-      "min_longitude": -79.6230087,
-      "max_latitude": 25.7793547,
-      "max_longitude": -79.2407364
-    },
-    "name": "Bimini"
+    "comments": null
   },
   "CI": {
+    "name": "Cat Island",
+    "code": null,
     "unofficial_names": "Cat Island",
+    "geo": {
+      "latitude": 24.213309,
+      "longitude": -75.36453689999999,
+      "min_latitude": 24.1143709,
+      "min_longitude": -75.972464,
+      "max_latitude": 24.6962691,
+      "max_longitude": -75.29468609999999
+    },
     "translations": {
       "en": "Cat Island",
       "ar": "جزيرة كات",
@@ -107,20 +128,30 @@
       "th": "จังหวัดกาวบั่ง",
       "tr": "Cat Adası",
       "ur": "جزیرہ کیٹ، بہاماس",
-      "vi": "Đảo Cat"
+      "vi": "Đảo Cat",
+      "lv": "Kata sala",
+      "ceb": "Cat Island",
+      "sr_Latn": "Ostrvo mačaka (Bahami)",
+      "zh": "卡特島",
+      "ccp": "𑄇𑄳𑄠𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Кет-Айленд",
+      "cs": "Cat Island",
+      "mk": "Мачкин Остров"
     },
-    "geo": {
-      "latitude": 24.213309,
-      "longitude": -75.36453689999999,
-      "min_latitude": 24.1143709,
-      "min_longitude": -75.972464,
-      "max_latitude": 24.6962691,
-      "max_longitude": -75.29468609999999
-    },
-    "name": "Cat Island"
+    "comments": null
   },
   "EX": {
+    "name": "Exuma",
+    "code": null,
     "unofficial_names": "Exuma",
+    "geo": {
+      "latitude": 23.5333333,
+      "longitude": -75.83333329999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Exuma",
       "ar": "إكسوما",
@@ -157,23 +188,20 @@
       "th": "เอ็กซูมา",
       "tr": "Exuma",
       "ur": "جارج ٹاؤن، بہاماس",
-      "vi": "Exuma"
+      "vi": "Exuma",
+      "lv": "Eksuma",
+      "ceb": "Exuma District",
+      "zh": "埃克蘇馬",
+      "ccp": "𑄃𑄬𑄇𑄴𑄎𑄨𑄅𑄪𑄟",
+      "uk": "Ексума",
+      "ca": "Exuma"
     },
-    "geo": {
-      "latitude": 23.5333333,
-      "longitude": -75.83333329999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Exuma"
+    "comments": null
   },
   "FC": {
+    "name": "Fresh Creek",
+    "code": null,
     "unofficial_names": "Fresh Creek",
-    "translations": {
-      "en": "Fresh Creek"
-    },
     "geo": {
       "latitude": 24.6983639,
       "longitude": -77.7952675,
@@ -182,10 +210,23 @@
       "max_latitude": 24.7005017,
       "max_longitude": -77.7866578
     },
-    "name": "Fresh Creek"
+    "translations": {
+      "en": "Fresh Creek"
+    },
+    "comments": null
   },
   "FP": {
+    "name": "Freeport",
+    "code": null,
     "unofficial_names": "Freeport",
+    "geo": {
+      "latitude": 26.528472,
+      "longitude": -78.69658299999999,
+      "min_latitude": 26.490017,
+      "min_longitude": -78.7320184,
+      "max_latitude": 26.5800838,
+      "max_longitude": -78.55659969999999
+    },
     "translations": {
       "en": "Freeport",
       "ar": "فريبورت",
@@ -224,23 +265,21 @@
       "th": "ฟรีพอร์ท",
       "tr": "Freeport",
       "ur": "فری پورٹ، بہاماس",
-      "vi": "Freeport"
+      "vi": "Freeport",
+      "lv": "Frīporta",
+      "ceb": "Freeport (kapital sa distrito)",
+      "zh": "自由港 (巴哈馬)",
+      "ccp": "𑄜𑄳𑄢𑄨𑄛𑄮𑄢𑄴𑄑𑄴",
+      "et": "Freeport",
+      "uk": "Фріпорт",
+      "ca": "Freeport"
     },
-    "geo": {
-      "latitude": 26.528472,
-      "longitude": -78.69658299999999,
-      "min_latitude": 26.490017,
-      "min_longitude": -78.7320184,
-      "max_latitude": 26.5800838,
-      "max_longitude": -78.55659969999999
-    },
-    "name": "Freeport"
+    "comments": null
   },
   "GH": {
+    "name": "Governor's Harbour",
+    "code": null,
     "unofficial_names": "Governor's Harbour",
-    "translations": {
-      "en": "Governor's Harbour"
-    },
     "geo": {
       "latitude": 25.1962025,
       "longitude": -76.2406701,
@@ -249,13 +288,15 @@
       "max_latitude": 25.2022619,
       "max_longitude": -76.2347746
     },
-    "name": "Governor's Harbour"
+    "translations": {
+      "en": "Governor's Harbour"
+    },
+    "comments": null
   },
   "GT": {
+    "name": "Green Turtle Cay",
+    "code": null,
     "unofficial_names": "Green Turtle Cay",
-    "translations": {
-      "en": "Green Turtle Cay"
-    },
     "geo": {
       "latitude": 26.7747107,
       "longitude": -77.3295708,
@@ -264,10 +305,23 @@
       "max_latitude": 26.7985953,
       "max_longitude": -77.30890269999999
     },
-    "name": "Green Turtle Cay"
+    "translations": {
+      "en": "Green Turtle Cay"
+    },
+    "comments": null
   },
   "HI": {
+    "name": "Harbour Island",
+    "code": null,
     "unofficial_names": "Harbour Island",
+    "geo": {
+      "latitude": 25.5282318,
+      "longitude": -76.63585619999999,
+      "min_latitude": 25.5254889,
+      "min_longitude": -76.63702880000001,
+      "max_latitude": 25.5310964,
+      "max_longitude": -76.6342567
+    },
     "translations": {
       "en": "Harbour Island",
       "ar": "جزيرة هاربور",
@@ -302,23 +356,21 @@
       "th": "ฮาร์เบอร์ ไอส์แลนด์",
       "tr": "Harbour Adası",
       "ur": "حاربوور آئی لینڈ",
-      "vi": "Đảo Harbour"
+      "vi": "Đảo Harbour",
+      "lv": "Hāborailenda",
+      "ceb": "Harbour Island District",
+      "lt": "Harboro sala",
+      "zh": "哈勃岛",
+      "ccp": "𑄦𑄢𑄴𑄝𑄢𑄳𑄓𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Харбор-Айленд",
+      "ca": "Illa Harbour"
     },
-    "geo": {
-      "latitude": 25.5282318,
-      "longitude": -76.63585619999999,
-      "min_latitude": 25.5254889,
-      "min_longitude": -76.63702880000001,
-      "max_latitude": 25.5310964,
-      "max_longitude": -76.6342567
-    },
-    "name": "Harbour Island"
+    "comments": null
   },
   "HR": {
+    "name": "High Rock",
+    "code": null,
     "unofficial_names": "High Rock",
-    "translations": {
-      "en": "High Rock"
-    },
     "geo": {
       "latitude": 26.6239333,
       "longitude": -78.2832069,
@@ -327,10 +379,23 @@
       "max_latitude": 26.628432,
       "max_longitude": -78.2750559
     },
-    "name": "High Rock"
+    "translations": {
+      "en": "High Rock"
+    },
+    "comments": null
   },
   "IN": {
+    "name": "Inagua",
+    "code": null,
     "unofficial_names": "Inagua",
+    "geo": {
+      "latitude": 21.0656066,
+      "longitude": -73.323708,
+      "min_latitude": 20.9121311,
+      "min_longitude": -73.855476,
+      "max_latitude": 21.7022436,
+      "max_longitude": -72.913495
+    },
     "translations": {
       "en": "Inagua",
       "ar": "إيناغوا",
@@ -367,23 +432,21 @@
       "th": "อินากัว",
       "tr": "Inagua",
       "ur": "اناگوا",
-      "vi": "Inagua"
+      "vi": "Inagua",
+      "lv": "Inagua",
+      "ceb": "Inagua",
+      "zh": "伊納瓜",
+      "ccp": "𑄃𑄨𑄚𑄉𑄪𑄠",
+      "uk": "Інагуа",
+      "cs": "Inagua",
+      "be": "Інагуа"
     },
-    "geo": {
-      "latitude": 21.0656066,
-      "longitude": -73.323708,
-      "min_latitude": 20.9121311,
-      "min_longitude": -73.855476,
-      "max_latitude": 21.7022436,
-      "max_longitude": -72.913495
-    },
-    "name": "Inagua"
+    "comments": null
   },
   "KB": {
+    "name": "Kemps Bay",
+    "code": null,
     "unofficial_names": "Kemps Bay",
-    "translations": {
-      "en": "Kemps Bay"
-    },
     "geo": {
       "latitude": 24.0298132,
       "longitude": -76.36806960000001,
@@ -392,10 +455,23 @@
       "max_latitude": 24.0376458,
       "max_longitude": -76.3579845
     },
-    "name": "Kemps Bay"
+    "translations": {
+      "en": "Kemps Bay"
+    },
+    "comments": null
   },
   "LI": {
+    "name": "Long Island",
+    "code": null,
     "unofficial_names": "Long Island",
+    "geo": {
+      "latitude": 23.1764239,
+      "longitude": -75.0961549,
+      "min_latitude": 22.851203,
+      "min_longitude": -75.3465299,
+      "max_latitude": 23.6859532,
+      "max_longitude": -74.8284346
+    },
     "translations": {
       "en": "Long Island",
       "ar": "جزيرة لونغ",
@@ -433,20 +509,27 @@
       "th": "เกาะลอง",
       "tr": "Long Island",
       "ur": "لانگ آئلینڈ، بہاماس",
-      "vi": "Long Island"
+      "vi": "Long Island",
+      "lv": "Longailenda",
+      "zh": "長島",
+      "ccp": "𑄣𑄧𑄁 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Лонг-Айленд",
+      "cs": "Long Island"
     },
-    "geo": {
-      "latitude": 23.1764239,
-      "longitude": -75.0961549,
-      "min_latitude": 22.851203,
-      "min_longitude": -75.3465299,
-      "max_latitude": 23.6859532,
-      "max_longitude": -74.8284346
-    },
-    "name": "Long Island"
+    "comments": null
   },
   "MG": {
+    "name": "Mayaguana",
+    "code": null,
     "unofficial_names": "Mayaguana",
+    "geo": {
+      "latitude": 22.4017714,
+      "longitude": -73.06413959999999,
+      "min_latitude": 22.28255,
+      "min_longitude": -73.1706329,
+      "max_latitude": 22.456406,
+      "max_longitude": -72.712273
+    },
     "translations": {
       "en": "Mayaguana",
       "ar": "ماياغوانا",
@@ -480,23 +563,17 @@
       "th": "เขตปกครองตนเองมองโกเลียใน",
       "tr": "Mayaguana",
       "ur": "مایاجوانا",
-      "vi": "Mayaguana"
+      "vi": "Mayaguana",
+      "ceb": "Mayaguana District",
+      "zh": "馬亞瓜納島",
+      "ccp": "𑄟𑄠𑄉𑄪𑄠𑄚"
     },
-    "geo": {
-      "latitude": 22.4017714,
-      "longitude": -73.06413959999999,
-      "min_latitude": 22.28255,
-      "min_longitude": -73.1706329,
-      "max_latitude": 22.456406,
-      "max_longitude": -72.712273
-    },
-    "name": "Mayaguana"
+    "comments": null
   },
   "MH": {
+    "name": "Marsh Harbour",
+    "code": null,
     "unofficial_names": "Marsh Harbour",
-    "translations": {
-      "en": "Marsh Harbour"
-    },
     "geo": {
       "latitude": 26.5241653,
       "longitude": -77.09098089999999,
@@ -505,13 +582,15 @@
       "max_latitude": 26.5680653,
       "max_longitude": -77.0386218
     },
-    "name": "Marsh Harbour"
+    "translations": {
+      "en": "Marsh Harbour"
+    },
+    "comments": null
   },
   "NB": {
+    "name": "Nicholls Town and Berry Islands",
+    "code": null,
     "unofficial_names": "Nicholls Town and Berry Islands",
-    "translations": {
-      "en": "Nicholls Town and Berry Islands"
-    },
     "geo": {
       "latitude": 25.7236234,
       "longitude": -77.8310104,
@@ -520,13 +599,15 @@
       "max_latitude": 25.8274544,
       "max_longitude": -77.7131778
     },
-    "name": "Nicholls Town and Berry Islands"
+    "translations": {
+      "en": "Nicholls Town and Berry Islands"
+    },
+    "comments": null
   },
   "NP": {
+    "name": "New Providence",
+    "code": null,
     "unofficial_names": "New Providence",
-    "translations": {
-      "en": "New Providence"
-    },
     "geo": {
       "latitude": 25.0479835,
       "longitude": -77.355413,
@@ -535,10 +616,23 @@
       "max_latitude": 25.1255011,
       "max_longitude": -77.0867225
     },
-    "name": "New Providence"
+    "translations": {
+      "en": "New Providence"
+    },
+    "comments": null
   },
   "RI": {
+    "name": "Ragged Island",
+    "code": null,
     "unofficial_names": "Ragged Island",
+    "geo": {
+      "latitude": 22.1908067,
+      "longitude": -75.7342416,
+      "min_latitude": 22.169658,
+      "min_longitude": -75.7536111,
+      "max_latitude": 22.2313761,
+      "max_longitude": -75.7100789
+    },
     "translations": {
       "en": "Ragged Island",
       "ar": "جزيرة راجد",
@@ -572,23 +666,21 @@
       "th": "เรกเกด ไอส์แลนด์",
       "tr": "Ragged Adassı",
       "ur": "راججید آئی لینڈ",
-      "vi": "Đảo Ragged"
+      "vi": "Đảo Ragged",
+      "lv": "Ragedas sala",
+      "ceb": "Ragged Island District",
+      "lt": "Dantytoji sala",
+      "zh": "拉吉德岛",
+      "ccp": "𑄢𑄇𑄴𑄓𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Реґед Айленд",
+      "ca": "Illa Ragged"
     },
-    "geo": {
-      "latitude": 22.1908067,
-      "longitude": -75.7342416,
-      "min_latitude": 22.169658,
-      "min_longitude": -75.7536111,
-      "max_latitude": 22.2313761,
-      "max_longitude": -75.7100789
-    },
-    "name": "Ragged Island"
+    "comments": null
   },
   "RS": {
+    "name": "Rock Sound",
+    "code": null,
     "unofficial_names": "Rock Sound",
-    "translations": {
-      "en": "Rock Sound"
-    },
     "geo": {
       "latitude": 24.879051,
       "longitude": -76.1580852,
@@ -597,13 +689,15 @@
       "max_latitude": 24.8982708,
       "max_longitude": -76.1470985
     },
-    "name": "Rock Sound"
+    "translations": {
+      "en": "Rock Sound"
+    },
+    "comments": null
   },
   "SP": {
+    "name": "Sandy Point",
+    "code": null,
     "unofficial_names": "Sandy Point",
-    "translations": {
-      "en": "Sandy Point"
-    },
     "geo": {
       "latitude": 26.016667,
       "longitude": -77.39999999999999,
@@ -612,13 +706,15 @@
       "max_latitude": 26.027315,
       "max_longitude": -77.3617744
     },
-    "name": "Sandy Point"
+    "translations": {
+      "en": "Sandy Point"
+    },
+    "comments": null
   },
   "SR": {
+    "name": "San Salvador and Rum Cay",
+    "code": null,
     "unofficial_names": "San Salvador and Rum Cay",
-    "translations": {
-      "en": "San Salvador and Rum Cay"
-    },
     "geo": {
       "latitude": 23.6854676,
       "longitude": -74.8390162,
@@ -627,9 +723,23 @@
       "max_latitude": 23.8559379,
       "max_longitude": -74.79217799999999
     },
-    "name": "San Salvador and Rum Cay"
+    "translations": {
+      "en": "San Salvador and Rum Cay"
+    },
+    "comments": null
   },
   "AK": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أكلينز",
       "bn": "এক্লিংস",
@@ -667,10 +777,28 @@
       "tr": "Acklins",
       "ur": "آکلینز",
       "vi": "Acklins",
-      "zh": "阿克林岛"
-    }
+      "zh": "阿克林岛",
+      "lv": "Aklinsa",
+      "ceb": "Acklins Island District",
+      "lt": "Aklinsas",
+      "ccp": "𑄃𑄇𑄴𑄣𑄨𑄚𑄴𑄥𑄴",
+      "uk": "Аклінс",
+      "cs": "Acklins"
+    },
+    "comments": null
   },
   "BP": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلاك بوينت",
       "bn": "ব্ল্যাক পয়েন্ট",
@@ -704,10 +832,28 @@
       "th": "แบล็ค พอยท์",
       "tr": "Black Point",
       "ur": "بلیک پوائنٹ",
-      "vi": "Black Point"
-    }
+      "vi": "Black Point",
+      "lv": "Blekpointa",
+      "ceb": "Black Point District",
+      "lt": "Blek Pointas",
+      "ccp": "𑄇𑄳𑄣𑄇𑄴 𑄛𑄧𑄠𑄬𑄚𑄳𑄑𑄴",
+      "uk": "Блек-Пойнт",
+      "ca": "Black Point"
+    },
+    "comments": null
   },
   "BY": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزر بيري",
       "bn": "বেরি দ্বীপপুঞ্জ",
@@ -743,10 +889,28 @@
       "th": "เกาะเบอร์รี่",
       "tr": "Berry Adaları",
       "ur": "جزائر بیری",
-      "vi": "Quần Đảo Berry"
-    }
+      "vi": "Quần Đảo Berry",
+      "lv": "Berija salas",
+      "ceb": "Berry Islands District",
+      "zh": "貝里群島",
+      "ccp": "𑄝𑄬𑄢𑄨 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "uk": "Острови Бері",
+      "ca": "Illes Berry"
+    },
+    "comments": null
   },
   "CE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سينترال إليوثيرا",
       "bn": "সেন্ট্রাল এলিউথেরা",
@@ -780,10 +944,28 @@
       "th": "เอลูเธรากลาง",
       "tr": "Orta Eleuthera",
       "ur": "سینٹرل یلیوتحیرا",
-      "vi": "Miền Trung Eleuthera"
-    }
+      "vi": "Miền Trung Eleuthera",
+      "lv": "Centrālilūtera",
+      "ceb": "Central Eleuthera District",
+      "lt": "Centrinė Eleutera",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄨𑄣𑄬𑄅𑄪𑄗𑄬𑄢",
+      "uk": "Центральна Ельютера",
+      "ca": "Central Eleuthera"
+    },
+    "comments": null
   },
   "CK": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزيرة كروكد",
       "bn": "ক্রুকেড আইল্যান্ড",
@@ -817,10 +999,29 @@
       "th": "ครุกเคด ไอซ์แลนด์",
       "tr": "Crooked Adası",
       "ur": "جزیرہ کروکڈ، بہاماس",
-      "vi": "Đảo Crooked"
-    }
+      "vi": "Đảo Crooked",
+      "lv": "Krukedailenda",
+      "ceb": "Crooked Island",
+      "lt": "Kreivoji sala",
+      "zh": "克魯克德島 (巴哈馬)",
+      "ccp": "𑄇𑄳𑄢𑄪𑄇𑄴𑄓𑄴 𑄃𑄨𑄌𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Крукед-Айленд",
+      "ca": "Illa de Crooked"
+    },
+    "comments": null
   },
   "CO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سنترال أباكو",
       "bn": "সেন্ট্রারাাল আবাকু",
@@ -854,10 +1055,29 @@
       "th": "เซ็นทรัล อบาโค",
       "tr": "Orta Abako",
       "ur": "سینٹرل اباکو",
-      "vi": "Miền Trung Abaco"
-    }
+      "vi": "Miền Trung Abaco",
+      "lv": "Centrālā Abako",
+      "ceb": "Central Abaco District",
+      "lt": "Centrinis Abakas",
+      "zh": "中阿巴科",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄝𑄇𑄮",
+      "uk": "Центральний Абако",
+      "ca": "Central Abaco"
+    },
+    "comments": null
   },
   "CS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سنترال أندروس",
       "bn": "সেন্ট্রারাল এন্ড্রোস",
@@ -891,10 +1111,27 @@
       "th": "เซ็นทรัลแอนดรอส",
       "tr": "Central Andros",
       "ur": "سینٹرل اندروس",
-      "vi": "Miền Trung Andros"
-    }
+      "vi": "Miền Trung Andros",
+      "lv": "Centrālā Androsa",
+      "ceb": "Central Andros District",
+      "lt": "Centrinis Androsas",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄥𑄓𑄳𑄢𑄧𑄌𑄴",
+      "uk": "Центральний Андрос"
+    },
+    "comments": null
   },
   "EG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "شرق غراند بهاما",
       "bn": "ইস্ট গ্র্যান্ড বাহামা",
@@ -928,10 +1165,28 @@
       "th": "อีส แกรน บาฮาม่า",
       "tr": "East Grand Bahama",
       "ur": "ایسٹ گرینڈ ہہاما",
-      "vi": "Đông Grand Bahama"
-    }
+      "vi": "Đông Grand Bahama",
+      "lv": "Austrumu Lielā Bahama",
+      "ceb": "East Grand Bahama District",
+      "lt": "Rytų Didžioji Bahama",
+      "zh": "東大巴哈馬區",
+      "ccp": "𑄛𑄪𑄇𑄴 𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄝𑄦𑄟",
+      "uk": "Східний Великий Багама"
+    },
+    "comments": null
   },
   "GC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جراند كاي",
       "bn": "গ্রান্ড কে",
@@ -966,10 +1221,27 @@
       "tr": "Grand Cay",
       "uk": "Гранд-Кі",
       "ur": "گرینڈ کای",
-      "vi": "Grand Cay"
-    }
+      "vi": "Grand Cay",
+      "lv": "Grandkeja",
+      "ceb": "Grand Cay District",
+      "lt": "Grand Kėjus",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄇𑄳𑄠𑄬",
+      "ca": "Grand Cay"
+    },
+    "comments": null
   },
   "HT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "هوب تاون",
       "bn": "হোপ টাউন",
@@ -1002,10 +1274,28 @@
       "th": "โฮพ ทาร์ว",
       "tr": "Hope Town",
       "ur": "ہوپ ٹاؤن",
-      "vi": "Hope Town"
-    }
+      "vi": "Hope Town",
+      "lv": "Hoptauna",
+      "lt": "Houp Taunas",
+      "zh": "希望鎮",
+      "ccp": "𑄦𑄮𑄛𑄴 𑄑𑄅𑄪𑄚𑄴",
+      "uk": "Хоуп-Таун",
+      "ca": "Hope Town"
+    },
+    "comments": null
   },
   "MC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مانغروف كاي",
       "bn": "ম্যানগ্রোভ কে",
@@ -1040,10 +1330,28 @@
       "th": "แมงโกรฟ เค",
       "tr": "Mangrove Cay",
       "ur": "مانجرووی کای",
-      "vi": "Mangrove Cay"
-    }
+      "vi": "Mangrove Cay",
+      "lv": "Mangrovkeja",
+      "ceb": "Mangrove Cay (distrito)",
+      "lt": "Mangrovė Kėjus",
+      "ccp": "𑄟𑄳𑄠𑄚𑄴𑄉𑄳𑄢𑄪𑄛𑄴 𑄇𑄳𑄠𑄬",
+      "uk": "Мангров-Кі",
+      "ca": "Illa de Mangrove"
+    },
+    "comments": null
   },
   "MI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزيرة مور",
       "da": "Moore’s Island",
@@ -1074,10 +1382,29 @@
       "te": "మూర్స్ దీవి",
       "th": "เกาะมูเร่",
       "tr": "Moore’s Adası",
-      "vi": "Đảo Moore’s"
-    }
+      "vi": "Đảo Moore’s",
+      "lv": "Mūra sala",
+      "ceb": "Moore’s Island",
+      "lt": "Muro sala",
+      "bn": "মুর’স আইল্যান্ড",
+      "ccp": "𑄟𑄪𑄢𑄨𑄌𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "uk": "Острів Мура",
+      "ca": "Illa de Moore"
+    },
+    "comments": null
   },
   "NE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إليوثيرا الشمالية",
       "bn": "নর্থ এলিউথেরা",
@@ -1110,10 +1437,29 @@
       "th": "นอร์ท เอลูเธรา",
       "tr": "Kuzey Eleuthra",
       "ur": "نارتھ یلیوتحیرا",
-      "vi": "Bắc Eleuthera"
-    }
+      "vi": "Bắc Eleuthera",
+      "lv": "Ziemeļilūtera",
+      "ceb": "North Eleuthera District",
+      "lt": "Šiaurės Elutera",
+      "zh": "北伊柳塞拉",
+      "ccp": "𑄚𑄧𑄢𑄳𑄗𑄴 𑄃𑄨𑄣𑄨𑄅𑄪𑄗𑄬𑄢",
+      "uk": "Північна Ельютера",
+      "ca": "North Eleuthera"
+    },
+    "comments": null
   },
   "NO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "شمال أباكو",
       "bn": "উত্তর অ্যাবাকো",
@@ -1147,10 +1493,29 @@
       "th": "อะบาโคเหนือ",
       "tr": "Kuzey Abavo",
       "ur": "نارتھ اباکو",
-      "vi": "Bắc Abaco"
-    }
+      "vi": "Bắc Abaco",
+      "lv": "Ziemeļabako",
+      "ceb": "North Abaco District",
+      "lt": "Šiaurės Abakas",
+      "zh": "北阿巴科區",
+      "ccp": "𑄚𑄧𑄢𑄳𑄗𑄴 𑄃𑄝𑄇𑄮",
+      "uk": "Північний Абако",
+      "ca": "North Abaco"
+    },
+    "comments": null
   },
   "NS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "شمال أندروس",
       "bn": "উত্তর আন্ড্রস",
@@ -1184,10 +1549,28 @@
       "th": "อันดรอสเหนือ",
       "tr": "Kuzey Andros",
       "ur": "نارتھ اندروس",
-      "vi": "Bắc Andros"
-    }
+      "vi": "Bắc Andros",
+      "lv": "Ziemeļandrosa",
+      "ceb": "North Andros District",
+      "lt": "Šiaurės Androsas",
+      "ccp": "𑄚𑄧𑄢𑄳𑄗𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄮𑄌𑄴",
+      "uk": "Північний Андрос",
+      "ca": "North Andros"
+    },
+    "comments": null
   },
   "RC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "روم كاي",
       "bn": "রাম কে",
@@ -1221,10 +1604,29 @@
       "th": "รัม เคย์",
       "tr": "Rum Cay",
       "ur": "رم کای",
-      "vi": "Rum Cay"
-    }
+      "vi": "Rum Cay",
+      "lv": "Ramkeja",
+      "ceb": "Rum Cay",
+      "lt": "Rum Kėjus",
+      "zh": "拉姆岛",
+      "ccp": "𑄢𑄟𑄴 𑄇𑄳𑄠𑄬",
+      "uk": "Рам-Кі",
+      "ca": "Illa de Rum"
+    },
+    "comments": null
   },
   "SA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جنوب أندروس",
       "bn": "দক্ষিন আন্ড্রস",
@@ -1258,10 +1660,29 @@
       "th": "เซาต์ แอนดรอส",
       "tr": "Güney Andros",
       "ur": "ساؤتھ اندروس",
-      "vi": "Nam Andros"
-    }
+      "vi": "Nam Andros",
+      "lv": "Dienvidandrosa",
+      "ceb": "South Andros",
+      "lt": "Pietų Androsas",
+      "zh": "南安德羅斯",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄮𑄌𑄴",
+      "uk": "Південний Андрос",
+      "ca": "South Andros"
+    },
+    "comments": null
   },
   "SE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جنوب إليوثيرا",
       "bn": "সাউথ এলিয়টেরা",
@@ -1295,10 +1716,29 @@
       "th": "อิลิวเทราใต้",
       "tr": "South Eleuthera",
       "ur": "ساؤتھ یلیوتحیرا",
-      "vi": "Nam Eleuthera"
-    }
+      "vi": "Nam Eleuthera",
+      "lv": "Dienvidilūtera",
+      "ceb": "South Eleuthera",
+      "lt": "Pietų Elutera",
+      "zh": "南伊柳塞拉",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄃𑄨𑄣𑄨𑄅𑄪𑄗𑄬𑄢",
+      "uk": "Південна Ельютера",
+      "ca": "South Eleuthera"
+    },
+    "comments": null
   },
   "SO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جنوب أباكو",
       "bn": "দক্ষিন অ্যাবাকো",
@@ -1333,10 +1773,28 @@
       "th": "เขตอาบาโค",
       "tr": "Güney Abaco",
       "ur": "ساؤتھ اباکو",
-      "vi": "Nam Abaco"
-    }
+      "vi": "Nam Abaco",
+      "lv": "Dienvidabako",
+      "ceb": "South Abaco District",
+      "zh": "南阿巴科區",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄃𑄝𑄇𑄮",
+      "uk": "Південний Абако",
+      "ca": "Sout Abaco"
+    },
+    "comments": null
   },
   "SS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "جزيرة سان سلفادور",
       "be": "Востраў Сан-Сальвадор",
@@ -1378,10 +1836,26 @@
       "tr": "San Salvador Adaları",
       "uk": "Сан-Сальвадор",
       "ur": "جزیرہ سان سلواڈور",
-      "vi": "Đảo San Salvador"
-    }
+      "vi": "Đảo San Salvador",
+      "lv": "Sansalvadoras sala",
+      "ceb": "San Salvador Island",
+      "zh": "圣萨尔瓦多岛",
+      "ccp": "𑄥𑄚𑄴 𑄥𑄳𑄠𑄣𑄴𑄞𑄓𑄧𑄢𑄴"
+    },
+    "comments": null
   },
   "SW": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سبانش، ويلز",
       "bn": "স্প্যানিশ ওয়েলস",
@@ -1415,10 +1889,28 @@
       "th": "สแปนิช เวลส์",
       "tr": "Spanish Wells",
       "ur": "سپینش ویلز",
-      "vi": "Spanish Wells"
-    }
+      "vi": "Spanish Wells",
+      "lv": "Spenišvelsa",
+      "ceb": "Spanish Wells District",
+      "lt": "Ispanų Velsas",
+      "ccp": "𑄌𑄳𑄛𑄚𑄨𑄌𑄴 𑄃𑄧𑄠𑄬𑄣𑄴𑄥𑄴",
+      "uk": "Спеніш-Уеллс",
+      "ca": "Spanish Wells"
+    },
+    "comments": null
   },
   "WG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "ويست غراند بهاما",
       "bn": "পশ্চিম গ্রান্ড বাহামা",
@@ -1451,8 +1943,16 @@
       "th": "เวสต์แกรนด์บาฮามา",
       "tr": "West Grand Bahama",
       "ur": "ویسٹ گرینڈ ہہاما",
-      "vi": "Tây Grand Bahama"
-    }
+      "vi": "Tây Grand Bahama",
+      "lv": "Rietumu Lielā Bahama",
+      "ceb": "West Grand Bahama District",
+      "lt": "Vakarų Didžioji Bahama",
+      "zh": "西大巴哈馬島區",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄝𑄦𑄟",
+      "uk": "Вест-Гранд-Багама",
+      "ca": "West Grand Bahama"
+    },
+    "comments": null
   }
 }
 

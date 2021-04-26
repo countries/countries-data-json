@@ -1,11 +1,21 @@
 {
   "A": {
+    "name": "Alicante/Alacant",
+    "code": null,
     "unofficial_names": [
       "Alicante/Alacant",
       "Alacant/Alicante",
       "Alicante",
       "Alacant"
     ],
+    "geo": {
+      "latitude": 38.3459963,
+      "longitude": -0.4906855,
+      "min_latitude": 38.32474879999999,
+      "min_longitude": -0.5416291999999999,
+      "max_latitude": 38.3909328,
+      "max_longitude": -0.4034191
+    },
     "translations": {
       "en": "Alicante",
       "ar": "أليكانتي",
@@ -55,22 +65,36 @@
       "uk": "Аліканте",
       "ur": "صوبہ الیکانتے",
       "vi": "Alicante",
-      "zh": "阿利坎特省"
+      "zh": "阿利坎特省",
+      "ceb": "Provincia de Alicante",
+      "sr_Latn": "Pokrajina Alikante",
+      "yue_Hans": "阿利坎特省",
+      "sq": "Provinca Alicante",
+      "ccp": "𑄃𑄣𑄨𑄇𑄳𑄠𑄚𑄴𑄑𑄬",
+      "sr": "Покрајина Аликанте",
+      "hy": "Ալիկանտե",
+      "kk": "Аликанте",
+      "yue": "阿利坎特省",
+      "az": "Alikante vilayəti",
+      "uz": "Alicante",
+      "mk": "Аликанте"
     },
-    "geo": {
-      "latitude": 38.3459963,
-      "longitude": -0.4906855,
-      "min_latitude": 38.32474879999999,
-      "min_longitude": -0.5416291999999999,
-      "max_latitude": 38.3909328,
-      "max_longitude": -0.4034191
-    },
-    "name": "Alicante/Alacant"
+    "comments": null
   },
   "AB": {
+    "name": "Albacete",
+    "code": null,
     "unofficial_names": [
       "Albacete"
     ],
+    "geo": {
+      "latitude": 38.994349,
+      "longitude": -1.8585424,
+      "min_latitude": 38.9714828,
+      "min_longitude": -1.8862798,
+      "max_latitude": 39.0129156,
+      "max_longitude": -1.834899
+    },
     "translations": {
       "en": "Albacete",
       "ar": "البسيط",
@@ -120,22 +144,32 @@
       "uk": "Альбасете",
       "ur": "صوبہ الباسیتے",
       "vi": "Albacete",
-      "zh": "阿爾瓦塞特省"
+      "zh": "阿爾瓦塞特省",
+      "ceb": "Provincia de Albacete",
+      "sr_Latn": "Pokrajina Albasete",
+      "sq": "Provinca Albacete",
+      "ccp": "𑄃𑄣𑄴𑄝𑄥𑄬𑄖𑄴",
+      "sr": "Покрајина Албасете",
+      "kk": "Альбасете",
+      "az": "Albasete vilayəti",
+      "uz": "Albacete"
     },
-    "geo": {
-      "latitude": 38.994349,
-      "longitude": -1.8585424,
-      "min_latitude": 38.9714828,
-      "min_longitude": -1.8862798,
-      "max_latitude": 39.0129156,
-      "max_longitude": -1.834899
-    },
-    "name": "Albacete"
+    "comments": null
   },
   "AL": {
+    "name": "Almería",
+    "code": null,
     "unofficial_names": [
       "Almería"
     ],
+    "geo": {
+      "latitude": 36.834047,
+      "longitude": -2.4637136,
+      "min_latitude": 36.817203,
+      "min_longitude": -2.4855446,
+      "max_latitude": 36.8658532,
+      "max_longitude": -2.4286886
+    },
     "translations": {
       "en": "Almería",
       "ar": "المرية",
@@ -187,22 +221,34 @@
       "uk": "Альмерія",
       "ur": "صوبہ المریہ",
       "vi": "Almería",
-      "zh": "阿爾梅里亞省"
+      "zh": "阿爾梅里亞省",
+      "ceb": "Provincia de Almería",
+      "sr_Latn": "Provincija Almerija",
+      "yue_Hans": "阿尔梅里亚省",
+      "sq": "Provinca Almería",
+      "ccp": "𑄃𑄣𑄴𑄟𑄬𑄢𑄨𑄠",
+      "kk": "Альмерия",
+      "yue": "阿爾梅里亞省",
+      "az": "Almeriya vilayəti",
+      "uz": "Almería",
+      "mk": "Алмерија"
     },
-    "geo": {
-      "latitude": 36.834047,
-      "longitude": -2.4637136,
-      "min_latitude": 36.817203,
-      "min_longitude": -2.4855446,
-      "max_latitude": 36.8658532,
-      "max_longitude": -2.4286886
-    },
-    "name": "Almería"
+    "comments": null
   },
   "AV": {
+    "name": "Ávila",
+    "code": null,
     "unofficial_names": [
       "Ávila"
     ],
+    "geo": {
+      "latitude": 40.656685,
+      "longitude": -4.6812086,
+      "min_latitude": 40.6378229,
+      "min_longitude": -4.707720000000001,
+      "max_latitude": 40.6759493,
+      "max_longitude": -4.6566674
+    },
     "translations": {
       "en": "Ávila",
       "ar": "آبلة",
@@ -251,23 +297,34 @@
       "uk": "Авіла",
       "ur": "صوبہ آبیلا",
       "vi": "Ávila",
-      "zh": "阿维拉省"
+      "zh": "阿维拉省",
+      "ceb": "Provincia de Ávila",
+      "sr_Latn": "Pokrajina Avila",
+      "sq": "Provinca Ávila",
+      "ccp": "𑄃𑄞𑄨𑄣",
+      "sr": "Покрајина Авила",
+      "kk": "Авила",
+      "az": "Avila vilayəti",
+      "uz": "Ávila",
+      "mk": "Авила"
     },
-    "geo": {
-      "latitude": 40.656685,
-      "longitude": -4.6812086,
-      "min_latitude": 40.6378229,
-      "min_longitude": -4.707720000000001,
-      "max_latitude": 40.6759493,
-      "max_longitude": -4.6566674
-    },
-    "name": "Ávila"
+    "comments": null
   },
   "B": {
+    "name": "Barcelona",
+    "code": null,
     "unofficial_names": [
       "Barcelona",
       "Barna"
     ],
+    "geo": {
+      "latitude": 41.3850639,
+      "longitude": 2.1734035,
+      "min_latitude": 41.320004,
+      "min_longitude": 2.0695258,
+      "max_latitude": 41.4695761,
+      "max_longitude": 2.2280099
+    },
     "translations": {
       "en": "Barcelona",
       "ar": "برشلونة",
@@ -316,22 +373,35 @@
       "uk": "провінція Барселона",
       "ur": "صوبہ برشلونہ",
       "vi": "Barcelona",
-      "zh": "巴塞罗那省"
+      "zh": "巴塞罗那省",
+      "cy": "Talaith Barcelona",
+      "ceb": "Província de Barcelona",
+      "sr_Latn": "Provincija Barselona",
+      "yue_Hans": "巴萨隆拿省",
+      "sq": "Provinca Barcelona",
+      "ccp": "𑄝𑄢𑄴𑄥𑄬𑄣𑄮𑄚",
+      "he": "מחוז ברצלונה",
+      "kk": "Барселона",
+      "yue": "巴薩隆拿省",
+      "az": "Barselona vilayəti",
+      "uz": "Barselona"
     },
-    "geo": {
-      "latitude": 41.3850639,
-      "longitude": 2.1734035,
-      "min_latitude": 41.320004,
-      "min_longitude": 2.0695258,
-      "max_latitude": 41.4695761,
-      "max_longitude": 2.2280099
-    },
-    "name": "Barcelona"
+    "comments": null
   },
   "BA": {
+    "name": "Badajoz",
+    "code": null,
     "unofficial_names": [
       "Badajoz"
     ],
+    "geo": {
+      "latitude": 38.8794495,
+      "longitude": -6.9706535,
+      "min_latitude": 38.8517673,
+      "min_longitude": -7.0346625,
+      "max_latitude": 38.9069928,
+      "max_longitude": -6.9406957
+    },
     "translations": {
       "en": "Badajoz",
       "ar": "بطليوس",
@@ -381,23 +451,37 @@
       "uk": "Бадахос",
       "ur": "صوبہ بطليوس",
       "vi": "Badajoz",
-      "zh": "巴达霍斯省"
+      "zh": "巴达霍斯省",
+      "ceb": "Provincia de Badajoz",
+      "sr_Latn": "Pokrajina Badahoz",
+      "yue_Hans": "巴达何斯省",
+      "sq": "Provinca Badajoz",
+      "ccp": "𑄝𑄖𑄴𑄎𑄮𑄌𑄴",
+      "sr": "Покрајина Бадахоз",
+      "ga": "Badajoz",
+      "kk": "Бадахос",
+      "yue": "巴達何斯省",
+      "az": "Badaxos vilayəti",
+      "uz": "Badajoz",
+      "mk": "Бадахоз"
     },
-    "geo": {
-      "latitude": 38.8794495,
-      "longitude": -6.9706535,
-      "min_latitude": 38.8517673,
-      "min_longitude": -7.0346625,
-      "max_latitude": 38.9069928,
-      "max_longitude": -6.9406957
-    },
-    "name": "Badajoz"
+    "comments": null
   },
   "BI": {
+    "name": "Bizkaia",
+    "code": null,
     "unofficial_names": [
       "Bizkaia",
       "Vizcaya"
     ],
+    "geo": {
+      "latitude": 43.2204286,
+      "longitude": -2.6983868,
+      "min_latitude": 42.9818773,
+      "min_longitude": -3.4492758,
+      "max_latitude": 43.4572451,
+      "max_longitude": -2.4127155
+    },
     "translations": {
       "en": "Biscay",
       "af": "Biskaje",
@@ -446,22 +530,36 @@
       "uk": "Біскайя",
       "ur": "بیسکای",
       "vi": "Biscay",
-      "zh": "比斯開省"
+      "zh": "比斯開省",
+      "cy": "Biskaia",
+      "ceb": "Bizkaia",
+      "sr_Latn": "Pokrajina Biskaja",
+      "sq": "Provinca Biscay",
+      "ccp": "𑄝𑄨𑄌𑄴𑄇𑄬",
+      "sr": "Покрајина Бискаја",
+      "ky": "Бискай",
+      "he": "ביסקאיה",
+      "kk": "Бискайя",
+      "az": "Biskaya vilayəti",
+      "be": "правінцыя Біская",
+      "uz": "Vizcaya"
     },
-    "geo": {
-      "latitude": 43.2204286,
-      "longitude": -2.6983868,
-      "min_latitude": 42.9818773,
-      "min_longitude": -3.4492758,
-      "max_latitude": 43.4572451,
-      "max_longitude": -2.4127155
-    },
-    "name": "Bizkaia"
+    "comments": null
   },
   "BU": {
+    "name": "Burgos",
+    "code": null,
     "unofficial_names": [
       "Burgos"
     ],
+    "geo": {
+      "latitude": 42.3439925,
+      "longitude": -3.696906,
+      "min_latitude": 42.31611789999999,
+      "min_longitude": -3.7526357,
+      "max_latitude": 42.3721341,
+      "max_longitude": -3.6367504
+    },
     "translations": {
       "en": "Burgos",
       "ar": "برغش",
@@ -510,19 +608,21 @@
       "uk": "Бургос",
       "ur": "صوبہ بورگوس",
       "vi": "Burgos",
-      "zh": "布尔戈斯省"
+      "zh": "布尔戈斯省",
+      "ceb": "Provincia de Burgos",
+      "sr_Latn": "Pokrajina Burgos",
+      "sq": "Provinca Burgos",
+      "ccp": "𑄝𑄢𑄴𑄉𑄮𑄌𑄴",
+      "sr": "Покрајина Бургос",
+      "kk": "Бургос",
+      "az": "Burqos vilayəti",
+      "uz": "Burgos"
     },
-    "geo": {
-      "latitude": 42.3439925,
-      "longitude": -3.696906,
-      "min_latitude": 42.31611789999999,
-      "min_longitude": -3.7526357,
-      "max_latitude": 42.3721341,
-      "max_longitude": -3.6367504
-    },
-    "name": "Burgos"
+    "comments": null
   },
   "C": {
+    "name": "Coruña, A",
+    "code": null,
     "unofficial_names": [
       "Coruña, A",
       "A Coruña",
@@ -530,6 +630,14 @@
       "La Coruña",
       "Coruña"
     ],
+    "geo": {
+      "latitude": 43.3623436,
+      "longitude": -8.4115401,
+      "min_latitude": 43.337341,
+      "min_longitude": -8.4382592,
+      "max_latitude": 43.38640729999999,
+      "max_longitude": -8.3871082
+    },
     "translations": {
       "en": "A Coruña",
       "ar": "لا كورونيا",
@@ -579,22 +687,34 @@
       "uk": "А-Корунья",
       "ur": "صوبہ لا کورونا",
       "vi": "A Coruña",
-      "zh": "拉科鲁尼亚省"
+      "zh": "拉科鲁尼亚省",
+      "ceb": "Provincia da Coruña",
+      "sr_Latn": "Pokrajina Korunja",
+      "sq": "Provinca A Coruña",
+      "ccp": "𑄃𑄬 𑄇𑄧𑄢𑄪𑄚",
+      "sr": "Покрајина Коруња",
+      "ga": "A Coruña",
+      "hy": "Լա Կորունյա նահանգ",
+      "kk": "Ла-Корунья",
+      "az": "La-Korunya vilayəti",
+      "uz": "A Coruña"
     },
-    "geo": {
-      "latitude": 43.3623436,
-      "longitude": -8.4115401,
-      "min_latitude": 43.337341,
-      "min_longitude": -8.4382592,
-      "max_latitude": 43.38640729999999,
-      "max_longitude": -8.3871082
-    },
-    "name": "Coruña, A"
+    "comments": null
   },
   "CA": {
+    "name": "Cádiz",
+    "code": null,
     "unofficial_names": [
       "Cádiz"
     ],
+    "geo": {
+      "latitude": 36.5270612,
+      "longitude": -6.2885962,
+      "min_latitude": 36.4895662,
+      "min_longitude": -6.309558,
+      "max_latitude": 36.5431863,
+      "max_longitude": -6.255334599999999
+    },
     "translations": {
       "en": "Cádiz",
       "ar": "قادس",
@@ -643,22 +763,36 @@
       "uk": "Кадіс",
       "ur": "صوبہ کادیز",
       "vi": "Cádiz",
-      "zh": "加的斯省"
+      "zh": "加的斯省",
+      "ceb": "Provincia de Cádiz",
+      "sr_Latn": "Provincija Kadiz",
+      "bn": "কাদিস প্রদেশ",
+      "yue_Hans": "加的斯省",
+      "sq": "Provinca Cadiz",
+      "ccp": "𑄇𑄓𑄨𑄌𑄴",
+      "hy": "Կադիս",
+      "kk": "Кадис",
+      "yue": "加的斯省",
+      "az": "Kadis vilayəti",
+      "uz": "Cádiz",
+      "mk": "Кадиз"
     },
-    "geo": {
-      "latitude": 36.5270612,
-      "longitude": -6.2885962,
-      "min_latitude": 36.4895662,
-      "min_longitude": -6.309558,
-      "max_latitude": 36.5431863,
-      "max_longitude": -6.255334599999999
-    },
-    "name": "Cádiz"
+    "comments": null
   },
   "CC": {
+    "name": "Cáceres",
+    "code": null,
     "unofficial_names": [
       "Cáceres"
     ],
+    "geo": {
+      "latitude": 39.4752765,
+      "longitude": -6.3724247,
+      "min_latitude": 39.4431692,
+      "min_longitude": -6.4270489,
+      "max_latitude": 39.500104,
+      "max_longitude": -6.3543895
+    },
     "translations": {
       "en": "Cáceres",
       "ar": "قصرش",
@@ -706,23 +840,36 @@
       "uk": "Касерес",
       "ur": "صوبہ کاسیریس",
       "vi": "Cáceres",
-      "zh": "卡塞雷斯省"
+      "zh": "卡塞雷斯省",
+      "ceb": "Provincia de Cáceres",
+      "sr_Latn": "Pokrajina Kaseres",
+      "yue_Hans": "卡舍利斯省",
+      "sq": "Provinca Cáceres",
+      "ccp": "𑄇𑄬𑄥𑄬𑄢𑄬𑄌𑄴",
+      "sr": "Покрајина Касерес",
+      "ga": "Cáceres",
+      "kk": "Касерес",
+      "yue": "卡舍利斯省",
+      "az": "Kaseres vilayəti",
+      "uz": "Cáceres"
     },
-    "geo": {
-      "latitude": 39.4752765,
-      "longitude": -6.3724247,
-      "min_latitude": 39.4431692,
-      "min_longitude": -6.4270489,
-      "max_latitude": 39.500104,
-      "max_longitude": -6.3543895
-    },
-    "name": "Cáceres"
+    "comments": null
   },
   "CE": {
+    "name": "Ceuta",
+    "code": null,
     "unofficial_names": [
       "Ceuta",
       "Sebta"
     ],
+    "geo": {
+      "latitude": 35.8893874,
+      "longitude": -5.3213455,
+      "min_latitude": 35.8710601,
+      "min_longitude": -5.3587124,
+      "max_latitude": 35.9068648,
+      "max_longitude": -5.27836
+    },
     "translations": {
       "en": "Ceuta",
       "af": "Ceuta",
@@ -780,22 +927,39 @@
       "ur": "سبتہ",
       "vi": "Ceuta",
       "zh": "休达",
-      "zu": "Ceuta"
+      "zu": "Ceuta",
+      "cy": "Ceuta",
+      "ceb": "Ceuta",
+      "sr_Latn": "Seuta",
+      "yue_Hans": "休达",
+      "jv": "Ceuta",
+      "sq": "Ceuta",
+      "ccp": "𑄥𑄬𑄅𑄪𑄑",
+      "ga": "Ceuta",
+      "kk": "Сеута",
+      "yue": "休達",
+      "az": "Seuta",
+      "am": "ሴውታ",
+      "yo": "Ceuta",
+      "bs": "Ceuta",
+      "mk": "Сеута"
     },
-    "geo": {
-      "latitude": 35.8893874,
-      "longitude": -5.3213455,
-      "min_latitude": 35.8710601,
-      "min_longitude": -5.3587124,
-      "max_latitude": 35.9068648,
-      "max_longitude": -5.27836
-    },
-    "name": "Ceuta"
+    "comments": null
   },
   "CO": {
+    "name": "Córdoba",
+    "code": null,
     "unofficial_names": [
       "Córdoba"
     ],
+    "geo": {
+      "latitude": 37.8881751,
+      "longitude": -4.7793835,
+      "min_latitude": 37.8558932,
+      "min_longitude": -4.8227937,
+      "max_latitude": 37.9272788,
+      "max_longitude": -4.7461769
+    },
     "translations": {
       "en": "Córdoba",
       "ar": "مقاطعة قرطبة",
@@ -844,22 +1008,33 @@
       "uk": "Кордова",
       "ur": "صوبہ قرطبہ",
       "vi": "Córdoba",
-      "zh": "科爾多瓦省"
+      "zh": "科爾多瓦省",
+      "ceb": "Province of Córdoba",
+      "sr_Latn": "Pokrajina Kordoba",
+      "sq": "Provinca Cordoba",
+      "ccp": "𑄇𑄮𑄢𑄴𑄓𑄮𑄝",
+      "sr": "Покрајина Кордоба",
+      "ga": "Córdoba",
+      "kk": "Кордова",
+      "uz": "Córdoba",
+      "mk": "Кордоба"
     },
-    "geo": {
-      "latitude": 37.8881751,
-      "longitude": -4.7793835,
-      "min_latitude": 37.8558932,
-      "min_longitude": -4.8227937,
-      "max_latitude": 37.9272788,
-      "max_longitude": -4.7461769
-    },
-    "name": "Córdoba"
+    "comments": null
   },
   "CR": {
+    "name": "Ciudad Real",
+    "code": null,
     "unofficial_names": [
       "Ciudad Real"
     ],
+    "geo": {
+      "latitude": 38.9848295,
+      "longitude": -3.927377799999999,
+      "min_latitude": 38.9658707,
+      "min_longitude": -3.9533808,
+      "max_latitude": 39.0062168,
+      "max_longitude": -3.9005951
+    },
     "translations": {
       "en": "Ciudad Real",
       "ar": "ثيوداد ريال",
@@ -907,25 +1082,34 @@
       "uk": "Сьюдад-Реаль",
       "ur": "صوبہ سیوداد ریال",
       "vi": "Ciudad Real",
-      "zh": "雷阿爾城省"
+      "zh": "雷阿爾城省",
+      "ceb": "Provincia de Ciudad Real",
+      "sr_Latn": "Pokrajina Sijudad Real",
+      "sq": "Provinca Ciudad Real",
+      "ccp": "𑄥𑄭𑄅𑄪𑄘𑄖𑄴 𑄢𑄨𑄠𑄬𑄣𑄴",
+      "sr": "Покрајина Сијудад Реал",
+      "kk": "Сьюдад-Реаль",
+      "uz": "Ciudad Real"
     },
-    "geo": {
-      "latitude": 38.9848295,
-      "longitude": -3.927377799999999,
-      "min_latitude": 38.9658707,
-      "min_longitude": -3.9533808,
-      "max_latitude": 39.0062168,
-      "max_longitude": -3.9005951
-    },
-    "name": "Ciudad Real"
+    "comments": null
   },
   "CS": {
+    "name": "Castellón/Castelló",
+    "code": null,
     "unofficial_names": [
       "Castellón/Castelló",
       "Castelló/Castellón",
       "Castellón",
       "Castelló"
     ],
+    "geo": {
+      "latitude": 39.9863563,
+      "longitude": -0.0513246,
+      "min_latitude": 39.970746,
+      "min_longitude": -0.0797563,
+      "max_latitude": 40.0041729,
+      "max_longitude": -0.0163697
+    },
     "translations": {
       "en": "Castellón",
       "ar": "كاستيون",
@@ -974,22 +1158,32 @@
       "uk": "Кастельйон",
       "ur": "صوبہ کاستیلون",
       "vi": "Castellón",
-      "zh": "卡斯特利翁省"
+      "zh": "卡斯特利翁省",
+      "ceb": "Província de Castelló",
+      "sr_Latn": "Pokrajina Kasteljon",
+      "sq": "Provinca Castellón",
+      "ccp": "𑄇𑄌𑄴𑄑𑄬𑄣𑄧𑄚𑄴",
+      "sr": "Покрајина Кастељон",
+      "kk": "Кастельон",
+      "uz": "Castellón",
+      "mk": "Кастелјон"
     },
-    "geo": {
-      "latitude": 39.9863563,
-      "longitude": -0.0513246,
-      "min_latitude": 39.970746,
-      "min_longitude": -0.0797563,
-      "max_latitude": 40.0041729,
-      "max_longitude": -0.0163697
-    },
-    "name": "Castellón/Castelló"
+    "comments": null
   },
   "CU": {
+    "name": "Cuenca",
+    "code": null,
     "unofficial_names": [
       "Cuenca"
     ],
+    "geo": {
+      "latitude": 40.0703925,
+      "longitude": -2.1374162,
+      "min_latitude": 40.0401312,
+      "min_longitude": -2.1802044,
+      "max_latitude": 40.083813,
+      "max_longitude": -2.1158454
+    },
     "translations": {
       "en": "Cuenca",
       "ar": "قونكة",
@@ -1038,24 +1232,35 @@
       "uk": "Куенка",
       "ur": "صوبہ کوینکا",
       "vi": "Cuenca",
-      "zh": "昆卡省"
+      "zh": "昆卡省",
+      "ceb": "Provincia de Cuenca",
+      "sr_Latn": "Pokrajina Kuenka",
+      "sq": "Provinca Cuenca",
+      "ccp": "𑄇𑄪𑄠𑄬𑄚𑄴𑄇",
+      "sr": "Покрајина Куенка",
+      "ga": "Cuenca",
+      "kk": "Куэнка",
+      "az": "Kuenqa vilayəti",
+      "uz": "Cuenca"
     },
-    "geo": {
-      "latitude": 40.0703925,
-      "longitude": -2.1374162,
-      "min_latitude": 40.0401312,
-      "min_longitude": -2.1802044,
-      "max_latitude": 40.083813,
-      "max_longitude": -2.1158454
-    },
-    "name": "Cuenca"
+    "comments": null
   },
   "GC": {
+    "name": "Palmas, Las",
+    "code": null,
     "unofficial_names": [
       "Palmas, Las",
       "Las Palmas",
       "Las Palmas de Gran Canaria"
     ],
+    "geo": {
+      "latitude": 28.1235459,
+      "longitude": -15.4362574,
+      "min_latitude": 28.0783812,
+      "min_longitude": -15.467486,
+      "max_latitude": 28.1563403,
+      "max_longitude": -15.4117481
+    },
     "translations": {
       "en": "Las Palmas",
       "ar": "لاس بالماس",
@@ -1103,23 +1308,33 @@
       "uk": "Лас-Пальмас",
       "ur": "صوبہ لاس پاماس",
       "vi": "Las Palmas",
-      "zh": "拉斯帕爾馬斯省"
+      "zh": "拉斯帕爾馬斯省",
+      "ceb": "Provincia de Las Palmas",
+      "sr_Latn": "Pokrajina Las Palmas",
+      "sq": "Provinca Las Palmas",
+      "ccp": "𑄣𑄌𑄴 𑄛𑄧𑄣𑄴𑄟𑄌𑄴",
+      "sr": "Покрајина Лас Палмас",
+      "hy": "Լաս Պալմաս",
+      "kk": "Лас-Пальмас",
+      "uz": "Las Palmas"
     },
-    "geo": {
-      "latitude": 28.1235459,
-      "longitude": -15.4362574,
-      "min_latitude": 28.0783812,
-      "min_longitude": -15.467486,
-      "max_latitude": 28.1563403,
-      "max_longitude": -15.4117481
-    },
-    "name": "Palmas, Las"
+    "comments": null
   },
   "GI": {
+    "name": "Girona",
+    "code": null,
     "unofficial_names": [
       "Girona",
       "Gerona"
     ],
+    "geo": {
+      "latitude": 41.9794005,
+      "longitude": 2.8214264,
+      "min_latitude": 41.9462966,
+      "min_longitude": 2.7983782,
+      "max_latitude": 42.0142089,
+      "max_longitude": 2.8389562
+    },
     "translations": {
       "en": "Girona",
       "ar": "جرندة",
@@ -1170,22 +1385,35 @@
       "uk": "Жирона",
       "ur": "صوبہ جیرونا",
       "vi": "Girona",
-      "zh": "赫羅納省"
+      "zh": "赫羅納省",
+      "cy": "Talaith Girona",
+      "ceb": "Província de Girona",
+      "sr_Latn": "Provincija Đirona",
+      "yue_Hans": "赫罗纳省",
+      "sq": "Provinca Girona",
+      "ccp": "𑄉𑄨𑄢𑄮𑄚",
+      "kk": "Херона",
+      "yue": "赫羅納省",
+      "az": "Jirona vilayəti",
+      "uz": "Girona",
+      "mk": "Жирона"
     },
-    "geo": {
-      "latitude": 41.9794005,
-      "longitude": 2.8214264,
-      "min_latitude": 41.9462966,
-      "min_longitude": 2.7983782,
-      "max_latitude": 42.0142089,
-      "max_longitude": 2.8389562
-    },
-    "name": "Girona"
+    "comments": null
   },
   "GR": {
+    "name": "Granada",
+    "code": null,
     "unofficial_names": [
       "Granada"
     ],
+    "geo": {
+      "latitude": 37.1773363,
+      "longitude": -3.5985571,
+      "min_latitude": 37.1494277,
+      "min_longitude": -3.6338351,
+      "max_latitude": 37.2124648,
+      "max_longitude": -3.5505714
+    },
     "translations": {
       "en": "Granada",
       "ar": "غرناطة",
@@ -1235,22 +1463,33 @@
       "uk": "Гранада",
       "ur": "صوبہ غرناطہ",
       "vi": "Granada",
-      "zh": "格拉納達省"
+      "zh": "格拉納達省",
+      "ceb": "Provincia de Granada",
+      "sr_Latn": "Provincija Granada",
+      "yue_Hans": "格兰纳达省",
+      "sq": "Provinca Granada",
+      "ccp": "𑄉𑄳𑄢𑄚𑄓",
+      "ga": "Granada",
+      "kk": "Гранада",
+      "yue": "格蘭納達省",
+      "uz": "Granada"
     },
-    "geo": {
-      "latitude": 37.1773363,
-      "longitude": -3.5985571,
-      "min_latitude": 37.1494277,
-      "min_longitude": -3.6338351,
-      "max_latitude": 37.2124648,
-      "max_longitude": -3.5505714
-    },
-    "name": "Granada"
+    "comments": null
   },
   "GU": {
+    "name": "Guadalajara",
+    "code": null,
     "unofficial_names": [
       "Guadalajara"
     ],
+    "geo": {
+      "latitude": 40.632489,
+      "longitude": -3.16017,
+      "min_latitude": 40.6184806,
+      "min_longitude": -3.2034081,
+      "max_latitude": 40.6458997,
+      "max_longitude": -3.1429369
+    },
     "translations": {
       "en": "Guadalajara",
       "ar": "غوادالاخارا",
@@ -1298,22 +1537,33 @@
       "uk": "Гвадалахара",
       "ur": "صوبہ گوادالاخارا",
       "vi": "Guadalajara",
-      "zh": "瓜達拉哈拉省"
+      "zh": "瓜達拉哈拉省",
+      "ceb": "Provincia de Guadalajara",
+      "sr_Latn": "Pokrajina Gvadalahara",
+      "sq": "Provinca Guadalajara",
+      "ccp": "𑄉𑄪𑄠𑄓𑄣𑄴𑄎𑄢",
+      "sr": "Покрајина Гвадалахара",
+      "kk": "Гвадалахара",
+      "be": "правінцыя Гвадалахара",
+      "uz": "Guadalajara",
+      "mk": "Гвадалахара"
     },
-    "geo": {
-      "latitude": 40.632489,
-      "longitude": -3.16017,
-      "min_latitude": 40.6184806,
-      "min_longitude": -3.2034081,
-      "max_latitude": 40.6458997,
-      "max_longitude": -3.1429369
-    },
-    "name": "Guadalajara"
+    "comments": null
   },
   "H": {
+    "name": "Huelva",
+    "code": null,
     "unofficial_names": [
       "Huelva"
     ],
+    "geo": {
+      "latitude": 37.261421,
+      "longitude": -6.9447224,
+      "min_latitude": 37.2504151,
+      "min_longitude": -6.962591799999999,
+      "max_latitude": 37.2913207,
+      "max_longitude": -6.916788899999999
+    },
     "translations": {
       "en": "Huelva",
       "ar": "ولبة",
@@ -1361,22 +1611,32 @@
       "uk": "Уельва",
       "ur": "صوبہ ویلبا",
       "vi": "Huelva",
-      "zh": "韋爾瓦省"
+      "zh": "韋爾瓦省",
+      "ceb": "Provincia de Huelva",
+      "sr_Latn": "Pokrajina Uelva",
+      "sq": "Provinca Huelva",
+      "ccp": "𑄦𑄪𑄠𑄬𑄣𑄴𑄞",
+      "sr": "Покрајина Уелва",
+      "hy": "Ուելվա",
+      "kk": "Уэльва",
+      "uz": "Huelva"
     },
-    "geo": {
-      "latitude": 37.261421,
-      "longitude": -6.9447224,
-      "min_latitude": 37.2504151,
-      "min_longitude": -6.962591799999999,
-      "max_latitude": 37.2913207,
-      "max_longitude": -6.916788899999999
-    },
-    "name": "Huelva"
+    "comments": null
   },
   "HU": {
+    "name": "Huesca",
+    "code": null,
     "unofficial_names": [
       "Huesca"
     ],
+    "geo": {
+      "latitude": 42.131845,
+      "longitude": -0.4078058,
+      "min_latitude": 42.1249823,
+      "min_longitude": -0.4231033,
+      "max_latitude": 42.1468304,
+      "max_longitude": -0.3885935
+    },
     "translations": {
       "en": "Huesca",
       "ar": "وشقة",
@@ -1426,22 +1686,35 @@
       "uk": "Уеска",
       "ur": "صوبہ ویسکا",
       "vi": "Huesca",
-      "zh": "韋斯卡省"
+      "zh": "韋斯卡省",
+      "ceb": "Provincia de Huesca",
+      "sr_Latn": "Provincija Ueska",
+      "yue_Hans": "威斯卡省",
+      "sq": "Provinca Huesca",
+      "ccp": "𑄦𑄪𑄠𑄬𑄌𑄴𑄇",
+      "hy": "Ուեսկա",
+      "kk": "Уэска",
+      "yue": "威斯卡省",
+      "uz": "Huesca",
+      "bs": "Huesca",
+      "mk": "Уеска"
     },
-    "geo": {
-      "latitude": 42.131845,
-      "longitude": -0.4078058,
-      "min_latitude": 42.1249823,
-      "min_longitude": -0.4231033,
-      "max_latitude": 42.1468304,
-      "max_longitude": -0.3885935
-    },
-    "name": "Huesca"
+    "comments": null
   },
   "J": {
+    "name": "Jaén",
+    "code": null,
     "unofficial_names": [
       "Jaén"
     ],
+    "geo": {
+      "latitude": 37.7795941,
+      "longitude": -3.784905699999999,
+      "min_latitude": 37.75610030000001,
+      "min_longitude": -3.8201251,
+      "max_latitude": 37.8040884,
+      "max_longitude": -3.7736049
+    },
     "translations": {
       "en": "Jaén",
       "ar": "خاين",
@@ -1491,23 +1764,33 @@
       "uk": "Хаен",
       "ur": "صوبہ خائن",
       "vi": "Jaén",
-      "zh": "哈恩省"
+      "zh": "哈恩省",
+      "ceb": "Provincia de Jaén",
+      "sr_Latn": "Pokrajina Haen",
+      "sq": "Provinca Jaén",
+      "ccp": "𑄎𑄨𑄚𑄴",
+      "sr": "Покрајина Хаен",
+      "is": "Jaén",
+      "kk": "Хаэн",
+      "uz": "Jaén"
     },
-    "geo": {
-      "latitude": 37.7795941,
-      "longitude": -3.784905699999999,
-      "min_latitude": 37.75610030000001,
-      "min_longitude": -3.8201251,
-      "max_latitude": 37.8040884,
-      "max_longitude": -3.7736049
-    },
-    "name": "Jaén"
+    "comments": null
   },
   "L": {
+    "name": "Lleida",
+    "code": null,
     "unofficial_names": [
       "Lleida",
       "Lérida"
     ],
+    "geo": {
+      "latitude": 41.6175899,
+      "longitude": 0.6200146,
+      "min_latitude": 41.5970365,
+      "min_longitude": 0.5901124999999999,
+      "max_latitude": 41.6396481,
+      "max_longitude": 0.6497571999999999
+    },
     "translations": {
       "en": "Lleida",
       "ar": "لاردة",
@@ -1555,22 +1838,35 @@
       "uk": "Льєйда",
       "ur": "صوبہ لاریدا",
       "vi": "Lérida",
-      "zh": "莱里达省"
+      "zh": "莱里达省",
+      "cy": "Talaith Lleida",
+      "ceb": "Província de Lleida",
+      "sr_Latn": "Provincija Ljeida",
+      "yue_Hans": "莱里达省",
+      "sq": "Provinca Lleida",
+      "ccp": "𑄣𑄬𑄭𑄓",
+      "kk": "Лерида",
+      "yue": "萊里達省",
+      "be": "правінцыя Льейда",
+      "uz": "Lleida",
+      "mk": "Љејда"
     },
-    "geo": {
-      "latitude": 41.6175899,
-      "longitude": 0.6200146,
-      "min_latitude": 41.5970365,
-      "min_longitude": 0.5901124999999999,
-      "max_latitude": 41.6396481,
-      "max_longitude": 0.6497571999999999
-    },
-    "name": "Lleida"
+    "comments": null
   },
   "LE": {
+    "name": "León",
+    "code": null,
     "unofficial_names": [
       "León"
     ],
+    "geo": {
+      "latitude": 42.5987263,
+      "longitude": -5.5670959,
+      "min_latitude": 42.5839633,
+      "min_longitude": -5.6000101,
+      "max_latitude": 42.623248,
+      "max_longitude": -5.554772499999999
+    },
     "translations": {
       "en": "León",
       "ar": "ليون",
@@ -1615,25 +1911,37 @@
       "uk": "Леон",
       "ur": "صوبہ لیون",
       "vi": "León",
-      "zh": "莱昂省"
+      "zh": "莱昂省",
+      "ceb": "Provincia de León",
+      "sr_Latn": "Pokrajina Leon",
+      "yue_Hans": "利昂省",
+      "sq": "Provinca León",
+      "ccp": "𑄣𑄨𑄠𑄧𑄚𑄴",
+      "sr": "Покрајина Леон",
+      "hy": "Լեոնի շրջան",
+      "kk": "Леон",
+      "yue": "利昂省",
+      "uz": "Leon"
     },
-    "geo": {
-      "latitude": 42.5987263,
-      "longitude": -5.5670959,
-      "min_latitude": 42.5839633,
-      "min_longitude": -5.6000101,
-      "max_latitude": 42.623248,
-      "max_longitude": -5.554772499999999
-    },
-    "name": "León"
+    "comments": null
   },
   "LO": {
+    "name": "Rioja, La",
+    "code": null,
     "unofficial_names": [
       "Rioja, La",
       "La Rioja",
       "Rioja",
       "Logroño"
     ],
+    "geo": {
+      "latitude": 42.2870733,
+      "longitude": -2.539603,
+      "min_latitude": 41.9190339,
+      "min_longitude": -3.1342713,
+      "max_latitude": 42.6442647,
+      "max_longitude": -1.6787014
+    },
     "translations": {
       "en": "La Rioja Province",
       "ar": "منطقة لا ريوخا",
@@ -1688,22 +1996,36 @@
       "uk": "Ла-Ріоха",
       "ur": "لا ریوخا",
       "vi": "La Rioja",
-      "zh": "拉里奥哈"
+      "zh": "拉里奥哈",
+      "cy": "La Rioja",
+      "sr_Latn": "Rioha",
+      "yue_Hans": "拉里奥哈",
+      "jv": "La Rioja",
+      "sq": "La Rioja",
+      "ccp": "𑄣 𑄢𑄨𑄃𑄮𑄎 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
+      "ga": "La Rioja",
+      "kk": "Риоха",
+      "yue": "拉里奧哈",
+      "uz": "La Rioja",
+      "bs": "La Rioja",
+      "mk": "Риоха"
     },
-    "geo": {
-      "latitude": 42.2870733,
-      "longitude": -2.539603,
-      "min_latitude": 41.9190339,
-      "min_longitude": -3.1342713,
-      "max_latitude": 42.6442647,
-      "max_longitude": -1.6787014
-    },
-    "name": "Rioja, La"
+    "comments": null
   },
   "LU": {
+    "name": "Lugo",
+    "code": null,
     "unofficial_names": [
       "Lugo"
     ],
+    "geo": {
+      "latitude": 43.0097384,
+      "longitude": -7.5567582,
+      "min_latitude": 42.9897687,
+      "min_longitude": -7.5761881,
+      "max_latitude": 43.03479859999999,
+      "max_longitude": -7.536812100000001
+    },
     "translations": {
       "en": "Lugo",
       "ar": "لوغو",
@@ -1751,32 +2073,25 @@
       "uk": "Луго",
       "ur": "صوبہ لوگو",
       "vi": "Lugo",
-      "zh": "卢戈省"
+      "zh": "卢戈省",
+      "cy": "Talaith Lugo",
+      "ceb": "Provincia de Lugo",
+      "sr_Latn": "Pokrajina Lugo",
+      "sq": "Provinca Lugo",
+      "ccp": "𑄣𑄉𑄮",
+      "sr": "Покрајина Луго",
+      "hy": "Լուգո",
+      "kk": "Луго",
+      "uz": "Lugo"
     },
-    "geo": {
-      "latitude": 43.0097384,
-      "longitude": -7.5567582,
-      "min_latitude": 42.9897687,
-      "min_longitude": -7.5761881,
-      "max_latitude": 43.03479859999999,
-      "max_longitude": -7.536812100000001
-    },
-    "name": "Lugo"
+    "comments": null
   },
   "M": {
+    "name": "Madrid",
+    "code": null,
     "unofficial_names": [
       "Madrid"
     ],
-    "translations": {
-      "en": "Madrid Province",
-      "be": "Правінцыя Мадрыд",
-      "ca": "província de Madrid",
-      "es": "provincia de Madrid",
-      "fr": "province de Madrid",
-      "ja": "マドリード県",
-      "ru": "Мадрид",
-      "sv": "Provincia de Madrid"
-    },
     "geo": {
       "latitude": 40.4167754,
       "longitude": -3.7037902,
@@ -1785,12 +2100,35 @@
       "max_latitude": 40.5635903,
       "max_longitude": -3.5249115
     },
-    "name": "Madrid"
+    "translations": {
+      "en": "Madrid Province",
+      "be": "Правінцыя Мадрыд",
+      "ca": "província de Madrid",
+      "es": "provincia de Madrid",
+      "fr": "province de Madrid",
+      "ja": "マドリード県",
+      "ru": "Мадрид",
+      "sv": "Provincia de Madrid",
+      "ceb": "Provincia de Madrid",
+      "ccp": "𑄟𑄓𑄳𑄢𑄨𑄖𑄴 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
+      "uk": "Провінція Мадрид"
+    },
+    "comments": null
   },
   "MA": {
+    "name": "Málaga",
+    "code": null,
     "unofficial_names": [
       "Málaga"
     ],
+    "geo": {
+      "latitude": 36.721261,
+      "longitude": -4.4212655,
+      "min_latitude": 36.6788914,
+      "min_longitude": -4.5590373,
+      "max_latitude": 36.7575526,
+      "max_longitude": -4.3394965
+    },
     "translations": {
       "en": "Málaga",
       "ar": "مالقة",
@@ -1831,22 +2169,31 @@
       "uk": "Малага",
       "ur": "صوبہ مالقہ",
       "vi": "Málaga",
-      "zh": "馬拉加省"
+      "zh": "馬拉加省",
+      "ceb": "Provincia de Málaga",
+      "sr_Latn": "Provincija Malaga",
+      "sq": "Provinca Málaga",
+      "ccp": "𑄟𑄣𑄉",
+      "ga": "Málaga",
+      "kk": "Малага",
+      "uz": "Málaga"
     },
-    "geo": {
-      "latitude": 36.721261,
-      "longitude": -4.4212655,
-      "min_latitude": 36.6788914,
-      "min_longitude": -4.5590373,
-      "max_latitude": 36.7575526,
-      "max_longitude": -4.3394965
-    },
-    "name": "Málaga"
+    "comments": null
   },
   "ML": {
+    "name": "Melilla",
+    "code": null,
     "unofficial_names": [
       "Melilla"
     ],
+    "geo": {
+      "latitude": 35.2922775,
+      "longitude": -2.9380973,
+      "min_latitude": 35.2694508,
+      "min_longitude": -2.9657935,
+      "max_latitude": 35.3030924,
+      "max_longitude": -2.9232595
+    },
     "translations": {
       "en": "Melilla",
       "af": "Melilla",
@@ -1904,26 +2251,30 @@
       "uk": "Мелілья",
       "ur": "ملیلہ",
       "vi": "Melilla",
-      "zh": "梅利利亚"
+      "zh": "梅利利亚",
+      "cy": "Melilla",
+      "ceb": "Melilla",
+      "sr_Latn": "Melilja",
+      "yue_Hans": "梅利利亚",
+      "jv": "Melilla",
+      "sq": "Melilla",
+      "ccp": "𑄟𑄬𑄣𑄨𑄣𑄳𑄦",
+      "ga": "Melilla",
+      "kk": "Мелилья",
+      "yue": "梅利利亞",
+      "yo": "Melilla",
+      "zu": "IMelilla",
+      "bs": "Melilla",
+      "mk": "Мелиља"
     },
-    "geo": {
-      "latitude": 35.2922775,
-      "longitude": -2.9380973,
-      "min_latitude": 35.2694508,
-      "min_longitude": -2.9657935,
-      "max_latitude": 35.3030924,
-      "max_longitude": -2.9232595
-    },
-    "name": "Melilla"
+    "comments": null
   },
   "MU": {
+    "name": "Murcia",
+    "code": null,
     "unofficial_names": [
       "Murcia"
     ],
-    "translations": {
-      "en": "Murcia",
-      "ja": "ムルシア県"
-    },
     "geo": {
       "latitude": 37.9922399,
       "longitude": -1.1306544,
@@ -1932,20 +2283,24 @@
       "max_latitude": 38.0122586,
       "max_longitude": -1.1066994
     },
-    "name": "Murcia"
+    "translations": {
+      "en": "Murcia",
+      "ja": "ムルシア県",
+      "ccp": "𑄟𑄪𑄢𑄴𑄥𑄨𑄠",
+      "fr": "province de Murcie",
+      "es": "provincia de Murcia",
+      "ca": "província de Múrcia"
+    },
+    "comments": null
   },
   "NA": {
+    "name": "Navarra",
+    "code": null,
     "unofficial_names": [
       "Navarra",
       "Navarre",
       "Nafarroa"
     ],
-    "translations": {
-      "ca": "Navarra",
-      "en": "Navarra",
-      "eu": "Nafarroa",
-      "es": "Navarra"
-    },
     "geo": {
       "latitude": 42.6953909,
       "longitude": -1.6760691,
@@ -1954,16 +2309,83 @@
       "max_latitude": 43.314792,
       "max_longitude": -0.7239504
     },
-    "name": "Navarra"
+    "translations": {
+      "ca": "Navarra²",
+      "en": "Navarra",
+      "eu": "Nafarroako Foru Erkidegoa²",
+      "es": "Navarra²",
+      "lv": "Navarra²",
+      "mr": "नाबारा²",
+      "cy": "Nafarroa",
+      "ceb": "Navarra",
+      "ms": "Navarre²",
+      "ar": "منطقة نافارا²",
+      "te": "నవార్²",
+      "tr": "Navarra²",
+      "sr_Latn": "Navara²",
+      "lt": "Navara²",
+      "ta": "நவரரே²",
+      "vi": "Navarra²",
+      "ur": "ناوار²",
+      "nl": "Navarra²",
+      "zh": "納瓦拉²",
+      "bn": "নাবারা²",
+      "fa": "نابارا²",
+      "pl": "Nawarra²",
+      "yue_Hans": "纳华拉",
+      "sv": "Navarra²",
+      "el": "Ναβάρρα²",
+      "hi": "नावारा²",
+      "ja": "ナバラ州²",
+      "sq": "Navarre",
+      "ru": "Наварра²",
+      "ccp": "𑄚𑄞𑄢𑄳𑄦",
+      "gu": "નાવારે²",
+      "ka": "ნავარა²",
+      "sr": "Навара²",
+      "fr": "communauté forale de Navarre²",
+      "ga": "Navarra",
+      "hy": "Նավառա",
+      "ko": "나바라 지방²",
+      "gl": "Navarra²",
+      "si": "නවරේ²",
+      "da": "Navarra²",
+      "fi": "Navarra²",
+      "hu": "Navarra²",
+      "kn": "ನವಾರ್ರೆ²",
+      "is": "Navarra²",
+      "id": "Navarra²",
+      "sk": "Navarra²",
+      "ro": "Navarra²",
+      "he": "נווארה²",
+      "hr": "Navara²",
+      "pt": "Navarra²",
+      "et": "Navarra²",
+      "de": "Autonome Gemeinschaft Navarra²",
+      "sl": "Navarre²",
+      "it": "Navarra²",
+      "kk": "Наварра",
+      "uk": "Наварра²",
+      "cs": "Navarra²",
+      "yue": "納華拉",
+      "az": "Navarra²",
+      "am": "ናቫራ",
+      "nb": "Navarra²",
+      "be": "аўтаномная супольнасць Навара",
+      "th": "แคว้นนาวาร์²",
+      "uz": "Navarra",
+      "bs": "Navara",
+      "mk": "Навара"
+    },
+    "comments": null
   },
   "O": {
+    "name": "Asturias",
+    "code": null,
     "unofficial_names": [
       "Asturias",
       "Oviedo"
     ],
-    "translations": {
-      "en": "Asturias Province"
-    },
     "geo": {
       "latitude": 43.3613953,
       "longitude": -5.8593267,
@@ -1972,13 +2394,34 @@
       "max_latitude": 43.6665323,
       "max_longitude": -4.5105944
     },
-    "name": "Asturias"
+    "translations": {
+      "en": "Asturias Province",
+      "ru": "Астурия²",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄨𑄅𑄪𑄢𑄨𑄠𑄌𑄴 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
+      "hy": "Աստուրիա²",
+      "gl": "provincia de Asturias",
+      "es": "provincia de Asturias",
+      "uk": "Астурія²",
+      "ca": "província d’Astúries",
+      "be": "Астурыя²"
+    },
+    "comments": null
   },
   "OR": {
+    "name": "Ourense",
+    "code": null,
     "unofficial_names": [
       "Ourense",
       "Orense"
     ],
+    "geo": {
+      "latitude": 42.33578929999999,
+      "longitude": -7.863880999999998,
+      "min_latitude": 42.3184311,
+      "min_longitude": -7.880299,
+      "max_latitude": 42.35829409999999,
+      "max_longitude": -7.8470722
+    },
     "translations": {
       "en": "Ourense",
       "ar": "أورينسي",
@@ -2027,22 +2470,32 @@
       "uk": "Оренсе",
       "ur": "صوبہ اورینسے",
       "vi": "Ourense",
-      "zh": "奥伦塞省"
+      "zh": "奥伦塞省",
+      "ceb": "Provincia de Ourense",
+      "sr_Latn": "Pokrajina Orense",
+      "sq": "Provinca Ourense",
+      "ccp": "𑄃𑄯𑄢𑄬𑄚𑄴𑄥𑄴",
+      "sr": "Покрајина Оренсе",
+      "ga": "Ourense",
+      "kk": "Оренсе",
+      "uz": "Ourense"
     },
-    "geo": {
-      "latitude": 42.33578929999999,
-      "longitude": -7.863880999999998,
-      "min_latitude": 42.3184311,
-      "min_longitude": -7.880299,
-      "max_latitude": 42.35829409999999,
-      "max_longitude": -7.8470722
-    },
-    "name": "Ourense"
+    "comments": null
   },
   "P": {
+    "name": "Palencia",
+    "code": null,
     "unofficial_names": [
       "Palencia"
     ],
+    "geo": {
+      "latitude": 42.0096857,
+      "longitude": -4.5288016,
+      "min_latitude": 41.98871279999999,
+      "min_longitude": -4.5481221,
+      "max_latitude": 42.0289194,
+      "max_longitude": -4.505785599999999
+    },
     "translations": {
       "en": "Palencia",
       "ar": "بالنثيا",
@@ -2090,19 +2543,21 @@
       "uk": "Паленсія",
       "ur": "صوبہ پالینسیا",
       "vi": "Palencia",
-      "zh": "帕伦西亚省"
+      "zh": "帕伦西亚省",
+      "ceb": "Provincia de Palencia",
+      "sr_Latn": "Pokrajina Palensija",
+      "sq": "Provinca Palencia",
+      "ccp": "𑄛𑄧𑄣𑄬𑄚𑄴𑄥𑄨𑄠",
+      "sr": "Покрајина Паленсија",
+      "kk": "Паленсия",
+      "be": "правінцыя Паленсія",
+      "uz": "Palencia"
     },
-    "geo": {
-      "latitude": 42.0096857,
-      "longitude": -4.5288016,
-      "min_latitude": 41.98871279999999,
-      "min_longitude": -4.5481221,
-      "max_latitude": 42.0289194,
-      "max_longitude": -4.505785599999999
-    },
-    "name": "Palencia"
+    "comments": null
   },
   "PM": {
+    "name": "Balears, Illes",
+    "code": null,
     "unofficial_names": [
       "Balears, Illes",
       "Baleares",
@@ -2110,11 +2565,6 @@
       "Islas Baleares",
       "Balearic Islands"
     ],
-    "translations": {
-      "ca": "Illes Balears",
-      "en": "Balears Province",
-      "es": "Islas Baleares"
-    },
     "geo": {
       "latitude": 39.5341789,
       "longitude": 2.8577105,
@@ -2123,12 +2573,95 @@
       "max_latitude": 40.0945744,
       "max_longitude": 4.3277839
     },
-    "name": "Balears, Illes"
+    "translations": {
+      "ca": "Illes Balears²",
+      "en": "Balears Province",
+      "es": "Islas Baleares²",
+      "lv": "Baleāru Salas²",
+      "mr": "बालेआरिक द्वीपसमूह²",
+      "cy": "Ynysoedd Balearig²",
+      "af": "Baleariese Eilande²",
+      "ceb": "Islas Baleares²",
+      "ms": "Kepulauan Balearic²",
+      "ar": "منطقة جزر البليار²",
+      "te": "బాలియారిక్ దీవులు²",
+      "tr": "Balear Adaları²",
+      "sr_Latn": "Balearska ostrva²",
+      "lt": "Balearų salos²",
+      "ta": "பலேரிக் தீவுகள்²",
+      "vi": "Quần đảo Baleares²",
+      "ur": "جزائر بلیبار²",
+      "nl": "Balearen²",
+      "zh": "巴利阿里群島²",
+      "bn": "বেলারিক আইল্যান্ডস²",
+      "fa": "جزایر بالئاری²",
+      "pl": "Baleary²",
+      "sw": "Visiwa vya Baleari²",
+      "yue_Hans": "巴利亚利群岛²",
+      "sv": "Balearerna²",
+      "el": "Βαλεαρίδες Νήσοι²",
+      "hi": "बैलेरिक द्वीपसमूह²",
+      "jv": "Kapuloan Baleares²",
+      "ja": "バレアレス諸島²",
+      "sq": "Ishujt Balearik²",
+      "ru": "Балеарские острова²",
+      "ccp": "𑄝𑄣𑄨𑄠𑄢𑄴𑄥𑄴 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
+      "gu": "બેલેરીક આઇલેન્ડ્સ²",
+      "ka": "ბალეარის კუნძულები²",
+      "sr": "Балеарска острва²",
+      "fr": "Îles Baléares²",
+      "ga": "Na hOileáin Bhailéaracha²",
+      "hy": "Բալեարյան կղզիներ²",
+      "ko": "발레아레스 제도²",
+      "gl": "Illas Baleares",
+      "si": "බලේයරික් දූපත්²",
+      "da": "Baleariske Øer²",
+      "fi": "Baleaarit²",
+      "ky": "Балдар аралдары²",
+      "hu": "Baleár-szigetek²",
+      "kn": "ಬಾಲೀರಿಕ್ ದ್ವೀಪಗಳು²",
+      "is": "Baleareyjar²",
+      "id": "Kepulauan Balears²",
+      "sk": "Baleáry²",
+      "ro": "Insulele Baleare²",
+      "he": "האיים הבלאריים²",
+      "hr": "Baleari²",
+      "eu": "Balear Uharteak²",
+      "pt": "Baleares²",
+      "et": "Baleaarid²",
+      "de": "Balearische Inseln²",
+      "sl": "Balearski otoki²",
+      "it": "isole Baleari²",
+      "kk": "Балеар аралдары²",
+      "uk": "Балеарські острови²",
+      "cs": "Baleáry²",
+      "yue": "巴利亞利群島²",
+      "az": "Balear adaları²",
+      "am": "ባሌያሪክ ደሴቶች²",
+      "nb": "Balearene²",
+      "mn": "Балеарын арлууд²",
+      "be": "Балеарскія астравы²",
+      "th": "หมู่เกาะแบลีแอริก²",
+      "uz": "Balear orollari²",
+      "bs": "Balearska ostrva²",
+      "mk": "Балеарски Острови²"
+    },
+    "comments": null
   },
   "PO": {
+    "name": "Pontevedra",
+    "code": null,
     "unofficial_names": [
       "Pontevedra"
     ],
+    "geo": {
+      "latitude": 42.4298846,
+      "longitude": -8.6446202,
+      "min_latitude": 42.4159549,
+      "min_longitude": -8.6648576,
+      "max_latitude": 42.4517667,
+      "max_longitude": -8.613833699999999
+    },
     "translations": {
       "en": "Pontevedra",
       "ar": "بونتيفيدرا",
@@ -2176,28 +2709,24 @@
       "uk": "провінція Понтеведра",
       "ur": "صوبہ پونتیبیدرا",
       "vi": "Pontevedra",
-      "zh": "蓬特韋德拉省"
+      "zh": "蓬特韋德拉省",
+      "ceb": "Provincia de Pontevedra",
+      "sr_Latn": "Pokrajina Pontevedra",
+      "sq": "Provinca Pontevedra",
+      "ccp": "𑄛𑄮𑄚𑄴𑄑𑄬𑄞𑄬𑄓𑄳𑄢",
+      "sr": "Покрајина Понтеведра",
+      "kk": "Понтеведра",
+      "uz": "Pontevedra"
     },
-    "geo": {
-      "latitude": 42.4298846,
-      "longitude": -8.6446202,
-      "min_latitude": 42.4159549,
-      "min_longitude": -8.6648576,
-      "max_latitude": 42.4517667,
-      "max_longitude": -8.613833699999999
-    },
-    "name": "Pontevedra"
+    "comments": null
   },
   "S": {
+    "name": "Cantabria",
+    "code": null,
     "unofficial_names": [
       "Cantabria",
       "Santander"
     ],
-    "translations": {
-      "ca": "Cantabria",
-      "en": "Cantabria Province",
-      "es": "Cantabria"
-    },
     "geo": {
       "latitude": 43.1828396,
       "longitude": -3.9878427,
@@ -2206,12 +2735,89 @@
       "max_latitude": 43.5136929,
       "max_longitude": -3.149652
     },
-    "name": "Cantabria"
+    "translations": {
+      "ca": "Cantàbria²",
+      "en": "Cantabria Province",
+      "es": "Cantabria²",
+      "lv": "Kantabrija²",
+      "mr": "कांताब्रिया²",
+      "cy": "Cantabria²",
+      "ceb": "Cantabria²",
+      "ms": "Cantabria²",
+      "ar": "منطقة كانتابريا²",
+      "te": "కాంటాబ్రియా²",
+      "tr": "Kantabria²",
+      "sr_Latn": "Kantabrija²",
+      "lt": "Kantabrija²",
+      "ta": "காந்தாபிரியா²",
+      "vi": "Cantabria²",
+      "ur": "کانتابریا²",
+      "nl": "Cantabrië²",
+      "zh": "坎塔布里亚²",
+      "bn": "কান্তাব্রিয়া²",
+      "fa": "کانتابریا²",
+      "pl": "Kantabria²",
+      "yue_Hans": "坎塔布里亚²",
+      "sv": "Kantabrien²",
+      "el": "Κανταβρία²",
+      "hi": "कंटैब्रिया²",
+      "ja": "カンタブリア州²",
+      "sq": "Cantabria²",
+      "ru": "Кантабрия²",
+      "ccp": "𑄇𑄳𑄠𑄚𑄴𑄑𑄝𑄳𑄢𑄨𑄠 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
+      "gu": "કાન્તાબ્રિયા²",
+      "ka": "კანტაბრია²",
+      "sr": "Кантабрија²",
+      "fr": "Cantabrie²",
+      "ga": "Cantabria²",
+      "hy": "Կանտաբրիա²",
+      "ko": "칸타브리아 지방²",
+      "gl": "Cantabria²",
+      "si": "කැන්ටබ්රියා²",
+      "da": "Kantabrien²",
+      "fi": "Kantabria²",
+      "hu": "Kantábria²",
+      "kn": "ಕ್ಯಾಂಥಬ್ರಿಯಾ²",
+      "is": "Kantabría²",
+      "id": "Cantabria²",
+      "sk": "Kantábria²",
+      "ro": "Cantabria²",
+      "he": "קנטבריה²",
+      "hr": "Kantabrija²",
+      "eu": "Kantabria²",
+      "pt": "Cantábria²",
+      "et": "Kantaabria²",
+      "de": "Autonome Gemeinschaft Kantabrien²",
+      "it": "Cantabria²",
+      "kk": "Кантабрия²",
+      "uk": "Кантабрія²",
+      "cs": "Kantábrie²",
+      "yue": "坎塔布里亞²",
+      "az": "Kantabriya²",
+      "am": "ካንታብርያ²",
+      "nb": "Cantabria²",
+      "be": "Кантабрыя²",
+      "th": "แคว้นกันตาเบรีย²",
+      "uz": "Cantabria²",
+      "bs": "Kantabrija²",
+      "mk": "Кантабрија²"
+    },
+    "comments": null
   },
   "SA": {
+    "name": "Salamanca",
+    "code": null,
     "unofficial_names": [
       "Salamanca"
     ],
+    "geo": {
+      "latitude": 40.9701039,
+      "longitude": -5.663539699999999,
+      "min_latitude": 40.9417799,
+      "min_longitude": -5.707220299999999,
+      "max_latitude": 40.9850971,
+      "max_longitude": -5.6312039
+    },
     "translations": {
       "en": "Salamanca",
       "ar": "شلمنقة",
@@ -2260,22 +2866,32 @@
       "uk": "Саламанка",
       "ur": "صوبہ سالامانکا",
       "vi": "Salamanca",
-      "zh": "萨拉曼卡省"
+      "zh": "萨拉曼卡省",
+      "ceb": "Provincia de Salamanca",
+      "sr_Latn": "Provincija Salamanka",
+      "yue_Hans": "萨拉曼卡省",
+      "sq": "Provinca Salamanca",
+      "ccp": "𑄥𑄣𑄟𑄚𑄴𑄇",
+      "kk": "Саламанка",
+      "yue": "薩拉曼卡省",
+      "uz": "Salamanka"
     },
-    "geo": {
-      "latitude": 40.9701039,
-      "longitude": -5.663539699999999,
-      "min_latitude": 40.9417799,
-      "min_longitude": -5.707220299999999,
-      "max_latitude": 40.9850971,
-      "max_longitude": -5.6312039
-    },
-    "name": "Salamanca"
+    "comments": null
   },
   "SE": {
+    "name": "Sevilla",
+    "code": null,
     "unofficial_names": [
       "Sevilla"
     ],
+    "geo": {
+      "latitude": 37.3890924,
+      "longitude": -5.9844589,
+      "min_latitude": 37.3152203,
+      "min_longitude": -6.0216578,
+      "max_latitude": 37.4355212,
+      "max_longitude": -5.8884587
+    },
     "translations": {
       "en": "Seville",
       "ar": "إشبيلية",
@@ -2325,22 +2941,34 @@
       "uk": "Севілья",
       "ur": "صوبہ اشبیلیہ",
       "vi": "Sevilla",
-      "zh": "塞維利亞省"
+      "zh": "塞維利亞省",
+      "ceb": "Provincia de Sevilla",
+      "sr_Latn": "Pokrajina Sevilja",
+      "yue_Hans": "西维尔省",
+      "sq": "Provinca Sevilla",
+      "ccp": "𑄥𑄬𑄞𑄨𑄣𑄬",
+      "sr": "Покрајина Севиља",
+      "kk": "Севилья",
+      "yue": "西維爾省",
+      "uz": "Sevilla",
+      "bs": "Sevilla"
     },
-    "geo": {
-      "latitude": 37.3890924,
-      "longitude": -5.9844589,
-      "min_latitude": 37.3152203,
-      "min_longitude": -6.0216578,
-      "max_latitude": 37.4355212,
-      "max_longitude": -5.8884587
-    },
-    "name": "Sevilla"
+    "comments": null
   },
   "SG": {
+    "name": "Segovia",
+    "code": null,
     "unofficial_names": [
       "Segovia"
     ],
+    "geo": {
+      "latitude": 40.9429032,
+      "longitude": -4.108806899999999,
+      "min_latitude": 40.9199986,
+      "min_longitude": -4.1335868,
+      "max_latitude": 40.9625017,
+      "max_longitude": -4.090816999999999
+    },
     "translations": {
       "en": "Segovia",
       "ar": "شقوبية",
@@ -2380,22 +3008,31 @@
       "uk": "Сеговія",
       "ur": "صوبہ سیگوبیا",
       "vi": "Segovia",
-      "zh": "塞哥維亞省"
+      "zh": "塞哥維亞省",
+      "ceb": "Provincia de Segovia",
+      "sr_Latn": "Pokrajina Segovija",
+      "sq": "Provinca Segovia",
+      "ccp": "𑄥𑄬𑄉𑄮𑄞𑄨𑄠",
+      "sr": "Покрајина Сеговија",
+      "kk": "Сеговия",
+      "uz": "Segovia"
     },
-    "geo": {
-      "latitude": 40.9429032,
-      "longitude": -4.108806899999999,
-      "min_latitude": 40.9199986,
-      "min_longitude": -4.1335868,
-      "max_latitude": 40.9625017,
-      "max_longitude": -4.090816999999999
-    },
-    "name": "Segovia"
+    "comments": null
   },
   "SO": {
+    "name": "Soria",
+    "code": null,
     "unofficial_names": [
       "Soria"
     ],
+    "geo": {
+      "latitude": 41.7665972,
+      "longitude": -2.4790306,
+      "min_latitude": 41.7519601,
+      "min_longitude": -2.4938061,
+      "max_latitude": 41.7822829,
+      "max_longitude": -2.455352
+    },
     "translations": {
       "en": "Soria",
       "af": "Provinsie Soria",
@@ -2444,23 +3081,35 @@
       "uk": "Сорія",
       "ur": "سوریا صوبہ",
       "vi": "Soria",
-      "zh": "索里亚省"
+      "zh": "索里亚省",
+      "ceb": "Provincia de Soria",
+      "sr_Latn": "Pokrajina Sorija",
+      "yue_Hans": "索里亚省",
+      "sq": "Provinca Soria",
+      "ccp": "𑄥𑄮𑄢𑄨𑄠",
+      "sr": "Покрајина Сорија",
+      "kk": "Сория",
+      "yue": "索里亞省",
+      "uz": "Soria",
+      "mk": "Сорија"
     },
-    "geo": {
-      "latitude": 41.7665972,
-      "longitude": -2.4790306,
-      "min_latitude": 41.7519601,
-      "min_longitude": -2.4938061,
-      "max_latitude": 41.7822829,
-      "max_longitude": -2.455352
-    },
-    "name": "Soria"
+    "comments": null
   },
   "SS": {
+    "name": "Gipuzkoa",
+    "code": null,
     "unofficial_names": [
       "Gipuzkoa",
       "Guipúzcoa"
     ],
+    "geo": {
+      "latitude": 43.0756299,
+      "longitude": -2.2236667,
+      "min_latitude": 42.8952452,
+      "min_longitude": -2.6026837,
+      "max_latitude": 43.3956796,
+      "max_longitude": -1.7293434
+    },
     "translations": {
       "en": "Gipuzkoa",
       "af": "Gipuzkoa",
@@ -2510,22 +3159,32 @@
       "uk": "Гіпускоа",
       "ur": "گیپوسکوا",
       "vi": "Guipuscoa",
-      "zh": "吉普斯夸省"
+      "zh": "吉普斯夸省",
+      "cy": "Gipuzkoa",
+      "ceb": "Gipuzkoa",
+      "sr_Latn": "Pokrajina Gipuskoa",
+      "sq": "Provinca Gipuzkoa",
+      "ccp": "𑄉𑄨𑄛𑄪𑄌𑄴𑄇𑄮𑄠",
+      "sr": "Покрајина Гипускоа",
+      "kk": "Гипускоа",
+      "uz": "Guipúzcoa"
     },
-    "geo": {
-      "latitude": 43.0756299,
-      "longitude": -2.2236667,
-      "min_latitude": 42.8952452,
-      "min_longitude": -2.6026837,
-      "max_latitude": 43.3956796,
-      "max_longitude": -1.7293434
-    },
-    "name": "Gipuzkoa"
+    "comments": null
   },
   "T": {
+    "name": "Tarragona",
+    "code": null,
     "unofficial_names": [
       "Tarragona"
     ],
+    "geo": {
+      "latitude": 41.1188827,
+      "longitude": 1.2444909,
+      "min_latitude": 41.1096612,
+      "min_longitude": 1.1873165,
+      "max_latitude": 41.1419484,
+      "max_longitude": 1.2898503
+    },
     "translations": {
       "en": "Tarragona",
       "ar": "طراغونة",
@@ -2574,22 +3233,34 @@
       "uk": "Таррагона",
       "ur": "صوبہ تاریگؤنا",
       "vi": "Tarragona",
-      "zh": "塔拉戈纳省"
+      "zh": "塔拉戈纳省",
+      "cy": "Talaith Tarragona",
+      "ceb": "Província de Tarragona",
+      "sr_Latn": "Provincija Taragona",
+      "yue_Hans": "塔拉戈纳省",
+      "sq": "Provinca Tarragona",
+      "ccp": "𑄑𑄢𑄳𑄦𑄉𑄧𑄚",
+      "kk": "Таррагона",
+      "yue": "塔拉戈納省",
+      "be": "правінцыя Тарагона",
+      "uz": "Tarragona"
     },
-    "geo": {
-      "latitude": 41.1188827,
-      "longitude": 1.2444909,
-      "min_latitude": 41.1096612,
-      "min_longitude": 1.1873165,
-      "max_latitude": 41.1419484,
-      "max_longitude": 1.2898503
-    },
-    "name": "Tarragona"
+    "comments": null
   },
   "TE": {
+    "name": "Teruel",
+    "code": null,
     "unofficial_names": [
       "Teruel"
     ],
+    "geo": {
+      "latitude": 40.3456879,
+      "longitude": -1.1064345,
+      "min_latitude": 40.3257241,
+      "min_longitude": -1.1209926,
+      "max_latitude": 40.3642951,
+      "max_longitude": -1.0809371
+    },
     "translations": {
       "en": "Teruel",
       "ar": "تيروال",
@@ -2629,23 +3300,35 @@
       "uk": "Теруель",
       "ur": "صوبہ تیرویل",
       "vi": "Teruel",
-      "zh": "特魯埃爾省"
+      "zh": "特魯埃爾省",
+      "ceb": "Provincia de Teruel",
+      "sr_Latn": "Pokrajina Teruel",
+      "yue_Hans": "特鲁埃尔省",
+      "sq": "Provinca Teruel",
+      "ccp": "𑄑𑄬𑄢𑄪𑄠𑄬𑄣𑄴",
+      "sr": "Покрајина Теруел",
+      "kk": "Теруэль",
+      "yue": "特魯埃爾省",
+      "uz": "Teruel",
+      "bs": "Teruel"
     },
-    "geo": {
-      "latitude": 40.3456879,
-      "longitude": -1.1064345,
-      "min_latitude": 40.3257241,
-      "min_longitude": -1.1209926,
-      "max_latitude": 40.3642951,
-      "max_longitude": -1.0809371
-    },
-    "name": "Teruel"
+    "comments": null
   },
   "TF": {
+    "name": "Santa Cruz de Tenerife",
+    "code": null,
     "unofficial_names": [
       "Santa Cruz de Tenerife",
       "Tenerife"
     ],
+    "geo": {
+      "latitude": 28.4636296,
+      "longitude": -16.2518467,
+      "min_latitude": 28.4280248,
+      "min_longitude": -16.3370045,
+      "max_latitude": 28.487616,
+      "max_longitude": -16.2356646
+    },
     "translations": {
       "en": "Santa Cruz de Tenerife",
       "ar": "سانتا كروث دي تينيريفه",
@@ -2693,22 +3376,33 @@
       "uk": "Санта-Крус-де-Тенерифе",
       "ur": "صوبہ سانتا کروز دے فینیریفے",
       "vi": "Santa Cruz de Tenerife",
-      "zh": "聖克魯斯-德特內里費省"
+      "zh": "聖克魯斯-德特內里費省",
+      "ceb": "Provincia de Santa Cruz de Tenerife",
+      "sr_Latn": "Pokrajina Santa Kruz de Tenerife",
+      "sq": "Provinca Santa Cruz de Tenerife",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄢𑄪𑄌𑄴 𑄓𑄬 𑄑𑄬𑄚𑄬𑄢𑄭𑄛𑄴",
+      "sr": "Покрајина Санта Круз де Тенерифе",
+      "hy": "Սանտա Կրուս դե Տեներիֆե",
+      "kk": "Санта-Крус-де-Тенерифе",
+      "be": "правінцыя Санта-Крус-дэ-Тэнэрыфэ",
+      "uz": "Santa Cruz de Tenerife"
     },
-    "geo": {
-      "latitude": 28.4636296,
-      "longitude": -16.2518467,
-      "min_latitude": 28.4280248,
-      "min_longitude": -16.3370045,
-      "max_latitude": 28.487616,
-      "max_longitude": -16.2356646
-    },
-    "name": "Santa Cruz de Tenerife"
+    "comments": null
   },
   "TO": {
+    "name": "Toledo",
+    "code": null,
     "unofficial_names": [
       "Toledo"
     ],
+    "geo": {
+      "latitude": 39.8628316,
+      "longitude": -4.027323099999999,
+      "min_latitude": 39.8383676,
+      "min_longitude": -4.0629256,
+      "max_latitude": 39.88605099999999,
+      "max_longitude": -3.9192423
+    },
     "translations": {
       "en": "Toledo",
       "ar": "طليطلة",
@@ -2748,25 +3442,37 @@
       "uk": "Толедо",
       "ur": "صوبہ طلیطلہ",
       "vi": "Toledo",
-      "zh": "托萊多省"
+      "zh": "托萊多省",
+      "ceb": "Province of Toledo",
+      "sr_Latn": "Pokrajina Toledo",
+      "sq": "Provinca Toledo",
+      "ccp": "𑄑𑄧𑄣𑄬𑄓𑄮",
+      "sr": "Покрајина Толедо",
+      "he": "פרובינציית טולדו",
+      "kk": "Толедо",
+      "uz": "Toledo",
+      "bs": "Toledo",
+      "mk": "Толедо"
     },
-    "geo": {
-      "latitude": 39.8628316,
-      "longitude": -4.027323099999999,
-      "min_latitude": 39.8383676,
-      "min_longitude": -4.0629256,
-      "max_latitude": 39.88605099999999,
-      "max_longitude": -3.9192423
-    },
-    "name": "Toledo"
+    "comments": null
   },
   "V": {
+    "name": "Valencia/València",
+    "code": null,
     "unofficial_names": [
       "Valencia/València",
       "València/Valencia",
       "Valencia",
       "València"
     ],
+    "geo": {
+      "latitude": 39.4699075,
+      "longitude": -0.3762881,
+      "min_latitude": 39.308248,
+      "min_longitude": -0.4315448,
+      "max_latitude": 39.5073225,
+      "max_longitude": -0.2914778
+    },
     "translations": {
       "en": "Valencia",
       "ar": "بلنسية",
@@ -2815,22 +3521,33 @@
       "uk": "Валенсія",
       "ur": "صوبہ ویلنسیا",
       "vi": "Valencia",
-      "zh": "巴倫西亞省"
+      "zh": "巴倫西亞省",
+      "ceb": "Província de València",
+      "sr_Latn": "Pokrajina Valensija",
+      "yue_Hans": "华伦西亚省",
+      "sq": "Provinca Valencia",
+      "ccp": "𑄞𑄣𑄬𑄚𑄴𑄥𑄨𑄠",
+      "sr": "Покрајина Валенсија",
+      "yue": "華倫西亞省",
+      "uz": "Valencia",
+      "mk": "Валенсија"
     },
-    "geo": {
-      "latitude": 39.4699075,
-      "longitude": -0.3762881,
-      "min_latitude": 39.308248,
-      "min_longitude": -0.4315448,
-      "max_latitude": 39.5073225,
-      "max_longitude": -0.2914778
-    },
-    "name": "Valencia/València"
+    "comments": null
   },
   "VA": {
+    "name": "Valladolid",
+    "code": null,
     "unofficial_names": [
       "Valladolid"
     ],
+    "geo": {
+      "latitude": 41.652251,
+      "longitude": -4.724532099999999,
+      "min_latitude": 41.6042843,
+      "min_longitude": -4.9281803,
+      "max_latitude": 41.8155086,
+      "max_longitude": -4.6894439
+    },
     "translations": {
       "en": "Valladolid",
       "ar": "بلد الوليد",
@@ -2879,24 +3596,36 @@
       "uk": "Вальядолід",
       "ur": "صوبہ بلدولید",
       "vi": "Valladolid",
-      "zh": "巴利亞多利德省"
+      "zh": "巴利亞多利德省",
+      "ceb": "Provincia de Valladolid",
+      "sr_Latn": "Pokrajina Valjadolid",
+      "sq": "Provinca Valladolid",
+      "ccp": "𑄞𑄣𑄳𑄦𑄓𑄮𑄣𑄨𑄖𑄴",
+      "sr": "Покрајина Ваљадолид",
+      "ga": "Valladolid",
+      "kk": "Вальядолид",
+      "az": "Valyadolid vilayəti",
+      "uz": "Valladolid",
+      "mk": "Ваљадолид"
     },
-    "geo": {
-      "latitude": 41.652251,
-      "longitude": -4.724532099999999,
-      "min_latitude": 41.6042843,
-      "min_longitude": -4.9281803,
-      "max_latitude": 41.8155086,
-      "max_longitude": -4.6894439
-    },
-    "name": "Valladolid"
+    "comments": null
   },
   "VI": {
+    "name": "Araba/Álava",
+    "code": null,
     "unofficial_names": [
       "Araba/Álava",
       "Araba",
       "Álava"
     ],
+    "geo": {
+      "latitude": 42.9099989,
+      "longitude": -2.6983868,
+      "min_latitude": 42.4722552,
+      "min_longitude": -3.2867669,
+      "max_latitude": 43.216969,
+      "max_longitude": -2.2326871
+    },
     "translations": {
       "en": "Álava",
       "af": "Álava",
@@ -2946,22 +3675,35 @@
       "uk": "Алава",
       "ur": "آلابا",
       "vi": "Álava",
-      "zh": "阿拉瓦省"
+      "zh": "阿拉瓦省",
+      "cy": "Araba",
+      "ceb": "Araba / Álava",
+      "sr_Latn": "Provincija Alava",
+      "sq": "Provinca Álava",
+      "ccp": "𑄃𑄣𑄞",
+      "hy": "Ալավա",
+      "kk": "Алава",
+      "az": "Alava vilayəti",
+      "be": "правінцыя Алава",
+      "uz": "Álava",
+      "mk": "Алава"
     },
-    "geo": {
-      "latitude": 42.9099989,
-      "longitude": -2.6983868,
-      "min_latitude": 42.4722552,
-      "min_longitude": -3.2867669,
-      "max_latitude": 43.216969,
-      "max_longitude": -2.2326871
-    },
-    "name": "Araba/Álava"
+    "comments": null
   },
   "Z": {
+    "name": "Zaragoza",
+    "code": null,
     "unofficial_names": [
       "Zaragoza"
     ],
+    "geo": {
+      "latitude": 41.6488226,
+      "longitude": -0.8890853,
+      "min_latitude": 41.6139746,
+      "min_longitude": -0.9472301000000001,
+      "max_latitude": 41.6894079,
+      "max_longitude": -0.8427317
+    },
     "translations": {
       "en": "Zaragoza",
       "ar": "سرقسطة",
@@ -3009,22 +3751,38 @@
       "uk": "Сарагоса",
       "ur": "صوبہ سرقسطہ",
       "vi": "Zaragoza",
-      "zh": "薩拉戈薩省"
+      "zh": "薩拉戈薩省",
+      "ceb": "Provincia de Zaragoza",
+      "sr_Latn": "Pokrajina Saragosa",
+      "yue_Hans": "萨拉戈萨省",
+      "sq": "Provinca Zaragoza",
+      "ccp": "𑄎𑄢𑄴𑄉𑄮𑄎",
+      "sr": "Покрајина Сарагоса",
+      "hy": "Սարագոսա",
+      "he": "מחוז סרגוסה",
+      "kk": "Сарагоса",
+      "yue": "薩拉戈薩省",
+      "az": "Zaraqoza",
+      "uz": "Zaragoza",
+      "bs": "Zaragoza",
+      "mk": "Сагароса"
     },
-    "geo": {
-      "latitude": 41.6488226,
-      "longitude": -0.8890853,
-      "min_latitude": 41.6139746,
-      "min_longitude": -0.9472301000000001,
-      "max_latitude": 41.6894079,
-      "max_longitude": -0.8427317
-    },
-    "name": "Zaragoza"
+    "comments": null
   },
   "ZA": {
+    "name": "Zamora",
+    "code": null,
     "unofficial_names": [
       "Zamora"
     ],
+    "geo": {
+      "latitude": 41.5034712,
+      "longitude": -5.7467879,
+      "min_latitude": 41.4850183,
+      "min_longitude": -5.768415699999999,
+      "max_latitude": 41.5226013,
+      "max_longitude": -5.720656399999999
+    },
     "translations": {
       "en": "Zamora",
       "ar": "سمورة",
@@ -3073,19 +3831,29 @@
       "uk": "Самора",
       "ur": "صوبہ سامورا",
       "vi": "Zamora",
-      "zh": "萨莫拉省"
+      "zh": "萨莫拉省",
+      "ceb": "Provincia de Zamora",
+      "sr_Latn": "Pokrajina Zamora",
+      "sq": "Provinca Zamora",
+      "ccp": "𑄎𑄟𑄮𑄢",
+      "sr": "Покрајина Замора",
+      "kk": "Самора",
+      "uz": "Zamora"
     },
-    "geo": {
-      "latitude": 41.5034712,
-      "longitude": -5.7467879,
-      "min_latitude": 41.4850183,
-      "min_longitude": -5.768415699999999,
-      "max_latitude": 41.5226013,
-      "max_longitude": -5.720656399999999
-    },
-    "name": "Zamora"
+    "comments": null
   },
   "AN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Andalusië",
       "ar": "منطقة أندلوسيا",
@@ -3139,10 +3907,38 @@
       "uk": "Андалусія",
       "ur": "اندلوسیا",
       "vi": "Andalusia",
-      "zh": "安達魯西亞"
-    }
+      "zh": "安達魯西亞",
+      "cy": "Andalucía",
+      "ceb": "Andalucía",
+      "sr_Latn": "Andaluzija",
+      "ta": "அந்தாலூசியா",
+      "yue_Hans": "安达卢西亚",
+      "jv": "Andalusia",
+      "sq": "Andalusia",
+      "ccp": "𑄃𑄚𑄴𑄓𑄣𑄴𑄣𑄭𑄪𑄥𑄨𑄠",
+      "ga": "An Andalúis",
+      "ky": "Андалусия",
+      "kk": "Андалусия",
+      "yue": "安達盧西亞",
+      "am": "አንዳሉሲያ",
+      "uz": "Andalusiya",
+      "bs": "Andaluzija",
+      "mk": "Андалузија"
+    },
+    "comments": null
   },
   "AS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Asturië",
       "ar": "منطقة أستورياس",
@@ -3198,10 +3994,36 @@
       "uk": "Астурія",
       "ur": "استوریاس",
       "vi": "Asturies",
-      "zh": "阿斯图里亚斯"
-    }
+      "zh": "阿斯图里亚斯",
+      "cy": "Asturias",
+      "ceb": "Principality of Asturias",
+      "sr_Latn": "Kneževina Asturija",
+      "yue_Hans": "阿斯图里亚斯",
+      "jv": "Asturias",
+      "sq": "Asturias",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄢𑄨𑄠𑄌𑄴",
+      "ga": "Asturies",
+      "kk": "Астурия",
+      "yue": "阿斯圖里亞斯",
+      "am": "አስቱርያስ",
+      "uz": "Asturiya",
+      "bs": "Asturija",
+      "mk": "Астурија"
+    },
+    "comments": null
   },
   "CL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Kastilië en León",
       "ar": "منطقة قـشتالة وليون",
@@ -3247,10 +4069,38 @@
       "uk": "Кастилія-і-Леон",
       "ur": "قشتالہ اور لیون",
       "vi": "Castilla và León",
-      "zh": "卡斯蒂利亚-莱昂"
-    }
+      "zh": "卡斯蒂利亚-莱昂",
+      "cy": "Castilla y León",
+      "ceb": "Castilla y León",
+      "sr_Latn": "Kastilja i Leon",
+      "yue_Hans": "卡斯提亚与利昂",
+      "hi": "कैस्टिले और लेओन",
+      "jv": "Castile-Leon",
+      "sq": "Castile dhe León",
+      "ccp": "𑄇𑄳𑄠𑄌𑄴𑄑𑄭𑄣𑄴 𑄃𑄳𑄃 𑄣𑄨𑄠𑄧𑄚𑄴",
+      "ga": "Castilla y León",
+      "hy": "Կաստիլիա և Լեոն",
+      "kk": "Кастилия және Леон",
+      "yue": "卡斯提亞與利昂",
+      "am": "ካስቲያና ሌዮን",
+      "uz": "Castilla y León",
+      "bs": "Kastilja i Leon",
+      "mk": "Кастиља и Леон"
+    },
+    "comments": null
   },
   "CT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Katalonië",
       "am": "ካታሎኒያ",
@@ -3308,10 +4158,42 @@
       "uk": "Каталонія",
       "ur": "کاتالونیا",
       "vi": "Catalunya",
-      "zh": "加泰罗尼亚"
-    }
+      "zh": "加泰罗尼亚",
+      "cy": "Catalwnia",
+      "ceb": "Catalunya",
+      "sr_Latn": "Katalonija",
+      "sw": "Catalonia",
+      "yue_Hans": "加泰隆尼亚",
+      "jv": "Catalunya",
+      "sq": "Katalonia",
+      "ccp": "𑄇𑄳𑄠𑄑𑄣𑄧𑄚𑄨𑄠",
+      "ga": "An Chatalóin",
+      "ky": "Каталония",
+      "ha": "Katalunya",
+      "so": "Katalooniya",
+      "pa": "ਕਾਤਾਲੋਨੀਆ",
+      "kk": "Каталония",
+      "or": "କେଟଲୋନିଆ",
+      "yue": "加泰隆尼亞",
+      "my": "ကက်တလိုနီးယားနိုင်ငံ",
+      "uz": "Kataloniya",
+      "bs": "Katalonija",
+      "mk": "Каталонија"
+    },
+    "comments": null
   },
   "EX": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Extremadura",
       "ar": "منطقة إكستـريمادورا",
@@ -3361,10 +4243,35 @@
       "uk": "Естремадура",
       "ur": "اکستریمادورا",
       "vi": "Extremadura",
-      "zh": "埃斯特雷马杜拉"
-    }
+      "zh": "埃斯特雷马杜拉",
+      "cy": "Extremadura",
+      "ceb": "Extremadura",
+      "sr_Latn": "Ekstremadura",
+      "yue_Hans": "易斯特里马杜拉",
+      "hi": "एक्सत्रेमेद्युरा",
+      "sq": "Extremadura",
+      "ccp": "𑄃𑄬𑄇𑄴𑄑𑄳𑄢𑄬𑄟𑄓𑄪𑄠𑄢",
+      "ga": "Extremadura",
+      "kk": "Эстремадура",
+      "yue": "易斯特里馬杜拉",
+      "uz": "Extremadura",
+      "bs": "Extremadura",
+      "mk": "Екстремадура"
+    },
+    "comments": null
   },
   "GA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Galicië",
       "ar": "منطقة غاليسيا",
@@ -3417,10 +4324,38 @@
       "uk": "Галісія",
       "ur": "گالیسیا",
       "vi": "Galicia",
-      "zh": "加利西亚"
-    }
+      "zh": "加利西亚",
+      "cy": "Galisia",
+      "ceb": "Galicia",
+      "sr_Latn": "Galicija",
+      "yue_Hans": "加利西亚",
+      "jv": "Galicia",
+      "sq": "Galicia",
+      "ccp": "𑄉𑄣𑄨𑄥𑄨𑄠",
+      "ga": "An Ghailís",
+      "ig": "Galisa",
+      "ky": "Галисия",
+      "kk": "Галисия",
+      "yue": "加利西亞",
+      "am": "ጋሊስያ",
+      "uz": "Galisiya",
+      "bs": "Galicija",
+      "mk": "Галиција"
+    },
+    "comments": null
   },
   "IB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Baleariese Eilande",
       "ar": "منطقة جزر البليار",
@@ -3478,10 +4413,37 @@
       "uk": "Балеарські острови",
       "ur": "جزائر بلیبار",
       "vi": "Quần đảo Baleares",
-      "zh": "巴利阿里群島"
-    }
+      "zh": "巴利阿里群島",
+      "cy": "Ynysoedd Balearig",
+      "ceb": "Islas Baleares",
+      "sr_Latn": "Balearska ostrva",
+      "yue_Hans": "巴利亚利群岛",
+      "jv": "Kapuloan Baleares",
+      "sq": "Ishujt Balearik",
+      "ccp": "𑄝𑄣𑄬𑄠𑄢𑄨𑄇𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
+      "ga": "Na hOileáin Bhailéaracha",
+      "ky": "Балдар аралдары",
+      "kk": "Балеар аралдары",
+      "yue": "巴利亞利群島",
+      "am": "ባሌያሪክ ደሴቶች",
+      "uz": "Balear orollari",
+      "bs": "Balearska ostrva",
+      "mk": "Балеарски Острови"
+    },
+    "comments": null
   },
   "PV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Outonome Gemeenskap van die Baskeland",
       "ar": "منطقة إقليم الباسك",
@@ -3533,10 +4495,36 @@
       "uk": "Країна Басків",
       "ur": "باسک ملک",
       "vi": "Xứ Basque",
-      "zh": "巴斯克自治區"
-    }
+      "zh": "巴斯克自治區",
+      "cy": "Cymuned Ymreolaethol Gwlad y Basg",
+      "sr_Latn": "Baskija",
+      "yue_Hans": "巴斯克自治区",
+      "jv": "País Vasco",
+      "sq": "Baskia",
+      "ccp": "𑄥𑄌𑄴𑄇𑄪 𑄇𑄚𑄴𑄑𑄳𑄢𑄨",
+      "ga": "Tír na mBascach Theas",
+      "ky": "Басктар Өлкөсү",
+      "kk": "Басктар елі",
+      "yue": "巴斯克自治區",
+      "am": "ባስክ ሀገር",
+      "uz": "Basklar mamlakati",
+      "bs": "Baskija (autonomna zajednica)",
+      "mk": "Баскија"
+    },
+    "comments": null
   },
   "AR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة أراغـون",
       "az": "Araqon",
@@ -3587,10 +4575,36 @@
       "uk": "Арагон",
       "ur": "اراغون",
       "vi": "Aragon",
-      "zh": "阿拉贡自治区"
-    }
+      "zh": "阿拉贡自治区",
+      "cy": "Aragón",
+      "ceb": "Aragon",
+      "sr_Latn": "Aragon",
+      "yue_Hans": "亚拉冈",
+      "jv": "Aragon",
+      "sq": "Aragon",
+      "ccp": "𑄃𑄢𑄉𑄧𑄚𑄴",
+      "ga": "An Aragóin",
+      "kk": "Арагон",
+      "yue": "亞拉岡",
+      "am": "አራጎን",
+      "uz": "Aragon",
+      "bs": "Aragon",
+      "mk": "Арагон"
+    },
+    "comments": null
   },
   "CB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة كانتابريا",
       "az": "Kantabriya",
@@ -3644,10 +4658,35 @@
       "uk": "Кантабрія",
       "ur": "کانتابریا",
       "vi": "Cantabria",
-      "zh": "坎塔布里亚"
-    }
+      "zh": "坎塔布里亚",
+      "cy": "Cantabria",
+      "ceb": "Cantabria",
+      "sr_Latn": "Kantabrija",
+      "yue_Hans": "坎塔布里亚",
+      "sq": "Cantabria",
+      "ccp": "𑄇𑄳𑄠𑄚𑄴𑄑𑄝𑄳𑄢𑄨𑄠",
+      "ga": "Cantabria",
+      "kk": "Кантабрия",
+      "yue": "坎塔布里亞",
+      "am": "ካንታብርያ",
+      "uz": "Cantabria",
+      "bs": "Kantabrija",
+      "mk": "Кантабрија"
+    },
+    "comments": null
   },
   "CM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة كاستيا لا مانتشا",
       "az": "Kastiliya – La-Mança",
@@ -3694,10 +4733,35 @@
       "uk": "Кастилія — Ла-Манча",
       "ur": "کاستیا-لا مانچا",
       "vi": "Castile-La Mancha",
-      "zh": "卡斯蒂利亚-拉曼恰"
-    }
+      "zh": "卡斯蒂利亚-拉曼恰",
+      "cy": "Castilla-La Mancha",
+      "ceb": "Castilla-La Mancha",
+      "sr_Latn": "Kastilja-La Manča",
+      "yue_Hans": "卡斯提亚-拉曼查",
+      "jv": "Castile-La Mancha",
+      "sq": "Castilla-La Mancha",
+      "ccp": "𑄇𑄳𑄠𑄌𑄴𑄑𑄭𑄣𑄴-𑄣 𑄟𑄚𑄴𑄌",
+      "ga": "Castilla-La Mancha",
+      "kk": "Кастилия — Ла-Манча",
+      "yue": "卡斯提亞-拉曼查",
+      "uz": "Castilla-La Mancha",
+      "bs": "Castilla-La Mancha",
+      "mk": "Кастиља-Ла Манча"
+    },
+    "comments": null
   },
   "MC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة مرسية",
       "az": "Mursiya",
@@ -3750,10 +4814,35 @@
       "uk": "Мурсія",
       "ur": "ریجن مورکیا",
       "vi": "Vùng Murcia",
-      "zh": "穆尔西亚自治区"
-    }
+      "zh": "穆尔西亚自治区",
+      "cy": "Murcia (cymuned ymreolaethol)",
+      "ceb": "Región de Murcia",
+      "sr_Latn": "Region Mursija",
+      "yue_Hans": "穆尔西亚自治区",
+      "jv": "Murcia",
+      "sq": "Rajoni Murcia",
+      "ccp": "𑄟𑄢𑄴𑄥𑄨𑄠 𑄢𑄬𑄎𑄳𑄠𑄧",
+      "ga": "Murcia",
+      "kk": "Мурсия",
+      "yue": "穆爾西亞自治區",
+      "uz": "Murcia",
+      "bs": "Regija Murcia",
+      "mk": "Мурсија"
+    },
+    "comments": null
   },
   "MD": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة مدريد",
       "be": "аўтаномная супольнасць Мадрыд",
@@ -3790,7 +4879,7 @@
       "pl": "Madryt",
       "pt": "Comunidade de Madrid",
       "ro": "Madrid",
-      "ru": "Мадрид",
+      "ru": "Мадрид²",
       "sk": "Madridské spoločenstvo",
       "sl": "avtonomna skupnost Madrid",
       "sr": "Покрајина Мадрид",
@@ -3799,10 +4888,35 @@
       "tr": "Madrid",
       "uk": "Мадрид",
       "vi": "Cộng đồng Madrid",
-      "zh": "马德里自治区"
-    }
+      "zh": "马德里自治区",
+      "cy": "Madrid",
+      "ceb": "Comunidad de Madrid",
+      "sr_Latn": "Pokrajina Madrid",
+      "yue_Hans": "马德里自治区",
+      "sq": "Komuniteti i Madridit",
+      "ccp": "𑄟𑄓𑄳𑄢𑄨𑄖𑄴 𑄃𑄧𑄑𑄮𑄚𑄮𑄟𑄌𑄴 𑄇𑄧𑄟𑄨𑄅𑄪𑄚𑄨𑄑𑄨",
+      "ga": "Comhphobal Mhaidrid",
+      "kk": "Мадрид",
+      "yue": "馬德里自治區",
+      "az": "Madrid cəmiyyəti",
+      "uz": "Madrid",
+      "bs": "Zajednica Madrida",
+      "mk": "Мадрид"
+    },
+    "comments": null
   },
   "NC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة نافارا",
       "az": "Navarra",
@@ -3857,75 +4971,124 @@
       "uk": "Наварра",
       "ur": "ناوار",
       "vi": "Navarra",
-      "zh": "納瓦拉"
-    }
+      "zh": "納瓦拉",
+      "cy": "Nafarroa²",
+      "ceb": "Navarra²",
+      "sr_Latn": "Navara",
+      "yue_Hans": "纳华拉²",
+      "sq": "Navarre²",
+      "ccp": "𑄚𑄞𑄧𑄢𑄳𑄦 𑄌𑄢𑄴𑄑𑄢𑄴 𑄇𑄧𑄟𑄨𑄅𑄪𑄚𑄨𑄑𑄨",
+      "ga": "Navarra²",
+      "kk": "Наварра²",
+      "yue": "納華拉²",
+      "am": "ናቫራ²",
+      "uz": "Navarra²",
+      "bs": "Navara²",
+      "mk": "Навара²"
+    },
+    "comments": null
   },
   "RI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "ar": "منطقة لا ريوخا",
-      "az": "Rioxa",
-      "be": "Рыёха",
+      "ar": "منطقة لا ريوخا²",
+      "az": "Rioxa²",
+      "be": "Рыёха²",
       "bg": "Ла Риоха",
-      "bn": "লা রিওজা",
-      "ca": "La Rioja",
-      "cs": "La Rioja",
-      "da": "La Rioja",
-      "de": "La Rioja",
-      "el": "Λα Ριόχα",
+      "bn": "লা রিওজা²",
+      "ca": "La Rioja²",
+      "cs": "La Rioja²",
+      "da": "La Rioja²",
+      "de": "La Rioja²",
+      "el": "Λα Ριόχα²",
       "en": "La Rioja",
-      "es": "La Rioja",
-      "et": "La Rioja",
-      "eu": "Errioxako Autonomia Erkidegoa",
-      "fa": "لاریخا",
-      "fi": "La Rioja",
-      "fr": "La Rioja",
-      "gl": "A Rioxa",
-      "gu": "લા રિયોજા",
-      "he": "לה ריוחה",
-      "hi": "ला रिओजा",
-      "hr": "La Rioja",
-      "hu": "La Rioja",
-      "hy": "Ռիոխա",
-      "id": "La Rioja",
-      "is": "La Rioja",
-      "it": "La Rioja",
-      "ja": "ラ・リオハ州",
-      "ka": "ლა-რიოხა",
-      "kn": "ಲಾ ರೈಜಾ",
-      "ko": "라리오하 지방",
-      "lt": "La Riocha",
-      "lv": "Larjoha",
-      "mr": "ला रियोहा",
-      "ms": "La Rioja",
-      "nb": "La Rioja",
-      "nl": "La Rioja",
-      "pl": "La Rioja",
-      "pt": "La Rioja",
-      "ro": "La Rioja",
-      "ru": "Риоха",
-      "si": "ලා රයෝජා",
-      "sl": "La Rioja",
-      "sr": "Риоха",
-      "sv": "La Rioja",
-      "sw": "La Rioja",
-      "ta": "லா ரியோஜ",
-      "te": "లా రియోజా",
-      "th": "แคว้นลารีโอคา",
-      "tr": "La Rioja",
-      "uk": "Ла-Ріоха",
-      "ur": "لا ریوخا",
-      "vi": "La Rioja",
-      "zh": "拉里奥哈"
-    }
+      "es": "La Rioja²",
+      "et": "La Rioja²",
+      "eu": "Errioxako Autonomia Erkidegoa²",
+      "fa": "لاریخا²",
+      "fi": "La Rioja²",
+      "fr": "La Rioja²",
+      "gl": "A Rioxa²",
+      "gu": "લા રિયોજા²",
+      "he": "לה ריוחה²",
+      "hi": "ला रिओजा²",
+      "hr": "La Rioja²",
+      "hu": "La Rioja²",
+      "hy": "Ռիոխա²",
+      "id": "La Rioja²",
+      "is": "La Rioja²",
+      "it": "La Rioja²",
+      "ja": "ラ・リオハ州²",
+      "ka": "ლა-რიოხა²",
+      "kn": "ಲಾ ರೈಜಾ²",
+      "ko": "라리오하 지방²",
+      "lt": "La Riocha²",
+      "lv": "Larjoha²",
+      "mr": "ला रियोहा²",
+      "ms": "La Rioja²",
+      "nb": "La Rioja²",
+      "nl": "La Rioja²",
+      "pl": "La Rioja²",
+      "pt": "La Rioja²",
+      "ro": "La Rioja²",
+      "ru": "Риоха²",
+      "si": "ලා රයෝජා²",
+      "sl": "La Rioja²",
+      "sr": "Риоха²",
+      "sv": "La Rioja²",
+      "sw": "La Rioja²",
+      "ta": "லா ரியோஜ²",
+      "te": "లా రియోజా²",
+      "th": "แคว้นลารีโอคา²",
+      "tr": "La Rioja²",
+      "uk": "Ла-Ріоха²",
+      "ur": "لا ریوخا²",
+      "vi": "La Rioja²",
+      "zh": "拉里奥哈²",
+      "cy": "La Rioja²",
+      "sr_Latn": "Rioha²",
+      "yue_Hans": "拉里奥哈²",
+      "jv": "La Rioja²",
+      "sq": "La Rioja²",
+      "ccp": "𑄣 𑄢𑄨𑄃𑄮𑄎",
+      "ga": "La Rioja²",
+      "kk": "Риоха²",
+      "yue": "拉里奧哈²",
+      "uz": "La Rioja²",
+      "bs": "La Rioja²",
+      "mk": "Риоха²"
+    },
+    "comments": null
   },
   "VC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "منطقة بلنسية",
       "be": "аўтаномная супольнасць Валенсія",
       "bg": "Валенсия",
       "ca": "País Valencià",
       "cs": "Valencijské společenství",
-      "da": "Valencia",
+      "da": "Valencia²",
       "de": "Valencianische Gemeinschaft",
       "el": "Βαλένθια",
       "en": "Valencian Community",
@@ -3933,7 +5096,7 @@
       "et": "Valencia autonoomne piirkond",
       "eu": "Valentziako Erkidegoa",
       "fa": "بخش خودمختار والنسیا",
-      "fi": "Valencia",
+      "fi": "Valencia²",
       "fr": "communauté valencienne",
       "gl": "Comunidade Valenciana",
       "gu": "વૅલેન્શિયા નો પ્રદેશ",
@@ -3941,7 +5104,7 @@
       "hi": "वैलेंसियाई समुदाय",
       "hr": "Valencijska Zajednica",
       "hu": "Valencia",
-      "hy": "Վալենսիա",
+      "hy": "Վալենսիա²",
       "id": "Negeri Valencia",
       "is": "Valensía (hérað)",
       "it": "comunità Valenzana",
@@ -3953,28 +5116,56 @@
       "lv": "Valensija",
       "mr": "वालेन्सिया",
       "ms": "Komuniti Valencia",
-      "nb": "Valencia",
-      "nl": "Valencia",
-      "pl": "Walencja",
+      "nb": "Valencia²",
+      "nl": "Valencia²",
+      "pl": "Walencja²",
       "pt": "Comunidade Valenciana",
       "ro": "Comunitatea Valenciană",
-      "ru": "Валенсия",
+      "ru": "Валенсия²",
       "sl": "Valencijska dežela",
       "sr": "Валенсијанска Покрајина",
-      "sv": "Valencia",
+      "sv": "Valencia²",
       "ta": "வளன்சியான் மாநிலம்",
       "th": "แคว้นบาเลนเซีย",
       "tr": "Valensiya",
-      "uk": "Валенсія",
+      "uk": "Валенсія²",
       "ur": "ویلنسیائی کمیونٹی",
       "vi": "Cộng đồng Valencia",
-      "zh": "巴倫西亞自治區"
-    }
+      "zh": "巴倫西亞自治區",
+      "cy": "Valencia",
+      "ceb": "Comunitat Valenciana",
+      "sr_Latn": "Valensijanska Pokrajina",
+      "yue_Hans": "华伦西亚自治区",
+      "sq": "Komuniteti i Valencias",
+      "ccp": "𑄞𑄧𑄣𑄬𑄚𑄴𑄥𑄨𑄠𑄚𑄴 𑄇𑄧𑄟𑄨𑄅𑄪𑄚𑄨𑄑𑄨",
+      "ga": "Comhphobal Valencia",
+      "sk": "Valencijské spoločenstvo",
+      "kk": "Валенсия",
+      "yue": "華倫西亞自治區",
+      "am": "የቫለንሲያ ኅብረተሠብ",
+      "uz": "Valencialar mamlakati",
+      "bs": "Valencia (pokrajina)",
+      "mk": "Валенсија²"
+    },
+    "comments": null
   },
   "CN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Canary Islands"
-    }
+      "en": "Canary Islands",
+      "ccp": "𑄇𑄳𑄠𑄚𑄢𑄨 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
+    },
+    "comments": null
   }
 }
 

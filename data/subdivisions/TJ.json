@@ -1,8 +1,18 @@
 {
   "GB": {
+    "name": "Gorno-Badakhshan",
+    "code": null,
     "unofficial_names": [
       "Gorno-Badahşan"
     ],
+    "geo": {
+      "latitude": 38.412732,
+      "longitude": 73.087749,
+      "min_latitude": 36.671535,
+      "min_longitude": 70.216537,
+      "max_latitude": 39.46881500000001,
+      "max_longitude": 75.1514831
+    },
     "translations": {
       "en": "Gorno-Badakhshan",
       "ar": "جورنو",
@@ -48,22 +58,31 @@
       "tr": "Dağlık Badahşan",
       "uk": "Гірський Бадахшан",
       "ur": "گورنو بدخشاں خود مختار صوبہ",
-      "vi": "Gorno-Badakhshan"
+      "vi": "Gorno-Badakhshan",
+      "ceb": "Viloyati Mukhtori Kŭhistoni Badakhshon",
+      "sr_Latn": "Gorno-Badahšan",
+      "zh": "戈爾諾—巴達赫尚自治州",
+      "ccp": "𑄉𑄮𑄢𑄴𑄚𑄮-𑄝𑄘𑄨𑄇𑄴𑄥𑄚𑄴",
+      "hy": "Լեռնա-Բադախշանյան ինքնավար մարզ",
+      "ky": "Тоолуу-Бадахшан автономиялуу облусу",
+      "uz": "Togʻli-Badaxshon muxtor viloyati"
     },
-    "geo": {
-      "latitude": 38.412732,
-      "longitude": 73.087749,
-      "min_latitude": 36.671535,
-      "min_longitude": 70.216537,
-      "max_latitude": 39.46881500000001,
-      "max_longitude": 75.1514831
-    },
-    "name": "Gorno-Badakhshan"
+    "comments": null
   },
   "KT": {
+    "name": "Khatlon",
+    "code": null,
     "unofficial_names": [
       "Hatlon"
     ],
+    "geo": {
+      "latitude": 37.9113562,
+      "longitude": 69.097023,
+      "min_latitude": 36.9281721,
+      "min_longitude": 67.78614600000002,
+      "max_latitude": 38.783459,
+      "max_longitude": 70.34964699999999
+    },
     "translations": {
       "en": "Khatlon",
       "ar": "محافظة خاتلون",
@@ -104,19 +123,20 @@
       "tr": "Hatlon",
       "uk": "Хатлонський вілоят",
       "ur": "صوبہ ختلان",
-      "vi": "Khatlon"
+      "vi": "Khatlon",
+      "ceb": "Viloyati Khatlon",
+      "zh": "哈特隆州",
+      "ccp": "𑄈𑄖𑄴𑄣𑄧𑄚𑄴",
+      "hu": "Hatlon",
+      "cs": "Chatlonský vilájet",
+      "be": "Хатлонская вобласць",
+      "uz": "Xatlon"
     },
-    "geo": {
-      "latitude": 37.9113562,
-      "longitude": 69.097023,
-      "min_latitude": 36.9281721,
-      "min_longitude": 67.78614600000002,
-      "max_latitude": 38.783459,
-      "max_longitude": 70.34964699999999
-    },
-    "name": "Khatlon"
+    "comments": null
   },
   "SU": {
+    "name": "Sughd",
+    "code": null,
     "unofficial_names": [
       "Chudjand",
       "Hucand",
@@ -127,6 +147,14 @@
       "Khudzhand",
       "Leninabad"
     ],
+    "geo": {
+      "latitude": 39.5155326,
+      "longitude": 69.097023,
+      "min_latitude": 38.926113,
+      "min_longitude": 67.3871309,
+      "max_latitude": 41.0422438,
+      "max_longitude": 70.984337
+    },
     "translations": {
       "en": "Sughd",
       "ar": "صغد",
@@ -173,19 +201,27 @@
       "tr": "Sogd",
       "uk": "Согдійська область",
       "ur": "صوبہ سغد",
-      "vi": "Sughd"
+      "vi": "Sughd",
+      "ceb": "Viloyati Sughd",
+      "zh": "索格特州",
+      "ccp": "𑄥𑄪𑄇𑄴𑄦𑄴",
+      "be": "Сагдыйская вобласць",
+      "uz": "Sugʻd"
     },
-    "geo": {
-      "latitude": 39.5155326,
-      "longitude": 69.097023,
-      "min_latitude": 38.926113,
-      "min_longitude": 67.3871309,
-      "max_latitude": 41.0422438,
-      "max_longitude": 70.984337
-    },
-    "name": "Sughd"
+    "comments": null
   },
   "DU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Doesjanbe",
       "am": "ዱሻንቤ",
@@ -247,10 +283,39 @@
       "uk": "Душанбе",
       "ur": "دوشنبہ",
       "vi": "Dushanbe",
-      "zh": "杜尚别"
-    }
+      "zh": "杜尚别",
+      "cy": "Dushanbe",
+      "ceb": "Dushanbe",
+      "sr_Latn": "Dušanbe",
+      "yue_Hans": "杜尚别",
+      "jv": "Dushanbe",
+      "sq": "Dushanbe",
+      "ccp": "𑄓𑄪𑄥𑄚𑄴𑄝𑄬",
+      "ga": "Dushanbe",
+      "ky": "Душанбе",
+      "pa": "ਦੁਸ਼ੰਬੇ",
+      "kk": "Душанбе",
+      "yue": "杜尚別",
+      "yo": "Dushanbe",
+      "uz": "Dushanbe",
+      "bs": "Dušanbe",
+      "mk": "Душанбе",
+      "ne": "दुशान्वे"
+    },
+    "comments": null
   },
   "RA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعات التبعية الجمهوري",
       "bg": "Райони на централно подчинение в Таджикистан",
@@ -291,8 +356,14 @@
       "tr": "Karategin",
       "uk": "райони республіканського підпорядкування",
       "ur": "جمہوریہ ماتحتی اضلاع",
-      "vi": "Các Quận của Republican Subordination"
-    }
+      "vi": "Các Quận của Republican Subordination",
+      "ceb": "Region of Republican Subordination",
+      "zh": "國家直轄區",
+      "ccp": "𑄚𑄮𑄦𑄨𑄠𑄮𑄦𑄰 𑄑𑄮𑄝𑄬𑄭 𑄎𑄪𑄟𑄴𑄦𑄪𑄢𑄨",
+      "be": "раёны рэспубліканскага падпарадкавання Таджыкістана",
+      "uz": "Tojikistonning respublikaga boʻysunuvchi tumanlari"
+    },
+    "comments": null
   }
 }
 

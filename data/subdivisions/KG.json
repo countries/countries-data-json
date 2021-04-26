@@ -1,6 +1,16 @@
 {
   "B": {
+    "name": "Batken",
+    "code": null,
     "unofficial_names": "Batken",
+    "geo": {
+      "latitude": 40.066667,
+      "longitude": 70.833333,
+      "min_latitude": 40.0316892,
+      "min_longitude": 70.7974435,
+      "max_latitude": 40.08343199999999,
+      "max_longitude": 70.8491994
+    },
     "translations": {
       "en": "Batken",
       "ar": "باتكين أوبلاستي",
@@ -45,25 +55,34 @@
       "uk": "Баткенська область",
       "ur": "صوبہ بادکند",
       "vi": "Khu vực Batken",
-      "zh": "巴特肯州"
+      "zh": "巴特肯州",
+      "ceb": "Batken",
+      "ccp": "𑄝𑄖𑄴𑄇𑄬𑄚𑄴",
+      "ky": "Баткен облусу",
+      "ro": "Regiunea Batken",
+      "kk": "Баткен облысы",
+      "be": "Баткенская вобласць",
+      "uz": "Botken"
     },
-    "geo": {
-      "latitude": 40.066667,
-      "longitude": 70.833333,
-      "min_latitude": 40.0316892,
-      "min_longitude": 70.7974435,
-      "max_latitude": 40.08343199999999,
-      "max_longitude": 70.8491994
-    },
-    "name": "Batken"
+    "comments": null
   },
   "C": {
+    "name": "Chü",
+    "code": null,
     "unofficial_names": [
       "Chu",
       "Chui",
       "Chuy",
       "Çüy"
     ],
+    "geo": {
+      "latitude": 42.5079313,
+      "longitude": 75.8302566,
+      "min_latitude": 42.505947,
+      "min_longitude": 75.82733019999999,
+      "max_latitude": 42.5099156,
+      "max_longitude": 75.83318299999999
+    },
     "translations": {
       "en": "Chuy",
       "ar": "تشوي أوبلاستي",
@@ -111,23 +130,33 @@
       "tr": "Çuy İli",
       "uk": "Чуйська область",
       "ur": "صوبہ چوئی",
-      "vi": "Chuy"
+      "vi": "Chuy",
+      "ceb": "Chuyskaya Oblast’",
+      "zh": "楚河州",
+      "ccp": "𑄌𑄪𑄠𑄨",
+      "ky": "Чүй облусу",
+      "kk": "Шу облысы",
+      "be": "Чуйская вобласць",
+      "uz": "Chuy",
+      "mk": "Чујска област"
     },
-    "geo": {
-      "latitude": 42.5079313,
-      "longitude": 75.8302566,
-      "min_latitude": 42.505947,
-      "min_longitude": 75.82733019999999,
-      "max_latitude": 42.5099156,
-      "max_longitude": 75.83318299999999
-    },
-    "name": "Chü"
+    "comments": null
   },
   "GB": {
+    "name": "Bishkek",
+    "code": null,
     "unofficial_names": [
       "Bishkek",
       "Kenesh Bishkek"
     ],
+    "geo": {
+      "latitude": 42.874722,
+      "longitude": 74.61222200000002,
+      "min_latitude": 42.8031469,
+      "min_longitude": 74.46490299999999,
+      "max_latitude": 42.9489859,
+      "max_longitude": 74.71767439999999
+    },
     "translations": {
       "en": "Bishkek",
       "af": "Bisjkek",
@@ -188,20 +217,40 @@
       "tr": "Bişkek",
       "uk": "Бішкек",
       "ur": "بشکیک",
-      "vi": "Bishkek"
+      "vi": "Bishkek",
+      "cy": "Bishkek",
+      "ceb": "Gorod Bishkek",
+      "sr_Latn": "Biškek",
+      "zh": "比什凯克",
+      "yue_Hans": "比什凯克",
+      "jv": "Bishkek",
+      "sq": "Bishkek",
+      "ccp": "𑄝𑄨𑄌𑄴𑄇𑄬𑄇𑄴",
+      "ky": "Бишкек",
+      "pa": "ਬਿਸ਼ਕੇਕ",
+      "kk": "Бішкек",
+      "yue": "比什凱克",
+      "my": "ဘီရှကက်မြို့",
+      "yo": "Bishkek",
+      "uz": "Bishkek",
+      "bs": "Bishkek",
+      "mk": "Бишкек",
+      "ne": "विस्केक"
     },
-    "geo": {
-      "latitude": 42.874722,
-      "longitude": 74.61222200000002,
-      "min_latitude": 42.8031469,
-      "min_longitude": 74.46490299999999,
-      "max_latitude": 42.9489859,
-      "max_longitude": 74.71767439999999
-    },
-    "name": "Bishkek"
+    "comments": null
   },
   "J": {
+    "name": "Jalal-Abad",
+    "code": null,
     "unofficial_names": "Jalal-Abad",
+    "geo": {
+      "latitude": 40.933333,
+      "longitude": 73,
+      "min_latitude": 40.9037825,
+      "min_longitude": 72.93934829999999,
+      "max_latitude": 40.97205719999999,
+      "max_longitude": 73.0214024
+    },
     "translations": {
       "en": "Jalal-Abad",
       "ar": "جلال أباد أوبلاستي",
@@ -244,22 +293,34 @@
       "tr": "Celal-Abad İli",
       "uk": "Жалалабатська область",
       "ur": "صوبہ جلال-آباد",
-      "vi": "Jalal-Abad"
+      "vi": "Jalal-Abad",
+      "ceb": "Jalal-Abad oblast",
+      "zh": "賈拉拉巴德州",
+      "ccp": "𑄎𑄣𑄣𑄴-𑄃𑄝𑄖𑄴",
+      "gl": "Rexión de Jalal-Abad",
+      "ky": "Жалал-Абад облусу",
+      "kk": "Жалалабат облысы",
+      "cs": "Džalalabadská oblast",
+      "mn": "Жалалабат муж",
+      "be": "Джалал-Абадская вобласць",
+      "uz": "Jalolobod"
     },
-    "geo": {
-      "latitude": 40.933333,
-      "longitude": 73,
-      "min_latitude": 40.9037825,
-      "min_longitude": 72.93934829999999,
-      "max_latitude": 40.97205719999999,
-      "max_longitude": 73.0214024
-    },
-    "name": "Jalal-Abad"
+    "comments": null
   },
   "N": {
+    "name": "Naryn",
+    "code": null,
     "unofficial_names": [
       "Naryn"
     ],
+    "geo": {
+      "latitude": 41.433333,
+      "longitude": 76,
+      "min_latitude": 41.4142818,
+      "min_longitude": 75.89921939999999,
+      "max_latitude": 41.4369033,
+      "max_longitude": 76.0630704
+    },
     "translations": {
       "en": "Naryn",
       "ar": "نارين أوبلاستي",
@@ -306,22 +367,31 @@
       "tr": "Narın ili",
       "uk": "Наринська область",
       "ur": "صوبہ نارین",
-      "vi": "Khu vực Naryn"
+      "vi": "Khu vực Naryn",
+      "cy": "Ardal Naryn",
+      "zh": "納倫州",
+      "ccp": "𑄚𑄢𑄨𑄚𑄴",
+      "ky": "Нарын облусу",
+      "kk": "Нарын облысы",
+      "be": "Нарынская вобласць",
+      "uz": "Norin"
     },
-    "geo": {
-      "latitude": 41.433333,
-      "longitude": 76,
-      "min_latitude": 41.4142818,
-      "min_longitude": 75.89921939999999,
-      "max_latitude": 41.4369033,
-      "max_longitude": 76.0630704
-    },
-    "name": "Naryn"
+    "comments": null
   },
   "O": {
+    "name": "Osh",
+    "code": null,
     "unofficial_names": [
       "Osh"
     ],
+    "geo": {
+      "latitude": 40.53,
+      "longitude": 72.8,
+      "min_latitude": 40.4754848,
+      "min_longitude": 72.7557564,
+      "max_latitude": 40.5649378,
+      "max_longitude": 72.8613282
+    },
     "translations": {
       "en": "Osh Region",
       "ar": "أوش أوبلاستي",
@@ -367,20 +437,32 @@
       "tr": "Oş İli",
       "uk": "Ошська область",
       "ur": "صوبہ اوش",
-      "vi": "Osh²"
+      "vi": "Osh²",
+      "cy": "Ardal Osh",
+      "ceb": "Osh Oblasty",
+      "sr_Latn": "Oška oblast",
+      "zh": "奧什州",
+      "ccp": "𑄃𑄮𑄌𑄴 𑄢𑄨𑄎𑄨𑄠𑄧𑄚𑄴",
+      "sr": "Ошка област",
+      "ky": "Ош облусу",
+      "kk": "Ош облысы",
+      "cs": "Ošská oblast",
+      "uz": "Oʻsh²"
     },
-    "geo": {
-      "latitude": 40.53,
-      "longitude": 72.8,
-      "min_latitude": 40.4754848,
-      "min_longitude": 72.7557564,
-      "max_latitude": 40.5649378,
-      "max_longitude": 72.8613282
-    },
-    "name": "Osh"
+    "comments": null
   },
   "T": {
+    "name": "Talas",
+    "code": null,
     "unofficial_names": "Talas",
+    "geo": {
+      "latitude": 42.516667,
+      "longitude": 72.23333300000002,
+      "min_latitude": 42.5045029,
+      "min_longitude": 72.1606065,
+      "max_latitude": 42.5554828,
+      "max_longitude": 72.28523249999999
+    },
     "translations": {
       "en": "Talas",
       "ar": "طلاس أوبلاستي",
@@ -425,25 +507,34 @@
       "tr": "Talas İli",
       "uk": "Таласька область",
       "ur": "صوبہ تراز",
-      "vi": "Talas"
+      "vi": "Talas",
+      "ceb": "Talas (lalawigan)",
+      "zh": "塔拉斯州",
+      "ccp": "𑄑𑄣𑄌𑄴",
+      "ky": "Талас облусу",
+      "eu": "Talas probintzia",
+      "kk": "Талас облысы",
+      "uz": "Talas"
     },
-    "geo": {
-      "latitude": 42.516667,
-      "longitude": 72.23333300000002,
-      "min_latitude": 42.5045029,
-      "min_longitude": 72.1606065,
-      "max_latitude": 42.5554828,
-      "max_longitude": 72.28523249999999
-    },
-    "name": "Talas"
+    "comments": null
   },
   "Y": {
+    "name": "Ysyk-Köl",
+    "code": null,
     "unofficial_names": [
       "Balikchi",
       "Balykchy",
       "Balıkçı",
       "Issyk-Kul"
     ],
+    "geo": {
+      "latitude": 42.1859428,
+      "longitude": 77.5619419,
+      "min_latitude": 41.138474,
+      "min_longitude": 75.5835659,
+      "max_latitude": 42.951714,
+      "max_longitude": 80.2831801
+    },
     "translations": {
       "en": "Issyk-Kul",
       "ar": "ايسيك كول أوبلاستي",
@@ -488,19 +579,31 @@
       "tr": "Issık-Göl İli",
       "uk": "Іссик-Кульська область",
       "ur": "صوبہ ایسیک کول",
-      "vi": "Issyk Kul"
+      "vi": "Issyk Kul",
+      "cy": "Ardal Issyk-Kul",
+      "ceb": "Issyk-Kul’skaya Oblast’",
+      "zh": "伊塞克湖州",
+      "ccp": "𑄃𑄭𑄎𑄬𑄇𑄴-𑄇𑄪𑄣𑄴",
+      "gl": "Rexión de Isiq-Köl",
+      "ky": "Ысык-Көл областы",
+      "kk": "Ыстықкөл облысы",
+      "be": "Ісык-Кульская вобласць",
+      "uz": "Issiq-Koʻl"
     },
-    "geo": {
-      "latitude": 42.1859428,
-      "longitude": 77.5619419,
-      "min_latitude": 41.138474,
-      "min_longitude": 75.5835659,
-      "max_latitude": 42.951714,
-      "max_longitude": 80.2831801
-    },
-    "name": "Ysyk-Köl"
+    "comments": null
   },
   "GO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أوش",
       "az": "Oş",
@@ -554,8 +657,20 @@
       "tr": "Oş",
       "uk": "Ош",
       "ur": "اوش",
-      "vi": "Osh"
-    }
+      "vi": "Osh",
+      "cy": "Osh, Kyrgyzstan",
+      "ceb": "Osh (kapital sa lalawigan sa Kirgistan)",
+      "sr_Latn": "Oš",
+      "zh": "奧什",
+      "sq": "Osh",
+      "ccp": "𑄃𑄮𑄌𑄴",
+      "ky": "Ош",
+      "ro": "Oș",
+      "kk": "Ош",
+      "ml": "ഓഷ്",
+      "uz": "Oʻsh"
+    },
+    "comments": null
   }
 }
 

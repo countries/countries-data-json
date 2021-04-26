@@ -1,6 +1,16 @@
 {
   "BA": {
+    "name": "Balti",
+    "code": null,
     "unofficial_names": "Balti",
+    "geo": {
+      "latitude": 47.7539947,
+      "longitude": 27.9184148,
+      "min_latitude": 47.7226969,
+      "min_longitude": 27.8344632,
+      "max_latitude": 47.81119469999999,
+      "max_longitude": 27.9682947
+    },
     "translations": {
       "en": "Bălţi",
       "af": "Bălţi",
@@ -58,20 +68,32 @@
       "uk": "Бєльці",
       "ur": "بالتسی",
       "vi": "Bălţi",
-      "zh": "伯爾茲"
+      "zh": "伯爾茲",
+      "cy": "Bălţi",
+      "ceb": "Municipiul Bălți",
+      "sr_Latn": "Balci",
+      "yue_Hans": "伯尔兹",
+      "ccp": "𑄝𑄣𑄴𑄑𑄨",
+      "ga": "Bălți",
+      "yue": "伯爾茲",
+      "uz": "Bălţi",
+      "bs": "Bălți",
+      "mk": "Белци"
     },
-    "geo": {
-      "latitude": 47.7539947,
-      "longitude": 27.9184148,
-      "min_latitude": 47.7226969,
-      "min_longitude": 27.8344632,
-      "max_latitude": 47.81119469999999,
-      "max_longitude": 27.9682947
-    },
-    "name": "Balti"
+    "comments": null
   },
   "CA": {
+    "name": "Cahul",
+    "code": null,
     "unofficial_names": "Cahul",
+    "geo": {
+      "latitude": 45.8939404,
+      "longitude": 28.1890275,
+      "min_latitude": 45.8736666,
+      "min_longitude": 28.1741595,
+      "max_latitude": 45.9423021,
+      "max_longitude": 28.231709
+    },
     "translations": {
       "en": "Cahul",
       "ar": "مقاطعة كاهول",
@@ -113,23 +135,18 @@
       "uk": "Кагульський район",
       "ur": "کاہول ضلع",
       "vi": "Quận Cahul",
-      "zh": "卡胡爾區"
+      "zh": "卡胡爾區",
+      "lv": "Kahulas rajons",
+      "ceb": "Raionul Cahul",
+      "sq": "Raionul Cahul",
+      "ccp": "𑄇𑄦𑄪𑄣𑄴"
     },
-    "geo": {
-      "latitude": 45.8939404,
-      "longitude": 28.1890275,
-      "min_latitude": 45.8736666,
-      "min_longitude": 28.1741595,
-      "max_latitude": 45.9423021,
-      "max_longitude": 28.231709
-    },
-    "name": "Cahul"
+    "comments": null
   },
   "CH": {
+    "name": "Chisinau City",
+    "code": null,
     "unofficial_names": "Chisinau City",
-    "translations": {
-      "en": "Chisinau City"
-    },
     "geo": {
       "latitude": 47.0240102,
       "longitude": 28.8313156,
@@ -138,10 +155,23 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Chisinau City"
+    "translations": {
+      "en": "Chisinau City"
+    },
+    "comments": null
   },
   "CU": {
+    "name": "Chisinau",
+    "code": null,
     "unofficial_names": "Chisinau",
+    "geo": {
+      "latitude": 47.0240102,
+      "longitude": 28.8313156,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Chișinău",
       "af": "Chişinău",
@@ -201,20 +231,38 @@
       "uk": "Кишинів",
       "ur": "کیشیناو",
       "vi": "Chişinău",
-      "zh": "基希讷乌"
+      "zh": "基希讷乌",
+      "cy": "Chişinău",
+      "ceb": "Municipiul Chișinău",
+      "sr_Latn": "Kišinjev",
+      "yue_Hans": "基希涅夫",
+      "jv": "Chişinău",
+      "sq": "Municipiul Chișinău",
+      "ccp": "𑄇𑄨𑄥𑄨𑄚𑄯",
+      "ga": "Císineá",
+      "ky": "Кишинёв",
+      "pa": "ਕਿਸ਼ਨਾਓ",
+      "kk": "Кишинев",
+      "yue": "基希涅夫",
+      "yo": "Chişinău",
+      "uz": "Kishinyov",
+      "bs": "Kišinjev",
+      "mk": "Кишињев"
     },
-    "geo": {
-      "latitude": 47.0240102,
-      "longitude": 28.8313156,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Chisinau"
+    "comments": null
   },
   "ED": {
+    "name": "Edinet",
+    "code": null,
     "unofficial_names": "Edinet",
+    "geo": {
+      "latitude": 48.1678991,
+      "longitude": 27.2936143,
+      "min_latitude": 48.1522871,
+      "min_longitude": 27.2787093,
+      "max_latitude": 48.1892079,
+      "max_longitude": 27.3280621
+    },
     "translations": {
       "en": "Edineț",
       "ar": "مقاطعة إيدينت",
@@ -254,20 +302,26 @@
       "uk": "Єдинецький район",
       "ur": "ایدینیتس ضلع",
       "vi": "Quận Edinet",
-      "zh": "埃迪內茨區"
+      "zh": "埃迪內茨區",
+      "lv": "Jedinecas rajons",
+      "ceb": "Raionul Edineț",
+      "sq": "Raionul Edineț",
+      "ccp": "𑄃𑄬𑄓𑄨𑄚𑄬𑄖𑄴"
     },
-    "geo": {
-      "latitude": 48.1678991,
-      "longitude": 27.2936143,
-      "min_latitude": 48.1522871,
-      "min_longitude": 27.2787093,
-      "max_latitude": 48.1892079,
-      "max_longitude": 27.3280621
-    },
-    "name": "Edinet"
+    "comments": null
   },
   "GA": {
+    "name": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
+    "code": null,
     "unofficial_names": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Gagauzia",
       "af": "Gagausië",
@@ -322,23 +376,23 @@
       "uk": "Гагаузія",
       "ur": "گاگاؤزیا",
       "vi": "Gagauzia",
-      "zh": "加告茲自治區"
+      "zh": "加告茲自治區",
+      "cy": "Gagauzia",
+      "ceb": "Găgăuzia",
+      "sr_Latn": "Gagauzija",
+      "sq": "Gagauzia",
+      "ccp": "𑄉𑄉𑄅𑄪𑄎𑄨𑄠",
+      "ky": "Гагаузия",
+      "kk": "Гәгәузия",
+      "mk": "Гагаузија",
+      "tk": "Gagauzystan"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)"
+    "comments": null
   },
   "LA": {
+    "name": "Lapusna",
+    "code": null,
     "unofficial_names": "Lapusna",
-    "translations": {
-      "en": "Lapusna"
-    },
     "geo": {
       "latitude": 46.883333,
       "longitude": 28.416667,
@@ -347,10 +401,23 @@
       "max_latitude": 46.9017563,
       "max_longitude": 28.4313728
     },
-    "name": "Lapusna"
+    "translations": {
+      "en": "Lapusna"
+    },
+    "comments": null
   },
   "OR": {
+    "name": "Orhei",
+    "code": null,
     "unofficial_names": "Orhei",
+    "geo": {
+      "latitude": 47.383333,
+      "longitude": 28.816667,
+      "min_latitude": 47.333195,
+      "min_longitude": 28.7943291,
+      "max_latitude": 47.40391169999999,
+      "max_longitude": 28.8649678
+    },
     "translations": {
       "en": "Orhei",
       "ar": "مقاطعة أورهي",
@@ -391,20 +458,26 @@
       "uk": "Оргіївський район",
       "ur": "اورہئی ضلع",
       "vi": "Quận Orhei",
-      "zh": "奧爾海伊區"
+      "zh": "奧爾海伊區",
+      "lv": "Orhejas rajons",
+      "ceb": "Orhei",
+      "sq": "Raionul Orhei",
+      "ccp": "𑄃𑄧𑄢𑄴𑄦𑄬𑄭"
     },
-    "geo": {
-      "latitude": 47.383333,
-      "longitude": 28.816667,
-      "min_latitude": 47.333195,
-      "min_longitude": 28.7943291,
-      "max_latitude": 47.40391169999999,
-      "max_longitude": 28.8649678
-    },
-    "name": "Orhei"
+    "comments": null
   },
   "SN": {
+    "name": "Stînga Nistrului, unitatea teritoriala din",
+    "code": null,
     "unofficial_names": "Stînga Nistrului, unitatea teritoriala din",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Transnistria",
       "be": "Аўтаномнае тэрытарыяльнае ўтварэнне з асаблівым прававым статусам Прыднястроўе",
@@ -417,20 +490,24 @@
       "ru": "Административно-территориальные единицы левобережья Днестра",
       "uk": "Придністровʼя",
       "ur": "ٹرینسنیسٹریا خود مختار علاقائی اکائی مع خصوصی قانونی حیثیت",
-      "zh": "德涅斯特河沿岸自治领土单位"
+      "zh": "德涅斯特河沿岸自治领土单位",
+      "ceb": "Unitatea Teritorială din Stînga Nistrului",
+      "ccp": "𑄑𑄳𑄢𑄚𑄴𑄚𑄨𑄌𑄴𑄑𑄳𑄢𑄨𑄠"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Stînga Nistrului, unitatea teritoriala din"
+    "comments": null
   },
   "SO": {
+    "name": "Soroca",
+    "code": null,
     "unofficial_names": "Soroca",
+    "geo": {
+      "latitude": 48.166667,
+      "longitude": 28.3,
+      "min_latitude": 48.1209551,
+      "min_longitude": 28.2504846,
+      "max_latitude": 48.1874054,
+      "max_longitude": 28.3286763
+    },
     "translations": {
       "en": "Soroca",
       "ar": "مقاطعة سوروكا",
@@ -471,20 +548,27 @@
       "uk": "Сороцький район",
       "ur": "سوروکا ضلع",
       "vi": "Quận Soroca",
-      "zh": "索羅卡區"
+      "zh": "索羅卡區",
+      "lv": "Sorokas rajons",
+      "ceb": "Raionul Soroca",
+      "sq": "Raionul Soroca",
+      "ccp": "𑄥𑄧𑄢𑄮𑄇",
+      "hy": "Սորոկի շրջան"
     },
-    "geo": {
-      "latitude": 48.166667,
-      "longitude": 28.3,
-      "min_latitude": 48.1209551,
-      "min_longitude": 28.2504846,
-      "max_latitude": 48.1874054,
-      "max_longitude": 28.3286763
-    },
-    "name": "Soroca"
+    "comments": null
   },
   "TA": {
+    "name": "Taraclia",
+    "code": null,
     "unofficial_names": "Taraclia",
+    "geo": {
+      "latitude": 46.5703,
+      "longitude": 29.11559999999999,
+      "min_latitude": 46.547203,
+      "min_longitude": 29.0931702,
+      "max_latitude": 46.5827462,
+      "max_longitude": 29.1362143
+    },
     "translations": {
       "en": "Taraclia",
       "ar": "مقاطعة تاراكليا",
@@ -525,23 +609,18 @@
       "uk": "Тараклійський район",
       "ur": "تاراکلیا ضلع",
       "vi": "Quận Taraclia",
-      "zh": "塔拉克利亞區"
+      "zh": "塔拉克利亞區",
+      "lv": "Taraklijas rajons",
+      "ceb": "Taraclia",
+      "sq": "Raionul Taraclia",
+      "ccp": "𑄑𑄢𑄇𑄴𑄣𑄨𑄠"
     },
-    "geo": {
-      "latitude": 46.5703,
-      "longitude": 29.11559999999999,
-      "min_latitude": 46.547203,
-      "min_longitude": 29.0931702,
-      "max_latitude": 46.5827462,
-      "max_longitude": 29.1362143
-    },
-    "name": "Taraclia"
+    "comments": null
   },
   "TI": {
+    "name": "Tighina [Bender]",
+    "code": null,
     "unofficial_names": "Tighina [Bender]",
-    "translations": {
-      "en": "Tighina [Bender]"
-    },
     "geo": {
       "latitude": 46.84633609999999,
       "longitude": 29.4534416,
@@ -550,10 +629,23 @@
       "max_latitude": 46.875329,
       "max_longitude": 29.502832
     },
-    "name": "Tighina [Bender]"
+    "translations": {
+      "en": "Tighina [Bender]"
+    },
+    "comments": null
   },
   "UN": {
+    "name": "Ungheni",
+    "code": null,
     "unofficial_names": "Ungheni",
+    "geo": {
+      "latitude": 47.216667,
+      "longitude": 27.816667,
+      "min_latitude": 47.1690154,
+      "min_longitude": 27.7592753,
+      "max_latitude": 47.2493487,
+      "max_longitude": 27.8279203
+    },
     "translations": {
       "en": "Ungheni",
       "ar": "مقاطعة اونغيني",
@@ -595,19 +687,26 @@
       "uk": "Унгенський район",
       "ur": "اونگینی ضلع",
       "vi": "Quận Ungheni",
-      "zh": "溫格內區"
+      "zh": "溫格內區",
+      "lv": "Ungenu rajons",
+      "ceb": "Raionul Ungheni",
+      "sq": "Raionul Ungheni",
+      "ccp": "𑄃𑄚𑄴𑄊𑄬𑄚𑄨"
     },
-    "geo": {
-      "latitude": 47.216667,
-      "longitude": 27.816667,
-      "min_latitude": 47.1690154,
-      "min_longitude": 27.7592753,
-      "max_latitude": 47.2493487,
-      "max_longitude": 27.8279203
-    },
-    "name": "Ungheni"
+    "comments": null
   },
   "BD": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Bender",
       "ar": "بيندر، مولدوفيا",
@@ -665,10 +764,35 @@
       "ur": "بیندر، مالدووا",
       "vi": "Bender",
       "zh": "賓傑里",
-      "zu": "Bender"
-    }
+      "zu": "Bender",
+      "cy": "Bender",
+      "ceb": "Bender",
+      "sr_Latn": "Bender",
+      "jv": "Bender",
+      "ccp": "𑄝𑄬𑄚𑄴𑄓𑄢𑄴",
+      "ga": "Bender",
+      "ig": "Bender",
+      "ha": "Bender",
+      "so": "Bender",
+      "yo": "Bender",
+      "uz": "Bender",
+      "bs": "Bender",
+      "mk": "Бендер"
+    },
+    "comments": null
   },
   "AN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أنيني نوي",
       "bg": "Новоаненски район",
@@ -710,10 +834,26 @@
       "uk": "Аненій-Нойський район",
       "ur": "انینئی نوی ضلع",
       "vi": "Quận Anenii Noi",
-      "zh": "新阿內尼區"
-    }
+      "zh": "新阿內尼區",
+      "lv": "Aneni Nojas rajons",
+      "ceb": "Anenii Noi",
+      "sq": "Raionul Anenii Noi",
+      "ccp": "𑄃𑄚𑄬𑄚𑄨 𑄚𑄰"
+    },
+    "comments": null
   },
   "BR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بريسيني",
       "bg": "Бриченски район",
@@ -755,10 +895,27 @@
       "uk": "Бричанський район",
       "ur": "بریچینی ضلع",
       "vi": "Quận Briceni",
-      "zh": "布里切尼區"
-    }
+      "zh": "布里切尼區",
+      "lv": "Bričenu rajons",
+      "ceb": "Briceni",
+      "sq": "Raionul Briceni",
+      "ccp": "𑄝𑄳𑄢𑄨𑄥𑄬𑄚𑄨",
+      "be": "Брычанскі раён"
+    },
+    "comments": null
   },
   "BS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة باسارابيسكا",
       "bg": "Бесарабски район",
@@ -801,10 +958,26 @@
       "uk": "Бессарабський район",
       "ur": "باسارابیاسکا ضلع",
       "vi": "Quận Basarabeasca",
-      "zh": "巴薩拉貝亞斯卡區"
-    }
+      "zh": "巴薩拉貝亞斯卡區",
+      "lv": "Besarabjaskas rajons",
+      "ceb": "Basarabeasca",
+      "sq": "Raionul Basarabeasca",
+      "ccp": "𑄝𑄥𑄢𑄴𑄝𑄨𑄠𑄌𑄴𑄇"
+    },
+    "comments": null
   },
   "CL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كالاراسي",
       "be": "Каларашскі раён",
@@ -847,10 +1020,26 @@
       "uk": "Калараський район",
       "ur": "کالاراشی ضلع",
       "vi": "Quận Calarasi",
-      "zh": "卡拉拉什區"
-    }
+      "zh": "卡拉拉什區",
+      "lv": "Kelerasu rajons",
+      "ceb": "Raionul Călărași",
+      "sq": "Raionul Călărași",
+      "ccp": "𑄇𑄣𑄢𑄥𑄨"
+    },
+    "comments": null
   },
   "CM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تشيميشليا",
       "bg": "Чимишлийски район",
@@ -891,10 +1080,26 @@
       "uk": "Чимішлійський район",
       "ur": "چیمیشلیا ضلع",
       "vi": "Quận Cimislia",
-      "zh": "奇米什利亞區"
-    }
+      "zh": "奇米什利亞區",
+      "lv": "Čimišlijas rajons",
+      "ceb": "Cimișlia (distrito)",
+      "sq": "Raionul Cimișlia",
+      "ccp": "𑄥𑄨𑄟𑄨𑄌𑄴𑄣𑄨𑄠"
+    },
+    "comments": null
   },
   "CR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كريوليني",
       "bg": "Криуленски район",
@@ -934,10 +1139,26 @@
       "uk": "Кріуленський район",
       "ur": "کریولینی ضلع",
       "vi": "Quận Criuleni",
-      "zh": "克留萊尼區"
-    }
+      "zh": "克留萊尼區",
+      "lv": "Krjulenu rajons",
+      "ceb": "Criuleni",
+      "sq": "Raionul Criuleni",
+      "ccp": "𑄇𑄳𑄢𑄭𑄅𑄪𑄣𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "CS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كوسيني",
       "bg": "Каушенски район",
@@ -978,10 +1199,26 @@
       "uk": "Каушенський район",
       "ur": "کاؤشینی ضلع",
       "vi": "Quận Causeni",
-      "zh": "克烏謝尼區"
-    }
+      "zh": "克烏謝尼區",
+      "lv": "Keušenu rajons",
+      "ceb": "Raionul Căușeni",
+      "sq": "Raionul Căușeni",
+      "ccp": "𑄇𑄯𑄥𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "CT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كانتيمير",
       "bg": "Кантемирски район",
@@ -1023,10 +1260,26 @@
       "uk": "Кантемірський район",
       "ur": "کانتیمیر ضلع",
       "vi": "Quận Cantemir",
-      "zh": "岡代米爾區"
-    }
+      "zh": "岡代米爾區",
+      "lv": "Kantemiras rajons",
+      "ceb": "Cantemir",
+      "sq": "Raionul Cantemir",
+      "ccp": "𑄇𑄚𑄴𑄑𑄬𑄟𑄨𑄢𑄴"
+    },
+    "comments": null
   },
   "DO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة دوندوسيني",
       "bg": "Дондушенски район",
@@ -1066,10 +1319,26 @@
       "uk": "Дондушенський район",
       "ur": "دوندوشینی ضلع",
       "vi": "Quận Donduseni",
-      "zh": "棟杜謝尼區"
-    }
+      "zh": "棟杜謝尼區",
+      "lv": "Dondušenu rajons",
+      "ceb": "Dondușeni",
+      "sq": "Raionul Dondușeni",
+      "ccp": "𑄓𑄧𑄚𑄴𑄓𑄪𑄥𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "DR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة دروتشيا",
       "bg": "Дрокиевски район",
@@ -1109,10 +1378,27 @@
       "uk": "Дрокійський район",
       "ur": "دروکیا ضلع",
       "vi": "Quận Drochia",
-      "zh": "德羅基亞區"
-    }
+      "zh": "德羅基亞區",
+      "lv": "Drokijas rajons",
+      "ceb": "Raionul Drochia",
+      "sq": "Raionul Drochia",
+      "ccp": "𑄓𑄳𑄢𑄮𑄌𑄨𑄠",
+      "be": "Дрокіеўскі раён"
+    },
+    "comments": null
   },
   "DU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة دوباساري",
       "bg": "Дубосарски район",
@@ -1153,10 +1439,26 @@
       "uk": "Дубесарський район",
       "ur": "دوباساری ضلع",
       "vi": "Quận Dubasari",
-      "zh": "杜伯薩里區"
-    }
+      "zh": "杜伯薩里區",
+      "lv": "Dubesaru rajons",
+      "ceb": "Raionul Dubăsari",
+      "sq": "Raionul Dubăsari",
+      "ccp": "𑄓𑄪𑄝𑄥𑄢𑄨"
+    },
+    "comments": null
   },
   "FA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فاليستي",
       "bg": "Фалещки район",
@@ -1197,10 +1499,26 @@
       "uk": "Фалештський район",
       "ur": "فالیشتی ضلع",
       "vi": "Quận Falesti",
-      "zh": "弗萊什蒂區"
-    }
+      "zh": "弗萊什蒂區",
+      "lv": "Feleštu rajons",
+      "ceb": "Fălești",
+      "sq": "Raionul Falești",
+      "ccp": "𑄜𑄣𑄬𑄌𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "FL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فلوريستي",
       "be": "Фларэшцкі раён",
@@ -1242,10 +1560,26 @@
       "uk": "Флорештський район",
       "ur": "فلوریشتی ضلع",
       "vi": "Quận Floresti",
-      "zh": "弗洛雷什蒂區"
-    }
+      "zh": "弗洛雷什蒂區",
+      "lv": "Floreštu rajons",
+      "ceb": "Florești (distrito)",
+      "sq": "Raionul Florești",
+      "ccp": "𑄜𑄳𑄣𑄮𑄢𑄬𑄌𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "GL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة غلوديني",
       "bg": "Голденски район",
@@ -1286,10 +1620,26 @@
       "uk": "Глоденський район",
       "ur": "گلودینی ضلع",
       "vi": "Quận Glodeni",
-      "zh": "格洛代尼區"
-    }
+      "zh": "格洛代尼區",
+      "lv": "Glodenu rajons",
+      "ceb": "Glodeni (distrito)",
+      "sq": "Raionul Glodeni",
+      "ccp": "𑄉𑄳𑄣𑄮𑄓𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "HI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة هينسيستي",
       "bg": "Хънчещки район",
@@ -1329,10 +1679,27 @@
       "uk": "Гинчештський район",
       "ur": "ہینچیشتی ضلع",
       "vi": "Quận Hincesti",
-      "zh": "亨切什蒂區"
-    }
+      "zh": "亨切什蒂區",
+      "lv": "Hinčeštu rajons",
+      "ceb": "Hîncești (distrito)",
+      "sq": "Raionul Hîncești",
+      "ccp": "𑄦𑄨𑄚𑄴𑄥𑄬𑄌𑄴𑄑𑄨",
+      "hy": "Հնչեշտի շրջան"
+    },
+    "comments": null
   },
   "IA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة إيلوفيني",
       "bg": "Яловенски район",
@@ -1373,10 +1740,26 @@
       "uk": "Яловенський район",
       "ur": "یالووہنی ضلع",
       "vi": "Quận Ialoveni",
-      "zh": "亞洛韋尼區"
-    }
+      "zh": "亞洛韋尼區",
+      "lv": "Jalovenu rajons",
+      "ceb": "Ialoveni",
+      "sq": "Raionul Ialoveni",
+      "ccp": "𑄃𑄭𑄃𑄣𑄮𑄞𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "LE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ليوفا",
       "bg": "Леовски район",
@@ -1417,10 +1800,26 @@
       "uk": "Леовський район",
       "ur": "لیووا ضلع",
       "vi": "Quận Leova",
-      "zh": "萊奧瓦區"
-    }
+      "zh": "萊奧瓦區",
+      "lv": "Leovas rajons",
+      "ceb": "Leova",
+      "sq": "Raionul Leova",
+      "ccp": "𑄣𑄨𑄃𑄮𑄞"
+    },
+    "comments": null
   },
   "NI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة نيسبوريني",
       "bg": "Ниспоренски район",
@@ -1460,10 +1859,26 @@
       "uk": "Ніспоренський район",
       "ur": "نیسپورینی ضلع",
       "vi": "Quận Nisporeni",
-      "zh": "尼斯波雷尼區"
-    }
+      "zh": "尼斯波雷尼區",
+      "lv": "Nisperonu rajons",
+      "ceb": "Nisporeni",
+      "sq": "Raionul Nisporeni",
+      "ccp": "𑄚𑄨𑄌𑄴𑄛𑄧𑄢𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "OC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أونيتا",
       "bg": "Окницки район",
@@ -1504,10 +1919,26 @@
       "uk": "Окницький район",
       "ur": "اوکنیتسا ضلع",
       "vi": "Quận Ocnita",
-      "zh": "奧克尼察區"
-    }
+      "zh": "奧克尼察區",
+      "lv": "Oknicas rajons",
+      "ceb": "Raionul Ocnița",
+      "sq": "Raionul Ocnița",
+      "ccp": "𑄃𑄧𑄇𑄴𑄚𑄨𑄑"
+    },
+    "comments": null
   },
   "RE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ريزاينا",
       "bg": "Резински район",
@@ -1547,10 +1978,26 @@
       "uk": "Резинський район",
       "ur": "ریزینا ضلع",
       "vi": "Quận Rezina",
-      "zh": "雷濟納區"
-    }
+      "zh": "雷濟納區",
+      "lv": "Rezinas rajons",
+      "ceb": "Rezina",
+      "sq": "Raionul Rezina",
+      "ccp": "𑄢𑄬𑄎𑄚"
+    },
+    "comments": null
   },
   "RI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة روشكاني",
       "bg": "Ръшкански район",
@@ -1591,10 +2038,26 @@
       "uk": "Ришканський район",
       "ur": "ریشکانی ضلع",
       "vi": "Quận Riscani",
-      "zh": "雷什卡內區"
-    }
+      "zh": "雷什卡內區",
+      "lv": "Riškanu rajons",
+      "ceb": "Rîșcani",
+      "sq": "Raionul Rîșcani",
+      "ccp": "𑄢𑄨𑄌𑄴𑄇𑄚𑄨"
+    },
+    "comments": null
   },
   "SD": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة شولدانيشتي",
       "bg": "Шолданещки район",
@@ -1636,10 +2099,26 @@
       "uk": "Шолданештський район",
       "ur": "شولدانیشتی ضلع",
       "vi": "Quận Soldanesti",
-      "zh": "紹爾德內什蒂區"
-    }
+      "zh": "紹爾德內什蒂區",
+      "lv": "Šoldeneštu rajons",
+      "ceb": "Șoldănești",
+      "sq": "Raionul Șoldănești",
+      "ccp": "𑄥𑄮𑄣𑄴𑄓𑄚𑄬𑄌𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "SI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة سونجري",
       "bg": "Сънджерейски район",
@@ -1679,10 +2158,26 @@
       "uk": "Синжерейський район",
       "ur": "سینگیرئی ضلع",
       "vi": "Quận Singerei",
-      "zh": "森傑雷區"
-    }
+      "zh": "森傑雷區",
+      "lv": "Sindžerejas rajons",
+      "ceb": "Sîngerei",
+      "sq": "Raionul Sîngerei",
+      "ccp": "𑄥𑄨𑄚𑄴𑄉𑄬𑄢𑄭"
+    },
+    "comments": null
   },
   "ST": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ستراسيني",
       "be": "Страшэнскі раён",
@@ -1723,10 +2218,26 @@
       "uk": "Страшенський район",
       "ur": "ستراشینی ضلع",
       "vi": "Quận Straseni",
-      "zh": "斯特勒謝尼區"
-    }
+      "zh": "斯特勒謝尼區",
+      "lv": "Strešenu rajons",
+      "ceb": "Raionul Strășeni",
+      "sq": "Raionul Strășeni",
+      "ccp": "𑄑𑄳𑄢𑄥𑄬𑄚𑄨"
+    },
+    "comments": null
   },
   "SV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ستيفان فودا",
       "bg": "Щефанводски район",
@@ -1767,10 +2278,26 @@
       "uk": "Штефан-Водський район",
       "ur": "شتیفان وودا ضلع",
       "vi": "Quận Stefan Voda",
-      "zh": "斯特凡大公區"
-    }
+      "zh": "斯特凡大公區",
+      "lv": "Štefanvodes rajons",
+      "ceb": "Raionul Ștefan Vodă",
+      "sq": "Raionul Ștefan Vodă",
+      "ccp": "𑄌𑄳𑄑𑄬𑄜𑄚𑄴 𑄞𑄮𑄓"
+    },
+    "comments": null
   },
   "TE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تيلينيشتي",
       "bg": "Телнещки район",
@@ -1810,8 +2337,14 @@
       "uk": "Теленештський район",
       "ur": "تیلینیشتی ضلع",
       "vi": "Quận Telenesti",
-      "zh": "泰萊內什蒂區"
-    }
+      "zh": "泰萊內什蒂區",
+      "lv": "Teleneštu rajons",
+      "ceb": "Telenești (distrito)",
+      "sq": "Raionul Telenești",
+      "ccp": "𑄑𑄬𑄣𑄬𑄚𑄬𑄌𑄴𑄑𑄨",
+      "be": "Целянешцкі раён"
+    },
+    "comments": null
   }
 }
 

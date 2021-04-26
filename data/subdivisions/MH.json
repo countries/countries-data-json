@@ -1,6 +1,16 @@
 {
   "ALK": {
+    "name": "Ailuk",
+    "code": null,
     "unofficial_names": "Ailuk",
+    "geo": {
+      "latitude": 10.304809,
+      "longitude": 169.9416549,
+      "min_latitude": 10.2110366,
+      "min_longitude": 169.8527981,
+      "max_latitude": 10.4770933,
+      "max_longitude": 169.9918842
+    },
     "translations": {
       "en": "Ailuk Atoll",
       "ca": "Ailuk",
@@ -20,22 +30,28 @@
       "ru": "Аилук",
       "sv": "Ailuk",
       "vi": "Đảo san hô vòng Ailuk",
-      "zh": "艾盧克環礁"
+      "zh": "艾盧克環礁",
+      "ceb": "Ailuk Atoll (munisipyo)",
+      "fa": "آب‌سنگ حلقوی آئیلوک",
+      "ccp": "𑄃𑄭𑄣𑄪𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Ајлук"
     },
-    "geo": {
-      "latitude": 10.304809,
-      "longitude": 169.9416549,
-      "min_latitude": 10.2110366,
-      "min_longitude": 169.8527981,
-      "max_latitude": 10.4770933,
-      "max_longitude": 169.9918842
-    },
-    "name": "Ailuk"
+    "comments": null
   },
   "ALL": {
+    "name": "Ailinglapalap",
+    "code": null,
     "unofficial_names": [
       "Ailinglaplap"
     ],
+    "geo": {
+      "latitude": 7.283333300000001,
+      "longitude": 168.7833333,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Ailinglaplap Atoll",
       "de": "Ailinglapalap",
@@ -56,20 +72,27 @@
       "pt": "Ailinglaplap",
       "ru": "Аилинглапалап",
       "sv": "Ailinglapalap",
-      "vi": "Đảo san hô vòng Ailinglaplap"
+      "vi": "Đảo san hô vòng Ailinglaplap",
+      "ceb": "Ailinglaplap Atoll",
+      "zh": "埃林拉普拉普環礁",
+      "ccp": "𑄃𑄭𑄣𑄨𑄁𑄣𑄛𑄴𑄣𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "da": "Ailinglaplap",
+      "mk": "Ајлинглаплап"
     },
+    "comments": null
+  },
+  "ARN": {
+    "name": "Arno",
+    "code": null,
+    "unofficial_names": "Arno",
     "geo": {
-      "latitude": 7.283333300000001,
-      "longitude": 168.7833333,
+      "latitude": 7.063888899999999,
+      "longitude": 171.5583332,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Ailinglapalap"
-  },
-  "ARN": {
-    "unofficial_names": "Arno",
     "translations": {
       "en": "Arno",
       "de": "Arno-Atoll",
@@ -86,20 +109,28 @@
       "pl": "Arno",
       "ru": "Арно (атолл)",
       "sv": "Arnoatollen",
-      "vi": "Đảo san hô vòng Arno"
+      "vi": "Đảo san hô vòng Arno",
+      "ceb": "Arno Atoll (munisipyo)",
+      "zh": "阿爾諾環礁",
+      "fa": "آب‌سنگ حلقوی آرنو",
+      "ccp": "𑄃𑄢𑄴𑄚𑄮",
+      "es": "Arno (isla)",
+      "mk": "Арно (атол)"
     },
-    "geo": {
-      "latitude": 7.063888899999999,
-      "longitude": 171.5583332,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Arno"
+    "comments": null
   },
   "AUR": {
+    "name": "Aur",
+    "code": null,
     "unofficial_names": "Aur",
+    "geo": {
+      "latitude": 8.2750905,
+      "longitude": 171.0975397,
+      "min_latitude": 8.1297458,
+      "min_longitude": 171.0095787,
+      "max_latitude": 8.3719296,
+      "max_longitude": 171.1815612
+    },
     "translations": {
       "en": "Aur Atoll",
       "de": "Aur",
@@ -117,22 +148,29 @@
       "pl": "Aur",
       "pt": "Aur",
       "ru": "Аур",
-      "sv": "Aur"
+      "sv": "Aur",
+      "ceb": "Aur Atoll",
+      "zh": "奧爾環礁",
+      "fa": "آب‌سنگ حلقوی آئور",
+      "ccp": "𑄃𑄅𑄪𑄢𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Аур"
     },
-    "geo": {
-      "latitude": 8.2750905,
-      "longitude": 171.0975397,
-      "min_latitude": 8.1297458,
-      "min_longitude": 171.0095787,
-      "max_latitude": 8.3719296,
-      "max_longitude": 171.1815612
-    },
-    "name": "Aur"
+    "comments": null
   },
   "EBO": {
+    "name": "Ebon",
+    "code": null,
     "unofficial_names": [
       "Epoon"
     ],
+    "geo": {
+      "latitude": 4.6166113,
+      "longitude": 168.7249469,
+      "min_latitude": 4.5729556,
+      "min_longitude": 168.645512,
+      "max_latitude": 4.679086,
+      "max_longitude": 168.771286
+    },
     "translations": {
       "en": "Ebon Atoll",
       "be": "Атол Эбон",
@@ -150,22 +188,31 @@
       "lt": "Ebonas",
       "nl": "Ebon Atoll",
       "ru": "Эбон",
-      "sv": "Ebon"
+      "sv": "Ebon",
+      "ceb": "Ebon",
+      "zh": "埃崩環礁",
+      "fa": "آب‌سنگ حلقوی ابون",
+      "pl": "Ebon",
+      "ccp": "𑄃𑄬𑄝𑄧𑄚𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "da": "Ebon",
+      "mk": "Ебон"
     },
-    "geo": {
-      "latitude": 4.6166113,
-      "longitude": 168.7249469,
-      "min_latitude": 4.5729556,
-      "min_longitude": 168.645512,
-      "max_latitude": 4.679086,
-      "max_longitude": 168.771286
-    },
-    "name": "Ebon"
+    "comments": null
   },
   "ENI": {
+    "name": "Eniwetok",
+    "code": null,
     "unofficial_names": [
       "Eniwetok"
     ],
+    "geo": {
+      "latitude": 11.3415658,
+      "longitude": 162.3266731,
+      "min_latitude": 11.3357145,
+      "min_longitude": 162.3176258,
+      "max_latitude": 11.3603022,
+      "max_longitude": 162.3477857
+    },
     "translations": {
       "en": "Enewetak Atoll",
       "ca": "Enewetak",
@@ -193,22 +240,29 @@
       "sv": "Enewetak",
       "tr": "Enewetak Mercan Adaları",
       "uk": "Еніветок",
-      "vi": "Đảo san hô vòng Enewetak"
+      "vi": "Đảo san hô vòng Enewetak",
+      "ceb": "Enewetak Atoll",
+      "zh": "埃內韋塔克環礁",
+      "ccp": "𑄃𑄬𑄚𑄨𑄃𑄮𑄠𑄬𑄑𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "id": "Atol Enewetak",
+      "mk": "Еневетак"
     },
-    "geo": {
-      "latitude": 11.3415658,
-      "longitude": 162.3266731,
-      "min_latitude": 11.3357145,
-      "min_longitude": 162.3176258,
-      "max_latitude": 11.3603022,
-      "max_longitude": 162.3477857
-    },
-    "name": "Eniwetok"
+    "comments": null
   },
   "JAB": {
+    "name": "Jabat",
+    "code": null,
     "unofficial_names": [
       "Jabat"
     ],
+    "geo": {
+      "latitude": 7.7517,
+      "longitude": 168.9767,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Jabat Island",
       "cs": "Jabat",
@@ -225,22 +279,29 @@
       "nl": "Jabat Island",
       "pl": "Jabwot",
       "ru": "Джабат",
-      "sv": "Jabwot"
+      "sv": "Jabwot",
+      "ceb": "Jabat Island (munisipyo)",
+      "zh": "賈普坦島",
+      "fa": "جزیره جابات",
+      "ccp": "𑄎𑄝𑄧𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "mk": "Џабат"
     },
-    "geo": {
-      "latitude": 7.7517,
-      "longitude": 168.9767,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Jabat"
+    "comments": null
   },
   "JAL": {
+    "name": "Jaluit",
+    "code": null,
     "unofficial_names": [
       "Jālwōj"
     ],
+    "geo": {
+      "latitude": 5.9092582,
+      "longitude": 169.6372575,
+      "min_latitude": 5.904506,
+      "min_longitude": 169.6336838,
+      "max_latitude": 5.9135236,
+      "max_longitude": 169.6408152
+    },
     "translations": {
       "en": "Jaluit Atoll",
       "ar": "جالويت",
@@ -263,22 +324,28 @@
       "pl": "Jaluit",
       "ru": "Джалуит",
       "sv": "Jaluit",
-      "vi": "Đảo san hô vòng Jaluit"
+      "vi": "Đảo san hô vòng Jaluit",
+      "ceb": "Jaluit Atoll (munisipyo)",
+      "zh": "賈盧伊特環礁",
+      "ccp": "𑄎𑄣𑄨𑄠𑄬𑄖𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Џалуит"
     },
-    "geo": {
-      "latitude": 5.9092582,
-      "longitude": 169.6372575,
-      "min_latitude": 5.904506,
-      "min_longitude": 169.6336838,
-      "max_latitude": 5.9135236,
-      "max_longitude": 169.6408152
-    },
-    "name": "Jaluit"
+    "comments": null
   },
   "KIL": {
+    "name": "Kili",
+    "code": null,
     "unofficial_names": [
       "Kōle"
     ],
+    "geo": {
+      "latitude": 5.6405493,
+      "longitude": 169.1181599,
+      "min_latitude": 5.637340099999999,
+      "min_longitude": 169.1113473,
+      "max_latitude": 5.6515189,
+      "max_longitude": 169.13229
+    },
     "translations": {
       "en": "Kili Island",
       "be": "Востраў Кілі",
@@ -295,22 +362,28 @@
       "lt": "Kilis",
       "nl": "Kili Island",
       "pl": "Kili",
-      "ru": "Кили"
+      "ru": "Кили",
+      "zh": "吉利島",
+      "fa": "جزیره کیلی",
+      "ccp": "𑄇𑄨𑄣𑄨 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "mk": "Кили"
     },
-    "geo": {
-      "latitude": 5.6405493,
-      "longitude": 169.1181599,
-      "min_latitude": 5.637340099999999,
-      "min_longitude": 169.1113473,
-      "max_latitude": 5.6515189,
-      "max_longitude": 169.13229
-    },
-    "name": "Kili"
+    "comments": null
   },
   "KWA": {
+    "name": "Kwajalein",
+    "code": null,
     "unofficial_names": [
       "Kuwajleen"
     ],
+    "geo": {
+      "latitude": 9.1898235,
+      "longitude": 167.4242972,
+      "min_latitude": 8.712679099999999,
+      "min_longitude": 166.8109131,
+      "max_latitude": 9.4097746,
+      "max_longitude": 167.7770233
+    },
     "translations": {
       "en": "Kwajalein",
       "be": "Атол Кваджалейн",
@@ -339,20 +412,27 @@
       "sk": "Kwajalein",
       "sv": "Kwajalein",
       "uk": "Кваджалейн",
-      "vi": "Kwajalein"
+      "vi": "Kwajalein",
+      "ceb": "Kwajalein",
+      "ms": "Kwajalein",
+      "zh": "瓜加林環礁",
+      "ccp": "𑄇𑄳𑄦𑄧𑄎𑄣𑄬𑄭𑄚𑄴",
+      "mk": "Кваџалејн"
     },
-    "geo": {
-      "latitude": 9.1898235,
-      "longitude": 167.4242972,
-      "min_latitude": 8.712679099999999,
-      "min_longitude": 166.8109131,
-      "max_latitude": 9.4097746,
-      "max_longitude": 167.7770233
-    },
-    "name": "Kwajalein"
+    "comments": null
   },
   "LAE": {
+    "name": "Lae",
+    "code": null,
     "unofficial_names": "Lae",
+    "geo": {
+      "latitude": 8.9411081,
+      "longitude": 166.2363248,
+      "min_latitude": 8.9150051,
+      "min_longitude": 166.2089826,
+      "max_latitude": 8.967658199999999,
+      "max_longitude": 166.2777327
+    },
     "translations": {
       "en": "Lae Atoll",
       "de": "Lae-Atoll",
@@ -369,22 +449,29 @@
       "pl": "Lea",
       "pt": "Atol Lae",
       "ru": "Лаэ",
-      "sv": "Lae"
+      "sv": "Lae",
+      "ceb": "Lae",
+      "zh": "拉埃環礁",
+      "fa": "آب‌سنگ حلقوی لائه",
+      "ccp": "𑄣 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Лае"
     },
-    "geo": {
-      "latitude": 8.9411081,
-      "longitude": 166.2363248,
-      "min_latitude": 8.9150051,
-      "min_longitude": 166.2089826,
-      "max_latitude": 8.967658199999999,
-      "max_longitude": 166.2777327
-    },
-    "name": "Lae"
+    "comments": null
   },
   "LIB": {
+    "name": "Lib",
+    "code": null,
     "unofficial_names": [
       "Ellep"
     ],
+    "geo": {
+      "latitude": 8.3131833,
+      "longitude": 167.3758673,
+      "min_latitude": 8.311995399999999,
+      "min_longitude": 167.3744881,
+      "max_latitude": 8.3155625,
+      "max_longitude": 167.3767197
+    },
     "translations": {
       "en": "Lib Island",
       "de": "Lib",
@@ -400,20 +487,27 @@
       "nl": "Lib Island",
       "pl": "Lib",
       "ru": "Либ",
-      "sv": "Lib"
+      "sv": "Lib",
+      "ceb": "Lib Island (munisipyo)",
+      "zh": "里布島",
+      "fa": "جزیره لیب",
+      "ccp": "𑄢𑄨𑄛𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "mk": "Либ"
     },
-    "geo": {
-      "latitude": 8.3131833,
-      "longitude": 167.3758673,
-      "min_latitude": 8.311995399999999,
-      "min_longitude": 167.3744881,
-      "max_latitude": 8.3155625,
-      "max_longitude": 167.3767197
-    },
-    "name": "Lib"
+    "comments": null
   },
   "LIK": {
+    "name": "Likiep",
+    "code": null,
     "unofficial_names": "Likiep",
+    "geo": {
+      "latitude": 9.816944399999999,
+      "longitude": 169.3052778,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Likiep Atoll",
       "de": "Likiep",
@@ -428,22 +522,28 @@
       "nl": "Likiep Atoll",
       "pl": "Likiep",
       "ru": "Ликиеп",
-      "sv": "Likiep"
+      "sv": "Likiep",
+      "ceb": "Likiep Atoll (munisipyo)",
+      "zh": "利基埃普環礁",
+      "ccp": "𑄣𑄨𑄇𑄨𑄠𑄬𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Ликиеп"
     },
-    "geo": {
-      "latitude": 9.816944399999999,
-      "longitude": 169.3052778,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Likiep"
+    "comments": null
   },
   "MAJ": {
+    "name": "Majuro",
+    "code": null,
     "unofficial_names": [
       "Mājro"
     ],
+    "geo": {
+      "latitude": 7.1164214,
+      "longitude": 171.1857736,
+      "min_latitude": 7.0525503,
+      "min_longitude": 171.0259247,
+      "max_latitude": 7.2235615,
+      "max_longitude": 171.3849867
+    },
     "translations": {
       "en": "Majuro",
       "af": "Majuro",
@@ -500,20 +600,34 @@
       "tr": "Majuro",
       "uk": "Маджуро",
       "ur": "ماجورو",
-      "vi": "Majuro"
+      "vi": "Majuro",
+      "cy": "Majuro",
+      "ceb": "Majuro Atoll (munisipyo)",
+      "sr_Latn": "Madžuro",
+      "zh": "馬久羅",
+      "yue_Hans": "马祖卢",
+      "sq": "Majuro",
+      "ccp": "𑄟𑄎𑄪𑄢𑄮",
+      "pa": "ਮਾਜੁਰੋ",
+      "yue": "馬祖盧",
+      "uz": "Majuro",
+      "bs": "Majuro",
+      "mk": "Маџуро"
     },
-    "geo": {
-      "latitude": 7.1164214,
-      "longitude": 171.1857736,
-      "min_latitude": 7.0525503,
-      "min_longitude": 171.0259247,
-      "max_latitude": 7.2235615,
-      "max_longitude": 171.3849867
-    },
-    "name": "Majuro"
+    "comments": null
   },
   "MAL": {
+    "name": "Maloelap",
+    "code": null,
     "unofficial_names": "Maloelap",
+    "geo": {
+      "latitude": 8.7735171,
+      "longitude": 171.0312989,
+      "min_latitude": 8.4817105,
+      "min_longitude": 170.827446,
+      "max_latitude": 8.9118677,
+      "max_longitude": 171.2449265
+    },
     "translations": {
       "en": "Maloelap Atoll",
       "de": "Maloelap",
@@ -532,22 +646,29 @@
       "ru": "Малоэлап",
       "sv": "Maloelap",
       "tr": "maloelap atoll",
-      "vi": "Maloelap"
+      "vi": "Maloelap",
+      "ceb": "Maloelap Atoll",
+      "zh": "馬洛埃拉普環礁",
+      "fa": "آب‌سنگ حلقوی ماولاپ",
+      "ccp": "𑄟𑄣𑄮𑄠𑄬𑄣𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Малоелап"
     },
-    "geo": {
-      "latitude": 8.7735171,
-      "longitude": 171.0312989,
-      "min_latitude": 8.4817105,
-      "min_longitude": 170.827446,
-      "max_latitude": 8.9118677,
-      "max_longitude": 171.2449265
-    },
-    "name": "Maloelap"
+    "comments": null
   },
   "MEJ": {
+    "name": "Mejit",
+    "code": null,
     "unofficial_names": [
       "Mājeej"
     ],
+    "geo": {
+      "latitude": 10.2936198,
+      "longitude": 170.8709872,
+      "min_latitude": 10.2668883,
+      "min_longitude": 170.8581735,
+      "max_latitude": 10.306897,
+      "max_longitude": 170.8803177
+    },
     "translations": {
       "en": "Mejit Island",
       "de": "Mejit",
@@ -562,20 +683,28 @@
       "nl": "Mejit Island",
       "pl": "Mejit",
       "ru": "Меджит",
-      "sv": "Mejit"
+      "sv": "Mejit",
+      "ceb": "Mejit Island",
+      "zh": "梅吉特島",
+      "fa": "آب‌سنگ حلقوی میجیت",
+      "ccp": "𑄟𑄬𑄎𑄨𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ca": "Mejit",
+      "mk": "Меџит"
     },
-    "geo": {
-      "latitude": 10.2936198,
-      "longitude": 170.8709872,
-      "min_latitude": 10.2668883,
-      "min_longitude": 170.8581735,
-      "max_latitude": 10.306897,
-      "max_longitude": 170.8803177
-    },
-    "name": "Mejit"
+    "comments": null
   },
   "MIL": {
+    "name": "Mili",
+    "code": null,
     "unofficial_names": "Mili",
+    "geo": {
+      "latitude": 6.1339492,
+      "longitude": 171.909826,
+      "min_latitude": 5.9619976,
+      "min_longitude": 171.7130469,
+      "max_latitude": 6.263768799999999,
+      "max_longitude": 172.1221161
+    },
     "translations": {
       "en": "Mili Atoll",
       "de": "Mili",
@@ -592,20 +721,27 @@
       "nl": "Mili Atoll",
       "pl": "Mili",
       "ru": "Мили",
-      "sv": "Mili"
+      "sv": "Mili",
+      "ceb": "Mili Atoll (pulong kagaangan)",
+      "zh": "米利環礁",
+      "fa": "آب‌سنگ حلقوی میلی",
+      "ccp": "𑄟𑄨𑄢𑄨 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Мили"
     },
-    "geo": {
-      "latitude": 6.1339492,
-      "longitude": 171.909826,
-      "min_latitude": 5.9619976,
-      "min_longitude": 171.7130469,
-      "max_latitude": 6.263768799999999,
-      "max_longitude": 172.1221161
-    },
-    "name": "Mili"
+    "comments": null
   },
   "NMK": {
+    "name": "Namorik",
+    "code": null,
     "unofficial_names": "Namorik",
+    "geo": {
+      "latitude": 5.6172553,
+      "longitude": 168.1293615,
+      "min_latitude": 5.5870997,
+      "min_longitude": 168.0974954,
+      "max_latitude": 5.6431987,
+      "max_longitude": 168.1334145
+    },
     "translations": {
       "en": "Namdrik Atoll",
       "de": "Namorik",
@@ -622,22 +758,29 @@
       "pl": "Namorik",
       "pt": "Namorik",
       "ru": "Наморик",
-      "sv": "Namorik"
+      "sv": "Namorik",
+      "ceb": "Namdrik",
+      "zh": "納莫里克環礁",
+      "fa": "آب‌سنگ حلقوی نامداریک",
+      "ccp": "𑄚𑄟𑄴𑄓𑄳𑄢𑄨𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Намдрик"
     },
-    "geo": {
-      "latitude": 5.6172553,
-      "longitude": 168.1293615,
-      "min_latitude": 5.5870997,
-      "min_longitude": 168.0974954,
-      "max_latitude": 5.6431987,
-      "max_longitude": 168.1334145
-    },
-    "name": "Namorik"
+    "comments": null
   },
   "NMU": {
+    "name": "Namu",
+    "code": null,
     "unofficial_names": [
       "Namo"
     ],
+    "geo": {
+      "latitude": 7.900718800000001,
+      "longitude": 168.2248291,
+      "min_latitude": 7.744331799999999,
+      "min_longitude": 167.9631042,
+      "max_latitude": 8.2196454,
+      "max_longitude": 168.3132935
+    },
     "translations": {
       "en": "Namu Atoll",
       "cs": "Namu",
@@ -656,20 +799,27 @@
       "pl": "Namu",
       "pt": "Atol Namu",
       "ru": "Наму",
-      "sv": "Namu"
+      "sv": "Namu",
+      "ceb": "Namu Atoll (munisipyo)",
+      "zh": "納木環礁",
+      "fa": "آب‌سنگ حلقوی نامو",
+      "ccp": "𑄚𑄟𑄪 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Наму"
     },
-    "geo": {
-      "latitude": 7.900718800000001,
-      "longitude": 168.2248291,
-      "min_latitude": 7.744331799999999,
-      "min_longitude": 167.9631042,
-      "max_latitude": 8.2196454,
-      "max_longitude": 168.3132935
-    },
-    "name": "Namu"
+    "comments": null
   },
   "RON": {
+    "name": "Rongelap",
+    "code": null,
     "unofficial_names": "Rongelap",
+    "geo": {
+      "latitude": 11.3603915,
+      "longitude": 166.7798172,
+      "min_latitude": 11.1462347,
+      "min_longitude": 166.6118289,
+      "max_latitude": 11.5044166,
+      "max_longitude": 167.0652294
+    },
     "translations": {
       "en": "Rongelap Atoll",
       "be": "Атол Рангелап",
@@ -690,20 +840,27 @@
       "pt": "Atol Rongelap",
       "ru": "Ронгелап",
       "sv": "Rongelap",
-      "vi": "Rongelap"
+      "vi": "Rongelap",
+      "ceb": "Rongelap Atoll (munisipyo)",
+      "zh": "朗格拉普環礁",
+      "ccp": "𑄢𑄧𑄚𑄴𑄉𑄬𑄣𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "uk": "Атол Ронгелап",
+      "mk": "Ронгелап"
     },
-    "geo": {
-      "latitude": 11.3603915,
-      "longitude": 166.7798172,
-      "min_latitude": 11.1462347,
-      "min_longitude": 166.6118289,
-      "max_latitude": 11.5044166,
-      "max_longitude": 167.0652294
-    },
-    "name": "Rongelap"
+    "comments": null
   },
   "UJA": {
+    "name": "Ujae",
+    "code": null,
     "unofficial_names": "Ujae",
+    "geo": {
+      "latitude": 9.0582174,
+      "longitude": 165.6440842,
+      "min_latitude": 8.922806,
+      "min_longitude": 165.5181098,
+      "max_latitude": 9.2262549,
+      "max_longitude": 165.7703877
+    },
     "translations": {
       "en": "Ujae Atoll",
       "de": "Ujae",
@@ -720,23 +877,19 @@
       "nl": "Ujae Atoll",
       "pl": "Ujae",
       "ru": "Уджаэ",
-      "sv": "Ujae"
+      "sv": "Ujae",
+      "ceb": "Ujae Atoll (munisipyo)",
+      "zh": "烏賈環礁",
+      "fa": "آب‌سنگ حلقوی اوجائه",
+      "ccp": "𑄅𑄪𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Уџае"
     },
-    "geo": {
-      "latitude": 9.0582174,
-      "longitude": 165.6440842,
-      "min_latitude": 8.922806,
-      "min_longitude": 165.5181098,
-      "max_latitude": 9.2262549,
-      "max_longitude": 165.7703877
-    },
-    "name": "Ujae"
+    "comments": null
   },
   "UJL": {
+    "name": "Ujelang",
+    "code": null,
     "unofficial_names": "Ujelang",
-    "translations": {
-      "en": "Ujelang"
-    },
     "geo": {
       "latitude": 9.77,
       "longitude": 160.9752777,
@@ -745,14 +898,27 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Ujelang"
+    "translations": {
+      "en": "Ujelang"
+    },
+    "comments": null
   },
   "UTI": {
+    "name": "Utirik",
+    "code": null,
     "unofficial_names": [
       "Utirik",
       "Utrōk",
       "Utrōnk"
     ],
+    "geo": {
+      "latitude": 11.2226114,
+      "longitude": 169.8544701,
+      "min_latitude": 11.2214237,
+      "min_longitude": 169.8474976,
+      "max_latitude": 11.2233218,
+      "max_longitude": 169.8563474
+    },
     "translations": {
       "en": "Utirik Atoll",
       "be": "Атол Утырык",
@@ -771,22 +937,29 @@
       "pl": "Utirik",
       "pt": "Atol Utirik",
       "ru": "Утирик",
-      "sv": "Utirik"
+      "sv": "Utirik",
+      "ceb": "Utrik",
+      "zh": "烏蒂里克環礁",
+      "fa": "آب‌سنگ حلقوی اوتیریک",
+      "ccp": "𑄅𑄪𑄑𑄨𑄢𑄨𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Утирик"
     },
-    "geo": {
-      "latitude": 11.2226114,
-      "longitude": 169.8544701,
-      "min_latitude": 11.2214237,
-      "min_longitude": 169.8474976,
-      "max_latitude": 11.2233218,
-      "max_longitude": 169.8563474
-    },
-    "name": "Utirik"
+    "comments": null
   },
   "WTH": {
+    "name": "Wotho",
+    "code": null,
     "unofficial_names": [
       "Wōtto"
     ],
+    "geo": {
+      "latitude": 10.1024946,
+      "longitude": 165.9811564,
+      "min_latitude": 10.0144328,
+      "min_longitude": 165.9193897,
+      "max_latitude": 10.1839202,
+      "max_longitude": 166.0299827
+    },
     "translations": {
       "en": "Wotho Atoll",
       "de": "Wotho",
@@ -803,20 +976,26 @@
       "nl": "Wotho Atoll",
       "pl": "Wotho",
       "ru": "Вото",
-      "sv": "Wotho"
+      "sv": "Wotho",
+      "ceb": "Wotho",
+      "zh": "沃特環礁",
+      "ccp": "𑄤𑄗𑄮 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Вото"
     },
-    "geo": {
-      "latitude": 10.1024946,
-      "longitude": 165.9811564,
-      "min_latitude": 10.0144328,
-      "min_longitude": 165.9193897,
-      "max_latitude": 10.1839202,
-      "max_longitude": 166.0299827
-    },
-    "name": "Wotho"
+    "comments": null
   },
   "WTJ": {
+    "name": "Wotje",
+    "code": null,
     "unofficial_names": "Wotje",
+    "geo": {
+      "latitude": 9.452366999999999,
+      "longitude": 170.237213,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Wotje Atoll",
       "de": "Wotje",
@@ -833,19 +1012,26 @@
       "pt": "Atol Wotje",
       "ru": "Вотье",
       "sv": "Wotje",
-      "uk": "Вотьє"
+      "uk": "Вотьє",
+      "ceb": "Wotje Atoll",
+      "zh": "沃特傑環礁",
+      "ccp": "𑄤𑄖𑄴𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Вотје"
     },
+    "comments": null
+  },
+  "L": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 9.452366999999999,
-      "longitude": 170.237213,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Wotje"
-  },
-  "L": {
     "translations": {
       "ar": "راليك تشين",
       "bn": "রালিকচেইন",
@@ -883,10 +1069,28 @@
       "tr": "Ralik Chain",
       "uk": "Ланцюг Ралік",
       "ur": "رالیک چین",
-      "vi": "Chuỗi đảo Ralik"
-    }
+      "vi": "Chuỗi đảo Ralik",
+      "lv": "Raliku salas",
+      "ceb": "Ralik Chain",
+      "zh": "拉利克礁鏈",
+      "fa": "زنجیره رالیک",
+      "ccp": "𑄢𑄣𑄨𑄇𑄴 𑄌𑄬𑄭𑄚𑄴",
+      "mk": "Ралички Острови"
+    },
+    "comments": null
   },
   "T": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سلسلة راتاك",
       "bn": "রাতাক চেইন",
@@ -925,8 +1129,15 @@
       "tr": "Ratak Chain",
       "uk": "Ланцюг Ратак",
       "ur": "راتاک چین",
-      "vi": "Chuỗi đảo Ratak"
-    }
+      "vi": "Chuỗi đảo Ratak",
+      "lv": "Rataku salas",
+      "ceb": "Ratak Chain",
+      "zh": "拉塔克礁鏈",
+      "fa": "زنجیره راتاک",
+      "ccp": "𑄢𑄑𑄇𑄴 𑄌𑄬𑄭𑄚𑄴",
+      "mk": "Ратачки Острови"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "CE": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": "Central",
+    "geo": {
+      "latitude": -21.1672276,
+      "longitude": 26.419389,
+      "min_latitude": -23.956503,
+      "min_longitude": 23.885815,
+      "max_latitude": -19.0024569,
+      "max_longitude": 29.3607809
+    },
     "translations": {
       "en": "Central",
       "af": "Sentraal distrik, Botswana",
@@ -41,23 +51,30 @@
       "uk": "Центральний округ",
       "ur": "وسطی ضلع",
       "vi": "Quận Miền Trung",
-      "zh": "中部區"
+      "zh": "中部區",
+      "lv": "Centrālais distrikts",
+      "ceb": "Central District (distrito sa Botswana)",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "ca": "Districte Central",
+      "mk": "Централен округ"
     },
-    "geo": {
-      "latitude": -21.1672276,
-      "longitude": 26.419389,
-      "min_latitude": -23.956503,
-      "min_longitude": 23.885815,
-      "max_latitude": -19.0024569,
-      "max_longitude": 29.3607809
-    },
-    "name": "Central"
+    "comments": null
   },
   "GH": {
+    "name": "Ghanzi",
+    "code": null,
     "unofficial_names": [
       "Ghansi",
       "Khanzi"
     ],
+    "geo": {
+      "latitude": -21.698306,
+      "longitude": 21.64872,
+      "min_latitude": -21.7141347,
+      "min_longitude": 21.6237544,
+      "max_latitude": -21.6784066,
+      "max_longitude": 21.6658974
+    },
     "translations": {
       "en": "Ghanzi",
       "af": "Ghanzi distrik",
@@ -97,20 +114,28 @@
       "tr": "Ghanzi Bölgesi",
       "uk": "Ганзі",
       "ur": "غانزی ضلع",
-      "vi": "Quận Ghanzi"
+      "vi": "Quận Ghanzi",
+      "lv": "Ganzi distrikts",
+      "ceb": "Ghanzi District",
+      "zh": "杭濟區",
+      "ccp": "𑄊𑄚𑄴𑄎𑄨",
+      "ca": "Districte de Ghanzi",
+      "mk": "Ганзи"
     },
-    "geo": {
-      "latitude": -21.698306,
-      "longitude": 21.64872,
-      "min_latitude": -21.7141347,
-      "min_longitude": 21.6237544,
-      "max_latitude": -21.6784066,
-      "max_longitude": 21.6658974
-    },
-    "name": "Ghanzi"
+    "comments": null
   },
   "KG": {
+    "name": "Kgalagadi",
+    "code": null,
     "unofficial_names": "Kgalagadi",
+    "geo": {
+      "latitude": -24.7550285,
+      "longitude": 21.8568586,
+      "min_latitude": -26.9072461,
+      "min_longitude": 19.999615,
+      "max_latitude": -23.277603,
+      "max_longitude": 24.4867379
+    },
     "translations": {
       "en": "Kgalagadi",
       "af": "Kgalagadi distrik",
@@ -150,20 +175,28 @@
       "tr": "Kgalagadi Bölgesi",
       "uk": "Кгалагаді",
       "ur": "کگالاگادی ضلع",
-      "vi": "Quận Kgalagadi"
+      "vi": "Quận Kgalagadi",
+      "lv": "Khalahadi distrikts",
+      "ceb": "Kgalagadi District",
+      "zh": "卡拉哈迪區",
+      "ccp": "𑄉𑄣𑄉𑄓𑄨",
+      "ca": "Districte de Kgalagadi",
+      "mk": "Кгалагади"
     },
-    "geo": {
-      "latitude": -24.7550285,
-      "longitude": 21.8568586,
-      "min_latitude": -26.9072461,
-      "min_longitude": 19.999615,
-      "max_latitude": -23.277603,
-      "max_longitude": 24.4867379
-    },
-    "name": "Kgalagadi"
+    "comments": null
   },
   "KL": {
+    "name": "Kgatleng",
+    "code": null,
     "unofficial_names": "Kgatleng",
+    "geo": {
+      "latitude": -24.1970445,
+      "longitude": 26.2304616,
+      "min_latitude": -24.6919435,
+      "min_longitude": 25.9028879,
+      "max_latitude": -23.5624137,
+      "max_longitude": 26.9604493
+    },
     "translations": {
       "en": "Kgatleng",
       "af": "Kgatleng distrik",
@@ -204,20 +237,28 @@
       "tr": "Kgatleng Bölgesi",
       "uk": "Кгатленг",
       "ur": "کگاٹلینگ ضلع",
-      "vi": "Quận Kgatleng"
+      "vi": "Quận Kgatleng",
+      "lv": "Khatlenas distrikts",
+      "ceb": "Kgatleng District",
+      "zh": "卡特倫區",
+      "ccp": "𑄉𑄖𑄴𑄣𑄬𑄁",
+      "ca": "Districte de Kgatleng",
+      "mk": "Кгатленг"
     },
-    "geo": {
-      "latitude": -24.1970445,
-      "longitude": 26.2304616,
-      "min_latitude": -24.6919435,
-      "min_longitude": 25.9028879,
-      "max_latitude": -23.5624137,
-      "max_longitude": 26.9604493
-    },
-    "name": "Kgatleng"
+    "comments": null
   },
   "KW": {
+    "name": "Kweneng",
+    "code": null,
     "unofficial_names": "Kweneng",
+    "geo": {
+      "latitude": -23.8367249,
+      "longitude": 25.2837585,
+      "min_latitude": -24.7757569,
+      "min_longitude": 22.9627589,
+      "max_latitude": -22.955476,
+      "max_longitude": 26.0196919
+    },
     "translations": {
       "en": "Kweneng",
       "af": "Kweneng distrik",
@@ -257,20 +298,28 @@
       "tr": "Kweneng Bölgesi",
       "uk": "Квененг",
       "ur": "کوینینگ ضلع",
-      "vi": "Quận Kweneng"
+      "vi": "Quận Kweneng",
+      "lv": "Kvenenas distrikts",
+      "ceb": "Kweneng District",
+      "zh": "奎嫩區",
+      "ccp": "𑄇𑄪𑄠𑄬𑄚𑄬𑄁",
+      "ca": "Districte de Kweneng",
+      "mk": "Квененг"
     },
-    "geo": {
-      "latitude": -23.8367249,
-      "longitude": 25.2837585,
-      "min_latitude": -24.7757569,
-      "min_longitude": 22.9627589,
-      "max_latitude": -22.955476,
-      "max_longitude": 26.0196919
-    },
-    "name": "Kweneng"
+    "comments": null
   },
   "NE": {
+    "name": "North-East",
+    "code": null,
     "unofficial_names": "North-East",
+    "geo": {
+      "latitude": -20.9030555,
+      "longitude": 27.4556388,
+      "min_latitude": -21.571556,
+      "min_longitude": 27.2119901,
+      "max_latitude": -20.473381,
+      "max_longitude": 28.013578
+    },
     "translations": {
       "en": "North East",
       "af": "Noord-Oos distrik, Botswana",
@@ -309,20 +358,28 @@
       "tr": "Kuzeydoğu Bölgesi",
       "uk": "Північно-Східний округ",
       "ur": "شمال-مشرقی ضلع",
-      "vi": "Quận Đông-Bắc"
+      "vi": "Quận Đông-Bắc",
+      "lv": "Ziemeļaustrumu distrikts",
+      "ceb": "North East District (distrito sa Botswana)",
+      "zh": "東北區",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄪𑄇𑄴",
+      "ca": "Districte del Nord-est",
+      "mk": "Североисточен округ"
     },
-    "geo": {
-      "latitude": -20.9030555,
-      "longitude": 27.4556388,
-      "min_latitude": -21.571556,
-      "min_longitude": 27.2119901,
-      "max_latitude": -20.473381,
-      "max_longitude": 28.013578
-    },
-    "name": "North-East"
+    "comments": null
   },
   "NW": {
+    "name": "North-West",
+    "code": null,
     "unofficial_names": "North-West",
+    "geo": {
+      "latitude": -19.1905321,
+      "longitude": 23.0011989,
+      "min_latitude": -21.0002549,
+      "min_longitude": 20.9969499,
+      "max_latitude": -17.780813,
+      "max_longitude": 25.9879499
+    },
     "translations": {
       "en": "North West",
       "af": "Noord-Wes distrik, Botswana",
@@ -362,20 +419,28 @@
       "tr": "Kuzeybatı Bölgesi",
       "uk": "Північно-Західний округ",
       "ur": "شمال-مغربی ضلع",
-      "vi": "Quận Tây-Bắc"
+      "vi": "Quận Tây-Bắc",
+      "lv": "Ziemeļrietumu distrikts",
+      "ceb": "North West District",
+      "zh": "西北區",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴",
+      "ca": "Districte del Nord-oest",
+      "mk": "Северозападен округ"
     },
-    "geo": {
-      "latitude": -19.1905321,
-      "longitude": 23.0011989,
-      "min_latitude": -21.0002549,
-      "min_longitude": 20.9969499,
-      "max_latitude": -17.780813,
-      "max_longitude": 25.9879499
-    },
-    "name": "North-West"
+    "comments": null
   },
   "SE": {
+    "name": "South-East",
+    "code": null,
     "unofficial_names": "South-East",
+    "geo": {
+      "latitude": -24.9366094,
+      "longitude": 25.8048521,
+      "min_latitude": -25.4709631,
+      "min_longitude": 25.5438541,
+      "max_latitude": -24.511588,
+      "max_longitude": 26.1813639
+    },
     "translations": {
       "en": "South East",
       "af": "Suid-Oos distrik, Botswana",
@@ -416,20 +481,28 @@
       "tr": "Güneydoğu Bölgesi",
       "uk": "Південно-Східний округ",
       "ur": "جنوب-مشرقی ضلع",
-      "vi": "Quận Đông-Nam"
+      "vi": "Quận Đông-Nam",
+      "lv": "Dienvidaustrumu distrikts",
+      "ceb": "South East District",
+      "zh": "東南區",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄪𑄇𑄴",
+      "ca": "Districte del Sud-est",
+      "mk": "Југоисточен округ"
     },
-    "geo": {
-      "latitude": -24.9366094,
-      "longitude": 25.8048521,
-      "min_latitude": -25.4709631,
-      "min_longitude": 25.5438541,
-      "max_latitude": -24.511588,
-      "max_longitude": 26.1813639
-    },
-    "name": "South-East"
+    "comments": null
   },
   "SO": {
+    "name": "Southern",
+    "code": null,
     "unofficial_names": "Southern",
+    "geo": {
+      "latitude": -24.823384,
+      "longitude": 24.7142918,
+      "min_latitude": -25.8257559,
+      "min_longitude": 23.048267,
+      "max_latitude": -23.9969671,
+      "max_longitude": 25.693459
+    },
     "translations": {
       "en": "Southern",
       "af": "Suid distrik, Botswana",
@@ -469,19 +542,29 @@
       "tr": "Güney Bölgesi",
       "uk": "Південний округ",
       "ur": "سدرن ضلع",
-      "vi": "Quận Miền Nam"
+      "vi": "Quận Miền Nam",
+      "lv": "Dienvidu distrikts",
+      "ceb": "Southern District",
+      "zh": "南部區",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄮𑄘𑄨",
+      "az": "Cənubi dairə",
+      "ca": "Districte del Sud",
+      "mk": "Јужен округ"
     },
-    "geo": {
-      "latitude": -24.823384,
-      "longitude": 24.7142918,
-      "min_latitude": -25.8257559,
-      "min_longitude": 23.048267,
-      "max_latitude": -23.9969671,
-      "max_longitude": 25.693459
-    },
-    "name": "Southern"
+    "comments": null
   },
   "FR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Francistown",
       "ar": "فرانسيس",
@@ -525,10 +608,29 @@
       "tr": "Francistown",
       "uk": "Франсистаун",
       "ur": "فرانسس ٹاؤن",
-      "vi": "Francistown"
-    }
+      "vi": "Francistown",
+      "lv": "Frensistauna",
+      "ceb": "Francistown",
+      "zh": "弗朗西斯敦",
+      "ccp": "𑄜𑄳𑄢𑄚𑄴𑄥𑄨𑄌𑄴𑄑𑄅𑄪𑄚𑄴",
+      "cs": "Francistown",
+      "ca": "Francistown",
+      "mk": "Франсистаун"
+    },
+    "comments": null
   },
   "GA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Gaborone",
       "am": "ጋበሮኔ",
@@ -587,10 +689,42 @@
       "tr": "Gaborone",
       "uk": "Габороне",
       "ur": "گبرون",
-      "vi": "Gaborone"
-    }
+      "vi": "Gaborone",
+      "cy": "Gaborone",
+      "ceb": "Gaborone",
+      "sr_Latn": "Gaborone",
+      "zh": "嘉柏隆里",
+      "yue_Hans": "嘉波隆里",
+      "jv": "Gaborone",
+      "sq": "Gaborone",
+      "ccp": "𑄉𑄳𑄠𑄝𑄧𑄢𑄧𑄚𑄴",
+      "ga": "Gaborone",
+      "ky": "Габороне",
+      "ha": "Gaborone",
+      "so": "Gaborone",
+      "pa": "ਗਾਬੋਰੋਨੀ",
+      "ml": "ഗാബറോൺ",
+      "yue": "嘉波隆里",
+      "yo": "Gaborone",
+      "zu": "IGaborone",
+      "uz": "Gaborone",
+      "bs": "Gaborone",
+      "mk": "Габороне"
+    },
+    "comments": null
   },
   "JW": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Jwaneng",
       "ar": "غوانينغ",
@@ -625,10 +759,30 @@
       "th": "จวาเนง",
       "tr": "Jwaneng",
       "ur": "جوانینگ",
-      "vi": "Jwaneng"
-    }
+      "vi": "Jwaneng",
+      "lv": "Džavanenga",
+      "ceb": "Jwaneng",
+      "lt": "Džvanengas",
+      "zh": "朱瓦能",
+      "ccp": "𑄎𑄳𑄝𑄧𑄚𑄬𑄁",
+      "uk": "Джваненг",
+      "az": "Cvanenq",
+      "ca": "Jwaneng"
+    },
+    "comments": null
   },
   "LO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Lobatse",
       "ar": "لوباتس",
@@ -667,10 +821,29 @@
       "th": "เมืองโลบัตเซ",
       "tr": "Lobatse",
       "ur": "لوباٹسے",
-      "vi": "Lobatse"
-    }
+      "vi": "Lobatse",
+      "lv": "Lobatse",
+      "ceb": "Lobatse",
+      "lt": "Lobatsė",
+      "zh": "洛巴策",
+      "ccp": "𑄢𑄧𑄝𑄖𑄴𑄥𑄬",
+      "uk": "Лобаце",
+      "ca": "Lobatse"
+    },
+    "comments": null
   },
   "SP": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Selebi-Phikwe",
       "ar": "سيليبي-فيكوي",
@@ -709,10 +882,26 @@
       "tr": "Selibe-Phikwe",
       "uk": "Селебі-Пхікве",
       "ur": "سیلیبی-فیکوے",
-      "vi": "Selebi-Phikwe"
-    }
+      "vi": "Selebi-Phikwe",
+      "lv": "Selebi-Phikve",
+      "ceb": "Selebi-Phikwe",
+      "zh": "塞莱比-皮奎",
+      "ccp": "𑄥𑄬𑄣𑄨𑄝𑄬 𑄜𑄨𑄇𑄮𑄠𑄬"
+    },
+    "comments": null
   },
   "ST": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Sowa, Botswana",
       "ar": "سوا، بوتسوانا",
@@ -746,10 +935,27 @@
       "th": "โซวา บอตสวานา",
       "tr": "Sowa, Botswana",
       "ur": "سووا",
-      "vi": "Sowa, Botswana"
-    }
+      "vi": "Sowa, Botswana",
+      "lv": "Sova, Botsvana",
+      "lt": "Sova, Botsvana",
+      "ccp": "𑄥𑄱 𑄑𑄅𑄪𑄚𑄴",
+      "uk": "Сова",
+      "ca": "Sowa"
+    },
+    "comments": null
   },
   "CH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Chobe District",
       "en": "Chobe",
@@ -759,8 +965,11 @@
       "ja": "チョベ地区",
       "nb": "Chobe",
       "sv": "Chobe",
-      "ur": "چوبے ضلع"
-    }
+      "ur": "چوبے ضلع",
+      "zh": "乔贝区",
+      "ccp": "𑄇𑄮𑄝𑄬"
+    },
+    "comments": null
   }
 }
 

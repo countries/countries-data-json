@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Ville de Kigali",
+    "code": null,
     "unofficial_names": "Ville de Kigali",
+    "geo": {
+      "latitude": -1.943889,
+      "longitude": 30.059444,
+      "min_latitude": -2.0237232,
+      "min_longitude": 30.0249481,
+      "max_latitude": -1.8858746,
+      "max_longitude": 30.1841457
+    },
     "translations": {
       "en": "Kigali",
       "af": "Kigali",
@@ -58,20 +68,40 @@
       "uk": "Кігалі",
       "ur": "کیگالی",
       "vi": "Kigali",
-      "zh": "吉佳利"
+      "zh": "吉佳利",
+      "cy": "Kigali",
+      "ceb": "Kigali",
+      "sr_Latn": "Kigali",
+      "yue_Hans": "基加利",
+      "jv": "Kigali",
+      "sq": "Kigali",
+      "ccp": "𑄇𑄨𑄉𑄣𑄨",
+      "ga": "Kigali",
+      "ky": "Кигали",
+      "ha": "Kigali",
+      "so": "Kigali",
+      "pa": "ਕਿਗਾਲੀ",
+      "ml": "കിഗാലി",
+      "yue": "基加利",
+      "yo": "Kigali",
+      "uz": "Kigali",
+      "bs": "Kigali",
+      "mk": "Кигали"
     },
-    "geo": {
-      "latitude": -1.943889,
-      "longitude": 30.059444,
-      "min_latitude": -2.0237232,
-      "min_longitude": 30.0249481,
-      "max_latitude": -1.8858746,
-      "max_longitude": 30.1841457
-    },
-    "name": "Ville de Kigali"
+    "comments": null
   },
   "02": {
+    "name": "Est",
+    "code": null,
     "unofficial_names": "Est",
+    "geo": {
+      "latitude": -1.9174872,
+      "longitude": 30.4357631,
+      "min_latitude": -2.4370115,
+      "min_longitude": 29.957893,
+      "max_latitude": -1.0534809,
+      "max_longitude": 30.895958
+    },
     "translations": {
       "en": "Eastern",
       "ar": "المحافظة الشرقية، رواندا",
@@ -114,20 +144,28 @@
       "tr": "Doğu Eyaleti",
       "uk": "Східна провінція",
       "ur": "مشرقی صوبہ، روانڈا",
-      "vi": "Tỉnh Miền Đông"
+      "vi": "Tỉnh Miền Đông",
+      "lv": "Austrumu province",
+      "ceb": "Eastern Province",
+      "zh": "东部省",
+      "sw": "Mkoa wa Mashariki",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "mk": "Источна покраина"
     },
-    "geo": {
-      "latitude": -1.9174872,
-      "longitude": 30.4357631,
-      "min_latitude": -2.4370115,
-      "min_longitude": 29.957893,
-      "max_latitude": -1.0534809,
-      "max_longitude": 30.895958
-    },
-    "name": "Est"
+    "comments": null
   },
   "03": {
+    "name": "Nord",
+    "code": null,
     "unofficial_names": "Nord",
+    "geo": {
+      "latitude": -1.656166,
+      "longitude": 29.8815203,
+      "min_latitude": -1.9085041,
+      "min_longitude": 29.454336,
+      "max_latitude": -1.3148709,
+      "max_longitude": 30.274553
+    },
     "translations": {
       "en": "Northern",
       "ar": "المقاطعة الشمالية",
@@ -168,20 +206,29 @@
       "tr": "Kuzey Eyaleti",
       "uk": "Північна провінція",
       "ur": "شمالی صوبہ، روانڈا",
-      "vi": "Tỉnh Phía Bắc"
+      "vi": "Tỉnh Phía Bắc",
+      "lv": "Ziemeļu province",
+      "ceb": "Northern Province (lalawigan sa Rwanda)",
+      "zh": "北部省",
+      "sw": "Mkoa wa Kaskazini",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Província del Nord",
+      "mk": "Северна покраина"
     },
-    "geo": {
-      "latitude": -1.656166,
-      "longitude": 29.8815203,
-      "min_latitude": -1.9085041,
-      "min_longitude": 29.454336,
-      "max_latitude": -1.3148709,
-      "max_longitude": 30.274553
-    },
-    "name": "Nord"
+    "comments": null
   },
   "04": {
+    "name": "Ouest",
+    "code": null,
     "unofficial_names": "Ouest",
+    "geo": {
+      "latitude": -2.07649,
+      "longitude": 29.3250347,
+      "min_latitude": -2.749662,
+      "min_longitude": 28.856794,
+      "max_latitude": -1.501001,
+      "max_longitude": 29.671675
+    },
     "translations": {
       "en": "Western",
       "ar": "المحافظة الغربية",
@@ -222,20 +269,29 @@
       "tr": "Batı Eyaleti",
       "uk": "Західна провінція",
       "ur": "مغربی صوبہ، روانڈا",
-      "vi": "Tỉnh Phía Tây"
+      "vi": "Tỉnh Phía Tây",
+      "lv": "Rietumu province",
+      "ceb": "Western Province",
+      "zh": "西部省",
+      "sw": "Mkoa wa Magharibi",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Província de l’Oest",
+      "mk": "Западна покраина"
     },
-    "geo": {
-      "latitude": -2.07649,
-      "longitude": 29.3250347,
-      "min_latitude": -2.749662,
-      "min_longitude": 28.856794,
-      "max_latitude": -1.501001,
-      "max_longitude": 29.671675
-    },
-    "name": "Ouest"
+    "comments": null
   },
   "05": {
+    "name": "Sud",
+    "code": null,
     "unofficial_names": "Sud",
+    "geo": {
+      "latitude": -2.5546618,
+      "longitude": 29.6035495,
+      "min_latitude": -2.840679,
+      "min_longitude": 29.26116,
+      "max_latitude": -1.7338349,
+      "max_longitude": 30.0145421
+    },
     "translations": {
       "en": "Southern",
       "ar": "المحافظة الجنوبية، رواندا",
@@ -277,17 +333,16 @@
       "tr": "Güney Eyaleti",
       "uk": "Південна провінція",
       "ur": "جنوبی صوبہ، روانڈا",
-      "vi": "Tỉnh Miền Nam"
+      "vi": "Tỉnh Miền Nam",
+      "lv": "Dienvidu province",
+      "ceb": "Southern Province",
+      "zh": "南部省",
+      "sw": "Mkoa wa Kusini",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Província del Sud",
+      "mk": "Јужна покраина"
     },
-    "geo": {
-      "latitude": -2.5546618,
-      "longitude": 29.6035495,
-      "min_latitude": -2.840679,
-      "min_longitude": 29.26116,
-      "max_latitude": -1.7338349,
-      "max_longitude": 30.0145421
-    },
-    "name": "Sud"
+    "comments": null
   }
 }
 

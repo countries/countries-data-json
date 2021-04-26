@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Maseru",
+    "code": null,
     "unofficial_names": "Maseru",
+    "geo": {
+      "latitude": -29.31,
+      "longitude": 27.48,
+      "min_latitude": -29.4010271,
+      "min_longitude": 27.4344263,
+      "max_latitude": -29.272605,
+      "max_longitude": 27.5997162
+    },
     "translations": {
       "en": "Maseru",
       "ar": "مقاطعة ماسيرو",
@@ -39,20 +49,25 @@
       "uk": "Масеру",
       "ur": "ماسیرو ضلع",
       "vi": "Quận Maseru",
-      "zh": "馬塞盧區"
+      "zh": "馬塞盧區",
+      "lv": "Maseru distrikts",
+      "ceb": "Maseru",
+      "ccp": "𑄟𑄥𑄬𑄢𑄪"
     },
-    "geo": {
-      "latitude": -29.31,
-      "longitude": 27.48,
-      "min_latitude": -29.4010271,
-      "min_longitude": 27.4344263,
-      "max_latitude": -29.272605,
-      "max_longitude": 27.5997162
-    },
-    "name": "Maseru"
+    "comments": null
   },
   "B": {
+    "name": "Butha-Buthe",
+    "code": null,
     "unofficial_names": "Butha-Buthe",
+    "geo": {
+      "latitude": -28.801561,
+      "longitude": 28.5331038,
+      "min_latitude": -29.083893,
+      "min_longitude": 28.2183061,
+      "max_latitude": -28.5708011,
+      "max_longitude": 28.824408
+    },
     "translations": {
       "en": "Butha-Buthe",
       "ar": "مقاطعة بوثا-بوث",
@@ -91,20 +106,26 @@
       "tr": "Butha-Buthe Bölgesi",
       "uk": "Бута-Буте",
       "ur": "بوتھا-بوتھ ضلع",
-      "vi": "Quận Butha-Buthe"
+      "vi": "Quận Butha-Buthe",
+      "lv": "Buthabethes distrikts",
+      "ceb": "Butha-Buthe",
+      "zh": "布塔-布泰區",
+      "ccp": "𑄝𑄪𑄗-𑄝𑄪𑄖𑄴"
     },
-    "geo": {
-      "latitude": -28.801561,
-      "longitude": 28.5331038,
-      "min_latitude": -29.083893,
-      "min_longitude": 28.2183061,
-      "max_latitude": -28.5708011,
-      "max_longitude": 28.824408
-    },
-    "name": "Butha-Buthe"
+    "comments": null
   },
   "C": {
+    "name": "Leribe",
+    "code": null,
     "unofficial_names": "Leribe",
+    "geo": {
+      "latitude": -28.873361,
+      "longitude": 28.041583,
+      "min_latitude": -28.8889464,
+      "min_longitude": 28.0343413,
+      "max_latitude": -28.844824,
+      "max_longitude": 28.08805
+    },
     "translations": {
       "en": "Leribe",
       "ar": "مقاطعة لريب",
@@ -143,20 +164,26 @@
       "tr": "Leribe District",
       "uk": "Лерібе",
       "ur": "لیریب ضلع",
-      "vi": "Quận Leribe"
+      "vi": "Quận Leribe",
+      "lv": "Leribes distrikts",
+      "ceb": "Leribe District",
+      "zh": "萊里貝區",
+      "ccp": "𑄣𑄬𑄢𑄨𑄝𑄬"
     },
-    "geo": {
-      "latitude": -28.873361,
-      "longitude": 28.041583,
-      "min_latitude": -28.8889464,
-      "min_longitude": 28.0343413,
-      "max_latitude": -28.844824,
-      "max_longitude": 28.08805
-    },
-    "name": "Leribe"
+    "comments": null
   },
   "D": {
+    "name": "Berea",
+    "code": null,
     "unofficial_names": "Berea",
+    "geo": {
+      "latitude": -29.1746723,
+      "longitude": 27.8311428,
+      "min_latitude": -29.3866321,
+      "min_longitude": 27.511712,
+      "max_latitude": -28.942451,
+      "max_longitude": 28.295258
+    },
     "translations": {
       "en": "Berea",
       "ar": "مقاطعة بيريا",
@@ -196,20 +223,26 @@
       "tr": "Berea District",
       "uk": "Береа",
       "ur": "بیریا ضلع",
-      "vi": "Quận Berea"
+      "vi": "Quận Berea",
+      "lv": "Berjas distrikts",
+      "ceb": "Berea",
+      "zh": "伯里亞區",
+      "ccp": "𑄝𑄢𑄨𑄠"
     },
-    "geo": {
-      "latitude": -29.1746723,
-      "longitude": 27.8311428,
-      "min_latitude": -29.3866321,
-      "min_longitude": 27.511712,
-      "max_latitude": -28.942451,
-      "max_longitude": 28.295258
-    },
-    "name": "Berea"
+    "comments": null
   },
   "E": {
+    "name": "Mafeteng",
+    "code": null,
     "unofficial_names": "Mafeteng",
+    "geo": {
+      "latitude": -29.8224312,
+      "longitude": 27.2388161,
+      "min_latitude": -29.8478281,
+      "min_longitude": 27.2053242,
+      "max_latitude": -29.7745098,
+      "max_longitude": 27.2761774
+    },
     "translations": {
       "en": "Mafeteng",
       "ar": "مقاطعة مافتنغ",
@@ -248,20 +281,26 @@
       "tr": "Mafeteng District",
       "uk": "Мафетенг",
       "ur": "مافیتینگ ضلع",
-      "vi": "Quận Mafeteng"
+      "vi": "Quận Mafeteng",
+      "lv": "Mafetenas distrikts",
+      "ceb": "Mafeteng District",
+      "zh": "馬費滕區",
+      "ccp": "𑄟𑄜𑄬𑄑𑄬𑄁"
     },
-    "geo": {
-      "latitude": -29.8224312,
-      "longitude": 27.2388161,
-      "min_latitude": -29.8478281,
-      "min_longitude": 27.2053242,
-      "max_latitude": -29.7745098,
-      "max_longitude": 27.2761774
-    },
-    "name": "Mafeteng"
+    "comments": null
   },
   "F": {
+    "name": "Mohale's Hoek",
+    "code": null,
     "unofficial_names": "Mohale's Hoek",
+    "geo": {
+      "latitude": -30.15,
+      "longitude": 27.466667,
+      "min_latitude": -30.1672616,
+      "min_longitude": 27.4296428,
+      "max_latitude": -30.1215401,
+      "max_longitude": 27.4988436
+    },
     "translations": {
       "en": "Mohale’s Hoek",
       "ar": "مقاطعة موهيلز هوك",
@@ -298,20 +337,26 @@
       "th": "เขตมอเฮล โฮเอค",
       "tr": "Mohale’s Hoek District",
       "uk": "Мохалес-Хук",
-      "vi": "Quận Mohale’s Hoek"
+      "vi": "Quận Mohale’s Hoek",
+      "lv": "Mohaleshukas distrikts",
+      "ceb": "Mohale’s Hoek District",
+      "zh": "莫哈萊斯胡克區",
+      "ccp": "𑄟𑄧𑄦𑄣𑄨𑄌𑄴 𑄦𑄮𑄠𑄬𑄇𑄴"
     },
-    "geo": {
-      "latitude": -30.15,
-      "longitude": 27.466667,
-      "min_latitude": -30.1672616,
-      "min_longitude": 27.4296428,
-      "max_latitude": -30.1215401,
-      "max_longitude": 27.4988436
-    },
-    "name": "Mohale's Hoek"
+    "comments": null
   },
   "G": {
+    "name": "Quthing",
+    "code": null,
     "unofficial_names": "Quthing",
+    "geo": {
+      "latitude": -30.400111,
+      "longitude": 27.700194,
+      "min_latitude": -30.4231979,
+      "min_longitude": 27.6868129,
+      "max_latitude": -30.39171929999999,
+      "max_longitude": 27.7433325
+    },
     "translations": {
       "en": "Quthing",
       "ar": "مقاطعة قوثنغ",
@@ -348,20 +393,26 @@
       "tr": "Quthing Distring",
       "uk": "Цгутінг",
       "ur": "قوتھینگ ضلع",
-      "vi": "Quận Quthing"
+      "vi": "Quận Quthing",
+      "lv": "Kuthinas distrikts",
+      "ceb": "Quthing (distrito)",
+      "zh": "古廷區",
+      "ccp": "𑄇𑄪𑄠𑄗𑄨𑄁"
     },
-    "geo": {
-      "latitude": -30.400111,
-      "longitude": 27.700194,
-      "min_latitude": -30.4231979,
-      "min_longitude": 27.6868129,
-      "max_latitude": -30.39171929999999,
-      "max_longitude": 27.7433325
-    },
-    "name": "Quthing"
+    "comments": null
   },
   "H": {
+    "name": "Qacha's Nek",
+    "code": null,
     "unofficial_names": "Qacha's Nek",
+    "geo": {
+      "latitude": -30.116667,
+      "longitude": 28.68333299999999,
+      "min_latitude": -30.1284628,
+      "min_longitude": 28.6603689,
+      "max_latitude": -30.09698209999999,
+      "max_longitude": 28.700881
+    },
     "translations": {
       "en": "Qacha’s Nek",
       "ar": "مقاطعة قاخاز نك",
@@ -397,20 +448,26 @@
       "th": "อำเภอคาชาส์เนก",
       "tr": "Qacha’s Nek District",
       "uk": "Цгачас-Нек",
-      "vi": "Quận Qacha’s Nek"
+      "vi": "Quận Qacha’s Nek",
+      "lv": "Kachasnekas distrikts",
+      "ceb": "Qacha’s Nek (distrito)",
+      "zh": "加查斯內克區",
+      "ccp": "𑄇𑄮𑄠𑄌𑄳𑄦 𑄚𑄬𑄇𑄴"
     },
-    "geo": {
-      "latitude": -30.116667,
-      "longitude": 28.68333299999999,
-      "min_latitude": -30.1284628,
-      "min_longitude": 28.6603689,
-      "max_latitude": -30.09698209999999,
-      "max_longitude": 28.700881
-    },
-    "name": "Qacha's Nek"
+    "comments": null
   },
   "J": {
+    "name": "Mokhotlong",
+    "code": null,
     "unofficial_names": "Mokhotlong",
+    "geo": {
+      "latitude": -29.288495,
+      "longitude": 29.065568,
+      "min_latitude": -29.2995091,
+      "min_longitude": 29.0297267,
+      "max_latitude": -29.2750633,
+      "max_longitude": 29.0821563
+    },
     "translations": {
       "en": "Mokhotlong",
       "ar": "مقاطعة موخوتلنغ",
@@ -447,20 +504,26 @@
       "tr": "Mokhotlong District",
       "uk": "Мокотлонг",
       "ur": "موخوتلونگ ضلع",
-      "vi": "Quận Mokhotlong"
+      "vi": "Quận Mokhotlong",
+      "lv": "Mohothlonas distrikts",
+      "ceb": "Mokhotlong",
+      "zh": "莫霍特隆區",
+      "ccp": "𑄟𑄮𑄈𑄮𑄖𑄴𑄣𑄧𑄁"
     },
-    "geo": {
-      "latitude": -29.288495,
-      "longitude": 29.065568,
-      "min_latitude": -29.2995091,
-      "min_longitude": 29.0297267,
-      "max_latitude": -29.2750633,
-      "max_longitude": 29.0821563
-    },
-    "name": "Mokhotlong"
+    "comments": null
   },
   "K": {
+    "name": "Thaba-Tseka",
+    "code": null,
     "unofficial_names": "Thaba-Tseka",
+    "geo": {
+      "latitude": -29.5157527,
+      "longitude": 28.5901895,
+      "min_latitude": -29.89548289999999,
+      "min_longitude": 28.1051919,
+      "max_latitude": -29.113616,
+      "max_longitude": 29.3251312
+    },
     "translations": {
       "en": "Thaba-Tseka",
       "ar": "مقاطعة ثابا-تسيكا",
@@ -497,17 +560,13 @@
       "tr": "Thaba-Tseka District",
       "uk": "Таба-Цека",
       "ur": "تھابا-تسیکا ضلع",
-      "vi": "Quận Thaba-Tseka"
+      "vi": "Quận Thaba-Tseka",
+      "lv": "Thabacekas distrikts",
+      "ceb": "Thaba-Tseka",
+      "zh": "塔巴-采卡區",
+      "ccp": "𑄗𑄝-𑄥𑄬𑄇"
     },
-    "geo": {
-      "latitude": -29.5157527,
-      "longitude": 28.5901895,
-      "min_latitude": -29.89548289999999,
-      "min_longitude": 28.1051919,
-      "max_latitude": -29.113616,
-      "max_longitude": 29.3251312
-    },
-    "name": "Thaba-Tseka"
+    "comments": null
   }
 }
 

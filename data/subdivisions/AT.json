@@ -1,6 +1,16 @@
 {
   "1": {
+    "name": "Burgenland",
+    "code": null,
     "unofficial_names": "Burgenland",
+    "geo": {
+      "latitude": 47.15371649999999,
+      "longitude": 16.2688797,
+      "min_latitude": 46.83047,
+      "min_longitude": 15.99632,
+      "max_latitude": 48.11879,
+      "max_longitude": 17.1603999
+    },
     "translations": {
       "en": "Burgenland",
       "af": "Burgenland",
@@ -56,23 +66,34 @@
       "uk": "Бургенланд",
       "ur": "بورگنلینڈ",
       "vi": "Burgenland",
-      "zh": "布尔根兰州"
+      "zh": "布尔根兰州",
+      "cy": "Burgenland",
+      "ceb": "Burgenland",
+      "sr_Latn": "Burgenland",
+      "yue_Hans": "布尔根兰",
+      "ccp": "𑄝𑄪𑄢𑄴𑄉𑄳𑄠𑄚𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴",
+      "ga": "Burgenland",
+      "yue": "布爾根蘭",
+      "bs": "Gradišće",
+      "mk": "Градиште"
     },
-    "geo": {
-      "latitude": 47.15371649999999,
-      "longitude": 16.2688797,
-      "min_latitude": 46.83047,
-      "min_longitude": 15.99632,
-      "max_latitude": 48.11879,
-      "max_longitude": 17.1603999
-    },
-    "name": "Burgenland"
+    "comments": null
   },
   "2": {
+    "name": "Kärnten",
+    "code": null,
     "unofficial_names": [
       "Carinthia",
       "Koroška"
     ],
+    "geo": {
+      "latitude": 46.722203,
+      "longitude": 14.1805881,
+      "min_latitude": 46.3723,
+      "min_longitude": 12.6563901,
+      "max_latitude": 47.13131,
+      "max_longitude": 15.0651401
+    },
     "translations": {
       "en": "Carinthia",
       "af": "Karinthië",
@@ -128,22 +149,34 @@
       "tr": "Karintiya",
       "uk": "Каринтія",
       "ur": "کارنتھیا (ریاست)",
-      "vi": "Kärnten"
+      "vi": "Kärnten",
+      "cy": "Carinthia",
+      "ceb": "Kärnten",
+      "sr_Latn": "Koruška",
+      "zh": "克恩顿州",
+      "yue_Hans": "克恩滕",
+      "ccp": "𑄇𑄳𑄠𑄢𑄨𑄚𑄴𑄑𑄨𑄠",
+      "ga": "Carinthia",
+      "yue": "克恩滕",
+      "bs": "Koruška",
+      "mk": "Корушка"
     },
-    "geo": {
-      "latitude": 46.722203,
-      "longitude": 14.1805881,
-      "min_latitude": 46.3723,
-      "min_longitude": 12.6563901,
-      "max_latitude": 47.13131,
-      "max_longitude": 15.0651401
-    },
-    "name": "Kärnten"
+    "comments": null
   },
   "3": {
+    "name": "Niederösterreich",
+    "code": null,
     "unofficial_names": [
       "Lower Austria"
     ],
+    "geo": {
+      "latitude": 48.10807699999999,
+      "longitude": 15.8049558,
+      "min_latitude": 47.42198,
+      "min_longitude": 14.4521301,
+      "max_latitude": 49.02062,
+      "max_longitude": 17.06847
+    },
     "translations": {
       "en": "Lower Austria",
       "af": "Neder-Oostenryk",
@@ -200,22 +233,34 @@
       "tr": "Aşağı Avusturya",
       "uk": "Нижня Австрія",
       "ur": "زیریں آسٹریا",
-      "vi": "Niederösterreich"
+      "vi": "Niederösterreich",
+      "cy": "Awstria Isaf",
+      "ceb": "Niederösterreich",
+      "sr_Latn": "Donja Austrija",
+      "zh": "下奧地利州",
+      "yue_Hans": "下奥地利",
+      "ccp": "𑄑𑄧𑄣𑄴𑄟𑄪𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄨𑄠",
+      "kk": "Төмеңгі Австрия",
+      "yue": "下奧地利",
+      "bs": "Donja Austrija",
+      "mk": "Долна Австрија"
     },
-    "geo": {
-      "latitude": 48.10807699999999,
-      "longitude": 15.8049558,
-      "min_latitude": 47.42198,
-      "min_longitude": 14.4521301,
-      "max_latitude": 49.02062,
-      "max_longitude": 17.06847
-    },
-    "name": "Niederösterreich"
+    "comments": null
   },
   "4": {
+    "name": "Oberösterreich",
+    "code": null,
     "unofficial_names": [
       "Upper Austria"
     ],
+    "geo": {
+      "latitude": 48.025854,
+      "longitude": 13.9723665,
+      "min_latitude": 47.46098,
+      "min_longitude": 12.74895,
+      "max_latitude": 48.7726901,
+      "max_longitude": 14.99129
+    },
     "translations": {
       "en": "Upper Austria",
       "af": "Opper-Oostenryk",
@@ -271,22 +316,33 @@
       "tr": "Yukarı Avusturya",
       "uk": "Верхня Австрія",
       "ur": "بالائی آسٹریا",
-      "vi": "Oberösterreich"
+      "vi": "Oberösterreich",
+      "cy": "Awstria Uchaf",
+      "ceb": "Oberösterreich",
+      "sr_Latn": "Gornja Austrija",
+      "zh": "上奧地利",
+      "yue_Hans": "上奥地利",
+      "ccp": "𑄅𑄪𑄉𑄪𑄢𑄬 𑄟𑄪𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄨𑄠",
+      "yue": "上奧地利",
+      "bs": "Gornja Austrija",
+      "mk": "Горна Австрија"
     },
-    "geo": {
-      "latitude": 48.025854,
-      "longitude": 13.9723665,
-      "min_latitude": 47.46098,
-      "min_longitude": 12.74895,
-      "max_latitude": 48.7726901,
-      "max_longitude": 14.99129
-    },
-    "name": "Oberösterreich"
+    "comments": null
   },
   "5": {
+    "name": "Salzburg",
+    "code": null,
     "unofficial_names": [
       "Salzbourg"
     ],
+    "geo": {
+      "latitude": 47.80949,
+      "longitude": 13.05501,
+      "min_latitude": 47.75131,
+      "min_longitude": 12.9859801,
+      "max_latitude": 47.85431,
+      "max_longitude": 13.1268799
+    },
     "translations": {
       "en": "Salzburg",
       "af": "Salzburg",
@@ -342,22 +398,33 @@
       "tr": "Salzburg",
       "uk": "Зальцбург",
       "ur": "سالزبرگ (ریاست)",
-      "vi": "Salzburg"
+      "vi": "Salzburg",
+      "ceb": "Salzburg (estado pederal)",
+      "sr_Latn": "Salcburg",
+      "zh": "萨尔茨堡州",
+      "yue_Hans": "萨尔斯堡邦",
+      "ccp": "𑄥𑄣𑄴𑄝𑄢𑄳𑄉𑄴",
+      "ga": "Salzburg",
+      "yue": "薩爾斯堡邦",
+      "bs": "Salzburg",
+      "mk": "Салцбург"
     },
-    "geo": {
-      "latitude": 47.80949,
-      "longitude": 13.05501,
-      "min_latitude": 47.75131,
-      "min_longitude": 12.9859801,
-      "max_latitude": 47.85431,
-      "max_longitude": 13.1268799
-    },
-    "name": "Salzburg"
+    "comments": null
   },
   "6": {
+    "name": "Steiermark",
+    "code": null,
     "unofficial_names": [
       "Styria"
     ],
+    "geo": {
+      "latitude": 47.3593442,
+      "longitude": 14.4699827,
+      "min_latitude": 46.61163,
+      "min_longitude": 13.56417,
+      "max_latitude": 47.82789,
+      "max_longitude": 16.17014
+    },
     "translations": {
       "en": "Styria",
       "af": "Stiermarke",
@@ -414,22 +481,34 @@
       "tr": "Steiermark",
       "uk": "Штирія",
       "ur": "سٹیریا",
-      "vi": "Steiermark"
+      "vi": "Steiermark",
+      "cy": "Styria",
+      "ceb": "Steiermark",
+      "sr_Latn": "Štajerska",
+      "zh": "施蒂利亞州",
+      "yue_Hans": "施泰尔马克",
+      "ccp": "𑄃𑄬𑄌𑄴𑄑𑄭𑄢𑄨𑄠",
+      "ga": "Styria",
+      "yue": "施泰爾馬克",
+      "bs": "Štajerska",
+      "mk": "Штаерска"
     },
-    "geo": {
-      "latitude": 47.3593442,
-      "longitude": 14.4699827,
-      "min_latitude": 46.61163,
-      "min_longitude": 13.56417,
-      "max_latitude": 47.82789,
-      "max_longitude": 16.17014
-    },
-    "name": "Steiermark"
+    "comments": null
   },
   "7": {
+    "name": "Tirol",
+    "code": null,
     "unofficial_names": [
       "Tyrol"
     ],
+    "geo": {
+      "latitude": 47.2537414,
+      "longitude": 11.601487,
+      "min_latitude": 46.6515599,
+      "min_longitude": 10.0980701,
+      "max_latitude": 47.74310999999999,
+      "max_longitude": 12.9662801
+    },
     "translations": {
       "en": "Tyrol",
       "af": "Tirool",
@@ -484,20 +563,32 @@
       "tr": "Tirol",
       "uk": "Тіроль",
       "ur": "ٹیرول (ریاست)",
-      "vi": "Tirol"
+      "vi": "Tirol",
+      "cy": "Tirol",
+      "ceb": "Tirol (estado pederal)",
+      "sr_Latn": "Tirol",
+      "zh": "蒂罗尔州",
+      "yue_Hans": "蒂罗尔",
+      "ccp": "𑄑𑄭𑄢𑄧𑄣𑄴",
+      "ga": "An Tioróil",
+      "yue": "蒂羅爾",
+      "bs": "Tirol",
+      "mk": "Тирол"
     },
-    "geo": {
-      "latitude": 47.2537414,
-      "longitude": 11.601487,
-      "min_latitude": 46.6515599,
-      "min_longitude": 10.0980701,
-      "max_latitude": 47.74310999999999,
-      "max_longitude": 12.9662801
-    },
-    "name": "Tirol"
+    "comments": null
   },
   "8": {
+    "name": "Vorarlberg",
+    "code": null,
     "unofficial_names": "Vorarlberg",
+    "geo": {
+      "latitude": 47.2497427,
+      "longitude": 9.9797373,
+      "min_latitude": 46.84081,
+      "min_longitude": 9.5309099,
+      "max_latitude": 47.59621,
+      "max_longitude": 10.23689
+    },
     "translations": {
       "en": "Vorarlberg",
       "af": "Vorarlberg",
@@ -553,22 +644,35 @@
       "tr": "Vorarlberg",
       "uk": "Форарльберг",
       "ur": "وورارلبرگ",
-      "vi": "Vorarlberg"
+      "vi": "Vorarlberg",
+      "cy": "Vorarlberg",
+      "ceb": "Vorarlberg",
+      "sr_Latn": "Forarlberg",
+      "zh": "福拉尔贝格州",
+      "yue_Hans": "福拉尔贝格",
+      "sq": "Vorarlberg",
+      "ccp": "𑄞𑄧𑄢𑄢𑄴𑄣𑄴𑄝𑄢𑄳𑄉𑄴",
+      "ga": "Vorarlberg",
+      "yue": "福拉爾貝格",
+      "bs": "Vorarlberg",
+      "mk": "Предарлска"
     },
-    "geo": {
-      "latitude": 47.2497427,
-      "longitude": 9.9797373,
-      "min_latitude": 46.84081,
-      "min_longitude": 9.5309099,
-      "max_latitude": 47.59621,
-      "max_longitude": 10.23689
-    },
-    "name": "Vorarlberg"
+    "comments": null
   },
   "9": {
+    "name": "Wien",
+    "code": null,
     "unofficial_names": [
       "Vienna"
     ],
+    "geo": {
+      "latitude": 48.2081743,
+      "longitude": 16.3738189,
+      "min_latitude": 48.1182699,
+      "min_longitude": 16.1826199,
+      "max_latitude": 48.3230999,
+      "max_longitude": 16.5774999
+    },
     "translations": {
       "en": "Vienna",
       "af": "Wene",
@@ -631,17 +735,30 @@
       "tr": "Viyana",
       "uk": "Відень",
       "ur": "ویانا",
-      "vi": "Viên"
+      "vi": "Viên",
+      "cy": "Fienna",
+      "ceb": "Vienna",
+      "sr_Latn": "Beč",
+      "zh": "維也納",
+      "yue_Hans": "维也纳",
+      "jv": "Wina",
+      "sq": "Vjena",
+      "ccp": "𑄞𑄨𑄠𑄬𑄚",
+      "ga": "Vín",
+      "ky": "Вена",
+      "ha": "Vienna",
+      "so": "Fiyena",
+      "pa": "ਵਿਆਨਾ",
+      "kk": "Вена",
+      "yue": "維也納",
+      "my": "ဗီယင်နာမြို့",
+      "yo": "Fienna",
+      "uz": "Vena",
+      "bs": "Beč",
+      "mk": "Виена",
+      "ne": "भियना"
     },
-    "geo": {
-      "latitude": 48.2081743,
-      "longitude": 16.3738189,
-      "min_latitude": 48.1182699,
-      "min_longitude": 16.1826199,
-      "max_latitude": 48.3230999,
-      "max_longitude": 16.5774999
-    },
-    "name": "Wien"
+    "comments": null
   }
 }
 

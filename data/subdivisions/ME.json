@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Andrijevica",
+    "code": null,
     "unofficial_names": "Andrijevica",
+    "geo": {
+      "latitude": 42.739722,
+      "longitude": 19.785833,
+      "min_latitude": 42.7250737,
+      "min_longitude": 19.771657,
+      "max_latitude": 42.744286,
+      "max_longitude": 19.799509
+    },
     "translations": {
       "en": "Andrijevica",
       "ar": "بلدية أندرييفيكا",
@@ -39,20 +49,28 @@
       "tr": "Andrijevica Belediyesi",
       "uk": "Андрієвиця",
       "ur": "آندریےویتسا بلدیہ",
-      "vi": "Đô thị tự trị Andrijevica"
+      "vi": "Đô thị tự trị Andrijevica",
+      "lv": "Andrijevicas pašvaldība",
+      "sr_Latn": "Andrijevica",
+      "zh": "安德里耶維察區",
+      "sq": "Komuna e Andrijevicës",
+      "ccp": "𑄃𑄚𑄴𑄓𑄳𑄢𑄨𑄎𑄬𑄞𑄨𑄇",
+      "bs": "Andrijevica"
     },
-    "geo": {
-      "latitude": 42.739722,
-      "longitude": 19.785833,
-      "min_latitude": 42.7250737,
-      "min_longitude": 19.771657,
-      "max_latitude": 42.744286,
-      "max_longitude": 19.799509
-    },
-    "name": "Andrijevica"
+    "comments": null
   },
   "02": {
+    "name": "Bar",
+    "code": null,
     "unofficial_names": "Bar",
+    "geo": {
+      "latitude": 42.2040425,
+      "longitude": 19.140438,
+      "min_latitude": 42.006969,
+      "min_longitude": 18.9345229,
+      "max_latitude": 42.315069,
+      "max_longitude": 19.3438407
+    },
     "translations": {
       "en": "Bar",
       "ar": "بلدية بار",
@@ -90,20 +108,30 @@
       "tr": "Bar Belediyesi",
       "uk": "Бар",
       "ur": "بار بلدیہ",
-      "vi": "Đô thị tự trị Bar"
+      "vi": "Đô thị tự trị Bar",
+      "lv": "Baras pašvaldība",
+      "ceb": "Bar (munisipyo)",
+      "sr_Latn": "Bar",
+      "zh": "巴爾區",
+      "sq": "Komuna e Tivarit",
+      "ccp": "𑄝𑄢𑄴",
+      "be": "абшчына Бар",
+      "mk": "Општина Бар"
     },
-    "geo": {
-      "latitude": 42.2040425,
-      "longitude": 19.140438,
-      "min_latitude": 42.006969,
-      "min_longitude": 18.9345229,
-      "max_latitude": 42.315069,
-      "max_longitude": 19.3438407
-    },
-    "name": "Bar"
+    "comments": null
   },
   "03": {
+    "name": "Berane",
+    "code": null,
     "unofficial_names": "Berane",
+    "geo": {
+      "latitude": 42.84,
+      "longitude": 19.86,
+      "min_latitude": 42.807177,
+      "min_longitude": 19.8447418,
+      "max_latitude": 42.8696597,
+      "max_longitude": 19.8848308
+    },
     "translations": {
       "en": "Berane",
       "ar": "بلدية بيراني",
@@ -142,20 +170,28 @@
       "tr": "Berane Municipality",
       "uk": "Беране",
       "ur": "بیرانے بلدیہ",
-      "vi": "Đô thị tự trị Berane"
+      "vi": "Đô thị tự trị Berane",
+      "lv": "Beranes pašvaldība",
+      "ceb": "Berane",
+      "sr_Latn": "Berane",
+      "zh": "貝拉內區",
+      "sq": "Komuna e Beranes",
+      "ccp": "𑄝𑄬𑄢𑄚𑄴"
     },
-    "geo": {
-      "latitude": 42.84,
-      "longitude": 19.86,
-      "min_latitude": 42.807177,
-      "min_longitude": 19.8447418,
-      "max_latitude": 42.8696597,
-      "max_longitude": 19.8848308
-    },
-    "name": "Berane"
+    "comments": null
   },
   "04": {
+    "name": "Bijelo Polje",
+    "code": null,
     "unofficial_names": "Bijelo Polje",
+    "geo": {
+      "latitude": 43.04,
+      "longitude": 19.75,
+      "min_latitude": 43.0089153,
+      "min_longitude": 19.7273254,
+      "max_latitude": 43.065439,
+      "max_longitude": 19.7872352
+    },
     "translations": {
       "en": "Bijelo Polje",
       "ar": "بلدية بييلو بولي",
@@ -192,20 +228,29 @@
       "th": "ไบจีโล พอลจี มูนิซิพัลลิตี้",
       "tr": "Bijelo Polje Belediyesi",
       "ur": "بیئلو پولیے بلدیہ",
-      "vi": "Đô thị tự trị Bijelo Polje"
+      "vi": "Đô thị tự trị Bijelo Polje",
+      "lv": "Bijelo Poljes pašvaldība",
+      "ceb": "Bijelo Polje",
+      "sr_Latn": "Bijelo Polje",
+      "zh": "比耶洛波列區",
+      "sq": "Komuna e Bellopojës",
+      "ccp": "𑄝𑄨𑄎𑄬𑄣𑄮 𑄛𑄮𑄣𑄴𑄎𑄨",
+      "uk": "Муніципалітет Бієло-Полє"
     },
-    "geo": {
-      "latitude": 43.04,
-      "longitude": 19.75,
-      "min_latitude": 43.0089153,
-      "min_longitude": 19.7273254,
-      "max_latitude": 43.065439,
-      "max_longitude": 19.7872352
-    },
-    "name": "Bijelo Polje"
+    "comments": null
   },
   "05": {
+    "name": "Budva",
+    "code": null,
     "unofficial_names": "Budva",
+    "geo": {
+      "latitude": 42.288056,
+      "longitude": 18.8425,
+      "min_latitude": 42.2734745,
+      "min_longitude": 18.8220477,
+      "max_latitude": 42.3027695,
+      "max_longitude": 18.8609032
+    },
     "translations": {
       "en": "Budva",
       "ar": "بلدية بودفا",
@@ -243,20 +288,28 @@
       "tr": "Budva Belediyesi",
       "uk": "Будва",
       "ur": "بودوا بلدیہ",
-      "vi": "Đô thị tự trị Budva"
+      "vi": "Đô thị tự trị Budva",
+      "lv": "Budvas pašvaldība",
+      "ceb": "Budva",
+      "sr_Latn": "Budva",
+      "zh": "布德瓦區",
+      "ccp": "𑄝𑄪𑄖𑄴𑄞",
+      "mk": "Општина Будва"
     },
-    "geo": {
-      "latitude": 42.288056,
-      "longitude": 18.8425,
-      "min_latitude": 42.2734745,
-      "min_longitude": 18.8220477,
-      "max_latitude": 42.3027695,
-      "max_longitude": 18.8609032
-    },
-    "name": "Budva"
+    "comments": null
   },
   "06": {
+    "name": "Cetinje",
+    "code": null,
     "unofficial_names": "Cetinje",
+    "geo": {
+      "latitude": 42.38,
+      "longitude": 18.92,
+      "min_latitude": 42.3725432,
+      "min_longitude": 18.8862705,
+      "max_latitude": 42.4086289,
+      "max_longitude": 18.9402152
+    },
     "translations": {
       "en": "Cetinje",
       "ar": "بلدية سيتينيي",
@@ -292,20 +345,30 @@
       "th": "เมืองหลวงเซตีเนีย",
       "tr": "Cetinje Belediyesi",
       "ur": "قدیم شاہی دارالحکومت سیتینیے",
-      "vi": "Đô thị tự trị Cetinje"
+      "vi": "Đô thị tự trị Cetinje",
+      "lv": "Cetiņes pašvaldība",
+      "ceb": "Cetinje",
+      "sr_Latn": "Cetinje",
+      "sq": "Komuna e Cetinës",
+      "ccp": "𑄥𑄬𑄖𑄨𑄚𑄴𑄎𑄬",
+      "uk": "Муніципалітет Цетине",
+      "be": "Цэцінэ",
+      "mk": "Престолнина Цетиње"
     },
-    "geo": {
-      "latitude": 42.38,
-      "longitude": 18.92,
-      "min_latitude": 42.3725432,
-      "min_longitude": 18.8862705,
-      "max_latitude": 42.4086289,
-      "max_longitude": 18.9402152
-    },
-    "name": "Cetinje"
+    "comments": null
   },
   "07": {
+    "name": "Danilovgrad",
+    "code": null,
     "unofficial_names": "Danilovgrad",
+    "geo": {
+      "latitude": 42.5537532,
+      "longitude": 19.1077389,
+      "min_latitude": 42.5411924,
+      "min_longitude": 19.0853548,
+      "max_latitude": 42.5631326,
+      "max_longitude": 19.1203737
+    },
     "translations": {
       "en": "Danilovgrad",
       "ar": "بلدية دانيلوفغراد",
@@ -341,20 +404,28 @@
       "th": "เมืองดานิลอฟกราด",
       "tr": "Danilovgrad Belediyesi",
       "ur": "دانیلووگراد بلدیہ",
-      "vi": "Đô thị tự trị Danilovgrad"
+      "vi": "Đô thị tự trị Danilovgrad",
+      "lv": "Danilovgradas pašvaldība",
+      "ceb": "Danilovgrad",
+      "sr_Latn": "Danilovgrad",
+      "zh": "達尼洛夫格勒區",
+      "ccp": "𑄓𑄚𑄨𑄣𑄮𑄛𑄴𑄉𑄳𑄢𑄖𑄴",
+      "uk": "Муніципалітет Даниловград"
     },
-    "geo": {
-      "latitude": 42.5537532,
-      "longitude": 19.1077389,
-      "min_latitude": 42.5411924,
-      "min_longitude": 19.0853548,
-      "max_latitude": 42.5631326,
-      "max_longitude": 19.1203737
-    },
-    "name": "Danilovgrad"
+    "comments": null
   },
   "08": {
+    "name": "Herceg-Novi",
+    "code": null,
     "unofficial_names": "Herceg-Novi",
+    "geo": {
+      "latitude": 42.4572478,
+      "longitude": 18.5314753,
+      "min_latitude": 42.4490956,
+      "min_longitude": 18.5141516,
+      "max_latitude": 42.4661614,
+      "max_longitude": 18.5613638
+    },
     "translations": {
       "en": "Herceg Novi",
       "ar": "بلدية هرسك نوفي",
@@ -392,20 +463,40 @@
       "tr": "Herceg Novi Belediye",
       "uk": "Херцег-Новий",
       "ur": "خیرتسیگ نووی بلدیہ",
-      "vi": "Đô thị tự trị Herceg Novi"
+      "vi": "Đô thị tự trị Herceg Novi",
+      "lv": "Herceg-Novas pašvaldība",
+      "ceb": "Herceg Novi",
+      "sr_Latn": "Herceg Novi",
+      "zh": "赫爾采格諾維區",
+      "fa": "هرتسگ نووی",
+      "sq": "Komuna e Herceg Novit",
+      "ccp": "𑄦𑄬𑄢𑄴𑄥𑄬𑄇𑄴 𑄚𑄮𑄞𑄨",
+      "hu": "Herceg Novi",
+      "sk": "Herceg Novi",
+      "he": "הרצג נובי",
+      "hr": "Herceg Novi",
+      "eu": "Herceg Novi",
+      "sl": "Herceg Novi",
+      "cs": "Herceg Novi",
+      "az": "Herseq Novi",
+      "ca": "Herceg Novi",
+      "bs": "Herceg Novi",
+      "mk": "Општина Херцег Нови"
     },
-    "geo": {
-      "latitude": 42.4572478,
-      "longitude": 18.5314753,
-      "min_latitude": 42.4490956,
-      "min_longitude": 18.5141516,
-      "max_latitude": 42.4661614,
-      "max_longitude": 18.5613638
-    },
-    "name": "Herceg-Novi"
+    "comments": null
   },
   "09": {
+    "name": "Kolašin",
+    "code": null,
     "unofficial_names": "Kolašin",
+    "geo": {
+      "latitude": 42.823611,
+      "longitude": 19.5225,
+      "min_latitude": 42.8146069,
+      "min_longitude": 19.5110321,
+      "max_latitude": 42.8338702,
+      "max_longitude": 19.5420171
+    },
     "translations": {
       "en": "Kolašin",
       "ar": "بلدية كولاشين",
@@ -442,20 +533,29 @@
       "th": "เมืองโคซาลิน",
       "tr": "Kolasin Belediyesi",
       "ur": "کولاشن بلدیہ",
-      "vi": "Đô thị tự trị Kolasin"
+      "vi": "Đô thị tự trị Kolasin",
+      "lv": "Kolašinas pašvaldība",
+      "ceb": "Opština Kolašin",
+      "sr_Latn": "Kolašin",
+      "zh": "科拉欣區",
+      "sq": "Komuna e Koloshinit",
+      "ccp": "𑄇𑄮𑄣𑄥𑄨𑄚𑄴",
+      "uk": "Муніципалітет Колашин"
     },
-    "geo": {
-      "latitude": 42.823611,
-      "longitude": 19.5225,
-      "min_latitude": 42.8146069,
-      "min_longitude": 19.5110321,
-      "max_latitude": 42.8338702,
-      "max_longitude": 19.5420171
-    },
-    "name": "Kolašin"
+    "comments": null
   },
   "10": {
+    "name": "Kotor",
+    "code": null,
     "unofficial_names": "Kotor",
+    "geo": {
+      "latitude": 42.424662,
+      "longitude": 18.771234,
+      "min_latitude": 42.4211597,
+      "min_longitude": 18.7663583,
+      "max_latitude": 42.4273177,
+      "max_longitude": 18.7748086
+    },
     "translations": {
       "en": "Kotor",
       "es": "Municipio de Kotor",
@@ -468,20 +568,30 @@
       "ru": "Котор",
       "sr": "Котор",
       "uk": "Котор",
-      "ur": "کوتور بلدیہ"
+      "ur": "کوتور بلدیہ",
+      "ceb": "Kotor (munisipyo)",
+      "sr_Latn": "Kotor",
+      "zh": "科托爾區",
+      "sv": "Kotor",
+      "sq": "Komuna e Kotorrit",
+      "ccp": "𑄇𑄮𑄑𑄮𑄢𑄴",
+      "fr": "Kotor",
+      "mk": "Општина Котор"
     },
-    "geo": {
-      "latitude": 42.424662,
-      "longitude": 18.771234,
-      "min_latitude": 42.4211597,
-      "min_longitude": 18.7663583,
-      "max_latitude": 42.4273177,
-      "max_longitude": 18.7748086
-    },
-    "name": "Kotor"
+    "comments": null
   },
   "11": {
+    "name": "Mojkovac",
+    "code": null,
     "unofficial_names": "Mojkovac",
+    "geo": {
+      "latitude": 42.96,
+      "longitude": 19.58,
+      "min_latitude": 42.9522135,
+      "min_longitude": 19.5728303,
+      "max_latitude": 42.9672261,
+      "max_longitude": 19.5910262
+    },
     "translations": {
       "en": "Mojkovac",
       "ar": "بلدية مويكوفاتش",
@@ -518,20 +628,29 @@
       "th": "มอจโคแวก มูนิซิพัลลิตี้",
       "tr": "Mojkovac Belediyesi",
       "ur": "مویکوواتس بلدیہ",
-      "vi": "Đô thị tự trị Mojkovac"
+      "vi": "Đô thị tự trị Mojkovac",
+      "lv": "Mojkovacas pašvaldība",
+      "ceb": "Mojkovac",
+      "sr_Latn": "Mojkovac",
+      "zh": "莫伊科瓦茨區",
+      "sq": "Komuna e Mojkovacit",
+      "ccp": "𑄟𑄌𑄴𑄇𑄮𑄞𑄇𑄴",
+      "uk": "Муніципалітет Мойковац"
     },
-    "geo": {
-      "latitude": 42.96,
-      "longitude": 19.58,
-      "min_latitude": 42.9522135,
-      "min_longitude": 19.5728303,
-      "max_latitude": 42.9672261,
-      "max_longitude": 19.5910262
-    },
-    "name": "Mojkovac"
+    "comments": null
   },
   "12": {
+    "name": "Nikšic´",
+    "code": null,
     "unofficial_names": "Nikšic´",
+    "geo": {
+      "latitude": 42.78,
+      "longitude": 18.94,
+      "min_latitude": 42.7371471,
+      "min_longitude": 18.897965,
+      "max_latitude": 42.8094439,
+      "max_longitude": 18.9982796
+    },
     "translations": {
       "en": "Nikšić",
       "ar": "بلدية نيكتسيتش",
@@ -568,20 +687,27 @@
       "th": "นิคชิซ",
       "tr": "Niksic Belediyesi",
       "ur": "نیکشیچ بلدیہ",
-      "vi": "Đô thị tự trị Niksić"
+      "vi": "Đô thị tự trị Niksić",
+      "lv": "Nikšičas pašvaldība",
+      "sr_Latn": "Nikšić",
+      "zh": "尼克希奇區",
+      "ccp": "𑄚𑄨𑄇𑄴𑄥𑄨𑄇𑄴",
+      "uk": "Муніципалітет Никшич"
     },
-    "geo": {
-      "latitude": 42.78,
-      "longitude": 18.94,
-      "min_latitude": 42.7371471,
-      "min_longitude": 18.897965,
-      "max_latitude": 42.8094439,
-      "max_longitude": 18.9982796
-    },
-    "name": "Nikšic´"
+    "comments": null
   },
   "13": {
+    "name": "Plav",
+    "code": null,
     "unofficial_names": "Plav",
+    "geo": {
+      "latitude": 42.6001337,
+      "longitude": 19.9407541,
+      "min_latitude": 42.5892922,
+      "min_longitude": 19.930226,
+      "max_latitude": 42.6091342,
+      "max_longitude": 19.9534082
+    },
     "translations": {
       "en": "Plav",
       "ar": "بلدية بلاف",
@@ -620,20 +746,27 @@
       "tr": "Plav Province",
       "uk": "Плав",
       "ur": "پلاو بلدیہ",
-      "vi": "Đô thị tự trị Plav"
+      "vi": "Đô thị tự trị Plav",
+      "lv": "Plavas pašvaldība",
+      "ceb": "Opština Plav",
+      "sr_Latn": "Plav",
+      "zh": "普拉夫區",
+      "ccp": "𑄛𑄳𑄣𑄛𑄴"
     },
-    "geo": {
-      "latitude": 42.6001337,
-      "longitude": 19.9407541,
-      "min_latitude": 42.5892922,
-      "min_longitude": 19.930226,
-      "max_latitude": 42.6091342,
-      "max_longitude": 19.9534082
-    },
-    "name": "Plav"
+    "comments": null
   },
   "14": {
+    "name": "Pljevlja",
+    "code": null,
     "unofficial_names": "Pljevlja",
+    "geo": {
+      "latitude": 43.36,
+      "longitude": 19.36,
+      "min_latitude": 43.3385382,
+      "min_longitude": 19.3206596,
+      "max_latitude": 43.3736113,
+      "max_longitude": 19.3831443
+    },
     "translations": {
       "en": "Pljevlja",
       "ar": "بلدية بليفليه",
@@ -671,20 +804,28 @@
       "th": "พัลเจลจา",
       "tr": "Pljevlja Belediyesi",
       "ur": "پلئیولیا بلدیہ",
-      "vi": "Đô thị tự trị Pljevlja"
+      "vi": "Đô thị tự trị Pljevlja",
+      "lv": "Pljevljas pašvaldība",
+      "sr_Latn": "Pljevlja",
+      "zh": "普列夫利亞區",
+      "sq": "Komuna e Plevlës",
+      "ccp": "𑄎𑄬𑄛𑄴𑄎",
+      "uk": "Муніципалітет Плевля"
     },
-    "geo": {
-      "latitude": 43.36,
-      "longitude": 19.36,
-      "min_latitude": 43.3385382,
-      "min_longitude": 19.3206596,
-      "max_latitude": 43.3736113,
-      "max_longitude": 19.3831443
-    },
-    "name": "Pljevlja"
+    "comments": null
   },
   "15": {
+    "name": "Plužine",
+    "code": null,
     "unofficial_names": "Plužine",
+    "geo": {
+      "latitude": 43.1541366,
+      "longitude": 18.8410376,
+      "min_latitude": 43.1508473,
+      "min_longitude": 18.8326693,
+      "max_latitude": 43.1582202,
+      "max_longitude": 18.8480115
+    },
     "translations": {
       "en": "Plužine",
       "ar": "بلدية بلوزين",
@@ -721,20 +862,28 @@
       "th": "เมืองปลูชิเน",
       "tr": "Pluzine Belediyesi",
       "ur": "پلوژینے بلدیہ",
-      "vi": "Đô thị tự trị Pluzine"
+      "vi": "Đô thị tự trị Pluzine",
+      "lv": "Plužines pašvaldība",
+      "ceb": "Opština Plužine",
+      "sr_Latn": "Plužine",
+      "zh": "普盧日內區",
+      "ccp": "𑄛𑄳𑄣𑄪𑄎𑄭𑄚𑄴",
+      "uk": "Муніципалітет Плужине"
     },
-    "geo": {
-      "latitude": 43.1541366,
-      "longitude": 18.8410376,
-      "min_latitude": 43.1508473,
-      "min_longitude": 18.8326693,
-      "max_latitude": 43.1582202,
-      "max_longitude": 18.8480115
-    },
-    "name": "Plužine"
+    "comments": null
   },
   "16": {
+    "name": "Podgorica",
+    "code": null,
     "unofficial_names": "Podgorica",
+    "geo": {
+      "latitude": 42.441286,
+      "longitude": 19.262892,
+      "min_latitude": 42.368358,
+      "min_longitude": 19.1815065,
+      "max_latitude": 42.4956435,
+      "max_longitude": 19.3302512
+    },
     "translations": {
       "en": "Podgorica",
       "es": "Municipio de Podgorica",
@@ -747,20 +896,30 @@
       "ro": "Municipiul Podgorica",
       "ru": "Подгорица",
       "sr": "Главни град Подгорица",
-      "ur": "پودگوریتسا دارالحکومت شہر"
+      "ur": "پودگوریتسا دارالحکومت شہر",
+      "ceb": "Podgorica (munisipyo)",
+      "sr_Latn": "Glavni grad Podgorica",
+      "de_CH": "Grossgemeinde Podgorica",
+      "sq": "Komuna e Podgoricës",
+      "ccp": "𑄛𑄧𑄖𑄴𑄉𑄮𑄢𑄨𑄇",
+      "fr": "Podgorica",
+      "de": "Großgemeinde Podgorica",
+      "mk": "Гравен град Подгорица"
     },
-    "geo": {
-      "latitude": 42.441286,
-      "longitude": 19.262892,
-      "min_latitude": 42.368358,
-      "min_longitude": 19.1815065,
-      "max_latitude": 42.4956435,
-      "max_longitude": 19.3302512
-    },
-    "name": "Podgorica"
+    "comments": null
   },
   "17": {
+    "name": "Rožaje",
+    "code": null,
     "unofficial_names": "Rožaje",
+    "geo": {
+      "latitude": 42.8333,
+      "longitude": 20.1667,
+      "min_latitude": 42.8273239,
+      "min_longitude": 20.1424885,
+      "max_latitude": 42.8588217,
+      "max_longitude": 20.1917553
+    },
     "translations": {
       "en": "Rožaje",
       "bg": "Рожайе",
@@ -774,20 +933,30 @@
       "ro": "Comuna Rožaje",
       "sr": "Рожаје",
       "uk": "Рожає",
-      "ur": "روژایے بلدیہ"
+      "ur": "روژایے بلدیہ",
+      "ceb": "Opština Rožaje",
+      "sr_Latn": "Rožaje",
+      "zh": "羅扎耶區",
+      "el": "Δήμος Ρόζαγιε",
+      "sq": "Komuna e Rozhajës",
+      "ccp": "𑄢𑄮𑄎𑄎𑄬",
+      "fr": "Rožaje",
+      "bs": "Rožaje"
     },
-    "geo": {
-      "latitude": 42.8333,
-      "longitude": 20.1667,
-      "min_latitude": 42.8273239,
-      "min_longitude": 20.1424885,
-      "max_latitude": 42.8588217,
-      "max_longitude": 20.1917553
-    },
-    "name": "Rožaje"
+    "comments": null
   },
   "18": {
+    "name": "Šavnik",
+    "code": null,
     "unofficial_names": "Šavnik",
+    "geo": {
+      "latitude": 42.9577803,
+      "longitude": 19.0943627,
+      "min_latitude": 42.95211949999999,
+      "min_longitude": 19.0911485,
+      "max_latitude": 42.9614791,
+      "max_longitude": 19.1002035
+    },
     "translations": {
       "en": "Šavnik",
       "ar": "بلدية تشافنيك",
@@ -824,20 +993,29 @@
       "th": "ซาวนิก มูนิพาลิตี้",
       "tr": "Savnik Belediyesi",
       "ur": "شاونک بلدیہ",
-      "vi": "Đô thị tự trị Savnik"
+      "vi": "Đô thị tự trị Savnik",
+      "lv": "Šavnikas pašvaldība",
+      "ceb": "Opština Šavnik",
+      "sr_Latn": "Šavnik",
+      "zh": "沙夫尼克區",
+      "sq": "Komuna e Shavnikut",
+      "ccp": "𑄥𑄛𑄴𑄚𑄨𑄇𑄴",
+      "uk": "Муніципалітет Шавник"
     },
-    "geo": {
-      "latitude": 42.9577803,
-      "longitude": 19.0943627,
-      "min_latitude": 42.95211949999999,
-      "min_longitude": 19.0911485,
-      "max_latitude": 42.9614791,
-      "max_longitude": 19.1002035
-    },
-    "name": "Šavnik"
+    "comments": null
   },
   "19": {
+    "name": "Tivat",
+    "code": null,
     "unofficial_names": "Tivat",
+    "geo": {
+      "latitude": 42.43,
+      "longitude": 18.7,
+      "min_latitude": 42.4175716,
+      "min_longitude": 18.6844826,
+      "max_latitude": 42.44611889999999,
+      "max_longitude": 18.7237287
+    },
     "translations": {
       "en": "Tivat",
       "es": "Municipio de Tivat",
@@ -847,20 +1025,30 @@
       "pt": "Tivat",
       "ro": "Comuna Tivat",
       "sr": "Тиват",
-      "ur": "تیوات بلدیہ"
+      "ur": "تیوات بلدیہ",
+      "ceb": "Tivat",
+      "sr_Latn": "Tivat",
+      "zh": "蒂瓦特區",
+      "sv": "Tivat",
+      "ccp": "𑄑𑄭𑄞𑄖𑄴",
+      "fr": "Tivat",
+      "id": "Kota praja Tivat",
+      "mk": "Општина Тиват"
     },
-    "geo": {
-      "latitude": 42.43,
-      "longitude": 18.7,
-      "min_latitude": 42.4175716,
-      "min_longitude": 18.6844826,
-      "max_latitude": 42.44611889999999,
-      "max_longitude": 18.7237287
-    },
-    "name": "Tivat"
+    "comments": null
   },
   "20": {
+    "name": "Ulcinj",
+    "code": null,
     "unofficial_names": "Ulcinj",
+    "geo": {
+      "latitude": 41.9310884,
+      "longitude": 19.2147632,
+      "min_latitude": 41.9187885,
+      "min_longitude": 19.1914062,
+      "max_latitude": 41.9386158,
+      "max_longitude": 19.2313958
+    },
     "translations": {
       "en": "Ulcinj",
       "ar": "بلدية أولتسي",
@@ -899,20 +1087,28 @@
       "uk": "Улцинь",
       "ur": "اولتسینی بلدیہ",
       "vi": "Đô thị tự trị Ulcinj",
-      "zh": "烏爾齊尼市"
+      "zh": "烏爾齊尼市",
+      "lv": "Ulciņas pašvaldība",
+      "ceb": "Ulcinj (munisipyo)",
+      "sr_Latn": "Ulcinj",
+      "sq": "Komuna e Ulqinit",
+      "ccp": "𑄃𑄣𑄴𑄥𑄬𑄚𑄴𑄎𑄴",
+      "mk": "Општина Улцињ"
     },
-    "geo": {
-      "latitude": 41.9310884,
-      "longitude": 19.2147632,
-      "min_latitude": 41.9187885,
-      "min_longitude": 19.1914062,
-      "max_latitude": 41.9386158,
-      "max_longitude": 19.2313958
-    },
-    "name": "Ulcinj"
+    "comments": null
   },
   "21": {
+    "name": "Žabljak",
+    "code": null,
     "unofficial_names": "Žabljak",
+    "geo": {
+      "latitude": 43.1555152,
+      "longitude": 19.1226018,
+      "min_latitude": 43.1471842,
+      "min_longitude": 19.1090442,
+      "max_latitude": 43.1686245,
+      "max_longitude": 19.1503287
+    },
     "translations": {
       "en": "Žabljak",
       "ar": "بلدية شابلياك",
@@ -949,19 +1145,29 @@
       "th": "กานดาคิ โซน",
       "tr": "Zabljak Belediyesi",
       "ur": "زابلجک میونسپلٹی",
-      "vi": "Đô thị tự trị Zabljak"
+      "vi": "Đô thị tự trị Zabljak",
+      "lv": "Žabļakas pašvaldība",
+      "ceb": "Opština Žabljak",
+      "sr_Latn": "Žabljak",
+      "zh": "扎布利亞克區",
+      "sq": "Komuna e Zhabjakut",
+      "ccp": "𑄎𑄛𑄴𑄎𑄇𑄴",
+      "uk": "Муніципалітет Жабляк"
     },
-    "geo": {
-      "latitude": 43.1555152,
-      "longitude": 19.1226018,
-      "min_latitude": 43.1471842,
-      "min_longitude": 19.1090442,
-      "max_latitude": 43.1686245,
-      "max_longitude": 19.1503287
-    },
-    "name": "Žabljak"
+    "comments": null
   },
   "22": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bg": "Гусине (община)",
       "en": "Gusinje",
@@ -969,10 +1175,26 @@
       "ka": "გუსინიეს მუნიციპალიტეტი",
       "ro": "Comuna Gusinje",
       "sr": "Општина Гусиње",
-      "ur": "گوسینیے بلدیہ"
-    }
+      "ur": "گوسینیے بلدیہ",
+      "sr_Latn": "Opština Gusinje",
+      "zh": "古西涅區",
+      "sq": "Komuna e Gucisë",
+      "ccp": "𑄉𑄪𑄥𑄨𑄚𑄴𑄎𑄬"
+    },
+    "comments": null
   },
   "23": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "bg": "Петница (община)",
       "en": "Petnjica",
@@ -980,8 +1202,29 @@
       "ka": "პეტნიიცის მუნიციპალიტეტი",
       "ro": "Comuna Petnjica",
       "sr": "Општина Петњица",
-      "ur": "پیتنئیتسا بلدیہ"
-    }
+      "ur": "پیتنئیتسا بلدیہ",
+      "sr_Latn": "Opština Petnjica",
+      "zh": "佩特尼察區",
+      "ccp": "𑄛𑄬𑄑𑄚𑄴𑄎𑄨𑄇"
+    },
+    "comments": null
+  },
+  "24": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 42.708678,
+      "longitude": 19.37439,
+      "min_latitude": 41.8297,
+      "min_longitude": 18.4337921,
+      "max_latitude": 43.558743,
+      "max_longitude": 20.352926
+    },
+    "translations": {
+      "en": "Tuzi"
+    },
+    "comments": null
   }
 }
 

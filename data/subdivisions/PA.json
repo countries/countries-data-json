@@ -1,6 +1,16 @@
 {
   "1": {
+    "name": "Bocas del Toro",
+    "code": null,
     "unofficial_names": "Bocas del Toro",
+    "geo": {
+      "latitude": 9.340556,
+      "longitude": -82.240556,
+      "min_latitude": 9.3292808,
+      "min_longitude": -82.33235839999999,
+      "max_latitude": 9.453332,
+      "max_longitude": -82.2274304
+    },
     "translations": {
       "en": "Bocas del Toro",
       "ar": "محافظة بوكاس ديل تورو",
@@ -43,20 +53,25 @@
       "uk": "Бокас-дель-Торо",
       "ur": "بوکاس دیل تورو صوبہ",
       "vi": "Bocas del Toro",
-      "zh": "博卡斯德爾托羅省"
+      "zh": "博卡斯德爾托羅省",
+      "ceb": "Provincia de Bocas del Toro",
+      "fa": "استان بوکاس دل تورو",
+      "ccp": "𑄝𑄧𑄇𑄌𑄴 𑄓𑄬𑄣𑄴 𑄑𑄮𑄢𑄮"
     },
-    "geo": {
-      "latitude": 9.340556,
-      "longitude": -82.240556,
-      "min_latitude": 9.3292808,
-      "min_longitude": -82.33235839999999,
-      "max_latitude": 9.453332,
-      "max_longitude": -82.2274304
-    },
-    "name": "Bocas del Toro"
+    "comments": null
   },
   "2": {
+    "name": "Coclé",
+    "code": null,
     "unofficial_names": "Coclé",
+    "geo": {
+      "latitude": 8.400144899999999,
+      "longitude": -80.42152460000001,
+      "min_latitude": 8.3281104,
+      "min_longitude": -80.482192,
+      "max_latitude": 8.4878652,
+      "max_longitude": -80.3550767
+    },
     "translations": {
       "en": "Coclé",
       "ar": "مقاطعة كوكلتي",
@@ -97,20 +112,26 @@
       "tr": "Coclé Province",
       "uk": "Кокле",
       "ur": "کوکل صوبہ",
-      "vi": "Tỉnh Coclé"
+      "vi": "Tỉnh Coclé",
+      "ceb": "Provincia de Coclé",
+      "zh": "科克萊省",
+      "fa": "استان کوکله",
+      "ccp": "𑄇𑄮𑄇𑄴𑄣𑄬"
     },
-    "geo": {
-      "latitude": 8.400144899999999,
-      "longitude": -80.42152460000001,
-      "min_latitude": 8.3281104,
-      "min_longitude": -80.482192,
-      "max_latitude": 8.4878652,
-      "max_longitude": -80.3550767
-    },
-    "name": "Coclé"
+    "comments": null
   },
   "3": {
+    "name": "Colón",
+    "code": null,
     "unofficial_names": "Colón",
+    "geo": {
+      "latitude": 9.333333,
+      "longitude": -79.89999999999999,
+      "min_latitude": 9.242330299999999,
+      "min_longitude": -80.04467009999999,
+      "max_latitude": 9.4046939,
+      "max_longitude": -79.83102629999999
+    },
     "translations": {
       "en": "Colón",
       "ar": "مقاطعة كولون",
@@ -151,20 +172,28 @@
       "tr": "Colon Province",
       "uk": "Колон",
       "ur": "کولون صوبہ",
-      "vi": "Tỉnh Colón"
+      "vi": "Tỉnh Colón",
+      "ceb": "Provincia de Colón",
+      "zh": "科隆省",
+      "ccp": "𑄇𑄧𑄣𑄮𑄚𑄴",
+      "hy": "Կոլոն",
+      "he": "קולון",
+      "be": "Калон"
     },
-    "geo": {
-      "latitude": 9.333333,
-      "longitude": -79.89999999999999,
-      "min_latitude": 9.242330299999999,
-      "min_longitude": -80.04467009999999,
-      "max_latitude": 9.4046939,
-      "max_longitude": -79.83102629999999
-    },
-    "name": "Colón"
+    "comments": null
   },
   "4": {
+    "name": "Chiriquí",
+    "code": null,
     "unofficial_names": "Chiriquí",
+    "geo": {
+      "latitude": 8.3866964,
+      "longitude": -82.2800546,
+      "min_latitude": 8.2904865,
+      "min_longitude": -82.3967314,
+      "max_latitude": 8.4415651,
+      "max_longitude": -82.2074748
+    },
     "translations": {
       "en": "Chiriquí",
       "ar": "مقاطعة تشيريكي",
@@ -205,20 +234,26 @@
       "tr": "Chiriqui Province",
       "uk": "Чирики",
       "ur": "چیرکی صوبہ",
-      "vi": "Tỉnh Chiriquí"
+      "vi": "Tỉnh Chiriquí",
+      "ceb": "Provincia de Chiriquí",
+      "zh": "奇里基省",
+      "fa": "استان چیریکی",
+      "ccp": "𑄥𑄨𑄢𑄨𑄇𑄭𑄪"
     },
-    "geo": {
-      "latitude": 8.3866964,
-      "longitude": -82.2800546,
-      "min_latitude": 8.2904865,
-      "min_longitude": -82.3967314,
-      "max_latitude": 8.4415651,
-      "max_longitude": -82.2074748
-    },
-    "name": "Chiriquí"
+    "comments": null
   },
   "5": {
+    "name": "Darién",
+    "code": null,
     "unofficial_names": "Darién",
+    "geo": {
+      "latitude": 7.868171299999999,
+      "longitude": -77.8367282,
+      "min_latitude": 7.221865600000001,
+      "min_longitude": -78.511646,
+      "max_latitude": 8.9348909,
+      "max_longitude": -77.17411
+    },
     "translations": {
       "en": "Darién",
       "ar": "محافظة داريان",
@@ -260,20 +295,27 @@
       "tr": "Darien Province",
       "uk": "Дарʼєн",
       "ur": "داریئن صوبہ",
-      "vi": "Tỉnh Darién"
+      "vi": "Tỉnh Darién",
+      "ceb": "Provincia del Darién",
+      "sr_Latn": "Darijen",
+      "zh": "達連省",
+      "fa": "استان دارئین",
+      "ccp": "𑄓𑄢𑄨𑄠𑄬𑄚𑄴"
     },
-    "geo": {
-      "latitude": 7.868171299999999,
-      "longitude": -77.8367282,
-      "min_latitude": 7.221865600000001,
-      "min_longitude": -78.511646,
-      "max_latitude": 8.9348909,
-      "max_longitude": -77.17411
-    },
-    "name": "Darién"
+    "comments": null
   },
   "6": {
+    "name": "Herrera",
+    "code": null,
     "unofficial_names": "Herrera",
+    "geo": {
+      "latitude": 7.7704282,
+      "longitude": -80.7214417,
+      "min_latitude": 7.513487,
+      "min_longitude": -80.96242,
+      "max_latitude": 8.131537,
+      "max_longitude": -80.3965529
+    },
     "translations": {
       "en": "Herrera",
       "ar": "محافظة هيريرا",
@@ -314,20 +356,26 @@
       "tr": "Herrera Province",
       "uk": "Еррера",
       "ur": "ہیریرا صوبہ",
-      "vi": "Tỉnh Herrera"
+      "vi": "Tỉnh Herrera",
+      "ceb": "Provincia de Herrera",
+      "zh": "埃雷拉省",
+      "fa": "استان اررا",
+      "ccp": "𑄦𑄬𑄢𑄢"
     },
-    "geo": {
-      "latitude": 7.7704282,
-      "longitude": -80.7214417,
-      "min_latitude": 7.513487,
-      "min_longitude": -80.96242,
-      "max_latitude": 8.131537,
-      "max_longitude": -80.3965529
-    },
-    "name": "Herrera"
+    "comments": null
   },
   "7": {
+    "name": "Los Santos",
+    "code": null,
     "unofficial_names": "Los Santos",
+    "geo": {
+      "latitude": 7.5909302,
+      "longitude": -80.365865,
+      "min_latitude": 7.2297201,
+      "min_longitude": -80.734346,
+      "max_latitude": 8.000313,
+      "max_longitude": -79.9944531
+    },
     "translations": {
       "en": "Los Santos",
       "ar": "محافظة لوس سانتوس",
@@ -368,20 +416,26 @@
       "tr": "Los Santos Province",
       "uk": "Лос-Сантос",
       "ur": "لاس سانتوس صوبہ",
-      "vi": "Tỉnh Los Santos"
+      "vi": "Tỉnh Los Santos",
+      "ceb": "Provincia de Los Santos",
+      "zh": "洛斯桑托斯省",
+      "fa": "استان لوس سانتوس",
+      "ccp": "𑄣𑄧𑄌𑄴 𑄥𑄚𑄴𑄑𑄮𑄌𑄴"
     },
-    "geo": {
-      "latitude": 7.5909302,
-      "longitude": -80.365865,
-      "min_latitude": 7.2297201,
-      "min_longitude": -80.734346,
-      "max_latitude": 8.000313,
-      "max_longitude": -79.9944531
-    },
-    "name": "Los Santos"
+    "comments": null
   },
   "8": {
+    "name": "Panamá",
+    "code": null,
     "unofficial_names": "Panamá",
+    "geo": {
+      "latitude": 8.983333,
+      "longitude": -79.516667,
+      "min_latitude": 8.906754,
+      "min_longitude": -79.5978646,
+      "max_latitude": 9.2596966,
+      "max_longitude": -79.3068941
+    },
     "translations": {
       "en": "Panamá",
       "bg": "Панама",
@@ -408,20 +462,30 @@
       "tr": "Panama ili",
       "uk": "Панама",
       "ur": "پاناما صوبہ",
-      "vi": "Panamá"
+      "vi": "Panamá",
+      "ceb": "Provincia de Panamá",
+      "zh": "巴拿馬省",
+      "fa": "استان پاناما",
+      "ccp": "𑄛𑄚𑄟",
+      "hy": "Պանամա նահանգ",
+      "az": "Panama əyaləti",
+      "be": "правінцыя Панама",
+      "th": "จังหวัดปานามา"
     },
-    "geo": {
-      "latitude": 8.983333,
-      "longitude": -79.516667,
-      "min_latitude": 8.906754,
-      "min_longitude": -79.5978646,
-      "max_latitude": 9.2596966,
-      "max_longitude": -79.3068941
-    },
-    "name": "Panamá"
+    "comments": null
   },
   "9": {
+    "name": "Veraguas",
+    "code": null,
     "unofficial_names": "Veraguas",
+    "geo": {
+      "latitude": 8.866667,
+      "longitude": -80.89999999999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Veraguas",
       "ar": "محافظة فيراغواس",
@@ -462,20 +526,27 @@
       "tr": "Veraguas Province",
       "uk": "Вераґуас",
       "ur": "ویراگواس صوبہ",
-      "vi": "Veraguas"
+      "vi": "Veraguas",
+      "ceb": "Provincia de Veraguas",
+      "zh": "貝拉瓜斯省",
+      "ccp": "𑄞𑄢𑄴𑄉𑄅𑄪𑄌𑄴",
+      "hy": "Վերագուաս",
+      "eu": "Veraguas"
     },
+    "comments": null
+  },
+  "10": {
+    "name": "Panamá Oeste",
+    "code": null,
+    "unofficial_names": "Panamá Oeste",
     "geo": {
-      "latitude": 8.866667,
-      "longitude": -80.89999999999999,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Veraguas"
-  },
-  "10": {
-    "unofficial_names": "Panamá Oeste",
     "translations": {
       "cs": "Západní Panama",
       "de": "Provinz Panamá Oeste",
@@ -488,8 +559,20 @@
       "nl": "Panama Oeste",
       "pl": "Panama Zachodnia",
       "ru": "Западная Панама",
-      "ur": "پاناما غربی صوبہ"
+      "ur": "پاناما غربی صوبہ",
+      "zh": "西巴拿馬省",
+      "fa": "استان پاناما اوسته",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄛𑄚𑄟",
+      "hy": "Արևմտյան Պանամա",
+      "eu": "Mendebaldeko Panama",
+      "uk": "Західна Панама"
     },
+    "comments": null
+  },
+  "EM": {
+    "name": "Emberá-Wounaan",
+    "code": null,
+    "unofficial_names": "Emberá-Wounaan",
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -498,10 +581,6 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Panamá Oeste"
-  },
-  "EM": {
-    "unofficial_names": "Emberá-Wounaan",
     "translations": {
       "ar": "كوماركا امبيرا-وونان",
       "bg": "Ембера",
@@ -541,20 +620,27 @@
       "tr": "Embera-Wounaa Comarca",
       "uk": "Ембера-Воунаан",
       "ur": "کومارکا امبیرا-ووناو",
-      "vi": "Emberá-Wounaan Comarca"
+      "vi": "Emberá-Wounaan Comarca",
+      "ceb": "Emberá-Wounaan",
+      "zh": "安貝拉自治區",
+      "ccp": "𑄃𑄬𑄟𑄝𑄢𑄴",
+      "hy": "Էմբերա Վոունաան",
+      "eu": "Emberá-Wounaan"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Emberá-Wounaan"
+    "comments": null
   },
   "KY": {
+    "name": "Guna Yala",
+    "code": null,
     "unofficial_names": "Guna Yala",
+    "geo": {
+      "latitude": 8.537981,
+      "longitude": -80.782127,
+      "min_latitude": 7.203556400000001,
+      "min_longitude": -83.05224109999999,
+      "max_latitude": 9.6477792,
+      "max_longitude": -77.15848799999999
+    },
     "translations": {
       "ar": "غونا يالا",
       "bg": "Куна Яла",
@@ -595,20 +681,27 @@
       "tr": "Guna Yala",
       "uk": "Гуна-Яла",
       "ur": "گونا یالا",
-      "vi": "Guna Yala"
+      "vi": "Guna Yala",
+      "ceb": "Guna Yala",
+      "zh": "雅拉庫納族自治區",
+      "ccp": "𑄉𑄪𑄚 𑄃𑄨𑄠𑄣",
+      "hy": "Կունա Յալա",
+      "eu": "Guna Yala"
     },
-    "geo": {
-      "latitude": 8.537981,
-      "longitude": -80.782127,
-      "min_latitude": 7.203556400000001,
-      "min_longitude": -83.05224109999999,
-      "max_latitude": 9.6477792,
-      "max_longitude": -77.15848799999999
-    },
-    "name": "Guna Yala"
+    "comments": null
   },
   "NB": {
+    "name": "Ngäbe-Buglé",
+    "code": null,
     "unofficial_names": "Ngäbe-Buglé",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "نجوب-بولجي كوماركا",
       "bg": "Нгьобе-Бугле",
@@ -648,17 +741,14 @@
       "tr": "Ngöbe-Buglé County",
       "uk": "Нґобе-Буґле",
       "ur": "نگابے-بوگلے کومارکا",
-      "vi": "Ngobe-Buglé Comarca"
+      "vi": "Ngobe-Buglé Comarca",
+      "ceb": "Ngöbe-Buglé",
+      "zh": "恩戈貝布格勒自治區",
+      "ccp": "𑄉𑄮𑄝𑄬-𑄝𑄉𑄧𑄣𑄴",
+      "hy": "Նգոբե Բուգլե",
+      "eu": "Ngäbe-Buglé"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Ngäbe-Buglé"
+    "comments": null
   }
 }
 

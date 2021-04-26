@@ -1,6 +1,16 @@
 {
   "1": {
+    "name": "Agadez",
+    "code": null,
     "unofficial_names": "Agadez",
+    "geo": {
+      "latitude": 16.966667,
+      "longitude": 7.983333,
+      "min_latitude": 16.948514,
+      "min_longitude": 7.9526987,
+      "max_latitude": 16.9894109,
+      "max_longitude": 8.0210101
+    },
     "translations": {
       "en": "Agadez",
       "ar": "منطقة أغاديس",
@@ -36,20 +46,29 @@
       "tr": "Agadez (Nijer bölgesi)",
       "ur": "اگادیز علاقہ",
       "vi": "Khu vực Agadez",
-      "zh": "阿加德兹大区"
+      "zh": "阿加德兹大区",
+      "lv": "Agadesas reģions",
+      "ceb": "Agadez",
+      "lt": "Agadezo regionas",
+      "ccp": "𑄃𑄉𑄓𑄬𑄌𑄴",
+      "ka": "აგადესის რეგიონი",
+      "ha": "Yankin Agadez",
+      "uk": "Регіон Агадес"
     },
-    "geo": {
-      "latitude": 16.966667,
-      "longitude": 7.983333,
-      "min_latitude": 16.948514,
-      "min_longitude": 7.9526987,
-      "max_latitude": 16.9894109,
-      "max_longitude": 8.0210101
-    },
-    "name": "Agadez"
+    "comments": null
   },
   "2": {
+    "name": "Diffa",
+    "code": null,
     "unofficial_names": "Diffa",
+    "geo": {
+      "latitude": 13.316667,
+      "longitude": 12.616667,
+      "min_latitude": 13.3027664,
+      "min_longitude": 12.6024342,
+      "max_latitude": 13.3314146,
+      "max_longitude": 12.6319599
+    },
     "translations": {
       "en": "Diffa",
       "ar": "منطقة ديفا",
@@ -84,20 +103,30 @@
       "th": "ดิฟฟา",
       "tr": "Diffa",
       "ur": "دیفا علاقہ",
-      "vi": "Khu vực Diffa"
+      "vi": "Khu vực Diffa",
+      "lv": "Difas reģions",
+      "ceb": "Diffa",
+      "lt": "Difos regionas",
+      "zh": "迪法大区",
+      "ccp": "𑄓𑄨𑄜𑄳𑄦",
+      "ka": "დიფის რეგიონი",
+      "ha": "Yankin Diffa",
+      "uk": "Регіон Діффа"
     },
-    "geo": {
-      "latitude": 13.316667,
-      "longitude": 12.616667,
-      "min_latitude": 13.3027664,
-      "min_longitude": 12.6024342,
-      "max_latitude": 13.3314146,
-      "max_longitude": 12.6319599
-    },
-    "name": "Diffa"
+    "comments": null
   },
   "3": {
+    "name": "Dosso",
+    "code": null,
     "unofficial_names": "Dosso",
+    "geo": {
+      "latitude": 13.05,
+      "longitude": 3.2,
+      "min_latitude": 13.0239105,
+      "min_longitude": 3.1782688,
+      "max_latitude": 13.0693243,
+      "max_longitude": 3.2271886
+    },
     "translations": {
       "en": "Dosso",
       "ar": "منطقة دوسو",
@@ -133,20 +162,30 @@
       "th": "ดอสโซ",
       "tr": "Dosso",
       "ur": "دوسو علاقہ",
-      "vi": "Khu vực Dosso"
+      "vi": "Khu vực Dosso",
+      "lv": "Doso reģions",
+      "ceb": "Dosso Region",
+      "lt": "Doso regionas",
+      "zh": "多索大区",
+      "ccp": "𑄓𑄮𑄥𑄮",
+      "ka": "დოსოს რეგიონი",
+      "ha": "Yankin Dosso",
+      "uk": "Регіон Досо"
     },
-    "geo": {
-      "latitude": 13.05,
-      "longitude": 3.2,
-      "min_latitude": 13.0239105,
-      "min_longitude": 3.1782688,
-      "max_latitude": 13.0693243,
-      "max_longitude": 3.2271886
-    },
-    "name": "Dosso"
+    "comments": null
   },
   "4": {
+    "name": "Maradi",
+    "code": null,
     "unofficial_names": "Maradi",
+    "geo": {
+      "latitude": 13.483333,
+      "longitude": 7.1,
+      "min_latitude": 13.46399,
+      "min_longitude": 7.0772901,
+      "max_latitude": 13.5319182,
+      "max_longitude": 7.128497299999999
+    },
     "translations": {
       "en": "Maradi",
       "ar": "منطقة مارادي",
@@ -181,20 +220,30 @@
       "th": "มาราดี",
       "tr": "Maradi",
       "ur": "مارادی علاقہ",
-      "vi": "Khu vực Maradi"
+      "vi": "Khu vực Maradi",
+      "lv": "Maradi reģions",
+      "ceb": "Maradi",
+      "lt": "Maradžio regionas",
+      "zh": "马拉迪大区",
+      "ccp": "𑄟𑄢𑄓𑄨",
+      "ka": "მარადის რეგიონი",
+      "ha": "Yankin Maradi",
+      "uk": "Мараді"
     },
-    "geo": {
-      "latitude": 13.483333,
-      "longitude": 7.1,
-      "min_latitude": 13.46399,
-      "min_longitude": 7.0772901,
-      "max_latitude": 13.5319182,
-      "max_longitude": 7.128497299999999
-    },
-    "name": "Maradi"
+    "comments": null
   },
   "5": {
+    "name": "Tahoua",
+    "code": null,
     "unofficial_names": "Tahoua",
+    "geo": {
+      "latitude": 14.883333,
+      "longitude": 5.266667,
+      "min_latitude": 14.8680217,
+      "min_longitude": 5.241680100000001,
+      "max_latitude": 14.9285551,
+      "max_longitude": 5.2966928
+    },
     "translations": {
       "en": "Tahoua",
       "ar": "منطقة طاوة",
@@ -229,22 +278,32 @@
       "th": "เขตทาโฮรัว",
       "tr": "Tahoua",
       "ur": "تاہؤا علاقہ",
-      "vi": "Khu vực Tahoua"
+      "vi": "Khu vực Tahoua",
+      "lv": "Tahua reģions",
+      "ceb": "Tahoua",
+      "lt": "Tahovos regionas",
+      "zh": "塔瓦大区",
+      "ccp": "𑄑𑄦𑄪𑄠",
+      "ka": "ტაჰუის რეგიონი",
+      "ha": "Yankin Tahoua",
+      "uk": "Регіон Тахуа"
     },
-    "geo": {
-      "latitude": 14.883333,
-      "longitude": 5.266667,
-      "min_latitude": 14.8680217,
-      "min_longitude": 5.241680100000001,
-      "max_latitude": 14.9285551,
-      "max_longitude": 5.2966928
-    },
-    "name": "Tahoua"
+    "comments": null
   },
   "6": {
+    "name": "Tillabéri",
+    "code": null,
     "unofficial_names": [
       "Tillaberi"
     ],
+    "geo": {
+      "latitude": 14.6489525,
+      "longitude": 2.1450245,
+      "min_latitude": 11.9016119,
+      "min_longitude": 0.16625,
+      "max_latitude": 15.7044501,
+      "max_longitude": 4.254564999999999
+    },
     "translations": {
       "en": "Tillabéri",
       "ar": "منطقة تيلابيري",
@@ -279,20 +338,30 @@
       "th": "เขตทีราเบรี",
       "tr": "Tillabéri",
       "ur": "تیلابےری علاقہ",
-      "vi": "Khu vực Tillabéri"
+      "vi": "Khu vực Tillabéri",
+      "lv": "Tilaberi reģions",
+      "ceb": "Tillaberi Region",
+      "lt": "Tilaberio regionas",
+      "zh": "蒂拉贝里大区",
+      "ccp": "𑄑𑄣𑄳𑄦𑄝𑄬𑄢𑄨",
+      "ka": "ტილაბერის რეგიონი",
+      "ha": "Tillabéri",
+      "uk": "Регіон Тіллабері"
     },
-    "geo": {
-      "latitude": 14.6489525,
-      "longitude": 2.1450245,
-      "min_latitude": 11.9016119,
-      "min_longitude": 0.16625,
-      "max_latitude": 15.7044501,
-      "max_longitude": 4.254564999999999
-    },
-    "name": "Tillabéri"
+    "comments": null
   },
   "7": {
+    "name": "Zinder",
+    "code": null,
     "unofficial_names": "Zinder",
+    "geo": {
+      "latitude": 13.805278,
+      "longitude": 8.988332999999999,
+      "min_latitude": 13.7752561,
+      "min_longitude": 8.9602306,
+      "max_latitude": 13.8345383,
+      "max_longitude": 9.0148114
+    },
     "translations": {
       "en": "Zinder",
       "ar": "منطقة زيندر",
@@ -326,20 +395,30 @@
       "th": "เมืองอิโซลา",
       "tr": "Zinder (Nijer bölgesi)",
       "ur": "زندر علاقہ",
-      "vi": "Khu vực Zinder"
+      "vi": "Khu vực Zinder",
+      "lv": "Zinderas reģions",
+      "ceb": "Zinder",
+      "lt": "Zinderio regionas",
+      "zh": "津德尔大区",
+      "ccp": "𑄎𑄨𑄚𑄴𑄓𑄢𑄴",
+      "ka": "ზინდერის რეგიონი",
+      "ha": "Yankin Zinder",
+      "uk": "Зіндер"
     },
-    "geo": {
-      "latitude": 13.805278,
-      "longitude": 8.988332999999999,
-      "min_latitude": 13.7752561,
-      "min_longitude": 8.9602306,
-      "max_latitude": 13.8345383,
-      "max_longitude": 9.0148114
-    },
-    "name": "Zinder"
+    "comments": null
   },
   "8": {
+    "name": "Niamey",
+    "code": null,
     "unofficial_names": "Niamey",
+    "geo": {
+      "latitude": 13.521389,
+      "longitude": 2.105278,
+      "min_latitude": 13.4461983,
+      "min_longitude": 2.0319587,
+      "max_latitude": 13.5793394,
+      "max_longitude": 2.2061066
+    },
     "translations": {
       "en": "Niamey",
       "af": "Niamey",
@@ -398,17 +477,27 @@
       "tr": "Niamey",
       "uk": "Ніамей",
       "ur": "نیامی",
-      "vi": "Niamey"
+      "vi": "Niamey",
+      "cy": "Niamey",
+      "ceb": "Niamey (ulohang dakbayan)",
+      "sr_Latn": "Nijamej",
+      "zh": "尼亞美",
+      "yue_Hans": "尼亚美",
+      "sq": "Niamey",
+      "ccp": "𑄚𑄨𑄠𑄟𑄬",
+      "ga": "Niamey",
+      "ky": "Ниамей",
+      "ha": "Niamey",
+      "so": "Niamey",
+      "pa": "ਨਿਆਮੀ",
+      "kk": "Ниамей",
+      "yue": "尼亞美",
+      "yo": "Niamey",
+      "uz": "Niamey",
+      "bs": "Niamey",
+      "mk": "Нијамеј"
     },
-    "geo": {
-      "latitude": 13.521389,
-      "longitude": 2.105278,
-      "min_latitude": 13.4461983,
-      "min_longitude": 2.0319587,
-      "max_latitude": 13.5793394,
-      "max_longitude": 2.2061066
-    },
-    "name": "Niamey"
+    "comments": null
   }
 }
 

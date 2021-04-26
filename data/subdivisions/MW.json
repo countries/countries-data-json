@@ -1,6 +1,16 @@
 {
   "BA": {
+    "name": "Balaka",
+    "code": null,
     "unofficial_names": "Balaka",
+    "geo": {
+      "latitude": -14.9876054,
+      "longitude": 34.9561748,
+      "min_latitude": -15.0083795,
+      "min_longitude": 34.9307894,
+      "max_latitude": -14.9766781,
+      "max_longitude": 34.9850202
+    },
     "translations": {
       "en": "Balaka",
       "ar": "مقاطعة بالاكا",
@@ -40,20 +50,28 @@
       "tr": "Balaka",
       "ur": "بالاکا ضلع",
       "vi": "Quận Balaka",
-      "zh": "巴拉卡縣"
+      "zh": "巴拉卡縣",
+      "lv": "Balakas distrikts",
+      "ceb": "Balaka",
+      "sr_Latn": "Balaka",
+      "lt": "Balakos apskritis",
+      "ccp": "𑄝𑄣𑄇",
+      "uk": "Район Балака"
     },
-    "geo": {
-      "latitude": -14.9876054,
-      "longitude": 34.9561748,
-      "min_latitude": -15.0083795,
-      "min_longitude": 34.9307894,
-      "max_latitude": -14.9766781,
-      "max_longitude": 34.9850202
-    },
-    "name": "Balaka"
+    "comments": null
   },
   "BL": {
+    "name": "Blantyre",
+    "code": null,
     "unofficial_names": "Blantyre",
+    "geo": {
+      "latitude": -15.786111,
+      "longitude": 35.005833,
+      "min_latitude": -15.8702044,
+      "min_longitude": 34.952488,
+      "max_latitude": -15.6822126,
+      "max_longitude": 35.1090431
+    },
     "translations": {
       "en": "Blantyre",
       "ar": "مقاطعة بلانتير",
@@ -92,20 +110,29 @@
       "th": "บลานไทร์",
       "tr": "Blantyre",
       "ur": "بلانتیری ضلع",
-      "vi": "Quận Blantyre"
+      "vi": "Quận Blantyre",
+      "lv": "Blantairas distrikts",
+      "ceb": "Blantyre District",
+      "sr_Latn": "Blantajer",
+      "lt": "Blantiro apskritis",
+      "zh": "布蘭太爾縣",
+      "ccp": "𑄝𑄳𑄣𑄚𑄴𑄑𑄠𑄢𑄴",
+      "uk": "Блантайр"
     },
-    "geo": {
-      "latitude": -15.786111,
-      "longitude": 35.005833,
-      "min_latitude": -15.8702044,
-      "min_longitude": 34.952488,
-      "max_latitude": -15.6822126,
-      "max_longitude": 35.1090431
-    },
-    "name": "Blantyre"
+    "comments": null
   },
   "CK": {
+    "name": "Chikwawa",
+    "code": null,
     "unofficial_names": "Chikwawa",
+    "geo": {
+      "latitude": -16.035,
+      "longitude": 34.801,
+      "min_latitude": -16.0552991,
+      "min_longitude": 34.7784233,
+      "max_latitude": -16.0070408,
+      "max_longitude": 34.8167897
+    },
     "translations": {
       "en": "Chikwawa",
       "ar": "مقاطعة تشيكواوا",
@@ -143,20 +170,28 @@
       "th": "ชิกวาวา",
       "tr": "Chikwawa",
       "ur": "چیکواوا ضلع",
-      "vi": "Quận Chikwawa"
+      "vi": "Quận Chikwawa",
+      "lv": "Čikvavas distrikts",
+      "ceb": "Chikwawa District",
+      "lt": "Čikvavos apskritis",
+      "zh": "奇克瓦瓦縣",
+      "ccp": "𑄌𑄇𑄴𑄤𑄤",
+      "uk": "Район Чіквава"
     },
-    "geo": {
-      "latitude": -16.035,
-      "longitude": 34.801,
-      "min_latitude": -16.0552991,
-      "min_longitude": 34.7784233,
-      "max_latitude": -16.0070408,
-      "max_longitude": 34.8167897
-    },
-    "name": "Chikwawa"
+    "comments": null
   },
   "CR": {
+    "name": "Chiradzulu",
+    "code": null,
     "unofficial_names": "Chiradzulu",
+    "geo": {
+      "latitude": -15.6759485,
+      "longitude": 35.1406293,
+      "min_latitude": -15.6875012,
+      "min_longitude": 35.1309299,
+      "max_latitude": -15.6594037,
+      "max_longitude": 35.1468944
+    },
     "translations": {
       "en": "Chiradzulu",
       "ar": "إقليم تشيرازولو",
@@ -194,20 +229,28 @@
       "th": "ชิราดซูลู",
       "tr": "Chiradzulu",
       "ur": "چیرادزولو ضلع",
-      "vi": "Quận Chiradzulu"
+      "vi": "Quận Chiradzulu",
+      "lv": "Čiradzulu distrikts",
+      "ceb": "Chiradzulu District",
+      "lt": "Čiradzulo apskritis",
+      "zh": "奇拉朱盧縣",
+      "ccp": "𑄌𑄨𑄢𑄖𑄴𑄎𑄪𑄣𑄪",
+      "uk": "Район Чірадзулу"
     },
-    "geo": {
-      "latitude": -15.6759485,
-      "longitude": 35.1406293,
-      "min_latitude": -15.6875012,
-      "min_longitude": 35.1309299,
-      "max_latitude": -15.6594037,
-      "max_longitude": 35.1468944
-    },
-    "name": "Chiradzulu"
+    "comments": null
   },
   "CT": {
+    "name": "Chitipa",
+    "code": null,
     "unofficial_names": "Chitipa",
+    "geo": {
+      "latitude": -9.7037655,
+      "longitude": 33.2700253,
+      "min_latitude": -9.7162481,
+      "min_longitude": 33.2463455,
+      "max_latitude": -9.6740303,
+      "max_longitude": 33.2946682
+    },
     "translations": {
       "en": "Chitipa",
       "ar": "مقاطعة تشيتيبا",
@@ -246,20 +289,29 @@
       "th": "เขตชิทิพา",
       "tr": "Chitipa",
       "ur": "چیتیپا ضلع",
-      "vi": "Quận Chitipa"
+      "vi": "Quận Chitipa",
+      "lv": "Čitipas distrikts",
+      "ceb": "Chitipa District",
+      "sr_Latn": "Čitipa",
+      "lt": "Čitipos apskritis",
+      "zh": "奇蒂帕縣",
+      "ccp": "𑄌𑄨𑄑𑄨𑄛",
+      "uk": "Район Чітіпа"
     },
-    "geo": {
-      "latitude": -9.7037655,
-      "longitude": 33.2700253,
-      "min_latitude": -9.7162481,
-      "min_longitude": 33.2463455,
-      "max_latitude": -9.6740303,
-      "max_longitude": 33.2946682
-    },
-    "name": "Chitipa"
+    "comments": null
   },
   "DE": {
+    "name": "Dedza",
+    "code": null,
     "unofficial_names": "Dedza",
+    "geo": {
+      "latitude": -14.3816618,
+      "longitude": 34.3254842,
+      "min_latitude": -14.398852,
+      "min_longitude": 34.3036938,
+      "max_latitude": -14.3712497,
+      "max_longitude": 34.34515
+    },
     "translations": {
       "en": "Dedza",
       "ar": "مقاطعة ديدزا",
@@ -298,20 +350,28 @@
       "th": "อำเภอเดดซา",
       "tr": "Dedza",
       "ur": "دیدزا ضلع",
-      "vi": "Quận Dedza"
+      "vi": "Quận Dedza",
+      "lv": "Dedzas distrikts",
+      "ceb": "Dedza District",
+      "lt": "Dedzo apskritis",
+      "zh": "代扎縣",
+      "ccp": "𑄓𑄬𑄖𑄴𑄎",
+      "uk": "Район Дедза"
     },
-    "geo": {
-      "latitude": -14.3816618,
-      "longitude": 34.3254842,
-      "min_latitude": -14.398852,
-      "min_longitude": 34.3036938,
-      "max_latitude": -14.3712497,
-      "max_longitude": 34.34515
-    },
-    "name": "Dedza"
+    "comments": null
   },
   "DO": {
+    "name": "Dowa",
+    "code": null,
     "unofficial_names": "Dowa",
+    "geo": {
+      "latitude": -13.6514687,
+      "longitude": 33.9359756,
+      "min_latitude": -13.6647528,
+      "min_longitude": 33.9223479,
+      "max_latitude": -13.6396478,
+      "max_longitude": 33.9471531
+    },
     "translations": {
       "en": "Dowa",
       "ar": "مقاطعة دوا",
@@ -349,20 +409,28 @@
       "th": "เขตโดวา",
       "tr": "Dowa",
       "ur": "دوا ضلع",
-      "vi": "Quận Dowa"
+      "vi": "Quận Dowa",
+      "lv": "Dovas reģions",
+      "ceb": "Dowa District",
+      "lt": "Dovos apskritis",
+      "zh": "多瓦縣",
+      "ccp": "𑄓𑄮𑄤",
+      "uk": "Район Дова"
     },
-    "geo": {
-      "latitude": -13.6514687,
-      "longitude": 33.9359756,
-      "min_latitude": -13.6647528,
-      "min_longitude": 33.9223479,
-      "max_latitude": -13.6396478,
-      "max_longitude": 33.9471531
-    },
-    "name": "Dowa"
+    "comments": null
   },
   "KR": {
+    "name": "Karonga",
+    "code": null,
     "unofficial_names": "Karonga",
+    "geo": {
+      "latitude": -9.933333,
+      "longitude": 33.933333,
+      "min_latitude": -9.967624899999999,
+      "min_longitude": 33.8861703,
+      "max_latitude": -9.9243401,
+      "max_longitude": 33.94612310000001
+    },
     "translations": {
       "en": "Karonga",
       "az": "Karonga",
@@ -385,20 +453,26 @@
       "ru": "Каронга",
       "sr": "Каронга",
       "sv": "Karonga",
-      "tr": "Karonga"
+      "tr": "Karonga",
+      "ceb": "Karonga District",
+      "sr_Latn": "Karonga",
+      "zh": "卡龍加縣",
+      "ccp": "𑄇𑄢𑄧𑄁𑄉"
     },
-    "geo": {
-      "latitude": -9.933333,
-      "longitude": 33.933333,
-      "min_latitude": -9.967624899999999,
-      "min_longitude": 33.8861703,
-      "max_latitude": -9.9243401,
-      "max_longitude": 33.94612310000001
-    },
-    "name": "Karonga"
+    "comments": null
   },
   "KS": {
+    "name": "Kasungu",
+    "code": null,
     "unofficial_names": "Kasungu",
+    "geo": {
+      "latitude": -13.033333,
+      "longitude": 33.483333,
+      "min_latitude": -13.0698636,
+      "min_longitude": 33.4539701,
+      "max_latitude": -13.007652,
+      "max_longitude": 33.5083008
+    },
     "translations": {
       "en": "Kasungu",
       "ar": "مقاطعة كاسونغو",
@@ -436,20 +510,29 @@
       "th": "เขตคาซุนกู",
       "tr": "Kasungu",
       "ur": "کاسونجو ضلع",
-      "vi": "Quận Kasungu"
+      "vi": "Quận Kasungu",
+      "lv": "Kasungu distrikts",
+      "ceb": "Kasungu District",
+      "lt": "Kasungo apskritis",
+      "zh": "卡松古縣",
+      "ccp": "𑄇𑄥𑄪𑄚𑄴𑄉𑄪",
+      "uk": "Район Касунгу",
+      "be": "раён Касунгу"
     },
-    "geo": {
-      "latitude": -13.033333,
-      "longitude": 33.483333,
-      "min_latitude": -13.0698636,
-      "min_longitude": 33.4539701,
-      "max_latitude": -13.007652,
-      "max_longitude": 33.5083008
-    },
-    "name": "Kasungu"
+    "comments": null
   },
   "LI": {
+    "name": "Lilongwe",
+    "code": null,
     "unofficial_names": "Lilongwe",
+    "geo": {
+      "latitude": -13.983333,
+      "longitude": 33.783333,
+      "min_latitude": -14.0644008,
+      "min_longitude": 33.7162716,
+      "max_latitude": -13.8624138,
+      "max_longitude": 33.8478469
+    },
     "translations": {
       "en": "Lilongwe",
       "ar": "مقاطعة ليلونغوي",
@@ -487,20 +570,29 @@
       "th": "เขตลิลองเว",
       "tr": "Lilongwe",
       "ur": "لیلونجوی ضلع",
-      "vi": "Quận Lilongwe"
+      "vi": "Quận Lilongwe",
+      "lv": "Lilongves distrikts",
+      "ceb": "Lilongwe District",
+      "lt": "Lilongvės apskritis",
+      "zh": "利隆圭縣",
+      "ccp": "𑄣𑄨𑄣𑄧𑄁𑄅𑄪𑄃𑄨",
+      "uk": "Район Лилонгве",
+      "be": "раён Лілонгвэ"
     },
-    "geo": {
-      "latitude": -13.983333,
-      "longitude": 33.783333,
-      "min_latitude": -14.0644008,
-      "min_longitude": 33.7162716,
-      "max_latitude": -13.8624138,
-      "max_longitude": 33.8478469
-    },
-    "name": "Lilongwe"
+    "comments": null
   },
   "LK": {
+    "name": "Likoma Island",
+    "code": null,
     "unofficial_names": "Likoma Island",
+    "geo": {
+      "latitude": -12.0584005,
+      "longitude": 34.7354031,
+      "min_latitude": -12.1000348,
+      "min_longitude": 34.7087596,
+      "max_latitude": -12.0311794,
+      "max_longitude": 34.7604815
+    },
     "translations": {
       "en": "Likoma",
       "ar": "مقاطعة ليكوما",
@@ -539,20 +631,29 @@
       "th": "เขตลิโกมา",
       "tr": "Likoma",
       "ur": "لیکوما ڈسٹرک",
-      "vi": "Quận Likoma"
+      "vi": "Quận Likoma",
+      "lv": "Likomas distrikts",
+      "ceb": "Likoma District",
+      "sr_Latn": "Likoma",
+      "lt": "Likomos apskritis",
+      "zh": "利科馬縣",
+      "ccp": "𑄣𑄨𑄇𑄮𑄟",
+      "uk": "Район Лікома"
     },
-    "geo": {
-      "latitude": -12.0584005,
-      "longitude": 34.7354031,
-      "min_latitude": -12.1000348,
-      "min_longitude": 34.7087596,
-      "max_latitude": -12.0311794,
-      "max_longitude": 34.7604815
-    },
-    "name": "Likoma Island"
+    "comments": null
   },
   "MC": {
+    "name": "Mchinji",
+    "code": null,
     "unofficial_names": "Mchinji",
+    "geo": {
+      "latitude": -13.8000058,
+      "longitude": 32.8930441,
+      "min_latitude": -13.8171608,
+      "min_longitude": 32.8671455,
+      "max_latitude": -13.7765674,
+      "max_longitude": 32.90946
+    },
     "translations": {
       "en": "Mchinji",
       "ar": "مقاطعة مشينجي",
@@ -590,20 +691,28 @@
       "th": "มชินจิ",
       "tr": "Mchinji",
       "ur": "مچینجی ضلع",
-      "vi": "Quận Mchinji"
+      "vi": "Quận Mchinji",
+      "lv": "Mčindži distrikts",
+      "ceb": "Mchinji District",
+      "lt": "Mčinio apskritis",
+      "zh": "姆欽吉縣",
+      "ccp": "𑄌𑄨𑄚𑄴𑄎𑄨",
+      "uk": "Район Мчіньї"
     },
-    "geo": {
-      "latitude": -13.8000058,
-      "longitude": 32.8930441,
-      "min_latitude": -13.8171608,
-      "min_longitude": 32.8671455,
-      "max_latitude": -13.7765674,
-      "max_longitude": 32.90946
-    },
-    "name": "Mchinji"
+    "comments": null
   },
   "MG": {
+    "name": "Mangochi",
+    "code": null,
     "unofficial_names": "Mangochi",
+    "geo": {
+      "latitude": -14.4861733,
+      "longitude": 35.253304,
+      "min_latitude": -14.5005024,
+      "min_longitude": 35.2314378,
+      "max_latitude": -14.4638539,
+      "max_longitude": 35.2740097
+    },
     "translations": {
       "en": "Mangochi",
       "ar": "مقاطعة مانغوتشي",
@@ -641,20 +750,28 @@
       "th": "เขตแมนโกชิ",
       "tr": "Mangochi",
       "ur": "مانجوچی ضلع",
-      "vi": "Quận Mangochi"
+      "vi": "Quận Mangochi",
+      "lv": "Mangonči distrikts",
+      "ceb": "Mangochi District",
+      "lt": "Magončio apskritis",
+      "zh": "曼戈切縣",
+      "ccp": "𑄟𑄁𑄉𑄮𑄌𑄨",
+      "uk": "Район Мангочі"
     },
-    "geo": {
-      "latitude": -14.4861733,
-      "longitude": 35.253304,
-      "min_latitude": -14.5005024,
-      "min_longitude": 35.2314378,
-      "max_latitude": -14.4638539,
-      "max_longitude": 35.2740097
-    },
-    "name": "Mangochi"
+    "comments": null
   },
   "MH": {
+    "name": "Machinga",
+    "code": null,
     "unofficial_names": "Machinga",
+    "geo": {
+      "latitude": -15.1699934,
+      "longitude": 35.2999779,
+      "min_latitude": -15.1822628,
+      "min_longitude": 35.2879491,
+      "max_latitude": -15.1613515,
+      "max_longitude": 35.31739719999999
+    },
     "translations": {
       "en": "Machinga",
       "ar": "مقاطعة ماشينكا",
@@ -692,20 +809,29 @@
       "th": "มาชิงกา",
       "tr": "Machinga",
       "ur": "ماچینجا ضلع",
-      "vi": "Quận Machinga"
+      "vi": "Quận Machinga",
+      "lv": "Mačingas distrikts",
+      "ceb": "Machinga District",
+      "lt": "Mačingos apskritis",
+      "zh": "馬欽加縣",
+      "ccp": "𑄟𑄌𑄨𑄁𑄉",
+      "uk": "Район Мачінга",
+      "be": "раён Мачынга"
     },
-    "geo": {
-      "latitude": -15.1699934,
-      "longitude": 35.2999779,
-      "min_latitude": -15.1822628,
-      "min_longitude": 35.2879491,
-      "max_latitude": -15.1613515,
-      "max_longitude": 35.31739719999999
-    },
-    "name": "Machinga"
+    "comments": null
   },
   "MU": {
+    "name": "Mulanje",
+    "code": null,
     "unofficial_names": "Mulanje",
+    "geo": {
+      "latitude": -16.033333,
+      "longitude": 35.5,
+      "min_latitude": -16.0381583,
+      "min_longitude": 35.4918706,
+      "max_latitude": -16.0180114,
+      "max_longitude": 35.5212391
+    },
     "translations": {
       "en": "Mulanje",
       "ar": "مقاطعة مولاني",
@@ -743,20 +869,28 @@
       "th": "เขตมูลานเจ",
       "tr": "Mulanje",
       "ur": "ملانجی ضلع",
-      "vi": "Quận Mulanje"
+      "vi": "Quận Mulanje",
+      "lv": "Mulandžes distrikts",
+      "ceb": "Mulanje District",
+      "lt": "Mulandžės apskritis",
+      "zh": "姆蘭傑縣",
+      "ccp": "𑄟𑄪𑄣𑄚𑄴𑄎𑄬",
+      "uk": "Район Муланье"
     },
-    "geo": {
-      "latitude": -16.033333,
-      "longitude": 35.5,
-      "min_latitude": -16.0381583,
-      "min_longitude": 35.4918706,
-      "max_latitude": -16.0180114,
-      "max_longitude": 35.5212391
-    },
-    "name": "Mulanje"
+    "comments": null
   },
   "MW": {
+    "name": "Mwanza",
+    "code": null,
     "unofficial_names": "Mwanza",
+    "geo": {
+      "latitude": -15.609722,
+      "longitude": 34.5225,
+      "min_latitude": -15.6189038,
+      "min_longitude": 34.4934655,
+      "max_latitude": -15.5777469,
+      "max_longitude": 34.5392461
+    },
     "translations": {
       "en": "Mwanza",
       "ar": "مقاطعة موانزا",
@@ -794,20 +928,28 @@
       "th": "เขตมวันซา",
       "tr": "Mwanza",
       "ur": "موانزا ضلع",
-      "vi": "Quận Mwanza"
+      "vi": "Quận Mwanza",
+      "lv": "Mvanzas distrikts",
+      "ceb": "Mwanza District (distrito sa Malawi)",
+      "lt": "Manzos apskritis",
+      "zh": "姆萬紮縣",
+      "ccp": "𑄤𑄚𑄴𑄎",
+      "uk": "Район Мванза"
     },
-    "geo": {
-      "latitude": -15.609722,
-      "longitude": 34.5225,
-      "min_latitude": -15.6189038,
-      "min_longitude": 34.4934655,
-      "max_latitude": -15.5777469,
-      "max_longitude": 34.5392461
-    },
-    "name": "Mwanza"
+    "comments": null
   },
   "MZ": {
+    "name": "Mzimba",
+    "code": null,
     "unofficial_names": "Mzimba",
+    "geo": {
+      "latitude": -11.9,
+      "longitude": 33.6,
+      "min_latitude": -11.913209,
+      "min_longitude": 33.5802269,
+      "max_latitude": -11.8862493,
+      "max_longitude": 33.60408779999999
+    },
     "translations": {
       "en": "Mzimba",
       "ar": "مقاطعة مزيمبا",
@@ -846,20 +988,30 @@
       "th": "เขตเอ็มซิมบ้า",
       "tr": "Mzimba",
       "ur": "مزیمبا ضلع",
-      "vi": "Quận Mzimba"
+      "vi": "Quận Mzimba",
+      "lv": "Mzimbas distrikts",
+      "ceb": "Mzimba District",
+      "sr_Latn": "Mzimba",
+      "lt": "Mzimbos apskritis",
+      "zh": "姆津巴縣",
+      "ccp": "𑄎𑄨𑄟𑄴𑄝",
+      "uk": "Район Мзімба",
+      "be": "раён Мзімба"
     },
-    "geo": {
-      "latitude": -11.9,
-      "longitude": 33.6,
-      "min_latitude": -11.913209,
-      "min_longitude": 33.5802269,
-      "max_latitude": -11.8862493,
-      "max_longitude": 33.60408779999999
-    },
-    "name": "Mzimba"
+    "comments": null
   },
   "NB": {
+    "name": "Nkhata Bay",
+    "code": null,
     "unofficial_names": "Nkhata Bay",
+    "geo": {
+      "latitude": -11.6085556,
+      "longitude": 34.2949409,
+      "min_latitude": -11.6133972,
+      "min_longitude": 34.2894459,
+      "max_latitude": -11.6009539,
+      "max_longitude": 34.3032989
+    },
     "translations": {
       "en": "Nkhata Bay",
       "ar": "مقاطعة خليج نخاتا",
@@ -898,20 +1050,29 @@
       "th": "เขตคฮาทา เบย์",
       "tr": "Nkhata Bay",
       "ur": "نخاتا بے ضلع",
-      "vi": "Quận Nkhata Bay"
+      "vi": "Quận Nkhata Bay",
+      "lv": "Nkhatabejas distrikts",
+      "ceb": "Nkhata Bay District",
+      "sr_Latn": "Nhata Bej",
+      "lt": "Nkata Bėjaus apskritis",
+      "zh": "恩卡塔灣縣",
+      "ccp": "𑄈𑄑 𑄝𑄬",
+      "uk": "Район Нхата-Бей"
     },
-    "geo": {
-      "latitude": -11.6085556,
-      "longitude": 34.2949409,
-      "min_latitude": -11.6133972,
-      "min_longitude": 34.2894459,
-      "max_latitude": -11.6009539,
-      "max_longitude": 34.3032989
-    },
-    "name": "Nkhata Bay"
+    "comments": null
   },
   "NI": {
+    "name": "Ntchisi",
+    "code": null,
     "unofficial_names": "Ntchisi",
+    "geo": {
+      "latitude": -13.2841992,
+      "longitude": 33.88577470000001,
+      "min_latitude": -13.534227,
+      "min_longitude": 33.703213,
+      "max_latitude": -13.0142031,
+      "max_longitude": 34.131686
+    },
     "translations": {
       "en": "Ntchisi",
       "ar": "مقاطعة نتشيسى",
@@ -949,20 +1110,28 @@
       "th": "เขตนชิสิ",
       "tr": "Ntchisi",
       "ur": "نتچیسی ضلع",
-      "vi": "Quận Ntchisi"
+      "vi": "Quận Ntchisi",
+      "lv": "Ntsiči rajons",
+      "ceb": "Ntchisi District",
+      "lt": "Nčisio apskritis",
+      "zh": "恩奇斯縣",
+      "ccp": "𑄌𑄨𑄥𑄨",
+      "uk": "Район Нтчісі"
     },
-    "geo": {
-      "latitude": -13.2841992,
-      "longitude": 33.88577470000001,
-      "min_latitude": -13.534227,
-      "min_longitude": 33.703213,
-      "max_latitude": -13.0142031,
-      "max_longitude": 34.131686
-    },
-    "name": "Ntchisi"
+    "comments": null
   },
   "NK": {
+    "name": "Nkhotakota",
+    "code": null,
     "unofficial_names": "Nkhotakota",
+    "geo": {
+      "latitude": -12.9316863,
+      "longitude": 34.2810541,
+      "min_latitude": -12.9423296,
+      "min_longitude": 34.2674732,
+      "max_latitude": -12.9116282,
+      "max_longitude": 34.2997456
+    },
     "translations": {
       "en": "Nkhotakota",
       "ar": "مقاطعة نكوتاكوتا",
@@ -1001,20 +1170,29 @@
       "th": "เขตอึงโคทาโกตา",
       "tr": "Nkhotakota",
       "ur": "نخوتاکوتا ضلع",
-      "vi": "Quận Nkhotakota"
+      "vi": "Quận Nkhotakota",
+      "lv": "Nkhotakotas distrikts",
+      "ceb": "Nkhotakota District",
+      "lt": "Nkotakotos apskritis",
+      "zh": "恩科塔科塔縣",
+      "ccp": "𑄈𑄮𑄑𑄇𑄮𑄑",
+      "uk": "Район Нхотакота",
+      "be": "раён Нхатакота"
     },
-    "geo": {
-      "latitude": -12.9316863,
-      "longitude": 34.2810541,
-      "min_latitude": -12.9423296,
-      "min_longitude": 34.2674732,
-      "max_latitude": -12.9116282,
-      "max_longitude": 34.2997456
-    },
-    "name": "Nkhotakota"
+    "comments": null
   },
   "NS": {
+    "name": "Nsanje",
+    "code": null,
     "unofficial_names": "Nsanje",
+    "geo": {
+      "latitude": -16.916667,
+      "longitude": 35.266667,
+      "min_latitude": -16.9436398,
+      "min_longitude": 35.2404084,
+      "max_latitude": -16.8957132,
+      "max_longitude": 35.27349
+    },
     "translations": {
       "en": "Nsanje",
       "ar": "مقاطعة نسانج",
@@ -1052,20 +1230,28 @@
       "th": "เขตเอนแซนเจ",
       "tr": "Nsanje",
       "ur": "نسانجی ضلع",
-      "vi": "Quận Nsanje"
+      "vi": "Quận Nsanje",
+      "lv": "Nsandžes distrikts",
+      "ceb": "Nsanje District",
+      "lt": "Nsanjės apskritis",
+      "zh": "恩桑傑縣",
+      "ccp": "𑄥𑄚𑄴𑄎𑄬",
+      "uk": "Район Нсанье"
     },
-    "geo": {
-      "latitude": -16.916667,
-      "longitude": 35.266667,
-      "min_latitude": -16.9436398,
-      "min_longitude": 35.2404084,
-      "max_latitude": -16.8957132,
-      "max_longitude": 35.27349
-    },
-    "name": "Nsanje"
+    "comments": null
   },
   "NU": {
+    "name": "Ntcheu",
+    "code": null,
     "unofficial_names": "Ntcheu",
+    "geo": {
+      "latitude": -14.8219765,
+      "longitude": 34.6358702,
+      "min_latitude": -14.8403539,
+      "min_longitude": 34.6122551,
+      "max_latitude": -14.7955467,
+      "max_longitude": 34.6578313
+    },
     "translations": {
       "en": "Ntcheu",
       "ar": "مقاطعة نتشيو",
@@ -1103,20 +1289,28 @@
       "th": "เขตเน็ทชิว",
       "tr": "Ntcheu",
       "ur": "نتچیو ضلع",
-      "vi": "Quận Ntcheu"
+      "vi": "Quận Ntcheu",
+      "lv": "Nčheu distrikts",
+      "ceb": "Ntcheu District",
+      "lt": "Nčou apskritis",
+      "zh": "恩徹烏縣",
+      "ccp": "𑄌𑄬𑄅𑄪",
+      "uk": "Нтчеу"
     },
-    "geo": {
-      "latitude": -14.8219765,
-      "longitude": 34.6358702,
-      "min_latitude": -14.8403539,
-      "min_longitude": 34.6122551,
-      "max_latitude": -14.7955467,
-      "max_longitude": 34.6578313
-    },
-    "name": "Ntcheu"
+    "comments": null
   },
   "PH": {
+    "name": "Phalombe",
+    "code": null,
     "unofficial_names": "Phalombe",
+    "geo": {
+      "latitude": -15.7633303,
+      "longitude": 35.6587503,
+      "min_latitude": -15.7868579,
+      "min_longitude": 35.638361,
+      "max_latitude": -15.748579,
+      "max_longitude": 35.6769688
+    },
     "translations": {
       "en": "Phalombe",
       "ar": "مقاطعة فالومبي",
@@ -1154,20 +1348,29 @@
       "th": "เขตปาลัมเบ",
       "tr": "Phalombe",
       "ur": "پھالومبی ضلع",
-      "vi": "Quận Phalombe"
+      "vi": "Quận Phalombe",
+      "lv": "Falombes distrikts",
+      "ceb": "Phalombe District",
+      "lt": "Falombės apskritis",
+      "zh": "法隆貝縣",
+      "ccp": "𑄜𑄣𑄮𑄟𑄴𑄝𑄬",
+      "uk": "Район Фаломбе",
+      "ca": "districte de Phalombe"
     },
-    "geo": {
-      "latitude": -15.7633303,
-      "longitude": 35.6587503,
-      "min_latitude": -15.7868579,
-      "min_longitude": 35.638361,
-      "max_latitude": -15.748579,
-      "max_longitude": 35.6769688
-    },
-    "name": "Phalombe"
+    "comments": null
   },
   "RU": {
+    "name": "Rumphi",
+    "code": null,
     "unofficial_names": "Rumphi",
+    "geo": {
+      "latitude": -11.016667,
+      "longitude": 33.866667,
+      "min_latitude": -11.0211537,
+      "min_longitude": 33.8431264,
+      "max_latitude": -11.0083478,
+      "max_longitude": 33.8720083
+    },
     "translations": {
       "en": "Rumphi",
       "ar": "إقليم رومفي",
@@ -1206,20 +1409,29 @@
       "th": "อำเภอรัมฟี",
       "tr": "Rumphi",
       "ur": "رومپحی ضلع",
-      "vi": "Quận Rumphi"
+      "vi": "Quận Rumphi",
+      "lv": "Rumfi distrikts",
+      "ceb": "Rumphi District",
+      "sr_Latn": "Rumfi",
+      "lt": "Rumfio apskritis",
+      "zh": "倫比縣",
+      "ccp": "𑄢𑄪𑄟𑄴𑄜𑄨",
+      "uk": "Район Румфі"
     },
-    "geo": {
-      "latitude": -11.016667,
-      "longitude": 33.866667,
-      "min_latitude": -11.0211537,
-      "min_longitude": 33.8431264,
-      "max_latitude": -11.0083478,
-      "max_longitude": 33.8720083
-    },
-    "name": "Rumphi"
+    "comments": null
   },
   "SA": {
+    "name": "Salima",
+    "code": null,
     "unofficial_names": "Salima",
+    "geo": {
+      "latitude": -13.7795533,
+      "longitude": 34.458641,
+      "min_latitude": -13.7959897,
+      "min_longitude": 34.4338989,
+      "max_latitude": -13.7622286,
+      "max_longitude": 34.4751836
+    },
     "translations": {
       "en": "Salima",
       "ar": "مقاطعة ساليما",
@@ -1257,20 +1469,28 @@
       "th": "เขตซาลิมะ",
       "tr": "Salima",
       "ur": "سلیمہ ضلع",
-      "vi": "Quận Salima"
+      "vi": "Quận Salima",
+      "lv": "Salimas distrikts",
+      "ceb": "Salima District",
+      "lt": "Salimos apskritis",
+      "zh": "薩利馬縣",
+      "ccp": "𑄥𑄣𑄨𑄟",
+      "uk": "Район Саліма"
     },
-    "geo": {
-      "latitude": -13.7795533,
-      "longitude": 34.458641,
-      "min_latitude": -13.7959897,
-      "min_longitude": 34.4338989,
-      "max_latitude": -13.7622286,
-      "max_longitude": 34.4751836
-    },
-    "name": "Salima"
+    "comments": null
   },
   "TH": {
+    "name": "Thyolo",
+    "code": null,
     "unofficial_names": "Thyolo",
+    "geo": {
+      "latitude": -16.066667,
+      "longitude": 35.133333,
+      "min_latitude": -16.0789703,
+      "min_longitude": 35.1302433,
+      "max_latitude": -16.0617329,
+      "max_longitude": 35.1527309
+    },
     "translations": {
       "en": "Thyolo",
       "az": "Thyolo",
@@ -1292,20 +1512,25 @@
       "ro": "Districtul Thyolo",
       "ru": "Тайоло",
       "sv": "Thyolo",
-      "tr": "Thyolo"
+      "tr": "Thyolo",
+      "ceb": "Thyolo District",
+      "zh": "蒂約羅縣",
+      "ccp": "𑄒𑄭𑄠𑄮𑄣𑄮"
     },
-    "geo": {
-      "latitude": -16.066667,
-      "longitude": 35.133333,
-      "min_latitude": -16.0789703,
-      "min_longitude": 35.1302433,
-      "max_latitude": -16.0617329,
-      "max_longitude": 35.1527309
-    },
-    "name": "Thyolo"
+    "comments": null
   },
   "ZO": {
+    "name": "Zomba",
+    "code": null,
     "unofficial_names": "Zomba",
+    "geo": {
+      "latitude": -15.383333,
+      "longitude": 35.333333,
+      "min_latitude": -15.4255095,
+      "min_longitude": 35.2947378,
+      "max_latitude": -15.3602598,
+      "max_longitude": 35.3924561
+    },
     "translations": {
       "en": "Zomba",
       "az": "Zomba",
@@ -1325,19 +1550,29 @@
       "ro": "Districtul Zomba",
       "sr": "Зомба",
       "sv": "Zomba",
-      "tr": "Zomba"
+      "tr": "Zomba",
+      "ceb": "Zomba District",
+      "sr_Latn": "Zomba",
+      "zh": "松巴縣",
+      "ja": "ゾンバ県",
+      "ccp": "𑄎𑄮𑄟𑄴𑄝",
+      "ca": "districte de Zomba",
+      "be": "раён Зомба"
     },
-    "geo": {
-      "latitude": -15.383333,
-      "longitude": 35.333333,
-      "min_latitude": -15.4255095,
-      "min_longitude": 35.2947378,
-      "max_latitude": -15.3602598,
-      "max_longitude": 35.3924561
-    },
-    "name": "Zomba"
+    "comments": null
   },
   "NE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة نينو",
       "az": "Neno",
@@ -1375,10 +1610,27 @@
       "th": "เขตนีโน",
       "tr": "Neno",
       "ur": "نینو ضلع",
-      "vi": "Neno Quận"
-    }
+      "vi": "Neno Quận",
+      "lv": "Neno distrikts",
+      "ceb": "Neno District",
+      "lt": "Neno apskritis",
+      "ccp": "𑄚𑄬𑄚𑄮",
+      "uk": "Район Нено"
+    },
+    "comments": null
   },
   "C": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Mərkəz bölgəsi",
       "bg": "Централен регион",
@@ -1406,10 +1658,27 @@
       "sv": "Central Region",
       "tr": "Merkez Bölgesi",
       "uk": "Центральний регіон",
-      "ur": "وسطی علاقہ، ملاوی"
-    }
+      "ur": "وسطی علاقہ، ملاوی",
+      "ceb": "Central Region",
+      "sr_Latn": "Centralni region",
+      "zh": "中央区",
+      "ccp": "𑄥𑄬𑄚𑄑𑄳𑄢𑄣𑄴",
+      "be": "Цэнтральны рэгіён"
+    },
+    "comments": null
   },
   "N": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Şimal bölgəsi",
       "bg": "Северен регион",
@@ -1435,10 +1704,28 @@
       "sv": "Northern Region",
       "tr": "Kuzey Bölgesi",
       "uk": "Північний регіон",
-      "ur": "شمالی علاقہ، ملاوی"
-    }
+      "ur": "شمالی علاقہ، ملاوی",
+      "ceb": "Northern Region",
+      "sr_Latn": "Severni region",
+      "zh": "北部区",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Regió del Nort",
+      "be": "Паўночны рэгіён"
+    },
+    "comments": null
   },
   "S": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "az": "Cənub bölgəsi",
       "bg": "Южен регион",
@@ -1464,8 +1751,15 @@
       "sv": "Southern Region",
       "tr": "Güney Bölgesi",
       "uk": "Південний регіон",
-      "ur": "جنوبی علاقہ، ملاوی"
-    }
+      "ur": "جنوبی علاقہ، ملاوی",
+      "ceb": "Southern Region",
+      "sr_Latn": "Južni region",
+      "zh": "南部区",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Regió del Sud",
+      "be": "Паўднёвы рэгіён"
+    },
+    "comments": null
   }
 }
 

@@ -1,8 +1,18 @@
 {
   "AN": {
+    "name": "Al Anbar",
+    "code": null,
     "unofficial_names": [
       "al-Anbar"
     ],
+    "geo": {
+      "latitude": 32.5597614,
+      "longitude": 41.9196471,
+      "min_latitude": 30.5896601,
+      "min_longitude": 38.7958871,
+      "max_latitude": 35.1012211,
+      "max_longitude": 44.307257
+    },
     "translations": {
       "en": "Al Anbar",
       "ar": "محافظة الأنبار",
@@ -49,24 +59,31 @@
       "uk": "Анбар",
       "ur": "محافظہ الانبار",
       "vi": "Tỉnh Al Anbar",
-      "zh": "安巴尔省"
+      "zh": "安巴尔省",
+      "lv": "Anbāras muhāfaza",
+      "cy": "Al Anbar",
+      "lt": "Al Ambar gubernija",
+      "ccp": "𑄃𑄣𑄴 𑄃𑄚𑄴𑄝𑄢𑄴",
+      "ca": "Governació d’Al-Anbar"
     },
-    "geo": {
-      "latitude": 32.5597614,
-      "longitude": 41.9196471,
-      "min_latitude": 30.5896601,
-      "min_longitude": 38.7958871,
-      "max_latitude": 35.1012211,
-      "max_longitude": 44.307257
-    },
-    "name": "Al Anbar"
+    "comments": null
   },
   "AR": {
+    "name": "Arbil",
+    "code": null,
     "unofficial_names": [
       "Arbil",
       "Erbil",
       "Irbil"
     ],
+    "geo": {
+      "latitude": 36.191111,
+      "longitude": 44.009167,
+      "min_latitude": 36.1284471,
+      "min_longitude": 43.91613,
+      "max_latitude": 36.2661445,
+      "max_longitude": 44.101181
+    },
     "translations": {
       "en": "Erbil",
       "ar": "أربيل",
@@ -112,24 +129,33 @@
       "tr": "Erbil ili",
       "uk": "Ербіль",
       "ur": "محافظہ اربیل",
-      "vi": "Tỉnh Erbil"
+      "vi": "Tỉnh Erbil",
+      "lv": "Erbīlas muhāfaza",
+      "cy": "Arbil",
+      "sr_Latn": "Guvernorat Erbil",
+      "lt": "Erbilo gubernija",
+      "zh": "埃爾比勒省",
+      "ccp": "𑄃𑄨𑄢𑄴𑄝𑄨𑄣𑄴",
+      "mk": "Ербил"
     },
-    "geo": {
-      "latitude": 36.191111,
-      "longitude": 44.009167,
-      "min_latitude": 36.1284471,
-      "min_longitude": 43.91613,
-      "max_latitude": 36.2661445,
-      "max_longitude": 44.101181
-    },
-    "name": "Arbil"
+    "comments": null
   },
   "BA": {
+    "name": "Al Basrah",
+    "code": null,
     "unofficial_names": [
       "Basra",
       "Bassora",
       "al-Basrah"
     ],
+    "geo": {
+      "latitude": 30.5,
+      "longitude": 47.816667,
+      "min_latitude": 30.4303216,
+      "min_longitude": 47.6141454,
+      "max_latitude": 30.6321515,
+      "max_longitude": 47.9299164
+    },
     "translations": {
       "en": "Basra",
       "ar": "محافظة البصرة",
@@ -174,23 +200,32 @@
       "tr": "Basra ili",
       "uk": "Басра",
       "ur": "محافظہ بصرہ",
-      "vi": "Tỉnh Basra"
+      "vi": "Tỉnh Basra",
+      "lv": "Basra",
+      "cy": "Basra",
+      "lt": "Basra",
+      "zh": "巴士拉省",
+      "ccp": "𑄝𑄌𑄴𑄢",
+      "eu": "Basorako probintzia",
+      "mk": "Басра"
     },
-    "geo": {
-      "latitude": 30.5,
-      "longitude": 47.816667,
-      "min_latitude": 30.4303216,
-      "min_longitude": 47.6141454,
-      "max_latitude": 30.6321515,
-      "max_longitude": 47.9299164
-    },
-    "name": "Al Basrah"
+    "comments": null
   },
   "BB": {
+    "name": "Babil",
+    "code": null,
     "unofficial_names": [
       "Babil",
       "Babylon"
     ],
+    "geo": {
+      "latitude": 32.468191,
+      "longitude": 44.5501935,
+      "min_latitude": 32.0787799,
+      "min_longitude": 43.849441,
+      "max_latitude": 33.233322,
+      "max_longitude": 45.214476
+    },
     "translations": {
       "en": "Babylon",
       "ar": "محافظة بابل",
@@ -234,24 +269,32 @@
       "tr": "Babil ili",
       "uk": "Бабіль",
       "ur": "محافظہ بابل",
-      "vi": "Tỉnh Babylon"
+      "vi": "Tỉnh Babylon",
+      "lv": "Bābilas muhāfaza",
+      "cy": "Bābil",
+      "lt": "Babilono gubernija",
+      "zh": "巴比倫省",
+      "ccp": "𑄝𑄬𑄝𑄨𑄣𑄧𑄚𑄴",
+      "be": "Бабіль"
     },
-    "geo": {
-      "latitude": 32.468191,
-      "longitude": 44.5501935,
-      "min_latitude": 32.0787799,
-      "min_longitude": 43.849441,
-      "max_latitude": 33.233322,
-      "max_longitude": 45.214476
-    },
-    "name": "Babil"
+    "comments": null
   },
   "BG": {
+    "name": "Baghdad",
+    "code": null,
     "unofficial_names": [
       "Baġdād",
       "Bagdad",
       "Bagdad"
     ],
+    "geo": {
+      "latitude": 33.325,
+      "longitude": 44.422,
+      "min_latitude": 33.1883135,
+      "min_longitude": 44.1559839,
+      "max_latitude": 33.4350586,
+      "max_longitude": 44.5558261
+    },
     "translations": {
       "en": "Baghdad",
       "ar": "محافظة بغداد",
@@ -288,22 +331,28 @@
       "sv": "Guvernementet Bagdad",
       "tr": "Bağdat ili",
       "uk": "Багдад",
-      "ur": "محافظہ بغداد"
+      "ur": "محافظہ بغداد",
+      "zh": "巴格達省",
+      "ccp": "𑄝𑄇𑄴𑄘𑄖𑄴",
+      "pa": "ਬਗ਼ਦਾਦ ਪ੍ਰਾਂਤ",
+      "ca": "Governació de Bagdad"
     },
-    "geo": {
-      "latitude": 33.325,
-      "longitude": 44.422,
-      "min_latitude": 33.1883135,
-      "min_longitude": 44.1559839,
-      "max_latitude": 33.4350586,
-      "max_longitude": 44.5558261
-    },
-    "name": "Baghdad"
+    "comments": null
   },
   "DA": {
+    "name": "Dahuk",
+    "code": null,
     "unofficial_names": [
       "Dahuk"
     ],
+    "geo": {
+      "latitude": 37.133389,
+      "longitude": 43.1309888,
+      "min_latitude": 36.696166,
+      "min_longitude": 42.3622129,
+      "max_latitude": 37.3780401,
+      "max_longitude": 44.110214
+    },
     "translations": {
       "en": "Dohuk",
       "ar": "دهوك",
@@ -347,22 +396,33 @@
       "tr": "Duhok ili",
       "uk": "Дахук",
       "ur": "محافظہ دھوک",
-      "vi": "Tỉnh Dohuk"
+      "vi": "Tỉnh Dohuk",
+      "lv": "Dahūkas muhāfaza",
+      "ceb": "Dihok",
+      "sr_Latn": "Guvernorat Dahuk",
+      "lt": "Dobuko gubernija",
+      "zh": "杜胡克省",
+      "jv": "Kagubernuran Dohuk",
+      "ccp": "𑄘𑄮𑄦𑄪𑄇𑄴",
+      "eu": "Dohukeko probintzia",
+      "kk": "Дахук"
     },
-    "geo": {
-      "latitude": 37.133389,
-      "longitude": 43.1309888,
-      "min_latitude": 36.696166,
-      "min_longitude": 42.3622129,
-      "max_latitude": 37.3780401,
-      "max_longitude": 44.110214
-    },
-    "name": "Dahuk"
+    "comments": null
   },
   "DI": {
+    "name": "Diyalá",
+    "code": null,
     "unofficial_names": [
       "Diyala"
     ],
+    "geo": {
+      "latitude": 33.7733487,
+      "longitude": 45.1494505,
+      "min_latitude": 33.006982,
+      "min_longitude": 44.292854,
+      "max_latitude": 35.1153911,
+      "max_longitude": 46.01852
+    },
     "translations": {
       "en": "Diyala",
       "ar": "محافظة ديالى",
@@ -405,23 +465,31 @@
       "tr": "Diyala ili",
       "uk": "Діяла",
       "ur": "محافظہ دیالی",
-      "vi": "Tỉnh Diyala"
+      "vi": "Tỉnh Diyala",
+      "lv": "Dijālas muhāfaza",
+      "ceb": "Diyālá",
+      "lt": "Dijalos gubernija",
+      "zh": "迪亞拉省",
+      "ccp": "𑄘𑄨𑄠𑄣",
+      "ca": "Governació de Diyala"
     },
-    "geo": {
-      "latitude": 33.7733487,
-      "longitude": 45.1494505,
-      "min_latitude": 33.006982,
-      "min_longitude": 44.292854,
-      "max_latitude": 35.1153911,
-      "max_longitude": 46.01852
-    },
-    "name": "Diyalá"
+    "comments": null
   },
   "DQ": {
+    "name": "Dhi Qar",
+    "code": null,
     "unofficial_names": [
       "Dhi Qar",
       "Thi Qar"
     ],
+    "geo": {
+      "latitude": 31.1042292,
+      "longitude": 46.3624686,
+      "min_latitude": 30.564833,
+      "min_longitude": 45.643673,
+      "max_latitude": 31.9975451,
+      "max_longitude": 47.1987489
+    },
     "translations": {
       "en": "Dhi Qar",
       "ar": "ذي قار",
@@ -462,24 +530,33 @@
       "tr": "Zi Kar İli",
       "uk": "Ді-Кар",
       "ur": "محافظہ ذی قار",
-      "vi": "Tỉnh Dhi Qar"
+      "vi": "Tỉnh Dhi Qar",
+      "lv": "Dīkāras muhāfaza",
+      "sr_Latn": "Di Kar",
+      "lt": "Di Karo gubernija",
+      "zh": "濟加爾省",
+      "ccp": "𑄙𑄨 𑄇𑄮𑄠𑄢𑄴",
+      "sr": "Ди Кар",
+      "eu": "Dhi Qarreko probintzia"
     },
-    "geo": {
-      "latitude": 31.1042292,
-      "longitude": 46.3624686,
-      "min_latitude": 30.564833,
-      "min_longitude": 45.643673,
-      "max_latitude": 31.9975451,
-      "max_longitude": 47.1987489
-    },
-    "name": "Dhi Qar"
+    "comments": null
   },
   "KA": {
+    "name": "Karbala'",
+    "code": null,
     "unofficial_names": [
       "Karbala",
       "Kerbala",
       "Kerbela"
     ],
+    "geo": {
+      "latitude": 32.616667,
+      "longitude": 44.033333,
+      "min_latitude": 32.5575024,
+      "min_longitude": 43.9558696,
+      "max_latitude": 32.6572976,
+      "max_longitude": 44.0673636
+    },
     "translations": {
       "en": "Karbala",
       "ar": "كربلاء",
@@ -520,20 +597,27 @@
       "tr": "Kerbela ili",
       "uk": "Кербела",
       "ur": "محافظہ کربلا",
-      "vi": "Tỉnh Karbala"
+      "vi": "Tỉnh Karbala",
+      "lv": "Kerbelas muhāfaza",
+      "lt": "Kerbelos gubernija",
+      "zh": "卡爾巴拉省",
+      "ccp": "𑄇𑄢𑄴𑄝𑄣",
+      "eu": "Karbalako probintzia"
     },
-    "geo": {
-      "latitude": 32.616667,
-      "longitude": 44.033333,
-      "min_latitude": 32.5575024,
-      "min_longitude": 43.9558696,
-      "max_latitude": 32.6572976,
-      "max_longitude": 44.0673636
-    },
-    "name": "Karbala'"
+    "comments": null
   },
   "MA": {
+    "name": "Maysan",
+    "code": null,
     "unofficial_names": "Maysan",
+    "geo": {
+      "latitude": 31.8734002,
+      "longitude": 47.1362125,
+      "min_latitude": 31.142853,
+      "min_longitude": 46.30178309999999,
+      "max_latitude": 32.84025200000001,
+      "max_longitude": 47.8643842
+    },
     "translations": {
       "en": "Maysan",
       "ar": "ميسان",
@@ -577,22 +661,29 @@
       "tr": "Maysan ili",
       "uk": "Майсан",
       "ur": "محافظہ میسان",
-      "vi": "Tỉnh Maysan"
+      "vi": "Tỉnh Maysan",
+      "lv": "Meisānas muhāfaza",
+      "lt": "Maisano gubernija",
+      "zh": "米桑省",
+      "ccp": "𑄟𑄬𑄥𑄚𑄴",
+      "eu": "Maysango probintzia"
     },
-    "geo": {
-      "latitude": 31.8734002,
-      "longitude": 47.1362125,
-      "min_latitude": 31.142853,
-      "min_longitude": 46.30178309999999,
-      "max_latitude": 32.84025200000001,
-      "max_longitude": 47.8643842
-    },
-    "name": "Maysan"
+    "comments": null
   },
   "MU": {
+    "name": "Al Muthanná",
+    "code": null,
     "unofficial_names": [
       "al-Muthanna"
     ],
+    "geo": {
+      "latitude": 29.9133171,
+      "longitude": 45.29938620000001,
+      "min_latitude": 29.078844,
+      "min_longitude": 43.807403,
+      "max_latitude": 31.699816,
+      "max_longitude": 46.648625
+    },
     "translations": {
       "en": "Al Muthanna",
       "ar": "محافظة المثنى",
@@ -635,24 +726,31 @@
       "tr": "Mutanna ili",
       "uk": "Мутанна",
       "ur": "محافظہ مثنی",
-      "vi": "Tỉnh Al Muthanna"
+      "vi": "Tỉnh Al Muthanna",
+      "lv": "Mutanna muhāfaza",
+      "lt": "Al Mutanos gubernija",
+      "zh": "穆薩納省",
+      "ccp": "𑄃𑄢𑄴 𑄟𑄪𑄗𑄚𑄴",
+      "eu": "Al-Muthanna probintzia"
     },
-    "geo": {
-      "latitude": 29.9133171,
-      "longitude": 45.29938620000001,
-      "min_latitude": 29.078844,
-      "min_longitude": 43.807403,
-      "max_latitude": 31.699816,
-      "max_longitude": 46.648625
-    },
-    "name": "Al Muthanná"
+    "comments": null
   },
   "NA": {
+    "name": "An Najaf",
+    "code": null,
     "unofficial_names": [
       "Najaf",
       "Nedjef",
       "Nejef"
     ],
+    "geo": {
+      "latitude": 32,
+      "longitude": 44.33,
+      "min_latitude": 31.9676002,
+      "min_longitude": 44.2736149,
+      "max_latitude": 32.0761164,
+      "max_longitude": 44.3853665
+    },
     "translations": {
       "en": "Najaf",
       "ar": "النجف",
@@ -694,23 +792,34 @@
       "tr": "Necef ili",
       "uk": "Наджаф",
       "ur": "محافظہ نجف",
-      "vi": "Tỉnh Najaf"
+      "vi": "Tỉnh Najaf",
+      "lv": "Nedžefas muhāfaza",
+      "ceb": "An Najaf",
+      "sr_Latn": "Nadžaf",
+      "lt": "Nadžafo gubernija",
+      "zh": "納傑夫省",
+      "ccp": "𑄚𑄎𑄛𑄴",
+      "sr": "Наџаф",
+      "eu": "Najafeko probintzia",
+      "ca": "Governació de Najaf"
     },
-    "geo": {
-      "latitude": 32,
-      "longitude": 44.33,
-      "min_latitude": 31.9676002,
-      "min_longitude": 44.2736149,
-      "max_latitude": 32.0761164,
-      "max_longitude": 44.3853665
-    },
-    "name": "An Najaf"
+    "comments": null
   },
   "NI": {
+    "name": "Ninawá",
+    "code": null,
     "unofficial_names": [
       "Nineveh",
       "Niniveh"
     ],
+    "geo": {
+      "latitude": 36.229574,
+      "longitude": 42.2362435,
+      "min_latitude": 34.8811661,
+      "min_longitude": 41.218105,
+      "max_latitude": 37.06718100000001,
+      "max_longitude": 44.309753
+    },
     "translations": {
       "en": "Nineveh",
       "ar": "نينوى",
@@ -753,22 +862,33 @@
       "tr": "Nineve ili",
       "uk": "Найнава",
       "ur": "محافظہ نینوی",
-      "vi": "Tỉnh Duhok"
+      "vi": "Tỉnh Duhok",
+      "lv": "Dahūkas muhāfaza²",
+      "sr_Latn": "Niniva",
+      "lt": "Dahuko gubernija",
+      "zh": "尼尼微省",
+      "ccp": "𑄚𑄭𑄚𑄬𑄛𑄴𑄦𑄴",
+      "sr": "Нинива",
+      "hy": "Նինվեի մարզ",
+      "be": "Найнава",
+      "mk": "Нинива"
     },
-    "geo": {
-      "latitude": 36.229574,
-      "longitude": 42.2362435,
-      "min_latitude": 34.8811661,
-      "min_longitude": 41.218105,
-      "max_latitude": 37.06718100000001,
-      "max_longitude": 44.309753
-    },
-    "name": "Ninawá"
+    "comments": null
   },
   "QA": {
+    "name": "Al Qadisiyah",
+    "code": null,
     "unofficial_names": [
       "al-Qadisiyah"
     ],
+    "geo": {
+      "latitude": 32.043691,
+      "longitude": 45.1494505,
+      "min_latitude": 31.25445389999999,
+      "min_longitude": 44.376614,
+      "max_latitude": 32.420094,
+      "max_longitude": 45.82649199999999
+    },
     "translations": {
       "en": "Al-Qādisiyyah",
       "ar": "محافظة القادسية",
@@ -809,22 +929,30 @@
       "tr": "Kadisiye ili",
       "uk": "Кадісія",
       "ur": "محافظہ قادسیہ",
-      "vi": "Tỉnh Al-Qadisiyyah"
+      "vi": "Tỉnh Al-Qadisiyyah",
+      "lv": "Kādisījas muhāfaza",
+      "lt": "Al Kadisijos gubernija",
+      "zh": "卡迪西亞省",
+      "ccp": "𑄃𑄣𑄴-𑄇𑄮𑄠𑄓𑄨𑄥𑄨𑄠𑄦𑄴",
+      "eu": "Al-Qadisiya probintzia",
+      "ca": "Governació d’Al-Qadisiyyah"
     },
-    "geo": {
-      "latitude": 32.043691,
-      "longitude": 45.1494505,
-      "min_latitude": 31.25445389999999,
-      "min_longitude": 44.376614,
-      "max_latitude": 32.420094,
-      "max_longitude": 45.82649199999999
-    },
-    "name": "Al Qadisiyah"
+    "comments": null
   },
   "SD": {
+    "name": "Salah ad Din",
+    "code": null,
     "unofficial_names": [
       "Salah-ad-Din"
     ],
+    "geo": {
+      "latitude": 34.5337527,
+      "longitude": 43.483738,
+      "min_latitude": 33.414859,
+      "min_longitude": 42.450488,
+      "max_latitude": 35.675014,
+      "max_longitude": 44.955274
+    },
     "translations": {
       "en": "Saladin",
       "ar": "صلاح الدين",
@@ -871,24 +999,33 @@
       "tr": "Selahaddin ili",
       "uk": "Салах-ед-Дін",
       "ur": "محافظہ صلاح الدین",
-      "vi": "Tỉnh Saladin"
+      "vi": "Tỉnh Saladin",
+      "lv": "Salāh ed Dīnas muhāfaza",
+      "ceb": "Muhafazat Salah ad Din",
+      "sr_Latn": "Saladin",
+      "lt": "Saladino gubernija",
+      "zh": "萨拉赫丁省",
+      "ccp": "𑄥𑄣𑄓𑄨𑄚𑄴",
+      "be": "правінцыя Салах-эд-Дзін"
     },
-    "geo": {
-      "latitude": 34.5337527,
-      "longitude": 43.483738,
-      "min_latitude": 33.414859,
-      "min_longitude": 42.450488,
-      "max_latitude": 35.675014,
-      "max_longitude": 44.955274
-    },
-    "name": "Salah ad Din"
+    "comments": null
   },
   "SU": {
+    "name": "As Sulaymaniyah",
+    "code": null,
     "unofficial_names": [
       "Sulaymaniya",
       "Sulaymānīyah",
       "as-Sulaymaniyah"
     ],
+    "geo": {
+      "latitude": 35.55,
+      "longitude": 45.433333,
+      "min_latitude": 35.5232852,
+      "min_longitude": 45.278778,
+      "max_latitude": 35.6029511,
+      "max_longitude": 45.476532
+    },
     "translations": {
       "en": "Sulaymaniyah",
       "ar": "السليمانية",
@@ -934,25 +1071,21 @@
       "tr": "Süleymaniye ili",
       "uk": "Сулейманія",
       "ur": "محافظہ سلیمانیہ",
-      "vi": "Tỉnh Sulaymaniyah"
+      "vi": "Tỉnh Sulaymaniyah",
+      "lv": "Suleimānījas muhāfaza",
+      "sr_Latn": "Guvernorat Sulejmanija",
+      "lt": "Suleimanijos gubernija",
+      "zh": "蘇萊曼尼亞省",
+      "ccp": "𑄥𑄪𑄣𑄭𑄟𑄚𑄨𑄠𑄦𑄴"
     },
-    "geo": {
-      "latitude": 35.55,
-      "longitude": 45.433333,
-      "min_latitude": 35.5232852,
-      "min_longitude": 45.278778,
-      "max_latitude": 35.6029511,
-      "max_longitude": 45.476532
-    },
-    "name": "As Sulaymaniyah"
+    "comments": null
   },
   "TS": {
+    "name": "At Ta'mim",
+    "code": null,
     "unofficial_names": [
       "at-Tamim"
     ],
-    "translations": {
-      "en": "At Ta'mim"
-    },
     "geo": {
       "latitude": 35.3292014,
       "longitude": 43.9436788,
@@ -961,12 +1094,25 @@
       "max_latitude": 35.906433,
       "max_longitude": 44.790187
     },
-    "name": "At Ta'mim"
+    "translations": {
+      "en": "At Ta'mim"
+    },
+    "comments": null
   },
   "WA": {
+    "name": "Wasit",
+    "code": null,
     "unofficial_names": [
       "Wasit"
     ],
+    "geo": {
+      "latitude": 32.6024094,
+      "longitude": 45.7520985,
+      "min_latitude": 31.9118621,
+      "min_longitude": 44.5098,
+      "max_latitude": 33.47649,
+      "max_longitude": 46.606579
+    },
     "translations": {
       "en": "Wasit",
       "ar": "واسط",
@@ -1011,19 +1157,28 @@
       "tr": "Vasit ili",
       "uk": "Васит",
       "ur": "محافظہ واسط",
-      "vi": "Tỉnh Wasit"
+      "vi": "Tỉnh Wasit",
+      "lv": "Vāsitas muhāfaza",
+      "ceb": "Muhafazat Wasit",
+      "lt": "Vasito gubernija",
+      "zh": "瓦西特省",
+      "ccp": "𑄃𑄮𑄠𑄬𑄥𑄨𑄖𑄴",
+      "ca": "Governació de Wasit"
     },
-    "geo": {
-      "latitude": 32.6024094,
-      "longitude": 45.7520985,
-      "min_latitude": 31.9118621,
-      "min_longitude": 44.5098,
-      "max_latitude": 33.47649,
-      "max_longitude": 46.606579
-    },
-    "name": "Wasit"
+    "comments": null
   },
   "KI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كركوك",
       "az": "Kərkük",
@@ -1065,8 +1220,13 @@
       "tr": "Kerkük ili",
       "uk": "Кіркук",
       "ur": "محافظہ کرکوک",
-      "vi": "Tỉnh Kirkuk"
-    }
+      "vi": "Tỉnh Kirkuk",
+      "lv": "Kirkuko muhāfaza",
+      "lt": "Kirkuko gubernija",
+      "zh": "基爾庫克省",
+      "ccp": "𑄇𑄨𑄢𑄴𑄇𑄪𑄇𑄴"
+    },
+    "comments": null
   }
 }
 

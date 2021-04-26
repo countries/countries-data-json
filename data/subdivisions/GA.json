@@ -1,6 +1,16 @@
 {
   "1": {
+    "name": "Estuaire",
+    "code": null,
     "unofficial_names": "Estuaire",
+    "geo": {
+      "latitude": 0.4432864,
+      "longitude": 10.0807298,
+      "min_latitude": -0.5730141,
+      "min_longitude": 9.3013537,
+      "max_latitude": 1.0599096,
+      "max_longitude": 10.971872
+    },
     "translations": {
       "en": "Estuaire",
       "ar": "محافظة إيستوير",
@@ -44,20 +54,27 @@
       "uk": "Естуер",
       "ur": "یستوایری صوبہ",
       "vi": "Estuaire",
-      "zh": "河口省"
+      "zh": "河口省",
+      "lv": "Estuāras province",
+      "ceb": "Estuaire",
+      "yue_Hans": "河口省",
+      "ccp": "𑄃𑄬𑄌𑄴𑄑𑄪𑄠𑄢𑄴",
+      "yue": "河口省"
     },
-    "geo": {
-      "latitude": 0.4432864,
-      "longitude": 10.0807298,
-      "min_latitude": -0.5730141,
-      "min_longitude": 9.3013537,
-      "max_latitude": 1.0599096,
-      "max_longitude": 10.971872
-    },
-    "name": "Estuaire"
+    "comments": null
   },
   "2": {
+    "name": "Haut-Ogooué",
+    "code": null,
     "unofficial_names": "Haut-Ogooué",
+    "geo": {
+      "latitude": -1.4762544,
+      "longitude": 13.914399,
+      "min_latitude": -2.481633,
+      "min_longitude": 12.763475,
+      "max_latitude": 0.036923,
+      "max_longitude": 14.5016709
+    },
     "translations": {
       "en": "Haut-Ogooué",
       "ar": "محافظة هوت أوغويه",
@@ -98,20 +115,29 @@
       "th": "จังหวัดฮอท โอกูวอู",
       "tr": "Haut-Ogooué",
       "ur": "حاوت-وجووی صوبہ",
-      "vi": "Haut-Ogooue"
+      "vi": "Haut-Ogooue",
+      "lv": "Augšogoves province",
+      "ceb": "Province du Haut-Ogooué",
+      "zh": "上奥果韦省",
+      "yue_Hans": "上奥果韦省",
+      "ccp": "𑄦𑄅𑄪𑄖𑄴-𑄃𑄧𑄉𑄫𑄃𑄨",
+      "uk": "Провінція Верхнє Огове",
+      "yue": "上奧果韋省"
     },
-    "geo": {
-      "latitude": -1.4762544,
-      "longitude": 13.914399,
-      "min_latitude": -2.481633,
-      "min_longitude": 12.763475,
-      "max_latitude": 0.036923,
-      "max_longitude": 14.5016709
-    },
-    "name": "Haut-Ogooué"
+    "comments": null
   },
   "3": {
+    "name": "Moyen-Ogooué",
+    "code": null,
     "unofficial_names": "Moyen-Ogooué",
+    "geo": {
+      "latitude": -0.442784,
+      "longitude": 10.439656,
+      "min_latitude": -1.247179,
+      "min_longitude": 9.563855,
+      "max_latitude": 0.2369339,
+      "max_longitude": 11.588225
+    },
     "translations": {
       "en": "Moyen-Ogooué",
       "ar": "محافظة موين - أوغووي",
@@ -151,22 +177,31 @@
       "th": "จังหวัดโมเย็น โอกูว",
       "tr": "Moyen-Ogooué",
       "ur": "مویین-وجووی صوبہ",
-      "vi": "Moyen-Ogooué"
+      "vi": "Moyen-Ogooué",
+      "lv": "Vidusogoves province",
+      "ceb": "Province du Moyen-Ogooué",
+      "zh": "中奧果韋省",
+      "yue_Hans": "中奥果韦省",
+      "ccp": "𑄟𑄧𑄠𑄬𑄚𑄴-𑄃𑄧𑄉𑄫𑄃𑄨",
+      "uk": "Провінція Середнє Огове",
+      "yue": "中奧果韋省"
     },
-    "geo": {
-      "latitude": -0.442784,
-      "longitude": 10.439656,
-      "min_latitude": -1.247179,
-      "min_longitude": 9.563855,
-      "max_latitude": 0.2369339,
-      "max_longitude": 11.588225
-    },
-    "name": "Moyen-Ogooué"
+    "comments": null
   },
   "4": {
+    "name": "Ngounié",
+    "code": null,
     "unofficial_names": [
       "Nʿgounié"
     ],
+    "geo": {
+      "latitude": -1.4930303,
+      "longitude": 10.9807003,
+      "min_latitude": -2.804942,
+      "min_longitude": 9.858945,
+      "max_latitude": -0.5671499,
+      "max_longitude": 12.522441
+    },
     "translations": {
       "en": "Ngounié",
       "ar": "محافظة نغوني",
@@ -206,20 +241,29 @@
       "th": "นเกานี่",
       "tr": "Ngounié",
       "ur": "نجوونیی صوبہ",
-      "vi": "Ngounié"
+      "vi": "Ngounié",
+      "lv": "Nguņes province",
+      "ceb": "Province de la Ngounié",
+      "zh": "恩古涅省",
+      "yue_Hans": "恩古涅省",
+      "ccp": "𑄉𑄮𑄅𑄪𑄃𑄨𑄚𑄴",
+      "uk": "Провінція Нгуньє",
+      "yue": "恩古涅省"
     },
-    "geo": {
-      "latitude": -1.4930303,
-      "longitude": 10.9807003,
-      "min_latitude": -2.804942,
-      "min_longitude": 9.858945,
-      "max_latitude": -0.5671499,
-      "max_longitude": 12.522441
-    },
-    "name": "Ngounié"
+    "comments": null
   },
   "5": {
+    "name": "Nyanga",
+    "code": null,
     "unofficial_names": "Nyanga",
+    "geo": {
+      "latitude": -2.8821033,
+      "longitude": 11.1617356,
+      "min_latitude": -3.978805999999999,
+      "min_longitude": 9.953016,
+      "max_latitude": -2.2504051,
+      "max_longitude": 12.0684259
+    },
     "translations": {
       "en": "Nyanga",
       "ar": "محافظة نيانغا",
@@ -259,20 +303,29 @@
       "th": "จังหวัดเอนยานกา",
       "tr": "Nyanga",
       "ur": "نیانجا صوبہ",
-      "vi": "Tỉnh Nyanga"
+      "vi": "Tỉnh Nyanga",
+      "lv": "Njangas province",
+      "ceb": "Province de la Nyanga",
+      "zh": "尼揚加省",
+      "yue_Hans": "尼扬加省",
+      "ccp": "𑄚𑄭𑄠𑄋𑄴𑄉",
+      "uk": "Провінція Ньянга",
+      "yue": "尼揚加省"
     },
-    "geo": {
-      "latitude": -2.8821033,
-      "longitude": 11.1617356,
-      "min_latitude": -3.978805999999999,
-      "min_longitude": 9.953016,
-      "max_latitude": -2.2504051,
-      "max_longitude": 12.0684259
-    },
-    "name": "Nyanga"
+    "comments": null
   },
   "6": {
+    "name": "Ogooué-Ivindo",
+    "code": null,
     "unofficial_names": "Ogooué-Ivindo",
+    "geo": {
+      "latitude": 0.8818311,
+      "longitude": 13.1740348,
+      "min_latitude": -0.7536951,
+      "min_longitude": 11.260839,
+      "max_latitude": 1.438241,
+      "max_longitude": 14.502347
+    },
     "translations": {
       "en": "Ogooué-Ivindo",
       "ar": "محافظة أوغووي - إيفيندو",
@@ -312,20 +365,29 @@
       "th": "จังหวัดโอกูวยู ไอวินโด",
       "tr": "Ogooué-Ivindo",
       "ur": "اوگوئی اویندو صوبہ",
-      "vi": "Ogooué-Ivindo"
+      "vi": "Ogooué-Ivindo",
+      "lv": "Ogoves-Ivindo province",
+      "ceb": "Province de l’Ogooué-Ivindo",
+      "zh": "奧果韋-伊溫多省",
+      "yue_Hans": "奥果韦-伊温多省",
+      "ccp": "𑄃𑄧𑄉𑄫𑄃𑄨 -𑄃𑄭𑄞𑄨𑄚𑄴𑄓𑄮",
+      "uk": "Провінція Огове-Івіндо",
+      "yue": "奧果韋-伊溫多省"
     },
-    "geo": {
-      "latitude": 0.8818311,
-      "longitude": 13.1740348,
-      "min_latitude": -0.7536951,
-      "min_longitude": 11.260839,
-      "max_latitude": 1.438241,
-      "max_longitude": 14.502347
-    },
-    "name": "Ogooué-Ivindo"
+    "comments": null
   },
   "7": {
+    "name": "Ogooué-Lolo",
+    "code": null,
     "unofficial_names": "Ogooué-Lolo",
+    "geo": {
+      "latitude": -0.8844093,
+      "longitude": 12.4380581,
+      "min_latitude": -1.90136,
+      "min_longitude": 11.497758,
+      "max_latitude": 0.2900861,
+      "max_longitude": 13.569687
+    },
     "translations": {
       "en": "Ogooué-Lolo",
       "ar": "مقاطعة أوغووي-لولو",
@@ -365,20 +427,29 @@
       "th": "โอลอุย-โลโล",
       "tr": "Ogooué-Lolo",
       "ur": "اوگوئی لولو صوبہ",
-      "vi": "Ogooué-Lolo"
+      "vi": "Ogooué-Lolo",
+      "lv": "Ogoves-Lolo province",
+      "ceb": "Province de l’Ogooué-Lolo",
+      "zh": "奧果韋-洛洛省",
+      "yue_Hans": "奥果韦-洛洛省",
+      "ccp": "𑄃𑄧𑄉𑄫𑄃𑄨-𑄣𑄮𑄣𑄮",
+      "uk": "Провінція Огове-Лоло",
+      "yue": "奧果韋-洛洛省"
     },
-    "geo": {
-      "latitude": -0.8844093,
-      "longitude": 12.4380581,
-      "min_latitude": -1.90136,
-      "min_longitude": 11.497758,
-      "max_latitude": 0.2900861,
-      "max_longitude": 13.569687
-    },
-    "name": "Ogooué-Lolo"
+    "comments": null
   },
   "8": {
+    "name": "Ogooué-Maritime",
+    "code": null,
     "unofficial_names": "Ogooué-Maritime",
+    "geo": {
+      "latitude": -1.3465975,
+      "longitude": 9.7232673,
+      "min_latitude": -2.733783,
+      "min_longitude": 8.6990528,
+      "max_latitude": -0.2787572,
+      "max_longitude": 10.6113409
+    },
     "translations": {
       "en": "Ogooué-Maritime",
       "ar": "مقاطعة أوغووي - البحرية",
@@ -419,22 +490,31 @@
       "th": "โอโกอิว-",
       "tr": "Ogooué-Maritime",
       "ur": "وجووی-ماریتیمی صوبہ",
-      "vi": "Ogooué-Maritime"
+      "vi": "Ogooué-Maritime",
+      "lv": "Piejūras Ogoves province",
+      "ceb": "Province de l’Ogooué-Maritime",
+      "zh": "濱海奧果韋省",
+      "yue_Hans": "滨海奥果韦省",
+      "ccp": "𑄃𑄧𑄉𑄫𑄃𑄨-𑄟𑄬𑄢𑄨𑄑𑄭𑄟𑄴",
+      "uk": "Провінція Огове-Марітім",
+      "yue": "濱海奧果韋省"
     },
-    "geo": {
-      "latitude": -1.3465975,
-      "longitude": 9.7232673,
-      "min_latitude": -2.733783,
-      "min_longitude": 8.6990528,
-      "max_latitude": -0.2787572,
-      "max_longitude": 10.6113409
-    },
-    "name": "Ogooué-Maritime"
+    "comments": null
   },
   "9": {
+    "name": "Woleu-Ntem",
+    "code": null,
     "unofficial_names": [
       "Woleu-Nʿtem"
     ],
+    "geo": {
+      "latitude": 1.4892408,
+      "longitude": 11.7068294,
+      "min_latitude": 0.235217,
+      "min_longitude": 10.3579661,
+      "max_latitude": 2.322612,
+      "max_longitude": 13.306585
+    },
     "translations": {
       "en": "Woleu-Ntem",
       "ar": "مقاطعة وليو-نتم",
@@ -475,17 +555,15 @@
       "tr": "Woleu-Ntem",
       "uk": "Волю-Нтем",
       "ur": "وولیو-نتیم صوبہ",
-      "vi": "Woleu-Ntem"
+      "vi": "Woleu-Ntem",
+      "lv": "Voles-Ntemas province",
+      "ceb": "Province du Woleu-Ntem",
+      "zh": "沃勒-恩特姆省",
+      "yue_Hans": "禾勒-恩特姆省",
+      "ccp": "𑄤𑄣𑄨𑄅𑄪-𑄑𑄬𑄟𑄴",
+      "yue": "禾勒-恩特姆省"
     },
-    "geo": {
-      "latitude": 1.4892408,
-      "longitude": 11.7068294,
-      "min_latitude": 0.235217,
-      "min_longitude": 10.3579661,
-      "max_latitude": 2.322612,
-      "max_longitude": 13.306585
-    },
-    "name": "Woleu-Ntem"
+    "comments": null
   }
 }
 

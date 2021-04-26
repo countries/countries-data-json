@@ -1,9 +1,8 @@
 {
   "01~": {
+    "name": "Bodden Town",
+    "code": null,
     "unofficial_names": "Bodden Town",
-    "translations": {
-      "en": "Bodden Town"
-    },
     "geo": {
       "latitude": 19.2833,
       "longitude": -81.25,
@@ -12,13 +11,15 @@
       "max_latitude": 19.2955093,
       "max_longitude": -81.2319991
     },
-    "name": "Bodden Town"
+    "translations": {
+      "en": "Bodden Town"
+    },
+    "comments": null
   },
   "02~": {
+    "name": "Cayman Brac",
+    "code": null,
     "unofficial_names": "Cayman Brac",
-    "translations": {
-      "en": "Cayman Brac"
-    },
     "geo": {
       "latitude": 19.7235328,
       "longitude": -79.8016569,
@@ -27,13 +28,15 @@
       "max_latitude": 19.7568975,
       "max_longitude": -79.7229158
     },
-    "name": "Cayman Brac"
+    "translations": {
+      "en": "Cayman Brac"
+    },
+    "comments": null
   },
   "03~": {
+    "name": "East End",
+    "code": null,
     "unofficial_names": "East End",
-    "translations": {
-      "en": "East End"
-    },
     "geo": {
       "latitude": 19.297494,
       "longitude": -81.10948599999999,
@@ -42,13 +45,15 @@
       "max_latitude": 19.3053111,
       "max_longitude": -81.0997654
     },
-    "name": "East End"
+    "translations": {
+      "en": "East End"
+    },
+    "comments": null
   },
   "04~": {
+    "name": "George Town",
+    "code": null,
     "unofficial_names": "George Town",
-    "translations": {
-      "en": "George Town"
-    },
     "geo": {
       "latitude": 19.2869323,
       "longitude": -81.3674389,
@@ -57,13 +62,15 @@
       "max_latitude": 19.315071,
       "max_longitude": -81.3460965
     },
-    "name": "George Town"
+    "translations": {
+      "en": "George Town"
+    },
+    "comments": null
   },
   "06~": {
+    "name": "North Side",
+    "code": null,
     "unofficial_names": "North Side",
-    "translations": {
-      "en": "North Side"
-    },
     "geo": {
       "latitude": 19.351389,
       "longitude": -81.20972200000001,
@@ -72,13 +79,15 @@
       "max_latitude": 19.3527121,
       "max_longitude": -81.19960789999999
     },
-    "name": "North Side"
+    "translations": {
+      "en": "North Side"
+    },
+    "comments": null
   },
   "07~": {
+    "name": "West Bay",
+    "code": null,
     "unofficial_names": "West Bay",
-    "translations": {
-      "en": "West Bay"
-    },
     "geo": {
       "latitude": 19.3823423,
       "longitude": -81.3894297,
@@ -87,7 +96,10 @@
       "max_latitude": 19.3967704,
       "max_longitude": -81.3612529
     },
-    "name": "West Bay"
+    "translations": {
+      "en": "West Bay"
+    },
+    "comments": null
   }
 }
 

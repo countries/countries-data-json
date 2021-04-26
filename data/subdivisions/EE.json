@@ -1,6 +1,16 @@
 {
   "37": {
+    "name": "Harjumaa",
+    "code": null,
     "unofficial_names": "Harjumaa",
+    "geo": {
+      "latitude": 59.33342390000001,
+      "longitude": 25.2466973,
+      "min_latitude": 58.989357,
+      "min_longitude": 23.7301295,
+      "max_latitude": 59.68570260000001,
+      "max_longitude": 25.9551028
+    },
     "translations": {
       "en": "Harju",
       "ar": "مقاطعة هاريو",
@@ -51,23 +61,31 @@
       "uk": "Гарʼюмаа",
       "ur": "ہاریو کاؤنٹی",
       "vi": "Harju",
-      "zh": "哈留縣"
+      "zh": "哈留縣",
+      "ceb": "Harjumaa",
+      "sr_Latn": "Harju",
+      "ccp": "𑄦𑄢𑄴𑄎𑄪",
+      "ga": "Harjumaa",
+      "bs": "Okrug Harjumaa",
+      "mk": "Харју"
     },
-    "geo": {
-      "latitude": 59.33342390000001,
-      "longitude": 25.2466973,
-      "min_latitude": 58.989357,
-      "min_longitude": 23.7301295,
-      "max_latitude": 59.68570260000001,
-      "max_longitude": 25.9551028
-    },
-    "name": "Harjumaa"
+    "comments": null
   },
   "39": {
+    "name": "Hiiumaa",
+    "code": null,
     "unofficial_names": [
       "Dagden",
       "Dagö"
     ],
+    "geo": {
+      "latitude": 58.9239553,
+      "longitude": 22.5919468,
+      "min_latitude": 58.6870921,
+      "min_longitude": 22.0388167,
+      "max_latitude": 59.09294079999999,
+      "max_longitude": 23.1801319
+    },
     "translations": {
       "en": "Hiiu",
       "ar": "مقاطعة هيو",
@@ -117,20 +135,29 @@
       "tr": "Hiiu ili",
       "uk": "Хіюмаа",
       "ur": "ہییو کاؤنٹی",
-      "vi": "Hiiu"
+      "vi": "Hiiu",
+      "ceb": "Hiiumaa",
+      "sr_Latn": "Hiju",
+      "zh": "希尤縣",
+      "ccp": "𑄦𑄨𑄅𑄪",
+      "ga": "Hiiumaa",
+      "bs": "Okrug Hiiumaa",
+      "mk": "Хују"
     },
-    "geo": {
-      "latitude": 58.9239553,
-      "longitude": 22.5919468,
-      "min_latitude": 58.6870921,
-      "min_longitude": 22.0388167,
-      "max_latitude": 59.09294079999999,
-      "max_longitude": 23.1801319
-    },
-    "name": "Hiiumaa"
+    "comments": null
   },
   "44": {
+    "name": "Ida-Virumaa",
+    "code": null,
     "unofficial_names": "Ida-Virumaa",
+    "geo": {
+      "latitude": 59.25926629999999,
+      "longitude": 27.4136535,
+      "min_latitude": 58.86563799999999,
+      "min_longitude": 26.7023311,
+      "max_latitude": 59.5005651,
+      "max_longitude": 28.2090051
+    },
     "translations": {
       "en": "Ida-Viru",
       "ar": "مقاطعة إيدا فيرو",
@@ -179,22 +206,31 @@
       "tr": "Ida-Viru ili",
       "uk": "Іда-Вірумаа",
       "ur": "ایدا-ویرو کاؤنٹی",
-      "vi": "Hạt Ida-Viru"
+      "vi": "Hạt Ida-Viru",
+      "ceb": "Ida-Virumaa",
+      "sr_Latn": "Ida-Viru",
+      "zh": "東維魯縣",
+      "ccp": "𑄃𑄨𑄓-𑄞𑄨𑄢𑄪",
+      "ga": "Virumaa Thoir",
+      "bs": "Okrug Ida-Virumaa",
+      "mk": "Ида-Виру"
     },
-    "geo": {
-      "latitude": 59.25926629999999,
-      "longitude": 27.4136535,
-      "min_latitude": 58.86563799999999,
-      "min_longitude": 26.7023311,
-      "max_latitude": 59.5005651,
-      "max_longitude": 28.2090051
-    },
-    "name": "Ida-Virumaa"
+    "comments": null
   },
   "49": {
+    "name": "Jõgevamaa",
+    "code": null,
     "unofficial_names": [
       "Jogevamaa"
     ],
+    "geo": {
+      "latitude": 58.6947229,
+      "longitude": 26.3902301,
+      "min_latitude": 58.4708678,
+      "min_longitude": 25.750229,
+      "max_latitude": 58.96892199999999,
+      "max_longitude": 27.1633907
+    },
     "translations": {
       "en": "Jõgeva",
       "ar": "مقاطعة يوجيفا",
@@ -243,20 +279,29 @@
       "tr": "Jõgeva ili",
       "uk": "Йиґевамаа",
       "ur": "یوگاوا کاؤنٹی",
-      "vi": "Hạt Jogeva"
+      "vi": "Hạt Jogeva",
+      "ceb": "Jõgevamaa",
+      "sr_Latn": "Jigeva",
+      "zh": "約格瓦縣",
+      "ccp": "𑄎𑄮𑄉𑄬𑄞",
+      "ga": "Jõgevamaa",
+      "bs": "Okrug Jõgevamaa",
+      "mk": "Јигева"
     },
-    "geo": {
-      "latitude": 58.6947229,
-      "longitude": 26.3902301,
-      "min_latitude": 58.4708678,
-      "min_longitude": 25.750229,
-      "max_latitude": 58.96892199999999,
-      "max_longitude": 27.1633907
-    },
-    "name": "Jõgevamaa"
+    "comments": null
   },
   "51": {
+    "name": "Järvamaa",
+    "code": null,
     "unofficial_names": "Järvamaa",
+    "geo": {
+      "latitude": 58.8866713,
+      "longitude": 25.5000625,
+      "min_latitude": 58.6061109,
+      "min_longitude": 25.1950171,
+      "max_latitude": 59.2696539,
+      "max_longitude": 26.1688011
+    },
     "translations": {
       "en": "Järva",
       "ar": "مقاطعة يارفا",
@@ -306,20 +351,29 @@
       "tr": "Järva ili",
       "uk": "Ярвамаа",
       "ur": "جاروا کاؤنٹی",
-      "vi": "Hạt Jarva"
+      "vi": "Hạt Jarva",
+      "ceb": "Järvamaa",
+      "sr_Latn": "Harva",
+      "zh": "耶爾瓦縣",
+      "ccp": "𑄎𑄢𑄴𑄞",
+      "ga": "Järvamaa",
+      "bs": "Okrug Järvamaa",
+      "mk": "Јерва"
     },
-    "geo": {
-      "latitude": 58.8866713,
-      "longitude": 25.5000625,
-      "min_latitude": 58.6061109,
-      "min_longitude": 25.1950171,
-      "max_latitude": 59.2696539,
-      "max_longitude": 26.1688011
-    },
-    "name": "Järvamaa"
+    "comments": null
   },
   "57": {
+    "name": "Läänemaa",
+    "code": null,
     "unofficial_names": "Läänemaa",
+    "geo": {
+      "latitude": 58.89071850000001,
+      "longitude": 23.7925806,
+      "min_latitude": 58.534504,
+      "min_longitude": 23.0778348,
+      "max_latitude": 59.304363,
+      "max_longitude": 24.1925961
+    },
     "translations": {
       "en": "Lääne",
       "ar": "مقاطعة لانا",
@@ -368,20 +422,29 @@
       "tr": "Lääne ili",
       "uk": "Ляянемаа",
       "ur": "لانی کاؤنٹی",
-      "vi": "Hạt Laane"
+      "vi": "Hạt Laane",
+      "ceb": "Läänemaa",
+      "sr_Latn": "Lanema",
+      "zh": "萊內縣",
+      "ccp": "𑄣𑄚𑄬",
+      "ga": "Läänemaa",
+      "bs": "Okrug Läänemaa",
+      "mk": "Лене"
     },
-    "geo": {
-      "latitude": 58.89071850000001,
-      "longitude": 23.7925806,
-      "min_latitude": 58.534504,
-      "min_longitude": 23.0778348,
-      "max_latitude": 59.304363,
-      "max_longitude": 24.1925961
-    },
-    "name": "Läänemaa"
+    "comments": null
   },
   "59": {
+    "name": "Lääne-Virumaa",
+    "code": null,
     "unofficial_names": "Lääne-Virumaa",
+    "geo": {
+      "latitude": 59.30188159999999,
+      "longitude": 26.3280312,
+      "min_latitude": 58.8769299,
+      "min_longitude": 25.5363979,
+      "max_latitude": 59.822016,
+      "max_longitude": 26.9527359
+    },
     "translations": {
       "en": "Lääne-Viru",
       "ar": "مقاطعة لين-فيرو",
@@ -429,22 +492,31 @@
       "tr": "Lääne-Viru ili",
       "uk": "Ляяне-Вірумаа",
       "ur": "لانی-ویرو کاؤنٹی",
-      "vi": "Hạt Laane-Viru"
+      "vi": "Hạt Laane-Viru",
+      "ceb": "Lääne-Virumaa",
+      "sr_Latn": "Ljaene-Viru",
+      "zh": "西維魯縣",
+      "ccp": "𑄣𑄚𑄬-𑄞𑄨𑄢𑄪",
+      "ga": "Virumaa Thiar",
+      "bs": "Okrug Lääne-Virumaa",
+      "mk": "Лене-Виру"
     },
-    "geo": {
-      "latitude": 59.30188159999999,
-      "longitude": 26.3280312,
-      "min_latitude": 58.8769299,
-      "min_longitude": 25.5363979,
-      "max_latitude": 59.822016,
-      "max_longitude": 26.9527359
-    },
-    "name": "Lääne-Virumaa"
+    "comments": null
   },
   "65": {
+    "name": "Põlvamaa",
+    "code": null,
     "unofficial_names": [
       "Polvamaa"
     ],
+    "geo": {
+      "latitude": 58.11606219999999,
+      "longitude": 27.2066395,
+      "min_latitude": 57.81740799999999,
+      "min_longitude": 26.566258,
+      "max_latitude": 58.2682399,
+      "max_longitude": 27.8189979
+    },
     "translations": {
       "en": "Põlva",
       "ar": "مقاطعة بولفا",
@@ -493,20 +565,29 @@
       "tr": "Põlva ili",
       "uk": "Пилвамаа",
       "ur": "پولوا کاؤنٹی",
-      "vi": "Hạt Polva"
+      "vi": "Hạt Polva",
+      "ceb": "Põlvamaa",
+      "sr_Latn": "Pilva",
+      "zh": "珀爾瓦縣",
+      "ccp": "𑄛𑄮𑄣𑄴𑄞",
+      "ga": "Põlvamaa",
+      "bs": "Okrug Põlvamaa",
+      "mk": "Пилва"
     },
-    "geo": {
-      "latitude": 58.11606219999999,
-      "longitude": 27.2066395,
-      "min_latitude": 57.81740799999999,
-      "min_longitude": 26.566258,
-      "max_latitude": 58.2682399,
-      "max_longitude": 27.8189979
-    },
-    "name": "Põlvamaa"
+    "comments": null
   },
   "67": {
+    "name": "Pärnumaa",
+    "code": null,
     "unofficial_names": "Pärnumaa",
+    "geo": {
+      "latitude": 58.46634429999999,
+      "longitude": 24.69612,
+      "min_latitude": 57.8645448,
+      "min_longitude": 23.6090122,
+      "max_latitude": 58.7569807,
+      "max_longitude": 25.3071801
+    },
     "translations": {
       "en": "Pärnu",
       "ar": "مقاطعة بارنو",
@@ -557,20 +638,29 @@
       "tr": "Pärnu ili",
       "uk": "Пярнумаа",
       "ur": "پارنو کاؤنٹی",
-      "vi": "Pärnu"
+      "vi": "Pärnu",
+      "ceb": "Pärnumaa",
+      "sr_Latn": "Parnuma",
+      "zh": "派爾努縣",
+      "ccp": "𑄛𑄢𑄴𑄚𑄪",
+      "ga": "Pärnumaa",
+      "bs": "Okrug Pärnumaa",
+      "mk": "Перну"
     },
-    "geo": {
-      "latitude": 58.46634429999999,
-      "longitude": 24.69612,
-      "min_latitude": 57.8645448,
-      "min_longitude": 23.6090122,
-      "max_latitude": 58.7569807,
-      "max_longitude": 25.3071801
-    },
-    "name": "Pärnumaa"
+    "comments": null
   },
   "70": {
+    "name": "Raplamaa",
+    "code": null,
     "unofficial_names": "Raplamaa",
+    "geo": {
+      "latitude": 58.8492625,
+      "longitude": 24.7346568,
+      "min_latitude": 58.65556099999999,
+      "min_longitude": 24.0706308,
+      "max_latitude": 59.22798409999999,
+      "max_longitude": 25.3339442
+    },
     "translations": {
       "en": "Rapla",
       "ar": "مقاطعة رابلا",
@@ -620,23 +710,32 @@
       "tr": "Rapla ili",
       "uk": "Рапламаа",
       "ur": "رپلا کاؤنٹی",
-      "vi": "Hạt Rapla"
+      "vi": "Hạt Rapla",
+      "ceb": "Raplamaa",
+      "sr_Latn": "Rapla",
+      "zh": "拉普拉縣",
+      "ccp": "𑄢𑄛𑄴𑄣",
+      "ga": "Raplamaa",
+      "bs": "Okrug Raplamaa",
+      "mk": "Рапла"
     },
-    "geo": {
-      "latitude": 58.8492625,
-      "longitude": 24.7346568,
-      "min_latitude": 58.65556099999999,
-      "min_longitude": 24.0706308,
-      "max_latitude": 59.22798409999999,
-      "max_longitude": 25.3339442
-    },
-    "name": "Raplamaa"
+    "comments": null
   },
   "74": {
+    "name": "Saaremaa",
+    "code": null,
     "unofficial_names": [
       "Saare",
       "Ösel"
     ],
+    "geo": {
+      "latitude": 58.4849721,
+      "longitude": 22.6136407,
+      "min_latitude": 57.9044003,
+      "min_longitude": 21.8281004,
+      "max_latitude": 58.64212449999999,
+      "max_longitude": 23.328579
+    },
     "translations": {
       "en": "Saare",
       "be": "Павет Саарэ",
@@ -673,20 +772,30 @@
       "sv": "Saare län",
       "tr": "Saare ili",
       "uk": "Сааремаа",
-      "ur": "سارے کاؤنٹی"
+      "ur": "سارے کاؤنٹی",
+      "ceb": "Saaremaa",
+      "sr_Latn": "Sare",
+      "vi": "Saare",
+      "zh": "薩雷縣",
+      "ccp": "𑄥𑄢𑄬",
+      "ga": "Saaremaa",
+      "bs": "Okrug Saaremaa",
+      "mk": "Саре"
     },
-    "geo": {
-      "latitude": 58.4849721,
-      "longitude": 22.6136407,
-      "min_latitude": 57.9044003,
-      "min_longitude": 21.8281004,
-      "max_latitude": 58.64212449999999,
-      "max_longitude": 23.328579
-    },
-    "name": "Saaremaa"
+    "comments": null
   },
   "78": {
+    "name": "Tartumaa",
+    "code": null,
     "unofficial_names": "Tartumaa",
+    "geo": {
+      "latitude": 58.40571279999999,
+      "longitude": 26.8015761,
+      "min_latitude": 58.113041,
+      "min_longitude": 26.078548,
+      "max_latitude": 58.682793,
+      "max_longitude": 27.5323021
+    },
     "translations": {
       "en": "Tartu",
       "ar": "مقاطعة تارتو",
@@ -734,20 +843,31 @@
       "tr": "Tartu ili",
       "uk": "Тартумаа",
       "ur": "تارتو کاؤنٹی",
-      "vi": "Hạt Tartu"
+      "vi": "Hạt Tartu",
+      "ceb": "Tartumaa",
+      "sr_Latn": "Tartu",
+      "zh": "塔爾圖縣",
+      "ccp": "𑄑𑄢𑄴𑄑𑄪",
+      "ga": "Tartumaa",
+      "hu": "Tartumaa",
+      "kk": "Тартумаа",
+      "bs": "Okrug Tartumaa",
+      "mk": "Тарту"
     },
-    "geo": {
-      "latitude": 58.40571279999999,
-      "longitude": 26.8015761,
-      "min_latitude": 58.113041,
-      "min_longitude": 26.078548,
-      "max_latitude": 58.682793,
-      "max_longitude": 27.5323021
-    },
-    "name": "Tartumaa"
+    "comments": null
   },
   "82": {
+    "name": "Valgamaa",
+    "code": null,
     "unofficial_names": "Valgamaa",
+    "geo": {
+      "latitude": 57.9103441,
+      "longitude": 26.1601819,
+      "min_latitude": 57.57223490000001,
+      "min_longitude": 25.5805171,
+      "max_latitude": 58.184323,
+      "max_longitude": 26.6250823
+    },
     "translations": {
       "en": "Valga",
       "ar": "مقاطعة فالغا",
@@ -796,20 +916,29 @@
       "tr": "Valga ili",
       "uk": "Валгамаа",
       "ur": "والگا کاؤنٹی",
-      "vi": "Hạt Valga"
+      "vi": "Hạt Valga",
+      "ceb": "Valgamaa",
+      "sr_Latn": "Valga",
+      "zh": "瓦爾加縣",
+      "ccp": "𑄞𑄣𑄴𑄉",
+      "ga": "Valgamaa",
+      "bs": "Okrug Valgamaa",
+      "mk": "Валга"
     },
-    "geo": {
-      "latitude": 57.9103441,
-      "longitude": 26.1601819,
-      "min_latitude": 57.57223490000001,
-      "min_longitude": 25.5805171,
-      "max_latitude": 58.184323,
-      "max_longitude": 26.6250823
-    },
-    "name": "Valgamaa"
+    "comments": null
   },
   "84": {
+    "name": "Viljandimaa",
+    "code": null,
     "unofficial_names": "Viljandimaa",
+    "geo": {
+      "latitude": 58.2821746,
+      "longitude": 25.5752233,
+      "min_latitude": 57.9559418,
+      "min_longitude": 24.9719397,
+      "max_latitude": 58.69011700000001,
+      "max_longitude": 26.190842
+    },
     "translations": {
       "en": "Viljandi",
       "ar": "مقاطعة فيلياندي",
@@ -858,22 +987,32 @@
       "tr": "Viljandi ili",
       "uk": "Вільяндімаа",
       "ur": "ویلیاندی کاؤنٹی",
-      "vi": "Hạt Viljandi"
+      "vi": "Hạt Viljandi",
+      "ceb": "Viljandimaa",
+      "sr_Latn": "Viljandi",
+      "zh": "維爾揚迪縣",
+      "ccp": "𑄞𑄨𑄣𑄴𑄎𑄚𑄴𑄓𑄨",
+      "ga": "Viljandimaa",
+      "kk": "Вильяндимаа",
+      "bs": "Okrug Viljandimaa",
+      "mk": "Вилјанди"
     },
-    "geo": {
-      "latitude": 58.2821746,
-      "longitude": 25.5752233,
-      "min_latitude": 57.9559418,
-      "min_longitude": 24.9719397,
-      "max_latitude": 58.69011700000001,
-      "max_longitude": 26.190842
-    },
-    "name": "Viljandimaa"
+    "comments": null
   },
   "86": {
+    "name": "Võrumaa",
+    "code": null,
     "unofficial_names": [
       "Vorumaa"
     ],
+    "geo": {
+      "latitude": 57.80381070000001,
+      "longitude": 26.8524025,
+      "min_latitude": 57.50931600000001,
+      "min_longitude": 26.3708779,
+      "max_latitude": 57.9571869,
+      "max_longitude": 27.554923
+    },
     "translations": {
       "en": "Võru",
       "ar": "مقاطعة فورو",
@@ -922,17 +1061,16 @@
       "tr": "Võru ili",
       "uk": "Вирумаа",
       "ur": "وورو کاؤنٹی",
-      "vi": "Hạt Voru"
+      "vi": "Hạt Voru",
+      "ceb": "Võrumaa",
+      "sr_Latn": "Viru",
+      "zh": "沃魯縣",
+      "ccp": "𑄞𑄮𑄢𑄪",
+      "ga": "Võrumaa",
+      "bs": "Okrug Võrumaa",
+      "mk": "Виру"
     },
-    "geo": {
-      "latitude": 57.80381070000001,
-      "longitude": 26.8524025,
-      "min_latitude": 57.50931600000001,
-      "min_longitude": 26.3708779,
-      "max_latitude": 57.9571869,
-      "max_longitude": 27.554923
-    },
-    "name": "Võrumaa"
+    "comments": null
   }
 }
 

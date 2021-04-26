@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Azuay",
+    "code": null,
     "unofficial_names": "Azuay",
+    "geo": {
+      "latitude": -2.9633245,
+      "longitude": -79.1096901,
+      "min_latitude": -3.620066,
+      "min_longitude": -79.76039899999999,
+      "max_latitude": -2.55303,
+      "max_longitude": -78.43984999999999
+    },
     "translations": {
       "en": "Azuay",
       "ar": "مقاطعة أزواي",
@@ -42,20 +52,27 @@
       "uk": "Асуай",
       "ur": "آسوای صوبہ",
       "vi": "Azuay",
-      "zh": "阿苏艾省"
+      "zh": "阿苏艾省",
+      "lv": "Asvajas province",
+      "ceb": "Provincia del Azuay",
+      "ccp": "𑄃𑄎𑄪𑄠𑄬",
+      "hy": "Ասուայ",
+      "mk": "Азуај"
     },
-    "geo": {
-      "latitude": -2.9633245,
-      "longitude": -79.1096901,
-      "min_latitude": -3.620066,
-      "min_longitude": -79.76039899999999,
-      "max_latitude": -2.55303,
-      "max_longitude": -78.43984999999999
-    },
-    "name": "Azuay"
+    "comments": null
   },
   "B": {
+    "name": "Bolívar",
+    "code": null,
     "unofficial_names": "Bolívar",
+    "geo": {
+      "latitude": -1.5696244,
+      "longitude": -79.1096901,
+      "min_latitude": -2.2034861,
+      "min_longitude": -79.4053569,
+      "max_latitude": -1.148095,
+      "max_longitude": -78.85047899999999
+    },
     "translations": {
       "en": "Bolívar",
       "ar": "مقاطعة بوليفار",
@@ -95,20 +112,27 @@
       "tr": "Bolivar Province",
       "uk": "Болівар",
       "ur": "بولیوار صوبہ",
-      "vi": "Tỉnh Bolívar"
+      "vi": "Tỉnh Bolívar",
+      "lv": "Bolivara province",
+      "ceb": "Provincia de Bolívar (lalawigan)",
+      "zh": "玻利瓦尔省",
+      "ccp": "𑄝𑄧𑄣𑄨𑄞𑄢𑄴",
+      "hy": "Բոլիվար"
     },
-    "geo": {
-      "latitude": -1.5696244,
-      "longitude": -79.1096901,
-      "min_latitude": -2.2034861,
-      "min_longitude": -79.4053569,
-      "max_latitude": -1.148095,
-      "max_longitude": -78.85047899999999
-    },
-    "name": "Bolívar"
+    "comments": null
   },
   "C": {
+    "name": "Carchi",
+    "code": null,
     "unofficial_names": "Carchi",
+    "geo": {
+      "latitude": 0.6625532,
+      "longitude": -78.0195387,
+      "min_latitude": 0.360788,
+      "min_longitude": -78.55054489999999,
+      "max_latitude": 1.1878679,
+      "max_longitude": -77.5582881
+    },
     "translations": {
       "en": "Carchi",
       "ar": "مقاطعة كارتشي",
@@ -149,20 +173,28 @@
       "tr": "Carchi Province",
       "uk": "Карчі",
       "ur": "کارچی صوبہ",
-      "vi": "Tỉnh Carchi"
+      "vi": "Tỉnh Carchi",
+      "lv": "Karči province",
+      "ceb": "Provincia del Carchi",
+      "zh": "卡尔奇省",
+      "ccp": "𑄇𑄢𑄴𑄌𑄨",
+      "hy": "Կարչի",
+      "he": "מחוז קארצ׳י"
     },
-    "geo": {
-      "latitude": 0.6625532,
-      "longitude": -78.0195387,
-      "min_latitude": 0.360788,
-      "min_longitude": -78.55054489999999,
-      "max_latitude": 1.1878679,
-      "max_longitude": -77.5582881
-    },
-    "name": "Carchi"
+    "comments": null
   },
   "D": {
+    "name": "Orellana",
+    "code": null,
     "unofficial_names": "Orellana",
+    "geo": {
+      "latitude": -0.7112664999999999,
+      "longitude": -77.15426839999999,
+      "min_latitude": -0.7265373,
+      "min_longitude": -77.181015,
+      "max_latitude": -0.6898046,
+      "max_longitude": -77.13389389999999
+    },
     "translations": {
       "en": "Orellana",
       "ar": "مقاطعة أوريينا",
@@ -201,20 +233,28 @@
       "tr": "Orellana Province",
       "uk": "Орельяна",
       "ur": "اوریانا صوبہ",
-      "vi": "Tỉnh Orellana"
+      "vi": "Tỉnh Orellana",
+      "lv": "Oreljanas province",
+      "ceb": "Provincia de Francisco de Orellana",
+      "zh": "奥雷亚纳省",
+      "fa": "استان اوریانا",
+      "ccp": "𑄃𑄧𑄢𑄬𑄣𑄚",
+      "hy": "Օրելյանա"
     },
-    "geo": {
-      "latitude": -0.7112664999999999,
-      "longitude": -77.15426839999999,
-      "min_latitude": -0.7265373,
-      "min_longitude": -77.181015,
-      "max_latitude": -0.6898046,
-      "max_longitude": -77.13389389999999
-    },
-    "name": "Orellana"
+    "comments": null
   },
   "E": {
+    "name": "Esmeraldas",
+    "code": null,
     "unofficial_names": "Esmeraldas",
+    "geo": {
+      "latitude": 0.9681789,
+      "longitude": -79.6517202,
+      "min_latitude": 0.9292910000000001,
+      "min_longitude": -79.672122,
+      "max_latitude": 0.9975799,
+      "max_longitude": -79.6095084
+    },
     "translations": {
       "en": "Esmeraldas",
       "ar": "مقاطعة إسمرالداس",
@@ -254,20 +294,28 @@
       "tr": "Esmeraldas",
       "uk": "Есмеральдас",
       "ur": "ایزمیراداس صوبہ",
-      "vi": "Esmeraldas"
+      "vi": "Esmeraldas",
+      "lv": "Esmeraldasas province",
+      "ceb": "Provincia de Esmeraldas",
+      "zh": "埃斯梅拉达斯省",
+      "ccp": "𑄃𑄬𑄌𑄴𑄟𑄢𑄣𑄴𑄓𑄌𑄴",
+      "hy": "Էսմերալդաս",
+      "he": "מחוז אסמרלדס"
     },
-    "geo": {
-      "latitude": 0.9681789,
-      "longitude": -79.6517202,
-      "min_latitude": 0.9292910000000001,
-      "min_longitude": -79.672122,
-      "max_latitude": 0.9975799,
-      "max_longitude": -79.6095084
-    },
-    "name": "Esmeraldas"
+    "comments": null
   },
   "F": {
+    "name": "Cañar",
+    "code": null,
     "unofficial_names": "Cañar",
+    "geo": {
+      "latitude": -2.555695,
+      "longitude": -78.9344814,
+      "min_latitude": -2.5782558,
+      "min_longitude": -78.9535904,
+      "max_latitude": -2.5385129,
+      "max_longitude": -78.9242364
+    },
     "translations": {
       "en": "Cañar",
       "ar": "مقاطعة كانار",
@@ -306,20 +354,27 @@
       "tr": "Canar Province",
       "uk": "Каньяр",
       "ur": "کانیار صوبہ",
-      "vi": "Tỉnh Canar"
+      "vi": "Tỉnh Canar",
+      "lv": "Kanjaras province",
+      "ceb": "Provincia del Cañar",
+      "zh": "卡尼亞爾省",
+      "bn": "কানার প্রদেশ’",
+      "ccp": "𑄇𑄬𑄚𑄢𑄴"
     },
-    "geo": {
-      "latitude": -2.555695,
-      "longitude": -78.9344814,
-      "min_latitude": -2.5782558,
-      "min_longitude": -78.9535904,
-      "max_latitude": -2.5385129,
-      "max_longitude": -78.9242364
-    },
-    "name": "Cañar"
+    "comments": null
   },
   "G": {
+    "name": "Guayas",
+    "code": null,
     "unofficial_names": "Guayas",
+    "geo": {
+      "latitude": -1.9574839,
+      "longitude": -79.9192702,
+      "min_latitude": -3.062438,
+      "min_longitude": -80.561928,
+      "max_latitude": -0.839573,
+      "max_longitude": -79.09728199999999
+    },
     "translations": {
       "en": "Guayas",
       "ar": "مقاطعة غاياس",
@@ -361,20 +416,26 @@
       "tr": "Guayas",
       "uk": "Гуаяс",
       "ur": "گوایاس صوبہ",
-      "vi": "Tỉnh Guayas"
+      "vi": "Tỉnh Guayas",
+      "lv": "Gvajasas province",
+      "ceb": "Provincia del Guayas",
+      "zh": "瓜亚斯省",
+      "ccp": "𑄉𑄪𑄠𑄠𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": -1.9574839,
-      "longitude": -79.9192702,
-      "min_latitude": -3.062438,
-      "min_longitude": -80.561928,
-      "max_latitude": -0.839573,
-      "max_longitude": -79.09728199999999
-    },
-    "name": "Guayas"
+    "comments": null
   },
   "H": {
+    "name": "Chimborazo",
+    "code": null,
     "unofficial_names": "Chimborazo",
+    "geo": {
+      "latitude": -1.4693018,
+      "longitude": -78.8169396,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Chimborazo",
       "ar": "مقاطعة تشيمبورازو",
@@ -415,20 +476,28 @@
       "tr": "Chimborazo",
       "uk": "Чімборасо",
       "ur": "چیمبوراسو صوبہ",
-      "vi": "Chimborazo"
+      "vi": "Chimborazo",
+      "lv": "Čimbaraso province",
+      "ceb": "Provincia del Chimborazo",
+      "zh": "钦博拉索省",
+      "ccp": "𑄌𑄨𑄟𑄴𑄝𑄧𑄢𑄎𑄮",
+      "kk": "Чимборасо",
+      "mk": "Чимборасо"
     },
-    "geo": {
-      "latitude": -1.4693018,
-      "longitude": -78.8169396,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Chimborazo"
+    "comments": null
   },
   "I": {
+    "name": "Imbabura",
+    "code": null,
     "unofficial_names": "Imbabura",
+    "geo": {
+      "latitude": 0.367159,
+      "longitude": -78.3842227,
+      "min_latitude": 0.125442,
+      "min_longitude": -79.230362,
+      "max_latitude": 0.8569121,
+      "max_longitude": -77.828034
+    },
     "translations": {
       "en": "Imbabura",
       "ar": "مقاطعة إمبابورا",
@@ -468,20 +537,28 @@
       "tr": "Imbabura Province",
       "uk": "Імбабура",
       "ur": "امبابورا صوبہ",
-      "vi": "Imbabura"
+      "vi": "Imbabura",
+      "lv": "Imbaburas province",
+      "ceb": "Provincia de Imbabura",
+      "zh": "因巴布拉省",
+      "ccp": "𑄃𑄨𑄟𑄴𑄝𑄝𑄪𑄢",
+      "hy": "Իմբաբուրա",
+      "he": "מחוז אימבאבורה"
     },
-    "geo": {
-      "latitude": 0.367159,
-      "longitude": -78.3842227,
-      "min_latitude": 0.125442,
-      "min_longitude": -79.230362,
-      "max_latitude": 0.8569121,
-      "max_longitude": -77.828034
-    },
-    "name": "Imbabura"
+    "comments": null
   },
   "L": {
+    "name": "Loja",
+    "code": null,
     "unofficial_names": "Loja",
+    "geo": {
+      "latitude": -3.983333,
+      "longitude": -79.2,
+      "min_latitude": -4.0516043,
+      "min_longitude": -79.23554419999999,
+      "max_latitude": -3.9635861,
+      "max_longitude": -79.1812133
+    },
     "translations": {
       "en": "Loja",
       "ar": "مقاطعة لوخا",
@@ -520,20 +597,27 @@
       "tr": "Loja province",
       "uk": "Лоха",
       "ur": "لوخا صوبہ",
-      "vi": "Tỉnh Loja"
+      "vi": "Tỉnh Loja",
+      "lv": "Lohas province",
+      "af": "Loja",
+      "ceb": "Provincia de Loja",
+      "zh": "洛哈省",
+      "ccp": "𑄣𑄮𑄎"
     },
-    "geo": {
-      "latitude": -3.983333,
-      "longitude": -79.2,
-      "min_latitude": -4.0516043,
-      "min_longitude": -79.23554419999999,
-      "max_latitude": -3.9635861,
-      "max_longitude": -79.1812133
-    },
-    "name": "Loja"
+    "comments": null
   },
   "M": {
+    "name": "Manabí",
+    "code": null,
     "unofficial_names": "Manabí",
+    "geo": {
+      "latitude": -0.7416532,
+      "longitude": -79.9192702,
+      "min_latitude": -1.92619,
+      "min_longitude": -81.0774715,
+      "max_latitude": 0.394737,
+      "max_longitude": -79.3954009
+    },
     "translations": {
       "en": "Manabí",
       "ar": "مقاطعة مانابي",
@@ -573,20 +657,29 @@
       "tr": "Manabi Province",
       "uk": "Манабі",
       "ur": "مانابی صوبہ",
-      "vi": "Tỉnh Manabí"
+      "vi": "Tỉnh Manabí",
+      "lv": "Manabi province",
+      "ceb": "Provincia de Manabí",
+      "zh": "马纳比省",
+      "fa": "استان مانابی",
+      "ccp": "𑄟𑄚𑄝𑄨",
+      "he": "מחוז מנבי",
+      "cs": "Manabí"
     },
-    "geo": {
-      "latitude": -0.7416532,
-      "longitude": -79.9192702,
-      "min_latitude": -1.92619,
-      "min_longitude": -81.0774715,
-      "max_latitude": 0.394737,
-      "max_longitude": -79.3954009
-    },
-    "name": "Manabí"
+    "comments": null
   },
   "N": {
+    "name": "Napo",
+    "code": null,
     "unofficial_names": "Napo",
+    "geo": {
+      "latitude": -0.7371233,
+      "longitude": -78.11082789999999,
+      "min_latitude": -1.273843,
+      "min_longitude": -78.410088,
+      "max_latitude": 0.036432,
+      "max_longitude": -77.049857
+    },
     "translations": {
       "en": "Napo",
       "ar": "مقاطعة نابو",
@@ -627,20 +720,27 @@
       "tr": "Napo Province",
       "uk": "Напо",
       "ur": "ناپو صوبہ",
-      "vi": "Tỉnh Napo"
+      "vi": "Tỉnh Napo",
+      "lv": "Napo province",
+      "ceb": "Provincia de Napo",
+      "zh": "纳波省",
+      "ccp": "𑄚𑄛𑄮",
+      "he": "מחוז נפו"
     },
-    "geo": {
-      "latitude": -0.7371233,
-      "longitude": -78.11082789999999,
-      "min_latitude": -1.273843,
-      "min_longitude": -78.410088,
-      "max_latitude": 0.036432,
-      "max_longitude": -77.049857
-    },
-    "name": "Napo"
+    "comments": null
   },
   "O": {
+    "name": "El Oro",
+    "code": null,
     "unofficial_names": "El Oro",
+    "geo": {
+      "latitude": -3.4454787,
+      "longitude": -79.8296743,
+      "min_latitude": -3.90139,
+      "min_longitude": -80.30034599999999,
+      "max_latitude": -3.0484269,
+      "max_longitude": -79.358108
+    },
     "translations": {
       "en": "El Oro",
       "ar": "مقاطعة إل أورو",
@@ -680,20 +780,27 @@
       "tr": "El Oro Province",
       "uk": "Ель-Оро",
       "ur": "ایل اورو صوبہ",
-      "vi": "Tỉnh El Oro"
+      "vi": "Tỉnh El Oro",
+      "lv": "Eloro province",
+      "ceb": "Provincia de El Oro",
+      "zh": "埃爾奧羅省",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄃𑄧𑄢𑄮",
+      "hy": "Էլ Օրո"
     },
-    "geo": {
-      "latitude": -3.4454787,
-      "longitude": -79.8296743,
-      "min_latitude": -3.90139,
-      "min_longitude": -80.30034599999999,
-      "max_latitude": -3.0484269,
-      "max_longitude": -79.358108
-    },
-    "name": "El Oro"
+    "comments": null
   },
   "P": {
+    "name": "Pichincha",
+    "code": null,
     "unofficial_names": "Pichincha",
+    "geo": {
+      "latitude": -0.1464847,
+      "longitude": -78.4751945,
+      "min_latitude": -0.714463,
+      "min_longitude": -79.368635,
+      "max_latitude": 0.344864,
+      "max_longitude": -77.83552499999999
+    },
     "translations": {
       "en": "Pichincha",
       "ar": "مقاطعة بيتشينتشا",
@@ -733,20 +840,28 @@
       "tr": "Pichincha ili",
       "uk": "Пічінча",
       "ur": "پیچینچا صوبہ",
-      "vi": "Tỉnh Pichincha"
+      "vi": "Tỉnh Pichincha",
+      "lv": "Pičinčas province",
+      "ceb": "Provincia de Pichincha",
+      "zh": "皮欽查省",
+      "fa": "استان پیچینچا",
+      "ccp": "𑄛𑄨𑄌𑄨𑄚𑄴𑄌",
+      "hy": "Պիչինչա"
     },
-    "geo": {
-      "latitude": -0.1464847,
-      "longitude": -78.4751945,
-      "min_latitude": -0.714463,
-      "min_longitude": -79.368635,
-      "max_latitude": 0.344864,
-      "max_longitude": -77.83552499999999
-    },
-    "name": "Pichincha"
+    "comments": null
   },
   "R": {
+    "name": "Los Ríos",
+    "code": null,
     "unofficial_names": "Los Ríos",
+    "geo": {
+      "latitude": -1.4191719,
+      "longitude": -79.4703885,
+      "min_latitude": -2.1302071,
+      "min_longitude": -79.8767999,
+      "max_latitude": -0.5303,
+      "max_longitude": -79.080353
+    },
     "translations": {
       "en": "Los Ríos",
       "ar": "مقاطعة لوس ريوس",
@@ -786,20 +901,27 @@
       "tr": "Los Rios Province",
       "uk": "Лос-Ріос",
       "ur": "لاس ریوس صوبہ",
-      "vi": "Los Ríos"
+      "vi": "Los Ríos",
+      "lv": "Losriosas province",
+      "ceb": "Provincia de Los Ríos",
+      "zh": "洛斯里奧斯省",
+      "ccp": "𑄣𑄧𑄌𑄴 𑄢𑄨𑄠𑄮𑄌𑄴",
+      "hy": "Լոս Ռիո"
     },
-    "geo": {
-      "latitude": -1.4191719,
-      "longitude": -79.4703885,
-      "min_latitude": -2.1302071,
-      "min_longitude": -79.8767999,
-      "max_latitude": -0.5303,
-      "max_longitude": -79.080353
-    },
-    "name": "Los Ríos"
+    "comments": null
   },
   "S": {
+    "name": "Morona-Santiago",
+    "code": null,
     "unofficial_names": "Morona-Santiago",
+    "geo": {
+      "latitude": -2.5628216,
+      "longitude": -78.11082789999999,
+      "min_latitude": -3.823733,
+      "min_longitude": -78.969154,
+      "max_latitude": -1.443362,
+      "max_longitude": -76.73908999999999
+    },
     "translations": {
       "en": "Morona-Santiago",
       "ar": "مقاطعة مورونا سانتياغو",
@@ -838,20 +960,27 @@
       "tr": "Morona-Santiago",
       "uk": "Морона-Сантьяго",
       "ur": "مورونا-سانتیاگو صوبہ",
-      "vi": "Tỉnh Morona-Santiago"
+      "vi": "Tỉnh Morona-Santiago",
+      "lv": "Moronas Santjago province",
+      "ceb": "Provincia de Morona-Santiago",
+      "zh": "莫罗纳-圣地亚哥省",
+      "ccp": "𑄟𑄧𑄢𑄮𑄚-𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮",
+      "hy": "Մորոնա Սանտյագո"
     },
-    "geo": {
-      "latitude": -2.5628216,
-      "longitude": -78.11082789999999,
-      "min_latitude": -3.823733,
-      "min_longitude": -78.969154,
-      "max_latitude": -1.443362,
-      "max_longitude": -76.73908999999999
-    },
-    "name": "Morona-Santiago"
+    "comments": null
   },
   "T": {
+    "name": "Tungurahua",
+    "code": null,
     "unofficial_names": "Tungurahua",
+    "geo": {
+      "latitude": -1.2635284,
+      "longitude": -78.5660852,
+      "min_latitude": -1.507969,
+      "min_longitude": -78.93395199999999,
+      "max_latitude": -0.9803009999999999,
+      "max_longitude": -78.144211
+    },
     "translations": {
       "en": "Tungurahua",
       "ar": "مقاطعة تونغوراهوا",
@@ -890,20 +1019,27 @@
       "tr": "Tungurahua Province",
       "uk": "Тунґурауа",
       "ur": "تونگوراہوا صوبہ",
-      "vi": "Tungurahua"
+      "vi": "Tungurahua",
+      "lv": "Tunguravas province",
+      "ceb": "Provincia del Tungurahua",
+      "zh": "通古拉瓦省",
+      "ccp": "𑄑𑄪𑄋𑄴𑄉𑄪𑄢𑄦𑄪𑄠",
+      "hy": "Տունգուրահուա"
     },
-    "geo": {
-      "latitude": -1.2635284,
-      "longitude": -78.5660852,
-      "min_latitude": -1.507969,
-      "min_longitude": -78.93395199999999,
-      "max_latitude": -0.9803009999999999,
-      "max_longitude": -78.144211
-    },
-    "name": "Tungurahua"
+    "comments": null
   },
   "U": {
+    "name": "Sucumbíos",
+    "code": null,
     "unofficial_names": "Sucumbíos",
+    "geo": {
+      "latitude": -0.1452276,
+      "longitude": -76.2710833,
+      "min_latitude": -0.648883,
+      "min_longitude": -77.9738229,
+      "max_latitude": 0.651662,
+      "max_longitude": -75.2348859
+    },
     "translations": {
       "en": "Sucumbíos",
       "ar": "مقاطعة سوكومبيوس",
@@ -942,20 +1078,27 @@
       "tr": "Sucumbios Province",
       "uk": "Сукумбіос",
       "ur": "سوکومبیوس صوبہ",
-      "vi": "Tỉnh Sucumbíos"
+      "vi": "Tỉnh Sucumbíos",
+      "lv": "Sukumbiosas province",
+      "ceb": "Provincia de Sucumbíos",
+      "zh": "苏昆比奥斯省",
+      "ccp": "𑄥𑄇𑄪𑄟𑄴𑄝𑄠𑄮𑄌𑄴",
+      "he": "מחוז סוקומביוס"
     },
-    "geo": {
-      "latitude": -0.1452276,
-      "longitude": -76.2710833,
-      "min_latitude": -0.648883,
-      "min_longitude": -77.9738229,
-      "max_latitude": 0.651662,
-      "max_longitude": -75.2348859
-    },
-    "name": "Sucumbíos"
+    "comments": null
   },
   "W": {
+    "name": "Galápagos",
+    "code": null,
     "unofficial_names": "Galápagos",
+    "geo": {
+      "latitude": -0.8292784,
+      "longitude": -90.9820668,
+      "min_latitude": -1.4115146,
+      "min_longitude": -92.0084893,
+      "max_latitude": 1.6815752,
+      "max_longitude": -89.24079549999999
+    },
     "translations": {
       "en": "Galápagos",
       "ar": "مقاطعة غالاباغوس",
@@ -994,20 +1137,26 @@
       "tr": "Galapagos Province",
       "uk": "Галапагос",
       "ur": "گالاپاگوس صوبہ",
-      "vi": "Tỉnh Galápagos"
+      "vi": "Tỉnh Galápagos",
+      "lv": "Galapagu province",
+      "ceb": "Provincia de Galápagos",
+      "zh": "加拉帕戈斯省",
+      "ccp": "𑄉𑄳𑄠𑄣𑄛𑄴𑄛𑄉𑄮𑄌𑄴"
     },
-    "geo": {
-      "latitude": -0.8292784,
-      "longitude": -90.9820668,
-      "min_latitude": -1.4115146,
-      "min_longitude": -92.0084893,
-      "max_latitude": 1.6815752,
-      "max_longitude": -89.24079549999999
-    },
-    "name": "Galápagos"
+    "comments": null
   },
   "X": {
+    "name": "Cotopaxi",
+    "code": null,
     "unofficial_names": "Cotopaxi",
+    "geo": {
+      "latitude": -0.8139666999999999,
+      "longitude": -78.9288242,
+      "min_latitude": -1.2108109,
+      "min_longitude": -79.329689,
+      "max_latitude": -0.324243,
+      "max_longitude": -78.370667
+    },
     "translations": {
       "en": "Cotopaxi",
       "ar": "مقاطعة كوتوباكسي",
@@ -1047,20 +1196,27 @@
       "tr": "Cotopaxi Province",
       "uk": "Котопахі",
       "ur": "کوتوپازی صوبہ",
-      "vi": "Cotopaxi"
+      "vi": "Cotopaxi",
+      "lv": "Kotopaksi province",
+      "ceb": "Provincia de Cotopaxi",
+      "zh": "科托帕希省",
+      "ccp": "𑄇𑄧𑄑𑄮𑄛𑄇𑄴𑄥𑄨",
+      "hy": "Կոտոպախի"
     },
-    "geo": {
-      "latitude": -0.8139666999999999,
-      "longitude": -78.9288242,
-      "min_latitude": -1.2108109,
-      "min_longitude": -79.329689,
-      "max_latitude": -0.324243,
-      "max_longitude": -78.370667
-    },
-    "name": "Cotopaxi"
+    "comments": null
   },
   "Y": {
+    "name": "Pastaza",
+    "code": null,
     "unofficial_names": "Pastaza",
+    "geo": {
+      "latitude": -1.6332034,
+      "longitude": -77.010385,
+      "min_latitude": -2.6300901,
+      "min_longitude": -78.30367509999999,
+      "max_latitude": -1.083427,
+      "max_longitude": -75.576691
+    },
     "translations": {
       "en": "Pastaza",
       "ar": "مقاطعة باستازا",
@@ -1099,20 +1255,28 @@
       "tr": "Pastaza Province",
       "uk": "Пастаса",
       "ur": "پاستاسا صوبہ",
-      "vi": "Tỉnh Pastaza"
+      "vi": "Tỉnh Pastaza",
+      "lv": "Pastasas province",
+      "ceb": "Provincia del Pastaza",
+      "zh": "帕斯塔薩省",
+      "fa": "استان پاستاسا",
+      "ccp": "𑄛𑄌𑄴𑄑𑄎",
+      "hy": "Պաստասա"
     },
-    "geo": {
-      "latitude": -1.6332034,
-      "longitude": -77.010385,
-      "min_latitude": -2.6300901,
-      "min_longitude": -78.30367509999999,
-      "max_latitude": -1.083427,
-      "max_longitude": -75.576691
-    },
-    "name": "Pastaza"
+    "comments": null
   },
   "Z": {
+    "name": "Zamora-Chinchipe",
+    "code": null,
     "unofficial_names": "Zamora-Chinchipe",
+    "geo": {
+      "latitude": -4.1535434,
+      "longitude": -78.8382644,
+      "min_latitude": -4.998823,
+      "min_longitude": -79.427795,
+      "max_latitude": -3.3357891,
+      "max_longitude": -78.3993
+    },
     "translations": {
       "en": "Zamora-Chinchipe",
       "ar": "مقاطعة زامورا تشينتشيبه",
@@ -1151,20 +1315,26 @@
       "tr": "Zamora-Chinchip Province",
       "uk": "Самора-Чинчипе",
       "ur": "سامورا-چینچیپے صوبہ",
-      "vi": "Tỉnh Zamora-Chinchipe"
+      "vi": "Tỉnh Zamora-Chinchipe",
+      "lv": "Samoras Činčipes province",
+      "ceb": "Provincia de Zamora-Chinchipe",
+      "zh": "萨莫拉-钦奇佩省",
+      "ccp": "𑄎𑄟𑄮𑄢-𑄌𑄨𑄚𑄴𑄌𑄨𑄛𑄬"
     },
-    "geo": {
-      "latitude": -4.1535434,
-      "longitude": -78.8382644,
-      "min_latitude": -4.998823,
-      "min_longitude": -79.427795,
-      "max_latitude": -3.3357891,
-      "max_longitude": -78.3993
-    },
-    "name": "Zamora-Chinchipe"
+    "comments": null
   },
   "SD": {
+    "name": "Santo Domingo de los Tsachilas",
+    "code": null,
     "unofficial_names": "Santo Domingo de los Tsachilas",
+    "geo": {
+      "latitude": -0.2205563,
+      "longitude": -79.29021329999999,
+      "min_latitude": -0.6861889999999999,
+      "min_longitude": -79.623871,
+      "max_latitude": 0.123351,
+      "max_longitude": -78.73494099999999
+    },
     "translations": {
       "ar": "سانتو دومينغو دا لوس تساتشيلاس",
       "be": "Правінцыя Санта-Дамінга-дэ-лос-Тсачылас",
@@ -1201,20 +1371,27 @@
       "tr": "Santo Domingo de los Tsachilas Province",
       "uk": "Санто-Домінго-де-лос-Тсачилас",
       "ur": "سانتو دومنگو دے لاس تسآچیلاس صوبہ",
-      "vi": "Tỉnh Santo Domingo de los Tsáchilas"
+      "vi": "Tỉnh Santo Domingo de los Tsáchilas",
+      "lv": "Santodomingo de los Cačilasas province",
+      "ceb": "Provincia de Santo Domingo de los Tsáchilas",
+      "zh": "聖多明各-德洛斯查奇拉斯省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄮 𑄓𑄮𑄟𑄨𑄚𑄴𑄉𑄮 𑄓𑄬 𑄣𑄧𑄌𑄴 𑄥𑄌𑄨𑄣𑄌𑄴",
+      "hy": "Սանտա Դոմինգո դե լոս Տսաչիլաս"
     },
-    "geo": {
-      "latitude": -0.2205563,
-      "longitude": -79.29021329999999,
-      "min_latitude": -0.6861889999999999,
-      "min_longitude": -79.623871,
-      "max_latitude": 0.123351,
-      "max_longitude": -78.73494099999999
-    },
-    "name": "Santo Domingo de los Tsachilas"
+    "comments": null
   },
   "SE": {
+    "name": "Santa Elena",
+    "code": null,
     "unofficial_names": "Santa Elena",
+    "geo": {
+      "latitude": -2.1934804,
+      "longitude": -80.54384499999999,
+      "min_latitude": -2.508378,
+      "min_longitude": -81.0067736,
+      "max_latitude": -1.647962,
+      "max_longitude": -80.2266889
+    },
     "translations": {
       "ar": "مقاطعة سانتا إيلينا",
       "be": "Правінцыя Санта-Элена",
@@ -1252,17 +1429,14 @@
       "tr": "Santa Elena Province",
       "uk": "Санта-Елена",
       "ur": "سانتا الینا صوبہ",
-      "vi": "Tỉnh Santa Elena"
+      "vi": "Tỉnh Santa Elena",
+      "lv": "Santaelenas province",
+      "ceb": "Provincia de Santa Elena",
+      "zh": "聖埃倫娜省",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄃𑄬𑄣𑄬𑄚",
+      "mk": "Санта Елена"
     },
-    "geo": {
-      "latitude": -2.1934804,
-      "longitude": -80.54384499999999,
-      "min_latitude": -2.508378,
-      "min_longitude": -81.0067736,
-      "max_latitude": -1.647962,
-      "max_longitude": -80.2266889
-    },
-    "name": "Santa Elena"
+    "comments": null
   }
 }
 

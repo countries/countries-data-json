@@ -1,5 +1,7 @@
 {
   "DA": {
+    "name": "Ad Dawhah",
+    "code": null,
     "unofficial_names": [
       "Dawhah",
       "Doha",
@@ -9,6 +11,14 @@
       "Doha",
       "Doha"
     ],
+    "geo": {
+      "latitude": 25.2916097,
+      "longitude": 51.5304368,
+      "min_latitude": 25.1954283,
+      "min_longitude": 51.4307964,
+      "max_latitude": 25.4125783,
+      "max_longitude": 51.6281212
+    },
     "translations": {
       "en": "Doha",
       "af": "Doha",
@@ -72,25 +82,35 @@
       "uk": "Доха",
       "ur": "دوحہ",
       "vi": "Doha",
-      "zh": "多哈"
+      "zh": "多哈",
+      "cy": "Doha",
+      "ceb": "Doha",
+      "sr_Latn": "Doha",
+      "yue_Hans": "多哈",
+      "jv": "Doha",
+      "sq": "Doha",
+      "ccp": "𑄘𑄮𑄦",
+      "ga": "Doha",
+      "ky": "Доха",
+      "ha": "Doha",
+      "so": "Dooxa",
+      "pa": "ਦੋਹਾ",
+      "kk": "Доха",
+      "yue": "多哈",
+      "my": "ဒိုဟာမြို့",
+      "yo": "Doha",
+      "uz": "Doha",
+      "bs": "Doha",
+      "mk": "Доха"
     },
-    "geo": {
-      "latitude": 25.2916097,
-      "longitude": 51.5304368,
-      "min_latitude": 25.1954283,
-      "min_longitude": 51.4307964,
-      "max_latitude": 25.4125783,
-      "max_longitude": 51.6281212
-    },
-    "name": "Ad Dawhah"
+    "comments": null
   },
   "GH": {
+    "name": "Al Ghuwayriyah",
+    "code": null,
     "unofficial_names": [
       "al-Ghuwayriyah"
     ],
-    "translations": {
-      "en": "Al Ghuwayriyah"
-    },
     "geo": {
       "latitude": 25.8447931,
       "longitude": 51.2453739,
@@ -99,13 +119,15 @@
       "max_latitude": 25.851963,
       "max_longitude": 51.2548255
     },
-    "name": "Al Ghuwayriyah"
+    "translations": {
+      "en": "Al Ghuwayriyah"
+    },
+    "comments": null
   },
   "JB": {
+    "name": "Jariyan al Batnah",
+    "code": null,
     "unofficial_names": "Jariyan al Batnah",
-    "translations": {
-      "en": "Jariyan al Batnah"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -114,15 +136,17 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Jariyan al Batnah"
+    "translations": {
+      "en": "Jariyan al Batnah"
+    },
+    "comments": null
   },
   "JU": {
+    "name": "Al Jumayliyah",
+    "code": null,
     "unofficial_names": [
       "al-Jumayliyah"
     ],
-    "translations": {
-      "en": "Al Jumayliyah"
-    },
     "geo": {
       "latitude": 25.6218514,
       "longitude": 51.0835811,
@@ -131,15 +155,28 @@
       "max_latitude": 25.6417585,
       "max_longitude": 51.1042785
     },
-    "name": "Al Jumayliyah"
+    "translations": {
+      "en": "Al Jumayliyah"
+    },
+    "comments": null
   },
   "KH": {
+    "name": "Al Khawr",
+    "code": null,
     "unofficial_names": [
       "H̱ūr",
       "al-Khawr",
       "al-Khour",
       "al-H̱awr"
     ],
+    "geo": {
+      "latitude": 25.6804078,
+      "longitude": 51.4968502,
+      "min_latitude": 25.6203229,
+      "min_longitude": 51.4761828,
+      "max_latitude": 25.6959881,
+      "max_longitude": 51.5287971
+    },
     "translations": {
       "en": "Al Khor",
       "ar": "الخور والدخيرة",
@@ -174,22 +211,29 @@
       "tr": "Al Khor",
       "uk": "Аль-Хор",
       "ur": "الخور و الدخیرہ",
-      "vi": "Al Khor"
+      "vi": "Al Khor",
+      "lv": "Haura",
+      "ceb": "Baladīyat al Khawr wa adh Dhakhīrah",
+      "zh": "艾科爾",
+      "ccp": "𑄃𑄣𑄴 𑄈𑄮𑄢𑄴",
+      "mk": "Хор"
     },
-    "geo": {
-      "latitude": 25.6804078,
-      "longitude": 51.4968502,
-      "min_latitude": 25.6203229,
-      "min_longitude": 51.4761828,
-      "max_latitude": 25.6959881,
-      "max_longitude": 51.5287971
-    },
-    "name": "Al Khawr"
+    "comments": null
   },
   "MS": {
+    "name": "Madinat ash Shamal",
+    "code": null,
     "unofficial_names": [
       "ash-Shamal"
     ],
+    "geo": {
+      "latitude": 26.1156079,
+      "longitude": 51.2218451,
+      "min_latitude": 26.1038857,
+      "min_longitude": 51.2056447,
+      "max_latitude": 26.123153,
+      "max_longitude": 51.23826039999999
+    },
     "translations": {
       "en": "Madinat ash Shamal",
       "ar": "بلدية الشمال",
@@ -224,23 +268,29 @@
       "tr": "Medinet eş Şemal",
       "uk": "Аш-Шамаль",
       "ur": "بلدیہ شمال",
-      "vi": "Madinat ash Shamal"
+      "vi": "Madinat ash Shamal",
+      "lv": "Medīnat Eš Šamāla",
+      "zh": "北部区",
+      "ccp": "𑄟𑄓𑄨𑄚𑄖𑄴 𑄃𑄌𑄴 𑄥𑄳𑄠𑄟𑄧𑄣𑄴",
+      "mk": "Шамал"
     },
-    "geo": {
-      "latitude": 26.1156079,
-      "longitude": 51.2218451,
-      "min_latitude": 26.1038857,
-      "min_longitude": 51.2056447,
-      "max_latitude": 26.123153,
-      "max_longitude": 51.23826039999999
-    },
-    "name": "Madinat ash Shamal"
+    "comments": null
   },
   "RA": {
+    "name": "Ar Rayyan",
+    "code": null,
     "unofficial_names": [
       "Rayyan",
       "ar-Rayyan"
     ],
+    "geo": {
+      "latitude": 25.2089787,
+      "longitude": 51.095836,
+      "min_latitude": 24.471186,
+      "min_longitude": 50.7500553,
+      "max_latitude": 25.8087775,
+      "max_longitude": 51.53700079999999
+    },
     "translations": {
       "en": "Al Rayyan",
       "ar": "بلدية الريان",
@@ -278,22 +328,31 @@
       "tr": "Er Reyyan",
       "uk": "Ар-Раян",
       "ur": "ریان، قطر",
-      "vi": "Al Rayyan"
+      "vi": "Al Rayyan",
+      "lv": "Rajana",
+      "ceb": "Baladīyat ar Rayyān",
+      "zh": "阿爾拉揚體育會",
+      "ccp": "𑄃𑄣𑄴 𑄢𑄬𑄠𑄚𑄴",
+      "ga": "Al Rayyan",
+      "gl": "Ar Rayyan",
+      "mk": "Рајан"
     },
-    "geo": {
-      "latitude": 25.2089787,
-      "longitude": 51.095836,
-      "min_latitude": 24.471186,
-      "min_longitude": 50.7500553,
-      "max_latitude": 25.8087775,
-      "max_longitude": 51.53700079999999
-    },
-    "name": "Ar Rayyan"
+    "comments": null
   },
   "US": {
+    "name": "Umm Salal",
+    "code": null,
     "unofficial_names": [
       "Umm Shalal"
     ],
+    "geo": {
+      "latitude": 25.3981114,
+      "longitude": 51.42508489999999,
+      "min_latitude": 25.3710324,
+      "min_longitude": 51.3913962,
+      "max_latitude": 25.4387563,
+      "max_longitude": 51.4667945
+    },
     "translations": {
       "en": "Umm Salal",
       "ar": "بلدية أم صلال",
@@ -328,23 +387,29 @@
       "tr": "Umm Selal",
       "uk": "Умм-Салаль",
       "ur": "ام صلال",
-      "vi": "Đô thị tự trị Umm Salal"
+      "vi": "Đô thị tự trị Umm Salal",
+      "lv": "Umm-Salālas pašvaldība",
+      "zh": "烏姆錫拉勒",
+      "ccp": "𑄅𑄪𑄟𑄴 𑄥𑄣𑄣𑄴",
+      "mk": "Ум Салал"
     },
-    "geo": {
-      "latitude": 25.3981114,
-      "longitude": 51.42508489999999,
-      "min_latitude": 25.3710324,
-      "min_longitude": 51.3913962,
-      "max_latitude": 25.4387563,
-      "max_longitude": 51.4667945
-    },
-    "name": "Umm Salal"
+    "comments": null
   },
   "WA": {
+    "name": "Al Wakrah",
+    "code": null,
     "unofficial_names": [
       "Wakra",
       "Wakrah"
     ],
+    "geo": {
+      "latitude": 25.1768157,
+      "longitude": 51.6048431,
+      "min_latitude": 24.473726,
+      "min_longitude": 51.1108249,
+      "max_latitude": 25.233427,
+      "max_longitude": 51.6284578
+    },
     "translations": {
       "en": "Al Wakrah",
       "ar": "الوكرة",
@@ -381,25 +446,22 @@
       "tr": "El Vakra",
       "uk": "Аль-Вакра",
       "ur": "الوکرہ",
-      "vi": "Al Wakrah"
+      "vi": "Al Wakrah",
+      "lv": "Vakra",
+      "ceb": "Al Wakrah",
+      "zh": "沃克拉",
+      "ccp": "𑄃𑄣𑄴 𑄤𑄇𑄴𑄢𑄦𑄴",
+      "ga": "Al Wakrah",
+      "mk": "Вакра"
     },
-    "geo": {
-      "latitude": 25.1768157,
-      "longitude": 51.6048431,
-      "min_latitude": 24.473726,
-      "min_longitude": 51.1108249,
-      "max_latitude": 25.233427,
-      "max_longitude": 51.6284578
-    },
-    "name": "Al Wakrah"
+    "comments": null
   },
   "X1~": {
+    "name": "Umm Sa'id",
+    "code": null,
     "unofficial_names": [
       "Mesaieed"
     ],
-    "translations": {
-      "en": "Umm Sa'id"
-    },
     "geo": {
       "latitude": 24.9909255,
       "longitude": 51.5493483,
@@ -408,9 +470,23 @@
       "max_latitude": 25.0202494,
       "max_longitude": 51.6018392
     },
-    "name": "Umm Sa'id"
+    "translations": {
+      "en": "Umm Sa'id"
+    },
+    "comments": null
   },
   "ZA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "بلدية الضعاين",
       "bn": "আল দায়েন",
@@ -443,8 +519,28 @@
       "tr": "Ed Daayin",
       "uk": "Аль-Даїян",
       "ur": "بلدیہ الضعاین",
-      "vi": "Al Daayen"
-    }
+      "vi": "Al Daayen",
+      "lv": "Zaājīna",
+      "lt": "Al Daajenas",
+      "zh": "戴揚",
+      "ccp": "𑄃𑄣𑄴 𑄘𑄬𑄠𑄚𑄴",
+      "mk": "Дајен"
+    },
+    "comments": null
+  },
+  "SH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "ar": "الشحانية",
+      "fa": "شحانیه",
+      "ja": "シャハーニーヤ",
+      "en": "Ash Shīḩānīyah",
+      "gl": "Al Shahaniya"
+    },
+    "comments": null
   }
 }
 

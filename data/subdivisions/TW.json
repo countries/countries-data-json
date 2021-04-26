@@ -1,8 +1,18 @@
 {
   "CHA": {
+    "name": "Changhua",
+    "code": null,
     "unofficial_names": [
       "Changhua"
     ],
+    "geo": {
+      "latitude": 24.0716583,
+      "longitude": 120.5624474,
+      "min_latitude": 24.0377972,
+      "min_longitude": 120.4997914,
+      "max_latitude": 24.1139398,
+      "max_longitude": 120.6258758
+    },
     "translations": {
       "en": "Changhua",
       "ar": "مقاطعة تشانغوا",
@@ -40,22 +50,31 @@
       "tr": "Changhua",
       "ur": "چانگہوا کاؤنٹی",
       "vi": "Chương Hóa",
-      "zh": "彰化縣"
+      "zh": "彰化縣",
+      "lv": "Džanhua apriņķis",
+      "cy": "Sir Changhua",
+      "ceb": "Changhua",
+      "yue_Hans": "彰化县",
+      "ccp": "𑄌𑄚𑄴𑄊𑄪𑄠",
+      "uk": "Округ Чжанхуа",
+      "yue": "彰化縣"
     },
-    "geo": {
-      "latitude": 24.0716583,
-      "longitude": 120.5624474,
-      "min_latitude": 24.0377972,
-      "min_longitude": 120.4997914,
-      "max_latitude": 24.1139398,
-      "max_longitude": 120.6258758
-    },
-    "name": "Changhua"
+    "comments": null
   },
   "CYI": {
+    "name": "Chiayi Municipality",
+    "code": null,
     "unofficial_names": [
       "Chiai"
     ],
+    "geo": {
+      "latitude": 23.4871898,
+      "longitude": 120.4516708,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Chiayi County",
       "ar": "مقاطعة شياي",
@@ -90,20 +109,31 @@
       "th": "เจียอี้",
       "tr": "Chiayi Country",
       "ur": "چیائی کاؤنٹی",
-      "vi": "Gia Nghĩa"
+      "vi": "Gia Nghĩa",
+      "lv": "Czai apgabals",
+      "cy": "Sir Chiayi",
+      "ceb": "Chiayi",
+      "zh": "嘉義縣",
+      "yue_Hans": "嘉义县",
+      "ccp": "𑄌𑄨𑄠𑄃𑄨 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "uk": "Округ Цзяі",
+      "yue": "嘉義縣",
+      "mn": "Жяи шянь"
     },
-    "geo": {
-      "latitude": 23.4871898,
-      "longitude": 120.4516708,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Chiayi Municipality"
+    "comments": null
   },
   "CYQ": {
+    "name": "Chiayi",
+    "code": null,
     "unofficial_names": "Chiayi",
+    "geo": {
+      "latitude": 23.4518428,
+      "longitude": 120.2554615,
+      "min_latitude": 23.2148,
+      "min_longitude": 120.1174411,
+      "max_latitude": 23.6359268,
+      "max_longitude": 120.9576495
+    },
     "translations": {
       "en": "Chiayi",
       "ar": "شيا يي",
@@ -143,20 +173,28 @@
       "tr": "Chiayi",
       "uk": "Цзяї",
       "ur": "چیایی شہر",
-      "vi": "Gia Nghĩa²"
+      "vi": "Gia Nghĩa²",
+      "lv": "Dzjaji",
+      "ceb": "Chiayi (lalawigan sa Republika sa Tsina, lat 23,48, long 120,45)",
+      "zh": "嘉義市",
+      "yue_Hans": "嘉义市",
+      "ccp": "𑄌𑄨𑄠𑄃𑄨",
+      "yue": "嘉義市"
     },
-    "geo": {
-      "latitude": 23.4518428,
-      "longitude": 120.2554615,
-      "min_latitude": 23.2148,
-      "min_longitude": 120.1174411,
-      "max_latitude": 23.6359268,
-      "max_longitude": 120.9576495
-    },
-    "name": "Chiayi"
+    "comments": null
   },
   "HSQ": {
+    "name": "Hsinchu",
+    "code": null,
     "unofficial_names": "Hsinchu",
+    "geo": {
+      "latitude": 24.8066493,
+      "longitude": 120.9669257,
+      "min_latitude": 24.7125478,
+      "min_longitude": 120.8794077,
+      "max_latitude": 24.8569956,
+      "max_longitude": 121.0335449
+    },
     "translations": {
       "en": "Hsinchu County",
       "ar": "مقاطعة هسينشو",
@@ -192,20 +230,30 @@
       "th": "ซินจู๋",
       "tr": "Hsinchu County",
       "ur": "ہسینچو کاؤنٹی",
-      "vi": "Tân Trúc"
+      "vi": "Tân Trúc",
+      "lv": "Sjiņdžu apriņķis",
+      "cy": "Sir Hsinchu",
+      "zh": "新竹縣",
+      "yue_Hans": "新竹县",
+      "ccp": "𑄥𑄨𑄚𑄴𑄌𑄪 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
+      "ml": "ഹ്സിഞ്ചു കൗണ്ടി",
+      "uk": "Округ Сіньчжу",
+      "yue": "新竹縣"
     },
-    "geo": {
-      "latitude": 24.8066493,
-      "longitude": 120.9669257,
-      "min_latitude": 24.7125478,
-      "min_longitude": 120.8794077,
-      "max_latitude": 24.8569956,
-      "max_longitude": 121.0335449
-    },
-    "name": "Hsinchu"
+    "comments": null
   },
   "HSZ": {
+    "name": "Hsinchu Municipality",
+    "code": null,
     "unofficial_names": "Hsinchu Municipality",
+    "geo": {
+      "latitude": 24.9330791,
+      "longitude": 121.0093188,
+      "min_latitude": 24.932182,
+      "min_longitude": 121.0086104,
+      "max_latitude": 24.9337171,
+      "max_longitude": 121.0100775
+    },
     "translations": {
       "en": "Hsinchu",
       "ar": "سين شو",
@@ -244,22 +292,33 @@
       "tr": "Hsinchu",
       "uk": "Сіньчжу",
       "ur": "ہسینچو",
-      "vi": "Tân Trúc²"
+      "vi": "Tân Trúc²",
+      "lv": "Sjiņdžu",
+      "ceb": "Hsinchu (kapital sa lalawigan)",
+      "zh": "新竹市",
+      "yue_Hans": "新竹市",
+      "ccp": "𑄥𑄨𑄚𑄴𑄌𑄪",
+      "kk": "Синьчжу",
+      "yue": "新竹市",
+      "ca": "Hsinchu",
+      "be": "Сіньчжу"
     },
-    "geo": {
-      "latitude": 24.9330791,
-      "longitude": 121.0093188,
-      "min_latitude": 24.932182,
-      "min_longitude": 121.0086104,
-      "max_latitude": 24.9337171,
-      "max_longitude": 121.0100775
-    },
-    "name": "Hsinchu Municipality"
+    "comments": null
   },
   "HUA": {
+    "name": "Hualien",
+    "code": null,
     "unofficial_names": [
       "Hualian"
     ],
+    "geo": {
+      "latitude": 23.9499886,
+      "longitude": 121.5518908,
+      "min_latitude": 23.0977983,
+      "min_longitude": 120.9866267,
+      "max_latitude": 24.37056,
+      "max_longitude": 121.7714431
+    },
     "translations": {
       "en": "Hualien",
       "ar": "مقاطعة هوالين",
@@ -296,20 +355,30 @@
       "th": "ฮวาเหลียน",
       "tr": "Hualien",
       "ur": "ہوالیئن کاؤنٹی",
-      "vi": "Hoa Liên"
+      "vi": "Hoa Liên",
+      "lv": "Hualiaņas apriņķis",
+      "cy": "Sir Hualien",
+      "ceb": "Hualien (lalawigan sa Republika sa Tsina)",
+      "zh": "花蓮縣",
+      "yue_Hans": "花莲县",
+      "ccp": "𑄦𑄪𑄠𑄣𑄨𑄠𑄬𑄚𑄴",
+      "uk": "Округ Гуалянь",
+      "yue": "花蓮縣"
     },
-    "geo": {
-      "latitude": 23.9499886,
-      "longitude": 121.5518908,
-      "min_latitude": 23.0977983,
-      "min_longitude": 120.9866267,
-      "max_latitude": 24.37056,
-      "max_longitude": 121.7714431
-    },
-    "name": "Hualien"
+    "comments": null
   },
   "ILA": {
+    "name": "Ilan",
+    "code": null,
     "unofficial_names": "Ilan",
+    "geo": {
+      "latitude": 24.7021073,
+      "longitude": 121.7377502,
+      "min_latitude": 24.3094447,
+      "min_longitude": 121.3167219,
+      "max_latitude": 25.7517095,
+      "max_longitude": 123.4934282
+    },
     "translations": {
       "en": "Yilan",
       "ar": "مقاطعة ييلان",
@@ -346,22 +415,32 @@
       "th": "อี๋หลาน",
       "tr": "Yilan",
       "ur": "یلن کاؤنٹی، تائیوان",
-      "vi": "Nghi Lan"
+      "vi": "Nghi Lan",
+      "lv": "Ilaņas distrikts",
+      "cy": "Sir Yilan",
+      "ceb": "Yilan",
+      "zh": "宜蘭縣",
+      "yue_Hans": "宜兰县",
+      "ccp": "𑄃𑄨𑄣𑄚𑄴",
+      "uk": "Округ Ілань",
+      "yue": "宜蘭縣"
     },
-    "geo": {
-      "latitude": 24.7021073,
-      "longitude": 121.7377502,
-      "min_latitude": 24.3094447,
-      "min_longitude": 121.3167219,
-      "max_latitude": 25.7517095,
-      "max_longitude": 123.4934282
-    },
-    "name": "Ilan"
+    "comments": null
   },
   "KEE": {
+    "name": "Keelung Municipality",
+    "code": null,
     "unofficial_names": [
       "Chilung Shih"
     ],
+    "geo": {
+      "latitude": 25.1313701,
+      "longitude": 121.7488675,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Keelung",
       "ar": "كي لنغ",
@@ -401,20 +480,29 @@
       "th": "นครจีหลง",
       "tr": "Keelung",
       "ur": "کیلونگ",
-      "vi": "Cơ Long"
+      "vi": "Cơ Long",
+      "lv": "Kēlunga",
+      "ceb": "Keelung",
+      "zh": "基隆市",
+      "yue_Hans": "基隆",
+      "ccp": "𑄇𑄩𑄣𑄪𑄁",
+      "uk": "Цзилун",
+      "yue": "基隆"
     },
-    "geo": {
-      "latitude": 25.1313701,
-      "longitude": 121.7488675,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Keelung Municipality"
+    "comments": null
   },
   "KHH": {
+    "name": "Kaohsiung Special Municipality",
+    "code": null,
     "unofficial_names": "Kaohsiung Special Municipality",
+    "geo": {
+      "latitude": 22.6272784,
+      "longitude": 120.3014353,
+      "min_latitude": 20.5862202,
+      "min_longitude": 116.7118602,
+      "max_latitude": 23.4717267,
+      "max_longitude": 121.0490147
+    },
     "translations": {
       "en": "Kaohsiung",
       "af": "Kaohsiung",
@@ -463,23 +551,25 @@
       "tr": "Kaohsiung",
       "uk": "Гаосюн",
       "ur": "کائوسیونگ شہر",
-      "vi": "Cao Hùng"
+      "vi": "Cao Hùng",
+      "lv": "Gaosjunas speciālā municipalitāte",
+      "cy": "Dinas Kaohsiung",
+      "ceb": "Kaohsiung (kapital sa lalawigan)",
+      "zh": "高雄市",
+      "yue_Hans": "高雄市",
+      "ccp": "𑄇𑄃𑄮𑄦𑄴𑄥𑄨𑄅𑄪𑄁",
+      "ky": "Гаосун",
+      "pa": "ਕਾਓਸੀਅੰਗ",
+      "yue": "高雄市",
+      "my": "ကောင်းရှုံမြို့",
+      "mk": "Гаосјунг"
     },
-    "geo": {
-      "latitude": 22.6272784,
-      "longitude": 120.3014353,
-      "min_latitude": 20.5862202,
-      "min_longitude": 116.7118602,
-      "max_latitude": 23.4717267,
-      "max_longitude": 121.0490147
-    },
-    "name": "Kaohsiung Special Municipality"
+    "comments": null
   },
   "KHQ": {
+    "name": "Kaohsiung",
+    "code": null,
     "unofficial_names": "Kaohsiung",
-    "translations": {
-      "en": "Kaohsiung County"
-    },
     "geo": {
       "latitude": 22.6272784,
       "longitude": 120.3014353,
@@ -488,10 +578,24 @@
       "max_latitude": 23.4717267,
       "max_longitude": 121.0490147
     },
-    "name": "Kaohsiung"
+    "translations": {
+      "en": "Kaohsiung County",
+      "ccp": "𑄇𑄃𑄮𑄦𑄥𑄨𑄅𑄪𑄁 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "MIA": {
+    "name": "Miaoli",
+    "code": null,
     "unofficial_names": "Miaoli",
+    "geo": {
+      "latitude": 24.560159,
+      "longitude": 120.8214265,
+      "min_latitude": 24.2885293,
+      "min_longitude": 120.6223738,
+      "max_latitude": 24.741082,
+      "max_longitude": 121.2626344
+    },
     "translations": {
       "en": "Miaoli",
       "ar": "مقاطعة مياولي",
@@ -527,20 +631,31 @@
       "th": "เหมียวลี่",
       "tr": "Miaoli County",
       "ur": "میاولی کاؤنٹی",
-      "vi": "Miêu Lật"
+      "vi": "Miêu Lật",
+      "lv": "Miaoli apriņķis",
+      "cy": "Sir Miaoli",
+      "ceb": "Miaoli (lalawigan)",
+      "zh": "苗栗縣",
+      "yue_Hans": "苗栗县",
+      "ccp": "𑄟𑄭𑄃𑄮𑄣𑄨",
+      "ml": "മിയോലി കൗണ്ടി",
+      "uk": "Округ Мяолі",
+      "yue": "苗栗縣"
     },
-    "geo": {
-      "latitude": 24.560159,
-      "longitude": 120.8214265,
-      "min_latitude": 24.2885293,
-      "min_longitude": 120.6223738,
-      "max_latitude": 24.741082,
-      "max_longitude": 121.2626344
-    },
-    "name": "Miaoli"
+    "comments": null
   },
   "NAN": {
+    "name": "Nantou",
+    "code": null,
     "unofficial_names": "Nantou",
+    "geo": {
+      "latitude": 23.9609981,
+      "longitude": 120.9718638,
+      "min_latitude": 23.435385,
+      "min_longitude": 120.6155614,
+      "max_latitude": 24.2463089,
+      "max_longitude": 121.3494752
+    },
     "translations": {
       "en": "Nantou",
       "ar": "مقاطعة نانتو",
@@ -576,20 +691,30 @@
       "th": "หนานโถว",
       "tr": "Nantou",
       "ur": "نانتوو کاؤنٹی",
-      "vi": "Nam Đầu"
+      "vi": "Nam Đầu",
+      "lv": "Naņtou apriņķis",
+      "cy": "Sir Nantou",
+      "ceb": "Nantou (lalawigan)",
+      "zh": "南投縣",
+      "yue_Hans": "南投县",
+      "ccp": "𑄚𑄚𑄴𑄑𑄯",
+      "uk": "Округ Наньтоу",
+      "yue": "南投縣"
     },
-    "geo": {
-      "latitude": 23.9609981,
-      "longitude": 120.9718638,
-      "min_latitude": 23.435385,
-      "min_longitude": 120.6155614,
-      "max_latitude": 24.2463089,
-      "max_longitude": 121.3494752
-    },
-    "name": "Nantou"
+    "comments": null
   },
   "PEN": {
+    "name": "Penghu",
+    "code": null,
     "unofficial_names": "Penghu",
+    "geo": {
+      "latitude": 23.5711899,
+      "longitude": 119.5793157,
+      "min_latitude": 23.1865723,
+      "min_longitude": 119.3144141,
+      "max_latitude": 23.775773,
+      "max_longitude": 119.7269552
+    },
     "translations": {
       "en": "Penghu",
       "cs": "Okres Pcheng-chu",
@@ -599,20 +724,42 @@
       "it": "contea di Penghu",
       "ja": "澎湖県",
       "ko": "펑후 현",
-      "ru": "Пэнху"
+      "ru": "Пэнху",
+      "cy": "Sir Penghu",
+      "ms": "Penghu",
+      "ar": "بسكادورز",
+      "vi": "Bành Hồ",
+      "nl": "Pescadores",
+      "zh": "澎湖縣",
+      "fa": "پنگهو",
+      "yue_Hans": "澎湖县",
+      "ccp": "𑄛𑄬𑄚𑄴𑄊𑄪",
+      "es": "Islas Pescadores",
+      "da": "Pescadorerne",
+      "fi": "Peskadorit",
+      "is": "Penghu",
+      "pt": "Penghu",
+      "ml": "പെൻഘു",
+      "uk": "Пенху",
+      "yue": "澎湖縣",
+      "mn": "Пөнхү",
+      "th": "เผิงหู",
+      "yo": "Penghu"
     },
-    "geo": {
-      "latitude": 23.5711899,
-      "longitude": 119.5793157,
-      "min_latitude": 23.1865723,
-      "min_longitude": 119.3144141,
-      "max_latitude": 23.775773,
-      "max_longitude": 119.7269552
-    },
-    "name": "Penghu"
+    "comments": null
   },
   "PIF": {
+    "name": "Pingtung",
+    "code": null,
     "unofficial_names": "Pingtung",
+    "geo": {
+      "latitude": 22.5519759,
+      "longitude": 120.5487597,
+      "min_latitude": 21.8968211,
+      "min_longitude": 120.3527512,
+      "max_latitude": 22.8851844,
+      "max_longitude": 120.9042007
+    },
     "translations": {
       "en": "Pingtung",
       "ar": "مقاطعة بينغتونغ",
@@ -650,20 +797,32 @@
       "th": "ผิงตง",
       "tr": "Pingtung",
       "ur": "پنگتونگ کاؤنٹی",
-      "vi": "Bình Đông"
+      "vi": "Bình Đông",
+      "lv": "Pindunas apriņķis",
+      "cy": "Sir Pingtung",
+      "ceb": "Pingtung",
+      "zh": "屏東縣",
+      "yue_Hans": "屏东县",
+      "ccp": "𑄛𑄨𑄁𑄑𑄁",
+      "ml": "പിങ്ടങ് കൗണ്ടി",
+      "uk": "Округ Пінтун",
+      "yue": "屏東縣",
+      "be": "Піндун"
     },
-    "geo": {
-      "latitude": 22.5519759,
-      "longitude": 120.5487597,
-      "min_latitude": 21.8968211,
-      "min_longitude": 120.3527512,
-      "max_latitude": 22.8851844,
-      "max_longitude": 120.9042007
-    },
-    "name": "Pingtung"
+    "comments": null
   },
   "TAO": {
+    "name": "Taoyuan",
+    "code": null,
     "unofficial_names": "Taoyuan",
+    "geo": {
+      "latitude": 24.9936281,
+      "longitude": 121.3009798,
+      "min_latitude": 24.5864837,
+      "min_longitude": 120.9845663,
+      "max_latitude": 25.123137,
+      "max_longitude": 121.4798128
+    },
     "translations": {
       "en": "Taoyuan",
       "af": "Taoyuan",
@@ -702,20 +861,30 @@
       "th": "เถาหยวน",
       "tr": "Taoyuan",
       "ur": "تاویوان",
-      "vi": "Đào Viên"
+      "vi": "Đào Viên",
+      "lv": "Taojuaņas speciālā municipalitāte",
+      "ceb": "Taoyuan",
+      "zh": "桃園市",
+      "yue_Hans": "桃园县",
+      "ccp": "𑄑𑄃𑄮𑄅𑄪𑄠𑄚𑄴",
+      "uk": "Таоюань",
+      "yue": "桃園縣",
+      "mk": "Тоајуен"
     },
-    "geo": {
-      "latitude": 24.9936281,
-      "longitude": 121.3009798,
-      "min_latitude": 24.5864837,
-      "min_longitude": 120.9845663,
-      "max_latitude": 25.123137,
-      "max_longitude": 121.4798128
-    },
-    "name": "Taoyuan"
+    "comments": null
   },
   "TNN": {
+    "name": "Tainan Municipality",
+    "code": null,
     "unofficial_names": "Tainan Municipality",
+    "geo": {
+      "latitude": 23.0038497,
+      "longitude": 120.212227,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Tainan",
       "af": "Tainan",
@@ -759,23 +928,21 @@
       "tr": "Tainan",
       "uk": "Тайнань",
       "ur": "تاینان",
-      "vi": "Đài Nam"
+      "vi": "Đài Nam",
+      "lv": "Tainana",
+      "zh": "臺南市",
+      "yue_Hans": "台南",
+      "ccp": "𑄑𑄭𑄚𑄚𑄴",
+      "ga": "Tainan",
+      "yue": "臺南",
+      "mk": "Тајнан"
     },
-    "geo": {
-      "latitude": 23.0038497,
-      "longitude": 120.212227,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Tainan Municipality"
+    "comments": null
   },
   "TNQ": {
+    "name": "Tainan",
+    "code": null,
     "unofficial_names": "Tainan",
-    "translations": {
-      "en": "Tainan County"
-    },
     "geo": {
       "latitude": 22.9998999,
       "longitude": 120.2268758,
@@ -784,10 +951,24 @@
       "max_latitude": 23.4137568,
       "max_longitude": 120.6562596
     },
-    "name": "Tainan"
+    "translations": {
+      "en": "Tainan County",
+      "ccp": "𑄑𑄭𑄚𑄚𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "TPE": {
+    "name": "Taipei Special Municipality",
+    "code": null,
     "unofficial_names": "Taipei Special Municipality",
+    "geo": {
+      "latitude": 25.0329694,
+      "longitude": 121.5654177,
+      "min_latitude": 24.7900797,
+      "min_longitude": 121.2826735,
+      "max_latitude": 25.2443731,
+      "max_longitude": 121.7300824
+    },
     "translations": {
       "en": "Taipei",
       "af": "Taipei",
@@ -849,23 +1030,34 @@
       "tr": "Taipei",
       "uk": "Тайбей",
       "ur": "تائی پے",
-      "vi": "Đài Bắc"
+      "vi": "Đài Bắc",
+      "cy": "Taipei",
+      "ceb": "Taipei (ulohang dakbayan)",
+      "sr_Latn": "Tajpej",
+      "zh": "臺北市",
+      "yue_Hans": "台北市",
+      "jv": "Taipei",
+      "sq": "Taipei",
+      "ccp": "𑄑𑄭𑄛𑄬",
+      "ga": "Taipei",
+      "ky": "Тайбэй",
+      "ha": "Taipei",
+      "so": "Taipei",
+      "pa": "ਤਾਈਪਈ",
+      "kk": "Тайбэй",
+      "yue": "臺北市",
+      "my": "ထိုင်ပေမြို့",
+      "yo": "Taipei",
+      "uz": "Taypey",
+      "bs": "Taipei",
+      "mk": "Тајпеј"
     },
-    "geo": {
-      "latitude": 25.0329694,
-      "longitude": 121.5654177,
-      "min_latitude": 24.7900797,
-      "min_longitude": 121.2826735,
-      "max_latitude": 25.2443731,
-      "max_longitude": 121.7300824
-    },
-    "name": "Taipei Special Municipality"
+    "comments": null
   },
   "TPQ": {
+    "name": "Taipei",
+    "code": null,
     "unofficial_names": "Taipei",
-    "translations": {
-      "en": "New Taipei City"
-    },
     "geo": {
       "latitude": 25.0329694,
       "longitude": 121.5654177,
@@ -874,12 +1066,26 @@
       "max_latitude": 25.2443731,
       "max_longitude": 121.7300824
     },
-    "name": "Taipei"
+    "translations": {
+      "en": "New Taipei City",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬 𑄥𑄨𑄑𑄨"
+    },
+    "comments": null
   },
   "TTT": {
+    "name": "Taitung",
+    "code": null,
     "unofficial_names": [
       "Taidong"
     ],
+    "geo": {
+      "latitude": 22.7972447,
+      "longitude": 121.0713702,
+      "min_latitude": 22.0009719,
+      "min_longitude": 120.7390581,
+      "max_latitude": 23.443723,
+      "max_longitude": 121.601229
+    },
     "translations": {
       "en": "Taitung",
       "ar": "مقاطعة تايتونغ",
@@ -916,20 +1122,30 @@
       "th": "ไถตง",
       "tr": "Taitung County",
       "ur": "تائیتونگ کاؤنٹی",
-      "vi": "Đài Đông"
+      "vi": "Đài Đông",
+      "lv": "Taidunas apriņķis",
+      "cy": "Sir Taitung",
+      "ceb": "Taitung",
+      "zh": "臺東縣",
+      "yue_Hans": "台东县",
+      "ccp": "𑄑𑄭𑄑𑄪𑄁",
+      "uk": "Округ Тайдун",
+      "yue": "臺東縣"
     },
-    "geo": {
-      "latitude": 22.7972447,
-      "longitude": 121.0713702,
-      "min_latitude": 22.0009719,
-      "min_longitude": 120.7390581,
-      "max_latitude": 23.443723,
-      "max_longitude": 121.601229
-    },
-    "name": "Taitung"
+    "comments": null
   },
   "TXG": {
+    "name": "Taichung Municipality",
+    "code": null,
     "unofficial_names": "Taichung Municipality",
+    "geo": {
+      "latitude": 24.301983,
+      "longitude": 120.5854674,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Taichung",
       "af": "Taichung",
@@ -970,23 +1186,23 @@
       "tr": "Taichung",
       "uk": "Тайчжун",
       "ur": "ٹائچونگ",
-      "vi": "Đài Trung"
+      "vi": "Đài Trung",
+      "lv": "Taidžuna",
+      "zh": "臺中市",
+      "yue_Hans": "台中市",
+      "ccp": "𑄑𑄭𑄌𑄪𑄁",
+      "ga": "Taichung",
+      "ky": "Тайчжун",
+      "yue": "臺中市",
+      "ca": "Taichung",
+      "mk": "Тајџунг"
     },
-    "geo": {
-      "latitude": 24.301983,
-      "longitude": 120.5854674,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Taichung Municipality"
+    "comments": null
   },
   "TXQ": {
+    "name": "Taichung",
+    "code": null,
     "unofficial_names": "Taichung",
-    "translations": {
-      "en": "Taichung County"
-    },
     "geo": {
       "latitude": 24.1477358,
       "longitude": 120.6736482,
@@ -995,10 +1211,24 @@
       "max_latitude": 24.4416976,
       "max_longitude": 121.4509512
     },
-    "name": "Taichung"
+    "translations": {
+      "en": "Taichung County",
+      "ccp": "𑄑𑄭𑄌𑄪𑄁 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
+    },
+    "comments": null
   },
   "YUN": {
+    "name": "Yunlin",
+    "code": null,
     "unofficial_names": "Yunlin",
+    "geo": {
+      "latitude": 23.7092033,
+      "longitude": 120.4313373,
+      "min_latitude": 23.5043147,
+      "min_longitude": 120.132978,
+      "max_latitude": 23.8421451,
+      "max_longitude": 120.7362057
+    },
     "translations": {
       "en": "Yunlin",
       "ar": "مقاطعة يونلين",
@@ -1035,19 +1265,30 @@
       "th": "หยุนหลิน",
       "tr": "Yunlin County",
       "ur": "یونلن کاؤنٹی",
-      "vi": "Vân Lâm"
+      "vi": "Vân Lâm",
+      "lv": "Junlinas distrikts",
+      "cy": "Sir Yunlin",
+      "ceb": "Yunlin",
+      "zh": "雲林縣",
+      "yue_Hans": "云林县",
+      "ccp": "𑄃𑄨𑄅𑄪𑄚𑄴𑄣𑄨𑄚𑄴",
+      "uk": "Округ Юньлінь",
+      "yue": "雲林縣"
     },
-    "geo": {
-      "latitude": 23.7092033,
-      "longitude": 120.4313373,
-      "min_latitude": 23.5043147,
-      "min_longitude": 120.132978,
-      "max_latitude": 23.8421451,
-      "max_longitude": 120.7362057
-    },
-    "name": "Yunlin"
+    "comments": null
   },
   "KIN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كنمن",
       "az": "Szinmınsyundao",
@@ -1090,23 +1331,80 @@
       "th": "หมู่เกาะจินเหมิน",
       "tr": "Kinmen",
       "ur": "کنمن",
-      "vi": "Kim Môn"
-    }
+      "vi": "Kim Môn",
+      "lv": "Dzjiņmeņa",
+      "ceb": "Kinmen (lalawigan sa Republika sa Tsina)",
+      "zh": "金門縣",
+      "yue_Hans": "金门",
+      "ccp": "𑄇𑄨𑄚𑄴𑄟𑄬𑄚𑄴",
+      "uk": "Цзіньмень",
+      "yue": "金門",
+      "yo": "Kinmen"
+    },
+    "comments": null
   },
   "LIE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Okres Lien-ťiang",
       "en": "Lienchiang",
       "fr": "comté de Lienchiang",
       "id": "Kepulauan Lienchiang",
       "ja": "連江県",
-      "ko": "롄장 현"
-    }
+      "ko": "롄장 현",
+      "cy": "Sir Lienchiang",
+      "ceb": "Lienchiang",
+      "zh": "連江縣",
+      "yue_Hans": "连江",
+      "ccp": "𑄢𑄨𑄠𑄬𑄚𑄴𑄌𑄨𑄠𑄬𑄁",
+      "yue": "連江"
+    },
+    "comments": null
   },
   "NWT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "New Taipei"
-    }
+      "en": "New Taipei",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 23.69781,
+      "longitude": 120.960515,
+      "min_latitude": 20.5170001,
+      "min_longitude": 116.6665,
+      "max_latitude": 26.4545,
+      "max_longitude": 123.5021012
+    },
+    "translations": {
+      "en": "Taiwan"
+    },
+    "comments": null
   }
 }
 

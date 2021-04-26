@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Salta",
+    "code": null,
     "unofficial_names": "Salta",
+    "geo": {
+      "latitude": -24.7829323,
+      "longitude": -65.4121552,
+      "min_latitude": -24.8724718,
+      "min_longitude": -65.4991155,
+      "max_latitude": -24.7101875,
+      "max_longitude": -65.35461169999999
+    },
     "translations": {
       "en": "Salta",
       "ar": "سالتا",
@@ -51,20 +61,26 @@
       "uk": "Сальта",
       "ur": "صوبہ سالتا",
       "vi": "Salta",
-      "zh": "萨尔塔省"
+      "zh": "萨尔塔省",
+      "ceb": "Provincia de Salta",
+      "sr_Latn": "Salta",
+      "ccp": "𑄥𑄣𑄴𑄑",
+      "mk": "Салта"
     },
-    "geo": {
-      "latitude": -24.7829323,
-      "longitude": -65.4121552,
-      "min_latitude": -24.8724718,
-      "min_longitude": -65.4991155,
-      "max_latitude": -24.7101875,
-      "max_longitude": -65.35461169999999
-    },
-    "name": "Salta"
+    "comments": null
   },
   "B": {
+    "name": "Buenos Aires",
+    "code": null,
     "unofficial_names": "Buenos Aires",
+    "geo": {
+      "latitude": -34.6037232,
+      "longitude": -58.3815931,
+      "min_latitude": -34.7051589,
+      "min_longitude": -58.5314522,
+      "max_latitude": -34.5265464,
+      "max_longitude": -58.33518840000001
+    },
     "translations": {
       "en": "Buenos Aires Province",
       "af": "Buenos Aires",
@@ -118,8 +134,22 @@
       "tr": "Buenos Aires eyaleti",
       "uk": "Буенос-Айрес",
       "ur": "صوبہ بیونس آئرس",
-      "vi": "Buenos Aires"
+      "vi": "Buenos Aires",
+      "cy": "Talaith Buenos Aires",
+      "ceb": "Provincia de Buenos Aires",
+      "sr_Latn": "Buenos Ajres",
+      "zh": "布宜诺斯艾利斯省",
+      "yue_Hans": "布宜诺斯艾利斯省",
+      "ccp": "𑄝𑄨𑄅𑄪𑄚𑄧𑄌𑄴 𑄃𑄬𑄠𑄢𑄴𑄥𑄴 𑄛𑄳𑄢𑄧𑄮𑄞𑄨𑄚𑄴𑄥𑄴",
+      "yue": "布宜諾斯艾利斯省",
+      "mk": "Буенос Аирес"
     },
+    "comments": null
+  },
+  "C": {
+    "name": "Capital federal",
+    "code": null,
+    "unofficial_names": "Capital federal",
     "geo": {
       "latitude": -34.6037232,
       "longitude": -58.3815931,
@@ -128,10 +158,6 @@
       "max_latitude": -34.5265464,
       "max_longitude": -58.33518840000001
     },
-    "name": "Buenos Aires"
-  },
-  "C": {
-    "unofficial_names": "Capital federal",
     "translations": {
       "en": "Buenos Aires",
       "af": "Buenos Aires²",
@@ -193,20 +219,44 @@
       "tr": "Buenos Aires",
       "uk": "Буенос-Айрес²",
       "ur": "بیونس آئرس",
-      "vi": "Buenos Aires²"
+      "vi": "Buenos Aires²",
+      "cy": "Buenos Aires",
+      "ceb": "Buenos Aires",
+      "sr_Latn": "Buenos Ajres²",
+      "zh": "布宜諾斯艾利斯",
+      "yue_Hans": "布宜诺斯艾利斯",
+      "jv": "Buenos Aires",
+      "sq": "Buenos Aires",
+      "ccp": "𑄝𑄨𑄅𑄪𑄚𑄧𑄌𑄴 𑄃𑄬𑄠𑄢𑄴𑄥𑄴",
+      "ga": "Buenos Aires",
+      "ps": "بوئنوس آيرز",
+      "ky": "Буэнос-Айрес",
+      "ha": "Buenos Aires",
+      "so": "Buenos Aires",
+      "pa": "ਬੁਏਨਸ ਆਇਰਸ",
+      "kk": "Буэнос-Айрес",
+      "yue": "布宜諾斯艾利斯",
+      "my": "ဗျူနိုအေးရိစ်မြို့",
+      "yo": "Buenos Aires",
+      "zu": "Buenos Aires",
+      "uz": "Buenos Ayres",
+      "bs": "Buenos Aires",
+      "mk": "Буенос Аирес²"
     },
-    "geo": {
-      "latitude": -34.6037232,
-      "longitude": -58.3815931,
-      "min_latitude": -34.7051589,
-      "min_longitude": -58.5314522,
-      "max_latitude": -34.5265464,
-      "max_longitude": -58.33518840000001
-    },
-    "name": "Capital federal"
+    "comments": null
   },
   "D": {
+    "name": "San Luis",
+    "code": null,
     "unofficial_names": "San Luis",
+    "geo": {
+      "latitude": -33.3022202,
+      "longitude": -66.3367976,
+      "min_latitude": -33.3412384,
+      "min_longitude": -66.38436519999999,
+      "max_latitude": -33.2583568,
+      "max_longitude": -66.2345254
+    },
     "translations": {
       "en": "San Luis",
       "ar": "سان لويس",
@@ -254,20 +304,29 @@
       "tr": "San Luis eyaleti",
       "uk": "Сан-Луїс",
       "ur": "صوبہ سان لوئیس",
-      "vi": "San Luis"
+      "vi": "San Luis",
+      "ceb": "Provincia de San Luis",
+      "sr_Latn": "San Luis",
+      "zh": "圣路易省",
+      "jv": "Provinsi San Luis",
+      "ccp": "𑄥𑄚𑄴 𑄣𑄪𑄃𑄨𑄌𑄴",
+      "hy": "Սան Լուիս",
+      "mk": "Сан Луис"
     },
-    "geo": {
-      "latitude": -33.3022202,
-      "longitude": -66.3367976,
-      "min_latitude": -33.3412384,
-      "min_longitude": -66.38436519999999,
-      "max_latitude": -33.2583568,
-      "max_longitude": -66.2345254
-    },
-    "name": "San Luis"
+    "comments": null
   },
   "E": {
+    "name": "Entre Ríos",
+    "code": null,
     "unofficial_names": "Entre Ríos",
+    "geo": {
+      "latitude": -32.5175643,
+      "longitude": -59.1041758,
+      "min_latitude": -34.0391276,
+      "min_longitude": -60.7680611,
+      "max_latitude": -30.1576867,
+      "max_longitude": -57.80086299999999
+    },
     "translations": {
       "en": "Entre Ríos",
       "ar": "إنتري ريوس",
@@ -317,20 +376,30 @@
       "tr": "Entre Ríos eyaleti",
       "uk": "Ентре-Ріос",
       "ur": "صوبہ انترے ریوس",
-      "vi": "Entre Ríos"
+      "vi": "Entre Ríos",
+      "cy": "Entre Ríos",
+      "ceb": "Provincia de Entre Ríos",
+      "sr_Latn": "Entre Rios",
+      "zh": "恩特雷里奥斯省",
+      "ccp": "𑄃𑄬𑄚𑄴𑄑𑄳𑄢𑄨 𑄢𑄨𑄠𑄮𑄌𑄴",
+      "hy": "Էնտրե Ռիոս",
+      "az": "Entre-Rios",
+      "mk": "Ентре Риос"
     },
-    "geo": {
-      "latitude": -32.5175643,
-      "longitude": -59.1041758,
-      "min_latitude": -34.0391276,
-      "min_longitude": -60.7680611,
-      "max_latitude": -30.1576867,
-      "max_longitude": -57.80086299999999
-    },
-    "name": "Entre Ríos"
+    "comments": null
   },
   "F": {
+    "name": "La Rioja",
+    "code": null,
     "unofficial_names": "La Rioja",
+    "geo": {
+      "latitude": -29.4128001,
+      "longitude": -66.8559803,
+      "min_latitude": -29.4568857,
+      "min_longitude": -66.9253657,
+      "max_latitude": -29.3799026,
+      "max_longitude": -66.7890698
+    },
     "translations": {
       "en": "La Rioja",
       "ar": "لا ريوخا",
@@ -380,20 +449,27 @@
       "tr": "La Rioja Eyaleti",
       "uk": "Ла-Ріоха",
       "ur": "لا ریوجا صوبہ، ارجنٹین",
-      "vi": "La Rioja"
+      "vi": "La Rioja",
+      "ceb": "Provincia de La Rioja (lalawigan)",
+      "sr_Latn": "Rioha",
+      "zh": "拉里奥哈省",
+      "ccp": "𑄣 𑄢𑄨𑄃𑄮𑄎",
+      "mk": "Ла Риоха"
     },
-    "geo": {
-      "latitude": -29.4128001,
-      "longitude": -66.8559803,
-      "min_latitude": -29.4568857,
-      "min_longitude": -66.9253657,
-      "max_latitude": -29.3799026,
-      "max_longitude": -66.7890698
-    },
-    "name": "La Rioja"
+    "comments": null
   },
   "G": {
+    "name": "Santiago del Estero",
+    "code": null,
     "unofficial_names": "Santiago del Estero",
+    "geo": {
+      "latitude": -27.78442,
+      "longitude": -64.26728059999999,
+      "min_latitude": -27.8551652,
+      "min_longitude": -64.3114394,
+      "max_latitude": -27.7426275,
+      "max_longitude": -64.2216859
+    },
     "translations": {
       "en": "Santiago del Estero",
       "ar": "محافظة سانتياغو ديل استيرو",
@@ -441,20 +517,28 @@
       "tr": "Santiago del Estero eyaleti",
       "uk": "Сантьяго-дель-Естеро",
       "ur": "صوبہ سانتیاگو دل استرو",
-      "vi": "Santiago del Estero"
+      "vi": "Santiago del Estero",
+      "cy": "Talaith Santiago del Estero",
+      "ceb": "Provincia de Santiago del Estero",
+      "sr_Latn": "Santijago del Estero",
+      "zh": "圣地亚哥－德尔埃斯特罗省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮 𑄓𑄬𑄣𑄴 𑄃𑄬𑄌𑄴𑄑𑄢𑄮",
+      "mk": "Сантјаго дел Естеро"
     },
-    "geo": {
-      "latitude": -27.78442,
-      "longitude": -64.26728059999999,
-      "min_latitude": -27.8551652,
-      "min_longitude": -64.3114394,
-      "max_latitude": -27.7426275,
-      "max_longitude": -64.2216859
-    },
-    "name": "Santiago del Estero"
+    "comments": null
   },
   "H": {
+    "name": "Chaco",
+    "code": null,
     "unofficial_names": "Chaco",
+    "geo": {
+      "latitude": -26.5857656,
+      "longitude": -60.9540073,
+      "min_latitude": -27.9955354,
+      "min_longitude": -63.42735869999999,
+      "max_latitude": -24.087868,
+      "max_longitude": -58.36362680000001
+    },
     "translations": {
       "en": "Chaco",
       "ar": "شاكو",
@@ -507,20 +591,30 @@
       "tr": "Chaco eyaleti",
       "uk": "Чако",
       "ur": "صوبہ چاکو",
-      "vi": "Chaco"
+      "vi": "Chaco",
+      "cy": "Talaith Chaco",
+      "ceb": "Provincia del Chaco",
+      "sr_Latn": "Čako",
+      "zh": "查科省",
+      "yue_Hans": "查哥省",
+      "ccp": "𑄍𑄇𑄮",
+      "yue": "查哥省",
+      "mk": "Чако"
     },
-    "geo": {
-      "latitude": -26.5857656,
-      "longitude": -60.9540073,
-      "min_latitude": -27.9955354,
-      "min_longitude": -63.42735869999999,
-      "max_latitude": -24.087868,
-      "max_longitude": -58.36362680000001
-    },
-    "name": "Chaco"
+    "comments": null
   },
   "J": {
+    "name": "San Juan",
+    "code": null,
     "unofficial_names": "San Juan",
+    "geo": {
+      "latitude": -31.5272732,
+      "longitude": -68.5214081,
+      "min_latitude": -31.6017076,
+      "min_longitude": -68.644147,
+      "max_latitude": -31.4894698,
+      "max_longitude": -68.4631344
+    },
     "translations": {
       "en": "San Juan",
       "ar": "سان خوان",
@@ -568,20 +662,29 @@
       "tr": "San Juan eyaleti",
       "uk": "Сан-Хуан",
       "ur": "صوبہ سان خوآن، ارجنٹائن",
-      "vi": "San Juan"
+      "vi": "San Juan",
+      "cy": "Talaith San Juan",
+      "ceb": "Provincia de San Juan",
+      "sr_Latn": "San Huan",
+      "zh": "圣胡安省",
+      "ccp": "𑄥𑄚𑄴 𑄎𑄪𑄠𑄚𑄴",
+      "hu": "San Juan tartomány",
+      "mk": "Сан Хуан"
     },
-    "geo": {
-      "latitude": -31.5272732,
-      "longitude": -68.5214081,
-      "min_latitude": -31.6017076,
-      "min_longitude": -68.644147,
-      "max_latitude": -31.4894698,
-      "max_longitude": -68.4631344
-    },
-    "name": "San Juan"
+    "comments": null
   },
   "K": {
+    "name": "Catamarca",
+    "code": null,
     "unofficial_names": "Catamarca",
+    "geo": {
+      "latitude": -28.4689906,
+      "longitude": -65.77897159999999,
+      "min_latitude": -28.5101532,
+      "min_longitude": -65.8248732,
+      "max_latitude": -28.4203217,
+      "max_longitude": -65.7289342
+    },
     "translations": {
       "en": "Catamarca",
       "ar": "كاتاماركا",
@@ -631,22 +734,34 @@
       "tr": "Catamarca eyaleti",
       "uk": "Катамарка",
       "ur": "صوبہ کاتامارکا",
-      "vi": "Catamarca"
+      "vi": "Catamarca",
+      "cy": "Talaith Catamarca",
+      "ceb": "Provincia de Catamarca",
+      "sr_Latn": "Katamarka",
+      "zh": "卡塔马卡省",
+      "yue_Hans": "卡塔马卡省",
+      "ccp": "𑄇𑄳𑄠𑄑𑄟𑄢𑄴𑄇",
+      "hy": "Կատամարկա",
+      "yue": "卡塔馬卡省",
+      "bs": "Catamarca",
+      "mk": "Катамарка"
     },
-    "geo": {
-      "latitude": -28.4689906,
-      "longitude": -65.77897159999999,
-      "min_latitude": -28.5101532,
-      "min_longitude": -65.8248732,
-      "max_latitude": -28.4203217,
-      "max_longitude": -65.7289342
-    },
-    "name": "Catamarca"
+    "comments": null
   },
   "L": {
+    "name": "La Pampa",
+    "code": null,
     "unofficial_names": [
       "Pampa"
     ],
+    "geo": {
+      "latitude": -37.8956594,
+      "longitude": -65.0957792,
+      "min_latitude": -39.3161456,
+      "min_longitude": -68.29545,
+      "max_latitude": -34.9923158,
+      "max_longitude": -63.38682430000001
+    },
     "translations": {
       "en": "La Pampa",
       "ar": "لا بامبا",
@@ -694,20 +809,28 @@
       "tr": "La Pampa eyaleti",
       "uk": "Ла-Пампа",
       "ur": "لا پامپا صوبہ",
-      "vi": "La Pampa"
+      "vi": "La Pampa",
+      "cy": "La Pampa",
+      "ceb": "Provincia de La Pampa",
+      "sr_Latn": "Pampa",
+      "zh": "拉潘帕省",
+      "ccp": "𑄣 𑄛𑄟𑄴𑄛",
+      "mk": "Ла Пампа"
     },
-    "geo": {
-      "latitude": -37.8956594,
-      "longitude": -65.0957792,
-      "min_latitude": -39.3161456,
-      "min_longitude": -68.29545,
-      "max_latitude": -34.9923158,
-      "max_longitude": -63.38682430000001
-    },
-    "name": "La Pampa"
+    "comments": null
   },
   "M": {
+    "name": "Mendoza",
+    "code": null,
     "unofficial_names": "Mendoza",
+    "geo": {
+      "latitude": -32.890183,
+      "longitude": -68.8440498,
+      "min_latitude": -33.0437567,
+      "min_longitude": -68.900637,
+      "max_latitude": -32.8091398,
+      "max_longitude": -68.7269211
+    },
     "translations": {
       "en": "Mendoza",
       "ar": "مندوسا",
@@ -758,20 +881,31 @@
       "tr": "Mendoza eyaleti",
       "uk": "Мендоса",
       "ur": "صوبہ مندوسا",
-      "vi": "Mendoza"
+      "vi": "Mendoza",
+      "cy": "Talaith Mendoza",
+      "ceb": "Provincia de Mendoza",
+      "sr_Latn": "Mendoza",
+      "zh": "门多萨省",
+      "yue_Hans": "曼度莎省",
+      "jv": "Provinsi Mendoza",
+      "ccp": "𑄟𑄬𑄚𑄴𑄘𑄮𑄎",
+      "yue": "曼度莎省",
+      "mk": "Мендоза"
     },
-    "geo": {
-      "latitude": -32.890183,
-      "longitude": -68.8440498,
-      "min_latitude": -33.0437567,
-      "min_longitude": -68.900637,
-      "max_latitude": -32.8091398,
-      "max_longitude": -68.7269211
-    },
-    "name": "Mendoza"
+    "comments": null
   },
   "N": {
+    "name": "Misiones",
+    "code": null,
     "unofficial_names": "Misiones",
+    "geo": {
+      "latitude": -26.9377146,
+      "longitude": -54.4342138,
+      "min_latitude": -28.1633594,
+      "min_longitude": -56.0595043,
+      "max_latitude": -25.4954899,
+      "max_longitude": -53.6385579
+    },
     "translations": {
       "en": "Misiones",
       "ar": "ميسيونس",
@@ -819,20 +953,30 @@
       "tr": "Misiones eyaleti",
       "uk": "Місьйонес",
       "ur": "صوبہ میسیونس",
-      "vi": "Misiones"
+      "vi": "Misiones",
+      "cy": "Talaith Misiones",
+      "ceb": "Provincia de Misiones",
+      "sr_Latn": "Misiones",
+      "zh": "米西奧內斯省",
+      "ccp": "𑄟𑄭𑄥𑄨𑄠𑄮𑄚𑄨𑄌𑄴",
+      "hy": "Միսիոնես",
+      "hu": "Misiones tartomány",
+      "mk": "Мисионес"
     },
-    "geo": {
-      "latitude": -26.9377146,
-      "longitude": -54.4342138,
-      "min_latitude": -28.1633594,
-      "min_longitude": -56.0595043,
-      "max_latitude": -25.4954899,
-      "max_longitude": -53.6385579
-    },
-    "name": "Misiones"
+    "comments": null
   },
   "P": {
+    "name": "Formosa",
+    "code": null,
     "unofficial_names": "Formosa",
+    "geo": {
+      "latitude": -26.185201,
+      "longitude": -58.1753697,
+      "min_latitude": -26.2202789,
+      "min_longitude": -58.24794379999999,
+      "max_latitude": -26.124033,
+      "max_longitude": -58.1419959
+    },
     "translations": {
       "en": "Formosa",
       "ar": "فورموسا",
@@ -881,20 +1025,28 @@
       "tr": "Formosa eyaleti",
       "uk": "Формоса",
       "ur": "صوبہ فورموسا",
-      "vi": "Formosa"
+      "vi": "Formosa",
+      "cy": "Talaith Formosa",
+      "ceb": "Provincia de Formosa",
+      "sr_Latn": "Formosa",
+      "zh": "福爾摩沙省",
+      "ccp": "𑄜𑄧𑄢𑄴𑄟𑄧𑄥",
+      "mk": "Формоза"
     },
-    "geo": {
-      "latitude": -26.185201,
-      "longitude": -58.1753697,
-      "min_latitude": -26.2202789,
-      "min_longitude": -58.24794379999999,
-      "max_latitude": -26.124033,
-      "max_longitude": -58.1419959
-    },
-    "name": "Formosa"
+    "comments": null
   },
   "Q": {
+    "name": "Neuquén",
+    "code": null,
     "unofficial_names": "Neuquén",
+    "geo": {
+      "latitude": -38.9524444,
+      "longitude": -68.0641389,
+      "min_latitude": -38.986537,
+      "min_longitude": -68.1929919,
+      "max_latitude": -38.893459,
+      "max_longitude": -68.0147382
+    },
     "translations": {
       "en": "Neuquén",
       "ar": "نيوكوين",
@@ -945,20 +1097,30 @@
       "tr": "Neuquén eyaleti",
       "uk": "Неукен",
       "ur": "صوبہ نیوکوین",
-      "vi": "Neuquén"
+      "vi": "Neuquén",
+      "cy": "Talaith Neuquén",
+      "ceb": "Provincia del Neuquén",
+      "sr_Latn": "Neuken",
+      "zh": "内乌肯省",
+      "yue_Hans": "纽昆省",
+      "ccp": "𑄚𑄨𑄅𑄪𑄇𑄪𑄠𑄬𑄚𑄴",
+      "yue": "紐昆省",
+      "mk": "Неуквен"
     },
-    "geo": {
-      "latitude": -38.9524444,
-      "longitude": -68.0641389,
-      "min_latitude": -38.986537,
-      "min_longitude": -68.1929919,
-      "max_latitude": -38.893459,
-      "max_longitude": -68.0147382
-    },
-    "name": "Neuquén"
+    "comments": null
   },
   "R": {
+    "name": "Río Negro",
+    "code": null,
     "unofficial_names": "Río Negro",
+    "geo": {
+      "latitude": -40.7344343,
+      "longitude": -66.6176455,
+      "min_latitude": -42.0024984,
+      "min_longitude": -71.902908,
+      "max_latitude": -37.5729141,
+      "max_longitude": -62.79108240000001
+    },
     "translations": {
       "en": "Río Negro",
       "ar": "ريو نيغرو",
@@ -1007,20 +1169,29 @@
       "tr": "Río Negro eyaleti",
       "uk": "Ріо-Неґро",
       "ur": "صوبہ ریو نیگرو",
-      "vi": "Río Negro"
+      "vi": "Río Negro",
+      "cy": "Río Negro",
+      "ceb": "Provincia de Río Negro",
+      "sr_Latn": "Rio Negro",
+      "zh": "内格罗河省",
+      "ccp": "𑄢𑄨𑄃𑄮 𑄚𑄬𑄉𑄳𑄢𑄧𑄮",
+      "hy": "Ռիո Նեգրո պրովինցիա",
+      "mk": "Рио Негро"
     },
-    "geo": {
-      "latitude": -40.7344343,
-      "longitude": -66.6176455,
-      "min_latitude": -42.0024984,
-      "min_longitude": -71.902908,
-      "max_latitude": -37.5729141,
-      "max_longitude": -62.79108240000001
-    },
-    "name": "Río Negro"
+    "comments": null
   },
   "S": {
+    "name": "Santa Fe",
+    "code": null,
     "unofficial_names": "Santa Fe",
+    "geo": {
+      "latitude": -31.6323891,
+      "longitude": -60.6994591,
+      "min_latitude": -31.6730042,
+      "min_longitude": -60.73878,
+      "max_latitude": -31.5685461,
+      "max_longitude": -60.66380530000001
+    },
     "translations": {
       "en": "Santa Fe",
       "ar": "سانتا في",
@@ -1068,20 +1239,30 @@
       "tr": "Santa Fe eyaleti",
       "uk": "Санта-Фе",
       "ur": "صوبہ سانتا فے",
-      "vi": "Santa Fe"
+      "vi": "Santa Fe",
+      "cy": "Talaith Santa Fe",
+      "ceb": "Provincia de Santa Fe",
+      "sr_Latn": "Santa Fe",
+      "zh": "聖大非省",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄜𑄬",
+      "hy": "Սանտա Ֆե նահանգ",
+      "bs": "Santa Fe",
+      "mk": "Санта Фе"
     },
-    "geo": {
-      "latitude": -31.6323891,
-      "longitude": -60.6994591,
-      "min_latitude": -31.6730042,
-      "min_longitude": -60.73878,
-      "max_latitude": -31.5685461,
-      "max_longitude": -60.66380530000001
-    },
-    "name": "Santa Fe"
+    "comments": null
   },
   "T": {
+    "name": "Tucumán",
+    "code": null,
     "unofficial_names": "Tucumán",
+    "geo": {
+      "latitude": -26.8082848,
+      "longitude": -65.2175903,
+      "min_latitude": -26.8935681,
+      "min_longitude": -65.3363281,
+      "max_latitude": -26.7636021,
+      "max_longitude": -65.16676939999999
+    },
     "translations": {
       "en": "Tucumán",
       "ar": "توكومان",
@@ -1130,20 +1311,27 @@
       "tr": "Tucumán eyaleti",
       "uk": "Тукуман",
       "ur": "صوبہ توکومان",
-      "vi": "Tucumán"
+      "vi": "Tucumán",
+      "ceb": "Provincia de Tucumán",
+      "sr_Latn": "Tukuman",
+      "zh": "图库曼省",
+      "ccp": "𑄑𑄇𑄨𑄅𑄪𑄟𑄳𑄠𑄚𑄴",
+      "mk": "Тукуман"
     },
-    "geo": {
-      "latitude": -26.8082848,
-      "longitude": -65.2175903,
-      "min_latitude": -26.8935681,
-      "min_longitude": -65.3363281,
-      "max_latitude": -26.7636021,
-      "max_longitude": -65.16676939999999
-    },
-    "name": "Tucumán"
+    "comments": null
   },
   "U": {
+    "name": "Chubut",
+    "code": null,
     "unofficial_names": "Chubut",
+    "geo": {
+      "latitude": -43.6846192,
+      "longitude": -69.2745537,
+      "min_latitude": -46.0022302,
+      "min_longitude": -72.1973387,
+      "max_latitude": -32.9517763,
+      "max_longitude": -58.0880073
+    },
     "translations": {
       "en": "Chubut",
       "af": "Chubut",
@@ -1196,20 +1384,30 @@
       "tr": "Chubut eyaleti",
       "uk": "Чубут",
       "ur": "صوبہ چوبوت",
-      "vi": "Chubut"
+      "vi": "Chubut",
+      "cy": "Talaith Chubut",
+      "ceb": "Provincia del Chubut",
+      "sr_Latn": "Čubut",
+      "zh": "丘布特省",
+      "yue_Hans": "朱拔省",
+      "ccp": "𑄌𑄪𑄝𑄖𑄴",
+      "yue": "朱拔省",
+      "mk": "Чубут"
     },
-    "geo": {
-      "latitude": -43.6846192,
-      "longitude": -69.2745537,
-      "min_latitude": -46.0022302,
-      "min_longitude": -72.1973387,
-      "max_latitude": -32.9517763,
-      "max_longitude": -58.0880073
-    },
-    "name": "Chubut"
+    "comments": null
   },
   "V": {
+    "name": "Tierra del Fuego",
+    "code": null,
     "unofficial_names": "Tierra del Fuego",
+    "geo": {
+      "latitude": -54.3083548,
+      "longitude": -67.7451565,
+      "min_latitude": -55.05719070000001,
+      "min_longitude": -68.611864,
+      "max_latitude": -52.658766,
+      "max_longitude": -64.11057989999999
+    },
     "translations": {
       "en": "Tierra del Fuego",
       "ar": "محافظة تييرا ديل فويغو",
@@ -1260,20 +1458,28 @@
       "tr": "Tierra del Fuego",
       "uk": "Вогняна Земля, Антарктида та острови Південної Атлантики",
       "ur": "صوبہ تیئرا دل فوئگو، ارجنٹائن",
-      "vi": "Tierra del Fuego"
+      "vi": "Tierra del Fuego",
+      "cy": "Tierra del Fuego, Antarctica ac Ynysoedd De’r Iwerydd",
+      "ceb": "Provincia de Tierra del Fuego (lalawigan)",
+      "sr_Latn": "Ognjena Zemlja",
+      "zh": "火地岛省",
+      "ccp": "𑄑𑄭𑄢 𑄓𑄬𑄣𑄴 𑄜𑄨𑄅𑄪𑄉𑄮",
+      "mk": "Огнена Земја, Антарктика и Јужни Атлантски Острови"
     },
-    "geo": {
-      "latitude": -54.3083548,
-      "longitude": -67.7451565,
-      "min_latitude": -55.05719070000001,
-      "min_longitude": -68.611864,
-      "max_latitude": -52.658766,
-      "max_longitude": -64.11057989999999
-    },
-    "name": "Tierra del Fuego"
+    "comments": null
   },
   "W": {
+    "name": "Corrientes",
+    "code": null,
     "unofficial_names": "Corrientes",
+    "geo": {
+      "latitude": -27.4712257,
+      "longitude": -58.83958440000001,
+      "min_latitude": -27.5327967,
+      "min_longitude": -58.8572739,
+      "max_latitude": -27.4386008,
+      "max_longitude": -58.74749370000001
+    },
     "translations": {
       "en": "Corrientes",
       "ar": "كوريينتس",
@@ -1322,20 +1528,28 @@
       "tr": "Corrientes eyaleti",
       "uk": "Коррієнтес",
       "ur": "صوبہ کورینتس",
-      "vi": "Corrientes"
+      "vi": "Corrientes",
+      "cy": "Talaith Corrientes",
+      "ceb": "Provincia de Corrientes",
+      "sr_Latn": "Korijentes",
+      "zh": "科连特斯省",
+      "ccp": "𑄇𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄌𑄴",
+      "mk": "Кориентес"
     },
-    "geo": {
-      "latitude": -27.4712257,
-      "longitude": -58.83958440000001,
-      "min_latitude": -27.5327967,
-      "min_longitude": -58.8572739,
-      "max_latitude": -27.4386008,
-      "max_longitude": -58.74749370000001
-    },
-    "name": "Corrientes"
+    "comments": null
   },
   "X": {
+    "name": "Córdoba",
+    "code": null,
     "unofficial_names": "Córdoba",
+    "geo": {
+      "latitude": -31.3989296,
+      "longitude": -64.1821289,
+      "min_latitude": -31.4912166,
+      "min_longitude": -64.31158649999999,
+      "max_latitude": -31.3062938,
+      "max_longitude": -64.0621309
+    },
     "translations": {
       "en": "Córdoba",
       "ar": "كوردوبا",
@@ -1385,20 +1599,31 @@
       "tr": "Córdoba eyaleti",
       "uk": "Кордова",
       "ur": "صوبہ کوردوبا، ارجنٹائن",
-      "vi": "Córdoba"
+      "vi": "Córdoba",
+      "cy": "Talaith Córdoba",
+      "ceb": "Provincia de Córdoba",
+      "sr_Latn": "Kordoba",
+      "zh": "科尔多瓦省",
+      "yue_Hans": "哥多华省",
+      "ccp": "𑄇𑄧𑄢𑄴𑄓𑄮𑄝",
+      "hy": "Կորդովա",
+      "yue": "哥多華省",
+      "mk": "Кордоба"
     },
-    "geo": {
-      "latitude": -31.3989296,
-      "longitude": -64.1821289,
-      "min_latitude": -31.4912166,
-      "min_longitude": -64.31158649999999,
-      "max_latitude": -31.3062938,
-      "max_longitude": -64.0621309
-    },
-    "name": "Córdoba"
+    "comments": null
   },
   "Y": {
+    "name": "Jujuy",
+    "code": null,
     "unofficial_names": "Jujuy",
+    "geo": {
+      "latitude": -24.1857864,
+      "longitude": -65.2994767,
+      "min_latitude": -24.2557641,
+      "min_longitude": -65.37630039999999,
+      "max_latitude": -24.1502348,
+      "max_longitude": -65.2336132
+    },
     "translations": {
       "en": "Jujuy",
       "ar": "خوخوي",
@@ -1449,20 +1674,27 @@
       "tr": "Jujuy eyaleti",
       "uk": "Жужуй",
       "ur": "صوبہ خوخوئی",
-      "vi": "Jujuy"
+      "vi": "Jujuy",
+      "ceb": "Provincia de Jujuy",
+      "sr_Latn": "Huhuj",
+      "zh": "胡胡伊省",
+      "ccp": "𑄎𑄪𑄎𑄧𑄠𑄴",
+      "mk": "Хухуј"
     },
-    "geo": {
-      "latitude": -24.1857864,
-      "longitude": -65.2994767,
-      "min_latitude": -24.2557641,
-      "min_longitude": -65.37630039999999,
-      "max_latitude": -24.1502348,
-      "max_longitude": -65.2336132
-    },
-    "name": "Jujuy"
+    "comments": null
   },
   "Z": {
+    "name": "Santa Cruz",
+    "code": null,
     "unofficial_names": "Santa Cruz",
+    "geo": {
+      "latitude": -48.7736825,
+      "longitude": -69.1917167,
+      "min_latitude": -52.3975018,
+      "min_longitude": -73.5948315,
+      "max_latitude": -45.9915403,
+      "max_longitude": -65.7171603
+    },
     "translations": {
       "en": "Santa Cruz",
       "ar": "سانتا كروز",
@@ -1514,17 +1746,17 @@
       "tr": "Santa Cruz",
       "uk": "Санта-Крус",
       "ur": "صوبہ سانتا کروز، ارجنٹائن",
-      "vi": "Santa Cruz"
+      "vi": "Santa Cruz",
+      "cy": "Talaith Santa Cruz",
+      "ceb": "Provincia de Santa Cruz",
+      "sr_Latn": "Santa Kruz",
+      "zh": "圣克鲁斯省",
+      "yue_Hans": "圣古丝省",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄢𑄪𑄌𑄴",
+      "yue": "聖古絲省",
+      "mk": "Санта Круз"
     },
-    "geo": {
-      "latitude": -48.7736825,
-      "longitude": -69.1917167,
-      "min_latitude": -52.3975018,
-      "min_longitude": -73.5948315,
-      "max_latitude": -45.9915403,
-      "max_longitude": -65.7171603
-    },
-    "name": "Santa Cruz"
+    "comments": null
   }
 }
 

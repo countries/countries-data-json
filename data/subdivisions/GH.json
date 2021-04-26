@@ -1,6 +1,16 @@
 {
   "AA": {
+    "name": "Greater Accra",
+    "code": null,
     "unofficial_names": "Greater Accra",
+    "geo": {
+      "latitude": 5.8142836,
+      "longitude": 0.0746767,
+      "min_latitude": 5.4948349,
+      "min_longitude": -0.5112099999999999,
+      "max_latitude": 5.9961559,
+      "max_longitude": 0.72458
+    },
     "translations": {
       "en": "Greater Accra",
       "ar": "إقليم أكرا الكبرى",
@@ -40,22 +50,29 @@
       "tr": "Büyük Accra Bölgesi",
       "ur": "عظیم اکرا علاقہ",
       "vi": "Khu vực Greater Accra",
-      "zh": "大阿克拉地區"
+      "zh": "大阿克拉地區",
+      "lv": "Lielās Akras reģions",
+      "ceb": "Greater Accra Region",
+      "ccp": "𑄉𑄳𑄢𑄑𑄢𑄴 𑄃𑄇𑄳𑄢𑄴",
+      "ha": "Yankin Greater Accra",
+      "uk": "Велика Аккра"
     },
-    "geo": {
-      "latitude": 5.8142836,
-      "longitude": 0.0746767,
-      "min_latitude": 5.4948349,
-      "min_longitude": -0.5112099999999999,
-      "max_latitude": 5.9961559,
-      "max_longitude": 0.72458
-    },
-    "name": "Greater Accra"
+    "comments": null
   },
   "AH": {
+    "name": "Ashanti",
+    "code": null,
     "unofficial_names": [
       "Asante"
     ],
+    "geo": {
+      "latitude": 6.7470436,
+      "longitude": -1.5208624,
+      "min_latitude": 5.853753999999999,
+      "min_longitude": -2.451715,
+      "max_latitude": 7.621659999999999,
+      "max_longitude": -0.222413
+    },
     "translations": {
       "en": "Ashanti",
       "ar": "منطقة أشانتي",
@@ -96,20 +113,28 @@
       "tr": "Ashanti Bölgesi",
       "uk": "Ашанті",
       "ur": "اشانتی ریجن",
-      "vi": "Khu vực Ashanti"
+      "vi": "Khu vực Ashanti",
+      "lv": "Ašanti reģions",
+      "ceb": "Ashanti Region",
+      "zh": "阿散蒂地區",
+      "ccp": "𑄃𑄧𑄥𑄚𑄴𑄑𑄨",
+      "ha": "Yankin Ashanti",
+      "yo": "Agbègbè Ashanti"
     },
-    "geo": {
-      "latitude": 6.7470436,
-      "longitude": -1.5208624,
-      "min_latitude": 5.853753999999999,
-      "min_longitude": -2.451715,
-      "max_latitude": 7.621659999999999,
-      "max_longitude": -0.222413
-    },
-    "name": "Ashanti"
+    "comments": null
   },
   "BA": {
+    "name": "Brong-Ahafo",
+    "code": null,
     "unofficial_names": "Brong-Ahafo",
+    "geo": {
+      "latitude": 7.9559247,
+      "longitude": -1.6760691,
+      "min_latitude": 6.386344999999999,
+      "min_longitude": -3.091438,
+      "max_latitude": 8.778668099999999,
+      "max_longitude": 0.1875014
+    },
     "translations": {
       "en": "Brong-Ahafo",
       "ar": "إقليم برونغ - أهافو",
@@ -147,20 +172,27 @@
       "tr": "Brong-Ahafo Bölgesi",
       "uk": "Бронг-Ахафо",
       "ur": "برونج-احافو ریجن",
-      "vi": "Khu vực Brong-Ahafo"
+      "vi": "Khu vực Brong-Ahafo",
+      "lv": "Brongahafo reģions",
+      "ceb": "Brong-Ahafo Region",
+      "zh": "布朗阿哈福地區",
+      "ccp": "𑄝𑄳𑄢𑄧𑄁-𑄃𑄦𑄜𑄮",
+      "ha": "Yankin Brong-Ahafo"
     },
-    "geo": {
-      "latitude": 7.9559247,
-      "longitude": -1.6760691,
-      "min_latitude": 6.386344999999999,
-      "min_longitude": -3.091438,
-      "max_latitude": 8.778668099999999,
-      "max_longitude": 0.1875014
-    },
-    "name": "Brong-Ahafo"
+    "comments": null
   },
   "CP": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": "Central",
+    "geo": {
+      "latitude": 5.5607846,
+      "longitude": -1.0586135,
+      "min_latitude": 5.0336656,
+      "min_longitude": -2.176695,
+      "max_latitude": 6.3042729,
+      "max_longitude": -0.369136
+    },
     "translations": {
       "en": "Central",
       "ar": "الإقليم الأوسط",
@@ -199,20 +231,28 @@
       "tr": "Merkez Bölgesi",
       "uk": "Центральна область",
       "ur": "وسطی علاقہ",
-      "vi": "Khu vực Miền Trung"
+      "vi": "Khu vực Miền Trung",
+      "lv": "Centrālais reģions",
+      "ceb": "Central Region",
+      "zh": "中部地區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "hy": "Կենտրոնական շրջան",
+      "ha": "Yankin Tsakiya (Ghana)"
     },
-    "geo": {
-      "latitude": 5.5607846,
-      "longitude": -1.0586135,
-      "min_latitude": 5.0336656,
-      "min_longitude": -2.176695,
-      "max_latitude": 6.3042729,
-      "max_longitude": -0.369136
-    },
-    "name": "Central"
+    "comments": null
   },
   "EP": {
+    "name": "Eastern",
+    "code": null,
     "unofficial_names": "Eastern",
+    "geo": {
+      "latitude": 6.237403599999999,
+      "longitude": -0.4502368,
+      "min_latitude": 5.729348,
+      "min_longitude": -1.2483401,
+      "max_latitude": 7.186541000000001,
+      "max_longitude": 0.322644
+    },
     "translations": {
       "en": "Eastern",
       "ar": "الإقليم الشرقي",
@@ -251,20 +291,27 @@
       "tr": "Doğu Bölgesi",
       "uk": "Східна область (Гана)",
       "ur": "مشرقی علاقہ",
-      "vi": "Khu vực Eastern"
+      "vi": "Khu vực Eastern",
+      "lv": "Austrumu reģions",
+      "ceb": "Eastern Region",
+      "zh": "東部地區",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ha": "Yankin Gabashi (Ghana)"
     },
-    "geo": {
-      "latitude": 6.237403599999999,
-      "longitude": -0.4502368,
-      "min_latitude": 5.729348,
-      "min_longitude": -1.2483401,
-      "max_latitude": 7.186541000000001,
-      "max_longitude": 0.322644
-    },
-    "name": "Eastern"
+    "comments": null
   },
   "NP": {
+    "name": "Northern",
+    "code": null,
     "unofficial_names": "Northern",
+    "geo": {
+      "latitude": 9.543926899999999,
+      "longitude": -0.9056623,
+      "min_latitude": 7.954847000000001,
+      "min_longitude": -2.779666,
+      "max_latitude": 10.714593,
+      "max_longitude": 0.56338
+    },
     "translations": {
       "en": "Northern",
       "ar": "الإقليم الشمالي",
@@ -303,20 +350,27 @@
       "tr": "Kuzey Bölgesi",
       "uk": "Північна область",
       "ur": "شمالی علاقہ",
-      "vi": "Khu vực Miền Nam"
+      "vi": "Khu vực Miền Nam",
+      "lv": "Ziemeļu reģions",
+      "ceb": "Northern Region",
+      "zh": "北部地區",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ha": "Yankin Arewaci (Ghana)"
     },
-    "geo": {
-      "latitude": 9.543926899999999,
-      "longitude": -0.9056623,
-      "min_latitude": 7.954847000000001,
-      "min_longitude": -2.779666,
-      "max_latitude": 10.714593,
-      "max_longitude": 0.56338
-    },
-    "name": "Northern"
+    "comments": null
   },
   "TV": {
+    "name": "Volta",
+    "code": null,
     "unofficial_names": "Volta",
+    "geo": {
+      "latitude": 6.5781373,
+      "longitude": 0.4502368,
+      "min_latitude": 5.7696366,
+      "min_longitude": -0.3436661,
+      "max_latitude": 8.754108,
+      "max_longitude": 1.1917686
+    },
     "translations": {
       "en": "Volta",
       "ar": "إقليم فولتا",
@@ -356,20 +410,27 @@
       "tr": "Volta Bölgesi",
       "uk": "Вольта",
       "ur": "وولٹا علاقہ",
-      "vi": "Khu vực Volta"
+      "vi": "Khu vực Volta",
+      "lv": "Voltas reģions",
+      "ceb": "Volta Region",
+      "zh": "沃爾特地區",
+      "ccp": "𑄞𑄮𑄣𑄴𑄑",
+      "ha": "Yankin Volta"
     },
-    "geo": {
-      "latitude": 6.5781373,
-      "longitude": 0.4502368,
-      "min_latitude": 5.7696366,
-      "min_longitude": -0.3436661,
-      "max_latitude": 8.754108,
-      "max_longitude": 1.1917686
-    },
-    "name": "Volta"
+    "comments": null
   },
   "UE": {
+    "name": "Upper East",
+    "code": null,
     "unofficial_names": "Upper East",
+    "geo": {
+      "latitude": 10.7082499,
+      "longitude": -0.9820667999999999,
+      "min_latitude": 10.270471,
+      "min_longitude": -1.575864,
+      "max_latitude": 11.173301,
+      "max_longitude": 0.032068
+    },
     "translations": {
       "en": "Upper East",
       "ar": "مقاطعة الشرق األوسط",
@@ -407,20 +468,28 @@
       "th": "อัปเปอ อีส รีเจี้ยน",
       "tr": "Yukarı Doğu Bölgesi",
       "ur": "اپر ایسٹ ریجن",
-      "vi": "Vùng Thượng Đông"
+      "vi": "Vùng Thượng Đông",
+      "lv": "Austrumaugšējais reģions",
+      "ceb": "Upper East Region",
+      "zh": "東北地區",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄛𑄪𑄇𑄴",
+      "ha": "Yankin Upper East",
+      "uk": "Верхній Східний Регіон"
     },
-    "geo": {
-      "latitude": 10.7082499,
-      "longitude": -0.9820667999999999,
-      "min_latitude": 10.270471,
-      "min_longitude": -1.575864,
-      "max_latitude": 11.173301,
-      "max_longitude": 0.032068
-    },
-    "name": "Upper East"
+    "comments": null
   },
   "UW": {
+    "name": "Upper West",
+    "code": null,
     "unofficial_names": "Upper West",
+    "geo": {
+      "latitude": 10.2529757,
+      "longitude": -2.1450245,
+      "min_latitude": 9.6529639,
+      "min_longitude": -2.9455968,
+      "max_latitude": 11.0189701,
+      "max_longitude": -1.3693439
+    },
     "translations": {
       "en": "Upper West",
       "ar": "الإقليم الغربي الأعلى",
@@ -458,20 +527,28 @@
       "th": "อัพเปอร์ เวสต์",
       "tr": "Yukarı Batı Bölgesi",
       "ur": "اپر ویسٹ ریجن",
-      "vi": "Khu vực Thượng Tây"
+      "vi": "Khu vực Thượng Tây",
+      "lv": "Rietumaugšējais reģions",
+      "ceb": "Upper West Region",
+      "zh": "西北地區",
+      "ccp": "Upper West",
+      "ha": "Yankin Upper West",
+      "uk": "Верхній Західний регіон"
     },
-    "geo": {
-      "latitude": 10.2529757,
-      "longitude": -2.1450245,
-      "min_latitude": 9.6529639,
-      "min_longitude": -2.9455968,
-      "max_latitude": 11.0189701,
-      "max_longitude": -1.3693439
-    },
-    "name": "Upper West"
+    "comments": null
   },
   "WP": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": "Western",
+    "geo": {
+      "latitude": 5.3901978,
+      "longitude": -2.1450245,
+      "min_latitude": 4.738815,
+      "min_longitude": -3.25542,
+      "max_latitude": 7.052660899999999,
+      "max_longitude": -1.417818
+    },
     "translations": {
       "en": "Western",
       "ar": "الإقليم الغربي",
@@ -510,17 +587,126 @@
       "tr": "Batı Bölgesi",
       "uk": "Західний Регіон",
       "ur": "مغربی علاقہ",
-      "vi": "Khu vực Phía Tây"
+      "vi": "Khu vực Phía Tây",
+      "lv": "Rietumu reģions",
+      "ceb": "Western Region",
+      "zh": "西部地區",
+      "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
+      "ha": "Yankin Yammaci, Ghana"
     },
+    "comments": null
+  },
+  "AF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 5.3901978,
-      "longitude": -2.1450245,
-      "min_latitude": 4.738815,
-      "min_longitude": -3.25542,
-      "max_latitude": 7.052660899999999,
-      "max_longitude": -1.417818
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
     },
-    "name": "Western"
+    "translations": {
+      "en": "Ahafo"
+    },
+    "comments": null
+  },
+  "BE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
+    },
+    "translations": {
+      "en": "Bono East"
+    },
+    "comments": null
+  },
+  "BO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
+    },
+    "translations": {
+      "en": "Bono"
+    },
+    "comments": null
+  },
+  "NE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
+    },
+    "translations": {
+      "en": "North East"
+    },
+    "comments": null
+  },
+  "OT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Oti"
+    },
+    "comments": null
+  },
+  "SV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
+    },
+    "translations": {
+      "en": "Savannah"
+    },
+    "comments": null
+  },
+  "WN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 7.946527,
+      "longitude": -1.023194,
+      "min_latitude": 4.6339001,
+      "min_longitude": -3.2607859,
+      "max_latitude": 11.1750308,
+      "max_longitude": 1.199972
+    },
+    "translations": {
+      "en": "Western North"
+    },
+    "comments": null
   }
 }
 

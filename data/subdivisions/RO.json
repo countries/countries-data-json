@@ -1,6 +1,16 @@
 {
   "AB": {
+    "name": "Alba",
+    "code": null,
     "unofficial_names": "Alba",
+    "geo": {
+      "latitude": 46.1558924,
+      "longitude": 23.5556121,
+      "min_latitude": 45.467659,
+      "min_longitude": 22.6724509,
+      "max_latitude": 46.569062,
+      "max_longitude": 24.2515318
+    },
     "translations": {
       "en": "Alba",
       "ar": "إقليم ألبا",
@@ -50,22 +60,32 @@
       "uk": "Алба",
       "ur": "البا کاؤنٹی",
       "vi": "Alba",
-      "zh": "阿爾巴縣"
+      "zh": "阿爾巴縣",
+      "lv": "Albas žudecs",
+      "ceb": "Județul Alba",
+      "sr_Latn": "Alba",
+      "sq": "Qarku Alba",
+      "ccp": "𑄃𑄣𑄴𑄝",
+      "be": "жудзец Алба",
+      "bs": "Alba (okrug)",
+      "mk": "Алба"
     },
-    "geo": {
-      "latitude": 46.1558924,
-      "longitude": 23.5556121,
-      "min_latitude": 45.467659,
-      "min_longitude": 22.6724509,
-      "max_latitude": 46.569062,
-      "max_longitude": 24.2515318
-    },
-    "name": "Alba"
+    "comments": null
   },
   "AG": {
+    "name": "Arges",
+    "code": null,
     "unofficial_names": [
       "Arges"
     ],
+    "geo": {
+      "latitude": 45.0722527,
+      "longitude": 24.8142726,
+      "min_latitude": 44.366297,
+      "min_longitude": 24.427089,
+      "max_latitude": 45.610782,
+      "max_longitude": 25.325839
+    },
     "translations": {
       "en": "Argeș",
       "ar": "مقاطعة أرغيس",
@@ -114,20 +134,29 @@
       "tr": "Argeș ili",
       "uk": "Арджеш",
       "ur": "آرجش کاؤنٹی",
-      "vi": "Argeş"
+      "vi": "Argeş",
+      "lv": "Ardžešas žudecs",
+      "ceb": "Județul Argeș",
+      "sr_Latn": "Arđeš",
+      "zh": "阿爾傑什縣",
+      "sq": "Qarku Argeș",
+      "ccp": "𑄃𑄢𑄴𑄎𑄬𑄌𑄴",
+      "mk": "Арџеш"
     },
-    "geo": {
-      "latitude": 45.0722527,
-      "longitude": 24.8142726,
-      "min_latitude": 44.366297,
-      "min_longitude": 24.427089,
-      "max_latitude": 45.610782,
-      "max_longitude": 25.325839
-    },
-    "name": "Arges"
+    "comments": null
   },
   "AR": {
+    "name": "Arad",
+    "code": null,
     "unofficial_names": "Arad",
+    "geo": {
+      "latitude": 46.166667,
+      "longitude": 21.316667,
+      "min_latitude": 46.1286903,
+      "min_longitude": 21.230371,
+      "max_latitude": 46.2217118,
+      "max_longitude": 21.3823449
+    },
     "translations": {
       "en": "Arad",
       "ar": "مقاطعة أراد",
@@ -177,19 +206,20 @@
       "tr": "Arad ili",
       "uk": "Арад",
       "ur": "آراد کاؤنٹی",
-      "vi": "Arad"
+      "vi": "Arad",
+      "lv": "Aradas žudecs",
+      "ceb": "Arad (lalawigan)",
+      "sr_Latn": "Arad",
+      "zh": "阿拉德縣",
+      "sq": "Qarku Arad",
+      "ccp": "𑄃𑄢𑄖𑄴",
+      "mk": "Арад"
     },
-    "geo": {
-      "latitude": 46.166667,
-      "longitude": 21.316667,
-      "min_latitude": 46.1286903,
-      "min_longitude": 21.230371,
-      "max_latitude": 46.2217118,
-      "max_longitude": 21.3823449
-    },
-    "name": "Arad"
+    "comments": null
   },
   "B": {
+    "name": "Bucuresti",
+    "code": null,
     "unofficial_names": [
       "Bucuresti",
       "Bucureşti",
@@ -197,6 +227,14 @@
       "Bucarest",
       "Bucarest"
     ],
+    "geo": {
+      "latitude": 44.4267674,
+      "longitude": 26.1025384,
+      "min_latitude": 44.3342445,
+      "min_longitude": 25.9637001,
+      "max_latitude": 44.541407,
+      "max_longitude": 26.225575
+    },
     "translations": {
       "en": "Bucharest",
       "af": "Boekarest",
@@ -258,22 +296,43 @@
       "tr": "Bükreş",
       "uk": "Бухарест",
       "ur": "بخارسٹ",
-      "vi": "Bucharest"
+      "vi": "Bucharest",
+      "cy": "Bwcarést",
+      "ceb": "București (lalawigan sa Rumanya)",
+      "sr_Latn": "Bukurešt",
+      "zh": "布加勒斯特",
+      "yue_Hans": "布加勒斯特",
+      "jv": "Bukarès",
+      "sq": "Bukureshti",
+      "ccp": "𑄝𑄪𑄇𑄢𑄬𑄌𑄴𑄑𑄴",
+      "ga": "Búcairist",
+      "ky": "Бухарест",
+      "so": "Buqarest",
+      "pa": "ਬੁਖ਼ਾਰੈਸਟ",
+      "kk": "Бухарест",
+      "yue": "布加勒斯特",
+      "my": "ဗူးခရက်မြို့",
+      "yo": "Bucharest",
+      "uz": "Buharest",
+      "bs": "Bukurešt",
+      "mk": "Букурешт"
     },
-    "geo": {
-      "latitude": 44.4267674,
-      "longitude": 26.1025384,
-      "min_latitude": 44.3342445,
-      "min_longitude": 25.9637001,
-      "max_latitude": 44.541407,
-      "max_longitude": 26.225575
-    },
-    "name": "Bucuresti"
+    "comments": null
   },
   "BC": {
+    "name": "Bacau",
+    "code": null,
     "unofficial_names": [
       "Bacau"
     ],
+    "geo": {
+      "latitude": 46.583333,
+      "longitude": 26.916667,
+      "min_latitude": 46.5073649,
+      "min_longitude": 26.8629241,
+      "max_latitude": 46.6207201,
+      "max_longitude": 26.9547951
+    },
     "translations": {
       "en": "Bacău",
       "ar": "إقليم باكاو",
@@ -313,20 +372,28 @@
       "tr": "Bacău ili",
       "uk": "Бакеу",
       "ur": "باکئو کاؤنٹی",
-      "vi": "Bacău"
+      "vi": "Bacău",
+      "ceb": "Județul Bacău",
+      "sr_Latn": "Bakau",
+      "zh": "巴克烏縣",
+      "sq": "Qarku Bacău",
+      "ccp": "𑄝𑄇𑄬𑄅𑄪",
+      "mk": "Бакау"
     },
-    "geo": {
-      "latitude": 46.583333,
-      "longitude": 26.916667,
-      "min_latitude": 46.5073649,
-      "min_longitude": 26.8629241,
-      "max_latitude": 46.6207201,
-      "max_longitude": 26.9547951
-    },
-    "name": "Bacau"
+    "comments": null
   },
   "BH": {
+    "name": "Bihor",
+    "code": null,
     "unofficial_names": "Bihor",
+    "geo": {
+      "latitude": 47.01575159999999,
+      "longitude": 22.172266,
+      "min_latitude": 46.38481789999999,
+      "min_longitude": 21.427627,
+      "max_latitude": 47.607922,
+      "max_longitude": 22.816566
+    },
     "translations": {
       "en": "Bihor",
       "ar": "مقاطعة بيهور",
@@ -375,22 +442,31 @@
       "tr": "Bihor ili",
       "uk": "Біхор",
       "ur": "بیہور کاؤنٹی",
-      "vi": "Bihor"
+      "vi": "Bihor",
+      "lv": "Bihoras žudecs",
+      "ceb": "Bihor (lalawigan)",
+      "sr_Latn": "Bihor",
+      "zh": "比霍爾縣",
+      "sq": "Qarku Bihor",
+      "ccp": "𑄝𑄨𑄦𑄮𑄢𑄴",
+      "mk": "Бихор"
     },
-    "geo": {
-      "latitude": 47.01575159999999,
-      "longitude": 22.172266,
-      "min_latitude": 46.38481789999999,
-      "min_longitude": 21.427627,
-      "max_latitude": 47.607922,
-      "max_longitude": 22.816566
-    },
-    "name": "Bihor"
+    "comments": null
   },
   "BN": {
+    "name": "Bistrita-Nasaud",
+    "code": null,
     "unofficial_names": [
       "Bistrita-Nasaud"
     ],
+    "geo": {
+      "latitude": 47.2486107,
+      "longitude": 24.5322814,
+      "min_latitude": 46.7517591,
+      "min_longitude": 23.9229529,
+      "max_latitude": 47.6071391,
+      "max_longitude": 25.0916189
+    },
     "translations": {
       "en": "Bistriţa-Năsăud",
       "ar": "مقاطعة بيستريتا-ناسود",
@@ -438,22 +514,31 @@
       "tr": "Bistrița-Năsăud ili",
       "uk": "Бистриця-Несеуд",
       "ur": "بیستریتسا-ناسائود کاؤنٹی",
-      "vi": "Bistriţa-Năsăud"
+      "vi": "Bistriţa-Năsăud",
+      "lv": "Bistricas-Neseudas žudecs",
+      "ceb": "Județul Bistrița-Năsăud",
+      "sr_Latn": "Bistrica-Nasaud",
+      "zh": "比斯特里察-訥瑟烏德縣",
+      "sq": "Qarku Bistrița-Năsăud",
+      "ccp": "𑄝𑄨𑄌𑄴𑄑𑄳𑄢𑄨𑄑-𑄚𑄥𑄅𑄪𑄖𑄴",
+      "mk": "Бистрица-Насауд"
     },
-    "geo": {
-      "latitude": 47.2486107,
-      "longitude": 24.5322814,
-      "min_latitude": 46.7517591,
-      "min_longitude": 23.9229529,
-      "max_latitude": 47.6071391,
-      "max_longitude": 25.0916189
-    },
-    "name": "Bistrita-Nasaud"
+    "comments": null
   },
   "BR": {
+    "name": "Braila",
+    "code": null,
     "unofficial_names": [
       "Braila"
     ],
+    "geo": {
+      "latitude": 45.269194,
+      "longitude": 27.957472,
+      "min_latitude": 45.1678028,
+      "min_longitude": 27.8928493,
+      "max_latitude": 45.3137327,
+      "max_longitude": 28.0004168
+    },
     "translations": {
       "en": "Brăila",
       "ar": "مقاطعة برايلا",
@@ -501,22 +586,31 @@
       "tr": "Brăila ili",
       "uk": "Бреїла",
       "ur": "برئیلا کاؤنٹی",
-      "vi": "Hạt Brăila"
+      "vi": "Hạt Brăila",
+      "lv": "Breilas žudecs",
+      "ceb": "Județul Brăila",
+      "sr_Latn": "Braila",
+      "zh": "布勒伊拉縣",
+      "sq": "Qarku Brăila",
+      "ccp": "𑄝𑄳𑄢𑄭𑄣𑄴",
+      "mk": "Браила"
     },
-    "geo": {
-      "latitude": 45.269194,
-      "longitude": 27.957472,
-      "min_latitude": 45.1678028,
-      "min_longitude": 27.8928493,
-      "max_latitude": 45.3137327,
-      "max_longitude": 28.0004168
-    },
-    "name": "Braila"
+    "comments": null
   },
   "BT": {
+    "name": "Botosani",
+    "code": null,
     "unofficial_names": [
       "Botosani"
     ],
+    "geo": {
+      "latitude": 47.748611,
+      "longitude": 26.669444,
+      "min_latitude": 47.7045958,
+      "min_longitude": 26.609519,
+      "max_latitude": 47.7705485,
+      "max_longitude": 26.709298
+    },
     "translations": {
       "en": "Botoşani",
       "ar": "إقليم بوتوشان",
@@ -567,22 +661,31 @@
       "tr": "Botoșani ili",
       "uk": "Ботошань",
       "ur": "بوتوشانی کاؤنٹی",
-      "vi": "Botoşani"
+      "vi": "Botoşani",
+      "lv": "Botošanu žudecs",
+      "ceb": "Județul Botoșani",
+      "sr_Latn": "Botošani",
+      "zh": "博托沙尼縣",
+      "sq": "Qarku Botoșani",
+      "ccp": "𑄝𑄮𑄑𑄮𑄥𑄚𑄨",
+      "mk": "Ботошан"
     },
-    "geo": {
-      "latitude": 47.748611,
-      "longitude": 26.669444,
-      "min_latitude": 47.7045958,
-      "min_longitude": 26.609519,
-      "max_latitude": 47.7705485,
-      "max_longitude": 26.709298
-    },
-    "name": "Botosani"
+    "comments": null
   },
   "BV": {
+    "name": "Brasov",
+    "code": null,
     "unofficial_names": [
       "Brasov"
     ],
+    "geo": {
+      "latitude": 45.666667,
+      "longitude": 25.616667,
+      "min_latitude": 45.5828542,
+      "min_longitude": 25.514449,
+      "max_latitude": 45.72210200000001,
+      "max_longitude": 25.6784767
+    },
     "translations": {
       "en": "Braşov",
       "ar": "مقاطعة براسوف",
@@ -629,22 +732,31 @@
       "tr": "Brașov ili",
       "uk": "Брашов",
       "ur": "براشوو کاؤنٹی",
-      "vi": "Brașov"
+      "vi": "Brașov",
+      "lv": "Brasovas apgabals",
+      "ceb": "Județul Brașov",
+      "sr_Latn": "Brašov",
+      "zh": "布拉索夫縣",
+      "sq": "Qarku Brașov",
+      "ccp": "𑄝𑄳𑄢𑄥𑄮𑄛𑄴",
+      "mk": "Брашов"
     },
-    "geo": {
-      "latitude": 45.666667,
-      "longitude": 25.616667,
-      "min_latitude": 45.5828542,
-      "min_longitude": 25.514449,
-      "max_latitude": 45.72210200000001,
-      "max_longitude": 25.6784767
-    },
-    "name": "Brasov"
+    "comments": null
   },
   "BZ": {
+    "name": "Buzau",
+    "code": null,
     "unofficial_names": [
       "Buzau"
     ],
+    "geo": {
+      "latitude": 45.166667,
+      "longitude": 26.816667,
+      "min_latitude": 45.1162977,
+      "min_longitude": 26.7563438,
+      "max_latitude": 45.1814771,
+      "max_longitude": 26.8720435
+    },
     "translations": {
       "en": "Buzău",
       "ar": "إقليم بوزاو",
@@ -692,20 +804,28 @@
       "tr": "Buzău ili",
       "uk": "Бузеу",
       "ur": "بوزاو کاؤنٹی",
-      "vi": "Hạt Buzau"
+      "vi": "Hạt Buzau",
+      "lv": "Buzeu žudecs",
+      "ceb": "Județul Buzău",
+      "sr_Latn": "Buzau",
+      "zh": "布澤烏縣",
+      "ccp": "𑄝𑄪𑄎𑄅𑄪",
+      "mk": "Бузау"
     },
-    "geo": {
-      "latitude": 45.166667,
-      "longitude": 26.816667,
-      "min_latitude": 45.1162977,
-      "min_longitude": 26.7563438,
-      "max_latitude": 45.1814771,
-      "max_longitude": 26.8720435
-    },
-    "name": "Buzau"
+    "comments": null
   },
   "CJ": {
+    "name": "Cluj",
+    "code": null,
     "unofficial_names": "Cluj",
+    "geo": {
+      "latitude": 46.766667,
+      "longitude": 23.583333,
+      "min_latitude": 46.7054762,
+      "min_longitude": 23.522544,
+      "max_latitude": 46.8612951,
+      "max_longitude": 23.7104809
+    },
     "translations": {
       "en": "Cluj",
       "ar": "مقاطعة كلوج",
@@ -756,22 +876,29 @@
       "tr": "Cluj",
       "uk": "Клуж",
       "ur": "کلوژ کاؤنٹی",
-      "vi": "Hạt Cluj"
+      "vi": "Hạt Cluj",
+      "ceb": "Județul Cluj",
+      "sr_Latn": "Kluž",
+      "zh": "克魯日縣",
+      "ccp": "𑄇𑄳𑄣𑄪𑄌𑄴",
+      "mk": "Клуж"
     },
-    "geo": {
-      "latitude": 46.766667,
-      "longitude": 23.583333,
-      "min_latitude": 46.7054762,
-      "min_longitude": 23.522544,
-      "max_latitude": 46.8612951,
-      "max_longitude": 23.7104809
-    },
-    "name": "Cluj"
+    "comments": null
   },
   "CL": {
+    "name": "Calarasi",
+    "code": null,
     "unofficial_names": [
       "Calarasi"
     ],
+    "geo": {
+      "latitude": 44.2,
+      "longitude": 27.333333,
+      "min_latitude": 44.1794956,
+      "min_longitude": 27.277003,
+      "max_latitude": 44.23818929999999,
+      "max_longitude": 27.3725225
+    },
     "translations": {
       "en": "Călărași",
       "ar": "مقاطعة كالاراسي",
@@ -818,22 +945,31 @@
       "tr": "Călărași ili",
       "uk": "Келераш",
       "ur": "کالاراشی کاؤنٹی",
-      "vi": "Hạt Calarasi"
+      "vi": "Hạt Calarasi",
+      "lv": "Kelerašu žudecs",
+      "ceb": "Județul Călărași",
+      "sr_Latn": "Kalaraši",
+      "zh": "克勒拉希縣",
+      "ccp": "𑄇𑄳𑄠𑄣𑄢𑄥𑄨",
+      "be": "жудзец Кэлэрашы",
+      "mk": "Калараш"
     },
-    "geo": {
-      "latitude": 44.2,
-      "longitude": 27.333333,
-      "min_latitude": 44.1794956,
-      "min_longitude": 27.277003,
-      "max_latitude": 44.23818929999999,
-      "max_longitude": 27.3725225
-    },
-    "name": "Calarasi"
+    "comments": null
   },
   "CS": {
+    "name": "Caras-Severin",
+    "code": null,
     "unofficial_names": [
       "Caras-Severin"
     ],
+    "geo": {
+      "latitude": 45.1139646,
+      "longitude": 22.0740993,
+      "min_latitude": 44.589462,
+      "min_longitude": 21.3522489,
+      "max_latitude": 45.67003099999999,
+      "max_longitude": 22.7100121
+    },
     "translations": {
       "en": "Caraș-Severin",
       "ar": "مقاطعة كاراس-سيفيرين",
@@ -879,23 +1015,32 @@
       "tr": "Caraș-Severin ili",
       "uk": "Караш-Северін",
       "ur": "کاراش-سیویرین کاؤنٹی",
-      "vi": "Hạt Caras-Severin"
+      "vi": "Hạt Caras-Severin",
+      "lv": "Karašas-Severinas žudecs",
+      "ceb": "Județul Caraș-Severin",
+      "sr_Latn": "Karaš-Severin",
+      "zh": "卡拉什-塞維林縣",
+      "ccp": "𑄇𑄢𑄌𑄴-𑄥𑄬𑄞𑄬𑄢𑄨𑄚𑄴",
+      "be": "жудзец Караш-Северын",
+      "mk": "Караш-Северин"
     },
-    "geo": {
-      "latitude": 45.1139646,
-      "longitude": 22.0740993,
-      "min_latitude": 44.589462,
-      "min_longitude": 21.3522489,
-      "max_latitude": 45.67003099999999,
-      "max_longitude": 22.7100121
-    },
-    "name": "Caras-Severin"
+    "comments": null
   },
   "CT": {
+    "name": "Constanta",
+    "code": null,
     "unofficial_names": [
       "Constanta",
       "Konstanza"
     ],
+    "geo": {
+      "latitude": 44.173333,
+      "longitude": 28.638333,
+      "min_latitude": 44.0842815,
+      "min_longitude": 28.5510205,
+      "max_latitude": 44.2782744,
+      "max_longitude": 28.7076575
+    },
     "translations": {
       "en": "Constanța",
       "ar": "إقليم كونستانتسا",
@@ -942,20 +1087,29 @@
       "tr": "Köstence ili",
       "uk": "Констанца",
       "ur": "کونستانتسا کاؤنٹی",
-      "vi": "Constanta"
+      "vi": "Constanta",
+      "lv": "Konstancas žudecs",
+      "ceb": "Constanța",
+      "sr_Latn": "Konstanca",
+      "zh": "康斯坦察縣",
+      "ccp": "𑄇𑄧𑄚𑄴𑄑𑄚𑄴𑄑",
+      "be": "Канстанца",
+      "mk": "Констанца"
     },
-    "geo": {
-      "latitude": 44.173333,
-      "longitude": 28.638333,
-      "min_latitude": 44.0842815,
-      "min_longitude": 28.5510205,
-      "max_latitude": 44.2782744,
-      "max_longitude": 28.7076575
-    },
-    "name": "Constanta"
+    "comments": null
   },
   "CV": {
+    "name": "Covasna",
+    "code": null,
     "unofficial_names": "Covasna",
+    "geo": {
+      "latitude": 45.849167,
+      "longitude": 26.185278,
+      "min_latitude": 45.83421149999999,
+      "min_longitude": 26.1405088,
+      "max_latitude": 45.8621916,
+      "max_longitude": 26.2171125
+    },
     "translations": {
       "en": "Covasna",
       "ar": "مقاطعة كوفاسنا",
@@ -1002,24 +1156,31 @@
       "tr": "Covasna ili",
       "uk": "Ковасна",
       "ur": "کوواسنا کاؤنٹی",
-      "vi": "Hạt Covasna"
+      "vi": "Hạt Covasna",
+      "lv": "Kovasnas žudecs",
+      "ceb": "Covasna",
+      "sr_Latn": "Kovasna",
+      "zh": "科瓦斯納縣",
+      "ccp": "𑄇𑄮𑄞𑄌𑄴𑄚"
     },
-    "geo": {
-      "latitude": 45.849167,
-      "longitude": 26.185278,
-      "min_latitude": 45.83421149999999,
-      "min_longitude": 26.1405088,
-      "max_latitude": 45.8621916,
-      "max_longitude": 26.2171125
-    },
-    "name": "Covasna"
+    "comments": null
   },
   "DB": {
+    "name": "Dâmbovita",
+    "code": null,
     "unofficial_names": [
       "Dambovita",
       "Dimbovita",
       "Dîmboviţa"
     ],
+    "geo": {
+      "latitude": 44.9289893,
+      "longitude": 25.425385,
+      "min_latitude": 44.403276,
+      "min_longitude": 25.124594,
+      "max_latitude": 45.440805,
+      "max_longitude": 25.992037
+    },
     "translations": {
       "en": "Dâmbovița",
       "ar": "مقاطعة دامبوفيتا",
@@ -1067,20 +1228,28 @@
       "tr": "Dâmbovița ili",
       "uk": "Димбовіца",
       "ur": "دیمبوویتسا کاؤنٹی",
-      "vi": "Hạt Dambovita"
+      "vi": "Hạt Dambovita",
+      "lv": "Dimbovicas žudecs",
+      "ceb": "Județul Dâmbovița",
+      "sr_Latn": "Dambovica",
+      "zh": "登博維察縣",
+      "ccp": "𑄓𑄟𑄴𑄝𑄮𑄞𑄨𑄑",
+      "be": "жудзец Дымбавіца"
     },
-    "geo": {
-      "latitude": 44.9289893,
-      "longitude": 25.425385,
-      "min_latitude": 44.403276,
-      "min_longitude": 25.124594,
-      "max_latitude": 45.440805,
-      "max_longitude": 25.992037
-    },
-    "name": "Dâmbovita"
+    "comments": null
   },
   "DJ": {
+    "name": "Dolj",
+    "code": null,
     "unofficial_names": "Dolj",
+    "geo": {
+      "latitude": 44.1623022,
+      "longitude": 23.6325054,
+      "min_latitude": 43.699738,
+      "min_longitude": 22.8383393,
+      "max_latitude": 44.728214,
+      "max_longitude": 24.2646289
+    },
     "translations": {
       "en": "Dolj",
       "ar": "مقاطعة دولج",
@@ -1128,20 +1297,28 @@
       "tr": "Dolj ili",
       "uk": "Долж",
       "ur": "دولژ کاؤنٹی",
-      "vi": "Hạt Dolj"
+      "vi": "Hạt Dolj",
+      "lv": "Dolžas žudecs",
+      "ceb": "Dolj",
+      "sr_Latn": "Dolž",
+      "zh": "多爾日縣",
+      "ccp": "𑄘𑄮𑄣𑄴",
+      "be": "жудзец Долж"
     },
-    "geo": {
-      "latitude": 44.1623022,
-      "longitude": 23.6325054,
-      "min_latitude": 43.699738,
-      "min_longitude": 22.8383393,
-      "max_latitude": 44.728214,
-      "max_longitude": 24.2646289
-    },
-    "name": "Dolj"
+    "comments": null
   },
   "GJ": {
+    "name": "Gorj",
+    "code": null,
     "unofficial_names": "Gorj",
+    "geo": {
+      "latitude": 44.94855949999999,
+      "longitude": 23.2427079,
+      "min_latitude": 44.568317,
+      "min_longitude": 22.5596509,
+      "max_latitude": 45.3546451,
+      "max_longitude": 23.8601481
+    },
     "translations": {
       "en": "Gorj",
       "ar": "مقاطعة غورج",
@@ -1190,23 +1367,30 @@
       "tr": "Gorj ili",
       "uk": "Горж",
       "ur": "گورژ کاؤنٹی",
-      "vi": "Hạt Gorj"
+      "vi": "Hạt Gorj",
+      "lv": "Goržas žudecs",
+      "ceb": "Gorj",
+      "sr_Latn": "Gorž",
+      "zh": "戈爾日縣",
+      "ccp": "𑄉𑄮𑄢𑄴"
     },
-    "geo": {
-      "latitude": 44.94855949999999,
-      "longitude": 23.2427079,
-      "min_latitude": 44.568317,
-      "min_longitude": 22.5596509,
-      "max_latitude": 45.3546451,
-      "max_longitude": 23.8601481
-    },
-    "name": "Gorj"
+    "comments": null
   },
   "GL": {
+    "name": "Galati",
+    "code": null,
     "unofficial_names": [
       "Galati",
       "Galatz"
     ],
+    "geo": {
+      "latitude": 45.423333,
+      "longitude": 28.0425,
+      "min_latitude": 45.3905241,
+      "min_longitude": 27.9515362,
+      "max_latitude": 45.484793,
+      "max_longitude": 28.1434536
+    },
     "translations": {
       "en": "Galați",
       "ar": "إقليم غالاتس",
@@ -1254,20 +1438,28 @@
       "tr": "Galați ili",
       "uk": "Галац",
       "ur": "گالاتسی کاؤنٹی",
-      "vi": "Hạt Galati"
+      "vi": "Hạt Galati",
+      "lv": "Galacas žudecs",
+      "ceb": "Județul Galați",
+      "sr_Latn": "Galac",
+      "zh": "加拉茨縣",
+      "ccp": "𑄉𑄣𑄑𑄨",
+      "be": "Галац"
     },
-    "geo": {
-      "latitude": 45.423333,
-      "longitude": 28.0425,
-      "min_latitude": 45.3905241,
-      "min_longitude": 27.9515362,
-      "max_latitude": 45.484793,
-      "max_longitude": 28.1434536
-    },
-    "name": "Galati"
+    "comments": null
   },
   "GR": {
+    "name": "Giurgiu",
+    "code": null,
     "unofficial_names": "Giurgiu",
+    "geo": {
+      "latitude": 43.900833,
+      "longitude": 25.973889,
+      "min_latitude": 43.8592715,
+      "min_longitude": 25.8950758,
+      "max_latitude": 43.9360169,
+      "max_longitude": 26.0299587
+    },
     "translations": {
       "en": "Giurgiu",
       "ar": "مقاطعة جورجيو",
@@ -1314,20 +1506,27 @@
       "tr": "Yergöğü ili",
       "uk": "Джурджу",
       "ur": "جیورجو کاؤنٹی",
-      "vi": "Hạt Giurgiu"
+      "vi": "Hạt Giurgiu",
+      "lv": "Džurdžu žudecs",
+      "ceb": "Giurgiu",
+      "sr_Latn": "Đurđu",
+      "zh": "久爾久縣",
+      "ccp": "𑄎𑄨𑄠𑄢𑄴𑄎𑄨𑄅𑄪"
     },
-    "geo": {
-      "latitude": 43.900833,
-      "longitude": 25.973889,
-      "min_latitude": 43.8592715,
-      "min_longitude": 25.8950758,
-      "max_latitude": 43.9360169,
-      "max_longitude": 26.0299587
-    },
-    "name": "Giurgiu"
+    "comments": null
   },
   "HD": {
+    "name": "Hunedoara",
+    "code": null,
     "unofficial_names": "Hunedoara",
+    "geo": {
+      "latitude": 45.76972199999999,
+      "longitude": 22.920278,
+      "min_latitude": 45.7303145,
+      "min_longitude": 22.8775477,
+      "max_latitude": 45.7960152,
+      "max_longitude": 22.9378867
+    },
     "translations": {
       "en": "Hunedoara",
       "ar": "مقاطعة هوندوارا",
@@ -1375,20 +1574,28 @@
       "tr": "Hunedoara ili",
       "uk": "Хунедоара",
       "ur": "ہونےدوارا کاؤنٹی",
-      "vi": "Hạt Hunedoara"
+      "vi": "Hạt Hunedoara",
+      "lv": "Hunedoaras žudecs",
+      "ceb": "Hunedoara (lalawigan)",
+      "sr_Latn": "Hunedoara",
+      "zh": "胡內多阿拉縣",
+      "sq": "Qarku Hunedoara",
+      "ccp": "𑄦𑄪𑄚𑄬𑄓𑄮𑄠𑄢"
     },
-    "geo": {
-      "latitude": 45.76972199999999,
-      "longitude": 22.920278,
-      "min_latitude": 45.7303145,
-      "min_longitude": 22.8775477,
-      "max_latitude": 45.7960152,
-      "max_longitude": 22.9378867
-    },
-    "name": "Hunedoara"
+    "comments": null
   },
   "HR": {
+    "name": "Harghita",
+    "code": null,
     "unofficial_names": "Harghita",
+    "geo": {
+      "latitude": 46.4928507,
+      "longitude": 25.6456696,
+      "min_latitude": 46.118927,
+      "min_longitude": 24.838758,
+      "max_latitude": 47.182226,
+      "max_longitude": 26.2926781
+    },
     "translations": {
       "en": "Harghita",
       "ar": "مقاطعة هارغيتا",
@@ -1435,22 +1642,29 @@
       "tr": "Harghita ili",
       "uk": "Харгіта",
       "ur": "ہارگیتا کاؤنٹی",
-      "vi": "Hạt Harghita"
+      "vi": "Hạt Harghita",
+      "lv": "Hargitas žudecs",
+      "ceb": "Harghita",
+      "sr_Latn": "Hargita",
+      "zh": "哈爾吉塔縣",
+      "ccp": "𑄦𑄢𑄴𑄊𑄨𑄑"
     },
-    "geo": {
-      "latitude": 46.4928507,
-      "longitude": 25.6456696,
-      "min_latitude": 46.118927,
-      "min_longitude": 24.838758,
-      "max_latitude": 47.182226,
-      "max_longitude": 26.2926781
-    },
-    "name": "Harghita"
+    "comments": null
   },
   "IF": {
+    "name": "Ilfov",
+    "code": null,
     "unofficial_names": [
       "Sectorul Agricol Ilfov"
     ],
+    "geo": {
+      "latitude": 44.535548,
+      "longitude": 26.2324886,
+      "min_latitude": 44.21543,
+      "min_longitude": 25.823766,
+      "max_latitude": 44.767888,
+      "max_longitude": 26.454579
+    },
     "translations": {
       "en": "Ilfov",
       "ar": "مقاطعة إلفوف",
@@ -1497,22 +1711,29 @@
       "tr": "Ilfov ili",
       "uk": "Ілфов",
       "ur": "الیفوف کاؤنٹی",
-      "vi": "Hạt Ilfov"
+      "vi": "Hạt Ilfov",
+      "lv": "Ilfovas žudecs",
+      "ceb": "Ilfov",
+      "sr_Latn": "Ilfov",
+      "zh": "伊爾福夫縣",
+      "ccp": "𑄃𑄨𑄣𑄴𑄜𑄮𑄛𑄴"
     },
-    "geo": {
-      "latitude": 44.535548,
-      "longitude": 26.2324886,
-      "min_latitude": 44.21543,
-      "min_longitude": 25.823766,
-      "max_latitude": 44.767888,
-      "max_longitude": 26.454579
-    },
-    "name": "Ilfov"
+    "comments": null
   },
   "IL": {
+    "name": "Ialomita",
+    "code": null,
     "unofficial_names": [
       "Ialomita"
     ],
+    "geo": {
+      "latitude": 44.603133,
+      "longitude": 27.3789914,
+      "min_latitude": 44.330837,
+      "min_longitude": 26.300869,
+      "max_latitude": 44.86406700000001,
+      "max_longitude": 28.1100249
+    },
     "translations": {
       "en": "Ialomița",
       "ar": "مقاطعة إيالوميتا",
@@ -1559,25 +1780,32 @@
       "tr": "Ialomița ili",
       "uk": "Яломіца",
       "ur": "یالومیتسا کاؤنٹی",
-      "vi": "Hạt Ialomita"
+      "vi": "Hạt Ialomita",
+      "lv": "Jalomicas žudecs",
+      "ceb": "Județul Ialomița",
+      "sr_Latn": "Jalomica",
+      "zh": "雅洛米察縣",
+      "ccp": "𑄃𑄭𑄃𑄣𑄮𑄟𑄨𑄑"
     },
-    "geo": {
-      "latitude": 44.603133,
-      "longitude": 27.3789914,
-      "min_latitude": 44.330837,
-      "min_longitude": 26.300869,
-      "max_latitude": 44.86406700000001,
-      "max_longitude": 28.1100249
-    },
-    "name": "Ialomita"
+    "comments": null
   },
   "IS": {
+    "name": "Iasi",
+    "code": null,
     "unofficial_names": [
       "Iasi",
       "Jasch",
       "Jassy",
       "Yassy"
     ],
+    "geo": {
+      "latitude": 47.156944,
+      "longitude": 27.590278,
+      "min_latitude": 47.08483709999999,
+      "min_longitude": 27.4769569,
+      "max_latitude": 47.2274375,
+      "max_longitude": 27.6969839
+    },
     "translations": {
       "en": "Iași",
       "ar": "إقليم ياش",
@@ -1626,22 +1854,30 @@
       "tr": "Yaş ili",
       "uk": "Ясси",
       "ur": "یاشی کاؤنٹی",
-      "vi": "Hạt Iasi"
+      "vi": "Hạt Iasi",
+      "lv": "Jasu žudecs",
+      "ceb": "Județul Iași",
+      "sr_Latn": "Jaši",
+      "zh": "雅西縣",
+      "ccp": "𑄃𑄭𑄃𑄥𑄨",
+      "mk": "Јаш"
     },
-    "geo": {
-      "latitude": 47.156944,
-      "longitude": 27.590278,
-      "min_latitude": 47.08483709999999,
-      "min_longitude": 27.4769569,
-      "max_latitude": 47.2274375,
-      "max_longitude": 27.6969839
-    },
-    "name": "Iasi"
+    "comments": null
   },
   "MH": {
+    "name": "Mehedinti",
+    "code": null,
     "unofficial_names": [
       "Mehedinti"
     ],
+    "geo": {
+      "latitude": 44.5515053,
+      "longitude": 22.9044157,
+      "min_latitude": 44.0983461,
+      "min_longitude": 22.0000145,
+      "max_latitude": 45.108286,
+      "max_longitude": 23.458584
+    },
     "translations": {
       "en": "Mehedinți",
       "ar": "مقاطعة ميهيدينتي",
@@ -1688,22 +1924,30 @@
       "tr": "Mehedinți ili",
       "uk": "Мехедінць",
       "ur": "میہیدینتسی کاؤنٹی",
-      "vi": "Hạt Mehedinti"
+      "vi": "Hạt Mehedinti",
+      "lv": "Mehedincu žudecs",
+      "ceb": "Județul Mehedinți",
+      "sr_Latn": "Mehedinci",
+      "zh": "梅赫丁茨縣",
+      "ccp": "𑄟𑄬𑄦𑄬𑄓𑄨𑄚𑄴𑄑𑄨",
+      "be": "жудзец Мехедынцы"
     },
-    "geo": {
-      "latitude": 44.5515053,
-      "longitude": 22.9044157,
-      "min_latitude": 44.0983461,
-      "min_longitude": 22.0000145,
-      "max_latitude": 45.108286,
-      "max_longitude": 23.458584
-    },
-    "name": "Mehedinti"
+    "comments": null
   },
   "MM": {
+    "name": "Maramures",
+    "code": null,
     "unofficial_names": [
       "Maramures"
     ],
+    "geo": {
+      "latitude": 47.6737598,
+      "longitude": 23.7456285,
+      "min_latitude": 47.324372,
+      "min_longitude": 22.965186,
+      "max_latitude": 48.020276,
+      "max_longitude": 25.0557001
+    },
     "translations": {
       "en": "Maramureş",
       "be": "жудзец Марамурэш",
@@ -1740,22 +1984,28 @@
       "sv": "Maramureș",
       "tr": "Maramureș ili",
       "uk": "Марамуреш",
-      "ur": "ماراموریش کاؤنٹی"
+      "ur": "ماراموریش کاؤنٹی",
+      "sr_Latn": "Maramureš",
+      "zh": "馬拉穆列什縣",
+      "hi": "मारमुरेस काउंटी",
+      "ccp": "𑄟𑄢𑄟𑄪𑄢𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 47.6737598,
-      "longitude": 23.7456285,
-      "min_latitude": 47.324372,
-      "min_longitude": 22.965186,
-      "max_latitude": 48.020276,
-      "max_longitude": 25.0557001
-    },
-    "name": "Maramures"
+    "comments": null
   },
   "MS": {
+    "name": "Mures",
+    "code": null,
     "unofficial_names": [
       "Mures"
     ],
+    "geo": {
+      "latitude": 46.5569904,
+      "longitude": 24.6723215,
+      "min_latitude": 46.075015,
+      "min_longitude": 23.9577359,
+      "max_latitude": 47.143799,
+      "max_longitude": 25.3139161
+    },
     "translations": {
       "en": "Mureş",
       "ar": "مقاطعة موريس",
@@ -1802,22 +2052,29 @@
       "tr": "Mureș ili",
       "uk": "Муреш",
       "ur": "موریش کاؤنٹی",
-      "vi": "Hạt Mures"
+      "vi": "Hạt Mures",
+      "lv": "Murešas žudecs",
+      "ceb": "Județul Mureș",
+      "sr_Latn": "Mureš",
+      "zh": "穆列什縣",
+      "ccp": "𑄟𑄪𑄢𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 46.5569904,
-      "longitude": 24.6723215,
-      "min_latitude": 46.075015,
-      "min_longitude": 23.9577359,
-      "max_latitude": 47.143799,
-      "max_longitude": 25.3139161
-    },
-    "name": "Mures"
+    "comments": null
   },
   "NT": {
+    "name": "Neamt",
+    "code": null,
     "unofficial_names": [
       "Neamt"
     ],
+    "geo": {
+      "latitude": 46.9758685,
+      "longitude": 26.3818764,
+      "min_latitude": 46.640951,
+      "min_longitude": 25.6630821,
+      "max_latitude": 47.337545,
+      "max_longitude": 27.246063
+    },
     "translations": {
       "en": "Neamţ",
       "ar": "مقاطعة نيامتس",
@@ -1864,20 +2121,28 @@
       "tr": "Neamț ili",
       "uk": "Нямц",
       "ur": "نامتس کاؤنٹی",
-      "vi": "Hạt Neamt"
+      "vi": "Hạt Neamt",
+      "lv": "Njamcas žudecs",
+      "ceb": "Județul Neamț",
+      "sr_Latn": "Njamc",
+      "zh": "尼亞姆茨縣",
+      "ccp": "𑄚𑄨𑄟𑄴𑄑𑄴",
+      "he": "ניאמץ"
     },
-    "geo": {
-      "latitude": 46.9758685,
-      "longitude": 26.3818764,
-      "min_latitude": 46.640951,
-      "min_longitude": 25.6630821,
-      "max_latitude": 47.337545,
-      "max_longitude": 27.246063
-    },
-    "name": "Neamt"
+    "comments": null
   },
   "OT": {
+    "name": "Olt",
+    "code": null,
     "unofficial_names": "Olt",
+    "geo": {
+      "latitude": 44.200797,
+      "longitude": 24.5022981,
+      "min_latitude": 43.6820435,
+      "min_longitude": 23.881877,
+      "max_latitude": 44.896967,
+      "max_longitude": 24.8545519
+    },
     "translations": {
       "en": "Olt",
       "ar": "مقاطعة أولت",
@@ -1925,20 +2190,27 @@
       "tr": "Olt ili",
       "uk": "Олт",
       "ur": "اولت کاؤنٹی",
-      "vi": "Hạt Olt"
+      "vi": "Hạt Olt",
+      "lv": "Oltas žudecs",
+      "ceb": "Olt (lalawigan)",
+      "sr_Latn": "Olt",
+      "zh": "奧爾特縣",
+      "ccp": "𑄃𑄧𑄣𑄴𑄑𑄴"
     },
-    "geo": {
-      "latitude": 44.200797,
-      "longitude": 24.5022981,
-      "min_latitude": 43.6820435,
-      "min_longitude": 23.881877,
-      "max_latitude": 44.896967,
-      "max_longitude": 24.8545519
-    },
-    "name": "Olt"
+    "comments": null
   },
   "PH": {
+    "name": "Prahova",
+    "code": null,
     "unofficial_names": "Prahova",
+    "geo": {
+      "latitude": 45.08919059999999,
+      "longitude": 26.0829312,
+      "min_latitude": 44.692479,
+      "min_longitude": 25.4514369,
+      "max_latitude": 45.5147729,
+      "max_longitude": 26.6054759
+    },
     "translations": {
       "en": "Prahova",
       "ar": "مقاطعة يراهوفا",
@@ -1986,20 +2258,26 @@
       "tr": "Prahova ili",
       "uk": "Прахова",
       "ur": "پراہوا کاؤنٹی",
-      "vi": "Hạt Prahova"
+      "vi": "Hạt Prahova",
+      "lv": "Prahovas žudecs",
+      "sr_Latn": "Prahova",
+      "zh": "普拉霍瓦縣",
+      "ccp": "𑄛𑄳𑄢𑄧𑄦𑄮𑄞"
     },
-    "geo": {
-      "latitude": 45.08919059999999,
-      "longitude": 26.0829312,
-      "min_latitude": 44.692479,
-      "min_longitude": 25.4514369,
-      "max_latitude": 45.5147729,
-      "max_longitude": 26.6054759
-    },
-    "name": "Prahova"
+    "comments": null
   },
   "SB": {
+    "name": "Sibiu",
+    "code": null,
     "unofficial_names": "Sibiu",
+    "geo": {
+      "latitude": 45.792784,
+      "longitude": 24.152069,
+      "min_latitude": 45.72439780000001,
+      "min_longitude": 24.0631485,
+      "max_latitude": 45.8415964,
+      "max_longitude": 24.2165279
+    },
     "translations": {
       "en": "Sibiu",
       "ar": "مقاطعة سيبيو",
@@ -2048,22 +2326,31 @@
       "tr": "Sibiu ili",
       "uk": "Сібіу",
       "ur": "سیبیو کاؤنٹی",
-      "vi": "Hạt Sibiu"
+      "vi": "Hạt Sibiu",
+      "lv": "Sibiu žudecs",
+      "ceb": "Județul Sibiu",
+      "sr_Latn": "Sibinj",
+      "zh": "錫比烏縣",
+      "ccp": "𑄥𑄨𑄝𑄨𑄅𑄪",
+      "be": "жудзец Сібіу",
+      "mk": "Сибиу"
     },
-    "geo": {
-      "latitude": 45.792784,
-      "longitude": 24.152069,
-      "min_latitude": 45.72439780000001,
-      "min_longitude": 24.0631485,
-      "max_latitude": 45.8415964,
-      "max_longitude": 24.2165279
-    },
-    "name": "Sibiu"
+    "comments": null
   },
   "SJ": {
+    "name": "Salaj",
+    "code": null,
     "unofficial_names": [
       "Salaj"
     ],
+    "geo": {
+      "latitude": 47.2090813,
+      "longitude": 23.2121901,
+      "min_latitude": 46.854099,
+      "min_longitude": 22.493326,
+      "max_latitude": 47.460111,
+      "max_longitude": 23.8409952
+    },
     "translations": {
       "en": "Sălaj",
       "ar": "مقاطعة سالاج",
@@ -2111,20 +2398,28 @@
       "tr": "Sălaj ili",
       "uk": "Селаж",
       "ur": "سالاژ کاؤنٹی",
-      "vi": "Hạt Salaj"
+      "vi": "Hạt Salaj",
+      "lv": "Selažas žudecs",
+      "ceb": "Județul Sălaj",
+      "sr_Latn": "Salaž",
+      "zh": "瑟拉日縣",
+      "ccp": "𑄥𑄣𑄌𑄴",
+      "be": "жудзец Сэлаж"
     },
-    "geo": {
-      "latitude": 47.2090813,
-      "longitude": 23.2121901,
-      "min_latitude": 46.854099,
-      "min_longitude": 22.493326,
-      "max_latitude": 47.460111,
-      "max_longitude": 23.8409952
-    },
-    "name": "Salaj"
+    "comments": null
   },
   "SM": {
+    "name": "Satu Mare",
+    "code": null,
     "unofficial_names": "Satu Mare",
+    "geo": {
+      "latitude": 47.79,
+      "longitude": 22.89,
+      "min_latitude": 47.71166729999999,
+      "min_longitude": 22.7901506,
+      "max_latitude": 47.8945642,
+      "max_longitude": 22.9771327
+    },
     "translations": {
       "en": "Satu Mare",
       "ar": "مقاطعة ساتو ماري",
@@ -2172,20 +2467,29 @@
       "tr": "Satu Mare ili",
       "uk": "Сату-Маре",
       "ur": "ساتو مارے کاؤنٹی",
-      "vi": "Hạt Satu Mare"
+      "vi": "Hạt Satu Mare",
+      "lv": "Satumares žudecs",
+      "ceb": "Satu Mare",
+      "sr_Latn": "Satu Mare",
+      "zh": "薩圖馬雷縣",
+      "ccp": "𑄥𑄑𑄪 𑄟𑄬𑄠𑄢𑄴",
+      "hy": "Սատու Մարե",
+      "be": "жудзец Сату-Марэ"
     },
-    "geo": {
-      "latitude": 47.79,
-      "longitude": 22.89,
-      "min_latitude": 47.71166729999999,
-      "min_longitude": 22.7901506,
-      "max_latitude": 47.8945642,
-      "max_longitude": 22.9771327
-    },
-    "name": "Satu Mare"
+    "comments": null
   },
   "SV": {
+    "name": "Suceava",
+    "code": null,
     "unofficial_names": "Suceava",
+    "geo": {
+      "latitude": 47.65138899999999,
+      "longitude": 26.255556,
+      "min_latitude": 47.6085356,
+      "min_longitude": 26.2014914,
+      "max_latitude": 47.7191674,
+      "max_longitude": 26.3217187
+    },
     "translations": {
       "en": "Suceava",
       "ar": "إقليم سوتشيافا",
@@ -2235,20 +2539,27 @@
       "tr": "Suceava ili",
       "uk": "Сучава",
       "ur": "سوچاوا کاؤنٹی",
-      "vi": "Hạt Suceava"
+      "vi": "Hạt Suceava",
+      "lv": "Sučavas žudecs",
+      "ceb": "Suceava (lalawigan)",
+      "sr_Latn": "Sučava",
+      "zh": "蘇恰瓦縣",
+      "ccp": "𑄥𑄪𑄌𑄨𑄞"
     },
-    "geo": {
-      "latitude": 47.65138899999999,
-      "longitude": 26.255556,
-      "min_latitude": 47.6085356,
-      "min_longitude": 26.2014914,
-      "max_latitude": 47.7191674,
-      "max_longitude": 26.3217187
-    },
-    "name": "Suceava"
+    "comments": null
   },
   "TL": {
+    "name": "Tulcea",
+    "code": null,
     "unofficial_names": "Tulcea",
+    "geo": {
+      "latitude": 45.1716165,
+      "longitude": 28.7914439,
+      "min_latitude": 45.1574314,
+      "min_longitude": 28.7479162,
+      "max_latitude": 45.2010679,
+      "max_longitude": 28.8334142
+    },
     "translations": {
       "en": "Tulcea",
       "ar": "مقاطعة تولسيا",
@@ -2296,22 +2607,30 @@
       "tr": "Tulcea ili",
       "uk": "Тульча",
       "ur": "تولچا کاؤنٹی",
-      "vi": "Hạt Tulcea"
+      "vi": "Hạt Tulcea",
+      "lv": "Tulčas žudecs",
+      "ceb": "Tulcea",
+      "sr_Latn": "Tulča",
+      "zh": "圖爾恰縣",
+      "ccp": "𑄑𑄪𑄣𑄴𑄥𑄨",
+      "be": "жудзец Тулча"
     },
-    "geo": {
-      "latitude": 45.1716165,
-      "longitude": 28.7914439,
-      "min_latitude": 45.1574314,
-      "min_longitude": 28.7479162,
-      "max_latitude": 45.2010679,
-      "max_longitude": 28.8334142
-    },
-    "name": "Tulcea"
+    "comments": null
   },
   "TM": {
+    "name": "Timis",
+    "code": null,
     "unofficial_names": [
       "Timis"
     ],
+    "geo": {
+      "latitude": 45.8138902,
+      "longitude": 21.3331055,
+      "min_latitude": 45.1918419,
+      "min_longitude": 20.2617593,
+      "max_latitude": 46.18994,
+      "max_longitude": 22.5461279
+    },
     "translations": {
       "en": "Timiș",
       "ar": "مقاطعة تيميش",
@@ -2360,20 +2679,29 @@
       "tr": "Timiș ili",
       "uk": "Тіміш",
       "ur": "تیمیش کاؤنٹی",
-      "vi": "Hạt Timis"
+      "vi": "Hạt Timis",
+      "lv": "Timišas žudecs",
+      "ceb": "Județul Timiș",
+      "sr_Latn": "Timiš",
+      "zh": "蒂米什縣",
+      "sq": "Qarku Timiș",
+      "ccp": "𑄑𑄭𑄟𑄨𑄌𑄴",
+      "mk": "Тимиш"
     },
-    "geo": {
-      "latitude": 45.8138902,
-      "longitude": 21.3331055,
-      "min_latitude": 45.1918419,
-      "min_longitude": 20.2617593,
-      "max_latitude": 46.18994,
-      "max_longitude": 22.5461279
-    },
-    "name": "Timis"
+    "comments": null
   },
   "TR": {
+    "name": "Teleorman",
+    "code": null,
     "unofficial_names": "Teleorman",
+    "geo": {
+      "latitude": 44.0160491,
+      "longitude": 25.2986628,
+      "min_latitude": 43.6186193,
+      "min_longitude": 24.585499,
+      "max_latitude": 44.518081,
+      "max_longitude": 25.713873
+    },
     "translations": {
       "en": "Teleorman",
       "ar": "مقاطعة تيلورمان",
@@ -2420,22 +2748,31 @@
       "tr": "Teleorman ili",
       "uk": "Телеорман",
       "ur": "تیلیاورمان کاؤنٹی",
-      "vi": "Hạt Teleorman"
+      "vi": "Hạt Teleorman",
+      "lv": "Teleormanas žudecs",
+      "ceb": "Teleorman",
+      "sr_Latn": "Teleorman",
+      "zh": "特列奧爾曼縣",
+      "ccp": "𑄑𑄬𑄣𑄨𑄠𑄮𑄢𑄴𑄟𑄚𑄴",
+      "he": "טלאורמן (מחוז)",
+      "be": "жудзец Тэлеарман"
     },
-    "geo": {
-      "latitude": 44.0160491,
-      "longitude": 25.2986628,
-      "min_latitude": 43.6186193,
-      "min_longitude": 24.585499,
-      "max_latitude": 44.518081,
-      "max_longitude": 25.713873
-    },
-    "name": "Teleorman"
+    "comments": null
   },
   "VL": {
+    "name": "Vâlcea",
+    "code": null,
     "unofficial_names": [
       "Vîlcea"
     ],
+    "geo": {
+      "latitude": 45.07980509999999,
+      "longitude": 24.0835282,
+      "min_latitude": 44.49141210000001,
+      "min_longitude": 23.5770419,
+      "max_latitude": 45.587699,
+      "max_longitude": 24.5211
+    },
     "translations": {
       "en": "Vâlcea",
       "ar": "مقاطعة فالسيا",
@@ -2483,20 +2820,28 @@
       "tr": "Vâlcea ili",
       "uk": "Вилчя",
       "ur": "ویلچا کاؤنٹی",
-      "vi": "Hạt Vâlcea"
+      "vi": "Hạt Vâlcea",
+      "lv": "Vilčas žudecs",
+      "ceb": "Județul Vâlcea",
+      "sr_Latn": "Valča",
+      "zh": "沃爾恰縣",
+      "ccp": "𑄞𑄧𑄣𑄴𑄥𑄨",
+      "be": "жудзец Вылча"
     },
-    "geo": {
-      "latitude": 45.07980509999999,
-      "longitude": 24.0835282,
-      "min_latitude": 44.49141210000001,
-      "min_longitude": 23.5770419,
-      "max_latitude": 45.587699,
-      "max_longitude": 24.5211
-    },
-    "name": "Vâlcea"
+    "comments": null
   },
   "VN": {
+    "name": "Vrancea",
+    "code": null,
     "unofficial_names": "Vrancea",
+    "geo": {
+      "latitude": 45.81348759999999,
+      "longitude": 27.0657531,
+      "min_latitude": 45.366076,
+      "min_longitude": 26.3742352,
+      "max_latitude": 46.204405,
+      "max_longitude": 27.558525
+    },
     "translations": {
       "en": "Vrancea",
       "ar": "إقليم فرنتشيا",
@@ -2545,20 +2890,27 @@
       "tr": "Vrancea ili",
       "uk": "Вранчя",
       "ur": "ورانچا کاؤنٹی",
-      "vi": "Vrancea"
+      "vi": "Vrancea",
+      "lv": "Vrančas žudecs",
+      "ceb": "Vrancea",
+      "sr_Latn": "Vranča",
+      "zh": "弗朗恰縣",
+      "ccp": "𑄞𑄳𑄢𑄚𑄴𑄥𑄨"
     },
-    "geo": {
-      "latitude": 45.81348759999999,
-      "longitude": 27.0657531,
-      "min_latitude": 45.366076,
-      "min_longitude": 26.3742352,
-      "max_latitude": 46.204405,
-      "max_longitude": 27.558525
-    },
-    "name": "Vrancea"
+    "comments": null
   },
   "VS": {
+    "name": "Vaslui",
+    "code": null,
     "unofficial_names": "Vaslui",
+    "geo": {
+      "latitude": 46.638333,
+      "longitude": 27.729167,
+      "min_latitude": 46.6157827,
+      "min_longitude": 27.707777,
+      "max_latitude": 46.6689939,
+      "max_longitude": 27.7493192
+    },
     "translations": {
       "en": "Vaslui",
       "ar": "إقليم فاسلوي",
@@ -2607,17 +2959,15 @@
       "tr": "Vaslui ili",
       "uk": "Васлуй",
       "ur": "واسلوی کاؤنٹی",
-      "vi": "Hạt Vaslui"
+      "vi": "Hạt Vaslui",
+      "lv": "Vaslujas žudecs",
+      "ceb": "Vaslui",
+      "sr_Latn": "Vasluj",
+      "zh": "瓦斯盧伊縣",
+      "ccp": "𑄞𑄌𑄴𑄣𑄭𑄪",
+      "mk": "Васлуј"
     },
-    "geo": {
-      "latitude": 46.638333,
-      "longitude": 27.729167,
-      "min_latitude": 46.6157827,
-      "min_longitude": 27.707777,
-      "max_latitude": 46.6689939,
-      "max_longitude": 27.7493192
-    },
-    "name": "Vaslui"
+    "comments": null
   }
 }
 

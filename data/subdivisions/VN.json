@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Lai Chau",
+    "code": null,
     "unofficial_names": "Lai Chau",
+    "geo": {
+      "latitude": 22.3686613,
+      "longitude": 103.3119085,
+      "min_latitude": 21.6847368,
+      "min_longitude": 102.3274711,
+      "max_latitude": 22.8214739,
+      "max_longitude": 103.985241
+    },
     "translations": {
       "en": "Lai Châu",
       "ar": "مقاطعة لاي تشاو",
@@ -38,20 +48,30 @@
       "uk": "Лайтяу",
       "ur": "لائی چاو صوبہ",
       "vi": "Lai Châu",
-      "zh": "萊州省"
+      "zh": "萊州省",
+      "lv": "Lajķou province",
+      "ceb": "Tỉnh Lai Châu",
+      "lt": "Lai Čau provincija",
+      "yue_Hans": "莱州",
+      "ccp": "𑄣𑄭 𑄌𑄅𑄪",
+      "cs": "Lai Chau",
+      "yue": "萊州",
+      "ca": "Lai Châu"
     },
-    "geo": {
-      "latitude": 22.3686613,
-      "longitude": 103.3119085,
-      "min_latitude": 21.6847368,
-      "min_longitude": 102.3274711,
-      "max_latitude": 22.8214739,
-      "max_longitude": 103.985241
-    },
-    "name": "Lai Chau"
+    "comments": null
   },
   "02": {
+    "name": "Lao Cai",
+    "code": null,
     "unofficial_names": "Lao Cai",
+    "geo": {
+      "latitude": 22.3380865,
+      "longitude": 104.1487055,
+      "min_latitude": 21.8772199,
+      "min_longitude": 103.529518,
+      "max_latitude": 22.848793,
+      "max_longitude": 104.626443
+    },
     "translations": {
       "en": "Lào Cai",
       "ar": "محافظة لاو كاي",
@@ -90,20 +110,29 @@
       "uk": "Лаокай",
       "ur": "لاو کائے صوبہ",
       "vi": "Lào Cai",
-      "zh": "老街省"
+      "zh": "老街省",
+      "lv": "Laokajas province",
+      "ceb": "Tỉnh Lào Cai",
+      "lt": "Lao Kai provincija",
+      "yue_Hans": "老街",
+      "ccp": "𑄣𑄃𑄮 𑄥𑄭",
+      "cs": "Provincie Lao Cai",
+      "yue": "老街"
     },
-    "geo": {
-      "latitude": 22.3380865,
-      "longitude": 104.1487055,
-      "min_latitude": 21.8772199,
-      "min_longitude": 103.529518,
-      "max_latitude": 22.848793,
-      "max_longitude": 104.626443
-    },
-    "name": "Lao Cai"
+    "comments": null
   },
   "03": {
+    "name": "Ha Giang",
+    "code": null,
     "unofficial_names": "Ha Giang",
+    "geo": {
+      "latitude": 22.7662056,
+      "longitude": 104.9388853,
+      "min_latitude": 22.166518,
+      "min_longitude": 104.3361501,
+      "max_latitude": 23.3888341,
+      "max_longitude": 105.5752411
+    },
     "translations": {
       "en": "Hà Giang",
       "ar": "مقاطعة ها جيانج",
@@ -141,20 +170,29 @@
       "uk": "Хазянг",
       "ur": "ہا گیانگ صوبہ",
       "vi": "Hà Giang",
-      "zh": "河江省"
+      "zh": "河江省",
+      "lv": "Hazana",
+      "ceb": "Tỉnh Hà Giang",
+      "lt": "Chadžiangas",
+      "yue_Hans": "河江",
+      "ccp": "𑄦 𑄎𑄨𑄠𑄁",
+      "cs": "Ha Giang (provincie)",
+      "yue": "河江"
     },
-    "geo": {
-      "latitude": 22.7662056,
-      "longitude": 104.9388853,
-      "min_latitude": 22.166518,
-      "min_longitude": 104.3361501,
-      "max_latitude": 23.3888341,
-      "max_longitude": 105.5752411
-    },
-    "name": "Ha Giang"
+    "comments": null
   },
   "04": {
+    "name": "Cao Bang",
+    "code": null,
     "unofficial_names": "Cao Bang",
+    "geo": {
+      "latitude": 22.635689,
+      "longitude": 106.2522143,
+      "min_latitude": 22.35741,
+      "min_longitude": 105.2724999,
+      "max_latitude": 23.1186219,
+      "max_longitude": 106.826317
+    },
     "translations": {
       "en": "Cao Bằng",
       "ar": "مقاطعة كاو بانج",
@@ -192,20 +230,29 @@
       "uk": "Каобанг",
       "ur": "کاؤ بانگ صوبہ",
       "vi": "Cao Bằng",
-      "zh": "高平省"
+      "zh": "高平省",
+      "lv": "Kaobana",
+      "ceb": "Tỉnh Cao Bằng",
+      "lt": "Kao Bangas",
+      "yue_Hans": "高平",
+      "ccp": "𑄇𑄃𑄮 𑄝𑄁",
+      "cs": "Cao Bang",
+      "yue": "高平"
     },
-    "geo": {
-      "latitude": 22.635689,
-      "longitude": 106.2522143,
-      "min_latitude": 22.35741,
-      "min_longitude": 105.2724999,
-      "max_latitude": 23.1186219,
-      "max_longitude": 106.826317
-    },
-    "name": "Cao Bang"
+    "comments": null
   },
   "05": {
+    "name": "Son La",
+    "code": null,
     "unofficial_names": "Son La",
+    "geo": {
+      "latitude": 21.3270341,
+      "longitude": 103.9141288,
+      "min_latitude": 21.2237815,
+      "min_longitude": 103.8084413,
+      "max_latitude": 21.4172762,
+      "max_longitude": 104.0360641
+    },
     "translations": {
       "en": "Sơn La",
       "ar": "مقاطعة سن لا",
@@ -244,20 +291,30 @@
       "uk": "Шонла",
       "ur": "سون لا صوبہ",
       "vi": "Sơn La",
-      "zh": "山羅省"
+      "zh": "山羅省",
+      "lv": "Sonla",
+      "ceb": "Tỉnh Sơn La",
+      "sr_Latn": "Son La",
+      "lt": "Sonla",
+      "yue_Hans": "山罗",
+      "ccp": "𑄥𑄧𑄚𑄴 𑄣",
+      "cs": "Son La",
+      "yue": "山羅"
     },
-    "geo": {
-      "latitude": 21.3270341,
-      "longitude": 103.9141288,
-      "min_latitude": 21.2237815,
-      "min_longitude": 103.8084413,
-      "max_latitude": 21.4172762,
-      "max_longitude": 104.0360641
-    },
-    "name": "Son La"
+    "comments": null
   },
   "06": {
+    "name": "Yen Bai",
+    "code": null,
     "unofficial_names": "Yen Bai",
+    "geo": {
+      "latitude": 21.6837923,
+      "longitude": 104.4551361,
+      "min_latitude": 21.3273449,
+      "min_longitude": 103.887402,
+      "max_latitude": 22.291081,
+      "max_longitude": 105.100925
+    },
     "translations": {
       "en": "Yên Bái",
       "ar": "مقاطعة وين باي",
@@ -296,20 +353,29 @@
       "uk": "Єнбай",
       "ur": "یین با پراونس",
       "vi": "Yên Bái",
-      "zh": "安沛省"
+      "zh": "安沛省",
+      "lv": "Jenbajas province",
+      "ceb": "Tỉnh Yên Bái",
+      "lt": "Jen Bėjus",
+      "yue_Hans": "安沛",
+      "ccp": "𑄃𑄨𑄠𑄬𑄚𑄴 𑄝𑄭",
+      "cs": "Yen Bai",
+      "yue": "安沛"
     },
-    "geo": {
-      "latitude": 21.6837923,
-      "longitude": 104.4551361,
-      "min_latitude": 21.3273449,
-      "min_longitude": 103.887402,
-      "max_latitude": 22.291081,
-      "max_longitude": 105.100925
-    },
-    "name": "Yen Bai"
+    "comments": null
   },
   "07": {
+    "name": "Tuyen Quang",
+    "code": null,
     "unofficial_names": "Tuyen Quang",
+    "geo": {
+      "latitude": 22.1726708,
+      "longitude": 105.3131185,
+      "min_latitude": 21.501763,
+      "min_longitude": 104.848572,
+      "max_latitude": 22.694384,
+      "max_longitude": 105.597397
+    },
     "translations": {
       "en": "Tuyên Quang",
       "ar": "مقاطعة توين كوانج",
@@ -349,20 +415,29 @@
       "uk": "Туєнкуанг (провінція)",
       "ur": "توین قوانگ صوبہ",
       "vi": "Tuyên Quang",
-      "zh": "宣光省"
+      "zh": "宣光省",
+      "lv": "Tujenkuana",
+      "ceb": "Tỉnh Tuyên Quang",
+      "sr_Latn": "Tujen Kvang",
+      "lt": "Tujen Kvango provincija",
+      "yue_Hans": "宣光",
+      "ccp": "𑄑𑄪𑄠𑄬𑄚𑄴 𑄇𑄪𑄠𑄬𑄚𑄴",
+      "yue": "宣光"
     },
-    "geo": {
-      "latitude": 22.1726708,
-      "longitude": 105.3131185,
-      "min_latitude": 21.501763,
-      "min_longitude": 104.848572,
-      "max_latitude": 22.694384,
-      "max_longitude": 105.597397
-    },
-    "name": "Tuyen Quang"
+    "comments": null
   },
   "09": {
+    "name": "Lang Son",
+    "code": null,
     "unofficial_names": "Lang Son",
+    "geo": {
+      "latitude": 21.8563705,
+      "longitude": 106.6291304,
+      "min_latitude": 21.3245939,
+      "min_longitude": 106.0948229,
+      "max_latitude": 22.4613169,
+      "max_longitude": 107.370491
+    },
     "translations": {
       "en": "Lạng Sơn",
       "ar": "مقاطعة لانغ صن",
@@ -402,20 +477,30 @@
       "uk": "Лангшон",
       "ur": "لانگ سون صوبہ",
       "vi": "Lạng Sơn",
-      "zh": "諒山省"
+      "zh": "諒山省",
+      "lv": "Lanšona",
+      "ceb": "Tỉnh Lạng Sơn",
+      "sr_Latn": "Lang Son",
+      "lt": "Langšonas",
+      "yue_Hans": "谅山",
+      "ccp": "𑄣𑄁 𑄥𑄧𑄚𑄴",
+      "cs": "Lang Son",
+      "yue": "諒山"
     },
-    "geo": {
-      "latitude": 21.8563705,
-      "longitude": 106.6291304,
-      "min_latitude": 21.3245939,
-      "min_longitude": 106.0948229,
-      "max_latitude": 22.4613169,
-      "max_longitude": 107.370491
-    },
-    "name": "Lang Son"
+    "comments": null
   },
   "13": {
+    "name": "Quang Ninh",
+    "code": null,
     "unofficial_names": "Quang Ninh",
+    "geo": {
+      "latitude": 21.006382,
+      "longitude": 107.2925144,
+      "min_latitude": 20.7164602,
+      "min_longitude": 106.439682,
+      "max_latitude": 21.6654891,
+      "max_longitude": 108.0736009
+    },
     "translations": {
       "en": "Quảng Ninh",
       "ar": "مقاطعة كوانج ننه",
@@ -455,20 +540,30 @@
       "uk": "Куангнінь",
       "ur": "قوانگ ننہ صوبہ",
       "vi": "Quảng Ninh",
-      "zh": "廣寧省"
+      "zh": "廣寧省",
+      "lv": "Kuangniņa",
+      "ceb": "Tỉnh Quảng Ninh",
+      "sr_Latn": "Kvang Nin",
+      "lt": "Kuang Nino provincija",
+      "yue_Hans": "广宁",
+      "ccp": "𑄇𑄪𑄠𑄁 𑄚𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Quang Ninh",
+      "yue": "廣寧"
     },
-    "geo": {
-      "latitude": 21.006382,
-      "longitude": 107.2925144,
-      "min_latitude": 20.7164602,
-      "min_longitude": 106.439682,
-      "max_latitude": 21.6654891,
-      "max_longitude": 108.0736009
-    },
-    "name": "Quang Ninh"
+    "comments": null
   },
   "14": {
+    "name": "Hoa Binh",
+    "code": null,
     "unofficial_names": "Hoa Binh",
+    "geo": {
+      "latitude": 20.6861265,
+      "longitude": 105.3131185,
+      "min_latitude": 20.3047901,
+      "min_longitude": 104.8349999,
+      "max_latitude": 21.1126179,
+      "max_longitude": 105.8611979
+    },
     "translations": {
       "en": "Hòa Bình",
       "ar": "محافظة هوا بنه",
@@ -506,23 +601,21 @@
       "uk": "Хоабінь",
       "ur": "ہوا بنہ صوبہ",
       "vi": "Hòa Bình",
-      "zh": "和平省"
+      "zh": "和平省",
+      "lv": "Hoabiņa",
+      "ceb": "Tỉnh Hòa Bình",
+      "lt": "Hoa Binas",
+      "yue_Hans": "和平",
+      "ccp": "𑄦𑄮𑄠 𑄝𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Hoa Binh",
+      "yue": "和平"
     },
-    "geo": {
-      "latitude": 20.6861265,
-      "longitude": 105.3131185,
-      "min_latitude": 20.3047901,
-      "min_longitude": 104.8349999,
-      "max_latitude": 21.1126179,
-      "max_longitude": 105.8611979
-    },
-    "name": "Hoa Binh"
+    "comments": null
   },
   "15": {
+    "name": "Ha Tay",
+    "code": null,
     "unofficial_names": "Ha Tay",
-    "translations": {
-      "en": "Ha Tay"
-    },
     "geo": {
       "latitude": 14.2959702,
       "longitude": 108.1191501,
@@ -531,10 +624,23 @@
       "max_latitude": 14.3889795,
       "max_longitude": 108.2156753
     },
-    "name": "Ha Tay"
+    "translations": {
+      "en": "Ha Tay"
+    },
+    "comments": null
   },
   "18": {
+    "name": "Ninh Binh",
+    "code": null,
     "unofficial_names": "Ninh Binh",
+    "geo": {
+      "latitude": 20.2129969,
+      "longitude": 105.92299,
+      "min_latitude": 19.9628219,
+      "min_longitude": 105.5424731,
+      "max_latitude": 20.4552341,
+      "max_longitude": 106.1685398
+    },
     "translations": {
       "en": "Ninh Bình",
       "af": "Ninh Bình",
@@ -577,20 +683,29 @@
       "uk": "Ніньбінь",
       "ur": "ننہ بنہ صوبہ",
       "vi": "Ninh Bình",
-      "zh": "寧平省"
+      "zh": "寧平省",
+      "lv": "Niņbiņa",
+      "ceb": "Tỉnh Ninh Bình",
+      "sr_Latn": "Nin Bin",
+      "lt": "Nin Binas",
+      "yue_Hans": "宁平",
+      "ccp": "𑄚𑄨𑄚𑄴𑄦𑄴 𑄝𑄨𑄚𑄴𑄦𑄴",
+      "yue": "寧平"
     },
-    "geo": {
-      "latitude": 20.2129969,
-      "longitude": 105.92299,
-      "min_latitude": 19.9628219,
-      "min_longitude": 105.5424731,
-      "max_latitude": 20.4552341,
-      "max_longitude": 106.1685398
-    },
-    "name": "Ninh Binh"
+    "comments": null
   },
   "20": {
+    "name": "Thai Binh",
+    "code": null,
     "unofficial_names": "Thai Binh",
+    "geo": {
+      "latitude": 20.4463471,
+      "longitude": 106.3365828,
+      "min_latitude": 20.3997838,
+      "min_longitude": 106.2962436,
+      "max_latitude": 20.5060988,
+      "max_longitude": 106.3930608
+    },
     "translations": {
       "en": "Thái Bình",
       "ar": "مقاطعة ثاي بنه",
@@ -630,20 +745,29 @@
       "uk": "Тхайбінь",
       "ur": "تھائی بنہ صوبہ",
       "vi": "Thái Bình",
-      "zh": "太平省"
+      "zh": "太平省",
+      "lv": "Thajbiņas province",
+      "ceb": "Tỉnh Thái Bình",
+      "lt": "Tai Binas",
+      "yue_Hans": "太平",
+      "ccp": "𑄗𑄭 𑄝𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Thai Binh",
+      "yue": "太平"
     },
-    "geo": {
-      "latitude": 20.4463471,
-      "longitude": 106.3365828,
-      "min_latitude": 20.3997838,
-      "min_longitude": 106.2962436,
-      "max_latitude": 20.5060988,
-      "max_longitude": 106.3930608
-    },
-    "name": "Thai Binh"
+    "comments": null
   },
   "21": {
+    "name": "Thanh Hoa",
+    "code": null,
     "unofficial_names": "Thanh Hoa",
+    "geo": {
+      "latitude": 20.1291279,
+      "longitude": 105.3131185,
+      "min_latitude": 19.2866772,
+      "min_longitude": 104.378349,
+      "max_latitude": 20.6708141,
+      "max_longitude": 106.0758351
+    },
     "translations": {
       "en": "Thanh Hóa",
       "ar": "محافظة تان هوا",
@@ -682,20 +806,28 @@
       "uk": "Тханьхоа",
       "ur": "تھان ہوا صوبہ",
       "vi": "Thanh Hóa",
-      "zh": "清化省"
+      "zh": "清化省",
+      "lv": "Thaņhoa province",
+      "ceb": "Tỉnh Thanh Hóa",
+      "lt": "Tan Choa provincija",
+      "yue_Hans": "清化",
+      "ccp": "𑄗𑄚𑄴𑄦𑄴 𑄦𑄮𑄠",
+      "yue": "清化"
     },
-    "geo": {
-      "latitude": 20.1291279,
-      "longitude": 105.3131185,
-      "min_latitude": 19.2866772,
-      "min_longitude": 104.378349,
-      "max_latitude": 20.6708141,
-      "max_longitude": 106.0758351
-    },
-    "name": "Thanh Hoa"
+    "comments": null
   },
   "22": {
+    "name": "Nghe An",
+    "code": null,
     "unofficial_names": "Nghe An",
+    "geo": {
+      "latitude": 19.2342489,
+      "longitude": 104.9200365,
+      "min_latitude": 18.5531651,
+      "min_longitude": 103.876259,
+      "max_latitude": 19.999296,
+      "max_longitude": 105.806644
+    },
     "translations": {
       "en": "Nghệ An",
       "ar": "محافظة ني أن",
@@ -736,20 +868,29 @@
       "uk": "Нгеан",
       "ur": "نگہ آن صوبہ",
       "vi": "Nghệ An",
-      "zh": "乂安省"
+      "zh": "乂安省",
+      "lv": "Ngeana",
+      "ceb": "Tỉnh Nghệ An",
+      "lt": "Ngeanas",
+      "yue_Hans": "乂安",
+      "ccp": "𑄊𑄬 𑄃𑄚𑄴",
+      "yue": "乂安",
+      "mk": "Нге Ан"
     },
-    "geo": {
-      "latitude": 19.2342489,
-      "longitude": 104.9200365,
-      "min_latitude": 18.5531651,
-      "min_longitude": 103.876259,
-      "max_latitude": 19.999296,
-      "max_longitude": 105.806644
-    },
-    "name": "Nghe An"
+    "comments": null
   },
   "23": {
+    "name": "Ha Tinh",
+    "code": null,
     "unofficial_names": "Ha Tinh",
+    "geo": {
+      "latitude": 18.2943776,
+      "longitude": 105.6745247,
+      "min_latitude": 17.915977,
+      "min_longitude": 105.108635,
+      "max_latitude": 18.7626158,
+      "max_longitude": 106.5042068
+    },
     "translations": {
       "en": "Hà Tĩnh",
       "ar": "مقاطعة ها تنه",
@@ -787,20 +928,30 @@
       "uk": "Хатінь",
       "ur": "صوبہ ہاتنہ",
       "vi": "Hà Tĩnh",
-      "zh": "河靜省"
+      "zh": "河靜省",
+      "lv": "Hatiņas province",
+      "ceb": "Tỉnh Hà Tĩnh",
+      "sr_Latn": "Ha Tin",
+      "lt": "Natino provincija",
+      "yue_Hans": "河静",
+      "ccp": "𑄦 𑄑𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Ha Tinh",
+      "yue": "河靜"
     },
-    "geo": {
-      "latitude": 18.2943776,
-      "longitude": 105.6745247,
-      "min_latitude": 17.915977,
-      "min_longitude": 105.108635,
-      "max_latitude": 18.7626158,
-      "max_longitude": 106.5042068
-    },
-    "name": "Ha Tinh"
+    "comments": null
   },
   "24": {
+    "name": "Quang Binh",
+    "code": null,
     "unofficial_names": "Quang Binh",
+    "geo": {
+      "latitude": 17.6102715,
+      "longitude": 106.3487474,
+      "min_latitude": 16.924024,
+      "min_longitude": 105.617928,
+      "max_latitude": 18.089871,
+      "max_longitude": 106.995214
+    },
     "translations": {
       "en": "Quảng Bình",
       "af": "Quang Binh",
@@ -853,20 +1004,34 @@
       "uk": "Куангбінь",
       "ur": "صوبہ کوانگ بن",
       "vi": "Quảng Bình",
-      "zh": "廣平省"
+      "zh": "廣平省",
+      "ceb": "Quang Binh",
+      "sr_Latn": "Kuangbin",
+      "yue_Hans": "广平省",
+      "jv": "Provinsi Quang Binh",
+      "sq": "Provinca Quang Binh",
+      "ccp": "𑄇𑄪𑄠𑄁 𑄝𑄨𑄚𑄴𑄦𑄴",
+      "ga": "Quang Binh",
+      "he": "קוואנג בין",
+      "so": "Quang Binh",
+      "pa": "ਕੂਏਂਗ ਬਿਨਾਹ ਸੂਬਾ",
+      "yue": "廣平省",
+      "am": "ኳንግ ቢን ክፍላገር"
     },
-    "geo": {
-      "latitude": 17.6102715,
-      "longitude": 106.3487474,
-      "min_latitude": 16.924024,
-      "min_longitude": 105.617928,
-      "max_latitude": 18.089871,
-      "max_longitude": 106.995214
-    },
-    "name": "Quang Binh"
+    "comments": null
   },
   "25": {
+    "name": "Quang Tri",
+    "code": null,
     "unofficial_names": "Quang Tri",
+    "geo": {
+      "latitude": 16.7943472,
+      "longitude": 106.963409,
+      "min_latitude": 16.3023949,
+      "min_longitude": 106.553429,
+      "max_latitude": 17.165551,
+      "max_longitude": 107.3883289
+    },
     "translations": {
       "en": "Quảng Trị",
       "ar": "مقاطعة كوانج تري",
@@ -906,20 +1071,29 @@
       "uk": "Куангчі",
       "ur": "قوانگ تری صوبہ",
       "vi": "Quảng Trị",
-      "zh": "廣治省"
+      "zh": "廣治省",
+      "lv": "Kuanči province",
+      "ceb": "Tỉnh Quảng Trị",
+      "lt": "Kvangčio provincija",
+      "yue_Hans": "广治",
+      "ccp": "𑄇𑄪𑄠𑄁 𑄑𑄳𑄢𑄭",
+      "yue": "廣治",
+      "be": "Куангчы"
     },
-    "geo": {
-      "latitude": 16.7943472,
-      "longitude": 106.963409,
-      "min_latitude": 16.3023949,
-      "min_longitude": 106.553429,
-      "max_latitude": 17.165551,
-      "max_longitude": 107.3883289
-    },
-    "name": "Quang Tri"
+    "comments": null
   },
   "26": {
+    "name": "Thua Thien-Hue",
+    "code": null,
     "unofficial_names": "Thua Thien-Hue",
+    "geo": {
+      "latitude": 16.467397,
+      "longitude": 107.5905326,
+      "min_latitude": 15.994803,
+      "min_longitude": 107.0167731,
+      "max_latitude": 16.741354,
+      "max_longitude": 108.1925689
+    },
     "translations": {
       "en": "Thừa Thiên–Huế",
       "ar": "مقاطعة ثوا ثن هوي",
@@ -955,20 +1129,29 @@
       "uk": "Тхиатхьєн-Хюе",
       "ur": "تھوا تھیئن-ہوائے صوبہ",
       "vi": "Thừa Thiên - Huế",
-      "zh": "承天順化省"
+      "zh": "承天順化省",
+      "lv": "Thiathjenas-Hue province",
+      "ceb": "Tỉnh Thừa Thiên-Huế",
+      "lt": "TchiaTjenchujaus provincija",
+      "yue_Hans": "承天顺化",
+      "ccp": "𑄗𑄪𑄠 𑄗𑄨𑄠𑄬𑄚𑄴-𑄦𑄪𑄠𑄬",
+      "cs": "Thua Thien-Hue",
+      "yue": "承天順化"
     },
-    "geo": {
-      "latitude": 16.467397,
-      "longitude": 107.5905326,
-      "min_latitude": 15.994803,
-      "min_longitude": 107.0167731,
-      "max_latitude": 16.741354,
-      "max_longitude": 108.1925689
-    },
-    "name": "Thua Thien-Hue"
+    "comments": null
   },
   "27": {
+    "name": "Quang Nam",
+    "code": null,
     "unofficial_names": "Quang Nam",
+    "geo": {
+      "latitude": 15.5393538,
+      "longitude": 108.019102,
+      "min_latitude": 14.951885,
+      "min_longitude": 107.217789,
+      "max_latitude": 16.066077,
+      "max_longitude": 108.7379948
+    },
     "translations": {
       "en": "Quảng Nam",
       "ar": "مقاطعة كوانج نام",
@@ -1008,20 +1191,29 @@
       "uk": "Куангнам",
       "ur": "قوانگ نام صوبہ",
       "vi": "Quảng Nam",
-      "zh": "廣南省"
+      "zh": "廣南省",
+      "lv": "Kuannama",
+      "ceb": "Tỉnh Quảng Nam",
+      "sr_Latn": "Kvang Nam",
+      "lt": "Kvangnamas",
+      "yue_Hans": "广南",
+      "ccp": "𑄇𑄪𑄠𑄁 𑄚𑄟𑄴",
+      "yue": "廣南"
     },
-    "geo": {
-      "latitude": 15.5393538,
-      "longitude": 108.019102,
-      "min_latitude": 14.951885,
-      "min_longitude": 107.217789,
-      "max_latitude": 16.066077,
-      "max_longitude": 108.7379948
-    },
-    "name": "Quang Nam"
+    "comments": null
   },
   "28": {
+    "name": "Kon Tum",
+    "code": null,
     "unofficial_names": "Kon Tum",
+    "geo": {
+      "latitude": 14.3497403,
+      "longitude": 108.0004606,
+      "min_latitude": 14.2307742,
+      "min_longitude": 107.8523969,
+      "max_latitude": 14.4549609,
+      "max_longitude": 108.088045
+    },
     "translations": {
       "en": "Kon Tum",
       "ar": "محافظة كون توم",
@@ -1060,20 +1252,30 @@
       "uk": "Контум",
       "ur": "کون تم صوبہ",
       "vi": "Kon Tum",
-      "zh": "崑嵩省"
+      "zh": "崑嵩省",
+      "lv": "Kontumas province",
+      "ceb": "Kon Tum",
+      "sr_Latn": "Kontum",
+      "lt": "Kon Tumo provincija",
+      "yue_Hans": "昆嵩",
+      "ccp": "𑄇𑄮𑄚𑄴 𑄑𑄪𑄟𑄴",
+      "cs": "Kon Tum",
+      "yue": "崑嵩"
     },
-    "geo": {
-      "latitude": 14.3497403,
-      "longitude": 108.0004606,
-      "min_latitude": 14.2307742,
-      "min_longitude": 107.8523969,
-      "max_latitude": 14.4549609,
-      "max_longitude": 108.088045
-    },
-    "name": "Kon Tum"
+    "comments": null
   },
   "29": {
+    "name": "Quang Ngai",
+    "code": null,
     "unofficial_names": "Quang Ngai",
+    "geo": {
+      "latitude": 15.1213873,
+      "longitude": 108.8044145,
+      "min_latitude": 15.0926163,
+      "min_longitude": 108.7603999,
+      "max_latitude": 15.216273,
+      "max_longitude": 108.9229524
+    },
     "translations": {
       "en": "Quảng Ngãi",
       "ar": "مقاطعة كوانج نجاي",
@@ -1113,20 +1315,30 @@
       "uk": "Куангнгай",
       "ur": "قوانگ نگائی صوبہ",
       "vi": "Quảng Ngãi",
-      "zh": "廣義省"
+      "zh": "廣義省",
+      "lv": "Kuanngaja",
+      "ceb": "Tỉnh Quảng Ngãi",
+      "sr_Latn": "Kvang Ngaj",
+      "lt": "Kvang Ngajus",
+      "yue_Hans": "广刈省",
+      "ccp": "𑄇𑄪𑄠𑄁 𑄉𑄭",
+      "yue": "廣刈省",
+      "be": "Куангнгай"
     },
-    "geo": {
-      "latitude": 15.1213873,
-      "longitude": 108.8044145,
-      "min_latitude": 15.0926163,
-      "min_longitude": 108.7603999,
-      "max_latitude": 15.216273,
-      "max_longitude": 108.9229524
-    },
-    "name": "Quang Ngai"
+    "comments": null
   },
   "30": {
+    "name": "Gia Lai",
+    "code": null,
     "unofficial_names": "Gia Lai",
+    "geo": {
+      "latitude": 13.8078943,
+      "longitude": 108.109375,
+      "min_latitude": 12.9962269,
+      "min_longitude": 107.3392181,
+      "max_latitude": 14.602364,
+      "max_longitude": 108.8727541
+    },
     "translations": {
       "en": "Gia Lai",
       "ar": "محافظة زا لاي",
@@ -1164,20 +1376,31 @@
       "uk": "Зялай",
       "ur": "گیا لائی صوبہ",
       "vi": "Gia Lai",
-      "zh": "嘉萊省"
+      "zh": "嘉萊省",
+      "lv": "Zalaja",
+      "ceb": "Gia Lai",
+      "sr_Latn": "Đa Laj",
+      "lt": "Baklėjus",
+      "yue_Hans": "嘉莱",
+      "ccp": "𑄎𑄨𑄠𑄭 𑄣𑄭",
+      "ml": "ഗിയ ലായ് പ്രൊവിൻസ്",
+      "cs": "Gia Lai",
+      "yue": "嘉萊"
     },
-    "geo": {
-      "latitude": 13.8078943,
-      "longitude": 108.109375,
-      "min_latitude": 12.9962269,
-      "min_longitude": 107.3392181,
-      "max_latitude": 14.602364,
-      "max_longitude": 108.8727541
-    },
-    "name": "Gia Lai"
+    "comments": null
   },
   "31": {
+    "name": "Binh Dinh",
+    "code": null,
     "unofficial_names": "Binh Dinh",
+    "geo": {
+      "latitude": 13.7829673,
+      "longitude": 109.2196634,
+      "min_latitude": 13.669688,
+      "min_longitude": 109.1325188,
+      "max_latitude": 13.899993,
+      "max_longitude": 109.3000072
+    },
     "translations": {
       "en": "Bình Định",
       "ar": "محافظة بنه دنه",
@@ -1214,20 +1437,29 @@
       "uk": "Біньдінь",
       "ur": "بنہ دینہ صوبہ",
       "vi": "Bình Định",
-      "zh": "平定省"
+      "zh": "平定省",
+      "lv": "Biņdiņas province",
+      "ceb": "Tỉnh Bình Định",
+      "lt": "Bindino provincija",
+      "yue_Hans": "平定",
+      "ccp": "𑄝𑄨𑄚𑄴𑄦𑄴 𑄓𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Binh Dinh",
+      "yue": "平定"
     },
-    "geo": {
-      "latitude": 13.7829673,
-      "longitude": 109.2196634,
-      "min_latitude": 13.669688,
-      "min_longitude": 109.1325188,
-      "max_latitude": 13.899993,
-      "max_longitude": 109.3000072
-    },
-    "name": "Binh Dinh"
+    "comments": null
   },
   "32": {
+    "name": "Phu Yen",
+    "code": null,
     "unofficial_names": "Phu Yen",
+    "geo": {
+      "latitude": 13.0881861,
+      "longitude": 109.0928764,
+      "min_latitude": 12.705112,
+      "min_longitude": 108.672809,
+      "max_latitude": 13.694343,
+      "max_longitude": 109.4588245
+    },
     "translations": {
       "en": "Phú Yên",
       "ar": "محافظة فو أين",
@@ -1266,20 +1498,29 @@
       "uk": "Фуєн",
       "ur": "فو ین صوبہ",
       "vi": "Phú Yên",
-      "zh": "富安省"
+      "zh": "富安省",
+      "lv": "Fujena",
+      "ceb": "Tỉnh Phú Yên",
+      "lt": "Fujenas",
+      "yue_Hans": "富安",
+      "ccp": "𑄜𑄪 𑄃𑄨𑄠𑄬𑄚𑄴",
+      "cs": "Phu Yen",
+      "yue": "富安"
     },
-    "geo": {
-      "latitude": 13.0881861,
-      "longitude": 109.0928764,
-      "min_latitude": 12.705112,
-      "min_longitude": 108.672809,
-      "max_latitude": 13.694343,
-      "max_longitude": 109.4588245
-    },
-    "name": "Phu Yen"
+    "comments": null
   },
   "33": {
+    "name": "Dac Lac",
+    "code": null,
     "unofficial_names": "Dac Lac",
+    "geo": {
+      "latitude": 12.7100116,
+      "longitude": 108.2377519,
+      "min_latitude": 12.16056,
+      "min_longitude": 107.4892809,
+      "max_latitude": 13.4162268,
+      "max_longitude": 108.994509
+    },
     "translations": {
       "en": "Đắk Lắk",
       "ar": "محافظة داك لاك",
@@ -1317,20 +1558,29 @@
       "uk": "Даклак",
       "ur": "داک لاک صوبہ",
       "vi": "Đắk Lắk",
-      "zh": "多樂省"
+      "zh": "多樂省",
+      "lv": "Daklaka",
+      "sr_Latn": "Dak Lak",
+      "lt": "Daklakas",
+      "yue_Hans": "多乐",
+      "ccp": "𑄓𑄇𑄴 𑄣𑄇𑄴",
+      "cs": "Dak Lak",
+      "yue": "多樂"
     },
-    "geo": {
-      "latitude": 12.7100116,
-      "longitude": 108.2377519,
-      "min_latitude": 12.16056,
-      "min_longitude": 107.4892809,
-      "max_latitude": 13.4162268,
-      "max_longitude": 108.994509
-    },
-    "name": "Dac Lac"
+    "comments": null
   },
   "34": {
+    "name": "Khanh Hoa",
+    "code": null,
     "unofficial_names": "Khanh Hoa",
+    "geo": {
+      "latitude": 12.2585098,
+      "longitude": 109.0526076,
+      "min_latitude": 11.8045669,
+      "min_longitude": 108.671521,
+      "max_latitude": 12.8655891,
+      "max_longitude": 109.4615432
+    },
     "translations": {
       "en": "Khánh Hòa",
       "ar": "محافظة كان هوا",
@@ -1368,20 +1618,32 @@
       "uk": "Кханьхоа",
       "ur": "خانھ ہوا صوبہ",
       "vi": "Khánh Hòa",
-      "zh": "慶和省"
+      "zh": "慶和省",
+      "lv": "Haņhoa",
+      "ceb": "Tỉnh Khánh Hòa",
+      "sr_Latn": "Kan Hoa",
+      "lt": "Kanchoa",
+      "yue_Hans": "庆和",
+      "ccp": "𑄈𑄚𑄴𑄦𑄴 𑄦𑄮𑄠",
+      "ro": "provincia Khánh Hòa",
+      "cs": "Khanh Hoa",
+      "yue": "慶和",
+      "ca": "Khánh Hòa"
     },
-    "geo": {
-      "latitude": 12.2585098,
-      "longitude": 109.0526076,
-      "min_latitude": 11.8045669,
-      "min_longitude": 108.671521,
-      "max_latitude": 12.8655891,
-      "max_longitude": 109.4615432
-    },
-    "name": "Khanh Hoa"
+    "comments": null
   },
   "35": {
+    "name": "Lam Dong",
+    "code": null,
     "unofficial_names": "Lam Dong",
+    "geo": {
+      "latitude": 11.9404192,
+      "longitude": 108.4583132,
+      "min_latitude": 11.8051867,
+      "min_longitude": 108.3107758,
+      "max_latitude": 12.002635,
+      "max_longitude": 108.5906696
+    },
     "translations": {
       "en": "Lâm Đồng",
       "ar": "محافظة لام دونغ",
@@ -1420,20 +1682,30 @@
       "uk": "Ламдонг",
       "ur": "لام ڈونگ صوبہ",
       "vi": "Lâm Đồng",
-      "zh": "林同省"
+      "zh": "林同省",
+      "lv": "Lomdonas province",
+      "ceb": "Tỉnh Lâm Đồng",
+      "sr_Latn": "Lam Dong",
+      "lt": "Lamdongo provincija",
+      "yue_Hans": "林同",
+      "ccp": "𑄣𑄟𑄴 𑄓𑄧𑄁",
+      "cs": "Lam Dong",
+      "yue": "林同"
     },
-    "geo": {
-      "latitude": 11.9404192,
-      "longitude": 108.4583132,
-      "min_latitude": 11.8051867,
-      "min_longitude": 108.3107758,
-      "max_latitude": 12.002635,
-      "max_longitude": 108.5906696
-    },
-    "name": "Lam Dong"
+    "comments": null
   },
   "36": {
+    "name": "Ninh Thuan",
+    "code": null,
     "unofficial_names": "Ninh Thuan",
+    "geo": {
+      "latitude": 11.6738767,
+      "longitude": 108.8629572,
+      "min_latitude": 11.3070363,
+      "min_longitude": 108.55301,
+      "max_latitude": 12.163288,
+      "max_longitude": 109.2379444
+    },
     "translations": {
       "en": "Ninh Thuận",
       "ar": "محافظة ننه توان",
@@ -1472,20 +1744,29 @@
       "uk": "Ніньтхуан",
       "ur": "ننہ تھوان صوبہ",
       "vi": "Ninh Thuận",
-      "zh": "寧順省"
+      "zh": "寧順省",
+      "lv": "Niņthuona",
+      "ceb": "Tỉnh Ninh Thuận",
+      "lt": "Nintchuanas",
+      "yue_Hans": "宁顺",
+      "ccp": "𑄚𑄨𑄚𑄴𑄦𑄴 𑄒𑄪𑄠𑄚𑄴",
+      "cs": "Ninh Thuan",
+      "yue": "寧順"
     },
-    "geo": {
-      "latitude": 11.6738767,
-      "longitude": 108.8629572,
-      "min_latitude": 11.3070363,
-      "min_longitude": 108.55301,
-      "max_latitude": 12.163288,
-      "max_longitude": 109.2379444
-    },
-    "name": "Ninh Thuan"
+    "comments": null
   },
   "37": {
+    "name": "Tay Ninh",
+    "code": null,
     "unofficial_names": "Tay Ninh",
+    "geo": {
+      "latitude": 11.3675415,
+      "longitude": 106.1192802,
+      "min_latitude": 11.2912109,
+      "min_longitude": 106.0719681,
+      "max_latitude": 11.4389323,
+      "max_longitude": 106.1909722
+    },
     "translations": {
       "en": "Tây Ninh",
       "ar": "مقاطعة تاي ننه",
@@ -1524,20 +1805,29 @@
       "uk": "Тейнінь",
       "ur": "تاے ننہ صوبہ",
       "vi": "Tây Ninh",
-      "zh": "西寧省"
+      "zh": "西寧省",
+      "lv": "Tojniņa",
+      "ceb": "Tỉnh Tây Ninh",
+      "lt": "Teinino provincija",
+      "yue_Hans": "西宁",
+      "ccp": "𑄑𑄬 𑄚𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Tay Ninh",
+      "yue": "西寧"
     },
-    "geo": {
-      "latitude": 11.3675415,
-      "longitude": 106.1192802,
-      "min_latitude": 11.2912109,
-      "min_longitude": 106.0719681,
-      "max_latitude": 11.4389323,
-      "max_longitude": 106.1909722
-    },
-    "name": "Tay Ninh"
+    "comments": null
   },
   "39": {
+    "name": "Dong Nai",
+    "code": null,
     "unofficial_names": "Dong Nai",
+    "geo": {
+      "latitude": 11.0686305,
+      "longitude": 107.1675976,
+      "min_latitude": 10.582153,
+      "min_longitude": 106.7527479,
+      "max_latitude": 11.5814941,
+      "max_longitude": 107.5747849
+    },
     "translations": {
       "en": "Đồng Nai",
       "ar": "مقاطعة دونج ناي",
@@ -1561,20 +1851,31 @@
       "uk": "Донгнай",
       "ur": "دونگ نائی صوبہ",
       "vi": "Đồng Nai",
-      "zh": "同奈省"
+      "zh": "同奈省",
+      "ceb": "Tỉnh Đồng Nai",
+      "sr_Latn": "Dong Naj",
+      "yue_Hans": "同奈",
+      "hi": "डौंग नाय प्रान्त",
+      "ccp": "𑄓𑄧𑄁 𑄚𑄭",
+      "ga": "Dong Nai",
+      "cs": "Dong Nai",
+      "yue": "同奈",
+      "th": "จังหวัดด่งนาย"
     },
-    "geo": {
-      "latitude": 11.0686305,
-      "longitude": 107.1675976,
-      "min_latitude": 10.582153,
-      "min_longitude": 106.7527479,
-      "max_latitude": 11.5814941,
-      "max_longitude": 107.5747849
-    },
-    "name": "Dong Nai"
+    "comments": null
   },
   "40": {
+    "name": "Binh Thuan",
+    "code": null,
     "unofficial_names": "Binh Thuan",
+    "geo": {
+      "latitude": 10.933333,
+      "longitude": 108.1,
+      "min_latitude": 10.7712849,
+      "min_longitude": 107.9904427,
+      "max_latitude": 11.0238032,
+      "max_longitude": 108.3558984
+    },
     "translations": {
       "en": "Bình Thuận",
       "ar": "مقاطعة بنه ثوان",
@@ -1611,20 +1912,29 @@
       "uk": "Біньтхуан",
       "ur": "بنہ تھوان صوبہ",
       "vi": "Bình Thuận",
-      "zh": "平順省"
+      "zh": "平順省",
+      "lv": "Biņthuanas province",
+      "ceb": "Tỉnh Bình Thuận",
+      "lt": "Bin Tuano provincija",
+      "yue_Hans": "平顺",
+      "ccp": "𑄝𑄨𑄚𑄴𑄦𑄴 𑄗𑄪𑄠𑄚𑄴",
+      "cs": "Binh Thuan",
+      "yue": "平順"
     },
-    "geo": {
-      "latitude": 10.933333,
-      "longitude": 108.1,
-      "min_latitude": 10.7712849,
-      "min_longitude": 107.9904427,
-      "max_latitude": 11.0238032,
-      "max_longitude": 108.3558984
-    },
-    "name": "Binh Thuan"
+    "comments": null
   },
   "41": {
+    "name": "Long An",
+    "code": null,
     "unofficial_names": "Long An",
+    "geo": {
+      "latitude": 10.5330098,
+      "longitude": 106.4052541,
+      "min_latitude": 10.4757429,
+      "min_longitude": 106.346712,
+      "max_latitude": 10.5754034,
+      "max_longitude": 106.4600945
+    },
     "translations": {
       "en": "Long An",
       "ar": "محافظة لونغ أن",
@@ -1665,20 +1975,29 @@
       "uk": "Лонган",
       "ur": "لونگ آن صوبہ",
       "vi": "Long An",
-      "zh": "隆安省"
+      "zh": "隆安省",
+      "lv": "Lonana",
+      "ceb": "Long An",
+      "sr_Latn": "Long An",
+      "lt": "Long Anas",
+      "yue_Hans": "隆安",
+      "ccp": "𑄣𑄧𑄁 𑄃𑄚𑄴",
+      "yue": "隆安"
     },
-    "geo": {
-      "latitude": 10.5330098,
-      "longitude": 106.4052541,
-      "min_latitude": 10.4757429,
-      "min_longitude": 106.346712,
-      "max_latitude": 10.5754034,
-      "max_longitude": 106.4600945
-    },
-    "name": "Long An"
+    "comments": null
   },
   "43": {
+    "name": "Ba Ria - Vung Tau",
+    "code": null,
     "unofficial_names": "Ba Ria - Vung Tau",
+    "geo": {
+      "latitude": 10.5417397,
+      "longitude": 107.2429976,
+      "min_latitude": 10.3202097,
+      "min_longitude": 106.9980384,
+      "max_latitude": 10.8039479,
+      "max_longitude": 107.5830259
+    },
     "translations": {
       "en": "Bà Rịa–Vũng Tàu",
       "ar": "مقاطعة با ريا فونج تاو",
@@ -1715,20 +2034,29 @@
       "uk": "Барія-Вунгтау",
       "ur": "با ریا-وؤنگ تاو صوبہ",
       "vi": "Bà Rịa - Vũng Tàu",
-      "zh": "巴地頭頓省"
+      "zh": "巴地頭頓省",
+      "lv": "Baria-Vungtau",
+      "ceb": "Tỉnh Bà Rịa-Vũng Tàu",
+      "lt": "Barijos-Vungtau provincija",
+      "yue_Hans": "巴地头顿",
+      "ccp": "𑄝 𑄢𑄨𑄃𑄮-𑄞𑄁 𑄑𑄅𑄪",
+      "cs": "Ba Ria-Vung Tau",
+      "yue": "巴地頭頓"
     },
-    "geo": {
-      "latitude": 10.5417397,
-      "longitude": 107.2429976,
-      "min_latitude": 10.3202097,
-      "min_longitude": 106.9980384,
-      "max_latitude": 10.8039479,
-      "max_longitude": 107.5830259
-    },
-    "name": "Ba Ria - Vung Tau"
+    "comments": null
   },
   "44": {
+    "name": "An Giang",
+    "code": null,
     "unofficial_names": "An Giang",
+    "geo": {
+      "latitude": 10.5215836,
+      "longitude": 105.1258955,
+      "min_latitude": 10.1824999,
+      "min_longitude": 104.7775209,
+      "max_latitude": 10.9559351,
+      "max_longitude": 105.5719318
+    },
     "translations": {
       "en": "An Giang",
       "ar": "مقاطعة آن جيانج",
@@ -1768,20 +2096,29 @@
       "uk": "Анзянг",
       "ur": "آن گیانگ صوبہ",
       "vi": "An Giang",
-      "zh": "安江省"
+      "zh": "安江省",
+      "lv": "Anzana",
+      "ceb": "An Giang",
+      "lt": "Anziango provincija",
+      "yue_Hans": "安江省",
+      "ccp": "𑄃𑄚𑄴 𑄎𑄨𑄠𑄁",
+      "cs": "An Giang",
+      "yue": "安江省"
     },
-    "geo": {
-      "latitude": 10.5215836,
-      "longitude": 105.1258955,
-      "min_latitude": 10.1824999,
-      "min_longitude": 104.7775209,
-      "max_latitude": 10.9559351,
-      "max_longitude": 105.5719318
-    },
-    "name": "An Giang"
+    "comments": null
   },
   "45": {
+    "name": "Dong Thap",
+    "code": null,
     "unofficial_names": "Dong Thap",
+    "geo": {
+      "latitude": 10.4937989,
+      "longitude": 105.6881788,
+      "min_latitude": 10.1387694,
+      "min_longitude": 105.1887371,
+      "max_latitude": 10.9664691,
+      "max_longitude": 105.944197
+    },
     "translations": {
       "en": "Đồng Tháp",
       "ar": "محافظة دون تاب",
@@ -1819,20 +2156,29 @@
       "uk": "Донгтхап",
       "ur": "دونگ تھاپ صوبہ",
       "vi": "Tỉnh Đồng Tháp",
-      "zh": "同塔省"
+      "zh": "同塔省",
+      "lv": "Donthapas province",
+      "ceb": "Tỉnh Đồng Tháp",
+      "lt": "Dongtchapo provincija",
+      "yue_Hans": "同塔",
+      "ccp": "𑄓𑄧𑄁 𑄗𑄛𑄴",
+      "cs": "Dong Thap",
+      "yue": "同塔"
     },
-    "geo": {
-      "latitude": 10.4937989,
-      "longitude": 105.6881788,
-      "min_latitude": 10.1387694,
-      "min_longitude": 105.1887371,
-      "max_latitude": 10.9664691,
-      "max_longitude": 105.944197
-    },
-    "name": "Dong Thap"
+    "comments": null
   },
   "46": {
+    "name": "Tien Giang",
+    "code": null,
     "unofficial_names": "Tien Giang",
+    "geo": {
+      "latitude": 10.4493324,
+      "longitude": 106.3420504,
+      "min_latitude": 10.213442,
+      "min_longitude": 105.8196079,
+      "max_latitude": 10.5871,
+      "max_longitude": 106.788528
+    },
     "translations": {
       "en": "Tiền Giang",
       "ar": "مقاطعة تين جيانج",
@@ -1870,20 +2216,29 @@
       "uk": "Тьєнзянг",
       "ur": "تیئن گیانگ صوبہ",
       "vi": "Tiền Giang",
-      "zh": "前江省"
+      "zh": "前江省",
+      "lv": "Thenzana",
+      "ceb": "Tỉnh Tiền Giang",
+      "lt": "Tien Giangas",
+      "yue_Hans": "前江",
+      "ccp": "𑄑𑄨𑄠𑄬𑄚𑄴 𑄎𑄨𑄠𑄁",
+      "cs": "Tien Giang",
+      "yue": "前江"
     },
-    "geo": {
-      "latitude": 10.4493324,
-      "longitude": 106.3420504,
-      "min_latitude": 10.213442,
-      "min_longitude": 105.8196079,
-      "max_latitude": 10.5871,
-      "max_longitude": 106.788528
-    },
-    "name": "Tien Giang"
+    "comments": null
   },
   "47": {
+    "name": "Kien Giang",
+    "code": null,
     "unofficial_names": "Kien Giang",
+    "geo": {
+      "latitude": 9.8249587,
+      "longitude": 105.1258955,
+      "min_latitude": 9.381122999999999,
+      "min_longitude": 104.3223179,
+      "max_latitude": 10.538596,
+      "max_longitude": 105.538959
+    },
     "translations": {
       "en": "Kiên Giang",
       "ar": "محافظة كن زانغ",
@@ -1921,23 +2276,21 @@
       "uk": "Кьєнзянг",
       "ur": "کیئن گیانگ صوبہ",
       "vi": "Kiên Giang",
-      "zh": "堅江省"
+      "zh": "堅江省",
+      "lv": "Kjenzana",
+      "ceb": "Tỉnh Kiến Giang",
+      "lt": "Kjengiangas",
+      "yue_Hans": "坚江",
+      "ccp": "𑄇𑄨𑄠𑄬𑄚𑄴 𑄎𑄨𑄠𑄁",
+      "cs": "Kien Giang",
+      "yue": "堅江"
     },
-    "geo": {
-      "latitude": 9.8249587,
-      "longitude": 105.1258955,
-      "min_latitude": 9.381122999999999,
-      "min_longitude": 104.3223179,
-      "max_latitude": 10.538596,
-      "max_longitude": 105.538959
-    },
-    "name": "Kien Giang"
+    "comments": null
   },
   "48": {
+    "name": "Can Tho",
+    "code": null,
     "unofficial_names": "Can Tho",
-    "translations": {
-      "en": "Can Tho"
-    },
     "geo": {
       "latitude": 10.0451618,
       "longitude": 105.7468535,
@@ -1946,10 +2299,23 @@
       "max_latitude": 10.0746025,
       "max_longitude": 105.7959312
     },
-    "name": "Can Tho"
+    "translations": {
+      "en": "Can Tho"
+    },
+    "comments": null
   },
   "49": {
+    "name": "Vinh Long",
+    "code": null,
     "unofficial_names": "Vinh Long",
+    "geo": {
+      "latitude": 10.2448442,
+      "longitude": 105.958865,
+      "min_latitude": 10.2191458,
+      "min_longitude": 105.8777602,
+      "max_latitude": 10.2759884,
+      "max_longitude": 105.9974669
+    },
     "translations": {
       "en": "Vĩnh Long",
       "ar": "مقاطعة فنه لونج",
@@ -1989,20 +2355,30 @@
       "uk": "Віньлонг",
       "ur": "وینہ لونگ صوبہ",
       "vi": "Vĩnh Long",
-      "zh": "永隆省"
+      "zh": "永隆省",
+      "lv": "Viņlona",
+      "ceb": "Tỉnh Vĩnh Long",
+      "sr_Latn": "Vinj Long",
+      "lt": "Vin Longas",
+      "yue_Hans": "永隆",
+      "ccp": "𑄞𑄨𑄚𑄴𑄦𑄴 𑄣𑄧𑄁",
+      "cs": "Vinh Long",
+      "yue": "永隆"
     },
-    "geo": {
-      "latitude": 10.2448442,
-      "longitude": 105.958865,
-      "min_latitude": 10.2191458,
-      "min_longitude": 105.8777602,
-      "max_latitude": 10.2759884,
-      "max_longitude": 105.9974669
-    },
-    "name": "Vinh Long"
+    "comments": null
   },
   "50": {
+    "name": "Ben Tre",
+    "code": null,
     "unofficial_names": "Ben Tre",
+    "geo": {
+      "latitude": 10.1081553,
+      "longitude": 106.4405872,
+      "min_latitude": 9.808341,
+      "min_longitude": 106.0147733,
+      "max_latitude": 10.3373171,
+      "max_longitude": 106.7976299
+    },
     "translations": {
       "en": "Bến Tre",
       "ar": "محافظة بن تشي",
@@ -2040,20 +2416,30 @@
       "uk": "Бенче",
       "ur": "بئن تر صوبہ",
       "vi": "Bến Tre",
-      "zh": "檳椥省"
+      "zh": "檳椥省",
+      "lv": "Benčes province",
+      "ceb": "Tỉnh Bến Tre",
+      "sr_Latn": "Ben Če",
+      "lt": "Benčės provincija",
+      "yue_Hans": "槟椥",
+      "ccp": "𑄝𑄬𑄚𑄴 𑄑𑄳𑄢𑄬",
+      "cs": "Ben Tre",
+      "yue": "檳椥"
     },
-    "geo": {
-      "latitude": 10.1081553,
-      "longitude": 106.4405872,
-      "min_latitude": 9.808341,
-      "min_longitude": 106.0147733,
-      "max_latitude": 10.3373171,
-      "max_longitude": 106.7976299
-    },
-    "name": "Ben Tre"
+    "comments": null
   },
   "51": {
+    "name": "Tra Vinh",
+    "code": null,
     "unofficial_names": "Tra Vinh",
+    "geo": {
+      "latitude": 9.933333,
+      "longitude": 106.35,
+      "min_latitude": 9.8867569,
+      "min_longitude": 106.3002563,
+      "max_latitude": 10.0126486,
+      "max_longitude": 106.3883399
+    },
     "translations": {
       "en": "Trà Vinh",
       "ar": "مقاطعة ترا فنه",
@@ -2093,20 +2479,29 @@
       "uk": "Чавінь",
       "ur": "ترا وینہ صوبہ",
       "vi": "Trà Vinh",
-      "zh": "茶榮省"
+      "zh": "茶榮省",
+      "lv": "Čaviņas province",
+      "ceb": "Tỉnh Trà Vinh",
+      "lt": "Čavinas",
+      "yue_Hans": "茶荣",
+      "ccp": "𑄑𑄳𑄢 𑄞𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Tra Vinh",
+      "yue": "茶榮"
     },
-    "geo": {
-      "latitude": 9.933333,
-      "longitude": 106.35,
-      "min_latitude": 9.8867569,
-      "min_longitude": 106.3002563,
-      "max_latitude": 10.0126486,
-      "max_longitude": 106.3883399
-    },
-    "name": "Tra Vinh"
+    "comments": null
   },
   "52": {
+    "name": "Soc Trang",
+    "code": null,
     "unofficial_names": "Soc Trang",
+    "geo": {
+      "latitude": 9.6003688,
+      "longitude": 105.9599539,
+      "min_latitude": 9.2386673,
+      "min_longitude": 105.5439898,
+      "max_latitude": 9.9332116,
+      "max_longitude": 106.293053
+    },
     "translations": {
       "en": "Sóc Trăng",
       "ar": "مقاطعة سك ترانج",
@@ -2146,20 +2541,30 @@
       "uk": "Шокчанг",
       "ur": "سوک ترانگ صوبہ",
       "vi": "Sóc Trăng",
-      "zh": "朔莊省"
+      "zh": "朔莊省",
+      "lv": "Šokčana",
+      "ceb": "Tỉnh Sóc Trăng",
+      "sr_Latn": "Sok Trang",
+      "lt": "Sok Čiangas",
+      "yue_Hans": "朔庄",
+      "ccp": "𑄥𑄮𑄇𑄴 𑄑𑄳𑄢𑄁",
+      "cs": "Soc Trang",
+      "yue": "朔莊"
     },
-    "geo": {
-      "latitude": 9.6003688,
-      "longitude": 105.9599539,
-      "min_latitude": 9.2386673,
-      "min_longitude": 105.5439898,
-      "max_latitude": 9.9332116,
-      "max_longitude": 106.293053
-    },
-    "name": "Soc Trang"
+    "comments": null
   },
   "53": {
+    "name": "Bac Can",
+    "code": null,
     "unofficial_names": "Bac Can",
+    "geo": {
+      "latitude": 22.1329032,
+      "longitude": 105.8407722,
+      "min_latitude": 22.051914,
+      "min_longitude": 105.7767105,
+      "max_latitude": 22.2115634,
+      "max_longitude": 105.9308625
+    },
     "translations": {
       "en": "Bắc Kạn",
       "ar": "مقاطعة باك كان",
@@ -2185,20 +2590,29 @@
       "uk": "Баккан",
       "ur": "باک کان صوبہ",
       "vi": "Bắc Kạn",
-      "zh": "北𣴓省"
+      "zh": "北𣴓省",
+      "ceb": "Tỉnh Bắc Kạn",
+      "yue_Hans": "北𣴓",
+      "hi": "बाक कैन प्रान्त",
+      "ccp": "𑄝𑄇𑄴 𑄇𑄚𑄴",
+      "ml": "ബാക് കാൻ പ്രവിശ്യ",
+      "cs": "Bac Kan",
+      "yue": "北𣴓"
     },
-    "geo": {
-      "latitude": 22.1329032,
-      "longitude": 105.8407722,
-      "min_latitude": 22.051914,
-      "min_longitude": 105.7767105,
-      "max_latitude": 22.2115634,
-      "max_longitude": 105.9308625
-    },
-    "name": "Bac Can"
+    "comments": null
   },
   "54": {
+    "name": "Bac Giang",
+    "code": null,
     "unofficial_names": "Bac Giang",
+    "geo": {
+      "latitude": 21.3014947,
+      "longitude": 106.6291304,
+      "min_latitude": 21.121762,
+      "min_longitude": 105.881726,
+      "max_latitude": 21.6256549,
+      "max_longitude": 107.033035
+    },
     "translations": {
       "en": "Bắc Giang",
       "ar": "محافظة باك زانغ",
@@ -2236,20 +2650,30 @@
       "uk": "Бакзянг",
       "ur": "باک گیانگ صوبہ",
       "vi": "Bắc Giang",
-      "zh": "北江省"
+      "zh": "北江省",
+      "lv": "Bakzanas province",
+      "ceb": "Tỉnh Bắc Giang",
+      "lt": "Bakdžiango provincija",
+      "yue_Hans": "北江",
+      "ccp": "𑄝𑄇𑄴 𑄎𑄨𑄠𑄁",
+      "cs": "Bac Giang",
+      "yue": "北江",
+      "ca": "Bắc Giang"
     },
-    "geo": {
-      "latitude": 21.3014947,
-      "longitude": 106.6291304,
-      "min_latitude": 21.121762,
-      "min_longitude": 105.881726,
-      "max_latitude": 21.6256549,
-      "max_longitude": 107.033035
-    },
-    "name": "Bac Giang"
+    "comments": null
   },
   "55": {
+    "name": "Bac Lieu",
+    "code": null,
     "unofficial_names": "Bac Lieu",
+    "geo": {
+      "latitude": 9.251555500000002,
+      "longitude": 105.5136472,
+      "min_latitude": 8.595139200000002,
+      "min_longitude": 105.2332641,
+      "max_latitude": 9.637118899999999,
+      "max_longitude": 106.7433943
+    },
     "translations": {
       "en": "Bạc Liêu",
       "ar": "مقاطعة باك ليو",
@@ -2287,20 +2711,29 @@
       "uk": "Бакльєу",
       "ur": "باک لیئو صوبہ",
       "vi": "Bạc Liêu",
-      "zh": "薄遼省"
+      "zh": "薄遼省",
+      "lv": "Bakljeu",
+      "ceb": "Tỉnh Bạc Liêu",
+      "lt": "Bakleu",
+      "yue_Hans": "薄辽",
+      "ccp": "𑄝𑄇𑄴 𑄣𑄨𑄅𑄪",
+      "cs": "Bac Lieu",
+      "yue": "薄遼"
     },
-    "geo": {
-      "latitude": 9.251555500000002,
-      "longitude": 105.5136472,
-      "min_latitude": 8.595139200000002,
-      "min_longitude": 105.2332641,
-      "max_latitude": 9.637118899999999,
-      "max_longitude": 106.7433943
-    },
-    "name": "Bac Lieu"
+    "comments": null
   },
   "56": {
+    "name": "Bac Ninh",
+    "code": null,
     "unofficial_names": "Bac Ninh",
+    "geo": {
+      "latitude": 21.121444,
+      "longitude": 106.1110501,
+      "min_latitude": 20.969552,
+      "min_longitude": 105.9041419,
+      "max_latitude": 21.263603,
+      "max_longitude": 106.3089509
+    },
     "translations": {
       "en": "Bắc Ninh",
       "ar": "مقاطعة باك ننه",
@@ -2340,20 +2773,30 @@
       "uk": "Бакнінь",
       "ur": "باک ننہ صوبہ",
       "vi": "Bắc Ninh",
-      "zh": "北寧省"
+      "zh": "北寧省",
+      "lv": "Bakniņas province",
+      "ceb": "Tỉnh Bắc Ninh",
+      "sr_Latn": "Bak Nin",
+      "lt": "Baknino provincija",
+      "yue_Hans": "北宁",
+      "ccp": "𑄝𑄇𑄴 𑄚𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Bac Ninh",
+      "yue": "北寧"
     },
-    "geo": {
-      "latitude": 21.121444,
-      "longitude": 106.1110501,
-      "min_latitude": 20.969552,
-      "min_longitude": 105.9041419,
-      "max_latitude": 21.263603,
-      "max_longitude": 106.3089509
-    },
-    "name": "Bac Ninh"
+    "comments": null
   },
   "57": {
+    "name": "Binh Duong",
+    "code": null,
     "unofficial_names": "Binh Duong",
+    "geo": {
+      "latitude": 11.3254024,
+      "longitude": 106.477017,
+      "min_latitude": 10.8636351,
+      "min_longitude": 106.335735,
+      "max_latitude": 11.5000023,
+      "max_longitude": 106.9676759
+    },
     "translations": {
       "en": "Bình Dương",
       "ar": "مقاطعة بنه ديونج",
@@ -2390,20 +2833,29 @@
       "uk": "Біньзионг",
       "ur": "بنہ دیونگ صوبہ",
       "vi": "Bình Dương",
-      "zh": "平陽省"
+      "zh": "平陽省",
+      "lv": "Biņziona",
+      "ceb": "Tỉnh Bình Dương",
+      "lt": "Bin Dongo provincija",
+      "yue_Hans": "平阳省",
+      "ccp": "𑄝𑄨𑄚𑄴𑄦𑄴 𑄓𑄯𑄃𑄧𑄁",
+      "cs": "Binh Duong",
+      "yue": "平陽省"
     },
-    "geo": {
-      "latitude": 11.3254024,
-      "longitude": 106.477017,
-      "min_latitude": 10.8636351,
-      "min_longitude": 106.335735,
-      "max_latitude": 11.5000023,
-      "max_longitude": 106.9676759
-    },
-    "name": "Binh Duong"
+    "comments": null
   },
   "58": {
+    "name": "Binh Phuoc",
+    "code": null,
     "unofficial_names": "Binh Phuoc",
+    "geo": {
+      "latitude": 11.7511894,
+      "longitude": 106.7234639,
+      "min_latitude": 11.300705,
+      "min_longitude": 106.417961,
+      "max_latitude": 12.29071,
+      "max_longitude": 107.4282521
+    },
     "translations": {
       "en": "Bình Phước",
       "ar": "محافظة بنه فوك",
@@ -2440,20 +2892,29 @@
       "uk": "Біньфиок",
       "ur": "بنہ فووک صوبہ",
       "vi": "Bình Phước",
-      "zh": "平福省"
+      "zh": "平福省",
+      "lv": "Biņfioka",
+      "ceb": "Tỉnh Bình Phước",
+      "lt": "Binfijokas",
+      "yue_Hans": "平福",
+      "ccp": "𑄝𑄨𑄚𑄴𑄦𑄴 𑄜𑄪𑄠𑄮𑄇𑄴",
+      "cs": "Binh Phuoc",
+      "yue": "平福"
     },
-    "geo": {
-      "latitude": 11.7511894,
-      "longitude": 106.7234639,
-      "min_latitude": 11.300705,
-      "min_longitude": 106.417961,
-      "max_latitude": 12.29071,
-      "max_longitude": 107.4282521
-    },
-    "name": "Binh Phuoc"
+    "comments": null
   },
   "59": {
+    "name": "Ca Mau",
+    "code": null,
     "unofficial_names": "Ca Mau",
+    "geo": {
+      "latitude": 8.962409899999999,
+      "longitude": 105.1258955,
+      "min_latitude": 8.4127295,
+      "min_longitude": 104.5229252,
+      "max_latitude": 9.55968,
+      "max_longitude": 105.4185013
+    },
     "translations": {
       "en": "Cà Mau",
       "ar": "محافظة كا ماو",
@@ -2492,23 +2953,22 @@
       "uk": "Камау",
       "ur": "کآ ماو صوبہ",
       "vi": "Cà Mau",
-      "zh": "金甌省"
+      "zh": "金甌省",
+      "lv": "Kamau",
+      "ceb": "Tỉnh Cà Mau",
+      "sr_Latn": "Ka Mau",
+      "lt": "Kamau",
+      "yue_Hans": "金瓯",
+      "ccp": "𑄇 𑄟𑄅𑄪",
+      "cs": "Cà Mau",
+      "yue": "金甌"
     },
-    "geo": {
-      "latitude": 8.962409899999999,
-      "longitude": 105.1258955,
-      "min_latitude": 8.4127295,
-      "min_longitude": 104.5229252,
-      "max_latitude": 9.55968,
-      "max_longitude": 105.4185013
-    },
-    "name": "Ca Mau"
+    "comments": null
   },
   "60": {
+    "name": "Da Nang, thanh pho",
+    "code": null,
     "unofficial_names": "Da Nang, thanh pho",
-    "translations": {
-      "en": "Da Nang, thanh pho"
-    },
     "geo": {
       "latitude": 16.0544068,
       "longitude": 108.2021667,
@@ -2517,10 +2977,23 @@
       "max_latitude": 16.0941455,
       "max_longitude": 108.2354165
     },
-    "name": "Da Nang, thanh pho"
+    "translations": {
+      "en": "Da Nang, thanh pho"
+    },
+    "comments": null
   },
   "61": {
+    "name": "Hai Duong",
+    "code": null,
     "unofficial_names": "Hai Duong",
+    "geo": {
+      "latitude": 20.9385958,
+      "longitude": 106.3206861,
+      "min_latitude": 20.691178,
+      "min_longitude": 106.126308,
+      "max_latitude": 21.231167,
+      "max_longitude": 106.6127538
+    },
     "translations": {
       "en": "Hải Dương",
       "ar": "مقاطعة هاي دونج",
@@ -2558,23 +3031,20 @@
       "uk": "Хайзионг",
       "ur": "ہائی دیونگ صوبہ",
       "vi": "Hải Dương",
-      "zh": "海陽省"
+      "zh": "海陽省",
+      "lv": "Hajziona",
+      "ceb": "Tỉnh Hải Dương",
+      "lt": "Chaisiongas",
+      "yue_Hans": "海阳",
+      "ccp": "𑄦𑄭 𑄓𑄯𑄃𑄧𑄁",
+      "yue": "海陽"
     },
-    "geo": {
-      "latitude": 20.9385958,
-      "longitude": 106.3206861,
-      "min_latitude": 20.691178,
-      "min_longitude": 106.126308,
-      "max_latitude": 21.231167,
-      "max_longitude": 106.6127538
-    },
-    "name": "Hai Duong"
+    "comments": null
   },
   "62": {
+    "name": "Hai Phong, thanh pho",
+    "code": null,
     "unofficial_names": "Hai Phong, thanh pho",
-    "translations": {
-      "en": "Hai Phong, thanh pho"
-    },
     "geo": {
       "latitude": 20.8449115,
       "longitude": 106.6880841,
@@ -2583,10 +3053,23 @@
       "max_latitude": 20.8792627,
       "max_longitude": 106.759901
     },
-    "name": "Hai Phong, thanh pho"
+    "translations": {
+      "en": "Hai Phong, thanh pho"
+    },
+    "comments": null
   },
   "63": {
+    "name": "Ha Nam",
+    "code": null,
     "unofficial_names": "Ha Nam",
+    "geo": {
+      "latitude": 20.5835196,
+      "longitude": 105.92299,
+      "min_latitude": 20.3626781,
+      "min_longitude": 105.7697231,
+      "max_latitude": 20.703745,
+      "max_longitude": 106.183102
+    },
     "translations": {
       "en": "Hà Nam",
       "ar": "مقاطعة ها نام",
@@ -2625,23 +3108,21 @@
       "uk": "Ханам",
       "ur": "صوبہ ہانام",
       "vi": "Hà Nam",
-      "zh": "河南省"
+      "zh": "河南省",
+      "lv": "Hanamas province",
+      "ceb": "Tỉnh Hà Nam",
+      "lt": "Chanamo provincija",
+      "yue_Hans": "河南",
+      "ccp": "𑄦 𑄚𑄟𑄴",
+      "cs": "Ha Nam",
+      "yue": "河南"
     },
-    "geo": {
-      "latitude": 20.5835196,
-      "longitude": 105.92299,
-      "min_latitude": 20.3626781,
-      "min_longitude": 105.7697231,
-      "max_latitude": 20.703745,
-      "max_longitude": 106.183102
-    },
-    "name": "Ha Nam"
+    "comments": null
   },
   "64": {
+    "name": "Ha Noi, thu do",
+    "code": null,
     "unofficial_names": "Ha Noi, thu do",
-    "translations": {
-      "en": "Ha Noi, thu do"
-    },
     "geo": {
       "latitude": 21.0277644,
       "longitude": 105.8341598,
@@ -2650,13 +3131,15 @@
       "max_latitude": 21.0502942,
       "max_longitude": 105.8764459
     },
-    "name": "Ha Noi, thu do"
+    "translations": {
+      "en": "Ha Noi, thu do"
+    },
+    "comments": null
   },
   "65": {
+    "name": "Ho Chi Minh, thanh pho [Sai Gon]",
+    "code": null,
     "unofficial_names": "Ho Chi Minh, thanh pho [Sai Gon]",
-    "translations": {
-      "en": "Ho Chi Minh, thanh pho [Sai Gon]"
-    },
     "geo": {
       "latitude": 10.8230989,
       "longitude": 106.6296638,
@@ -2665,10 +3148,23 @@
       "max_latitude": 11.1602136,
       "max_longitude": 107.0248468
     },
-    "name": "Ho Chi Minh, thanh pho [Sai Gon]"
+    "translations": {
+      "en": "Ho Chi Minh, thanh pho [Sai Gon]"
+    },
+    "comments": null
   },
   "66": {
+    "name": "Hung Yen",
+    "code": null,
     "unofficial_names": "Hung Yen",
+    "geo": {
+      "latitude": 20.8525711,
+      "longitude": 106.0169971,
+      "min_latitude": 20.602892,
+      "min_longitude": 105.8954829,
+      "max_latitude": 21.006161,
+      "max_longitude": 106.269346
+    },
     "translations": {
       "en": "Hưng Yên",
       "ar": "مقاطعة هونج ين",
@@ -2693,20 +3189,29 @@
       "uk": "Хингʼєн",
       "ur": "ہونگ ین صوبہ",
       "vi": "Hưng Yên",
-      "zh": "興安省"
+      "zh": "興安省",
+      "ceb": "Tỉnh Hưng Yên",
+      "yue_Hans": "兴安",
+      "hi": "हुंग येन प्रान्त",
+      "ccp": "𑄦𑄪𑄠𑄁 𑄃𑄨𑄠𑄬𑄚𑄴",
+      "cs": "Hung Yen",
+      "yue": "興安",
+      "ca": "Província de Hưng Yên"
     },
-    "geo": {
-      "latitude": 20.8525711,
-      "longitude": 106.0169971,
-      "min_latitude": 20.602892,
-      "min_longitude": 105.8954829,
-      "max_latitude": 21.006161,
-      "max_longitude": 106.269346
-    },
-    "name": "Hung Yen"
+    "comments": null
   },
   "67": {
+    "name": "Nam Dinh",
+    "code": null,
     "unofficial_names": "Nam Dinh",
+    "geo": {
+      "latitude": 20.2791804,
+      "longitude": 106.2051484,
+      "min_latitude": 19.968296,
+      "min_longitude": 105.924061,
+      "max_latitude": 20.4996661,
+      "max_longitude": 106.5649637
+    },
     "translations": {
       "en": "Nam Định",
       "ar": "محافظة نام دنه",
@@ -2745,20 +3250,29 @@
       "uk": "Намдінь",
       "ur": "نام دینہ صوبہ",
       "vi": "Nam Định",
-      "zh": "南定省"
+      "zh": "南定省",
+      "lv": "Namdiņa",
+      "ceb": "Tỉnh Nam Định",
+      "lt": "Namdinas",
+      "yue_Hans": "南定",
+      "ccp": "𑄚𑄟𑄴 𑄓𑄨𑄚𑄴𑄦𑄴",
+      "cs": "Nam Định",
+      "yue": "南定"
     },
-    "geo": {
-      "latitude": 20.2791804,
-      "longitude": 106.2051484,
-      "min_latitude": 19.968296,
-      "min_longitude": 105.924061,
-      "max_latitude": 20.4996661,
-      "max_longitude": 106.5649637
-    },
-    "name": "Nam Dinh"
+    "comments": null
   },
   "68": {
+    "name": "Phu Tho",
+    "code": null,
     "unofficial_names": "Phu Tho",
+    "geo": {
+      "latitude": 21.268443,
+      "longitude": 105.2045573,
+      "min_latitude": 20.917282,
+      "min_longitude": 104.8163571,
+      "max_latitude": 21.719738,
+      "max_longitude": 105.4579171
+    },
     "translations": {
       "en": "Phú Thọ",
       "ar": "محافظة فو تاه",
@@ -2797,22 +3311,30 @@
       "uk": "Футхо",
       "ur": "فو تھو صوبہ",
       "vi": "Phú Thọ",
-      "zh": "富壽省"
+      "zh": "富壽省",
+      "lv": "Futuo",
+      "lt": "Futo",
+      "yue_Hans": "富寿",
+      "ccp": "𑄜𑄪 𑄗𑄮",
+      "cs": "Phu Tho",
+      "yue": "富壽"
     },
-    "geo": {
-      "latitude": 21.268443,
-      "longitude": 105.2045573,
-      "min_latitude": 20.917282,
-      "min_longitude": 104.8163571,
-      "max_latitude": 21.719738,
-      "max_longitude": 105.4579171
-    },
-    "name": "Phu Tho"
+    "comments": null
   },
   "69": {
+    "name": "Thai Nguyen",
+    "code": null,
     "unofficial_names": [
       "Central Highlands"
     ],
+    "geo": {
+      "latitude": 21.5613771,
+      "longitude": 105.876004,
+      "min_latitude": 21.324607,
+      "min_longitude": 105.4771269,
+      "max_latitude": 22.047269,
+      "max_longitude": 106.23657
+    },
     "translations": {
       "en": "Thái Nguyên",
       "ar": "مقاطعة ثاي نجوين",
@@ -2852,20 +3374,30 @@
       "uk": "Тхайнгуєн",
       "ur": "تھائی نگوین صوبہ",
       "vi": "Thái Nguyên",
-      "zh": "太原省"
+      "zh": "太原省",
+      "lv": "Thajngujenas province",
+      "ceb": "Tỉnh Thái Nguyên",
+      "sr_Latn": "Taj Ngujen",
+      "lt": "Tai Ngujenas",
+      "yue_Hans": "太原",
+      "ccp": "𑄗𑄭 𑄉𑄪𑄠𑄬𑄚𑄴",
+      "cs": "Thai Nguyen",
+      "yue": "太原"
     },
-    "geo": {
-      "latitude": 21.5613771,
-      "longitude": 105.876004,
-      "min_latitude": 21.324607,
-      "min_longitude": 105.4771269,
-      "max_latitude": 22.047269,
-      "max_longitude": 106.23657
-    },
-    "name": "Thai Nguyen"
+    "comments": null
   },
   "70": {
+    "name": "Vinh Phuc",
+    "code": null,
     "unofficial_names": "Vinh Phuc",
+    "geo": {
+      "latitude": 21.3608805,
+      "longitude": 105.5474373,
+      "min_latitude": 21.10479,
+      "min_longitude": 105.322971,
+      "max_latitude": 21.573348,
+      "max_longitude": 105.7897179
+    },
     "translations": {
       "en": "Vĩnh Phúc",
       "ar": "مقاطعة فنه فو",
@@ -2904,20 +3436,29 @@
       "uk": "Віньфук",
       "ur": "وینہ فوک صوبہ",
       "vi": "Vĩnh Phúc",
-      "zh": "永福省"
+      "zh": "永福省",
+      "lv": "Viņfukas province",
+      "ceb": "Tỉnh Vĩnh Phúc",
+      "lt": "Vinfuko provincija",
+      "yue_Hans": "永福",
+      "ccp": "𑄞𑄨𑄚𑄴𑄦𑄴 𑄜𑄪𑄇𑄴",
+      "cs": "Vinh Phuc",
+      "yue": "永福"
     },
-    "geo": {
-      "latitude": 21.3608805,
-      "longitude": 105.5474373,
-      "min_latitude": 21.10479,
-      "min_longitude": 105.322971,
-      "max_latitude": 21.573348,
-      "max_longitude": 105.7897179
-    },
-    "name": "Vinh Phuc"
+    "comments": null
   },
   "71": {
+    "name": "Dien Bien",
+    "code": null,
     "unofficial_names": "Dien Bien",
+    "geo": {
+      "latitude": 21.8042309,
+      "longitude": 103.1076525,
+      "min_latitude": 20.869232,
+      "min_longitude": 102.1482091,
+      "max_latitude": 22.5563429,
+      "max_longitude": 103.6003289
+    },
     "translations": {
       "en": "Điện Biên",
       "ar": "محافظة دين بين",
@@ -2955,20 +3496,30 @@
       "uk": "Дьєнбʼєн",
       "ur": "دیئن بیئن صوبہ",
       "vi": "Điện Biên",
-      "zh": "奠邊省"
+      "zh": "奠邊省",
+      "lv": "Djenbjenas province",
+      "ceb": "Tỉnh Ðiện Biên",
+      "sr_Latn": "Dijen Bijen",
+      "lt": "Djenbjenas",
+      "yue_Hans": "奠边",
+      "ccp": "𑄓𑄨𑄠𑄬𑄚𑄴 𑄝𑄭𑄠𑄬𑄚𑄴",
+      "cs": "Dien Bien",
+      "yue": "奠邊"
     },
-    "geo": {
-      "latitude": 21.8042309,
-      "longitude": 103.1076525,
-      "min_latitude": 20.869232,
-      "min_longitude": 102.1482091,
-      "max_latitude": 22.5563429,
-      "max_longitude": 103.6003289
-    },
-    "name": "Dien Bien"
+    "comments": null
   },
   "72": {
+    "name": "Dak Nong",
+    "code": null,
     "unofficial_names": "Dak Nong",
+    "geo": {
+      "latitude": 12.2646476,
+      "longitude": 107.609806,
+      "min_latitude": 11.748865,
+      "min_longitude": 107.2079091,
+      "max_latitude": 12.8117129,
+      "max_longitude": 108.115932
+    },
     "translations": {
       "en": "Đắk Nông",
       "ar": "مقاطعة داك نانج",
@@ -3005,20 +3556,29 @@
       "uk": "Дакнонг",
       "ur": "داک نونگ صوبہ",
       "vi": "Đắk Nông",
-      "zh": "得農省"
+      "zh": "得農省",
+      "lv": "Daknona",
+      "ceb": "Ðắk Nông",
+      "lt": "Daknongas",
+      "yue_Hans": "得农",
+      "ccp": "𑄓𑄇𑄴 𑄚𑄧𑄁",
+      "cs": "Đắk Nông",
+      "yue": "得農"
     },
-    "geo": {
-      "latitude": 12.2646476,
-      "longitude": 107.609806,
-      "min_latitude": 11.748865,
-      "min_longitude": 107.2079091,
-      "max_latitude": 12.8117129,
-      "max_longitude": 108.115932
-    },
-    "name": "Dak Nong"
+    "comments": null
   },
   "73": {
+    "name": "Hau Giang",
+    "code": null,
     "unofficial_names": "Hau Giang",
+    "geo": {
+      "latitude": 9.757897999999999,
+      "longitude": 105.6412527,
+      "min_latitude": 9.5820831,
+      "min_longitude": 105.328687,
+      "max_latitude": 9.9928138,
+      "max_longitude": 105.8934326
+    },
     "translations": {
       "en": "Hậu Giang",
       "ar": "محافظة هو زانغ",
@@ -3054,19 +3614,28 @@
       "uk": "Хаузянг",
       "ur": "ہآو گیانگ صوبہ",
       "vi": "Hậu Giang",
-      "zh": "後江省"
+      "zh": "後江省",
+      "lv": "Houzana",
+      "ceb": "Hau Giang",
+      "lt": "Haudžiango provincija",
+      "yue_Hans": "后江",
+      "ccp": "𑄦𑄧𑄅𑄪 𑄎𑄨𑄠𑄁",
+      "yue": "後江"
     },
-    "geo": {
-      "latitude": 9.757897999999999,
-      "longitude": 105.6412527,
-      "min_latitude": 9.5820831,
-      "min_longitude": 105.328687,
-      "max_latitude": 9.9928138,
-      "max_longitude": 105.8934326
-    },
-    "name": "Hau Giang"
+    "comments": null
   },
   "CT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Can Tho",
       "ar": "كان ثو",
@@ -3113,10 +3682,32 @@
       "uk": "Кантхо",
       "ur": "کآن تھؤ",
       "vi": "Cần Thơ",
-      "zh": "芹苴市"
-    }
+      "zh": "芹苴市",
+      "lv": "Kontho",
+      "ceb": "Thành Phố Cần Thơ (lalawigan sa Vietnam)",
+      "sr_Latn": "Kantho",
+      "yue_Hans": "芹苴",
+      "ccp": "𑄇𑄚𑄴 𑄗𑄮",
+      "ky": "Кантхо",
+      "hu": "Cần Thơ",
+      "ha": "Can Tho",
+      "yue": "芹苴",
+      "be": "Кантхо"
+    },
+    "comments": null
   },
   "DN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Da Nang",
       "ar": "دا نانغ",
@@ -3173,10 +3764,36 @@
       "ur": "دا نانگ",
       "vi": "Đà Nẵng",
       "zh": "岘港市",
-      "zu": "IDanang"
-    }
+      "zu": "IDanang",
+      "cy": "Da Nang",
+      "ceb": "Da Nang",
+      "sr_Latn": "Da Nang",
+      "yue_Hans": "岘港市",
+      "jv": "Da Nang",
+      "sq": "Da Nang",
+      "ccp": "𑄓 𑄚𑄧𑄁",
+      "ig": "Da Nang",
+      "ha": "Da Nang",
+      "yue": "峴港市",
+      "am": "ዳ ናንግ",
+      "my": "ဒါနန်မြို့",
+      "uz": "Danang",
+      "mk": "Да Нанг"
+    },
+    "comments": null
   },
   "HN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Hanoi",
       "am": "ሀኖይ",
@@ -3240,10 +3857,41 @@
       "uk": "Ханой",
       "ur": "ہنوئی",
       "vi": "Hà Nội",
-      "zh": "河內市"
-    }
+      "zh": "河內市",
+      "cy": "Hanoi",
+      "ceb": "Hanoi",
+      "sr_Latn": "Hanoj",
+      "yue_Hans": "河内",
+      "jv": "Hanoi",
+      "sq": "Hanoi",
+      "ccp": "𑄦𑄚𑄰",
+      "ga": "Ha Noi",
+      "ky": "Ханой",
+      "ha": "Hanoi",
+      "pa": "ਹਨੋਈ",
+      "kk": "Ханой",
+      "yue": "河內",
+      "my": "ဟနွိုင်းမြို့",
+      "yo": "Hanoi",
+      "uz": "Xanoy",
+      "bs": "Hanoi",
+      "mk": "Ханој",
+      "lo": "ຮ່າໂນ້ຍ"
+    },
+    "comments": null
   },
   "HP": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Hai Phong",
       "ar": "هايفونغ",
@@ -3291,10 +3939,31 @@
       "uk": "Хайфонг",
       "ur": "ہائیفونگ",
       "vi": "Hải Phòng",
-      "zh": "海防市"
-    }
+      "zh": "海防市",
+      "lv": "Haifona",
+      "ceb": "Haiphong",
+      "sr_Latn": "Hajfong",
+      "yue_Hans": "海防",
+      "ccp": "𑄦𑄭𑄜𑄧𑄁",
+      "ha": "Haiphong",
+      "or": "ହାଈ ଫୋଙ୍ଗ",
+      "yue": "海防",
+      "ca": "Hai Phong"
+    },
+    "comments": null
   },
   "SG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Ho Chi Minh-stad",
       "am": "ሆ ቺ ሚን ከተማ",
@@ -3357,8 +4026,28 @@
       "uk": "Хошимін",
       "ur": "ہو چی من",
       "vi": "Thành phố Hồ Chí Minh",
-      "zh": "胡志明市"
-    }
+      "zh": "胡志明市",
+      "cy": "Dinas Ho Chi Minh",
+      "ceb": "Dakbayan sa Ho Chi Minh",
+      "sr_Latn": "Ho Ši Min",
+      "yue_Hans": "胡志明市",
+      "jv": "Kutha Ho Chi Minh",
+      "sq": "Ho-Chi-Minh-Qytet",
+      "ccp": "𑄦𑄮 𑄌𑄨 𑄟𑄨𑄚𑄴𑄦𑄴 𑄌𑄨𑄑𑄨",
+      "ga": "Cathair Ho Chi Minh",
+      "ig": "Ho Chi Minh City",
+      "ky": "Хошимин",
+      "ha": "Birnin Ho Chi Minh",
+      "so": "Ho Chi Minh City",
+      "kk": "Хошимин",
+      "yue": "胡志明市",
+      "my": "ဟိုချီမင်းစီးတီး",
+      "zu": "IHochiminh",
+      "uz": "Xoshimin",
+      "bs": "Ho Ši Min Grad",
+      "mk": "Хо Ши Мин"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "FUN": {
+    "name": "Funafuti",
+    "code": null,
     "unofficial_names": "Funafuti",
+    "geo": {
+      "latitude": -8.516667,
+      "longitude": 179.216667,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Funafuti",
       "af": "Funafuti",
@@ -47,20 +57,37 @@
       "uk": "Фунафуті",
       "ur": "فونافوتی",
       "vi": "Funafuti",
-      "zh": "富纳富提"
+      "zh": "富纳富提",
+      "cy": "Funafuti",
+      "ms": "Funafuti",
+      "tr": "Funafuti",
+      "sr_Latn": "Funafuti",
+      "yue_Hans": "富纳富提",
+      "el": "Φουναφούτι",
+      "hi": "फुनाफुति",
+      "sq": "Funafuti",
+      "ccp": "𑄜𑄪𑄚𑄜𑄪𑄑𑄨",
+      "sl": "Funafuti",
+      "pa": "ਫ਼ੁਨਾਫ਼ੁਤੀ",
+      "yue": "富納富提",
+      "uz": "Funafuti",
+      "bs": "Funafuti",
+      "mk": "Фунафути"
     },
-    "geo": {
-      "latitude": -8.516667,
-      "longitude": 179.216667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Funafuti"
+    "comments": null
   },
   "NIT": {
+    "name": "Niutao",
+    "code": null,
     "unofficial_names": "Niutao",
+    "geo": {
+      "latitude": -6.106425799999999,
+      "longitude": 177.3438429,
+      "min_latitude": -6.1153794,
+      "min_longitude": 177.3293352,
+      "max_latitude": -6.101596499999999,
+      "max_longitude": 177.3547411
+    },
     "translations": {
       "en": "Niutao",
       "be": "Востраў Ніўтао",
@@ -87,23 +114,18 @@
       "sk": "Niutao",
       "sv": "Niutao",
       "uk": "Ніутао",
-      "ur": "نیوتاو"
+      "ur": "نیوتاو",
+      "ceb": "Niutao Island",
+      "zh": "紐陶島",
+      "ccp": "𑄚𑄨𑄅𑄪𑄑𑄃𑄮",
+      "mk": "Ниутао"
     },
-    "geo": {
-      "latitude": -6.106425799999999,
-      "longitude": 177.3438429,
-      "min_latitude": -6.1153794,
-      "min_longitude": 177.3293352,
-      "max_latitude": -6.101596499999999,
-      "max_longitude": 177.3547411
-    },
-    "name": "Niutao"
+    "comments": null
   },
   "NIU": {
+    "name": "Nui",
+    "code": null,
     "unofficial_names": "Nui",
-    "translations": {
-      "en": "Nui"
-    },
     "geo": {
       "latitude": -7.2426288,
       "longitude": 177.1485716,
@@ -112,10 +134,23 @@
       "max_latitude": -7.1889099,
       "max_longitude": 177.16564
     },
-    "name": "Nui"
+    "translations": {
+      "en": "Nui"
+    },
+    "comments": null
   },
   "NKF": {
+    "name": "Nukufetau",
+    "code": null,
     "unofficial_names": "Nukufetau",
+    "geo": {
+      "latitude": -8,
+      "longitude": 178.5,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nukufetau",
       "be": "Атол Нукуфетау",
@@ -142,22 +177,27 @@
       "ru": "Нукуфетау",
       "sk": "Nukufetau",
       "sv": "Nukufetau",
-      "ur": "نوکوتیتاو"
+      "ur": "نوکوتیتاو",
+      "zh": "努庫費陶環礁",
+      "ccp": "𑄚𑄪𑄇𑄪𑄜𑄬𑄑𑄅𑄪",
+      "mk": "Нукуфетау"
     },
+    "comments": null
+  },
+  "NKL": {
+    "name": "Nukulaelae",
+    "code": null,
+    "unofficial_names": [
+      "Nukulailai"
+    ],
     "geo": {
-      "latitude": -8,
-      "longitude": 178.5,
+      "latitude": -9.381110999999999,
+      "longitude": 179.852222,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Nukufetau"
-  },
-  "NKL": {
-    "unofficial_names": [
-      "Nukulailai"
-    ],
     "translations": {
       "en": "Nukulaelae",
       "be": "Атол Нукулаэлаэ",
@@ -186,20 +226,26 @@
       "sk": "Nukulaelae",
       "sv": "Nukulaelae",
       "uk": "Нукулаелае",
-      "ur": "نوکولاےلاے"
+      "ur": "نوکولاےلاے",
+      "ceb": "Nukulaelae (distrito sa Tuvalu)",
+      "zh": "努庫萊萊環礁",
+      "ccp": "𑄚𑄪𑄇𑄪𑄣𑄠𑄬𑄣𑄠𑄬",
+      "mk": "Нукулаелае"
     },
-    "geo": {
-      "latitude": -9.381110999999999,
-      "longitude": 179.852222,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Nukulaelae"
+    "comments": null
   },
   "NMA": {
+    "name": "Nanumea",
+    "code": null,
     "unofficial_names": "Nanumea",
+    "geo": {
+      "latitude": -5.681538799999999,
+      "longitude": 176.1281065,
+      "min_latitude": -5.7013769,
+      "min_longitude": 176.109885,
+      "max_latitude": -5.6620781,
+      "max_longitude": 176.1365461
+    },
     "translations": {
       "en": "Nanumea",
       "be": "Атол Нанумеа",
@@ -230,22 +276,27 @@
       "sk": "Nanumea",
       "sv": "Nanumea",
       "uk": "Нанумеа",
-      "ur": "نانومیا"
+      "ur": "نانومیا",
+      "zh": "納努梅阿環礁",
+      "ccp": "𑄚𑄪𑄚𑄪𑄟𑄨𑄠",
+      "mk": "Нанумеја"
     },
-    "geo": {
-      "latitude": -5.681538799999999,
-      "longitude": 176.1281065,
-      "min_latitude": -5.7013769,
-      "min_longitude": 176.109885,
-      "max_latitude": -5.6620781,
-      "max_longitude": 176.1365461
-    },
-    "name": "Nanumea"
+    "comments": null
   },
   "NMG": {
+    "name": "Nanumanga",
+    "code": null,
     "unofficial_names": [
       "Nanumaga"
     ],
+    "geo": {
+      "latitude": -6.2910708,
+      "longitude": 176.314856,
+      "min_latitude": -6.302335999999999,
+      "min_longitude": 176.3118553,
+      "max_latitude": -6.2772891,
+      "max_longitude": 176.32579
+    },
     "translations": {
       "en": "Nanumanga",
       "be": "Востраў Нануманга",
@@ -272,20 +323,25 @@
       "sk": "Nanumaga",
       "sv": "Nanumanga",
       "uk": "Нануманга",
-      "ur": "نانومانگا"
+      "ur": "نانومانگا",
+      "zh": "纳努曼加岛",
+      "ccp": "𑄚𑄚𑄪𑄟𑄚𑄴𑄉",
+      "mk": "Нануманга"
     },
-    "geo": {
-      "latitude": -6.2910708,
-      "longitude": 176.314856,
-      "min_latitude": -6.302335999999999,
-      "min_longitude": 176.3118553,
-      "max_latitude": -6.2772891,
-      "max_longitude": 176.32579
-    },
-    "name": "Nanumanga"
+    "comments": null
   },
   "VAI": {
+    "name": "Vaitupu",
+    "code": null,
     "unofficial_names": "Vaitupu",
+    "geo": {
+      "latitude": -7.476732699999999,
+      "longitude": 178.6747675,
+      "min_latitude": -7.4991106,
+      "min_longitude": 178.6624575,
+      "max_latitude": -7.4577731,
+      "max_longitude": 178.6972833
+    },
     "translations": {
       "en": "Vaitupu",
       "be": "Атол Ваітупу",
@@ -312,19 +368,26 @@
       "sk": "Vaitupu",
       "sv": "Vaitupu",
       "uk": "Ваітупу",
-      "ur": "وایتوپو"
+      "ur": "وایتوپو",
+      "ceb": "Vaitupu (distrito)",
+      "zh": "婓伊托波",
+      "ccp": "𑄞𑄭𑄑𑄪𑄛𑄪",
+      "mk": "Ваитупу"
     },
-    "geo": {
-      "latitude": -7.476732699999999,
-      "longitude": 178.6747675,
-      "min_latitude": -7.4991106,
-      "min_longitude": 178.6624575,
-      "max_latitude": -7.4577731,
-      "max_longitude": 178.6972833
-    },
-    "name": "Vaitupu"
+    "comments": null
   },
   "NUI": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Атол Нуі",
       "ca": "Nui",
@@ -350,8 +413,12 @@
       "ru": "Нуи",
       "sk": "Nui",
       "sv": "Nui",
-      "ur": "نوئی"
-    }
+      "ur": "نوئی",
+      "zh": "努伊環礁",
+      "ccp": "𑄚𑄭𑄪",
+      "mk": "Нуи"
+    },
+    "comments": null
   }
 }
 

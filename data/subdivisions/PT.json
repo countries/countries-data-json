@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Aveiro",
+    "code": null,
     "unofficial_names": "Aveiro",
+    "geo": {
+      "latitude": 40.6405055,
+      "longitude": -8.6537539,
+      "min_latitude": 40.6241712,
+      "min_longitude": -8.665443800000002,
+      "max_latitude": 40.6545896,
+      "max_longitude": -8.6238121
+    },
     "translations": {
       "en": "Aveiro",
       "ar": "محافظة أفييرو",
@@ -30,20 +40,26 @@
       "uk": "Авейру",
       "ur": "آواریو ضلع",
       "vi": "Aveiro",
-      "zh": "阿威羅區"
+      "zh": "阿威羅區",
+      "ceb": "Distrito de Aveiro",
+      "sr_Latn": "Aveiro",
+      "ccp": "𑄃𑄞𑄬𑄭𑄢𑄮",
+      "be": "акруга Авейру"
     },
-    "geo": {
-      "latitude": 40.6405055,
-      "longitude": -8.6537539,
-      "min_latitude": 40.6241712,
-      "min_longitude": -8.665443800000002,
-      "max_latitude": 40.6545896,
-      "max_longitude": -8.6238121
-    },
-    "name": "Aveiro"
+    "comments": null
   },
   "02": {
+    "name": "Beja",
+    "code": null,
     "unofficial_names": "Beja",
+    "geo": {
+      "latitude": 38.0153039,
+      "longitude": -7.8627308,
+      "min_latitude": 37.97009,
+      "min_longitude": -7.959504799999999,
+      "max_latitude": 38.0746209,
+      "max_longitude": -7.8177491
+    },
     "translations": {
       "en": "Beja",
       "ar": "محافظة بيجا",
@@ -86,20 +102,27 @@
       "uk": "Бежа",
       "ur": "بیجا ضلع",
       "vi": "Beja",
-      "zh": "貝雅區"
+      "zh": "貝雅區",
+      "lv": "Bedžas distrikts",
+      "ceb": "Distrito de Beja",
+      "sr_Latn": "Beža",
+      "lt": "Bežos apskritis",
+      "ccp": "𑄝𑄬𑄎"
     },
-    "geo": {
-      "latitude": 38.0153039,
-      "longitude": -7.8627308,
-      "min_latitude": 37.97009,
-      "min_longitude": -7.959504799999999,
-      "max_latitude": 38.0746209,
-      "max_longitude": -7.8177491
-    },
-    "name": "Beja"
+    "comments": null
   },
   "03": {
+    "name": "Braga",
+    "code": null,
     "unofficial_names": "Braga",
+    "geo": {
+      "latitude": 41.5454486,
+      "longitude": -8.426506999999999,
+      "min_latitude": 41.510402,
+      "min_longitude": -8.4806633,
+      "max_latitude": 41.5841477,
+      "max_longitude": -8.3421791
+    },
     "translations": {
       "en": "Braga",
       "ar": "محافظة براغا",
@@ -142,20 +165,27 @@
       "uk": "Браґа",
       "ur": "براگا ضلع",
       "vi": "Braga",
-      "zh": "布拉加區"
+      "zh": "布拉加區",
+      "lv": "Bragas distrikts",
+      "ceb": "Distrito de Braga",
+      "sr_Latn": "Braga",
+      "lt": "Bragos apskritis",
+      "ccp": "𑄝𑄳𑄢𑄉"
     },
-    "geo": {
-      "latitude": 41.5454486,
-      "longitude": -8.426506999999999,
-      "min_latitude": 41.510402,
-      "min_longitude": -8.4806633,
-      "max_latitude": 41.5841477,
-      "max_longitude": -8.3421791
-    },
-    "name": "Braga"
+    "comments": null
   },
   "04": {
+    "name": "Bragança",
+    "code": null,
     "unofficial_names": "Bragança",
+    "geo": {
+      "latitude": 41.8061131,
+      "longitude": -6.756737999999999,
+      "min_latitude": 41.7861053,
+      "min_longitude": -6.7907131,
+      "max_latitude": 41.8369891,
+      "max_longitude": -6.7063504
+    },
     "translations": {
       "en": "Bragança",
       "ar": "محافظة براغانزا",
@@ -184,20 +214,26 @@
       "uk": "Браґанса",
       "ur": "براگانسا ضلع",
       "vi": "Bragança",
-      "zh": "布拉干薩區"
+      "zh": "布拉干薩區",
+      "ceb": "Distrito de Bragança",
+      "sr_Latn": "Bragansa",
+      "ccp": "𑄝𑄳𑄢𑄉𑄚𑄴𑄇",
+      "be": "акруга Браганса"
     },
-    "geo": {
-      "latitude": 41.8061131,
-      "longitude": -6.756737999999999,
-      "min_latitude": 41.7861053,
-      "min_longitude": -6.7907131,
-      "max_latitude": 41.8369891,
-      "max_longitude": -6.7063504
-    },
-    "name": "Bragança"
+    "comments": null
   },
   "05": {
+    "name": "Castelo Branco",
+    "code": null,
     "unofficial_names": "Castelo Branco",
+    "geo": {
+      "latitude": 39.8197117,
+      "longitude": -7.4964662,
+      "min_latitude": 39.7136873,
+      "min_longitude": -7.5591241,
+      "max_latitude": 39.9093461,
+      "max_longitude": -7.367089999999999
+    },
     "translations": {
       "en": "Castelo Branco",
       "ar": "محافظة كاستيلو برانكو",
@@ -238,20 +274,28 @@
       "uk": "Каштелу-Бранку",
       "ur": "کاشتیلو برانکو ضلع",
       "vi": "Castelo Branco",
-      "zh": "布朗庫堡區"
+      "zh": "布朗庫堡區",
+      "lv": "Kaštelu Branku distrikts",
+      "ceb": "Distrito de Castelo Branco",
+      "sr_Latn": "Kastelo Branko",
+      "lt": "Kastelo Branko apskritis",
+      "ccp": "𑄇𑄌𑄴𑄑𑄬𑄣𑄮 𑄝𑄳𑄢𑄚𑄴𑄇𑄮",
+      "be": "акруга Каштэлу-Бранку"
     },
-    "geo": {
-      "latitude": 39.8197117,
-      "longitude": -7.4964662,
-      "min_latitude": 39.7136873,
-      "min_longitude": -7.5591241,
-      "max_latitude": 39.9093461,
-      "max_longitude": -7.367089999999999
-    },
-    "name": "Castelo Branco"
+    "comments": null
   },
   "06": {
+    "name": "Coimbra",
+    "code": null,
     "unofficial_names": "Coimbra",
+    "geo": {
+      "latitude": 40.2033145,
+      "longitude": -8.4102573,
+      "min_latitude": 40.1713722,
+      "min_longitude": -8.5096411,
+      "max_latitude": 40.2861477,
+      "max_longitude": -8.322907599999999
+    },
     "translations": {
       "en": "Coimbra",
       "ar": "محافظة كويمبرا",
@@ -293,20 +337,27 @@
       "uk": "Коїмбра",
       "ur": "کویمبرا ضلع",
       "vi": "Coimbra",
-      "zh": "科英布拉區"
+      "zh": "科英布拉區",
+      "lv": "Kombras distrikts",
+      "ceb": "Distrito de Coimbra",
+      "sr_Latn": "Koimbra",
+      "lt": "Koimbros apskritis",
+      "ccp": "𑄇𑄰𑄟𑄴𑄝𑄳𑄢"
     },
-    "geo": {
-      "latitude": 40.2033145,
-      "longitude": -8.4102573,
-      "min_latitude": 40.1713722,
-      "min_longitude": -8.5096411,
-      "max_latitude": 40.2861477,
-      "max_longitude": -8.322907599999999
-    },
-    "name": "Coimbra"
+    "comments": null
   },
   "07": {
+    "name": "Évora",
+    "code": null,
     "unofficial_names": "Évora",
+    "geo": {
+      "latitude": 38.571431,
+      "longitude": -7.913501999999999,
+      "min_latitude": 38.5227211,
+      "min_longitude": -7.9785036,
+      "max_latitude": 38.6169193,
+      "max_longitude": -7.843514600000001
+    },
     "translations": {
       "en": "Évora",
       "ar": "محافظة إيفورا",
@@ -347,20 +398,28 @@
       "uk": "Евора",
       "ur": "ایورا ضلع",
       "vi": "Évora",
-      "zh": "埃武拉區"
+      "zh": "埃武拉區",
+      "lv": "Evoras distrikts",
+      "ceb": "Distrito de Évora",
+      "sr_Latn": "Evora",
+      "lt": "Evoros apskritis",
+      "ccp": "𑄃𑄨𑄞𑄮𑄢",
+      "be": "акруга Эвара"
     },
-    "geo": {
-      "latitude": 38.571431,
-      "longitude": -7.913501999999999,
-      "min_latitude": 38.5227211,
-      "min_longitude": -7.9785036,
-      "max_latitude": 38.6169193,
-      "max_longitude": -7.843514600000001
-    },
-    "name": "Évora"
+    "comments": null
   },
   "08": {
+    "name": "Faro",
+    "code": null,
     "unofficial_names": "Faro",
+    "geo": {
+      "latitude": 37.0193548,
+      "longitude": -7.9304397,
+      "min_latitude": 36.9617104,
+      "min_longitude": -8.000400599999999,
+      "max_latitude": 37.0738998,
+      "max_longitude": -7.8093544
+    },
     "translations": {
       "en": "Faro",
       "ar": "محافظة فارو",
@@ -401,20 +460,29 @@
       "uk": "Фару",
       "ur": "فارو ضلع",
       "vi": "Faro",
-      "zh": "法魯區"
+      "zh": "法魯區",
+      "lv": "Faru apgabals",
+      "ceb": "Distrito de Faro",
+      "sr_Latn": "Faro",
+      "lt": "Faro apskritis",
+      "fa": "ناحیه فارو",
+      "ccp": "𑄜𑄢𑄮",
+      "be": "акруга Фару"
     },
-    "geo": {
-      "latitude": 37.0193548,
-      "longitude": -7.9304397,
-      "min_latitude": 36.9617104,
-      "min_longitude": -8.000400599999999,
-      "max_latitude": 37.0738998,
-      "max_longitude": -7.8093544
-    },
-    "name": "Faro"
+    "comments": null
   },
   "09": {
+    "name": "Guarda",
+    "code": null,
     "unofficial_names": "Guarda",
+    "geo": {
+      "latitude": 40.5383482,
+      "longitude": -7.266131499999998,
+      "min_latitude": 40.50446,
+      "min_longitude": -7.2926517,
+      "max_latitude": 40.5738913,
+      "max_longitude": -7.1980682
+    },
     "translations": {
       "en": "Guarda",
       "ar": "محافظة غواردا",
@@ -443,20 +511,26 @@
       "uk": "Ґуарда",
       "ur": "گواردا ضلع",
       "vi": "Guarda",
-      "zh": "瓜達區"
+      "zh": "瓜達區",
+      "ceb": "Distrito da Guarda",
+      "sr_Latn": "Gvarda",
+      "ccp": "𑄉𑄪𑄠𑄢𑄴𑄓",
+      "be": "акруга Гуарда"
     },
-    "geo": {
-      "latitude": 40.5383482,
-      "longitude": -7.266131499999998,
-      "min_latitude": 40.50446,
-      "min_longitude": -7.2926517,
-      "max_latitude": 40.5738913,
-      "max_longitude": -7.1980682
-    },
-    "name": "Guarda"
+    "comments": null
   },
   "10": {
+    "name": "Leiria",
+    "code": null,
     "unofficial_names": "Leiria",
+    "geo": {
+      "latitude": 39.74953310000001,
+      "longitude": -8.807682999999999,
+      "min_latitude": 39.70991799999999,
+      "min_longitude": -8.8768517,
+      "max_latitude": 39.798205,
+      "max_longitude": -8.7350657
+    },
     "translations": {
       "en": "Leiria",
       "ar": "محافظة ليريا",
@@ -497,20 +571,29 @@
       "uk": "Лейрія",
       "ur": "لائریا ضلع",
       "vi": "Leiria",
-      "zh": "萊里亞區"
+      "zh": "萊里亞區",
+      "lv": "Leirijas distrikts",
+      "ceb": "Distrito de Leiria",
+      "sr_Latn": "Leirija",
+      "lt": "Leirijos apskritis",
+      "fa": "استان لیریا",
+      "ccp": "𑄣𑄬𑄃𑄨𑄠𑄢𑄨𑄠",
+      "be": "акруга Лейрыя"
     },
-    "geo": {
-      "latitude": 39.74953310000001,
-      "longitude": -8.807682999999999,
-      "min_latitude": 39.70991799999999,
-      "min_longitude": -8.8768517,
-      "max_latitude": 39.798205,
-      "max_longitude": -8.7350657
-    },
-    "name": "Leiria"
+    "comments": null
   },
   "11": {
+    "name": "Lisboa",
+    "code": null,
     "unofficial_names": "Lisboa",
+    "geo": {
+      "latitude": 38.7222524,
+      "longitude": -9.1393366,
+      "min_latitude": 38.6913994,
+      "min_longitude": -9.2298356,
+      "max_latitude": 38.7958538,
+      "max_longitude": -9.0905718
+    },
     "translations": {
       "en": "Lisbon",
       "ar": "محافظة لشبونة",
@@ -543,20 +626,25 @@
       "uk": "Лісабон",
       "ur": "لزبن ضلع",
       "vi": "Lisbon",
-      "zh": "里斯本區"
+      "zh": "里斯本區",
+      "ceb": "Distrito de Lisboa",
+      "sr_Latn": "Lisabon",
+      "ccp": "𑄣𑄨𑄌𑄴𑄝𑄧𑄚𑄴"
     },
-    "geo": {
-      "latitude": 38.7222524,
-      "longitude": -9.1393366,
-      "min_latitude": 38.6913994,
-      "min_longitude": -9.2298356,
-      "max_latitude": 38.7958538,
-      "max_longitude": -9.0905718
-    },
-    "name": "Lisboa"
+    "comments": null
   },
   "12": {
+    "name": "Portalegre",
+    "code": null,
     "unofficial_names": "Portalegre",
+    "geo": {
+      "latitude": 39.2967086,
+      "longitude": -7.4284755,
+      "min_latitude": 39.262495,
+      "min_longitude": -7.4664739,
+      "max_latitude": 39.3153866,
+      "max_longitude": -7.3995175
+    },
     "translations": {
       "en": "Portalegre",
       "ar": "محافظة بورتاليجري",
@@ -585,20 +673,26 @@
       "uk": "Порталеґрі",
       "ur": "پورتالیگرے ضلع",
       "vi": "Portalegre",
-      "zh": "波塔萊格雷區"
+      "zh": "波塔萊格雷區",
+      "ceb": "Distrito de Portalegre",
+      "sr_Latn": "Portalegre",
+      "ccp": "𑄛𑄧𑄢𑄴𑄑𑄣𑄬𑄇𑄴𑄢𑄬",
+      "be": "акруга Порталегры"
     },
-    "geo": {
-      "latitude": 39.2967086,
-      "longitude": -7.4284755,
-      "min_latitude": 39.262495,
-      "min_longitude": -7.4664739,
-      "max_latitude": 39.3153866,
-      "max_longitude": -7.3995175
-    },
-    "name": "Portalegre"
+    "comments": null
   },
   "13": {
+    "name": "Porto",
+    "code": null,
     "unofficial_names": "Porto",
+    "geo": {
+      "latitude": 41.1579438,
+      "longitude": -8.629105299999999,
+      "min_latitude": 41.1383506,
+      "min_longitude": -8.6910927,
+      "max_latitude": 41.1859353,
+      "max_longitude": -8.5526134
+    },
     "translations": {
       "en": "Porto",
       "ar": "محافظة بورتو",
@@ -626,20 +720,26 @@
       "uk": "Порту",
       "ur": "پورتو ضلع",
       "vi": "Porto",
-      "zh": "波爾圖區"
+      "zh": "波爾圖區",
+      "ceb": "Distrito do Porto",
+      "sr_Latn": "Porto",
+      "ccp": "𑄛𑄮𑄢𑄴𑄑𑄮",
+      "mk": "Порто"
     },
-    "geo": {
-      "latitude": 41.1579438,
-      "longitude": -8.629105299999999,
-      "min_latitude": 41.1383506,
-      "min_longitude": -8.6910927,
-      "max_latitude": 41.1859353,
-      "max_longitude": -8.5526134
-    },
-    "name": "Porto"
+    "comments": null
   },
   "14": {
+    "name": "Santarém",
+    "code": null,
     "unofficial_names": "Santarém",
+    "geo": {
+      "latitude": 39.2366618,
+      "longitude": -8.686011900000002,
+      "min_latitude": 39.1687465,
+      "min_longitude": -8.7494918,
+      "max_latitude": 39.2869109,
+      "max_longitude": -8.626665299999999
+    },
     "translations": {
       "en": "Santarém",
       "ar": "محافظة سانتاريم",
@@ -681,20 +781,28 @@
       "uk": "Сантарен",
       "ur": "سانتارامی ضلع",
       "vi": "Santarém",
-      "zh": "聖塔倫區"
+      "zh": "聖塔倫區",
+      "lv": "Santarēmas distrikts",
+      "ceb": "Distrito de Santarém",
+      "sr_Latn": "Santarem",
+      "lt": "Santaremo apskritis",
+      "ccp": "𑄥𑄚𑄴𑄑𑄢𑄴𑄢𑄬𑄟𑄴",
+      "be": "акруга Сантарэн"
     },
-    "geo": {
-      "latitude": 39.2366618,
-      "longitude": -8.686011900000002,
-      "min_latitude": 39.1687465,
-      "min_longitude": -8.7494918,
-      "max_latitude": 39.2869109,
-      "max_longitude": -8.626665299999999
-    },
-    "name": "Santarém"
+    "comments": null
   },
   "15": {
+    "name": "Setúbal",
+    "code": null,
     "unofficial_names": "Setúbal",
+    "geo": {
+      "latitude": 38.5260437,
+      "longitude": -8.8909328,
+      "min_latitude": 38.4840016,
+      "min_longitude": -8.9725114,
+      "max_latitude": 38.5641093,
+      "max_longitude": -8.7556919
+    },
     "translations": {
       "en": "Setúbal",
       "ar": "محافظة سيتوبال",
@@ -736,20 +844,27 @@
       "uk": "Сетубал",
       "ur": "سیتوبال ضلع",
       "vi": "Setúbal",
-      "zh": "塞圖巴爾區"
+      "zh": "塞圖巴爾區",
+      "lv": "Setubalas distrikts",
+      "ceb": "Distrito de Setúbal",
+      "sr_Latn": "Setubal",
+      "lt": "Setubalo apskritis",
+      "ccp": "𑄥𑄬𑄑𑄪𑄝𑄧𑄣𑄴"
     },
-    "geo": {
-      "latitude": 38.5260437,
-      "longitude": -8.8909328,
-      "min_latitude": 38.4840016,
-      "min_longitude": -8.9725114,
-      "max_latitude": 38.5641093,
-      "max_longitude": -8.7556919
-    },
-    "name": "Setúbal"
+    "comments": null
   },
   "16": {
+    "name": "Viana do Castelo",
+    "code": null,
     "unofficial_names": "Viana do Castelo",
+    "geo": {
+      "latitude": 41.6918275,
+      "longitude": -8.8344101,
+      "min_latitude": 41.6714037,
+      "min_longitude": -8.8693403,
+      "max_latitude": 41.7605686,
+      "max_longitude": -8.7483575
+    },
     "translations": {
       "en": "Viana do Castelo",
       "ar": "محافظة فيانادو كاستيلو",
@@ -791,20 +906,27 @@
       "uk": "Віана-ду-Каштелу",
       "ur": "ویانا دو کاشتیلو ضلع",
       "vi": "Viana do Castelo",
-      "zh": "維亞納堡區"
+      "zh": "維亞納堡區",
+      "lv": "Viana du Kaštelu distrikts",
+      "ceb": "Distrito de Viana do Castelo",
+      "sr_Latn": "Vijana do Kastelo",
+      "lt": "Vijanos de Kastelo apskritis",
+      "ccp": "𑄞𑄨𑄠𑄚 𑄓𑄮 𑄇𑄌𑄴𑄑𑄬𑄣𑄮"
     },
-    "geo": {
-      "latitude": 41.6918275,
-      "longitude": -8.8344101,
-      "min_latitude": 41.6714037,
-      "min_longitude": -8.8693403,
-      "max_latitude": 41.7605686,
-      "max_longitude": -8.7483575
-    },
-    "name": "Viana do Castelo"
+    "comments": null
   },
   "17": {
+    "name": "Vila Real",
+    "code": null,
     "unofficial_names": "Vila Real",
+    "geo": {
+      "latitude": 41.3010351,
+      "longitude": -7.7422354,
+      "min_latitude": 41.2401615,
+      "min_longitude": -7.790294800000001,
+      "max_latitude": 41.3635472,
+      "max_longitude": -7.6639146
+    },
     "translations": {
       "en": "Vila Real",
       "ar": "محافظة فيلا ريال",
@@ -832,20 +954,26 @@
       "uk": "Віла-Реал",
       "ur": "ویلا ریال ضلع",
       "vi": "Vila Real",
-      "zh": "雷亞爾城區"
+      "zh": "雷亞爾城區",
+      "ceb": "Distrito de Vila Real",
+      "sr_Latn": "Vila Real",
+      "ccp": "𑄞𑄨𑄣 𑄢𑄨𑄠𑄬𑄣𑄴",
+      "be": "акруга Віла-Рэал"
     },
-    "geo": {
-      "latitude": 41.3010351,
-      "longitude": -7.7422354,
-      "min_latitude": 41.2401615,
-      "min_longitude": -7.790294800000001,
-      "max_latitude": 41.3635472,
-      "max_longitude": -7.6639146
-    },
-    "name": "Vila Real"
+    "comments": null
   },
   "18": {
+    "name": "Viseu",
+    "code": null,
     "unofficial_names": "Viseu",
+    "geo": {
+      "latitude": 40.6565861,
+      "longitude": -7.9124712,
+      "min_latitude": 40.6072458,
+      "min_longitude": -7.9660481,
+      "max_latitude": 40.7325793,
+      "max_longitude": -7.8250273
+    },
     "translations": {
       "en": "Viseu",
       "ar": "محافظة فيسيو",
@@ -886,20 +1014,28 @@
       "uk": "Візеу",
       "ur": "ویزیو ضلع",
       "vi": "Viseu",
-      "zh": "維塞烏區"
+      "zh": "維塞烏區",
+      "lv": "Viseu distrikts",
+      "ceb": "Distrito de Viseu",
+      "sr_Latn": "Vizeu",
+      "lt": "Vizou apskritis",
+      "ccp": "𑄞𑄨𑄥𑄬𑄅𑄪",
+      "be": "акруга Візеу"
     },
-    "geo": {
-      "latitude": 40.6565861,
-      "longitude": -7.9124712,
-      "min_latitude": 40.6072458,
-      "min_longitude": -7.9660481,
-      "max_latitude": 40.7325793,
-      "max_longitude": -7.8250273
-    },
-    "name": "Viseu"
+    "comments": null
   },
   "20": {
+    "name": "Açores",
+    "code": null,
     "unofficial_names": "Açores",
+    "geo": {
+      "latitude": 37.7412488,
+      "longitude": -25.6755944,
+      "min_latitude": 36.9278178,
+      "min_longitude": -31.2687948,
+      "max_latitude": 39.7261497,
+      "max_longitude": -25.0131855
+    },
     "translations": {
       "en": "Azores",
       "af": "Asore",
@@ -958,20 +1094,38 @@
       "uk": "Азорські острови",
       "ur": "آزورس",
       "vi": "Açores",
-      "zh": "亚速尔群岛"
+      "zh": "亚速尔群岛",
+      "cy": "Azores",
+      "ceb": "Azores",
+      "yo_BJ": "Àwɔn Azore",
+      "sr_Latn": "Azorska ostrva",
+      "yue_Hans": "亚速尔",
+      "jv": "Azores",
+      "sq": "Ishujt Azore",
+      "ccp": "𑄃𑄎𑄮𑄢𑄨𑄌𑄴",
+      "ga": "Na hAsóir",
+      "kk": "Азор аралдары",
+      "yue": "亞速爾",
+      "am": "አዞሬስ",
+      "yo": "Àwọn Azore",
+      "uz": "Azor orollari",
+      "bs": "Azores",
+      "mk": "Азорски Острови"
     },
-    "geo": {
-      "latitude": 37.7412488,
-      "longitude": -25.6755944,
-      "min_latitude": 36.9278178,
-      "min_longitude": -31.2687948,
-      "max_latitude": 39.7261497,
-      "max_longitude": -25.0131855
-    },
-    "name": "Açores"
+    "comments": null
   },
   "30": {
+    "name": "Madeira",
+    "code": null,
     "unofficial_names": "Madeira",
+    "geo": {
+      "latitude": 32.76070740000001,
+      "longitude": -16.9594723,
+      "min_latitude": 30.0303451,
+      "min_longitude": -17.2659373,
+      "max_latitude": 33.1281375,
+      "max_longitude": -15.8566922
+    },
     "translations": {
       "en": "Madeira",
       "af": "Madeiraeilande",
@@ -1024,17 +1178,24 @@
       "ur": "مادیعیرا",
       "vi": "Madeira",
       "zh": "馬德拉",
-      "zu": "IMadira"
+      "zu": "IMadira",
+      "cy": "Madeira",
+      "ceb": "Madeira",
+      "sr_Latn": "Madeira",
+      "yue_Hans": "马德拉",
+      "jv": "Madeira",
+      "sq": "Ishujt Medeira",
+      "ccp": "𑄟𑄓𑄬𑄭𑄢",
+      "ga": "Maidéara",
+      "ky": "Мадейра аралдар тобу",
+      "yue": "馬德拉",
+      "am": "ማደይራ",
+      "my": "မဒီးရကျွန်းများ",
+      "yo": "Madeira",
+      "bs": "Madeira",
+      "mk": "Мадеира"
     },
-    "geo": {
-      "latitude": 32.76070740000001,
-      "longitude": -16.9594723,
-      "min_latitude": 30.0303451,
-      "min_longitude": -17.2659373,
-      "max_latitude": 33.1281375,
-      "max_longitude": -15.8566922
-    },
-    "name": "Madeira"
+    "comments": null
   }
 }
 

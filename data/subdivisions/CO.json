@@ -1,6 +1,16 @@
 {
   "AMA": {
+    "name": "Amazonas",
+    "code": null,
     "unofficial_names": "Amazonas",
+    "geo": {
+      "latitude": -1.4429123,
+      "longitude": -71.5723953,
+      "min_latitude": -4.22727,
+      "min_longitude": -74.39015,
+      "max_latitude": 0.11057,
+      "max_longitude": -69.39555
+    },
     "translations": {
       "en": "Amazonas",
       "ar": "إدارة أمازوناس",
@@ -49,20 +59,28 @@
       "uk": "Амасонас",
       "ur": "ایمازوناس محکمہ",
       "vi": "Amazonas",
-      "zh": "亚马孙省"
+      "zh": "亚马孙省",
+      "lv": "Amazonasas departaments",
+      "ceb": "Departamento del Amazonas",
+      "ccp": "𑄃𑄟𑄎𑄧𑄚𑄌𑄴",
+      "ga": "Amazonas",
+      "az": "Amasonas (Kolumbiya)",
+      "yo": "Amazonas Department"
     },
-    "geo": {
-      "latitude": -1.4429123,
-      "longitude": -71.5723953,
-      "min_latitude": -4.22727,
-      "min_longitude": -74.39015,
-      "max_latitude": 0.11057,
-      "max_longitude": -69.39555
-    },
-    "name": "Amazonas"
+    "comments": null
   },
   "ANT": {
+    "name": "Antioquia",
+    "code": null,
     "unofficial_names": "Antioquia",
+    "geo": {
+      "latitude": 7.1986064,
+      "longitude": -75.34121789999999,
+      "min_latitude": 5.41826,
+      "min_longitude": -77.12709,
+      "max_latitude": 8.889778699999999,
+      "max_longitude": -73.88748
+    },
     "translations": {
       "en": "Antioquia",
       "af": "Antioquia",
@@ -111,20 +129,33 @@
       "tr": "Antioquia",
       "uk": "Антіокія",
       "ur": "انتیوکیا محکمہ",
-      "vi": "Antioquia"
+      "vi": "Antioquia",
+      "lv": "Antjokijas departaments",
+      "ceb": "Departamento de Antioquia",
+      "zh": "安蒂奥基亚省",
+      "yue_Hans": "晏托卡省",
+      "ccp": "𑄃𑄚𑄴𑄑𑄨𑄃𑄮𑄇𑄭𑄪𑄠",
+      "ga": "Antioquia",
+      "he": "אנטיוקיה",
+      "yue": "晏托卡省",
+      "az": "Antokiya",
+      "yo": "Antioquia Department",
+      "mk": "Антиокија"
     },
-    "geo": {
-      "latitude": 7.1986064,
-      "longitude": -75.34121789999999,
-      "min_latitude": 5.41826,
-      "min_longitude": -77.12709,
-      "max_latitude": 8.889778699999999,
-      "max_longitude": -73.88748
-    },
-    "name": "Antioquia"
+    "comments": null
   },
   "ARA": {
+    "name": "Arauca",
+    "code": null,
     "unofficial_names": "Arauca",
+    "geo": {
+      "latitude": 7.079371,
+      "longitude": -70.758377,
+      "min_latitude": 6.48352,
+      "min_longitude": -71.20248,
+      "max_latitude": 7.10438,
+      "max_longitude": -69.76795
+    },
     "translations": {
       "en": "Arauca",
       "ar": "إدارة أروكا",
@@ -169,20 +200,30 @@
       "tr": "Arauca",
       "uk": "Араука",
       "ur": "آراوکا محکمہ",
-      "vi": "Arauca"
+      "vi": "Arauca",
+      "lv": "Araukas departments",
+      "ceb": "Departamento de Arauca",
+      "zh": "阿劳卡省",
+      "ccp": "𑄃𑄢𑄅𑄪𑄇",
+      "ga": "Arauca",
+      "he": "אראוקה (מחוז)",
+      "az": "Arauka (departament)",
+      "yo": "Arauca Department"
     },
-    "geo": {
-      "latitude": 7.079371,
-      "longitude": -70.758377,
-      "min_latitude": 6.48352,
-      "min_longitude": -71.20248,
-      "max_latitude": 7.10438,
-      "max_longitude": -69.76795
-    },
-    "name": "Arauca"
+    "comments": null
   },
   "ATL": {
+    "name": "Atlántico",
+    "code": null,
     "unofficial_names": "Atlántico",
+    "geo": {
+      "latitude": 10.6966159,
+      "longitude": -74.8741045,
+      "min_latitude": 10.2557104,
+      "min_longitude": -75.26715,
+      "max_latitude": 11.1067254,
+      "max_longitude": -74.71324
+    },
     "translations": {
       "en": "Atlántico",
       "ar": "إدارة أتلانتيكو",
@@ -228,20 +269,30 @@
       "tr": "Atlántico",
       "uk": "Атлантіко",
       "ur": "اتلانتیکو محکمہ",
-      "vi": "Atlántico"
+      "vi": "Atlántico",
+      "lv": "Atlantiko departaments",
+      "ceb": "Departamento del Atlántico",
+      "zh": "大西洋省",
+      "ccp": "𑄃𑄖𑄴𑄣𑄳𑄠𑄚𑄴𑄑𑄨𑄇𑄮",
+      "ga": "Atlántico",
+      "he": "אטלאנטיקו",
+      "az": "Atlantiko",
+      "yo": "Atlántico Department"
     },
-    "geo": {
-      "latitude": 10.6966159,
-      "longitude": -74.8741045,
-      "min_latitude": 10.2557104,
-      "min_longitude": -75.26715,
-      "max_latitude": 11.1067254,
-      "max_longitude": -74.71324
-    },
-    "name": "Atlántico"
+    "comments": null
   },
   "BOL": {
+    "name": "Bolívar",
+    "code": null,
     "unofficial_names": "Bolívar",
+    "geo": {
+      "latitude": 8.6704382,
+      "longitude": -74.0300122,
+      "min_latitude": 6.99981,
+      "min_longitude": -75.70403019999999,
+      "max_latitude": 10.8013601,
+      "max_longitude": -73.74835
+    },
     "translations": {
       "en": "Bolívar",
       "ar": "إدارة بوليفار",
@@ -286,20 +337,29 @@
       "tr": "Bolívar",
       "uk": "Болівар",
       "ur": "بولیوار محکمہ",
-      "vi": "Bolívar"
+      "vi": "Bolívar",
+      "lv": "Bolivara departaments",
+      "ceb": "Departamento de Bolívar",
+      "zh": "玻利瓦尔省",
+      "ccp": "𑄝𑄧𑄣𑄨𑄞𑄢𑄴",
+      "hy": "Բոլիվար",
+      "az": "Bolivar (departament)",
+      "yo": "Bolívar Department"
     },
-    "geo": {
-      "latitude": 8.6704382,
-      "longitude": -74.0300122,
-      "min_latitude": 6.99981,
-      "min_longitude": -75.70403019999999,
-      "max_latitude": 10.8013601,
-      "max_longitude": -73.74835
-    },
-    "name": "Bolívar"
+    "comments": null
   },
   "BOY": {
+    "name": "Boyacá",
+    "code": null,
     "unofficial_names": "Boyacá",
+    "geo": {
+      "latitude": 5.45,
+      "longitude": -73.35,
+      "min_latitude": 5.40465,
+      "min_longitude": -73.43772,
+      "max_latitude": 5.481,
+      "max_longitude": -73.33131999999999
+    },
     "translations": {
       "en": "Boyacá",
       "ar": "إدارة بوياكا",
@@ -343,20 +403,30 @@
       "tr": "Boyacá",
       "uk": "Бояка",
       "ur": "بویاکا محکمہ",
-      "vi": "Khu vực hành chính Boyacá"
+      "vi": "Khu vực hành chính Boyacá",
+      "lv": "Bojasas departaments",
+      "ceb": "Departamento de Boyacá",
+      "zh": "博亚卡省",
+      "ccp": "𑄝𑄧𑄠𑄇",
+      "ga": "Boyacá",
+      "he": "בויאקה",
+      "az": "Boyaka",
+      "yo": "Boyacá Department"
     },
-    "geo": {
-      "latitude": 5.45,
-      "longitude": -73.35,
-      "min_latitude": 5.40465,
-      "min_longitude": -73.43772,
-      "max_latitude": 5.481,
-      "max_longitude": -73.33131999999999
-    },
-    "name": "Boyacá"
+    "comments": null
   },
   "CAL": {
+    "name": "Caldas",
+    "code": null,
     "unofficial_names": "Caldas",
+    "geo": {
+      "latitude": 5.4815477,
+      "longitude": -75.21144079999999,
+      "min_latitude": 5.4777194,
+      "min_longitude": -75.21738049999999,
+      "max_latitude": 5.4854088,
+      "max_longitude": -75.2068233
+    },
     "translations": {
       "en": "Caldas",
       "ar": "إدارة كالداس",
@@ -400,20 +470,29 @@
       "tr": "Caldas",
       "uk": "Кальдас",
       "ur": "کالداس محکمہ",
-      "vi": "Caldas"
+      "vi": "Caldas",
+      "lv": "Kaldasas departaments",
+      "ceb": "Departamento de Caldas",
+      "zh": "卡尔达斯省",
+      "ccp": "𑄇𑄣𑄴𑄓𑄌𑄴",
+      "he": "קלדס",
+      "az": "Kaldas",
+      "yo": "Caldas Department"
     },
-    "geo": {
-      "latitude": 5.4815477,
-      "longitude": -75.21144079999999,
-      "min_latitude": 5.4777194,
-      "min_longitude": -75.21738049999999,
-      "max_latitude": 5.4854088,
-      "max_longitude": -75.2068233
-    },
-    "name": "Caldas"
+    "comments": null
   },
   "CAQ": {
+    "name": "Caquetá",
+    "code": null,
     "unofficial_names": "Caquetá",
+    "geo": {
+      "latitude": 0.869892,
+      "longitude": -73.8419063,
+      "min_latitude": -0.7065199999999999,
+      "min_longitude": -76.30578,
+      "max_latitude": 2.9332,
+      "max_longitude": -71.32021999999999
+    },
     "translations": {
       "en": "Caquetá",
       "ar": "إدارة كاكيتا",
@@ -458,20 +537,27 @@
       "tr": "Caquetá",
       "uk": "Какета",
       "ur": "کاکیتا محکمہ",
-      "vi": "Caquetá"
+      "vi": "Caquetá",
+      "lv": "Kaketas departaments",
+      "ceb": "Departamento del Caquetá",
+      "zh": "卡克塔省",
+      "ccp": "𑄇𑄬𑄇𑄪𑄠𑄬𑄑",
+      "yo": "Caquetá Department"
     },
-    "geo": {
-      "latitude": 0.869892,
-      "longitude": -73.8419063,
-      "min_latitude": -0.7065199999999999,
-      "min_longitude": -76.30578,
-      "max_latitude": 2.9332,
-      "max_longitude": -71.32021999999999
-    },
-    "name": "Caquetá"
+    "comments": null
   },
   "CAS": {
+    "name": "Casanare",
+    "code": null,
     "unofficial_names": "Casanare",
+    "geo": {
+      "latitude": 5.7589269,
+      "longitude": -71.5723953,
+      "min_latitude": 4.286,
+      "min_longitude": -73.07694,
+      "max_latitude": 6.30716,
+      "max_longitude": -69.8356
+    },
     "translations": {
       "en": "Casanare",
       "ar": "إدارة كاساناري",
@@ -514,20 +600,28 @@
       "tr": "Casanare",
       "uk": "Касанаре",
       "ur": "کاسانارے محکمہ",
-      "vi": "Casanare"
+      "vi": "Casanare",
+      "lv": "Kasanares departaments",
+      "ceb": "Departamento de Casanare",
+      "zh": "卡萨纳雷省",
+      "ccp": "𑄇𑄥𑄚𑄢𑄬",
+      "he": "קסנרה",
+      "yo": "Casanare Department"
     },
-    "geo": {
-      "latitude": 5.7589269,
-      "longitude": -71.5723953,
-      "min_latitude": 4.286,
-      "min_longitude": -73.07694,
-      "max_latitude": 6.30716,
-      "max_longitude": -69.8356
-    },
-    "name": "Casanare"
+    "comments": null
   },
   "CAU": {
+    "name": "Cauca",
+    "code": null,
     "unofficial_names": "Cauca",
+    "geo": {
+      "latitude": 2.5725523,
+      "longitude": -76.7783748,
+      "min_latitude": 2.5690383,
+      "min_longitude": -76.78168769999999,
+      "max_latitude": 2.5752548,
+      "max_longitude": -76.7718601
+    },
     "translations": {
       "en": "Cauca",
       "ar": "إدارة كاوكا",
@@ -572,20 +666,29 @@
       "tr": "Cauca",
       "uk": "Каука",
       "ur": "کاؤکا محکمہ",
-      "vi": "Cauca"
+      "vi": "Cauca",
+      "lv": "Kaukas departaments",
+      "ceb": "Departamento del Cauca",
+      "zh": "考卡省",
+      "ccp": "𑄇𑄧𑄅𑄪𑄇",
+      "hy": "Կաուկա",
+      "he": "קאוקה",
+      "yo": "Cauca Department"
     },
-    "geo": {
-      "latitude": 2.5725523,
-      "longitude": -76.7783748,
-      "min_latitude": 2.5690383,
-      "min_longitude": -76.78168769999999,
-      "max_latitude": 2.5752548,
-      "max_longitude": -76.7718601
-    },
-    "name": "Cauca"
+    "comments": null
   },
   "CES": {
+    "name": "Cesar",
+    "code": null,
     "unofficial_names": "Cesar",
+    "geo": {
+      "latitude": 9.3372948,
+      "longitude": -73.65362089999999,
+      "min_latitude": 7.676399999999999,
+      "min_longitude": -74.13982,
+      "max_latitude": 10.86722,
+      "max_longitude": -72.88257
+    },
     "translations": {
       "en": "Cesar",
       "ar": "إدارة سيزار",
@@ -629,20 +732,28 @@
       "tr": "Cesar",
       "uk": "Сесар",
       "ur": "سیزار محکمہ",
-      "vi": "Khu vực hành chính Cesar"
+      "vi": "Khu vực hành chính Cesar",
+      "lv": "Sesaras departaments",
+      "ceb": "Departamento del Cesar",
+      "zh": "塞萨尔省",
+      "ccp": "𑄥𑄬𑄥𑄢𑄴",
+      "az": "Sesar (departament)",
+      "yo": "Cesar Department"
     },
-    "geo": {
-      "latitude": 9.3372948,
-      "longitude": -73.65362089999999,
-      "min_latitude": 7.676399999999999,
-      "min_longitude": -74.13982,
-      "max_latitude": 10.86722,
-      "max_longitude": -72.88257
-    },
-    "name": "Cesar"
+    "comments": null
   },
   "CHO": {
+    "name": "Chocó",
+    "code": null,
     "unofficial_names": "Chocó",
+    "geo": {
+      "latitude": 5.2528033,
+      "longitude": -76.8259652,
+      "min_latitude": 3.96467,
+      "min_longitude": -77.88727999999999,
+      "max_latitude": 8.67598,
+      "max_longitude": -76.0026
+    },
     "translations": {
       "en": "Chocó",
       "ar": "إدارة تشوكو",
@@ -688,20 +799,28 @@
       "tr": "Chocó",
       "uk": "Чоко",
       "ur": "چوکو محکمہ",
-      "vi": "Chocó"
+      "vi": "Chocó",
+      "lv": "Čoko departaments",
+      "ceb": "Departamento del Chocó",
+      "zh": "乔科省",
+      "ccp": "𑄌𑄮𑄇𑄮",
+      "he": "צ׳וקו",
+      "yo": "Chocó Department"
     },
-    "geo": {
-      "latitude": 5.2528033,
-      "longitude": -76.8259652,
-      "min_latitude": 3.96467,
-      "min_longitude": -77.88727999999999,
-      "max_latitude": 8.67598,
-      "max_longitude": -76.0026
-    },
-    "name": "Chocó"
+    "comments": null
   },
   "COR": {
+    "name": "Córdoba",
+    "code": null,
     "unofficial_names": "Córdoba",
+    "geo": {
+      "latitude": 8.4029253,
+      "longitude": -75.89986739999999,
+      "min_latitude": 7.347090000000001,
+      "min_longitude": -76.50993,
+      "max_latitude": 9.447802399999999,
+      "max_longitude": -74.78514
+    },
     "translations": {
       "en": "Córdoba",
       "ar": "إدارة قرطبة",
@@ -744,20 +863,29 @@
       "tr": "Córdoba",
       "uk": "Кордова",
       "ur": "کوردوبا محکمہ",
-      "vi": "Khu vực hành chính Cordoba"
+      "vi": "Khu vực hành chính Cordoba",
+      "lv": "Kordobas departaments",
+      "ceb": "Departamento de Córdoba",
+      "zh": "科爾多瓦省 (哥倫比亞)",
+      "ccp": "𑄇𑄧𑄢𑄴𑄓𑄮𑄝",
+      "he": "קורדובה (קולומביה)",
+      "cs": "Córdoba",
+      "yo": "Córdoba Department"
     },
-    "geo": {
-      "latitude": 8.4029253,
-      "longitude": -75.89986739999999,
-      "min_latitude": 7.347090000000001,
-      "min_longitude": -76.50993,
-      "max_latitude": 9.447802399999999,
-      "max_longitude": -74.78514
-    },
-    "name": "Córdoba"
+    "comments": null
   },
   "CUN": {
+    "name": "Cundinamarca",
+    "code": null,
     "unofficial_names": "Cundinamarca",
+    "geo": {
+      "latitude": 5.026002999999999,
+      "longitude": -74.0300122,
+      "min_latitude": 3.7269,
+      "min_longitude": -74.89067,
+      "max_latitude": 5.8367,
+      "max_longitude": -73.05084
+    },
     "translations": {
       "en": "Cundinamarca",
       "ar": "إدارة كونديناماركا",
@@ -799,22 +927,32 @@
       "tr": "Cundinamarca",
       "uk": "Кундінамарка",
       "ur": "کوندینامارکا محکمہ",
-      "vi": "Cundinamarca"
+      "vi": "Cundinamarca",
+      "lv": "Kundinamarkas departaments",
+      "ceb": "Departamento de Cundinamarca",
+      "zh": "昆迪納馬卡省",
+      "ccp": "𑄇𑄪𑄚𑄴𑄓𑄨𑄚𑄟𑄢𑄴𑄇",
+      "sk": "Cundinamarca",
+      "he": "קונדינמרקה",
+      "cs": "Cundinamarca",
+      "yo": "Cundinamarca Department"
     },
-    "geo": {
-      "latitude": 5.026002999999999,
-      "longitude": -74.0300122,
-      "min_latitude": 3.7269,
-      "min_longitude": -74.89067,
-      "max_latitude": 5.8367,
-      "max_longitude": -73.05084
-    },
-    "name": "Cundinamarca"
+    "comments": null
   },
   "DC": {
+    "name": "Distrito Capital de Bogotá",
+    "code": null,
     "unofficial_names": [
       "Santafé de Bogotá Distrito Capital"
     ],
+    "geo": {
+      "latitude": 4.598056000000001,
+      "longitude": -74.075833,
+      "min_latitude": 3.72977,
+      "min_longitude": -74.45177,
+      "max_latitude": 4.8371,
+      "max_longitude": -73.99631
+    },
     "translations": {
       "en": "Capital District",
       "af": "Bogotá, DC",
@@ -876,20 +1014,41 @@
       "tr": "Bogotá",
       "uk": "Богота",
       "ur": "بوگوتا",
-      "vi": "Bogotá"
+      "vi": "Bogotá",
+      "cy": "Bogotá",
+      "ceb": "Bogotá",
+      "sr_Latn": "Bogota",
+      "zh": "波哥大",
+      "yue_Hans": "波哥大",
+      "jv": "Bogotá",
+      "sq": "Bogotá",
+      "ccp": "𑄢𑄌𑄴𑄙𑄚𑄩 𑄎𑄬𑄣",
+      "ga": "Bogotá",
+      "so": "Bogota",
+      "pa": "ਬੋਗੋਤਾ",
+      "kk": "Богота",
+      "yue": "波哥大",
+      "my": "ဘိုဂိုတာမြို့",
+      "yo": "Bogotá",
+      "zu": "IBogotaa",
+      "uz": "Bogota",
+      "bs": "Bogotá",
+      "mk": "Богота"
     },
-    "geo": {
-      "latitude": 4.598056000000001,
-      "longitude": -74.075833,
-      "min_latitude": 3.72977,
-      "min_longitude": -74.45177,
-      "max_latitude": 4.8371,
-      "max_longitude": -73.99631
-    },
-    "name": "Distrito Capital de Bogotá"
+    "comments": null
   },
   "GUA": {
+    "name": "Guainía",
+    "code": null,
     "unofficial_names": "Guainía",
+    "geo": {
+      "latitude": 2.585393,
+      "longitude": -68.52471489999999,
+      "min_latitude": 1.16702,
+      "min_longitude": -70.9425,
+      "max_latitude": 4.04741,
+      "max_longitude": -66.84722
+    },
     "translations": {
       "en": "Guainía",
       "ar": "إدارة غواينيا",
@@ -932,20 +1091,27 @@
       "tr": "Guainía",
       "uk": "Ґуайнія",
       "ur": "گواینیا محکمہ",
-      "vi": "Khu hành chính Guainía"
+      "vi": "Khu hành chính Guainía",
+      "lv": "Gvainijas departaments",
+      "ceb": "Departamento del Guainía",
+      "zh": "瓜伊尼亚省",
+      "ccp": "𑄉𑄭𑄪𑄃𑄨𑄚𑄨𑄠",
+      "yo": "Guainía Department"
     },
-    "geo": {
-      "latitude": 2.585393,
-      "longitude": -68.52471489999999,
-      "min_latitude": 1.16702,
-      "min_longitude": -70.9425,
-      "max_latitude": 4.04741,
-      "max_longitude": -66.84722
-    },
-    "name": "Guainía"
+    "comments": null
   },
   "GUV": {
+    "name": "Guaviare",
+    "code": null,
     "unofficial_names": "Guaviare",
+    "geo": {
+      "latitude": 1.0619181,
+      "longitude": -73.2558952,
+      "min_latitude": 1.051796,
+      "min_longitude": -73.27159879999999,
+      "max_latitude": 1.0722202,
+      "max_longitude": -73.24516299999999
+    },
     "translations": {
       "en": "Guaviare",
       "ar": "إدارة غوافياري",
@@ -988,20 +1154,28 @@
       "tr": "Guaviare",
       "uk": "Ґуавʼяре",
       "ur": "گوابیارے محکمہ",
-      "vi": "Khu vực hành chính Guaviare"
+      "vi": "Khu vực hành chính Guaviare",
+      "lv": "Guavjares departaments",
+      "ceb": "Departamento del Guaviare",
+      "zh": "瓜维亚雷省",
+      "ccp": "𑄉𑄪𑄠𑄞𑄠𑄢𑄴",
+      "az": "Quavyare (departament)",
+      "yo": "Guaviare Department"
     },
-    "geo": {
-      "latitude": 1.0619181,
-      "longitude": -73.2558952,
-      "min_latitude": 1.051796,
-      "min_longitude": -73.27159879999999,
-      "max_latitude": 1.0722202,
-      "max_longitude": -73.24516299999999
-    },
-    "name": "Guaviare"
+    "comments": null
   },
   "HUI": {
+    "name": "Huila",
+    "code": null,
     "unofficial_names": "Huila",
+    "geo": {
+      "latitude": 2.5359349,
+      "longitude": -75.52766989999999,
+      "min_latitude": 1.55547,
+      "min_longitude": -76.62425,
+      "max_latitude": 3.84485,
+      "max_longitude": -74.41284999999999
+    },
     "translations": {
       "en": "Huila",
       "ar": "إدارة هويلا",
@@ -1044,20 +1218,28 @@
       "tr": "Huila",
       "uk": "Уїла",
       "ur": "ہوئلا محکمہ",
-      "vi": "Khu vực hành chính Huila"
+      "vi": "Khu vực hành chính Huila",
+      "lv": "Uilas departaments",
+      "ceb": "Departamento del Huila",
+      "zh": "乌伊拉省",
+      "ccp": "𑄦𑄭𑄪𑄣",
+      "az": "Uila (departament)",
+      "yo": "Huila Department"
     },
-    "geo": {
-      "latitude": 2.5359349,
-      "longitude": -75.52766989999999,
-      "min_latitude": 1.55547,
-      "min_longitude": -76.62425,
-      "max_latitude": 3.84485,
-      "max_longitude": -74.41284999999999
-    },
-    "name": "Huila"
+    "comments": null
   },
   "LAG": {
+    "name": "La Guajira",
+    "code": null,
     "unofficial_names": "La Guajira",
+    "geo": {
+      "latitude": 11.3547743,
+      "longitude": -72.5204827,
+      "min_latitude": 10.39699,
+      "min_longitude": -73.66418999999999,
+      "max_latitude": 12.4584622,
+      "max_longitude": -71.1131716
+    },
     "translations": {
       "en": "La Guajira",
       "ar": "إدارة لا غواخيرا",
@@ -1099,20 +1281,28 @@
       "tr": "La Guajira",
       "uk": "Гуахіра",
       "ur": "لا گواجیرا دیپارٹمنٹ",
-      "vi": "Khu vực hành chính La Guajira"
+      "vi": "Khu vực hành chính La Guajira",
+      "lv": "Lagvahiras departaments",
+      "ceb": "Departamento de La Guajira",
+      "zh": "瓜希拉省",
+      "ccp": "𑄣 𑄉𑄪𑄠𑄎𑄨𑄢",
+      "he": "לה גואחירה",
+      "yo": "La Guajira Department"
     },
-    "geo": {
-      "latitude": 11.3547743,
-      "longitude": -72.5204827,
-      "min_latitude": 10.39699,
-      "min_longitude": -73.66418999999999,
-      "max_latitude": 12.4584622,
-      "max_longitude": -71.1131716
-    },
-    "name": "La Guajira"
+    "comments": null
   },
   "MAG": {
+    "name": "Magdalena",
+    "code": null,
     "unofficial_names": "Magdalena",
+    "geo": {
+      "latitude": 10.4113014,
+      "longitude": -74.4056612,
+      "min_latitude": 8.9183801,
+      "min_longitude": -74.94542299999999,
+      "max_latitude": 11.3489296,
+      "max_longitude": -73.54199
+    },
     "translations": {
       "en": "Magdalena",
       "ar": "إدارة ماجدالينا",
@@ -1157,20 +1347,32 @@
       "tr": "Magdalena",
       "uk": "Маґдалена",
       "ur": "ماگدالینا محکمہ",
-      "vi": "Magdalena"
+      "vi": "Magdalena",
+      "lv": "Magdalenas departaments",
+      "ceb": "Departamento del Magdalena",
+      "sr_Latn": "Magdalena region",
+      "zh": "马格达莱纳省",
+      "ccp": "𑄟𑄇𑄴𑄓𑄬𑄣𑄬𑄚",
+      "hy": "Մագդալենա շրջան",
+      "he": "מגדלנה",
+      "az": "Maqdalena (departament)",
+      "be": "Магдалена",
+      "yo": "Magdalena Department"
     },
-    "geo": {
-      "latitude": 10.4113014,
-      "longitude": -74.4056612,
-      "min_latitude": 8.9183801,
-      "min_longitude": -74.94542299999999,
-      "max_latitude": 11.3489296,
-      "max_longitude": -73.54199
-    },
-    "name": "Magdalena"
+    "comments": null
   },
   "MET": {
+    "name": "Meta",
+    "code": null,
     "unofficial_names": "Meta",
+    "geo": {
+      "latitude": 3.2719904,
+      "longitude": -73.087749,
+      "min_latitude": 1.60126,
+      "min_longitude": -74.93392,
+      "max_latitude": 4.92514,
+      "max_longitude": -71.0774
+    },
     "translations": {
       "en": "Meta",
       "ar": "إدارة ميتا",
@@ -1212,20 +1414,29 @@
       "tr": "Meta",
       "uk": "Мета",
       "ur": "میتا محکمہ",
-      "vi": "Meta"
+      "vi": "Meta",
+      "lv": "Metas departaments",
+      "ceb": "Departamento del Meta",
+      "zh": "梅塔省",
+      "ccp": "𑄟𑄬𑄑",
+      "he": "מטה (מחוז)",
+      "az": "Meta (departament)",
+      "yo": "Meta Department"
     },
-    "geo": {
-      "latitude": 3.2719904,
-      "longitude": -73.087749,
-      "min_latitude": 1.60126,
-      "min_longitude": -74.93392,
-      "max_latitude": 4.92514,
-      "max_longitude": -71.0774
-    },
-    "name": "Meta"
+    "comments": null
   },
   "NAR": {
+    "name": "Nariño",
+    "code": null,
     "unofficial_names": "Nariño",
+    "geo": {
+      "latitude": 1.289822,
+      "longitude": -77.35861190000001,
+      "min_latitude": 1.22328,
+      "min_longitude": -77.38336,
+      "max_latitude": 1.35415,
+      "max_longitude": -77.30888999999999
+    },
     "translations": {
       "en": "Nariño",
       "ar": "إدارة نارينيو",
@@ -1269,20 +1480,30 @@
       "tr": "Nariño",
       "uk": "Наріньйо",
       "ur": "نارینو محکمہ",
-      "vi": "Nariño"
+      "vi": "Nariño",
+      "lv": "Narinjo departaments",
+      "ceb": "Departamento de Nariño",
+      "zh": "纳里尼奥省",
+      "ccp": "𑄚𑄢𑄨𑄚𑄮",
+      "he": "נריניו",
+      "az": "Narino",
+      "yo": "Nariño Department",
+      "mk": "Нарињо"
     },
-    "geo": {
-      "latitude": 1.289822,
-      "longitude": -77.35861190000001,
-      "min_latitude": 1.22328,
-      "min_longitude": -77.38336,
-      "max_latitude": 1.35415,
-      "max_longitude": -77.30888999999999
-    },
-    "name": "Nariño"
+    "comments": null
   },
   "NSA": {
+    "name": "Norte de Santander",
+    "code": null,
     "unofficial_names": "Norte de Santander",
+    "geo": {
+      "latitude": 7.9462831,
+      "longitude": -72.8988069,
+      "min_latitude": 6.87306,
+      "min_longitude": -73.63743,
+      "max_latitude": 9.29051,
+      "max_longitude": -72.04813
+    },
     "translations": {
       "en": "Norte de Santander",
       "ar": "إدارة نورتي دي سانتاندر",
@@ -1325,20 +1546,29 @@
       "tr": "Norte de Santander",
       "uk": "Норте-де-Сантандер",
       "ur": "شمالی سانتاندر محکمہ",
-      "vi": "Norte de Santander"
+      "vi": "Norte de Santander",
+      "lv": "Ziemeļsantanderas departaments",
+      "ceb": "Departamento de Norte de Santander",
+      "zh": "北桑坦德省",
+      "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬 𑄓𑄬 𑄥𑄚𑄴𑄑𑄚𑄴𑄓𑄢𑄴",
+      "he": "נורטה דה סנטנדר",
+      "az": "Şimali Santander",
+      "yo": "Norte de Santander Department"
     },
-    "geo": {
-      "latitude": 7.9462831,
-      "longitude": -72.8988069,
-      "min_latitude": 6.87306,
-      "min_longitude": -73.63743,
-      "max_latitude": 9.29051,
-      "max_longitude": -72.04813
-    },
-    "name": "Norte de Santander"
+    "comments": null
   },
   "PUT": {
+    "name": "Putumayo",
+    "code": null,
     "unofficial_names": "Putumayo",
+    "geo": {
+      "latitude": 0.4359506,
+      "longitude": -75.52766989999999,
+      "min_latitude": -0.56002,
+      "min_longitude": -77.18681,
+      "max_latitude": 1.46781,
+      "max_longitude": -73.84129999999999
+    },
     "translations": {
       "en": "Putumayo",
       "ar": "إدارة بوتومايو",
@@ -1381,20 +1611,28 @@
       "tr": "Putumayo",
       "uk": "Путумайо",
       "ur": "پوتامایو محکمہ",
-      "vi": "Putumayo"
+      "vi": "Putumayo",
+      "lv": "Putumajo departaments",
+      "ceb": "Departamento del Putumayo",
+      "zh": "普图马约省",
+      "ccp": "𑄛𑄪𑄑𑄪𑄟𑄭𑄠𑄮",
+      "az": "Putumayo (departament)",
+      "yo": "Putumayo Department"
     },
-    "geo": {
-      "latitude": 0.4359506,
-      "longitude": -75.52766989999999,
-      "min_latitude": -0.56002,
-      "min_longitude": -77.18681,
-      "max_latitude": 1.46781,
-      "max_longitude": -73.84129999999999
-    },
-    "name": "Putumayo"
+    "comments": null
   },
   "QUI": {
+    "name": "Quindío",
+    "code": null,
     "unofficial_names": "Quindío",
+    "geo": {
+      "latitude": 4.4610191,
+      "longitude": -75.667356,
+      "min_latitude": 4.07391,
+      "min_longitude": -75.89562,
+      "max_latitude": 4.71822,
+      "max_longitude": -75.38454
+    },
     "translations": {
       "en": "Quindío",
       "ar": "إدارة كوينديو",
@@ -1436,20 +1674,29 @@
       "tr": "Quindío",
       "uk": "Кіндіо",
       "ur": "قیندیو محکمہ",
-      "vi": "Quindío"
+      "vi": "Quindío",
+      "lv": "Kindio departaments",
+      "ceb": "Quindío Department",
+      "zh": "金迪奥省",
+      "ccp": "𑄇𑄪𑄃𑄨𑄚𑄴𑄓𑄨𑄃𑄮",
+      "he": "קינדיו",
+      "az": "Kindio",
+      "yo": "Quindío Department"
     },
-    "geo": {
-      "latitude": 4.4610191,
-      "longitude": -75.667356,
-      "min_latitude": 4.07391,
-      "min_longitude": -75.89562,
-      "max_latitude": 4.71822,
-      "max_longitude": -75.38454
-    },
-    "name": "Quindío"
+    "comments": null
   },
   "RIS": {
+    "name": "Risaralda",
+    "code": null,
     "unofficial_names": "Risaralda",
+    "geo": {
+      "latitude": 4.99243,
+      "longitude": -76.01866,
+      "min_latitude": 4.66464,
+      "min_longitude": -76.21154,
+      "max_latitude": 5.568049999999999,
+      "max_longitude": -75.37608999999999
+    },
     "translations": {
       "en": "Risaralda",
       "ar": "إدارة ريزارالدا",
@@ -1491,20 +1738,29 @@
       "tr": "Risaralda",
       "uk": "Рісаральда",
       "ur": "ریسارالدا محکمہ",
-      "vi": "Risaralda"
+      "vi": "Risaralda",
+      "lv": "Risaraldas departaments",
+      "ceb": "Departamento de Risaralda",
+      "zh": "里萨拉尔达省",
+      "ccp": "𑄢𑄨𑄥𑄢𑄣𑄴𑄓",
+      "he": "ריסרלדה",
+      "az": "Risaralda",
+      "yo": "Risaralda Department"
     },
-    "geo": {
-      "latitude": 4.99243,
-      "longitude": -76.01866,
-      "min_latitude": 4.66464,
-      "min_longitude": -76.21154,
-      "max_latitude": 5.568049999999999,
-      "max_longitude": -75.37608999999999
-    },
-    "name": "Risaralda"
+    "comments": null
   },
   "SAN": {
+    "name": "Santander",
+    "code": null,
     "unofficial_names": "Santander",
+    "geo": {
+      "latitude": 6.6437076,
+      "longitude": -73.65362089999999,
+      "min_latitude": 5.70671,
+      "min_longitude": -74.52665999999999,
+      "max_latitude": 8.1410123,
+      "max_longitude": -72.4764
+    },
     "translations": {
       "en": "Santander",
       "ar": "سانتاندير",
@@ -1545,20 +1801,29 @@
       "tr": "Santander",
       "uk": "Сантандер",
       "ur": "سانتاندر محکمہ",
-      "vi": "Khu vực hành chính Santander"
+      "vi": "Khu vực hành chính Santander",
+      "lv": "Santanderas departaments",
+      "ceb": "Departamento de Santander",
+      "zh": "桑坦德省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄚𑄴𑄓𑄢𑄴",
+      "he": "סנטנדר",
+      "az": "Santander (departament)",
+      "yo": "Santander Department"
     },
-    "geo": {
-      "latitude": 6.6437076,
-      "longitude": -73.65362089999999,
-      "min_latitude": 5.70671,
-      "min_longitude": -74.52665999999999,
-      "max_latitude": 8.1410123,
-      "max_longitude": -72.4764
-    },
-    "name": "Santander"
+    "comments": null
   },
   "SAP": {
+    "name": "San Andrés, Providencia y Santa Catalina",
+    "code": null,
     "unofficial_names": "San Andrés, Providencia y Santa Catalina",
+    "geo": {
+      "latitude": 13.35395,
+      "longitude": -81.37127,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "San Andrés & Providencia",
       "ar": "ارخبيل سان اندريس",
@@ -1603,20 +1868,30 @@
       "tr": "San Andrés, Providencia ve Santa Catalina Takımadaları",
       "uk": "Сан-Андрес і Провіденсія",
       "ur": "مجموعہ الجزائر سان اینڈریس، پرووڈینسیا و سانتا کاتالینا",
-      "vi": "Archipelago ở Saint Andréws, Providence và Saint Catalina"
+      "vi": "Archipelago ở Saint Andréws, Providence và Saint Catalina",
+      "lv": "Sanandresas, Providensijas un Santakatalinas arhipelāgs",
+      "ceb": "Providencia y Santa Catalina",
+      "sr_Latn": "San Andres i Providensija",
+      "zh": "聖安德列斯-普羅維登西亞和聖卡塔利娜群島省",
+      "ccp": "𑄥𑄚𑄴 𑄃𑄚𑄴𑄓𑄳𑄢𑄬 & 𑄛𑄳𑄢𑄧𑄮𑄞𑄭𑄓𑄬𑄚𑄨𑄠",
+      "pa": "ਸਾਨ ਆਂਦਰੇਸ, ਪ੍ਰੋਵੀਦੈਂਸੀਆ ਅਤੇ ਸਾਂਤਾ ਕਾਤਾਲੀਨਾ ਟਾਪੂ-ਸਮੂਹ",
+      "az": "San Andres və Providensiya",
+      "yo": "San Andrés, Providencia àti Santa Catalina"
     },
-    "geo": {
-      "latitude": 13.35395,
-      "longitude": -81.37127,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "San Andrés, Providencia y Santa Catalina"
+    "comments": null
   },
   "SUC": {
+    "name": "Sucre",
+    "code": null,
     "unofficial_names": "Sucre",
+    "geo": {
+      "latitude": 8.813889999999999,
+      "longitude": -74.72529999999999,
+      "min_latitude": 8.568349999999999,
+      "min_longitude": -74.89497999999999,
+      "max_latitude": 9.04574,
+      "max_longitude": -74.55743
+    },
     "translations": {
       "en": "Sucre",
       "ar": "إدارة سوكري",
@@ -1657,20 +1932,29 @@
       "tr": "Sucre",
       "uk": "Сукре",
       "ur": "سوکرے محکمہ",
-      "vi": "Khu vực hành chính Sucre"
+      "vi": "Khu vực hành chính Sucre",
+      "lv": "Sukres departaments",
+      "ceb": "Departamento de Sucre",
+      "zh": "苏克雷省",
+      "ccp": "𑄥𑄪𑄇𑄳𑄢𑄬",
+      "he": "סוקרה",
+      "az": "Sukre (departament)",
+      "yo": "Sucre Department"
     },
-    "geo": {
-      "latitude": 8.813889999999999,
-      "longitude": -74.72529999999999,
-      "min_latitude": 8.568349999999999,
-      "min_longitude": -74.89497999999999,
-      "max_latitude": 9.04574,
-      "max_longitude": -74.55743
-    },
-    "name": "Sucre"
+    "comments": null
   },
   "TOL": {
+    "name": "Tolima",
+    "code": null,
     "unofficial_names": "Tolima",
+    "geo": {
+      "latitude": 4.092516799999999,
+      "longitude": -75.1545381,
+      "min_latitude": 2.8705,
+      "min_longitude": -76.10852,
+      "max_latitude": 5.316949999999999,
+      "max_longitude": -74.47525
+    },
     "translations": {
       "en": "Tolima",
       "ar": "إدارة توليما",
@@ -1711,20 +1995,30 @@
       "tr": "Tolima",
       "uk": "Толіма",
       "ur": "تولیما محکمہ",
-      "vi": "Khu vực hành chính Tolima"
+      "vi": "Khu vực hành chính Tolima",
+      "lv": "Tolimas departaments",
+      "ceb": "Departamento de Tolima",
+      "zh": "托利马省",
+      "ccp": "𑄑𑄧𑄣𑄨𑄟",
+      "he": "טולימה",
+      "cs": "Tolima",
+      "az": "Tolima",
+      "yo": "Tolima Department"
     },
-    "geo": {
-      "latitude": 4.092516799999999,
-      "longitude": -75.1545381,
-      "min_latitude": 2.8705,
-      "min_longitude": -76.10852,
-      "max_latitude": 5.316949999999999,
-      "max_longitude": -74.47525
-    },
-    "name": "Tolima"
+    "comments": null
   },
   "VAC": {
+    "name": "Valle del Cauca",
+    "code": null,
     "unofficial_names": "Valle del Cauca",
+    "geo": {
+      "latitude": 3.8008893,
+      "longitude": -76.64127119999999,
+      "min_latitude": 3.09083,
+      "min_longitude": -77.5440788,
+      "max_latitude": 5.03687,
+      "max_longitude": -75.70488
+    },
     "translations": {
       "en": "Valle del Cauca",
       "ar": "إدارة فالي ديل كاوكا",
@@ -1766,20 +2060,30 @@
       "tr": "Valle del Cauca",
       "uk": "Вальє-дель-Каука",
       "ur": "ویے دیل کاؤکا محکمہ",
-      "vi": "Valle del Cauca"
+      "vi": "Valle del Cauca",
+      "lv": "Valjes del Kaukas departaments",
+      "ceb": "Departamento del Valle del Cauca",
+      "zh": "考卡山谷省",
+      "ccp": "𑄞𑄣𑄬 𑄓𑄬𑄣𑄴 𑄇𑄯𑄇",
+      "cs": "Valle del Cauca",
+      "az": "Valye Del Kauka",
+      "be": "дэпартамент Валье-дэль-Каўка",
+      "yo": "Valle del Cauca Department"
     },
-    "geo": {
-      "latitude": 3.8008893,
-      "longitude": -76.64127119999999,
-      "min_latitude": 3.09083,
-      "min_longitude": -77.5440788,
-      "max_latitude": 5.03687,
-      "max_longitude": -75.70488
-    },
-    "name": "Valle del Cauca"
+    "comments": null
   },
   "VAU": {
+    "name": "Vaupés",
+    "code": null,
     "unofficial_names": "Vaupés",
+    "geo": {
+      "latitude": 0.8553561,
+      "longitude": -70.81199529999999,
+      "min_latitude": -1.22768,
+      "min_longitude": -72.03437,
+      "max_latitude": 2.08011,
+      "max_longitude": -69.11563
+    },
     "translations": {
       "en": "Vaupés",
       "ar": "إدارة فاوبيس",
@@ -1822,20 +2126,28 @@
       "tr": "Vaupés",
       "uk": "Ваупес",
       "ur": "واوپیس محکمہ",
-      "vi": "Khu vực hành chính Vaupés"
+      "vi": "Khu vực hành chính Vaupés",
+      "lv": "Vaupesas departaments",
+      "ceb": "Departamento del Vaupés",
+      "zh": "沃佩斯省",
+      "ccp": "𑄞𑄅𑄪𑄛𑄬𑄌𑄴",
+      "az": "Vaupes",
+      "yo": "Vaupés Department"
     },
-    "geo": {
-      "latitude": 0.8553561,
-      "longitude": -70.81199529999999,
-      "min_latitude": -1.22768,
-      "min_longitude": -72.03437,
-      "max_latitude": 2.08011,
-      "max_longitude": -69.11563
-    },
-    "name": "Vaupés"
+    "comments": null
   },
   "VID": {
+    "name": "Vichada",
+    "code": null,
     "unofficial_names": "Vichada",
+    "geo": {
+      "latitude": 4.4234452,
+      "longitude": -69.2877535,
+      "min_latitude": 2.7371,
+      "min_longitude": -71.07766,
+      "max_latitude": 6.32433,
+      "max_longitude": -67.40982
+    },
     "translations": {
       "en": "Vichada",
       "ar": "إدارة فيتشادا",
@@ -1877,17 +2189,15 @@
       "tr": "Vichada",
       "uk": "Вічада",
       "ur": "بیچادا محکمہ",
-      "vi": "Khu vực hành chính Vichada"
+      "vi": "Khu vực hành chính Vichada",
+      "lv": "Vičadas departaments",
+      "ceb": "Departamento del Vichada",
+      "zh": "比查达省",
+      "ccp": "𑄞𑄭𑄥𑄓",
+      "az": "Viçada",
+      "yo": "Vichada Department"
     },
-    "geo": {
-      "latitude": 4.4234452,
-      "longitude": -69.2877535,
-      "min_latitude": 2.7371,
-      "min_longitude": -71.07766,
-      "max_latitude": 6.32433,
-      "max_longitude": -67.40982
-    },
-    "name": "Vichada"
+    "comments": null
   }
 }
 

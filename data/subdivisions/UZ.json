@@ -1,10 +1,20 @@
 {
   "AN": {
+    "name": "Andijon",
+    "code": null,
     "unofficial_names": [
       "Andijon",
       "Andizhan",
       "Andižan"
     ],
+    "geo": {
+      "latitude": 40.8153561,
+      "longitude": 72.28375,
+      "min_latitude": 40.6814191,
+      "min_longitude": 72.2175981,
+      "max_latitude": 40.8773096,
+      "max_longitude": 72.4216927
+    },
     "translations": {
       "en": "Andijan",
       "ar": "ولاية أنديجان",
@@ -48,19 +58,21 @@
       "uk": "Андижанська область",
       "ur": "اندیجان صوبہ",
       "vi": "Andijon",
-      "zh": "安集延州"
+      "zh": "安集延州",
+      "lv": "Andidžonas vilojats",
+      "jv": "Andijon",
+      "ccp": "𑄃𑄚𑄴𑄓𑄨𑄎𑄚𑄴",
+      "ky": "Андижан облусу",
+      "pa": "ਅੰਦੀਜਾਨ ਪ੍ਰਾਂਤ",
+      "kk": "Андижан облысы",
+      "uz": "Andijon",
+      "mk": "Андиџанска област"
     },
-    "geo": {
-      "latitude": 40.8153561,
-      "longitude": 72.28375,
-      "min_latitude": 40.6814191,
-      "min_longitude": 72.2175981,
-      "max_latitude": 40.8773096,
-      "max_longitude": 72.4216927
-    },
-    "name": "Andijon"
+    "comments": null
   },
   "BU": {
+    "name": "Buxoro",
+    "code": null,
     "unofficial_names": [
       "Boukhara",
       "Buchara",
@@ -69,6 +81,14 @@
       "Bukhara",
       "Bukhoro"
     ],
+    "geo": {
+      "latitude": 39.7680827,
+      "longitude": 64.4555769,
+      "min_latitude": 39.7309658,
+      "min_longitude": 64.3438338,
+      "max_latitude": 39.8241068,
+      "max_longitude": 64.5017624
+    },
     "translations": {
       "en": "Bukhara",
       "ar": "ولاية بخارى",
@@ -108,25 +128,38 @@
       "tr": "Buhara ili",
       "uk": "Бухарська область",
       "ur": "بخارا صوبہ",
-      "vi": "Buxoro"
+      "vi": "Buxoro",
+      "lv": "Buhāras vilojats",
+      "ceb": "Bukhara Province",
+      "zh": "布哈拉州",
+      "jv": "Buxoro",
+      "ccp": "𑄝𑄪𑄈𑄢",
+      "hy": "Բուխարայի մարզ",
+      "ky": "Бухара облусу",
+      "pa": "ਬੁਖਾਰਾ ਪ੍ਰਾਂਤ",
+      "kk": "Бұхара облысы",
+      "uz": "Buxoro viloyati",
+      "mk": "Бухарска област"
     },
-    "geo": {
-      "latitude": 39.7680827,
-      "longitude": 64.4555769,
-      "min_latitude": 39.7309658,
-      "min_longitude": 64.3438338,
-      "max_latitude": 39.8241068,
-      "max_longitude": 64.5017624
-    },
-    "name": "Buxoro"
+    "comments": null
   },
   "FA": {
+    "name": "Farg‘ona",
+    "code": null,
     "unofficial_names": [
       "Farghona",
       "Fergana",
       "Ferghana",
       "Ferghona"
     ],
+    "geo": {
+      "latitude": 40.386389,
+      "longitude": 71.786389,
+      "min_latitude": 40.3326582,
+      "min_longitude": 71.7195224,
+      "max_latitude": 40.4268914,
+      "max_longitude": 71.8614006
+    },
     "translations": {
       "en": "Fergana",
       "ar": "ولاية فرغانة",
@@ -168,19 +201,22 @@
       "tr": "Fergana ili",
       "uk": "Ферганська область",
       "ur": "فرغانہ صوبہ",
-      "vi": "Farg’ona"
+      "vi": "Farg’ona",
+      "lv": "Fergānas vilojats",
+      "ceb": "Fergana",
+      "zh": "費爾干納州",
+      "ccp": "𑄜𑄢𑄴𑄉𑄚",
+      "ka": "ფერღანის ოლქი",
+      "ky": "Фергана облусу",
+      "pa": "ਫ਼ਰਗਨਾ ਖੇਤਰ",
+      "uz": "Fargʻona viloyati",
+      "mk": "Ферганска област"
     },
-    "geo": {
-      "latitude": 40.386389,
-      "longitude": 71.786389,
-      "min_latitude": 40.3326582,
-      "min_longitude": 71.7195224,
-      "max_latitude": 40.4268914,
-      "max_longitude": 71.8614006
-    },
-    "name": "Farg‘ona"
+    "comments": null
   },
   "JI": {
+    "name": "Jizzax",
+    "code": null,
     "unofficial_names": [
       "Cizah",
       "Cizak",
@@ -189,6 +225,14 @@
       "Džizak",
       "Jizzakh"
     ],
+    "geo": {
+      "latitude": 40.11583299999999,
+      "longitude": 67.84222199999999,
+      "min_latitude": 40.0458832,
+      "min_longitude": 67.7763748,
+      "max_latitude": 40.1917254,
+      "max_longitude": 67.9324151
+    },
     "translations": {
       "en": "Jizzakh",
       "ar": "ولاية جيزك",
@@ -228,23 +272,33 @@
       "tr": "Cizzak ili",
       "uk": "Джиззацька область",
       "ur": "جیزخ صوبہ",
-      "vi": "Jizzax"
+      "vi": "Jizzax",
+      "lv": "Džizahas vilojats",
+      "ceb": "Jizzakh Province",
+      "zh": "吉扎克州",
+      "ccp": "𑄎𑄨𑄎𑄳𑄦𑄇𑄴",
+      "ky": "Жызак облусу",
+      "pa": "ਜਿਜ਼ਾਖ ਸੂਬਾ",
+      "uz": "Jizzax viloyati",
+      "mk": "Џизачка област"
     },
-    "geo": {
-      "latitude": 40.11583299999999,
-      "longitude": 67.84222199999999,
-      "min_latitude": 40.0458832,
-      "min_longitude": 67.7763748,
-      "max_latitude": 40.1917254,
-      "max_longitude": 67.9324151
-    },
-    "name": "Jizzax"
+    "comments": null
   },
   "NG": {
+    "name": "Namangan",
+    "code": null,
     "unofficial_names": [
       "Namangan",
       "Namaņgan"
     ],
+    "geo": {
+      "latitude": 41.001111,
+      "longitude": 71.66833299999999,
+      "min_latitude": 40.8836945,
+      "min_longitude": 71.5340768,
+      "max_latitude": 41.0572407,
+      "max_longitude": 71.7551683
+    },
     "translations": {
       "en": "Namangan",
       "ar": "ولاية نمنغان",
@@ -285,24 +339,35 @@
       "tr": "Namangan ili",
       "uk": "Наманганська область",
       "ur": "نمنگان صوبہ",
-      "vi": "Namangan"
+      "vi": "Namangan",
+      "lv": "Namanganas vilojats",
+      "ceb": "Namangan Province",
+      "zh": "納曼干州",
+      "ccp": "𑄚𑄟𑄚𑄴𑄉𑄚𑄴",
+      "ky": "Наманган облусу",
+      "pa": "ਨਮਾਗਾਨ ਵਿਲੋਇਤੀ",
+      "be": "Наманганскі вілает",
+      "uz": "Namangan",
+      "mk": "Наманганска област"
     },
-    "geo": {
-      "latitude": 41.001111,
-      "longitude": 71.66833299999999,
-      "min_latitude": 40.8836945,
-      "min_longitude": 71.5340768,
-      "max_latitude": 41.0572407,
-      "max_longitude": 71.7551683
-    },
-    "name": "Namangan"
+    "comments": null
   },
   "NW": {
+    "name": "Navoiy",
+    "code": null,
     "unofficial_names": [
       "Navoi",
       "Navoj",
       "Navoy"
     ],
+    "geo": {
+      "latitude": 40.084444,
+      "longitude": 65.379167,
+      "min_latitude": 40.0655921,
+      "min_longitude": 65.3061677,
+      "max_latitude": 40.130427,
+      "max_longitude": 65.4370594
+    },
     "translations": {
       "en": "Navoiy",
       "ar": "ولاية نواوي",
@@ -343,19 +408,22 @@
       "tr": "Navoiy ili",
       "uk": "Навоїйська область",
       "ur": "نوائی صوبہ",
-      "vi": "Navoiy"
+      "vi": "Navoiy",
+      "lv": "Navoji vilojats",
+      "ceb": "Navoiy Province",
+      "zh": "納沃伊州",
+      "ccp": "𑄚𑄞𑄰𑄠𑄨",
+      "ky": "Навоий облусу",
+      "pa": "ਨਵੋਈ ਵਿਲੋਇਤੀ",
+      "kk": "Науаи облысы",
+      "uz": "Navoiy viloyati",
+      "mk": "Навојска област"
     },
-    "geo": {
-      "latitude": 40.084444,
-      "longitude": 65.379167,
-      "min_latitude": 40.0655921,
-      "min_longitude": 65.3061677,
-      "max_latitude": 40.130427,
-      "max_longitude": 65.4370594
-    },
-    "name": "Navoiy"
+    "comments": null
   },
   "QA": {
+    "name": "Qashqadaryo",
+    "code": null,
     "unofficial_names": [
       "Kashkadar",
       "Kashkadaria",
@@ -366,6 +434,14 @@
       "Qaşqadar",
       "Ķaşķadar"
     ],
+    "geo": {
+      "latitude": 38.8986231,
+      "longitude": 66.0463534,
+      "min_latitude": 38.0266721,
+      "min_longitude": 64.331024,
+      "max_latitude": 39.5323751,
+      "max_longitude": 67.683914
+    },
     "translations": {
       "en": "Qashqadaryo",
       "ar": "ولاية قشقداريا",
@@ -406,24 +482,34 @@
       "tr": "Kaşkaderya",
       "uk": "Кашкадарʼїнська область",
       "ur": "قشقہ دریا صوبہ",
-      "vi": "Qashqadaryo"
+      "vi": "Qashqadaryo",
+      "lv": "Kaškadarjas vilojats",
+      "ceb": "Qashqadaryo Province",
+      "zh": "卡什卡達里亞州",
+      "ccp": "𑄇𑄧𑄠𑄌𑄴𑄇𑄓𑄢𑄨𑄃𑄮",
+      "ky": "Кашкадарыя облусу",
+      "pa": "ਕਸ਼ਕਾਦਰਯੋ ਵਿਲੋਇਤੀ",
+      "uz": "Qashqadaryo viloyati",
+      "mk": "Кашкадарјанска област"
     },
-    "geo": {
-      "latitude": 38.8986231,
-      "longitude": 66.0463534,
-      "min_latitude": 38.0266721,
-      "min_longitude": 64.331024,
-      "max_latitude": 39.5323751,
-      "max_longitude": 67.683914
-    },
-    "name": "Qashqadaryo"
+    "comments": null
   },
   "QR": {
+    "name": "Qoraqalpog‘iston Respublikasi",
+    "code": null,
     "unofficial_names": [
       "Karakalpakistan",
       "Qoraqalpoghiston",
       "Qoraqalpogiston"
     ],
+    "geo": {
+      "latitude": 43.8041334,
+      "longitude": 59.4457988,
+      "min_latitude": 40.993829,
+      "min_longitude": 55.996635,
+      "max_latitude": 45.60519,
+      "max_longitude": 62.37159389999999
+    },
     "translations": {
       "en": "Karakalpakstan",
       "ar": "قرقل باغستان",
@@ -475,25 +561,37 @@
       "tr": "Karakalpakistan",
       "uk": "Каракалпакстан",
       "ur": "کاراکالپکستان",
-      "vi": "Qaraqalpaqstan"
+      "vi": "Qaraqalpaqstan",
+      "af": "Karakalpakië",
+      "ceb": "Karakalpakstan",
+      "sr_Latn": "Karakalpakija",
+      "zh": "卡拉卡爾帕克斯坦自治共和國",
+      "ccp": "𑄇𑄢𑄇𑄣𑄴𑄛𑄇𑄴𑄑𑄚𑄴",
+      "ky": "Каракалпакстан Республикасы",
+      "pa": "ਕਰਾਕਲਪਕਸਤਾਨ",
+      "kk": "Қарақалпақстан",
+      "uz": "Qoraqalpogʻiston",
+      "mk": "Каракалпакстан"
     },
-    "geo": {
-      "latitude": 43.8041334,
-      "longitude": 59.4457988,
-      "min_latitude": 40.993829,
-      "min_longitude": 55.996635,
-      "max_latitude": 45.60519,
-      "max_longitude": 62.37159389999999
-    },
-    "name": "Qoraqalpog‘iston Respublikasi"
+    "comments": null
   },
   "SA": {
+    "name": "Samarqand",
+    "code": null,
     "unofficial_names": [
       "Samarqand",
       "Samarķand",
       "Samarkand",
       "Samarkand"
     ],
+    "geo": {
+      "latitude": 39.6542,
+      "longitude": 66.9597,
+      "min_latitude": 39.5408509,
+      "min_longitude": 66.8023682,
+      "max_latitude": 39.7405258,
+      "max_longitude": 67.1334059
+    },
     "translations": {
       "en": "Samarqand",
       "ar": "ولاية سمرقند",
@@ -536,24 +634,35 @@
       "tr": "Semerkand ili",
       "uk": "Самаркандська область",
       "ur": "سمرقند صوبہ",
-      "vi": "Samarqand"
+      "vi": "Samarqand",
+      "lv": "Samarkandas vilojats",
+      "ceb": "Samarqand Viloyati",
+      "zh": "撒馬爾罕州",
+      "ccp": "𑄥𑄟𑄢𑄴𑄇𑄚𑄳𑄓𑄴",
+      "ky": "Самарканд облусу",
+      "pa": "ਸਮਰਕੰਦ ਵਿਲੋਇਤੀ",
+      "kk": "Самарқан облысы",
+      "uz": "Samarqand viloyati",
+      "mk": "Самаркандска област"
     },
-    "geo": {
-      "latitude": 39.6542,
-      "longitude": 66.9597,
-      "min_latitude": 39.5408509,
-      "min_longitude": 66.8023682,
-      "max_latitude": 39.7405258,
-      "max_longitude": 67.1334059
-    },
-    "name": "Samarqand"
+    "comments": null
   },
   "SI": {
+    "name": "Sirdaryo",
+    "code": null,
     "unofficial_names": [
       "Sirdare",
       "Syrdarja",
       "Syrdarya"
     ],
+    "geo": {
+      "latitude": 40.85,
+      "longitude": 68.666667,
+      "min_latitude": 40.8027001,
+      "min_longitude": 68.642063,
+      "max_latitude": 40.8751355,
+      "max_longitude": 68.6985825
+    },
     "translations": {
       "en": "Sirdaryo",
       "ar": "ولاية سرداريا",
@@ -593,22 +702,32 @@
       "tr": "Sirderya ili",
       "uk": "Сирдарʼїнська область",
       "ur": "سیر دریا صوبہ",
-      "vi": "Sirdaryo"
+      "vi": "Sirdaryo",
+      "lv": "Sirdarjas vilojats",
+      "ceb": "Sirdaryo (lalawigan)",
+      "zh": "錫爾河州",
+      "ccp": "𑄥𑄨𑄢𑄴𑄓𑄢𑄨𑄃𑄮",
+      "ky": "Сырдарыя облусу",
+      "pa": "ਸਿਰਦਾਰਿਓ ਸੂਬਾ",
+      "uz": "Sirdaryo viloyati",
+      "mk": "Сирдарјанска област"
     },
-    "geo": {
-      "latitude": 40.85,
-      "longitude": 68.666667,
-      "min_latitude": 40.8027001,
-      "min_longitude": 68.642063,
-      "max_latitude": 40.8751355,
-      "max_longitude": 68.6985825
-    },
-    "name": "Sirdaryo"
+    "comments": null
   },
   "SU": {
+    "name": "Surxondaryo",
+    "code": null,
     "unofficial_names": [
       "Surkhondar"
     ],
+    "geo": {
+      "latitude": 37.9409005,
+      "longitude": 67.57085359999999,
+      "min_latitude": 37.1843299,
+      "min_longitude": 66.51777609999999,
+      "max_latitude": 39.078876,
+      "max_longitude": 68.402641
+    },
     "translations": {
       "en": "Surxondaryo",
       "ar": "ولاية صرخنداريا",
@@ -652,20 +771,30 @@
       "tr": "Surhanderya",
       "uk": "Сурхандарʼїнська область",
       "ur": "سرخان دریا صوبہ",
-      "vi": "Surxondaryo"
+      "vi": "Surxondaryo",
+      "lv": "Surhondarjas vilojats",
+      "ceb": "Surxondaryo Viloyati",
+      "zh": "蘇爾漢河州",
+      "ccp": "𑄥𑄢𑄴𑄎𑄧𑄚𑄴𑄓𑄢𑄨𑄃𑄮",
+      "ky": "Сурхандарыя облусу",
+      "pa": "ਸੁਰਖਾਨਦਰਿਆ ਸੂਬਾ",
+      "uz": "Surxondaryo viloyati",
+      "mk": "Сурхандарјанска област"
     },
-    "geo": {
-      "latitude": 37.9409005,
-      "longitude": 67.57085359999999,
-      "min_latitude": 37.1843299,
-      "min_longitude": 66.51777609999999,
-      "max_latitude": 39.078876,
-      "max_longitude": 68.402641
-    },
-    "name": "Surxondaryo"
+    "comments": null
   },
   "TK": {
+    "name": "Toshkent City",
+    "code": null,
     "unofficial_names": "Toshkent City",
+    "geo": {
+      "latitude": 41.266667,
+      "longitude": 69.216667,
+      "min_latitude": 41.166637,
+      "min_longitude": 69.1465116,
+      "max_latitude": 41.3985579,
+      "max_longitude": 69.41222189999999
+    },
     "translations": {
       "en": "Tashkent",
       "af": "Tasjkent",
@@ -710,7 +839,7 @@
       "ne": "ट्यासकेन्ट",
       "nl": "Tasjkent",
       "pl": "Taszkent",
-      "ps": "تاشكند",
+      "ps": "تاشکند",
       "pt": "Tashkent",
       "ro": "Tașkent",
       "ru": "Ташкент",
@@ -727,19 +856,29 @@
       "tr": "Taşkent",
       "uk": "Ташкент",
       "ur": "تاشقند",
-      "vi": "Tashkent"
+      "vi": "Tashkent",
+      "cy": "Tashkent",
+      "ceb": "Toshkent Shahri",
+      "sr_Latn": "Taškent",
+      "zh": "塔什干",
+      "yue_Hans": "塔什干",
+      "sq": "Tashkenti",
+      "ccp": "𑄑𑄌𑄴𑄇𑄬𑄚𑄴𑄑𑄴",
+      "ga": "Tashkent",
+      "ky": "Ташкен",
+      "pa": "ਤਾਸ਼ਕੰਦ",
+      "kk": "Ташкент",
+      "yue": "塔什干",
+      "yo": "Tashkent",
+      "uz": "Toshkent",
+      "bs": "Taškent",
+      "mk": "Ташкент"
     },
-    "geo": {
-      "latitude": 41.266667,
-      "longitude": 69.216667,
-      "min_latitude": 41.166637,
-      "min_longitude": 69.1465116,
-      "max_latitude": 41.3985579,
-      "max_longitude": 69.41222189999999
-    },
-    "name": "Toshkent City"
+    "comments": null
   },
   "TO": {
+    "name": "Toshkent",
+    "code": null,
     "unofficial_names": [
       "Taškent",
       "Toshkent",
@@ -748,6 +887,14 @@
       "Taschkent",
       "Tachkent"
     ],
+    "geo": {
+      "latitude": 41.266667,
+      "longitude": 69.216667,
+      "min_latitude": 41.166637,
+      "min_longitude": 69.1465116,
+      "max_latitude": 41.3985579,
+      "max_longitude": 69.41222189999999
+    },
     "translations": {
       "en": "Tashkent Province",
       "ar": "ولاية طشقند",
@@ -790,22 +937,33 @@
       "tr": "Taşkent ili",
       "uk": "Ташкентська область",
       "ur": "تاشقند صوبہ",
-      "vi": "Toshkent"
+      "vi": "Toshkent",
+      "lv": "Taškentas vilojats",
+      "ceb": "Toshkent Viloyati",
+      "zh": "塔什干州",
+      "ccp": "𑄑𑄌𑄴𑄇𑄬𑄚𑄴𑄑𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴",
+      "ky": "Ташкент облусу",
+      "pa": "ਤਾਸ਼ਕੇਂਤ ਸੂਬਾ",
+      "ca": "Regió de Taixkent",
+      "uz": "Toshkent viloyati",
+      "mk": "Ташкентска област"
     },
-    "geo": {
-      "latitude": 41.266667,
-      "longitude": 69.216667,
-      "min_latitude": 41.166637,
-      "min_longitude": 69.1465116,
-      "max_latitude": 41.3985579,
-      "max_longitude": 69.41222189999999
-    },
-    "name": "Toshkent"
+    "comments": null
   },
   "XO": {
+    "name": "Xorazm",
+    "code": null,
     "unofficial_names": [
       "Khorazm"
     ],
+    "geo": {
+      "latitude": 41.3565336,
+      "longitude": 60.8566686,
+      "min_latitude": 40.564991,
+      "min_longitude": 60.06019589999999,
+      "max_latitude": 42.004252,
+      "max_longitude": 62.35982399999999
+    },
     "translations": {
       "en": "Xorazm",
       "ar": "ولاية خوارزم",
@@ -845,17 +1003,19 @@
       "tr": "Harezm ili",
       "uk": "Хорезмська область",
       "ur": "خوارزم صوبہ",
-      "vi": "Xorazm"
+      "vi": "Xorazm",
+      "lv": "Horezmas vilojats",
+      "ceb": "Xorazm Viloyati",
+      "zh": "花拉子模州",
+      "ccp": "𑄎𑄮𑄢𑄌𑄴𑄟𑄴",
+      "ky": "Хорезм облусу",
+      "pa": "ਖੋਰੇਜਮ ਸੂਬਾ",
+      "kk": "Хорезм облысы",
+      "be": "Харэзмская вобласць",
+      "uz": "Xorazm viloyati",
+      "mk": "Хорезмска област"
     },
-    "geo": {
-      "latitude": 41.3565336,
-      "longitude": 60.8566686,
-      "min_latitude": 40.564991,
-      "min_longitude": 60.06019589999999,
-      "max_latitude": 42.004252,
-      "max_longitude": 62.35982399999999
-    },
-    "name": "Xorazm"
+    "comments": null
   }
 }
 

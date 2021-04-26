@@ -1,12 +1,11 @@
 {
   "JC": {
+    "name": "Jihočeský kraj",
+    "code": null,
     "unofficial_names": [
       "Budějovický",
       "Českobudějovický"
     ],
-    "translations": {
-      "en": "South Bohemia"
-    },
     "geo": {
       "latitude": 48.9457789,
       "longitude": 14.4416055,
@@ -15,15 +14,18 @@
       "max_latitude": 49.6212548,
       "max_longitude": 15.6041293
     },
-    "name": "Jihočeský kraj"
+    "translations": {
+      "en": "South Bohemia",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄝𑄧𑄦𑄬𑄟𑄨𑄠"
+    },
+    "comments": null
   },
   "JM": {
+    "name": "Jihomoravský kraj ",
+    "code": null,
     "unofficial_names": [
       "Brněnský"
     ],
-    "translations": {
-      "en": "South Moravia"
-    },
     "geo": {
       "latitude": 48.9544528,
       "longitude": 16.7676899,
@@ -32,13 +34,16 @@
       "max_latitude": 49.63325469999999,
       "max_longitude": 17.6458148
     },
-    "name": "Jihomoravský kraj "
+    "translations": {
+      "en": "South Moravia",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄟𑄧𑄢𑄴𑄞𑄨𑄠"
+    },
+    "comments": null
   },
   "KA": {
+    "name": "Karlovarský kraj",
+    "code": null,
     "unofficial_names": "Karlovarský kraj",
-    "translations": {
-      "en": "Karlovy Vary Region"
-    },
     "geo": {
       "latitude": 50.1435,
       "longitude": 12.7501899,
@@ -47,13 +52,16 @@
       "max_latitude": 50.4602991,
       "max_longitude": 13.3011974
     },
-    "name": "Karlovarský kraj"
+    "translations": {
+      "en": "Karlovy Vary Region",
+      "ccp": "𑄇𑄢𑄴𑄣𑄮𑄞𑄨 𑄞𑄢𑄨 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "KR": {
+    "name": "Královéhradecký kraj",
+    "code": null,
     "unofficial_names": "Královéhradecký kraj",
-    "translations": {
-      "en": "Hradec Králové Region"
-    },
     "geo": {
       "latitude": 50.3512484,
       "longitude": 15.7976459,
@@ -62,13 +70,16 @@
       "max_latitude": 50.7804396,
       "max_longitude": 16.5855247
     },
-    "name": "Královéhradecký kraj"
+    "translations": {
+      "en": "Hradec Králové Region",
+      "ccp": "𑄦𑄳𑄢𑄓𑄬𑄇𑄴 𑄇𑄳𑄢𑄣𑄮𑄛𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "LI": {
+    "name": "Liberecký kraj",
+    "code": null,
     "unofficial_names": "Liberecký kraj",
-    "translations": {
-      "en": "Liberec Region"
-    },
     "geo": {
       "latitude": 50.65942399999999,
       "longitude": 14.7632424,
@@ -77,15 +88,18 @@
       "max_latitude": 51.0231974,
       "max_longitude": 15.6330293
     },
-    "name": "Liberecký kraj"
+    "translations": {
+      "en": "Liberec Region",
+      "ccp": "𑄣𑄨𑄝𑄬𑄢𑄬𑄇𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "MO": {
+    "name": "Moravskoslezský kraj",
+    "code": null,
     "unofficial_names": [
       "Ostravský"
     ],
-    "translations": {
-      "en": "Moravian-Silesia"
-    },
     "geo": {
       "latitude": 49.7305327,
       "longitude": 18.2332637,
@@ -94,13 +108,16 @@
       "max_latitude": 50.3279579,
       "max_longitude": 18.8592548
     },
-    "name": "Moravskoslezský kraj"
+    "translations": {
+      "en": "Moravian-Silesia",
+      "ccp": "𑄟𑄮𑄢𑄞𑄨𑄠𑄚𑄴-𑄥𑄭𑄣𑄬𑄥𑄨𑄠"
+    },
+    "comments": null
   },
   "OL": {
+    "name": "Olomoucký kraj",
+    "code": null,
     "unofficial_names": "Olomoucký kraj",
-    "translations": {
-      "en": "Olomouc Region"
-    },
     "geo": {
       "latitude": 49.65865489999999,
       "longitude": 17.0811406,
@@ -109,13 +126,16 @@
       "max_latitude": 50.4494346,
       "max_longitude": 17.9172214
     },
-    "name": "Olomoucký kraj"
+    "translations": {
+      "en": "Olomouc Region",
+      "ccp": "𑄃𑄧𑄣𑄮𑄟𑄯𑄇𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "PA": {
+    "name": "Pardubický kraj",
+    "code": null,
     "unofficial_names": "Pardubický kraj",
-    "translations": {
-      "en": "Pardubice Region"
-    },
     "geo": {
       "latitude": 49.9444479,
       "longitude": 16.2856916,
@@ -124,13 +144,16 @@
       "max_latitude": 50.20763729999999,
       "max_longitude": 16.8665452
     },
-    "name": "Pardubický kraj"
+    "translations": {
+      "en": "Pardubice Region",
+      "ccp": "𑄛𑄢𑄴𑄓𑄪𑄝𑄭𑄌𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "PL": {
+    "name": "Plzeňský kraj",
+    "code": null,
     "unofficial_names": "Plzeňský kraj",
-    "translations": {
-      "en": "Plzeň Region"
-    },
     "geo": {
       "latitude": 49.4134812,
       "longitude": 13.3157246,
@@ -139,18 +162,21 @@
       "max_latitude": 50.1033335,
       "max_longitude": 13.835103
     },
-    "name": "Plzeňský kraj"
+    "translations": {
+      "en": "Plzeň Region",
+      "ccp": "𑄛𑄳𑄣𑄎𑄬𑄚𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "PR": {
+    "name": "Praha, hlavní město",
+    "code": null,
     "unofficial_names": [
       "Hlavní město Praha",
       "Praha",
       "Prag",
       "Prague"
     ],
-    "translations": {
-      "en": "Prague"
-    },
     "geo": {
       "latitude": 50.0755381,
       "longitude": 14.4378005,
@@ -159,17 +185,20 @@
       "max_latitude": 50.177403,
       "max_longitude": 14.7067945
     },
-    "name": "Praha, hlavní město"
+    "translations": {
+      "en": "Prague",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬"
+    },
+    "comments": null
   },
   "ST": {
+    "name": "Středočeský kraj",
+    "code": null,
     "unofficial_names": [
       "Central Bohemia",
       "Mittelböhmen",
       "Středočeský"
     ],
-    "translations": {
-      "en": "Central Bohemia"
-    },
     "geo": {
       "latitude": 49.8782223,
       "longitude": 14.9362955,
@@ -178,13 +207,16 @@
       "max_latitude": 50.6190994,
       "max_longitude": 15.5345257
     },
-    "name": "Středočeský kraj"
+    "translations": {
+      "en": "Central Bohemia",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄝𑄮𑄦𑄬𑄟𑄨𑄠"
+    },
+    "comments": null
   },
   "US": {
+    "name": "Ústecký kraj",
+    "code": null,
     "unofficial_names": "Ústecký kraj",
-    "translations": {
-      "en": "Ústí nad Labem Region"
-    },
     "geo": {
       "latitude": 50.6119037,
       "longitude": 13.7870086,
@@ -193,15 +225,18 @@
       "max_latitude": 51.0557757,
       "max_longitude": 14.6528592
     },
-    "name": "Ústecký kraj"
+    "translations": {
+      "en": "Ústí nad Labem Region",
+      "ccp": "𑄅𑄪𑄌𑄴𑄑𑄨 𑄚𑄖𑄴 𑄣𑄝𑄬𑄟𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "VY": {
+    "name": "Vysočina",
+    "code": null,
     "unofficial_names": [
       "Jihlavský"
     ],
-    "translations": {
-      "en": "Vysočina²"
-    },
     "geo": {
       "latitude": 49.44900519999999,
       "longitude": 15.6405934,
@@ -210,13 +245,16 @@
       "max_latitude": 49.8611195,
       "max_longitude": 16.4184401
     },
-    "name": "Vysočina"
+    "translations": {
+      "en": "Vysočina²",
+      "ccp": "𑄞𑄨𑄥𑄮𑄥𑄨𑄚"
+    },
+    "comments": null
   },
   "ZL": {
+    "name": "Zlínský kraj",
+    "code": null,
     "unofficial_names": "Zlínský kraj",
-    "translations": {
-      "en": "Zlín Region"
-    },
     "geo": {
       "latitude": 49.2162296,
       "longitude": 17.7720353,
@@ -225,9 +263,24 @@
       "max_latitude": 49.5399786,
       "max_longitude": 18.4155308
     },
-    "name": "Zlínský kraj"
+    "translations": {
+      "en": "Zlín Region",
+      "ccp": "𑄎𑄳𑄣𑄨𑄚𑄴 𑄢𑄬𑄎𑄳𑄠𑄧"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Praag",
       "am": "ፕራግ",
@@ -294,10 +347,41 @@
       "ur": "پراگ",
       "vi": "Praha",
       "zh": "布拉格",
-      "zu": "IPraha"
-    }
+      "zu": "IPraha",
+      "cy": "Prag",
+      "ceb": "Praga",
+      "sr_Latn": "Prag",
+      "yue_Hans": "布拉格",
+      "jv": "Praha",
+      "sq": "Praga",
+      "ccp": "𑄛𑄳𑄢𑄧𑄉𑄪 𑄦𑄳𑄣𑄞𑄚𑄭 𑄟𑄬𑄌𑄴𑄑𑄮",
+      "ga": "Prág",
+      "ky": "Прага",
+      "ha": "Prag",
+      "pa": "ਪ੍ਰਾਗ",
+      "kk": "Прага",
+      "yue": "布拉格",
+      "my": "ပရက်ဂ်မြို့",
+      "yo": "Prague",
+      "uz": "Praga",
+      "bs": "Prag",
+      "mk": "Прага",
+      "lo": "ປຣາກ"
+    },
+    "comments": null
   },
   "20": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم بوهيميا الوسطى",
       "az": "Orta Çex diyarı",
@@ -349,10 +433,28 @@
       "uk": "Центральночеський край",
       "ur": "مرکزی بوہیمیائی علاقہ",
       "vi": "Trung Bohemia",
-      "zh": "中波希米亚州"
-    }
+      "zh": "中波希米亚州",
+      "ceb": "Středočeský kraj",
+      "sr_Latn": "Srednjočeški kraj",
+      "ccp": "𑄃𑄬𑄌𑄴𑄑𑄳𑄢𑄬𑄓𑄮𑄥𑄬𑄌𑄴𑄇𑄨",
+      "hy": "Կենտրոնաչեխական շրջան",
+      "bs": "Srednjočeški kraj",
+      "mk": "Средночешки крај"
+    },
+    "comments": null
   },
   "20A": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة براغ-غرب",
       "bg": "Прага-запад",
@@ -374,10 +476,29 @@
       "sv": "Praha-západ",
       "uk": "Прага-захід",
       "ur": "پراگ-غربی ضلع",
-      "vi": "Praha Tây"
-    }
+      "vi": "Praha Tây",
+      "ceb": "Okres Praha-Západ",
+      "sr_Latn": "Okrug Prag-zapad",
+      "lt": "Prahos vakarinis rajonas",
+      "zh": "西布拉格縣",
+      "fa": "شهرستان پراگ-غرب",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄛𑄧𑄏𑄨𑄟𑄴",
+      "es": "Distrito de Praga-Oeste"
+    },
+    "comments": null
   },
   "20B": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بشيبرام",
       "bg": "Пршибрам",
@@ -401,10 +522,32 @@
       "sv": "Příbram",
       "uk": "Пржибрам",
       "ur": "پشیبرام ضلع",
-      "vi": "Příbram"
-    }
+      "vi": "Příbram",
+      "ceb": "Okres Příbram",
+      "tr": "Příbram ilçesi",
+      "sr_Latn": "Okrug Pribram",
+      "lt": "Pršybramo rajonas",
+      "zh": "普日布拉姆縣",
+      "fa": "شهرستان پرژیبرام",
+      "ccp": "𑄛𑄳𑄢𑄭𑄝𑄳𑄢𑄟𑄴",
+      "es": "Distrito de Příbram",
+      "eu": "Příbramgo barrutia",
+      "mk": "Пшибрам"
+    },
+    "comments": null
   },
   "20C": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة راكوفنيك",
       "bg": "Раковник",
@@ -427,10 +570,32 @@
       "sr": "Округ Раковњик",
       "sv": "Rakovník",
       "ur": "راکوونیک ضلع",
-      "vi": "Rakovník"
-    }
+      "vi": "Rakovník",
+      "ceb": "Okres Rakovník",
+      "tr": "Rakovník ilçesi",
+      "sr_Latn": "Okrug Rakovnjik",
+      "lt": "Rakovnyko rajonas",
+      "zh": "拉科夫尼克縣",
+      "fa": "شهرستان راکوونیک",
+      "ccp": "𑄢𑄧𑄇𑄮𑄛𑄴𑄚𑄨𑄇𑄴",
+      "es": "Distrito de Rakovník",
+      "eu": "Rakovníkeko barrutia",
+      "uk": "Раковнік"
+    },
+    "comments": null
   },
   "31": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم جنوب بوهيميا",
       "az": "Cənubi Çex diyarı",
@@ -481,10 +646,27 @@
       "uk": "Південночеський край",
       "ur": "جنوبی بوہیمیائی علاقہ",
       "vi": "Nam Bohemia",
-      "zh": "南波希米亚州"
-    }
+      "zh": "南波希米亚州",
+      "ceb": "Jihočeský kraj",
+      "sr_Latn": "Južnočeški kraj",
+      "ccp": "𑄎𑄨𑄦𑄮𑄥𑄬𑄌𑄴𑄇𑄨",
+      "bs": "Južnočeški kraj",
+      "mk": "Јужночешки крај"
+    },
+    "comments": null
   },
   "32": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم بلزن",
       "az": "Plzen diyarı",
@@ -534,10 +716,27 @@
       "uk": "Пльзенський край",
       "ur": "پلزین علاقہ",
       "vi": "Plzeň",
-      "zh": "比爾森州"
-    }
+      "zh": "比爾森州",
+      "lv": "Plzeņas apgabals",
+      "ceb": "Plzeňský kraj",
+      "sr_Latn": "Plzenjski kraj",
+      "ccp": "𑄛𑄳𑄣𑄬𑄚𑄴𑄥𑄴𑄇𑄩",
+      "bs": "Plzenjski kraj"
+    },
+    "comments": null
   },
   "41": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم كارلوفي فاري",
       "az": "Karlovı Varı diyarı",
@@ -587,10 +786,28 @@
       "uk": "Карловарський край",
       "ur": "کارلووی واری علاقہ",
       "vi": "Karlovy Vary",
-      "zh": "卡羅維發利州"
-    }
+      "zh": "卡羅維發利州",
+      "lv": "Karlovi Varu reģions",
+      "ceb": "Karlovarský kraj",
+      "sr_Latn": "Karlovarski kraj",
+      "ccp": "𑄇𑄢𑄴𑄣𑄮𑄞𑄢𑄴𑄇𑄩",
+      "bs": "Karlovarski kraj",
+      "mk": "Карловарски крај"
+    },
+    "comments": null
   },
   "42": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم أوستي ناد لابم",
       "az": "Ustetskiy diyarı",
@@ -640,10 +857,28 @@
       "uk": "Устецький край",
       "ur": "اوستی ناد لاہم علاقہ",
       "vi": "Ústí nad Labem",
-      "zh": "烏斯季州"
-    }
+      "zh": "烏斯季州",
+      "lv": "Ūstu pie Labas apriņķis",
+      "ceb": "Ústecký kraj",
+      "sr_Latn": "Ustečki kraj",
+      "ccp": "𑄅𑄪𑄌𑄴𑄑𑄬𑄇𑄩",
+      "bs": "Ustečki kraj",
+      "mk": "Устечки крај"
+    },
+    "comments": null
   },
   "51": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم ليبيريتس",
       "az": "Liberets diyarı",
@@ -692,10 +927,29 @@
       "uk": "Ліберецький край",
       "ur": "لیبرتس علاقہ",
       "vi": "Liberec",
-      "zh": "利贝雷茨州"
-    }
+      "zh": "利贝雷茨州",
+      "lv": "Liberecas apriņķis",
+      "ceb": "Liberecký kraj",
+      "sr_Latn": "Liberečki kraj",
+      "ccp": "𑄣𑄭𑄝𑄬𑄢𑄬𑄇𑄨",
+      "be": "Ліберацкі край",
+      "bs": "Liberecki kraj",
+      "mk": "Либеречки крај"
+    },
+    "comments": null
   },
   "52": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم هرادتس كرالوفه",
       "az": "Kraloveqradetskiy diyarı",
@@ -745,10 +999,28 @@
       "uk": "Краловоградецький край",
       "ur": "ہاردک کارلوف علاقہ",
       "vi": "Hradec Králové",
-      "zh": "赫拉德茨-克拉洛韋州"
-    }
+      "zh": "赫拉德茨-克拉洛韋州",
+      "lv": "Hradeckrāloves apgabals",
+      "ceb": "Královéhradecký kraj",
+      "sr_Latn": "Kralovehradečki kraj",
+      "ccp": "𑄇𑄳𑄢𑄣𑄮𑄞𑄬𑄦𑄴𑄢𑄓𑄬𑄇𑄨",
+      "bs": "Kralovehradecki kraj",
+      "mk": "Краловохрадечки крај"
+    },
+    "comments": null
   },
   "53": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم باردوبيتسه",
       "az": "Pardubitskiy diyarı",
@@ -799,10 +1071,27 @@
       "uk": "Пардубицький край",
       "ur": "پاردوبیتسے علاقہ",
       "vi": "Pardubice",
-      "zh": "帕爾杜比采州"
-    }
+      "zh": "帕爾杜比采州",
+      "ceb": "Pardubický kraj",
+      "sr_Latn": "Pardubički kraj",
+      "ccp": "𑄛𑄢𑄴𑄓𑄪𑄝𑄭𑄇𑄨",
+      "bs": "Pardubički kraj",
+      "mk": "Пардубички крај"
+    },
+    "comments": null
   },
   "63": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم فيسوتشنا",
       "az": "Vısoçina diyarı",
@@ -854,10 +1143,27 @@
       "uk": "Край Височіна",
       "ur": "ویسوچیانا علاقہ",
       "vi": "Vysočina",
-      "zh": "維索基納州"
-    }
+      "zh": "維索基納州",
+      "ceb": "Kraj Vysočina",
+      "sr_Latn": "Kraj Visočina",
+      "ccp": "𑄞𑄨𑄥𑄮𑄥𑄨𑄚",
+      "bs": "Visočinski kraj",
+      "mk": "Височински крај"
+    },
+    "comments": null
   },
   "64": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة مورافيا الجنوبية",
       "az": "Cənubi Moraviya diyarı",
@@ -909,10 +1215,28 @@
       "uk": "Південноморавський край",
       "ur": "جنوبی موراویائی علاقہ",
       "vi": "Nam Moravia",
-      "zh": "南摩拉維亞州"
-    }
+      "zh": "南摩拉維亞州",
+      "ceb": "Jihomoravský kraj",
+      "sr_Latn": "Južnomoravski kraj",
+      "ccp": "𑄎𑄨𑄦𑄮𑄟𑄧𑄢𑄛𑄴𑄇𑄨",
+      "hy": "Հարավային Մորավիայի շրջան",
+      "bs": "Južnomoravski kraj",
+      "mk": "Јужноморавски крај"
+    },
+    "comments": null
   },
   "71": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم أولوموتس",
       "az": "Olomoutskiy diyarı",
@@ -963,10 +1287,27 @@
       "uk": "Оломоуцький край",
       "ur": "اولوموک علاقہ",
       "vi": "Olomouc",
-      "zh": "奧洛穆克州"
-    }
+      "zh": "奧洛穆克州",
+      "ceb": "Olomoucký kraj",
+      "sr_Latn": "Olomoucki kraj",
+      "ccp": "𑄃𑄮𑄣𑄮𑄟𑄯𑄇𑄨",
+      "bs": "Olomoucki kraj",
+      "mk": "Оломоучки крај"
+    },
+    "comments": null
   },
   "72": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم زلين",
       "az": "Zlin diyarı",
@@ -1017,10 +1358,28 @@
       "uk": "Злінський край",
       "ur": "زلین علاقہ",
       "vi": "Zlín",
-      "zh": "兹林州"
-    }
+      "zh": "兹林州",
+      "ceb": "Zlínský kraj",
+      "sr_Latn": "Zlinski kraj",
+      "ccp": "𑄎𑄳𑄣𑄨𑄚𑄴𑄇𑄨",
+      "hy": "Զլինի երկրամաս",
+      "bs": "Zlinski kraj",
+      "mk": "Злински крај"
+    },
+    "comments": null
   },
   "80": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم مورافيا-سيليزيا",
       "az": "Moraviya-Sileziya diyarı",
@@ -1072,10 +1431,27 @@
       "uk": "Мораво-Сілезький край",
       "ur": "موراویائی سیلیسیائی علاقہ",
       "vi": "Moravia–Silesia",
-      "zh": "摩拉維亞-西里西亞州"
-    }
+      "zh": "摩拉維亞-西里西亞州",
+      "ceb": "Moravskoslezský kraj",
+      "sr_Latn": "Moravsko-Šleski kraj",
+      "ccp": "𑄟𑄧𑄢𑄧𑄛𑄴𑄇𑄮𑄌𑄴𑄣𑄬𑄌𑄴𑄇𑄨",
+      "bs": "Moravskošleski kraj",
+      "mk": "Моравскошлески крај"
+    },
+    "comments": null
   },
   "201": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بينيشوف",
       "be": "раён Бенешаў",
@@ -1102,10 +1478,32 @@
       "sv": "Benešov (distrikt)",
       "uk": "Бенешов",
       "ur": "بینیشوف ضلع",
-      "vi": "Benešov"
-    }
+      "vi": "Benešov",
+      "lv": "Benešovas apriņķis",
+      "ceb": "Okres Benešov",
+      "tr": "Benešov ilçesi",
+      "sr_Latn": "Okrug Benešov",
+      "lt": "Benešovo rajonas",
+      "zh": "貝內紹夫縣",
+      "fa": "شهرستان بنشوف",
+      "ccp": "𑄝𑄬𑄚𑄬𑄥𑄮𑄛𑄴",
+      "es": "Distrito de Benešov",
+      "eu": "Benešoveko barrutia"
+    },
+    "comments": null
   },
   "202": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بيرون",
       "bg": "Бероун",
@@ -1128,10 +1526,35 @@
       "sr": "Округ Бероун",
       "sv": "Beroun",
       "ur": "بیرون ضلع",
-      "vi": "Beroun"
-    }
+      "vi": "Beroun",
+      "lv": "Berounas apriņķis",
+      "ceb": "Okres Beroun",
+      "tr": "Beroun ilçesi",
+      "sr_Latn": "Okrug Beroun",
+      "lt": "Berouno rajonas",
+      "zh": "貝龍縣",
+      "fa": "شهرستان برون",
+      "ccp": "𑄝𑄬𑄢𑄯𑄚𑄴",
+      "es": "Distrito de Beroun",
+      "eu": "Beroungo barrutia",
+      "uk": "Бероун (округ)",
+      "be": "Бераўн",
+      "mk": "Бероун"
+    },
+    "comments": null
   },
   "203": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كلادنو",
       "be": "Кладна",
@@ -1158,10 +1581,30 @@
       "sr": "Округ Кладно",
       "sv": "Kladno",
       "ur": "کلاندو ضلع",
-      "vi": "Kladno"
-    }
+      "vi": "Kladno",
+      "lv": "Kladno apriņķis",
+      "ceb": "Okres Kladno",
+      "tr": "Kladno ilçesi",
+      "sr_Latn": "Okrug Kladno",
+      "lt": "Kladno rajonas",
+      "zh": "克拉德諾縣",
+      "ccp": "𑄇𑄳𑄣𑄖𑄴𑄚𑄮",
+      "uk": "Кладно"
+    },
+    "comments": null
   },
   "204": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كولين",
       "bg": "Колин",
@@ -1185,10 +1628,32 @@
       "sr": "Округ Колин",
       "sv": "Kolín",
       "ur": "کولین ضلع",
-      "vi": "Kolín"
-    }
+      "vi": "Kolín",
+      "lv": "Kolīnas apriņķis",
+      "ceb": "Okres Kolín",
+      "tr": "Kolín ilçesi",
+      "sr_Latn": "Okrug Kolin",
+      "lt": "Kolyno rajonas",
+      "zh": "科林縣",
+      "fa": "شهرستان کولین",
+      "ccp": "𑄇𑄧𑄣𑄨𑄚𑄴",
+      "eu": "Kolíngo barrutia",
+      "uk": "Колін"
+    },
+    "comments": null
   },
   "205": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كوتنا هورا",
       "bg": "Кутна Хора",
@@ -1212,10 +1677,34 @@
       "sv": "Kutná Hora",
       "uk": "Кутна Гора (округ)",
       "ur": "کوتنا ہورا ضلع",
-      "vi": "Kutná Hora"
-    }
+      "vi": "Kutná Hora",
+      "lv": "Kutna Horas apriņķis",
+      "ceb": "Okres Kutná Hora",
+      "tr": "Kutná Hora ilçesi",
+      "sr_Latn": "Okrug Kutna Hora",
+      "lt": "Kutna Horos rajonas",
+      "zh": "庫特納霍拉縣",
+      "fa": "شهرستان کوتنا هورا",
+      "ccp": "𑄇𑄪𑄖𑄴𑄚 𑄦𑄮𑄢",
+      "es": "Distrito de Kutná Hora",
+      "eu": "Kutná Horako barrutia",
+      "be": "раён Кутна-Гора",
+      "mk": "Кутна Хора"
+    },
+    "comments": null
   },
   "206": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة منيلنيك",
       "be": "Мельнік",
@@ -1240,10 +1729,32 @@
       "sv": "Mělník",
       "uk": "Мельник",
       "ur": "میلنک ضلع",
-      "vi": "Mělník"
-    }
+      "vi": "Mělník",
+      "lv": "Melnīkas apriņķis",
+      "ceb": "Okres Mělník",
+      "tr": "Mělník ilçesi",
+      "sr_Latn": "Okrug Mjelnjik",
+      "lt": "Melnyko rajonas",
+      "zh": "梅爾尼克縣",
+      "fa": "شهرستان میلنیک",
+      "ja": "ムニェルニーク地区",
+      "ccp": "𑄟𑄬𑄣𑄴𑄚𑄨𑄇𑄴",
+      "es": "Distrito de Mělník"
+    },
+    "comments": null
   },
   "207": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ملادا بوليسلاف",
       "bg": "Млада Болеслав",
@@ -1267,10 +1778,33 @@
       "sr": "Округ Млада Болеслав",
       "sv": "Mladá Boleslav",
       "ur": "ملادا بولسلاو ضلع",
-      "vi": "Mladá Boleslav"
-    }
+      "vi": "Mladá Boleslav",
+      "lv": "Mlada Boleslavas apriņķis",
+      "ceb": "Okres Mladá Boleslav",
+      "tr": "Mladá Boleslav ilçesi",
+      "sr_Latn": "Okrug Mlada Boleslav",
+      "lt": "Mlada Boleslavo rajonas",
+      "zh": "姆拉達-博萊斯拉夫縣",
+      "fa": "شهرستان ملادا بولسلاو",
+      "ccp": "𑄟𑄳𑄣𑄓 𑄝𑄮𑄣𑄬𑄌𑄴𑄣𑄛𑄴",
+      "eu": "Mladá Boleslaveko barrutia",
+      "uk": "Млада-Болеслав",
+      "be": "Млада Болеслаў"
+    },
+    "comments": null
   },
   "208": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة نيمبورك",
       "be": "раён Німбурк",
@@ -1295,10 +1829,30 @@
       "sv": "Nymburk",
       "uk": "Нимбурк (округ)",
       "ur": "نمبورک ضلع",
-      "vi": "Nymburk"
-    }
+      "vi": "Nymburk",
+      "lv": "Nimburkas apriņķis",
+      "ceb": "Okres Nymburk",
+      "sr_Latn": "Okrug Nimburk",
+      "lt": "Nimburko rajonas",
+      "zh": "寧布爾克縣",
+      "fa": "شهرستان نیمبورک",
+      "ccp": "𑄚𑄨𑄠𑄟𑄴𑄝𑄢𑄳𑄇𑄴",
+      "es": "Distrito de Nymburk"
+    },
+    "comments": null
   },
   "209": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة براغ-شرق",
       "bg": "Прага-изток",
@@ -1320,10 +1874,33 @@
       "sv": "Praha-východ",
       "uk": "Прага-схід",
       "ur": "پراگ-شرقی ضلع",
-      "vi": "Praha Đông"
-    }
+      "vi": "Praha Đông",
+      "lv": "Prāgas Austrumu apriņķis",
+      "ceb": "Okres Praha-Východ",
+      "sr_Latn": "Okrug Prag-istok",
+      "lt": "Prahos rytinis rajonas",
+      "zh": "東布拉格縣",
+      "fa": "شهرستان پراگ-شرق",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄛𑄪𑄇𑄴",
+      "hy": "Պրահայի արևելք",
+      "es": "Distrito de Praga-Este",
+      "eu": "Praga-Ekialdeko barrutia",
+      "be": "Прага-ўсход"
+    },
+    "comments": null
   },
   "311": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تشيسكي بوديوفيتسه",
       "be": "Раён Чэске-Будзеёвіцы",
@@ -1350,10 +1927,31 @@
       "sr": "Округ Чешке Будјејовице",
       "sv": "České Budějovice",
       "ur": "چسکے بودجیووسکے ضلع",
-      "vi": "České Budějovice"
-    }
+      "vi": "České Budějovice",
+      "ceb": "Okres České Budějovice",
+      "tr": "České Budějovice ilçesi",
+      "sr_Latn": "Okrug Češke Budjejovice",
+      "lt": "Česke Budejovicų rajonas",
+      "zh": "捷克布傑約維采縣",
+      "ccp": "𑄇𑄬𑄌𑄴𑄇𑄬 𑄝𑄓𑄬𑄎𑄮𑄞𑄭𑄌𑄴",
+      "es": "Distrito de České Budějovice",
+      "eu": "České Budějoviceko barrutia",
+      "uk": "Чеське Будейовіце (округ)"
+    },
+    "comments": null
   },
   "312": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تشيسكي كروملوف",
       "bg": "Чески Крумлов (окръг)",
@@ -1379,10 +1977,33 @@
       "sr": "Округ Чешки Крумлов",
       "sv": "Český Krumlov",
       "ur": "چیسکی کروملوف ضلع",
-      "vi": "Český Krumlov"
-    }
+      "vi": "Český Krumlov",
+      "ceb": "Okres Český Krumlov",
+      "tr": "Český Krumlov ilçesi",
+      "sr_Latn": "Okrug Češki Krumlov",
+      "lt": "Česky Krumlovo rajonas",
+      "zh": "捷克克魯姆洛夫縣",
+      "fa": "شهرستان چسکی کروملوف",
+      "ccp": "𑄇𑄬𑄌𑄴𑄇𑄨 𑄇𑄳𑄢𑄪𑄟𑄣𑄧𑄛𑄴",
+      "es": "Distrito de Český Krumlov",
+      "eu": "Český Krumloveko barrutia",
+      "uk": "Чеський Крумлов",
+      "be": "раён Чэскі-Крумлаў"
+    },
+    "comments": null
   },
   "313": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة يندريخوف هرادتس",
       "bg": "Индржихув Храдец (окръг)",
@@ -1408,10 +2029,32 @@
       "sr": "Округ Јиндрихув Храдец",
       "sv": "Jindřichův Hradec",
       "ur": "جندرشیخوو ہاردک ضلع",
-      "vi": "Jindřichův Hradec"
-    }
+      "vi": "Jindřichův Hradec",
+      "ceb": "Okres Jindřichův Hradec",
+      "tr": "Jindřichův Hradec ilçesi",
+      "sr_Latn": "Okrug Jindrihuv Hradec",
+      "lt": "Jindržichūv Hradeco rajonas",
+      "zh": "因德日赫城堡縣",
+      "fa": "شهرستان ییندرژیخوف هرادتس",
+      "ccp": "𑄎𑄨𑄚𑄴𑄘𑄳𑄢𑄭𑄇𑄪𑄛𑄴 𑄢𑄓𑄬𑄇𑄴",
+      "es": "Distrito de Jindřichův Hradec",
+      "eu": "Jindřichův Hradeceko barrutia",
+      "uk": "Їндржіхув Градець"
+    },
+    "comments": null
   },
   "314": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بيسك",
       "bg": "Писек",
@@ -1435,10 +2078,33 @@
       "sr": "Округ Писек",
       "sv": "Písek",
       "ur": "پیسک ضلع",
-      "vi": "Písek"
-    }
+      "vi": "Písek",
+      "ceb": "Okres Písek",
+      "tr": "Písek ilçesi",
+      "sr_Latn": "Okrug Pisek",
+      "lt": "Piseko rajonas",
+      "zh": "皮塞克縣",
+      "fa": "شهرستان پیسک",
+      "ccp": "𑄛𑄭𑄥𑄬𑄇𑄴",
+      "es": "Distrito de Písek",
+      "eu": "Písekeko barrutia",
+      "uk": "Пісек",
+      "be": "Пісек"
+    },
+    "comments": null
   },
   "315": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة براخاتيتسه",
       "bg": "Прахатице",
@@ -1462,10 +2128,33 @@
       "sr": "Округ Прахатице",
       "sv": "Okres Prachatice",
       "ur": "پراخاتسے ضلع",
-      "vi": "Prachatice"
-    }
+      "vi": "Prachatice",
+      "ceb": "Okres Prachatice",
+      "tr": "Prachatice İlçesi",
+      "sr_Latn": "Okrug Prahatice",
+      "lt": "Prachaticių rajonas",
+      "zh": "普拉哈季采縣",
+      "fa": "شهرستان پراخاتیتسه",
+      "ccp": "𑄛𑄳𑄢𑄌𑄑𑄭𑄌𑄴",
+      "es": "Distrito de Prachatic",
+      "eu": "Prachaticeko barrutia",
+      "uk": "Прахатіце",
+      "be": "Прахаціцы"
+    },
+    "comments": null
   },
   "316": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ستراكونيتسه",
       "bg": "Страконице",
@@ -1490,10 +2179,32 @@
       "sr": "Округ Стракоњице",
       "sv": "Okres Strakonice",
       "ur": "ستراکونیسے ضلع",
-      "vi": "Strakonice"
-    }
+      "vi": "Strakonice",
+      "ceb": "Okres Strakonice",
+      "tr": "Strakonice ilçesi",
+      "sr_Latn": "Okrug Strakonjice",
+      "lt": "Strakonicių rajonas",
+      "zh": "斯特拉科尼采縣",
+      "fa": "شهرستان استراکونیتسه",
+      "ccp": "𑄌𑄳𑄑𑄳𑄢𑄳𑄢𑄳𑄢𑄇𑄮𑄚𑄭𑄌𑄴",
+      "es": "Distrito de Strakonice",
+      "eu": "Strakoniceko barrutia",
+      "uk": "Страконіце"
+    },
+    "comments": null
   },
   "317": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تابور",
       "be": "Табар",
@@ -1518,10 +2229,31 @@
       "sr": "Округ Табор",
       "sv": "Okres Tábor",
       "ur": "تابور ضلع",
-      "vi": "Tábor"
-    }
+      "vi": "Tábor",
+      "ceb": "Okres Tábor",
+      "tr": "Tábor ilçesi",
+      "sr_Latn": "Okrug Tabor",
+      "lt": "Taboro rajonas",
+      "zh": "塔博爾縣",
+      "ccp": "𑄑𑄝𑄧𑄢𑄴",
+      "es": "Distrito de Tábor",
+      "eu": "Táborko barrutia",
+      "uk": "Табор"
+    },
+    "comments": null
   },
   "321": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة دوماجليتسه",
       "bg": "Домажлице",
@@ -1543,10 +2275,33 @@
       "sr": "Округ Домажлице",
       "sv": "Okres Domažlice",
       "ur": "دوماشزلیسے ضلع",
-      "vi": "Domažlice"
-    }
+      "vi": "Domažlice",
+      "ceb": "Okres Domažlice",
+      "tr": "Domažlice ilçesi",
+      "sr_Latn": "Okrug Domažlice",
+      "lt": "Domažlicių rajonas",
+      "zh": "多馬日利采縣",
+      "fa": "شهرستان دوماژلیتسه",
+      "ccp": "𑄓𑄮𑄟𑄬𑄌𑄴𑄣𑄭𑄌𑄴",
+      "es": "Distrito de Domažlice",
+      "eu": "Domažliceko barrutia",
+      "pt": "Domažlice (distrito)",
+      "uk": "Домажліце"
+    },
+    "comments": null
   },
   "322": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كلاتوفي",
       "be": "раён Клатаві",
@@ -1571,10 +2326,31 @@
       "sr": "Округ Клатови",
       "sv": "Okres Klatovy",
       "ur": "کلاتووی ضلع",
-      "vi": "Klatovy"
-    }
+      "vi": "Klatovy",
+      "ceb": "Okres Klatovy",
+      "tr": "Klatovy ilçesi",
+      "sr_Latn": "Okrug Klatovi",
+      "lt": "Klatovų rajonas",
+      "zh": "克拉托維縣",
+      "fa": "شهرستان کلاتووی",
+      "ccp": "𑄇𑄳𑄣𑄑𑄮𑄞𑄨",
+      "eu": "Klatovyko barrutia",
+      "uk": "Клатови"
+    },
+    "comments": null
   },
   "323": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلزن-المدينة",
       "be": "акруга Пльзень-горад",
@@ -1595,10 +2371,30 @@
       "sk": "Okres Plzeň-mesto",
       "sr": "Округ Плзењ-град",
       "sv": "Okres Plzeň-Město",
-      "ur": "پلزین-شہر ضلع"
-    }
+      "ur": "پلزین-شہر ضلع",
+      "ceb": "Okres Plzeň-Město",
+      "sr_Latn": "Okrug Plzenj-grad",
+      "lt": "Pilzeno miesto rajonas",
+      "zh": "比爾森城縣",
+      "fa": "شهرستان پلزن-میستو",
+      "ccp": "𑄛𑄳𑄣𑄎𑄬𑄚𑄴",
+      "es": "Distrito de Ciudad de Pilsen",
+      "uk": "Пльзень-місто"
+    },
+    "comments": null
   },
   "324": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلزن-جنوب",
       "bg": "Пилзен-юг",
@@ -1620,10 +2416,30 @@
       "sr": "Округ Плзењ-југ",
       "sv": "Okres Plzeň-Jih",
       "ur": "پلزین-جنوبی ضلع",
-      "vi": "Plzeň-Nam"
-    }
+      "vi": "Plzeň-Nam",
+      "ceb": "Okres Plzeň-Jih",
+      "sr_Latn": "Okrug Plzenj-jug",
+      "lt": "Pilzeno pietinis rajonas",
+      "zh": "南比爾森縣",
+      "ccp": "𑄛𑄳𑄣𑄎𑄬𑄚𑄴-𑄘𑄧𑄊𑄨𑄚𑄴",
+      "es": "Distrito de Pilsen Sur",
+      "eu": "Plzeň-Hegoaldea barrutia",
+      "uk": "Пльзень-південь"
+    },
+    "comments": null
   },
   "325": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلزن-شمال",
       "bg": "Пилзен-север",
@@ -1643,10 +2459,31 @@
       "sr": "Округ Плзењ-север",
       "sv": "Okres Plzeň-Sever",
       "ur": "پلزین-شمالی ضلع",
-      "vi": "Plzeň-Bắc"
-    }
+      "vi": "Plzeň-Bắc",
+      "ceb": "Okres Plzeň-Sever",
+      "sr_Latn": "Okrug Plzenj-sever",
+      "lt": "Pilzeno šiaurinis rajonas",
+      "zh": "北比爾森縣",
+      "fa": "ناحیه پلزن-شمالی",
+      "ccp": "𑄛𑄳𑄣𑄎𑄬𑄚𑄴-𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴",
+      "es": "Distrito de Pilsen Norte",
+      "eu": "Plzeň-Iparraldeko barrutia",
+      "uk": "Пльзень-північ"
+    },
+    "comments": null
   },
   "326": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة روكيتساني",
       "bg": "Рокицани",
@@ -1669,10 +2506,32 @@
       "sr": "Округ Рокицани",
       "sv": "Okres Rokycany",
       "ur": "روکیسانی ضلع",
-      "vi": "Rokycany"
-    }
+      "vi": "Rokycany",
+      "ceb": "Okres Rokycany",
+      "tr": "Rokycany ilçesi",
+      "sr_Latn": "Okrug Rokicani",
+      "lt": "Rokicanų rajonas",
+      "zh": "羅基察尼縣",
+      "fa": "شهرستان روکیتسانی",
+      "ccp": "𑄢𑄧𑄇𑄨𑄇𑄳𑄠𑄚𑄨",
+      "es": "Distrito de Rokycany",
+      "eu": "Rokycanyko barrutia",
+      "uk": "Рокицани"
+    },
+    "comments": null
   },
   "327": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تاخوف",
       "bg": "Тахов",
@@ -1696,10 +2555,32 @@
       "sr": "Округ Тахов",
       "sv": "Okres Tachov",
       "ur": "تاخوف ضلع",
-      "vi": "Tachov"
-    }
+      "vi": "Tachov",
+      "ceb": "Okres Tachov",
+      "tr": "Tachov ilçesi",
+      "sr_Latn": "Okrug Tahov",
+      "lt": "Tachovo rajonas",
+      "zh": "塔霍夫縣",
+      "fa": "شهرستان تاخوف",
+      "ccp": "𑄑𑄝𑄮𑄛𑄴",
+      "es": "Distrito de Tachov",
+      "eu": "Tachoveko barrutia",
+      "uk": "Тахов"
+    },
+    "comments": null
   },
   "411": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة خب",
       "be": "Хеб",
@@ -1725,10 +2606,32 @@
       "sr": "Округ Хеб",
       "sv": "Cheb",
       "ur": "خیب ضلع",
-      "vi": "Cheb"
-    }
+      "vi": "Cheb",
+      "ceb": "Okres Cheb",
+      "tr": "Cheb ilçesi",
+      "sr_Latn": "Okrug Heb",
+      "zh": "海布縣",
+      "fa": "شهرستان خب",
+      "ccp": "𑄌𑄬𑄛𑄴",
+      "es": "Distrito de Cheb",
+      "eu": "Chebeko barrutia",
+      "uk": "округ Хеб",
+      "mk": "Хеб"
+    },
+    "comments": null
   },
   "412": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كارلوفي فاري",
       "be": "Раён Карлавы Вары",
@@ -1753,10 +2656,31 @@
       "sr": "Округ Карлове Вари",
       "sv": "Karlovy Vary²",
       "ur": "کارلووی واری ضلع",
-      "vi": "Karlovy Vary²"
-    }
+      "vi": "Karlovy Vary²",
+      "ceb": "Okres Karlovy Vary",
+      "tr": "Karlovy Vary ilçesi",
+      "sr_Latn": "Okrug Karlove Vari",
+      "zh": "卡羅維發利縣",
+      "fa": "ناحیه کارلووی واری",
+      "ccp": "𑄇𑄢𑄴𑄣𑄧𑄞𑄨 𑄞𑄢𑄩",
+      "es": "Distrito de Karlovy Vary",
+      "eu": "Karlovy Varyko barrutia",
+      "uk": "Округ Карлові Вари"
+    },
+    "comments": null
   },
   "413": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة سوكولوف",
       "bg": "Соколов",
@@ -1781,10 +2705,31 @@
       "sr": "Округ Соколов",
       "sv": "Sokolov",
       "ur": "سوکولوف ضلع",
-      "vi": "Sokolov"
-    }
+      "vi": "Sokolov",
+      "ceb": "Okres Sokolov",
+      "tr": "Sokolov ilçesi",
+      "sr_Latn": "Okrug Sokolov",
+      "zh": "索洛洛夫縣",
+      "fa": "شهرستان سوکولوف",
+      "ccp": "𑄥𑄧𑄇𑄮𑄣𑄧𑄛𑄴",
+      "es": "Distrito de Sokolov",
+      "eu": "Sokoloveko barrutia",
+      "uk": "Соколов"
+    },
+    "comments": null
   },
   "421": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ديتشين",
       "bg": "Дечин",
@@ -1807,10 +2752,33 @@
       "sr": "Округ Дјечин",
       "sv": "Okres Děčín",
       "ur": "دیچین ضلع",
-      "vi": "Děčín"
-    }
+      "vi": "Děčín",
+      "ceb": "Okres Děčín",
+      "tr": "Děčín ilçesi",
+      "sr_Latn": "Okrug Dječin",
+      "lt": "Dečyno rajonas",
+      "zh": "傑欽縣",
+      "fa": "شهرستان دیه‌چین",
+      "ccp": "𑄓𑄬𑄥𑄨𑄚𑄴",
+      "es": "Distrito de Děčín",
+      "eu": "Děčíngo barrutia",
+      "uk": "Дечин",
+      "be": "Дзечын"
+    },
+    "comments": null
   },
   "422": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة خوموتوف",
       "bg": "Хомутов",
@@ -1834,10 +2802,31 @@
       "sv": "Okres Chomutov",
       "uk": "Хомутов (округ)",
       "ur": "خومتو ضلع",
-      "vi": "Chomutov"
-    }
+      "vi": "Chomutov",
+      "ceb": "Okres Chomutov",
+      "tr": "Chomutov ilçesi",
+      "sr_Latn": "Okrug Homutov",
+      "lt": "Chomutovo rajonas",
+      "zh": "霍穆托夫縣",
+      "fa": "شهرستان خوموتوف",
+      "ccp": "𑄇𑄮𑄟𑄪𑄑𑄧𑄛𑄴",
+      "es": "Distrito de Chomutov",
+      "eu": "Chomutoveko barrutia"
+    },
+    "comments": null
   },
   "423": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ليتوميريتسه",
       "be": "Літамержыцэ",
@@ -1861,10 +2850,32 @@
       "sr": "Округ Литомјержице",
       "sv": "Okres Litoměřice",
       "ur": "لیتومیرشسے ضلع",
-      "vi": "Litoměřice"
-    }
+      "vi": "Litoměřice",
+      "ceb": "Okres Litoměřice",
+      "tr": "Litoměřice ilçesi",
+      "sr_Latn": "Okrug Litomjeržice",
+      "lt": "Litomeržicių rajonas",
+      "zh": "利托梅日采縣",
+      "fa": "شهرستان لیتومیه‌رژیتسه",
+      "ccp": "𑄣𑄨𑄑𑄮𑄟𑄢𑄨𑄌𑄴",
+      "es": "Distrito de Litoměřice",
+      "eu": "Litoměřiceko barrutia",
+      "uk": "Літомержице"
+    },
+    "comments": null
   },
   "424": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة لوني",
       "be": "раён Лоўні",
@@ -1889,10 +2900,31 @@
       "sr": "Округ Лоуни",
       "sv": "Okres Louny",
       "ur": "لونی ضلع",
-      "vi": "Louny"
-    }
+      "vi": "Louny",
+      "ceb": "Okres Louny",
+      "tr": "Louny ilçesi",
+      "sr_Latn": "Okrug Louni",
+      "lt": "Lounų rajonas",
+      "zh": "洛烏尼縣",
+      "fa": "شهرستان لوونی",
+      "ccp": "𑄣𑄅𑄪𑄚𑄨",
+      "eu": "Lounyko barrutia",
+      "uk": "Лоуни"
+    },
+    "comments": null
   },
   "425": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة موست",
       "bg": "Мост",
@@ -1915,10 +2947,30 @@
       "sr": "Округ Мост",
       "sv": "Okres Most",
       "ur": "موست ضلع",
-      "vi": "Most"
-    }
+      "vi": "Most",
+      "ceb": "Okres Most",
+      "sr_Latn": "Okrug Most",
+      "lt": "Mosto rajonas",
+      "zh": "莫斯特縣",
+      "fa": "شهرستان موست",
+      "ccp": "𑄟𑄮𑄥𑄳𑄑𑄴",
+      "es": "Distrito de Most",
+      "uk": "Мост"
+    },
+    "comments": null
   },
   "426": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تبليتسه",
       "be": "Цепліцы",
@@ -1942,10 +2994,31 @@
       "sr": "Округ Теплице",
       "sv": "Okres Teplice",
       "ur": "تپلیتسے ضلع",
-      "vi": "Teplice"
-    }
+      "vi": "Teplice",
+      "ceb": "Okres Teplice",
+      "tr": "Teplice ilçesi",
+      "sr_Latn": "Okrug Teplice",
+      "lt": "Teplicės rajonas",
+      "zh": "特普利采縣",
+      "fa": "شهرستان تپلیتسه",
+      "ccp": "𑄑𑄬𑄛𑄴𑄣𑄭𑄌𑄴",
+      "es": "Distrito de Teplice",
+      "uk": "Тепліце"
+    },
+    "comments": null
   },
   "427": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أوستي ناد لابم",
       "bg": "Усти над Лабе",
@@ -1969,10 +3042,29 @@
       "sv": "Ústí nad Labem²",
       "uk": "Усті-над-Лабем",
       "ur": "اوستی ناد لاہم ضلع",
-      "vi": "Ústí nad Labem²"
-    }
+      "vi": "Ústí nad Labem²",
+      "ceb": "Okres Ústí nad Labem",
+      "sr_Latn": "Okrug Usti na Labi",
+      "lt": "Ūsčio prie Labės rajonas",
+      "zh": "拉貝河畔烏斯季縣",
+      "ccp": "𑄅𑄪𑄌𑄴𑄑𑄨 𑄚𑄖𑄴 𑄣𑄝𑄬𑄟𑄴",
+      "es": "Distrito de Ústí nad Labem",
+      "be": "Усці-над-Лабем"
+    },
+    "comments": null
   },
   "511": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تشيسكا ليبا",
       "bg": "Ческа Липа",
@@ -1996,10 +3088,30 @@
       "sr": "Округ Чешка Липа",
       "sv": "Česká Lípa",
       "ur": "چیسکا لیپا ضلع",
-      "vi": "Česká Lípa"
-    }
+      "vi": "Česká Lípa",
+      "ceb": "Okres Česká Lípa",
+      "tr": "Česká Lípa ilçesi",
+      "sr_Latn": "Okrug Češka Lipa",
+      "zh": "捷克利帕縣",
+      "fa": "شهرستان چسکا لیپا",
+      "ccp": "𑄇𑄬𑄌𑄴𑄇 𑄣𑄨𑄛",
+      "es": "Distrito de Česká Lípa",
+      "uk": "Чеська Липа"
+    },
+    "comments": null
   },
   "512": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة يابلونتس ناد نيسو",
       "bg": "Яблонец над Ниса",
@@ -2023,10 +3135,31 @@
       "sr": "Округ Јаблонец на Ниси",
       "sv": "Jablonec nad Nisou",
       "ur": "جبلونیک ناد نسو ضلع",
-      "vi": "Jablonec nad Nisou"
-    }
+      "vi": "Jablonec nad Nisou",
+      "ceb": "Okres Jablonec nad Nisou",
+      "tr": "Jablonec nad Nisou ilçesi",
+      "sr_Latn": "Okrug Jablonec na Nisi",
+      "zh": "尼斯河畔亞布洛內茨縣",
+      "fa": "شهرستان یابلونتس ناد نیسوو",
+      "ccp": "𑄎𑄛𑄴𑄣𑄮𑄚𑄬𑄇𑄴 𑄚𑄖𑄴 𑄚𑄨𑄥𑄅𑄪",
+      "es": "Distrito de Jablonec nad Nisou",
+      "eu": "Jablonec nad Nisouko barrutia",
+      "uk": "Яблонець-над-Нисою"
+    },
+    "comments": null
   },
   "513": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ليبيريتس",
       "bg": "Либерец",
@@ -2051,10 +3184,30 @@
       "sr": "Округ Либерец",
       "sv": "Liberec²",
       "ur": "لیبرتس ضلع",
-      "vi": "Liberec²"
-    }
+      "vi": "Liberec²",
+      "ceb": "Okres Liberec",
+      "tr": "Liberec ilçesi",
+      "sr_Latn": "Okrug Liberec",
+      "zh": "利貝雷茨縣",
+      "fa": "شهرستان لیبرتس",
+      "ccp": "𑄣𑄨𑄝𑄢𑄬𑄇𑄴",
+      "es": "Distrito de Liberec",
+      "uk": "округ Ліберець"
+    },
+    "comments": null
   },
   "514": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة سيميلي",
       "bg": "Семили",
@@ -2078,10 +3231,32 @@
       "sk": "Okres Semily",
       "sr": "Округ Семили",
       "sv": "Semily",
-      "vi": "Semily"
-    }
+      "vi": "Semily",
+      "ceb": "Okres Semily",
+      "tr": "Semily ilçesi",
+      "sr_Latn": "Okrug Semili",
+      "zh": "塞米利縣",
+      "fa": "شهرستان سمیلی",
+      "ccp": "𑄥𑄬𑄟𑄨𑄣𑄨",
+      "es": "Distrito de Semily",
+      "eu": "Semilyko barrutia",
+      "uk": "Семіли",
+      "be": "раён Семілі"
+    },
+    "comments": null
   },
   "521": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة هرادتس كرالوفه",
       "be": "раён Градзец-Кралавэ",
@@ -2106,10 +3281,32 @@
       "sr": "Округ Храдец Кралове",
       "sv": "Hradec Králové²",
       "ur": "ہاردک کارلوف ضلع",
-      "vi": "Hradec Králové²"
-    }
+      "vi": "Hradec Králové²",
+      "ceb": "Okres Hradec Králové",
+      "tr": "Hradec Králové ilçesi",
+      "sr_Latn": "Okrug Hradec Kralove",
+      "zh": "赫拉德茨克拉洛韋縣",
+      "fa": "شهرستان هرادتس کرالووه",
+      "ja": "フラデツ・クラーロヴェー郡",
+      "ccp": "𑄦𑄳𑄢𑄓𑄬𑄇𑄴 𑄇𑄳𑄢𑄣𑄮𑄛𑄴",
+      "es": "Distrito de Hradec Králové",
+      "eu": "Hradec Královéko barrutia",
+      "uk": "Градець-Кралове"
+    },
+    "comments": null
   },
   "522": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة يتشين",
       "bg": "Ичин",
@@ -2133,10 +3330,31 @@
       "sr": "Округ Јичин",
       "sv": "Jičín",
       "ur": "جیچن ضلع",
-      "vi": "Jičín"
-    }
+      "vi": "Jičín",
+      "ceb": "Okres Jičín",
+      "tr": "Jičín ilçesi",
+      "sr_Latn": "Okrug Jičin",
+      "zh": "伊欽縣",
+      "fa": "شهرستان ییچین",
+      "ccp": "𑄎𑄨𑄌𑄨𑄚𑄴",
+      "es": "Distrito de Jičín",
+      "eu": "Jičíngo barrutia",
+      "uk": "Їчін"
+    },
+    "comments": null
   },
   "523": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ناخود",
       "bg": "Наход",
@@ -2160,10 +3378,32 @@
       "sr": "Округ Наход",
       "sv": "Náchod",
       "ur": "ناخود ضلع",
-      "vi": "Náchod"
-    }
+      "vi": "Náchod",
+      "ceb": "Okres Náchod",
+      "tr": "Náchod ilçesi",
+      "sr_Latn": "Okrug Nahod",
+      "zh": "納霍德縣",
+      "fa": "شهرستان ناخود",
+      "ccp": "𑄚𑄌𑄮𑄖𑄴",
+      "es": "Distrito de Náchod",
+      "da": "Náchod",
+      "eu": "Náchodeko barrutia",
+      "uk": "Наход"
+    },
+    "comments": null
   },
   "524": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ريخنوف ناد كنيجنو",
       "be": "раён Рыхнаў над Кнежнау",
@@ -2188,10 +3428,31 @@
       "sr": "Округ Рихнов на Књежној",
       "sv": "Rychnov nad Kněžnou",
       "ur": "ریخنوف ناد کنیزشنو ضلع",
-      "vi": "Rychnov nad Kněžnou"
-    }
+      "vi": "Rychnov nad Kněžnou",
+      "ceb": "Okres Rychnov nad Kněžnou",
+      "tr": "Rychnov nad Kněžnou ilçesi",
+      "sr_Latn": "Okrug Rihnov na Knježnoj",
+      "zh": "科內日諾河畔里赫諾夫縣",
+      "fa": "شهرستان ریخنوف ناد کنیژنوو",
+      "ccp": "𑄢𑄭𑄇𑄳𑄚𑄧𑄛𑄴 𑄚𑄖𑄴 𑄇𑄳𑄚𑄬𑄌𑄴𑄚𑄅𑄪",
+      "es": "Distrito de Rychnov nad Kněžnou",
+      "eu": "Rychnov nad Kněžnouko barrutia",
+      "uk": "Рихнов-над-Кнєжной"
+    },
+    "comments": null
   },
   "525": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ترتنوف",
       "bg": "Трутнов",
@@ -2218,10 +3479,31 @@
       "sr": "Округ Трутнов",
       "sv": "Trutnov",
       "ur": "ترنتوو ضلع",
-      "vi": "Trutnov"
-    }
+      "vi": "Trutnov",
+      "ceb": "Okres Trutnov",
+      "tr": "Trutnov İlçesi",
+      "sr_Latn": "Okrug Trutnov",
+      "zh": "特魯特諾夫縣",
+      "ccp": "𑄑𑄳𑄢𑄪𑄑𑄚𑄮𑄛𑄴",
+      "es": "Distrito de Trutnov",
+      "eu": "Trutnoveko barrutia",
+      "uk": "Трутнов",
+      "be": "раён Трутнаў"
+    },
+    "comments": null
   },
   "531": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة خروديم",
       "be": "Хрудзім",
@@ -2247,10 +3529,30 @@
       "sr": "Округ Хрудим",
       "sv": "Chrudim",
       "ur": "خودیم ضلع",
-      "vi": "Chrudim"
-    }
+      "vi": "Chrudim",
+      "ceb": "Okres Chrudim",
+      "tr": "Chrudim ilçesi",
+      "sr_Latn": "Okrug Hrudim",
+      "zh": "赫魯迪姆縣",
+      "fa": "شهرستان خرودیم",
+      "ccp": "𑄇𑄳𑄢𑄪𑄓𑄨𑄟𑄴",
+      "es": "Distrito de Chrudim",
+      "uk": "Хрудім"
+    },
+    "comments": null
   },
   "532": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة باردوبيتسه",
       "be": "раён Пардубіцы",
@@ -2276,10 +3578,31 @@
       "sr": "Округ Пардубице",
       "sv": "Pardubice²",
       "ur": "پاردوبیتسے ضلع",
-      "vi": "Pardubice²"
-    }
+      "vi": "Pardubice²",
+      "ceb": "Okres Pardubice",
+      "tr": "Pardubice ilçesi",
+      "sr_Latn": "Okrug Pardubice",
+      "zh": "帕爾杜比采縣",
+      "fa": "ناحیه پاردوبیتسه",
+      "ccp": "𑄛𑄢𑄴𑄓𑄪𑄝𑄭𑄌𑄴",
+      "es": "Distrito de Pardubice",
+      "eu": "Pardubiceko barrutia",
+      "uk": "Пардубице"
+    },
+    "comments": null
   },
   "533": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة سفيتافي",
       "be": "раён Світаві",
@@ -2306,10 +3629,31 @@
       "sr": "Округ Свитави",
       "sv": "Okres Svitavy",
       "ur": "سویتاوی ضلع",
-      "vi": "Svitavy"
-    }
+      "vi": "Svitavy",
+      "ceb": "Okres Svitavy",
+      "tr": "Svitavy ilçesi",
+      "sr_Latn": "Okrug Svitavi",
+      "zh": "斯維塔維縣",
+      "fa": "شهرستان سویتاوی",
+      "ccp": "𑄞𑄨𑄑𑄞𑄨",
+      "es": "Distrito de Svitavy",
+      "eu": "Svitavyko barrutia",
+      "uk": "Світави"
+    },
+    "comments": null
   },
   "534": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أوستي ناد أورليتسي",
       "bg": "Усти над Орлици",
@@ -2334,10 +3678,33 @@
       "sr": "Округ Усти на Орлици",
       "sv": "Okres Ústí nad Orlicí",
       "ur": "اوستی ناد اورلیسی ضلع",
-      "vi": "Ústí nad Orlicí"
-    }
+      "vi": "Ústí nad Orlicí",
+      "ceb": "Okres Ústí nad Orlicí",
+      "tr": "Ústí nad Orlicí ilçesi",
+      "sr_Latn": "Okrug Usti na Orlici",
+      "lt": "Ūsčio prie Orlicės rajonas",
+      "zh": "奧爾利采河畔烏斯季縣",
+      "fa": "شهرستان اوستی ناد اورلیتسی",
+      "ccp": "𑄅𑄪𑄌𑄴𑄑𑄨 𑄚𑄖𑄴 𑄃𑄧𑄢𑄴𑄣𑄨𑄌𑄨",
+      "es": "Distrito de Ústí nad Orlicí",
+      "eu": "Ústí nad Orlicíko barrutia",
+      "uk": "Усті-над-Орлиццю",
+      "be": "Усці-над-Орліцай"
+    },
+    "comments": null
   },
   "631": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة هافليتشكوف برود",
       "be": "раён Гаўлічкаў Брод",
@@ -2345,7 +3712,7 @@
       "ca": "Districte de Havlíčkův Brod",
       "cs": "okres Havlíčkův Brod",
       "de": "Okres Havlíčkův Brod",
-      "en": "Havlíčkův Brod²",
+      "en": "Havlíčkův Brod",
       "fr": "District de Havlíčkův Brod",
       "he": "מחוז משנה הבליצקוב ברוד",
       "hu": "Havlíčkův Brod-i járás",
@@ -2362,10 +3729,32 @@
       "sr": "Округ Хавличкув Брод",
       "sv": "Okres Havlíčkův Brod",
       "ur": "ہاولیچکورف برود ضلع",
-      "vi": "Havlíčkův Brod"
-    }
+      "vi": "Havlíčkův Brod",
+      "ceb": "Okres Havlíčkův Brod",
+      "tr": "Havlíčkův Brod ilçesi",
+      "sr_Latn": "Okrug Havličkuv Brod",
+      "lt": "Havličkūv Brodo rajonas",
+      "zh": "哈夫利奇庫夫布羅德縣",
+      "fa": "ناحیه هاولیچکوف برود",
+      "ccp": "𑄦𑄛𑄴𑄣𑄨𑄇𑄪𑄛𑄴 𑄝𑄳𑄢𑄧𑄖𑄴",
+      "es": "Distrito de Havlíčkův Brod",
+      "eu": "Havlíčkův Brodeko barrutia",
+      "uk": "Гавличкув-Брод"
+    },
+    "comments": null
   },
   "632": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة يهلافا",
       "be": "Раён Йіглава",
@@ -2392,10 +3781,32 @@
       "sr": "Округ Јихлава",
       "sv": "Okres Jihlava",
       "ur": "ایہاوا ضلع",
-      "vi": "Jihlava"
-    }
+      "vi": "Jihlava",
+      "ceb": "Okres Jihlava",
+      "tr": "Jihlava ilçesi",
+      "sr_Latn": "Okrug Jihlava",
+      "lt": "Jihlavos rajonas",
+      "zh": "伊赫拉瓦縣",
+      "fa": "شهرستان ییهلاوا",
+      "ccp": "𑄎𑄨𑄦𑄴𑄣𑄛𑄴",
+      "es": "Distrito de Jihlava",
+      "eu": "Jihlavako barrutia",
+      "uk": "Їглава"
+    },
+    "comments": null
   },
   "633": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلهريموف",
       "be": "Пельгржымаў",
@@ -2422,17 +3833,38 @@
       "sr": "Округ Пелхримов",
       "sv": "Okres Pelhřimov",
       "ur": "پیلہریموف ضلع",
-      "vi": "Pelhřimov"
-    }
+      "vi": "Pelhřimov",
+      "ceb": "Okres Pelhřimov",
+      "tr": "Pelhřimov ilçesi",
+      "sr_Latn": "Okrug Pelhrimov",
+      "lt": "Pelhržimovo rajonas",
+      "zh": "佩爾赫日莫夫縣",
+      "fa": "شهرستان پلهرژیموف",
+      "ccp": "𑄛𑄬𑄣𑄴𑄦𑄳𑄢𑄨𑄟𑄮𑄛𑄴",
+      "eu": "Pelhřimoveko barrutia",
+      "uk": "Пельгржимов"
+    },
+    "comments": null
   },
   "634": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة تربيتش",
       "bg": "Тршебич",
       "ca": "Districte de Třebíč",
       "cs": "okres Třebíč",
       "de": "Okres Třebíč",
-      "en": "Třebíč²",
+      "en": "Třebíč",
       "fa": "منطقه تربیچ",
       "fr": "District de Třebíč",
       "he": "מחוז משנה טשביץ׳",
@@ -2451,17 +3883,40 @@
       "sr": "Округ Требич",
       "sv": "Okres Třebíč",
       "ur": "تشربیچ ضلع",
-      "vi": "Třebíč"
-    }
+      "vi": "Třebíč",
+      "ceb": "Okres Třebíč",
+      "tr": "Třebíč ilçesi",
+      "sr_Latn": "Okrug Trebič",
+      "lt": "Tršebyčo rajonas",
+      "zh": "特熱比奇縣",
+      "ccp": "𑄑𑄳𑄢𑄬𑄝𑄨𑄇𑄴",
+      "es": "Distrito de Třebíč",
+      "ro": "Třebíč",
+      "eu": "Třebíčeko barrutia",
+      "uk": "Тршебич",
+      "be": "раён Тршэбіч"
+    },
+    "comments": null
   },
   "635": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة جديار ناد سازافو",
       "bg": "Ждяр над Сазавоу",
       "ca": "Districte de Žďár nad Sázavou",
       "cs": "okres Žďár nad Sázavou",
       "de": "Okres Žďár nad Sázavou",
-      "en": "Žďár nad Sázavou²",
+      "en": "Žďár nad Sázavou",
       "fr": "District de Žďár nad Sázavou",
       "he": "מחוז משנה ז׳דאר נד סאזאבואו",
       "hu": "Žďár nad Sázavou-i járás",
@@ -2478,10 +3933,33 @@
       "sr": "Округ Ждјар на Сазави",
       "sv": "Okres Žďár nad Sázavou",
       "ur": "زشدار ناد سازوو ضلع",
-      "vi": "Žďár nad Sázavou"
-    }
+      "vi": "Žďár nad Sázavou",
+      "ceb": "Okres Žďár nad Sázavou",
+      "tr": "Žďár nad Sázavou ilçesi",
+      "sr_Latn": "Okrug Ždjar na Sazavi",
+      "lt": "Ždiaro prie Sazavos rajonas",
+      "zh": "薩扎瓦河畔日賈爾縣",
+      "fa": "ناحیه ژدار ناد سازاوو",
+      "ccp": "𑄓𑄢𑄴 𑄚𑄖𑄴 𑄥𑄎𑄞𑄮𑄅𑄪",
+      "es": "Distrito de Žďár nad Sázavou",
+      "eu": "Žďár nad Sázavouko barrutia",
+      "pt": "Žďár nad Sázavou (distrito)",
+      "uk": "Ждяр-над-Сазавою"
+    },
+    "comments": null
   },
   "641": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بلانسكو",
       "be": "Раён Бланска",
@@ -2489,7 +3967,7 @@
       "ca": "Districte de Blansko",
       "cs": "okres Blansko",
       "de": "Okres Blansko",
-      "en": "Blansko²",
+      "en": "Blansko",
       "fr": "District de Blansko",
       "he": "מחוז משנה בלנסקו",
       "hr": "Okrug Blansko",
@@ -2507,10 +3985,32 @@
       "sr": "Округ Бланско",
       "sv": "Okres Blansko",
       "ur": "بلانسکو ضلع",
-      "vi": "Blansko"
-    }
+      "vi": "Blansko",
+      "ceb": "Okres Blansko",
+      "tr": "Blansko ilçesi",
+      "sr_Latn": "Okrug Blansko",
+      "lt": "Blansko rajonas",
+      "zh": "布蘭斯科縣",
+      "fa": "شهرستان بلانسکو",
+      "ccp": "𑄇𑄳𑄣𑄚𑄴𑄇𑄮",
+      "es": "Distrito de Blansko",
+      "eu": "Blanskoko barrutia",
+      "uk": "Бланско"
+    },
+    "comments": null
   },
   "642": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة برنو-المدينة",
       "be": "Брно-горад",
@@ -2530,10 +4030,30 @@
       "sr": "Округ Брно-град",
       "sv": "Město Brno",
       "ur": "برنو-شہر ضلع",
-      "vi": "Brno"
-    }
+      "vi": "Brno",
+      "ceb": "Město Brno",
+      "sr_Latn": "Okrug Brno-grad",
+      "lt": "Brno miesto rajonas",
+      "zh": "布爾諾城縣",
+      "fa": "شهرستان برنو-میستو",
+      "ccp": "𑄝𑄳𑄢𑄚𑄮-𑄟𑄬𑄌𑄴𑄑𑄮",
+      "uk": "Брно-місто",
+      "mk": "Брно-град"
+    },
+    "comments": null
   },
   "643": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة برنو-الريف",
       "be": "Брно-прыгарад",
@@ -2542,7 +4062,7 @@
       "cs": "okres Brno-venkov",
       "de": "Okres Brno-venkov",
       "el": "Επαρχία Μπρνο",
-      "en": "Brno-venkov²",
+      "en": "Brno-venkov",
       "fr": "District de Brno-venkov",
       "hu": "Brno-vidéki járás",
       "hy": "Բրնո-վենկովի շրջան",
@@ -2558,10 +4078,32 @@
       "sr": "Округ Брно-околина",
       "sv": "Brno-venkov",
       "ur": "برنو-کنٹری ضلع",
-      "vi": "Brno-venkov"
-    }
+      "vi": "Brno-venkov",
+      "ceb": "Okres Brno-Venkov",
+      "sr_Latn": "Okrug Brno-okolina",
+      "lt": "Brno savivaldybės rajonas",
+      "zh": "布爾諾郊縣",
+      "fa": "شهرستان برنو-ونکوو",
+      "ccp": "𑄝𑄳𑄢𑄚𑄮-𑄞𑄬𑄚𑄴𑄇𑄮𑄛𑄴",
+      "es": "Distrito de Brno",
+      "eu": "Brno-Landako barrutia",
+      "uk": "Брно-околиця",
+      "mk": "Брно-предградие"
+    },
+    "comments": null
   },
   "644": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بريتسلاف",
       "be": "Раён Бржэцлаў",
@@ -2569,7 +4111,7 @@
       "ca": "Districte de Břeclav",
       "cs": "okres Břeclav",
       "de": "Okres Břeclav",
-      "en": "Břeclav²",
+      "en": "Břeclav",
       "fr": "District de Břeclav",
       "he": "מחוז משנה ברצלב",
       "hu": "Břeclavi járás",
@@ -2587,10 +4129,32 @@
       "sr": "Округ Брецлав",
       "sv": "Okres Břeclav",
       "ur": "بشرسلاف ضلع",
-      "vi": "Břeclav"
-    }
+      "vi": "Břeclav",
+      "ceb": "Okres Břeclav",
+      "tr": "Břeclav ilçesi",
+      "sr_Latn": "Okrug Breclav",
+      "lt": "Bržeclavo rajonas",
+      "zh": "布熱茨拉夫縣",
+      "fa": "شهرستان برژتسلاو",
+      "ccp": "𑄝𑄳𑄢𑄬𑄇𑄳𑄣𑄳𑄠𑄛𑄴",
+      "es": "Distrito de Břeclav",
+      "eu": "Břeclaveko barrutia",
+      "uk": "Бржецлав"
+    },
+    "comments": null
   },
   "645": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة هودونين",
       "bg": "Ходонин",
@@ -2615,10 +4179,31 @@
       "sr": "Округ Ходоњин",
       "sv": "Okres Hodonín",
       "ur": "ہودونین ضلع",
-      "vi": "Hodonín"
-    }
+      "vi": "Hodonín",
+      "ceb": "Okres Hodonín",
+      "tr": "Hodonín ilçesi",
+      "sr_Latn": "Okrug Hodonjin",
+      "lt": "Hodonyno rajonas",
+      "zh": "霍多寧縣",
+      "ccp": "𑄦𑄧𑄓𑄧𑄚𑄨𑄚𑄴",
+      "es": "Distrito de Hodonín",
+      "eu": "Hodoníngo barrutia",
+      "uk": "Годонін"
+    },
+    "comments": null
   },
   "646": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فيشكوف",
       "be": "Раён Вішкаў",
@@ -2642,10 +4227,31 @@
       "sr": "Округ Вишков",
       "sv": "Okres Vyškov",
       "ur": "ویشکوف ضلع",
-      "vi": "Vyškov"
-    }
+      "vi": "Vyškov",
+      "ceb": "Okres Vyškov",
+      "tr": "Vyškov ilçesi",
+      "sr_Latn": "Okrug Viškov",
+      "lt": "Viškovo rajonas",
+      "zh": "維什科夫縣",
+      "fa": "شهرستان ویشکوف",
+      "ccp": "𑄞𑄨𑄌𑄴𑄇𑄧𑄛𑄴",
+      "es": "Distrito de Vyškov",
+      "uk": "Вишков"
+    },
+    "comments": null
   },
   "647": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة زنويمو",
       "be": "Раён Знойма",
@@ -2653,7 +4259,7 @@
       "ca": "Districte de Znojmo",
       "cs": "okres Znojmo",
       "de": "Okres Znojmo",
-      "en": "Znojmo²",
+      "en": "Znojmo",
       "fr": "District de Znojmo",
       "hu": "Znojmói járás",
       "hy": "Զնոյմոյի շրջան",
@@ -2668,10 +4274,32 @@
       "sr": "Округ Знојмо",
       "sv": "Okres Znojmo",
       "ur": "زنویمو ضلع",
-      "vi": "Znojmo"
-    }
+      "vi": "Znojmo",
+      "ceb": "Okres Znojmo",
+      "tr": "Znojmo ilçesi",
+      "sr_Latn": "Okrug Znojmo",
+      "lt": "Znoimo rajonas",
+      "zh": "茲諾伊莫縣",
+      "fa": "شهرستان زنویمو",
+      "ccp": "𑄚𑄧𑄌𑄴𑄟𑄮",
+      "es": "Distrito de Znojmo",
+      "eu": "Znojmoko barrutia",
+      "uk": "Зноймо"
+    },
+    "comments": null
   },
   "711": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة يسينيك",
       "bg": "Есеник",
@@ -2696,10 +4324,31 @@
       "sr": "Округ Јесењик",
       "sv": "Jeseník",
       "ur": "یسنک ضلع",
-      "vi": "Jeseník"
-    }
+      "vi": "Jeseník",
+      "ceb": "Okres Jeseník",
+      "tr": "Jeseník ilçesi",
+      "sr_Latn": "Okrug Jesenjik",
+      "zh": "耶塞尼克縣",
+      "fa": "شهرستان یسنیک",
+      "ccp": "𑄎𑄬𑄥𑄬𑄚𑄨𑄇𑄴",
+      "es": "Distrito de Jeseník",
+      "eu": "Jeseníkeko barrutia",
+      "uk": "Єсенік"
+    },
+    "comments": null
   },
   "712": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أولوموتس",
       "bg": "Оломоуц",
@@ -2724,10 +4373,32 @@
       "sr": "Округ Оломоуц",
       "sv": "Olomouc²",
       "ur": "اولوموک ضلع",
-      "vi": "Olomouc²"
-    }
+      "vi": "Olomouc²",
+      "ceb": "Okres Olomouc",
+      "tr": "Olomouc ilçesi",
+      "sr_Latn": "Okrug Olomouc",
+      "zh": "奧洛莫烏茨縣",
+      "fa": "شهرستان اولوموتس",
+      "ccp": "𑄃𑄧𑄣𑄮𑄟𑄅𑄪𑄇𑄴",
+      "es": "Distrito de Olomouc",
+      "eu": "Olomouceko barrutia",
+      "uk": "Оломоуц",
+      "be": "Оламаўц"
+    },
+    "comments": null
   },
   "713": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بروستيوف",
       "bg": "Простейов",
@@ -2753,10 +4424,32 @@
       "sr": "Округ Простјејов",
       "sv": "Prostějov",
       "ur": "پروستیو ضلع",
-      "vi": "Prostějov"
-    }
+      "vi": "Prostějov",
+      "ceb": "Okres Prostějov",
+      "tr": "Prostějov ilçesi",
+      "sr_Latn": "Okrug Prostjejov",
+      "zh": "普羅斯捷約夫縣",
+      "fa": "شهرستان پروستییوف",
+      "ja": "プロスチェヨフ郡",
+      "ccp": "𑄛𑄳𑄢𑄮𑄌𑄴𑄑𑄬𑄎𑄮𑄛𑄴",
+      "eu": "Prostějoveko barrutia",
+      "uk": "Простейов",
+      "be": "Просцеёў"
+    },
+    "comments": null
   },
   "714": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة برشيروف",
       "be": "раён Пршэраў",
@@ -2783,10 +4476,30 @@
       "sr": "Округ Преров",
       "sv": "Přerov",
       "ur": "پژیرو ضلع",
-      "vi": "Přerov"
-    }
+      "vi": "Přerov",
+      "ceb": "Okres Přerov",
+      "tr": "Přerov ilçesi",
+      "sr_Latn": "Okrug Prerov",
+      "zh": "普熱羅夫縣",
+      "fa": "شهرستان پرژروف",
+      "ccp": "𑄛𑄳𑄢𑄬𑄢𑄧𑄛𑄴",
+      "es": "Distrito de Přerov",
+      "uk": "Пршеров"
+    },
+    "comments": null
   },
   "715": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة شومبيرك",
       "bg": "Шумперк",
@@ -2810,10 +4523,31 @@
       "sr": "Шумперски округ",
       "sv": "Šumperk",
       "ur": "شومپرک ضلع",
-      "vi": "Šumperk"
-    }
+      "vi": "Šumperk",
+      "ceb": "Okres Šumperk",
+      "tr": "Šumperk İlçesi",
+      "sr_Latn": "Šumperski okrug",
+      "zh": "順佩爾克縣",
+      "fa": "شهرستان شومپرک",
+      "ccp": "𑄥𑄟𑄴𑄛𑄢𑄳𑄇𑄴",
+      "es": "Distrito de Šumperk",
+      "pt": "Šumperk (distrito)",
+      "uk": "Шумперк"
+    },
+    "comments": null
   },
   "721": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كروميشريش",
       "bg": "Кромержиж (окръг)",
@@ -2839,10 +4573,32 @@
       "sv": "Okres Kroměříž",
       "uk": "Кромержиж (округ)",
       "ur": "کرومیرشیزش ضلع",
-      "vi": "Kroměříž"
-    }
+      "vi": "Kroměříž",
+      "ceb": "Okres Kroměříž",
+      "tr": "Kroměříž ilçesi",
+      "sr_Latn": "Okrug Kromjeržiž",
+      "lt": "Kromeržyžo rajonas",
+      "zh": "克羅梅日什縣",
+      "fa": "شهرستان کرومیه‌رژیژ",
+      "ccp": "𑄇𑄳𑄢𑄮𑄟𑄢𑄨𑄌𑄴",
+      "es": "Distrito de Kroměříž",
+      "eu": "Kroměřížko barrutia",
+      "be": "Кромержыж"
+    },
+    "comments": null
   },
   "722": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أوهرسكه هراديشتيه",
       "bg": "Ухерске Храдище",
@@ -2866,10 +4622,32 @@
       "sr": "Округ Ухерско Храдиште",
       "sv": "Okres Uherské Hradiště",
       "ur": "اوہیرسکے ہاردیشتے ضلع",
-      "vi": "Uherské Hradiště"
-    }
+      "vi": "Uherské Hradiště",
+      "ceb": "Okres Uherské Hradiště",
+      "tr": "Uherské Hradiště ilçesi",
+      "sr_Latn": "Okrug Uhersko Hradište",
+      "lt": "Uherske Hradištės rajonas",
+      "zh": "烏赫爾堡縣",
+      "fa": "ناحیه اوهرسکه هرادیشتی",
+      "ccp": "𑄅𑄪𑄦𑄬𑄢𑄴𑄇𑄬 𑄦𑄳𑄢𑄓𑄨𑄌𑄴𑄑𑄬",
+      "es": "Distrito de Uherské Hradiště",
+      "eu": "Uherské Hradištěko barrutia",
+      "uk": "Угерске Градіште"
+    },
+    "comments": null
   },
   "723": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فسيتين",
       "be": "раён Усецін",
@@ -2895,10 +4673,30 @@
       "sv": "Okres Vsetín",
       "uk": "Всетін",
       "ur": "وسیتین ضلع",
-      "vi": "Vsetín"
-    }
+      "vi": "Vsetín",
+      "ceb": "Okres Vsetín",
+      "tr": "Vsetín ilçesi",
+      "sr_Latn": "Okrug Vsetin",
+      "lt": "Vsetyno rajonas",
+      "zh": "弗塞廷縣",
+      "fa": "شهرستان وستین",
+      "ccp": "𑄞𑄨𑄥𑄬𑄑𑄨𑄚𑄴",
+      "es": "Distrito de Vsetín"
+    },
+    "comments": null
   },
   "724": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة زلين",
       "be": "Злін",
@@ -2923,10 +4721,33 @@
       "sr": "Округ Злин",
       "sv": "Okres Zlín",
       "ur": "زلین ضلع",
-      "vi": "Zlín²"
-    }
+      "vi": "Zlín²",
+      "ceb": "Okres Zlín",
+      "tr": "Zlín ilçesi",
+      "sr_Latn": "Okrug Zlin",
+      "lt": "Zlyno rajonas",
+      "zh": "茲林縣",
+      "fa": "شهرستان زلین",
+      "ja": "ズリン",
+      "ccp": "𑄎𑄳𑄣𑄨𑄚𑄴",
+      "es": "Distrito de Zlín",
+      "ro": "Districtul Zlín",
+      "uk": "Злін"
+    },
+    "comments": null
   },
   "801": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة برونتال",
       "bg": "Брунтал",
@@ -2950,10 +4771,30 @@
       "sr": "Округ Брунтал",
       "sv": "Bruntál (distrikt)",
       "ur": "بروتال ضلع",
-      "vi": "Bruntál"
-    }
+      "vi": "Bruntál",
+      "ceb": "Okres Bruntál",
+      "sr_Latn": "Okrug Bruntal",
+      "zh": "布倫塔爾縣",
+      "fa": "شهرستان برونتال",
+      "ccp": "𑄝𑄳𑄢𑄪𑄚𑄴𑄑𑄣𑄴",
+      "es": "Distrito de Bruntál",
+      "eu": "Bruntálgo barrutia",
+      "uk": "Округ Брунталь"
+    },
+    "comments": null
   },
   "802": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فريدك-ميستك",
       "bg": "Фридек-Мистек",
@@ -2979,10 +4820,31 @@
       "sr": "Округ Фридек-Мистек",
       "sv": "Frýdek-Místek",
       "ur": "فریدک-میستک ضلع",
-      "vi": "Frýdek-Místek"
-    }
+      "vi": "Frýdek-Místek",
+      "ceb": "Okres Frýdek-Místek",
+      "tr": "Frýdek-Místek ilçesi",
+      "sr_Latn": "Okrug Fridek-Mistek",
+      "zh": "弗里代克-米斯泰克縣",
+      "fa": "شهرستان فریدک-میستک",
+      "ccp": "𑄜𑄳𑄢𑄭𑄓𑄬𑄇𑄴-𑄟𑄨𑄌𑄴𑄑𑄬𑄇𑄴",
+      "ro": "Okresul Frýdek-Místek",
+      "eu": "Frýdek-Místekeko barrutia",
+      "uk": "Фридек-Містек"
+    },
+    "comments": null
   },
   "803": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة كارفينا",
       "be": "раён Карвіна",
@@ -3007,10 +4869,31 @@
       "sr": "Округ Карвина",
       "sv": "Karviná",
       "ur": "کاروینا ضلع",
-      "vi": "Karviná"
-    }
+      "vi": "Karviná",
+      "ceb": "Okres Karviná",
+      "tr": "Karviná ilçesi",
+      "sr_Latn": "Okrug Karvina",
+      "zh": "卡爾維納縣",
+      "fa": "شهرستان کاروینا",
+      "ccp": "𑄇𑄢𑄴𑄞𑄨𑄚",
+      "es": "Distrito de Karviná",
+      "eu": "Karvináko barrutia",
+      "uk": "Карвіна"
+    },
+    "comments": null
   },
   "804": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة نوفي يتشين",
       "be": "Новы-Йічын",
@@ -3036,10 +4919,31 @@
       "sr": "Округ Нови Јичин",
       "sv": "Nový Jičín",
       "ur": "نووی جیچن ضلع",
-      "vi": "Nový Jičín"
-    }
+      "vi": "Nový Jičín",
+      "ceb": "Okres Nový Jičín",
+      "tr": "Nový Jičín ilçesi",
+      "sr_Latn": "Okrug Novi Jičin",
+      "zh": "新伊欽縣",
+      "fa": "شهرستان نووی ییچین",
+      "ccp": "𑄚𑄮𑄞𑄨 𑄎𑄨𑄌𑄨𑄚𑄴",
+      "es": "Distrito de Nový Jičín",
+      "eu": "Nový Jičíngo barrutia",
+      "uk": "Новий Їчин"
+    },
+    "comments": null
   },
   "805": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أوبافا",
       "bg": "Опава",
@@ -3065,10 +4969,31 @@
       "sr": "Округ Опава",
       "sv": "Opava",
       "ur": "اوپاوا ضلع",
-      "vi": "Opava"
-    }
+      "vi": "Opava",
+      "ceb": "Okres Opava",
+      "tr": "Opava ilçesi",
+      "sr_Latn": "Okrug Opava",
+      "zh": "奧帕瓦縣",
+      "fa": "شهرستان اوپاوا",
+      "ccp": "𑄃𑄧𑄛𑄞",
+      "es": "Distrito de Opava",
+      "uk": "Опава",
+      "be": "раён Опава"
+    },
+    "comments": null
   },
   "806": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة أوسترافا-المدينة",
       "bg": "Острава-град",
@@ -3091,10 +5016,30 @@
       "sr": "Округ Острава-град",
       "sv": "Ostravas stadsdistrikt",
       "ur": "اوستراوا-شہر ضلع",
-      "vi": "Ostrava"
-    }
+      "vi": "Ostrava",
+      "ceb": "Okres Ostrava-Město",
+      "sr_Latn": "Okrug Ostrava-grad",
+      "zh": "俄斯特拉發城縣",
+      "fa": "شهرستان استراوا-میستو",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄞",
+      "es": "Distrito de Ostrava",
+      "uk": "Острава-місто",
+      "be": "Острава-горад"
+    },
+    "comments": null
   },
   "101": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Прага 1",
       "cs": "Praha 1",
@@ -3111,10 +5056,24 @@
       "sk": "Praha 1",
       "sv": "Praha 1",
       "uk": "Прага 1",
-      "ur": "پراگ 1"
-    }
+      "ur": "پراگ 1",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷",
+      "fr": "Prague 1"
+    },
+    "comments": null
   },
   "102": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Прага 2",
       "cs": "Praha 2",
@@ -3131,10 +5090,24 @@
       "sk": "Praha 2",
       "sv": "Praha 2",
       "uk": "Прага 2",
-      "ur": "پراگ 2"
-    }
+      "ur": "پراگ 2",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄸",
+      "he": "פראג 2"
+    },
+    "comments": null
   },
   "103": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "be": "Прага 3",
       "cs": "Praha 3",
@@ -3148,10 +5121,23 @@
       "ru": "Прага 3",
       "sk": "Praha 3",
       "sv": "Praha 3",
-      "ur": "پراگ 3"
-    }
+      "ur": "پراگ 3",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄹"
+    },
+    "comments": null
   },
   "113": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ca": "Praga 13",
       "cs": "Praha 13",
@@ -3166,10 +5152,23 @@
       "pt": "Praga 13",
       "sk": "Praha 13",
       "sv": "Praha 13",
-      "ur": "پراگ 13"
-    }
+      "ur": "پراگ 13",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄹"
+    },
+    "comments": null
   },
   "104": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 4",
       "de": "Prag 4",
@@ -3184,10 +5183,23 @@
       "ru": "Прага 4",
       "sk": "Praha 4",
       "sv": "Praha 4",
-      "ur": "پراگ 4"
-    }
+      "ur": "پراگ 4",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄺"
+    },
+    "comments": null
   },
   "105": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 5",
       "de": "Prag 5",
@@ -3201,10 +5213,23 @@
       "ru": "Прага 5",
       "sk": "Praha 5",
       "sv": "Praha 5",
-      "ur": "پراگ 5"
-    }
+      "ur": "پراگ 5",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄻"
+    },
+    "comments": null
   },
   "106": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 6",
       "de": "Prag 6",
@@ -3219,10 +5244,23 @@
       "sk": "Praha 6",
       "sv": "Praha 6",
       "uk": "Прага 6",
-      "ur": "پراگ 6"
-    }
+      "ur": "پراگ 6",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄼"
+    },
+    "comments": null
   },
   "107": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 7",
       "de": "Prag 7",
@@ -3237,10 +5275,23 @@
       "sk": "Praha 7",
       "sv": "Praha 7",
       "ur": "پراگ 7",
-      "zh": "布拉格第七區"
-    }
+      "zh": "布拉格第七區",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄽"
+    },
+    "comments": null
   },
   "108": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 8",
       "de": "Prag 8",
@@ -3254,10 +5305,23 @@
       "ru": "Прага 8",
       "sk": "Praha 8",
       "sv": "Praha 8",
-      "ur": "پراگ 8"
-    }
+      "ur": "پراگ 8",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄾"
+    },
+    "comments": null
   },
   "109": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 9",
       "de": "Prag 9",
@@ -3271,14 +5335,27 @@
       "ru": "Прага-9",
       "sk": "Praha 9",
       "sv": "Praha 9",
-      "ur": "پراگ 9"
-    }
+      "ur": "پراگ 9",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄿"
+    },
+    "comments": null
   },
   "110": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 10",
       "de": "Prag 10",
-      "en": "Prague 10²",
+      "en": "Prague 10",
       "es": "Praga 10",
       "fa": "پراگه ۱۰",
       "hu": "Prága 10",
@@ -3288,52 +5365,104 @@
       "pl": "Praga 10",
       "sk": "Praha 10",
       "sv": "Praha 10",
-      "ur": "پراگ 10"
-    }
+      "ur": "پراگ 10",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄶"
+    },
+    "comments": null
   },
   "111": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 11",
       "de": "Prag 11",
-      "en": "Prague 11²",
+      "en": "Prague 11",
       "fa": "پراگه ۱۱",
       "hy": "Պրահա 11",
       "nl": "Praag 11",
       "pl": "Praga 11",
       "sk": "Praha 11",
       "sv": "Praha 11",
-      "ur": "پراگ 11"
-    }
+      "ur": "پراگ 11",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄷"
+    },
+    "comments": null
   },
   "112": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 12",
       "de": "Prag 12",
-      "en": "Prague 12²",
+      "en": "Prague 12",
       "fa": "پراگه ۱۲",
       "hy": "Պրահա 12",
       "nl": "Praag 12",
       "pl": "Praga 12",
       "sk": "Praha 12",
       "sv": "Praha 12",
-      "ur": "پراگ 12"
-    }
+      "ur": "پراگ 12",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄸"
+    },
+    "comments": null
   },
   "114": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 14",
       "de": "Prag 14",
-      "en": "Prague 14²",
+      "en": "Prague 14",
       "fa": "پراگه ۱۴",
       "hy": "Պրահա 14",
       "nl": "Praag 14",
       "pl": "Praga 14",
       "sk": "Praha 14",
       "sv": "Praha 14",
-      "ur": "پراگ 14"
-    }
+      "ur": "پراگ 14",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄺"
+    },
+    "comments": null
   },
   "115": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 15",
       "de": "Prag 15",
@@ -3345,10 +5474,23 @@
       "sk": "Praha 15",
       "sv": "Praha 15",
       "ur": "پراگ 15",
-      "zh": "布拉格15区"
-    }
+      "zh": "布拉格15区",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄻"
+    },
+    "comments": null
   },
   "116": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Radotín",
       "de": "Prag 16",
@@ -3360,10 +5502,23 @@
       "nl": "Praag 16-Radotín",
       "pl": "Praga 16",
       "sk": "Radotín",
-      "sv": "Praha 16"
-    }
+      "sv": "Praha 16",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄼"
+    },
+    "comments": null
   },
   "117": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 17",
       "en": "Prague 17",
@@ -3371,10 +5526,23 @@
       "nl": "Praag 17",
       "pl": "Praga 17",
       "sk": "Praha 17",
-      "sv": "Praha 17"
-    }
+      "sv": "Praha 17",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄽"
+    },
+    "comments": null
   },
   "118": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 18",
       "en": "Prague 18",
@@ -3382,29 +5550,72 @@
       "nl": "Praag 18",
       "pl": "Praga 18",
       "sk": "Praha 18",
-      "sv": "Praha 18"
-    }
+      "sv": "Praha 18",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄾"
+    },
+    "comments": null
   },
   "119": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 19",
       "de": "Prag 19",
       "en": "Prague 19",
       "pl": "Praga 19",
       "sk": "Praha 19",
-      "sv": "Kbely"
-    }
+      "sv": "Kbely",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄷𑄿"
+    },
+    "comments": null
   },
   "120": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Horní Počernice",
       "de": "Prag 20",
       "en": "Prague 20",
       "pl": "Praga 20",
-      "sv": "Horní Počernice"
-    }
+      "sv": "Horní Počernice",
+      "nl": "Praag 20",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄸𑄶",
+      "fr": "Horní Počernice",
+      "hy": "Պրահա 20",
+      "sk": "Horní Počernice"
+    },
+    "comments": null
   },
   "121": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Újezd nad Lesy",
       "de": "Prag 21",
@@ -3416,10 +5627,23 @@
       "pl": "Praga 21",
       "ru": "Прага 21",
       "sk": "Újezd nad Lesy",
-      "sv": "Praha 21"
-    }
+      "sv": "Praha 21",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄸𑄷"
+    },
+    "comments": null
   },
   "122": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "cs": "Praha 22",
       "de": "Prag 22",
@@ -3429,98 +5653,334 @@
       "nl": "Praag 22",
       "pl": "Praga 22",
       "sk": "Praha 22",
-      "sv": "Praha 22"
-    }
+      "sv": "Praha 22",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬-𑄸𑄸"
+    },
+    "comments": null
   },
   "10A": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 10"
-    }
+      "en": "Prague 10",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄶"
+    },
+    "comments": null
   },
   "10B": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 11"
-    }
+      "en": "Prague 11",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄷"
+    },
+    "comments": null
   },
   "10C": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 12"
-    }
+      "en": "Prague 12",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄸"
+    },
+    "comments": null
   },
   "10D": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 13²"
-    }
+      "en": "Prague 13²",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄹"
+    },
+    "comments": null
   },
   "10E": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 14"
-    }
+      "en": "Prague 14",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄺"
+    },
+    "comments": null
   },
   "10F": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Prague 15²"
-    }
+      "en": "Prague 15²",
+      "ccp": "𑄛𑄳𑄢𑄉𑄪𑄠𑄬 𑄷𑄻"
+    },
+    "comments": null
   },
   "611": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Havlíčkův Brod"
-    }
+      "en": "Havlíčkův Brod",
+      "ccp": "𑄦𑄛𑄴𑄣𑄨𑄇𑄴𑄇𑄪𑄛𑄴 𑄝𑄳𑄢𑄮𑄖𑄴"
+    },
+    "comments": null
   },
   "612": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Jihlava²"
-    }
+      "en": "Jihlava²",
+      "ccp": "𑄎𑄨𑄦𑄴𑄣𑄛𑄴"
+    },
+    "comments": null
   },
   "613": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Pelhřimov²"
-    }
+      "en": "Pelhřimov²",
+      "ccp": "𑄛𑄬𑄘𑄦𑄳𑄢𑄨𑄟𑄮𑄛𑄴"
+    },
+    "comments": null
   },
   "614": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Třebíč"
-    }
+      "en": "Třebíč",
+      "ccp": "𑄑𑄳𑄢𑄬𑄝𑄨𑄇𑄴"
+    },
+    "comments": null
   },
   "615": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Žďár nad Sázavou"
-    }
+      "en": "Žďár nad Sázavou",
+      "ccp": "𑄓𑄢𑄴 𑄚𑄖𑄴 𑄥𑄎𑄞𑄮𑄅𑄪"
+    },
+    "comments": null
   },
   "621": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Blansko"
-    }
+      "en": "Blansko",
+      "ccp": "𑄝𑄳𑄣𑄚𑄴𑄇𑄮"
+    },
+    "comments": null
   },
   "622": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Brno"
-    }
+      "en": "Brno",
+      "ccp": "𑄝𑄳𑄢𑄚𑄮"
+    },
+    "comments": null
   },
   "623": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Brno-venkov"
-    }
+      "en": "Brno-venkov",
+      "ccp": "𑄝𑄳𑄢𑄚𑄮-𑄞𑄬𑄚𑄴𑄇𑄮𑄛𑄴"
+    },
+    "comments": null
   },
   "624": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Břeclav"
-    }
+      "en": "Břeclav",
+      "ccp": "𑄝𑄳𑄢𑄬𑄇𑄳𑄣𑄛𑄴"
+    },
+    "comments": null
   },
   "625": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Hodonín²"
-    }
+      "en": "Hodonín²",
+      "ccp": "𑄦𑄮𑄓𑄮𑄚𑄨𑄚𑄴"
+    },
+    "comments": null
   },
   "626": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Vyškov²"
-    }
+      "en": "Vyškov²",
+      "ccp": "𑄞𑄨𑄌𑄴𑄇𑄮𑄛𑄴"
+    },
+    "comments": null
   },
   "627": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Znojmo"
-    }
+      "en": "Znojmo",
+      "ccp": "𑄚𑄮𑄌𑄴𑄟𑄮"
+    },
+    "comments": null
   }
 }
 

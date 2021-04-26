@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Attard",
+    "code": null,
     "unofficial_names": "Attard",
+    "geo": {
+      "latitude": 35.892778,
+      "longitude": 14.438333,
+      "min_latitude": 35.8811399,
+      "min_longitude": 14.4089986,
+      "max_latitude": 35.9019827,
+      "max_longitude": 14.4581044
+    },
     "translations": {
       "en": "Attard",
       "ar": "عطار",
@@ -42,20 +52,25 @@
       "uk": "Аттард",
       "ur": "آتار",
       "vi": "Attard",
-      "zh": "阿塔爾德"
+      "zh": "阿塔爾德",
+      "lv": "Atarda",
+      "ceb": "Attard",
+      "ccp": "𑄃𑄑𑄳𑄦𑄢𑄴𑄓𑄴"
     },
-    "geo": {
-      "latitude": 35.892778,
-      "longitude": 14.438333,
-      "min_latitude": 35.8811399,
-      "min_longitude": 14.4089986,
-      "max_latitude": 35.9019827,
-      "max_longitude": 14.4581044
-    },
-    "name": "Attard"
+    "comments": null
   },
   "02": {
+    "name": "Balzan",
+    "code": null,
     "unofficial_names": "Balzan",
+    "geo": {
+      "latitude": 35.898056,
+      "longitude": 14.453333,
+      "min_latitude": 35.8928049,
+      "min_longitude": 14.446206,
+      "max_latitude": 35.9019305,
+      "max_longitude": 14.4573748
+    },
     "translations": {
       "en": "Balzan",
       "ar": "بالزان",
@@ -94,20 +109,26 @@
       "tr": "Balzan",
       "ur": "بالزان",
       "vi": "Balzan",
-      "zh": "巴尔灿"
+      "zh": "巴尔灿",
+      "lv": "Balzana",
+      "ceb": "Balzan",
+      "ccp": "𑄝𑄧𑄣𑄴𑄎𑄚𑄴",
+      "uk": "Бальцан"
     },
-    "geo": {
-      "latitude": 35.898056,
-      "longitude": 14.453333,
-      "min_latitude": 35.8928049,
-      "min_longitude": 14.446206,
-      "max_latitude": 35.9019305,
-      "max_longitude": 14.4573748
-    },
-    "name": "Balzan"
+    "comments": null
   },
   "03": {
+    "name": "Birgu",
+    "code": null,
     "unofficial_names": "Birgu",
+    "geo": {
+      "latitude": 35.888056,
+      "longitude": 14.5225,
+      "min_latitude": 35.8854689,
+      "min_longitude": 14.5167589,
+      "max_latitude": 35.893023,
+      "max_longitude": 14.5255729
+    },
     "translations": {
       "en": "Birgu",
       "ar": "بيرجو",
@@ -149,20 +170,28 @@
       "uk": "Біргу",
       "ur": "بیرگو",
       "vi": "Birgu",
-      "zh": "比尔古"
+      "zh": "比尔古",
+      "lv": "Birgu",
+      "ceb": "Vittoriosa",
+      "sr_Latn": "Birgu",
+      "ccp": "𑄝𑄨𑄢𑄴𑄉𑄪",
+      "be": "Біргу",
+      "mk": "Биргу"
     },
-    "geo": {
-      "latitude": 35.888056,
-      "longitude": 14.5225,
-      "min_latitude": 35.8854689,
-      "min_longitude": 14.5167589,
-      "max_latitude": 35.893023,
-      "max_longitude": 14.5255729
-    },
-    "name": "Birgu"
+    "comments": null
   },
   "04": {
+    "name": "Birkirkara",
+    "code": null,
     "unofficial_names": "Birkirkara",
+    "geo": {
+      "latitude": 35.896667,
+      "longitude": 14.4625,
+      "min_latitude": 35.8868336,
+      "min_longitude": 14.4523215,
+      "max_latitude": 35.9046029,
+      "max_longitude": 14.478339
+    },
     "translations": {
       "en": "Birkirkara",
       "af": "Birkirkara",
@@ -213,20 +242,28 @@
       "uk": "Біркіркара",
       "ur": "بیرکیرکارا",
       "vi": "Birkirkara",
-      "zh": "比爾基卡拉"
+      "zh": "比爾基卡拉",
+      "lv": "Birkirkara",
+      "ceb": "Birkirkara (munisipyo)",
+      "sr_Latn": "Birkirkara",
+      "sq": "Birkirkara",
+      "ccp": "𑄝𑄨𑄢𑄴𑄇𑄨𑄢𑄴𑄇𑄢",
+      "ga": "Birkirkara"
     },
-    "geo": {
-      "latitude": 35.896667,
-      "longitude": 14.4625,
-      "min_latitude": 35.8868336,
-      "min_longitude": 14.4523215,
-      "max_latitude": 35.9046029,
-      "max_longitude": 14.478339
-    },
-    "name": "Birkirkara"
+    "comments": null
   },
   "05": {
+    "name": "Birżebbuġa",
+    "code": null,
     "unofficial_names": "Birżebbuġa",
+    "geo": {
+      "latitude": 35.825556,
+      "longitude": 14.528056,
+      "min_latitude": 35.805982,
+      "min_longitude": 14.4982777,
+      "max_latitude": 35.8415418,
+      "max_longitude": 14.5496687
+    },
     "translations": {
       "en": "Birżebbuġa",
       "ar": "بئر زيوجة",
@@ -267,20 +304,25 @@
       "uk": "Бірзеббуджа",
       "ur": "بیرزیبوجا",
       "vi": "Birzebbuga",
-      "zh": "比尔泽布贾"
+      "zh": "比尔泽布贾",
+      "lv": "Birzebudžia",
+      "ceb": "Birżebbuġa (munisipyo)",
+      "ccp": "𑄝𑄨𑄢𑄴𑄎𑄬𑄛𑄴𑄝𑄪𑄉"
     },
-    "geo": {
-      "latitude": 35.825556,
-      "longitude": 14.528056,
-      "min_latitude": 35.805982,
-      "min_longitude": 14.4982777,
-      "max_latitude": 35.8415418,
-      "max_longitude": 14.5496687
-    },
-    "name": "Birżebbuġa"
+    "comments": null
   },
   "06": {
+    "name": "Bormla",
+    "code": null,
     "unofficial_names": "Bormla",
+    "geo": {
+      "latitude": 35.882222,
+      "longitude": 14.522222,
+      "min_latitude": 35.8754636,
+      "min_longitude": 14.5123392,
+      "max_latitude": 35.8860872,
+      "max_longitude": 14.5293837
+    },
     "translations": {
       "en": "Cospicua",
       "ar": "كوسبيكو",
@@ -321,20 +363,26 @@
       "uk": "Бормла",
       "ur": "کوسپیکوا",
       "vi": "Cospicua",
-      "zh": "科斯皮夸"
+      "zh": "科斯皮夸",
+      "lv": "Bormla",
+      "ceb": "Bormla",
+      "sr_Latn": "Bormla",
+      "ccp": "𑄇𑄧𑄌𑄴𑄛𑄨𑄇𑄱"
     },
-    "geo": {
-      "latitude": 35.882222,
-      "longitude": 14.522222,
-      "min_latitude": 35.8754636,
-      "min_longitude": 14.5123392,
-      "max_latitude": 35.8860872,
-      "max_longitude": 14.5293837
-    },
-    "name": "Bormla"
+    "comments": null
   },
   "07": {
+    "name": "Dingli",
+    "code": null,
     "unofficial_names": "Dingli",
+    "geo": {
+      "latitude": 35.860278,
+      "longitude": 14.381389,
+      "min_latitude": 35.8459337,
+      "min_longitude": 14.3598641,
+      "max_latitude": 35.8726379,
+      "max_longitude": 14.3980764
+    },
     "translations": {
       "en": "Dingli",
       "ar": "دينغلي",
@@ -374,20 +422,26 @@
       "tr": "Dingli",
       "ur": "دینگلی",
       "vi": "Dingli",
-      "zh": "丁利"
+      "zh": "丁利",
+      "lv": "Dingli",
+      "ceb": "Dingli",
+      "ccp": "𑄓𑄨𑄁𑄣𑄨",
+      "uk": "Дінглі"
     },
-    "geo": {
-      "latitude": 35.860278,
-      "longitude": 14.381389,
-      "min_latitude": 35.8459337,
-      "min_longitude": 14.3598641,
-      "max_latitude": 35.8726379,
-      "max_longitude": 14.3980764
-    },
-    "name": "Dingli"
+    "comments": null
   },
   "08": {
+    "name": "Fgura",
+    "code": null,
     "unofficial_names": "Fgura",
+    "geo": {
+      "latitude": 35.8725,
+      "longitude": 14.522778,
+      "min_latitude": 35.86677390000001,
+      "min_longitude": 14.5115118,
+      "max_latitude": 35.8788395,
+      "max_longitude": 14.5309181
+    },
     "translations": {
       "en": "Fgura",
       "af": "Fgura",
@@ -435,20 +489,28 @@
       "tr": "Fgura",
       "ur": "فگورا",
       "vi": "Fgura",
-      "zh": "弗古拉"
+      "zh": "弗古拉",
+      "cy": "Fgura",
+      "ceb": "Il-Fgura",
+      "sq": "Fgura",
+      "ccp": "𑄉𑄪𑄢",
+      "uk": "Фгура",
+      "bs": "Fgura"
     },
-    "geo": {
-      "latitude": 35.8725,
-      "longitude": 14.522778,
-      "min_latitude": 35.86677390000001,
-      "min_longitude": 14.5115118,
-      "max_latitude": 35.8788395,
-      "max_longitude": 14.5309181
-    },
-    "name": "Fgura"
+    "comments": null
   },
   "09": {
+    "name": "Floriana",
+    "code": null,
     "unofficial_names": "Floriana",
+    "geo": {
+      "latitude": 35.893333,
+      "longitude": 14.505833,
+      "min_latitude": 35.8848454,
+      "min_longitude": 14.4969012,
+      "max_latitude": 35.8990215,
+      "max_longitude": 14.5127249
+    },
     "translations": {
       "en": "Floriana",
       "ar": "فلوريانا",
@@ -487,20 +549,26 @@
       "tr": "Floriana",
       "uk": "Флоріана",
       "ur": "فلوریانا",
-      "vi": "Floriana"
+      "vi": "Floriana",
+      "lv": "Floriana",
+      "ceb": "Floriana (kapital sa rehiyon sa Malta)",
+      "zh": "弗罗瑞安娜",
+      "ccp": "𑄜𑄳𑄣𑄮𑄢𑄨𑄠𑄚"
     },
-    "geo": {
-      "latitude": 35.893333,
-      "longitude": 14.505833,
-      "min_latitude": 35.8848454,
-      "min_longitude": 14.4969012,
-      "max_latitude": 35.8990215,
-      "max_longitude": 14.5127249
-    },
-    "name": "Floriana"
+    "comments": null
   },
   "10": {
+    "name": "Fontana",
+    "code": null,
     "unofficial_names": "Fontana",
+    "geo": {
+      "latitude": 36.0369053,
+      "longitude": 14.2352339,
+      "min_latitude": 36.0320243,
+      "min_longitude": 14.2321153,
+      "max_latitude": 36.041569,
+      "max_longitude": 14.2396141
+    },
     "translations": {
       "en": "Fontana",
       "ar": "فونتانا",
@@ -536,20 +604,27 @@
       "tr": "Fontana",
       "ur": "فونتانا، گوزو",
       "vi": "Fontana",
-      "zh": "丰塔纳"
+      "zh": "丰塔纳",
+      "lv": "Fontana",
+      "ceb": "Il-Fontana",
+      "ccp": "𑄜𑄧𑄚𑄴𑄑𑄚",
+      "eu": "Fontana",
+      "uk": "Фонтана"
     },
-    "geo": {
-      "latitude": 36.0369053,
-      "longitude": 14.2352339,
-      "min_latitude": 36.0320243,
-      "min_longitude": 14.2321153,
-      "max_latitude": 36.041569,
-      "max_longitude": 14.2396141
-    },
-    "name": "Fontana"
+    "comments": null
   },
   "11": {
+    "name": "Gudja",
+    "code": null,
     "unofficial_names": "Gudja",
+    "geo": {
+      "latitude": 35.848333,
+      "longitude": 14.5025,
+      "min_latitude": 35.8400268,
+      "min_longitude": 14.4975471,
+      "max_latitude": 35.8527146,
+      "max_longitude": 14.5087492
+    },
     "translations": {
       "en": "Gudja",
       "ar": "غوديا",
@@ -586,20 +661,26 @@
       "tr": "Gudja",
       "ur": "گودیا",
       "vi": "Gudja",
-      "zh": "古迪亚"
+      "zh": "古迪亚",
+      "lv": "Gudža",
+      "ceb": "Il-Gudja",
+      "ccp": "𑄉𑄪𑄖𑄴𑄎",
+      "uk": "Гудья"
     },
-    "geo": {
-      "latitude": 35.848333,
-      "longitude": 14.5025,
-      "min_latitude": 35.8400268,
-      "min_longitude": 14.4975471,
-      "max_latitude": 35.8527146,
-      "max_longitude": 14.5087492
-    },
-    "name": "Gudja"
+    "comments": null
   },
   "12": {
+    "name": "Gżira",
+    "code": null,
     "unofficial_names": "Gżira",
+    "geo": {
+      "latitude": 35.905897,
+      "longitude": 14.4953338,
+      "min_latitude": 35.9004619,
+      "min_longitude": 14.4872762,
+      "max_latitude": 35.9097691,
+      "max_longitude": 14.5077289
+    },
     "translations": {
       "en": "Gżira",
       "ar": "غزيرا",
@@ -640,20 +721,25 @@
       "uk": "Гзіра",
       "ur": "گزیرہ",
       "vi": "Gzira",
-      "zh": "格齊拉"
+      "zh": "格齊拉",
+      "lv": "Gzira",
+      "ceb": "Il-Gżira (munisipyo)",
+      "ccp": "𑄎𑄨𑄢"
     },
-    "geo": {
-      "latitude": 35.905897,
-      "longitude": 14.4953338,
-      "min_latitude": 35.9004619,
-      "min_longitude": 14.4872762,
-      "max_latitude": 35.9097691,
-      "max_longitude": 14.5077289
-    },
-    "name": "Gżira"
+    "comments": null
   },
   "13": {
+    "name": "Għajnsielem",
+    "code": null,
     "unofficial_names": "Għajnsielem",
+    "geo": {
+      "latitude": 36.026944,
+      "longitude": 14.290278,
+      "min_latitude": 36.0038469,
+      "min_longitude": 14.2698563,
+      "max_latitude": 36.0345247,
+      "max_longitude": 14.3508895
+    },
     "translations": {
       "en": "Għajnsielem",
       "ar": "غوينزيلم",
@@ -694,20 +780,26 @@
       "uk": "Айнсілем",
       "ur": "اینسیلیم",
       "vi": "Ghajnsielem",
-      "zh": "艾因西莱姆"
+      "zh": "艾因西莱姆",
+      "lv": "Gadžnsīlema",
+      "ceb": "Għajnsielem",
+      "sr_Latn": "Gajnsijelem",
+      "ccp": "𑄊𑄖𑄴𑄥𑄨𑄣𑄬𑄟𑄴"
     },
-    "geo": {
-      "latitude": 36.026944,
-      "longitude": 14.290278,
-      "min_latitude": 36.0038469,
-      "min_longitude": 14.2698563,
-      "max_latitude": 36.0345247,
-      "max_longitude": 14.3508895
-    },
-    "name": "Għajnsielem"
+    "comments": null
   },
   "14": {
+    "name": "Għarb",
+    "code": null,
     "unofficial_names": "Għarb",
+    "geo": {
+      "latitude": 36.061111,
+      "longitude": 14.209167,
+      "min_latitude": 36.0545232,
+      "min_longitude": 14.1889269,
+      "max_latitude": 36.0797101,
+      "max_longitude": 14.2186459
+    },
     "translations": {
       "en": "Għarb",
       "ar": "غارب",
@@ -743,20 +835,27 @@
       "th": "การบ์",
       "tr": "Gharb",
       "ur": "ارب، مالٹا",
-      "vi": "Gharb"
+      "vi": "Gharb",
+      "lv": "Garba",
+      "ceb": "L-Għarb",
+      "zh": "阿尔卜",
+      "ccp": "𑄊𑄧𑄢𑄴𑄛𑄴",
+      "uk": "Арб"
     },
-    "geo": {
-      "latitude": 36.061111,
-      "longitude": 14.209167,
-      "min_latitude": 36.0545232,
-      "min_longitude": 14.1889269,
-      "max_latitude": 36.0797101,
-      "max_longitude": 14.2186459
-    },
-    "name": "Għarb"
+    "comments": null
   },
   "15": {
+    "name": "Għargħur",
+    "code": null,
     "unofficial_names": "Għargħur",
+    "geo": {
+      "latitude": 35.924069,
+      "longitude": 14.453372,
+      "min_latitude": 35.9124193,
+      "min_longitude": 14.4477832,
+      "max_latitude": 35.9329498,
+      "max_longitude": 14.4656788
+    },
     "translations": {
       "en": "Għargħur",
       "ar": "عرعور",
@@ -794,20 +893,26 @@
       "tr": "Gharghur",
       "ur": "ارور",
       "vi": "Gharghur",
-      "zh": "加尔古尔"
+      "zh": "加尔古尔",
+      "lv": "Gargura",
+      "ceb": "Ħal Għargħur",
+      "ccp": "𑄊𑄢𑄴𑄊𑄪𑄢𑄴",
+      "uk": "Гаргур"
     },
-    "geo": {
-      "latitude": 35.924069,
-      "longitude": 14.453372,
-      "min_latitude": 35.9124193,
-      "min_longitude": 14.4477832,
-      "max_latitude": 35.9329498,
-      "max_longitude": 14.4656788
-    },
-    "name": "Għargħur"
+    "comments": null
   },
   "16": {
+    "name": "Għasri",
+    "code": null,
     "unofficial_names": "Għasri",
+    "geo": {
+      "latitude": 36.058333,
+      "longitude": 14.227778,
+      "min_latitude": 36.0501052,
+      "min_longitude": 14.2091417,
+      "max_latitude": 36.0816734,
+      "max_longitude": 14.2382813
+    },
     "translations": {
       "en": "Għasri",
       "ar": "غاسري",
@@ -844,20 +949,27 @@
       "th": "กาซรี",
       "tr": "Ghasri",
       "ur": "اسری",
-      "vi": "Ghasri"
+      "vi": "Ghasri",
+      "lv": "Gasri",
+      "ceb": "L-Ghasri",
+      "zh": "加斯里",
+      "ccp": "𑄊𑄌𑄴𑄢𑄨",
+      "uk": "Асрі"
     },
-    "geo": {
-      "latitude": 36.058333,
-      "longitude": 14.227778,
-      "min_latitude": 36.0501052,
-      "min_longitude": 14.2091417,
-      "max_latitude": 36.0816734,
-      "max_longitude": 14.2382813
-    },
-    "name": "Għasri"
+    "comments": null
   },
   "17": {
+    "name": "Għaxaq",
+    "code": null,
     "unofficial_names": "Għaxaq",
+    "geo": {
+      "latitude": 35.848333,
+      "longitude": 14.517222,
+      "min_latitude": 35.8315472,
+      "min_longitude": 14.5022537,
+      "max_latitude": 35.8620777,
+      "max_longitude": 14.5271337
+    },
     "translations": {
       "en": "Għaxaq",
       "ar": "غاكساق",
@@ -894,20 +1006,26 @@
       "tr": "Ghaxaq",
       "ur": "اشآ",
       "vi": "Ghaxaq",
-      "zh": "阿沙格"
+      "zh": "阿沙格",
+      "lv": "Gašaka",
+      "ceb": "Ħal Għaxaq",
+      "ccp": "𑄊𑄇𑄴𑄥𑄪𑄇𑄴",
+      "uk": "Гашак"
     },
-    "geo": {
-      "latitude": 35.848333,
-      "longitude": 14.517222,
-      "min_latitude": 35.8315472,
-      "min_longitude": 14.5022537,
-      "max_latitude": 35.8620777,
-      "max_longitude": 14.5271337
-    },
-    "name": "Għaxaq"
+    "comments": null
   },
   "18": {
+    "name": "Ħamrun",
+    "code": null,
     "unofficial_names": "Ħamrun",
+    "geo": {
+      "latitude": 35.886111,
+      "longitude": 14.489444,
+      "min_latitude": 35.8812182,
+      "min_longitude": 14.4797015,
+      "max_latitude": 35.8924312,
+      "max_longitude": 14.5004296
+    },
     "translations": {
       "en": "Ħamrun",
       "ar": "حمرون",
@@ -948,20 +1066,25 @@
       "uk": "Хамрун",
       "ur": "حامرون",
       "vi": "Hamrun",
-      "zh": "哈姆倫 (馬耳他)"
+      "zh": "哈姆倫 (馬耳他)",
+      "lv": "Hamrūna",
+      "ceb": "Il-Ħamrun",
+      "ccp": "𑄦𑄟𑄴𑄢𑄪𑄚𑄴"
     },
-    "geo": {
-      "latitude": 35.886111,
-      "longitude": 14.489444,
-      "min_latitude": 35.8812182,
-      "min_longitude": 14.4797015,
-      "max_latitude": 35.8924312,
-      "max_longitude": 14.5004296
-    },
-    "name": "Ħamrun"
+    "comments": null
   },
   "19": {
+    "name": "Iklin",
+    "code": null,
     "unofficial_names": "Iklin",
+    "geo": {
+      "latitude": 35.904167,
+      "longitude": 14.454444,
+      "min_latitude": 35.9022261,
+      "min_longitude": 14.4474291,
+      "max_latitude": 35.9167553,
+      "max_longitude": 14.4635223
+    },
     "translations": {
       "en": "Iklin",
       "ar": "إكلين",
@@ -998,20 +1121,26 @@
       "tr": "Iklin",
       "ur": "اکلین",
       "vi": "Iklin",
-      "zh": "伊克伊林"
+      "zh": "伊克伊林",
+      "lv": "Iklina",
+      "ceb": "L-Iklin",
+      "ccp": "𑄃𑄨𑄇𑄴𑄣𑄨𑄚𑄴",
+      "uk": "Іклін"
     },
-    "geo": {
-      "latitude": 35.904167,
-      "longitude": 14.454444,
-      "min_latitude": 35.9022261,
-      "min_longitude": 14.4474291,
-      "max_latitude": 35.9167553,
-      "max_longitude": 14.4635223
-    },
-    "name": "Iklin"
+    "comments": null
   },
   "20": {
+    "name": "Isla",
+    "code": null,
     "unofficial_names": "Isla",
+    "geo": {
+      "latitude": 35.887778,
+      "longitude": 14.516944,
+      "min_latitude": 35.8846707,
+      "min_longitude": 14.5136331,
+      "max_latitude": 35.8910731,
+      "max_longitude": 14.5201882
+    },
     "translations": {
       "en": "Senglea",
       "ar": "سنجليا",
@@ -1051,20 +1180,27 @@
       "tr": "Senglea",
       "ur": "سینگلیا",
       "vi": "Senglea",
-      "zh": "森格萊阿"
+      "zh": "森格萊阿",
+      "lv": "Sengleja",
+      "ceb": "L-Isla",
+      "sr_Latn": "Senglea",
+      "ccp": "𑄥𑄬𑄚𑄴𑄉𑄳𑄣𑄨𑄠",
+      "uk": "Сенглея"
     },
-    "geo": {
-      "latitude": 35.887778,
-      "longitude": 14.516944,
-      "min_latitude": 35.8846707,
-      "min_longitude": 14.5136331,
-      "max_latitude": 35.8910731,
-      "max_longitude": 14.5201882
-    },
-    "name": "Isla"
+    "comments": null
   },
   "21": {
+    "name": "Kalkara",
+    "code": null,
     "unofficial_names": "Kalkara",
+    "geo": {
+      "latitude": 35.889167,
+      "longitude": 14.529444,
+      "min_latitude": 35.8837065,
+      "min_longitude": 14.5228847,
+      "max_latitude": 35.8989224,
+      "max_longitude": 14.5464887
+    },
     "translations": {
       "en": "Kalkara",
       "af": "Kalkara",
@@ -1112,20 +1248,28 @@
       "ur": "کالکارا",
       "vi": "Kalkara",
       "zh": "麥基基",
-      "zu": "Kalkara"
+      "zu": "Kalkara",
+      "lv": "Kalkara",
+      "cy": "Kalkara",
+      "ceb": "Il-Kalkara",
+      "ccp": "𑄇𑄣𑄴𑄇𑄢",
+      "ga": "Kalkara",
+      "uk": "Калкара"
     },
-    "geo": {
-      "latitude": 35.889167,
-      "longitude": 14.529444,
-      "min_latitude": 35.8837065,
-      "min_longitude": 14.5228847,
-      "max_latitude": 35.8989224,
-      "max_longitude": 14.5464887
-    },
-    "name": "Kalkara"
+    "comments": null
   },
   "22": {
+    "name": "Kerċem",
+    "code": null,
     "unofficial_names": "Kerċem",
+    "geo": {
+      "latitude": 36.040556,
+      "longitude": 14.229722,
+      "min_latitude": 36.0306725,
+      "min_longitude": 14.1942011,
+      "max_latitude": 36.0562404,
+      "max_longitude": 14.2332729
+    },
     "translations": {
       "en": "Kerċem",
       "ar": "كيرتشم",
@@ -1161,20 +1305,27 @@
       "th": "เคอเซม",
       "tr": "Kercem",
       "ur": "کیرچیم",
-      "vi": "Kercem"
+      "vi": "Kercem",
+      "lv": "Kerčema",
+      "ceb": "Ta’ Kerċem",
+      "zh": "凯尔切姆",
+      "ccp": "𑄇𑄬𑄢𑄴𑄥𑄬𑄟𑄴",
+      "uk": "Керчем"
     },
-    "geo": {
-      "latitude": 36.040556,
-      "longitude": 14.229722,
-      "min_latitude": 36.0306725,
-      "min_longitude": 14.1942011,
-      "max_latitude": 36.0562404,
-      "max_longitude": 14.2332729
-    },
-    "name": "Kerċem"
+    "comments": null
   },
   "23": {
+    "name": "Kirkop",
+    "code": null,
     "unofficial_names": "Kirkop",
+    "geo": {
+      "latitude": 35.840854,
+      "longitude": 14.484347,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Kirkop",
       "ar": "كيركوب",
@@ -1213,20 +1364,26 @@
       "tr": "Kirkop",
       "ur": "کیرکوپ",
       "vi": "Kirkop",
-      "zh": "基尔科普"
+      "zh": "基尔科普",
+      "lv": "Kirkopa",
+      "ceb": "Kirkop",
+      "ccp": "𑄇𑄨𑄢𑄴𑄇𑄮𑄛𑄴",
+      "uk": "Кіркоп"
     },
-    "geo": {
-      "latitude": 35.840854,
-      "longitude": 14.484347,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Kirkop"
+    "comments": null
   },
   "24": {
+    "name": "Lija",
+    "code": null,
     "unofficial_names": "Lija",
+    "geo": {
+      "latitude": 35.901389,
+      "longitude": 14.447222,
+      "min_latitude": 35.8966204,
+      "min_longitude": 14.4340182,
+      "max_latitude": 35.9056413,
+      "max_longitude": 14.4524341
+    },
     "translations": {
       "en": "Lija",
       "ar": "ليا",
@@ -1263,20 +1420,26 @@
       "tr": "Lija",
       "ur": "لییا",
       "vi": "Lija",
-      "zh": "利亚 (马耳他)"
+      "zh": "利亚 (马耳他)",
+      "lv": "Lidža",
+      "ceb": "Lija (munisipyo)",
+      "ccp": "𑄣𑄨𑄎",
+      "uk": "Лія"
     },
-    "geo": {
-      "latitude": 35.901389,
-      "longitude": 14.447222,
-      "min_latitude": 35.8966204,
-      "min_longitude": 14.4340182,
-      "max_latitude": 35.9056413,
-      "max_longitude": 14.4524341
-    },
-    "name": "Lija"
+    "comments": null
   },
   "25": {
+    "name": "Luqa",
+    "code": null,
     "unofficial_names": "Luqa",
+    "geo": {
+      "latitude": 35.859722,
+      "longitude": 14.489167,
+      "min_latitude": 35.8280087,
+      "min_longitude": 14.4576001,
+      "max_latitude": 35.87547199999999,
+      "max_longitude": 14.5139694
+    },
     "translations": {
       "en": "Luqa",
       "ar": "لوقا",
@@ -1317,20 +1480,26 @@
       "tr": "Luqa",
       "ur": "لوآ",
       "vi": "Luqa",
-      "zh": "盧加"
+      "zh": "盧加",
+      "lv": "Luka",
+      "ceb": "Luqa",
+      "ccp": "𑄣𑄪𑄇",
+      "uk": "Лука"
     },
-    "geo": {
-      "latitude": 35.859722,
-      "longitude": 14.489167,
-      "min_latitude": 35.8280087,
-      "min_longitude": 14.4576001,
-      "max_latitude": 35.87547199999999,
-      "max_longitude": 14.5139694
-    },
-    "name": "Luqa"
+    "comments": null
   },
   "26": {
+    "name": "Marsa",
+    "code": null,
     "unofficial_names": "Marsa",
+    "geo": {
+      "latitude": 35.883333,
+      "longitude": 14.494722,
+      "min_latitude": 35.8640792,
+      "min_longitude": 14.482788,
+      "max_latitude": 35.887441,
+      "max_longitude": 14.5017699
+    },
     "translations": {
       "en": "Marsa",
       "ca": "Marsa",
@@ -1356,20 +1525,25 @@
       "tr": "Marsa",
       "uk": "Марса (Мальта)",
       "ur": "مارسا، مالٹا",
-      "zh": "馬爾薩"
+      "zh": "馬爾薩",
+      "ceb": "Il-Marsa",
+      "ccp": "𑄇𑄢𑄴𑄥",
+      "be": "Марса"
     },
-    "geo": {
-      "latitude": 35.883333,
-      "longitude": 14.494722,
-      "min_latitude": 35.8640792,
-      "min_longitude": 14.482788,
-      "max_latitude": 35.887441,
-      "max_longitude": 14.5017699
-    },
-    "name": "Marsa"
+    "comments": null
   },
   "27": {
+    "name": "Marsaskala",
+    "code": null,
     "unofficial_names": "Marsaskala",
+    "geo": {
+      "latitude": 35.8625,
+      "longitude": 14.5675,
+      "min_latitude": 35.8452937,
+      "min_longitude": 14.5438296,
+      "max_latitude": 35.8775598,
+      "max_longitude": 14.5755001
+    },
     "translations": {
       "en": "Marsaskala",
       "ar": "مارساسكالا",
@@ -1408,20 +1582,26 @@
       "tr": "Marsaskala",
       "ur": "مارساسکالا",
       "vi": "Marsaskala",
-      "zh": "馬爾薩斯卡拉"
+      "zh": "馬爾薩斯卡拉",
+      "lv": "Marsaskala",
+      "ceb": "Marsaskala (kapital sa rehiyon)",
+      "ccp": "𑄟𑄢𑄴𑄥𑄌𑄴𑄇𑄣",
+      "uk": "Марсаскала"
     },
-    "geo": {
-      "latitude": 35.8625,
-      "longitude": 14.5675,
-      "min_latitude": 35.8452937,
-      "min_longitude": 14.5438296,
-      "max_latitude": 35.8775598,
-      "max_longitude": 14.5755001
-    },
-    "name": "Marsaskala"
+    "comments": null
   },
   "28": {
+    "name": "Marsaxlokk",
+    "code": null,
     "unofficial_names": "Marsaxlokk",
+    "geo": {
+      "latitude": 35.84166700000001,
+      "longitude": 14.544722,
+      "min_latitude": 35.8193177,
+      "min_longitude": 14.526355,
+      "max_latitude": 35.8477721,
+      "max_longitude": 14.5724385
+    },
     "translations": {
       "en": "Marsaxlokk",
       "ar": "مارساكسلوخك",
@@ -1459,20 +1639,26 @@
       "tr": "Marsaxlokk",
       "uk": "Марсашлокк",
       "ur": "مارساشلوک",
-      "vi": "Marsaxlokk"
+      "vi": "Marsaxlokk",
+      "lv": "Marsašloka",
+      "ceb": "Marsaxlokk",
+      "zh": "马尔萨什洛克",
+      "ccp": "𑄟𑄢𑄴𑄥𑄇𑄴𑄣𑄮𑄇𑄳𑄦𑄴"
     },
-    "geo": {
-      "latitude": 35.84166700000001,
-      "longitude": 14.544722,
-      "min_latitude": 35.8193177,
-      "min_longitude": 14.526355,
-      "max_latitude": 35.8477721,
-      "max_longitude": 14.5724385
-    },
-    "name": "Marsaxlokk"
+    "comments": null
   },
   "29": {
+    "name": "Mdina",
+    "code": null,
     "unofficial_names": "Mdina",
+    "geo": {
+      "latitude": 35.885833,
+      "longitude": 14.403056,
+      "min_latitude": 35.8828916,
+      "min_longitude": 14.3974757,
+      "max_latitude": 35.8916793,
+      "max_longitude": 14.4150602
+    },
     "translations": {
       "en": "Mdina",
       "ar": "مدينة",
@@ -1516,20 +1702,28 @@
       "uk": "Мдіна",
       "ur": "مدینہ، مالٹا",
       "vi": "Mdina",
-      "zh": "姆迪纳"
+      "zh": "姆迪纳",
+      "lv": "Mdina",
+      "cy": "Mdina a Rabat",
+      "ceb": "Imdina",
+      "sr_Latn": "Mdina",
+      "ccp": "𑄟𑄧𑄓𑄨𑄚",
+      "sl": "Mdina"
     },
-    "geo": {
-      "latitude": 35.885833,
-      "longitude": 14.403056,
-      "min_latitude": 35.8828916,
-      "min_longitude": 14.3974757,
-      "max_latitude": 35.8916793,
-      "max_longitude": 14.4150602
-    },
-    "name": "Mdina"
+    "comments": null
   },
   "30": {
+    "name": "Mellieħa",
+    "code": null,
     "unofficial_names": "Mellieħa",
+    "geo": {
+      "latitude": 35.95638900000001,
+      "longitude": 14.366389,
+      "min_latitude": 35.9306305,
+      "min_longitude": 14.3190222,
+      "max_latitude": 35.9981237,
+      "max_longitude": 14.3975705
+    },
     "translations": {
       "en": "Mellieħa",
       "ar": "مليحة",
@@ -1567,20 +1761,26 @@
       "tr": "Melliana",
       "ur": "مہلیئحا",
       "vi": "Mellieha",
-      "zh": "梅利哈"
+      "zh": "梅利哈",
+      "lv": "Melliha",
+      "ceb": "Il-Mellieħa (munisipyo sa Malta)",
+      "ccp": "𑄟𑄣𑄨𑄠𑄬𑄦",
+      "uk": "Мелліха"
     },
-    "geo": {
-      "latitude": 35.95638900000001,
-      "longitude": 14.366389,
-      "min_latitude": 35.9306305,
-      "min_longitude": 14.3190222,
-      "max_latitude": 35.9981237,
-      "max_longitude": 14.3975705
-    },
-    "name": "Mellieħa"
+    "comments": null
   },
   "31": {
+    "name": "Mġarr",
+    "code": null,
     "unofficial_names": "Mġarr",
+    "geo": {
+      "latitude": 35.919722,
+      "longitude": 14.366389,
+      "min_latitude": 35.8969767,
+      "min_longitude": 14.3324275,
+      "max_latitude": 35.9406116,
+      "max_longitude": 14.40166
+    },
     "translations": {
       "en": "Mġarr",
       "ar": "مغار",
@@ -1618,20 +1818,26 @@
       "tr": "Mgarr",
       "uk": "Мджарр",
       "ur": "مجار",
-      "vi": "Mġarr"
+      "vi": "Mġarr",
+      "lv": "Mgara",
+      "ceb": "L-Imġarr",
+      "zh": "姆贾尔",
+      "ccp": "𑄟𑄧𑄉𑄢𑄴"
     },
-    "geo": {
-      "latitude": 35.919722,
-      "longitude": 14.366389,
-      "min_latitude": 35.8969767,
-      "min_longitude": 14.3324275,
-      "max_latitude": 35.9406116,
-      "max_longitude": 14.40166
-    },
-    "name": "Mġarr"
+    "comments": null
   },
   "32": {
+    "name": "Mosta",
+    "code": null,
     "unofficial_names": "Mosta",
+    "geo": {
+      "latitude": 35.909722,
+      "longitude": 14.426111,
+      "min_latitude": 35.8974461,
+      "min_longitude": 14.3932378,
+      "max_latitude": 35.9292057,
+      "max_longitude": 14.4391572
+    },
     "translations": {
       "en": "Mosta",
       "ar": "موستا",
@@ -1674,20 +1880,26 @@
       "tr": "Mosta",
       "ur": "موستا",
       "vi": "Mosta",
-      "zh": "莫斯塔"
+      "zh": "莫斯塔",
+      "lv": "Mosta",
+      "ceb": "Mosta",
+      "ccp": "𑄟𑄧𑄌𑄴𑄑",
+      "uk": "Моста"
     },
-    "geo": {
-      "latitude": 35.909722,
-      "longitude": 14.426111,
-      "min_latitude": 35.8974461,
-      "min_longitude": 14.3932378,
-      "max_latitude": 35.9292057,
-      "max_longitude": 14.4391572
-    },
-    "name": "Mosta"
+    "comments": null
   },
   "33": {
+    "name": "Mqabba",
+    "code": null,
     "unofficial_names": "Mqabba",
+    "geo": {
+      "latitude": 35.844167,
+      "longitude": 14.466944,
+      "min_latitude": 35.8387596,
+      "min_longitude": 14.4505619,
+      "max_latitude": 35.852657,
+      "max_longitude": 14.4819117
+    },
     "translations": {
       "en": "Mqabba",
       "ar": "مقابا",
@@ -1723,20 +1935,27 @@
       "th": "เมืองมกับบา",
       "tr": "Mqabba",
       "ur": "مآبا",
-      "vi": "Mqabba"
+      "vi": "Mqabba",
+      "lv": "Mkaba",
+      "ceb": "Mqabba",
+      "zh": "姆卡巴",
+      "ccp": "𑄟𑄧𑄇𑄝",
+      "uk": "Мкаба"
     },
-    "geo": {
-      "latitude": 35.844167,
-      "longitude": 14.466944,
-      "min_latitude": 35.8387596,
-      "min_longitude": 14.4505619,
-      "max_latitude": 35.852657,
-      "max_longitude": 14.4819117
-    },
-    "name": "Mqabba"
+    "comments": null
   },
   "34": {
+    "name": "Msida",
+    "code": null,
     "unofficial_names": "Msida",
+    "geo": {
+      "latitude": 35.897778,
+      "longitude": 14.489444,
+      "min_latitude": 35.8911014,
+      "min_longitude": 14.473511,
+      "max_latitude": 35.9045248,
+      "max_longitude": 14.4939763
+    },
     "translations": {
       "en": "Msida",
       "ar": "مسيدا",
@@ -1777,20 +1996,24 @@
       "uk": "Мсіда",
       "ur": "مسیدا",
       "vi": "Msida",
-      "zh": "姆西達"
+      "zh": "姆西達",
+      "lv": "Msida",
+      "ccp": "𑄟𑄧𑄥𑄨𑄓"
     },
-    "geo": {
-      "latitude": 35.897778,
-      "longitude": 14.489444,
-      "min_latitude": 35.8911014,
-      "min_longitude": 14.473511,
-      "max_latitude": 35.9045248,
-      "max_longitude": 14.4939763
-    },
-    "name": "Msida"
+    "comments": null
   },
   "35": {
+    "name": "Mtarfa",
+    "code": null,
     "unofficial_names": "Mtarfa",
+    "geo": {
+      "latitude": 35.890833,
+      "longitude": 14.396944,
+      "min_latitude": 35.8837782,
+      "min_longitude": 14.3903946,
+      "max_latitude": 35.8959687,
+      "max_longitude": 14.4045888
+    },
     "translations": {
       "en": "Imtarfa",
       "ar": "المطرفة",
@@ -1826,20 +2049,27 @@
       "th": "มทาร์ฟา",
       "tr": "Mtarfa",
       "ur": "متارفا",
-      "vi": "Mtarfa"
+      "vi": "Mtarfa",
+      "lv": "Mtarfa",
+      "ceb": "L-Imtarfa (munisipyo sa Malta)",
+      "zh": "玛塔法",
+      "ccp": "𑄃𑄨𑄟𑄴𑄑𑄢𑄴𑄜",
+      "uk": "Мтарфа"
     },
-    "geo": {
-      "latitude": 35.890833,
-      "longitude": 14.396944,
-      "min_latitude": 35.8837782,
-      "min_longitude": 14.3903946,
-      "max_latitude": 35.8959687,
-      "max_longitude": 14.4045888
-    },
-    "name": "Mtarfa"
+    "comments": null
   },
   "36": {
+    "name": "Munxar",
+    "code": null,
     "unofficial_names": "Munxar",
+    "geo": {
+      "latitude": 36.030278,
+      "longitude": 14.235278,
+      "min_latitude": 36.0202872,
+      "min_longitude": 14.2120842,
+      "max_latitude": 36.037693,
+      "max_longitude": 14.2376999
+    },
     "translations": {
       "en": "Munxar",
       "ar": "مونكسار",
@@ -1875,20 +2105,27 @@
       "th": "เขตโอโรเมีย",
       "tr": "Munxar",
       "ur": "مونشار",
-      "vi": "Munxar"
+      "vi": "Munxar",
+      "lv": "Munšara",
+      "ceb": "Il-Munxar (munisipyo sa Malta)",
+      "zh": "蒙沙尔",
+      "ccp": "𑄟𑄪𑄚𑄴𑄎𑄢𑄴",
+      "uk": "Муншар"
     },
-    "geo": {
-      "latitude": 36.030278,
-      "longitude": 14.235278,
-      "min_latitude": 36.0202872,
-      "min_longitude": 14.2120842,
-      "max_latitude": 36.037693,
-      "max_longitude": 14.2376999
-    },
-    "name": "Munxar"
+    "comments": null
   },
   "37": {
+    "name": "Nadur",
+    "code": null,
     "unofficial_names": "Nadur",
+    "geo": {
+      "latitude": 36.038056,
+      "longitude": 14.295,
+      "min_latitude": 36.0334661,
+      "min_longitude": 14.2772483,
+      "max_latitude": 36.0657091,
+      "max_longitude": 14.3228352
+    },
     "translations": {
       "en": "Nadur",
       "ar": "بلدة نادور",
@@ -1924,20 +2161,27 @@
       "th": "แนเดอร์",
       "tr": "Nadur",
       "ur": "نادور",
-      "vi": "Nadur"
+      "vi": "Nadur",
+      "lv": "Nadura",
+      "ceb": "In-Nadur (munisipyo sa Malta)",
+      "zh": "纳杜尔",
+      "ccp": "𑄚𑄨𑄓𑄪𑄢𑄴",
+      "uk": "Нудур"
     },
-    "geo": {
-      "latitude": 36.038056,
-      "longitude": 14.295,
-      "min_latitude": 36.0334661,
-      "min_longitude": 14.2772483,
-      "max_latitude": 36.0657091,
-      "max_longitude": 14.3228352
-    },
-    "name": "Nadur"
+    "comments": null
   },
   "38": {
+    "name": "Naxxar",
+    "code": null,
     "unofficial_names": "Naxxar",
+    "geo": {
+      "latitude": 35.915,
+      "longitude": 14.444722,
+      "min_latitude": 35.9046768,
+      "min_longitude": 14.4189548,
+      "max_latitude": 35.9548581,
+      "max_longitude": 14.4639623
+    },
     "translations": {
       "en": "Naxxar",
       "ar": "ناكسار",
@@ -1975,20 +2219,26 @@
       "tr": "Naxxar",
       "ur": "ناشار",
       "vi": "Naxxar",
-      "zh": "納沙爾"
+      "zh": "納沙爾",
+      "lv": "Našara",
+      "ceb": "In-Naxxar (munisipyo sa Malta)",
+      "ccp": "𑄚𑄎𑄳𑄦𑄢𑄴",
+      "uk": "Нашар"
     },
-    "geo": {
-      "latitude": 35.915,
-      "longitude": 14.444722,
-      "min_latitude": 35.9046768,
-      "min_longitude": 14.4189548,
-      "max_latitude": 35.9548581,
-      "max_longitude": 14.4639623
-    },
-    "name": "Naxxar"
+    "comments": null
   },
   "39": {
+    "name": "Paola",
+    "code": null,
     "unofficial_names": "Paola",
+    "geo": {
+      "latitude": 35.872778,
+      "longitude": 14.5075,
+      "min_latitude": 35.8625513,
+      "min_longitude": 14.4953128,
+      "max_latitude": 35.886247,
+      "max_longitude": 14.5157979
+    },
     "translations": {
       "en": "Paola",
       "ar": "باولا",
@@ -2027,20 +2277,26 @@
       "tr": "Paola",
       "ur": "پاولا، مالٹا",
       "vi": "Paola",
-      "zh": "保拉"
+      "zh": "保拉",
+      "lv": "Paola",
+      "ccp": "𑄛𑄃𑄮𑄣",
+      "he": "פאולה",
+      "uk": "Паола"
     },
-    "geo": {
-      "latitude": 35.872778,
-      "longitude": 14.5075,
-      "min_latitude": 35.8625513,
-      "min_longitude": 14.4953128,
-      "max_latitude": 35.886247,
-      "max_longitude": 14.5157979
-    },
-    "name": "Paola"
+    "comments": null
   },
   "40": {
+    "name": "Pembroke",
+    "code": null,
     "unofficial_names": "Pembroke",
+    "geo": {
+      "latitude": 35.926389,
+      "longitude": 14.480833,
+      "min_latitude": 35.92315019999999,
+      "min_longitude": 14.4622564,
+      "max_latitude": 35.9374579,
+      "max_longitude": 14.4904841
+    },
     "translations": {
       "en": "Pembroke",
       "ar": "بيمبروك",
@@ -2076,20 +2332,27 @@
       "th": "เพมโบรก",
       "tr": "Pembroke",
       "ur": "پیمبروک، مالٹا",
-      "vi": "Pembroke"
+      "vi": "Pembroke",
+      "lv": "Pembroka",
+      "ceb": "Pembroke (munisipyo)",
+      "zh": "彭布罗克 (马耳他)",
+      "ccp": "𑄛𑄬𑄟𑄴𑄝𑄳𑄢𑄮𑄇𑄴",
+      "uk": "Пембрук"
     },
-    "geo": {
-      "latitude": 35.926389,
-      "longitude": 14.480833,
-      "min_latitude": 35.92315019999999,
-      "min_longitude": 14.4622564,
-      "max_latitude": 35.9374579,
-      "max_longitude": 14.4904841
-    },
-    "name": "Pembroke"
+    "comments": null
   },
   "41": {
+    "name": "Pietà",
+    "code": null,
     "unofficial_names": "Pietà",
+    "geo": {
+      "latitude": 35.893056,
+      "longitude": 14.493611,
+      "min_latitude": 35.8885633,
+      "min_longitude": 14.4899475,
+      "max_latitude": 35.896551,
+      "max_longitude": 14.498536
+    },
     "translations": {
       "en": "Pietà",
       "bg": "Пиета",
@@ -2112,20 +2375,24 @@
       "ru": "Пьета",
       "sv": "Pietà",
       "ur": "پیئتا، مالٹا",
-      "zh": "佩塔"
+      "zh": "佩塔",
+      "ccp": "𑄛𑄭𑄑",
+      "da": "Pietà"
     },
-    "geo": {
-      "latitude": 35.893056,
-      "longitude": 14.493611,
-      "min_latitude": 35.8885633,
-      "min_longitude": 14.4899475,
-      "max_latitude": 35.896551,
-      "max_longitude": 14.498536
-    },
-    "name": "Pietà"
+    "comments": null
   },
   "42": {
+    "name": "Qala",
+    "code": null,
     "unofficial_names": "Qala",
+    "geo": {
+      "latitude": 36.035278,
+      "longitude": 14.310278,
+      "min_latitude": 36.0257316,
+      "min_longitude": 14.2952699,
+      "max_latitude": 36.0502352,
+      "max_longitude": 14.3363473
+    },
     "translations": {
       "en": "Qala",
       "ar": "قالا، مالطا",
@@ -2160,20 +2427,28 @@
       "th": "กวาลา",
       "tr": "Qala",
       "ur": "آلا، مالٹا",
-      "vi": "Qala"
+      "vi": "Qala",
+      "lv": "Kala",
+      "ceb": "Il-Qala",
+      "zh": "卡拉 (戈佐岛)",
+      "ccp": "𑄇𑄮𑄣",
+      "eu": "Qala",
+      "uk": "Кала"
     },
-    "geo": {
-      "latitude": 36.035278,
-      "longitude": 14.310278,
-      "min_latitude": 36.0257316,
-      "min_longitude": 14.2952699,
-      "max_latitude": 36.0502352,
-      "max_longitude": 14.3363473
-    },
-    "name": "Qala"
+    "comments": null
   },
   "43": {
+    "name": "Qormi",
+    "code": null,
     "unofficial_names": "Qormi",
+    "geo": {
+      "latitude": 35.879444,
+      "longitude": 14.472222,
+      "min_latitude": 35.8626046,
+      "min_longitude": 14.4508839,
+      "max_latitude": 35.89071020000001,
+      "max_longitude": 14.4852912
+    },
     "translations": {
       "en": "Qormi",
       "ar": "كورمي",
@@ -2215,20 +2490,27 @@
       "uk": "Кормі",
       "ur": "آورمی",
       "vi": "Qormi",
-      "zh": "戈爾米"
+      "zh": "戈爾米",
+      "lv": "Kormi",
+      "ceb": "Qormi",
+      "sr_Latn": "Kormi",
+      "ccp": "𑄇𑄮𑄢𑄴𑄟𑄨",
+      "be": "Кормі"
     },
-    "geo": {
-      "latitude": 35.879444,
-      "longitude": 14.472222,
-      "min_latitude": 35.8626046,
-      "min_longitude": 14.4508839,
-      "max_latitude": 35.89071020000001,
-      "max_longitude": 14.4852912
-    },
-    "name": "Qormi"
+    "comments": null
   },
   "44": {
+    "name": "Qrendi",
+    "code": null,
     "unofficial_names": "Qrendi",
+    "geo": {
+      "latitude": 35.834167,
+      "longitude": 14.458889,
+      "min_latitude": 35.8188991,
+      "min_longitude": 14.4303489,
+      "max_latitude": 35.8426211,
+      "max_longitude": 14.4699598
+    },
     "translations": {
       "en": "Qrendi",
       "ar": "كريندي",
@@ -2267,23 +2549,29 @@
       "tr": "Qrendi",
       "ur": "آریندی",
       "vi": "Qrendi",
-      "zh": "奎倫迪"
+      "zh": "奎倫迪",
+      "lv": "Krendi",
+      "ceb": "Il-Qrendi",
+      "ccp": "𑄇𑄧𑄢𑄬𑄚𑄴𑄓𑄨",
+      "uk": "Кренді"
     },
-    "geo": {
-      "latitude": 35.834167,
-      "longitude": 14.458889,
-      "min_latitude": 35.8188991,
-      "min_longitude": 14.4303489,
-      "max_latitude": 35.8426211,
-      "max_longitude": 14.4699598
-    },
-    "name": "Qrendi"
+    "comments": null
   },
   "45": {
+    "name": "Rabat Gozo",
+    "code": null,
     "unofficial_names": [
       "Rabat Gozo",
       "Rabat Għawdex"
     ],
+    "geo": {
+      "latitude": 36.043611,
+      "longitude": 14.243056,
+      "min_latitude": 36.0335614,
+      "min_longitude": 14.2268663,
+      "max_latitude": 36.053097,
+      "max_longitude": 14.2537264
+    },
     "translations": {
       "en": "Victoria",
       "ar": "الرباط",
@@ -2327,20 +2615,28 @@
       "uk": "Вікторія",
       "ur": "وکٹوریہ، گوزو",
       "vi": "Victoria",
-      "zh": "維多利亞"
+      "zh": "維多利亞",
+      "lv": "Viktorija",
+      "cy": "Victoria",
+      "ceb": "Victoria",
+      "sr_Latn": "Viktorija",
+      "ccp": "𑄞𑄬𑄇𑄴𑄑𑄮𑄢𑄨𑄠",
+      "sl": "Victoria, Gozo"
     },
-    "geo": {
-      "latitude": 36.043611,
-      "longitude": 14.243056,
-      "min_latitude": 36.0335614,
-      "min_longitude": 14.2268663,
-      "max_latitude": 36.053097,
-      "max_longitude": 14.2537264
-    },
-    "name": "Rabat Gozo"
+    "comments": null
   },
   "46": {
+    "name": "Rabat Malta",
+    "code": null,
     "unofficial_names": "Rabat Malta",
+    "geo": {
+      "latitude": 35.881667,
+      "longitude": 14.398889,
+      "min_latitude": 35.8615393,
+      "min_longitude": 14.3280307,
+      "max_latitude": 35.9101514,
+      "max_longitude": 14.41697
+    },
     "translations": {
       "en": "Rabat",
       "ar": "الرابات",
@@ -2381,20 +2677,28 @@
       "uk": "Рабат",
       "ur": "رابات، مالٹا",
       "vi": "Rabat",
-      "zh": "拉巴特"
+      "zh": "拉巴特",
+      "lv": "Rabata",
+      "sr_Latn": "Rabat",
+      "ccp": "𑄢𑄧𑄝𑄖𑄴",
+      "hy": "Ռաբաթ",
+      "he": "רבאט, מלטה",
+      "sl": "Rabat, Malta"
     },
-    "geo": {
-      "latitude": 35.881667,
-      "longitude": 14.398889,
-      "min_latitude": 35.8615393,
-      "min_longitude": 14.3280307,
-      "max_latitude": 35.9101514,
-      "max_longitude": 14.41697
-    },
-    "name": "Rabat Malta"
+    "comments": null
   },
   "47": {
+    "name": "Safi",
+    "code": null,
     "unofficial_names": "Safi",
+    "geo": {
+      "latitude": 35.833333,
+      "longitude": 14.485,
+      "min_latitude": 35.8260471,
+      "min_longitude": 14.479385,
+      "max_latitude": 35.8437126,
+      "max_longitude": 14.5058208
+    },
     "translations": {
       "en": "Safi",
       "ar": "سافي",
@@ -2432,23 +2736,30 @@
       "th": "ซาฟี",
       "tr": "Safi",
       "ur": "سافی، مالٹا",
-      "vi": "Safi"
+      "vi": "Safi",
+      "lv": "Safi",
+      "ceb": "Safi (munisipyo)",
+      "zh": "萨菲",
+      "ccp": "𑄥𑄜𑄨",
+      "uk": "Сафі"
     },
-    "geo": {
-      "latitude": 35.833333,
-      "longitude": 14.485,
-      "min_latitude": 35.8260471,
-      "min_longitude": 14.479385,
-      "max_latitude": 35.8437126,
-      "max_longitude": 14.5058208
-    },
-    "name": "Safi"
+    "comments": null
   },
   "48": {
+    "name": "Saint Julian's",
+    "code": null,
     "unofficial_names": [
       "Saint Julian's",
       "San Ġiljan"
     ],
+    "geo": {
+      "latitude": 35.9181297,
+      "longitude": 14.4883442,
+      "min_latitude": 35.9090522,
+      "min_longitude": 14.4825501,
+      "max_latitude": 35.93031149999999,
+      "max_longitude": 14.4966906
+    },
     "translations": {
       "en": "St. Julian’s",
       "ar": "سانت جوليان",
@@ -2491,23 +2802,30 @@
       "tr": "St. Julian’s",
       "ur": "سینٹ یولیان",
       "vi": "St. Julian’s",
-      "zh": "聖朱利安斯"
+      "zh": "聖朱利安斯",
+      "lv": "Sentdžuliansa",
+      "ceb": "Saint Julian’s (munisipyo sa Malta)",
+      "sr_Latn": "San Điljan",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄨𑄣𑄨𑄠𑄚𑄴",
+      "uk": "Сент-Джуліанс"
     },
-    "geo": {
-      "latitude": 35.9181297,
-      "longitude": 14.4883442,
-      "min_latitude": 35.9090522,
-      "min_longitude": 14.4825501,
-      "max_latitude": 35.93031149999999,
-      "max_longitude": 14.4966906
-    },
-    "name": "Saint Julian's"
+    "comments": null
   },
   "49": {
+    "name": "Saint John",
+    "code": null,
     "unofficial_names": [
       "Saint John",
       "San Ġwann"
     ],
+    "geo": {
+      "latitude": 35.9155231,
+      "longitude": 14.5008608,
+      "min_latitude": 35.9147507,
+      "min_longitude": 14.5005065,
+      "max_latitude": 35.9168314,
+      "max_longitude": 14.501465
+    },
     "translations": {
       "en": "San Ġwann",
       "ar": "سان غوان",
@@ -2546,23 +2864,29 @@
       "tr": "San Gwann",
       "ur": "سان جوان",
       "vi": "San Gwann",
-      "zh": "聖瓜安"
+      "zh": "聖瓜安",
+      "lv": "Sangvana",
+      "ceb": "Saint John",
+      "ccp": "𑄥𑄚𑄴 𑄉𑄳𑄦𑄧𑄚𑄴",
+      "uk": "Сан-Гванн"
     },
-    "geo": {
-      "latitude": 35.9155231,
-      "longitude": 14.5008608,
-      "min_latitude": 35.9147507,
-      "min_longitude": 14.5005065,
-      "max_latitude": 35.9168314,
-      "max_longitude": 14.501465
-    },
-    "name": "Saint John"
+    "comments": null
   },
   "50": {
+    "name": "Saint Lawrence",
+    "code": null,
     "unofficial_names": [
       "Saint Lawrence",
       "San Lawrenz"
     ],
+    "geo": {
+      "latitude": 36.055,
+      "longitude": 14.204167,
+      "min_latitude": 36.0329839,
+      "min_longitude": 14.1861148,
+      "max_latitude": 36.0629307,
+      "max_longitude": 14.2100868
+    },
     "translations": {
       "en": "Saint Lawrence",
       "ar": "سانت لورانس",
@@ -2600,23 +2924,31 @@
       "th": "ซาน ลอว์เรนซ์",
       "tr": "Saint Lawrence",
       "ur": "سینٹ لارنس، مالٹا",
-      "vi": "Saint Lawrence"
+      "vi": "Saint Lawrence",
+      "lv": "Senlorenca",
+      "ceb": "San Lawrenz",
+      "zh": "圣劳伦斯",
+      "fa": "سن لاورنز",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄣𑄳𑄦𑄧𑄢𑄬𑄚𑄴𑄌𑄴",
+      "uk": "Сан-Лоренц"
     },
-    "geo": {
-      "latitude": 36.055,
-      "longitude": 14.204167,
-      "min_latitude": 36.0329839,
-      "min_longitude": 14.1861148,
-      "max_latitude": 36.0629307,
-      "max_longitude": 14.2100868
-    },
-    "name": "Saint Lawrence"
+    "comments": null
   },
   "51": {
+    "name": "Saint Paul's Bay",
+    "code": null,
     "unofficial_names": [
       "Saint Paul's Bay",
       "San Pawl il-Baħar"
     ],
+    "geo": {
+      "latitude": 35.94833300000001,
+      "longitude": 14.401667,
+      "min_latitude": 35.9104035,
+      "min_longitude": 14.3684005,
+      "max_latitude": 35.95977000000001,
+      "max_longitude": 14.4262694
+    },
     "translations": {
       "en": "St. Paul’s Bay",
       "ar": "شارع خليج بول",
@@ -2656,20 +2988,26 @@
       "uk": "Сан-Пауль-іль-Бахар",
       "ur": "سینٹ پال بے",
       "vi": "St. Paul’s Bay",
-      "zh": "聖保羅灣城"
+      "zh": "聖保羅灣城",
+      "lv": "Senpola līcis",
+      "ceb": "San Pawl il-Baħar (kapital sa rehiyon sa Malta)",
+      "bn": "সেন্ট পল’স বে",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄧𑄣𑄴 𑄝𑄬"
     },
-    "geo": {
-      "latitude": 35.94833300000001,
-      "longitude": 14.401667,
-      "min_latitude": 35.9104035,
-      "min_longitude": 14.3684005,
-      "max_latitude": 35.95977000000001,
-      "max_longitude": 14.4262694
-    },
-    "name": "Saint Paul's Bay"
+    "comments": null
   },
   "52": {
+    "name": "Sannat",
+    "code": null,
     "unofficial_names": "Sannat",
+    "geo": {
+      "latitude": 36.024444,
+      "longitude": 14.245833,
+      "min_latitude": 36.0114655,
+      "min_longitude": 14.2313128,
+      "max_latitude": 36.0304853,
+      "max_longitude": 14.2729834
+    },
     "translations": {
       "en": "Sannat",
       "ar": "سانات",
@@ -2706,23 +3044,29 @@
       "tr": "Sannat",
       "ur": "ساننات",
       "vi": "Sannat",
-      "zh": "萨纳"
+      "zh": "萨纳",
+      "lv": "Sanata",
+      "ceb": "Sannat",
+      "ccp": "𑄥𑄚𑄳𑄦𑄖𑄴",
+      "uk": "Саннат"
     },
-    "geo": {
-      "latitude": 36.024444,
-      "longitude": 14.245833,
-      "min_latitude": 36.0114655,
-      "min_longitude": 14.2313128,
-      "max_latitude": 36.0304853,
-      "max_longitude": 14.2729834
-    },
-    "name": "Sannat"
+    "comments": null
   },
   "53": {
+    "name": "Saint Lucia's",
+    "code": null,
     "unofficial_names": [
       "Saint Lucia's",
       "Santa Luċija"
     ],
+    "geo": {
+      "latitude": 35.8982574,
+      "longitude": 14.5126109,
+      "min_latitude": 35.896532,
+      "min_longitude": 14.510846,
+      "max_latitude": 35.9002424,
+      "max_longitude": 14.5142606
+    },
     "translations": {
       "en": "Santa Luċija",
       "ar": "سانتا لوزيجا",
@@ -2758,20 +3102,27 @@
       "th": "แคว้นโนโวซีบีสค์",
       "tr": "Santa Lucija",
       "ur": "سانتا لوچیا",
-      "vi": "Santa Lucija"
+      "vi": "Santa Lucija",
+      "lv": "Senlūsija",
+      "ceb": "Saint Lucia",
+      "zh": "桑塔露西亚市",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄣𑄪𑄥𑄨𑄎",
+      "uk": "Санта-Лучія"
     },
-    "geo": {
-      "latitude": 35.8982574,
-      "longitude": 14.5126109,
-      "min_latitude": 35.896532,
-      "min_longitude": 14.510846,
-      "max_latitude": 35.9002424,
-      "max_longitude": 14.5142606
-    },
-    "name": "Saint Lucia's"
+    "comments": null
   },
   "54": {
+    "name": "Santa Venera",
+    "code": null,
     "unofficial_names": "Santa Venera",
+    "geo": {
+      "latitude": 35.889722,
+      "longitude": 14.477778,
+      "min_latitude": 35.8839129,
+      "min_longitude": 14.4703674,
+      "max_latitude": 35.8951169,
+      "max_longitude": 14.4848298
+    },
     "translations": {
       "en": "Santa Venera",
       "ar": "سانتا فينيرا",
@@ -2810,20 +3161,25 @@
       "uk": "Санта-Венера",
       "ur": "سانتا وینیرا",
       "vi": "Santa Venera",
-      "zh": "聖韋內拉"
+      "zh": "聖韋內拉",
+      "lv": "Santa Venera",
+      "ceb": "Santa Venera",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄞𑄬𑄚𑄬𑄢"
     },
-    "geo": {
-      "latitude": 35.889722,
-      "longitude": 14.477778,
-      "min_latitude": 35.8839129,
-      "min_longitude": 14.4703674,
-      "max_latitude": 35.8951169,
-      "max_longitude": 14.4848298
-    },
-    "name": "Santa Venera"
+    "comments": null
   },
   "55": {
+    "name": "Siġġiewi",
+    "code": null,
     "unofficial_names": "Siġġiewi",
+    "geo": {
+      "latitude": 35.854167,
+      "longitude": 14.438333,
+      "min_latitude": 35.8260449,
+      "min_longitude": 14.389665,
+      "max_latitude": 35.8686038,
+      "max_longitude": 14.4725562
+    },
     "translations": {
       "en": "Siġġiewi",
       "ar": "بلدية سيقيوي",
@@ -2862,20 +3218,27 @@
       "tr": "Siggiewi",
       "ur": "سیججیوی",
       "vi": "Siggiewi",
-      "zh": "錫傑維"
+      "zh": "錫傑維",
+      "lv": "Sidživija",
+      "ceb": "Is-Siġġiewi (munisipyo sa Malta)",
+      "sr_Latn": "Sigijevi",
+      "ccp": "𑄥𑄨𑄉𑄳𑄦𑄨𑄠𑄬𑄅𑄪",
+      "uk": "Сіґґієві"
     },
-    "geo": {
-      "latitude": 35.854167,
-      "longitude": 14.438333,
-      "min_latitude": 35.8260449,
-      "min_longitude": 14.389665,
-      "max_latitude": 35.8686038,
-      "max_longitude": 14.4725562
-    },
-    "name": "Siġġiewi"
+    "comments": null
   },
   "56": {
+    "name": "Sliema",
+    "code": null,
     "unofficial_names": "Sliema",
+    "geo": {
+      "latitude": 35.912222,
+      "longitude": 14.504167,
+      "min_latitude": 35.9053452,
+      "min_longitude": 14.4929945,
+      "max_latitude": 35.918301,
+      "max_longitude": 14.5147771
+    },
     "translations": {
       "en": "Sliema",
       "ar": "سليمة",
@@ -2921,20 +3284,26 @@
       "uk": "Сліма",
       "ur": "سلیما",
       "vi": "Sliema",
-      "zh": "斯利馬"
+      "zh": "斯利馬",
+      "lv": "Sliema",
+      "sr_Latn": "Slijema",
+      "ccp": "𑄥𑄳𑄣𑄨𑄠𑄬𑄟",
+      "bs": "Sliema"
     },
-    "geo": {
-      "latitude": 35.912222,
-      "longitude": 14.504167,
-      "min_latitude": 35.9053452,
-      "min_longitude": 14.4929945,
-      "max_latitude": 35.918301,
-      "max_longitude": 14.5147771
-    },
-    "name": "Sliema"
+    "comments": null
   },
   "57": {
+    "name": "Swieqi",
+    "code": null,
     "unofficial_names": "Swieqi",
+    "geo": {
+      "latitude": 35.920833,
+      "longitude": 14.48,
+      "min_latitude": 35.91263240000001,
+      "min_longitude": 14.4549179,
+      "max_latitude": 35.933632,
+      "max_longitude": 14.4870293
+    },
     "translations": {
       "en": "Swieqi",
       "ar": "سويقي",
@@ -2973,20 +3342,26 @@
       "tr": "Sweiqi",
       "ur": "سویئای",
       "vi": "Swieqi",
-      "zh": "斯維吉"
+      "zh": "斯維吉",
+      "lv": "Svieki",
+      "ceb": "Is-Swieqi (munisipyo sa Malta)",
+      "ccp": "𑄥𑄪𑄠𑄬𑄇𑄨",
+      "uk": "Свікі"
     },
-    "geo": {
-      "latitude": 35.920833,
-      "longitude": 14.48,
-      "min_latitude": 35.91263240000001,
-      "min_longitude": 14.4549179,
-      "max_latitude": 35.933632,
-      "max_longitude": 14.4870293
-    },
-    "name": "Swieqi"
+    "comments": null
   },
   "58": {
+    "name": "Ta' Xbiex",
+    "code": null,
     "unofficial_names": "Ta' Xbiex",
+    "geo": {
+      "latitude": 35.899167,
+      "longitude": 14.498056,
+      "min_latitude": 35.8971043,
+      "min_longitude": 14.4907093,
+      "max_latitude": 35.9018784,
+      "max_longitude": 14.5006294
+    },
     "translations": {
       "en": "Ta’ Xbiex",
       "ar": "تا إزبيكس",
@@ -3023,20 +3398,27 @@
       "th": "ตา ซีบริก",
       "tr": "Ta’Zbiex",
       "ur": "تآشبیئش",
-      "vi": "Ta’ Xbiex"
+      "vi": "Ta’ Xbiex",
+      "lv": "Tašbiša",
+      "ceb": "Ta’ Xbiex",
+      "zh": "塔比克斯",
+      "ccp": "𑄑‘ 𑄝𑄨𑄠𑄬𑄇𑄴",
+      "uk": "Та-Шбіш"
     },
-    "geo": {
-      "latitude": 35.899167,
-      "longitude": 14.498056,
-      "min_latitude": 35.8971043,
-      "min_longitude": 14.4907093,
-      "max_latitude": 35.9018784,
-      "max_longitude": 14.5006294
-    },
-    "name": "Ta' Xbiex"
+    "comments": null
   },
   "59": {
+    "name": "Tarxien",
+    "code": null,
     "unofficial_names": "Tarxien",
+    "geo": {
+      "latitude": 35.86583299999999,
+      "longitude": 14.511944,
+      "min_latitude": 35.8615915,
+      "min_longitude": 14.5054303,
+      "max_latitude": 35.8737554,
+      "max_longitude": 14.5204097
+    },
     "translations": {
       "en": "Tarxien",
       "ar": "تشرزين",
@@ -3076,20 +3458,24 @@
       "uk": "Таршіен",
       "ur": "تارشیئن",
       "vi": "Tarxien",
-      "zh": "塔爾欣"
+      "zh": "塔爾欣",
+      "lv": "Taršina",
+      "ccp": "𑄑𑄢𑄴𑄎𑄨𑄠𑄬𑄚𑄴"
     },
-    "geo": {
-      "latitude": 35.86583299999999,
-      "longitude": 14.511944,
-      "min_latitude": 35.8615915,
-      "min_longitude": 14.5054303,
-      "max_latitude": 35.8737554,
-      "max_longitude": 14.5204097
-    },
-    "name": "Tarxien"
+    "comments": null
   },
   "60": {
+    "name": "Valletta",
+    "code": null,
     "unofficial_names": "Valletta",
+    "geo": {
+      "latitude": 35.8989085,
+      "longitude": 14.5145528,
+      "min_latitude": 35.8932982,
+      "min_longitude": 14.5055526,
+      "max_latitude": 35.9035645,
+      "max_longitude": 14.5207718
+    },
     "translations": {
       "en": "Valletta",
       "af": "Valletta",
@@ -3151,20 +3537,39 @@
       "uk": "Валлетта",
       "ur": "والیٹا",
       "vi": "Valletta",
-      "zh": "瓦莱塔"
+      "zh": "瓦莱塔",
+      "cy": "Valletta",
+      "ceb": "Valletta",
+      "sr_Latn": "Valeta",
+      "yue_Hans": "华列他",
+      "sq": "Valeta",
+      "ccp": "𑄞𑄣𑄬𑄖𑄳𑄦",
+      "ga": "Vaileite",
+      "ky": "Валлетта",
+      "so": "Valletta",
+      "pa": "ਵਲੈਟਾ",
+      "kk": "Валлетта",
+      "yue": "華列他",
+      "my": "ဗယ်လက်တာမြို့",
+      "yo": "Valletta",
+      "uz": "Valletta",
+      "bs": "Valletta",
+      "mk": "Валета"
     },
-    "geo": {
-      "latitude": 35.8989085,
-      "longitude": 14.5145528,
-      "min_latitude": 35.8932982,
-      "min_longitude": 14.5055526,
-      "max_latitude": 35.9035645,
-      "max_longitude": 14.5207718
-    },
-    "name": "Valletta"
+    "comments": null
   },
   "61": {
+    "name": "Xagħra",
+    "code": null,
     "unofficial_names": "Xagħra",
+    "geo": {
+      "latitude": 36.050278,
+      "longitude": 14.2675,
+      "min_latitude": 36.0379885,
+      "min_longitude": 14.2497419,
+      "max_latitude": 36.0732968,
+      "max_longitude": 14.2847375
+    },
     "translations": {
       "en": "Xagħra",
       "ar": "بلدة زاجورا",
@@ -3201,20 +3606,27 @@
       "th": "ซาเกร็บ",
       "tr": "Xaghra",
       "ur": "شارا",
-      "vi": "Xaghra"
+      "vi": "Xaghra",
+      "lv": "Šagra",
+      "ceb": "Ix-Xagħra",
+      "zh": "沙拉",
+      "ccp": "𑄎𑄇𑄴𑄢",
+      "uk": "Шаара"
     },
-    "geo": {
-      "latitude": 36.050278,
-      "longitude": 14.2675,
-      "min_latitude": 36.0379885,
-      "min_longitude": 14.2497419,
-      "max_latitude": 36.0732968,
-      "max_longitude": 14.2847375
-    },
-    "name": "Xagħra"
+    "comments": null
   },
   "62": {
+    "name": "Xewkija",
+    "code": null,
     "unofficial_names": "Xewkija",
+    "geo": {
+      "latitude": 36.033009,
+      "longitude": 14.26234,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Xewkija",
       "ar": "شوكية",
@@ -3250,20 +3662,27 @@
       "th": "ซิวคิจา",
       "tr": "Xekija",
       "ur": "شیوکیا",
-      "vi": "Xewkija"
+      "vi": "Xewkija",
+      "lv": "Šeukidža",
+      "ceb": "Ix-Xewkija",
+      "zh": "绍基亚",
+      "ccp": "𑄎𑄬𑄃𑄮𑄇𑄨𑄎",
+      "uk": "Шевкія"
     },
-    "geo": {
-      "latitude": 36.033009,
-      "longitude": 14.26234,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Xewkija"
+    "comments": null
   },
   "63": {
+    "name": "Xgħajra",
+    "code": null,
     "unofficial_names": "Xgħajra",
+    "geo": {
+      "latitude": 35.8868282,
+      "longitude": 14.5472391,
+      "min_latitude": 35.8791327,
+      "min_longitude": 14.5347666,
+      "max_latitude": 35.8899212,
+      "max_longitude": 14.5571618
+    },
     "translations": {
       "en": "Xgħajra",
       "ar": "زغواجرا",
@@ -3300,20 +3719,27 @@
       "th": "ซักฮาจรา",
       "tr": "Xghajra",
       "ur": "شایرا",
-      "vi": "Xghajra"
+      "vi": "Xghajra",
+      "lv": "Šgaira",
+      "ceb": "Ix-Xgħajra",
+      "zh": "哈加",
+      "ccp": "𑄊𑄇𑄴𑄢",
+      "uk": "Шайра"
     },
-    "geo": {
-      "latitude": 35.8868282,
-      "longitude": 14.5472391,
-      "min_latitude": 35.8791327,
-      "min_longitude": 14.5347666,
-      "max_latitude": 35.8899212,
-      "max_longitude": 14.5571618
-    },
-    "name": "Xgħajra"
+    "comments": null
   },
   "64": {
+    "name": "Żabbar",
+    "code": null,
     "unofficial_names": "Żabbar",
+    "geo": {
+      "latitude": 35.877222,
+      "longitude": 14.538056,
+      "min_latitude": 35.8639058,
+      "min_longitude": 14.5267365,
+      "max_latitude": 35.8848922,
+      "max_longitude": 14.5641411
+    },
     "translations": {
       "en": "Żabbar",
       "ar": "جبار",
@@ -3355,23 +3781,31 @@
       "uk": "Заббар",
       "ur": "زابار",
       "vi": "Zabbar",
-      "zh": "扎巴爾"
+      "zh": "扎巴爾",
+      "lv": "Zabara",
+      "ceb": "Ħaż-Żabbar",
+      "sr_Latn": "Zabar",
+      "ccp": "𑄎𑄧𑄝𑄳𑄦𑄢𑄴",
+      "be": "Забар",
+      "mk": "Забар (Малта)"
     },
-    "geo": {
-      "latitude": 35.877222,
-      "longitude": 14.538056,
-      "min_latitude": 35.8639058,
-      "min_longitude": 14.5267365,
-      "max_latitude": 35.8848922,
-      "max_longitude": 14.5641411
-    },
-    "name": "Żabbar"
+    "comments": null
   },
   "65": {
+    "name": "Żebbuġ Gozo",
+    "code": null,
     "unofficial_names": [
       "Żebbuġ Gozo",
       "Żebbuġ Għawdex"
     ],
+    "geo": {
+      "latitude": 36.070833,
+      "longitude": 14.236944,
+      "min_latitude": 36.0490571,
+      "min_longitude": 14.2263722,
+      "max_latitude": 36.0822238,
+      "max_longitude": 14.266588
+    },
     "translations": {
       "en": "Żebbuġ Gozo",
       "ca": "Żebbuġ",
@@ -3388,20 +3822,25 @@
       "pl": "Żebbuġ",
       "pt": "Żebbuġ (Gozo)",
       "sv": "Iż-Żebbuġ",
-      "ur": "زیبوج، گوزو"
+      "ur": "زیبوج، گوزو",
+      "ceb": "Iż-Żebbuġ",
+      "zh": "泽布季 (戈佐岛)",
+      "ccp": "𑄎𑄬𑄝𑄪𑄇𑄴 𑄉𑄮𑄎𑄮"
     },
-    "geo": {
-      "latitude": 36.070833,
-      "longitude": 14.236944,
-      "min_latitude": 36.0490571,
-      "min_longitude": 14.2263722,
-      "max_latitude": 36.0822238,
-      "max_longitude": 14.266588
-    },
-    "name": "Żebbuġ Gozo"
+    "comments": null
   },
   "66": {
+    "name": "Żebbuġ Malta",
+    "code": null,
     "unofficial_names": "Żebbuġ Malta",
+    "geo": {
+      "latitude": 35.873056,
+      "longitude": 14.441944,
+      "min_latitude": 35.8603872,
+      "min_longitude": 14.4119275,
+      "max_latitude": 35.886147,
+      "max_longitude": 14.4665909
+    },
     "translations": {
       "en": "Żebbuġ",
       "ar": "زيباغ",
@@ -3443,20 +3882,26 @@
       "uk": "Зеббудж",
       "ur": "زیبوج",
       "vi": "Zebbug",
-      "zh": "澤布季"
+      "zh": "澤布季",
+      "lv": "Zebuča",
+      "ceb": "Ħaż-Żebbuġ",
+      "sr_Latn": "Zebug",
+      "ccp": "𑄎𑄬𑄝𑄪𑄇𑄴"
     },
-    "geo": {
-      "latitude": 35.873056,
-      "longitude": 14.441944,
-      "min_latitude": 35.8603872,
-      "min_longitude": 14.4119275,
-      "max_latitude": 35.886147,
-      "max_longitude": 14.4665909
-    },
-    "name": "Żebbuġ Malta"
+    "comments": null
   },
   "67": {
+    "name": "Żejtun",
+    "code": null,
     "unofficial_names": "Żejtun",
+    "geo": {
+      "latitude": 35.855556,
+      "longitude": 14.533333,
+      "min_latitude": 35.845767,
+      "min_longitude": 14.5151017,
+      "max_latitude": 35.8699403,
+      "max_longitude": 14.5527028
+    },
     "translations": {
       "en": "Żejtun",
       "ar": "الزيتون",
@@ -3496,20 +3941,26 @@
       "uk": "Зейтун",
       "ur": "زیتون، مالٹا",
       "vi": "Zejtun",
-      "zh": "榟橔"
+      "zh": "榟橔",
+      "lv": "Zejtuna",
+      "ceb": "Iż-Żejtun",
+      "sr_Latn": "Zejtun",
+      "ccp": "𑄎𑄬𑄇𑄴𑄑𑄪𑄚𑄴"
     },
-    "geo": {
-      "latitude": 35.855556,
-      "longitude": 14.533333,
-      "min_latitude": 35.845767,
-      "min_longitude": 14.5151017,
-      "max_latitude": 35.8699403,
-      "max_longitude": 14.5527028
-    },
-    "name": "Żejtun"
+    "comments": null
   },
   "68": {
+    "name": "Żurrieq",
+    "code": null,
     "unofficial_names": "Żurrieq",
+    "geo": {
+      "latitude": 35.829167,
+      "longitude": 14.475833,
+      "min_latitude": 35.8126989,
+      "min_longitude": 14.4575752,
+      "max_latitude": 35.8404648,
+      "max_longitude": 14.5144888
+    },
     "translations": {
       "en": "Żurrieq",
       "ar": "زرياق",
@@ -3549,17 +4000,12 @@
       "uk": "Зуррік",
       "ur": "زوریئا",
       "vi": "Zurrieq",
-      "zh": "祖里格"
+      "zh": "祖里格",
+      "lv": "Zurrī",
+      "ceb": "Iż-Żurrieq",
+      "ccp": "𑄎𑄪𑄢𑄨𑄠𑄬𑄇𑄴"
     },
-    "geo": {
-      "latitude": 35.829167,
-      "longitude": 14.475833,
-      "min_latitude": 35.8126989,
-      "min_longitude": 14.4575752,
-      "max_latitude": 35.8404648,
-      "max_longitude": 14.5144888
-    },
-    "name": "Żurrieq"
+    "comments": null
   }
 }
 

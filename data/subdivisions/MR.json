@@ -1,10 +1,20 @@
 {
   "01": {
+    "name": "Hodh ech Chargui",
+    "code": null,
     "unofficial_names": [
       "Hud-ash-Sharqi",
       "Huđ-aš-Šarqi",
       "Hodh ech Chargui"
     ],
+    "geo": {
+      "latitude": 18.6737026,
+      "longitude": -7.092877,
+      "min_latitude": 15.4940749,
+      "min_longitude": -9.1601299,
+      "max_latitude": 23.0624689,
+      "max_longitude": -5.327115099999999
+    },
     "translations": {
       "en": "Hodh Ech Chargui",
       "ar": "ولاية الحوض الشرقي",
@@ -40,24 +50,30 @@
       "tr": "Hodh Ech Chargui Bölgesi",
       "ur": "حوض الشرقی علاقہ",
       "vi": "Khu vực Hodh Ech Chargui",
-      "zh": "東胡德省"
+      "zh": "東胡德省",
+      "lv": "Austrumhodas vilājs",
+      "ceb": "Hodh ech Chargui",
+      "ccp": "𑄦𑄧𑄖𑄴 𑄃𑄬𑄇𑄴 𑄌𑄢𑄴𑄉𑄭𑄪",
+      "uk": "Регіон Год-еш-Шарґі"
     },
-    "geo": {
-      "latitude": 18.6737026,
-      "longitude": -7.092877,
-      "min_latitude": 15.4940749,
-      "min_longitude": -9.1601299,
-      "max_latitude": 23.0624689,
-      "max_longitude": -5.327115099999999
-    },
-    "name": "Hodh ech Chargui"
+    "comments": null
   },
   "02": {
+    "name": "Hodh el Gharbi",
+    "code": null,
     "unofficial_names": [
       "Hud-al-Garbi",
       "Huđ-al-Ġarbi",
       "Hodh el Gharbi"
     ],
+    "geo": {
+      "latitude": 16.6912149,
+      "longitude": -9.5450974,
+      "min_latitude": 15.3565569,
+      "min_longitude": -11.087025,
+      "max_latitude": 17.681594,
+      "max_longitude": -8.2803349
+    },
     "translations": {
       "en": "Hodh El Gharbi",
       "ar": "ولاية الحوض الغربي",
@@ -92,23 +108,30 @@
       "th": "ฮอร์ด เอล การ์บิ",
       "tr": "Hodh El Garbi",
       "ur": "حوض الغربی علاقہ",
-      "vi": "Khu vực Hodh El Gharbi"
+      "vi": "Khu vực Hodh El Gharbi",
+      "lv": "Hod el Garbi reģions",
+      "ceb": "Hodh el Gharbi",
+      "zh": "西胡德省",
+      "ccp": "𑄦𑄧𑄖𑄴 𑄃𑄬𑄣𑄴 𑄊𑄢𑄴𑄝𑄭",
+      "uk": "Регіон Ход-Ель-Гарбі"
     },
-    "geo": {
-      "latitude": 16.6912149,
-      "longitude": -9.5450974,
-      "min_latitude": 15.3565569,
-      "min_longitude": -11.087025,
-      "max_latitude": 17.681594,
-      "max_longitude": -8.2803349
-    },
-    "name": "Hodh el Gharbi"
+    "comments": null
   },
   "03": {
+    "name": "Assaba",
+    "code": null,
     "unofficial_names": [
       "aş-Şabah",
       "Açaba"
     ],
+    "geo": {
+      "latitude": 16.7759558,
+      "longitude": -11.5248055,
+      "min_latitude": 15.1036179,
+      "min_longitude": -12.878715,
+      "max_latitude": 18.297223,
+      "max_longitude": -10.596743
+    },
     "translations": {
       "en": "Assaba",
       "ar": "ولاية العصابة",
@@ -144,22 +167,29 @@
       "th": "อัซซาบา",
       "tr": "Assaba Bölgesi",
       "ur": "عصابہ علاقہ",
-      "vi": "Khu vực Assaba"
+      "vi": "Khu vực Assaba",
+      "lv": "Asābas vilājs",
+      "ceb": "Assaba",
+      "zh": "阿薩巴省",
+      "ccp": "𑄃𑄥𑄝",
+      "uk": "Регіон Асаба"
     },
-    "geo": {
-      "latitude": 16.7759558,
-      "longitude": -11.5248055,
-      "min_latitude": 15.1036179,
-      "min_longitude": -12.878715,
-      "max_latitude": 18.297223,
-      "max_longitude": -10.596743
-    },
-    "name": "Assaba"
+    "comments": null
   },
   "04": {
+    "name": "Gorgol",
+    "code": null,
     "unofficial_names": [
       "Gorgol"
     ],
+    "geo": {
+      "latitude": 15.9717357,
+      "longitude": -12.6216211,
+      "min_latitude": 15.129403,
+      "min_longitude": -13.7075859,
+      "max_latitude": 16.666545,
+      "max_longitude": -11.962182
+    },
     "translations": {
       "en": "Gorgol",
       "ar": "ولاية كوركول",
@@ -194,20 +224,27 @@
       "th": "เขตกอร์กอล",
       "tr": "Gorgol Region",
       "ur": "گورگول علاقہ",
-      "vi": "Khu vực Gorgol"
+      "vi": "Khu vực Gorgol",
+      "lv": "Gorgolas vilājs",
+      "ceb": "Gorgol",
+      "zh": "戈爾戈勒省",
+      "ccp": "𑄉𑄧𑄢𑄴𑄉𑄮𑄣𑄴",
+      "uk": "Регіон Горголь"
     },
-    "geo": {
-      "latitude": 15.9717357,
-      "longitude": -12.6216211,
-      "min_latitude": 15.129403,
-      "min_longitude": -13.7075859,
-      "max_latitude": 16.666545,
-      "max_longitude": -11.962182
-    },
-    "name": "Gorgol"
+    "comments": null
   },
   "05": {
+    "name": "Brakna",
+    "code": null,
     "unofficial_names": "Brakna",
+    "geo": {
+      "latitude": 17.2317561,
+      "longitude": -13.1740348,
+      "min_latitude": 16.1070999,
+      "min_longitude": -14.874167,
+      "max_latitude": 18.567634,
+      "max_longitude": -12.3068541
+    },
     "translations": {
       "en": "Brakna",
       "ar": "ولاية البراكنة",
@@ -244,20 +281,27 @@
       "th": "บรากนา",
       "tr": "Brakna Bölgesi",
       "ur": "براکنہ علاقہ",
-      "vi": "Khu vực Brakna"
+      "vi": "Khu vực Brakna",
+      "lv": "Braknas vilājs",
+      "ceb": "Brakna",
+      "zh": "卜拉克納省",
+      "ccp": "𑄝𑄳𑄢𑄇𑄴𑄚",
+      "uk": "Регіон Бракна"
     },
-    "geo": {
-      "latitude": 17.2317561,
-      "longitude": -13.1740348,
-      "min_latitude": 16.1070999,
-      "min_longitude": -14.874167,
-      "max_latitude": 18.567634,
-      "max_longitude": -12.3068541
-    },
-    "name": "Brakna"
+    "comments": null
   },
   "06": {
+    "name": "Trarza",
+    "code": null,
     "unofficial_names": "Trarza",
+    "geo": {
+      "latitude": 17.8664964,
+      "longitude": -14.6587821,
+      "min_latitude": 16.062185,
+      "min_longitude": -16.5152361,
+      "max_latitude": 18.9968821,
+      "max_longitude": -12.711503
+    },
     "translations": {
       "en": "Trarza",
       "ar": "ولاية الترارزة",
@@ -293,20 +337,28 @@
       "th": "เขตทราซา",
       "tr": "Trarza Bölgesi",
       "ur": "ترارزہ علاقہ",
-      "vi": "Khu vực Trarza"
+      "vi": "Khu vực Trarza",
+      "lv": "Trarzas vilājs",
+      "ceb": "Wilaya du Trarza",
+      "zh": "特拉扎省",
+      "ccp": "𑄑𑄳𑄢𑄢𑄴𑄎",
+      "uk": "Регіон Трарза",
+      "cs": "Trarza"
     },
-    "geo": {
-      "latitude": 17.8664964,
-      "longitude": -14.6587821,
-      "min_latitude": 16.062185,
-      "min_longitude": -16.5152361,
-      "max_latitude": 18.9968821,
-      "max_longitude": -12.711503
-    },
-    "name": "Trarza"
+    "comments": null
   },
   "07": {
+    "name": "Adrar",
+    "code": null,
     "unofficial_names": "Adrar",
+    "geo": {
+      "latitude": 19.8652176,
+      "longitude": -12.8054753,
+      "min_latitude": 18.567634,
+      "min_longitude": -14.287234,
+      "max_latitude": 24.0316981,
+      "max_longitude": -6.343229
+    },
     "translations": {
       "en": "Adrar",
       "ar": "ولاية أدرار",
@@ -344,24 +396,31 @@
       "th": "เขตอาดราร์",
       "tr": "Adrar Bölgesi",
       "ur": "آدرار علاقہ",
-      "vi": "Khu vực Adrar"
+      "vi": "Khu vực Adrar",
+      "lv": "Adrāras vilājs",
+      "ceb": "Adrar",
+      "zh": "阿德拉爾省 (毛里塔尼亞)",
+      "ccp": "𑄃𑄓𑄳𑄢𑄢𑄴",
+      "uk": "Адрар"
     },
-    "geo": {
-      "latitude": 19.8652176,
-      "longitude": -12.8054753,
-      "min_latitude": 18.567634,
-      "min_longitude": -14.287234,
-      "max_latitude": 24.0316981,
-      "max_longitude": -6.343229
-    },
-    "name": "Adrar"
+    "comments": null
   },
   "08": {
+    "name": "Dakhlet Nouâdhibou",
+    "code": null,
     "unofficial_names": [
       "Dakhlat Nawadibu",
       "Đaẖlat Nawadību",
       "Dakhlet Nouadhibou"
     ],
+    "geo": {
+      "latitude": 20.5985588,
+      "longitude": -16.2522143,
+      "min_latitude": 19.275669,
+      "min_longitude": -17.066521,
+      "max_latitude": 21.3397559,
+      "max_longitude": -15.624716
+    },
     "translations": {
       "en": "Dakhlet Nouadhibou",
       "ar": "داخلة نواذيبو",
@@ -396,22 +455,29 @@
       "th": "ดาฮ์เลท นวดฮิลบูว",
       "tr": "Dakhlet Nouadhi",
       "ur": "داخلت نواذیبو علاقہ",
-      "vi": "Dakhlet Nouadhibou"
+      "vi": "Dakhlet Nouadhibou",
+      "lv": "Dahlet-Nuadibu vilājs",
+      "ceb": "Dakhlet Nouadhibou",
+      "zh": "努瓦迪布灣省",
+      "ccp": "𑄓𑄇𑄴𑄣𑄬𑄖𑄴 𑄥𑄯𑄃𑄓𑄨𑄝𑄯",
+      "uk": "Регіон Дахлет-Нуадібу"
     },
-    "geo": {
-      "latitude": 20.5985588,
-      "longitude": -16.2522143,
-      "min_latitude": 19.275669,
-      "min_longitude": -17.066521,
-      "max_latitude": 21.3397559,
-      "max_longitude": -15.624716
-    },
-    "name": "Dakhlet Nouâdhibou"
+    "comments": null
   },
   "09": {
+    "name": "Tagant",
+    "code": null,
     "unofficial_names": [
       "Tagant"
     ],
+    "geo": {
+      "latitude": 18.5467527,
+      "longitude": -9.9018131,
+      "min_latitude": 17.059023,
+      "min_longitude": -12.711503,
+      "max_latitude": 19.9094811,
+      "max_longitude": -7.8348294
+    },
     "translations": {
       "en": "Tagant",
       "ar": "ولاية تكانت",
@@ -447,22 +513,29 @@
       "th": "ภูมิภาคทากันท์",
       "tr": "Tagant Bölgesi",
       "ur": "تکانت علاقہ",
-      "vi": "Khu vực Tagant"
+      "vi": "Khu vực Tagant",
+      "lv": "Tagantas vilājs",
+      "ceb": "Tagant",
+      "zh": "塔甘特省",
+      "ccp": "𑄑𑄬𑄚𑄴𑄎𑄬𑄚𑄳𑄑𑄴",
+      "uk": "Регіон Тагант"
     },
-    "geo": {
-      "latitude": 18.5467527,
-      "longitude": -9.9018131,
-      "min_latitude": 17.059023,
-      "min_longitude": -12.711503,
-      "max_latitude": 19.9094811,
-      "max_longitude": -7.8348294
-    },
-    "name": "Tagant"
+    "comments": null
   },
   "10": {
+    "name": "Guidimaka",
+    "code": null,
     "unofficial_names": [
       "Guidimaka"
     ],
+    "geo": {
+      "latitude": 15.2557331,
+      "longitude": -12.2547919,
+      "min_latitude": 14.7155461,
+      "min_longitude": -12.7553479,
+      "max_latitude": 16.141872,
+      "max_longitude": -11.596648
+    },
     "translations": {
       "en": "Guidimaka",
       "ar": "ولاية غيديماغا",
@@ -498,24 +571,31 @@
       "th": "กุยดิมากา",
       "tr": "Guidimaka Bölgesi",
       "ur": "گیدیماغا علاقہ",
-      "vi": "Khu vực Guidimaka"
+      "vi": "Khu vực Guidimaka",
+      "lv": "Gidimakas vilājs",
+      "ceb": "Guidimaka",
+      "zh": "吉迪馬卡省",
+      "ccp": "𑄉𑄭𑄪𑄓𑄨𑄟𑄇",
+      "uk": "Регіон Ґідімака (Кудимага)"
     },
-    "geo": {
-      "latitude": 15.2557331,
-      "longitude": -12.2547919,
-      "min_latitude": 14.7155461,
-      "min_longitude": -12.7553479,
-      "max_latitude": 16.141872,
-      "max_longitude": -11.596648
-    },
-    "name": "Guidimaka"
+    "comments": null
   },
   "11": {
+    "name": "Tiris Zemmour",
+    "code": null,
     "unofficial_names": [
       "Tiris Zammur",
       "Tiris Zammūr",
       "Tiris Zemmour"
     ],
+    "geo": {
+      "latitude": 24.5773764,
+      "longitude": -9.9018131,
+      "min_latitude": 21.151442,
+      "min_longitude": -13.1396484,
+      "max_latitude": 27.2980729,
+      "max_longitude": -4.8276739
+    },
     "translations": {
       "en": "Tiris Zemmour",
       "ar": "ولاية تيرس زمور",
@@ -550,23 +630,30 @@
       "th": "ทิริส เซ็มมัวร์",
       "tr": "Tiris Zemmour Bölgesi",
       "ur": "تیرس زمور علاقہ",
-      "vi": "Khu vực Tiris Zemmour"
+      "vi": "Khu vực Tiris Zemmour",
+      "lv": "Tīris Zemmūras vilājs",
+      "ceb": "Tiris Zemmour",
+      "zh": "提里斯-宰穆爾省",
+      "ccp": "𑄑𑄨𑄢𑄨𑄌𑄴 𑄎𑄬𑄟𑄴𑄟𑄯𑄢𑄴",
+      "uk": "Регіон Тіріс-Земур"
     },
-    "geo": {
-      "latitude": 24.5773764,
-      "longitude": -9.9018131,
-      "min_latitude": 21.151442,
-      "min_longitude": -13.1396484,
-      "max_latitude": 27.2980729,
-      "max_longitude": -4.8276739
-    },
-    "name": "Tiris Zemmour"
+    "comments": null
   },
   "12": {
+    "name": "Inchiri",
+    "code": null,
     "unofficial_names": [
       "Inširi",
       "Inchiri"
     ],
+    "geo": {
+      "latitude": 20.0280561,
+      "longitude": -15.4068079,
+      "min_latitude": 18.9205761,
+      "min_longitude": -16.472452,
+      "max_latitude": 21.3430535,
+      "max_longitude": -14.1486749
+    },
     "translations": {
       "en": "Inchiri",
       "ar": "ولاية إينشيري",
@@ -603,28 +690,23 @@
       "tr": "Ichiri Bölgesi",
       "uk": "Інширі",
       "ur": "اینشیری",
-      "vi": "Khu vực Inchiri"
+      "vi": "Khu vực Inchiri",
+      "lv": "Inširi vilājs",
+      "ceb": "Inchiri",
+      "zh": "因希里省",
+      "ccp": "𑄃𑄨𑄚𑄴𑄌𑄨𑄢𑄨"
     },
-    "geo": {
-      "latitude": 20.0280561,
-      "longitude": -15.4068079,
-      "min_latitude": 18.9205761,
-      "min_longitude": -16.472452,
-      "max_latitude": 21.3430535,
-      "max_longitude": -14.1486749
-    },
-    "name": "Inchiri"
+    "comments": null
   },
   "NKC": {
+    "name": "Nouakchott",
+    "code": null,
     "unofficial_names": [
       "Anwāksūţ",
       "Nawakshut",
       "Nawākšūţ",
       "Nouakchott"
     ],
-    "translations": {
-      "en": "Nouakchott"
-    },
     "geo": {
       "latitude": 18.1,
       "longitude": -15.95,
@@ -633,28 +715,78 @@
       "max_latitude": 18.1614863,
       "max_longitude": -15.8803537
     },
-    "name": "Nouakchott"
+    "translations": {
+      "en": "Nouakchott",
+      "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nouakchott Ouest",
       "ja": "ヌアクショット西",
-      "ko": "서누악쇼트 주"
-    }
+      "ko": "서누악쇼트 주",
+      "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄃𑄧𑄠𑄬𑄌𑄴𑄑𑄴",
+      "fr": "Nouakchott-Ouest"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nouakchott Nord",
       "ja": "ヌアクショット北",
-      "ko": "북누악쇼트 주"
-    }
+      "ko": "북누악쇼트 주",
+      "ar": "نواكشوط الشمالية",
+      "ru": "Нуакшот-Нор",
+      "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄚𑄧𑄢𑄴𑄓𑄴",
+      "fr": "Nouakchott-Nord"
+    },
+    "comments": null
   },
   "15": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nouakchott Sud",
       "ja": "ヌアクショット南",
-      "ko": "남누악쇼트 주"
-    }
+      "ko": "남누악쇼트 주",
+      "ar": "نواكشوط الجنوبية",
+      "ru": "Нуакшот-Сюд",
+      "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄥𑄖𑄴",
+      "fr": "Nouakchott-Sud"
+    },
+    "comments": null
   }
 }
 

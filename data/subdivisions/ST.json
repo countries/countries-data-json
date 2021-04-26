@@ -1,6 +1,16 @@
 {
   "P": {
+    "name": "Príncipe",
+    "code": null,
     "unofficial_names": "Príncipe",
+    "geo": {
+      "latitude": 1.6139381,
+      "longitude": 7.4056928,
+      "min_latitude": 1.35852,
+      "min_longitude": 7.2647591,
+      "max_latitude": 1.6929356,
+      "max_longitude": 7.462463499999999
+    },
     "translations": {
       "en": "Príncipe",
       "ca": "Regió Autònoma de Príncipe",
@@ -10,29 +20,17 @@
       "ja": "プリンシペ州",
       "nb": "Príncipe",
       "pt": "Príncipe",
-      "ur": "پرنسپے صوبہ"
+      "ur": "پرنسپے صوبہ",
+      "ccp": "𑄛𑄳𑄢𑄨𑄚𑄴𑄥𑄨𑄛𑄴",
+      "ka": "პრინსიპის პროვინცია",
+      "mk": "Принсипе"
     },
-    "geo": {
-      "latitude": 1.6139381,
-      "longitude": 7.4056928,
-      "min_latitude": 1.35852,
-      "min_longitude": 7.2647591,
-      "max_latitude": 1.6929356,
-      "max_longitude": 7.462463499999999
-    },
-    "name": "Príncipe"
+    "comments": null
   },
   "S": {
+    "name": "São Tomé",
+    "code": null,
     "unofficial_names": "São Tomé",
-    "translations": {
-      "en": "São Tomé",
-      "ca": "Província de São Tomé",
-      "fr": "province de Sao Tomé",
-      "it": "Provincia di São Tomé",
-      "ja": "サントメ州",
-      "nb": "São Tomé",
-      "ru": "провинция Сан-Томе"
-    },
     "geo": {
       "latitude": 0.3301924,
       "longitude": 6.733343,
@@ -41,7 +39,21 @@
       "max_latitude": 0.3843648000000001,
       "max_longitude": 6.7529951
     },
-    "name": "São Tomé"
+    "translations": {
+      "en": "São Tomé",
+      "ca": "Província de São Tomé",
+      "fr": "province de Sao Tomé",
+      "it": "Provincia di São Tomé",
+      "ja": "サントメ州",
+      "nb": "São Tomé",
+      "ru": "провинция Сан-Томе",
+      "ceb": "São Tomé (lalawigan)",
+      "ar": "محافظة ساو تومي",
+      "ur": "ساؤ ٹومے صوبہ",
+      "ccp": "𑄥𑄃𑄮 𑄑𑄮𑄟𑄴",
+      "ka": "სან-ტომეს პროვინცია"
+    },
+    "comments": null
   }
 }
 

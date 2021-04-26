@@ -1,9 +1,8 @@
 {
   "N": {
+    "name": "Nord",
+    "code": null,
     "unofficial_names": "Nord",
-    "translations": {
-      "en": "Nord"
-    },
     "geo": {
       "latitude": -21.05,
       "longitude": 164.9,
@@ -12,14 +11,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Nord",
+    "translations": {
+      "en": "Nord"
+    },
     "comments": null
   },
   "S": {
+    "name": "Sud",
+    "code": null,
     "unofficial_names": "Sud",
-    "translations": {
-      "en": "Sud"
-    },
     "geo": {
       "latitude": -21.75,
       "longitude": 165.83333,
@@ -28,14 +28,15 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Sud",
+    "translations": {
+      "en": "Sud"
+    },
     "comments": null
   },
   "L": {
+    "name": "Iles Loyaute",
+    "code": null,
     "unofficial_names": "Iles Loyaute",
-    "translations": {
-      "en": "Iles Loyaute"
-    },
     "geo": {
       "latitude": -20.91911,
       "longitude": 167.26135,
@@ -44,7 +45,26 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Iles Loyaute",
+    "translations": {
+      "en": "Iles Loyaute"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 35.7595731,
+      "longitude": -79.01929969999999,
+      "min_latitude": 33.7528778,
+      "min_longitude": -84.32186899999999,
+      "max_latitude": 36.5881568,
+      "max_longitude": -75.400119
+    },
+    "translations": {
+      "en": "New Caledonia"
+    },
     "comments": null
   }
 }

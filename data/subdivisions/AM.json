@@ -1,6 +1,16 @@
 {
   "AG": {
+    "name": "Aragacotn",
+    "code": null,
     "unofficial_names": "Aragacotn",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Aragatsotn",
       "ar": "محافظة آراغاتسوتن",
@@ -50,20 +60,33 @@
       "uk": "Араґацотн",
       "ur": "آراگاتسوتن صوبہ",
       "vi": "Aragatsotn",
-      "zh": "阿拉加措特恩省"
+      "zh": "阿拉加措特恩省",
+      "lv": "Aragatsotnas province",
+      "ceb": "Aragatsotni Marz",
+      "sr_Latn": "Aragacotn",
+      "yue_Hans": "阿拉加措特恩省",
+      "ccp": "𑄃𑄢𑄉𑄖𑄴𑄥𑄧𑄖𑄳𑄚𑄴",
+      "gl": "Provincia de Aragatsotn",
+      "eu": "Aragatsotn",
+      "pa": "ਅਰਾਗਤਸੋਤਨ",
+      "yue": "阿拉加措特恩省",
+      "bs": "Aragacotn",
+      "mk": "Арагацотн"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Aragacotn"
+    "comments": null
   },
   "AR": {
+    "name": "Ararat",
+    "code": null,
     "unofficial_names": "Ararat",
+    "geo": {
+      "latitude": 39.9753273,
+      "longitude": 44.8338058,
+      "min_latitude": 39.713722,
+      "min_longitude": 44.3149281,
+      "max_latitude": 40.189931,
+      "max_longitude": 45.11704899999999
+    },
     "translations": {
       "en": "Ararat",
       "ar": "محافظة أرارات",
@@ -112,20 +135,30 @@
       "tr": "Ararat İli",
       "uk": "Арарат",
       "ur": "ارارات صوبہ",
-      "vi": "Ararat"
+      "vi": "Ararat",
+      "lv": "Ararata reģions",
+      "ceb": "Ararati Marz",
+      "sr_Latn": "Ararat",
+      "zh": "亞拉拉特省",
+      "ccp": "𑄃𑄢𑄢𑄖𑄴",
+      "eu": "Ararat",
+      "bs": "Ararat (pokrajina)",
+      "mk": "Арарат"
     },
-    "geo": {
-      "latitude": 39.9753273,
-      "longitude": 44.8338058,
-      "min_latitude": 39.713722,
-      "min_longitude": 44.3149281,
-      "max_latitude": 40.189931,
-      "max_longitude": 45.11704899999999
-    },
-    "name": "Ararat"
+    "comments": null
   },
   "AV": {
+    "name": "Armavir",
+    "code": null,
     "unofficial_names": "Armavir",
+    "geo": {
+      "latitude": 40.1315615,
+      "longitude": 43.8325355,
+      "min_latitude": 40.01846700000001,
+      "min_longitude": 43.6464811,
+      "max_latitude": 40.283289,
+      "max_longitude": 44.4403099
+    },
     "translations": {
       "en": "Armavir",
       "ar": "محافظة آرماوير",
@@ -173,20 +206,32 @@
       "tr": "Armavir İdari Bölgesi",
       "uk": "Армавір",
       "ur": "آرامویر صوبہ",
-      "vi": "Armavir"
+      "vi": "Armavir",
+      "lv": "Armaviras reģions",
+      "ceb": "Armaviri Marz",
+      "sr_Latn": "Armavir",
+      "zh": "亞馬維爾省",
+      "ccp": "𑄃𑄢𑄴𑄟𑄞𑄨𑄢𑄴",
+      "eu": "Armavir",
+      "pa": "ਅਰਮਾਵੀਰ ਸੂਬਾ",
+      "cs": "Kategorie:Armavir (provincie)",
+      "bs": "Armavir (pokrajina)",
+      "mk": "Армавир"
     },
-    "geo": {
-      "latitude": 40.1315615,
-      "longitude": 43.8325355,
-      "min_latitude": 40.01846700000001,
-      "min_longitude": 43.6464811,
-      "max_latitude": 40.283289,
-      "max_longitude": 44.4403099
-    },
-    "name": "Armavir"
+    "comments": null
   },
   "ER": {
+    "name": "Erevan",
+    "code": null,
     "unofficial_names": "Erevan",
+    "geo": {
+      "latitude": 40.183333,
+      "longitude": 44.516667,
+      "min_latitude": 40.0641141,
+      "min_longitude": 44.3620849,
+      "max_latitude": 40.2426667,
+      "max_longitude": 44.6150493
+    },
     "translations": {
       "en": "Yerevan",
       "af": "Jerewan",
@@ -247,22 +292,41 @@
       "tr": "Erivan",
       "uk": "Єреван",
       "ur": "یریوان",
-      "vi": "Yerevan"
+      "vi": "Yerevan",
+      "cy": "Yerevan",
+      "ceb": "Yerevan (lalawigan)",
+      "sr_Latn": "Jerevan",
+      "zh": "葉里溫",
+      "yue_Hans": "埃里温",
+      "jv": "Yerevan",
+      "sq": "Jerevani",
+      "ccp": "𑄃𑄨𑄠𑄬𑄢𑄬𑄞𑄧𑄚𑄴",
+      "ga": "Eireaván",
+      "ky": "Ереван",
+      "pa": "ਯੇਰਵਾਨ",
+      "kk": "Ереван",
+      "yue": "埃里溫",
+      "yo": "Yerevan",
+      "uz": "Yerevan",
+      "bs": "Erevan",
+      "mk": "Ереван"
     },
-    "geo": {
-      "latitude": 40.183333,
-      "longitude": 44.516667,
-      "min_latitude": 40.0641141,
-      "min_longitude": 44.3620849,
-      "max_latitude": 40.2426667,
-      "max_longitude": 44.6150493
-    },
-    "name": "Erevan"
+    "comments": null
   },
   "GR": {
+    "name": "Gegark'unik'",
+    "code": null,
     "unofficial_names": [
       "Gegharkunick"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Gegharkunik",
       "ar": "محافظة غغاركونيك",
@@ -310,22 +374,34 @@
       "tr": "Geğarkunik",
       "uk": "Ґегаркунік",
       "ur": "گیغارکونیک صوبہ",
-      "vi": "Gegharkunik"
+      "vi": "Gegharkunik",
+      "lv": "Gegarkunikas reģions",
+      "cy": "Gegharkunik",
+      "ceb": "Geghark’unik’i Marz",
+      "sr_Latn": "Geharkunik",
+      "zh": "格加爾庫尼克省",
+      "ccp": "𑄎𑄨𑄊𑄧𑄢𑄴𑄇𑄪𑄚𑄨𑄇𑄴",
+      "eu": "Gegharkunik",
+      "ca": "Província de Gegharkunik",
+      "bs": "Geharkunik",
+      "mk": "Гехаркуник"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Gegark'unik'"
+    "comments": null
   },
   "KT": {
+    "name": "Kotayk'",
+    "code": null,
     "unofficial_names": [
       "Kotaik"
     ],
+    "geo": {
+      "latitude": 40.4277896,
+      "longitude": 44.6641741,
+      "min_latitude": 40.0972899,
+      "min_longitude": 44.398311,
+      "max_latitude": 40.71982999999999,
+      "max_longitude": 45.043105
+    },
     "translations": {
       "en": "Kotayk",
       "ar": "محافظة كوتايك",
@@ -373,22 +449,34 @@
       "tr": "Kotayk",
       "uk": "Котайк",
       "ur": "کوتایک صوبہ",
-      "vi": "Kotayk"
+      "vi": "Kotayk",
+      "lv": "Kotaikas reģions",
+      "ceb": "Kotayk’i Marz",
+      "sr_Latn": "Kotajk",
+      "zh": "科泰克省",
+      "ccp": "𑄇𑄧𑄑𑄭𑄇𑄴",
+      "eu": "Kotaik",
+      "pa": "ਕੋਟਾਇਕ",
+      "ca": "Regió de Kotayk",
+      "bs": "Kotajk",
+      "mk": "Котајк"
     },
-    "geo": {
-      "latitude": 40.4277896,
-      "longitude": 44.6641741,
-      "min_latitude": 40.0972899,
-      "min_longitude": 44.398311,
-      "max_latitude": 40.71982999999999,
-      "max_longitude": 45.043105
-    },
-    "name": "Kotayk'"
+    "comments": null
   },
   "LO": {
+    "name": "Lory",
+    "code": null,
     "unofficial_names": [
       "Lorri"
     ],
+    "geo": {
+      "latitude": 40.969845,
+      "longitude": 44.490014,
+      "min_latitude": 40.668043,
+      "min_longitude": 44.016761,
+      "max_latitude": 41.299259,
+      "max_longitude": 44.960212
+    },
     "translations": {
       "en": "Lori",
       "ar": "محافظة لوري",
@@ -436,20 +524,32 @@
       "tr": "Lori",
       "uk": "Лорі",
       "ur": "لوری صوبہ",
-      "vi": "Lori"
+      "vi": "Lori",
+      "lv": "Lori reģions",
+      "ceb": "Lorru Marz",
+      "sr_Latn": "Lori",
+      "zh": "洛里省",
+      "ccp": "𑄣𑄧𑄢𑄨",
+      "eu": "Lori",
+      "pa": "ਲੋਰੀ ਪ੍ਰਾਂਤ",
+      "cs": "Lorri",
+      "bs": "Lori",
+      "mk": "Лори"
     },
-    "geo": {
-      "latitude": 40.969845,
-      "longitude": 44.490014,
-      "min_latitude": 40.668043,
-      "min_longitude": 44.016761,
-      "max_latitude": 41.299259,
-      "max_longitude": 44.960212
-    },
-    "name": "Lory"
+    "comments": null
   },
   "SH": {
+    "name": "Širak",
+    "code": null,
     "unofficial_names": "Širak",
+    "geo": {
+      "latitude": 40.9630814,
+      "longitude": 43.8102461,
+      "min_latitude": 40.439465,
+      "min_longitude": 43.4497797,
+      "max_latitude": 41.1808931,
+      "max_longitude": 44.2037191
+    },
     "translations": {
       "en": "Shirak",
       "ar": "محافظة شيراك",
@@ -498,20 +598,31 @@
       "tr": "Şirak İdari Bölgesi",
       "uk": "Ширак",
       "ur": "شیراک صوبہ",
-      "vi": "Shirak"
+      "vi": "Shirak",
+      "lv": "Širakas reģions",
+      "ceb": "Shiraki Marz",
+      "sr_Latn": "Širak",
+      "zh": "希拉克省",
+      "ccp": "𑄥𑄨𑄢𑄇𑄴",
+      "eu": "Xirak",
+      "pa": "ਸ਼ਿਰਾਕ",
+      "bs": "Širak",
+      "mk": "Ширак"
     },
-    "geo": {
-      "latitude": 40.9630814,
-      "longitude": 43.8102461,
-      "min_latitude": 40.439465,
-      "min_longitude": 43.4497797,
-      "max_latitude": 41.1808931,
-      "max_longitude": 44.2037191
-    },
-    "name": "Širak"
+    "comments": null
   },
   "SU": {
+    "name": "Syunik'",
+    "code": null,
     "unofficial_names": "Syunik'",
+    "geo": {
+      "latitude": 39.3194392,
+      "longitude": 46.14609189999999,
+      "min_latitude": 38.830521,
+      "min_longitude": 45.70893909999999,
+      "max_latitude": 39.854328,
+      "max_longitude": 46.630035
+    },
     "translations": {
       "en": "Syunik",
       "ar": "محافظة سيونيك",
@@ -561,22 +672,33 @@
       "tr": "Syunik ili",
       "uk": "Сюнік",
       "ur": "سیونیک صوبہ",
-      "vi": "Syunik"
+      "vi": "Syunik",
+      "lv": "Sjunikas reģions",
+      "cy": "Syunik",
+      "ceb": "Syunik’i Marz",
+      "sr_Latn": "Sjunik",
+      "zh": "休尼克省",
+      "ccp": "𑄥𑄭𑄠𑄪𑄚𑄨𑄇𑄴",
+      "eu": "Siunik",
+      "bs": "Sjunik",
+      "mk": "Сјуник"
     },
-    "geo": {
-      "latitude": 39.3194392,
-      "longitude": 46.14609189999999,
-      "min_latitude": 38.830521,
-      "min_longitude": 45.70893909999999,
-      "max_latitude": 39.854328,
-      "max_longitude": 46.630035
-    },
-    "name": "Syunik'"
+    "comments": null
   },
   "TV": {
+    "name": "Tavuš",
+    "code": null,
     "unofficial_names": [
       "Tavoush"
     ],
+    "geo": {
+      "latitude": 40.8866296,
+      "longitude": 45.339349,
+      "min_latitude": 40.648954,
+      "min_longitude": 44.766082,
+      "max_latitude": 41.3018379,
+      "max_longitude": 45.5956799
+    },
     "translations": {
       "en": "Tavush",
       "ar": "محافظة تاووش",
@@ -625,20 +747,31 @@
       "tr": "Tavuş",
       "uk": "Тавуш",
       "ur": "تاووش صوبہ",
-      "vi": "Tavush"
+      "vi": "Tavush",
+      "lv": "Tavušas reģions",
+      "ceb": "Tavushi Marz",
+      "sr_Latn": "Tavuš",
+      "zh": "塔武什省",
+      "ccp": "𑄑𑄞𑄪𑄌𑄴",
+      "eu": "Tavux",
+      "pa": "ਤਵੂਸ਼",
+      "bs": "Tavuš",
+      "mk": "Тавуш"
     },
-    "geo": {
-      "latitude": 40.8866296,
-      "longitude": 45.339349,
-      "min_latitude": 40.648954,
-      "min_longitude": 44.766082,
-      "max_latitude": 41.3018379,
-      "max_longitude": 45.5956799
-    },
-    "name": "Tavuš"
+    "comments": null
   },
   "VD": {
+    "name": "Vayoc Jor",
+    "code": null,
     "unofficial_names": "Vayoc Jor",
+    "geo": {
+      "latitude": 39.8107912,
+      "longitude": 45.4967174,
+      "min_latitude": 39.502243,
+      "min_longitude": 45.066502,
+      "max_latitude": 40.01380899999999,
+      "max_longitude": 45.825905
+    },
     "translations": {
       "en": "Vayots Dzor",
       "ar": "محافظة وايوتس‌جور",
@@ -687,17 +820,19 @@
       "tr": "Vayots Dzor",
       "uk": "Вайоц-Дзор",
       "ur": "وایوتس جور صوبہ",
-      "vi": "Vayots Dzor"
+      "vi": "Vayots Dzor",
+      "lv": "Vajotdzoras reģions",
+      "cy": "Vayots Dzor",
+      "ceb": "Vayots’ Dzori Marz",
+      "sr_Latn": "Vajoc Džor",
+      "zh": "瓦約茨佐爾省",
+      "ccp": "𑄞𑄧𑄠𑄮𑄖𑄴𑄥𑄴 𑄘𑄮𑄢𑄴",
+      "eu": "Vajots Dzor",
+      "pa": "ਵਾਇਓਤ ਜੋਰ ਸੂਬਾ",
+      "bs": "Vajots Dzor",
+      "mk": "Вајоц Ѕор"
     },
-    "geo": {
-      "latitude": 39.8107912,
-      "longitude": 45.4967174,
-      "min_latitude": 39.502243,
-      "min_longitude": 45.066502,
-      "max_latitude": 40.01380899999999,
-      "max_longitude": 45.825905
-    },
-    "name": "Vayoc Jor"
+    "comments": null
   }
 }
 

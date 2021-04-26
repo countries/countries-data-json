@@ -1,13 +1,23 @@
 {
   "AB": {
+    "name": "Stockholms län",
+    "code": null,
     "unofficial_names": "Stockholms län",
+    "geo": {
+      "latitude": 59.60249579999999,
+      "longitude": 18.1384383,
+      "min_latitude": 58.7356979,
+      "min_longitude": 17.2375371,
+      "max_latitude": 60.2557827,
+      "max_longitude": 19.3499043
+    },
     "translations": {
       "en": "Stockholm",
       "ar": "محافظة ستوكهولم",
       "be": "лен Стакгольм",
       "bg": "лен Стокхолм",
       "bn": "স্টকহোম কাউন্টি",
-      "ca": "Comtat d’Estocolm",
+      "ca": "comtat d’Estocolm",
       "cs": "Stockholm",
       "da": "Stockholms län",
       "de": "Stockholms län",
@@ -22,7 +32,7 @@
       "gu": "સ્ટોકહોમ કાઉન્ટી",
       "he": "מחוז סטוקהולם",
       "hi": "स्टॉकहोम लैन",
-      "hr": "Stockholms län",
+      "hr": "Županija Stockholm",
       "hu": "Stockholm megye",
       "hy": "Ստոկհոլմի լեն",
       "id": "Daerah Stockholm",
@@ -53,38 +63,45 @@
       "uk": "лену Стокгольм",
       "ur": "سٹاکہوم کاؤنٹی",
       "vi": "hạt Stockholm",
-      "zh": "斯德哥爾摩省"
+      "zh": "斯德哥爾摩省",
+      "ceb": "Stockholms län",
+      "sr_Latn": "Stokholm",
+      "ccp": "𑄌𑄳𑄑𑄧𑄇𑄴𑄦𑄧𑄣𑄴𑄟𑄴",
+      "bs": "Kotar Stockholm",
+      "mk": "Стокхолм"
     },
-    "geo": {
-      "latitude": 59.60249579999999,
-      "longitude": 18.1384383,
-      "min_latitude": 58.7356979,
-      "min_longitude": 17.2375371,
-      "max_latitude": 60.2557827,
-      "max_longitude": 19.3499043
-    },
-    "name": "Stockholms län"
+    "comments": null
   },
   "AC": {
+    "name": "Västerbottens län",
+    "code": null,
     "unofficial_names": "Västerbottens län",
+    "geo": {
+      "latitude": 65.3337311,
+      "longitude": 16.5161695,
+      "min_latitude": 63.4054636,
+      "min_longitude": 14.2568099,
+      "max_latitude": 66.340329,
+      "max_longitude": 21.6169479
+    },
     "translations": {
       "en": "Västerbotten",
       "ar": "محافظة وستربوتن",
-      "be": "Лен Вестэрботэн",
+      "be": "лен Вестэрботэн",
       "bg": "Вестерботен",
       "bn": "ভ্যাস্টারবটেন বিভাগ",
-      "ca": "Comtat de Västerbotten",
+      "ca": "comtat de Västerbotten",
       "cs": "Västerbotten",
       "da": "Västerbottens län",
       "de": "Västerbottens län",
       "el": "Βαστερμπότεν",
-      "es": "Provincia de Västerbotten",
+      "es": "provincia de Västerbotten",
       "et": "Västerbotteni lään",
       "eu": "Västerbottengo konderria",
       "fa": "استان وستربوتن",
       "fi": "Västerbottenin lääni",
       "fr": "comté de Västerbotten",
-      "gl": "Condado de Västerbotten",
+      "gl": "condado de Västerbotten",
       "gu": "વાસ્ટરબોટન કાઉન્ટી",
       "hi": "वेस्तरबॉत्तेन लैन",
       "hr": "Županija Västerbotten",
@@ -114,38 +131,47 @@
       "tr": "Västerbotten ili",
       "uk": "Вестерботтен",
       "ur": "وستربوتن کاؤنٹی",
-      "vi": "Västerbotten"
+      "vi": "hạt Västerbotten",
+      "ceb": "Västerbottens län",
+      "sr_Latn": "Vesterboten",
+      "zh": "西博滕省",
+      "ccp": "𑄞𑄌𑄴𑄑𑄢𑄴𑄝𑄮𑄑𑄬𑄚𑄴",
+      "he": "וסטרבוטן",
+      "bs": "Kotar Västerbotten",
+      "mk": "Вестерботен"
     },
-    "geo": {
-      "latitude": 65.3337311,
-      "longitude": 16.5161695,
-      "min_latitude": 63.4054636,
-      "min_longitude": 14.2568099,
-      "max_latitude": 66.340329,
-      "max_longitude": 21.6169479
-    },
-    "name": "Västerbottens län"
+    "comments": null
   },
   "BD": {
+    "name": "Norrbottens län",
+    "code": null,
     "unofficial_names": "Norrbottens län",
+    "geo": {
+      "latitude": 66.8309216,
+      "longitude": 20.3991966,
+      "min_latitude": 65.06063499999999,
+      "min_longitude": 15.3723748,
+      "max_latitude": 69.06307199999999,
+      "max_longitude": 24.1624078
+    },
     "translations": {
       "en": "Norrbotten",
       "ar": "محافظة نوربوتن",
-      "be": "Лен Норботэн",
+      "be": "лен Норботэн",
       "bg": "Норботен",
       "bn": "নরব্রোটন কাউন্টি",
-      "ca": "Comtat de Norrbotten",
+      "ca": "comtat de Norrbotten",
       "cs": "Norrbotten",
       "da": "Norrbottens län",
       "de": "Norrbottens län",
       "el": "Νορμπότεν",
-      "es": "Provincia de Norrbotten",
+      "es": "provincia de Norrbotten",
       "et": "Norrbotteni lään",
       "eu": "Norrbottengo konderria",
       "fa": "استان نوربوتن",
       "fi": "Norrbottenin lääni",
-      "fr": "Comté de Norrbotten",
-      "gl": "Condado de Norrbotten",
+      "fr": "comté de Norrbotten",
+      "gl": "condado de Norrbotten",
       "gu": "નોર્બોટન કાઉન્ટી",
       "he": "נורבוטן",
       "hi": "नॉरबॉत्तेन लैन",
@@ -178,20 +204,28 @@
       "tr": "Norrbotten ili",
       "uk": "Норрботтен",
       "ur": "نوربوتن کاؤنٹی",
-      "vi": "Norrbotten"
+      "vi": "hạt Norrbotten",
+      "ceb": "Norrbottens län",
+      "sr_Latn": "Nurboten",
+      "zh": "北博滕省",
+      "ccp": "𑄚𑄧𑄢𑄴𑄝𑄮𑄑𑄬𑄚𑄴",
+      "bs": "Kotar Norrbotten",
+      "mk": "Норботен"
     },
-    "geo": {
-      "latitude": 66.8309216,
-      "longitude": 20.3991966,
-      "min_latitude": 65.06063499999999,
-      "min_longitude": 15.3723748,
-      "max_latitude": 69.06307199999999,
-      "max_longitude": 24.1624078
-    },
-    "name": "Norrbottens län"
+    "comments": null
   },
   "C": {
+    "name": "Uppsala län",
+    "code": null,
     "unofficial_names": "Uppsala län",
+    "geo": {
+      "latitude": 60.00922619999999,
+      "longitude": 17.2714589,
+      "min_latitude": 59.4050129,
+      "min_longitude": 16.678336,
+      "max_latitude": 60.7313874,
+      "max_longitude": 18.7711579
+    },
     "translations": {
       "en": "Uppsala",
       "ar": "محافظة اوبسالا",
@@ -203,7 +237,7 @@
       "da": "Uppsala län",
       "de": "Uppsala län",
       "el": "Ουπσάλα",
-      "es": "Provincia de Upsala",
+      "es": "provincia de Upsala",
       "et": "Uppsala lään",
       "eu": "Uppsalako konderria",
       "fa": "استان اوپسالا",
@@ -213,7 +247,7 @@
       "gu": "ઉપ્સલા કાઉન્ટી",
       "he": "מחוז אופסלה",
       "hi": "उप्साला लैन",
-      "hr": "Uppsala län",
+      "hr": "Županija Uppsala",
       "hu": "Uppsala megye",
       "hy": "Ուփսալա",
       "id": "Daerah Uppsala",
@@ -242,20 +276,30 @@
       "tr": "Uppsala ili",
       "uk": "лен Уппсала",
       "ur": "اوپسالا کاؤنٹی",
-      "vi": "hạt Uppsala"
+      "vi": "hạt Uppsala",
+      "cy": "Sir Uppsala",
+      "ceb": "Uppsala län",
+      "sr_Latn": "Upsala",
+      "zh": "乌普萨拉省",
+      "ccp": "𑄅𑄪𑄛𑄳𑄦𑄥𑄣",
+      "ml": "അപ്പ്സല കൗണ്ടി",
+      "bs": "Kotar Uppsala",
+      "mk": "Упсала"
     },
-    "geo": {
-      "latitude": 60.00922619999999,
-      "longitude": 17.2714589,
-      "min_latitude": 59.4050129,
-      "min_longitude": 16.678336,
-      "max_latitude": 60.7313874,
-      "max_longitude": 18.7711579
-    },
-    "name": "Uppsala län"
+    "comments": null
   },
   "D": {
+    "name": "Södermanlands län",
+    "code": null,
     "unofficial_names": "Södermanlands län",
+    "geo": {
+      "latitude": 59.03363489999999,
+      "longitude": 16.7518899,
+      "min_latitude": 58.56213729999999,
+      "min_longitude": 15.5932,
+      "max_latitude": 59.5228374,
+      "max_longitude": 17.7453121
+    },
     "translations": {
       "en": "Södermanland",
       "ar": "محافظة سودرمانلاند",
@@ -306,20 +350,28 @@
       "tr": "Södermanland ili",
       "uk": "лен Седерманланд",
       "ur": "سودرمنلاند کاؤنٹی",
-      "vi": "hạt Södermanland"
+      "vi": "hạt Södermanland",
+      "ceb": "Södermanlands län",
+      "sr_Latn": "Sedermanland",
+      "zh": "南曼兰省",
+      "ccp": "𑄥𑄮𑄓𑄢𑄴𑄟𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Södermanland",
+      "mk": "Седерманланд"
     },
-    "geo": {
-      "latitude": 59.03363489999999,
-      "longitude": 16.7518899,
-      "min_latitude": 58.56213729999999,
-      "min_longitude": 15.5932,
-      "max_latitude": 59.5228374,
-      "max_longitude": 17.7453121
-    },
-    "name": "Södermanlands län"
+    "comments": null
   },
   "E": {
+    "name": "Östergötlands län",
+    "code": null,
     "unofficial_names": "Östergötlands län",
+    "geo": {
+      "latitude": 58.3453635,
+      "longitude": 15.5197843,
+      "min_latitude": 57.702259,
+      "min_longitude": 14.5409236,
+      "max_latitude": 59.01996210000001,
+      "max_longitude": 17.0853315
+    },
     "translations": {
       "en": "Östergötland",
       "ar": "مقاطعة أوسترغوتلاند",
@@ -370,20 +422,28 @@
       "tr": "Östergötland ili",
       "uk": "лен Естерйотланд",
       "ur": "اوستریوتلاند کاؤنٹی",
-      "vi": "hạt Östergötland"
+      "vi": "hạt Östergötland",
+      "ceb": "Östergötlands län",
+      "sr_Latn": "Esterjetland",
+      "zh": "东约特兰省",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄢𑄴𑄉𑄮𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Östergötland",
+      "mk": "Естерјетланд"
     },
-    "geo": {
-      "latitude": 58.3453635,
-      "longitude": 15.5197843,
-      "min_latitude": 57.702259,
-      "min_longitude": 14.5409236,
-      "max_latitude": 59.01996210000001,
-      "max_longitude": 17.0853315
-    },
-    "name": "Östergötlands län"
+    "comments": null
   },
   "F": {
+    "name": "Jönköpings län",
+    "code": null,
     "unofficial_names": "Jönköpings län",
+    "geo": {
+      "latitude": 57.3708434,
+      "longitude": 14.3439173,
+      "min_latitude": 56.885171,
+      "min_longitude": 13.0688452,
+      "max_latitude": 58.153372,
+      "max_longitude": 15.6562501
+    },
     "translations": {
       "en": "Jönköping",
       "ar": "محافظة يونشوبينغ",
@@ -434,38 +494,46 @@
       "tr": "Jönköping ili",
       "uk": "лен Йончопінґ",
       "ur": "یونشوپنگ کاؤنٹی",
-      "vi": "hạt Jönköping"
+      "vi": "hạt Jönköping",
+      "ceb": "Jönköpings län",
+      "sr_Latn": "Jenćeping",
+      "zh": "延雪平省",
+      "ccp": "𑄎𑄧𑄚𑄴𑄇𑄮𑄛𑄨𑄁",
+      "bs": "Kotar Jönköping",
+      "mk": "Јеншепинг"
     },
-    "geo": {
-      "latitude": 57.3708434,
-      "longitude": 14.3439173,
-      "min_latitude": 56.885171,
-      "min_longitude": 13.0688452,
-      "max_latitude": 58.153372,
-      "max_longitude": 15.6562501
-    },
-    "name": "Jönköpings län"
+    "comments": null
   },
   "G": {
+    "name": "Kronobergs län",
+    "code": null,
     "unofficial_names": "Kronobergs län",
+    "geo": {
+      "latitude": 56.71834029999999,
+      "longitude": 14.4114674,
+      "min_latitude": 56.35664389999999,
+      "min_longitude": 13.2767319,
+      "max_latitude": 57.238187,
+      "max_longitude": 15.844141
+    },
     "translations": {
       "en": "Kronoberg",
       "ar": "محافظة كرونوبري",
-      "be": "Лен Крунуберг",
+      "be": "лен Крунуберг",
       "bg": "Крунубери",
       "bn": "ক্যারিনো ক্রোনোবার্গ কাউন্টি",
-      "ca": "Comtat de Kronoberg",
+      "ca": "comtat de Kronoberg",
       "cs": "Kronoberg",
       "da": "Kronobergs län",
       "de": "Kronobergs län",
       "el": "Κρονομπέργκ",
-      "es": "Provincia de Kronoberg",
+      "es": "provincia de Kronoberg",
       "et": "Kronobergi lään",
       "eu": "Kronobergeko konderria",
       "fa": "استان کرونوبرگ",
       "fi": "Kronobergin lääni",
-      "fr": "Comté de Kronoberg",
-      "gl": "Condado de Kronoberg",
+      "fr": "comté de Kronoberg",
+      "gl": "condado de Kronoberg",
       "gu": "ક્રોનોબર્ગ કાઉન્ટી",
       "hi": "क्रूनुबैर्य लैन",
       "hr": "Županija Kronoberg",
@@ -495,29 +563,38 @@
       "tr": "Kronoberg ili",
       "uk": "Крунуберг",
       "ur": "کرونوبری کاؤنٹی",
-      "vi": "Kronoberg"
+      "vi": "hạt Kronoberg",
+      "ceb": "Kronoberg",
+      "sr_Latn": "Krunuberg",
+      "zh": "克鲁努贝里省",
+      "ccp": "𑄇𑄳𑄢𑄮𑄚𑄮𑄝𑄢𑄴𑄇𑄴",
+      "ml": "ക്രോണോബെർഗ് കൗണ്ടി",
+      "bs": "Kotar Kronoberg",
+      "mk": "Крунуберг"
     },
-    "geo": {
-      "latitude": 56.71834029999999,
-      "longitude": 14.4114674,
-      "min_latitude": 56.35664389999999,
-      "min_longitude": 13.2767319,
-      "max_latitude": 57.238187,
-      "max_longitude": 15.844141
-    },
-    "name": "Kronobergs län"
+    "comments": null
   },
   "H": {
+    "name": "Kalmar län",
+    "code": null,
     "unofficial_names": [
       "Calmar"
     ],
+    "geo": {
+      "latitude": 57.2350156,
+      "longitude": 16.1849349,
+      "min_latitude": 56.1941934,
+      "min_longitude": 15.3360812,
+      "max_latitude": 58.141144,
+      "max_longitude": 17.1506084
+    },
     "translations": {
       "en": "Kalmar",
       "ar": "مقاطعة كالمار",
-      "be": "Лен Кальмар",
+      "be": "лен Кальмар",
       "bg": "лен Калмар",
       "bn": "কাল্মার কাউন্টি",
-      "ca": "Comtat de Kalmar",
+      "ca": "comtat de Kalmar",
       "cs": "Kalmar",
       "da": "Kalmar län",
       "de": "Kalmar län",
@@ -559,37 +636,45 @@
       "tr": "Kalmar ili",
       "uk": "лен Кальмар",
       "ur": "کالمار کاؤنٹی",
-      "vi": "hạt Kalmar"
+      "vi": "hạt Kalmar",
+      "ceb": "Kalmar län",
+      "sr_Latn": "Kalmar",
+      "zh": "卡尔马省",
+      "ccp": "𑄇𑄣𑄴𑄟𑄢𑄴",
+      "bs": "Kotar Kalmar",
+      "mk": "Калмар"
     },
-    "geo": {
-      "latitude": 57.2350156,
-      "longitude": 16.1849349,
-      "min_latitude": 56.1941934,
-      "min_longitude": 15.3360812,
-      "max_latitude": 58.141144,
-      "max_longitude": 17.1506084
-    },
-    "name": "Kalmar län"
+    "comments": null
   },
   "I": {
+    "name": "Gotlands län",
+    "code": null,
     "unofficial_names": "Gotlands län",
+    "geo": {
+      "latitude": 57.46841209999999,
+      "longitude": 18.4867447,
+      "min_latitude": 56.9048659,
+      "min_longitude": 17.9564368,
+      "max_latitude": 58.3987317,
+      "max_longitude": 19.3504137
+    },
     "translations": {
       "en": "Gotland",
       "ar": "مقاطعة جوتلاندز",
-      "be": "Лен Готланд",
+      "be": "лен Готланд",
       "bg": "Готланд",
       "bn": "গটল্যান্ড কাউন্টি",
-      "ca": "Comtat de Gotland",
+      "ca": "comtat de Gotland",
       "cs": "Gotland",
       "da": "Gotlands län",
       "de": "Gotlands län",
       "el": "Γκότλαντ",
-      "es": "Provincia de Gotland",
+      "es": "provincia de Gotland",
       "et": "Ojamaa lään",
       "eu": "Gotlandeko konderria",
       "fa": "استان گوتلاند",
       "fi": "Gotlannin lääni",
-      "fr": "Comté de Gotland",
+      "fr": "comté de Gotland",
       "gu": "ગોટલેન્ડ કાઉન્ટી",
       "he": "מחוז גוטלנד",
       "hi": "गॉतलान्द लैन",
@@ -620,27 +705,37 @@
       "tr": "Gotland ili",
       "uk": "Ґотланд",
       "ur": "گوتلاند کاؤنٹی",
-      "vi": "Gotland"
+      "vi": "hạt Gotland",
+      "cy": "Sir Gotland",
+      "ceb": "Gotlands län",
+      "sr_Latn": "Gotland",
+      "lt": "Gotlando apygarda",
+      "zh": "哥得兰省",
+      "ccp": "𑄉𑄧𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Gotland",
+      "mk": "Готланд"
     },
-    "geo": {
-      "latitude": 57.46841209999999,
-      "longitude": 18.4867447,
-      "min_latitude": 56.9048659,
-      "min_longitude": 17.9564368,
-      "max_latitude": 58.3987317,
-      "max_longitude": 19.3504137
-    },
-    "name": "Gotlands län"
+    "comments": null
   },
   "K": {
+    "name": "Blekinge län",
+    "code": null,
     "unofficial_names": "Blekinge län",
+    "geo": {
+      "latitude": 56.2783837,
+      "longitude": 15.0180058,
+      "min_latitude": 55.9901428,
+      "min_longitude": 14.3528851,
+      "max_latitude": 56.5022141,
+      "max_longitude": 16.0679243
+    },
     "translations": {
       "en": "Blekinge",
       "ar": "مقاطعة بليكينج",
-      "be": "Блекінгэ",
+      "be": "лен Блекінгэ",
       "bg": "община Блекинге",
       "bn": "ব্লেকিঞ্জে কাউন্টি",
-      "ca": "Comtat de Blekinge",
+      "ca": "comtat de Blekinge",
       "da": "Blekinge län",
       "de": "Blekinge län",
       "el": "κομητεία της Μπλεκιγγες",
@@ -682,30 +777,39 @@
       "tr": "Blekinge ili",
       "uk": "лен Блекінге",
       "ur": "بلیکینے کاؤنٹی",
-      "vi": "hạt Blekinge"
+      "vi": "hạt Blekinge",
+      "ceb": "Blekinge län",
+      "sr_Latn": "Blećinge",
+      "zh": "布萊金厄省",
+      "ccp": "𑄝𑄳𑄣𑄬𑄇𑄨𑄚𑄴𑄌𑄴",
+      "hy": "Բլեքինգե",
+      "bs": "Kotar Blekinge",
+      "mk": "Блекинге"
     },
-    "geo": {
-      "latitude": 56.2783837,
-      "longitude": 15.0180058,
-      "min_latitude": 55.9901428,
-      "min_longitude": 14.3528851,
-      "max_latitude": 56.5022141,
-      "max_longitude": 16.0679243
-    },
-    "name": "Blekinge län"
+    "comments": null
   },
   "M": {
+    "name": "Skåne län",
+    "code": null,
     "unofficial_names": [
       "Scania"
     ],
+    "geo": {
+      "latitude": 55.99025719999999,
+      "longitude": 13.5957692,
+      "min_latitude": 55.33668249999999,
+      "min_longitude": 12.4417552,
+      "max_latitude": 56.54260590000001,
+      "max_longitude": 14.5844781
+    },
     "translations": {
       "en": "Skåne",
       "ar": "محافظة اسكونه",
       "az": "Skane",
-      "be": "Лен Сконэ",
+      "be": "лен Сконэ",
       "bg": "община Сконе",
       "bn": "স্কান কাউন্টি",
-      "ca": "Comtat d’Escània",
+      "ca": "comtat d’Escània",
       "cs": "Skåne",
       "da": "Skåne län",
       "de": "Skåne län",
@@ -722,7 +826,7 @@
       "hi": "स्कॉने लैन",
       "hr": "Županija Skåne",
       "hu": "Skåne megye",
-      "id": "County Skåne",
+      "id": "Daerah Skåne",
       "it": "contea della Scania",
       "ja": "スコーネ県",
       "ka": "სკონე",
@@ -748,20 +852,29 @@
       "tr": "Skåne ili",
       "uk": "лен Сконе",
       "ur": "سکونہ کاؤنٹی",
-      "vi": "hạt Skåne"
+      "vi": "hạt Skåne",
+      "ceb": "Skåne län",
+      "sr_Latn": "Skone",
+      "zh": "斯科讷省",
+      "sq": "Qarku Skåne",
+      "ccp": "𑄌𑄳𑄇𑄚𑄴",
+      "bs": "Kotar Skåne",
+      "mk": "Сконе"
     },
-    "geo": {
-      "latitude": 55.99025719999999,
-      "longitude": 13.5957692,
-      "min_latitude": 55.33668249999999,
-      "min_longitude": 12.4417552,
-      "max_latitude": 56.54260590000001,
-      "max_longitude": 14.5844781
-    },
-    "name": "Skåne län"
+    "comments": null
   },
   "N": {
+    "name": "Hallands län",
+    "code": null,
     "unofficial_names": "Hallands län",
+    "geo": {
+      "latitude": 56.8966805,
+      "longitude": 12.8033993,
+      "min_latitude": 56.324419,
+      "min_longitude": 11.821994,
+      "max_latitude": 57.5731741,
+      "max_longitude": 13.7176809
+    },
     "translations": {
       "en": "Halland",
       "ar": "محافظة هاللاند",
@@ -773,7 +886,7 @@
       "da": "Hallands län",
       "de": "Hallands län",
       "el": "κομητεία της Ηαλαντς",
-      "es": "Provincia de Halland",
+      "es": "provincia de Halland",
       "et": "Hallandi lään",
       "eu": "Hallandeko konderria",
       "fa": "استان هاللاند",
@@ -811,20 +924,28 @@
       "tr": "Halland ili",
       "uk": "лен Галланд",
       "ur": "ہالاند کاؤنٹی",
-      "vi": "hạt Halland"
+      "vi": "hạt Halland",
+      "ceb": "Hallands län",
+      "sr_Latn": "Haland",
+      "zh": "哈兰省",
+      "ccp": "𑄦𑄧𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Halland",
+      "mk": "Халанд"
     },
-    "geo": {
-      "latitude": 56.8966805,
-      "longitude": 12.8033993,
-      "min_latitude": 56.324419,
-      "min_longitude": 11.821994,
-      "max_latitude": 57.5731741,
-      "max_longitude": 13.7176809
-    },
-    "name": "Hallands län"
+    "comments": null
   },
   "O": {
+    "name": "Västra Götalands län",
+    "code": null,
     "unofficial_names": "Västra Götalands län",
+    "geo": {
+      "latitude": 58.2527926,
+      "longitude": 13.0596425,
+      "min_latitude": 57.14008,
+      "min_longitude": 10.9631866,
+      "max_latitude": 59.26203409999999,
+      "max_longitude": 14.7148173
+    },
     "translations": {
       "en": "Västra Götaland",
       "ar": "محافظة وسترا يوتالاند",
@@ -836,7 +957,7 @@
       "da": "Västra Götalands län",
       "de": "Västra Götalands län",
       "el": "κομητεία της Βέστρα Γκέταλαντς",
-      "es": "Provincia de Västra Götaland",
+      "es": "provincia de Västra Götaland",
       "et": "Västra Götalandi lään",
       "eu": "Västra Götalandeko konderria",
       "fa": "استان وسترا گوتلاند",
@@ -875,20 +996,29 @@
       "tr": "Västra Götaland ili",
       "uk": "лен Вестра Йоталанд",
       "ur": "واسترا یوتالاند کاؤنٹی",
-      "vi": "hạt Västra Götaland"
+      "vi": "hạt Västra Götaland",
+      "cy": "Sir Västra Götaland",
+      "ceb": "Västra Götalands län",
+      "sr_Latn": "Vestra Jetaland",
+      "zh": "西约塔兰省",
+      "ccp": "𑄞𑄌𑄴𑄑𑄳𑄢 𑄉𑄧𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Västra Götaland",
+      "mk": "Вестра Јеталанд"
     },
-    "geo": {
-      "latitude": 58.2527926,
-      "longitude": 13.0596425,
-      "min_latitude": 57.14008,
-      "min_longitude": 10.9631866,
-      "max_latitude": 59.26203409999999,
-      "max_longitude": 14.7148173
-    },
-    "name": "Västra Götalands län"
+    "comments": null
   },
   "S": {
+    "name": "Värmlands län",
+    "code": null,
     "unofficial_names": "Värmlands län",
+    "geo": {
+      "latitude": 59.7294065,
+      "longitude": 13.2354024,
+      "min_latitude": 58.83082580000001,
+      "min_longitude": 11.681877,
+      "max_latitude": 61.06945409999999,
+      "max_longitude": 14.48975
+    },
     "translations": {
       "en": "Värmland",
       "ar": "محافظة ورملاند",
@@ -909,7 +1039,7 @@
       "gu": "વર્મલેન્ડ કાઉન્ટી",
       "he": "ורמלנד",
       "hi": "वैर्मलान्द लैन",
-      "hr": "Värmlands län",
+      "hr": "Županija Värmland",
       "hu": "Värmland megye",
       "id": "Daerah Värmland",
       "is": "Värmlands län",
@@ -938,38 +1068,46 @@
       "tr": "Värmland ili",
       "uk": "лен Вермланд",
       "ur": "وارملاند کاؤنٹی",
-      "vi": "hạt Värmland"
+      "vi": "hạt Värmland",
+      "ceb": "Värmlands län",
+      "sr_Latn": "Vermland",
+      "zh": "韦姆兰省",
+      "ccp": "𑄞𑄢𑄴𑄟𑄧𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Värmland",
+      "mk": "Вермланд"
     },
-    "geo": {
-      "latitude": 59.7294065,
-      "longitude": 13.2354024,
-      "min_latitude": 58.83082580000001,
-      "min_longitude": 11.681877,
-      "max_latitude": 61.06945409999999,
-      "max_longitude": 14.48975
-    },
-    "name": "Värmlands län"
+    "comments": null
   },
   "T": {
+    "name": "Örebro län",
+    "code": null,
     "unofficial_names": "Örebro län",
+    "geo": {
+      "latitude": 59.535036,
+      "longitude": 15.0065731,
+      "min_latitude": 58.656611,
+      "min_longitude": 14.243871,
+      "max_latitude": 60.1056601,
+      "max_longitude": 15.7880099
+    },
     "translations": {
       "en": "Örebro",
       "ar": "محافظة اوربرو",
-      "be": "Лен Эрэбру",
+      "be": "лен Эрэбру",
       "bg": "Йоребру",
       "bn": "ওঁরেব্রো কাউন্টি",
-      "ca": "Comtat d’Örebro",
+      "ca": "comtat d’Örebro",
       "cs": "Örebro",
       "da": "Örebro län",
       "de": "Örebro län",
       "el": "Όρεμπρο",
-      "es": "Provincia de Örebro",
+      "es": "provincia de Örebro",
       "et": "Örebro lään",
       "eu": "Örebroko konderria",
       "fa": "استان اوربرو",
       "fi": "Örebron lääni",
-      "fr": "Comté d’Örebro",
-      "gl": "Condado de Örebro",
+      "fr": "comté d’Örebro",
+      "gl": "condado de Örebro",
       "gu": "ઓરેબ્રો કાઉન્ટી",
       "he": "מחוז ארברו",
       "hi": "ओरेब्रो लैन",
@@ -1002,38 +1140,47 @@
       "tr": "Örebro ili",
       "uk": "Еребру",
       "ur": "اوریبرو کاؤنٹی",
-      "vi": "Örebro"
+      "vi": "hạt Örebro",
+      "cy": "Sir Örebro",
+      "ceb": "Örebro län",
+      "sr_Latn": "Erebro",
+      "zh": "厄勒布鲁省",
+      "ccp": "𑄃𑄧𑄢𑄬𑄝𑄳𑄢𑄮",
+      "bs": "Kotar Örebro",
+      "mk": "Еребру"
     },
-    "geo": {
-      "latitude": 59.535036,
-      "longitude": 15.0065731,
-      "min_latitude": 58.656611,
-      "min_longitude": 14.243871,
-      "max_latitude": 60.1056601,
-      "max_longitude": 15.7880099
-    },
-    "name": "Örebro län"
+    "comments": null
   },
   "U": {
+    "name": "Västmanlands län",
+    "code": null,
     "unofficial_names": "Västmanlands län",
+    "geo": {
+      "latitude": 59.6713879,
+      "longitude": 16.2158954,
+      "min_latitude": 59.23275400000001,
+      "min_longitude": 15.41747,
+      "max_latitude": 60.1906571,
+      "max_longitude": 16.9458588
+    },
     "translations": {
       "en": "Västmanland",
       "ar": "محافظة وستمانلاند",
-      "be": "Лен Вестманланд",
+      "be": "лен Вестманланд",
       "bg": "Вестманланд",
       "bn": "ভ্যাস্টম্যানল্যান্ড কাউন্টি",
-      "ca": "Comtat de Västmanland",
+      "ca": "comtat de Västmanland",
       "cs": "Västmanlan",
       "da": "Västmanlands län",
       "de": "Västmanlands län",
       "el": "Βαστμανλάντ",
-      "es": "Provincia de Västmanland",
+      "es": "provincia de Västmanland",
       "et": "Västmanlandi lään",
       "eu": "Västmanlandeko konderria",
       "fa": "استان وستمانلاند",
       "fi": "Västmanlandin lääni",
-      "fr": "Comté de Västmanland",
-      "gl": "Condado de Västmanland",
+      "fr": "comté de Västmanland",
+      "gl": "condado de Västmanland",
       "gu": "વસ્ટમેનલેન્ડ કાઉન્ટી",
       "he": "מחוז וסטמנלנד",
       "hi": "वेस्तमानलान्द लैन",
@@ -1064,42 +1211,50 @@
       "tr": "Västmanland ili",
       "uk": "Вестманланд",
       "ur": "ویستمانلاند کاؤنٹی",
-      "vi": "Västmanland"
+      "vi": "hạt Västmanland",
+      "ceb": "Västmanlands län",
+      "sr_Latn": "Vestmanland",
+      "zh": "西曼兰省",
+      "ccp": "𑄞𑄌𑄴𑄑𑄴𑄟𑄚𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Västmanland",
+      "mk": "Вестманланд"
     },
-    "geo": {
-      "latitude": 59.6713879,
-      "longitude": 16.2158954,
-      "min_latitude": 59.23275400000001,
-      "min_longitude": 15.41747,
-      "max_latitude": 60.1906571,
-      "max_longitude": 16.9458588
-    },
-    "name": "Västmanlands län"
+    "comments": null
   },
   "W": {
+    "name": "Dalarnas län",
+    "code": null,
     "unofficial_names": [
       "Dalarnas",
       "Dalecarlia",
       "Kopparberg"
     ],
+    "geo": {
+      "latitude": 61.0917012,
+      "longitude": 14.6663653,
+      "min_latitude": 59.852169,
+      "min_longitude": 12.1331131,
+      "max_latitude": 62.28024099999999,
+      "max_longitude": 16.739265
+    },
     "translations": {
       "en": "Dalarna",
       "ar": "مقاطعة دالرناس",
-      "be": "Лен Даларна",
+      "be": "лен Даларна",
       "bg": "Даларна",
       "bn": "দালার্না কাউন্টি",
-      "ca": "Comtat de Dalarna",
+      "ca": "comtat de Dalarna",
       "cs": "Dalarna",
       "da": "Dalarnas län",
       "de": "Dalarnas län",
       "el": "Νταλάρνα",
-      "es": "Provincia de Dalarna",
+      "es": "provincia de Dalarna",
       "et": "Dalarna lään",
-      "eu": "Dalarna",
+      "eu": "Dalarnako konderria",
       "fa": "استان دالارنا",
       "fi": "Taalainmaan lääni",
-      "fr": "Comté de Dalécarlie",
-      "gl": "Condado de Dalarna",
+      "fr": "comté de Dalécarlie",
+      "gl": "condado de Dalarna",
       "gu": "દાલર્ના કાઉન્ટી",
       "he": "מחוז דלרנה",
       "hi": "दालारना लैन",
@@ -1131,38 +1286,46 @@
       "tr": "Dalarna ili",
       "uk": "Даларна",
       "ur": "دالارنا کاؤنٹی",
-      "vi": "Dalarna"
+      "vi": "hạt Dalarna",
+      "ceb": "Dalarnas län",
+      "sr_Latn": "Dalarna",
+      "zh": "达拉纳省",
+      "ccp": "𑄓𑄣𑄢𑄴𑄚",
+      "bs": "Kotar Dalarna",
+      "mk": "Даларна"
     },
-    "geo": {
-      "latitude": 61.0917012,
-      "longitude": 14.6663653,
-      "min_latitude": 59.852169,
-      "min_longitude": 12.1331131,
-      "max_latitude": 62.28024099999999,
-      "max_longitude": 16.739265
-    },
-    "name": "Dalarnas län"
+    "comments": null
   },
   "X": {
+    "name": "Gävleborgs län",
+    "code": null,
     "unofficial_names": "Gävleborgs län",
+    "geo": {
+      "latitude": 61.30119930000001,
+      "longitude": 16.1534215,
+      "min_latitude": 60.201385,
+      "min_longitude": 14.459403,
+      "max_latitude": 62.37083,
+      "max_longitude": 17.6414757
+    },
     "translations": {
       "en": "Gävleborg",
       "ar": "مقاطعة يافلبورغ",
       "be": "лен Еўлебарг",
       "bg": "Йевлебори",
       "bn": "গ্যাভ্লেবার্গ কাউন্টি",
-      "ca": "Comtat de Gävleborg",
+      "ca": "comtat de Gävleborg",
       "cs": "Gävleborg",
       "da": "Gävleborgs län",
       "de": "Gävleborgs län",
       "el": "Γκάβλεμποργκ",
-      "es": "Provincia de Gävleborg",
+      "es": "provincia de Gävleborg",
       "et": "Gävleborgi lään",
       "eu": "Gävleborgeko konderria",
       "fa": "استان گولبوری",
       "fi": "Gävleborgin lääni",
-      "fr": "Comté de Gävleborg",
-      "gl": "Condado de Gävleborg",
+      "fr": "comté de Gävleborg",
+      "gl": "condado de Gävleborg",
       "gu": "ગેવ્લોબોર્ગ કાઉન્ટી",
       "he": "יבלבורג",
       "hi": "यैव्लेबॉर्य लैन",
@@ -1193,38 +1356,46 @@
       "tr": "Gävleborg ili",
       "uk": "Євлеборґ",
       "ur": "یاولیبوری کاؤنٹی",
-      "vi": "Gävleborg"
+      "vi": "hạt Gävleborg",
+      "ceb": "Gävleborgs län",
+      "sr_Latn": "Jevleborg",
+      "zh": "耶夫勒堡省",
+      "ccp": "𑄉𑄳𑄠𑄛𑄴𑄣𑄬𑄝𑄮𑄢𑄴𑄇𑄴",
+      "bs": "Kotar Gävleborg",
+      "mk": "Јевлеборг"
     },
-    "geo": {
-      "latitude": 61.30119930000001,
-      "longitude": 16.1534215,
-      "min_latitude": 60.201385,
-      "min_longitude": 14.459403,
-      "max_latitude": 62.37083,
-      "max_longitude": 17.6414757
-    },
-    "name": "Gävleborgs län"
+    "comments": null
   },
   "Y": {
+    "name": "Västernorrlands län",
+    "code": null,
     "unofficial_names": "Västernorrlands län",
+    "geo": {
+      "latitude": 63.4276473,
+      "longitude": 17.7292444,
+      "min_latitude": 62.13979099999999,
+      "min_longitude": 14.776302,
+      "max_latitude": 64.00223489999999,
+      "max_longitude": 19.2867079
+    },
     "translations": {
       "en": "Västernorrland",
       "ar": "محافظة وسترنورلاند",
-      "be": "Лен Вестэрнорланд",
+      "be": "лен Вестэрнорланд",
       "bg": "Вестернорланд",
       "bn": "ভ্যাস্টারনরল্যান্ড কাউন্টি",
-      "ca": "Comtat de Västernorrland",
+      "ca": "comtat de Västernorrland",
       "cs": "Västernorrland County",
       "da": "Västernorrlands län",
       "de": "Västernorrlands län",
       "el": "Βαστερνορλάντ",
-      "es": "Provincia de Västernorrland",
+      "es": "provincia de Västernorrland",
       "et": "Västernorrlandi lään",
       "eu": "Västernorrlandeko konderria",
       "fa": "استان وسترنورلاند",
       "fi": "Västernorrlandin lääni",
-      "fr": "Comté de Västernorrland",
-      "gl": "Condado de Västernorrland",
+      "fr": "comté de Västernorrland",
+      "gl": "condado de Västernorrland",
       "gu": "વેસ્ટર્નઓરલેન્ડ કાઉન્ટી",
       "hi": "वेस्तरनॉरलान्द लैन",
       "hr": "Županija Västernorrland",
@@ -1254,27 +1425,35 @@
       "tr": "Västernorrland ili",
       "uk": "Вестерноррланд",
       "ur": "ویسترنورلاند کاؤنٹی",
-      "vi": "Västernorrland"
+      "vi": "hạt Västernorrland",
+      "ceb": "Västernorrlands län",
+      "sr_Latn": "Vesternurland",
+      "zh": "西诺尔兰省",
+      "ccp": "𑄞𑄌𑄴𑄑𑄢𑄴𑄚𑄧𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Västernorrland",
+      "mk": "Вестернорланд"
     },
-    "geo": {
-      "latitude": 63.4276473,
-      "longitude": 17.7292444,
-      "min_latitude": 62.13979099999999,
-      "min_longitude": 14.776302,
-      "max_latitude": 64.00223489999999,
-      "max_longitude": 19.2867079
-    },
-    "name": "Västernorrlands län"
+    "comments": null
   },
   "Z": {
+    "name": "Jämtlands län",
+    "code": null,
     "unofficial_names": "Jämtlands län",
+    "geo": {
+      "latitude": 63.1711922,
+      "longitude": 14.95918,
+      "min_latitude": 61.569695,
+      "min_longitude": 11.9688662,
+      "max_latitude": 65.073133,
+      "max_longitude": 17.0648909
+    },
     "translations": {
       "en": "Jämtland",
       "ar": "محافظة يمتلاند",
-      "be": "Лен Емтланд",
+      "be": "лен Емтланд",
       "bg": "Лен Йемтланд",
       "bn": "জামটল্যান্ড কাউন্টি",
-      "ca": "Comtat de Jämtland",
+      "ca": "comtat de Jämtland",
       "da": "Jämtlands län",
       "de": "Jämtlands län",
       "el": "κομητεία της Ιεμτλανδς",
@@ -1283,7 +1462,7 @@
       "eu": "Jämtlandeko konderria",
       "fa": "استان یمتلاند",
       "fi": "Jämtlandin lääni",
-      "fr": "Comté de Jämtland",
+      "fr": "comté de Jämtland",
       "gl": "condado de Jämtland",
       "gu": "જેમ્ટલેન્ડ કાઉન્ટી",
       "he": "ימטלנד",
@@ -1316,17 +1495,15 @@
       "tr": "Jämtland ili",
       "uk": "лен Ємтланд",
       "ur": "جامتلنڈ کاؤنٹی",
-      "vi": "hạt Jämtland"
+      "vi": "hạt Jämtland",
+      "ceb": "Jämtlands län",
+      "sr_Latn": "Jemtland",
+      "zh": "耶姆特兰省",
+      "ccp": "𑄎𑄟𑄴𑄑𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "bs": "Kotar Jämtland",
+      "mk": "Јемтланд"
     },
-    "geo": {
-      "latitude": 63.1711922,
-      "longitude": 14.95918,
-      "min_latitude": 61.569695,
-      "min_longitude": 11.9688662,
-      "max_latitude": 65.073133,
-      "max_longitude": 17.0648909
-    },
-    "name": "Jämtlands län"
+    "comments": null
   }
 }
 

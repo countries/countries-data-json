@@ -1,6 +1,16 @@
 {
   "A": {
+    "name": "Distrito Federal",
+    "code": null,
     "unofficial_names": "Distrito Federal",
+    "geo": {
+      "latitude": 10.4883092,
+      "longitude": -66.8201397,
+      "min_latitude": 10.4846835,
+      "min_longitude": -66.8206768,
+      "max_latitude": 10.4915618,
+      "max_longitude": -66.8186636
+    },
     "translations": {
       "en": "Capital",
       "ar": "مقاطعة العاصمة",
@@ -37,20 +47,29 @@
       "tr": "Venezuela Başkent Bölgesi",
       "ur": "دارالحکومت ضلع",
       "vi": "Quận Capital",
-      "zh": "聯邦區 (委內瑞拉)"
+      "zh": "聯邦區 (委內瑞拉)",
+      "lv": "Federālais distrikts",
+      "ceb": "Distrito Capital (estado sa Venezuela)",
+      "sq": "Distrikti i Kryeqytetit",
+      "ccp": "𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴",
+      "uk": "Столичний район",
+      "ca": "Districte Capital",
+      "be": "Сталічная акруга Венесуэлы"
     },
-    "geo": {
-      "latitude": 10.4883092,
-      "longitude": -66.8201397,
-      "min_latitude": 10.4846835,
-      "min_longitude": -66.8206768,
-      "max_latitude": 10.4915618,
-      "max_longitude": -66.8186636
-    },
-    "name": "Distrito Federal"
+    "comments": null
   },
   "B": {
+    "name": "Anzoátegui",
+    "code": null,
     "unofficial_names": "Anzoátegui",
+    "geo": {
+      "latitude": 8.5913073,
+      "longitude": -63.95861110000001,
+      "min_latitude": 7.662308999999999,
+      "min_longitude": -65.7231031,
+      "max_latitude": 10.3062849,
+      "max_longitude": -62.690419
+    },
     "translations": {
       "en": "Anzoátegui",
       "ar": "ولاية أنزواتغي",
@@ -98,20 +117,28 @@
       "tr": "Anzoategui",
       "uk": "Ансоатегі",
       "ur": "انسوآتیگی",
-      "vi": "Anzoategui"
+      "vi": "Anzoategui",
+      "lv": "Ansoategi",
+      "ceb": "Estado Anzoátegui",
+      "sr_Latn": "Anzoategi",
+      "zh": "安索阿特吉州",
+      "ccp": "𑄃𑄚𑄴𑄎𑄮𑄠𑄑𑄬𑄉𑄭𑄪",
+      "mk": "Анзоатеги"
     },
-    "geo": {
-      "latitude": 8.5913073,
-      "longitude": -63.95861110000001,
-      "min_latitude": 7.662308999999999,
-      "min_longitude": -65.7231031,
-      "max_latitude": 10.3062849,
-      "max_longitude": -62.690419
-    },
-    "name": "Anzoátegui"
+    "comments": null
   },
   "C": {
+    "name": "Apure",
+    "code": null,
     "unofficial_names": "Apure",
+    "geo": {
+      "latitude": 6.926948299999999,
+      "longitude": -68.52471489999999,
+      "min_latitude": 6.087082100000001,
+      "min_longitude": -72.44940199999999,
+      "max_latitude": 8.071935,
+      "max_longitude": -66.387362
+    },
     "translations": {
       "en": "Apure",
       "ar": "ولاية أبوري",
@@ -159,20 +186,28 @@
       "tr": "Apure",
       "uk": "Апуре",
       "ur": "آپورے",
-      "vi": "Apure"
+      "vi": "Apure",
+      "lv": "Apure",
+      "ceb": "Estado Apure",
+      "sr_Latn": "Apure",
+      "zh": "阿普雷州",
+      "ccp": "𑄃𑄳𑄠𑄛𑄨𑄅𑄪𑄢𑄴",
+      "mk": "Апуре"
     },
-    "geo": {
-      "latitude": 6.926948299999999,
-      "longitude": -68.52471489999999,
-      "min_latitude": 6.087082100000001,
-      "min_longitude": -72.44940199999999,
-      "max_latitude": 8.071935,
-      "max_longitude": -66.387362
-    },
-    "name": "Apure"
+    "comments": null
   },
   "D": {
+    "name": "Aragua",
+    "code": null,
     "unofficial_names": "Aragua",
+    "geo": {
+      "latitude": 10.2313205,
+      "longitude": -67.2847875,
+      "min_latitude": 9.236194,
+      "min_longitude": -67.8416931,
+      "max_latitude": 10.5348419,
+      "max_longitude": -66.577714
+    },
     "translations": {
       "en": "Aragua",
       "ar": "ولاية آراغوآ",
@@ -218,20 +253,29 @@
       "tr": "Aragua",
       "uk": "Арагуа",
       "ur": "آراگوا",
-      "vi": "Aragua"
+      "vi": "Aragua",
+      "lv": "Aragva",
+      "ceb": "Estado Aragua",
+      "sr_Latn": "Aragva",
+      "zh": "阿拉瓜州",
+      "ccp": "𑄃𑄢𑄉𑄪𑄠",
+      "bs": "Aragua",
+      "mk": "Арагва"
     },
-    "geo": {
-      "latitude": 10.2313205,
-      "longitude": -67.2847875,
-      "min_latitude": 9.236194,
-      "min_longitude": -67.8416931,
-      "max_latitude": 10.5348419,
-      "max_longitude": -66.577714
-    },
-    "name": "Aragua"
+    "comments": null
   },
   "E": {
+    "name": "Barinas",
+    "code": null,
     "unofficial_names": "Barinas",
+    "geo": {
+      "latitude": 8.6231498,
+      "longitude": -70.2371045,
+      "min_latitude": 8.567696399999999,
+      "min_longitude": -70.3161825,
+      "max_latitude": 8.676318000000002,
+      "max_longitude": -70.1549148
+    },
     "translations": {
       "en": "Barinas",
       "ar": "ولاية باريناس",
@@ -276,20 +320,30 @@
       "tr": "Barinas",
       "uk": "Барінас",
       "ur": "باریناس",
-      "vi": "Barinas (bang Venezuela)"
+      "vi": "Barinas (bang Venezuela)",
+      "lv": "Barinasa",
+      "ceb": "Estado Barinas",
+      "sr_Latn": "Barinas",
+      "zh": "巴里纳斯州",
+      "ccp": "𑄝𑄢𑄨𑄚𑄌𑄴",
+      "hy": "Բարինաս",
+      "ml": "ബരീനാസ്",
+      "mk": "Баринас"
     },
-    "geo": {
-      "latitude": 8.6231498,
-      "longitude": -70.2371045,
-      "min_latitude": 8.567696399999999,
-      "min_longitude": -70.3161825,
-      "max_latitude": 8.676318000000002,
-      "max_longitude": -70.1549148
-    },
-    "name": "Barinas"
+    "comments": null
   },
   "F": {
+    "name": "Bolívar",
+    "code": null,
     "unofficial_names": "Bolívar",
+    "geo": {
+      "latitude": 28.6002894,
+      "longitude": 77.1857196,
+      "min_latitude": 28.5999888,
+      "min_longitude": 77.1853477,
+      "max_latitude": 28.6005899,
+      "max_longitude": 77.1860916
+    },
     "translations": {
       "en": "Bolívar",
       "ar": "ولاية بوليفار",
@@ -335,20 +389,29 @@
       "tr": "Bolivar",
       "uk": "Болівар",
       "ur": "بولیبار",
-      "vi": "Bolívar"
+      "vi": "Bolívar",
+      "lv": "Bolivara",
+      "ceb": "Estado Bolívar",
+      "sr_Latn": "Bolivar",
+      "zh": "玻利瓦爾州",
+      "ccp": "𑄝𑄮𑄣𑄨𑄞𑄢𑄴",
+      "hy": "Բոլիվար",
+      "mk": "Боливар"
     },
-    "geo": {
-      "latitude": 28.6002894,
-      "longitude": 77.1857196,
-      "min_latitude": 28.5999888,
-      "min_longitude": 77.1853477,
-      "max_latitude": 28.6005899,
-      "max_longitude": 77.1860916
-    },
-    "name": "Bolívar"
+    "comments": null
   },
   "G": {
+    "name": "Carabobo",
+    "code": null,
     "unofficial_names": "Carabobo",
+    "geo": {
+      "latitude": 10.1176433,
+      "longitude": -68.0477509,
+      "min_latitude": 9.840609899999999,
+      "min_longitude": -68.3616419,
+      "max_latitude": 10.582696,
+      "max_longitude": -67.500586
+    },
     "translations": {
       "en": "Carabobo",
       "af": "Carabobo",
@@ -394,20 +457,29 @@
       "tr": "Carabobo",
       "uk": "Карабобо",
       "ur": "کارابوبو",
-      "vi": "Carabobo"
+      "vi": "Carabobo",
+      "lv": "Karabobo",
+      "ceb": "Estado Carabobo",
+      "sr_Latn": "Karabobo",
+      "zh": "卡拉沃沃州",
+      "ccp": "𑄇𑄢𑄝𑄮𑄝𑄮",
+      "hy": "Կարաբոբո",
+      "mk": "Карабобо"
     },
-    "geo": {
-      "latitude": 10.1176433,
-      "longitude": -68.0477509,
-      "min_latitude": 9.840609899999999,
-      "min_longitude": -68.3616419,
-      "max_latitude": 10.582696,
-      "max_longitude": -67.500586
-    },
-    "name": "Carabobo"
+    "comments": null
   },
   "H": {
+    "name": "Cojedes",
+    "code": null,
     "unofficial_names": "Cojedes",
+    "geo": {
+      "latitude": 9.3816682,
+      "longitude": -68.3339275,
+      "min_latitude": 8.447204,
+      "min_longitude": -68.973962,
+      "max_latitude": 10.136926,
+      "max_longitude": -67.729923
+    },
     "translations": {
       "en": "Cojedes",
       "ar": "كويديس",
@@ -449,20 +521,30 @@
       "tr": "Cojedes",
       "uk": "Кохедес",
       "ur": "کوخیدیس",
-      "vi": "Cojedes (bang)"
+      "vi": "Cojedes (bang)",
+      "lv": "Kohedesa",
+      "ceb": "Estado Cojedes",
+      "sr_Latn": "Kohedes",
+      "zh": "科赫德斯州",
+      "fa": "کوخدس",
+      "ccp": "𑄇𑄮𑄎𑄬𑄓𑄬𑄌𑄴",
+      "eu": "Cojedes",
+      "mk": "Кохедес"
     },
-    "geo": {
-      "latitude": 9.3816682,
-      "longitude": -68.3339275,
-      "min_latitude": 8.447204,
-      "min_longitude": -68.973962,
-      "max_latitude": 10.136926,
-      "max_longitude": -67.729923
-    },
-    "name": "Cojedes"
+    "comments": null
   },
   "I": {
+    "name": "Falcón",
+    "code": null,
     "unofficial_names": "Falcón",
+    "geo": {
+      "latitude": 11.1810674,
+      "longitude": -69.8597406,
+      "min_latitude": 10.3007589,
+      "min_longitude": -71.2543781,
+      "max_latitude": 12.1967488,
+      "max_longitude": -68.2239176
+    },
     "translations": {
       "en": "Falcón",
       "ar": "فالكون",
@@ -506,20 +588,29 @@
       "tr": "Falcon",
       "uk": "Фалькон",
       "ur": "فالکون",
-      "vi": "Falcón"
+      "vi": "Falcón",
+      "lv": "Falkona",
+      "ceb": "Estado Falcón",
+      "sr_Latn": "Falkon",
+      "zh": "法尔孔州",
+      "ccp": "𑄜𑄧𑄣𑄴𑄇𑄧𑄚𑄴",
+      "eu": "Falcón",
+      "mk": "Фалкон"
     },
-    "geo": {
-      "latitude": 11.1810674,
-      "longitude": -69.8597406,
-      "min_latitude": 10.3007589,
-      "min_longitude": -71.2543781,
-      "max_latitude": 12.1967488,
-      "max_longitude": -68.2239176
-    },
-    "name": "Falcón"
+    "comments": null
   },
   "J": {
+    "name": "Guárico",
+    "code": null,
     "unofficial_names": "Guárico",
+    "geo": {
+      "latitude": 8.7489309,
+      "longitude": -66.2367172,
+      "min_latitude": 7.605169999999998,
+      "min_longitude": -68.0238901,
+      "max_latitude": 10.057669,
+      "max_longitude": -64.75399209999999
+    },
     "translations": {
       "en": "Guárico",
       "ar": "غواريكو",
@@ -561,20 +652,30 @@
       "tr": "Guarico",
       "uk": "Гуаріко",
       "ur": "گواریکو",
-      "vi": "Guarico"
+      "vi": "Guarico",
+      "lv": "Gvariko",
+      "ceb": "Estado Guárico",
+      "sr_Latn": "Gvariko",
+      "zh": "瓜里科州",
+      "fa": "گوآریکو",
+      "ccp": "𑄉𑄪𑄠𑄢𑄨𑄇𑄮",
+      "eu": "Guárico",
+      "mk": "Гварико"
     },
-    "geo": {
-      "latitude": 8.7489309,
-      "longitude": -66.2367172,
-      "min_latitude": 7.605169999999998,
-      "min_longitude": -68.0238901,
-      "max_latitude": 10.057669,
-      "max_longitude": -64.75399209999999
-    },
-    "name": "Guárico"
+    "comments": null
   },
   "K": {
+    "name": "Lara",
+    "code": null,
     "unofficial_names": "Lara",
+    "geo": {
+      "latitude": 10.1537842,
+      "longitude": -69.8597406,
+      "min_latitude": 9.471193,
+      "min_longitude": -70.86321000000001,
+      "max_latitude": 10.7833261,
+      "max_longitude": -68.86312699999999
+    },
     "translations": {
       "en": "Lara",
       "ar": "لارا",
@@ -617,20 +718,29 @@
       "tr": "Lara",
       "uk": "Лара",
       "ur": "لارا، وینیزویلا",
-      "vi": "Lara"
+      "vi": "Lara",
+      "lv": "Lara",
+      "ceb": "Estado Lara",
+      "sr_Latn": "Lara",
+      "zh": "拉腊州",
+      "ccp": "𑄣𑄢",
+      "eu": "Lara (estatua)",
+      "mk": "Лара"
     },
-    "geo": {
-      "latitude": 10.1537842,
-      "longitude": -69.8597406,
-      "min_latitude": 9.471193,
-      "min_longitude": -70.86321000000001,
-      "max_latitude": 10.7833261,
-      "max_longitude": -68.86312699999999
-    },
-    "name": "Lara"
+    "comments": null
   },
   "L": {
+    "name": "Mérida",
+    "code": null,
     "unofficial_names": "Mérida",
+    "geo": {
+      "latitude": 8.6,
+      "longitude": -71.14999999999999,
+      "min_latitude": 8.550806399999999,
+      "min_longitude": -71.2217046,
+      "max_latitude": 8.6325337,
+      "max_longitude": -71.1248876
+    },
     "translations": {
       "en": "Mérida",
       "ar": "ولاية ماردة",
@@ -673,20 +783,29 @@
       "tr": "Mérida",
       "uk": "Меріда",
       "ur": "میریدا",
-      "vi": "Mérida (bang)"
+      "vi": "Mérida (bang)",
+      "lv": "Merida",
+      "ceb": "Estado Mérida",
+      "sr_Latn": "Merida (država Venecuele)",
+      "zh": "梅里达州",
+      "ccp": "𑄟𑄢𑄨𑄓",
+      "eu": "Mérida (estatua)",
+      "mk": "Мерида"
     },
-    "geo": {
-      "latitude": 8.6,
-      "longitude": -71.14999999999999,
-      "min_latitude": 8.550806399999999,
-      "min_longitude": -71.2217046,
-      "max_latitude": 8.6325337,
-      "max_longitude": -71.1248876
-    },
-    "name": "Mérida"
+    "comments": null
   },
   "M": {
+    "name": "Miranda",
+    "code": null,
     "unofficial_names": "Miranda",
+    "geo": {
+      "latitude": 10.4883092,
+      "longitude": -66.8201397,
+      "min_latitude": 10.4846835,
+      "min_longitude": -66.8206768,
+      "max_latitude": 10.4915618,
+      "max_longitude": -66.8186636
+    },
     "translations": {
       "en": "Miranda",
       "ar": "ميراندا",
@@ -731,20 +850,29 @@
       "tr": "Miranda",
       "uk": "Міранда",
       "ur": "میراندا",
-      "vi": "Miranda"
+      "vi": "Miranda",
+      "lv": "Miranda",
+      "ceb": "Miranda (estado)",
+      "sr_Latn": "Miranda",
+      "zh": "米兰达州",
+      "ccp": "𑄟𑄨𑄢𑄨𑄚𑄴𑄓",
+      "eu": "Miranda (estatua)",
+      "mk": "Миранда"
     },
-    "geo": {
-      "latitude": 10.4883092,
-      "longitude": -66.8201397,
-      "min_latitude": 10.4846835,
-      "min_longitude": -66.8206768,
-      "max_latitude": 10.4915618,
-      "max_longitude": -66.8186636
-    },
-    "name": "Miranda"
+    "comments": null
   },
   "N": {
+    "name": "Monagas",
+    "code": null,
     "unofficial_names": "Monagas",
+    "geo": {
+      "latitude": 9.3241652,
+      "longitude": -63.0147578,
+      "min_latitude": 8.370352,
+      "min_longitude": -64.060521,
+      "max_latitude": 10.313212,
+      "max_longitude": -61.992819
+    },
     "translations": {
       "en": "Monagas",
       "ar": "موناغاس",
@@ -787,20 +915,29 @@
       "tr": "Monagas",
       "uk": "Монагас (штат Венесуели)",
       "ur": "موناگاس",
-      "vi": "Monagas"
+      "vi": "Monagas",
+      "lv": "Monagasa",
+      "ceb": "Estado Monagas",
+      "sr_Latn": "Monagas (država Venecuele)",
+      "zh": "莫納加斯州",
+      "ccp": "𑄟𑄮𑄚𑄉𑄌𑄴",
+      "eu": "Monagas",
+      "mk": "Монагас"
     },
-    "geo": {
-      "latitude": 9.3241652,
-      "longitude": -63.0147578,
-      "min_latitude": 8.370352,
-      "min_longitude": -64.060521,
-      "max_latitude": 10.313212,
-      "max_longitude": -61.992819
-    },
-    "name": "Monagas"
+    "comments": null
   },
   "O": {
+    "name": "Nueva Esparta",
+    "code": null,
     "unofficial_names": "Nueva Esparta",
+    "geo": {
+      "latitude": 10.9970723,
+      "longitude": -63.91132959999999,
+      "min_latitude": 10.7362473,
+      "min_longitude": -64.408394,
+      "max_latitude": 11.1751676,
+      "max_longitude": -63.7801904
+    },
     "translations": {
       "en": "Nueva Esparta",
       "ar": "نويفا إسبارتا",
@@ -844,20 +981,30 @@
       "tr": "Nueva Esparta",
       "uk": "Нуева-Еспарта",
       "ur": "نویبا ایسپارتا",
-      "vi": "Nueva Esparta"
+      "vi": "Nueva Esparta",
+      "lv": "Nueva Esparta",
+      "ceb": "Estado Nueva Esparta",
+      "sr_Latn": "Nueva Esparta",
+      "zh": "新埃斯帕塔州",
+      "fa": "نوئوا اسپارتا",
+      "ccp": "𑄚𑄨𑄅𑄪𑄞 𑄃𑄬𑄌𑄴𑄛𑄢𑄴𑄑",
+      "eu": "Nueva Esparta",
+      "mk": "Нуева Еспарта"
     },
-    "geo": {
-      "latitude": 10.9970723,
-      "longitude": -63.91132959999999,
-      "min_latitude": 10.7362473,
-      "min_longitude": -64.408394,
-      "max_latitude": 11.1751676,
-      "max_longitude": -63.7801904
-    },
-    "name": "Nueva Esparta"
+    "comments": null
   },
   "P": {
+    "name": "Portuguesa",
+    "code": null,
     "unofficial_names": "Portuguesa",
+    "geo": {
+      "latitude": 9.094399899999999,
+      "longitude": -69.097023,
+      "min_latitude": 8.0664041,
+      "min_longitude": -70.20322999999999,
+      "max_latitude": 9.936261,
+      "max_longitude": -68.4286499
+    },
     "translations": {
       "en": "Portuguesa",
       "ar": "بورتوغيزا",
@@ -900,20 +1047,29 @@
       "tr": "Portuguesa",
       "uk": "Португеса",
       "ur": "پورتوگیسا، وینیزویلا",
-      "vi": "Portuguesa (bang)"
+      "vi": "Portuguesa (bang)",
+      "lv": "Portugesa",
+      "ceb": "Estado Portuguesa",
+      "sr_Latn": "Portugesa",
+      "zh": "波图格萨州",
+      "ccp": "𑄑𑄮𑄢𑄴𑄑𑄪𑄉𑄪𑄠𑄬𑄌",
+      "eu": "Portuguesa",
+      "mk": "Португеса"
     },
-    "geo": {
-      "latitude": 9.094399899999999,
-      "longitude": -69.097023,
-      "min_latitude": 8.0664041,
-      "min_longitude": -70.20322999999999,
-      "max_latitude": 9.936261,
-      "max_longitude": -68.4286499
-    },
-    "name": "Portuguesa"
+    "comments": null
   },
   "R": {
+    "name": "Sucre",
+    "code": null,
     "unofficial_names": "Sucre",
+    "geo": {
+      "latitude": 10.4883092,
+      "longitude": -66.8201397,
+      "min_latitude": 10.4846835,
+      "min_longitude": -66.8206768,
+      "max_latitude": 10.4915618,
+      "max_longitude": -66.8186636
+    },
     "translations": {
       "en": "Sucre",
       "ar": "سوكري",
@@ -956,20 +1112,29 @@
       "tr": "Sucre",
       "uk": "Сукре",
       "ur": "سوکرے، وینیزویلا",
-      "vi": "Sucre (bang)"
+      "vi": "Sucre (bang)",
+      "lv": "Sukre",
+      "ceb": "Estado Sucre",
+      "sr_Latn": "Sukre",
+      "zh": "苏克雷州",
+      "ccp": "𑄥𑄇𑄳𑄢𑄬",
+      "eu": "Sucre (estatua)",
+      "mk": "Сукре"
     },
-    "geo": {
-      "latitude": 10.4883092,
-      "longitude": -66.8201397,
-      "min_latitude": 10.4846835,
-      "min_longitude": -66.8206768,
-      "max_latitude": 10.4915618,
-      "max_longitude": -66.8186636
-    },
-    "name": "Sucre"
+    "comments": null
   },
   "S": {
+    "name": "Táchira",
+    "code": null,
     "unofficial_names": "Táchira",
+    "geo": {
+      "latitude": 7.9137001,
+      "longitude": -72.1416132,
+      "min_latitude": 7.328787999999999,
+      "min_longitude": -72.48719799999999,
+      "max_latitude": 8.6657761,
+      "max_longitude": -71.349119
+    },
     "translations": {
       "en": "Táchira",
       "ar": "ولاية تاتشيرا",
@@ -1014,20 +1179,29 @@
       "tr": "Táchira",
       "uk": "Тачіра",
       "ur": "تاچیرا",
-      "vi": "Táchira (bang)"
+      "vi": "Táchira (bang)",
+      "lv": "Tačira",
+      "ceb": "Estado Táchira",
+      "sr_Latn": "Tačira",
+      "zh": "塔奇拉州",
+      "ccp": "𑄑𑄌𑄨𑄢",
+      "eu": "Táchira (estatua)",
+      "mk": "Тачира"
     },
-    "geo": {
-      "latitude": 7.9137001,
-      "longitude": -72.1416132,
-      "min_latitude": 7.328787999999999,
-      "min_longitude": -72.48719799999999,
-      "max_latitude": 8.6657761,
-      "max_longitude": -71.349119
-    },
-    "name": "Táchira"
+    "comments": null
   },
   "T": {
+    "name": "Trujillo",
+    "code": null,
     "unofficial_names": "Trujillo",
+    "geo": {
+      "latitude": 9.366667,
+      "longitude": -70.433056,
+      "min_latitude": 9.3437211,
+      "min_longitude": -70.4553008,
+      "max_latitude": 9.398062699999999,
+      "max_longitude": -70.4230498
+    },
     "translations": {
       "en": "Trujillo",
       "ar": "تروخيو",
@@ -1071,20 +1245,29 @@
       "tr": "Trujillo",
       "uk": "Трухільйо",
       "ur": "تروخیو",
-      "vi": "Trujillo"
+      "vi": "Trujillo",
+      "lv": "Truhiljo",
+      "ceb": "Estado Trujillo",
+      "sr_Latn": "Truhiljo",
+      "zh": "特鲁希略州",
+      "ccp": "𑄑𑄳𑄢𑄪𑄎𑄨𑄣𑄳𑄣𑄮",
+      "eu": "Trujillo (estatua)",
+      "mk": "Трухиљо"
     },
-    "geo": {
-      "latitude": 9.366667,
-      "longitude": -70.433056,
-      "min_latitude": 9.3437211,
-      "min_longitude": -70.4553008,
-      "max_latitude": 9.398062699999999,
-      "max_longitude": -70.4230498
-    },
-    "name": "Trujillo"
+    "comments": null
   },
   "U": {
+    "name": "Yaracuy",
+    "code": null,
     "unofficial_names": "Yaracuy",
+    "geo": {
+      "latitude": 10.417644,
+      "longitude": -68.7154975,
+      "min_latitude": 9.898342999999999,
+      "min_longitude": -69.1803231,
+      "max_latitude": 10.7661631,
+      "max_longitude": -68.239899
+    },
     "translations": {
       "en": "Yaracuy",
       "ar": "ياراكوي",
@@ -1128,20 +1311,29 @@
       "tr": "Yaracuy",
       "uk": "Яракуй",
       "ur": "یارکے",
-      "vi": "Yaracuy"
+      "vi": "Yaracuy",
+      "lv": "Jarakuja",
+      "ceb": "Estado Yaracuy",
+      "sr_Latn": "Jarakuj",
+      "zh": "亚拉奎州",
+      "fa": "یاراکوی",
+      "ccp": "𑄃𑄨𑄠𑄢𑄇𑄪𑄠𑄨",
+      "mk": "Јаракуј"
     },
-    "geo": {
-      "latitude": 10.417644,
-      "longitude": -68.7154975,
-      "min_latitude": 9.898342999999999,
-      "min_longitude": -69.1803231,
-      "max_latitude": 10.7661631,
-      "max_longitude": -68.239899
-    },
-    "name": "Yaracuy"
+    "comments": null
   },
   "V": {
+    "name": "Zulia",
+    "code": null,
     "unofficial_names": "Zulia",
+    "geo": {
+      "latitude": 9.967492,
+      "longitude": -72.5204827,
+      "min_latitude": 8.387665,
+      "min_longitude": -73.37431289999999,
+      "max_latitude": 11.8552741,
+      "max_longitude": -70.63522999999999
+    },
     "translations": {
       "en": "Zulia",
       "ar": "زوليا",
@@ -1187,20 +1379,29 @@
       "tr": "Zulia",
       "uk": "Сулія",
       "ur": "سولیا",
-      "vi": "Zulia"
+      "vi": "Zulia",
+      "lv": "Sulija",
+      "ceb": "Estado Zulia",
+      "sr_Latn": "Zulija",
+      "zh": "苏利亚州",
+      "ccp": "𑄎𑄪𑄣𑄨𑄠",
+      "eu": "Zulia",
+      "mk": "Сулија"
     },
-    "geo": {
-      "latitude": 9.967492,
-      "longitude": -72.5204827,
-      "min_latitude": 8.387665,
-      "min_longitude": -73.37431289999999,
-      "max_latitude": 11.8552741,
-      "max_longitude": -70.63522999999999
-    },
-    "name": "Zulia"
+    "comments": null
   },
   "W": {
+    "name": "Dependencias Federales",
+    "code": null,
     "unofficial_names": "Dependencias Federales",
+    "geo": {
+      "latitude": 10.9377053,
+      "longitude": -65.35695729999999,
+      "min_latitude": 10.889361,
+      "min_longitude": -67.6694946,
+      "max_latitude": 11.9848232,
+      "max_longitude": -63.07872800000001
+    },
     "translations": {
       "en": "Federal Dependencies",
       "ar": "التبعيات الاتحادية لفنزويلا",
@@ -1241,20 +1442,28 @@
       "tr": "Federal Dependencies of Venezuela",
       "uk": "Федеральні володіння Венесуели",
       "ur": "وفاقی توابع وینیزویلا",
-      "vi": "Vùng lãnh thổ phụ thuộccủa Venezuela"
+      "vi": "Vùng lãnh thổ phụ thuộccủa Venezuela",
+      "ceb": "Dependencias Federales",
+      "sr_Latn": "Federalna teritorija Venecuele",
+      "zh": "聯邦屬地",
+      "ccp": "𑄜𑄬𑄓𑄢𑄳𑄠𑄣𑄴 𑄓𑄬𑄛𑄬𑄚𑄴𑄓𑄬𑄚𑄴𑄥𑄭𑄌𑄴",
+      "ca": "Dependències Federals de Veneçuela",
+      "be": "Федэральныя ўладанні Венесуэлы"
     },
-    "geo": {
-      "latitude": 10.9377053,
-      "longitude": -65.35695729999999,
-      "min_latitude": 10.889361,
-      "min_longitude": -67.6694946,
-      "max_latitude": 11.9848232,
-      "max_longitude": -63.07872800000001
-    },
-    "name": "Dependencias Federales"
+    "comments": null
   },
   "X": {
+    "name": "Vargas",
+    "code": null,
     "unofficial_names": "Vargas",
+    "geo": {
+      "latitude": 10.5890015,
+      "longitude": -66.7367345,
+      "min_latitude": 10.417451,
+      "min_longitude": -67.3725891,
+      "max_latitude": 10.6304144,
+      "max_longitude": -66.337891
+    },
     "translations": {
       "en": "Vargas",
       "ar": "فارغاس",
@@ -1297,20 +1506,29 @@
       "tr": "Vargas",
       "uk": "Варгас",
       "ur": "بارگاس",
-      "vi": "Vargas (bang)"
+      "vi": "Vargas (bang)",
+      "lv": "Vargasa",
+      "ceb": "Estado Vargas",
+      "sr_Latn": "Vargas",
+      "zh": "瓦尔加斯州",
+      "ccp": "𑄞𑄢𑄴𑄉𑄌𑄴",
+      "eu": "Vargas (estatua)",
+      "mk": "Варгас"
     },
-    "geo": {
-      "latitude": 10.5890015,
-      "longitude": -66.7367345,
-      "min_latitude": 10.417451,
-      "min_longitude": -67.3725891,
-      "max_latitude": 10.6304144,
-      "max_longitude": -66.337891
-    },
-    "name": "Vargas"
+    "comments": null
   },
   "Y": {
+    "name": "Delta Amacuro",
+    "code": null,
     "unofficial_names": "Delta Amacuro",
+    "geo": {
+      "latitude": 8.8315945,
+      "longitude": -61.5180455,
+      "min_latitude": 7.608759,
+      "min_longitude": -62.6149749,
+      "max_latitude": 10.053239,
+      "max_longitude": -59.80378
+    },
     "translations": {
       "en": "Delta Amacuro",
       "ar": "دلتا أماكورو",
@@ -1353,20 +1571,31 @@
       "tr": "Deltra Amacuro",
       "uk": "Дельта-Амакуро",
       "ur": "دیلتا اماکورا",
-      "vi": "Delta Amacuro"
+      "vi": "Delta Amacuro",
+      "lv": "Delta Amakuro",
+      "ceb": "Delta Amacuro",
+      "sr_Latn": "Delta Amakuro",
+      "zh": "阿马库罗三角洲州",
+      "fa": "دلتا آماکورو",
+      "ccp": "𑄓𑄬𑄣𑄴𑄑 𑄃𑄟𑄎𑄨𑄅𑄪𑄢𑄮",
+      "hu": "Delta Amacuro",
+      "eu": "Delta Amacuro",
+      "mk": "Делта Амакуро"
     },
-    "geo": {
-      "latitude": 8.8315945,
-      "longitude": -61.5180455,
-      "min_latitude": 7.608759,
-      "min_longitude": -62.6149749,
-      "max_latitude": 10.053239,
-      "max_longitude": -59.80378
-    },
-    "name": "Delta Amacuro"
+    "comments": null
   },
   "Z": {
+    "name": "Amazonas",
+    "code": null,
     "unofficial_names": "Amazonas",
+    "geo": {
+      "latitude": 2.8101413,
+      "longitude": -65.0957792,
+      "min_latitude": 0.6745019999999999,
+      "min_longitude": -67.877792,
+      "max_latitude": 6.1556791,
+      "max_longitude": -63.37184399999999
+    },
     "translations": {
       "en": "Amazonas",
       "ar": "ولاية آمازون",
@@ -1415,17 +1644,18 @@
       "tr": "Amazonas",
       "uk": "Амасонас",
       "ur": "اماسوناس، وینیزویلا",
-      "vi": "Amazonas"
+      "vi": "Amazonas",
+      "lv": "Amazonasa",
+      "ceb": "Estado Amazonas",
+      "sr_Latn": "Amazonas",
+      "zh": "亞馬遜州",
+      "yue_Hans": "亚马逊州",
+      "ccp": "𑄃𑄟𑄎𑄮𑄚𑄌𑄴",
+      "yue": "亞馬遜州",
+      "bs": "Amazonas",
+      "mk": "Амазон"
     },
-    "geo": {
-      "latitude": 2.8101413,
-      "longitude": -65.0957792,
-      "min_latitude": 0.6745019999999999,
-      "min_longitude": -67.877792,
-      "max_latitude": 6.1556791,
-      "max_longitude": -63.37184399999999
-    },
-    "name": "Amazonas"
+    "comments": null
   }
 }
 

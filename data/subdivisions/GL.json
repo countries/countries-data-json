@@ -1,5 +1,16 @@
 {
   "KU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كوياليك",
       "be": "Куялек",
@@ -42,10 +53,28 @@
       "uk": "Куяллек",
       "ur": "کوجالیق",
       "vi": "Kujalleq",
-      "zh": "库雅雷哥"
-    }
+      "zh": "库雅雷哥",
+      "lv": "Kujaleka",
+      "ceb": "Kujalleq (munisipyo)",
+      "sr_Latn": "Kujalek",
+      "lt": "Kujalekas",
+      "ccp": "𑄇𑄪𑄎𑄣𑄬𑄇𑄴",
+      "mk": "Кујалек"
+    },
+    "comments": null
   },
   "QA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كاسويتسوب",
       "bn": "কুয়াসুইটসুপ",
@@ -87,10 +116,27 @@
       "tr": "Qaasuitsup",
       "uk": "Каасуїтсуп",
       "ur": "قاسویتسوپ",
-      "vi": "Qaasuitsup"
-    }
+      "vi": "Qaasuitsup",
+      "lv": "Kasuitsupa",
+      "sr_Latn": "Kasuitsup",
+      "lt": "Kaasuitsupas",
+      "zh": "卡苏伊特萨普",
+      "ccp": "𑄇𑄥𑄭𑄪𑄖𑄴𑄥𑄛𑄴"
+    },
+    "comments": null
   },
   "QE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كيكاتا",
       "bn": "কুয়েকাটা",
@@ -131,10 +177,28 @@
       "tr": "Qeqqata",
       "uk": "Кекката",
       "ur": "قیقاتا",
-      "vi": "Qeqqata"
-    }
+      "vi": "Qeqqata",
+      "lv": "Kekata",
+      "ceb": "Qeqqata",
+      "sr_Latn": "Kekata",
+      "lt": "Kekata",
+      "zh": "凯克卡塔",
+      "ccp": "𑄇𑄬𑄇𑄑"
+    },
+    "comments": null
   },
   "SM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "سيرمرسوك",
       "bn": "সার্মারসুক",
@@ -176,8 +240,35 @@
       "tr": "Sermersooq",
       "uk": "Сермерсоок",
       "ur": "سیرمیرسوق",
-      "vi": "Sermersooq"
-    }
+      "vi": "Sermersooq",
+      "lv": "Sermersooka",
+      "ceb": "Sermersooq (munisipyo)",
+      "sr_Latn": "Sermersok",
+      "lt": "Semersukas",
+      "zh": "瑟莫蘇克",
+      "ccp": "𑄥𑄢𑄴𑄟𑄢𑄴𑄥𑄪𑄇𑄴"
+    },
+    "comments": null
+  },
+  "AV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Avannaata Kommunia"
+    },
+    "comments": null
+  },
+  "QT": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Kommune Qeqertalik"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "AR": {
+    "name": "Arta",
+    "code": null,
     "unofficial_names": "Arta",
+    "geo": {
+      "latitude": 11.5255528,
+      "longitude": 42.8479474,
+      "min_latitude": 11.5173265,
+      "min_longitude": 42.8388475,
+      "max_latitude": 11.5316867,
+      "max_longitude": 42.8639103
+    },
     "translations": {
       "en": "Arta",
       "ar": "إقليم عرتا",
@@ -42,23 +52,29 @@
       "uk": "Арта",
       "ur": "ارتا علاقہ",
       "vi": "Khu vực Arta",
-      "zh": "阿爾塔州 (吉布提)"
+      "zh": "阿爾塔州 (吉布提)",
+      "lv": "Artas reģions",
+      "ceb": "Arta Region",
+      "ccp": "𑄃𑄢𑄴𑄑",
+      "ca": "Regió d’Arta"
     },
-    "geo": {
-      "latitude": 11.5255528,
-      "longitude": 42.8479474,
-      "min_latitude": 11.5173265,
-      "min_longitude": 42.8388475,
-      "max_latitude": 11.5316867,
-      "max_longitude": 42.8639103
-    },
-    "name": "Arta"
+    "comments": null
   },
   "AS": {
+    "name": "Ali Sabieh",
+    "code": null,
     "unofficial_names": [
       "Ali Sabieh",
       "Ali Sabih"
     ],
+    "geo": {
+      "latitude": 11.15,
+      "longitude": 42.716667,
+      "min_latitude": 11.136424,
+      "min_longitude": 42.6945505,
+      "max_latitude": 11.1627947,
+      "max_longitude": 42.7215384
+    },
     "translations": {
       "en": "Ali Sabieh",
       "ar": "إقليم علي صبيح",
@@ -98,23 +114,30 @@
       "tr": "Ali Sabieh Bölgesi",
       "uk": "Алі-Сабіх",
       "ur": "علی صبیح علاقہ",
-      "vi": "Khu vực Ali Sabieh"
+      "vi": "Khu vực Ali Sabieh",
+      "lv": "Alī Sabīhas reģions",
+      "ceb": "Ali Sabieh Region",
+      "zh": "阿里薩比州",
+      "ccp": "𑄃𑄣𑄨 𑄥𑄝𑄨𑄠𑄬𑄦𑄴",
+      "ca": "Regió d’Ali Sabieh"
     },
-    "geo": {
-      "latitude": 11.15,
-      "longitude": 42.716667,
-      "min_latitude": 11.136424,
-      "min_longitude": 42.6945505,
-      "max_latitude": 11.1627947,
-      "max_longitude": 42.7215384
-    },
-    "name": "Ali Sabieh"
+    "comments": null
   },
   "DI": {
+    "name": "Dikhil",
+    "code": null,
     "unofficial_names": [
       "Dikhil",
       "Dikkil"
     ],
+    "geo": {
+      "latitude": 11.1054336,
+      "longitude": 42.3704744,
+      "min_latitude": 11.0995738,
+      "min_longitude": 42.362981,
+      "max_latitude": 11.1124048,
+      "max_longitude": 42.3815967
+    },
     "translations": {
       "en": "Dikhil",
       "ar": "دخيل",
@@ -155,22 +178,29 @@
       "tr": "Dikhil Bölgesi",
       "uk": "Дікіль",
       "ur": "دخیل علاقہ",
-      "vi": "Khu vực Dikhil"
+      "vi": "Khu vực Dikhil",
+      "lv": "Dihilas reģions",
+      "ceb": "Dikhil",
+      "zh": "迪基爾州",
+      "ccp": "𑄓𑄨𑄈𑄨𑄣𑄴",
+      "ca": "Regió de Dikhil"
     },
-    "geo": {
-      "latitude": 11.1054336,
-      "longitude": 42.3704744,
-      "min_latitude": 11.0995738,
-      "min_longitude": 42.362981,
-      "max_latitude": 11.1124048,
-      "max_longitude": 42.3815967
-    },
-    "name": "Dikhil"
+    "comments": null
   },
   "DJ": {
+    "name": "Djibouti",
+    "code": null,
     "unofficial_names": [
       "Djibouti"
     ],
+    "geo": {
+      "latitude": 11.588333,
+      "longitude": 43.145,
+      "min_latitude": 11.5259804,
+      "min_longitude": 43.1276753,
+      "max_latitude": 11.6233909,
+      "max_longitude": 43.1837897
+    },
     "translations": {
       "en": "Djibouti",
       "af": "Djiboeti",
@@ -229,23 +259,44 @@
       "tr": "Cibuti",
       "uk": "Джибуті",
       "ur": "جبوتی علاقہ",
-      "vi": "Djibouti"
+      "vi": "Djibouti",
+      "cy": "Dinas Djibouti",
+      "ceb": "Djibouti",
+      "sr_Latn": "Džibuti",
+      "zh": "吉布地市",
+      "yue_Hans": "吉布提城",
+      "jv": "Djibouti",
+      "sq": "Xhibuti",
+      "ccp": "𑄎𑄨𑄝𑄯𑄑𑄨",
+      "ga": "Diobúití",
+      "ky": "Жибути шаары",
+      "ha": "Jibuti",
+      "so": "Jabuuti",
+      "pa": "ਜਿਬੂਤੀ",
+      "kk": "Джибути",
+      "yue": "吉布提城",
+      "yo": "Ìlú Djibouti",
+      "uz": "Jibuti",
+      "bs": "Djibouti",
+      "mk": "Џибути"
     },
-    "geo": {
-      "latitude": 11.588333,
-      "longitude": 43.145,
-      "min_latitude": 11.5259804,
-      "min_longitude": 43.1276753,
-      "max_latitude": 11.6233909,
-      "max_longitude": 43.1837897
-    },
-    "name": "Djibouti"
+    "comments": null
   },
   "OB": {
+    "name": "Obock",
+    "code": null,
     "unofficial_names": [
       "Obock",
       "Obok"
     ],
+    "geo": {
+      "latitude": 11.9647465,
+      "longitude": 43.2884071,
+      "min_latitude": 11.9593636,
+      "min_longitude": 43.2825709,
+      "max_latitude": 11.9751386,
+      "max_longitude": 43.29488430000001
+    },
     "translations": {
       "en": "Obock",
       "ar": "إقليم أوبوك",
@@ -286,24 +337,31 @@
       "tr": "Obuk Bölgesi",
       "uk": "Обок",
       "ur": "اوبوک علاقہ",
-      "vi": "Khu vực Obock"
+      "vi": "Khu vực Obock",
+      "lv": "Ubukas reģions",
+      "ceb": "Obock",
+      "zh": "奧博克州",
+      "ccp": "𑄃𑄮𑄝𑄮𑄇𑄴",
+      "ca": "Regió d’Obock"
     },
-    "geo": {
-      "latitude": 11.9647465,
-      "longitude": 43.2884071,
-      "min_latitude": 11.9593636,
-      "min_longitude": 43.2825709,
-      "max_latitude": 11.9751386,
-      "max_longitude": 43.29488430000001
-    },
-    "name": "Obock"
+    "comments": null
   },
   "TA": {
+    "name": "Tadjourah",
+    "code": null,
     "unofficial_names": [
       "Tadjoura",
       "Tadjourah",
       "Tajura"
     ],
+    "geo": {
+      "latitude": 11.7913106,
+      "longitude": 42.87962270000001,
+      "min_latitude": 11.7876882,
+      "min_longitude": 42.87557109999999,
+      "max_latitude": 11.7946021,
+      "max_longitude": 42.8837972
+    },
     "translations": {
       "en": "Tadjourah",
       "ar": "إقليم تاجورة",
@@ -345,17 +403,13 @@
       "tr": "Tadjourah Bölgesi",
       "uk": "Таджура",
       "ur": "تاجورہ علاقہ",
-      "vi": "Khu vực Tadjourah"
+      "vi": "Khu vực Tadjourah",
+      "lv": "Tedžūras reģions",
+      "ceb": "Tadjourah",
+      "zh": "塔朱拉州",
+      "ccp": "𑄒𑄖𑄴𑄇𑄯𑄢𑄦𑄴"
     },
-    "geo": {
-      "latitude": 11.7913106,
-      "longitude": 42.87962270000001,
-      "min_latitude": 11.7876882,
-      "min_longitude": 42.87557109999999,
-      "max_latitude": 11.7946021,
-      "max_longitude": 42.8837972
-    },
-    "name": "Tadjourah"
+    "comments": null
   }
 }
 

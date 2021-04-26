@@ -1,5 +1,7 @@
 {
   "01": {
+    "name": "Seenu",
+    "code": null,
     "unofficial_names": [
       "Addu",
       "Addu Atholhu",
@@ -7,6 +9,14 @@
       "Seenu",
       "Sîn"
     ],
+    "geo": {
+      "latitude": -0.6413,
+      "longitude": 73.158,
+      "min_latitude": -0.7036652,
+      "min_longitude": 73.0761462,
+      "max_latitude": -0.5765364,
+      "max_longitude": 73.2395624
+    },
     "translations": {
       "en": "Addu",
       "ca": "Atol d’Addu",
@@ -25,24 +35,31 @@
       "ru": "Сиину",
       "sk": "Sínu",
       "sv": "Seenu Atholhu",
-      "ta": "அட்டு பவளத்தீவு"
+      "ta": "அட்டு பவளத்தீவு",
+      "ceb": "Seenu Atholhu",
+      "zh": "阿杜環礁",
+      "ccp": "𑄃𑄓𑄳𑄦𑄪",
+      "id": "Atol Addu",
+      "mk": "Аду"
     },
-    "geo": {
-      "latitude": -0.6413,
-      "longitude": 73.158,
-      "min_latitude": -0.7036652,
-      "min_longitude": 73.0761462,
-      "max_latitude": -0.5765364,
-      "max_longitude": 73.2395624
-    },
-    "name": "Seenu"
+    "comments": null
   },
   "02": {
+    "name": "Alif",
+    "code": null,
     "unofficial_names": [
       "Alif Atoll Dhekunu",
       "Ari Atholhu Uthuruburi",
       "North Ari Atoll"
     ],
+    "geo": {
+      "latitude": 6.8974984,
+      "longitude": 73.22851190000002,
+      "min_latitude": 6.8074339,
+      "min_longitude": 72.8088748,
+      "max_latitude": 7.1063277,
+      "max_longitude": 73.23589319999999
+    },
     "translations": {
       "en": "Alif Alif",
       "ar": "أليف أليف أتول",
@@ -77,24 +94,32 @@
       "th": "อัลลิฟ อัลลิฟ อัลทอยล์",
       "tr": "Alif Alif Atoll",
       "ur": "الف الف اتول",
-      "vi": "Alif Alif Atoll"
+      "vi": "Alif Alif Atoll",
+      "lv": "Alif Alifas atols",
+      "ceb": "Alifu Atholhu",
+      "lt": "Alif Alifo atolas",
+      "zh": "阿利夫阿利夫環礁",
+      "ccp": "𑄃𑄣𑄨𑄛𑄴 𑄃𑄣𑄨𑄛𑄴",
+      "uk": "Атол Аліф-Аліф"
     },
-    "geo": {
-      "latitude": 6.8974984,
-      "longitude": 73.22851190000002,
-      "min_latitude": 6.8074339,
-      "min_longitude": 72.8088748,
-      "max_latitude": 7.1063277,
-      "max_longitude": 73.23589319999999
-    },
-    "name": "Alif"
+    "comments": null
   },
   "03": {
+    "name": "Lhaviyani",
+    "code": null,
     "unofficial_names": [
       "Faadhippolhu",
       "Fadiffolu",
       "Laviyani"
     ],
+    "geo": {
+      "latitude": 5.4039702,
+      "longitude": 73.6444762,
+      "min_latitude": 5.2431393,
+      "min_longitude": 73.3307469,
+      "max_latitude": 5.5575245,
+      "max_longitude": 73.6577511
+    },
     "translations": {
       "en": "Lhaviyani",
       "ar": "لافياني أتول",
@@ -130,19 +155,19 @@
       "th": "ลยวิยนิ",
       "tr": "Lhayviyani Atoll",
       "ur": "لحاویانی اتول",
-      "vi": "Lhaviyani Atoll"
+      "vi": "Lhaviyani Atoll",
+      "lv": "Lavijani atols",
+      "ceb": "Lhaviyani Atholhu",
+      "lt": "Lchavijanio atolas",
+      "zh": "拉黑比亞尼環礁",
+      "ccp": "𑄦𑄳𑄣𑄞𑄨𑄠𑄚𑄨",
+      "uk": "Атол Лхавійані"
     },
-    "geo": {
-      "latitude": 5.4039702,
-      "longitude": 73.6444762,
-      "min_latitude": 5.2431393,
-      "min_longitude": 73.3307469,
-      "max_latitude": 5.5575245,
-      "max_longitude": 73.6577511
-    },
-    "name": "Lhaviyani"
+    "comments": null
   },
   "04": {
+    "name": "Vaavu",
+    "code": null,
     "unofficial_names": [
       "Felidhe Atholhu",
       "Felidhu Atoll",
@@ -151,6 +176,14 @@
       "Vaavu",
       "Vâv"
     ],
+    "geo": {
+      "latitude": 3.6846389,
+      "longitude": 73.4002915,
+      "min_latitude": 3.3134959,
+      "min_longitude": 73.36392049999999,
+      "max_latitude": 3.687583399999999,
+      "max_longitude": 73.7596537
+    },
     "translations": {
       "en": "Vaavu",
       "ar": "فافو أتول",
@@ -184,19 +217,19 @@
       "th": "จังหวัดซอร์โซกอน",
       "tr": "Vaavu Atoll",
       "ur": "واوو اتول",
-      "vi": "Vaavu Atoll"
+      "vi": "Vaavu Atoll",
+      "lv": "Vaavu atols",
+      "ceb": "Vaavu Atholhu",
+      "lt": "Vaavu atolas",
+      "zh": "瓦夫環礁",
+      "ccp": "𑄞𑄞𑄪",
+      "uk": "Атол Вааву"
     },
-    "geo": {
-      "latitude": 3.6846389,
-      "longitude": 73.4002915,
-      "min_latitude": 3.3134959,
-      "min_longitude": 73.36392049999999,
-      "max_latitude": 3.687583399999999,
-      "max_longitude": 73.7596537
-    },
-    "name": "Vaavu"
+    "comments": null
   },
   "05": {
+    "name": "Laamu",
+    "code": null,
     "unofficial_names": [
       "Haddumati",
       "Hadhdhunmathi",
@@ -204,6 +237,14 @@
       "Laamu",
       "Lâm"
     ],
+    "geo": {
+      "latitude": 1.9772276,
+      "longitude": 73.536101,
+      "min_latitude": 1.7791128,
+      "min_longitude": 73.2375483,
+      "max_latitude": 2.1331721,
+      "max_longitude": 73.58596229999999
+    },
     "translations": {
       "en": "Laamu",
       "ar": "لامو أتول",
@@ -238,19 +279,18 @@
       "th": "ดินแดนคาบารอฟสค์",
       "tr": "Laamu Atoll",
       "ur": "لامو اتول",
-      "vi": "Laamu Atoll"
+      "vi": "Laamu Atoll",
+      "lv": "Laamu atols",
+      "ceb": "Laamu Atholhu",
+      "zh": "拉穆環礁",
+      "ccp": "𑄣𑄳𑄃𑄟𑄪",
+      "uk": "Атол Лааму"
     },
-    "geo": {
-      "latitude": 1.9772276,
-      "longitude": 73.536101,
-      "min_latitude": 1.7791128,
-      "min_longitude": 73.2375483,
-      "max_latitude": 2.1331721,
-      "max_longitude": 73.58596229999999
-    },
-    "name": "Laamu"
+    "comments": null
   },
   "07": {
+    "name": "Haa Alif",
+    "code": null,
     "unofficial_names": [
       "Haa Alifu",
       "Hâ Alif",
@@ -258,6 +298,14 @@
       "Thiladhunmathi Uthuruburi",
       "Tiladummati-North"
     ],
+    "geo": {
+      "latitude": 6.8974984,
+      "longitude": 73.22851190000002,
+      "min_latitude": 6.8074339,
+      "min_longitude": 72.8088748,
+      "max_latitude": 7.1063277,
+      "max_longitude": 73.23589319999999
+    },
     "translations": {
       "en": "Haa Alif",
       "ar": "آتول ها ألف",
@@ -293,25 +341,33 @@
       "th": "ฮา อลิฟ อโทล",
       "tr": "Haa Alif Atoll",
       "ur": "ہاں الف اتول",
-      "vi": "Haa Alif Atoll"
+      "vi": "Haa Alif Atoll",
+      "lv": "Haa Alifas atols",
+      "ceb": "Haa Alifu Atholhu",
+      "lt": "Ha Atifo atolas",
+      "zh": "哈阿里夫環礁",
+      "ccp": "𑄦𑄳𑄃 𑄃𑄣𑄨𑄛𑄴",
+      "uk": "Атол Хаа-Аліф"
     },
-    "geo": {
-      "latitude": 6.8974984,
-      "longitude": 73.22851190000002,
-      "min_latitude": 6.8074339,
-      "min_longitude": 72.8088748,
-      "max_latitude": 7.1063277,
-      "max_longitude": 73.23589319999999
-    },
-    "name": "Haa Alif"
+    "comments": null
   },
   "08": {
+    "name": "Thaa",
+    "code": null,
     "unofficial_names": [
       "Kolhumadhulu",
       "Kolhumadulu",
       "Kolumadulu",
       "Thâ"
     ],
+    "geo": {
+      "latitude": 2.209209,
+      "longitude": 73.1494617,
+      "min_latitude": 2.1634586,
+      "min_longitude": 72.9074181,
+      "max_latitude": 2.5602977,
+      "max_longitude": 73.3696136
+    },
     "translations": {
       "en": "Thaa",
       "cs": "Tá",
@@ -323,19 +379,15 @@
       "nl": "Thaa-atol",
       "pl": "Thaa",
       "ru": "Тхаа",
-      "sk": "Tá"
+      "sk": "Tá",
+      "zh": "塔亞環礁",
+      "ccp": "𑄗𑄳𑄃"
     },
-    "geo": {
-      "latitude": 2.209209,
-      "longitude": 73.1494617,
-      "min_latitude": 2.1634586,
-      "min_longitude": 72.9074181,
-      "max_latitude": 2.5602977,
-      "max_longitude": 73.3696136
-    },
-    "name": "Thaa"
+    "comments": null
   },
   "12": {
+    "name": "Meemu",
+    "code": null,
     "unofficial_names": [
       "Meemu",
       "Mimu",
@@ -344,6 +396,14 @@
       "Mulaku Atholhu",
       "Mîm"
     ],
+    "geo": {
+      "latitude": 2.7854064,
+      "longitude": 73.42621419999999,
+      "min_latitude": 2.7635105,
+      "min_longitude": 73.3577339,
+      "max_latitude": 3.0929022,
+      "max_longitude": 73.6417058
+    },
     "translations": {
       "en": "Meemu",
       "ar": "ميمو أتول",
@@ -377,25 +437,33 @@
       "th": "มีมุ มัลดีฟส์",
       "tr": "Meemu Atoll",
       "ur": "مییمو اتول",
-      "vi": "Meemu Atoll"
+      "vi": "Meemu Atoll",
+      "lv": "Meemu atols",
+      "ceb": "Meemu Atholhu",
+      "lt": "Memu atolas",
+      "zh": "美慕環礁",
+      "ccp": "𑄟𑄨𑄟𑄪",
+      "uk": "Атол Меему"
     },
-    "geo": {
-      "latitude": 2.7854064,
-      "longitude": 73.42621419999999,
-      "min_latitude": 2.7635105,
-      "min_longitude": 73.3577339,
-      "max_latitude": 3.0929022,
-      "max_longitude": 73.6417058
-    },
-    "name": "Meemu"
+    "comments": null
   },
   "13": {
+    "name": "Raa",
+    "code": null,
     "unofficial_names": [
       "Maalhosmadhulu Uthuruburi",
       "Malosmadulu-North",
       "North Maalhosmadhulu",
       "Râ"
     ],
+    "geo": {
+      "latitude": 5.4633655,
+      "longitude": 73.03472719999999,
+      "min_latitude": 5.3587017,
+      "min_longitude": 72.8025126,
+      "max_latitude": 5.980543099999999,
+      "max_longitude": 73.0479349
+    },
     "translations": {
       "en": "Raa",
       "ar": "را أتول",
@@ -431,19 +499,19 @@
       "th": "รา อุทุรุ",
       "tr": "Raa Atoll",
       "ur": "را اتول",
-      "vi": "Raa Atoll"
+      "vi": "Raa Atoll",
+      "lv": "Rā atols",
+      "ceb": "Raa Atholhu",
+      "lt": "Ra atolas",
+      "zh": "拉環礁",
+      "ccp": "𑄢𑄳𑄃",
+      "uk": "Атол Раа"
     },
-    "geo": {
-      "latitude": 5.4633655,
-      "longitude": 73.03472719999999,
-      "min_latitude": 5.3587017,
-      "min_longitude": 72.8025126,
-      "max_latitude": 5.980543099999999,
-      "max_longitude": 73.0479349
-    },
-    "name": "Raa"
+    "comments": null
   },
   "14": {
+    "name": "Faafu",
+    "code": null,
     "unofficial_names": [
       "Faafu",
       "Faafu Atoll",
@@ -453,6 +521,14 @@
       "North Nilandhe",
       "North Nilandhe Atoll"
     ],
+    "geo": {
+      "latitude": 3.0558963,
+      "longitude": 72.8889301,
+      "min_latitude": 3.0521718,
+      "min_longitude": 72.8165155,
+      "max_latitude": 3.3167972,
+      "max_longitude": 73.0419406
+    },
     "translations": {
       "en": "Faafu",
       "ar": "فافو أتول²",
@@ -485,19 +561,19 @@
       "th": "ฟาฟู อาทอลล์",
       "tr": "Faafu Atoll",
       "ur": "فافو اتول",
-      "vi": "Faafu Atoll"
+      "vi": "Faafu Atoll",
+      "lv": "Faafu atols",
+      "ceb": "Faafu Atholhu",
+      "lt": "Faafu Atolas",
+      "zh": "法夫環礁",
+      "ccp": "𑄜𑄜𑄪",
+      "uk": "Атол Фаафу"
     },
-    "geo": {
-      "latitude": 3.0558963,
-      "longitude": 72.8889301,
-      "min_latitude": 3.0521718,
-      "min_longitude": 72.8165155,
-      "max_latitude": 3.3167972,
-      "max_longitude": 73.0419406
-    },
-    "name": "Faafu"
+    "comments": null
   },
   "17": {
+    "name": "Dhaalu",
+    "code": null,
     "unofficial_names": [
       "Dhaalu",
       "Dhâl",
@@ -505,6 +581,14 @@
       "Nilandu-South",
       "South Nilandhe Atoll"
     ],
+    "geo": {
+      "latitude": 2.6965009,
+      "longitude": 72.8630855,
+      "min_latitude": 2.6672333,
+      "min_longitude": 72.8351612,
+      "max_latitude": 3.0002184,
+      "max_longitude": 73.0348726
+    },
     "translations": {
       "en": "Dhaalu",
       "ar": "دالو أتول",
@@ -537,25 +621,33 @@
       "th": "ดาห์ลู",
       "tr": "Dhaalu Atoll",
       "ur": "دحاالو اتول",
-      "vi": "Dhaalu Atoll"
+      "vi": "Dhaalu Atoll",
+      "lv": "Dālu atols",
+      "ceb": "Dhaalu Atholhu",
+      "lt": "Dchalo atolas",
+      "zh": "達魯環礁",
+      "ccp": "𑄙𑄣𑄪",
+      "uk": "Атол Дхаалу"
     },
-    "geo": {
-      "latitude": 2.6965009,
-      "longitude": 72.8630855,
-      "min_latitude": 2.6672333,
-      "min_longitude": 72.8351612,
-      "max_latitude": 3.0002184,
-      "max_longitude": 73.0348726
-    },
-    "name": "Dhaalu"
+    "comments": null
   },
   "20": {
+    "name": "Baa",
+    "code": null,
     "unofficial_names": [
       "Bâ",
       "Maalhosmadhulu Dhekunuburi",
       "Malosmadulu-South",
       "South Maalhosmadhulu"
     ],
+    "geo": {
+      "latitude": 4.8709599,
+      "longitude": 72.99982109999999,
+      "min_latitude": 4.861320099999999,
+      "min_longitude": 72.8362762,
+      "max_latitude": 5.3591829,
+      "max_longitude": 73.169557
+    },
     "translations": {
       "en": "Baa",
       "ar": "با اتول",
@@ -592,19 +684,17 @@
       "th": "บา อะทอล",
       "tr": "Baa Atoll",
       "ur": "با اتول",
-      "vi": "Baa Atoll"
+      "vi": "Baa Atoll",
+      "lv": "Bā atols",
+      "zh": "芭環礁",
+      "ccp": "𑄝𑄳𑄃",
+      "uk": "Атол Баа"
     },
-    "geo": {
-      "latitude": 4.8709599,
-      "longitude": 72.99982109999999,
-      "min_latitude": 4.861320099999999,
-      "min_longitude": 72.8362762,
-      "max_latitude": 5.3591829,
-      "max_longitude": 73.169557
-    },
-    "name": "Baa"
+    "comments": null
   },
   "23": {
+    "name": "Haa Dhaalu",
+    "code": null,
     "unofficial_names": [
       "Haa Dhaalu",
       "Hâ Dhâl",
@@ -612,6 +702,14 @@
       "Thiladhunmathi Dhekunuburi",
       "Tiladummati-South"
     ],
+    "geo": {
+      "latitude": 6.751373699999999,
+      "longitude": 73.16608339999999,
+      "min_latitude": 6.3155278,
+      "min_longitude": 72.6385815,
+      "max_latitude": 6.7876622,
+      "max_longitude": 73.1847811
+    },
     "translations": {
       "en": "Haa Dhaalu",
       "ar": "ها دالو أتول",
@@ -647,24 +745,32 @@
       "th": "ฮาฮ์ ดาฮ์ลู อทอลล์",
       "tr": "Haa Dhaalu Atoll",
       "ur": "ہاں دحاالو اتول",
-      "vi": "Haa Dhaalu Atoll"
+      "vi": "Haa Dhaalu Atoll",
+      "lv": "Haa Daalu atols",
+      "ceb": "Haa Dhaalu Atholhu",
+      "lt": "Haa Daalu atolas",
+      "zh": "阿魯環礁",
+      "ccp": "𑄦𑄳𑄃 𑄙𑄳𑄃𑄣𑄪",
+      "uk": "Атол Хаа-Дхаалу"
     },
-    "geo": {
-      "latitude": 6.751373699999999,
-      "longitude": 73.16608339999999,
-      "min_latitude": 6.3155278,
-      "min_longitude": 72.6385815,
-      "max_latitude": 6.7876622,
-      "max_longitude": 73.1847811
-    },
-    "name": "Haa Dhaalu"
+    "comments": null
   },
   "24": {
+    "name": "Shaviyani",
+    "code": null,
     "unofficial_names": [
       "Miladhunmadhulu Uthuruburi",
       "Miladummadulu-North",
       "North Miladhunmadhulu"
     ],
+    "geo": {
+      "latitude": 6.2869456,
+      "longitude": 73.2445073,
+      "min_latitude": 5.966799399999999,
+      "min_longitude": 72.9068712,
+      "max_latitude": 6.452543700000001,
+      "max_longitude": 73.3011246
+    },
     "translations": {
       "en": "Shaviyani",
       "ar": "شافياني أتول",
@@ -700,19 +806,19 @@
       "th": "เกาะชวิยนิ",
       "tr": "Shayviyani Atoll",
       "ur": "شاویانی اتول",
-      "vi": "Shaviyani Atoll"
+      "vi": "Shaviyani Atoll",
+      "lv": "Šavijani atols",
+      "ceb": "Shaviyani Atholhu",
+      "lt": "Šavjano atolas",
+      "zh": "沙維亞尼環礁",
+      "ccp": "𑄥𑄞𑄨𑄠𑄚𑄨",
+      "uk": "Атол Шавійані"
     },
-    "geo": {
-      "latitude": 6.2869456,
-      "longitude": 73.2445073,
-      "min_latitude": 5.966799399999999,
-      "min_longitude": 72.9068712,
-      "max_latitude": 6.452543700000001,
-      "max_longitude": 73.3011246
-    },
-    "name": "Shaviyani"
+    "comments": null
   },
   "25": {
+    "name": "Noonu",
+    "code": null,
     "unofficial_names": [
       "Miladhunmadhulu Dhekunuburi",
       "Miladummadulu-South",
@@ -721,6 +827,14 @@
       "Nûn",
       "South Miladhunmadhulu"
     ],
+    "geo": {
+      "latitude": 5.9523854,
+      "longitude": 73.4151346,
+      "min_latitude": 5.6440025,
+      "min_longitude": 73.1310586,
+      "max_latitude": 6.0033134,
+      "max_longitude": 73.4822166
+    },
     "translations": {
       "en": "Noonu",
       "ar": "نونو أتول",
@@ -756,25 +870,33 @@
       "th": "นูนุ",
       "tr": "Noonu Atoll",
       "ur": "نونو اتول",
-      "vi": "Noonu Atoll"
+      "vi": "Noonu Atoll",
+      "lv": "Noonu atols",
+      "ceb": "Noonu Atoll",
+      "lt": "Nunu atolas",
+      "zh": "諾努環礁",
+      "ccp": "𑄚𑄫𑄚𑄪",
+      "uk": "Атол Ноону"
     },
-    "geo": {
-      "latitude": 5.9523854,
-      "longitude": 73.4151346,
-      "min_latitude": 5.6440025,
-      "min_longitude": 73.1310586,
-      "max_latitude": 6.0033134,
-      "max_longitude": 73.4822166
-    },
-    "name": "Noonu"
+    "comments": null
   },
   "26": {
+    "name": "Kaafu",
+    "code": null,
     "unofficial_names": [
       "Kaafu",
       "Kâf",
       "Maleʿ Atholhu",
       "Malé Atoll"
     ],
+    "geo": {
+      "latitude": 4.9570016,
+      "longitude": 73.4595787,
+      "min_latitude": 3.8099492,
+      "min_longitude": 73.3509493,
+      "max_latitude": 4.9728929,
+      "max_longitude": 73.71927020000001
+    },
     "translations": {
       "en": "Kaafu",
       "ar": "كافو أتول",
@@ -811,19 +933,19 @@
       "th": "หมู่เกาะคาฟุ",
       "tr": "Kaafu Atoll",
       "ur": "کافو اتول",
-      "vi": "Kaafu Atoll"
+      "vi": "Kaafu Atoll",
+      "lv": "Kāfu atols",
+      "ceb": "Kaafu Atoll",
+      "lt": "Kaafo atolas",
+      "zh": "卡夫環礁",
+      "ccp": "𑄇𑄜𑄪",
+      "uk": "Атол Каафу"
     },
-    "geo": {
-      "latitude": 4.9570016,
-      "longitude": 73.4595787,
-      "min_latitude": 3.8099492,
-      "min_longitude": 73.3509493,
-      "max_latitude": 4.9728929,
-      "max_longitude": 73.71927020000001
-    },
-    "name": "Kaafu"
+    "comments": null
   },
   "27": {
+    "name": "Gaaf Alif",
+    "code": null,
     "unofficial_names": [
       "Gaafu Alifu",
       "Gâf Alif",
@@ -831,6 +953,14 @@
       "North Huvadhu Atoll",
       "Suvadiva-Huvadu-North"
     ],
+    "geo": {
+      "latitude": 0.7593605,
+      "longitude": 73.4330865,
+      "min_latitude": 0.3470336,
+      "min_longitude": 73.092454,
+      "max_latitude": 0.8975593000000001,
+      "max_longitude": 73.5735378
+    },
     "translations": {
       "en": "Gaafu Alif",
       "ar": "غافو أليف أتول",
@@ -864,19 +994,19 @@
       "th": "การ์ฟู อลิฟ อโทล",
       "tr": "Gaafu Alif Atoll",
       "ur": "گافو الف اتول",
-      "vi": "Gaafu Alif Atoll"
+      "vi": "Gaafu Alif Atoll",
+      "lv": "Gaafu Alifas atols",
+      "ceb": "Gaafu Alifu Atholhu",
+      "lt": "Gaafu Alifo atolas",
+      "zh": "奧利弗蓋夫環礁",
+      "ccp": "𑄉𑄳𑄃𑄜𑄪 𑄃𑄣𑄨𑄛𑄴",
+      "uk": "Атол Гаафу-Аліф"
     },
-    "geo": {
-      "latitude": 0.7593605,
-      "longitude": 73.4330865,
-      "min_latitude": 0.3470336,
-      "min_longitude": 73.092454,
-      "max_latitude": 0.8975593000000001,
-      "max_longitude": 73.5735378
-    },
-    "name": "Gaaf Alif"
+    "comments": null
   },
   "28": {
+    "name": "Gaafu Dhaalu",
+    "code": null,
     "unofficial_names": [
       "Gaafu Dhaalu",
       "Gâf Dhâl",
@@ -884,6 +1014,14 @@
       "South Huvadhu",
       "Suvadiva-Huvadu-South"
     ],
+    "geo": {
+      "latitude": 0.2751533,
+      "longitude": 73.435831,
+      "min_latitude": 0.1880678,
+      "min_longitude": 72.987068,
+      "max_latitude": 0.5438472999999999,
+      "max_longitude": 73.5213636
+    },
     "translations": {
       "en": "Gaafu Dhaalu",
       "ar": "غافو دالو أتول",
@@ -917,19 +1055,19 @@
       "th": "กาฟู ดาลู อตอลล์",
       "tr": "Gaafu Dhaalu Atoll",
       "ur": "گافو دحاالو اتول",
-      "vi": "Gaafu Dhaalu Atoll"
+      "vi": "Gaafu Dhaalu Atoll",
+      "lv": "Gaafu Dhaalu atols",
+      "ceb": "Gaafu Dhaalu Atholhu",
+      "lt": "Gaafo Daalo atolas",
+      "zh": "南蘇瓦迪瓦環礁",
+      "ccp": "𑄉𑄳𑄃𑄜𑄪 𑄙𑄳𑄃𑄣𑄪",
+      "uk": "Атол Гаафу-Дхаалу"
     },
-    "geo": {
-      "latitude": 0.2751533,
-      "longitude": 73.435831,
-      "min_latitude": 0.1880678,
-      "min_longitude": 72.987068,
-      "max_latitude": 0.5438472999999999,
-      "max_longitude": 73.5213636
-    },
-    "name": "Gaafu Dhaalu"
+    "comments": null
   },
   "29": {
+    "name": "Gnaviyani",
+    "code": null,
     "unofficial_names": [
       "Foah Mulah",
       "Foahmulah",
@@ -940,6 +1078,14 @@
       "Fuvahmulah",
       "Gnyaviani"
     ],
+    "geo": {
+      "latitude": -0.3006425,
+      "longitude": 73.42391429999999,
+      "min_latitude": -0.3118643,
+      "min_longitude": 73.4100436,
+      "max_latitude": -0.2771461,
+      "max_longitude": 73.44141479999999
+    },
     "translations": {
       "en": "Gnaviyani",
       "ar": "غنافياني أتول",
@@ -973,23 +1119,31 @@
       "th": "กนาวอยานีอทอลล์",
       "tr": "Gnaviyani Atoll",
       "ur": "جناویانی اتول",
-      "vi": "Gnaviyani Atoll"
+      "vi": "Gnaviyani Atoll",
+      "lv": "Gnavijani atols",
+      "ceb": "Gnaviyani Atholhu",
+      "lt": "Gnavijanio atolas",
+      "zh": "加納維雅尼環礁",
+      "ccp": "𑄚𑄞𑄨𑄠𑄚𑄨",
+      "uk": "Гнавійані атол"
     },
-    "geo": {
-      "latitude": -0.3006425,
-      "longitude": 73.42391429999999,
-      "min_latitude": -0.3118643,
-      "min_longitude": 73.4100436,
-      "max_latitude": -0.2771461,
-      "max_longitude": 73.44141479999999
-    },
-    "name": "Gnaviyani"
+    "comments": null
   },
   "MLE": {
+    "name": "Male",
+    "code": null,
     "unofficial_names": [
       "Maale",
       "Mâle"
     ],
+    "geo": {
+      "latitude": 4.1754959,
+      "longitude": 73.5093474,
+      "min_latitude": 4.1694754,
+      "min_longitude": 73.4821147,
+      "max_latitude": 4.202356,
+      "max_longitude": 73.5313615
+    },
     "translations": {
       "en": "Malé",
       "af": "Malé",
@@ -1051,28 +1205,36 @@
       "tr": "Malé",
       "uk": "Мале",
       "ur": "مالے",
-      "vi": "Malé"
+      "vi": "Malé",
+      "cy": "Malé",
+      "ceb": "Male",
+      "sr_Latn": "Male",
+      "zh": "馬累",
+      "yue_Hans": "马累",
+      "sq": "Malé",
+      "ccp": "𑄟𑄣𑄨",
+      "ga": "Malé",
+      "ps": "ماله",
+      "ky": "Мале",
+      "pa": "ਮਾਲੇ",
+      "kk": "Мале",
+      "yue": "馬累",
+      "yo": "Malé",
+      "uz": "Male",
+      "bs": "Malé",
+      "mk": "Мале"
     },
-    "geo": {
-      "latitude": 4.1754959,
-      "longitude": 73.5093474,
-      "min_latitude": 4.1694754,
-      "min_longitude": 73.4821147,
-      "max_latitude": 4.202356,
-      "max_longitude": 73.5313615
-    },
-    "name": "Male"
+    "comments": null
   },
   "X1~": {
+    "name": "Alif Dhaal",
+    "code": null,
     "unofficial_names": [
       "Alif Atoll Uthuru",
       "Alif Dhâl",
       "Ari Atholhu Dhekunuburi",
       "South Ari Atoll"
     ],
-    "translations": {
-      "en": "Alif Dhaal"
-    },
     "geo": {
       "latitude": 3.7575044,
       "longitude": 72.96690989999999,
@@ -1081,9 +1243,23 @@
       "max_latitude": 3.7578619,
       "max_longitude": 72.9674658
     },
-    "name": "Alif Dhaal"
+    "translations": {
+      "en": "Alif Dhaal"
+    },
+    "comments": null
   },
   "00": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أليف دال أتول",
       "bn": "আলিফ ধাল আতোল",
@@ -1119,50 +1295,149 @@
       "tr": "Alif Dhaal Atoll",
       "ur": "الف ڈھال اتول",
       "vi": "Alif Dhaal Atoll",
-      "zh": "阿利夫達爾環礁"
-    }
+      "zh": "阿利夫達爾環礁",
+      "lv": "Alifu Daalu atols",
+      "ceb": "Southern Ari Atoll",
+      "lt": "Alif Daalo atolas",
+      "ccp": "𑄃𑄣𑄨𑄛𑄴 𑄙𑄣𑄴",
+      "uk": "Атол Аліф-Даал"
+    },
+    "comments": null
   },
   "CE": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Central Province",
-      "id": "Provinsi Medhu"
-    }
+      "id": "Provinsi Medhu",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "NC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "North Central Province",
-      "id": "Provinsi Medhu-Uthuru"
-    }
+      "id": "Provinsi Medhu-Uthuru",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "NO": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "North Province",
-      "id": "Provinsi Uthuru"
-    }
+      "id": "Provinsi Uthuru",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄳𑄢𑄧𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "SC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "South Central Province",
-      "id": "Provinsi Medhu-Dhekunu"
-    }
+      "id": "Provinsi Medhu-Dhekunu",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "SU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "South Province",
-      "id": "Provinsi Dhekunu"
-    }
+      "id": "Provinsi Dhekunu",
+      "zh": "南部省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "UN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Upper North Province",
-      "id": "Provinsi Mathi-Uthuru"
-    }
+      "id": "Provinsi Mathi-Uthuru",
+      "zh": "上北省",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "US": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Upper South Province",
-      "id": "Provinsi Mathi-Dhekunu"
-    }
+      "id": "Provinsi Mathi-Dhekunu",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄳𑄢𑄮𑄞𑄨𑄚𑄴𑄌𑄴"
+    },
+    "comments": null
   }
 }
 

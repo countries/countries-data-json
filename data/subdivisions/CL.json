@@ -1,9 +1,19 @@
 {
   "AI": {
+    "name": "Aisén del General Carlos Ibáñez del Campo",
+    "code": null,
     "unofficial_names": [
       "Aisén del General Carlos Ibáñez del Campo",
       "Aysén"
     ],
+    "geo": {
+      "latitude": -46.378345,
+      "longitude": -72.3007623,
+      "min_latitude": -49.3439696,
+      "min_longitude": -75.67981809999999,
+      "max_latitude": -43.6399768,
+      "max_longitude": -71.08750119999999
+    },
     "translations": {
       "en": "Aysén",
       "ar": "إقليم أيسن",
@@ -50,20 +60,27 @@
       "tr": "Aysen bölgesi",
       "ur": "ایسین ریجن",
       "vi": "Khu vực Aysén",
-      "zh": "伊瓦涅斯将军艾森大区"
+      "zh": "伊瓦涅斯将军艾森大区",
+      "lv": "Aisenas reģions",
+      "ceb": "Aysén",
+      "yue_Hans": "艾森大区",
+      "ccp": "𑄃𑄃𑄨𑄥𑄬𑄚𑄴",
+      "yue": "艾森大區"
     },
-    "geo": {
-      "latitude": -46.378345,
-      "longitude": -72.3007623,
-      "min_latitude": -49.3439696,
-      "min_longitude": -75.67981809999999,
-      "max_latitude": -43.6399768,
-      "max_longitude": -71.08750119999999
-    },
-    "name": "Aisén del General Carlos Ibáñez del Campo"
+    "comments": null
   },
   "AN": {
+    "name": "Antofagasta",
+    "code": null,
     "unofficial_names": "Antofagasta",
+    "geo": {
+      "latitude": -23.65,
+      "longitude": -70.39999999999999,
+      "min_latitude": -25.40112,
+      "min_longitude": -70.62911609999999,
+      "max_latitude": -23.0591235,
+      "max_longitude": -68.1182127
+    },
     "translations": {
       "en": "Antofagasta",
       "ar": "إقليم أنتوفاغاستا",
@@ -110,22 +127,30 @@
       "th": "เมืองอันโตฟากัสตา",
       "tr": "Antofagasta bölgesi",
       "ur": "انتوفاجاستا ریجن",
-      "vi": "Khu vực Antofagasta"
+      "vi": "Khu vực Antofagasta",
+      "lv": "Antofagastas reģions",
+      "ceb": "Antofagasta",
+      "sr_Latn": "Region Antofagasta",
+      "zh": "安托法加斯塔大区",
+      "ccp": "𑄃𑄚𑄴𑄑𑄮𑄜𑄉𑄌𑄴𑄑",
+      "be": "вобласць Антафагаста"
     },
-    "geo": {
-      "latitude": -23.65,
-      "longitude": -70.39999999999999,
-      "min_latitude": -25.40112,
-      "min_longitude": -70.62911609999999,
-      "max_latitude": -23.0591235,
-      "max_longitude": -68.1182127
-    },
-    "name": "Antofagasta"
+    "comments": null
   },
   "AR": {
+    "name": "Araucanía",
+    "code": null,
     "unofficial_names": [
       "La Araucanía"
     ],
+    "geo": {
+      "latitude": -38.948921,
+      "longitude": -72.331113,
+      "min_latitude": -39.6397245,
+      "min_longitude": -73.5228712,
+      "max_latitude": -37.5880498,
+      "max_longitude": -70.8301122
+    },
     "translations": {
       "en": "Araucanía",
       "ar": "إقليم أروكانيا",
@@ -173,20 +198,26 @@
       "th": "เขตอเราคาเนีย",
       "tr": "Araucanía bölgesi",
       "ur": "اراوکانیا ریجن",
-      "vi": "Khu vực Araucanía"
+      "vi": "Khu vực Araucanía",
+      "lv": "Araukānijas reģions",
+      "ceb": "Región de la Araucanía",
+      "zh": "阿劳卡尼亚大区",
+      "ccp": "𑄃𑄢𑄅𑄪𑄇𑄚𑄨𑄠"
     },
-    "geo": {
-      "latitude": -38.948921,
-      "longitude": -72.331113,
-      "min_latitude": -39.6397245,
-      "min_longitude": -73.5228712,
-      "max_latitude": -37.5880498,
-      "max_longitude": -70.8301122
-    },
-    "name": "Araucanía"
+    "comments": null
   },
   "AP": {
+    "name": "Arica y Parinacota",
+    "code": null,
     "unofficial_names": "Arica y Parinacota",
+    "geo": {
+      "latitude": -18.5940485,
+      "longitude": -69.4784541,
+      "min_latitude": -19.2302791,
+      "min_longitude": -70.37963309999999,
+      "max_latitude": -17.5008571,
+      "max_longitude": -68.9160989
+    },
     "translations": {
       "en": "Arica y Parinacota",
       "ar": "إقليم أريكا وبارينكوتا",
@@ -219,20 +250,25 @@
       "sv": "Región de Arica y Parinacota",
       "sw": "Mkoa wa Arica na Parinacota",
       "tr": "Arica ve Parinacota bölgesi",
-      "vi": "Arica và Parinacota"
+      "vi": "Arica và Parinacota",
+      "ceb": "Región de Arica y Parinacota",
+      "zh": "阿里卡和帕里纳科塔大区",
+      "ccp": "𑄃𑄢𑄨𑄇 𑄤𑄠𑄭 𑄛𑄢𑄨𑄚𑄇𑄮𑄑"
     },
-    "geo": {
-      "latitude": -18.5940485,
-      "longitude": -69.4784541,
-      "min_latitude": -19.2302791,
-      "min_longitude": -70.37963309999999,
-      "max_latitude": -17.5008571,
-      "max_longitude": -68.9160989
-    },
-    "name": "Arica y Parinacota"
+    "comments": null
   },
   "AT": {
+    "name": "Atacama",
+    "code": null,
     "unofficial_names": "Atacama",
+    "geo": {
+      "latitude": -27.5660558,
+      "longitude": -70.050314,
+      "min_latitude": -29.5373752,
+      "min_longitude": -71.5936886,
+      "max_latitude": -25.2897006,
+      "max_longitude": -68.26686219999999
+    },
     "translations": {
       "en": "Atacama",
       "ar": "إقليم أتاكاما",
@@ -277,22 +313,28 @@
       "th": "อาตากามา",
       "tr": "Atacama bölgesi",
       "ur": "اتاکاما ریجن",
-      "vi": "Khu vực Atacama"
+      "vi": "Khu vực Atacama",
+      "lv": "Atakamas reģions",
+      "ceb": "Atacama",
+      "zh": "阿塔卡马大区",
+      "ccp": "𑄃𑄑𑄇𑄟"
     },
-    "geo": {
-      "latitude": -27.5660558,
-      "longitude": -70.050314,
-      "min_latitude": -29.5373752,
-      "min_longitude": -71.5936886,
-      "max_latitude": -25.2897006,
-      "max_longitude": -68.26686219999999
-    },
-    "name": "Atacama"
+    "comments": null
   },
   "BI": {
+    "name": "Bío-Bío",
+    "code": null,
     "unofficial_names": [
       "Bíobío"
     ],
+    "geo": {
+      "latitude": -36.9777206,
+      "longitude": -72.331113,
+      "min_latitude": -38.4918218,
+      "min_longitude": -73.9699354,
+      "max_latitude": -36.0083148,
+      "max_longitude": -70.98831919999999
+    },
     "translations": {
       "en": "Bío Bío",
       "ar": "إقليم بيو بيو",
@@ -342,20 +384,31 @@
       "tr": "Bío-Bío bölgesi",
       "uk": "Біобіо",
       "ur": "ریجن میتروپولیتانا",
-      "vi": "Vùng Bío Bío"
+      "vi": "Vùng Bío Bío",
+      "cy": "Bío Bío Region",
+      "ceb": "Región del Biobío",
+      "sr_Latn": "Region Biobio",
+      "zh": "比奥比奥大区",
+      "ccp": "𑄝𑄭𑄃𑄮 𑄝𑄭𑄃𑄮",
+      "az": "Bio Bio bölgəsi",
+      "be": "вобласць Біа-Біа",
+      "bs": "Regija Bío-Bío",
+      "mk": "Биобио"
     },
-    "geo": {
-      "latitude": -36.9777206,
-      "longitude": -72.331113,
-      "min_latitude": -38.4918218,
-      "min_longitude": -73.9699354,
-      "max_latitude": -36.0083148,
-      "max_longitude": -70.98831919999999
-    },
-    "name": "Bío-Bío"
+    "comments": null
   },
   "CO": {
+    "name": "Coquimbo",
+    "code": null,
     "unofficial_names": "Coquimbo",
+    "geo": {
+      "latitude": -29.9533,
+      "longitude": -71.3436,
+      "min_latitude": -30.515066,
+      "min_longitude": -71.67686309999999,
+      "max_latitude": -29.9331593,
+      "max_longitude": -71.117463
+    },
     "translations": {
       "en": "Coquimbo",
       "ar": "إقليم كوكيمبو",
@@ -400,24 +453,31 @@
       "th": "แคว้นโกกิมโบ",
       "tr": "Coquimbo bölgesi",
       "ur": "کوکیمبو علاقہ",
-      "vi": "Khu vực Coquimbo"
+      "vi": "Khu vực Coquimbo",
+      "lv": "Kokimbo reģions",
+      "ceb": "Coquimbo",
+      "zh": "科金博大区",
+      "ccp": "𑄇𑄮𑄇𑄪𑄃𑄨𑄟𑄴𑄝𑄮",
+      "mk": "Кокимбо"
     },
-    "geo": {
-      "latitude": -29.9533,
-      "longitude": -71.3436,
-      "min_latitude": -30.515066,
-      "min_longitude": -71.67686309999999,
-      "max_latitude": -29.9331593,
-      "max_longitude": -71.117463
-    },
-    "name": "Coquimbo"
+    "comments": null
   },
   "LI": {
+    "name": "Libertador General Bernardo O'Higgins",
+    "code": null,
     "unofficial_names": [
       "General Bernardo O'Higgins",
       "Libertador",
       "Libertador OʿHiggins"
     ],
+    "geo": {
+      "latitude": -34.5755374,
+      "longitude": -71.0022311,
+      "min_latitude": -35.0066722,
+      "min_longitude": -72.0717305,
+      "max_latitude": -33.8537682,
+      "max_longitude": -70.0121472
+    },
     "translations": {
       "en": "Libertador General Bernardo O’Higgins",
       "ar": "إقليم ليبيرتادور جينيرال برناردو أوهيجينز",
@@ -455,20 +515,28 @@
       "te": "లిబర్టేడర్ జనరల్ బెర్నార్డో ఓ’హిగిన్స్ ప్రాంతం",
       "th": "โอ ฮิกกินส์",
       "tr": "O’Higgins bölgesi",
-      "vi": "Khu vực Libertador General Bernardo O’Higgins"
+      "vi": "Khu vực Libertador General Bernardo O’Higgins",
+      "lv": "Ohiginsa reģions",
+      "ceb": "Región del Libertador General Bernardo O’Higgins",
+      "zh": "奥伊金斯将军解放者大区",
+      "bn": "লিবার্তাদো জেনারেল বার্নাডো ও’হিগিন্স অঞ্চল",
+      "fa": "منطقه ا هیگینز",
+      "ccp": "𑄣𑄭𑄝𑄢𑄴𑄑𑄓𑄮 𑄎𑄬𑄚𑄢𑄬𑄣𑄴 𑄝𑄢𑄴𑄚𑄢𑄴𑄓𑄮 𑄃𑄮‘𑄦𑄭𑄎𑄨𑄚𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": -34.5755374,
-      "longitude": -71.0022311,
-      "min_latitude": -35.0066722,
-      "min_longitude": -72.0717305,
-      "max_latitude": -33.8537682,
-      "max_longitude": -70.0121472
-    },
-    "name": "Libertador General Bernardo O'Higgins"
+    "comments": null
   },
   "LL": {
+    "name": "Los Lagos",
+    "code": null,
     "unofficial_names": "Los Lagos",
+    "geo": {
+      "latitude": -41.9197779,
+      "longitude": -72.1416132,
+      "min_latitude": -44.0668098,
+      "min_longitude": -74.8511989,
+      "max_latitude": -40.2364882,
+      "max_longitude": -71.5841725
+    },
     "translations": {
       "en": "Los Lagos",
       "ar": "إقليم لوس لاغوس",
@@ -516,20 +584,26 @@
       "th": "ลอสลากอส",
       "tr": "Los Lagos bölgesi",
       "ur": "لوس لاگوس علاقہ",
-      "vi": "Khu vực Los Lagos"
+      "vi": "Khu vực Los Lagos",
+      "lv": "Loslagosas reģions",
+      "ceb": "Los Lagos",
+      "zh": "湖大区",
+      "ccp": "𑄣𑄧𑄌𑄴 𑄣𑄉𑄮𑄌𑄴"
     },
-    "geo": {
-      "latitude": -41.9197779,
-      "longitude": -72.1416132,
-      "min_latitude": -44.0668098,
-      "min_longitude": -74.8511989,
-      "max_latitude": -40.2364882,
-      "max_longitude": -71.5841725
-    },
-    "name": "Los Lagos"
+    "comments": null
   },
   "LR": {
+    "name": "Los Ríos",
+    "code": null,
     "unofficial_names": "Los Ríos",
+    "geo": {
+      "latitude": -40.2310217,
+      "longitude": -72.331113,
+      "min_latitude": -40.6819045,
+      "min_longitude": -73.7275484,
+      "max_latitude": -39.2871406,
+      "max_longitude": -71.5829256
+    },
     "translations": {
       "en": "Los Ríos",
       "ar": "مقاطعة لوس ريوس",
@@ -578,22 +652,28 @@
       "th": "แคว้นลอส ริออส",
       "tr": "Los Ríos bölgesi",
       "ur": "لوس ریوس علاقہ",
-      "vi": "Khu vực Los Ríos"
+      "vi": "Khu vực Los Ríos",
+      "lv": "Losroisas reģions",
+      "ceb": "Región de Los Ríos",
+      "zh": "河大区",
+      "ccp": "𑄣𑄧𑄌𑄴 𑄢𑄨𑄠𑄮𑄌𑄴"
     },
-    "geo": {
-      "latitude": -40.2310217,
-      "longitude": -72.331113,
-      "min_latitude": -40.6819045,
-      "min_longitude": -73.7275484,
-      "max_latitude": -39.2871406,
-      "max_longitude": -71.5829256
-    },
-    "name": "Los Ríos"
+    "comments": null
   },
   "MA": {
+    "name": "Magallanes",
+    "code": null,
     "unofficial_names": [
       "Magellantes y la Antártica Chilena"
     ],
+    "geo": {
+      "latitude": -52.20643159999999,
+      "longitude": -72.16850010000002,
+      "min_latitude": -55.9799665,
+      "min_longitude": -75.7296587,
+      "max_latitude": -48.5966006,
+      "max_longitude": -66.4181435
+    },
     "translations": {
       "en": "Magallanes Region",
       "ar": "مقاطعة ماغالانس",
@@ -639,20 +719,28 @@
       "th": "แคว้นมากายาเนสและลาอันตาร์ตีกาชีเลนา",
       "tr": "Magallanes y la Antártica Chilena bölgesi",
       "ur": "ماگایانس و لا انتارتیکا چلی علاقہ",
-      "vi": "Magellan và Địa Cực Chile"
+      "vi": "Magellan và Địa Cực Chile",
+      "lv": "Magaljanesas un Čīles Antarktikas reģions",
+      "ceb": "Región de Magallanes y de la Antártica Chilena",
+      "zh": "麦哲伦-智利南极大区",
+      "ccp": "𑄟𑄳𑄠𑄉𑄣𑄨𑄚𑄴 𑄢𑄬𑄎𑄨𑄠𑄧𑄚𑄴",
+      "he": "מגאיאנס ואנטארקטיקה צ׳ילנה",
+      "be": "Магальянес і Чылійская Антарктыка"
     },
-    "geo": {
-      "latitude": -52.20643159999999,
-      "longitude": -72.16850010000002,
-      "min_latitude": -55.9799665,
-      "min_longitude": -75.7296587,
-      "max_latitude": -48.5966006,
-      "max_longitude": -66.4181435
-    },
-    "name": "Magallanes"
+    "comments": null
   },
   "ML": {
+    "name": "Maule",
+    "code": null,
     "unofficial_names": "Maule",
+    "geo": {
+      "latitude": -35.5163603,
+      "longitude": -71.5723953,
+      "min_latitude": -36.5456538,
+      "min_longitude": -72.78989299999999,
+      "max_latitude": -34.7119045,
+      "max_longitude": -70.3260118
+    },
     "translations": {
       "en": "Maule",
       "ar": "إقليم مولي",
@@ -699,49 +787,21 @@
       "th": "เมาเล",
       "tr": "Maule bölgesi",
       "ur": "ماولے علاقہ",
-      "vi": "Khu vực Maule"
+      "vi": "Khu vực Maule",
+      "lv": "Maules reģions",
+      "ceb": "Maule",
+      "zh": "马乌莱大区",
+      "ccp": "𑄟𑄯𑄣𑄬",
+      "he": "מאולה"
     },
-    "geo": {
-      "latitude": -35.5163603,
-      "longitude": -71.5723953,
-      "min_latitude": -36.5456538,
-      "min_longitude": -72.78989299999999,
-      "max_latitude": -34.7119045,
-      "max_longitude": -70.3260118
-    },
-    "name": "Maule"
+    "comments": null
   },
   "NB": {
+    "name": "Región de Ñuble",
+    "code": null,
     "unofficial_names": [
       "Ñuble"
     ],
-    "translations": {
-      "en": "Ñuble",
-      "bg": "Ньюбле",
-      "ca": "Regió d’Ñuble",
-      "cs": "Region Ñuble",
-      "da": "Ñuble-regionen",
-      "de": "Región de Ñuble",
-      "es": "Región de Ñuble",
-      "eu": "Ñuble eskualdea",
-      "fr": "Région de Ñuble",
-      "gl": "Rexión de Ñuble",
-      "hu": "Ñuble régió",
-      "id": "Region Ñuble",
-      "it": "regione di Ñuble",
-      "ja": "ニュブレ州",
-      "lt": "Ñuble regionas",
-      "ms": "Ñuble Region",
-      "nb": "Ñuble",
-      "nl": "Ñuble",
-      "pl": "Ñuble",
-      "pt": "Ñuble",
-      "ro": "Regiunea Ñuble",
-      "ru": "Ньюбле",
-      "sk": "Ñuble",
-      "sv": "Región de Ñuble",
-      "tr": "Ñuble bölgesi"
-    },
     "geo": {
       "latitude": -36.599985,
       "longitude": -71.905225,
@@ -750,12 +810,49 @@
       "max_latitude": -35.979985,
       "max_longitude": -71.007955
     },
-    "name": "Región de Ñuble"
+    "translations": {
+      "en": "Ñuble",
+      "bg": "Ньюбле",
+      "ca": "Regió de Ñube",
+      "cs": "Ñuble",
+      "da": "Ñuble-regionen",
+      "de": "Región de Ñuble",
+      "es": "Región de Ñuble",
+      "eu": "Ñuble eskualdea",
+      "fr": "Région de Ñuble",
+      "gl": "Rexión de Ñuble",
+      "hu": "Ñuble régió",
+      "id": "Region Ñuble",
+      "it": "Regione di Ñuble",
+      "ja": "ニュブレ州",
+      "lt": "Ñuble regionas",
+      "ms": "Ñuble Region",
+      "nb": "Ñuble",
+      "nl": "Ñuble",
+      "pl": "Ñuble (region)",
+      "pt": "Ñuble",
+      "ro": "Regiunea Ñuble",
+      "ru": "Ньюбле",
+      "sk": "Ñuble",
+      "sv": "Región de Ñuble",
+      "tr": "Ñuble bölgesi"
+    },
+    "comments": null
   },
   "RM": {
+    "name": "Región Metropolitana de Santiago",
+    "code": null,
     "unofficial_names": [
       "Metropolitana de Santiago"
     ],
+    "geo": {
+      "latitude": -33.4843354,
+      "longitude": -70.6216794,
+      "min_latitude": -34.2878805,
+      "min_longitude": -71.7186941,
+      "max_latitude": -32.919451,
+      "max_longitude": -69.7689944
+    },
     "translations": {
       "en": "Santiago Metropolitan",
       "ar": "منطقة سانتياغو متروبوليتان",
@@ -800,20 +897,28 @@
       "tr": "Santiago Metropolitan bölgesi",
       "uk": "Столичний Регіон Сантьяго",
       "ur": "سینٹیاگو میٹروپولیٹن علاقہ",
-      "vi": "Khu Đô thị Santiago"
+      "vi": "Khu Đô thị Santiago",
+      "lv": "Santjago Metropoles reģions",
+      "ceb": "Región Metropolitana de Santiago",
+      "zh": "圣地亚哥首都大区",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮 𑄟𑄬𑄑𑄳𑄢𑄮𑄛𑄧𑄣𑄨𑄑𑄚𑄴",
+      "he": "מטרופולין סנטיאגו",
+      "az": "Santyaqo Metropolitan bölgəsi"
     },
-    "geo": {
-      "latitude": -33.4843354,
-      "longitude": -70.6216794,
-      "min_latitude": -34.2878805,
-      "min_longitude": -71.7186941,
-      "max_latitude": -32.919451,
-      "max_longitude": -69.7689944
-    },
-    "name": "Región Metropolitana de Santiago"
+    "comments": null
   },
   "TA": {
+    "name": "Tarapacá",
+    "code": null,
     "unofficial_names": "Tarapacá",
+    "geo": {
+      "latitude": -20.2028799,
+      "longitude": -69.2877535,
+      "min_latitude": -21.6334004,
+      "min_longitude": -70.2885344,
+      "max_latitude": -18.9387142,
+      "max_longitude": -68.40684449999999
+    },
     "translations": {
       "en": "Tarapacá",
       "ar": "إقليم تاراباكا",
@@ -859,20 +964,28 @@
       "th": "ทาราปาคา",
       "tr": "Tarapacá bölgesi",
       "ur": "تاراپاکا ریجن",
-      "vi": "Khu vực Tarapacá"
+      "vi": "Khu vực Tarapacá",
+      "lv": "Tarapakas reģions",
+      "ceb": "Región de Tarapacá",
+      "zh": "塔拉帕卡大区",
+      "ccp": "𑄑𑄢𑄛𑄇",
+      "he": "טרפקה",
+      "mk": "Тарапака"
     },
-    "geo": {
-      "latitude": -20.2028799,
-      "longitude": -69.2877535,
-      "min_latitude": -21.6334004,
-      "min_longitude": -70.2885344,
-      "max_latitude": -18.9387142,
-      "max_longitude": -68.40684449999999
-    },
-    "name": "Tarapacá"
+    "comments": null
   },
   "VS": {
+    "name": "Valparaíso",
+    "code": null,
     "unofficial_names": "Valparaíso",
+    "geo": {
+      "latitude": -33.045646,
+      "longitude": -71.620361,
+      "min_latitude": -33.2149745,
+      "min_longitude": -71.7444525,
+      "max_latitude": -33.0178165,
+      "max_longitude": -71.38561109999999
+    },
     "translations": {
       "en": "Valparaíso",
       "ar": "إقليم فالبارايسو",
@@ -919,17 +1032,13 @@
       "th": "ฟาลปาไรโซ",
       "tr": "Valparaíso bölgesi",
       "ur": "والپارایسو علاقہ",
-      "vi": "Khu vực Valparaíso"
+      "vi": "Khu vực Valparaíso",
+      "lv": "Valparaiso reģions",
+      "ceb": "Región de Valparaíso",
+      "zh": "瓦尔帕莱索大区",
+      "ccp": "𑄞𑄧𑄣𑄴𑄛𑄢𑄭𑄥𑄮"
     },
-    "geo": {
-      "latitude": -33.045646,
-      "longitude": -71.620361,
-      "min_latitude": -33.2149745,
-      "min_longitude": -71.7444525,
-      "max_latitude": -33.0178165,
-      "max_longitude": -71.38561109999999
-    },
-    "name": "Valparaíso"
+    "comments": null
   }
 }
 

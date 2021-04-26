@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Distrito Nacional (Santo Domingo)",
+    "code": null,
     "unofficial_names": "Distrito Nacional (Santo Domingo)",
+    "geo": {
+      "latitude": 18.466667,
+      "longitude": -69.95,
+      "min_latitude": 18.4130476,
+      "min_longitude": -70.0187874,
+      "max_latitude": 18.5475279,
+      "max_longitude": -69.8750532
+    },
     "translations": {
       "en": "Distrito Nacional",
       "de": "Distrito Nacional",
@@ -15,20 +25,25 @@
       "sl": "Distrito Nacional",
       "tr": "Distrito Nacional",
       "ur": "وفاقی ضلع، جمہوریہ ڈومینیکن",
-      "zh": "國家特區"
+      "zh": "國家特區",
+      "ceb": "Distrito Nacional",
+      "pl": "Distrito Nacional",
+      "ccp": "𑄓𑄨𑄌𑄴𑄑𑄳𑄢𑄨𑄑𑄮𑄚𑄥𑄨𑄃𑄮𑄚𑄣𑄴"
     },
-    "geo": {
-      "latitude": 18.466667,
-      "longitude": -69.95,
-      "min_latitude": 18.4130476,
-      "min_longitude": -70.0187874,
-      "max_latitude": 18.5475279,
-      "max_longitude": -69.8750532
-    },
-    "name": "Distrito Nacional (Santo Domingo)"
+    "comments": null
   },
   "02": {
+    "name": "Azua",
+    "code": null,
     "unofficial_names": "Azua",
+    "geo": {
+      "latitude": 18.46,
+      "longitude": -70.74,
+      "min_latitude": 18.4351155,
+      "min_longitude": -70.75877659999999,
+      "max_latitude": 18.4683747,
+      "max_longitude": -70.706486
+    },
     "translations": {
       "en": "Azua",
       "ar": "محافظة أزوا",
@@ -65,23 +80,30 @@
       "tr": "Azua Province",
       "uk": "Асуа",
       "ur": "آسوا صوبہ",
-      "vi": "Azua (tỉnh)"
+      "vi": "Azua (tỉnh)",
+      "lv": "Asvas province",
+      "ceb": "Provincia de Azua",
+      "lt": "Azua provincija",
+      "zh": "阿蘇阿省",
+      "ccp": "𑄃𑄎𑄪𑄠"
     },
-    "geo": {
-      "latitude": 18.46,
-      "longitude": -70.74,
-      "min_latitude": 18.4351155,
-      "min_longitude": -70.75877659999999,
-      "max_latitude": 18.4683747,
-      "max_longitude": -70.706486
-    },
-    "name": "Azua"
+    "comments": null
   },
   "03": {
+    "name": "Bahoruco",
+    "code": null,
     "unofficial_names": [
       "Bahoruco",
       "Baoruco"
     ],
+    "geo": {
+      "latitude": 18.4752899,
+      "longitude": -71.3349322,
+      "min_latitude": 18.3329619,
+      "min_longitude": -71.628498,
+      "max_latitude": 18.6551589,
+      "max_longitude": -70.99380289999999
+    },
     "translations": {
       "en": "Baoruco",
       "ar": "محافظة باهوروكو",
@@ -115,20 +137,28 @@
       "th": "จังหวัดบาโอรูโก",
       "tr": "Baoruco Province",
       "ur": "باوروکو صوبہ",
-      "vi": "Baoruco (tỉnh)"
+      "vi": "Baoruco (tỉnh)",
+      "lv": "Baoruko province",
+      "ceb": "Provincia de Baoruco",
+      "lt": "Boruko provincija",
+      "zh": "巴奧魯可省",
+      "ccp": "𑄝𑄮𑄢𑄪𑄇𑄮",
+      "uk": "Провінція Баоруко"
     },
-    "geo": {
-      "latitude": 18.4752899,
-      "longitude": -71.3349322,
-      "min_latitude": 18.3329619,
-      "min_longitude": -71.628498,
-      "max_latitude": 18.6551589,
-      "max_longitude": -70.99380289999999
-    },
-    "name": "Bahoruco"
+    "comments": null
   },
   "04": {
+    "name": "Barahona",
+    "code": null,
     "unofficial_names": "Barahona",
+    "geo": {
+      "latitude": 18.2120807,
+      "longitude": -71.10240759999999,
+      "min_latitude": 18.183971,
+      "min_longitude": -71.12504799999999,
+      "max_latitude": 18.2363322,
+      "max_longitude": -71.0814747
+    },
     "translations": {
       "en": "Barahona",
       "ar": "محافظة باراهونا",
@@ -163,20 +193,28 @@
       "th": "จังหวัดบาราโอนา",
       "tr": "Barahona Province",
       "ur": "بارائونا صوبہ",
-      "vi": "Barahona"
+      "vi": "Barahona",
+      "lv": "Baraonas province",
+      "ceb": "Provincia de Barahona",
+      "lt": "Baraonos provincija",
+      "zh": "巴拉奧納省",
+      "ccp": "𑄝𑄢𑄦𑄮𑄚",
+      "uk": "Бараона"
     },
-    "geo": {
-      "latitude": 18.2120807,
-      "longitude": -71.10240759999999,
-      "min_latitude": 18.183971,
-      "min_longitude": -71.12504799999999,
-      "max_latitude": 18.2363322,
-      "max_longitude": -71.0814747
-    },
-    "name": "Barahona"
+    "comments": null
   },
   "05": {
+    "name": "Dajabón",
+    "code": null,
     "unofficial_names": "Dajabón",
+    "geo": {
+      "latitude": 19.5499241,
+      "longitude": -71.7086514,
+      "min_latitude": 19.5324915,
+      "min_longitude": -71.7128062,
+      "max_latitude": 19.5652088,
+      "max_longitude": -71.6943526
+    },
     "translations": {
       "en": "Dajabón",
       "de": "Dajabón",
@@ -193,20 +231,26 @@
       "sl": "Provinca Dajabón",
       "sv": "Dajabón",
       "ur": "داخابون صوبہ",
-      "vi": "Dajabón"
+      "vi": "Dajabón",
+      "ceb": "Provincia de Dajabón",
+      "zh": "達哈翁省",
+      "pl": "Dajabón",
+      "ccp": "𑄓𑄎𑄝𑄧𑄚𑄴"
     },
-    "geo": {
-      "latitude": 19.5499241,
-      "longitude": -71.7086514,
-      "min_latitude": 19.5324915,
-      "min_longitude": -71.7128062,
-      "max_latitude": 19.5652088,
-      "max_longitude": -71.6943526
-    },
-    "name": "Dajabón"
+    "comments": null
   },
   "06": {
+    "name": "Duarte",
+    "code": null,
     "unofficial_names": "Duarte",
+    "geo": {
+      "latitude": 19.2535285,
+      "longitude": -70.0979491,
+      "min_latitude": 19.023292,
+      "min_longitude": -70.35893709999999,
+      "max_latitude": 19.4983759,
+      "max_longitude": -69.642184
+    },
     "translations": {
       "en": "Duarte",
       "ar": "مقاطعة دوارتي",
@@ -240,20 +284,28 @@
       "th": "จังหวัดดูอาร์เต",
       "tr": "Duerte Province",
       "ur": "دوارتے صوبہ",
-      "vi": "Duarte (tỉnh)"
+      "vi": "Duarte (tỉnh)",
+      "lv": "Duartes province",
+      "ceb": "Provincia Duarte",
+      "lt": "Duartės provincija",
+      "zh": "杜華德省",
+      "ccp": "𑄘𑄪𑄠𑄢𑄴𑄑𑄬",
+      "uk": "Провінція Дуарте"
     },
-    "geo": {
-      "latitude": 19.2535285,
-      "longitude": -70.0979491,
-      "min_latitude": 19.023292,
-      "min_longitude": -70.35893709999999,
-      "max_latitude": 19.4983759,
-      "max_longitude": -69.642184
-    },
-    "name": "Duarte"
+    "comments": null
   },
   "07": {
+    "name": "La Estrelleta [Elías Piña]",
+    "code": null,
     "unofficial_names": "La Estrelleta [Elías Piña]",
+    "geo": {
+      "latitude": 18.8766964,
+      "longitude": -71.7044138,
+      "min_latitude": 18.8692959,
+      "min_longitude": -71.71033849999999,
+      "max_latitude": 18.8846859,
+      "max_longitude": -71.6910266
+    },
     "translations": {
       "en": "Elías Piña",
       "ar": "محافظة إلياس بينيا",
@@ -288,20 +340,28 @@
       "th": "จังหวัดอีเลียส ปิน่า",
       "tr": "Elias Pina Province",
       "ur": "ایلیاس پینیا صوبہ",
-      "vi": "Elías Piña"
+      "vi": "Elías Piña",
+      "lv": "Eliaspinjas province",
+      "ceb": "Provincia de Elías Piña",
+      "lt": "Ilajaus Pinjo provincija",
+      "zh": "艾利斯皮亞省",
+      "ccp": "𑄃𑄬𑄣𑄨𑄠𑄬𑄌𑄴 𑄛𑄭𑄚",
+      "uk": "Еліас-Пінья"
     },
-    "geo": {
-      "latitude": 18.8766964,
-      "longitude": -71.7044138,
-      "min_latitude": 18.8692959,
-      "min_longitude": -71.71033849999999,
-      "max_latitude": 18.8846859,
-      "max_longitude": -71.6910266
-    },
-    "name": "La Estrelleta [Elías Piña]"
+    "comments": null
   },
   "08": {
+    "name": "El Seybo [El Seibo]",
+    "code": null,
     "unofficial_names": "El Seybo [El Seibo]",
+    "geo": {
+      "latitude": 18.763,
+      "longitude": -69.042,
+      "min_latitude": 18.7496595,
+      "min_longitude": -69.0513898,
+      "max_latitude": 18.7788351,
+      "max_longitude": -69.0306616
+    },
     "translations": {
       "en": "El Seibo",
       "ar": "مقاطعة إلسيبو",
@@ -336,20 +396,27 @@
       "tr": "El Seibo Province",
       "uk": "Ель-Сейбо",
       "ur": "ایل سئیبو صوبہ",
-      "vi": "El Seibo"
+      "vi": "El Seibo",
+      "lv": "Elseibo province",
+      "ceb": "Provincia de El Seibo",
+      "lt": "El Seibo provincija",
+      "zh": "賽堡省",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄥𑄬𑄭𑄝𑄮"
     },
-    "geo": {
-      "latitude": 18.763,
-      "longitude": -69.042,
-      "min_latitude": 18.7496595,
-      "min_longitude": -69.0513898,
-      "max_latitude": 18.7788351,
-      "max_longitude": -69.0306616
-    },
-    "name": "El Seybo [El Seibo]"
+    "comments": null
   },
   "09": {
+    "name": "Espaillat",
+    "code": null,
     "unofficial_names": "Espaillat",
+    "geo": {
+      "latitude": 19.5788064,
+      "longitude": -70.3598758,
+      "min_latitude": 19.356488,
+      "min_longitude": -70.625559,
+      "max_latitude": 19.6954355,
+      "max_longitude": -70.0608123
+    },
     "translations": {
       "en": "Espaillat",
       "ar": "محافظة إسبايلات",
@@ -384,20 +451,27 @@
       "tr": "Espaillat Province",
       "uk": "Еспаят",
       "ur": "ایسپایئات صوبہ",
-      "vi": "Espaillat"
+      "vi": "Espaillat",
+      "lv": "Espailjatas province",
+      "ceb": "Provincia Espaillat",
+      "lt": "Espailjato provincija",
+      "zh": "艾斯派亞省",
+      "ccp": "𑄃𑄬𑄌𑄴𑄛𑄭𑄣𑄧𑄖𑄴"
     },
-    "geo": {
-      "latitude": 19.5788064,
-      "longitude": -70.3598758,
-      "min_latitude": 19.356488,
-      "min_longitude": -70.625559,
-      "max_latitude": 19.6954355,
-      "max_longitude": -70.0608123
-    },
-    "name": "Espaillat"
+    "comments": null
   },
   "10": {
+    "name": "Independencia",
+    "code": null,
     "unofficial_names": "Independencia",
+    "geo": {
+      "latitude": 18.4126807,
+      "longitude": -71.6198686,
+      "min_latitude": 18.167527,
+      "min_longitude": -72.00348699999999,
+      "max_latitude": 18.6965481,
+      "max_longitude": -71.2074061
+    },
     "translations": {
       "en": "Independencia",
       "ar": "محافظة الاستقلال",
@@ -431,20 +505,28 @@
       "th": "จังหวัดอินดิเพนเดนเซีย",
       "tr": "Independencia Province",
       "ur": "اندیپیندینسیا صوبہ",
-      "vi": "Independencia"
+      "vi": "Independencia",
+      "lv": "Independesijas province",
+      "ceb": "Provincia de Independencia",
+      "lt": "Indepensijos provincija",
+      "zh": "獨立省",
+      "ccp": "𑄃𑄨𑄚𑄴𑄓𑄬𑄛𑄬𑄚𑄴𑄓𑄬𑄚𑄴𑄥𑄨𑄠",
+      "uk": "Провінція Індепенденсія"
     },
-    "geo": {
-      "latitude": 18.4126807,
-      "longitude": -71.6198686,
-      "min_latitude": 18.167527,
-      "min_longitude": -72.00348699999999,
-      "max_latitude": 18.6965481,
-      "max_longitude": -71.2074061
-    },
-    "name": "Independencia"
+    "comments": null
   },
   "11": {
+    "name": "La Altagracia",
+    "code": null,
     "unofficial_names": "La Altagracia",
+    "geo": {
+      "latitude": 18.5850236,
+      "longitude": -68.62010719999999,
+      "min_latitude": 18.1104096,
+      "min_longitude": -68.914192,
+      "max_latitude": 18.9641829,
+      "max_longitude": -68.3234068
+    },
     "translations": {
       "en": "La Altagracia",
       "ar": "مقاطعة لا ألتاغراسيا",
@@ -479,20 +561,28 @@
       "th": "จังหวัดลา อัลทากาเซีย",
       "tr": "La Altagracia Province",
       "ur": "لا التاغراسیا صوبہ",
-      "vi": "La Altagracia"
+      "vi": "La Altagracia",
+      "lv": "Laaltagrasija province",
+      "ceb": "Provincia de La Altagracia",
+      "lt": "La Altagrasijos provincija",
+      "zh": "聖母省",
+      "ccp": "𑄣 𑄃𑄣𑄴𑄑𑄉𑄳𑄢𑄥𑄨𑄠",
+      "uk": "Провінція Ла-Альтаграсіа"
     },
-    "geo": {
-      "latitude": 18.5850236,
-      "longitude": -68.62010719999999,
-      "min_latitude": 18.1104096,
-      "min_longitude": -68.914192,
-      "max_latitude": 18.9641829,
-      "max_longitude": -68.3234068
-    },
-    "name": "La Altagracia"
+    "comments": null
   },
   "12": {
+    "name": "La Romana",
+    "code": null,
     "unofficial_names": "La Romana",
+    "geo": {
+      "latitude": 18.43,
+      "longitude": -68.97,
+      "min_latitude": 18.3971731,
+      "min_longitude": -69.0599727,
+      "max_latitude": 18.4692704,
+      "max_longitude": -68.8850681
+    },
     "translations": {
       "en": "La Romana",
       "ar": "محافظة لا رومانا",
@@ -526,20 +616,28 @@
       "th": "จังหวัดลาโรมานา",
       "tr": "La Romano Province",
       "ur": "لا رومانا صوبہ، جمہوریہ ڈومینیکن",
-      "vi": "La Romana"
+      "vi": "La Romana",
+      "lv": "Laromana province",
+      "ceb": "Provincia de La Romana",
+      "lt": "La Romanos provincija",
+      "zh": "羅馬納省",
+      "ccp": "𑄣 𑄢𑄧𑄟𑄚",
+      "uk": "Провінція Ла-Романа"
     },
-    "geo": {
-      "latitude": 18.43,
-      "longitude": -68.97,
-      "min_latitude": 18.3971731,
-      "min_longitude": -69.0599727,
-      "max_latitude": 18.4692704,
-      "max_longitude": -68.8850681
-    },
-    "name": "La Romana"
+    "comments": null
   },
   "13": {
+    "name": "La Vega",
+    "code": null,
     "unofficial_names": "La Vega",
+    "geo": {
+      "latitude": 19.22,
+      "longitude": -70.53,
+      "min_latitude": 19.1902093,
+      "min_longitude": -70.5602932,
+      "max_latitude": 19.250633,
+      "max_longitude": -70.4960917
+    },
     "translations": {
       "en": "La Vega",
       "ar": "مقاطعة لا فيغا",
@@ -575,20 +673,28 @@
       "tr": "La Vega Province",
       "uk": "Ла-Вега",
       "ur": "لا ویغا صوبہ",
-      "vi": "La Vega"
+      "vi": "La Vega",
+      "lv": "Lavegas province",
+      "ceb": "Provincia de La Vega",
+      "lt": "La Vegos provincija",
+      "zh": "拉維加省",
+      "ccp": "𑄣 𑄞𑄬𑄉",
+      "kk": "Ла-Вега"
     },
-    "geo": {
-      "latitude": 19.22,
-      "longitude": -70.53,
-      "min_latitude": 19.1902093,
-      "min_longitude": -70.5602932,
-      "max_latitude": 19.250633,
-      "max_longitude": -70.4960917
-    },
-    "name": "La Vega"
+    "comments": null
   },
   "14": {
+    "name": "María Trinidad Sánchez",
+    "code": null,
     "unofficial_names": "María Trinidad Sánchez",
+    "geo": {
+      "latitude": 19.4245445,
+      "longitude": -70.0026756,
+      "min_latitude": 19.1959421,
+      "min_longitude": -70.17286589999999,
+      "max_latitude": 19.6834869,
+      "max_longitude": -69.7155799
+    },
     "translations": {
       "en": "María Trinidad Sánchez",
       "ar": "محافظة ماريا ترينيداد سانشيز",
@@ -623,20 +729,27 @@
       "tr": "María Trinidad Sánchez",
       "uk": "Марія-Тринідад-Санчес",
       "ur": "ماریا ترینیداد سانچیز صوبہ",
-      "vi": "María Trinidad Sánchez"
+      "vi": "María Trinidad Sánchez",
+      "lv": "Marijas Trindidadas Sančesas province",
+      "ceb": "Provincia María Trinidad Sánchez",
+      "lt": "Maria Trinidad Sančesas",
+      "zh": "瑪麗亞·桑其斯省",
+      "ccp": "𑄟𑄢𑄨𑄠 𑄑𑄳𑄢𑄨𑄚𑄨𑄘𑄖𑄴 𑄥𑄚𑄴𑄥𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 19.4245445,
-      "longitude": -70.0026756,
-      "min_latitude": 19.1959421,
-      "min_longitude": -70.17286589999999,
-      "max_latitude": 19.6834869,
-      "max_longitude": -69.7155799
-    },
-    "name": "María Trinidad Sánchez"
+    "comments": null
   },
   "15": {
+    "name": "Monte Cristi",
+    "code": null,
     "unofficial_names": "Monte Cristi",
+    "geo": {
+      "latitude": 19.8473452,
+      "longitude": -71.6406361,
+      "min_latitude": 19.8294117,
+      "min_longitude": -71.65944089999999,
+      "max_latitude": 19.8610592,
+      "max_longitude": -71.62982939999999
+    },
     "translations": {
       "en": "Monte Cristi",
       "ar": "محافظة مونتي كريستي",
@@ -670,20 +783,28 @@
       "th": "เมืองดอยรัน",
       "tr": "Monte Cristi Province",
       "ur": "مونتے کریستی صوبہ",
-      "vi": "Monte Cristi"
+      "vi": "Monte Cristi",
+      "lv": "Montekristi province",
+      "ceb": "Provincia de Monte Cristi",
+      "lt": "Monte Kristi provincija",
+      "zh": "基度山省",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄬 𑄇𑄳𑄢𑄨𑄌𑄴𑄑𑄨",
+      "uk": "Провінція Монте-Крісті"
     },
-    "geo": {
-      "latitude": 19.8473452,
-      "longitude": -71.6406361,
-      "min_latitude": 19.8294117,
-      "min_longitude": -71.65944089999999,
-      "max_latitude": 19.8610592,
-      "max_longitude": -71.62982939999999
-    },
-    "name": "Monte Cristi"
+    "comments": null
   },
   "16": {
+    "name": "Pedernales",
+    "code": null,
     "unofficial_names": "Pedernales",
+    "geo": {
+      "latitude": 18.033333,
+      "longitude": -71.75,
+      "min_latitude": 18.027098,
+      "min_longitude": -71.7515374,
+      "max_latitude": 18.0537032,
+      "max_longitude": -71.7323972
+    },
     "translations": {
       "en": "Pedernales",
       "ar": "محافظة بيدرناليس",
@@ -717,20 +838,28 @@
       "th": "จังหวัดเปเดอร์นาเลส",
       "tr": "Pedernales Province",
       "ur": "پیدرنالیس صوبہ",
-      "vi": "Pedernales"
+      "vi": "Pedernales",
+      "lv": "Pedernalesas province",
+      "ceb": "Provincia de Pedernales",
+      "lt": "Pedernaleso provincija",
+      "zh": "佩德納萊斯省",
+      "ccp": "𑄛𑄬𑄓𑄬𑄢𑄴𑄚𑄣𑄴𑄌𑄴",
+      "uk": "Провінція Педерналес"
     },
-    "geo": {
-      "latitude": 18.033333,
-      "longitude": -71.75,
-      "min_latitude": 18.027098,
-      "min_longitude": -71.7515374,
-      "max_latitude": 18.0537032,
-      "max_longitude": -71.7323972
-    },
-    "name": "Pedernales"
+    "comments": null
   },
   "17": {
+    "name": "Peravia",
+    "code": null,
     "unofficial_names": "Peravia",
+    "geo": {
+      "latitude": 18.2855033,
+      "longitude": -70.3836815,
+      "min_latitude": 18.193577,
+      "min_longitude": -70.58622679999999,
+      "max_latitude": 18.5075071,
+      "max_longitude": -70.1509938
+    },
     "translations": {
       "en": "Peravia",
       "ar": "محافظة بيرافيا",
@@ -765,20 +894,27 @@
       "tr": "Prevaia Province",
       "uk": "Перавія",
       "ur": "پیراویا صوبہ",
-      "vi": "Peravia"
+      "vi": "Peravia",
+      "lv": "Peravijas province",
+      "ceb": "Provincia de Peravia",
+      "lt": "Peravijos provincija",
+      "zh": "佩拉維亞省",
+      "ccp": "𑄛𑄬𑄢𑄞𑄨𑄠"
     },
-    "geo": {
-      "latitude": 18.2855033,
-      "longitude": -70.3836815,
-      "min_latitude": 18.193577,
-      "min_longitude": -70.58622679999999,
-      "max_latitude": 18.5075071,
-      "max_longitude": -70.1509938
-    },
-    "name": "Peravia"
+    "comments": null
   },
   "18": {
+    "name": "Puerto Plata",
+    "code": null,
     "unofficial_names": "Puerto Plata",
+    "geo": {
+      "latitude": 19.7807686,
+      "longitude": -70.6871091,
+      "min_latitude": 19.7499826,
+      "min_longitude": -70.74062339999999,
+      "max_latitude": 19.8284223,
+      "max_longitude": -70.63154279999999
+    },
     "translations": {
       "en": "Puerto Plata",
       "ar": "محافظة بويرتو بلاتا",
@@ -814,20 +950,27 @@
       "tr": "Puerto Plata Province",
       "uk": "Пуерто-Плата",
       "ur": "پورتو پلاتا صوبہ",
-      "vi": "Puerto Plata (tỉnh)"
+      "vi": "Puerto Plata (tỉnh)",
+      "lv": "Puertoplatas province",
+      "ceb": "Provincia de Puerto Plata",
+      "lt": "Puerto Platos provincija",
+      "zh": "銀港省",
+      "ccp": "𑄛𑄪𑄠𑄬𑄢𑄴𑄑𑄮 𑄛𑄳𑄣𑄑"
     },
-    "geo": {
-      "latitude": 19.7807686,
-      "longitude": -70.6871091,
-      "min_latitude": 19.7499826,
-      "min_longitude": -70.74062339999999,
-      "max_latitude": 19.8284223,
-      "max_longitude": -70.63154279999999
-    },
-    "name": "Puerto Plata"
+    "comments": null
   },
   "19": {
+    "name": "Salcedo",
+    "code": null,
     "unofficial_names": "Salcedo",
+    "geo": {
+      "latitude": 19.3966586,
+      "longitude": -70.3598758,
+      "min_latitude": 19.2355209,
+      "min_longitude": -70.462923,
+      "max_latitude": 19.574569,
+      "max_longitude": -70.2323139
+    },
     "translations": {
       "en": "Hermanas Mirabal",
       "ar": "مقاطعة هيرماناس ميرابال",
@@ -861,20 +1004,28 @@
       "th": "จังหวัดเฮอร์มาเนส มิราเบิล",
       "tr": "Hermanas Mirabal Province",
       "ur": "ایرماناس میرابال صوبہ",
-      "vi": "Hermanas Mirabal"
+      "vi": "Hermanas Mirabal",
+      "lv": "Hermanaso Mirabai province",
+      "ceb": "Provincia de Hermanas Mirabal",
+      "lt": "Hermanaso Mirabalo provincija",
+      "zh": "米拉貝姐妹省",
+      "ccp": "𑄦𑄬𑄢𑄴𑄟𑄚𑄌𑄴 𑄟𑄨𑄢𑄝𑄧𑄣𑄴",
+      "uk": "Провінція Германас-Мірабаль"
     },
-    "geo": {
-      "latitude": 19.3966586,
-      "longitude": -70.3598758,
-      "min_latitude": 19.2355209,
-      "min_longitude": -70.462923,
-      "max_latitude": 19.574569,
-      "max_longitude": -70.2323139
-    },
-    "name": "Salcedo"
+    "comments": null
   },
   "20": {
+    "name": "Samaná",
+    "code": null,
     "unofficial_names": "Samaná",
+    "geo": {
+      "latitude": 19.2080704,
+      "longitude": -69.3324518,
+      "min_latitude": 19.1966887,
+      "min_longitude": -69.35201169999999,
+      "max_latitude": 19.2204978,
+      "max_longitude": -69.32639110000001
+    },
     "translations": {
       "en": "Samaná",
       "ar": "محافظة سامانا",
@@ -908,20 +1059,28 @@
       "th": "รัฐรีอูกรันดีดูนอร์ตี",
       "tr": "Samana Province",
       "ur": "سامانآ صوبہ",
-      "vi": "Samaná"
+      "vi": "Samaná",
+      "lv": "Samanas province",
+      "ceb": "Samaná Province",
+      "lt": "Samanos provincija",
+      "zh": "山美納省",
+      "ccp": "𑄥𑄟𑄚",
+      "uk": "Провінція Самана"
     },
-    "geo": {
-      "latitude": 19.2080704,
-      "longitude": -69.3324518,
-      "min_latitude": 19.1966887,
-      "min_longitude": -69.35201169999999,
-      "max_latitude": 19.2204978,
-      "max_longitude": -69.32639110000001
-    },
-    "name": "Samaná"
+    "comments": null
   },
   "21": {
+    "name": "San Cristóbal",
+    "code": null,
     "unofficial_names": "San Cristóbal",
+    "geo": {
+      "latitude": 18.4188797,
+      "longitude": -70.1030668,
+      "min_latitude": 18.3786707,
+      "min_longitude": -70.15319819999999,
+      "max_latitude": 18.4918471,
+      "max_longitude": -70.0852203
+    },
     "translations": {
       "en": "San Cristóbal",
       "ar": "محافظة سان كريستوبال",
@@ -956,20 +1115,27 @@
       "tr": "San Cristobal Province",
       "uk": "Сан-Крістобаль",
       "ur": "سان کریستوبال صوبہ",
-      "vi": "San Cristóbal"
+      "vi": "San Cristóbal",
+      "lv": "Sankristobalas province",
+      "ceb": "Provincia de San Cristóbal",
+      "lt": "San Kristobalio provincija",
+      "zh": "聖克里斯多堡省",
+      "ccp": "𑄥𑄚𑄴 𑄇𑄳𑄢𑄨𑄌𑄴𑄑𑄮𑄝𑄧𑄣𑄴"
     },
-    "geo": {
-      "latitude": 18.4188797,
-      "longitude": -70.1030668,
-      "min_latitude": 18.3786707,
-      "min_longitude": -70.15319819999999,
-      "max_latitude": 18.4918471,
-      "max_longitude": -70.0852203
-    },
-    "name": "San Cristóbal"
+    "comments": null
   },
   "22": {
+    "name": "San Juan",
+    "code": null,
     "unofficial_names": "San Juan",
+    "geo": {
+      "latitude": 18.8810919,
+      "longitude": -71.2874209,
+      "min_latitude": 18.505682,
+      "min_longitude": -71.61811399999999,
+      "max_latitude": 19.237646,
+      "max_longitude": -70.87680499999999
+    },
     "translations": {
       "en": "San Juan",
       "ar": "محافظة سان خوان",
@@ -1004,20 +1170,28 @@
       "tr": "San Juan Province",
       "uk": "Сан-Хуан",
       "ur": "سان خوان صوبہ",
-      "vi": "San Juan"
+      "vi": "San Juan",
+      "lv": "Sanhuanas province",
+      "ceb": "Provincia de San Juan",
+      "lt": "San Chuano provincija",
+      "zh": "聖胡安省",
+      "ccp": "𑄥𑄚𑄴 𑄎𑄪𑄠𑄚𑄴",
+      "kk": "Сан-Хуан"
     },
-    "geo": {
-      "latitude": 18.8810919,
-      "longitude": -71.2874209,
-      "min_latitude": 18.505682,
-      "min_longitude": -71.61811399999999,
-      "max_latitude": 19.237646,
-      "max_longitude": -70.87680499999999
-    },
-    "name": "San Juan"
+    "comments": null
   },
   "23": {
+    "name": "San Pedro de Macorís",
+    "code": null,
     "unofficial_names": "San Pedro de Macorís",
+    "geo": {
+      "latitude": 18.45,
+      "longitude": -69.3,
+      "min_latitude": 18.4340059,
+      "min_longitude": -69.35020999999999,
+      "max_latitude": 18.5051913,
+      "max_longitude": -69.2550814
+    },
     "translations": {
       "en": "San Pedro de Macorís",
       "ar": "سان بيدرو دي ماكوريس",
@@ -1051,20 +1225,28 @@
       "th": "จังหวัดซานเปโดรเดมาโกริส",
       "tr": "San Pedro de Macorís",
       "ur": "سان پیدرو دے ماکوریس صوبہ",
-      "vi": "San Pedro de Macorís"
+      "vi": "San Pedro de Macorís",
+      "lv": "Sanpedro de Makorisas province",
+      "ceb": "Provincia de San Pedro de Macorís",
+      "lt": "San Pedro de Makoriso provincija",
+      "zh": "聖彼德省",
+      "ccp": "𑄥𑄚𑄴 𑄛𑄬𑄓𑄳𑄢𑄮 𑄓𑄬 𑄟𑄇𑄮𑄢𑄨𑄌𑄴",
+      "uk": "Провінція Сан-Педро-де-Макоріс"
     },
-    "geo": {
-      "latitude": 18.45,
-      "longitude": -69.3,
-      "min_latitude": 18.4340059,
-      "min_longitude": -69.35020999999999,
-      "max_latitude": 18.5051913,
-      "max_longitude": -69.2550814
-    },
-    "name": "San Pedro de Macorís"
+    "comments": null
   },
   "24": {
+    "name": "Sánchez Ramírez",
+    "code": null,
     "unofficial_names": "Sánchez Ramírez",
+    "geo": {
+      "latitude": 18.9808932,
+      "longitude": -70.0979491,
+      "min_latitude": 18.854074,
+      "min_longitude": -70.37288490000002,
+      "max_latitude": 19.159525,
+      "max_longitude": -69.91209599999999
+    },
     "translations": {
       "en": "Sánchez Ramírez",
       "ar": "محافظة سانشيز راميريز",
@@ -1098,20 +1280,28 @@
       "th": "จังหวัดซานเชซรามิเรซ",
       "tr": "Sanchez Ramirez",
       "ur": "سانچیز رامیریز صوبہ",
-      "vi": "Sánchez Ramírez"
+      "vi": "Sánchez Ramírez",
+      "lv": "Sančesramiresas province",
+      "ceb": "Provincia Sánchez Ramírez",
+      "lt": "Sančeso Ramireso provincija",
+      "zh": "桑切斯·拉米斯省",
+      "ccp": "𑄥𑄚𑄴𑄥𑄬𑄌𑄴 𑄢𑄟𑄨𑄢𑄬𑄌𑄴",
+      "uk": "Провінція Санчес-Рамірес"
     },
-    "geo": {
-      "latitude": 18.9808932,
-      "longitude": -70.0979491,
-      "min_latitude": 18.854074,
-      "min_longitude": -70.37288490000002,
-      "max_latitude": 19.159525,
-      "max_longitude": -69.91209599999999
-    },
-    "name": "Sánchez Ramírez"
+    "comments": null
   },
   "25": {
+    "name": "Santiago",
+    "code": null,
     "unofficial_names": "Santiago",
+    "geo": {
+      "latitude": 19.466667,
+      "longitude": -70.7,
+      "min_latitude": 19.3650005,
+      "min_longitude": -70.75648989999999,
+      "max_latitude": 19.5146896,
+      "max_longitude": -70.5895568
+    },
     "translations": {
       "en": "Santiago",
       "ar": "مقاطعة سانتياغو",
@@ -1146,20 +1336,29 @@
       "tr": "Santiago Province",
       "uk": "Сантьяго",
       "ur": "سانتیاغو صوبہ",
-      "vi": "Santiago"
+      "vi": "Santiago",
+      "lv": "Santjago province",
+      "ceb": "Provincia de Santiago",
+      "lt": "Santjago provincija",
+      "zh": "聖地牙哥省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮",
+      "he": "סנטיאגו",
+      "eu": "Santiago probintzia"
     },
-    "geo": {
-      "latitude": 19.466667,
-      "longitude": -70.7,
-      "min_latitude": 19.3650005,
-      "min_longitude": -70.75648989999999,
-      "max_latitude": 19.5146896,
-      "max_longitude": -70.5895568
-    },
-    "name": "Santiago"
+    "comments": null
   },
   "26": {
+    "name": "Santiago Rodríguez",
+    "code": null,
     "unofficial_names": "Santiago Rodríguez",
+    "geo": {
+      "latitude": 19.4713181,
+      "longitude": -71.33958009999999,
+      "min_latitude": 19.4681499,
+      "min_longitude": -71.3439197,
+      "max_latitude": 19.4742671,
+      "max_longitude": -71.3354799
+    },
     "translations": {
       "en": "Santiago Rodríguez",
       "ar": "مقاطعة سانتياغو رودريغيز",
@@ -1193,20 +1392,28 @@
       "th": "จังหวัดซานเตียโกโรดริเกซ",
       "tr": "Santiago Rodriguez Province",
       "ur": "سانتیاغو روریغیز صوبہ",
-      "vi": "Santiago Rodríguez"
+      "vi": "Santiago Rodríguez",
+      "lv": "Santjagorodrigesas province",
+      "ceb": "Provincia de Santiago Rodríguez",
+      "lt": "Santjago Rodrigezo provincija",
+      "zh": "聖地亞哥-羅里蓋茲省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄨𑄠𑄉𑄮 𑄢𑄮𑄓𑄳𑄢𑄨𑄉𑄪𑄠𑄬𑄌𑄴",
+      "uk": "Провінція Сантьяго-Родрігес"
     },
-    "geo": {
-      "latitude": 19.4713181,
-      "longitude": -71.33958009999999,
-      "min_latitude": 19.4681499,
-      "min_longitude": -71.3439197,
-      "max_latitude": 19.4742671,
-      "max_longitude": -71.3354799
-    },
-    "name": "Santiago Rodríguez"
+    "comments": null
   },
   "27": {
+    "name": "Valverde",
+    "code": null,
     "unofficial_names": "Valverde",
+    "geo": {
+      "latitude": 19.6323442,
+      "longitude": -71.0497768,
+      "min_latitude": 19.498182,
+      "min_longitude": -71.21334999999999,
+      "max_latitude": 19.77729,
+      "max_longitude": -70.875855
+    },
     "translations": {
       "en": "Valverde",
       "ar": "محافظة فالفيردي",
@@ -1240,20 +1447,28 @@
       "th": "จังหวัดวาลเวิร์ด",
       "tr": "Valverde",
       "ur": "بالبیردے صوبہ",
-      "vi": "Valverde"
+      "vi": "Valverde",
+      "lv": "Valverdes province",
+      "ceb": "Provincia de Valverde",
+      "lt": "Valverdės provincija",
+      "zh": "巴韋德省",
+      "ccp": "𑄞𑄧𑄣𑄴𑄞𑄢𑄴𑄓𑄬",
+      "uk": "Провінція Вальверде"
     },
-    "geo": {
-      "latitude": 19.6323442,
-      "longitude": -71.0497768,
-      "min_latitude": 19.498182,
-      "min_longitude": -71.21334999999999,
-      "max_latitude": 19.77729,
-      "max_longitude": -70.875855
-    },
-    "name": "Valverde"
+    "comments": null
   },
   "28": {
+    "name": "Monseñor Nouel",
+    "code": null,
     "unofficial_names": "Monseñor Nouel",
+    "geo": {
+      "latitude": 18.9215234,
+      "longitude": -70.3836815,
+      "min_latitude": 18.7310471,
+      "min_longitude": -70.56509500000001,
+      "max_latitude": 19.124081,
+      "max_longitude": -70.2046211
+    },
     "translations": {
       "en": "Monseñor Nouel",
       "ar": "مقاطعة مونسينور نويل",
@@ -1287,20 +1502,28 @@
       "th": "จังหวัดมอนเซนอร์นูล",
       "tr": "Monsenor Nouel Province",
       "ur": "مونسینیور نوویئل صوبہ",
-      "vi": "Monseñor Nouel"
+      "vi": "Monseñor Nouel",
+      "lv": "Monsenjornoeula province",
+      "ceb": "Provincia de Monseñor Nouel",
+      "lt": "Monsenjoro Nuelio provincija",
+      "zh": "主教·瑙黎省",
+      "ccp": "𑄟𑄧𑄚𑄴𑄥𑄬𑄚𑄧𑄢𑄴 𑄚𑄯𑄠𑄬𑄣𑄴",
+      "uk": "Провінція Монсеньор-Новель"
     },
-    "geo": {
-      "latitude": 18.9215234,
-      "longitude": -70.3836815,
-      "min_latitude": 18.7310471,
-      "min_longitude": -70.56509500000001,
-      "max_latitude": 19.124081,
-      "max_longitude": -70.2046211
-    },
-    "name": "Monseñor Nouel"
+    "comments": null
   },
   "29": {
+    "name": "Monte Plata",
+    "code": null,
     "unofficial_names": "Monte Plata",
+    "geo": {
+      "latitude": 18.81,
+      "longitude": -69.78999999999999,
+      "min_latitude": 18.7976463,
+      "min_longitude": -69.8058844,
+      "max_latitude": 18.8225077,
+      "max_longitude": -69.7759295
+    },
     "translations": {
       "en": "Monte Plata",
       "ar": "محافظة مونتي بلاتا",
@@ -1334,20 +1557,28 @@
       "th": "จังหวัดมอนเตปลาตา",
       "tr": "Monte Plata Province",
       "ur": "مونتے پلاتا صوبہ",
-      "vi": "Monte Plata"
+      "vi": "Monte Plata",
+      "lv": "Monteplatas province",
+      "ceb": "Provincia de Monte Plata",
+      "lt": "Monte Platos provincija",
+      "zh": "銀山省",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄬 𑄛𑄳𑄣𑄑",
+      "uk": "Провінція Монте-Плата"
     },
-    "geo": {
-      "latitude": 18.81,
-      "longitude": -69.78999999999999,
-      "min_latitude": 18.7976463,
-      "min_longitude": -69.8058844,
-      "max_latitude": 18.8225077,
-      "max_longitude": -69.7759295
-    },
-    "name": "Monte Plata"
+    "comments": null
   },
   "30": {
+    "name": "Hato Mayor",
+    "code": null,
     "unofficial_names": "Hato Mayor",
+    "geo": {
+      "latitude": 18.766667,
+      "longitude": -69.25,
+      "min_latitude": 18.7412879,
+      "min_longitude": -69.2666531,
+      "max_latitude": 18.7849907,
+      "max_longitude": -69.2366016
+    },
     "translations": {
       "en": "Hato Mayor",
       "ar": "مقاطعة هاتو مايور",
@@ -1382,20 +1613,28 @@
       "tr": "Hato Mayor Province",
       "uk": "Ато-Майор",
       "ur": "آتو مائیور صوبہ",
-      "vi": "Hato Mayor"
+      "vi": "Hato Mayor",
+      "lv": "Atomajoras province",
+      "ceb": "Provincia de Hato Mayor",
+      "lt": "Hato Majoro provincija",
+      "zh": "阿托馬約省",
+      "ccp": "𑄦𑄑𑄮 𑄟𑄳𑄠𑄠𑄧𑄢𑄴",
+      "kk": "Ато-Майор"
     },
-    "geo": {
-      "latitude": 18.766667,
-      "longitude": -69.25,
-      "min_latitude": 18.7412879,
-      "min_longitude": -69.2666531,
-      "max_latitude": 18.7849907,
-      "max_longitude": -69.2366016
-    },
-    "name": "Hato Mayor"
+    "comments": null
   },
   "31": {
+    "name": "San Jose de Ocoa",
+    "code": null,
     "unofficial_names": "San Jose de Ocoa",
+    "geo": {
+      "latitude": 18.55,
+      "longitude": -70.5,
+      "min_latitude": 18.5308865,
+      "min_longitude": -70.5147601,
+      "max_latitude": 18.555543,
+      "max_longitude": -70.4983234
+    },
     "translations": {
       "en": "San José de Ocoa",
       "ar": "مقاطعة سان خوسيه دي أوكوا",
@@ -1429,19 +1668,28 @@
       "th": "จังหวัดซาน โจเซ่ เดอ โอโค่",
       "tr": "San José de Ocoa",
       "ur": "سان خوسے دے اوکوا صوبہ",
-      "vi": "San José de Ocoa"
+      "vi": "San José de Ocoa",
+      "lv": "Sanhosē de Okoas province",
+      "ceb": "San José de Ocoa",
+      "lt": "San Chose de Okovos provincija",
+      "zh": "聖荷西省",
+      "ccp": "𑄥𑄚𑄴 𑄎𑄮𑄥𑄬 𑄓𑄬 𑄃𑄧𑄇𑄮𑄠",
+      "uk": "Провінція Сан-Хосе-де-Окоа"
     },
-    "geo": {
-      "latitude": 18.55,
-      "longitude": -70.5,
-      "min_latitude": 18.5308865,
-      "min_longitude": -70.5147601,
-      "max_latitude": 18.555543,
-      "max_longitude": -70.4983234
-    },
-    "name": "San Jose de Ocoa"
+    "comments": null
   },
   "32": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة سانتو دومينغو",
       "bn": "স্যান্টো ডোমিঙ্গ প্রদেশ",
@@ -1475,58 +1723,195 @@
       "th": "จังหวัดซานโตโดมิงโก",
       "tr": "Santo domingo",
       "ur": "سانتو دومینگو صوبہ",
-      "vi": "Santo Domingo"
-    }
+      "vi": "Santo Domingo",
+      "lv": "Santodomingo province",
+      "ceb": "Provincia de Santo Domingo",
+      "lt": "Santo Domingo provincija",
+      "zh": "聖多明哥省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄮 𑄓𑄮𑄟𑄨𑄚𑄴𑄉𑄮",
+      "uk": "Санто-Домінго"
+    },
+    "comments": null
   },
   "33": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Cibao Nordeste"
-    }
+      "en": "Cibao Nordeste",
+      "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄴𑄓𑄬𑄌𑄴𑄑𑄬"
+    },
+    "comments": null
   },
   "34": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Cibao Noroeste"
-    }
+      "en": "Cibao Noroeste",
+      "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄧𑄠𑄬𑄌𑄴𑄑𑄬"
+    },
+    "comments": null
   },
   "35": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Cibao Norte"
-    }
+      "en": "Cibao Norte",
+      "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄴𑄑𑄬"
+    },
+    "comments": null
   },
   "36": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Cibao Sur"
-    }
+      "en": "Cibao Sur",
+      "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄥𑄢𑄴"
+    },
+    "comments": null
   },
   "37": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "El Valle"
-    }
+      "en": "El Valle",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄞𑄣𑄬"
+    },
+    "comments": null
   },
   "38": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Enriquillo"
-    }
+      "en": "Enriquillo",
+      "ccp": "𑄃𑄬𑄚𑄴𑄢𑄨𑄇𑄪𑄃𑄨𑄣𑄮"
+    },
+    "comments": null
   },
   "39": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Higüamo"
-    }
+      "en": "Higüamo",
+      "ccp": "𑄦𑄭𑄉𑄪𑄠𑄟𑄮"
+    },
+    "comments": null
   },
   "40": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Ozama"
-    }
+      "en": "Ozama",
+      "ccp": "𑄃𑄧𑄎𑄟"
+    },
+    "comments": null
   },
   "41": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Valdesia"
-    }
+      "en": "Valdesia",
+      "ccp": "𑄞𑄧𑄣𑄴𑄓𑄬𑄥𑄨𑄠"
+    },
+    "comments": null
   },
   "42": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
-      "en": "Yuma"
-    }
+      "en": "Yuma",
+      "ccp": "𑄃𑄨𑄠𑄟"
+    },
+    "comments": null
   }
 }
 

@@ -1,5 +1,7 @@
 {
   "MAP": {
+    "name": "Malampa",
+    "code": null,
     "unofficial_names": [
       "Ambrim",
       "Ambrym",
@@ -8,6 +10,14 @@
       "Mallicollo",
       "Paama"
     ],
+    "geo": {
+      "latitude": -16.4011405,
+      "longitude": 167.6077865,
+      "min_latitude": -16.5913427,
+      "min_longitude": 167.163246,
+      "max_latitude": -15.8821222,
+      "max_longitude": 168.368011
+    },
     "translations": {
       "en": "Malampa",
       "ar": "محافظة مالامبا",
@@ -47,19 +57,18 @@
       "tr": "Malamba Province",
       "ur": "مالامپا صوبہ",
       "vi": "Tỉnh Malampa",
-      "zh": "马朗巴省"
+      "zh": "马朗巴省",
+      "lv": "Malampas province",
+      "ceb": "Malampa Province",
+      "ccp": "𑄟𑄣𑄟𑄴𑄛",
+      "uk": "Провінція Малампа",
+      "mk": "Малампа"
     },
-    "geo": {
-      "latitude": -16.4011405,
-      "longitude": 167.6077865,
-      "min_latitude": -16.5913427,
-      "min_longitude": 167.163246,
-      "max_latitude": -15.8821222,
-      "max_longitude": 168.368011
-    },
-    "name": "Malampa"
+    "comments": null
   },
   "PAM": {
+    "name": "Pénama",
+    "code": null,
     "unofficial_names": [
       "Ambae-Maewo",
       "Aoba-Maewo",
@@ -67,6 +76,14 @@
       "Omba-Maewo",
       "Pentecost"
     ],
+    "geo": {
+      "latitude": -15.3795758,
+      "longitude": 167.9053182,
+      "min_latitude": -16.0129131,
+      "min_longitude": 167.6715374,
+      "max_latitude": -14.89196,
+      "max_longitude": 168.276847
+    },
     "translations": {
       "en": "Penama",
       "ar": "مقاطعة بيناما",
@@ -104,22 +121,30 @@
       "th": "จังหวัดปีนัง",
       "tr": "Penama Province",
       "ur": "پیناما صوبہ",
-      "vi": "Tỉnh Penama"
+      "vi": "Tỉnh Penama",
+      "lv": "Penamas province",
+      "ceb": "Penama Province",
+      "zh": "彭纳马省",
+      "ccp": "𑄛𑄬𑄚𑄟𑄴",
+      "uk": "Провінція Пенама",
+      "mk": "Пенама"
     },
-    "geo": {
-      "latitude": -15.3795758,
-      "longitude": 167.9053182,
-      "min_latitude": -16.0129131,
-      "min_longitude": 167.6715374,
-      "max_latitude": -14.89196,
-      "max_longitude": 168.276847
-    },
-    "name": "Pénama"
+    "comments": null
   },
   "SAM": {
+    "name": "Sanma",
+    "code": null,
     "unofficial_names": [
       "Santo-Malo"
     ],
+    "geo": {
+      "latitude": -15.4840017,
+      "longitude": 166.9182097,
+      "min_latitude": -15.7510071,
+      "min_longitude": 166.5417588,
+      "max_latitude": -14.643453,
+      "max_longitude": 167.2973799
+    },
     "translations": {
       "en": "Sanma",
       "ar": "سانما",
@@ -158,24 +183,33 @@
       "th": "จังหวัดแซนา",
       "tr": "Sanma Province",
       "ur": "سامنے صوبہ",
-      "vi": "Tỉnh Sanma"
+      "vi": "Tỉnh Sanma",
+      "lv": "Sanma province",
+      "ceb": "Sanma Province",
+      "sr_Latn": "Sanma",
+      "zh": "桑马省",
+      "ccp": "𑄥𑄚𑄴𑄟",
+      "uk": "Провінція Санма",
+      "mk": "Санма"
     },
-    "geo": {
-      "latitude": -15.4840017,
-      "longitude": 166.9182097,
-      "min_latitude": -15.7510071,
-      "min_longitude": 166.5417588,
-      "max_latitude": -14.643453,
-      "max_longitude": 167.2973799
-    },
-    "name": "Sanma"
+    "comments": null
   },
   "SEE": {
+    "name": "Shéfa",
+    "code": null,
     "unofficial_names": [
       "Sandwich Island",
       "Vaté",
       "Éfaté"
     ],
+    "geo": {
+      "latitude": -17.6523412,
+      "longitude": 168.3387066,
+      "min_latitude": -17.8242832,
+      "min_longitude": 168.1203521,
+      "max_latitude": -16.567901,
+      "max_longitude": 168.6487059
+    },
     "translations": {
       "en": "Shefa",
       "ar": "محافظة شييفا",
@@ -214,20 +248,27 @@
       "th": "จังหวัดเชฟา",
       "tr": "Shefa Province",
       "ur": "شفا صوبہ",
-      "vi": "Tỉnh Shefa"
+      "vi": "Tỉnh Shefa",
+      "lv": "Šefas province",
+      "ceb": "Shefa Province",
+      "zh": "谢法省",
+      "ccp": "𑄥𑄬𑄜",
+      "uk": "Провінція Шефа"
     },
-    "geo": {
-      "latitude": -17.6523412,
-      "longitude": 168.3387066,
-      "min_latitude": -17.8242832,
-      "min_longitude": 168.1203521,
-      "max_latitude": -16.567901,
-      "max_longitude": 168.6487059
-    },
-    "name": "Shéfa"
+    "comments": null
   },
   "TAE": {
+    "name": "Taféa",
+    "code": null,
     "unofficial_names": "Taféa",
+    "geo": {
+      "latitude": -18.7237827,
+      "longitude": 169.0645056,
+      "min_latitude": -20.2504909,
+      "min_longitude": 168.9860777,
+      "max_latitude": -18.6213293,
+      "max_longitude": 170.237299
+    },
     "translations": {
       "en": "Tafea",
       "ar": "مقاطعة تافيا",
@@ -266,22 +307,28 @@
       "tr": "Tafea Province",
       "uk": "Тафеа",
       "ur": "تافیا صوبہ",
-      "vi": "Tỉnh Tafea"
+      "vi": "Tỉnh Tafea",
+      "lv": "Tafea province",
+      "ceb": "Tafea Province",
+      "zh": "塔菲亚省",
+      "ccp": "𑄑𑄜𑄨𑄠"
     },
-    "geo": {
-      "latitude": -18.7237827,
-      "longitude": 169.0645056,
-      "min_latitude": -20.2504909,
-      "min_longitude": 168.9860777,
-      "max_latitude": -18.6213293,
-      "max_longitude": 170.237299
-    },
-    "name": "Taféa"
+    "comments": null
   },
   "TOB": {
+    "name": "Torba",
+    "code": null,
     "unofficial_names": [
       "Banks-Torres"
     ],
+    "geo": {
+      "latitude": -14.28096,
+      "longitude": 167.5160788,
+      "min_latitude": -14.465699,
+      "min_longitude": 166.5435819,
+      "max_latitude": -13.0724554,
+      "max_longitude": 168.0674347
+    },
     "translations": {
       "en": "Torba",
       "ar": "محافظة توربا",
@@ -320,17 +367,14 @@
       "th": "จังหวัดตอร์บา",
       "tr": "Torba Province",
       "ur": "توربا صوبہ",
-      "vi": "Tỉnh Torba"
+      "vi": "Tỉnh Torba",
+      "lv": "Torbas province",
+      "ceb": "Torba Province",
+      "zh": "托尔巴省",
+      "ccp": "𑄑𑄧𑄢𑄴𑄝",
+      "uk": "Провінція Торба"
     },
-    "geo": {
-      "latitude": -14.28096,
-      "longitude": 167.5160788,
-      "min_latitude": -14.465699,
-      "min_longitude": 166.5435819,
-      "max_latitude": -13.0724554,
-      "max_longitude": 168.0674347
-    },
-    "name": "Torba"
+    "comments": null
   }
 }
 

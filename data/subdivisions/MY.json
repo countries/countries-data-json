@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Johor",
+    "code": null,
     "unofficial_names": "Johor",
+    "geo": {
+      "latitude": 1.4853682,
+      "longitude": 103.7618154,
+      "min_latitude": 1.2657421,
+      "min_longitude": 102.4681251,
+      "max_latitude": 2.8332919,
+      "max_longitude": 104.5511515
+    },
     "translations": {
       "en": "Johor",
       "ar": "جوهور",
@@ -45,20 +55,30 @@
       "uk": "Джохор",
       "ur": "جوھر",
       "vi": "Johor",
-      "zh": "柔佛州"
+      "zh": "柔佛州",
+      "lv": "Džohora",
+      "ceb": "Johor (estado)",
+      "yue_Hans": "柔佛州",
+      "jv": "Johor",
+      "ccp": "𑄎𑄧𑄦𑄧𑄢𑄴",
+      "eu": "Johor",
+      "yue": "柔佛州",
+      "mk": "Џохор"
     },
-    "geo": {
-      "latitude": 1.4853682,
-      "longitude": 103.7618154,
-      "min_latitude": 1.2657421,
-      "min_longitude": 102.4681251,
-      "max_latitude": 2.8332919,
-      "max_longitude": 104.5511515
-    },
-    "name": "Johor"
+    "comments": null
   },
   "02": {
+    "name": "Kedah",
+    "code": null,
     "unofficial_names": "Kedah",
+    "geo": {
+      "latitude": 6.1183964,
+      "longitude": 100.3684595,
+      "min_latitude": 5.0764409,
+      "min_longitude": 99.64064549999999,
+      "max_latitude": 6.545039099999999,
+      "max_longitude": 101.127224
+    },
     "translations": {
       "en": "Kedah",
       "ar": "قدح",
@@ -100,20 +120,30 @@
       "uk": "Кедах",
       "ur": "قدح",
       "vi": "Kedah",
-      "zh": "吉打"
+      "zh": "吉打",
+      "lv": "Kedaha",
+      "ceb": "Kedah (estado sa Malasya)",
+      "yue_Hans": "吉打",
+      "ccp": "𑄇𑄬𑄓𑄦𑄴",
+      "eu": "Kedah",
+      "et": "Kedah",
+      "yue": "吉打",
+      "mk": "Кедах"
     },
-    "geo": {
-      "latitude": 6.1183964,
-      "longitude": 100.3684595,
-      "min_latitude": 5.0764409,
-      "min_longitude": 99.64064549999999,
-      "max_latitude": 6.545039099999999,
-      "max_longitude": 101.127224
-    },
-    "name": "Kedah"
+    "comments": null
   },
   "03": {
+    "name": "Kelantan",
+    "code": null,
     "unofficial_names": "Kelantan",
+    "geo": {
+      "latitude": 6.1253969,
+      "longitude": 102.238071,
+      "min_latitude": 4.5463078,
+      "min_longitude": 101.33334,
+      "max_latitude": 6.2439087,
+      "max_longitude": 102.6665539
+    },
     "translations": {
       "en": "Kelantan",
       "ar": "كيلانتان",
@@ -157,20 +187,30 @@
       "uk": "Келантан",
       "ur": "کیلانتن",
       "vi": "Kelantan",
-      "zh": "吉兰丹"
+      "zh": "吉兰丹",
+      "lv": "Kelantana",
+      "ceb": "Kelantan",
+      "yue_Hans": "吉兰丹",
+      "jv": "Kelantan",
+      "ccp": "𑄇𑄬𑄣𑄚𑄴𑄑𑄚𑄴",
+      "eu": "Kelantan",
+      "yue": "吉蘭丹",
+      "mk": "Келантан"
     },
-    "geo": {
-      "latitude": 6.1253969,
-      "longitude": 102.238071,
-      "min_latitude": 4.5463078,
-      "min_longitude": 101.33334,
-      "max_latitude": 6.2439087,
-      "max_longitude": 102.6665539
-    },
-    "name": "Kelantan"
+    "comments": null
   },
   "04": {
+    "name": "Melaka",
+    "code": null,
     "unofficial_names": "Melaka",
+    "geo": {
+      "latitude": 2.189594,
+      "longitude": 102.2500868,
+      "min_latitude": 2.1544178,
+      "min_longitude": 102.1557088,
+      "max_latitude": 2.309435,
+      "max_longitude": 102.4327931
+    },
     "translations": {
       "en": "Malacca",
       "af": "Malakka",
@@ -217,22 +257,33 @@
       "uk": "Губернаторство Малакка",
       "ur": "ملاکا",
       "vi": "Melaka",
-      "zh": "马六甲"
+      "zh": "马六甲",
+      "lv": "Malaka",
+      "cy": "Melaka",
+      "ceb": "Melaka",
+      "lt": "Malaka",
+      "yue_Hans": "马六甲州",
+      "jv": "Melaka",
+      "ccp": "𑄟𑄣𑄇𑄳𑄦",
+      "yue": "馬六甲州",
+      "mk": "Малака"
     },
-    "geo": {
-      "latitude": 2.189594,
-      "longitude": 102.2500868,
-      "min_latitude": 2.1544178,
-      "min_longitude": 102.1557088,
-      "max_latitude": 2.309435,
-      "max_longitude": 102.4327931
-    },
-    "name": "Melaka"
+    "comments": null
   },
   "05": {
+    "name": "Negeri Sembilan",
+    "code": null,
     "unofficial_names": [
       "Negri Sembilan"
     ],
+    "geo": {
+      "latitude": 2.7258058,
+      "longitude": 101.9423782,
+      "min_latitude": 2.3897718,
+      "min_longitude": 101.702142,
+      "max_latitude": 3.289874,
+      "max_longitude": 102.7020759
+    },
     "translations": {
       "en": "Negeri Sembilan",
       "ar": "نكري سمبيلن",
@@ -272,20 +323,31 @@
       "uk": "Негері-Сембелан",
       "ur": "نگری سمبیلان",
       "vi": "Negeri Sembilan",
-      "zh": "森美兰"
+      "zh": "森美兰",
+      "lv": "Negerisembulana",
+      "ceb": "Negeri Sembilan",
+      "lt": "Negeri Sambilanas",
+      "yue_Hans": "森美兰",
+      "jv": "Negeri Sembilan",
+      "ccp": "𑄚𑄬𑄉𑄬𑄢𑄨 𑄥𑄬𑄟𑄴𑄝𑄨𑄣𑄚𑄴",
+      "eu": "Negeri Sembilan",
+      "yue": "森美蘭",
+      "mk": "Негери Сембилан"
     },
-    "geo": {
-      "latitude": 2.7258058,
-      "longitude": 101.9423782,
-      "min_latitude": 2.3897718,
-      "min_longitude": 101.702142,
-      "max_latitude": 3.289874,
-      "max_longitude": 102.7020759
-    },
-    "name": "Negeri Sembilan"
+    "comments": null
   },
   "06": {
+    "name": "Pahang",
+    "code": null,
     "unofficial_names": "Pahang",
+    "geo": {
+      "latitude": 3.8126318,
+      "longitude": 103.3256204,
+      "min_latitude": 2.4593609,
+      "min_longitude": 101.3324141,
+      "max_latitude": 4.779313,
+      "max_longitude": 104.2235135
+    },
     "translations": {
       "en": "Pahang",
       "ar": "فهغ",
@@ -328,20 +390,30 @@
       "uk": "Паханг",
       "ur": "پاہانگ",
       "vi": "Pahang",
-      "zh": "彭亨"
+      "zh": "彭亨",
+      "lv": "Pahana",
+      "ceb": "Pahang",
+      "yue_Hans": "彭亨",
+      "ccp": "𑄛𑄦𑄋𑄴",
+      "eu": "Pahang",
+      "ml": "പഹാങ്ങ്",
+      "yue": "彭亨",
+      "mk": "Паханг"
     },
-    "geo": {
-      "latitude": 3.8126318,
-      "longitude": 103.3256204,
-      "min_latitude": 2.4593609,
-      "min_longitude": 101.3324141,
-      "max_latitude": 4.779313,
-      "max_longitude": 104.2235135
-    },
-    "name": "Pahang"
+    "comments": null
   },
   "07": {
+    "name": "Pulau Pinang",
+    "code": null,
     "unofficial_names": "Pulau Pinang",
+    "geo": {
+      "latitude": 5.4141675,
+      "longitude": 100.3287589,
+      "min_latitude": 5.122673,
+      "min_longitude": 100.1751347,
+      "max_latitude": 5.585334899999999,
+      "max_longitude": 100.55062
+    },
     "translations": {
       "en": "Penang",
       "ar": "بينانق",
@@ -385,20 +457,31 @@
       "uk": "Пенанг",
       "ur": "پینانگ",
       "vi": "Pulau Pinang",
-      "zh": "槟城"
+      "zh": "槟城",
+      "ceb": "Pulau Pinang (estado)",
+      "lt": "Penangas",
+      "yue_Hans": "槟城",
+      "jv": "Pulo Pinang",
+      "ccp": "𑄛𑄚𑄋𑄴",
+      "eu": "Penang",
+      "pa": "ਪੀਨਾਂਗ",
+      "yue": "檳城",
+      "mk": "Пенанг"
     },
-    "geo": {
-      "latitude": 5.4141675,
-      "longitude": 100.3287589,
-      "min_latitude": 5.122673,
-      "min_longitude": 100.1751347,
-      "max_latitude": 5.585334899999999,
-      "max_longitude": 100.55062
-    },
-    "name": "Pulau Pinang"
+    "comments": null
   },
   "08": {
+    "name": "Perak",
+    "code": null,
     "unofficial_names": "Perak",
+    "geo": {
+      "latitude": 4.5921126,
+      "longitude": 101.090109,
+      "min_latitude": 3.6678983,
+      "min_longitude": 100.3606155,
+      "max_latitude": 5.93451,
+      "max_longitude": 101.7526549
+    },
     "translations": {
       "en": "Perak",
       "ar": "فيرق",
@@ -442,20 +525,30 @@
       "uk": "Перак",
       "ur": "پیراک",
       "vi": "Perak",
-      "zh": "霹靂州"
+      "zh": "霹靂州",
+      "lv": "Peraka",
+      "ceb": "Perak (estado sa Malasya)",
+      "yue_Hans": "霹雳州",
+      "ccp": "𑄛𑄬𑄢𑄇𑄴",
+      "eu": "Perak",
+      "yue": "霹靂州",
+      "be": "Перак",
+      "mk": "Перак"
     },
-    "geo": {
-      "latitude": 4.5921126,
-      "longitude": 101.090109,
-      "min_latitude": 3.6678983,
-      "min_longitude": 100.3606155,
-      "max_latitude": 5.93451,
-      "max_longitude": 101.7526549
-    },
-    "name": "Perak"
+    "comments": null
   },
   "09": {
+    "name": "Perlis",
+    "code": null,
     "unofficial_names": "Perlis",
+    "geo": {
+      "latitude": 6.444912899999999,
+      "longitude": 100.2047691,
+      "min_latitude": 6.2531897,
+      "min_longitude": 100.1169497,
+      "max_latitude": 6.726748000000001,
+      "max_longitude": 100.3705678
+    },
     "translations": {
       "en": "Perlis",
       "ar": "برليس",
@@ -497,20 +590,30 @@
       "uk": "Перліс",
       "ur": "پرلس",
       "vi": "Perlis",
-      "zh": "玻璃市"
+      "zh": "玻璃市",
+      "lv": "Perlis",
+      "ceb": "Perlis (estado sa Malasya)",
+      "lt": "Perlis",
+      "yue_Hans": "玻璃市",
+      "ccp": "𑄛𑄬𑄢𑄴𑄣𑄨𑄌𑄴",
+      "eu": "Perlis",
+      "yue": "玻璃市",
+      "mk": "Перлис"
     },
-    "geo": {
-      "latitude": 6.444912899999999,
-      "longitude": 100.2047691,
-      "min_latitude": 6.2531897,
-      "min_longitude": 100.1169497,
-      "max_latitude": 6.726748000000001,
-      "max_longitude": 100.3705678
-    },
-    "name": "Perlis"
+    "comments": null
   },
   "10": {
+    "name": "Selangor",
+    "code": null,
     "unofficial_names": "Selangor",
+    "geo": {
+      "latitude": 3.0738379,
+      "longitude": 101.5183469,
+      "min_latitude": 2.59424,
+      "min_longitude": 100.788148,
+      "max_latitude": 3.8683526,
+      "max_longitude": 101.970064
+    },
     "translations": {
       "en": "Selangor",
       "ar": "سلاغور",
@@ -554,20 +657,30 @@
       "uk": "Селангор",
       "ur": "سلنگور",
       "vi": "Selangor",
-      "zh": "雪蘭莪"
+      "zh": "雪蘭莪",
+      "lv": "Selanora",
+      "ceb": "Selangor",
+      "yue_Hans": "雪兰莪州",
+      "ccp": "𑄥𑄨𑄣𑄚𑄴𑄉𑄮𑄢𑄴",
+      "eu": "Selangor",
+      "yue": "雪蘭莪州",
+      "be": "Селангор",
+      "mk": "Селангор"
     },
-    "geo": {
-      "latitude": 3.0738379,
-      "longitude": 101.5183469,
-      "min_latitude": 2.59424,
-      "min_longitude": 100.788148,
-      "max_latitude": 3.8683526,
-      "max_longitude": 101.970064
-    },
-    "name": "Selangor"
+    "comments": null
   },
   "11": {
+    "name": "Terengganu",
+    "code": null,
     "unofficial_names": "Terengganu",
+    "geo": {
+      "latitude": 5.3116916,
+      "longitude": 103.1324154,
+      "min_latitude": 3.8808629,
+      "min_longitude": 102.379055,
+      "max_latitude": 5.964046199999999,
+      "max_longitude": 103.6905754
+    },
     "translations": {
       "en": "Terengganu",
       "ar": "ترغكانو",
@@ -610,20 +723,30 @@
       "uk": "Теренггану",
       "ur": "تیرنگانو",
       "vi": "Terengganu",
-      "zh": "登嘉樓"
+      "zh": "登嘉樓",
+      "lv": "Terenganu",
+      "ceb": "Terengganu",
+      "yue_Hans": "登嘉楼",
+      "jv": "Terengganu",
+      "ccp": "𑄑𑄬𑄢𑄬𑄚𑄴𑄉𑄚𑄌𑄴",
+      "eu": "Terengganu",
+      "yue": "登嘉樓",
+      "mk": "Теренгану"
     },
-    "geo": {
-      "latitude": 5.3116916,
-      "longitude": 103.1324154,
-      "min_latitude": 3.8808629,
-      "min_longitude": 102.379055,
-      "max_latitude": 5.964046199999999,
-      "max_longitude": 103.6905754
-    },
-    "name": "Terengganu"
+    "comments": null
   },
   "12": {
+    "name": "Sabah",
+    "code": null,
     "unofficial_names": "Sabah",
+    "geo": {
+      "latitude": 5.978839799999999,
+      "longitude": 116.0753199,
+      "min_latitude": 4.102767,
+      "min_longitude": 115.341583,
+      "max_latitude": 7.362708199999999,
+      "max_longitude": 119.267502
+    },
     "translations": {
       "en": "Sabah",
       "ar": "صباح",
@@ -670,20 +793,32 @@
       "uk": "Сабах",
       "ur": "صباح",
       "vi": "Sabah",
-      "zh": "沙巴"
+      "zh": "沙巴",
+      "lv": "Sabaha",
+      "ceb": "Sabah (estado)",
+      "yue_Hans": "沙巴",
+      "jv": "Sabah",
+      "ccp": "𑄥𑄝𑄦𑄴",
+      "eu": "Sabah",
+      "kk": "Сабах",
+      "ml": "ഷബഹ്",
+      "yue": "沙巴",
+      "mk": "Сабах"
     },
-    "geo": {
-      "latitude": 5.978839799999999,
-      "longitude": 116.0753199,
-      "min_latitude": 4.102767,
-      "min_longitude": 115.341583,
-      "max_latitude": 7.362708199999999,
-      "max_longitude": 119.267502
-    },
-    "name": "Sabah"
+    "comments": null
   },
   "13": {
+    "name": "Sarawak",
+    "code": null,
     "unofficial_names": "Sarawak",
+    "geo": {
+      "latitude": 1.5532783,
+      "longitude": 110.3592127,
+      "min_latitude": 0.8640901,
+      "min_longitude": 109.5390388,
+      "max_latitude": 4.9815669,
+      "max_longitude": 115.68341
+    },
     "translations": {
       "en": "Sarawak",
       "ar": "سراوق",
@@ -729,20 +864,36 @@
       "uk": "Саравак",
       "ur": "سراواک",
       "vi": "Sarawak",
-      "zh": "砂拉越"
+      "zh": "砂拉越",
+      "lv": "Saravaka",
+      "ceb": "Sarawak",
+      "sr_Latn": "Saravak",
+      "yue_Hans": "沙捞越",
+      "jv": "Sarawak",
+      "ccp": "𑄥𑄢𑄤𑄇𑄴",
+      "hy": "Սարավակ",
+      "sk": "Sarawak",
+      "eu": "Sarawak",
+      "et": "Sarawak",
+      "ml": "സാരവാക്ക്",
+      "yue": "沙撈越",
+      "my": "ဆာရာဝပ်နယ်",
+      "mk": "Саравак"
     },
-    "geo": {
-      "latitude": 1.5532783,
-      "longitude": 110.3592127,
-      "min_latitude": 0.8640901,
-      "min_longitude": 109.5390388,
-      "max_latitude": 4.9815669,
-      "max_longitude": 115.68341
-    },
-    "name": "Sarawak"
+    "comments": null
   },
   "14": {
+    "name": "Wilayah Persekutuan Kuala Lumpur",
+    "code": null,
     "unofficial_names": "Wilayah Persekutuan Kuala Lumpur",
+    "geo": {
+      "latitude": 3.1569486,
+      "longitude": 101.712303,
+      "min_latitude": 3.0336329,
+      "min_longitude": 101.61545,
+      "max_latitude": 3.2433789,
+      "max_longitude": 101.758529
+    },
     "translations": {
       "en": "Kuala Lumpur",
       "af": "Kuala Lumpur",
@@ -809,20 +960,42 @@
       "uk": "Куала-Лумпур",
       "ur": "کوالالمپور",
       "vi": "Kuala Lumpur",
-      "zh": "吉隆坡"
+      "zh": "吉隆坡",
+      "cy": "Kuala Lumpur",
+      "ceb": "Kuala Lumpur (estado)",
+      "sr_Latn": "Kuala Lumpur",
+      "yue_Hans": "吉隆坡",
+      "jv": "Kuala Lumpur",
+      "sq": "Kuala Lumpur",
+      "ccp": "𑄇𑄪𑄠𑄣 𑄣𑄪𑄟𑄴𑄛𑄪𑄢𑄴",
+      "sd": "ڪوالالمپور",
+      "ga": "Kuala Lumpur",
+      "ky": "Куала-Лумпур",
+      "ha": "Kuala Lumpur",
+      "so": "Kuwala Lumbuur",
+      "pa": "ਕੁਆਲਾ ਲਮਪੁਰ",
+      "kk": "Куала Лумпур",
+      "yue": "吉隆坡",
+      "my": "ကွာလာလမ်ပူမြို့",
+      "yo": "Kuala Lumpur",
+      "uz": "Kuala Lumpur",
+      "bs": "Kuala Lumpur",
+      "mk": "Куала Лумпур"
     },
-    "geo": {
-      "latitude": 3.1569486,
-      "longitude": 101.712303,
-      "min_latitude": 3.0336329,
-      "min_longitude": 101.61545,
-      "max_latitude": 3.2433789,
-      "max_longitude": 101.758529
-    },
-    "name": "Wilayah Persekutuan Kuala Lumpur"
+    "comments": null
   },
   "15": {
+    "name": "Wilayah Persekutuan Labuan",
+    "code": null,
     "unofficial_names": "Wilayah Persekutuan Labuan",
+    "geo": {
+      "latitude": 5.2770169,
+      "longitude": 115.2435769,
+      "min_latitude": 5.2178242,
+      "min_longitude": 115.1209787,
+      "max_latitude": 5.3877618,
+      "max_longitude": 115.3263058
+    },
     "translations": {
       "en": "Labuan",
       "ar": "لابوان",
@@ -863,20 +1036,32 @@
       "uk": "Лабуан",
       "ur": "لابوان",
       "vi": "Labuan",
-      "zh": "纳闽"
+      "zh": "纳闽",
+      "lv": "Labuana",
+      "ceb": "Labuan",
+      "lt": "Labuanas",
+      "sw": "Labuan",
+      "yue_Hans": "纳闵",
+      "ccp": "𑄣𑄝𑄪𑄠𑄚𑄴",
+      "eu": "Labuan",
+      "yue": "納閔",
+      "az": "Labuan",
+      "mk": "Лабуан"
     },
-    "geo": {
-      "latitude": 5.2770169,
-      "longitude": 115.2435769,
-      "min_latitude": 5.2178242,
-      "min_longitude": 115.1209787,
-      "max_latitude": 5.3877618,
-      "max_longitude": 115.3263058
-    },
-    "name": "Wilayah Persekutuan Labuan"
+    "comments": null
   },
   "16": {
+    "name": "Wilayah Persekutuan Putrajaya",
+    "code": null,
     "unofficial_names": "Wilayah Persekutuan Putrajaya",
+    "geo": {
+      "latitude": 2.9353556,
+      "longitude": 101.6912831,
+      "min_latitude": 2.8762049,
+      "min_longitude": 101.6600299,
+      "max_latitude": 2.9765179,
+      "max_longitude": 101.7328308
+    },
     "translations": {
       "en": "Putrajaya",
       "af": "Putrajaya",
@@ -930,17 +1115,22 @@
       "ur": "پتراجایا",
       "vi": "Putrajaya",
       "zh": "布城",
-      "zu": "Putrajaya"
+      "zu": "Putrajaya",
+      "cy": "Putrajaya",
+      "ceb": "Putrajaya",
+      "lt": "Putradžaja",
+      "yue_Hans": "布城",
+      "jv": "Putrajaya",
+      "ccp": "𑄛𑄪𑄖𑄳𑄢𑄧𑄎𑄧𑄠𑄴",
+      "ga": "Putrajaya",
+      "hy": "Պուտրաջայա",
+      "ky": "Путражайя",
+      "pa": "ਪੁੱਤਰਜੈ",
+      "ml": "പുത്രജയ",
+      "yue": "布城",
+      "mk": "Путраџаја"
     },
-    "geo": {
-      "latitude": 2.9353556,
-      "longitude": 101.6912831,
-      "min_latitude": 2.8762049,
-      "min_longitude": 101.6600299,
-      "max_latitude": 2.9765179,
-      "max_longitude": 101.7328308
-    },
-    "name": "Wilayah Persekutuan Putrajaya"
+    "comments": null
   }
 }
 

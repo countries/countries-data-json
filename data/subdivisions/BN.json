@@ -1,6 +1,16 @@
 {
   "BE": {
+    "name": "Belait",
+    "code": null,
     "unofficial_names": "Belait",
+    "geo": {
+      "latitude": 4.449758,
+      "longitude": 114.318703,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Belait",
       "ar": "مقاطعة بيلايت",
@@ -41,20 +51,26 @@
       "uk": "Белайт",
       "ur": "بیلائت ضلع",
       "vi": "Quận Belait",
-      "zh": "马来奕县"
+      "zh": "马来奕县",
+      "lv": "Belaitas distrikts",
+      "ceb": "Belait District",
+      "ccp": "𑄝𑄬𑄣𑄭𑄖𑄴",
+      "ca": "Districte de Belait"
     },
-    "geo": {
-      "latitude": 4.449758,
-      "longitude": 114.318703,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Belait"
+    "comments": null
   },
   "BM": {
+    "name": "Brunei-Muara",
+    "code": null,
     "unofficial_names": "Brunei-Muara",
+    "geo": {
+      "latitude": 4.9311206,
+      "longitude": 114.9516869,
+      "min_latitude": 4.7286589,
+      "min_longitude": 114.771896,
+      "max_latitude": 5.045009900000001,
+      "max_longitude": 115.1262673
+    },
     "translations": {
       "en": "Brunei-Muara",
       "ar": "مقاطعة بروناي - موارا",
@@ -95,20 +111,26 @@
       "tr": "Brunedi-Muara District",
       "uk": "Бруней-Муара",
       "ur": "برونائی-موارا ضلع",
-      "vi": "Quận Brunei-Muara"
+      "vi": "Quận Brunei-Muara",
+      "lv": "Bruneimuaras distrikts",
+      "ceb": "Brunei and Muara District",
+      "zh": "汶莱摩拉县",
+      "ccp": "𑄝𑄳𑄢𑄪𑄚𑄬𑄭-𑄟𑄧𑄅𑄪𑄢"
     },
-    "geo": {
-      "latitude": 4.9311206,
-      "longitude": 114.9516869,
-      "min_latitude": 4.7286589,
-      "min_longitude": 114.771896,
-      "max_latitude": 5.045009900000001,
-      "max_longitude": 115.1262673
-    },
-    "name": "Brunei-Muara"
+    "comments": null
   },
   "TE": {
+    "name": "Temburong",
+    "code": null,
     "unofficial_names": "Temburong",
+    "geo": {
+      "latitude": 4.6204128,
+      "longitude": 115.141484,
+      "min_latitude": 4.296721,
+      "min_longitude": 115.022453,
+      "max_latitude": 4.9088199,
+      "max_longitude": 115.359444
+    },
     "translations": {
       "en": "Temburong",
       "ar": "مقاطعة تيمبورونغ",
@@ -148,20 +170,28 @@
       "tr": "Temburong District",
       "uk": "Тембуронґ",
       "ur": "تیمبورونگ ضلع",
-      "vi": "Quận Temburong"
+      "vi": "Quận Temburong",
+      "lv": "Temburonas distrikts",
+      "ceb": "Temburong District",
+      "zh": "淡布隆县",
+      "ccp": "𑄑𑄬𑄟𑄴𑄝𑄪𑄢𑄧𑄁",
+      "cs": "Temburong",
+      "ca": "Districte de Temburong"
     },
-    "geo": {
-      "latitude": 4.6204128,
-      "longitude": 115.141484,
-      "min_latitude": 4.296721,
-      "min_longitude": 115.022453,
-      "max_latitude": 4.9088199,
-      "max_longitude": 115.359444
-    },
-    "name": "Temburong"
+    "comments": null
   },
   "TU": {
+    "name": "Tutong",
+    "code": null,
     "unofficial_names": "Tutong",
+    "geo": {
+      "latitude": 4.7140373,
+      "longitude": 114.6667939,
+      "min_latitude": 4.3042129,
+      "min_longitude": 114.5288525,
+      "max_latitude": 4.9333759,
+      "max_longitude": 114.8825069
+    },
     "translations": {
       "en": "Tutong",
       "ar": "مقاطعة توتونغ",
@@ -201,17 +231,14 @@
       "tr": "Tutong District",
       "uk": "Тутонг",
       "ur": "توتنگ ضلع",
-      "vi": "Quận Tutong"
+      "vi": "Quận Tutong",
+      "lv": "Tutonas distrikts",
+      "ceb": "Tutong District",
+      "zh": "都东县",
+      "ccp": "𑄑𑄨𑄅𑄪𑄖𑄧𑄁",
+      "ca": "Districte de Tutong"
     },
-    "geo": {
-      "latitude": 4.7140373,
-      "longitude": 114.6667939,
-      "min_latitude": 4.3042129,
-      "min_longitude": 114.5288525,
-      "max_latitude": 4.9333759,
-      "max_longitude": 114.8825069
-    },
-    "name": "Tutong"
+    "comments": null
   }
 }
 

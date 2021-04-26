@@ -1,10 +1,20 @@
 {
   "AN": {
+    "name": "Atlántico Norte*",
+    "code": null,
     "unofficial_names": [
       "RAAN",
       "Región Autónoma Atlántico Norte",
       "Zelaya Norte"
     ],
+    "geo": {
+      "latitude": 13.8394456,
+      "longitude": -83.93208059999999,
+      "min_latitude": 13.028599,
+      "min_longitude": -85.483689,
+      "max_latitude": 15.0259089,
+      "max_longitude": -82.59207239999999
+    },
     "translations": {
       "en": "Atlántico Norte",
       "ar": "ريجيون أوتونوما ديل أتلانتيكو نورت",
@@ -46,24 +56,31 @@
       "uk": "Автономний Регіон Північної Атлантики",
       "ur": "شمالی کیریبین ساحل خود مختار علاقہ",
       "vi": "Región Autónoma del Atlántico Norte",
-      "zh": "北大西洋自治區"
+      "zh": "北大西洋自治區",
+      "lv": "Ziemeļatlantijas autonomais reģions",
+      "ceb": "North Atlantic Autonomous Region",
+      "sr_Latn": "Atlantiko Norte",
+      "ccp": "𑄃𑄖𑄴𑄣𑄚𑄴𑄑𑄨𑄇𑄮 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "mk": "Северноатлантски автономен регион"
     },
-    "geo": {
-      "latitude": 13.8394456,
-      "longitude": -83.93208059999999,
-      "min_latitude": 13.028599,
-      "min_longitude": -85.483689,
-      "max_latitude": 15.0259089,
-      "max_longitude": -82.59207239999999
-    },
-    "name": "Atlántico Norte*"
+    "comments": null
   },
   "AS": {
+    "name": "Atlántico Sur*",
+    "code": null,
     "unofficial_names": [
       "RAAS",
       "Región Autónoma Atlántico Sur",
       "Zelaya Sur"
     ],
+    "geo": {
+      "latitude": 12.1918502,
+      "longitude": -84.1012861,
+      "min_latitude": 11.0285841,
+      "min_longitude": -85.21458009999999,
+      "max_latitude": 13.277237,
+      "max_longitude": -82.97150719999999
+    },
     "translations": {
       "en": "Atlántico Sur",
       "ar": "ريجيون أوتونوما ديل أتلانتيكو سور",
@@ -105,20 +122,28 @@
       "tr": "Güney Atlantik Otonom Bölgesi",
       "uk": "Автономний Регіон Південної Атлантики",
       "ur": "جنوبی کیریبین ساحل خود مختار علاقہ",
-      "vi": "Región Autónoma del Atlántico Sur"
+      "vi": "Región Autónoma del Atlántico Sur",
+      "lv": "Dienvidatlantijas autonomais reģions",
+      "ceb": "Región Autónoma Atlántico Sur",
+      "sr_Latn": "Atlantiko Sur",
+      "zh": "南大西洋自治區",
+      "ccp": "𑄃𑄖𑄴𑄣𑄚𑄴𑄑𑄨𑄇𑄮 𑄥𑄢𑄴",
+      "mk": "Јужноатлантски автономен регион"
     },
-    "geo": {
-      "latitude": 12.1918502,
-      "longitude": -84.1012861,
-      "min_latitude": 11.0285841,
-      "min_longitude": -85.21458009999999,
-      "max_latitude": 13.277237,
-      "max_longitude": -82.97150719999999
-    },
-    "name": "Atlántico Sur*"
+    "comments": null
   },
   "BO": {
+    "name": "Boaco",
+    "code": null,
     "unofficial_names": "Boaco",
+    "geo": {
+      "latitude": 12.492724,
+      "longitude": -85.52002399999999,
+      "min_latitude": 12.0231972,
+      "min_longitude": -85.96309579999999,
+      "max_latitude": 12.7902051,
+      "max_longitude": -84.953434
+    },
     "translations": {
       "en": "Boaco",
       "ar": "إدارة بواكو",
@@ -162,20 +187,26 @@
       "tr": "Boaco",
       "uk": "Боако",
       "ur": "بواکو محکمہ",
-      "vi": "Khu vực hành chính Boaco"
+      "vi": "Khu vực hành chính Boaco",
+      "lv": "Boako departaments",
+      "ceb": "Departamento de Boaco",
+      "zh": "博阿科省",
+      "ccp": "𑄝𑄯𑄇𑄮"
     },
-    "geo": {
-      "latitude": 12.492724,
-      "longitude": -85.52002399999999,
-      "min_latitude": 12.0231972,
-      "min_longitude": -85.96309579999999,
-      "max_latitude": 12.7902051,
-      "max_longitude": -84.953434
-    },
-    "name": "Boaco"
+    "comments": null
   },
   "CA": {
+    "name": "Carazo",
+    "code": null,
     "unofficial_names": "Carazo",
+    "geo": {
+      "latitude": 11.7274729,
+      "longitude": -86.21584969999999,
+      "min_latitude": 11.5150947,
+      "min_longitude": -86.4927755,
+      "max_latitude": 11.933541,
+      "max_longitude": -86.063385
+    },
     "translations": {
       "en": "Carazo",
       "ar": "إدارة كارازو",
@@ -218,20 +249,26 @@
       "tr": "Carazo",
       "uk": "Карасо",
       "ur": "کاراسو محکمہ",
-      "vi": "Khu vực hành chính Carazo"
+      "vi": "Khu vực hành chính Carazo",
+      "lv": "Karaso departaments",
+      "ceb": "Departamento de Carazo",
+      "zh": "卡拉索省",
+      "ccp": "𑄇𑄢𑄎𑄮"
     },
-    "geo": {
-      "latitude": 11.7274729,
-      "longitude": -86.21584969999999,
-      "min_latitude": 11.5150947,
-      "min_longitude": -86.4927755,
-      "max_latitude": 11.933541,
-      "max_longitude": -86.063385
-    },
-    "name": "Carazo"
+    "comments": null
   },
   "CI": {
+    "name": "Chinandega",
+    "code": null,
     "unofficial_names": "Chinandega",
+    "geo": {
+      "latitude": 12.8820062,
+      "longitude": -87.14228949999999,
+      "min_latitude": 12.44511,
+      "min_longitude": -87.6903076,
+      "max_latitude": 13.306297,
+      "max_longitude": -86.629938
+    },
     "translations": {
       "en": "Chinandega",
       "ar": "إدارة تشينانديجا",
@@ -274,20 +311,26 @@
       "tr": "Chinandega",
       "uk": "Чинандега",
       "ur": "چیناندیگا محکمہ",
-      "vi": "Khu hành chính Chinandega"
+      "vi": "Khu hành chính Chinandega",
+      "lv": "Činandegas departaments",
+      "ceb": "Departamento de Chinandega",
+      "zh": "奇南德加省",
+      "ccp": "𑄌𑄨𑄚𑄚𑄴𑄓𑄬𑄉"
     },
-    "geo": {
-      "latitude": 12.8820062,
-      "longitude": -87.14228949999999,
-      "min_latitude": 12.44511,
-      "min_longitude": -87.6903076,
-      "max_latitude": 13.306297,
-      "max_longitude": -86.629938
-    },
-    "name": "Chinandega"
+    "comments": null
   },
   "CO": {
+    "name": "Chontales",
+    "code": null,
     "unofficial_names": "Chontales",
+    "geo": {
+      "latitude": 11.9394717,
+      "longitude": -85.1894045,
+      "min_latitude": 11.6280457,
+      "min_longitude": -85.64550899999999,
+      "max_latitude": 12.632429,
+      "max_longitude": -84.56769709999999
+    },
     "translations": {
       "en": "Chontales",
       "ar": "إدارة تشونتاليس",
@@ -330,20 +373,26 @@
       "tr": "Chontales",
       "uk": "Чонталес",
       "ur": "چونتالیس محکمہ",
-      "vi": "Khu vực hành chính Chontales"
+      "vi": "Khu vực hành chính Chontales",
+      "lv": "Čontalesas departaments",
+      "ceb": "Departamento de Chontales",
+      "zh": "瓊塔萊斯省",
+      "ccp": "𑄌𑄮𑄚𑄴𑄑𑄣𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 11.9394717,
-      "longitude": -85.1894045,
-      "min_latitude": 11.6280457,
-      "min_longitude": -85.64550899999999,
-      "max_latitude": 12.632429,
-      "max_longitude": -84.56769709999999
-    },
-    "name": "Chontales"
+    "comments": null
   },
   "ES": {
+    "name": "Estelí",
+    "code": null,
     "unofficial_names": "Estelí",
+    "geo": {
+      "latitude": 13.083333,
+      "longitude": -86.35,
+      "min_latitude": 13.0616854,
+      "min_longitude": -86.3830947,
+      "max_latitude": 13.1177659,
+      "max_longitude": -86.3384628
+    },
     "translations": {
       "en": "Estelí",
       "ar": "إدارة إستيلي",
@@ -386,20 +435,26 @@
       "tr": "Estelí İli",
       "uk": "Естелі",
       "ur": "ایستالی محکمہ",
-      "vi": "Khu vực hành chính Estelí"
+      "vi": "Khu vực hành chính Estelí",
+      "lv": "Esteli departaments",
+      "ceb": "Departamento de Estelí",
+      "zh": "埃斯特利省",
+      "ccp": "𑄃𑄨𑄌𑄑𑄬𑄣𑄨"
     },
-    "geo": {
-      "latitude": 13.083333,
-      "longitude": -86.35,
-      "min_latitude": 13.0616854,
-      "min_longitude": -86.3830947,
-      "max_latitude": 13.1177659,
-      "max_longitude": -86.3384628
-    },
-    "name": "Estelí"
+    "comments": null
   },
   "GR": {
+    "name": "Granada",
+    "code": null,
     "unofficial_names": "Granada",
+    "geo": {
+      "latitude": 11.933333,
+      "longitude": -85.95,
+      "min_latitude": 11.9084219,
+      "min_longitude": -85.978489,
+      "max_latitude": 11.9492767,
+      "max_longitude": -85.94110979999999
+    },
     "translations": {
       "en": "Granada",
       "be": "Дэпартамент Гранада",
@@ -428,20 +483,25 @@
       "ru": "Гранада",
       "sv": "Granada",
       "uk": "Гранада",
-      "ur": "گرینادا محکمہ"
+      "ur": "گرینادا محکمہ",
+      "ceb": "Departamento de Granada",
+      "zh": "格拉納達省",
+      "ccp": "𑄉𑄳𑄢𑄚𑄓"
     },
-    "geo": {
-      "latitude": 11.933333,
-      "longitude": -85.95,
-      "min_latitude": 11.9084219,
-      "min_longitude": -85.978489,
-      "max_latitude": 11.9492767,
-      "max_longitude": -85.94110979999999
-    },
-    "name": "Granada"
+    "comments": null
   },
   "JI": {
+    "name": "Jinotega",
+    "code": null,
     "unofficial_names": "Jinotega",
+    "geo": {
+      "latitude": 13.1,
+      "longitude": -86,
+      "min_latitude": 13.0730035,
+      "min_longitude": -86.0085301,
+      "max_latitude": 13.1066716,
+      "max_longitude": -85.990076
+    },
     "translations": {
       "en": "Jinotega",
       "ar": "جينوتيغا",
@@ -484,20 +544,26 @@
       "tr": "Jinotega",
       "uk": "Хінотега",
       "ur": "خینوتیگا محکمہ",
-      "vi": "Jinotega"
+      "vi": "Jinotega",
+      "lv": "Hinotegas departaments",
+      "ceb": "Departamento de Jinotega",
+      "zh": "希諾特加省",
+      "ccp": "𑄎𑄨𑄚𑄮𑄑𑄬𑄉"
     },
-    "geo": {
-      "latitude": 13.1,
-      "longitude": -86,
-      "min_latitude": 13.0730035,
-      "min_longitude": -86.0085301,
-      "max_latitude": 13.1066716,
-      "max_longitude": -85.990076
-    },
-    "name": "Jinotega"
+    "comments": null
   },
   "LE": {
+    "name": "León",
+    "code": null,
     "unofficial_names": "León",
+    "geo": {
+      "latitude": 12.5092037,
+      "longitude": -86.6611083,
+      "min_latitude": 11.988095,
+      "min_longitude": -87.175883,
+      "max_latitude": 13.107796,
+      "max_longitude": -86.245541
+    },
     "translations": {
       "en": "León",
       "be": "Дэпартамент Леон",
@@ -528,20 +594,26 @@
       "ru": "Леон",
       "sv": "León",
       "uk": "Леон",
-      "ur": "لیون محکمہ"
+      "ur": "لیون محکمہ",
+      "ceb": "Departamento de León",
+      "zh": "萊昂省",
+      "ccp": "𑄣𑄨𑄠𑄧𑄚𑄴",
+      "mk": "Леон"
     },
-    "geo": {
-      "latitude": 12.5092037,
-      "longitude": -86.6611083,
-      "min_latitude": 11.988095,
-      "min_longitude": -87.175883,
-      "max_latitude": 13.107796,
-      "max_longitude": -86.245541
-    },
-    "name": "León"
+    "comments": null
   },
   "MD": {
+    "name": "Madriz",
+    "code": null,
     "unofficial_names": "Madriz",
+    "geo": {
+      "latitude": 13.4726005,
+      "longitude": -86.4592091,
+      "min_latitude": 13.197792,
+      "min_longitude": -86.768272,
+      "max_latitude": 13.6532971,
+      "max_longitude": -86.0422011
+    },
     "translations": {
       "en": "Madriz",
       "ar": "إدارة مدريز",
@@ -584,20 +656,26 @@
       "tr": "Madriz Departmanı",
       "uk": "Мадрис",
       "ur": "مادریس محکمہ",
-      "vi": "Khu vực hành chính Madriz"
+      "vi": "Khu vực hành chính Madriz",
+      "lv": "Madrisas departaments",
+      "ceb": "Departamento de Madriz",
+      "zh": "馬德里斯省",
+      "ccp": "𑄟𑄓𑄳𑄢𑄨𑄌𑄴"
     },
-    "geo": {
-      "latitude": 13.4726005,
-      "longitude": -86.4592091,
-      "min_latitude": 13.197792,
-      "min_longitude": -86.768272,
-      "max_latitude": 13.6532971,
-      "max_longitude": -86.0422011
-    },
-    "name": "Madriz"
+    "comments": null
   },
   "MN": {
+    "name": "Managua",
+    "code": null,
     "unofficial_names": "Managua",
+    "geo": {
+      "latitude": 12.136389,
+      "longitude": -86.251389,
+      "min_latitude": 12.0199606,
+      "min_longitude": -86.3918334,
+      "max_latitude": 12.1724475,
+      "max_longitude": -86.1250878
+    },
     "translations": {
       "en": "Managua",
       "ar": "إدارة ماناغوا",
@@ -640,20 +718,27 @@
       "tr": "Managua Departmanı",
       "uk": "Манагуа",
       "ur": "ماناگوا محکمہ",
-      "vi": "Khu vực hành chính Managua"
+      "vi": "Khu vực hành chính Managua",
+      "lv": "Managvas departaments",
+      "ceb": "Departamento de Managua",
+      "zh": "馬拿瓜省",
+      "ccp": "𑄟𑄚𑄉𑄪𑄠",
+      "mk": "Манагва"
     },
-    "geo": {
-      "latitude": 12.136389,
-      "longitude": -86.251389,
-      "min_latitude": 12.0199606,
-      "min_longitude": -86.3918334,
-      "max_latitude": 12.1724475,
-      "max_longitude": -86.1250878
-    },
-    "name": "Managua"
+    "comments": null
   },
   "MS": {
+    "name": "Masaya",
+    "code": null,
     "unofficial_names": "Masaya",
+    "geo": {
+      "latitude": 11.966667,
+      "longitude": -86.1,
+      "min_latitude": 11.9524256,
+      "min_longitude": -86.113329,
+      "max_latitude": 11.9975977,
+      "max_longitude": -86.07212059999999
+    },
     "translations": {
       "en": "Masaya",
       "ar": "إدارة مسايا",
@@ -696,20 +781,26 @@
       "tr": "Masaya Departmanı",
       "uk": "Масайя",
       "ur": "ماسایا محکمہ",
-      "vi": "Khu vực hành chính Masaya"
+      "vi": "Khu vực hành chính Masaya",
+      "lv": "Masajas departaments",
+      "ceb": "Departamento de Masaya",
+      "zh": "馬薩亞省",
+      "ccp": "𑄟𑄥𑄠𑄬"
     },
-    "geo": {
-      "latitude": 11.966667,
-      "longitude": -86.1,
-      "min_latitude": 11.9524256,
-      "min_longitude": -86.113329,
-      "max_latitude": 11.9975977,
-      "max_longitude": -86.07212059999999
-    },
-    "name": "Masaya"
+    "comments": null
   },
   "MT": {
+    "name": "Matagalpa",
+    "code": null,
     "unofficial_names": "Matagalpa",
+    "geo": {
+      "latitude": 12.916667,
+      "longitude": -85.91666699999999,
+      "min_latitude": 12.9025089,
+      "min_longitude": -85.9465599,
+      "max_latitude": 12.9567171,
+      "max_longitude": -85.8964561
+    },
     "translations": {
       "en": "Matagalpa",
       "ar": "إدارة ماتاغالبا",
@@ -753,20 +844,26 @@
       "tr": "Matagalpa Departmanı",
       "uk": "Матагальпа",
       "ur": "ماتاگالپا محکمہ",
-      "vi": "Khu vực hành chính Matagalpa"
+      "vi": "Khu vực hành chính Matagalpa",
+      "lv": "Matagalpas departaments",
+      "ceb": "Departamento de Matagalpa",
+      "zh": "馬塔加爾帕省",
+      "ccp": "𑄟𑄑𑄉𑄣𑄴𑄛"
     },
-    "geo": {
-      "latitude": 12.916667,
-      "longitude": -85.91666699999999,
-      "min_latitude": 12.9025089,
-      "min_longitude": -85.9465599,
-      "max_latitude": 12.9567171,
-      "max_longitude": -85.8964561
-    },
-    "name": "Matagalpa"
+    "comments": null
   },
   "NS": {
+    "name": "Nueva Segovia",
+    "code": null,
     "unofficial_names": "Nueva Segovia",
+    "geo": {
+      "latitude": 13.7894404,
+      "longitude": -86.0121573,
+      "min_latitude": 13.4533359,
+      "min_longitude": -86.78519399999999,
+      "max_latitude": 14.0770589,
+      "max_longitude": -85.72843209999999
+    },
     "translations": {
       "en": "Nueva Segovia",
       "ar": "إدارة نويفا سيغوفيا",
@@ -809,20 +906,26 @@
       "tr": "Nueva Segovia District",
       "uk": "Нуева-Сеговія",
       "ur": "نویبا سیگوبیا محکمہ",
-      "vi": "Khu vực hành chính Nueva Segovia"
+      "vi": "Khu vực hành chính Nueva Segovia",
+      "lv": "Nuevasegovijas departaments",
+      "ceb": "Departamento de Nueva Segovia",
+      "zh": "新塞哥維亞省",
+      "ccp": "𑄚𑄮𑄠𑄬𑄞 𑄥𑄬𑄉𑄮𑄞𑄨𑄠"
     },
-    "geo": {
-      "latitude": 13.7894404,
-      "longitude": -86.0121573,
-      "min_latitude": 13.4533359,
-      "min_longitude": -86.78519399999999,
-      "max_latitude": 14.0770589,
-      "max_longitude": -85.72843209999999
-    },
-    "name": "Nueva Segovia"
+    "comments": null
   },
   "RI": {
+    "name": "Rivas",
+    "code": null,
     "unofficial_names": "Rivas",
+    "geo": {
+      "latitude": 11.402349,
+      "longitude": -85.684578,
+      "min_latitude": 11.041925,
+      "min_longitude": -86.17159649999999,
+      "max_latitude": 11.6717179,
+      "max_longitude": -85.1754141
+    },
     "translations": {
       "en": "Rivas",
       "ar": "إدارة ريفاز",
@@ -852,20 +955,25 @@
       "ru": "Ривас",
       "sv": "Rivas",
       "uk": "Рівас",
-      "ur": "ریواز محکمہ"
+      "ur": "ریواز محکمہ",
+      "ceb": "Departamento de Rivas",
+      "zh": "里瓦斯省",
+      "ccp": "𑄢𑄨𑄞𑄌𑄴"
     },
-    "geo": {
-      "latitude": 11.402349,
-      "longitude": -85.684578,
-      "min_latitude": 11.041925,
-      "min_longitude": -86.17159649999999,
-      "max_latitude": 11.6717179,
-      "max_longitude": -85.1754141
-    },
-    "name": "Rivas"
+    "comments": null
   },
   "SJ": {
+    "name": "Río San Juan",
+    "code": null,
     "unofficial_names": "Río San Juan",
+    "geo": {
+      "latitude": 10.9324722,
+      "longitude": -83.69159719999999,
+      "min_latitude": 10.924511,
+      "min_longitude": -83.6988258,
+      "max_latitude": 10.9404334,
+      "max_longitude": -83.6843687
+    },
     "translations": {
       "en": "Río San Juan",
       "ar": "إدارة ريو سان خوان",
@@ -908,17 +1016,13 @@
       "tr": "Rio San Juan Departmanı",
       "uk": "Ріо-Сан-Хуан",
       "ur": "ریو سان خوان محکمہ",
-      "vi": "Khu vực hành chính Río San Juan"
+      "vi": "Khu vực hành chính Río San Juan",
+      "lv": "Riosanhuanas departaments",
+      "ceb": "Departamento de Río San Juan",
+      "zh": "聖胡安河省",
+      "ccp": "𑄢𑄨𑄃𑄮 𑄥𑄚𑄴 𑄎𑄪𑄠𑄚𑄴"
     },
-    "geo": {
-      "latitude": 10.9324722,
-      "longitude": -83.69159719999999,
-      "min_latitude": 10.924511,
-      "min_longitude": -83.6988258,
-      "max_latitude": 10.9404334,
-      "max_longitude": -83.6843687
-    },
-    "name": "Río San Juan"
+    "comments": null
   }
 }
 

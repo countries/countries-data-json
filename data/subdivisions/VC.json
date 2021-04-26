@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Charlotte",
+    "code": null,
     "unofficial_names": "Charlotte",
+    "geo": {
+      "latitude": 13.2175451,
+      "longitude": -61.1636244,
+      "min_latitude": 13.1704095,
+      "min_longitude": -61.2052961,
+      "max_latitude": 13.3830995,
+      "max_longitude": -61.1154812
+    },
     "translations": {
       "en": "Charlotte",
       "ar": "أبرشية شارلوت",
@@ -35,20 +45,27 @@
       "tr": "Charlotte Parish",
       "ur": "شارلٹ پیرش، سینٹ وینسینٹ و گریناڈائنز",
       "vi": "Charlotte, Saint Vincent và Grenadines",
-      "zh": "夏洛特区"
+      "zh": "夏洛特区",
+      "lv": "Šarlotes pagasts",
+      "ceb": "Parish of Charlotte",
+      "ccp": "𑄌𑄢𑄴𑄣𑄮𑄖𑄳𑄦𑄨",
+      "uk": "Парафія Шарлотта",
+      "mk": "Шарлот"
     },
-    "geo": {
-      "latitude": 13.2175451,
-      "longitude": -61.1636244,
-      "min_latitude": 13.1704095,
-      "min_longitude": -61.2052961,
-      "max_latitude": 13.3830995,
-      "max_longitude": -61.1154812
-    },
-    "name": "Charlotte"
+    "comments": null
   },
   "02": {
+    "name": "Saint Andrew",
+    "code": null,
     "unofficial_names": "Saint Andrew",
+    "geo": {
+      "latitude": 13.2008061,
+      "longitude": -61.2393885,
+      "min_latitude": 13.1545565,
+      "min_longitude": -61.27861309999999,
+      "max_latitude": 13.237138,
+      "max_longitude": -61.19889689999999
+    },
     "translations": {
       "en": "Saint Andrew",
       "ar": "أبرشية سانت أندرو",
@@ -83,20 +100,27 @@
       "th": "เซนท์ แอนดริว พาลิซ",
       "tr": "Saint Andrew Parish",
       "ur": "سینٹ اینڈریو پریش، سینٹ ونکنٹ و تھے گریندنس",
-      "vi": "Saint Andrew, Saint Vincent và Grenadines"
+      "vi": "Saint Andrew, Saint Vincent và Grenadines",
+      "lv": "Sentendrū pagasts",
+      "ceb": "Parish of Saint Andrew",
+      "zh": "聖安德魯區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄪",
+      "uk": "Парафія Сент-Андру"
     },
-    "geo": {
-      "latitude": 13.2008061,
-      "longitude": -61.2393885,
-      "min_latitude": 13.1545565,
-      "min_longitude": -61.27861309999999,
-      "max_latitude": 13.237138,
-      "max_longitude": -61.19889689999999
-    },
-    "name": "Saint Andrew"
+    "comments": null
   },
   "03": {
+    "name": "Saint David",
+    "code": null,
     "unofficial_names": "Saint David",
+    "geo": {
+      "latitude": 13.3154926,
+      "longitude": -61.1985879,
+      "min_latitude": 13.258588,
+      "min_longitude": -61.262369,
+      "max_latitude": 13.3817949,
+      "max_longitude": -61.16586400000001
+    },
     "translations": {
       "en": "Saint David",
       "ar": "أبرشية القديس ديفيد",
@@ -130,20 +154,27 @@
       "th": "เซนต์เดวิด",
       "tr": "Saint David Parish",
       "ur": "سینٹ ڈیوڈ پریش، سینٹ ونکنٹ و تھے گریندنس",
-      "vi": "Saint David, Saint Vincent và Grenadines"
+      "vi": "Saint David, Saint Vincent và Grenadines",
+      "lv": "Sentdeivida pagasts",
+      "ceb": "Parish of Saint David",
+      "zh": "聖大衛區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄓𑄬𑄞𑄨𑄖𑄴",
+      "uk": "Парафія Сент-Девід"
     },
-    "geo": {
-      "latitude": 13.3154926,
-      "longitude": -61.1985879,
-      "min_latitude": 13.258588,
-      "min_longitude": -61.262369,
-      "max_latitude": 13.3817949,
-      "max_longitude": -61.16586400000001
-    },
-    "name": "Saint David"
+    "comments": null
   },
   "04": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
+    "geo": {
+      "latitude": 13.1698266,
+      "longitude": -61.1985879,
+      "min_latitude": 13.122844,
+      "min_longitude": -61.23668790000001,
+      "max_latitude": 13.213651,
+      "max_longitude": -61.14351
+    },
     "translations": {
       "en": "Saint George",
       "ar": "أبرشية سانت جورج",
@@ -176,20 +207,27 @@
       "th": "เซนท์ จีออจี พาลิซ",
       "tr": "Saint George Parish",
       "ur": "سینٹ جارج پریش، سینٹ ونکنٹ و تھے گریندنس",
-      "vi": "Saint George, Saint Vincent và Grenadines"
+      "vi": "Saint George, Saint Vincent và Grenadines",
+      "lv": "Sentdžordža pagasts",
+      "ceb": "Parish of Saint George (parokya sa Saint Vincent ug ang Grenadines)",
+      "zh": "聖喬治區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄎𑄧𑄢𑄴𑄌𑄴",
+      "uk": "Парафія Сент-Джордж"
     },
-    "geo": {
-      "latitude": 13.1698266,
-      "longitude": -61.1985879,
-      "min_latitude": 13.122844,
-      "min_longitude": -61.23668790000001,
-      "max_latitude": 13.213651,
-      "max_longitude": -61.14351
-    },
-    "name": "Saint George"
+    "comments": null
   },
   "05": {
+    "name": "Saint Patrick",
+    "code": null,
     "unofficial_names": "Saint Patrick",
+    "geo": {
+      "latitude": 13.2379389,
+      "longitude": -61.24521799999999,
+      "min_latitude": 13.2022794,
+      "min_longitude": -61.2790731,
+      "max_latitude": 13.2749832,
+      "max_longitude": -61.1890409
+    },
     "translations": {
       "en": "Saint Patrick",
       "ar": "أبرشية القديس باتريك",
@@ -223,20 +261,27 @@
       "th": "เซนต์ เพทริค แพริช",
       "tr": "Saint Patrick Parish",
       "ur": "سینٹ پیٹرک پریش، سینٹ ونکنٹ و تھے گریندنس",
-      "vi": "Saint Patrick, Saint Vincent và Grenadines"
+      "vi": "Saint Patrick, Saint Vincent và Grenadines",
+      "lv": "Sentpatrika pagasts",
+      "ceb": "Parish of Saint Patrick",
+      "zh": "聖派屈克區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄳𑄠𑄑𑄳𑄢𑄨𑄇𑄴",
+      "uk": "Парафія Сент-Патрік"
     },
-    "geo": {
-      "latitude": 13.2379389,
-      "longitude": -61.24521799999999,
-      "min_latitude": 13.2022794,
-      "min_longitude": -61.2790731,
-      "max_latitude": 13.2749832,
-      "max_longitude": -61.1890409
-    },
-    "name": "Saint Patrick"
+    "comments": null
   },
   "06": {
+    "name": "Grenadines",
+    "code": null,
     "unofficial_names": "Grenadines",
+    "geo": {
+      "latitude": 12.6666667,
+      "longitude": -61.25000000000001,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Grenadines",
       "be": "Акруга Грэнадзіны",
@@ -253,17 +298,15 @@
       "pt": "Granadinas",
       "ru": "Гренадины",
       "ur": "گریناڈائنز پیرش",
-      "vi": "Grenadines"
+      "vi": "Grenadines",
+      "ceb": "Grenadines (parokya)",
+      "zh": "格瑞那丁區",
+      "ccp": "𑄉𑄳𑄢𑄬𑄚𑄓𑄭𑄚𑄴𑄌𑄴",
+      "es": "Granadinas (San Vicente y las Granadinas)",
+      "de": "Grenadines",
+      "uk": "Ґренадіни"
     },
-    "geo": {
-      "latitude": 12.6666667,
-      "longitude": -61.25000000000001,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Grenadines"
+    "comments": null
   }
 }
 

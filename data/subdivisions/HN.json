@@ -1,6 +1,16 @@
 {
   "AT": {
+    "name": "Atlántida",
+    "code": null,
     "unofficial_names": "Atlántida",
+    "geo": {
+      "latitude": 15.6696283,
+      "longitude": -87.14228949999999,
+      "min_latitude": 15.430607,
+      "min_longitude": -87.7970871,
+      "max_latitude": 15.9182919,
+      "max_longitude": -86.3275431
+    },
     "translations": {
       "en": "Atlántida",
       "ar": "أتلانتيدا",
@@ -44,20 +54,25 @@
       "uk": "Атлантида",
       "ur": "آتلانتیدا محکمہ",
       "vi": "Atlántida",
-      "zh": "阿特蘭蒂達省"
+      "zh": "阿特蘭蒂達省",
+      "lv": "Atlantīdas departaments",
+      "ceb": "Departamento de Atlántida",
+      "ccp": "𑄃𑄖𑄴𑄣𑄥𑄑𑄨𑄓"
     },
-    "geo": {
-      "latitude": 15.6696283,
-      "longitude": -87.14228949999999,
-      "min_latitude": 15.430607,
-      "min_longitude": -87.7970871,
-      "max_latitude": 15.9182919,
-      "max_longitude": -86.3275431
-    },
-    "name": "Atlántida"
+    "comments": null
   },
   "CH": {
+    "name": "Choluteca",
+    "code": null,
     "unofficial_names": "Choluteca",
+    "geo": {
+      "latitude": 13.3198572,
+      "longitude": -87.1622344,
+      "min_latitude": 13.2443735,
+      "min_longitude": -87.2275829,
+      "max_latitude": 13.3577214,
+      "max_longitude": -87.11497299999999
+    },
     "translations": {
       "en": "Choluteca",
       "ar": "إدارة تشولوتيكا",
@@ -100,20 +115,26 @@
       "tr": "Choluteca Departmanı",
       "uk": "Чолутека",
       "ur": "چولوتیکا ڈیپارٹمنٹ",
-      "vi": "Choluteca"
+      "vi": "Choluteca",
+      "lv": "Čolutekas departaments",
+      "ceb": "Departamento de Choluteca",
+      "zh": "喬盧特卡省",
+      "ccp": "𑄌𑄮𑄣𑄨𑄅𑄪𑄑𑄬𑄇"
     },
-    "geo": {
-      "latitude": 13.3198572,
-      "longitude": -87.1622344,
-      "min_latitude": 13.2443735,
-      "min_longitude": -87.2275829,
-      "max_latitude": 13.3577214,
-      "max_longitude": -87.11497299999999
-    },
-    "name": "Choluteca"
+    "comments": null
   },
   "CL": {
+    "name": "Colón",
+    "code": null,
     "unofficial_names": "Colón",
+    "geo": {
+      "latitude": 15.6391768,
+      "longitude": -85.35496499999999,
+      "min_latitude": 15.0795581,
+      "min_longitude": -86.4258461,
+      "max_latitude": 16.0269222,
+      "max_longitude": -84.9903293
+    },
     "translations": {
       "en": "Colón",
       "ar": "إدارة كولون",
@@ -155,20 +176,26 @@
       "tr": "Colon Departmanı",
       "uk": "Колон",
       "ur": "کولون محکمہ",
-      "vi": "Colón"
+      "vi": "Colón",
+      "lv": "Kolonas departaments",
+      "ceb": "Departamento de Colón",
+      "zh": "科隆省",
+      "ccp": "𑄇𑄮𑄣𑄮𑄚𑄴"
     },
-    "geo": {
-      "latitude": 15.6391768,
-      "longitude": -85.35496499999999,
-      "min_latitude": 15.0795581,
-      "min_longitude": -86.4258461,
-      "max_latitude": 16.0269222,
-      "max_longitude": -84.9903293
-    },
-    "name": "Colón"
+    "comments": null
   },
   "CM": {
+    "name": "Comayagua",
+    "code": null,
     "unofficial_names": "Comayagua",
+    "geo": {
+      "latitude": 14.5534828,
+      "longitude": -87.6186379,
+      "min_latitude": 14.0668049,
+      "min_longitude": -88.08321099999999,
+      "max_latitude": 15.0569,
+      "max_longitude": -87.261583
+    },
     "translations": {
       "en": "Comayagua",
       "bg": "Комаягуа",
@@ -197,20 +224,26 @@
       "sv": "Departamento de Comayagua",
       "uk": "Комаягуа",
       "ur": "کومایاغوا محکمہ",
-      "vi": "Comayagua"
+      "vi": "Comayagua",
+      "mr": "कोमायागुआ प्रांत",
+      "ceb": "Departamento de Comayagua",
+      "zh": "科馬亞瓜省",
+      "ccp": "𑄇𑄮𑄟𑄬𑄠𑄋𑄴𑄉𑄪𑄠"
     },
-    "geo": {
-      "latitude": 14.5534828,
-      "longitude": -87.6186379,
-      "min_latitude": 14.0668049,
-      "min_longitude": -88.08321099999999,
-      "max_latitude": 15.0569,
-      "max_longitude": -87.261583
-    },
-    "name": "Comayagua"
+    "comments": null
   },
   "CP": {
+    "name": "Copán",
+    "code": null,
     "unofficial_names": "Copán",
+    "geo": {
+      "latitude": 14.9360838,
+      "longitude": -88.86469799999999,
+      "min_latitude": 14.5260461,
+      "min_longitude": -89.22522,
+      "max_latitude": 15.294539,
+      "max_longitude": -88.63253
+    },
     "translations": {
       "en": "Copán",
       "ar": "إدارة كوبان",
@@ -251,20 +284,26 @@
       "tr": "Copan Departmanı",
       "uk": "Копан",
       "ur": "کوپان محکمہ",
-      "vi": "Copán"
+      "vi": "Copán",
+      "lv": "Kopanas departaments",
+      "ceb": "Departamento de Copán",
+      "zh": "科潘省",
+      "ccp": "𑄇𑄮𑄛𑄚𑄴"
     },
-    "geo": {
-      "latitude": 14.9360838,
-      "longitude": -88.86469799999999,
-      "min_latitude": 14.5260461,
-      "min_longitude": -89.22522,
-      "max_latitude": 15.294539,
-      "max_longitude": -88.63253
-    },
-    "name": "Copán"
+    "comments": null
   },
   "CR": {
+    "name": "Cortés",
+    "code": null,
     "unofficial_names": "Cortés",
+    "geo": {
+      "latitude": 15.4909515,
+      "longitude": -87.9334803,
+      "min_latitude": 14.8104159,
+      "min_longitude": -88.44252600000002,
+      "max_latitude": 15.9198125,
+      "max_longitude": -87.7257844
+    },
     "translations": {
       "en": "Cortés",
       "ar": "إدارة كورتيس",
@@ -307,20 +346,26 @@
       "tr": "Cortés Departmanı",
       "uk": "Кортес",
       "ur": "کورتیس محکمہ",
-      "vi": "Cortés"
+      "vi": "Cortés",
+      "lv": "Kortesa departaments",
+      "ceb": "Departamento de Cortés",
+      "zh": "科爾特斯省",
+      "ccp": "𑄇𑄧𑄢𑄴𑄑𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 15.4909515,
-      "longitude": -87.9334803,
-      "min_latitude": 14.8104159,
-      "min_longitude": -88.44252600000002,
-      "max_latitude": 15.9198125,
-      "max_longitude": -87.7257844
-    },
-    "name": "Cortés"
+    "comments": null
   },
   "EP": {
+    "name": "El Paraíso",
+    "code": null,
     "unofficial_names": "El Paraíso",
+    "geo": {
+      "latitude": 14.0736932,
+      "longitude": -86.41873079999999,
+      "min_latitude": 13.5013601,
+      "min_longitude": -87.23560499999999,
+      "max_latitude": 14.3801481,
+      "max_longitude": -85.57647709999999
+    },
     "translations": {
       "en": "El Paraíso",
       "ar": "إدارة بارايسو",
@@ -362,20 +407,26 @@
       "tr": "El Paraiso Departmanı",
       "uk": "Ель-Параїсо",
       "ur": "ال پارایسو ڈیپارٹمنٹ",
-      "vi": "El Paraíso"
+      "vi": "El Paraíso",
+      "lv": "Elparaiso departaments",
+      "ceb": "Departamento de El Paraíso",
+      "zh": "埃爾帕拉伊索省",
+      "ccp": "𑄃𑄬𑄣𑄴 𑄛𑄢𑄭𑄥𑄮"
     },
-    "geo": {
-      "latitude": 14.0736932,
-      "longitude": -86.41873079999999,
-      "min_latitude": 13.5013601,
-      "min_longitude": -87.23560499999999,
-      "max_latitude": 14.3801481,
-      "max_longitude": -85.57647709999999
-    },
-    "name": "El Paraíso"
+    "comments": null
   },
   "FM": {
+    "name": "Francisco Morazán",
+    "code": null,
     "unofficial_names": "Francisco Morazán",
+    "geo": {
+      "latitude": 14.45411,
+      "longitude": -87.0624261,
+      "min_latitude": 13.662749,
+      "min_longitude": -87.648878,
+      "max_latitude": 15.013803,
+      "max_longitude": -86.70461999999999
+    },
     "translations": {
       "en": "Francisco Morazán",
       "ar": "إدارة فرانسيسكو مورازان",
@@ -416,20 +467,27 @@
       "tr": "Francisco Moraz",
       "uk": "Франсіско Морасан",
       "ur": "فرانسسکو مورازان ڈیپارٹمنٹ",
-      "vi": "Francisco Morazán"
+      "vi": "Francisco Morazán",
+      "lv": "Fransiskomorasanas departaments",
+      "ceb": "Departamento de Francisco Morazán",
+      "zh": "弗朗西斯科-莫拉桑省",
+      "ccp": "𑄜𑄳𑄢𑄚𑄴𑄥𑄨𑄌𑄴𑄇𑄮 𑄟𑄮𑄢𑄎𑄚𑄴",
+      "be": "Франсіска Марасан"
     },
-    "geo": {
-      "latitude": 14.45411,
-      "longitude": -87.0624261,
-      "min_latitude": 13.662749,
-      "min_longitude": -87.648878,
-      "max_latitude": 15.013803,
-      "max_longitude": -86.70461999999999
-    },
-    "name": "Francisco Morazán"
+    "comments": null
   },
   "GD": {
+    "name": "Gracias a Dios",
+    "code": null,
     "unofficial_names": "Gracias a Dios",
+    "geo": {
+      "latitude": 15.341806,
+      "longitude": -84.6060449,
+      "min_latitude": 14.614529,
+      "min_longitude": -84.99412,
+      "max_latitude": 15.9782862,
+      "max_longitude": -83.15540299999999
+    },
     "translations": {
       "en": "Gracias a Dios",
       "ar": "إدارة غراسياس ديوس",
@@ -472,20 +530,26 @@
       "tr": "Gracias a Dios",
       "uk": "Грасіас-а-Діос",
       "ur": "گریشیئس آ دیوس ڈیپارٹمنٹ",
-      "vi": "Gracias a Dios"
+      "vi": "Gracias a Dios",
+      "lv": "Grasjasadjosas departaments",
+      "ceb": "Departamento de Gracias a Dios",
+      "zh": "格拉西亚斯-阿迪奥斯省",
+      "ccp": "𑄉𑄳𑄢𑄥𑄨𑄠𑄌𑄴 𑄃 𑄓𑄨𑄠𑄮𑄌𑄴"
     },
-    "geo": {
-      "latitude": 15.341806,
-      "longitude": -84.6060449,
-      "min_latitude": 14.614529,
-      "min_longitude": -84.99412,
-      "max_latitude": 15.9782862,
-      "max_longitude": -83.15540299999999
-    },
-    "name": "Gracias a Dios"
+    "comments": null
   },
   "IB": {
+    "name": "Islas de la Bahía",
+    "code": null,
     "unofficial_names": "Islas de la Bahía",
+    "geo": {
+      "latitude": 16.3526078,
+      "longitude": -86.4895463,
+      "min_latitude": 16.069366,
+      "min_longitude": -86.98986409999999,
+      "max_latitude": 17.415835,
+      "max_longitude": -83.9287665
+    },
     "translations": {
       "en": "Bay Islands",
       "ar": "إدارة جزر الخليج",
@@ -531,20 +595,28 @@
       "tr": "Bay Adaları",
       "uk": "Іслас-де-ла-Байя",
       "ur": "بے آیلینڈز محکمہ",
-      "vi": "Islas de la Bahía"
+      "vi": "Islas de la Bahía",
+      "lv": "Baijas Salas departaments",
+      "ceb": "Departamento de Islas de la Bahía",
+      "zh": "海灣群島省",
+      "yue_Hans": "海湾群岛省",
+      "ccp": "𑄝𑄬 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄌𑄴",
+      "yue": "海灣群島省"
     },
-    "geo": {
-      "latitude": 16.3526078,
-      "longitude": -86.4895463,
-      "min_latitude": 16.069366,
-      "min_longitude": -86.98986409999999,
-      "max_latitude": 17.415835,
-      "max_longitude": -83.9287665
-    },
-    "name": "Islas de la Bahía"
+    "comments": null
   },
   "IN": {
+    "name": "Intibucá",
+    "code": null,
     "unofficial_names": "Intibucá",
+    "geo": {
+      "latitude": 14.316667,
+      "longitude": -88.16666699999999,
+      "min_latitude": 14.309215,
+      "min_longitude": -88.1977272,
+      "max_latitude": 14.3376566,
+      "max_longitude": -88.1368732
+    },
     "translations": {
       "en": "Intibucá",
       "ar": "إدارة إنتبوكا",
@@ -585,20 +657,26 @@
       "tr": "Intibuca Departmanı",
       "uk": "Інтібука",
       "ur": "انتیپوکا محکمہ",
-      "vi": "Intibucá"
+      "vi": "Intibucá",
+      "lv": "Intibukas departaments",
+      "ceb": "Departamento de Intibucá",
+      "zh": "因蒂布卡省",
+      "ccp": "𑄃𑄨𑄚𑄴𑄑𑄨𑄝𑄨𑄅𑄪𑄇"
     },
-    "geo": {
-      "latitude": 14.316667,
-      "longitude": -88.16666699999999,
-      "min_latitude": 14.309215,
-      "min_longitude": -88.1977272,
-      "max_latitude": 14.3376566,
-      "max_longitude": -88.1368732
-    },
-    "name": "Intibucá"
+    "comments": null
   },
   "LE": {
+    "name": "Lempira",
+    "code": null,
     "unofficial_names": "Lempira",
+    "geo": {
+      "latitude": 14.1887698,
+      "longitude": -88.55653099999999,
+      "min_latitude": 13.978775,
+      "min_longitude": -88.99023400000002,
+      "max_latitude": 14.955633,
+      "max_longitude": -88.3192471
+    },
     "translations": {
       "en": "Lempira",
       "ar": "إدارة ليمبيرا",
@@ -639,20 +717,26 @@
       "tr": "Lempira Departmanı",
       "uk": "Лемпіра (департамент)",
       "ur": "لیمپیرا ڈیپارٹمنٹ",
-      "vi": "Lempira"
+      "vi": "Lempira",
+      "lv": "Lempiras departaments",
+      "ceb": "Departamento de Lempira",
+      "zh": "倫皮拉省",
+      "ccp": "𑄣𑄬𑄟𑄴𑄛𑄨𑄢"
     },
-    "geo": {
-      "latitude": 14.1887698,
-      "longitude": -88.55653099999999,
-      "min_latitude": 13.978775,
-      "min_longitude": -88.99023400000002,
-      "max_latitude": 14.955633,
-      "max_longitude": -88.3192471
-    },
-    "name": "Lempira"
+    "comments": null
   },
   "LP": {
+    "name": "La Paz",
+    "code": null,
     "unofficial_names": "La Paz",
+    "geo": {
+      "latitude": 13.9984833,
+      "longitude": -87.9334803,
+      "min_latitude": 13.822687,
+      "min_longitude": -88.23758199999999,
+      "max_latitude": 14.417439,
+      "max_longitude": -87.6088089
+    },
     "translations": {
       "en": "La Paz",
       "ar": "إدارة لا باز",
@@ -694,20 +778,26 @@
       "tr": "La paz",
       "uk": "Ла-Пас (департамент Гондурасу)",
       "ur": "لا پاز ڈیپارٹمنٹ",
-      "vi": "La Paz"
+      "vi": "La Paz",
+      "lv": "Lapasas departaments",
+      "ceb": "Departamento de La Paz (departamento sa Honduras)",
+      "zh": "拉巴斯省 (洪都拉斯)",
+      "ccp": "𑄣 𑄛𑄌𑄴"
     },
-    "geo": {
-      "latitude": 13.9984833,
-      "longitude": -87.9334803,
-      "min_latitude": 13.822687,
-      "min_longitude": -88.23758199999999,
-      "max_latitude": 14.417439,
-      "max_longitude": -87.6088089
-    },
-    "name": "La Paz"
+    "comments": null
   },
   "OC": {
+    "name": "Ocotepeque",
+    "code": null,
     "unofficial_names": "Ocotepeque",
+    "geo": {
+      "latitude": 14.5170347,
+      "longitude": -89.0561532,
+      "min_latitude": 14.249759,
+      "min_longitude": -89.350792,
+      "max_latitude": 14.747355,
+      "max_longitude": -88.716308
+    },
     "translations": {
       "en": "Ocotepeque",
       "ar": "إدارة أوكوتيبيك",
@@ -748,20 +838,26 @@
       "tr": "Ocotepeque Departmanı",
       "uk": "Окотепеке",
       "ur": "اوکوتیپیقوی ڈیپارٹمنٹ",
-      "vi": "Ocotepeque"
+      "vi": "Ocotepeque",
+      "lv": "Okotepekes departaments",
+      "ceb": "Departamento de Ocotepeque",
+      "zh": "奥科特佩克省",
+      "ccp": "𑄃𑄮𑄇𑄮𑄑𑄬𑄛𑄬𑄇𑄴"
     },
-    "geo": {
-      "latitude": 14.5170347,
-      "longitude": -89.0561532,
-      "min_latitude": 14.249759,
-      "min_longitude": -89.350792,
-      "max_latitude": 14.747355,
-      "max_longitude": -88.716308
-    },
-    "name": "Ocotepeque"
+    "comments": null
   },
   "OL": {
+    "name": "Olancho",
+    "code": null,
     "unofficial_names": "Olancho",
+    "geo": {
+      "latitude": 14.8067406,
+      "longitude": -85.76666449999999,
+      "min_latitude": 14.046359,
+      "min_longitude": -86.9544921,
+      "max_latitude": 15.61391,
+      "max_longitude": -84.98785400000001
+    },
     "translations": {
       "en": "Olancho",
       "ar": "إدارة أولانشو",
@@ -802,20 +898,26 @@
       "tr": "Olancho Department",
       "uk": "Оланчо",
       "ur": "اولانچو ڈیپارٹمنٹ",
-      "vi": "Olancho"
+      "vi": "Olancho",
+      "lv": "Olančo departaments",
+      "ceb": "Departamento de Olancho",
+      "zh": "奧蘭喬省",
+      "ccp": "𑄃𑄮𑄣𑄚𑄴𑄇𑄮"
     },
-    "geo": {
-      "latitude": 14.8067406,
-      "longitude": -85.76666449999999,
-      "min_latitude": 14.046359,
-      "min_longitude": -86.9544921,
-      "max_latitude": 15.61391,
-      "max_longitude": -84.98785400000001
-    },
-    "name": "Olancho"
+    "comments": null
   },
   "SB": {
+    "name": "Santa Bárbara",
+    "code": null,
     "unofficial_names": "Santa Bárbara",
+    "geo": {
+      "latitude": 15.1202795,
+      "longitude": -88.4016041,
+      "min_latitude": 14.5849759,
+      "min_longitude": -88.751592,
+      "max_latitude": 15.53789,
+      "max_longitude": -87.9959605
+    },
     "translations": {
       "en": "Santa Bárbara",
       "ar": "إدارة سانتا باربرا",
@@ -857,20 +959,26 @@
       "tr": "Santa Bárbara",
       "uk": "Санта-Барбара",
       "ur": "سنتا بڑبڑا ڈیپارٹمنٹ",
-      "vi": "Santa Bárbara"
+      "vi": "Santa Bárbara",
+      "lv": "Santabarbaras departaments",
+      "ceb": "Departamento de Santa Bárbara (departamento)",
+      "zh": "聖巴巴拉省",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄝𑄢𑄴𑄝𑄢"
     },
-    "geo": {
-      "latitude": 15.1202795,
-      "longitude": -88.4016041,
-      "min_latitude": 14.5849759,
-      "min_longitude": -88.751592,
-      "max_latitude": 15.53789,
-      "max_longitude": -87.9959605
-    },
-    "name": "Santa Bárbara"
+    "comments": null
   },
   "VA": {
+    "name": "Valle",
+    "code": null,
     "unofficial_names": "Valle",
+    "geo": {
+      "latitude": 13.5782936,
+      "longitude": -87.5791287,
+      "min_latitude": 13.2487044,
+      "min_longitude": -87.8682931,
+      "max_latitude": 13.853783,
+      "max_longitude": -87.361198
+    },
     "translations": {
       "en": "Valle",
       "ar": "إدارة فالي",
@@ -912,20 +1020,27 @@
       "tr": "Valle Department",
       "uk": "Вальє",
       "ur": "والی ڈیپارٹمنٹ",
-      "vi": "Valle"
+      "vi": "Valle",
+      "lv": "Valjes departaments",
+      "ceb": "Departamento de Valle",
+      "zh": "山谷省",
+      "ccp": "𑄞𑄣𑄬",
+      "be": "Валье"
     },
-    "geo": {
-      "latitude": 13.5782936,
-      "longitude": -87.5791287,
-      "min_latitude": 13.2487044,
-      "min_longitude": -87.8682931,
-      "max_latitude": 13.853783,
-      "max_longitude": -87.361198
-    },
-    "name": "Valle"
+    "comments": null
   },
   "YO": {
+    "name": "Yoro",
+    "code": null,
     "unofficial_names": "Yoro",
+    "geo": {
+      "latitude": 15.2949679,
+      "longitude": -87.14228949999999,
+      "min_latitude": 14.7905061,
+      "min_longitude": -87.9417579,
+      "max_latitude": 15.729222,
+      "max_longitude": -86.2196529
+    },
     "translations": {
       "en": "Yoro",
       "ar": "يورو",
@@ -966,17 +1081,13 @@
       "tr": "Yoro Departmanı",
       "uk": "Йоро",
       "ur": "یورو ڈیپارٹمنٹ",
-      "vi": "Yoro"
+      "vi": "Yoro",
+      "lv": "Joro departaments",
+      "ceb": "Departamento de Yoro",
+      "zh": "約羅省",
+      "ccp": "𑄃𑄨𑄠𑄮𑄢𑄮"
     },
-    "geo": {
-      "latitude": 15.2949679,
-      "longitude": -87.14228949999999,
-      "min_latitude": 14.7905061,
-      "min_longitude": -87.9417579,
-      "max_latitude": 15.729222,
-      "max_longitude": -86.2196529
-    },
-    "name": "Yoro"
+    "comments": null
   }
 }
 

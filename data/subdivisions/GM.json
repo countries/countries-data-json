@@ -1,6 +1,16 @@
 {
   "B": {
+    "name": "Banjul",
+    "code": null,
     "unofficial_names": "Banjul",
+    "geo": {
+      "latitude": 13.453056,
+      "longitude": -16.5775,
+      "min_latitude": 13.4424473,
+      "min_longitude": -16.5906966,
+      "max_latitude": 13.4625844,
+      "max_longitude": -16.5703587
+    },
     "translations": {
       "en": "Banjul",
       "af": "Banjul",
@@ -58,22 +68,43 @@
       "uk": "Банжул",
       "ur": "بانجول",
       "vi": "Banjul",
-      "zh": "班竹"
+      "zh": "班竹",
+      "cy": "Banjul",
+      "ceb": "City of Banjul",
+      "sr_Latn": "Bandžul",
+      "yue_Hans": "班珠尔",
+      "jv": "Banjul",
+      "sq": "Banjul",
+      "ccp": "𑄝𑄚𑄴𑄎𑄪𑄣𑄴",
+      "ga": "Banjul",
+      "ky": "Банжул",
+      "ha": "Banjul",
+      "so": "Banjul",
+      "pa": "ਬੰਜੁਲ",
+      "kk": "Банжул",
+      "ml": "ബഞ്ജുൾ",
+      "yue": "班珠爾",
+      "yo": "Banjul",
+      "uz": "Banjul",
+      "bs": "Banjul",
+      "mk": "Банџул"
     },
-    "geo": {
-      "latitude": 13.453056,
-      "longitude": -16.5775,
-      "min_latitude": 13.4424473,
-      "min_longitude": -16.5906966,
-      "max_latitude": 13.4625844,
-      "max_longitude": -16.5703587
-    },
-    "name": "Banjul"
+    "comments": null
   },
   "L": {
+    "name": "Lower River",
+    "code": null,
     "unofficial_names": [
       "Lower River"
     ],
+    "geo": {
+      "latitude": 13.3553306,
+      "longitude": -15.92299,
+      "min_latitude": 13.237656,
+      "min_longitude": -16.2310245,
+      "max_latitude": 13.554205,
+      "max_longitude": -15.1831621
+    },
     "translations": {
       "en": "Lower River Division",
       "ar": "شعبة النهر السفلى",
@@ -113,20 +144,29 @@
       "th": "ส่วนแม่น้ำตอนล่าง",
       "tr": "Lower River Bölgesi",
       "ur": "لوئر ریور ڈویژن",
-      "vi": "Phân vùng Hạ nguồn Sông"
+      "vi": "Phân vùng Hạ nguồn Sông",
+      "lv": "Lejupupes daļa",
+      "ceb": "Lower River Division",
+      "sr_Latn": "Donja Reka",
+      "zh": "下河區",
+      "ccp": "𑄣𑄮𑄠𑄢𑄴 𑄢𑄨𑄞𑄢𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "uk": "Округ Нижня Річка",
+      "mk": "Долна Река"
     },
-    "geo": {
-      "latitude": 13.3553306,
-      "longitude": -15.92299,
-      "min_latitude": 13.237656,
-      "min_longitude": -16.2310245,
-      "max_latitude": 13.554205,
-      "max_longitude": -15.1831621
-    },
-    "name": "Lower River"
+    "comments": null
   },
   "M": {
+    "name": "MacCarthy Island",
+    "code": null,
     "unofficial_names": "MacCarthy Island",
+    "geo": {
+      "latitude": 13.5336211,
+      "longitude": -14.7695962,
+      "min_latitude": 13.5242635,
+      "min_longitude": -14.8049354,
+      "max_latitude": 13.5551381,
+      "max_longitude": -14.7130108
+    },
     "translations": {
       "en": "Central River Division",
       "ar": "شعبة النهر المركزي",
@@ -166,22 +206,30 @@
       "tr": "Central River Bölgesi",
       "uk": "Центральна Ріка",
       "ur": "سینٹرل ریور ڈویژن",
-      "vi": "Khu vực Trung lưu Sông"
+      "vi": "Khu vực Trung lưu Sông",
+      "lv": "Centrālā upes daļa",
+      "ceb": "Central River Division",
+      "sr_Latn": "Srednja Reka",
+      "zh": "中河區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄢𑄨𑄞𑄢𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "mk": "Средна Река"
     },
-    "geo": {
-      "latitude": 13.5336211,
-      "longitude": -14.7695962,
-      "min_latitude": 13.5242635,
-      "min_longitude": -14.8049354,
-      "max_latitude": 13.5551381,
-      "max_longitude": -14.7130108
-    },
-    "name": "MacCarthy Island"
+    "comments": null
   },
   "N": {
+    "name": "North Bank",
+    "code": null,
     "unofficial_names": [
       "North Bank"
     ],
+    "geo": {
+      "latitude": 13.5285436,
+      "longitude": -16.0169971,
+      "min_latitude": 13.3289472,
+      "min_longitude": -16.5492739,
+      "max_latitude": 13.644219,
+      "max_longitude": -15.309071
+    },
     "translations": {
       "en": "North Bank Division",
       "ar": "شعبة الضفة الشمالية",
@@ -220,22 +268,31 @@
       "th": "นอร์ท แบงค์ ดิวิชั่น",
       "tr": "North Bank Bölgesi",
       "ur": "نارتھ بینک ڈویژن",
-      "vi": "Phân vùng North Bank"
+      "vi": "Phân vùng North Bank",
+      "lv": "Ziemeļkrasta daļa",
+      "ceb": "North Bank Division",
+      "sr_Latn": "Severna Obala",
+      "zh": "北岸區",
+      "ccp": "𑄅𑄧𑄖𑄳𑄦𑄧𑄢𑄴 𑄝𑄳𑄠𑄁𑄇𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "uk": "Північний Берег",
+      "mk": "Северен Брег"
     },
-    "geo": {
-      "latitude": 13.5285436,
-      "longitude": -16.0169971,
-      "min_latitude": 13.3289472,
-      "min_longitude": -16.5492739,
-      "max_latitude": 13.644219,
-      "max_longitude": -15.309071
-    },
-    "name": "North Bank"
+    "comments": null
   },
   "U": {
+    "name": "Upper River",
+    "code": null,
     "unofficial_names": [
       "Upper River"
     ],
+    "geo": {
+      "latitude": 13.4257366,
+      "longitude": -14.0072348,
+      "min_latitude": 13.2156891,
+      "min_longitude": -14.5469159,
+      "max_latitude": 13.5734001,
+      "max_longitude": -13.7977931
+    },
     "translations": {
       "en": "Upper River Division",
       "ar": "شعبة النهر العليا",
@@ -275,22 +332,30 @@
       "tr": "Upper River Bölgesi",
       "uk": "Верхня Ріка",
       "ur": "اپر ریور ڈویژن",
-      "vi": "Phân vùng Thượng nguồn Sông"
+      "vi": "Phân vùng Thượng nguồn Sông",
+      "lv": "Augšteces daļa",
+      "ceb": "Upper River Division",
+      "sr_Latn": "Gornja Reka",
+      "zh": "上河區",
+      "ccp": "𑄃𑄛𑄢𑄴 𑄢𑄨𑄞𑄢𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "mk": "Горна Река"
     },
-    "geo": {
-      "latitude": 13.4257366,
-      "longitude": -14.0072348,
-      "min_latitude": 13.2156891,
-      "min_longitude": -14.5469159,
-      "max_latitude": 13.5734001,
-      "max_longitude": -13.7977931
-    },
-    "name": "Upper River"
+    "comments": null
   },
   "W": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": [
       "Western"
     ],
+    "geo": {
+      "latitude": 13.2229202,
+      "longitude": -16.5819789,
+      "min_latitude": 13.0668175,
+      "min_longitude": -16.8136312,
+      "max_latitude": 13.4525822,
+      "max_longitude": -15.8103241
+    },
     "translations": {
       "en": "West Coast Division",
       "ar": "قسم الساحل الغربي",
@@ -330,17 +395,15 @@
       "tr": "West Coast",
       "uk": "Західний берег",
       "ur": "ویسٹ کوسٹ ڈویژن",
-      "vi": "Phân Vùng West Coast"
+      "vi": "Phân Vùng West Coast",
+      "lv": "Rietumu daļa",
+      "ceb": "Western Division",
+      "sr_Latn": "Zapadni okrug",
+      "zh": "西部區",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄇𑄮𑄌𑄳𑄑𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
+      "mk": "Западен Округ"
     },
-    "geo": {
-      "latitude": 13.2229202,
-      "longitude": -16.5819789,
-      "min_latitude": 13.0668175,
-      "min_longitude": -16.8136312,
-      "max_latitude": 13.4525822,
-      "max_longitude": -15.8103241
-    },
-    "name": "Western"
+    "comments": null
   }
 }
 

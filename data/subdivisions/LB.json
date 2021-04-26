@@ -1,9 +1,19 @@
 {
   "AS": {
+    "name": "Loubnâne ech Chemâli",
+    "code": null,
     "unofficial_names": [
       "Ash Shamal",
       "North"
     ],
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "North",
       "ar": "الشمال",
@@ -46,19 +56,17 @@
       "uk": "Північний Ліван",
       "ur": "محافظہ شمالی",
       "vi": "Tỉnh Bắc",
-      "zh": "北部省"
+      "zh": "北部省",
+      "lv": "Ziemeļlibānas muhāfaza",
+      "ceb": "Mohafazat Liban-Nord",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴",
+      "ka": "ჩრდილოეთის მუჰაფაზა"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Loubnâne ech Chemâli"
+    "comments": null
   },
   "BA": {
+    "name": "Beirut",
+    "code": null,
     "unofficial_names": [
       "Bayrout",
       "Bayrut",
@@ -67,6 +75,14 @@
       "Beyrouth",
       "Beyrût"
     ],
+    "geo": {
+      "latitude": 33.8886289,
+      "longitude": 35.4954794,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Beirut",
       "ar": "بيروت",
@@ -107,22 +123,29 @@
       "tr": "Beyrut ili",
       "uk": "Бейрут (провінція)",
       "ur": "محافظہ بیروت",
-      "vi": "Beirut"
+      "vi": "Beirut",
+      "lv": "Beirūtas muhāfaza",
+      "ceb": "Beyrouth",
+      "zh": "贝鲁特省",
+      "ccp": "𑄝𑄰𑄢𑄪𑄖𑄴",
+      "ka": "ბეირუთის მუჰაფაზა"
     },
+    "comments": null
+  },
+  "BI": {
+    "name": "El Béqaa",
+    "code": null,
+    "unofficial_names": [
+      "Bekaa"
+    ],
     "geo": {
-      "latitude": 33.8886289,
-      "longitude": 35.4954794,
+      "latitude": 33.7616036,
+      "longitude": 35.8835437,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Beirut"
-  },
-  "BI": {
-    "unofficial_names": [
-      "Bekaa"
-    ],
     "translations": {
       "en": "Beqaa",
       "ar": "البقاع",
@@ -156,22 +179,28 @@
       "tr": "Bekaa ili",
       "uk": "Бекаа",
       "ur": "محافظہ بقاع",
-      "vi": "Beqaa"
+      "vi": "Beqaa",
+      "ceb": "Mohafazat Béqaa",
+      "zh": "貝卡省",
+      "ccp": "𑄝𑄬𑄇",
+      "ka": "ბექაას მუჰაფაზა"
     },
+    "comments": null
+  },
+  "JA": {
+    "name": "Loubnâne ej Jnoûbi",
+    "code": null,
+    "unofficial_names": [
+      "South"
+    ],
     "geo": {
-      "latitude": 33.7616036,
-      "longitude": 35.8835437,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "El Béqaa"
-  },
-  "JA": {
-    "unofficial_names": [
-      "South"
-    ],
     "translations": {
       "en": "South",
       "ar": "محافظة الجنوب",
@@ -204,22 +233,28 @@
       "tr": "Cenub ili",
       "uk": "Південний Ліван (провінція)",
       "ur": "محافظہ جنوبی",
-      "vi": "Tỉnh Nam, Liban"
+      "vi": "Tỉnh Nam, Liban",
+      "ceb": "Mohafazat Liban-Sud",
+      "zh": "南部省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴",
+      "ka": "სამხრეთის მუჰაფაზა"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Loubnâne ej Jnoûbi"
+    "comments": null
   },
   "JL": {
+    "name": "Jabal Loubnâne",
+    "code": null,
     "unofficial_names": [
       "Mount Lebanon"
     ],
+    "geo": {
+      "latitude": 33.9046635,
+      "longitude": 35.6969984,
+      "min_latitude": 33.4916836,
+      "min_longitude": 35.3858701,
+      "max_latitude": 34.2113502,
+      "max_longitude": 36.0150637
+    },
     "translations": {
       "en": "Mount Lebanon",
       "ar": "جبل لبنان",
@@ -261,22 +296,28 @@
       "tr": "Cebel-i Lübnan İli",
       "uk": "Гірський Ліван",
       "ur": "محافظہ جبل لبنان",
-      "vi": "Núi Liban"
+      "vi": "Núi Liban",
+      "lv": "Kalnu Libānas muhāfaza",
+      "zh": "黎巴嫩山省",
+      "ccp": "𑄟𑄧𑄅𑄪𑄚𑄴𑄑𑄴 𑄣𑄬𑄝𑄚𑄧𑄚𑄴",
+      "ka": "მთიანი ლიბანის მუჰაფაზა"
     },
-    "geo": {
-      "latitude": 33.9046635,
-      "longitude": 35.6969984,
-      "min_latitude": 33.4916836,
-      "min_longitude": 35.3858701,
-      "max_latitude": 34.2113502,
-      "max_longitude": 36.0150637
-    },
-    "name": "Jabal Loubnâne"
+    "comments": null
   },
   "NA": {
+    "name": "Nabatîyé",
+    "code": null,
     "unofficial_names": [
       "Nabatiyeh"
     ],
+    "geo": {
+      "latitude": 33.285507,
+      "longitude": 35.5000999,
+      "min_latitude": 33.0549366,
+      "min_longitude": 35.2418835,
+      "max_latitude": 33.5112517,
+      "max_longitude": 35.86385569999999
+    },
     "translations": {
       "en": "Nabatieh",
       "ar": "النبطية",
@@ -320,36 +361,77 @@
       "tr": "Nebatiye ili",
       "uk": "Набатія (провінція)",
       "ur": "محافظہ نبطیہ",
-      "vi": "Nabatieh"
+      "vi": "Nabatieh",
+      "lv": "Nabatijas muhāfaza",
+      "ceb": "Mohafazat Nabatîyé",
+      "zh": "納巴泰省",
+      "ccp": "𑄚𑄧𑄝𑄧𑄑𑄨𑄠𑄦𑄴",
+      "ka": "ნაბათიეს მუჰაფაზა"
     },
-    "geo": {
-      "latitude": 33.285507,
-      "longitude": 35.5000999,
-      "min_latitude": 33.0549366,
-      "min_longitude": 35.2418835,
-      "max_latitude": 33.5112517,
-      "max_longitude": 35.86385569999999
-    },
-    "name": "Nabatîyé"
+    "comments": null
   },
   "AK": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة عكار",
       "de": "Gouvernement Akkar",
       "en": "Akkar",
       "es": "Gobernación de Akkar",
-      "hu": "Akkár kormányzóság"
-    }
+      "hu": "Akkár kormányzóság",
+      "ceb": "Mohafazat Aakkâr",
+      "zh": "阿卡省",
+      "sv": "Mohafazat Aakkâr",
+      "ja": "アッカール県",
+      "ru": "Аккар",
+      "ccp": "𑄃𑄧𑄇𑄴𑄇𑄧𑄢𑄴",
+      "ka": "აკარის მუჰაფაზა",
+      "ko": "아카르 주",
+      "he": "מחוז עכאר",
+      "it": "Governatorato di Akkar"
+    },
+    "comments": null
   },
   "BH": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة بعلبك الهرمل",
       "de": "Gouvernement Baalbek-Hermel",
       "en": "Baalbek-Hermel",
       "es": "Gobernación de Baalbek - Hermel",
       "he": "מחוז בעלבכ-הרמל",
-      "hu": "Baalbek-Hermel kormányzóság"
-    }
+      "hu": "Baalbek-Hermel kormányzóság",
+      "ceb": "Mohafazat Baalbek-Hermel",
+      "ur": "محافظہ بعلبک الہرمل",
+      "zh": "巴勒貝克-希爾米勒省",
+      "sv": "Mohafazat Baalbek-Hermel",
+      "ru": "Баальбек-Хирмиль",
+      "ccp": "𑄝𑄧𑄣𑄴𑄝𑄬𑄇𑄴-𑄦𑄢𑄴𑄟𑄬𑄣𑄴",
+      "ka": "ბაალბექ-ჰერმელის მუჰაფაზა",
+      "fr": "gouvernorat de Baalbek-Hermel",
+      "ko": "바알베크헤르멜 주",
+      "it": "Governatorato di Baalbek-Hermel"
+    },
+    "comments": null
   }
 }
 

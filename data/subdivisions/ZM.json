@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": "Western",
+    "geo": {
+      "latitude": -15.9454906,
+      "longitude": 23.3823545,
+      "min_latitude": -17.6392799,
+      "min_longitude": 21.999371,
+      "max_latitude": -13.709041,
+      "max_longitude": 25.52071
+    },
     "translations": {
       "en": "Western",
       "af": "Westelike Provinsie",
@@ -43,20 +53,26 @@
       "uk": "Західна провінція",
       "ur": "مغربی صوبہ، زیمبیا",
       "vi": "Tỉnh Phía Tây",
-      "zh": "西方省"
+      "zh": "西方省",
+      "lv": "Rietumu province",
+      "ceb": "Western Province (lalawigan sa Zambia)",
+      "ccp": "Western",
+      "hy": "Արևմտյան պրովինցիա"
     },
-    "geo": {
-      "latitude": -15.9454906,
-      "longitude": 23.3823545,
-      "min_latitude": -17.6392799,
-      "min_longitude": 21.999371,
-      "max_latitude": -13.709041,
-      "max_longitude": 25.52071
-    },
-    "name": "Western"
+    "comments": null
   },
   "02": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": "Central",
+    "geo": {
+      "latitude": -14.3112263,
+      "longitude": 28.299435,
+      "min_latitude": -15.7121141,
+      "min_longitude": 25.350383,
+      "max_latitude": -12.0036589,
+      "max_longitude": 31.4494591
+    },
     "translations": {
       "en": "Central",
       "af": "Sentrale Provinsie (Zambië)",
@@ -99,20 +115,27 @@
       "tr": "Merkez Bölgesi",
       "uk": "Центральна провінція",
       "ur": "وسطی صوبہ، زیمبیا",
-      "vi": "Tỉnh Miền Trung"
+      "vi": "Tỉnh Miền Trung",
+      "lv": "Centrālā province",
+      "ceb": "Central Province",
+      "zh": "中央省 (赞比亚)",
+      "ccp": "Central",
+      "cs": "Centrální provincie (Zambie)"
     },
-    "geo": {
-      "latitude": -14.3112263,
-      "longitude": 28.299435,
-      "min_latitude": -15.7121141,
-      "min_longitude": 25.350383,
-      "max_latitude": -12.0036589,
-      "max_longitude": 31.4494591
-    },
-    "name": "Central"
+    "comments": null
   },
   "03": {
+    "name": "Eastern",
+    "code": null,
     "unofficial_names": "Eastern",
+    "geo": {
+      "latitude": -13.8056187,
+      "longitude": 31.99280779999999,
+      "min_latitude": -14.997233,
+      "min_longitude": 29.98652989999999,
+      "max_latitude": -10.3251301,
+      "max_longitude": 33.6895011
+    },
     "translations": {
       "en": "Eastern",
       "af": "Oostelike Provinsie",
@@ -153,20 +176,26 @@
       "tr": "Doğu Bölgesi",
       "uk": "Східна провінція",
       "ur": "مشرقی صوبہ، زیمبیا",
-      "vi": "Tỉnh Phía Đông"
+      "vi": "Tỉnh Phía Đông",
+      "lv": "Austrumu province",
+      "ceb": "Eastern Province (lalawigan sa Zambia)",
+      "zh": "东方省",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬"
     },
-    "geo": {
-      "latitude": -13.8056187,
-      "longitude": 31.99280779999999,
-      "min_latitude": -14.997233,
-      "min_longitude": 29.98652989999999,
-      "max_latitude": -10.3251301,
-      "max_longitude": 33.6895011
-    },
-    "name": "Eastern"
+    "comments": null
   },
   "04": {
+    "name": "Luapula",
+    "code": null,
     "unofficial_names": "Luapula",
+    "geo": {
+      "latitude": -11.564831,
+      "longitude": 29.0459927,
+      "min_latitude": -12.471966,
+      "min_longitude": 28.3809699,
+      "max_latitude": -8.375692899999999,
+      "max_longitude": 30.46612799999999
+    },
     "translations": {
       "en": "Luapula",
       "af": "Luapula",
@@ -207,20 +236,27 @@
       "tr": "Luapula Bölgesi",
       "uk": "Луапула",
       "ur": "لواپولا صوبہ",
-      "vi": "Tỉnh Luapula"
+      "vi": "Tỉnh Luapula",
+      "lv": "Luapalas province",
+      "ceb": "Luapula Province",
+      "zh": "卢阿普拉省",
+      "ccp": "𑄣𑄪𑄠𑄛𑄪𑄣",
+      "ca": "província de Luapula"
     },
-    "geo": {
-      "latitude": -11.564831,
-      "longitude": 29.0459927,
-      "min_latitude": -12.471966,
-      "min_longitude": 28.3809699,
-      "max_latitude": -8.375692899999999,
-      "max_longitude": 30.46612799999999
-    },
-    "name": "Luapula"
+    "comments": null
   },
   "05": {
+    "name": "Northern",
+    "code": null,
     "unofficial_names": "Northern",
+    "geo": {
+      "latitude": -9.7670177,
+      "longitude": 30.8958242,
+      "min_latitude": -13.4275721,
+      "min_longitude": 29.10338,
+      "max_latitude": -8.251887,
+      "max_longitude": 33.705704
+    },
     "translations": {
       "en": "Northern",
       "af": "Noordelike Provinsie",
@@ -260,20 +296,26 @@
       "tr": "Kuzey Bölgesi",
       "uk": "Північна провінція",
       "ur": "شمالی صوبہ، زیمبیا",
-      "vi": "Tỉnh Phía Bắc"
+      "vi": "Tỉnh Phía Bắc",
+      "lv": "Ziemeļu province",
+      "ceb": "Northern Province",
+      "zh": "北方省",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬"
     },
-    "geo": {
-      "latitude": -9.7670177,
-      "longitude": 30.8958242,
-      "min_latitude": -13.4275721,
-      "min_longitude": 29.10338,
-      "max_latitude": -8.251887,
-      "max_longitude": 33.705704
-    },
-    "name": "Northern"
+    "comments": null
   },
   "06": {
+    "name": "North-Western",
+    "code": null,
     "unofficial_names": "North-Western",
+    "geo": {
+      "latitude": -13.0050258,
+      "longitude": 24.9042208,
+      "min_latitude": -14.72759,
+      "min_longitude": 21.999899,
+      "max_latitude": -10.885152,
+      "max_longitude": 27.6016581
+    },
     "translations": {
       "en": "North-Western",
       "af": "Noordwestelike Provinsie",
@@ -314,20 +356,28 @@
       "tr": "Kuzeybatı Bölgesi",
       "uk": "Північно-Західна провінція",
       "ur": "شمال مغربی صوبہ، زیمبیا",
-      "vi": "Tỉnh Tây Bắc"
+      "vi": "Tỉnh Tây Bắc",
+      "lv": "Ziemeļrietumu province",
+      "ceb": "North-Western Province",
+      "zh": "西北省",
+      "yue_Hans": "西北省",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴-𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "yue": "西北省"
     },
-    "geo": {
-      "latitude": -13.0050258,
-      "longitude": 24.9042208,
-      "min_latitude": -14.72759,
-      "min_longitude": 21.999899,
-      "max_latitude": -10.885152,
-      "max_longitude": 27.6016581
-    },
-    "name": "North-Western"
+    "comments": null
   },
   "07": {
+    "name": "Southern",
+    "code": null,
     "unofficial_names": "Southern",
+    "geo": {
+      "latitude": -16.9620634,
+      "longitude": 26.419389,
+      "min_latitude": -18.079473,
+      "min_longitude": 24.9715499,
+      "max_latitude": -15.293982,
+      "max_longitude": 28.912453
+    },
     "translations": {
       "en": "Southern",
       "af": "Suidelike Provinsie",
@@ -369,20 +419,26 @@
       "tr": "Güney Bölgesi",
       "uk": "Південна провінція",
       "ur": "جنوبی صوبہ، زیمبیا",
-      "vi": "Tỉnh Phía Nam"
+      "vi": "Tỉnh Phía Nam",
+      "lv": "Dienvidu province",
+      "ceb": "Southern Province",
+      "zh": "南部省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬"
     },
-    "geo": {
-      "latitude": -16.9620634,
-      "longitude": 26.419389,
-      "min_latitude": -18.079473,
-      "min_longitude": 24.9715499,
-      "max_latitude": -15.293982,
-      "max_longitude": 28.912453
-    },
-    "name": "Southern"
+    "comments": null
   },
   "08": {
+    "name": "Copperbelt",
+    "code": null,
     "unofficial_names": "Copperbelt",
+    "geo": {
+      "latitude": -13.0570073,
+      "longitude": 27.5495846,
+      "min_latitude": -13.9245529,
+      "min_longitude": 26.801156,
+      "max_latitude": -12.218456,
+      "max_longitude": 29.0201341
+    },
     "translations": {
       "en": "Copperbelt",
       "af": "Koperstreek",
@@ -425,20 +481,27 @@
       "tr": "Copperbelt Bölgesi",
       "uk": "Коппербелт",
       "ur": "کاپربیلٹ صوبہ",
-      "vi": "Tỉnh Copperbelt"
+      "vi": "Tỉnh Copperbelt",
+      "lv": "Koperbeltas province",
+      "ceb": "Copperbelt Province",
+      "zh": "铜带省",
+      "ccp": "𑄇𑄮𑄛𑄬𑄢𑄴𑄝𑄬𑄣𑄴𑄑𑄴",
+      "ca": "província de Copperbelt"
     },
-    "geo": {
-      "latitude": -13.0570073,
-      "longitude": 27.5495846,
-      "min_latitude": -13.9245529,
-      "min_longitude": 26.801156,
-      "max_latitude": -12.218456,
-      "max_longitude": 29.0201341
-    },
-    "name": "Copperbelt"
+    "comments": null
   },
   "09": {
+    "name": "Lusaka",
+    "code": null,
     "unofficial_names": "Lusaka",
+    "geo": {
+      "latitude": -15.416667,
+      "longitude": 28.283333,
+      "min_latitude": -15.5344065,
+      "min_longitude": 28.1987555,
+      "max_latitude": -15.2992532,
+      "max_longitude": 28.4887506
+    },
     "translations": {
       "en": "Lusaka",
       "af": "Lusaka",
@@ -478,19 +541,26 @@
       "tr": "Lusaka Bölgesi",
       "uk": "Лусака",
       "ur": "لوساکا صوبہ",
-      "vi": "Tỉnh Lusaka"
+      "vi": "Tỉnh Lusaka",
+      "lv": "Lusakas province",
+      "ceb": "Lusaka Province",
+      "zh": "卢萨卡省",
+      "ccp": "𑄣𑄪𑄥𑄇"
     },
-    "geo": {
-      "latitude": -15.416667,
-      "longitude": 28.283333,
-      "min_latitude": -15.5344065,
-      "min_longitude": 28.1987555,
-      "max_latitude": -15.2992532,
-      "max_longitude": 28.4887506
-    },
-    "name": "Lusaka"
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة موتشينغا",
       "bn": "মোসিঙ্গা প্রদেশ",
@@ -524,8 +594,14 @@
       "tr": "Muchinga Bölgesi",
       "uk": "Мучинга",
       "ur": "موچنگا صوبہ",
-      "vi": "Tỉnh Muchinga"
-    }
+      "vi": "Tỉnh Muchinga",
+      "lv": "Mučingas province",
+      "ceb": "Muchinga Province",
+      "lt": "Mučingos provincija",
+      "zh": "穆欽加省",
+      "ccp": "𑄟𑄪𑄌𑄨𑄁𑄉"
+    },
+    "comments": null
   }
 }
 

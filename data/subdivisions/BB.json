@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Christ Church",
+    "code": null,
     "unofficial_names": "Christ Church",
+    "geo": {
+      "latitude": 13.083735,
+      "longitude": -59.52967419999999,
+      "min_latitude": 13.0449995,
+      "min_longitude": -59.6110459,
+      "max_latitude": 13.125974,
+      "max_longitude": -59.4719928
+    },
     "translations": {
       "en": "Christ Church",
       "ar": "كنيسة المسيح",
@@ -37,20 +47,26 @@
       "uk": "Крайст-Черч",
       "ur": "کرائسٹ چرچ، بارباڈوس",
       "vi": "Christ Church",
-      "zh": "基督城教區"
+      "zh": "基督城教區",
+      "ceb": "Christ Church",
+      "bn": "\"খ্রীষ্ট চার্চ",
+      "ccp": "𑄇𑄳𑄢𑄨𑄥𑄳𑄑𑄴 𑄌𑄢𑄴𑄌𑄴",
+      "ca": "Christ Church"
     },
-    "geo": {
-      "latitude": 13.083735,
-      "longitude": -59.52967419999999,
-      "min_latitude": 13.0449995,
-      "min_longitude": -59.6110459,
-      "max_latitude": 13.125974,
-      "max_longitude": -59.4719928
-    },
-    "name": "Christ Church"
+    "comments": null
   },
   "02": {
+    "name": "Saint Andrew",
+    "code": null,
     "unofficial_names": "Saint Andrew",
+    "geo": {
+      "latitude": 13.2540083,
+      "longitude": -59.5757599,
+      "min_latitude": 13.204939,
+      "min_longitude": -59.60091989999999,
+      "max_latitude": 13.293989,
+      "max_longitude": -59.5420721
+    },
     "translations": {
       "en": "Saint Andrew",
       "ar": "سانت أندرو",
@@ -85,20 +101,29 @@
       "th": "เซน แอนดริว",
       "tr": "Saint Andrew",
       "ur": "سینٹ اینڈریو، بارباڈوس",
-      "vi": "Saint Andrew"
+      "vi": "Saint Andrew",
+      "lv": "Sentendrū pagasts",
+      "ceb": "Saint Andrew",
+      "zh": "聖安德魯區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄃𑄬𑄚𑄴𑄓𑄳𑄢𑄪",
+      "he": "סנט אנדרו",
+      "uk": "Парафія Сент-Андрю",
+      "ca": "Saint Andrew"
     },
-    "geo": {
-      "latitude": 13.2540083,
-      "longitude": -59.5757599,
-      "min_latitude": 13.204939,
-      "min_longitude": -59.60091989999999,
-      "max_latitude": 13.293989,
-      "max_longitude": -59.5420721
-    },
-    "name": "Saint Andrew"
+    "comments": null
   },
   "03": {
+    "name": "Saint George",
+    "code": null,
     "unofficial_names": "Saint George",
+    "geo": {
+      "latitude": 13.148292,
+      "longitude": -59.55271499999999,
+      "min_latitude": 13.099258,
+      "min_longitude": -59.5823159,
+      "max_latitude": 13.1815211,
+      "max_longitude": -59.50622000000001
+    },
     "translations": {
       "en": "Saint George",
       "ar": "سانت جورج، بربادوس",
@@ -134,20 +159,28 @@
       "th": "เซนต์จอร์จ",
       "tr": "Saint George",
       "ur": "سینٹ جارج، بارباڈوس",
-      "vi": "Saint George"
+      "vi": "Saint George",
+      "ceb": "Saint George",
+      "zh": "聖喬治教區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄢𑄳𑄎𑄴",
+      "uk": "Парафія Сент-Джордж",
+      "ca": "Saint George",
+      "mk": "Сент Џорџ"
     },
-    "geo": {
-      "latitude": 13.148292,
-      "longitude": -59.55271499999999,
-      "min_latitude": 13.099258,
-      "min_longitude": -59.5823159,
-      "max_latitude": 13.1815211,
-      "max_longitude": -59.50622000000001
-    },
-    "name": "Saint George"
+    "comments": null
   },
   "04": {
+    "name": "Saint James",
+    "code": null,
     "unofficial_names": "Saint James",
+    "geo": {
+      "latitude": 13.1939911,
+      "longitude": -59.6276259,
+      "min_latitude": 13.1381931,
+      "min_longitude": -59.64361599999999,
+      "max_latitude": 13.237683,
+      "max_longitude": -59.598465
+    },
     "translations": {
       "en": "Saint James",
       "ar": "سانت جيمس، بربادوس",
@@ -183,20 +216,28 @@
       "th": "เซนต์เจมส์,บาร์บาดอส",
       "tr": "Saint James, Barbados",
       "ur": "سینٹ جیمز، بارباڈوس",
-      "vi": "Saint James, Barbados"
+      "vi": "Saint James, Barbados",
+      "lv": "Sentdžeimsa, Barbadosa",
+      "ceb": "Saint James (parokya)",
+      "zh": "聖詹姆斯教區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄬𑄟𑄴𑄥𑄴",
+      "uk": "Парафія Сент-Джеймс",
+      "ca": "Saint James"
     },
-    "geo": {
-      "latitude": 13.1939911,
-      "longitude": -59.6276259,
-      "min_latitude": 13.1381931,
-      "min_longitude": -59.64361599999999,
-      "max_latitude": 13.237683,
-      "max_longitude": -59.598465
-    },
-    "name": "Saint James"
+    "comments": null
   },
   "05": {
+    "name": "Saint John",
+    "code": null,
     "unofficial_names": "Saint John",
+    "geo": {
+      "latitude": 13.1833369,
+      "longitude": -59.5066376,
+      "min_latitude": 13.1376361,
+      "min_longitude": -59.54018499999999,
+      "max_latitude": 13.210594,
+      "max_longitude": -59.45831699999999
+    },
     "translations": {
       "en": "Saint John",
       "ar": "سانت جون، بربادوس",
@@ -232,20 +273,27 @@
       "th": "เซนต์จอห์น",
       "tr": "Saint John",
       "ur": "سینٹ جان، بارباڈوس",
-      "vi": "Saint John"
+      "vi": "Saint John",
+      "lv": "Sendžona",
+      "ceb": "Saint John",
+      "zh": "聖約翰教區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄚𑄴",
+      "uk": "Парафія Сент-Джон"
     },
-    "geo": {
-      "latitude": 13.1833369,
-      "longitude": -59.5066376,
-      "min_latitude": 13.1376361,
-      "min_longitude": -59.54018499999999,
-      "max_latitude": 13.210594,
-      "max_longitude": -59.45831699999999
-    },
-    "name": "Saint John"
+    "comments": null
   },
   "06": {
+    "name": "Saint Joseph",
+    "code": null,
     "unofficial_names": "Saint Joseph",
+    "geo": {
+      "latitude": 13.2040088,
+      "longitude": -59.54695439999999,
+      "min_latitude": 13.169218,
+      "min_longitude": -59.575138,
+      "max_latitude": 13.235171,
+      "max_longitude": -59.51017799999999
+    },
     "translations": {
       "en": "Saint Joseph",
       "ar": "سانت جوزيف، بربادوس",
@@ -280,20 +328,28 @@
       "th": "เซนต์ โจเซฟ",
       "tr": "Sain Joseph, Barbados",
       "ur": "سینٹ جوسف، بارباڈوس",
-      "vi": "Saint Joseph, Barbados"
+      "vi": "Saint Joseph, Barbados",
+      "lv": "Sentdžozefa pagasts, Barbadosa",
+      "ceb": "Saint Joseph",
+      "zh": "聖約瑟夫區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄎𑄧𑄥𑄬𑄛𑄴",
+      "uk": "Парафія Сент-Джозеф",
+      "ca": "Saint Joseph"
     },
-    "geo": {
-      "latitude": 13.2040088,
-      "longitude": -59.54695439999999,
-      "min_latitude": 13.169218,
-      "min_longitude": -59.575138,
-      "max_latitude": 13.235171,
-      "max_longitude": -59.51017799999999
-    },
-    "name": "Saint Joseph"
+    "comments": null
   },
   "07": {
+    "name": "Saint Lucy",
+    "code": null,
     "unofficial_names": "Saint Lucy",
+    "geo": {
+      "latitude": 13.3011778,
+      "longitude": -59.621862,
+      "min_latitude": 13.2740421,
+      "min_longitude": -59.650559,
+      "max_latitude": 13.3350319,
+      "max_longitude": -59.57436509999999
+    },
     "translations": {
       "en": "Saint Lucy",
       "ar": "سانت لوسي",
@@ -329,20 +385,27 @@
       "tr": "Saint Lucy",
       "uk": "Сент-Люсі",
       "ur": "سینٹ لسی، بارباڈوس",
-      "vi": "Saint Lucy"
+      "vi": "Saint Lucy",
+      "lv": "Sentlūsijas pagasts",
+      "ceb": "Saint Lucy",
+      "zh": "聖露西教區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄣𑄪𑄌𑄨",
+      "ca": "Saint Lucy"
     },
-    "geo": {
-      "latitude": 13.3011778,
-      "longitude": -59.621862,
-      "min_latitude": 13.2740421,
-      "min_longitude": -59.650559,
-      "max_latitude": 13.3350319,
-      "max_longitude": -59.57436509999999
-    },
-    "name": "Saint Lucy"
+    "comments": null
   },
   "08": {
+    "name": "Saint Michael",
+    "code": null,
     "unofficial_names": "Saint Michael",
+    "geo": {
+      "latitude": 13.1132219,
+      "longitude": -59.59880889999999,
+      "min_latitude": 13.0784939,
+      "min_longitude": -59.63719399999999,
+      "max_latitude": 13.158466,
+      "max_longitude": -59.567387
+    },
     "translations": {
       "en": "Saint Michael",
       "ar": "سانت مايكل",
@@ -381,20 +444,31 @@
       "th": "เซนต์ไมเคิล",
       "tr": "Saint Michael",
       "ur": "سینٹ مائیکل، بارباڈوس",
-      "vi": "Saint Michael"
+      "vi": "Saint Michael",
+      "lv": "Sentmišelas pagasts",
+      "cy": "Saint Michael",
+      "ceb": "Saint Michael (parokya)",
+      "zh": "聖邁克爾區",
+      "sq": "Saint Michael",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄟𑄭𑄇𑄬𑄣𑄴",
+      "uk": "Парафія Сент-Майкл (Сент-МІшель)",
+      "ca": "Saint Michael",
+      "be": "Сен-Мішэль"
     },
-    "geo": {
-      "latitude": 13.1132219,
-      "longitude": -59.59880889999999,
-      "min_latitude": 13.0784939,
-      "min_longitude": -59.63719399999999,
-      "max_latitude": 13.158466,
-      "max_longitude": -59.567387
-    },
-    "name": "Saint Michael"
+    "comments": null
   },
   "09": {
+    "name": "Saint Peter",
+    "code": null,
     "unofficial_names": "Saint Peter",
+    "geo": {
+      "latitude": 13.2600459,
+      "longitude": -59.621862,
+      "min_latitude": 13.2257179,
+      "min_longitude": -59.6469631,
+      "max_latitude": 13.299063,
+      "max_longitude": -59.572906
+    },
     "translations": {
       "en": "Saint Peter",
       "ar": "سانت بيتر، بربادوس",
@@ -430,20 +504,28 @@
       "tr": "Saint Peter, Barbados",
       "uk": "Сент-Пітер",
       "ur": "سینٹ پیٹر، بارباڈوس",
-      "vi": "Saint Peter, Barbados"
+      "vi": "Saint Peter, Barbados",
+      "lv": "Sentpītera, Barbadosa",
+      "ceb": "Saint Peter (parokya sa Barbados)",
+      "zh": "聖彼得教區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄛𑄨𑄑𑄢𑄴",
+      "ca": "Saint Peter",
+      "be": "Сент-Пітэр"
     },
-    "geo": {
-      "latitude": 13.2600459,
-      "longitude": -59.621862,
-      "min_latitude": 13.2257179,
-      "min_longitude": -59.6469631,
-      "max_latitude": 13.299063,
-      "max_longitude": -59.572906
-    },
-    "name": "Saint Peter"
+    "comments": null
   },
   "10": {
+    "name": "Saint Philip",
+    "code": null,
     "unofficial_names": "Saint Philip",
+    "geo": {
+      "latitude": 13.1362782,
+      "longitude": -59.4605768,
+      "min_latitude": 13.0789943,
+      "min_longitude": -59.51082299999999,
+      "max_latitude": 13.1829601,
+      "max_longitude": -59.4210709
+    },
     "translations": {
       "en": "Saint Philip",
       "ar": "سانت فيليب، باربادوس",
@@ -480,20 +562,26 @@
       "tr": "Sain Philip",
       "uk": "Сент-Філіп",
       "ur": "سینٹ فلپ، بارباڈوس",
-      "vi": "Saint Philip"
+      "vi": "Saint Philip",
+      "ceb": "Saint Philip (parokya sa Barbados)",
+      "zh": "聖菲利普區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄜𑄨𑄣𑄨𑄛𑄴",
+      "ca": "Saint Philip"
     },
-    "geo": {
-      "latitude": 13.1362782,
-      "longitude": -59.4605768,
-      "min_latitude": 13.0789943,
-      "min_longitude": -59.51082299999999,
-      "max_latitude": 13.1829601,
-      "max_longitude": -59.4210709
-    },
-    "name": "Saint Philip"
+    "comments": null
   },
   "11": {
+    "name": "Saint Thomas",
+    "code": null,
     "unofficial_names": "Saint Thomas",
+    "geo": {
+      "latitude": 13.1748291,
+      "longitude": -59.59880889999999,
+      "min_latitude": 13.1466249,
+      "min_longitude": -59.617723,
+      "max_latitude": 13.216692,
+      "max_longitude": -59.55319399999999
+    },
     "translations": {
       "en": "Saint Thomas",
       "ar": "سانت توماس، بربادوس",
@@ -527,17 +615,16 @@
       "th": "เซนต์โทมัส",
       "tr": "Saint Thomas",
       "ur": "سینٹ تھامس، بارباڈوس",
-      "vi": "Saint Thomas"
+      "vi": "Saint Thomas",
+      "lv": "Senttomasa",
+      "ceb": "Saint Thomas",
+      "zh": "聖托馬斯區",
+      "ccp": "𑄥𑄬𑄚𑄳𑄑𑄴 𑄗𑄧𑄟𑄌𑄴",
+      "ko": "세인트토머스 교구",
+      "uk": "Парафія Сент-Томас",
+      "ca": "Saint Thomas"
     },
-    "geo": {
-      "latitude": 13.1748291,
-      "longitude": -59.59880889999999,
-      "min_latitude": 13.1466249,
-      "min_longitude": -59.617723,
-      "max_latitude": 13.216692,
-      "max_longitude": -59.55319399999999
-    },
-    "name": "Saint Thomas"
+    "comments": null
   }
 }
 

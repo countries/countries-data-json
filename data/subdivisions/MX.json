@@ -1,6 +1,16 @@
 {
   "AGU": {
+    "name": "Aguascalientes",
+    "code": null,
     "unofficial_names": "Aguascalientes",
+    "geo": {
+      "latitude": 21.8852562,
+      "longitude": -102.2915677,
+      "min_latitude": 21.8200957,
+      "min_longitude": -102.3555606,
+      "max_latitude": 21.9580787,
+      "max_longitude": -102.2284165
+    },
     "translations": {
       "en": "Aguascalientes",
       "ar": "ولاية اغواسكالينتس",
@@ -53,20 +63,33 @@
       "uk": "Аґуаскальєнтес",
       "ur": "آگوسکالینٹس",
       "vi": "Aguascalientes",
-      "zh": "阿瓜斯卡連特斯州"
+      "zh": "阿瓜斯卡連特斯州",
+      "cy": "Aguascalientes",
+      "ceb": "Estado de Aguascalientes",
+      "sr_Latn": "Agvaskalijentes",
+      "yue_Hans": "阿瓜斯卡连特斯州",
+      "ccp": "𑄃𑄉𑄪𑄠𑄌𑄴𑄇𑄣𑄨𑄠𑄬𑄚𑄴𑄑𑄨𑄌𑄴",
+      "ga": "Aguascalientes",
+      "pa": "ਆਗਵਾਸਕਾਲੀਐਂਤੇਸ",
+      "yue": "阿瓜斯卡連特斯州",
+      "uz": "Aguaskalentes",
+      "bs": "Aguascalientes",
+      "mk": "Агваскалиентес"
     },
-    "geo": {
-      "latitude": 21.8852562,
-      "longitude": -102.2915677,
-      "min_latitude": 21.8200957,
-      "min_longitude": -102.3555606,
-      "max_latitude": 21.9580787,
-      "max_longitude": -102.2284165
-    },
-    "name": "Aguascalientes"
+    "comments": null
   },
   "BCN": {
+    "name": "Baja California",
+    "code": null,
     "unofficial_names": "Baja California",
+    "geo": {
+      "latitude": 30.8406338,
+      "longitude": -115.2837585,
+      "min_latitude": 27.9999998,
+      "min_longitude": -118.36443,
+      "max_latitude": 32.7186534,
+      "max_longitude": -112.7555545
+    },
     "translations": {
       "en": "Baja California",
       "af": "Baja California",
@@ -120,20 +143,37 @@
       "tr": "Aşağı Kaliforniya",
       "uk": "Баха-Каліфорнія",
       "ur": "باجا کیلیفورنیا",
-      "vi": "Baja California"
+      "vi": "Baja California",
+      "cy": "Baja California",
+      "ceb": "Estado de Baja California",
+      "sr_Latn": "Donja Kalifornija",
+      "zh": "下加利福尼亞州",
+      "yue_Hans": "下加利福尼亚州",
+      "sq": "Baja California",
+      "ccp": "𑄝𑄎 𑄇𑄳𑄠𑄣𑄨𑄜𑄮𑄢𑄴𑄚𑄨𑄠",
+      "ga": "Baja California",
+      "pa": "ਬਾਖ਼ਾ ਕਾਲੀਫ਼ੋਰਨੀਆ",
+      "kk": "Төменгі Калифорния",
+      "ml": "ബാഹാ കാലിഫോർണിയ",
+      "yue": "下加利福尼亞州",
+      "uz": "Quyi shimoliy Kaliforniya",
+      "bs": "Donja Kalifornija",
+      "mk": "Долна Калифорнија"
     },
-    "geo": {
-      "latitude": 30.8406338,
-      "longitude": -115.2837585,
-      "min_latitude": 27.9999998,
-      "min_longitude": -118.36443,
-      "max_latitude": 32.7186534,
-      "max_longitude": -112.7555545
-    },
-    "name": "Baja California"
+    "comments": null
   },
   "BCS": {
+    "name": "Baja California Sur",
+    "code": null,
     "unofficial_names": "Baja California Sur",
+    "geo": {
+      "latitude": 26.0444446,
+      "longitude": -111.6660725,
+      "min_latitude": 22.8722626,
+      "min_longitude": -115.2137241,
+      "max_latitude": 28.0000017,
+      "max_longitude": -109.4134348
+    },
     "translations": {
       "en": "Baja California Sur",
       "af": "Baja California Sur",
@@ -186,20 +226,33 @@
       "tr": "Güney Aşağı Kaliforniya",
       "uk": "Баха-Каліфорнія-Сюр",
       "ur": "باجا کیلیفورنیا سر",
-      "vi": "Baja California Sur"
+      "vi": "Baja California Sur",
+      "cy": "Baja California Sur",
+      "ceb": "Estado de Baja California Sur",
+      "sr_Latn": "Južna Donja Kalifornija",
+      "zh": "南下加利福尼亞州",
+      "yue_Hans": "南下加利福尼亚州",
+      "ccp": "𑄝𑄎 𑄇𑄳𑄠𑄣𑄨𑄜𑄮𑄢𑄴𑄚𑄨𑄠 𑄥𑄢𑄴",
+      "ga": "Baja California Sur",
+      "kk": "Төменгі оңтүстік Калифорния",
+      "yue": "南下加利福尼亞州",
+      "uz": "Quyi janubiy Kaliforniya",
+      "mk": "Јужна Долна Калифорнија"
     },
-    "geo": {
-      "latitude": 26.0444446,
-      "longitude": -111.6660725,
-      "min_latitude": 22.8722626,
-      "min_longitude": -115.2137241,
-      "max_latitude": 28.0000017,
-      "max_longitude": -109.4134348
-    },
-    "name": "Baja California Sur"
+    "comments": null
   },
   "CAM": {
+    "name": "Campeche",
+    "code": null,
     "unofficial_names": "Campeche",
+    "geo": {
+      "latitude": 19.8301251,
+      "longitude": -90.5349087,
+      "min_latitude": 19.7848441,
+      "min_longitude": -90.6223751,
+      "max_latitude": 19.8763407,
+      "max_longitude": -90.4777941
+    },
     "translations": {
       "en": "Campeche",
       "af": "Campeche",
@@ -252,20 +305,31 @@
       "tr": "Campeche",
       "uk": "Кампече",
       "ur": "کامپیچی",
-      "vi": "Campeche"
+      "vi": "Campeche",
+      "cy": "Campeche",
+      "sr_Latn": "Država Kampeče",
+      "zh": "坎佩切州",
+      "yue_Hans": "坎佩切州",
+      "ccp": "𑄇𑄳𑄠𑄟𑄴𑄛𑄬𑄌𑄬",
+      "ga": "Campeche",
+      "yue": "坎佩切州",
+      "uz": "Kampeche",
+      "mk": "Кампече"
     },
-    "geo": {
-      "latitude": 19.8301251,
-      "longitude": -90.5349087,
-      "min_latitude": 19.7848441,
-      "min_longitude": -90.6223751,
-      "max_latitude": 19.8763407,
-      "max_longitude": -90.4777941
-    },
-    "name": "Campeche"
+    "comments": null
   },
   "CHH": {
+    "name": "Chihuahua",
+    "code": null,
     "unofficial_names": "Chihuahua",
+    "geo": {
+      "latitude": 28.6329957,
+      "longitude": -106.0691004,
+      "min_latitude": 28.5586774,
+      "min_longitude": -106.1671059,
+      "max_latitude": 28.7729082,
+      "max_longitude": -105.9612896
+    },
     "translations": {
       "en": "Chihuahua",
       "af": "Chihuahua",
@@ -320,20 +384,34 @@
       "tr": "Chihuahua",
       "uk": "Чіуауа",
       "ur": "چہواہوا",
-      "vi": "Chihuahua"
+      "vi": "Chihuahua",
+      "cy": "Chihuahua",
+      "ceb": "Chihuahua",
+      "sr_Latn": "čivava",
+      "zh": "奇瓦瓦州",
+      "yue_Hans": "芝华华州",
+      "ccp": "𑄌𑄨𑄦𑄱𑄦𑄱",
+      "ga": "Chihuahua",
+      "pa": "ਚੀਵਾਵਾ",
+      "yue": "芝華華州",
+      "uz": "Chiuaua",
+      "bs": "Chihuahua",
+      "mk": "Чивава"
     },
-    "geo": {
-      "latitude": 28.6329957,
-      "longitude": -106.0691004,
-      "min_latitude": 28.5586774,
-      "min_longitude": -106.1671059,
-      "max_latitude": 28.7729082,
-      "max_longitude": -105.9612896
-    },
-    "name": "Chihuahua"
+    "comments": null
   },
   "CHP": {
+    "name": "Chiapas",
+    "code": null,
     "unofficial_names": "Chiapas",
+    "geo": {
+      "latitude": 16.7569318,
+      "longitude": -93.12923529999999,
+      "min_latitude": 14.5320984,
+      "min_longitude": -94.13915589999999,
+      "max_latitude": 17.9852877,
+      "max_longitude": -90.3702138
+    },
     "translations": {
       "en": "Chiapas",
       "af": "Chiapas",
@@ -385,20 +463,32 @@
       "tr": "Chiapas",
       "uk": "Чіапас",
       "ur": "چیاپاس",
-      "vi": "Chiapas"
+      "vi": "Chiapas",
+      "cy": "Chiapas",
+      "ceb": "Estado de Chiapas",
+      "sr_Latn": "Čijapas",
+      "zh": "恰帕斯州",
+      "yue_Hans": "恰帕斯州",
+      "ccp": "𑄌𑄨𑄠𑄛𑄌𑄴",
+      "ga": "Chiapas",
+      "yue": "恰帕斯州",
+      "uz": "Chyapas",
+      "bs": "Chiapas"
     },
-    "geo": {
-      "latitude": 16.7569318,
-      "longitude": -93.12923529999999,
-      "min_latitude": 14.5320984,
-      "min_longitude": -94.13915589999999,
-      "max_latitude": 17.9852877,
-      "max_longitude": -90.3702138
-    },
-    "name": "Chiapas"
+    "comments": null
   },
   "CMX": {
+    "name": "Ciudad de México",
+    "code": null,
     "unofficial_names": "Ciudad de México",
+    "geo": {
+      "latitude": 19.2464696,
+      "longitude": -99.1013498,
+      "min_latitude": 19.0482366,
+      "min_longitude": -99.36492419999999,
+      "max_latitude": 19.5927571,
+      "max_longitude": -98.94030269999999
+    },
     "translations": {
       "en": "Ciudad de Mexico",
       "af": "Meksikostad",
@@ -459,20 +549,42 @@
       "tr": "Meksika",
       "uk": "Мехіко",
       "ur": "میکسیکو شہر",
-      "vi": "Thành phố México"
+      "vi": "Thành phố México",
+      "cy": "Dinas Mexico",
+      "ceb": "Dakbayan sa Mehiko",
+      "yo_BJ": "Ìlú Mɛ́ksíkò",
+      "sr_Latn": "Meksiko Siti",
+      "zh": "墨西哥城",
+      "yue_Hans": "墨西哥城",
+      "jv": "Mexico City",
+      "sq": "Meksiko",
+      "ccp": "𑄌𑄭𑄅𑄪𑄓𑄖𑄴 𑄓𑄬 𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮",
+      "ga": "Cathair Mheicsiceo",
+      "ky": "Мехико",
+      "ha": "Mexico",
+      "pa": "ਮੈਕਸੀਕੋ ਸ਼ਹਿਰ",
+      "kk": "Мехико",
+      "yue": "墨西哥城",
+      "my": "မက္ကဆီကိုမြို့",
+      "yo": "Ìlú Mẹ́ksíkò",
+      "uz": "Mexiko shahri",
+      "bs": "Ciudad de México",
+      "mk": "Мексико"
     },
-    "geo": {
-      "latitude": 19.2464696,
-      "longitude": -99.1013498,
-      "min_latitude": 19.0482366,
-      "min_longitude": -99.36492419999999,
-      "max_latitude": 19.5927571,
-      "max_longitude": -98.94030269999999
-    },
-    "name": "Ciudad de México"
+    "comments": null
   },
   "COA": {
+    "name": "Coahuila",
+    "code": null,
     "unofficial_names": "Coahuila",
+    "geo": {
+      "latitude": 27.058676,
+      "longitude": -101.7068294,
+      "min_latitude": 24.542684,
+      "min_longitude": -103.9600019,
+      "max_latitude": 29.8800241,
+      "max_longitude": -99.8431197
+    },
     "translations": {
       "en": "Coahuila",
       "af": "Coahuila",
@@ -524,21 +636,32 @@
       "th": "รัฐโกอาวีลา",
       "tr": "Coahuila",
       "uk": "Коауїла",
-      "ur": "كواہويلا",
-      "vi": "Coahuila"
+      "ur": "کواہويلا",
+      "vi": "Coahuila",
+      "cy": "Coahuila",
+      "ceb": "Estado de Coahuila de Zaragoza",
+      "sr_Latn": "Koavila",
+      "zh": "科阿韋拉州",
+      "yue_Hans": "科阿韦拉州",
+      "ccp": "𑄇𑄮𑄦𑄭𑄪𑄣",
+      "ga": "Coahuila",
+      "yue": "科阿韋拉州",
+      "uz": "Koauila"
     },
-    "geo": {
-      "latitude": 27.058676,
-      "longitude": -101.7068294,
-      "min_latitude": 24.542684,
-      "min_longitude": -103.9600019,
-      "max_latitude": 29.8800241,
-      "max_longitude": -99.8431197
-    },
-    "name": "Coahuila"
+    "comments": null
   },
   "COL": {
+    "name": "Colima",
+    "code": null,
     "unofficial_names": "Colima",
+    "geo": {
+      "latitude": 19.2452342,
+      "longitude": -103.7240868,
+      "min_latitude": 19.1987996,
+      "min_longitude": -103.7838196,
+      "max_latitude": 19.2943022,
+      "max_longitude": -103.6734973
+    },
     "translations": {
       "en": "Colima",
       "af": "Colima",
@@ -591,20 +714,31 @@
       "tr": "Colima",
       "uk": "Коліма",
       "ur": "کولیما",
-      "vi": "Colima"
+      "vi": "Colima",
+      "cy": "Colima",
+      "ceb": "Estado de Colima",
+      "sr_Latn": "Država Kolima",
+      "zh": "科利馬州",
+      "yue_Hans": "科利马州",
+      "ccp": "𑄇𑄮𑄣𑄨𑄟",
+      "ga": "Colima",
+      "yue": "科利馬州",
+      "uz": "Kolima"
     },
-    "geo": {
-      "latitude": 19.2452342,
-      "longitude": -103.7240868,
-      "min_latitude": 19.1987996,
-      "min_longitude": -103.7838196,
-      "max_latitude": 19.2943022,
-      "max_longitude": -103.6734973
-    },
-    "name": "Colima"
+    "comments": null
   },
   "DUR": {
+    "name": "Durango",
+    "code": null,
     "unofficial_names": "Durango",
+    "geo": {
+      "latitude": 24.0277202,
+      "longitude": -104.6531759,
+      "min_latitude": 23.9633543,
+      "min_longitude": -104.7151846,
+      "max_latitude": 24.0945669,
+      "max_longitude": -104.5754014
+    },
     "translations": {
       "en": "Durango",
       "af": "Durango",
@@ -657,20 +791,32 @@
       "tr": "Durango",
       "uk": "Дуранго",
       "ur": "دورانگو",
-      "vi": "Durango"
+      "vi": "Durango",
+      "cy": "Durango",
+      "ceb": "Estado de Durango",
+      "sr_Latn": "Država Durango",
+      "zh": "杜蘭戈州",
+      "yue_Hans": "杜兰戈州",
+      "ccp": "𑄓𑄪𑄢𑄋𑄴𑄉𑄮",
+      "ga": "Durango",
+      "yue": "杜蘭戈州",
+      "uz": "Durango (shtat)",
+      "mk": "Дуранго"
     },
-    "geo": {
-      "latitude": 24.0277202,
-      "longitude": -104.6531759,
-      "min_latitude": 23.9633543,
-      "min_longitude": -104.7151846,
-      "max_latitude": 24.0945669,
-      "max_longitude": -104.5754014
-    },
-    "name": "Durango"
+    "comments": null
   },
   "GRO": {
+    "name": "Guerrero",
+    "code": null,
     "unofficial_names": "Guerrero",
+    "geo": {
+      "latitude": 17.4391926,
+      "longitude": -99.54509739999999,
+      "min_latitude": 16.3159525,
+      "min_longitude": -102.1834566,
+      "max_latitude": 18.8878466,
+      "max_longitude": -98.00727630000002
+    },
     "translations": {
       "en": "Guerrero",
       "ar": "ولاية غيريرو",
@@ -722,20 +868,32 @@
       "tr": "Guerrero",
       "uk": "Ґерреро",
       "ur": "گیریرو",
-      "vi": "Guerrero"
+      "vi": "Guerrero",
+      "cy": "Guerrero",
+      "ceb": "Estado de Guerrero",
+      "sr_Latn": "Gerero",
+      "zh": "格雷羅州",
+      "yue_Hans": "格雷罗州",
+      "ccp": "𑄉𑄪𑄠𑄬𑄢𑄬𑄢𑄮",
+      "ga": "Guerrero",
+      "yue": "格雷羅州",
+      "uz": "Gerrero",
+      "mk": "Гереро"
     },
-    "geo": {
-      "latitude": 17.4391926,
-      "longitude": -99.54509739999999,
-      "min_latitude": 16.3159525,
-      "min_longitude": -102.1834566,
-      "max_latitude": 18.8878466,
-      "max_longitude": -98.00727630000002
-    },
-    "name": "Guerrero"
+    "comments": null
   },
   "GUA": {
+    "name": "Guanajuato",
+    "code": null,
     "unofficial_names": "Guanajuato",
+    "geo": {
+      "latitude": 21.0190145,
+      "longitude": -101.2573586,
+      "min_latitude": 20.9986079,
+      "min_longitude": -101.2801804,
+      "max_latitude": 21.0516362,
+      "max_longitude": -101.226862
+    },
     "translations": {
       "en": "Guanajuato",
       "af": "Guanajuato",
@@ -788,20 +946,32 @@
       "tr": "Guanajuato",
       "uk": "Ґуанахуато",
       "ur": "گوانجواتو",
-      "vi": "Guanajuato"
+      "vi": "Guanajuato",
+      "cy": "Guanajuato",
+      "ceb": "Estado de Guanajuato",
+      "sr_Latn": "Država Gvanahuato",
+      "zh": "瓜納華托州",
+      "yue_Hans": "瓜纳华托州",
+      "ccp": "𑄉𑄭𑄪𑄚𑄎𑄪𑄠𑄑𑄮",
+      "ga": "Guanajuato",
+      "yue": "瓜納華托州",
+      "uz": "Guanaxuato",
+      "mk": "Гванахуато"
     },
-    "geo": {
-      "latitude": 21.0190145,
-      "longitude": -101.2573586,
-      "min_latitude": 20.9986079,
-      "min_longitude": -101.2801804,
-      "max_latitude": 21.0516362,
-      "max_longitude": -101.226862
-    },
-    "name": "Guanajuato"
+    "comments": null
   },
   "HID": {
+    "name": "Hidalgo",
+    "code": null,
     "unofficial_names": "Hidalgo",
+    "geo": {
+      "latitude": 20.0910963,
+      "longitude": -98.7623874,
+      "min_latitude": 19.5977581,
+      "min_longitude": -99.85954129999999,
+      "max_latitude": 21.3985208,
+      "max_longitude": -97.9849289
+    },
     "translations": {
       "en": "Hidalgo",
       "ar": "ولاية هيدالغو",
@@ -853,20 +1023,33 @@
       "tr": "Hidalgo",
       "uk": "Ідальго",
       "ur": "ہیدالگو (ریاست)",
-      "vi": "Hidalgo"
+      "vi": "Hidalgo",
+      "cy": "Hidalgo",
+      "ceb": "Estado de Hidalgo",
+      "sr_Latn": "Država Idalgo",
+      "zh": "伊達爾戈州",
+      "yue_Hans": "伊达尔戈州",
+      "ccp": "𑄦𑄨𑄓𑄣𑄴𑄉𑄮",
+      "ga": "Hidalgo",
+      "yue": "伊達爾戈州",
+      "uz": "Idalgo",
+      "bs": "Hidalgo",
+      "mk": "Идалго"
     },
-    "geo": {
-      "latitude": 20.0910963,
-      "longitude": -98.7623874,
-      "min_latitude": 19.5977581,
-      "min_longitude": -99.85954129999999,
-      "max_latitude": 21.3985208,
-      "max_longitude": -97.9849289
-    },
-    "name": "Hidalgo"
+    "comments": null
   },
   "JAL": {
+    "name": "Jalisco",
+    "code": null,
     "unofficial_names": "Jalisco",
+    "geo": {
+      "latitude": 20.6595382,
+      "longitude": -103.3494376,
+      "min_latitude": 18.9258718,
+      "min_longitude": -105.6947969,
+      "max_latitude": 22.7502459,
+      "max_longitude": -101.5105417
+    },
     "translations": {
       "en": "Jalisco",
       "af": "Jalisco",
@@ -920,20 +1103,32 @@
       "tr": "Jalisco",
       "uk": "Халіско",
       "ur": "جلیسکو",
-      "vi": "Jalisco"
+      "vi": "Jalisco",
+      "cy": "Jalisco",
+      "ceb": "Estado de Jalisco",
+      "sr_Latn": "Halisko",
+      "zh": "哈利斯科州",
+      "yue_Hans": "哈利斯戈州",
+      "ccp": "𑄎𑄣𑄨𑄌𑄴𑄇𑄮",
+      "ga": "Jalisco",
+      "yue": "哈利斯戈州",
+      "uz": "Xalisko",
+      "mk": "Халиско"
     },
-    "geo": {
-      "latitude": 20.6595382,
-      "longitude": -103.3494376,
-      "min_latitude": 18.9258718,
-      "min_longitude": -105.6947969,
-      "max_latitude": 22.7502459,
-      "max_longitude": -101.5105417
-    },
-    "name": "Jalisco"
+    "comments": null
   },
   "MEX": {
+    "name": "México",
+    "code": null,
     "unofficial_names": "México",
+    "geo": {
+      "latitude": 19.4326077,
+      "longitude": -99.133208,
+      "min_latitude": 19.0482787,
+      "min_longitude": -99.3641835,
+      "max_latitude": 19.5919189,
+      "max_longitude": -98.9401855
+    },
     "translations": {
       "en": "Mexico State",
       "ar": "مكسيكو",
@@ -985,20 +1180,31 @@
       "tr": "Meksika²",
       "uk": "Мехіко²",
       "ur": "ریاست میکسیکو",
-      "vi": "México"
+      "vi": "México",
+      "cy": "Talaith Mexico",
+      "ceb": "Estado de México (estado)",
+      "sr_Latn": "Meksiko",
+      "zh": "墨西哥州",
+      "yue_Hans": "墨西哥州",
+      "ccp": "𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮 𑄌𑄳𑄑𑄬𑄖𑄴",
+      "ga": "Meicsiceo",
+      "yue": "墨西哥州",
+      "uz": "Mexiko"
     },
-    "geo": {
-      "latitude": 19.4326077,
-      "longitude": -99.133208,
-      "min_latitude": 19.0482787,
-      "min_longitude": -99.3641835,
-      "max_latitude": 19.5919189,
-      "max_longitude": -98.9401855
-    },
-    "name": "México"
+    "comments": null
   },
   "MIC": {
+    "name": "Michoacán",
+    "code": null,
     "unofficial_names": "Michoacán",
+    "geo": {
+      "latitude": 19.5665192,
+      "longitude": -101.7068294,
+      "min_latitude": 17.9149077,
+      "min_longitude": -103.7381271,
+      "max_latitude": 20.3942215,
+      "max_longitude": -100.0630329
+    },
     "translations": {
       "en": "Michoacán",
       "ar": "ولاية ميتشواكان",
@@ -1050,20 +1256,31 @@
       "tr": "Michoacán",
       "uk": "Мічоакан",
       "ur": "میشواکان",
-      "vi": "Michoacán"
+      "vi": "Michoacán",
+      "cy": "Michoacán",
+      "ceb": "Estado de Michoacán de Ocampo",
+      "sr_Latn": "Mičoakan",
+      "zh": "米却肯州",
+      "yue_Hans": "米却肯州",
+      "ccp": "𑄟𑄨𑄇𑄮𑄥𑄚𑄴",
+      "ga": "Michoacán",
+      "yue": "米卻肯州",
+      "uz": "Michoakan"
     },
-    "geo": {
-      "latitude": 19.5665192,
-      "longitude": -101.7068294,
-      "min_latitude": 17.9149077,
-      "min_longitude": -103.7381271,
-      "max_latitude": 20.3942215,
-      "max_longitude": -100.0630329
-    },
-    "name": "Michoacán"
+    "comments": null
   },
   "MOR": {
+    "name": "Morelos",
+    "code": null,
     "unofficial_names": "Morelos",
+    "geo": {
+      "latitude": 18.6813049,
+      "longitude": -99.1013498,
+      "min_latitude": 18.332373,
+      "min_longitude": -99.4944141,
+      "max_latitude": 19.1317018,
+      "max_longitude": -98.63294660000001
+    },
     "translations": {
       "en": "Morelos",
       "af": "Morelos",
@@ -1111,20 +1328,32 @@
       "tr": "Morelos",
       "uk": "Морелос",
       "ur": "موریلوس",
-      "vi": "Morelos"
+      "vi": "Morelos",
+      "cy": "Morelos",
+      "ceb": "Estado de Morelos",
+      "sr_Latn": "Morelos",
+      "zh": "莫雷洛斯州",
+      "yue_Hans": "莫雷洛斯州",
+      "ccp": "𑄟𑄮𑄢𑄴𑄣𑄬𑄌𑄴",
+      "ga": "Morelos",
+      "pa": "ਮੋਰੇਲੋਸ",
+      "yue": "莫雷洛斯州",
+      "uz": "Morelos"
     },
-    "geo": {
-      "latitude": 18.6813049,
-      "longitude": -99.1013498,
-      "min_latitude": 18.332373,
-      "min_longitude": -99.4944141,
-      "max_latitude": 19.1317018,
-      "max_longitude": -98.63294660000001
-    },
-    "name": "Morelos"
+    "comments": null
   },
   "NAY": {
+    "name": "Nayarit",
+    "code": null,
     "unofficial_names": "Nayarit",
+    "geo": {
+      "latitude": 21.7513844,
+      "longitude": -104.8454619,
+      "min_latitude": 20.6032209,
+      "min_longitude": -106.6877266,
+      "max_latitude": 23.0845034,
+      "max_longitude": -103.7208954
+    },
     "translations": {
       "en": "Nayarit",
       "af": "Nayarit",
@@ -1177,20 +1406,32 @@
       "tr": "Nayarit",
       "uk": "Наяріт",
       "ur": "نایاریت",
-      "vi": "Nayarit"
+      "vi": "Nayarit",
+      "cy": "Nayarit",
+      "ceb": "Estado de Nayarit",
+      "sr_Latn": "Najarit",
+      "zh": "納亞里特州",
+      "yue_Hans": "纳亚里特州",
+      "ccp": "𑄚𑄬𑄠𑄢𑄨𑄖𑄴",
+      "ga": "Nayarit",
+      "pa": "ਨਾਈਆਰੀਤ",
+      "yue": "納亞里特州",
+      "uz": "Nayarit"
     },
-    "geo": {
-      "latitude": 21.7513844,
-      "longitude": -104.8454619,
-      "min_latitude": 20.6032209,
-      "min_longitude": -106.6877266,
-      "max_latitude": 23.0845034,
-      "max_longitude": -103.7208954
-    },
-    "name": "Nayarit"
+    "comments": null
   },
   "NLE": {
+    "name": "Nuevo León",
+    "code": null,
     "unofficial_names": "Nuevo León",
+    "geo": {
+      "latitude": 25.592172,
+      "longitude": -99.99619469999999,
+      "min_latitude": 23.162683,
+      "min_longitude": -101.2067627,
+      "max_latitude": 27.7991372,
+      "max_longitude": -98.4215759
+    },
     "translations": {
       "en": "Nuevo León",
       "ar": "ولاية نويفو ليون",
@@ -1242,20 +1483,31 @@
       "tr": "Nuevo León",
       "uk": "Нуево-Леон",
       "ur": "نیوو لیون",
-      "vi": "Nuevo León"
+      "vi": "Nuevo León",
+      "cy": "Nuevo León",
+      "ceb": "Estado de Nuevo León",
+      "sr_Latn": "Novi Leon",
+      "zh": "新萊昂州",
+      "yue_Hans": "新莱昂州",
+      "ccp": "𑄚𑄱𑄠𑄬𑄞𑄮 𑄣𑄨𑄠𑄧𑄚𑄴",
+      "ga": "Nuevo León",
+      "yue": "新萊昂州",
+      "uz": "Nuevoleon"
     },
-    "geo": {
-      "latitude": 25.592172,
-      "longitude": -99.99619469999999,
-      "min_latitude": 23.162683,
-      "min_longitude": -101.2067627,
-      "max_latitude": 27.7991372,
-      "max_longitude": -98.4215759
-    },
-    "name": "Nuevo León"
+    "comments": null
   },
   "OAX": {
+    "name": "Oaxaca",
+    "code": null,
     "unofficial_names": "Oaxaca",
+    "geo": {
+      "latitude": 17.0594169,
+      "longitude": -96.7216219,
+      "min_latitude": 17.0222818,
+      "min_longitude": -96.78067659999999,
+      "max_latitude": 17.1332787,
+      "max_longitude": -96.6762766
+    },
     "translations": {
       "en": "Oaxaca",
       "af": "Oaxaca",
@@ -1313,20 +1565,34 @@
       "tr": "Oaxaca",
       "uk": "Оахака",
       "ur": "اوکساکا",
-      "vi": "Oaxaca"
+      "vi": "Oaxaca",
+      "cy": "Oaxaca",
+      "ceb": "Estado de Oaxaca",
+      "sr_Latn": "Oahaka",
+      "zh": "瓦哈卡州",
+      "yue_Hans": "瓦哈卡",
+      "sq": "Oaxaca",
+      "ccp": "𑄃𑄮𑄠𑄇𑄴𑄥𑄇",
+      "ga": "Oaxaca",
+      "pa": "ਵਾਹਾਕਾ",
+      "yue": "瓦哈卡",
+      "my": "အိုအေဂျေစီအ",
+      "uz": "Oaksaka"
     },
-    "geo": {
-      "latitude": 17.0594169,
-      "longitude": -96.7216219,
-      "min_latitude": 17.0222818,
-      "min_longitude": -96.78067659999999,
-      "max_latitude": 17.1332787,
-      "max_longitude": -96.6762766
-    },
-    "name": "Oaxaca"
+    "comments": null
   },
   "PUE": {
+    "name": "Puebla",
+    "code": null,
     "unofficial_names": "Puebla",
+    "geo": {
+      "latitude": 19.0412967,
+      "longitude": -98.20619959999999,
+      "min_latitude": 18.9443809,
+      "min_longitude": -98.2824308,
+      "max_latitude": 19.1381977,
+      "max_longitude": -98.1035011
+    },
     "translations": {
       "en": "Puebla",
       "ar": "ولاية بويبلا",
@@ -1379,20 +1645,32 @@
       "tr": "Puebla",
       "uk": "Пуебла",
       "ur": "پوئبلا",
-      "vi": "Puebla"
+      "vi": "Puebla",
+      "cy": "Puebla",
+      "ceb": "Estado de Puebla",
+      "sr_Latn": "Država Puebla",
+      "zh": "普埃布拉州",
+      "yue_Hans": "普埃布拉州",
+      "ccp": "𑄛𑄪𑄠𑄬𑄛𑄴𑄣",
+      "ga": "Puebla",
+      "pa": "ਪੁਐਬਲਾ",
+      "yue": "普埃布拉州",
+      "uz": "Puebla"
     },
-    "geo": {
-      "latitude": 19.0412967,
-      "longitude": -98.20619959999999,
-      "min_latitude": 18.9443809,
-      "min_longitude": -98.2824308,
-      "max_latitude": 19.1381977,
-      "max_longitude": -98.1035011
-    },
-    "name": "Puebla"
+    "comments": null
   },
   "QUE": {
+    "name": "Querétaro",
+    "code": null,
     "unofficial_names": "Querétaro",
+    "geo": {
+      "latitude": 20.5887932,
+      "longitude": -100.3898881,
+      "min_latitude": 20.5434421,
+      "min_longitude": -100.482931,
+      "max_latitude": 20.6854032,
+      "max_longitude": -100.3285436
+    },
     "translations": {
       "en": "Querétaro",
       "af": "Querétaro",
@@ -1445,20 +1723,31 @@
       "tr": "Querétaro",
       "uk": "Керетаро",
       "ur": "کوارتارو",
-      "vi": "Querétaro"
+      "vi": "Querétaro",
+      "cy": "Querétaro",
+      "ceb": "Estado de Querétaro",
+      "sr_Latn": "Keretaro",
+      "zh": "克雷塔羅州",
+      "yue_Hans": "克雷塔罗州",
+      "ccp": "𑄇𑄪𑄠𑄬𑄢𑄬𑄑𑄢𑄮",
+      "ga": "Querétaro",
+      "yue": "克雷塔羅州",
+      "uz": "Keretaro (Meksika)"
     },
-    "geo": {
-      "latitude": 20.5887932,
-      "longitude": -100.3898881,
-      "min_latitude": 20.5434421,
-      "min_longitude": -100.482931,
-      "max_latitude": 20.6854032,
-      "max_longitude": -100.3285436
-    },
-    "name": "Querétaro"
+    "comments": null
   },
   "ROO": {
+    "name": "Quintana Roo",
+    "code": null,
     "unofficial_names": "Quintana Roo",
+    "geo": {
+      "latitude": 19.1817393,
+      "longitude": -88.4791376,
+      "min_latitude": 17.8939856,
+      "min_longitude": -89.29656179999999,
+      "max_latitude": 21.587621,
+      "max_longitude": -86.7105607
+    },
     "translations": {
       "en": "Quintana Roo",
       "ar": "ولاية كينتانا رو",
@@ -1510,20 +1799,32 @@
       "tr": "Quintana Roo",
       "uk": "Кінтана-Роо",
       "ur": "کوینتانا رو",
-      "vi": "Quintana Roo"
+      "vi": "Quintana Roo",
+      "cy": "Quintana Roo",
+      "ceb": "Estado de Quintana Roo",
+      "sr_Latn": "Kintana Ro",
+      "zh": "金塔納羅奧州",
+      "yue_Hans": "金塔纳罗奥州",
+      "ccp": "𑄇𑄭𑄪𑄃𑄨𑄚𑄴𑄑𑄚 𑄢𑄫",
+      "ga": "Quintana Roo",
+      "yue": "金塔納羅奧州",
+      "uz": "Kintana-roo",
+      "mk": "Кинтана Ро"
     },
-    "geo": {
-      "latitude": 19.1817393,
-      "longitude": -88.4791376,
-      "min_latitude": 17.8939856,
-      "min_longitude": -89.29656179999999,
-      "max_latitude": 21.587621,
-      "max_longitude": -86.7105607
-    },
-    "name": "Quintana Roo"
+    "comments": null
   },
   "SIN": {
+    "name": "Sinaloa",
+    "code": null,
     "unofficial_names": "Sinaloa",
+    "geo": {
+      "latitude": 25.825701,
+      "longitude": -108.214302,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Sinaloa",
       "af": "Sinaloa",
@@ -1578,20 +1879,33 @@
       "tr": "Sinaloa",
       "uk": "Сіналоа",
       "ur": "سینالوا",
-      "vi": "Sinaloa"
+      "vi": "Sinaloa",
+      "cy": "Sinaloa",
+      "ceb": "Estado de Sinaloa",
+      "sr_Latn": "Sinaloa",
+      "zh": "錫那羅亞州",
+      "yue_Hans": "锡那罗亚州",
+      "jv": "Sinaloa",
+      "ccp": "𑄥𑄨𑄚𑄣𑄱",
+      "ga": "Sinaloa",
+      "yue": "錫那羅亞州",
+      "yo": "Sinaloa",
+      "uz": "Sinaloa"
     },
-    "geo": {
-      "latitude": 25.825701,
-      "longitude": -108.214302,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Sinaloa"
+    "comments": null
   },
   "SLP": {
+    "name": "San Luis Potosí",
+    "code": null,
     "unofficial_names": "San Luis Potosí",
+    "geo": {
+      "latitude": 22.1564699,
+      "longitude": -100.9855409,
+      "min_latitude": 22.0620884,
+      "min_longitude": -101.0467011,
+      "max_latitude": 22.2092432,
+      "max_longitude": -100.8747596
+    },
     "translations": {
       "en": "San Luis Potosí",
       "ar": "ولاية سان لويس بوتوسي",
@@ -1643,20 +1957,31 @@
       "tr": "San Luis Potosí",
       "uk": "Сан-Луїс-Потосі",
       "ur": "سان لوئیس پوتوسی",
-      "vi": "San Luis Potosí"
+      "vi": "San Luis Potosí",
+      "cy": "San Luis Potosí",
+      "ceb": "Estado de San Luis Potosí",
+      "sr_Latn": "Država San Luis Potosi",
+      "zh": "聖路易斯波托西州",
+      "yue_Hans": "圣路易斯波托西州",
+      "ccp": "𑄥𑄚𑄴 𑄣𑄪𑄃𑄨𑄌𑄴 𑄛𑄮𑄑𑄮𑄥𑄨",
+      "ga": "San Luis Potosí",
+      "yue": "聖路易斯波托西州",
+      "uz": "San-Luis-Potosi"
     },
-    "geo": {
-      "latitude": 22.1564699,
-      "longitude": -100.9855409,
-      "min_latitude": 22.0620884,
-      "min_longitude": -101.0467011,
-      "max_latitude": 22.2092432,
-      "max_longitude": -100.8747596
-    },
-    "name": "San Luis Potosí"
+    "comments": null
   },
   "SON": {
+    "name": "Sonora",
+    "code": null,
     "unofficial_names": "Sonora",
+    "geo": {
+      "latitude": 29.2972247,
+      "longitude": -110.3308814,
+      "min_latitude": 26.2969879,
+      "min_longitude": -115.0530223,
+      "max_latitude": 32.4937985,
+      "max_longitude": -108.4242708
+    },
     "translations": {
       "en": "Sonora",
       "af": "Sonora",
@@ -1709,20 +2034,34 @@
       "tr": "Sonora",
       "uk": "Сонора",
       "ur": "سونورا",
-      "vi": "Sonora"
+      "vi": "Sonora",
+      "cy": "Sonora",
+      "ceb": "Estado de Sonora",
+      "sr_Latn": "Sonora",
+      "zh": "索諾拉州",
+      "yue_Hans": "索诺拉州",
+      "ccp": "𑄥𑄮𑄚𑄮𑄢",
+      "ga": "Sonora",
+      "pa": "ਸੋਨੋਰਾ",
+      "yue": "索諾拉州",
+      "uz": "Sonora",
+      "bs": "Sonora",
+      "mk": "Сонора"
     },
-    "geo": {
-      "latitude": 29.2972247,
-      "longitude": -110.3308814,
-      "min_latitude": 26.2969879,
-      "min_longitude": -115.0530223,
-      "max_latitude": 32.4937985,
-      "max_longitude": -108.4242708
-    },
-    "name": "Sonora"
+    "comments": null
   },
   "TAB": {
+    "name": "Tabasco",
+    "code": null,
     "unofficial_names": "Tabasco",
+    "geo": {
+      "latitude": 17.8409173,
+      "longitude": -92.6189273,
+      "min_latitude": 17.2508934,
+      "min_longitude": -94.12979179999999,
+      "max_latitude": 18.6502994,
+      "max_longitude": -90.98745919999999
+    },
     "translations": {
       "en": "Tabasco",
       "af": "Tabasco",
@@ -1776,20 +2115,31 @@
       "tr": "Tabasco",
       "uk": "Табаско",
       "ur": "تاباسکو",
-      "vi": "Tabasco"
+      "vi": "Tabasco",
+      "cy": "Tabasco",
+      "ceb": "Estado de Tabasco",
+      "sr_Latn": "Tabasko",
+      "zh": "塔巴斯科州",
+      "yue_Hans": "塔巴斯科州",
+      "ccp": "𑄑𑄝𑄌𑄴𑄇𑄮",
+      "ga": "Tabasco",
+      "yue": "塔巴斯科州",
+      "uz": "Tabasko"
     },
-    "geo": {
-      "latitude": 17.8409173,
-      "longitude": -92.6189273,
-      "min_latitude": 17.2508934,
-      "min_longitude": -94.12979179999999,
-      "max_latitude": 18.6502994,
-      "max_longitude": -90.98745919999999
-    },
-    "name": "Tabasco"
+    "comments": null
   },
   "TAM": {
+    "name": "Tamaulipas",
+    "code": null,
     "unofficial_names": "Tamaulipas",
+    "geo": {
+      "latitude": 24.26694,
+      "longitude": -98.8362755,
+      "min_latitude": 22.2069658,
+      "min_longitude": -100.1449502,
+      "max_latitude": 27.6791263,
+      "max_longitude": -97.14426089999999
+    },
     "translations": {
       "en": "Tamaulipas",
       "ar": "ولاية تاماوليباس",
@@ -1842,20 +2192,31 @@
       "tr": "Tamaulipas",
       "uk": "Тамауліпас",
       "ur": "تاماولیپاس",
-      "vi": "Tamaulipas"
+      "vi": "Tamaulipas",
+      "cy": "Tamaulipas",
+      "ceb": "Estado de Tamaulipas",
+      "sr_Latn": "Tamaulipas",
+      "zh": "塔毛利帕斯州",
+      "yue_Hans": "塔毛利帕斯州",
+      "ccp": "𑄑𑄟𑄅𑄪𑄣𑄨𑄛𑄌𑄴",
+      "ga": "Tamaulipas",
+      "yue": "塔毛利帕斯州",
+      "uz": "Tamaulipas"
     },
-    "geo": {
-      "latitude": 24.26694,
-      "longitude": -98.8362755,
-      "min_latitude": 22.2069658,
-      "min_longitude": -100.1449502,
-      "max_latitude": 27.6791263,
-      "max_longitude": -97.14426089999999
-    },
-    "name": "Tamaulipas"
+    "comments": null
   },
   "TLA": {
+    "name": "Tlaxcala",
+    "code": null,
     "unofficial_names": "Tlaxcala",
+    "geo": {
+      "latitude": 19.3181521,
+      "longitude": -98.2375146,
+      "min_latitude": 19.3056666,
+      "min_longitude": -98.24796239999999,
+      "max_latitude": 19.3264598,
+      "max_longitude": -98.2316719
+    },
     "translations": {
       "en": "Tlaxcala",
       "af": "Tlaxcala",
@@ -1908,20 +2269,31 @@
       "tr": "Tlaxcala",
       "uk": "Тласкала",
       "ur": "تلاکسکالا",
-      "vi": "Tlaxcala"
+      "vi": "Tlaxcala",
+      "cy": "Tlaxcala",
+      "ceb": "Estado de Tlaxcala",
+      "sr_Latn": "Država Tlaskala",
+      "zh": "特拉斯卡拉州",
+      "yue_Hans": "特拉斯卡拉州",
+      "ccp": "𑄣𑄇𑄴𑄇𑄣",
+      "ga": "Tlaxcala",
+      "yue": "特拉斯卡拉州",
+      "uz": "Tlaskala"
     },
-    "geo": {
-      "latitude": 19.3181521,
-      "longitude": -98.2375146,
-      "min_latitude": 19.3056666,
-      "min_longitude": -98.24796239999999,
-      "max_latitude": 19.3264598,
-      "max_longitude": -98.2316719
-    },
-    "name": "Tlaxcala"
+    "comments": null
   },
   "VER": {
+    "name": "Veracruz",
+    "code": null,
     "unofficial_names": "Veracruz",
+    "geo": {
+      "latitude": 19.173773,
+      "longitude": -96.1342241,
+      "min_latitude": 19.1309432,
+      "min_longitude": -96.206622,
+      "max_latitude": 19.2266685,
+      "max_longitude": -96.1181965
+    },
     "translations": {
       "en": "Veracruz",
       "af": "Veracruz",
@@ -1974,20 +2346,34 @@
       "tr": "Veracruz",
       "uk": "Веракрус",
       "ur": "ویراکروز",
-      "vi": "Veracruz"
+      "vi": "Veracruz",
+      "cy": "Veracruz",
+      "ceb": "Estado de Veracruz-Llave",
+      "sr_Latn": "Država Verakruz",
+      "zh": "韋拉克魯斯州",
+      "yue_Hans": "韦拉克鲁斯州",
+      "ccp": "𑄞𑄢𑄝𑄳𑄢𑄪𑄌𑄴",
+      "ga": "Veracruz",
+      "pa": "ਬੇਰਾਕਰੂਸ",
+      "yue": "韋拉克魯斯州",
+      "my": "ဗေရကရုမြို့",
+      "uz": "Verakrus",
+      "mk": "Веракруз"
     },
-    "geo": {
-      "latitude": 19.173773,
-      "longitude": -96.1342241,
-      "min_latitude": 19.1309432,
-      "min_longitude": -96.206622,
-      "max_latitude": 19.2266685,
-      "max_longitude": -96.1181965
-    },
-    "name": "Veracruz"
+    "comments": null
   },
   "YUC": {
+    "name": "Yucatán",
+    "code": null,
     "unofficial_names": "Yucatán",
+    "geo": {
+      "latitude": 20.7098786,
+      "longitude": -89.0943377,
+      "min_latitude": 19.551174,
+      "min_longitude": -90.40699579999999,
+      "max_latitude": 21.6242092,
+      "max_longitude": -87.5331451
+    },
     "translations": {
       "en": "Yucatán",
       "af": "Yucatán",
@@ -2040,20 +2426,33 @@
       "tr": "Yucatán",
       "uk": "Юкатан",
       "ur": "یوکتان",
-      "vi": "Yucatán"
+      "vi": "Yucatán",
+      "cy": "Yucatán",
+      "ceb": "Estado de Yucatán",
+      "sr_Latn": "Jukatan",
+      "zh": "尤卡坦州",
+      "yue_Hans": "尤卡坦州",
+      "ccp": "𑄃𑄨𑄅𑄪𑄇𑄑𑄚𑄴",
+      "ga": "Yucatán",
+      "pa": "ਯੁਕਾਤਾਨ",
+      "yue": "尤卡坦州",
+      "uz": "Yukatan",
+      "mk": "Јукатан"
     },
-    "geo": {
-      "latitude": 20.7098786,
-      "longitude": -89.0943377,
-      "min_latitude": 19.551174,
-      "min_longitude": -90.40699579999999,
-      "max_latitude": 21.6242092,
-      "max_longitude": -87.5331451
-    },
-    "name": "Yucatán"
+    "comments": null
   },
   "ZAC": {
+    "name": "Zacatecas",
+    "code": null,
     "unofficial_names": "Zacatecas",
+    "geo": {
+      "latitude": 22.7709249,
+      "longitude": -102.5832539,
+      "min_latitude": 22.7451586,
+      "min_longitude": -102.6196943,
+      "max_latitude": 22.7901168,
+      "max_longitude": -102.5549838
+    },
     "translations": {
       "en": "Zacatecas",
       "af": "Zacatecas",
@@ -2106,17 +2505,34 @@
       "tr": "Zacatecas",
       "uk": "Сакатекас",
       "ur": "زاکاٹیکاس",
-      "vi": "Zacatecas"
+      "vi": "Zacatecas",
+      "cy": "Zacatecas",
+      "ceb": "Estado de Zacatecas",
+      "sr_Latn": "Država Zakatekas",
+      "zh": "薩卡特卡斯州",
+      "yue_Hans": "萨卡特卡斯州",
+      "ccp": "𑄎𑄇𑄖𑄴𑄇𑄌𑄴",
+      "ga": "Zacatecas",
+      "pa": "ਸਾਕਾਤੇਕਾਸ",
+      "yue": "薩卡特卡斯州",
+      "uz": "Sakatekas",
+      "mk": "Закатекас"
     },
+    "comments": null
+  },
+  "DIF": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 22.7709249,
-      "longitude": -102.5832539,
-      "min_latitude": 22.7451586,
-      "min_longitude": -102.6196943,
-      "max_latitude": 22.7901168,
-      "max_longitude": -102.5549838
+      "latitude": 19.3663162,
+      "longitude": -99.1593231
     },
-    "name": "Zacatecas"
+    "translations": {
+      "en": "Mexico City",
+      "ccp": "𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮 𑄥𑄨𑄑𑄨"
+    },
+    "comments": null
   }
 }
 

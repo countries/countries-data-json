@@ -1,9 +1,19 @@
 {
   "11": {
+    "name": "Paro",
+    "code": null,
     "unofficial_names": [
       "Paro",
       "Rinpung"
     ],
+    "geo": {
+      "latitude": 27.4285949,
+      "longitude": 89.4166516,
+      "min_latitude": 27.1771741,
+      "min_longitude": 89.131271,
+      "max_latitude": 27.7510569,
+      "max_longitude": 89.563836
+    },
     "translations": {
       "en": "Paro",
       "ar": "مقاطعة بارو",
@@ -44,24 +54,35 @@
       "uk": "Паро",
       "ur": "پارو ضلع",
       "vi": "Paro",
-      "zh": "帕罗宗"
+      "zh": "帕罗宗",
+      "lv": "Paro distrikts",
+      "ceb": "Paro Dzongkhag",
+      "sr_Latn": "Paro",
+      "lt": "Paro apskritis",
+      "ccp": "𑄛𑄢𑄮",
+      "ps": "پارو ولسوالۍ",
+      "pa": "ਪਾਰੋ ਜ਼ਿਲ੍ਹਾ",
+      "ml": "പാറോ ജില്ല",
+      "ca": "Districte de Paro"
     },
-    "geo": {
-      "latitude": 27.4285949,
-      "longitude": 89.4166516,
-      "min_latitude": 27.1771741,
-      "min_longitude": 89.131271,
-      "max_latitude": 27.7510569,
-      "max_longitude": 89.563836
-    },
-    "name": "Paro"
+    "comments": null
   },
   "12": {
+    "name": "Chhukha",
+    "code": null,
     "unofficial_names": [
       "Chhuka",
       "Chuka",
       "Chukha"
     ],
+    "geo": {
+      "latitude": 27.0522919,
+      "longitude": 89.5756987,
+      "min_latitude": 27.0483479,
+      "min_longitude": 89.5604609,
+      "max_latitude": 27.0611895,
+      "max_longitude": 89.5806313
+    },
     "translations": {
       "en": "Chukha",
       "ar": "مقاطعة تشوخا",
@@ -103,23 +124,32 @@
       "tr": "Chuka District",
       "uk": "Чукха",
       "ur": "چوکہا ضلع",
-      "vi": "Quận Chukha"
+      "vi": "Quận Chukha",
+      "lv": "Čhukhas distrikts",
+      "ceb": "Chhukha Dzongkhag",
+      "sr_Latn": "Čukha",
+      "lt": "Čukos apskritis",
+      "zh": "楚卡宗",
+      "ccp": "𑄌𑄪𑄈",
+      "ca": "Districte de Chukha"
     },
-    "geo": {
-      "latitude": 27.0522919,
-      "longitude": 89.5756987,
-      "min_latitude": 27.0483479,
-      "min_longitude": 89.5604609,
-      "max_latitude": 27.0611895,
-      "max_longitude": 89.5806313
-    },
-    "name": "Chhukha"
+    "comments": null
   },
   "13": {
+    "name": "Ha",
+    "code": null,
     "unofficial_names": [
       "Ha",
       "Haa"
     ],
+    "geo": {
+      "latitude": 27.2651669,
+      "longitude": 89.1705998,
+      "min_latitude": 27.0723781,
+      "min_longitude": 88.89505199999999,
+      "max_latitude": 27.6211449,
+      "max_longitude": 89.39598099999999
+    },
     "translations": {
       "en": "Haa",
       "ar": "مقاطعة ها",
@@ -159,23 +189,32 @@
       "tr": "Haa District",
       "uk": "Хаа",
       "ur": "ہا ضلع",
-      "vi": "Quận Haa"
+      "vi": "Quận Haa",
+      "lv": "Ha distrikts",
+      "ceb": "Haa Dzongkhag",
+      "sr_Latn": "Ha",
+      "lt": "Haa apskritis",
+      "zh": "哈阿宗",
+      "ccp": "𑄦",
+      "ca": "Districte de Haa"
     },
-    "geo": {
-      "latitude": 27.2651669,
-      "longitude": 89.1705998,
-      "min_latitude": 27.0723781,
-      "min_longitude": 88.89505199999999,
-      "max_latitude": 27.6211449,
-      "max_longitude": 89.39598099999999
-    },
-    "name": "Ha"
+    "comments": null
   },
   "14": {
+    "name": "Samtse",
+    "code": null,
     "unofficial_names": [
       "Samchi",
       "Samtse"
     ],
+    "geo": {
+      "latitude": 26.9131041,
+      "longitude": 89.08360189999999,
+      "min_latitude": 26.9078347,
+      "min_longitude": 89.0766335,
+      "max_latitude": 26.9162536,
+      "max_longitude": 89.090538
+    },
     "translations": {
       "en": "Samtse",
       "ar": "مقاطعة سامتسي",
@@ -215,19 +254,20 @@
       "tr": "Samtse District",
       "uk": "Самце",
       "ur": "سامتسے ضلع",
-      "vi": "Quận Samtse"
+      "vi": "Quận Samtse",
+      "lv": "Samcī distrikts",
+      "ceb": "Samtse Dzongkhag",
+      "sr_Latn": "Samce",
+      "lt": "Samtsės apskritis",
+      "zh": "萨姆宗",
+      "ccp": "𑄥𑄟𑄴𑄥𑄬",
+      "ca": "Districte de Samtse"
     },
-    "geo": {
-      "latitude": 26.9131041,
-      "longitude": 89.08360189999999,
-      "min_latitude": 26.9078347,
-      "min_longitude": 89.0766335,
-      "max_latitude": 26.9162536,
-      "max_longitude": 89.090538
-    },
-    "name": "Samtse"
+    "comments": null
   },
   "15": {
+    "name": "Thimphu",
+    "code": null,
     "unofficial_names": [
       "Thimbu",
       "Thimphu",
@@ -236,6 +276,14 @@
       "Timbu",
       "Timphu"
     ],
+    "geo": {
+      "latitude": 27.4727924,
+      "longitude": 89.6392863,
+      "min_latitude": 27.4251092,
+      "min_longitude": 89.60414879999999,
+      "max_latitude": 27.5336949,
+      "max_longitude": 89.6726418
+    },
     "translations": {
       "en": "Thimphu",
       "ar": "مقاطعة ثيمفو",
@@ -279,23 +327,31 @@
       "tr": "Thimpu District",
       "uk": "Тхімпху",
       "ur": "تھمپھو ضلع",
-      "vi": "Quận Thimphu"
+      "vi": "Quận Thimphu",
+      "lv": "Thimphu distrikts",
+      "ceb": "Thimphu Dzongkhag",
+      "sr_Latn": "Timbu",
+      "lt": "Timfu regionas",
+      "zh": "廷布宗",
+      "ccp": "𑄗𑄨𑄟𑄴𑄜𑄪"
     },
-    "geo": {
-      "latitude": 27.4727924,
-      "longitude": 89.6392863,
-      "min_latitude": 27.4251092,
-      "min_longitude": 89.60414879999999,
-      "max_latitude": 27.5336949,
-      "max_longitude": 89.6726418
-    },
-    "name": "Thimphu"
+    "comments": null
   },
   "21": {
+    "name": "Tsirang",
+    "code": null,
     "unofficial_names": [
       "Chirang",
       "Tsirang"
     ],
+    "geo": {
+      "latitude": 27.032207,
+      "longitude": 90.1869644,
+      "min_latitude": 26.8187539,
+      "min_longitude": 90.00392509999999,
+      "max_latitude": 27.177361,
+      "max_longitude": 90.357412
+    },
     "translations": {
       "en": "Tsirang",
       "bg": "Циранг",
@@ -317,23 +373,29 @@
       "ru": "Циранг",
       "sv": "Tsirang",
       "uk": "Ціранг",
-      "ur": "تسیرانگ ضلع"
+      "ur": "تسیرانگ ضلع",
+      "ceb": "Tsirang",
+      "zh": "奇朗宗",
+      "ccp": "𑄥𑄨𑄢𑄧𑄁",
+      "ca": "Districte de Tsirang"
     },
-    "geo": {
-      "latitude": 27.032207,
-      "longitude": 90.1869644,
-      "min_latitude": 26.8187539,
-      "min_longitude": 90.00392509999999,
-      "max_latitude": 27.177361,
-      "max_longitude": 90.357412
-    },
-    "name": "Tsirang"
+    "comments": null
   },
   "22": {
+    "name": "Dagana",
+    "code": null,
     "unofficial_names": [
       "Daga",
       "Dagana"
     ],
+    "geo": {
+      "latitude": 27.0322861,
+      "longitude": 89.8879304,
+      "min_latitude": 26.808901,
+      "min_longitude": 89.648614,
+      "max_latitude": 27.26369,
+      "max_longitude": 90.08144100000001
+    },
     "translations": {
       "en": "Dagana",
       "bg": "Дагана",
@@ -356,20 +418,27 @@
       "ru": "Дагана",
       "sv": "Dagana",
       "uk": "Дагана",
-      "ur": "داگانا ضلع"
+      "ur": "داگانا ضلع",
+      "ceb": "Dagana Dzongkhag",
+      "zh": "达加纳宗",
+      "ccp": "𑄓𑄉𑄚",
+      "or": "ଦାଗନା ଜିଲ୍ଲା , ଭୁଟାନ",
+      "ca": "Districte de Dagana"
     },
-    "geo": {
-      "latitude": 27.0322861,
-      "longitude": 89.8879304,
-      "min_latitude": 26.808901,
-      "min_longitude": 89.648614,
-      "max_latitude": 27.26369,
-      "max_longitude": 90.08144100000001
-    },
-    "name": "Dagana"
+    "comments": null
   },
   "23": {
+    "name": "Punakha",
+    "code": null,
     "unofficial_names": "Punakha",
+    "geo": {
+      "latitude": 27.5920869,
+      "longitude": 89.87974589999999,
+      "min_latitude": 27.5877193,
+      "min_longitude": 89.8721123,
+      "max_latitude": 27.5961249,
+      "max_longitude": 89.88554479999999
+    },
     "translations": {
       "en": "Punakha",
       "ar": "مقاطعة بوناخا",
@@ -409,25 +478,34 @@
       "tr": "Punakha District",
       "uk": "Пунакха",
       "ur": "پوناخا ضلع",
-      "vi": "Quận Punakha"
+      "vi": "Quận Punakha",
+      "lv": "Punakhas distrikts",
+      "ceb": "Punakha Dzongkhag",
+      "sr_Latn": "Punaka",
+      "lt": "Punakos apskritis",
+      "zh": "普那卡宗",
+      "ccp": "𑄛𑄪𑄚𑄇𑄴",
+      "sl": "Okraj Punaka"
     },
-    "geo": {
-      "latitude": 27.5920869,
-      "longitude": 89.87974589999999,
-      "min_latitude": 27.5877193,
-      "min_longitude": 89.8721123,
-      "max_latitude": 27.5961249,
-      "max_longitude": 89.88554479999999
-    },
-    "name": "Punakha"
+    "comments": null
   },
   "24": {
+    "name": "Wangdue Phodrang",
+    "code": null,
     "unofficial_names": [
       "Wangdi Phodrang",
       "Wangdiphodrang",
       "Wangdue",
       "Wangdue Phodrang"
     ],
+    "geo": {
+      "latitude": 27.4879018,
+      "longitude": 89.8996196,
+      "min_latitude": 27.474542,
+      "min_longitude": 89.8926686,
+      "max_latitude": 27.4991359,
+      "max_longitude": 89.9055432
+    },
     "translations": {
       "en": "Wangdue Phodrang",
       "ar": "مقاطعة وانغدو فودرانغ",
@@ -466,25 +544,35 @@
       "tr": "Wangdue Phodrang",
       "uk": "Вангді-Пходранг",
       "ur": "وانگدو پھودرانگ ضلع",
-      "vi": "Quận Wangdue Phodrang"
+      "vi": "Quận Wangdue Phodrang",
+      "lv": "Vangdi-Podrangas distrikts",
+      "ceb": "Wangdue Phodrang Dzongkhag",
+      "sr_Latn": "Vangdue Phodrang",
+      "lt": "Vangde Podrango apskritis",
+      "zh": "旺杜波德朗宗",
+      "ccp": "𑄃𑄧𑄠𑄁𑄓𑄪𑄠𑄬 𑄜𑄧𑄖𑄴𑄢𑄧𑄁",
+      "sl": "Okraj Vangdi Fodrang",
+      "ca": "Districte de Wangdue Phodrang"
     },
-    "geo": {
-      "latitude": 27.4879018,
-      "longitude": 89.8996196,
-      "min_latitude": 27.474542,
-      "min_longitude": 89.8926686,
-      "max_latitude": 27.4991359,
-      "max_longitude": 89.9055432
-    },
-    "name": "Wangdue Phodrang"
+    "comments": null
   },
   "31": {
+    "name": "Sarpang",
+    "code": null,
     "unofficial_names": [
       "Gaylegphug",
       "Geylegphug",
       "Sarbhang",
       "Sarpang"
     ],
+    "geo": {
+      "latitude": 26.9373041,
+      "longitude": 90.4879916,
+      "min_latitude": 26.7076319,
+      "min_longitude": 89.734461,
+      "max_latitude": 27.209321,
+      "max_longitude": 90.96380099999999
+    },
     "translations": {
       "en": "Sarpang",
       "bg": "Сарпанг",
@@ -507,23 +595,30 @@
       "sr": "Сарпанг",
       "sv": "Sarpang",
       "uk": "Сарпанг",
-      "ur": "سارپانگ ضلع"
+      "ur": "سارپانگ ضلع",
+      "ceb": "Sarpang Dzongkhag",
+      "sr_Latn": "Sarpang",
+      "zh": "盖莱普宗",
+      "ccp": "𑄥𑄢𑄴𑄛𑄧𑄁",
+      "ca": "Districte de Sarpang"
     },
-    "geo": {
-      "latitude": 26.9373041,
-      "longitude": 90.4879916,
-      "min_latitude": 26.7076319,
-      "min_longitude": 89.734461,
-      "max_latitude": 27.209321,
-      "max_longitude": 90.96380099999999
-    },
-    "name": "Sarpang"
+    "comments": null
   },
   "32": {
+    "name": "Trongsa",
+    "code": null,
     "unofficial_names": [
       "Tongsa",
       "Trongsa"
     ],
+    "geo": {
+      "latitude": 27.5002269,
+      "longitude": 90.5080634,
+      "min_latitude": 27.4940347,
+      "min_longitude": 90.5036116,
+      "max_latitude": 27.508043,
+      "max_longitude": 90.51571369999999
+    },
     "translations": {
       "en": "Trongsa",
       "ar": "مقاطعة ترونغزا",
@@ -561,20 +656,27 @@
       "tr": "Trongsa District",
       "uk": "Тронгса",
       "ur": "ترونگسا ضلع",
-      "vi": "Quận Trongsa"
+      "vi": "Quận Trongsa",
+      "lv": "Tongsā distrikts",
+      "ceb": "Trongsa Dzongkhag",
+      "lt": "Trongsos apskritis",
+      "zh": "通萨宗",
+      "ccp": "𑄑𑄳𑄢𑄧𑄁𑄥"
     },
-    "geo": {
-      "latitude": 27.5002269,
-      "longitude": 90.5080634,
-      "min_latitude": 27.4940347,
-      "min_longitude": 90.5036116,
-      "max_latitude": 27.508043,
-      "max_longitude": 90.51571369999999
-    },
-    "name": "Trongsa"
+    "comments": null
   },
   "33": {
+    "name": "Bumthang",
+    "code": null,
     "unofficial_names": "Bumthang",
+    "geo": {
+      "latitude": 27.641839,
+      "longitude": 90.6773046,
+      "min_latitude": 27.320946,
+      "min_longitude": 90.48443499999999,
+      "max_latitude": 28.090851,
+      "max_longitude": 91.0160089
+    },
     "translations": {
       "en": "Bumthang",
       "ar": "مقاطعة بامثانغ",
@@ -618,23 +720,31 @@
       "tr": "Bumthang District",
       "uk": "Бумтанг",
       "ur": "بومتھانگ ضلع",
-      "vi": "Bumthang"
+      "vi": "Bumthang",
+      "lv": "Bumtangas distrikts",
+      "ceb": "Bumthang Dzongkhag",
+      "sr_Latn": "Bumtang",
+      "zh": "布姆唐宗",
+      "ccp": "𑄝𑄪𑄟𑄴𑄗𑄁",
+      "ca": "Districte de Bumthang"
     },
-    "geo": {
-      "latitude": 27.641839,
-      "longitude": 90.6773046,
-      "min_latitude": 27.320946,
-      "min_longitude": 90.48443499999999,
-      "max_latitude": 28.090851,
-      "max_longitude": 91.0160089
-    },
-    "name": "Bumthang"
+    "comments": null
   },
   "34": {
+    "name": "Zhemgang",
+    "code": null,
     "unofficial_names": [
       "Shemgang",
       "Zhemgang"
     ],
+    "geo": {
+      "latitude": 27.1439047,
+      "longitude": 90.6903529,
+      "min_latitude": 27.1353061,
+      "min_longitude": 90.6856155,
+      "max_latitude": 27.1492833,
+      "max_longitude": 90.69565779999999
+    },
     "translations": {
       "en": "Zhemgang",
       "ar": "مقاطعة زيمغانغ",
@@ -671,23 +781,31 @@
       "tr": "Zhemgang",
       "uk": "Жемганг (дзонгхаг)",
       "ur": "ژیمگانگ ضلع",
-      "vi": "Zhemgang"
+      "vi": "Zhemgang",
+      "lv": "Žemgas distrikts",
+      "ceb": "Zhemgang Dzongkhag",
+      "lt": "Džemgchango apskritis",
+      "zh": "谢姆冈宗",
+      "ccp": "𑄏𑄬𑄟𑄴𑄉𑄧𑄁",
+      "ca": "Districte de Zhemgang"
     },
-    "geo": {
-      "latitude": 27.1439047,
-      "longitude": 90.6903529,
-      "min_latitude": 27.1353061,
-      "min_longitude": 90.6856155,
-      "max_latitude": 27.1492833,
-      "max_longitude": 90.69565779999999
-    },
-    "name": "Zhemgang"
+    "comments": null
   },
   "41": {
+    "name": "Trashigang",
+    "code": null,
     "unofficial_names": [
       "Tashigang",
       "Trashigang"
     ],
+    "geo": {
+      "latitude": 27.2566795,
+      "longitude": 91.7538817,
+      "min_latitude": 27.0165199,
+      "min_longitude": 91.378786,
+      "max_latitude": 27.482902,
+      "max_longitude": 92.12519789999999
+    },
     "translations": {
       "en": "Trashigang",
       "ar": "مقاطعة تراشيغانغ",
@@ -724,23 +842,31 @@
       "tr": "Trashigang District",
       "uk": "Трашіганг",
       "ur": "تراشیگانگ ضلع",
-      "vi": "Quận Trashigang"
+      "vi": "Quận Trashigang",
+      "lv": "Trašigas distrikts",
+      "ceb": "Trashigang Dzongkhag",
+      "lt": "Trašigango apskritis",
+      "zh": "塔希冈宗",
+      "ccp": "𑄑𑄳𑄢𑄥𑄨𑄉𑄧𑄁",
+      "ca": "Districte de Trashigang"
     },
-    "geo": {
-      "latitude": 27.2566795,
-      "longitude": 91.7538817,
-      "min_latitude": 27.0165199,
-      "min_longitude": 91.378786,
-      "max_latitude": 27.482902,
-      "max_longitude": 92.12519789999999
-    },
-    "name": "Trashigang"
+    "comments": null
   },
   "42": {
+    "name": "Monggar",
+    "code": null,
     "unofficial_names": [
       "Monggar",
       "Mongor"
     ],
+    "geo": {
+      "latitude": 27.275,
+      "longitude": 91.24,
+      "min_latitude": 27.2708807,
+      "min_longitude": 91.23415949999999,
+      "max_latitude": 27.280493,
+      "max_longitude": 91.2454034
+    },
     "translations": {
       "en": "Mongar",
       "ar": "مقاطعة مونغار",
@@ -778,23 +904,31 @@
       "tr": "Mongar District",
       "uk": "Монгар",
       "ur": "مونگار ضلع",
-      "vi": "Quận Mongar"
+      "vi": "Quận Mongar",
+      "lv": "Mongā distrikts",
+      "ceb": "Mongar",
+      "lt": "Mongaro apskritis",
+      "zh": "蒙加尔宗",
+      "ccp": "𑄟𑄧𑄁𑄉𑄢𑄴",
+      "ca": "Districte de Mongar"
     },
-    "geo": {
-      "latitude": 27.275,
-      "longitude": 91.24,
-      "min_latitude": 27.2708807,
-      "min_longitude": 91.23415949999999,
-      "max_latitude": 27.280493,
-      "max_longitude": 91.2454034
-    },
-    "name": "Monggar"
+    "comments": null
   },
   "43": {
+    "name": "Pemagatshel",
+    "code": null,
     "unofficial_names": [
       "Pema Gatshel",
       "Pemagatsel"
     ],
+    "geo": {
+      "latitude": 27.002382,
+      "longitude": 91.3469247,
+      "min_latitude": 26.8459449,
+      "min_longitude": 91.17381700000001,
+      "max_latitude": 27.1670959,
+      "max_longitude": 91.517646
+    },
     "translations": {
       "en": "Pemagatshel",
       "ar": "مقاطعة بيماغاتشيل",
@@ -832,25 +966,33 @@
       "tr": "Pemagatshe District",
       "uk": "Пемагацел",
       "ur": "پیماگاتشل ضلع",
-      "vi": "Quận Pemagatshel"
+      "vi": "Quận Pemagatshel",
+      "lv": "Pemagačeles distrikts",
+      "ceb": "Pemagatshel Dzongkhag",
+      "lt": "Pemagačelo apskritis",
+      "zh": "佩马加策尔宗",
+      "ccp": "𑄛𑄬𑄟𑄉𑄖𑄴𑄥𑄬𑄣𑄴",
+      "ca": "Districte de Pemagatshel"
     },
-    "geo": {
-      "latitude": 27.002382,
-      "longitude": 91.3469247,
-      "min_latitude": 26.8459449,
-      "min_longitude": 91.17381700000001,
-      "max_latitude": 27.1670959,
-      "max_longitude": 91.517646
-    },
-    "name": "Pemagatshel"
+    "comments": null
   },
   "44": {
+    "name": "Lhuentse",
+    "code": null,
     "unofficial_names": [
       "Lhuentse",
       "Lhun Tshi",
       "Lhuntshi",
       "Lhuntsi"
     ],
+    "geo": {
+      "latitude": 27.6649208,
+      "longitude": 91.1761004,
+      "min_latitude": 27.6492443,
+      "min_longitude": 91.1688424,
+      "max_latitude": 27.677438,
+      "max_longitude": 91.1892156
+    },
     "translations": {
       "en": "Lhuntse",
       "ar": "مقاطعة لانتس",
@@ -888,24 +1030,32 @@
       "tr": "Lhuntse District",
       "uk": "Лхунце",
       "ur": "لہنتسے ضلع",
-      "vi": "Tỉnh Lhuntse"
+      "vi": "Tỉnh Lhuntse",
+      "lv": "Lhunci distrikts",
+      "ceb": "Lhuentse Dzongkhag",
+      "lt": "Luncės apskritis",
+      "zh": "伦奇宗",
+      "ccp": "𑄣𑄪𑄁𑄥𑄬",
+      "ca": "Districte de Lhuntse"
     },
-    "geo": {
-      "latitude": 27.6649208,
-      "longitude": 91.1761004,
-      "min_latitude": 27.6492443,
-      "min_longitude": 91.1688424,
-      "max_latitude": 27.677438,
-      "max_longitude": 91.1892156
-    },
-    "name": "Lhuentse"
+    "comments": null
   },
   "45": {
+    "name": "Samdrup Jongkha",
+    "code": null,
     "unofficial_names": [
       "Samdruk Jongkhar",
       "Samdrup",
       "Samdrup Jongkha"
     ],
+    "geo": {
+      "latitude": 26.928696,
+      "longitude": 91.63721500000001,
+      "min_latitude": 26.777367,
+      "min_longitude": 90.995525,
+      "max_latitude": 27.2464701,
+      "max_longitude": 92.1221539
+    },
     "translations": {
       "en": "Samdrup Jongkhar",
       "ar": "مقاطعة سامدروب جونغخار",
@@ -943,22 +1093,30 @@
       "tr": "Samdrup Jonkh District",
       "uk": "Самдруп-Джонгхар",
       "ur": "سامدروپ جونگخار ضلع",
-      "vi": "Quận Samdrup Jongkhar"
+      "vi": "Quận Samdrup Jongkhar",
+      "lv": "Samdzupdzonkhā distrikts",
+      "ceb": "Samdrup Jongkhar Dzongkhag",
+      "lt": "Samdrupo Džongcharo apskritis",
+      "zh": "萨姆德鲁琼卡尔宗",
+      "ccp": "𑄥𑄳𑄠𑄟𑄴𑄓𑄳𑄢𑄪𑄛𑄴 𑄎𑄧𑄁𑄈𑄢𑄴",
+      "ca": "Districte de Samdrup Jongkhar"
     },
-    "geo": {
-      "latitude": 26.928696,
-      "longitude": 91.63721500000001,
-      "min_latitude": 26.777367,
-      "min_longitude": 90.995525,
-      "max_latitude": 27.2464701,
-      "max_longitude": 92.1221539
-    },
-    "name": "Samdrup Jongkha"
+    "comments": null
   },
   "GA": {
+    "name": "Gasa",
+    "code": null,
     "unofficial_names": [
       "Gaza"
     ],
+    "geo": {
+      "latitude": 28.0185886,
+      "longitude": 89.9253233,
+      "min_latitude": 27.687483,
+      "min_longitude": 89.43694289999999,
+      "max_latitude": 28.323778,
+      "max_longitude": 90.617648
+    },
     "translations": {
       "en": "Gasa",
       "ar": "مقاطعة غاسا",
@@ -998,22 +1156,29 @@
       "tr": "Gasa District",
       "uk": "Гаса",
       "ur": "گاسا ضلع",
-      "vi": "Quận Gasa"
+      "vi": "Quận Gasa",
+      "lv": "Gasas distrikts",
+      "ceb": "Gasa",
+      "zh": "加萨宗",
+      "ccp": "𑄉𑄥",
+      "ca": "Districte de Gasa"
     },
-    "geo": {
-      "latitude": 28.0185886,
-      "longitude": 89.9253233,
-      "min_latitude": 27.687483,
-      "min_longitude": 89.43694289999999,
-      "max_latitude": 28.323778,
-      "max_longitude": 90.617648
-    },
-    "name": "Gasa"
+    "comments": null
   },
   "TY": {
+    "name": "Trashi Yangtse",
+    "code": null,
     "unofficial_names": [
       "Tashiyangtse"
     ],
+    "geo": {
+      "latitude": 27.583333,
+      "longitude": 91.466667,
+      "min_latitude": 27.383962,
+      "min_longitude": 91.31767270000002,
+      "max_latitude": 28.050773,
+      "max_longitude": 91.73789980000001
+    },
     "translations": {
       "en": "Trashiyangtse",
       "ar": "مقاطعة تراشيانغتس",
@@ -1052,17 +1217,16 @@
       "tr": "Trashiyangste",
       "uk": "Трашіянгце",
       "ur": "تراشییانگتسے ضلع",
-      "vi": "Trashiyangste"
+      "vi": "Trashiyangste",
+      "lv": "Trašijanci distrikts",
+      "ceb": "Trashi Yangste",
+      "lt": "Trašijangstės apskritis",
+      "zh": "塔希央奇宗",
+      "ccp": "𑄑𑄳𑄢𑄥𑄨𑄠𑄁𑄥𑄬",
+      "sl": "Okraj Trašijangce",
+      "ca": "Districte de Trashiyamgtse"
     },
-    "geo": {
-      "latitude": 27.583333,
-      "longitude": 91.466667,
-      "min_latitude": 27.383962,
-      "min_longitude": 91.31767270000002,
-      "max_latitude": 28.050773,
-      "max_longitude": 91.73789980000001
-    },
-    "name": "Trashi Yangtse"
+    "comments": null
   }
 }
 

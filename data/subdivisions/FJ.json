@@ -1,6 +1,16 @@
 {
   "C": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": "Central",
+    "geo": {
+      "latitude": -17.9453123,
+      "longitude": 178.2461183,
+      "min_latitude": -18.423275,
+      "min_longitude": 177.772764,
+      "max_latitude": -17.376591,
+      "max_longitude": 178.772931
+    },
     "translations": {
       "en": "Central",
       "ar": "القسم المركزي",
@@ -36,20 +46,28 @@
       "th": "แคว้นเลนินกราด",
       "tr": "Central Division",
       "ur": "سینٹرل ڈویژن",
-      "vi": "Khu vực Trung tâm, Fiji"
+      "vi": "Khu vực Trung tâm, Fiji",
+      "lv": "Centrālais apgabals",
+      "ceb": "Central Division",
+      "zh": "中央大区 (斐济)",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "uk": "Центральний округ",
+      "ca": "Divisió Central"
     },
-    "geo": {
-      "latitude": -17.9453123,
-      "longitude": 178.2461183,
-      "min_latitude": -18.423275,
-      "min_longitude": 177.772764,
-      "max_latitude": -17.376591,
-      "max_longitude": 178.772931
-    },
-    "name": "Central"
+    "comments": null
   },
   "E": {
+    "name": "Eastern",
+    "code": null,
     "unofficial_names": "Eastern",
+    "geo": {
+      "latitude": -17.688972,
+      "longitude": 178.8070886,
+      "min_latitude": -20.6694303,
+      "min_longitude": 177.9588489,
+      "max_latitude": -17.0019299,
+      "max_longitude": -178.3928847
+    },
     "translations": {
       "en": "Eastern",
       "ar": "القسم الشرقي، فيجي",
@@ -84,20 +102,28 @@
       "th": "อีสเตอร์ ดิวิชั่น",
       "tr": "Eastern Division",
       "ur": "یاستیرن ڈویژن",
-      "vi": "Khu vực Đông, Fiji"
+      "vi": "Khu vực Đông, Fiji",
+      "lv": "Austrumu apgabals",
+      "ceb": "Eastern Division",
+      "zh": "东部大区",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "uk": "Східний округ",
+      "ca": "Divisió Est"
     },
-    "geo": {
-      "latitude": -17.688972,
-      "longitude": 178.8070886,
-      "min_latitude": -20.6694303,
-      "min_longitude": 177.9588489,
-      "max_latitude": -17.0019299,
-      "max_longitude": -178.3928847
-    },
-    "name": "Eastern"
+    "comments": null
   },
   "N": {
+    "name": "Northern",
+    "code": null,
     "unofficial_names": "Northern",
+    "geo": {
+      "latitude": -16.6268225,
+      "longitude": 179.0179332,
+      "min_latitude": -17.1142062,
+      "min_longitude": 178.2716609,
+      "max_latitude": -15.7159274,
+      "max_longitude": -179.1542306
+    },
     "translations": {
       "en": "Northern",
       "ar": "الشعبة الشمالية",
@@ -132,20 +158,28 @@
       "th": "นอร์ทเทิร์น ดีพาทเม้น",
       "tr": "Northern Division",
       "ur": "ناردرن ڈویژن",
-      "vi": "Khu vực Bắc"
+      "vi": "Khu vực Bắc",
+      "lv": "Ziemeļu apgabals",
+      "ceb": "Northern Division (dibisyon)",
+      "zh": "北部大区",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "uk": "Північний округ",
+      "ca": "Divisió Nord"
     },
-    "geo": {
-      "latitude": -16.6268225,
-      "longitude": 179.0179332,
-      "min_latitude": -17.1142062,
-      "min_longitude": 178.2716609,
-      "max_latitude": -15.7159274,
-      "max_longitude": -179.1542306
-    },
-    "name": "Northern"
+    "comments": null
   },
   "R": {
+    "name": "Rotuma",
+    "code": null,
     "unofficial_names": "Rotuma",
+    "geo": {
+      "latitude": -12.5025069,
+      "longitude": 177.0724164,
+      "min_latitude": -12.5226892,
+      "min_longitude": 177.0109157,
+      "max_latitude": -12.4795352,
+      "max_longitude": 177.1373037
+    },
     "translations": {
       "en": "Rotuma",
       "ar": "روتوما",
@@ -190,20 +224,30 @@
       "tr": "Rotuma",
       "uk": "Ротума",
       "ur": "روتوما",
-      "vi": "Rotuma"
+      "vi": "Rotuma",
+      "lv": "Rotuma",
+      "ceb": "Rotuma Island",
+      "sr_Latn": "Rotuma",
+      "zh": "罗图马岛",
+      "ccp": "𑄢𑄧𑄑𑄨𑄅𑄪𑄟",
+      "yo": "Rotuma",
+      "mk": "Ротума",
+      "bg": "Ротума"
     },
-    "geo": {
-      "latitude": -12.5025069,
-      "longitude": 177.0724164,
-      "min_latitude": -12.5226892,
-      "min_longitude": 177.0109157,
-      "max_latitude": -12.4795352,
-      "max_longitude": 177.1373037
-    },
-    "name": "Rotuma"
+    "comments": null
   },
   "W": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": "Western",
+    "geo": {
+      "latitude": -17.7510845,
+      "longitude": 177.7763333,
+      "min_latitude": -18.5983401,
+      "min_longitude": 176.921122,
+      "max_latitude": -16.6962956,
+      "max_longitude": 178.454681
+    },
     "translations": {
       "en": "Western",
       "ar": "القسم الغربي",
@@ -238,19 +282,28 @@
       "th": "เวสเทิร์น ดิวิชัน",
       "tr": "Western Division",
       "ur": "ویسٹرن ڈویژن",
-      "vi": "Khu vực Tây"
+      "vi": "Khu vực Tây",
+      "lv": "Rietumu apgabals",
+      "ceb": "Western Division (dibisyon sa Fiji)",
+      "zh": "西部大区",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "uk": "Західний округ",
+      "ca": "Divisió Oest"
     },
-    "geo": {
-      "latitude": -17.7510845,
-      "longitude": 177.7763333,
-      "min_latitude": -18.5983401,
-      "min_longitude": 176.921122,
-      "max_latitude": -16.6962956,
-      "max_longitude": 178.454681
-    },
-    "name": "Western"
+    "comments": null
   },
   "03": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "كاكاودروف",
       "en": "Cakaudrove",
@@ -265,10 +318,25 @@
       "pt": "Cakaudrove",
       "sv": "Thakaundrove Province",
       "ta": "தகாந்துரோவ் மாகாணம்",
-      "vi": "Cakaudrove"
-    }
+      "vi": "Cakaudrove",
+      "ceb": "Thakaundrove Province",
+      "zh": "卡考德罗韦省",
+      "ccp": "𑄇𑄬𑄇𑄅𑄪𑄓𑄳𑄢𑄮𑄛𑄴"
+    },
+    "comments": null
   },
   "14": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "da": "Tailevu Province",
       "en": "Tailevu",
@@ -283,10 +351,26 @@
       "pt": "Tailevu",
       "sv": "Tailevu Province",
       "ta": "தைலிவு மாகாணம்",
-      "vi": "Tailevu"
-    }
+      "vi": "Tailevu",
+      "ceb": "Tailevu Province",
+      "zh": "泰萊武省",
+      "ccp": "𑄑𑄭𑄣𑄬𑄞𑄪",
+      "nb": "Tailevu Province"
+    },
+    "comments": null
   },
   "01": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Ba (Provinz)",
       "en": "Ba",
@@ -305,10 +389,25 @@
       "sv": "Ba Province",
       "ta": "இம்பா மாகாணம்",
       "vi": "Ba (tỉnh)",
-      "zh": "巴省"
-    }
+      "zh": "巴省",
+      "ceb": "Ba Province",
+      "ar": "با",
+      "ccp": "𑄝"
+    },
+    "comments": null
   },
   "02": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Bua",
       "fr": "province de Bua",
@@ -321,10 +420,28 @@
       "pt": "Bua",
       "sv": "Bua Province",
       "ta": "இம்புவா மாகாணம்",
-      "vi": "Bua"
-    }
+      "vi": "Bua",
+      "ceb": "Bua Province",
+      "ar": "محافظة بوا",
+      "zh": "布阿省",
+      "ru": "Мбуа",
+      "ccp": "𑄝𑄱",
+      "nb": "Bua Province"
+    },
+    "comments": null
   },
   "04": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Kadavu",
       "es": "Kadavu",
@@ -337,10 +454,26 @@
       "nl": "Kadavu",
       "pt": "Kadavu",
       "ta": "கன்டவு மாகாணம்",
-      "vi": "Kadavu"
-    }
+      "vi": "Kadavu",
+      "zh": "坎達武省",
+      "ru": "Кандаву",
+      "ccp": "𑄇𑄧𑄓𑄞𑄪",
+      "nb": "Kadavu Province"
+    },
+    "comments": null
   },
   "05": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Lau",
       "fr": "province de Lau",
@@ -353,10 +486,26 @@
       "nl": "Lau",
       "sv": "Lau Province",
       "ta": "லவு மாகாணம்",
-      "vi": "Lau"
-    }
+      "vi": "Lau",
+      "ceb": "Lau Province",
+      "zh": "劳省",
+      "ru": "Лау",
+      "ccp": "𑄣𑄅𑄪"
+    },
+    "comments": null
   },
   "06": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Lomaiviti",
       "es": "Lomaiviti",
@@ -369,10 +518,28 @@
       "nl": "Lomaiviti",
       "sv": "Lomaiviti Province",
       "ta": "லோமாய்விட்டி மாகாணம்",
-      "vi": "Lomaiviti"
-    }
+      "vi": "Lomaiviti",
+      "ceb": "Lomaiviti Province",
+      "zh": "洛迈维提省",
+      "ru": "Ломаивичи",
+      "ccp": "𑄣𑄮𑄟𑄭𑄞𑄨𑄑𑄨",
+      "uk": "Ломаївіті",
+      "nb": "Lomaiviti Province"
+    },
+    "comments": null
   },
   "07": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Macuata",
       "es": "Macuata",
@@ -386,10 +553,26 @@
       "pt": "Macuata",
       "sv": "Mathuata Province",
       "ta": "மதுவாட்டா மாகாணம்",
-      "vi": "Macuata"
-    }
+      "vi": "Macuata",
+      "ceb": "Mathuata Province",
+      "zh": "馬庫阿塔省",
+      "ccp": "𑄟𑄳𑄠𑄇𑄱𑄑",
+      "nb": "Macuata Province"
+    },
+    "comments": null
   },
   "08": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Nadroga-Navosa",
       "es": "Nadroga-Navosa",
@@ -404,10 +587,26 @@
       "pt": "Nadroga-Navosa",
       "sv": "Nandronga and Navosa Province",
       "ta": "நண்டுரோங்கா நவோசா மாகாணம்",
-      "vi": "Nadroga-Navosa"
-    }
+      "vi": "Nadroga-Navosa",
+      "ceb": "Nandronga and Navosa Province",
+      "zh": "那德羅加諾沃薩省",
+      "ru": "Нандронга-Навоса (провинция)",
+      "ccp": "𑄚𑄓𑄳𑄢𑄮𑄉-𑄚𑄞𑄮𑄥"
+    },
+    "comments": null
   },
   "09": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Naitasiri",
       "es": "Naitasiri",
@@ -422,10 +621,26 @@
       "pt": "Naitasiri",
       "sv": "Naitasiri Province",
       "ta": "நைடாசிரி மாகாணம்",
-      "vi": "Naitasiri"
-    }
+      "vi": "Naitasiri",
+      "ceb": "Naitasiri Province",
+      "zh": "奈塔西里省",
+      "ccp": "𑄚𑄭𑄑𑄥𑄨𑄢𑄨",
+      "nb": "Naitasiri Province"
+    },
+    "comments": null
   },
   "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Namosi",
       "es": "Namosi",
@@ -439,10 +654,26 @@
       "pt": "Namosi",
       "sv": "Namosi Province",
       "ta": "நமோசி மாகாணம்",
-      "vi": "Namosi"
-    }
+      "vi": "Namosi",
+      "ceb": "Namosi Province",
+      "zh": "納莫西省",
+      "ccp": "𑄚𑄟𑄮𑄥𑄨",
+      "nb": "Namosi Province"
+    },
+    "comments": null
   },
   "11": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Ra",
       "es": "Ra",
@@ -457,10 +688,27 @@
       "pt": "Ra",
       "sv": "Ra Province",
       "ta": "ரா மாகாணம்",
-      "vi": "Ra"
-    }
+      "vi": "Ra",
+      "ceb": "Ra Province",
+      "zh": "拉省",
+      "ru": "Ра",
+      "ccp": "𑄢",
+      "nb": "Ra Province"
+    },
+    "comments": null
   },
   "12": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Rewa",
       "es": "Rewa (Fiyi)",
@@ -476,10 +724,25 @@
       "pt": "Rewa",
       "sv": "Rewa Province",
       "ta": "ரெவா மாகாணம்",
-      "vi": "Rewa"
-    }
+      "vi": "Rewa",
+      "ceb": "Rewa Province",
+      "zh": "雷瓦省",
+      "ccp": "𑄢𑄬𑄤"
+    },
+    "comments": null
   },
   "13": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Serua",
       "es": "Serua",
@@ -495,8 +758,13 @@
       "ru": "Серуа",
       "sv": "Serua Province",
       "ta": "செருவா மாகாணம்",
-      "vi": "Serua"
-    }
+      "vi": "Serua",
+      "ceb": "Serua Province",
+      "zh": "塞魯阿省",
+      "ccp": "𑄥𑄬𑄢𑄪𑄠",
+      "nb": "Serua Province"
+    },
+    "comments": null
   }
 }
 

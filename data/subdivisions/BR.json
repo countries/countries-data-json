@@ -1,6 +1,16 @@
 {
   "AC": {
+    "name": "Acre",
+    "code": null,
     "unofficial_names": "Acre",
+    "geo": {
+      "latitude": -9.0237964,
+      "longitude": -70.81199529999999,
+      "min_latitude": -11.1452221,
+      "min_longitude": -73.9915154,
+      "max_latitude": -7.111826799999999,
+      "max_longitude": -66.62407089999999
+    },
     "translations": {
       "en": "Acre",
       "af": "Acre",
@@ -56,20 +66,34 @@
       "uk": "Акрі",
       "ur": "اکری",
       "vi": "Acre",
-      "zh": "阿克里州"
+      "zh": "阿克里州",
+      "cy": "Acre",
+      "ceb": "Acre",
+      "sr_Latn": "Akre",
+      "yue_Hans": "阿克里州",
+      "sq": "Acre",
+      "ccp": "𑄃𑄬𑄇𑄧𑄢𑄴",
+      "ga": "Acre",
+      "yue": "阿克里州",
+      "yo": "Acre",
+      "uz": "Akri",
+      "bs": "Acre",
+      "mk": "Акре"
     },
-    "geo": {
-      "latitude": -9.0237964,
-      "longitude": -70.81199529999999,
-      "min_latitude": -11.1452221,
-      "min_longitude": -73.9915154,
-      "max_latitude": -7.111826799999999,
-      "max_longitude": -66.62407089999999
-    },
-    "name": "Acre"
+    "comments": null
   },
   "AL": {
+    "name": "Alagoas",
+    "code": null,
     "unofficial_names": "Alagoas",
+    "geo": {
+      "latitude": -9.5713058,
+      "longitude": -36.7819505,
+      "min_latitude": -10.5037567,
+      "min_longitude": -38.2273267,
+      "max_latitude": -8.8131293,
+      "max_longitude": -35.1522142
+    },
     "translations": {
       "en": "Alagoas",
       "af": "Alagoas",
@@ -125,20 +149,36 @@
       "tr": "Alagoas",
       "uk": "Алагоас",
       "ur": "الاگواس",
-      "vi": "Alagoas"
+      "vi": "Alagoas",
+      "cy": "Alagoas",
+      "ceb": "Alagoas",
+      "sr_Latn": "Alagoas",
+      "zh": "阿拉戈斯州",
+      "yue_Hans": "阿拉瓜斯州",
+      "sq": "Alagoas",
+      "ccp": "𑄃𑄣𑄉𑄃𑄮𑄌𑄴",
+      "ga": "Alagoas",
+      "kk": "Алагоас",
+      "yue": "阿拉瓜斯州",
+      "yo": "Alagoas",
+      "uz": "Alagoas",
+      "bs": "Alagoas",
+      "mk": "Алагоас"
     },
-    "geo": {
-      "latitude": -9.5713058,
-      "longitude": -36.7819505,
-      "min_latitude": -10.5037567,
-      "min_longitude": -38.2273267,
-      "max_latitude": -8.8131293,
-      "max_longitude": -35.1522142
-    },
-    "name": "Alagoas"
+    "comments": null
   },
   "AM": {
+    "name": "Amazonas",
+    "code": null,
     "unofficial_names": "Amazonas",
+    "geo": {
+      "latitude": -3.4168427,
+      "longitude": -65.8560646,
+      "min_latitude": -9.8180491,
+      "min_longitude": -73.8015533,
+      "max_latitude": 2.246628,
+      "max_longitude": -56.0975519
+    },
     "translations": {
       "en": "Amazonas",
       "af": "Amazonas",
@@ -193,20 +233,35 @@
       "tr": "Amazonas",
       "uk": "Амазонас",
       "ur": "ایمازوناس",
-      "vi": "Amazonas"
+      "vi": "Amazonas",
+      "cy": "Amazonas",
+      "ceb": "Amazonas",
+      "sr_Latn": "Amazonas",
+      "zh": "亚马孙州",
+      "yue_Hans": "亚马逊州",
+      "sq": "Amazonas",
+      "ccp": "𑄃𑄟𑄎𑄧𑄚𑄌𑄴",
+      "ga": "Amazonas",
+      "yue": "亞馬遜州",
+      "yo": "Amazonas",
+      "uz": "Amazonas",
+      "bs": "Amazonas",
+      "mk": "Амазон"
     },
-    "geo": {
-      "latitude": -3.4168427,
-      "longitude": -65.8560646,
-      "min_latitude": -9.8180491,
-      "min_longitude": -73.8015533,
-      "max_latitude": 2.246628,
-      "max_longitude": -56.0975519
-    },
-    "name": "Amazonas"
+    "comments": null
   },
   "AP": {
+    "name": "Amapá",
+    "code": null,
     "unofficial_names": "Amapá",
+    "geo": {
+      "latitude": 2.0447397,
+      "longitude": -50.78742219999999,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Amapá",
       "af": "Amapá",
@@ -260,20 +315,35 @@
       "tr": "Amapá",
       "uk": "Амапа",
       "ur": "اماپا",
-      "vi": "Amapá"
+      "vi": "Amapá",
+      "cy": "Amapá",
+      "ceb": "Amapá (estado)",
+      "sr_Latn": "Amapa",
+      "zh": "阿马帕",
+      "yue_Hans": "阿马帕州",
+      "sq": "Amapá",
+      "ccp": "𑄃𑄟𑄴𑄛",
+      "ga": "Amapá",
+      "kk": "Амапа",
+      "yue": "阿馬帕州",
+      "yo": "Amapá",
+      "bs": "Amapá",
+      "mk": "Амапа"
     },
-    "geo": {
-      "latitude": 2.0447397,
-      "longitude": -50.78742219999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Amapá"
+    "comments": null
   },
   "BA": {
+    "name": "Bahia",
+    "code": null,
     "unofficial_names": "Bahia",
+    "geo": {
+      "latitude": -12.579738,
+      "longitude": -41.7007272,
+      "min_latitude": -18.3359162,
+      "min_longitude": -46.6170906,
+      "max_latitude": -8.5328229,
+      "max_longitude": -37.3484113
+    },
     "translations": {
       "en": "Bahia",
       "af": "Bahia",
@@ -328,20 +398,37 @@
       "tr": "Bahia",
       "uk": "Баїя",
       "ur": "باہیا",
-      "vi": "Bahia"
+      "vi": "Bahia",
+      "cy": "Bahia",
+      "ceb": "Bahia (estado)",
+      "sr_Latn": "Baija",
+      "zh": "巴伊亚",
+      "yue_Hans": "巴伊亚州",
+      "sq": "Bahia",
+      "ccp": "𑄝𑄦𑄨𑄠",
+      "ga": "Bahia",
+      "pa": "ਬਾਹੀਆ",
+      "kk": "Баия",
+      "yue": "巴伊亞州",
+      "yo": "Bahia",
+      "uz": "Baiya",
+      "bs": "Bahia",
+      "mk": "Баија"
     },
-    "geo": {
-      "latitude": -12.579738,
-      "longitude": -41.7007272,
-      "min_latitude": -18.3359162,
-      "min_longitude": -46.6170906,
-      "max_latitude": -8.5328229,
-      "max_longitude": -37.3484113
-    },
-    "name": "Bahia"
+    "comments": null
   },
   "CE": {
+    "name": "Ceará",
+    "code": null,
     "unofficial_names": "Ceará",
+    "geo": {
+      "latitude": -5.4983977,
+      "longitude": -39.3206241,
+      "min_latitude": -7.858185100000001,
+      "min_longitude": -41.4235126,
+      "max_latitude": -2.7844329,
+      "max_longitude": -37.2530223
+    },
     "translations": {
       "en": "Ceará",
       "af": "Ceará",
@@ -395,20 +482,35 @@
       "tr": "Ceará",
       "uk": "Сеара",
       "ur": "سئیرا",
-      "vi": "Ceará"
+      "vi": "Ceará",
+      "cy": "Ceará",
+      "ceb": "Ceará (estado sa Brasil)",
+      "sr_Latn": "Seara",
+      "zh": "塞阿腊",
+      "yue_Hans": "塞阿拉州",
+      "ccp": "𑄥𑄨𑄠𑄬𑄢",
+      "ga": "Ceará",
+      "kk": "Сеара",
+      "yue": "塞阿拉州",
+      "yo": "Ceará",
+      "uz": "Seara",
+      "bs": "Ceará",
+      "mk": "Сеара"
     },
-    "geo": {
-      "latitude": -5.4983977,
-      "longitude": -39.3206241,
-      "min_latitude": -7.858185100000001,
-      "min_longitude": -41.4235126,
-      "max_latitude": -2.7844329,
-      "max_longitude": -37.2530223
-    },
-    "name": "Ceará"
+    "comments": null
   },
   "DF": {
+    "name": "Distrito Federal",
+    "code": null,
     "unofficial_names": "Distrito Federal",
+    "geo": {
+      "latitude": -15.826691,
+      "longitude": -47.92182039999999,
+      "min_latitude": -16.0517624,
+      "min_longitude": -48.2870947,
+      "max_latitude": -15.5001712,
+      "max_longitude": -47.3081926
+    },
     "translations": {
       "en": "Federal District",
       "af": "Federale Distrik",
@@ -459,20 +561,34 @@
       "tr": "Federal Bölge",
       "uk": "Федеральний округ у Бразилії",
       "ur": "وفاقی ضلع",
-      "vi": "Quận liên bang Brasil"
+      "vi": "Quận liên bang Brasil",
+      "cy": "Distrito Federal",
+      "ceb": "Federal District",
+      "sr_Latn": "Savezni distrikt Brazila",
+      "lt": "Federalinė sritis",
+      "zh": "聯邦區",
+      "yue_Hans": "联邦区",
+      "sq": "Distrikti Federal i Brazilit",
+      "ccp": "𑄜𑄬𑄓𑄬𑄢𑄣𑄴 𑄎𑄬𑄣",
+      "yue": "聯邦區",
+      "yo": "Brazilian Federal District",
+      "uz": "Federal okrug",
+      "mk": "Федерален округ"
     },
-    "geo": {
-      "latitude": -15.826691,
-      "longitude": -47.92182039999999,
-      "min_latitude": -16.0517624,
-      "min_longitude": -48.2870947,
-      "max_latitude": -15.5001712,
-      "max_longitude": -47.3081926
-    },
-    "name": "Distrito Federal"
+    "comments": null
   },
   "ES": {
+    "name": "Espírito Santo",
+    "code": null,
     "unofficial_names": "Espírito Santo",
+    "geo": {
+      "latitude": -19.1834229,
+      "longitude": -40.3088626,
+      "min_latitude": -21.3017845,
+      "min_longitude": -41.8797894,
+      "max_latitude": -17.891947,
+      "max_longitude": -28.8359374
+    },
     "translations": {
       "en": "Espírito Santo",
       "af": "Espírito Santo",
@@ -525,20 +641,35 @@
       "tr": "Espírito Santo",
       "uk": "Еспіріту-Санту",
       "ur": "اسپیریتو سانتو",
-      "vi": "Espírito Santo"
+      "vi": "Espírito Santo",
+      "cy": "Espírito Santo",
+      "ceb": "Espírito Santo (estado)",
+      "sr_Latn": "Espirito Santo",
+      "zh": "圣埃斯皮里图州",
+      "yue_Hans": "圣埃斯皮里图州",
+      "ccp": "𑄃𑄬𑄌𑄴𑄛𑄨𑄢𑄨𑄑𑄮 𑄥𑄚𑄴𑄑𑄮",
+      "ga": "Espírito Santo",
+      "hy": "Էսպիրիտո Սանտո",
+      "yue": "聖埃斯皮里圖州",
+      "yo": "Espírito Santo",
+      "uz": "Espiritu-Santu",
+      "bs": "Espírito Santo",
+      "mk": "Еспирито Санто"
     },
-    "geo": {
-      "latitude": -19.1834229,
-      "longitude": -40.3088626,
-      "min_latitude": -21.3017845,
-      "min_longitude": -41.8797894,
-      "max_latitude": -17.891947,
-      "max_longitude": -28.8359374
-    },
-    "name": "Espírito Santo"
+    "comments": null
   },
   "GO": {
+    "name": "Goiás",
+    "code": null,
     "unofficial_names": "Goiás",
+    "geo": {
+      "latitude": -15.93397,
+      "longitude": -50.1403832,
+      "min_latitude": -15.9523406,
+      "min_longitude": -50.1606536,
+      "max_latitude": -15.9224628,
+      "max_longitude": -50.1251296
+    },
     "translations": {
       "en": "Goiás",
       "af": "Goiás",
@@ -592,20 +723,34 @@
       "tr": "Goiás",
       "uk": "Гояс",
       "ur": "گوئیاس",
-      "vi": "Goiás"
+      "vi": "Goiás",
+      "cy": "Goiás",
+      "ceb": "Goiás (estado)",
+      "sr_Latn": "Gojas",
+      "zh": "戈亚斯",
+      "yue_Hans": "戈亚斯州",
+      "ccp": "𑄉𑄮𑄠𑄌𑄴",
+      "ga": "Goiás",
+      "yue": "戈亞斯州",
+      "yo": "Goiás",
+      "uz": "Goyas",
+      "bs": "Goiás",
+      "mk": "Гојас"
     },
-    "geo": {
-      "latitude": -15.93397,
-      "longitude": -50.1403832,
-      "min_latitude": -15.9523406,
-      "min_longitude": -50.1606536,
-      "max_latitude": -15.9224628,
-      "max_longitude": -50.1251296
-    },
-    "name": "Goiás"
+    "comments": null
   },
   "MA": {
+    "name": "Maranhão",
+    "code": null,
     "unofficial_names": "Maranhão",
+    "geo": {
+      "latitude": -4.9609498,
+      "longitude": -45.2744159,
+      "min_latitude": -10.2617676,
+      "min_longitude": -48.7551446,
+      "max_latitude": -1.049999,
+      "max_longitude": -41.7958785
+    },
     "translations": {
       "en": "Maranhão",
       "af": "Maranhão",
@@ -659,20 +804,35 @@
       "tr": "Maranhão",
       "uk": "Мараньян",
       "ur": "مارانہاؤ",
-      "vi": "Maranhão"
+      "vi": "Maranhão",
+      "cy": "Maranhão",
+      "ceb": "Maranhão (estado)",
+      "sr_Latn": "Maranjao",
+      "zh": "马拉尼昂州",
+      "yue_Hans": "马拉尼昂州",
+      "ccp": "𑄟𑄢𑄚𑄴𑄦𑄃𑄮",
+      "ga": "Maranhão",
+      "kk": "Мараньян",
+      "yue": "馬拉尼昂州",
+      "yo": "Maranhão",
+      "uz": "Maranyan",
+      "bs": "Maranhão",
+      "mk": "Марањао"
     },
-    "geo": {
-      "latitude": -4.9609498,
-      "longitude": -45.2744159,
-      "min_latitude": -10.2617676,
-      "min_longitude": -48.7551446,
-      "max_latitude": -1.049999,
-      "max_longitude": -41.7958785
-    },
-    "name": "Maranhão"
+    "comments": null
   },
   "MG": {
+    "name": "Minas Gerais",
+    "code": null,
     "unofficial_names": "Minas Gerais",
+    "geo": {
+      "latitude": -18.512178,
+      "longitude": -44.5550308,
+      "min_latitude": -22.9227576,
+      "min_longitude": -51.0460748,
+      "max_latitude": -14.233183,
+      "max_longitude": -39.8568263
+    },
     "translations": {
       "en": "Minas Gerais",
       "af": "Minas Gerais",
@@ -727,20 +887,36 @@
       "tr": "Minas Gerais",
       "uk": "Мінас-Жерайс",
       "ur": "میناس گیرائس",
-      "vi": "Minas Gerais"
+      "vi": "Minas Gerais",
+      "cy": "Minas Gerais",
+      "ceb": "Minas Gerais",
+      "sr_Latn": "Minas Žerais",
+      "zh": "米纳斯吉拉斯",
+      "yue_Hans": "米纳吉拉斯州",
+      "sq": "Minas Gerais",
+      "ccp": "𑄟𑄭𑄚𑄌𑄴 𑄎𑄬𑄢𑄭𑄌𑄴",
+      "ga": "Minas Gerais",
+      "kk": "Минас-Жерайс",
+      "yue": "米納吉拉斯州",
+      "yo": "Minas Gerais",
+      "uz": "Minas-jerais",
+      "bs": "Minas Gerais",
+      "mk": "Минас Жераис"
     },
-    "geo": {
-      "latitude": -18.512178,
-      "longitude": -44.5550308,
-      "min_latitude": -22.9227576,
-      "min_longitude": -51.0460748,
-      "max_latitude": -14.233183,
-      "max_longitude": -39.8568263
-    },
-    "name": "Minas Gerais"
+    "comments": null
   },
   "MS": {
+    "name": "Mato Grosso do Sul",
+    "code": null,
     "unofficial_names": "Mato Grosso do Sul",
+    "geo": {
+      "latitude": -20.7722295,
+      "longitude": -54.7851531,
+      "min_latitude": -24.0561184,
+      "min_longitude": -58.16705729999999,
+      "max_latitude": -17.1666336,
+      "max_longitude": -50.9229023
+    },
     "translations": {
       "en": "Mato Grosso do Sul",
       "af": "Mato Grosso do Sul",
@@ -794,20 +970,35 @@
       "tr": "Mato Grosso do Sul",
       "uk": "Мату-Гросу-ду-Сул",
       "ur": "جنوبی ماتو گروسو",
-      "vi": "Mato Grosso do Sul"
+      "vi": "Mato Grosso do Sul",
+      "cy": "Mato Grosso do Sul",
+      "ceb": "Mato Grosso do Sul",
+      "sr_Latn": "Mato Groso do Sul",
+      "zh": "南马托格罗索州",
+      "yue_Hans": "南马托格罗索州",
+      "sq": "Mato Grosso do Sul",
+      "ccp": "𑄟𑄑𑄮 𑄉𑄳𑄢𑄥𑄮 𑄓𑄮 𑄥𑄪𑄣𑄴",
+      "ga": "Mato Grosso do Sul",
+      "yue": "南馬托格羅索州",
+      "yo": "Mato Grosso do Sul",
+      "uz": "Matu-Grosu-du-Sul",
+      "bs": "Mato Grosso do Sul",
+      "mk": "Јужно Мато Гросо"
     },
-    "geo": {
-      "latitude": -20.7722295,
-      "longitude": -54.7851531,
-      "min_latitude": -24.0561184,
-      "min_longitude": -58.16705729999999,
-      "max_latitude": -17.1666336,
-      "max_longitude": -50.9229023
-    },
-    "name": "Mato Grosso do Sul"
+    "comments": null
   },
   "MT": {
+    "name": "Mato Grosso",
+    "code": null,
     "unofficial_names": "Mato Grosso",
+    "geo": {
+      "latitude": -12.6818712,
+      "longitude": -56.921099,
+      "min_latitude": -18.0420517,
+      "min_longitude": -61.63319459999999,
+      "max_latitude": -7.349037199999999,
+      "max_longitude": -50.2247999
+    },
     "translations": {
       "en": "Mato Grosso",
       "af": "Mato Grosso",
@@ -861,20 +1052,35 @@
       "tr": "Mato Grosso",
       "uk": "Мату-Гросу",
       "ur": "ماتو گروسو",
-      "vi": "Mato Grosso"
+      "vi": "Mato Grosso",
+      "cy": "Mato Grosso",
+      "ceb": "Mato Grosso",
+      "sr_Latn": "Mato Groso",
+      "zh": "马托格罗索州",
+      "yue_Hans": "马托格罗索州",
+      "ccp": "𑄟𑄑𑄮 𑄉𑄳𑄢𑄥𑄮",
+      "ga": "Mato Grosso",
+      "kk": "Мату-Гроссу",
+      "yue": "馬托格羅索州",
+      "yo": "Mato Grosso",
+      "uz": "Matu-Grosu",
+      "bs": "Mato Grosso",
+      "mk": "Мато Гросо"
     },
-    "geo": {
-      "latitude": -12.6818712,
-      "longitude": -56.921099,
-      "min_latitude": -18.0420517,
-      "min_longitude": -61.63319459999999,
-      "max_latitude": -7.349037199999999,
-      "max_longitude": -50.2247999
-    },
-    "name": "Mato Grosso"
+    "comments": null
   },
   "PA": {
+    "name": "Pará",
+    "code": null,
     "unofficial_names": "Pará",
+    "geo": {
+      "latitude": -1.9981271,
+      "longitude": -54.9306152,
+      "min_latitude": -9.8411565,
+      "min_longitude": -58.89827700000001,
+      "max_latitude": 2.5910246,
+      "max_longitude": -46.0643195
+    },
     "translations": {
       "en": "Pará",
       "af": "Pará",
@@ -928,20 +1134,36 @@
       "tr": "Pará",
       "uk": "Пара",
       "ur": "پارا",
-      "vi": "Pará"
+      "vi": "Pará",
+      "cy": "Pará",
+      "ceb": "Pará (estado)",
+      "sr_Latn": "Para",
+      "zh": "帕拉",
+      "yue_Hans": "帕拉州",
+      "sq": "Pará",
+      "ccp": "𑄛𑄢",
+      "ga": "Pará",
+      "pa": "ਪਾਰਾ",
+      "yue": "帕拉州",
+      "yo": "Pará",
+      "uz": "Para",
+      "bs": "Pará",
+      "mk": "Пара"
     },
-    "geo": {
-      "latitude": -1.9981271,
-      "longitude": -54.9306152,
-      "min_latitude": -9.8411565,
-      "min_longitude": -58.89827700000001,
-      "max_latitude": 2.5910246,
-      "max_longitude": -46.0643195
-    },
-    "name": "Pará"
+    "comments": null
   },
   "PB": {
+    "name": "Paraíba",
+    "code": null,
     "unofficial_names": "Paraíba",
+    "geo": {
+      "latitude": -7.239960900000001,
+      "longitude": -36.7819505,
+      "min_latitude": -8.3029572,
+      "min_longitude": -38.7656069,
+      "max_latitude": -6.0259143,
+      "max_longitude": -34.7931433
+    },
     "translations": {
       "en": "Paraíba",
       "af": "Paraíba",
@@ -996,20 +1218,35 @@
       "tr": "Paraíba",
       "uk": "Параїба",
       "ur": "پارائیبا",
-      "vi": "Paraíba"
+      "vi": "Paraíba",
+      "cy": "Paraíba",
+      "ceb": "Paraíba",
+      "sr_Latn": "Paraiba",
+      "zh": "帕拉伊巴",
+      "yue_Hans": "帕拉巴州",
+      "ccp": "𑄛𑄧𑄢𑄭𑄝",
+      "ga": "Paraíba",
+      "kk": "Параиба",
+      "yue": "帕拉巴州",
+      "yo": "Paraíba",
+      "uz": "Paraiba",
+      "bs": "Paraíba",
+      "mk": "Параиба"
     },
-    "geo": {
-      "latitude": -7.239960900000001,
-      "longitude": -36.7819505,
-      "min_latitude": -8.3029572,
-      "min_longitude": -38.7656069,
-      "max_latitude": -6.0259143,
-      "max_longitude": -34.7931433
-    },
-    "name": "Paraíba"
+    "comments": null
   },
   "PE": {
+    "name": "Pernambuco",
+    "code": null,
     "unofficial_names": "Pernambuco",
+    "geo": {
+      "latitude": -8.8137173,
+      "longitude": -36.954107,
+      "min_latitude": -9.482900599999999,
+      "min_longitude": -41.3583307,
+      "max_latitude": -3.830501599999999,
+      "max_longitude": -32.3918587
+    },
     "translations": {
       "en": "Pernambuco",
       "af": "Pernambuco",
@@ -1065,20 +1302,36 @@
       "tr": "Pernambuco",
       "uk": "Пернамбуку",
       "ur": "پرنامبوکو",
-      "vi": "Pernambuco"
+      "vi": "Pernambuco",
+      "cy": "Pernambuco",
+      "ceb": "Pernambuco",
+      "sr_Latn": "Pernambuko",
+      "zh": "伯南布哥",
+      "yue_Hans": "帕南布哥州",
+      "sq": "Pernambuco",
+      "ccp": "𑄛𑄢𑄴𑄚𑄟𑄴𑄝𑄪𑄇𑄮",
+      "ga": "Pernambuco",
+      "kk": "Пернамбуку",
+      "yue": "帕南布哥州",
+      "yo": "Pernambuco",
+      "uz": "Pernambuku",
+      "bs": "Pernambuco",
+      "mk": "Пернамбуко"
     },
-    "geo": {
-      "latitude": -8.8137173,
-      "longitude": -36.954107,
-      "min_latitude": -9.482900599999999,
-      "min_longitude": -41.3583307,
-      "max_latitude": -3.830501599999999,
-      "max_longitude": -32.3918587
-    },
-    "name": "Pernambuco"
+    "comments": null
   },
   "PI": {
+    "name": "Piauí",
+    "code": null,
     "unofficial_names": "Piauí",
+    "geo": {
+      "latitude": -7.718340100000001,
+      "longitude": -42.72892359999999,
+      "min_latitude": -10.9287593,
+      "min_longitude": -45.9942887,
+      "max_latitude": -2.7473161,
+      "max_longitude": -40.3705066
+    },
     "translations": {
       "en": "Piauí",
       "af": "Piauí",
@@ -1133,20 +1386,35 @@
       "tr": "Piauí",
       "uk": "Піауї",
       "ur": "پیاوی",
-      "vi": "Piauí"
+      "vi": "Piauí",
+      "cy": "Piauí",
+      "ceb": "Piauí",
+      "sr_Latn": "Pjaui",
+      "zh": "皮奧伊州",
+      "yue_Hans": "皮奥伊州",
+      "ccp": "𑄛𑄭𑄅𑄪𑄃𑄨",
+      "ga": "Piauí",
+      "kk": "Пиауи",
+      "yue": "皮奧伊州",
+      "yo": "Piauí",
+      "uz": "Piaui",
+      "bs": "Piauí",
+      "mk": "Пјауи"
     },
-    "geo": {
-      "latitude": -7.718340100000001,
-      "longitude": -42.72892359999999,
-      "min_latitude": -10.9287593,
-      "min_longitude": -45.9942887,
-      "max_latitude": -2.7473161,
-      "max_longitude": -40.3705066
-    },
-    "name": "Piauí"
+    "comments": null
   },
   "PR": {
+    "name": "Paraná",
+    "code": null,
     "unofficial_names": "Paraná",
+    "geo": {
+      "latitude": -25.2520888,
+      "longitude": -52.0215415,
+      "min_latitude": -26.7172983,
+      "min_longitude": -54.6192979,
+      "max_latitude": -22.5166644,
+      "max_longitude": -48.0235303
+    },
     "translations": {
       "en": "Paraná",
       "af": "Paraná",
@@ -1201,20 +1469,34 @@
       "tr": "Paraná",
       "uk": "Парана",
       "ur": "پارانا",
-      "vi": "Paraná"
+      "vi": "Paraná",
+      "cy": "Paraná",
+      "ceb": "Paraná (estado)",
+      "sr_Latn": "Parana",
+      "zh": "巴拉那州",
+      "yue_Hans": "巴拉那州",
+      "ccp": "𑄛𑄧𑄢𑄚𑄳𑄦",
+      "ga": "Paraná",
+      "yue": "巴拉那州",
+      "yo": "Paraná",
+      "uz": "Parana",
+      "bs": "Paraná",
+      "mk": "Парана"
     },
-    "geo": {
-      "latitude": -25.2520888,
-      "longitude": -52.0215415,
-      "min_latitude": -26.7172983,
-      "min_longitude": -54.6192979,
-      "max_latitude": -22.5166644,
-      "max_longitude": -48.0235303
-    },
-    "name": "Paraná"
+    "comments": null
   },
   "RJ": {
+    "name": "Rio de Janeiro",
+    "code": null,
     "unofficial_names": "Rio de Janeiro",
+    "geo": {
+      "latitude": -22.9068467,
+      "longitude": -43.1728965,
+      "min_latitude": -23.0763469,
+      "min_longitude": -43.7950599,
+      "max_latitude": -22.7461987,
+      "max_longitude": -43.1018358
+    },
     "translations": {
       "en": "Rio de Janeiro",
       "af": "Rio de Janeiro",
@@ -1262,20 +1544,36 @@
       "tr": "Rio de Janeiro",
       "uk": "Ріо-де-Жанейро",
       "ur": "ریو دے جینیرو",
-      "vi": "Rio de Janeiro"
+      "vi": "Rio de Janeiro",
+      "cy": "Rio de Janeiro",
+      "ceb": "Rio de Janeiro (estado)",
+      "yo_BJ": "Ìpínlɛ̀ Rio de Janeiro",
+      "sr_Latn": "Rio de Žaneiro",
+      "zh": "里約熱內盧州",
+      "yue_Hans": "里约热内卢州",
+      "hi": "रियो डि जेनेरो, प्रांत",
+      "ccp": "𑄢𑄃𑄮 𑄓𑄨 𑄎𑄬𑄚𑄬𑄭𑄢𑄮",
+      "ga": "Rio de Janeiro",
+      "yue": "里約熱內盧州",
+      "yo": "Ìpínlẹ̀ Rio de Janeiro",
+      "uz": "Rio-de-Janeyro",
+      "bs": "Rio de Janeiro",
+      "mk": "Рио де Жанеиро"
     },
-    "geo": {
-      "latitude": -22.9068467,
-      "longitude": -43.1728965,
-      "min_latitude": -23.0763469,
-      "min_longitude": -43.7950599,
-      "max_latitude": -22.7461987,
-      "max_longitude": -43.1018358
-    },
-    "name": "Rio de Janeiro"
+    "comments": null
   },
   "RN": {
+    "name": "Rio Grande do Norte",
+    "code": null,
     "unofficial_names": "Rio Grande do Norte",
+    "geo": {
+      "latitude": -5.402580299999999,
+      "longitude": -36.954107,
+      "min_latitude": -6.9827372,
+      "min_longitude": -38.5821039,
+      "max_latitude": -4.8317963,
+      "max_longitude": -34.9687549
+    },
     "translations": {
       "en": "Rio Grande do Norte",
       "af": "Rio Grande do Norte",
@@ -1330,20 +1628,35 @@
       "tr": "Rio Grande do Norte",
       "uk": "Ріу-Гранді-ду-Норті",
       "ur": "شمالی ریو گرانڈی",
-      "vi": "Rio Grande do Norte"
+      "vi": "Rio Grande do Norte",
+      "cy": "Rio Grande do Norte",
+      "ceb": "Rio Grande do Norte",
+      "sr_Latn": "Rio Grande do Norte",
+      "zh": "北里约格朗德",
+      "yue_Hans": "北大河州",
+      "sq": "Rio Grande do Norte",
+      "ccp": "𑄢𑄃𑄮 𑄉𑄳𑄢𑄚𑄴𑄓𑄬 𑄓𑄮 𑄚𑄧𑄢𑄴𑄑𑄬",
+      "ga": "Rio Grande do Norte",
+      "yue": "北大河州",
+      "yo": "Rio Grande do Norte",
+      "uz": "Riu Grandi du Norti",
+      "bs": "Rio Grande do Norte",
+      "mk": "Северно Рио Гранде"
     },
-    "geo": {
-      "latitude": -5.402580299999999,
-      "longitude": -36.954107,
-      "min_latitude": -6.9827372,
-      "min_longitude": -38.5821039,
-      "max_latitude": -4.8317963,
-      "max_longitude": -34.9687549
-    },
-    "name": "Rio Grande do Norte"
+    "comments": null
   },
   "RO": {
+    "name": "Rondônia",
+    "code": null,
     "unofficial_names": "Rondônia",
+    "geo": {
+      "latitude": -11.5057341,
+      "longitude": -63.580611,
+      "min_latitude": -13.6937038,
+      "min_longitude": -66.8102456,
+      "max_latitude": -7.9692976,
+      "max_longitude": -59.77434709999999
+    },
     "translations": {
       "en": "Rondônia",
       "af": "Rondônia",
@@ -1396,20 +1709,35 @@
       "tr": "Rondônia",
       "uk": "Рондонія",
       "ur": "روندونیا",
-      "vi": "Rondônia"
+      "vi": "Rondônia",
+      "cy": "Rondônia",
+      "ceb": "Rondônia",
+      "sr_Latn": "Rondonija",
+      "zh": "朗多尼亚州",
+      "yue_Hans": "朗多尼亚州",
+      "ccp": "𑄢𑄧𑄚𑄳𑄓𑄴𑄓𑄮𑄚𑄨𑄠",
+      "ga": "Rondônia",
+      "hy": "Ռոնդոնիա",
+      "yue": "朗多尼亞州",
+      "yo": "Rondônia",
+      "uz": "Rondoniya",
+      "bs": "Rondônia",
+      "mk": "Рондонија"
     },
-    "geo": {
-      "latitude": -11.5057341,
-      "longitude": -63.580611,
-      "min_latitude": -13.6937038,
-      "min_longitude": -66.8102456,
-      "max_latitude": -7.9692976,
-      "max_longitude": -59.77434709999999
-    },
-    "name": "Rondônia"
+    "comments": null
   },
   "RR": {
+    "name": "Roraima",
+    "code": null,
     "unofficial_names": "Roraima",
+    "geo": {
+      "latitude": 2.7375971,
+      "longitude": -62.0750998,
+      "min_latitude": -1.5806358,
+      "min_longitude": -64.8252444,
+      "max_latitude": 5.2718389,
+      "max_longitude": -58.88687820000001
+    },
     "translations": {
       "en": "Roraima",
       "af": "Roraima",
@@ -1463,20 +1791,36 @@
       "tr": "Roraima",
       "uk": "Рорайма",
       "ur": "رورائیما",
-      "vi": "Roraima"
+      "vi": "Roraima",
+      "cy": "Roraima",
+      "ceb": "Roraima (estado sa Brasil)",
+      "sr_Latn": "Roraima",
+      "zh": "羅賴馬州",
+      "yue_Hans": "罗赖马州",
+      "sq": "Roraima",
+      "ccp": "𑄢𑄧𑄢𑄭𑄟",
+      "ga": "Roraima",
+      "ml": "റൊറൈമ പർവ്വതം",
+      "yue": "羅賴馬州",
+      "yo": "Roraima",
+      "uz": "Rorayma",
+      "bs": "Roraima",
+      "mk": "Рораима"
     },
-    "geo": {
-      "latitude": 2.7375971,
-      "longitude": -62.0750998,
-      "min_latitude": -1.5806358,
-      "min_longitude": -64.8252444,
-      "max_latitude": 5.2718389,
-      "max_longitude": -58.88687820000001
-    },
-    "name": "Roraima"
+    "comments": null
   },
   "RS": {
+    "name": "Rio Grande do Sul",
+    "code": null,
     "unofficial_names": "Rio Grande do Sul",
+    "geo": {
+      "latitude": -30.0346316,
+      "longitude": -51.2176986,
+      "min_latitude": -33.752084,
+      "min_longitude": -57.64928399999999,
+      "max_latitude": -27.0805987,
+      "max_longitude": -49.6916345
+    },
     "translations": {
       "en": "Rio Grande do Sul",
       "af": "Rio Grande do Sul",
@@ -1531,20 +1875,41 @@
       "tr": "Rio Grande do Sul",
       "uk": "Ріу-Гранді-ду-Сул",
       "ur": "جنوبی ریو گرانڈی",
-      "vi": "Rio Grande do Sul"
+      "vi": "Rio Grande do Sul",
+      "cy": "Rio Grande do Sul",
+      "ceb": "Rio Grande do Sul (estado sa Brasil)",
+      "sr_Latn": "Rio Grande do Sul",
+      "zh": "南里奥格兰德州",
+      "yue_Hans": "南大河州",
+      "jv": "BR-RS",
+      "sq": "BR-RS",
+      "ccp": "𑄢𑄨𑄃𑄮 𑄉𑄳𑄢𑄚𑄴𑄓𑄬 𑄓𑄮 𑄥𑄪𑄣𑄴",
+      "ga": "Rio Grande do Sul",
+      "ig": "BR-RS",
+      "so": "BR-RS",
+      "sl": "BR-RS",
+      "kk": "Риу-Гранди-ду-Сул",
+      "yue": "南大河州",
+      "yo": "Rio Grande do Sul",
+      "zu": "BR-RS",
+      "uz": "Riu Grandi du Sul",
+      "bs": "Rio Grande do Sul",
+      "mk": "Јужно Рио Гранде"
     },
-    "geo": {
-      "latitude": -30.0346316,
-      "longitude": -51.2176986,
-      "min_latitude": -33.752084,
-      "min_longitude": -57.64928399999999,
-      "max_latitude": -27.0805987,
-      "max_longitude": -49.6916345
-    },
-    "name": "Rio Grande do Sul"
+    "comments": null
   },
   "SC": {
+    "name": "Santa Catarina",
+    "code": null,
     "unofficial_names": "Santa Catarina",
+    "geo": {
+      "latitude": -27.2423392,
+      "longitude": -50.2188556,
+      "min_latitude": -29.351441,
+      "min_longitude": -53.83635870000001,
+      "max_latitude": -25.9559588,
+      "max_longitude": -48.35680809999999
+    },
     "translations": {
       "en": "Santa Catarina",
       "af": "Santa Catarina",
@@ -1599,20 +1964,35 @@
       "tr": "Santa Catarina",
       "uk": "Санта-Катаріна",
       "ur": "سانتا کاتارینا",
-      "vi": "Santa Catarina"
+      "vi": "Santa Catarina",
+      "cy": "Santa Catarina",
+      "ceb": "Santa Catarina",
+      "sr_Latn": "Santa Katarina",
+      "zh": "圣卡塔琳娜州",
+      "yue_Hans": "圣卡塔莲娜州",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄇𑄳𑄠𑄑𑄢𑄨𑄚",
+      "ga": "Santa Catarina",
+      "kk": "Санта Катарина",
+      "yue": "聖卡塔蓮娜州",
+      "yo": "Santa Catarina",
+      "uz": "Santa-Katarina",
+      "bs": "Santa Catarina",
+      "mk": "Санта Катарина"
     },
-    "geo": {
-      "latitude": -27.2423392,
-      "longitude": -50.2188556,
-      "min_latitude": -29.351441,
-      "min_longitude": -53.83635870000001,
-      "max_latitude": -25.9559588,
-      "max_longitude": -48.35680809999999
-    },
-    "name": "Santa Catarina"
+    "comments": null
   },
   "SE": {
+    "name": "Sergipe",
+    "code": null,
     "unofficial_names": "Sergipe",
+    "geo": {
+      "latitude": -10.5740934,
+      "longitude": -37.3856581,
+      "min_latitude": -11.5685288,
+      "min_longitude": -38.2456472,
+      "max_latitude": -9.5150294,
+      "max_longitude": -36.3998681
+    },
     "translations": {
       "en": "Sergipe",
       "af": "Sergipe",
@@ -1667,20 +2047,35 @@
       "tr": "Sergipe",
       "uk": "Сержипі",
       "ur": "سرژیپی",
-      "vi": "Sergipe"
+      "vi": "Sergipe",
+      "cy": "Sergipe",
+      "ceb": "Sergipe",
+      "sr_Latn": "Seržipe",
+      "zh": "塞尔希培州",
+      "yue_Hans": "沙治比州",
+      "ccp": "𑄥𑄬𑄢𑄴𑄉𑄭𑄛𑄴",
+      "ga": "Sergipe",
+      "kk": "Сержипи",
+      "yue": "沙治比州",
+      "yo": "Sergipe",
+      "uz": "Serjipi",
+      "bs": "Sergipe",
+      "mk": "Сержипе"
     },
-    "geo": {
-      "latitude": -10.5740934,
-      "longitude": -37.3856581,
-      "min_latitude": -11.5685288,
-      "min_longitude": -38.2456472,
-      "max_latitude": -9.5150294,
-      "max_longitude": -36.3998681
-    },
-    "name": "Sergipe"
+    "comments": null
   },
   "SP": {
+    "name": "São Paulo",
+    "code": null,
     "unofficial_names": "São Paulo",
+    "geo": {
+      "latitude": -23.5505199,
+      "longitude": -46.63330939999999,
+      "min_latitude": -24.0082209,
+      "min_longitude": -46.825514,
+      "max_latitude": -23.3566039,
+      "max_longitude": -46.3650844
+    },
     "translations": {
       "en": "São Paulo",
       "af": "São Paulo",
@@ -1737,20 +2132,36 @@
       "tr": "São Paulo",
       "uk": "Сан-Паулу",
       "ur": "ساؤ پاؤلو",
-      "vi": "São Paulo"
+      "vi": "São Paulo",
+      "cy": "São Paulo",
+      "ceb": "São Paulo (estado)",
+      "sr_Latn": "Sao Paulo",
+      "zh": "圣保罗州",
+      "yue_Hans": "圣保罗州",
+      "sq": "Sao Paulo",
+      "ccp": "𑄥𑄃𑄮 𑄛𑄅𑄪𑄣𑄮",
+      "ga": "São Paulo",
+      "so": "São Paulo",
+      "yue": "聖保羅州",
+      "yo": "Sao Paulo",
+      "uz": "San Paulu",
+      "bs": "São Paulo (država)",
+      "mk": "Сао Паоло"
     },
-    "geo": {
-      "latitude": -23.5505199,
-      "longitude": -46.63330939999999,
-      "min_latitude": -24.0082209,
-      "min_longitude": -46.825514,
-      "max_latitude": -23.3566039,
-      "max_longitude": -46.3650844
-    },
-    "name": "São Paulo"
+    "comments": null
   },
   "TO": {
+    "name": "Tocantins",
+    "code": null,
     "unofficial_names": "Tocantins",
+    "geo": {
+      "latitude": -10.17528,
+      "longitude": -48.2982474,
+      "min_latitude": -13.4677157,
+      "min_longitude": -50.74205809999999,
+      "max_latitude": -5.1683828,
+      "max_longitude": -45.6960778
+    },
     "translations": {
       "en": "Tocantins",
       "af": "Tocantins",
@@ -1803,17 +2214,22 @@
       "tr": "Tocantins",
       "uk": "Токантінс",
       "ur": "توکانتینس",
-      "vi": "Tocantins"
+      "vi": "Tocantins",
+      "cy": "Tocantins",
+      "ceb": "Tocantins (estado)",
+      "sr_Latn": "Tokantins",
+      "zh": "托坎廷斯",
+      "yue_Hans": "托坎廷斯州",
+      "ccp": "𑄑𑄧𑄇𑄳𑄠𑄚𑄴𑄑𑄨𑄚𑄴",
+      "ga": "Tocantins",
+      "kk": "Токантинс",
+      "yue": "托坎廷斯州",
+      "yo": "Tocantins",
+      "uz": "Tokantins",
+      "bs": "Tocantins",
+      "mk": "Токантинс"
     },
-    "geo": {
-      "latitude": -10.17528,
-      "longitude": -48.2982474,
-      "min_latitude": -13.4677157,
-      "min_longitude": -50.74205809999999,
-      "max_latitude": -5.1683828,
-      "max_longitude": -45.6960778
-    },
-    "name": "Tocantins"
+    "comments": null
   }
 }
 

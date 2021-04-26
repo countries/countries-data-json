@@ -1,6 +1,16 @@
 {
   "1": {
+    "name": "Kayes",
+    "code": null,
     "unofficial_names": "Kayes",
+    "geo": {
+      "latitude": 14.4367876,
+      "longitude": -11.4452717,
+      "min_latitude": 14.4186581,
+      "min_longitude": -11.4719188,
+      "max_latitude": 14.4902814,
+      "max_longitude": -11.3716221
+    },
     "translations": {
       "en": "Kayes",
       "ar": "منطقة كايس",
@@ -41,20 +51,26 @@
       "uk": "Каєс",
       "ur": "علاقہ کیز",
       "vi": "Khu vực Kayes",
-      "zh": "卡伊區"
+      "zh": "卡伊區",
+      "lv": "Kajesas reģions",
+      "ceb": "Kayes Region",
+      "ccp": "𑄇𑄬𑄠𑄬𑄌𑄴",
+      "ka": "კაესის რეგიონი"
     },
-    "geo": {
-      "latitude": 14.4367876,
-      "longitude": -11.4452717,
-      "min_latitude": 14.4186581,
-      "min_longitude": -11.4719188,
-      "max_latitude": 14.4902814,
-      "max_longitude": -11.3716221
-    },
-    "name": "Kayes"
+    "comments": null
   },
   "2": {
+    "name": "Koulikoro",
+    "code": null,
     "unofficial_names": "Koulikoro",
+    "geo": {
+      "latitude": 12.861111,
+      "longitude": -7.558332999999999,
+      "min_latitude": 12.8513625,
+      "min_longitude": -7.571923199999999,
+      "max_latitude": 12.8789565,
+      "max_longitude": -7.5457191
+    },
     "translations": {
       "en": "Koulikoro",
       "ar": "منطقة كوليكورو",
@@ -95,20 +111,27 @@
       "tr": "Koulikoro Bölgesi",
       "uk": "Кулікоро",
       "ur": "علاقہ کولیکورو",
-      "vi": "Khu vực Koulikoro"
+      "vi": "Khu vực Koulikoro",
+      "lv": "Kulikoro reģions",
+      "ceb": "Koulikoro Region",
+      "zh": "库利科罗区",
+      "ccp": "𑄇𑄯𑄣𑄨𑄇𑄮𑄢𑄮",
+      "ka": "კულიკოროს რეგიონი"
     },
-    "geo": {
-      "latitude": 12.861111,
-      "longitude": -7.558332999999999,
-      "min_latitude": 12.8513625,
-      "min_longitude": -7.571923199999999,
-      "max_latitude": 12.8789565,
-      "max_longitude": -7.5457191
-    },
-    "name": "Koulikoro"
+    "comments": null
   },
   "3": {
+    "name": "Sikasso",
+    "code": null,
     "unofficial_names": "Sikasso",
+    "geo": {
+      "latitude": 11.316667,
+      "longitude": -5.666666999999999,
+      "min_latitude": 11.2896322,
+      "min_longitude": -5.7206155,
+      "max_latitude": 11.3538204,
+      "max_longitude": -5.634414
+    },
     "translations": {
       "en": "Sikasso",
       "ar": "منطقة سيكاسو",
@@ -148,20 +171,27 @@
       "tr": "Sikasso Bölgesi",
       "uk": "Сікасо",
       "ur": "علاقہ سیکاسو",
-      "vi": "Khu vực Sikasso"
+      "vi": "Khu vực Sikasso",
+      "lv": "Sikaso reģions",
+      "ceb": "Sikasso Region",
+      "zh": "锡卡索区",
+      "ccp": "𑄥𑄨𑄇𑄥𑄮",
+      "ka": "სიკასოს რეგიონი"
     },
-    "geo": {
-      "latitude": 11.316667,
-      "longitude": -5.666666999999999,
-      "min_latitude": 11.2896322,
-      "min_longitude": -5.7206155,
-      "max_latitude": 11.3538204,
-      "max_longitude": -5.634414
-    },
-    "name": "Sikasso"
+    "comments": null
   },
   "4": {
+    "name": "Ségou",
+    "code": null,
     "unofficial_names": "Ségou",
+    "geo": {
+      "latitude": 13.45,
+      "longitude": -6.266667,
+      "min_latitude": 13.4017673,
+      "min_longitude": -6.3270675,
+      "max_latitude": 13.4589132,
+      "max_longitude": -6.2011928
+    },
     "translations": {
       "en": "Ségou",
       "ar": "منطقة سيغو",
@@ -200,20 +230,27 @@
       "tr": "Ségou Bölgesi",
       "uk": "Сегу",
       "ur": "علاقہ سیگو",
-      "vi": "Khu vực Ségou"
+      "vi": "Khu vực Ségou",
+      "lv": "Segu reģions",
+      "ceb": "Ségou Region",
+      "zh": "塞古区",
+      "ccp": "𑄥𑄬𑄉𑄯",
+      "ka": "სეგუს რეგიონი"
     },
-    "geo": {
-      "latitude": 13.45,
-      "longitude": -6.266667,
-      "min_latitude": 13.4017673,
-      "min_longitude": -6.3270675,
-      "max_latitude": 13.4589132,
-      "max_longitude": -6.2011928
-    },
-    "name": "Ségou"
+    "comments": null
   },
   "5": {
+    "name": "Mopti",
+    "code": null,
     "unofficial_names": "Mopti",
+    "geo": {
+      "latitude": 14.495833,
+      "longitude": -4.198611,
+      "min_latitude": 14.4526312,
+      "min_longitude": -4.2045531,
+      "max_latitude": 14.5178846,
+      "max_longitude": -4.1471441
+    },
     "translations": {
       "en": "Mopti",
       "ar": "منطقة موبتي",
@@ -253,20 +290,28 @@
       "tr": "Mopti Region",
       "uk": "Мопті",
       "ur": "علاقہ موپٹی",
-      "vi": "Khu vực Mopti"
+      "vi": "Khu vực Mopti",
+      "lv": "Mopti reģions",
+      "ceb": "Mopti Region",
+      "zh": "莫普提区",
+      "ccp": "𑄟𑄮𑄛𑄴𑄑𑄨",
+      "ka": "მოპტის რეგიონი",
+      "be": "Мопці"
     },
-    "geo": {
-      "latitude": 14.495833,
-      "longitude": -4.198611,
-      "min_latitude": 14.4526312,
-      "min_longitude": -4.2045531,
-      "max_latitude": 14.5178846,
-      "max_longitude": -4.1471441
-    },
-    "name": "Mopti"
+    "comments": null
   },
   "6": {
+    "name": "Tombouctou",
+    "code": null,
     "unofficial_names": "Tombouctou",
+    "geo": {
+      "latitude": 16.7665887,
+      "longitude": -3.0025615,
+      "min_latitude": 16.7526054,
+      "min_longitude": -3.0226994,
+      "max_latitude": 16.7901617,
+      "max_longitude": -2.9932594
+    },
     "translations": {
       "en": "Tombouctou",
       "ar": "منطقة تمبكتو",
@@ -306,20 +351,27 @@
       "tr": "Tombouctou Bölgesi",
       "uk": "Тімбукту",
       "ur": "علاقہ ٹمبکٹو",
-      "vi": "Khu vực Tombouctou"
+      "vi": "Khu vực Tombouctou",
+      "lv": "Tombuktu reģions",
+      "ceb": "Tombouctou Region",
+      "zh": "通布圖區",
+      "ccp": "𑄑𑄮𑄟𑄴𑄝𑄯𑄇𑄴𑄑𑄯",
+      "ka": "ტომბუქტუს რეგიონი"
     },
-    "geo": {
-      "latitude": 16.7665887,
-      "longitude": -3.0025615,
-      "min_latitude": 16.7526054,
-      "min_longitude": -3.0226994,
-      "max_latitude": 16.7901617,
-      "max_longitude": -2.9932594
-    },
-    "name": "Tombouctou"
+    "comments": null
   },
   "7": {
+    "name": "Gao",
+    "code": null,
     "unofficial_names": "Gao",
+    "geo": {
+      "latitude": 16.2639807,
+      "longitude": -0.0279867,
+      "min_latitude": 16.2237359,
+      "min_longitude": -0.0576808,
+      "max_latitude": 16.3047953,
+      "max_longitude": 0.0254726
+    },
     "translations": {
       "en": "Gao",
       "ar": "منطقة غاو",
@@ -359,20 +411,27 @@
       "tr": "Gao Belediyesi",
       "uk": "Гао",
       "ur": "علاقہ گاو",
-      "vi": "Khu vực Gao"
+      "vi": "Khu vực Gao",
+      "lv": "Gao reģions",
+      "ceb": "Gao Region",
+      "zh": "加奥区",
+      "ccp": "𑄉𑄃𑄮",
+      "ka": "გაოს რეგიონი"
     },
-    "geo": {
-      "latitude": 16.2639807,
-      "longitude": -0.0279867,
-      "min_latitude": 16.2237359,
-      "min_longitude": -0.0576808,
-      "max_latitude": 16.3047953,
-      "max_longitude": 0.0254726
-    },
-    "name": "Gao"
+    "comments": null
   },
   "8": {
+    "name": "Kidal",
+    "code": null,
     "unofficial_names": "Kidal",
+    "geo": {
+      "latitude": 18.438889,
+      "longitude": 1.408333,
+      "min_latitude": 18.4226161,
+      "min_longitude": 1.39359,
+      "max_latitude": 18.4647725,
+      "max_longitude": 1.4252616
+    },
     "translations": {
       "en": "Kidal",
       "ar": "منطقة كيدال",
@@ -412,20 +471,27 @@
       "tr": "Kidal Region",
       "uk": "Кідаль",
       "ur": "علاقہ کڈال",
-      "vi": "Khu vực Kidal"
+      "vi": "Khu vực Kidal",
+      "lv": "Kidalas reģions",
+      "ceb": "Kidal Region",
+      "zh": "基達爾區",
+      "ccp": "𑄇𑄨𑄓𑄣𑄴",
+      "ka": "კიდალის რეგიონი"
     },
-    "geo": {
-      "latitude": 18.438889,
-      "longitude": 1.408333,
-      "min_latitude": 18.4226161,
-      "min_longitude": 1.39359,
-      "max_latitude": 18.4647725,
-      "max_longitude": 1.4252616
-    },
-    "name": "Kidal"
+    "comments": null
   },
   "BKO": {
+    "name": "Bamako",
+    "code": null,
     "unofficial_names": "Bamako",
+    "geo": {
+      "latitude": 12.65,
+      "longitude": -8,
+      "min_latitude": 12.4909088,
+      "min_longitude": -8.1150808,
+      "max_latitude": 12.7329742,
+      "max_longitude": -7.8759453
+    },
     "translations": {
       "en": "Bamako",
       "af": "Bamako",
@@ -485,17 +551,61 @@
       "tr": "Bamako",
       "uk": "Бамако",
       "ur": "بماکو",
-      "vi": "Bamako"
+      "vi": "Bamako",
+      "cy": "Bamako",
+      "ceb": "Bamako Region",
+      "sr_Latn": "Bamako",
+      "zh": "巴馬科",
+      "yue_Hans": "巴马科",
+      "jv": "Bamako",
+      "sq": "Bamako",
+      "ccp": "𑄝𑄟𑄇𑄮",
+      "ga": "Bamako",
+      "ky": "Бамако",
+      "ha": "Bamako",
+      "so": "Bamako",
+      "pa": "ਬਮਾਕੋ",
+      "kk": "Бамако",
+      "yue": "巴馬科",
+      "yo": "Bamako",
+      "uz": "Bamako",
+      "bs": "Bamako",
+      "mk": "Бамако"
     },
+    "comments": null
+  },
+  "9": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "ja": "メナカ州",
+      "en": "Ménaka",
+      "fr": "Région de Ménaka",
+      "fi": "Ménakan alue"
+    },
+    "comments": null
+  },
+  "10": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
     "geo": {
-      "latitude": 12.65,
-      "longitude": -8,
-      "min_latitude": 12.4909088,
-      "min_longitude": -8.1150808,
-      "max_latitude": 12.7329742,
-      "max_longitude": -7.8759453
+      "latitude": -15.7753392,
+      "longitude": -47.8138065,
+      "min_latitude": -15.7804757,
+      "min_longitude": -47.817425,
+      "max_latitude": -15.7724352,
+      "max_longitude": -47.8095817
     },
-    "name": "Bamako"
+    "translations": {
+      "ja": "タウデニ州",
+      "en": "Taoudénit",
+      "fr": "Région de Taoudénit",
+      "fi": "Taoudénitin alue"
+    },
+    "comments": null
   }
 }
 

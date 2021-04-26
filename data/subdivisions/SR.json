@@ -1,6 +1,16 @@
 {
   "BR": {
+    "name": "Brokopondo",
+    "code": null,
     "unofficial_names": "Brokopondo",
+    "geo": {
+      "latitude": 4.7710247,
+      "longitude": -55.0493375,
+      "min_latitude": 4.016883000000001,
+      "min_longitude": -55.5210531,
+      "max_latitude": 5.364841999999999,
+      "max_longitude": -54.7262569
+    },
     "translations": {
       "en": "Brokopondo",
       "ar": "مقاطعة بروكوبوندو",
@@ -39,20 +49,25 @@
       "uk": "Брокопондо",
       "ur": "بروکوپوندو ضلع",
       "vi": "Quận Brokopondo",
-      "zh": "布罗科蓬多区"
+      "zh": "布罗科蓬多区",
+      "lv": "Brokopondo distrikts",
+      "ceb": "Distrikt Brokopondo",
+      "ccp": "𑄝𑄳𑄢𑄮𑄇𑄨𑄛𑄮𑄚𑄴𑄓𑄮"
     },
-    "geo": {
-      "latitude": 4.7710247,
-      "longitude": -55.0493375,
-      "min_latitude": 4.016883000000001,
-      "min_longitude": -55.5210531,
-      "max_latitude": 5.364841999999999,
-      "max_longitude": -54.7262569
-    },
-    "name": "Brokopondo"
+    "comments": null
   },
   "CM": {
+    "name": "Commewijne",
+    "code": null,
     "unofficial_names": "Commewijne",
+    "geo": {
+      "latitude": 5.740211,
+      "longitude": -54.8731219,
+      "min_latitude": 5.4846897,
+      "min_longitude": -55.1600742,
+      "max_latitude": 5.9952576,
+      "max_longitude": -54.6201869
+    },
     "translations": {
       "en": "Commewijne",
       "ar": "مقاطعة كوميويجني",
@@ -89,20 +104,27 @@
       "tr": "Commewjine District",
       "uk": "Коммевейне",
       "ur": "کوماوائنہ ضلع",
-      "vi": "Quận Commewijne"
+      "vi": "Quận Commewijne",
+      "lv": "Kommeveines distrikts",
+      "ceb": "Distrikt Commewijne",
+      "zh": "科默韦讷区",
+      "fa": "ناحیه کوموینه",
+      "ccp": "𑄇𑄧𑄟𑄬𑄅𑄪𑄃𑄨𑄌𑄴𑄚𑄬"
     },
-    "geo": {
-      "latitude": 5.740211,
-      "longitude": -54.8731219,
-      "min_latitude": 5.4846897,
-      "min_longitude": -55.1600742,
-      "max_latitude": 5.9952576,
-      "max_longitude": -54.6201869
-    },
-    "name": "Commewijne"
+    "comments": null
   },
   "CR": {
+    "name": "Coronie",
+    "code": null,
     "unofficial_names": "Coronie",
+    "geo": {
+      "latitude": 5.6943271,
+      "longitude": -56.2929381,
+      "min_latitude": 5.331499,
+      "min_longitude": -56.604008,
+      "max_latitude": 5.942436,
+      "max_longitude": -55.8880948
+    },
     "translations": {
       "en": "Coronie",
       "ar": "ضاحية كوروني",
@@ -138,20 +160,27 @@
       "tr": "Coronie",
       "uk": "Короні",
       "ur": "کورونی ضلع",
-      "vi": "Quận Coronie"
+      "vi": "Quận Coronie",
+      "lv": "Koroni distrikts",
+      "ceb": "Distrikt Coronie",
+      "zh": "科罗尼区",
+      "fa": "ناحیه کورونی",
+      "ccp": "𑄇𑄧𑄮𑄢𑄮𑄚𑄭"
     },
-    "geo": {
-      "latitude": 5.6943271,
-      "longitude": -56.2929381,
-      "min_latitude": 5.331499,
-      "min_longitude": -56.604008,
-      "max_latitude": 5.942436,
-      "max_longitude": -55.8880948
-    },
-    "name": "Coronie"
+    "comments": null
   },
   "MA": {
+    "name": "Marowijne",
+    "code": null,
     "unofficial_names": "Marowijne",
+    "geo": {
+      "latitude": 5.6268128,
+      "longitude": -54.25931180000001,
+      "min_latitude": 5.234248,
+      "min_longitude": -54.737735,
+      "max_latitude": 5.971927,
+      "max_longitude": -53.987011
+    },
     "translations": {
       "en": "Marowijne",
       "ar": "مقاطعة مارويجيني",
@@ -187,20 +216,27 @@
       "tr": "Marowjine District",
       "uk": "Маровейне",
       "ur": "مارووینہ ضلع",
-      "vi": "Quận Marowijne"
+      "vi": "Quận Marowijne",
+      "lv": "Maroveines distrikts",
+      "ceb": "Distrikt Marowijne",
+      "zh": "马罗韦讷区",
+      "fa": "ناحیه مارووینه",
+      "ccp": "𑄟𑄬𑄢𑄮𑄃𑄨𑄌𑄴𑄚𑄬"
     },
-    "geo": {
-      "latitude": 5.6268128,
-      "longitude": -54.25931180000001,
-      "min_latitude": 5.234248,
-      "min_longitude": -54.737735,
-      "max_latitude": 5.971927,
-      "max_longitude": -53.987011
-    },
-    "name": "Marowijne"
+    "comments": null
   },
   "NI": {
+    "name": "Nickerie",
+    "code": null,
     "unofficial_names": "Nickerie",
+    "geo": {
+      "latitude": 5.5855469,
+      "longitude": -56.83111169999999,
+      "min_latitude": 5.208519,
+      "min_longitude": -57.34862889999999,
+      "max_latitude": 6.00015,
+      "max_longitude": -56.45252499999999
+    },
     "translations": {
       "en": "Nickerie",
       "ar": "مقاطعة نيكيري",
@@ -236,20 +272,27 @@
       "tr": "Nickerie District",
       "uk": "Ніккері",
       "ur": "نیکاری ضلع",
-      "vi": "Quận Nickerie"
+      "vi": "Quận Nickerie",
+      "lv": "Nikerio reģions",
+      "ceb": "Distrikt Nickerie",
+      "zh": "尼克里区",
+      "fa": "ناحیه نیکری",
+      "ccp": "𑄚𑄨𑄇𑄬𑄢𑄭"
     },
-    "geo": {
-      "latitude": 5.5855469,
-      "longitude": -56.83111169999999,
-      "min_latitude": 5.208519,
-      "min_longitude": -57.34862889999999,
-      "max_latitude": 6.00015,
-      "max_longitude": -56.45252499999999
-    },
-    "name": "Nickerie"
+    "comments": null
   },
   "PM": {
+    "name": "Paramaribo",
+    "code": null,
     "unofficial_names": "Paramaribo",
+    "geo": {
+      "latitude": 5.8520355,
+      "longitude": -55.2038278,
+      "min_latitude": 5.7787709,
+      "min_longitude": -55.25811539999999,
+      "max_latitude": 5.9178787,
+      "max_longitude": -55.0982876
+    },
     "translations": {
       "en": "Paramaribo",
       "ar": "ضاحية باراماريبو",
@@ -275,20 +318,25 @@
       "ru": "Парамарибо",
       "sv": "Paramaribo",
       "uk": "Парамарибо",
-      "ur": "پاراماریبو ضلع"
+      "ur": "پاراماریبو ضلع",
+      "ceb": "Distrikt Paramaribo",
+      "zh": "帕拉马里博区",
+      "ccp": "𑄛𑄳𑄠𑄢𑄟𑄢𑄨𑄝𑄮"
     },
-    "geo": {
-      "latitude": 5.8520355,
-      "longitude": -55.2038278,
-      "min_latitude": 5.7787709,
-      "min_longitude": -55.25811539999999,
-      "max_latitude": 5.9178787,
-      "max_longitude": -55.0982876
-    },
-    "name": "Paramaribo"
+    "comments": null
   },
   "PR": {
+    "name": "Para",
+    "code": null,
     "unofficial_names": "Para",
+    "geo": {
+      "latitude": 5.481731799999999,
+      "longitude": -55.2259207,
+      "min_latitude": 4.990305,
+      "min_longitude": -56.04478899999999,
+      "max_latitude": 5.700753,
+      "max_longitude": -54.6248351
+    },
     "translations": {
       "en": "Para",
       "ar": "ضاحية بارا",
@@ -324,20 +372,27 @@
       "tr": "Para District",
       "uk": "Пара",
       "ur": "پارا ضلع",
-      "vi": "Quận Para"
+      "vi": "Quận Para",
+      "lv": "Paras distrikts",
+      "ceb": "Distrikt Para",
+      "zh": "帕拉区",
+      "fa": "ناحیه پارا",
+      "ccp": "𑄛𑄳𑄠𑄢"
     },
-    "geo": {
-      "latitude": 5.481731799999999,
-      "longitude": -55.2259207,
-      "min_latitude": 4.990305,
-      "min_longitude": -56.04478899999999,
-      "max_latitude": 5.700753,
-      "max_longitude": -54.6248351
-    },
-    "name": "Para"
+    "comments": null
   },
   "SA": {
+    "name": "Saramacca",
+    "code": null,
     "unofficial_names": "Saramacca",
+    "geo": {
+      "latitude": 5.7240813,
+      "longitude": -55.6689636,
+      "min_latitude": 5.4037231,
+      "min_longitude": -55.971144,
+      "max_latitude": 5.981152,
+      "max_longitude": -55.30576
+    },
     "translations": {
       "en": "Saramacca",
       "ar": "مقاطعة ساراماكا",
@@ -373,20 +428,27 @@
       "tr": "Saramacca District",
       "uk": "Сарамакка",
       "ur": "سارامکا ضلع",
-      "vi": "Quận Saramacca"
+      "vi": "Quận Saramacca",
+      "lv": "Saramakas distrikts",
+      "ceb": "Distrikt Saramacca",
+      "zh": "萨拉马卡区",
+      "fa": "ناحیه ساراماکا",
+      "ccp": "𑄥𑄢𑄟𑄇𑄳𑄦"
     },
-    "geo": {
-      "latitude": 5.7240813,
-      "longitude": -55.6689636,
-      "min_latitude": 5.4037231,
-      "min_longitude": -55.971144,
-      "max_latitude": 5.981152,
-      "max_longitude": -55.30576
-    },
-    "name": "Saramacca"
+    "comments": null
   },
   "SI": {
+    "name": "Sipaliwini",
+    "code": null,
     "unofficial_names": "Sipaliwini",
+    "geo": {
+      "latitude": 2.0331027,
+      "longitude": -56.1337552,
+      "min_latitude": 2.0274126,
+      "min_longitude": -56.1407374,
+      "max_latitude": 2.0413084,
+      "max_longitude": -56.124773
+    },
     "translations": {
       "en": "Sipaliwini",
       "ar": "مقاطعة سيباليويني",
@@ -422,20 +484,26 @@
       "tr": "Sipaliwini District",
       "uk": "Сипалівіні",
       "ur": "سیپالیوینی ضلع",
-      "vi": "Quận Sipaliwini"
+      "vi": "Quận Sipaliwini",
+      "lv": "Sipalivini distrikts",
+      "ceb": "Distrikt Sipaliwini",
+      "zh": "锡帕利维尼区",
+      "ccp": "𑄥𑄨𑄛𑄣𑄨𑄅𑄪𑄃𑄨𑄚𑄨"
     },
-    "geo": {
-      "latitude": 2.0331027,
-      "longitude": -56.1337552,
-      "min_latitude": 2.0274126,
-      "min_longitude": -56.1407374,
-      "max_latitude": 2.0413084,
-      "max_longitude": -56.124773
-    },
-    "name": "Sipaliwini"
+    "comments": null
   },
   "WA": {
+    "name": "Wanica",
+    "code": null,
     "unofficial_names": "Wanica",
+    "geo": {
+      "latitude": 5.7323762,
+      "longitude": -55.2701235,
+      "min_latitude": 5.6584129,
+      "min_longitude": -55.35698799999999,
+      "max_latitude": 5.938986,
+      "max_longitude": -55.0799841
+    },
     "translations": {
       "en": "Wanica",
       "ar": "مقاطعة وانيكا",
@@ -471,17 +539,17 @@
       "tr": "Wanica District",
       "uk": "Ваніка",
       "ur": "وانیکا ضلع",
-      "vi": "Quận Wanica"
+      "vi": "Quận Wanica",
+      "lv": "Vanikas distrikts",
+      "ceb": "Distrikt Wanica",
+      "zh": "瓦尼卡区",
+      "fa": "ناحیه وانیکا",
+      "ccp": "𑄤𑄚𑄨𑄇",
+      "he": "וניקה",
+      "ml": "വാനിക്ക ജില്ല",
+      "ca": "Wanica"
     },
-    "geo": {
-      "latitude": 5.7323762,
-      "longitude": -55.2701235,
-      "min_latitude": 5.6584129,
-      "min_longitude": -55.35698799999999,
-      "max_latitude": 5.938986,
-      "max_longitude": -55.0799841
-    },
-    "name": "Wanica"
+    "comments": null
   }
 }
 

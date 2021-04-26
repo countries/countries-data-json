@@ -1,6 +1,16 @@
 {
   "BG": {
+    "name": "Bong",
+    "code": null,
     "unofficial_names": "Bong",
+    "geo": {
+      "latitude": 6.829501899999999,
+      "longitude": -9.367308399999999,
+      "min_latitude": 6.397581,
+      "min_longitude": -10.4769088,
+      "max_latitude": 7.430014999999999,
+      "max_longitude": -9.094152
+    },
     "translations": {
       "en": "Bong",
       "ar": "مقاطعة بونغ",
@@ -40,20 +50,27 @@
       "uk": "Бонг",
       "ur": "بونگ کاؤنٹی",
       "vi": "Hạt Bong",
-      "zh": "邦县"
+      "zh": "邦县",
+      "lv": "Bongas grāfiste",
+      "ceb": "Bong County",
+      "fa": "شهرستان بونگ",
+      "ccp": "𑄝𑄧𑄁",
+      "ka": "ბონგის საგრაფო"
     },
-    "geo": {
-      "latitude": 6.829501899999999,
-      "longitude": -9.367308399999999,
-      "min_latitude": 6.397581,
-      "min_longitude": -10.4769088,
-      "max_latitude": 7.430014999999999,
-      "max_longitude": -9.094152
-    },
-    "name": "Bong"
+    "comments": null
   },
   "BM": {
+    "name": "Bomi",
+    "code": null,
     "unofficial_names": "Bomi",
+    "geo": {
+      "latitude": 6.7562926,
+      "longitude": -10.8451467,
+      "min_latitude": 6.479747,
+      "min_longitude": -11.0814981,
+      "max_latitude": 6.970269,
+      "max_longitude": -10.4870661
+    },
     "translations": {
       "en": "Bomi",
       "ar": "مقاطعة بومي",
@@ -95,20 +112,27 @@
       "tr": "Bomi County",
       "uk": "Бомі",
       "ur": "بومی کاؤنٹی",
-      "vi": "Hạt Bomi"
+      "vi": "Hạt Bomi",
+      "ceb": "Bomi County",
+      "zh": "伯米县",
+      "fa": "شهرستان بومی",
+      "ccp": "𑄝𑄮𑄟𑄨",
+      "ka": "ბომის საგრაფო"
     },
-    "geo": {
-      "latitude": 6.7562926,
-      "longitude": -10.8451467,
-      "min_latitude": 6.479747,
-      "min_longitude": -11.0814981,
-      "max_latitude": 6.970269,
-      "max_longitude": -10.4870661
-    },
-    "name": "Bomi"
+    "comments": null
   },
   "CM": {
+    "name": "Grand Cape Mount",
+    "code": null,
     "unofficial_names": "Grand Cape Mount",
+    "geo": {
+      "latitude": 7.0467758,
+      "longitude": -11.0711758,
+      "min_latitude": 6.577183,
+      "min_longitude": -11.486138,
+      "max_latitude": 7.527846999999999,
+      "max_longitude": -10.5165701
+    },
     "translations": {
       "en": "Grand Cape Mount",
       "ar": "مقاطعة غراند كيب ماونت",
@@ -147,20 +171,27 @@
       "tr": "Grand Cape Mount County",
       "uk": "Гранд-Кейп-Маунт",
       "ur": "گرینڈ کیپ ماؤنٹ کاؤنٹی",
-      "vi": "Hạt Grand Cape Mount"
+      "vi": "Hạt Grand Cape Mount",
+      "lv": "Grandkeipmauntas grāfiste",
+      "ceb": "Grand Cape Mount County",
+      "zh": "大角山县",
+      "fa": "شهرستان گرند کیپ مانت",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄇𑄳𑄠𑄛𑄴 𑄟𑄅𑄪𑄚𑄳𑄑𑄴"
     },
-    "geo": {
-      "latitude": 7.0467758,
-      "longitude": -11.0711758,
-      "min_latitude": 6.577183,
-      "min_longitude": -11.486138,
-      "max_latitude": 7.527846999999999,
-      "max_longitude": -10.5165701
-    },
-    "name": "Grand Cape Mount"
+    "comments": null
   },
   "GB": {
+    "name": "Grand Bassa",
+    "code": null,
     "unofficial_names": "Grand Bassa",
+    "geo": {
+      "latitude": 6.2308452,
+      "longitude": -9.8124935,
+      "min_latitude": 5.5731877,
+      "min_longitude": -10.3763649,
+      "max_latitude": 6.7131769,
+      "max_longitude": -9.0244939
+    },
     "translations": {
       "en": "Grand Bassa",
       "ar": "مقاطعة غراند باسا",
@@ -199,22 +230,29 @@
       "tr": "Grand Bassa County",
       "uk": "Гранд-Баса",
       "ur": "گرینڈ باسا کاؤنٹی",
-      "vi": "Hạt Grand Bassa"
+      "vi": "Hạt Grand Bassa",
+      "lv": "Grandbasas grāfiste",
+      "ceb": "Grand Bassa County",
+      "zh": "大巴萨县",
+      "fa": "شهرستان گرند باسا",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄝𑄥"
     },
-    "geo": {
-      "latitude": 6.2308452,
-      "longitude": -9.8124935,
-      "min_latitude": 5.5731877,
-      "min_longitude": -10.3763649,
-      "max_latitude": 6.7131769,
-      "max_longitude": -9.0244939
-    },
-    "name": "Grand Bassa"
+    "comments": null
   },
   "GG": {
+    "name": "Grand Gedeh",
+    "code": null,
     "unofficial_names": [
       "Grand Gedah"
     ],
+    "geo": {
+      "latitude": 5.9222078,
+      "longitude": -8.2212979,
+      "min_latitude": 5.514285,
+      "min_longitude": -9.0887029,
+      "max_latitude": 6.505594899999999,
+      "max_longitude": -7.371477899999999
+    },
     "translations": {
       "en": "Grand Gedeh",
       "ar": "مقاطعة غراند غيده",
@@ -253,20 +291,27 @@
       "tr": "Grand Gedeh County",
       "uk": "Гранд-Геде",
       "ur": "گرینڈ گیدیہ کاؤنٹی",
-      "vi": "Hạt Grand Gedeh"
+      "vi": "Hạt Grand Gedeh",
+      "lv": "Grandgedes grāfiste",
+      "ceb": "Grand Gedeh County",
+      "zh": "大各德县",
+      "fa": "شهرستان گرند گدهی",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄉𑄓𑄬𑄦𑄴"
     },
-    "geo": {
-      "latitude": 5.9222078,
-      "longitude": -8.2212979,
-      "min_latitude": 5.514285,
-      "min_longitude": -9.0887029,
-      "max_latitude": 6.505594899999999,
-      "max_longitude": -7.371477899999999
-    },
-    "name": "Grand Gedeh"
+    "comments": null
   },
   "GK": {
+    "name": "Grand Kru",
+    "code": null,
     "unofficial_names": "Grand Kru",
+    "geo": {
+      "latitude": 4.7613862,
+      "longitude": -8.2212979,
+      "min_latitude": 4.434164,
+      "min_longitude": -8.6776371,
+      "max_latitude": 5.233399899999999,
+      "max_longitude": -7.759545999999999
+    },
     "translations": {
       "en": "Grand Kru",
       "ar": "مقاطعة غراند كرو",
@@ -305,20 +350,27 @@
       "tr": "Grand Kru County",
       "uk": "Гранд-Кру",
       "ur": "گرینڈ کرو کاؤنٹی",
-      "vi": "Hạt Grand Kru"
+      "vi": "Hạt Grand Kru",
+      "lv": "Grandkru grāfiste",
+      "ceb": "Grand Kru County",
+      "zh": "大克鲁县",
+      "fa": "شهرستان گرند کرو",
+      "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄇𑄳𑄢𑄪"
     },
-    "geo": {
-      "latitude": 4.7613862,
-      "longitude": -8.2212979,
-      "min_latitude": 4.434164,
-      "min_longitude": -8.6776371,
-      "max_latitude": 5.233399899999999,
-      "max_longitude": -7.759545999999999
-    },
-    "name": "Grand Kru"
+    "comments": null
   },
   "LO": {
+    "name": "Lofa",
+    "code": null,
     "unofficial_names": "Lofa",
+    "geo": {
+      "latitude": 8.191118399999999,
+      "longitude": -9.7232673,
+      "min_latitude": 7.178834999999999,
+      "min_longitude": -10.606035,
+      "max_latitude": 8.551791099999999,
+      "max_longitude": -9.343918
+    },
     "translations": {
       "en": "Lofa",
       "ar": "مقاطعة لوفا",
@@ -357,20 +409,27 @@
       "tr": "Lofa County",
       "uk": "Лофа",
       "ur": "لوفا کاؤنٹی",
-      "vi": "Hạt Lofa"
+      "vi": "Hạt Lofa",
+      "lv": "Lofas grāfiste",
+      "ceb": "Lofa County",
+      "zh": "洛法县",
+      "fa": "شهرستان لوفا",
+      "ccp": "𑄣𑄮𑄜"
     },
-    "geo": {
-      "latitude": 8.191118399999999,
-      "longitude": -9.7232673,
-      "min_latitude": 7.178834999999999,
-      "min_longitude": -10.606035,
-      "max_latitude": 8.551791099999999,
-      "max_longitude": -9.343918
-    },
-    "name": "Lofa"
+    "comments": null
   },
   "MG": {
+    "name": "Margibi",
+    "code": null,
     "unofficial_names": "Margibi",
+    "geo": {
+      "latitude": 6.5151875,
+      "longitude": -10.3048897,
+      "min_latitude": 6.138984300000001,
+      "min_longitude": -10.647893,
+      "max_latitude": 6.8118709,
+      "max_longitude": -9.722209
+    },
     "translations": {
       "en": "Margibi",
       "ar": "مقاطعة مارجيبي",
@@ -409,20 +468,27 @@
       "tr": "Margibi County",
       "uk": "Маргібі",
       "ur": "مارگیبی کاؤنٹی",
-      "vi": "Hạt Margibi"
+      "vi": "Hạt Margibi",
+      "lv": "Margibi grāfiste",
+      "ceb": "Margibi County",
+      "zh": "马及比县",
+      "fa": "شهرستان مارجیبای",
+      "ccp": "𑄟𑄢𑄴𑄎𑄨𑄝𑄨"
     },
-    "geo": {
-      "latitude": 6.5151875,
-      "longitude": -10.3048897,
-      "min_latitude": 6.138984300000001,
-      "min_longitude": -10.647893,
-      "max_latitude": 6.8118709,
-      "max_longitude": -9.722209
-    },
-    "name": "Margibi"
+    "comments": null
   },
   "MO": {
+    "name": "Montserrado",
+    "code": null,
     "unofficial_names": "Montserrado",
+    "geo": {
+      "latitude": 6.5525815,
+      "longitude": -10.5296115,
+      "min_latitude": 6.220479999999999,
+      "min_longitude": -10.9532799,
+      "max_latitude": 6.8513641,
+      "max_longitude": -10.3692761
+    },
     "translations": {
       "en": "Montserrado",
       "ar": "مقاطعة مونتسرادو",
@@ -461,20 +527,27 @@
       "tr": "Montserrado County",
       "uk": "Монтсеррадо",
       "ur": "مونٹسیراڈا کاؤنٹی",
-      "vi": "Montserrado"
+      "vi": "Montserrado",
+      "lv": "Montserado grāfiste",
+      "ceb": "Montserrado County",
+      "zh": "蒙特塞拉多县",
+      "fa": "شهرستان مانتسرادو",
+      "ccp": "𑄟𑄧𑄚𑄴𑄌𑄳𑄑𑄢𑄴𑄢𑄓𑄮"
     },
-    "geo": {
-      "latitude": 6.5525815,
-      "longitude": -10.5296115,
-      "min_latitude": 6.220479999999999,
-      "min_longitude": -10.9532799,
-      "max_latitude": 6.8513641,
-      "max_longitude": -10.3692761
-    },
-    "name": "Montserrado"
+    "comments": null
   },
   "MY": {
+    "name": "Maryland",
+    "code": null,
     "unofficial_names": "Maryland",
+    "geo": {
+      "latitude": 4.7258878,
+      "longitude": -7.741670300000001,
+      "min_latitude": 4.3541994,
+      "min_longitude": -8.0795251,
+      "max_latitude": 5.130764999999999,
+      "max_longitude": -7.5213661
+    },
     "translations": {
       "en": "Maryland",
       "ar": "مقاطعة ماريلاند",
@@ -513,20 +586,27 @@
       "tr": "Maryland County",
       "uk": "Меріленд",
       "ur": "میری لینڈ کاؤنٹی، لائبیریا",
-      "vi": "Hạt Maryland"
+      "vi": "Hạt Maryland",
+      "lv": "Merilendas grāfiste",
+      "ceb": "Maryland County",
+      "zh": "馬里蘭縣",
+      "fa": "شهرستان مریلند",
+      "ccp": "𑄟𑄬𑄢𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
     },
-    "geo": {
-      "latitude": 4.7258878,
-      "longitude": -7.741670300000001,
-      "min_latitude": 4.3541994,
-      "min_longitude": -8.0795251,
-      "max_latitude": 5.130764999999999,
-      "max_longitude": -7.5213661
-    },
-    "name": "Maryland"
+    "comments": null
   },
   "NI": {
+    "name": "Nimba",
+    "code": null,
     "unofficial_names": "Nimba",
+    "geo": {
+      "latitude": 6.8427612,
+      "longitude": -8.6600586,
+      "min_latitude": 5.823793999999999,
+      "min_longitude": -9.2169951,
+      "max_latitude": 7.696163100000001,
+      "max_longitude": -8.27361
+    },
     "translations": {
       "en": "Nimba",
       "ar": "مقاطعة نيمبا",
@@ -565,20 +645,27 @@
       "tr": "Nimba",
       "uk": "Німба",
       "ur": "نمبا کاؤنٹی",
-      "vi": "Nimba"
+      "vi": "Nimba",
+      "lv": "Nimba",
+      "ceb": "Nimba County",
+      "zh": "寧巴縣",
+      "fa": "شهرستان نیمبا",
+      "ccp": "𑄚𑄟𑄴𑄝"
     },
-    "geo": {
-      "latitude": 6.8427612,
-      "longitude": -8.6600586,
-      "min_latitude": 5.823793999999999,
-      "min_longitude": -9.2169951,
-      "max_latitude": 7.696163100000001,
-      "max_longitude": -8.27361
-    },
-    "name": "Nimba"
+    "comments": null
   },
   "RI": {
+    "name": "Rivercess",
+    "code": null,
     "unofficial_names": "Rivercess",
+    "geo": {
+      "latitude": 5.902532799999999,
+      "longitude": -9.456155,
+      "min_latitude": 5.269763,
+      "min_longitude": -9.733108999999999,
+      "max_latitude": 6.378757,
+      "max_longitude": -9.058736
+    },
     "translations": {
       "en": "Rivercess",
       "ar": "مقاطعة ريفرسيس",
@@ -616,20 +703,27 @@
       "tr": "Rivercess County",
       "uk": "Рівер-Сесс (графство)",
       "ur": "ریویرکیس کاؤنٹی",
-      "vi": "Hạt Rivercess"
+      "vi": "Hạt Rivercess",
+      "lv": "Riversesas grāfiste",
+      "ceb": "River Cess County",
+      "zh": "里弗塞斯縣",
+      "fa": "شهرستان ریورسس",
+      "ccp": "𑄢𑄨𑄞𑄢𑄴𑄥𑄬𑄌𑄴"
     },
-    "geo": {
-      "latitude": 5.902532799999999,
-      "longitude": -9.456155,
-      "min_latitude": 5.269763,
-      "min_longitude": -9.733108999999999,
-      "max_latitude": 6.378757,
-      "max_longitude": -9.058736
-    },
-    "name": "Rivercess"
+    "comments": null
   },
   "SI": {
+    "name": "Sinoe",
+    "code": null,
     "unofficial_names": "Sinoe",
+    "geo": {
+      "latitude": 5.49871,
+      "longitude": -8.6600586,
+      "min_latitude": 4.804354,
+      "min_longitude": -9.4184888,
+      "max_latitude": 5.844906,
+      "max_longitude": -8.2341789
+    },
     "translations": {
       "en": "Sinoe",
       "ar": "مقاطعة سينو",
@@ -668,23 +762,19 @@
       "tr": "Sinoe County",
       "uk": "Сіное",
       "ur": "سینؤ کاؤنٹی",
-      "vi": "Hạt Sinoe"
+      "vi": "Hạt Sinoe",
+      "lv": "Sinoe grāfiste",
+      "ceb": "Sinoe County",
+      "zh": "錫諾縣",
+      "fa": "شهرستان ساینو",
+      "ccp": "𑄥𑄨𑄚𑄮𑄠𑄨"
     },
-    "geo": {
-      "latitude": 5.49871,
-      "longitude": -8.6600586,
-      "min_latitude": 4.804354,
-      "min_longitude": -9.4184888,
-      "max_latitude": 5.844906,
-      "max_longitude": -8.2341789
-    },
-    "name": "Sinoe"
+    "comments": null
   },
   "X1~": {
+    "name": "Gbarpolu",
+    "code": null,
     "unofficial_names": "Gbarpolu",
-    "translations": {
-      "en": "Gbarpolu"
-    },
     "geo": {
       "latitude": 7.495263700000001,
       "longitude": -10.0807298,
@@ -693,13 +783,15 @@
       "max_latitude": 7.998692,
       "max_longitude": -9.636509
     },
-    "name": "Gbarpolu"
+    "translations": {
+      "en": "Gbarpolu"
+    },
+    "comments": null
   },
   "X2~": {
+    "name": "River Gee",
+    "code": null,
     "unofficial_names": "River Gee",
-    "translations": {
-      "en": "River Gee"
-    },
     "geo": {
       "latitude": 5.2604894,
       "longitude": -7.872159999999999,
@@ -708,9 +800,23 @@
       "max_latitude": 5.6097129,
       "max_longitude": -7.365113
     },
-    "name": "River Gee"
+    "translations": {
+      "en": "River Gee"
+    },
+    "comments": null
   },
   "GP": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة غباربولو",
       "be": "Гбарпалу",
@@ -749,10 +855,27 @@
       "tr": "Gbarpolu County",
       "uk": "Гбарполу",
       "ur": "گبارپولو کاؤنٹی",
-      "vi": "Hạt Gbarpolu"
-    }
+      "vi": "Hạt Gbarpolu",
+      "lv": "Gbarpolu grāfiste",
+      "ceb": "Gbarpolu County",
+      "zh": "巴波卢县",
+      "fa": "شهرستان گبارپولو",
+      "ccp": "𑄝𑄢𑄴𑄛𑄮𑄣"
+    },
+    "comments": null
   },
   "RG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة ريفر جي",
       "be": "Рывер-Гі",
@@ -792,8 +915,13 @@
       "tr": "River Gee County",
       "uk": "Рівер-Гі",
       "ur": "دریائے جی کاؤنٹی",
-      "vi": "Hạt River Gee"
-    }
+      "vi": "Hạt River Gee",
+      "ceb": "River Gee County",
+      "zh": "吉河县",
+      "fa": "شهرستان ریور جی",
+      "ccp": "𑄢𑄨𑄞𑄢𑄴 𑄉𑄨"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "AB": {
+    "name": "Abyan",
+    "code": null,
     "unofficial_names": "Abyan",
+    "geo": {
+      "latitude": 13.6343413,
+      "longitude": 46.0563212,
+      "min_latitude": 12.9191754,
+      "min_longitude": 45.046048,
+      "max_latitude": 14.303409,
+      "max_longitude": 47.166517
+    },
     "translations": {
       "en": "Abyan",
       "ar": "محافظة أبين",
@@ -45,19 +55,17 @@
       "uk": "Абʼян",
       "ur": "محافظہ ابین",
       "vi": "Tỉnh Abyan",
-      "zh": "阿比扬省"
+      "zh": "阿比扬省",
+      "lv": "Abjānas muhāfaza",
+      "lt": "Abjano gubernija",
+      "ccp": "𑄃𑄝𑄨𑄠𑄚𑄴",
+      "az": "Abya mühafazası"
     },
-    "geo": {
-      "latitude": 13.6343413,
-      "longitude": 46.0563212,
-      "min_latitude": 12.9191754,
-      "min_longitude": 45.046048,
-      "max_latitude": 14.303409,
-      "max_longitude": 47.166517
-    },
-    "name": "Abyan"
+    "comments": null
   },
   "AD": {
+    "name": "ʿAdan",
+    "code": null,
     "unofficial_names": [
       "Adan",
       "ʿAdan",
@@ -65,6 +73,14 @@
       "Aden",
       "Adén"
     ],
+    "geo": {
+      "latitude": 12.8257481,
+      "longitude": 44.7943804,
+      "min_latitude": 12.6697487,
+      "min_longitude": 44.4078031,
+      "max_latitude": 12.92427,
+      "max_longitude": 45.0821905
+    },
     "translations": {
       "en": "’Adan",
       "ar": "محافظة عدن",
@@ -92,20 +108,26 @@
       "sw": "Wilaya ya Adan",
       "tr": "Aden ili",
       "uk": "Аден",
-      "ur": "محافظہ عدن"
+      "ur": "محافظہ عدن",
+      "zh": "亞丁省",
+      "ccp": "𑄃𑄓𑄚𑄴",
+      "az": "Aden mühafazası",
+      "ca": "Governació d’Adan"
     },
-    "geo": {
-      "latitude": 12.8257481,
-      "longitude": 44.7943804,
-      "min_latitude": 12.6697487,
-      "min_longitude": 44.4078031,
-      "max_latitude": 12.92427,
-      "max_longitude": 45.0821905
-    },
-    "name": "ʿAdan"
+    "comments": null
   },
   "AM": {
+    "name": "'Amran",
+    "code": null,
     "unofficial_names": "'Amran",
+    "geo": {
+      "latitude": 16.2569214,
+      "longitude": 43.9436788,
+      "min_latitude": 15.488677,
+      "min_longitude": 43.524034,
+      "max_latitude": 16.641641,
+      "max_longitude": 44.3594831
+    },
     "translations": {
       "en": "Amran",
       "ar": "محافظة عمران",
@@ -145,22 +167,29 @@
       "tr": "Amran ili",
       "uk": "Амран",
       "ur": "محافظہ عمران",
-      "vi": "‘Amrān"
+      "vi": "‘Amrān",
+      "lv": "Amrānas muhāfaza",
+      "lt": "Amrano gubernija",
+      "zh": "阿姆蘭省",
+      "ccp": "𑄃𑄟𑄢𑄚𑄴",
+      "az": "Amran mühafazası"
     },
-    "geo": {
-      "latitude": 16.2569214,
-      "longitude": 43.9436788,
-      "min_latitude": 15.488677,
-      "min_longitude": 43.524034,
-      "max_latitude": 16.641641,
-      "max_longitude": 44.3594831
-    },
-    "name": "'Amran"
+    "comments": null
   },
   "BA": {
+    "name": "Al Bayḑā’",
+    "code": null,
     "unofficial_names": [
       "Al Baida"
     ],
+    "geo": {
+      "latitude": 14.3588662,
+      "longitude": 45.4498065,
+      "min_latitude": 13.806784,
+      "min_longitude": 44.58074209999999,
+      "max_latitude": 14.7964711,
+      "max_longitude": 46.0480639
+    },
     "translations": {
       "en": "Al Bayda",
       "ar": "محافظة البيضاء",
@@ -202,20 +231,27 @@
       "tr": "El Beyda ili",
       "uk": "Ель-Бейда",
       "ur": "محافظہ البیضاء",
-      "vi": "Tỉnh Al Bayda’"
+      "vi": "Tỉnh Al Bayda’",
+      "lv": "Baidas muhāfaza",
+      "lt": "Al Beidos gubernija",
+      "zh": "贝达省",
+      "ccp": "𑄃𑄣𑄴 𑄝𑄬𑄓",
+      "ca": "Governació d’Al Bayda"
     },
-    "geo": {
-      "latitude": 14.3588662,
-      "longitude": 45.4498065,
-      "min_latitude": 13.806784,
-      "min_longitude": 44.58074209999999,
-      "max_latitude": 14.7964711,
-      "max_longitude": 46.0480639
-    },
-    "name": "Al Bayḑā’"
+    "comments": null
   },
   "DA": {
+    "name": "Ad¸ D¸ali'",
+    "code": null,
     "unofficial_names": "Ad¸ D¸ali'",
+    "geo": {
+      "latitude": 13.696667,
+      "longitude": 44.730833,
+      "min_latitude": 13.6921764,
+      "min_longitude": 44.7181321,
+      "max_latitude": 13.7195688,
+      "max_longitude": 44.7446966
+    },
     "translations": {
       "en": "Dhale",
       "ar": "محافظة الضالع",
@@ -257,24 +293,31 @@
       "tr": "Ed Dali ili",
       "uk": "Ед-Даля",
       "ur": "محافظہ الضالع",
-      "vi": "Tỉnh Ad Dali’"
+      "vi": "Tỉnh Ad Dali’",
+      "lv": "Dālī muhāfaza",
+      "lt": "Ad Dalio gubernija",
+      "zh": "达利省",
+      "ccp": "𑄙𑄣𑄨",
+      "ca": "Governació d’Ad Dali"
     },
-    "geo": {
-      "latitude": 13.696667,
-      "longitude": 44.730833,
-      "min_latitude": 13.6921764,
-      "min_longitude": 44.7181321,
-      "max_latitude": 13.7195688,
-      "max_longitude": 44.7446966
-    },
-    "name": "Ad¸ D¸ali'"
+    "comments": null
   },
   "DH": {
+    "name": "Dhamar",
+    "code": null,
     "unofficial_names": [
       "Dhamar",
       "Dhomar",
       "Đomar"
     ],
+    "geo": {
+      "latitude": 14.7195344,
+      "longitude": 44.2479015,
+      "min_latitude": 14.031811,
+      "min_longitude": 43.475584,
+      "max_latitude": 14.9834611,
+      "max_longitude": 44.8365489
+    },
     "translations": {
       "en": "Dhamar",
       "ar": "محافظة ذمار",
@@ -317,22 +360,29 @@
       "tr": "Zamar ili",
       "uk": "Дамар",
       "ur": "محافظہ ذمار",
-      "vi": "Tỉnh Dhamar"
+      "vi": "Tỉnh Dhamar",
+      "lv": "Demāras muhāfaza",
+      "lt": "Damaro gubernija",
+      "zh": "扎玛尔省",
+      "ccp": "𑄙𑄟𑄢𑄴",
+      "az": "Damar mühafazası"
     },
-    "geo": {
-      "latitude": 14.7195344,
-      "longitude": 44.2479015,
-      "min_latitude": 14.031811,
-      "min_longitude": 43.475584,
-      "max_latitude": 14.9834611,
-      "max_longitude": 44.8365489
-    },
-    "name": "Dhamar"
+    "comments": null
   },
   "HD": {
+    "name": "Hadramawt",
+    "code": null,
     "unofficial_names": [
       "Hadramout"
     ],
+    "geo": {
+      "latitude": 16.9304135,
+      "longitude": 49.36531489999999,
+      "min_latitude": 12.1115582,
+      "min_longitude": 46.2974891,
+      "max_latitude": 19.002331,
+      "max_longitude": 54.53053990000001
+    },
     "translations": {
       "en": "Hadramaut",
       "ar": "محافظة حضرموت",
@@ -375,20 +425,26 @@
       "tr": "Hadramut ili",
       "uk": "Хадрамаут",
       "ur": "محافظہ حضرموت",
-      "vi": "Tỉnh Hadhramaut"
+      "vi": "Tỉnh Hadhramaut",
+      "lv": "Hadramautas muhāfaza",
+      "lt": "Hadramuto gubernija",
+      "zh": "哈德拉毛省",
+      "ccp": "𑄦𑄓𑄳𑄢𑄭𑄟𑄧𑄅𑄪𑄖𑄴"
     },
-    "geo": {
-      "latitude": 16.9304135,
-      "longitude": 49.36531489999999,
-      "min_latitude": 12.1115582,
-      "min_longitude": 46.2974891,
-      "max_latitude": 19.002331,
-      "max_longitude": 54.53053990000001
-    },
-    "name": "Hadramawt"
+    "comments": null
   },
   "HJ": {
+    "name": "Hajjah",
+    "code": null,
     "unofficial_names": "Hajjah",
+    "geo": {
+      "latitude": 16.1180631,
+      "longitude": 43.329466,
+      "min_latitude": 15.463984,
+      "min_longitude": 42.778236,
+      "max_latitude": 16.6797261,
+      "max_longitude": 43.766581
+    },
     "translations": {
       "en": "Hajjah",
       "ar": "محافظة حجة",
@@ -430,19 +486,20 @@
       "tr": "Hacca ili",
       "uk": "Хадджа",
       "ur": "محافظہ حجہ",
-      "vi": "Tỉnh Hajjah"
+      "vi": "Tỉnh Hajjah",
+      "lv": "Hadžas muhāfaza",
+      "sr_Latn": "Hadžah",
+      "lt": "Hadžos gubernija",
+      "zh": "哈杰省",
+      "ccp": "𑄦𑄎𑄳𑄦𑄦𑄴",
+      "sr": "Хаџах",
+      "ca": "Governació d’Hajjah"
     },
-    "geo": {
-      "latitude": 16.1180631,
-      "longitude": 43.329466,
-      "min_latitude": 15.463984,
-      "min_longitude": 42.778236,
-      "max_latitude": 16.6797261,
-      "max_longitude": 43.766581
-    },
-    "name": "Hajjah"
+    "comments": null
   },
   "HU": {
+    "name": "Al Ḩudaydah",
+    "code": null,
     "unofficial_names": [
       "Hodeida",
       "Hodeidah",
@@ -450,6 +507,14 @@
       "H̨udaydah",
       "al-Hudaydah"
     ],
+    "geo": {
+      "latitude": 15.3053072,
+      "longitude": 43.0194897,
+      "min_latitude": 13.6042295,
+      "min_longitude": 41.8160553,
+      "max_latitude": 15.9224578,
+      "max_longitude": 43.777108
+    },
     "translations": {
       "en": "Al Hudaydah",
       "ar": "محافظة الحديدة",
@@ -492,20 +557,28 @@
       "tr": "El Hudeyde ili",
       "uk": "Ходейда",
       "ur": "محافظہ الحدیدہ",
-      "vi": "Tỉnh Al Hudaydah"
+      "vi": "Tỉnh Al Hudaydah",
+      "lv": "Hudeidas muhāfaza",
+      "sr_Latn": "El Hudaida",
+      "lt": "Al Hudaidos gubernija",
+      "zh": "荷台达省",
+      "ccp": "𑄃𑄣𑄴 𑄦𑄪𑄓𑄬𑄘𑄦𑄴",
+      "sr": "Ел Худаида"
     },
-    "geo": {
-      "latitude": 15.3053072,
-      "longitude": 43.0194897,
-      "min_latitude": 13.6042295,
-      "min_longitude": 41.8160553,
-      "max_latitude": 15.9224578,
-      "max_longitude": 43.777108
-    },
-    "name": "Al Ḩudaydah"
+    "comments": null
   },
   "IB": {
+    "name": "Ibb",
+    "code": null,
     "unofficial_names": "Ibb",
+    "geo": {
+      "latitude": 14.1415717,
+      "longitude": 44.2479015,
+      "min_latitude": 13.674915,
+      "min_longitude": 43.647663,
+      "max_latitude": 14.433573,
+      "max_longitude": 44.6729879
+    },
     "translations": {
       "en": "Ibb",
       "ar": "محافظة إب",
@@ -547,20 +620,29 @@
       "tr": "İb ili",
       "uk": "Ібб",
       "ur": "محافظہ اب",
-      "vi": "Tỉnh Ibb"
+      "vi": "Tỉnh Ibb",
+      "lv": "Ibas muhāfaza",
+      "ceb": "Ibb (lalawigan)",
+      "lt": "Ibo gubernija",
+      "zh": "伊卜省",
+      "ccp": "𑄃𑄨𑄛𑄳𑄦𑄴",
+      "az": "İbb mühafazası",
+      "ca": "Governació d’Ibb"
     },
-    "geo": {
-      "latitude": 14.1415717,
-      "longitude": 44.2479015,
-      "min_latitude": 13.674915,
-      "min_longitude": 43.647663,
-      "max_latitude": 14.433573,
-      "max_longitude": 44.6729879
-    },
-    "name": "Ibb"
+    "comments": null
   },
   "JA": {
+    "name": "Al Jawf",
+    "code": null,
     "unofficial_names": "Al Jawf",
+    "geo": {
+      "latitude": 16.7901819,
+      "longitude": 45.29938620000001,
+      "min_latitude": 15.722451,
+      "min_longitude": 44.067691,
+      "max_latitude": 17.4041709,
+      "max_longitude": 47.0087311
+    },
     "translations": {
       "en": "Al Jawf",
       "ar": "محافظة الجوف",
@@ -603,23 +685,32 @@
       "tr": "El Cavf ili",
       "uk": "Ель-Джауф",
       "ur": "محافظہ الجوف",
-      "vi": "Tỉnh Al Jawf"
+      "vi": "Tỉnh Al Jawf",
+      "lv": "Džaufas muhāfaza",
+      "sr_Latn": "El Džauf",
+      "lt": "Al Džafo gubernija",
+      "zh": "焦夫省",
+      "ccp": "𑄃𑄣𑄴 𑄎𑄮𑄛𑄴",
+      "sr": "Ел Џауф",
+      "be": "Эль-Джауф"
     },
-    "geo": {
-      "latitude": 16.7901819,
-      "longitude": 45.29938620000001,
-      "min_latitude": 15.722451,
-      "min_longitude": 44.067691,
-      "max_latitude": 17.4041709,
-      "max_longitude": 47.0087311
-    },
-    "name": "Al Jawf"
+    "comments": null
   },
   "LA": {
+    "name": "Laḩij",
+    "code": null,
     "unofficial_names": [
       "Lahej",
       "Lahj"
     ],
+    "geo": {
+      "latitude": 16.4022222,
+      "longitude": 44.3238889,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Lahij",
       "ar": "محافظة لحج",
@@ -649,23 +740,28 @@
       "sw": "Wilaya ya Lahij",
       "tr": "Lahic ili",
       "uk": "Лахдж",
-      "ur": "محافظہ لحج"
+      "ur": "محافظہ لحج",
+      "zh": "拉赫季省",
+      "ccp": "𑄣𑄝𑄦𑄨𑄌𑄴",
+      "ca": "Governació de Lahij"
     },
-    "geo": {
-      "latitude": 16.4022222,
-      "longitude": 44.3238889,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "name": "Laḩij"
+    "comments": null
   },
   "MA": {
+    "name": "Ma'rib",
+    "code": null,
     "unofficial_names": [
       "Marab",
       "Mareb"
     ],
+    "geo": {
+      "latitude": 15.4700312,
+      "longitude": 45.3228575,
+      "min_latitude": 15.4511678,
+      "min_longitude": 45.2984496,
+      "max_latitude": 15.4981702,
+      "max_longitude": 45.3470603
+    },
     "translations": {
       "en": "Ma’rib",
       "ar": "محافظة مأرب",
@@ -706,20 +802,28 @@
       "tr": "Ma’rib ili",
       "uk": "Маріб",
       "ur": "محافظہ مآرب",
-      "vi": "Tỉnh Ma’rib"
+      "vi": "Tỉnh Ma’rib",
+      "lv": "Maaribas muhāfaza",
+      "lt": "Maribo gubernija",
+      "zh": "马里卜省",
+      "bn": "মা‘রিব গভর্নোরেট",
+      "ccp": "𑄟‘𑄢𑄨𑄛𑄴",
+      "ca": "Governació de Marib"
     },
-    "geo": {
-      "latitude": 15.4700312,
-      "longitude": 45.3228575,
-      "min_latitude": 15.4511678,
-      "min_longitude": 45.2984496,
-      "max_latitude": 15.4981702,
-      "max_longitude": 45.3470603
-    },
-    "name": "Ma'rib"
+    "comments": null
   },
   "MR": {
+    "name": "Al Mahrah",
+    "code": null,
     "unofficial_names": "Al Mahrah",
+    "geo": {
+      "latitude": 16.5238423,
+      "longitude": 51.6834275,
+      "min_latitude": 15.0801567,
+      "min_longitude": 50.1137559,
+      "max_latitude": 19.002331,
+      "max_longitude": 53.0783
+    },
     "translations": {
       "en": "Al Mahrah",
       "ar": "محافظة المهرة",
@@ -762,20 +866,27 @@
       "tr": "El Mahra ili",
       "uk": "Ель-Махра",
       "ur": "محافظہ المہرہ",
-      "vi": "Tỉnh Al Mahrah"
+      "vi": "Tỉnh Al Mahrah",
+      "lv": "Mahras muhāfaza",
+      "ceb": "Al Mahrah",
+      "lt": "Al Machros gubernija",
+      "zh": "马哈拉省",
+      "ccp": "𑄃𑄣𑄴 𑄟𑄦𑄴𑄢𑄦𑄴"
     },
-    "geo": {
-      "latitude": 16.5238423,
-      "longitude": 51.6834275,
-      "min_latitude": 15.0801567,
-      "min_longitude": 50.1137559,
-      "max_latitude": 19.002331,
-      "max_longitude": 53.0783
-    },
-    "name": "Al Mahrah"
+    "comments": null
   },
   "MW": {
+    "name": "Al Mahwit",
+    "code": null,
     "unofficial_names": "Al Mahwit",
+    "geo": {
+      "latitude": 15.3963229,
+      "longitude": 43.5606946,
+      "min_latitude": 15.006784,
+      "min_longitude": 43.25229710000001,
+      "max_latitude": 15.5304159,
+      "max_longitude": 43.924874
+    },
     "translations": {
       "en": "Al Mahwit",
       "ar": "محافظة المحويت",
@@ -817,22 +928,30 @@
       "tr": "El Mahvit ili",
       "uk": "Махвіт",
       "ur": "محافظہ المحویت",
-      "vi": "Tỉnh Al Mahwit"
+      "vi": "Tỉnh Al Mahwit",
+      "lv": "Mehvītas muhāfaza",
+      "ceb": "Al Maḩwīt",
+      "lt": "Al Machvito gubernija",
+      "zh": "迈赫维特省",
+      "ccp": "𑄃𑄣𑄴 𑄟𑄦𑄴𑄃𑄪𑄃𑄨𑄖𑄴",
+      "ca": "Governació d’Al Mahwit"
     },
-    "geo": {
-      "latitude": 15.3963229,
-      "longitude": 43.5606946,
-      "min_latitude": 15.006784,
-      "min_longitude": 43.25229710000001,
-      "max_latitude": 15.5304159,
-      "max_longitude": 43.924874
-    },
-    "name": "Al Mahwit"
+    "comments": null
   },
   "SD": {
+    "name": "Sa`dah",
+    "code": null,
     "unofficial_names": [
       "Saʿadah"
     ],
+    "geo": {
+      "latitude": 16.9509413,
+      "longitude": 43.7477743,
+      "min_latitude": 16.9213471,
+      "min_longitude": 43.7216377,
+      "max_latitude": 16.9842336,
+      "max_longitude": 43.7776101
+    },
     "translations": {
       "en": "Sa’dah",
       "ar": "محافظة صعدة",
@@ -876,22 +995,28 @@
       "tr": "Saada ili",
       "uk": "Саада",
       "ur": "سادہ گوورنوراتے",
-      "vi": "Tỉnh Saada"
+      "vi": "Tỉnh Saada",
+      "lv": "Saadas muhāfaza",
+      "lt": "Saados gubernija",
+      "zh": "萨达省",
+      "ccp": "𑄥‘𑄓𑄦𑄴"
     },
-    "geo": {
-      "latitude": 16.9509413,
-      "longitude": 43.7477743,
-      "min_latitude": 16.9213471,
-      "min_longitude": 43.7216377,
-      "max_latitude": 16.9842336,
-      "max_longitude": 43.7776101
-    },
-    "name": "Sa`dah"
+    "comments": null
   },
   "SH": {
+    "name": "Shabwah",
+    "code": null,
     "unofficial_names": [
       "Shabwah"
     ],
+    "geo": {
+      "latitude": 15.368889,
+      "longitude": 47.023611,
+      "min_latitude": 15.3665084,
+      "min_longitude": 47.0220423,
+      "max_latitude": 15.3717846,
+      "max_longitude": 47.0317305
+    },
     "translations": {
       "en": "Shabwah",
       "ar": "محافظة شبوة",
@@ -934,19 +1059,20 @@
       "tr": "Şabva ili",
       "uk": "Шабва",
       "ur": "محافظہ شبوہ",
-      "vi": "Tỉnh Shabwah"
+      "vi": "Tỉnh Shabwah",
+      "lv": "Šebvas muhāfaza",
+      "ceb": "Shabwah",
+      "sr_Latn": "Šabva",
+      "lt": "Šabvos gubernija",
+      "zh": "舍卜沃省",
+      "ccp": "𑄥𑄛𑄴𑄤𑄦𑄴",
+      "sr": "Шабва"
     },
-    "geo": {
-      "latitude": 15.368889,
-      "longitude": 47.023611,
-      "min_latitude": 15.3665084,
-      "min_longitude": 47.0220423,
-      "max_latitude": 15.3717846,
-      "max_longitude": 47.0317305
-    },
-    "name": "Shabwah"
+    "comments": null
   },
   "SN": {
+    "name": "Sanʿā",
+    "code": null,
     "unofficial_names": [
       "Sana",
       "Sanaa",
@@ -954,6 +1080,14 @@
       "Sanaʿa City",
       "Sanʿaʿ"
     ],
+    "geo": {
+      "latitude": 16.0905301,
+      "longitude": 49.6554124,
+      "min_latitude": 16.08029,
+      "min_longitude": 49.64571480000001,
+      "max_latitude": 16.0981446,
+      "max_longitude": 49.6662712
+    },
     "translations": {
       "en": "Sana’a",
       "ar": "محافظة صنعاء",
@@ -982,22 +1116,29 @@
       "sw": "Wilaya ya Sana’a",
       "tr": "San’a ili",
       "uk": "Сана²",
-      "ur": "محافظہ صنعاء"
+      "ur": "محافظہ صنعاء",
+      "ceb": "Sanaa²",
+      "zh": "薩那省",
+      "ccp": "𑄥𑄚‘𑄃𑄧",
+      "ca": "Governació de Sanà",
+      "be": "Сана"
     },
-    "geo": {
-      "latitude": 16.0905301,
-      "longitude": 49.6554124,
-      "min_latitude": 16.08029,
-      "min_longitude": 49.64571480000001,
-      "max_latitude": 16.0981446,
-      "max_longitude": 49.6662712
-    },
-    "name": "Sanʿā"
+    "comments": null
   },
   "TA": {
+    "name": "Taʿizz",
+    "code": null,
     "unofficial_names": [
       "Taiz"
     ],
+    "geo": {
+      "latitude": 13.4131166,
+      "longitude": 43.6375314,
+      "min_latitude": 12.6340961,
+      "min_longitude": 43.2397839,
+      "max_latitude": 13.887883,
+      "max_longitude": 44.510999
+    },
     "translations": {
       "en": "Taiz",
       "ar": "محافظة تعز",
@@ -1037,19 +1178,30 @@
       "tr": "Taiz ili",
       "uk": "Таїз",
       "ur": "محافظہ تعز",
-      "vi": "Tỉnh Ta’izz"
+      "vi": "Tỉnh Ta’izz",
+      "lv": "Taizas muhāfaza",
+      "sr_Latn": "Taiz",
+      "lt": "Taiz gubernija",
+      "zh": "塔伊茲省",
+      "bn": "তা‘ইজ গভর্নোরেট",
+      "ccp": "𑄑𑄭𑄌𑄴",
+      "sr": "Таиз",
+      "ca": "Governació de Taizz"
     },
-    "geo": {
-      "latitude": 13.4131166,
-      "longitude": 43.6375314,
-      "min_latitude": 12.6340961,
-      "min_longitude": 43.2397839,
-      "max_latitude": 13.887883,
-      "max_longitude": 44.510999
-    },
-    "name": "Taʿizz"
+    "comments": null
   },
   "SA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Sanaa",
       "am": "ሳና",
@@ -1110,10 +1262,39 @@
       "tr": "San’a",
       "uk": "Сана",
       "ur": "صنعاء",
-      "vi": "Sana’a"
-    }
+      "vi": "Sana’a",
+      "cy": "Sana’a",
+      "ceb": "Sanaa",
+      "sr_Latn": "Sana",
+      "zh": "萨那",
+      "yue_Hans": "萨那",
+      "sq": "Sana",
+      "ccp": "𑄃𑄟𑄚𑄧𑄖𑄴 𑄃𑄣𑄴 𑄃𑄪𑄥𑄨𑄟𑄦𑄴",
+      "ga": "San’a",
+      "ky": "Сана",
+      "so": "Sana’a",
+      "pa": "ਸਨਾ",
+      "kk": "Сана",
+      "yue": "薩那",
+      "yo": "Sana’a",
+      "uz": "Sano",
+      "bs": "Sana’a",
+      "mk": "Сана"
+    },
+    "comments": null
   },
   "RA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة ريمة",
       "bg": "Райма",
@@ -1155,10 +1336,27 @@
       "tr": "Rayima ili",
       "uk": "Рейма",
       "ur": "محافظہ ریمہ",
-      "vi": "Tỉnh Raymah"
-    }
+      "vi": "Tỉnh Raymah",
+      "lv": "Raimas muhāfaza",
+      "lt": "Raimos gubernija",
+      "zh": "赖马省",
+      "ccp": "𑄢𑄬𑄟𑄦𑄴",
+      "ca": "Governació de Raimah"
+    },
+    "comments": null
   },
   "SU": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "محافظة أرخبيل سقطرى",
       "de": "Gouvernement Sokotra",
@@ -1168,8 +1366,14 @@
       "it": "governatorato di Socotra",
       "ja": "ソコトラ県",
       "ko": "소코트라 주",
-      "ur": "محافظہ سقطری"
-    }
+      "ur": "محافظہ سقطری",
+      "ceb": "Socotra",
+      "zh": "索科特拉省",
+      "ccp": "𑄃𑄢𑄴𑄈𑄝𑄨𑄣𑄴 𑄥𑄪𑄇𑄑𑄳𑄢",
+      "es": "Gobernación de Socotra",
+      "ca": "Governació de Socotra"
+    },
+    "comments": null
   }
 }
 

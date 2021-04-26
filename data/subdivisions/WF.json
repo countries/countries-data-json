@@ -1,5 +1,16 @@
 {
   "AL": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Alo",
       "ar": "ألو",
@@ -50,10 +61,27 @@
       "ur": "الو",
       "vi": "Alo",
       "zh": "阿洛",
-      "zu": "Alo"
-    }
+      "zu": "Alo",
+      "cy": "Alo",
+      "ceb": "Circonscription d’Alo",
+      "ccp": "𑄃𑄣𑄮",
+      "ga": "Alo",
+      "uk": "Ало"
+    },
+    "comments": null
   },
   "SG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Sigave",
       "ar": "مدينة سيغاف",
@@ -101,10 +129,27 @@
       "tr": "Sigave",
       "ur": "سیگاوی",
       "vi": "Sigave",
-      "zh": "锡加韦"
-    }
+      "zh": "锡加韦",
+      "cy": "Sigave",
+      "ceb": "Circonscription de Sigavé",
+      "ccp": "𑄥𑄨𑄉𑄃𑄨𑄛𑄴",
+      "ga": "Sigave",
+      "uk": "Сігаве"
+    },
+    "comments": null
   },
   "UV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "أوفيا",
       "bn": "উভা",
@@ -139,8 +184,39 @@
       "tr": "Uvea",
       "ur": "وویا",
       "vi": "Uvea",
-      "zh": "乌韦阿"
-    }
+      "zh": "乌韦阿",
+      "lv": "Uvea",
+      "cy": "Uvea",
+      "af": "Uvea",
+      "lt": "Uveja",
+      "sw": "Uvea",
+      "ccp": "𑄅𑄪𑄞𑄨𑄠",
+      "ga": "Uvea",
+      "gl": "Uvea",
+      "hu": "Uvea",
+      "is": "Uvea",
+      "sk": "Uvea",
+      "ro": "Uvea",
+      "hr": "Uvea",
+      "eu": "Uvea",
+      "et": "Uvea",
+      "uk": "Увеа",
+      "cs": "Uvea"
+    },
+    "comments": null
+  },
+  "": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 48.8360357,
+      "longitude": 2.3960663
+    },
+    "translations": {
+      "en": "Wallis & Futuna"
+    },
+    "comments": null
   }
 }
 

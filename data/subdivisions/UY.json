@@ -1,6 +1,16 @@
 {
   "AR": {
+    "name": "Artigas",
+    "code": null,
     "unofficial_names": "Artigas",
+    "geo": {
+      "latitude": -30.4880891,
+      "longitude": -57.10131879999999,
+      "min_latitude": -31.054585,
+      "min_longitude": -57.88818699999999,
+      "max_latitude": -30.082224,
+      "max_longitude": -55.9870069
+    },
     "translations": {
       "en": "Artigas",
       "ar": "إدارة أرتيغاس",
@@ -43,20 +53,28 @@
       "uk": "Артиґас",
       "ur": "آرتیگاس محکمہ",
       "vi": "Artigas",
-      "zh": "阿蒂加斯省"
+      "zh": "阿蒂加斯省",
+      "lv": "Artigasas departaments",
+      "ceb": "Departamento de Artigas",
+      "fa": "بخش آرتیگاس",
+      "ccp": "𑄃𑄢𑄴𑄑𑄨𑄉𑄌𑄴",
+      "sk": "Artigas",
+      "mk": "Артигас"
     },
-    "geo": {
-      "latitude": -30.4880891,
-      "longitude": -57.10131879999999,
-      "min_latitude": -31.054585,
-      "min_longitude": -57.88818699999999,
-      "max_latitude": -30.082224,
-      "max_longitude": -55.9870069
-    },
-    "name": "Artigas"
+    "comments": null
   },
   "CA": {
+    "name": "Canelones",
+    "code": null,
     "unofficial_names": "Canelones",
+    "geo": {
+      "latitude": -34.721,
+      "longitude": -55.959,
+      "min_latitude": -34.52278,
+      "min_longitude": -56.27778,
+      "max_latitude": -34.5166646,
+      "max_longitude": -56.2833322
+    },
     "translations": {
       "en": "Canelones",
       "ar": "إدارة كانيلونيس",
@@ -97,20 +115,30 @@
       "tr": "Canelones Departmanı",
       "uk": "Канелонес (департамент)",
       "ur": "کانیلونس محکمہ",
-      "vi": "Khu vực hành chính Canelones"
+      "vi": "Khu vực hành chính Canelones",
+      "lv": "Kanelonesas departaments",
+      "ceb": "Departamento de Canelones",
+      "zh": "卡内洛内斯省",
+      "fa": "بخش کنلونس",
+      "ccp": "𑄇𑄳𑄠𑄚𑄬𑄣𑄮𑄚𑄨𑄌𑄴",
+      "sk": "Canelones",
+      "be": "дэпартамент Канелонес",
+      "mk": "Канелонес (департман)"
     },
-    "geo": {
-      "latitude": -34.721,
-      "longitude": -55.959,
-      "min_latitude": -34.52278,
-      "min_longitude": -56.27778,
-      "max_latitude": -34.5166646,
-      "max_longitude": -56.2833322
-    },
-    "name": "Canelones"
+    "comments": null
   },
   "CO": {
+    "name": "Colonia",
+    "code": null,
     "unofficial_names": "Colonia",
+    "geo": {
+      "latitude": -34.4607,
+      "longitude": -57.8339,
+      "min_latitude": -35.5012,
+      "min_longitude": -56.7844,
+      "max_latitude": -34.4517,
+      "max_longitude": -57.7667
+    },
     "translations": {
       "en": "Colonia",
       "ar": "إدارة كولونيا",
@@ -152,20 +180,29 @@
       "tr": "Colonia Department",
       "uk": "Колонія",
       "ur": "کولونیا محکمہ",
-      "vi": "Colonia (tỉnh)"
+      "vi": "Colonia (tỉnh)",
+      "lv": "Kolonijas departaments",
+      "ceb": "Departamento de Colonia",
+      "zh": "科洛尼亚省",
+      "fa": "بخش کولونیا",
+      "ccp": "𑄇𑄳𑄠𑄣𑄮𑄚𑄨𑄠",
+      "sk": "Colonia",
+      "mk": "Колонија (департман)"
     },
-    "geo": {
-      "latitude": -34.4607,
-      "longitude": -57.8339,
-      "min_latitude": -35.5012,
-      "min_longitude": -56.7844,
-      "max_latitude": -34.4517,
-      "max_longitude": -57.7667
-    },
-    "name": "Colonia"
+    "comments": null
   },
   "CL": {
+    "name": "Cerro Lago",
+    "code": null,
     "unofficial_names": "Cerro Lago",
+    "geo": {
+      "latitude": -32.3769,
+      "longitude": -54.1654,
+      "min_latitude": -32.36667,
+      "min_longitude": -53.517,
+      "max_latitude": -32.483,
+      "max_longitude": -54.18333
+    },
     "translations": {
       "en": "Cerro Largo",
       "ar": "سيرو لاغو",
@@ -207,20 +244,29 @@
       "tr": "Cerro Largo",
       "uk": "Серро-Ларґо",
       "ur": "سیرو لارگو محکمہ",
-      "vi": "Cerro Largo"
+      "vi": "Cerro Largo",
+      "lv": "Serrolago departaments",
+      "ceb": "Departamento de Cerro Largo",
+      "zh": "塞罗拉尔戈省",
+      "fa": "بخش سرو لارگو",
+      "ccp": "𑄇𑄬𑄢𑄮 𑄣𑄢𑄴𑄉𑄮",
+      "sk": "Cerro Largo",
+      "mk": "Серо Ларго"
     },
-    "geo": {
-      "latitude": -32.3769,
-      "longitude": -54.1654,
-      "min_latitude": -32.36667,
-      "min_longitude": -53.517,
-      "max_latitude": -32.483,
-      "max_longitude": -54.18333
-    },
-    "name": "Cerro Lago"
+    "comments": null
   },
   "DU": {
+    "name": "Durazno",
+    "code": null,
     "unofficial_names": "Durazno",
+    "geo": {
+      "latitude": -33.3822982,
+      "longitude": -56.5275506,
+      "min_latitude": -33.413685,
+      "min_longitude": -56.6182749,
+      "max_latitude": -33.3566481,
+      "max_longitude": -56.4953762
+    },
     "translations": {
       "en": "Durazno",
       "ar": "إدارة دورازنو",
@@ -262,22 +308,31 @@
       "tr": "Durazno Departmanı",
       "uk": "Дурасно",
       "ur": "دوراسنو محکمہ",
-      "vi": "Durazno"
+      "vi": "Durazno",
+      "lv": "Durasno departaments",
+      "ceb": "Departamento de Durazno",
+      "zh": "杜拉斯诺省",
+      "fa": "بخش دورازنو",
+      "ccp": "𑄓𑄪𑄢𑄌𑄴𑄚𑄮",
+      "sk": "Durazno",
+      "mk": "Дурасно"
     },
-    "geo": {
-      "latitude": -33.3822982,
-      "longitude": -56.5275506,
-      "min_latitude": -33.413685,
-      "min_longitude": -56.6182749,
-      "max_latitude": -33.3566481,
-      "max_longitude": -56.4953762
-    },
-    "name": "Durazno"
+    "comments": null
   },
   "FD": {
+    "name": "Florida",
+    "code": null,
     "unofficial_names": [
       "FLorida"
     ],
+    "geo": {
+      "latitude": -34.1,
+      "longitude": -56.21666699999999,
+      "min_latitude": -34.11482950000001,
+      "min_longitude": -56.2453946,
+      "max_latitude": -34.0753834,
+      "max_longitude": -56.2004211
+    },
     "translations": {
       "en": "Florida",
       "ar": "إدارة فلوريدا",
@@ -318,20 +373,29 @@
       "tr": "Florida Departmanı",
       "uk": "Флорида",
       "ur": "فلوریدا محکمہ",
-      "vi": "Florida"
+      "vi": "Florida",
+      "lv": "Floridas departaments",
+      "ceb": "Departamento de Florida",
+      "zh": "佛罗里达省",
+      "fa": "بخش فلوریدا",
+      "ccp": "𑄜𑄳𑄣𑄮𑄢𑄨𑄓",
+      "sk": "Florida",
+      "mk": "Флорида"
     },
-    "geo": {
-      "latitude": -34.1,
-      "longitude": -56.21666699999999,
-      "min_latitude": -34.11482950000001,
-      "min_longitude": -56.2453946,
-      "max_latitude": -34.0753834,
-      "max_longitude": -56.2004211
-    },
-    "name": "Florida"
+    "comments": null
   },
   "FS": {
+    "name": "Flores",
+    "code": null,
     "unofficial_names": "Flores",
+    "geo": {
+      "latitude": -33.5629477,
+      "longitude": -56.83111169999999,
+      "min_latitude": -33.963974,
+      "min_longitude": -57.359303,
+      "max_latitude": -33.12822,
+      "max_longitude": -56.3974
+    },
     "translations": {
       "en": "Flores",
       "ar": "إدارة فلوريس",
@@ -372,20 +436,29 @@
       "tr": "Flores Departmanı",
       "uk": "Флорес",
       "ur": "فلوریس محکمہ",
-      "vi": "Flores"
+      "vi": "Flores",
+      "lv": "Floresas departaments",
+      "ceb": "Departamento de Flores",
+      "zh": "弗洛雷斯省",
+      "fa": "بخش فلورس",
+      "ccp": "𑄜𑄳𑄣𑄮𑄢𑄬𑄌𑄴",
+      "sk": "Flores",
+      "mk": "Флорес"
     },
-    "geo": {
-      "latitude": -33.5629477,
-      "longitude": -56.83111169999999,
-      "min_latitude": -33.963974,
-      "min_longitude": -57.359303,
-      "max_latitude": -33.12822,
-      "max_longitude": -56.3974
-    },
-    "name": "Flores"
+    "comments": null
   },
   "LA": {
+    "name": "Lavalleja",
+    "code": null,
     "unofficial_names": "Lavalleja",
+    "geo": {
+      "latitude": -34.0040354,
+      "longitude": -54.9611836,
+      "min_latitude": -34.6143989,
+      "min_longitude": -55.6264269,
+      "max_latitude": -33.296482,
+      "max_longitude": -54.126133
+    },
     "translations": {
       "en": "Lavalleja",
       "ar": "إدارة لافاليخا",
@@ -426,20 +499,29 @@
       "tr": "Lavalleja Departmanı",
       "uk": "Лавальєха",
       "ur": "لاواشیخا محکمہ",
-      "vi": "Lavalleja"
+      "vi": "Lavalleja",
+      "lv": "Lavaljehas departaments",
+      "ceb": "Departamento de Lavalleja",
+      "zh": "拉瓦耶哈省",
+      "fa": "بخش لاوایخا",
+      "ccp": "𑄣𑄞𑄣𑄳𑄦𑄨𑄎",
+      "sk": "Lavalleja",
+      "cs": "Lavalleja"
     },
-    "geo": {
-      "latitude": -34.0040354,
-      "longitude": -54.9611836,
-      "min_latitude": -34.6143989,
-      "min_longitude": -55.6264269,
-      "max_latitude": -33.296482,
-      "max_longitude": -54.126133
-    },
-    "name": "Lavalleja"
+    "comments": null
   },
   "MA": {
+    "name": "Maldonado",
+    "code": null,
     "unofficial_names": "Maldonado",
+    "geo": {
+      "latitude": -34.6277617,
+      "longitude": -54.9611836,
+      "min_latitude": -34.9733882,
+      "min_longitude": -55.48498189999999,
+      "max_latitude": -33.91334880000001,
+      "max_longitude": -54.4719539
+    },
     "translations": {
       "en": "Maldonado",
       "ar": "إدارة مالدونادو",
@@ -481,20 +563,28 @@
       "tr": "Maldonado Departmanı",
       "uk": "Мальдонадо",
       "ur": "مالدونادو محکمہ",
-      "vi": "Maldonado"
+      "vi": "Maldonado",
+      "lv": "Maldonado departaments",
+      "ceb": "Departamento de Maldonado",
+      "zh": "马尔多纳多省",
+      "fa": "بخش مالدونادو",
+      "ccp": "𑄟𑄣𑄴𑄓𑄮𑄚𑄓𑄮",
+      "sk": "Maldonado"
     },
-    "geo": {
-      "latitude": -34.6277617,
-      "longitude": -54.9611836,
-      "min_latitude": -34.9733882,
-      "min_longitude": -55.48498189999999,
-      "max_latitude": -33.91334880000001,
-      "max_longitude": -54.4719539
-    },
-    "name": "Maldonado"
+    "comments": null
   },
   "MO": {
+    "name": "Montevideo",
+    "code": null,
     "unofficial_names": "Montevideo",
+    "geo": {
+      "latitude": -34.9011127,
+      "longitude": -56.16453139999999,
+      "min_latitude": -34.9379555,
+      "min_longitude": -56.4311685,
+      "max_latitude": -34.70193,
+      "max_longitude": -56.0292436
+    },
     "translations": {
       "en": "Montevideo",
       "ar": "إدارة مونتيفيديو",
@@ -537,20 +627,58 @@
       "tr": "Montevideo Departmanı",
       "uk": "Монтевідео",
       "ur": "مونتیبیدیو محکمہ",
-      "vi": "Montevideo"
+      "vi": "Montevideo",
+      "lv": "Montevideo departaments",
+      "cy": "Montevideo",
+      "af": "Montevideo",
+      "ceb": "Departamento de Montevideo",
+      "sr_Latn": "Montevideo",
+      "zh": "蒙得維的亞省",
+      "sw": "Montevideo",
+      "yue_Hans": "蒙特维多",
+      "sq": "Montevideo",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄨𑄞𑄨𑄓𑄨𑄃𑄮",
+      "sr": "Монтевидео",
+      "ga": "Montevideo",
+      "hy": "Մոնտեվիդեո",
+      "ky": "Монтевидео",
+      "is": "Montevídeó",
+      "sk": "Montevideo",
+      "ro": "Montevideo",
+      "ha": "Montevideo",
+      "he": "מונטווידאו",
+      "et": "Montevideo",
+      "sl": "Montevideo",
+      "pa": "ਮੋਂਤੇਵੀਦਿਓ",
+      "kk": "Монтевидео",
+      "ml": "മൊണ്ടേവീഡിയോ",
+      "or": "ମଣ୍ଟିଭିଡ଼ିଓ",
+      "cs": "Montevideo",
+      "yue": "蒙特維多",
+      "az": "Montevideo",
+      "am": "ሞንቴቪዴዎ",
+      "my": "မွန်တီဗစ်ဒီအိုမြို့",
+      "mn": "Монтевидео",
+      "yo": "Montevideo",
+      "uz": "Montevideo",
+      "bs": "Montevideo",
+      "mk": "Монтевидео",
+      "tk": "Montowideo"
     },
-    "geo": {
-      "latitude": -34.9011127,
-      "longitude": -56.16453139999999,
-      "min_latitude": -34.9379555,
-      "min_longitude": -56.4311685,
-      "max_latitude": -34.70193,
-      "max_longitude": -56.0292436
-    },
-    "name": "Montevideo"
+    "comments": null
   },
   "PA": {
+    "name": "Paysandú",
+    "code": null,
     "unofficial_names": "Paysandú",
+    "geo": {
+      "latitude": -32.2216595,
+      "longitude": -57.4627259,
+      "min_latitude": -32.572212,
+      "min_longitude": -58.205719,
+      "max_latitude": -31.4293369,
+      "max_longitude": -56.2413251
+    },
     "translations": {
       "en": "Paysandú",
       "ar": "إدارة بايساندو",
@@ -591,20 +719,28 @@
       "tr": "Paysandu Departmanı",
       "uk": "Пайсанду",
       "ur": "پایساندو محکمہ",
-      "vi": "Paysandú"
+      "vi": "Paysandú",
+      "lv": "Paisandu departaments",
+      "ceb": "Departamento de Paysandú",
+      "zh": "派桑杜省",
+      "fa": "بخش پایساندو",
+      "ccp": "𑄛𑄬𑄥𑄚𑄴𑄓𑄪",
+      "sk": "Paysandú"
     },
-    "geo": {
-      "latitude": -32.2216595,
-      "longitude": -57.4627259,
-      "min_latitude": -32.572212,
-      "min_longitude": -58.205719,
-      "max_latitude": -31.4293369,
-      "max_longitude": -56.2413251
-    },
-    "name": "Paysandú"
+    "comments": null
   },
   "RN": {
+    "name": "Río Negro",
+    "code": null,
     "unofficial_names": "Río Negro",
+    "geo": {
+      "latitude": -32.7625409,
+      "longitude": -57.10131879999999,
+      "min_latitude": -33.4182849,
+      "min_longitude": -58.4203151,
+      "max_latitude": -32.3229219,
+      "max_longitude": -56.547501
+    },
     "translations": {
       "en": "Río Negro",
       "ar": "إدارة ريو نيغرو",
@@ -645,20 +781,29 @@
       "tr": "Río Negro Departmanı",
       "uk": "Ріо-Неґро",
       "ur": "ریو نیگرو محکمہ",
-      "vi": "Río Negro"
+      "vi": "Río Negro",
+      "lv": "Rionegro departaments",
+      "ceb": "Departamento de Río Negro",
+      "zh": "内格罗河省",
+      "fa": "بخش ریو نگرو",
+      "ccp": "𑄢𑄭𑄃𑄮 𑄚𑄬𑄉𑄳𑄢𑄮",
+      "sk": "Río Negro",
+      "be": "дэпартамент Рыа-Негра"
     },
-    "geo": {
-      "latitude": -32.7625409,
-      "longitude": -57.10131879999999,
-      "min_latitude": -33.4182849,
-      "min_longitude": -58.4203151,
-      "max_latitude": -32.3229219,
-      "max_longitude": -56.547501
-    },
-    "name": "Río Negro"
+    "comments": null
   },
   "RO": {
+    "name": "Rocha",
+    "code": null,
     "unofficial_names": "Rocha",
+    "geo": {
+      "latitude": -33.9674948,
+      "longitude": -53.9106594,
+      "min_latitude": -34.7936294,
+      "min_longitude": -54.564964,
+      "max_latitude": -33.1358951,
+      "max_longitude": -53.3785147
+    },
     "translations": {
       "en": "Rocha",
       "ar": "إدارة روتشا",
@@ -699,20 +844,28 @@
       "tr": "Rocha Departmanı",
       "uk": "Роча",
       "ur": "روچا محکمہ",
-      "vi": "Rocha"
+      "vi": "Rocha",
+      "lv": "Ročas departaments",
+      "ceb": "Departamento de Rocha",
+      "zh": "罗恰省",
+      "fa": "بخش روچا",
+      "ccp": "𑄢𑄮𑄌",
+      "sk": "Rocha"
     },
-    "geo": {
-      "latitude": -33.9674948,
-      "longitude": -53.9106594,
-      "min_latitude": -34.7936294,
-      "min_longitude": -54.564964,
-      "max_latitude": -33.1358951,
-      "max_longitude": -53.3785147
-    },
-    "name": "Rocha"
+    "comments": null
   },
   "RV": {
+    "name": "Rivera",
+    "code": null,
     "unofficial_names": "Rivera",
+    "geo": {
+      "latitude": -30.9025,
+      "longitude": -55.550556,
+      "min_latitude": -30.9871014,
+      "min_longitude": -55.61652660000001,
+      "max_latitude": -30.8566634,
+      "max_longitude": -55.4523149
+    },
     "translations": {
       "en": "Rivera",
       "ar": "إدارة ريفيرا",
@@ -753,20 +906,28 @@
       "tr": "Rivera Departmanı",
       "uk": "Рівера",
       "ur": "ریویرا محکمہ",
-      "vi": "Rivera"
+      "vi": "Rivera",
+      "lv": "Riveras departaments",
+      "ceb": "Departamento de Rivera",
+      "zh": "里韦拉省",
+      "fa": "بخش ریورا",
+      "ccp": "𑄢𑄨𑄞𑄢",
+      "sk": "Rivera"
     },
-    "geo": {
-      "latitude": -30.9025,
-      "longitude": -55.550556,
-      "min_latitude": -30.9871014,
-      "min_longitude": -55.61652660000001,
-      "max_latitude": -30.8566634,
-      "max_longitude": -55.4523149
-    },
-    "name": "Rivera"
+    "comments": null
   },
   "SA": {
+    "name": "Salto",
+    "code": null,
     "unofficial_names": "Salto",
+    "geo": {
+      "latitude": -31.4679335,
+      "longitude": -57.10131879999999,
+      "min_latitude": -31.8470001,
+      "min_longitude": -58.0779601,
+      "max_latitude": -30.716536,
+      "max_longitude": -55.99990589999999
+    },
     "translations": {
       "en": "Salto",
       "ar": "إدارة سالتو",
@@ -807,20 +968,29 @@
       "tr": "Salto Departmanı",
       "uk": "Сальто",
       "ur": "سالتو محکمہ",
-      "vi": "Salto"
+      "vi": "Salto",
+      "lv": "Salto departaments",
+      "ceb": "Departamento de Salto",
+      "zh": "萨尔托省",
+      "fa": "بخش سالتو",
+      "ccp": "𑄥𑄣𑄴𑄑𑄮",
+      "sk": "Salto",
+      "be": "дэпартамент Сальта"
     },
-    "geo": {
-      "latitude": -31.4679335,
-      "longitude": -57.10131879999999,
-      "min_latitude": -31.8470001,
-      "min_longitude": -58.0779601,
-      "max_latitude": -30.716536,
-      "max_longitude": -55.99990589999999
-    },
-    "name": "Salto"
+    "comments": null
   },
   "SJ": {
+    "name": "San José",
+    "code": null,
     "unofficial_names": "San José",
+    "geo": {
+      "latitude": -34.250223,
+      "longitude": -56.741207,
+      "min_latitude": -34.78946,
+      "min_longitude": -57.1731299,
+      "max_latitude": -33.816353,
+      "max_longitude": -56.34363399999999
+    },
     "translations": {
       "en": "San José",
       "ar": "إدارة سان خوسيه",
@@ -861,20 +1031,29 @@
       "tr": "San Jose Departmanı",
       "uk": "Сан-Хосе",
       "ur": "سان خوسے محکمہ",
-      "vi": "San José"
+      "vi": "San José",
+      "lv": "Sanhosē departaments",
+      "ceb": "Departamento de San José",
+      "zh": "圣何塞省",
+      "fa": "بخش سن خوزه",
+      "ccp": "𑄥𑄚𑄴 𑄎𑄮𑄥𑄬",
+      "sk": "San José",
+      "he": "סן חוסה (מחוז באורוגוואי)"
     },
-    "geo": {
-      "latitude": -34.250223,
-      "longitude": -56.741207,
-      "min_latitude": -34.78946,
-      "min_longitude": -57.1731299,
-      "max_latitude": -33.816353,
-      "max_longitude": -56.34363399999999
-    },
-    "name": "San José"
+    "comments": null
   },
   "SO": {
+    "name": "Soriano",
+    "code": null,
     "unofficial_names": "Soriano",
+    "geo": {
+      "latitude": -33.5103372,
+      "longitude": -57.7346113,
+      "min_latitude": -33.9466588,
+      "min_longitude": -58.442722,
+      "max_latitude": -33.006599,
+      "max_longitude": -57.0863759
+    },
     "translations": {
       "en": "Soriano",
       "ar": "إدارة سوريانو",
@@ -915,20 +1094,28 @@
       "tr": "Soriana Department",
       "uk": "Соріано",
       "ur": "سوریانو محکمہ",
-      "vi": "Soriano"
+      "vi": "Soriano",
+      "lv": "Sorjano departaments",
+      "ceb": "Departamento de Soriano",
+      "zh": "索里亚诺省",
+      "fa": "بخش سوریانو",
+      "ccp": "𑄥𑄮𑄢𑄨𑄠𑄚𑄮",
+      "sk": "Soriano"
     },
-    "geo": {
-      "latitude": -33.5103372,
-      "longitude": -57.7346113,
-      "min_latitude": -33.9466588,
-      "min_longitude": -58.442722,
-      "max_latitude": -33.006599,
-      "max_longitude": -57.0863759
-    },
-    "name": "Soriano"
+    "comments": null
   },
   "TA": {
+    "name": "Tacuarembó",
+    "code": null,
     "unofficial_names": "Tacuarembó",
+    "geo": {
+      "latitude": -32.0106717,
+      "longitude": -55.6689636,
+      "min_latitude": -32.872563,
+      "min_longitude": -56.663515,
+      "max_latitude": -31.210968,
+      "max_longitude": -54.651097
+    },
     "translations": {
       "en": "Tacuarembó",
       "ar": "إدارة تاكواريمبو",
@@ -971,20 +1158,28 @@
       "tr": "Tacuarembo Departmanı",
       "uk": "Такуарембо",
       "ur": "تاکواریمبو محکمہ",
-      "vi": "Khu vực hành chính Tacuarembó"
+      "vi": "Khu vực hành chính Tacuarembó",
+      "lv": "Takvarembo departaments",
+      "ceb": "Departamento de Tacuarembó",
+      "zh": "塔夸伦博省",
+      "fa": "بخش تاکوئارمبو",
+      "ccp": "𑄑𑄳𑄠𑄇𑄪𑄠𑄢𑄬𑄟𑄴𑄝𑄮",
+      "sk": "Tacuarembó"
     },
-    "geo": {
-      "latitude": -32.0106717,
-      "longitude": -55.6689636,
-      "min_latitude": -32.872563,
-      "min_longitude": -56.663515,
-      "max_latitude": -31.210968,
-      "max_longitude": -54.651097
-    },
-    "name": "Tacuarembó"
+    "comments": null
   },
   "TT": {
+    "name": "Treinta y Tres",
+    "code": null,
     "unofficial_names": "Treinta y Tres",
+    "geo": {
+      "latitude": -33.1476661,
+      "longitude": -54.25931180000001,
+      "min_latitude": -33.444572,
+      "min_longitude": -55.158798,
+      "max_latitude": -32.682854,
+      "max_longitude": -53.2823961
+    },
     "translations": {
       "en": "Treinta y Tres",
       "ar": "إدارة ترينتا ذا تريس",
@@ -1026,17 +1221,15 @@
       "tr": "Treinta y Tres",
       "uk": "Трейнта-і-Трес",
       "ur": "ترینتا ی تریس محکمہ",
-      "vi": "Treinta y Tres"
+      "vi": "Treinta y Tres",
+      "lv": "Treinta i Tresas departaments",
+      "ceb": "Departamento de Treinta y Tres",
+      "zh": "三十三人省",
+      "fa": "بخش ترینتا و ترس",
+      "ccp": "𑄑𑄳𑄢𑄬𑄃𑄨𑄚𑄴𑄑 𑄃𑄮𑄠𑄭 𑄑𑄳𑄢𑄬𑄌𑄴",
+      "sk": "Treinta y Tres"
     },
-    "geo": {
-      "latitude": -33.1476661,
-      "longitude": -54.25931180000001,
-      "min_latitude": -33.444572,
-      "min_longitude": -55.158798,
-      "max_latitude": -32.682854,
-      "max_longitude": -53.2823961
-    },
-    "name": "Treinta y Tres"
+    "comments": null
   }
 }
 

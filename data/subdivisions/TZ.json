@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Arusha",
+    "code": null,
     "unofficial_names": "Arusha",
+    "geo": {
+      "latitude": -3.372301,
+      "longitude": 36.6944136,
+      "min_latitude": -3.4624464,
+      "min_longitude": 36.6108228,
+      "max_latitude": -3.3338411,
+      "max_longitude": 36.7436028
+    },
     "translations": {
       "en": "Arusha",
       "ar": "إقليم أروشا",
@@ -44,22 +54,32 @@
       "uk": "Аруша",
       "ur": "اروشا ریجن",
       "vi": "Arusha",
-      "zh": "阿鲁沙区"
+      "zh": "阿鲁沙区",
+      "lv": "Arušas reģions",
+      "ceb": "Arusha Region",
+      "sr_Latn": "Aruša",
+      "lt": "Arušos regionas",
+      "yue_Hans": "阿鲁沙区",
+      "ccp": "𑄃𑄢𑄪𑄥",
+      "yue": "阿魯沙區",
+      "yo": "Agbègbè Arusha"
     },
-    "geo": {
-      "latitude": -3.372301,
-      "longitude": 36.6944136,
-      "min_latitude": -3.4624464,
-      "min_longitude": 36.6108228,
-      "max_latitude": -3.3338411,
-      "max_longitude": 36.7436028
-    },
-    "name": "Arusha"
+    "comments": null
   },
   "02": {
+    "name": "Dar es Salaam",
+    "code": null,
     "unofficial_names": [
       "Daressalam"
     ],
+    "geo": {
+      "latitude": -6.8,
+      "longitude": 39.283333,
+      "min_latitude": -6.950965,
+      "min_longitude": 39.0268707,
+      "max_latitude": -6.5891538,
+      "max_longitude": 39.4815816
+    },
     "translations": {
       "en": "Dar es Salaam",
       "ar": "إقليم دار السلام",
@@ -100,20 +120,31 @@
       "th": "เขตดาเรสซาราม",
       "tr": "Dar es Salaam Bölgesi",
       "ur": "دَر اس سلام ریجن",
-      "vi": "Dar es Salaam"
+      "vi": "Dar es Salaam",
+      "lv": "Dāresalāmas reģions",
+      "ceb": "Dar es Salaam Region",
+      "sr_Latn": "Dar es Salam",
+      "lt": "Dar es Salamo regionas",
+      "zh": "达累斯萨拉姆区",
+      "ccp": "𑄓𑄢𑄴 𑄃𑄬𑄌𑄴 𑄥𑄣𑄳𑄃𑄟𑄴",
+      "uk": "Регіон Дар-ес-Салам",
+      "yo": "Agbègbè Dar es Salaam",
+      "mk": "Дар ес Салам"
     },
-    "geo": {
-      "latitude": -6.8,
-      "longitude": 39.283333,
-      "min_latitude": -6.950965,
-      "min_longitude": 39.0268707,
-      "max_latitude": -6.5891538,
-      "max_longitude": 39.4815816
-    },
-    "name": "Dar es Salaam"
+    "comments": null
   },
   "03": {
+    "name": "Dodoma",
+    "code": null,
     "unofficial_names": "Dodoma",
+    "geo": {
+      "latitude": -6.173056,
+      "longitude": 35.741944,
+      "min_latitude": -6.2163048,
+      "min_longitude": 35.6944152,
+      "max_latitude": -6.120853100000001,
+      "max_longitude": 35.8233639
+    },
     "translations": {
       "en": "Dodoma",
       "bg": "Додома",
@@ -144,20 +175,30 @@
       "sw": "Mkoa wa Dodoma",
       "tr": "Dodoma",
       "uk": "Додома (регіон)",
-      "vi": "Dodoma"
+      "vi": "Dodoma",
+      "ceb": "Dodoma Region",
+      "sr_Latn": "Dodoma",
+      "zh": "多多馬區",
+      "yue_Hans": "杜笃玛区",
+      "ccp": "𑄓𑄮𑄓𑄮𑄟",
+      "yue": "杜篤瑪區",
+      "yo": "Agbègbè Dodoma",
+      "mk": "Додома"
     },
-    "geo": {
-      "latitude": -6.173056,
-      "longitude": 35.741944,
-      "min_latitude": -6.2163048,
-      "min_longitude": 35.6944152,
-      "max_latitude": -6.120853100000001,
-      "max_longitude": 35.8233639
-    },
-    "name": "Dodoma"
+    "comments": null
   },
   "04": {
+    "name": "Iringa",
+    "code": null,
     "unofficial_names": "Iringa",
+    "geo": {
+      "latitude": -7.77,
+      "longitude": 35.69,
+      "min_latitude": -7.815317299999999,
+      "min_longitude": 35.6575782,
+      "max_latitude": -7.723390999999999,
+      "max_longitude": 35.7300982
+    },
     "translations": {
       "en": "Iringa",
       "ar": "إقليم إيرينغا",
@@ -200,23 +241,34 @@
       "tr": "Iringa",
       "uk": "Ірінґа (регіон)",
       "ur": "یرینجا ریجن",
-      "vi": "Iringa"
+      "vi": "Iringa",
+      "lv": "Iringas reģions",
+      "ceb": "Iringa Region",
+      "sr_Latn": "Iringa",
+      "lt": "Iringos regionas",
+      "zh": "伊林加區",
+      "yue_Hans": "伊林加区",
+      "ccp": "𑄃𑄨𑄢𑄨𑄚𑄴𑄉",
+      "yue": "伊林加區",
+      "yo": "Agbègbè Iringa"
     },
-    "geo": {
-      "latitude": -7.77,
-      "longitude": 35.69,
-      "min_latitude": -7.815317299999999,
-      "min_longitude": 35.6575782,
-      "max_latitude": -7.723390999999999,
-      "max_longitude": 35.7300982
-    },
-    "name": "Iringa"
+    "comments": null
   },
   "05": {
+    "name": "Kagera",
+    "code": null,
     "unofficial_names": [
       "Akagera",
       "Ziwa Magharibi"
     ],
+    "geo": {
+      "latitude": -2.3751124,
+      "longitude": 31.2626366,
+      "min_latitude": -3.3440899,
+      "min_longitude": 30.4033911,
+      "max_latitude": -0.990736,
+      "max_longitude": 32.6189474
+    },
     "translations": {
       "en": "Kagera",
       "ar": "إقليم كاجيرا",
@@ -258,20 +310,32 @@
       "th": "คาเกรา รีัเจี้ยน",
       "tr": "Kagera Bölgesi",
       "ur": "کاگیرا علاقہ",
-      "vi": "Kagera"
+      "vi": "Kagera",
+      "lv": "Kageras reģions",
+      "ceb": "Kagera Region",
+      "sr_Latn": "Kagera",
+      "lt": "Kageros regionas",
+      "zh": "卡蓋拉區",
+      "yue_Hans": "卡盖拉区",
+      "ccp": "𑄇𑄉𑄬𑄢",
+      "uk": "Регіон Кагера",
+      "yue": "卡蓋拉區",
+      "yo": "Agbègbè Kagera"
     },
-    "geo": {
-      "latitude": -2.3751124,
-      "longitude": 31.2626366,
-      "min_latitude": -3.3440899,
-      "min_longitude": 30.4033911,
-      "max_latitude": -0.990736,
-      "max_longitude": 32.6189474
-    },
-    "name": "Kagera"
+    "comments": null
   },
   "06": {
+    "name": "Kaskazini Pemba",
+    "code": null,
     "unofficial_names": "Kaskazini Pemba",
+    "geo": {
+      "latitude": -5.031935199999999,
+      "longitude": 39.7755571,
+      "min_latitude": -5.2071645,
+      "min_longitude": 39.6152071,
+      "max_latitude": -4.8667473,
+      "max_longitude": 39.875565
+    },
     "translations": {
       "en": "North Pemba",
       "ar": "إقليم شمال بيمبا",
@@ -312,22 +376,34 @@
       "th": "นอร์ท เปมบา",
       "tr": "Kuzey Pemba Bölgesi",
       "ur": "پیمبا شمالی علاقہ",
-      "vi": "Pemba North"
+      "vi": "Pemba North",
+      "lv": "Ziemeļpembas reģions",
+      "ceb": "Pemba North Region",
+      "sr_Latn": "Pemba sever",
+      "lt": "Šiaurės Pembos regionas",
+      "zh": "北奔巴區",
+      "yue_Hans": "北奔巴区",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄬𑄟𑄝",
+      "uk": "Регіон Пемба Північна",
+      "yue": "北奔巴區",
+      "yo": "Agbègbè Pemba Àríwá"
     },
-    "geo": {
-      "latitude": -5.031935199999999,
-      "longitude": 39.7755571,
-      "min_latitude": -5.2071645,
-      "min_longitude": 39.6152071,
-      "max_latitude": -4.8667473,
-      "max_longitude": 39.875565
-    },
-    "name": "Kaskazini Pemba"
+    "comments": null
   },
   "07": {
+    "name": "Kaskazini Unguja",
+    "code": null,
     "unofficial_names": [
       "Unguja"
     ],
+    "geo": {
+      "latitude": -5.9395093,
+      "longitude": 39.2791011,
+      "min_latitude": -6.083642999999999,
+      "min_longitude": 39.186363,
+      "max_latitude": -5.721938,
+      "max_longitude": 39.409218
+    },
     "translations": {
       "en": "Zanzibar North",
       "ar": "إقليم شمال زنجبار",
@@ -368,20 +444,33 @@
       "th": "ซานซิบา นอร์ท",
       "tr": "Kuzey Zanzibar Bölgesi",
       "ur": "زانزیبر نارتھ ریجن",
-      "vi": "Zanzibar North (vùng)"
+      "vi": "Zanzibar North (vùng)",
+      "lv": "Ziemeļzanzibāras reģions",
+      "ceb": "Zanzibar North Region",
+      "sr_Latn": "Zanzibar sever",
+      "lt": "Šiaurinis Zanzibaro regionas",
+      "zh": "尚西巴北區",
+      "yue_Hans": "北安古迦区",
+      "ccp": "𑄎𑄚𑄴𑄎𑄨𑄝𑄢𑄴 𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴",
+      "uk": "Регіон Північний Занзібар",
+      "yue": "北安古迦區",
+      "yo": "Agbègbè Zanzibar Àríwá",
+      "mk": "Занзибар Север"
     },
-    "geo": {
-      "latitude": -5.9395093,
-      "longitude": 39.2791011,
-      "min_latitude": -6.083642999999999,
-      "min_longitude": 39.186363,
-      "max_latitude": -5.721938,
-      "max_longitude": 39.409218
-    },
-    "name": "Kaskazini Unguja"
+    "comments": null
   },
   "08": {
+    "name": "Kigoma",
+    "code": null,
     "unofficial_names": "Kigoma",
+    "geo": {
+      "latitude": -4.883332999999999,
+      "longitude": 29.633333,
+      "min_latitude": -4.9241075,
+      "min_longitude": 29.5995595,
+      "max_latitude": -4.8398476,
+      "max_longitude": 29.7011989
+    },
     "translations": {
       "en": "Kigoma",
       "ar": "إقليم كيغوما",
@@ -424,20 +513,32 @@
       "th": "คิโกมา",
       "tr": "Kigoma Bölgesi",
       "ur": "کیگوما علاقہ",
-      "vi": "Kigoma"
+      "vi": "Kigoma",
+      "lv": "Kigomas reģions",
+      "ceb": "Kigoma Region",
+      "sr_Latn": "Kigoma",
+      "lt": "Kigomos regionas",
+      "zh": "基戈馬區",
+      "yue_Hans": "基戈马区",
+      "ccp": "𑄇𑄨𑄉𑄮𑄟",
+      "uk": "Регіон Кігома",
+      "yue": "基戈馬區",
+      "yo": "Agbègbè Kigoma"
     },
-    "geo": {
-      "latitude": -4.883332999999999,
-      "longitude": 29.633333,
-      "min_latitude": -4.9241075,
-      "min_longitude": 29.5995595,
-      "max_latitude": -4.8398476,
-      "max_longitude": 29.7011989
-    },
-    "name": "Kigoma"
+    "comments": null
   },
   "09": {
+    "name": "Kilimanjaro",
+    "code": null,
     "unofficial_names": "Kilimanjaro",
+    "geo": {
+      "latitude": -4.1336927,
+      "longitude": 37.8087693,
+      "min_latitude": -4.623959999999999,
+      "min_longitude": 36.97385,
+      "max_latitude": -2.8484581,
+      "max_longitude": 38.471599
+    },
     "translations": {
       "en": "Kilimanjaro",
       "ar": "مقاطعة كليمنجارو",
@@ -480,20 +581,31 @@
       "tr": "Kilimanjaro Bölgesi",
       "uk": "Кіліманджаро (регіон)",
       "ur": "کلیمنجارو علاقہ",
-      "vi": "Kilimanjaro"
+      "vi": "Kilimanjaro",
+      "lv": "Kilimandžaro reģions",
+      "ceb": "Kilimanjaro Region",
+      "sr_Latn": "Kilimandžaro",
+      "lt": "Kilimandžaro regionas",
+      "zh": "乞力馬扎羅區",
+      "yue_Hans": "乞力马扎罗区",
+      "ccp": "𑄇𑄨𑄣𑄨𑄟𑄚𑄴𑄎𑄢𑄮",
+      "yue": "乞力馬扎羅區",
+      "yo": "Agbègbè Kilimanjaro"
     },
-    "geo": {
-      "latitude": -4.1336927,
-      "longitude": 37.8087693,
-      "min_latitude": -4.623959999999999,
-      "min_longitude": 36.97385,
-      "max_latitude": -2.8484581,
-      "max_longitude": 38.471599
-    },
-    "name": "Kilimanjaro"
+    "comments": null
   },
   "10": {
+    "name": "Kusini Pemba",
+    "code": null,
     "unofficial_names": "Kusini Pemba",
+    "geo": {
+      "latitude": -5.3146961,
+      "longitude": 39.7549511,
+      "min_latitude": -5.476286,
+      "min_longitude": 39.580599,
+      "max_latitude": -5.1784691,
+      "max_longitude": 39.8530017
+    },
     "translations": {
       "en": "South Pemba",
       "ar": "إقليم جنوب بيمبا",
@@ -534,20 +646,32 @@
       "th": "เซาต์ เพมบา",
       "tr": "South Pemba Bölgesi",
       "ur": "پیمبا جنوبی علاقہ",
-      "vi": "Pemba South"
+      "vi": "Pemba South",
+      "lv": "Dienvidpembas reģions",
+      "ceb": "Pemba South Region",
+      "sr_Latn": "Pemba jug",
+      "lt": "Pietinis Pembos regionas",
+      "zh": "南奔巴區",
+      "yue_Hans": "南奔巴区",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄬𑄟𑄴𑄝",
+      "uk": "Регіон Південна Пемба",
+      "yue": "南奔巴區",
+      "yo": "Agbègbè Pemba Gúúsù"
     },
-    "geo": {
-      "latitude": -5.3146961,
-      "longitude": 39.7549511,
-      "min_latitude": -5.476286,
-      "min_longitude": 39.580599,
-      "max_latitude": -5.1784691,
-      "max_longitude": 39.8530017
-    },
-    "name": "Kusini Pemba"
+    "comments": null
   },
   "11": {
+    "name": "Kusini Unguja",
+    "code": null,
     "unofficial_names": "Kusini Unguja",
+    "geo": {
+      "latitude": -6.2036563,
+      "longitude": 39.3621196,
+      "min_latitude": -6.476134999999999,
+      "min_longitude": 39.26983999999999,
+      "max_latitude": -6.0552399,
+      "max_longitude": 39.579086
+    },
     "translations": {
       "en": "Zanzibar Central/South",
       "bg": "Централен/Южен Занзибар",
@@ -570,20 +694,29 @@
       "ro": "Regiunea Zanzibar South and Central",
       "ru": "Занзибар Центрально-Южный",
       "sv": "Södra Zanzibar",
-      "sw": "Mkoa wa Unguja Kusini"
+      "sw": "Mkoa wa Unguja Kusini",
+      "ceb": "Zanzibar Central/South Region",
+      "zh": "尚西巴南區",
+      "yue_Hans": "南安古迦区",
+      "ccp": "𑄎𑄚𑄴𑄎𑄨𑄝𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴/𑄘𑄧𑄊𑄨𑄚𑄴",
+      "uk": "Занзібар Південний",
+      "yue": "南安古迦區",
+      "yo": "Agbègbè Zanzibar Àrin/Gúúsù"
     },
-    "geo": {
-      "latitude": -6.2036563,
-      "longitude": 39.3621196,
-      "min_latitude": -6.476134999999999,
-      "min_longitude": 39.26983999999999,
-      "max_latitude": -6.0552399,
-      "max_longitude": 39.579086
-    },
-    "name": "Kusini Unguja"
+    "comments": null
   },
   "12": {
+    "name": "Lindi",
+    "code": null,
     "unofficial_names": "Lindi",
+    "geo": {
+      "latitude": -9.996944,
+      "longitude": 39.714444,
+      "min_latitude": -10.0248502,
+      "min_longitude": 39.6923375,
+      "max_latitude": -9.9624893,
+      "max_longitude": 39.7192051
+    },
     "translations": {
       "en": "Lindi",
       "ar": "إقليم ليندي",
@@ -626,20 +759,32 @@
       "th": "เขตลินดิ",
       "tr": "Lindi Region",
       "ur": "لیندی علاقہ",
-      "vi": "Lindi"
+      "vi": "Lindi",
+      "lv": "Lindi reģions",
+      "ceb": "Lindi Region",
+      "sr_Latn": "Lindi",
+      "lt": "Lindžio regionas",
+      "zh": "林迪區",
+      "yue_Hans": "莲迪区",
+      "ccp": "𑄣𑄨𑄚𑄴𑄓𑄨",
+      "uk": "Регіон Лінді",
+      "yue": "蓮迪區",
+      "yo": "Agbègbè Lindi"
     },
-    "geo": {
-      "latitude": -9.996944,
-      "longitude": 39.714444,
-      "min_latitude": -10.0248502,
-      "min_longitude": 39.6923375,
-      "max_latitude": -9.9624893,
-      "max_longitude": 39.7192051
-    },
-    "name": "Lindi"
+    "comments": null
   },
   "13": {
+    "name": "Mara",
+    "code": null,
     "unofficial_names": "Mara",
+    "geo": {
+      "latitude": -1.7753538,
+      "longitude": 34.1531947,
+      "min_latitude": -2.528427,
+      "min_longitude": 32.7954015,
+      "max_latitude": -1.0252941,
+      "max_longitude": 35.32159
+    },
     "translations": {
       "en": "Mara",
       "ar": "اقليم مارا",
@@ -681,20 +826,32 @@
       "th": "เขตมารา",
       "tr": "Mara Bölgesi",
       "ur": "مارا علاقہ",
-      "vi": "Mara"
+      "vi": "Mara",
+      "lv": "Mara reģions",
+      "ceb": "Mara Region",
+      "sr_Latn": "Mara",
+      "lt": "Maros regionas",
+      "zh": "馬拉區",
+      "yue_Hans": "马拉区",
+      "ccp": "𑄟𑄢",
+      "uk": "Регіон Мара",
+      "yue": "馬拉區",
+      "yo": "Agbègbè Mara"
     },
-    "geo": {
-      "latitude": -1.7753538,
-      "longitude": 34.1531947,
-      "min_latitude": -2.528427,
-      "min_longitude": 32.7954015,
-      "max_latitude": -1.0252941,
-      "max_longitude": 35.32159
-    },
-    "name": "Mara"
+    "comments": null
   },
   "14": {
+    "name": "Mbeya",
+    "code": null,
     "unofficial_names": "Mbeya",
+    "geo": {
+      "latitude": -8.9,
+      "longitude": 33.45,
+      "min_latitude": -8.9592026,
+      "min_longitude": 33.3601812,
+      "max_latitude": -8.8526556,
+      "max_longitude": 33.5545536
+    },
     "translations": {
       "en": "Mbeya",
       "ar": "إقليم مبيا",
@@ -736,20 +893,32 @@
       "th": "มเบยา",
       "tr": "Mbeya Bölgesi",
       "ur": "مبیا علاقہ",
-      "vi": "Mbeya"
+      "vi": "Mbeya",
+      "lv": "Mbejas reģions",
+      "ceb": "Mbeya Region",
+      "sr_Latn": "Mbeja",
+      "lt": "Mbejos regionas",
+      "zh": "姆貝亞區",
+      "yue_Hans": "姆贝亚区",
+      "ccp": "𑄝𑄬𑄠",
+      "uk": "Мбея",
+      "yue": "姆貝亞區",
+      "yo": "Agbègbè Mbeya"
     },
-    "geo": {
-      "latitude": -8.9,
-      "longitude": 33.45,
-      "min_latitude": -8.9592026,
-      "min_longitude": 33.3601812,
-      "max_latitude": -8.8526556,
-      "max_longitude": 33.5545536
-    },
-    "name": "Mbeya"
+    "comments": null
   },
   "15": {
+    "name": "Mjini Magharibi",
+    "code": null,
     "unofficial_names": "Mjini Magharibi",
+    "geo": {
+      "latitude": -6.229813600000001,
+      "longitude": 39.2583293,
+      "min_latitude": -6.3821774,
+      "min_longitude": 39.1856115,
+      "max_latitude": -6.076521199999999,
+      "max_longitude": 39.2991794
+    },
     "translations": {
       "en": "Zanzibar Urban/West",
       "bg": "Западен Занзибар",
@@ -785,20 +954,34 @@
       "th": "เมืองแซนซิบาร์/เวส รีเจี้ยน",
       "tr": "Zanzibar Kırsal/Batı Bölgesi",
       "ur": "مجینی مغربی علاقہ",
-      "vi": "Zanzibar West"
+      "vi": "Zanzibar West",
+      "lv": "Rietumzanzibāras reģions",
+      "ceb": "Zanzibar Urban/West Region",
+      "yo_BJ": "Agbègbè Zanzibar Ìlú/Ìwɔ̀orùn",
+      "lt": "Zanzibaro vakarinis regionas",
+      "zh": "尚西巴西區",
+      "bn": "জাাঞ্জিবার আরবান/ওয়েস্ট অঞ্চল",
+      "yue_Hans": "桑给巴尔西区",
+      "ccp": "𑄎𑄚𑄴𑄎𑄨𑄝𑄢𑄴 𑄅𑄪𑄢𑄴𑄝𑄚𑄴/𑄛𑄧𑄏𑄨𑄟𑄴",
+      "hy": "Արևմտյան Զանզիբար",
+      "uk": "Регіон Західний Занзібар",
+      "yue": "桑給巴爾西區",
+      "yo": "Agbègbè Zanzibar Ìlú/Ìwọ̀orùn"
     },
-    "geo": {
-      "latitude": -6.229813600000001,
-      "longitude": 39.2583293,
-      "min_latitude": -6.3821774,
-      "min_longitude": 39.1856115,
-      "max_latitude": -6.076521199999999,
-      "max_longitude": 39.2991794
-    },
-    "name": "Mjini Magharibi"
+    "comments": null
   },
   "16": {
+    "name": "Morogoro",
+    "code": null,
     "unofficial_names": "Morogoro",
+    "geo": {
+      "latitude": -6.816667000000001,
+      "longitude": 37.666667,
+      "min_latitude": -6.8526342,
+      "min_longitude": 37.623539,
+      "max_latitude": -6.792040699999999,
+      "max_longitude": 37.69769670000001
+    },
     "translations": {
       "en": "Morogoro",
       "ar": "إقليم موروغورو",
@@ -840,22 +1023,34 @@
       "th": "โมโรโกโร",
       "tr": "Morogora Bölgesi",
       "ur": "موروگورو علاقہ",
-      "vi": "Morogoro"
+      "vi": "Morogoro",
+      "lv": "Morogoro reģions",
+      "ceb": "Morogoro Region",
+      "sr_Latn": "Morogoro",
+      "lt": "Morogoro regionas",
+      "zh": "莫罗戈罗区",
+      "yue_Hans": "莫罗戈罗区",
+      "ccp": "𑄟𑄮𑄢𑄮𑄉𑄮𑄢𑄮",
+      "uk": "Морогоро",
+      "yue": "莫羅戈羅區",
+      "yo": "Agbègbè Morogoro"
     },
-    "geo": {
-      "latitude": -6.816667000000001,
-      "longitude": 37.666667,
-      "min_latitude": -6.8526342,
-      "min_longitude": 37.623539,
-      "max_latitude": -6.792040699999999,
-      "max_longitude": 37.69769670000001
-    },
-    "name": "Morogoro"
+    "comments": null
   },
   "17": {
+    "name": "Mtwara",
+    "code": null,
     "unofficial_names": [
       "Mtware"
     ],
+    "geo": {
+      "latitude": -10.273611,
+      "longitude": 40.182778,
+      "min_latitude": -10.382298,
+      "min_longitude": 40.1423263,
+      "max_latitude": -10.2536284,
+      "max_longitude": 40.212965
+    },
     "translations": {
       "en": "Mtwara",
       "ar": "إقليم متوارا",
@@ -897,20 +1092,32 @@
       "th": "มวารา",
       "tr": "Mtwara Bölgesi",
       "ur": "متوارا علاقہ",
-      "vi": "Mtwara"
+      "vi": "Mtwara",
+      "lv": "Mtvaras reģions",
+      "ceb": "Mtwara Region",
+      "sr_Latn": "Mtvara",
+      "lt": "Mtvaros regionas",
+      "zh": "姆特瓦拉區",
+      "yue_Hans": "姆特华拉区",
+      "ccp": "𑄑𑄠𑄢",
+      "uk": "Регіон Мтвара",
+      "yue": "姆特華拉區",
+      "yo": "Agbègbè Mtwara"
     },
-    "geo": {
-      "latitude": -10.273611,
-      "longitude": 40.182778,
-      "min_latitude": -10.382298,
-      "min_longitude": 40.1423263,
-      "max_latitude": -10.2536284,
-      "max_longitude": 40.212965
-    },
-    "name": "Mtwara"
+    "comments": null
   },
   "18": {
+    "name": "Mwanza",
+    "code": null,
     "unofficial_names": "Mwanza",
+    "geo": {
+      "latitude": -2.516667,
+      "longitude": 32.9,
+      "min_latitude": -2.5725184,
+      "min_longitude": 32.8744311,
+      "max_latitude": -2.4342968,
+      "max_longitude": 32.9982823
+    },
     "translations": {
       "en": "Mwanza",
       "ar": "إقليم موانزا",
@@ -952,22 +1159,34 @@
       "th": "มวันซา",
       "tr": "Mwanza Bölgesi",
       "ur": "موانزا علاقہ",
-      "vi": "Mwanza"
+      "vi": "Mwanza",
+      "lv": "Mvanzas reģions",
+      "ceb": "Mwanza Region",
+      "sr_Latn": "Mvanza",
+      "lt": "Mvangos regionas",
+      "zh": "姆萬紮區",
+      "yue_Hans": "姆宛札区",
+      "ccp": "𑄤𑄚𑄴𑄎",
+      "uk": "Регіон Мванза",
+      "yue": "姆宛札區",
+      "yo": "Agbègbè Mwanza"
     },
-    "geo": {
-      "latitude": -2.516667,
-      "longitude": 32.9,
-      "min_latitude": -2.5725184,
-      "min_longitude": 32.8744311,
-      "max_latitude": -2.4342968,
-      "max_longitude": 32.9982823
-    },
-    "name": "Mwanza"
+    "comments": null
   },
   "19": {
+    "name": "Pwani",
+    "code": null,
     "unofficial_names": [
       "Coast"
     ],
+    "geo": {
+      "latitude": -7.323771400000001,
+      "longitude": 38.8205454,
+      "min_latitude": -8.4510141,
+      "min_longitude": 37.8144299,
+      "max_latitude": -5.828001,
+      "max_longitude": 39.910326
+    },
     "translations": {
       "en": "Pwani",
       "ar": "إقليم بواني",
@@ -1009,20 +1228,32 @@
       "th": "เขตปวานิ",
       "tr": "Pwani Region",
       "ur": "پوانی علاقہ",
-      "vi": "Pwani"
+      "vi": "Pwani",
+      "lv": "Pvani reģions",
+      "ceb": "Coast Region",
+      "sr_Latn": "Pvani",
+      "lt": "Pvanio regionas",
+      "zh": "濱海區",
+      "yue_Hans": "滨海区",
+      "ccp": "𑄤𑄚𑄨",
+      "uk": "Регіон Пвані",
+      "yue": "濱海區",
+      "yo": "Agbègbè Pwani"
     },
-    "geo": {
-      "latitude": -7.323771400000001,
-      "longitude": 38.8205454,
-      "min_latitude": -8.4510141,
-      "min_longitude": 37.8144299,
-      "max_latitude": -5.828001,
-      "max_longitude": 39.910326
-    },
-    "name": "Pwani"
+    "comments": null
   },
   "20": {
+    "name": "Rukwa",
+    "code": null,
     "unofficial_names": "Rukwa",
+    "geo": {
+      "latitude": -6.965368499999999,
+      "longitude": 31.2626366,
+      "min_latitude": -9.076138,
+      "min_longitude": 29.95819109999999,
+      "max_latitude": -5.182548100000001,
+      "max_longitude": 32.7445109
+    },
     "translations": {
       "en": "Rukwa",
       "ar": "إقليم روكوا",
@@ -1063,20 +1294,32 @@
       "th": "รุกวา",
       "tr": "Rukwa Bölgesi",
       "ur": "رکوا ریجن",
-      "vi": "Rukwa"
+      "vi": "Rukwa",
+      "lv": "Rukvas reģions",
+      "ceb": "Rukwa Region",
+      "sr_Latn": "Rukva",
+      "lt": "Rukvos regionas",
+      "zh": "魯夸區",
+      "yue_Hans": "鲁夸区",
+      "ccp": "𑄢𑄪𑄇𑄧𑄤",
+      "uk": "Регіон Руква",
+      "yue": "魯夸區",
+      "yo": "Agbègbè Rukwa"
     },
-    "geo": {
-      "latitude": -6.965368499999999,
-      "longitude": 31.2626366,
-      "min_latitude": -9.076138,
-      "min_longitude": 29.95819109999999,
-      "max_latitude": -5.182548100000001,
-      "max_longitude": 32.7445109
-    },
-    "name": "Rukwa"
+    "comments": null
   },
   "21": {
+    "name": "Ruvuma",
+    "code": null,
     "unofficial_names": "Ruvuma",
+    "geo": {
+      "latitude": -10.6878717,
+      "longitude": 36.2630846,
+      "min_latitude": -11.745696,
+      "min_longitude": 34.5682455,
+      "max_latitude": -9.1864479,
+      "max_longitude": 38.071091
+    },
     "translations": {
       "en": "Ruvuma",
       "ar": "إقليم روفوما",
@@ -1117,20 +1360,33 @@
       "th": "รูวูมา",
       "tr": "Ruvuma Region",
       "ur": "روووما ریجن",
-      "vi": "Ruvuma"
+      "vi": "Ruvuma",
+      "lv": "Ruvumas reģions",
+      "ceb": "Ruvuma Region",
+      "sr_Latn": "Ruvuma",
+      "lt": "Ruvumos regionas",
+      "zh": "魯伍馬區",
+      "yue_Hans": "鲁伍马区",
+      "ccp": "𑄢𑄪𑄞𑄪𑄟",
+      "uk": "Регіон Рувума",
+      "yue": "魯伍馬區",
+      "yo": "Agbègbè Ruvuma",
+      "mk": "Рувума"
     },
-    "geo": {
-      "latitude": -10.6878717,
-      "longitude": 36.2630846,
-      "min_latitude": -11.745696,
-      "min_longitude": 34.5682455,
-      "max_latitude": -9.1864479,
-      "max_longitude": 38.071091
-    },
-    "name": "Ruvuma"
+    "comments": null
   },
   "22": {
+    "name": "Shinyanga",
+    "code": null,
     "unofficial_names": "Shinyanga",
+    "geo": {
+      "latitude": -3.661944,
+      "longitude": 33.423056,
+      "min_latitude": -3.6935938,
+      "min_longitude": 33.3919132,
+      "max_latitude": -3.650936499999999,
+      "max_longitude": 33.4494835
+    },
     "translations": {
       "en": "Shinyanga",
       "ar": "إقليم شينيانغا",
@@ -1171,20 +1427,32 @@
       "th": "โลการ์",
       "tr": "Shinyanga Bölgesi",
       "ur": "شینیانگا علاقہ",
-      "vi": "Shinyanga"
+      "vi": "Shinyanga",
+      "lv": "Šiņangas reģions",
+      "ceb": "Shinyanga Region",
+      "sr_Latn": "Šinjanga",
+      "lt": "Šinjangos regionas",
+      "zh": "欣延加區",
+      "yue_Hans": "辛阳贾区",
+      "ccp": "𑄥𑄨𑄚𑄨𑄠𑄁𑄉",
+      "uk": "Регіон Шиньянга",
+      "yue": "辛陽賈區",
+      "yo": "Agbègbè Shinyanga"
     },
-    "geo": {
-      "latitude": -3.661944,
-      "longitude": 33.423056,
-      "min_latitude": -3.6935938,
-      "min_longitude": 33.3919132,
-      "max_latitude": -3.650936499999999,
-      "max_longitude": 33.4494835
-    },
-    "name": "Shinyanga"
+    "comments": null
   },
   "23": {
+    "name": "Singida",
+    "code": null,
     "unofficial_names": "Singida",
+    "geo": {
+      "latitude": -4.819999999999999,
+      "longitude": 34.73999999999999,
+      "min_latitude": -4.8474173,
+      "min_longitude": 34.706626,
+      "max_latitude": -4.777412600000001,
+      "max_longitude": 34.7794962
+    },
     "translations": {
       "en": "Singida",
       "ar": "اقليم سينغيدا",
@@ -1225,20 +1493,32 @@
       "th": "ซินกิด้า",
       "tr": "Singida Bölgesi",
       "ur": "سنگیدا علاقہ",
-      "vi": "Singida"
+      "vi": "Singida",
+      "lv": "Singidas reģions",
+      "ceb": "Singida Region",
+      "sr_Latn": "Singida",
+      "lt": "Singidos regionas",
+      "zh": "辛吉達區",
+      "yue_Hans": "辛基达区",
+      "ccp": "𑄥𑄨𑄚𑄴𑄉𑄨𑄓",
+      "uk": "Регіон Сингіда",
+      "yue": "辛基達區",
+      "yo": "Agbègbè Singida"
     },
-    "geo": {
-      "latitude": -4.819999999999999,
-      "longitude": 34.73999999999999,
-      "min_latitude": -4.8474173,
-      "min_longitude": 34.706626,
-      "max_latitude": -4.777412600000001,
-      "max_longitude": 34.7794962
-    },
-    "name": "Singida"
+    "comments": null
   },
   "24": {
+    "name": "Tabora",
+    "code": null,
     "unofficial_names": "Tabora",
+    "geo": {
+      "latitude": -5.016667,
+      "longitude": 32.8,
+      "min_latitude": -5.0897659,
+      "min_longitude": 32.7742009,
+      "max_latitude": -4.9860158,
+      "max_longitude": 32.8532632
+    },
     "translations": {
       "en": "Tabora",
       "ar": "إقليم تابورا",
@@ -1280,20 +1560,32 @@
       "th": "ทาบอรา",
       "tr": "Tabora Region",
       "ur": "تابورا علاقہ",
-      "vi": "Tabora"
+      "vi": "Tabora",
+      "lv": "Taboras reģions",
+      "ceb": "Tabora Region",
+      "sr_Latn": "Tabora",
+      "lt": "Taboros regionas",
+      "zh": "塔波拉區",
+      "yue_Hans": "塔波拉区",
+      "ccp": "𑄑𑄝𑄮𑄢",
+      "uk": "Регіон Табора",
+      "yue": "塔波拉區",
+      "yo": "Agbègbè Tabora"
     },
-    "geo": {
-      "latitude": -5.016667,
-      "longitude": 32.8,
-      "min_latitude": -5.0897659,
-      "min_longitude": 32.7742009,
-      "max_latitude": -4.9860158,
-      "max_longitude": 32.8532632
-    },
-    "name": "Tabora"
+    "comments": null
   },
   "25": {
+    "name": "Tanga",
+    "code": null,
     "unofficial_names": "Tanga",
+    "geo": {
+      "latitude": -5.0888751,
+      "longitude": 39.1023228,
+      "min_latitude": -5.1261043,
+      "min_longitude": 39.0567078,
+      "max_latitude": -5.0548382,
+      "max_longitude": 39.1312501
+    },
     "translations": {
       "en": "Tanga",
       "ar": "مقاطعة تانغا",
@@ -1336,20 +1628,32 @@
       "th": "ทังกา",
       "tr": "Tanga Region",
       "ur": "ٹانگہ ریجن",
-      "vi": "Tanga"
+      "vi": "Tanga",
+      "lv": "Tangas reģions",
+      "ceb": "Tanga Region",
+      "sr_Latn": "Tanga",
+      "lt": "Tangos regionas",
+      "zh": "坦噶区",
+      "yue_Hans": "坦噶区",
+      "ccp": "𑄑𑄚𑄴𑄉",
+      "uk": "Танга",
+      "yue": "坦噶區",
+      "yo": "Agbègbè Tanga"
     },
-    "geo": {
-      "latitude": -5.0888751,
-      "longitude": 39.1023228,
-      "min_latitude": -5.1261043,
-      "min_longitude": 39.0567078,
-      "max_latitude": -5.0548382,
-      "max_longitude": 39.1312501
-    },
-    "name": "Tanga"
+    "comments": null
   },
   "26": {
+    "name": "Manyara",
+    "code": null,
     "unofficial_names": "Manyara",
+    "geo": {
+      "latitude": -4.3150058,
+      "longitude": 36.954107,
+      "min_latitude": -5.980841,
+      "min_longitude": 34.78854,
+      "max_latitude": -3.391186,
+      "max_longitude": 38.0391009
+    },
     "translations": {
       "en": "Manyara",
       "ar": "إقليم مانيارا",
@@ -1391,19 +1695,32 @@
       "th": "มันยารา",
       "tr": "Manyara Bölgesi",
       "ur": "مانیارا علاقہ",
-      "vi": "Manyara"
+      "vi": "Manyara",
+      "lv": "Manjaras reģions",
+      "ceb": "Manyara Region",
+      "sr_Latn": "Manjara",
+      "lt": "Manjaros regionas",
+      "zh": "曼亞拉區",
+      "yue_Hans": "曼亚拉区",
+      "ccp": "𑄟𑄚𑄨𑄠𑄢",
+      "uk": "Регіон Маньяра",
+      "yue": "曼亞拉區",
+      "yo": "Agbègbè Manyara"
     },
-    "geo": {
-      "latitude": -4.3150058,
-      "longitude": 36.954107,
-      "min_latitude": -5.980841,
-      "min_longitude": 34.78854,
-      "max_latitude": -3.391186,
-      "max_longitude": 38.0391009
-    },
-    "name": "Manyara"
+    "comments": null
   },
   "27": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم جيتا",
       "bn": "গীতা অঞ্চল",
@@ -1441,10 +1758,29 @@
       "th": "เกยตา",
       "tr": "Geita Bölgesi",
       "ur": "گئیتا علاقہ",
-      "vi": "Khu vực Geita"
-    }
+      "vi": "Khu vực Geita",
+      "lv": "Geitas reģions",
+      "ceb": "Geita Region",
+      "lt": "Geitos regionas",
+      "yue_Hans": "盖塔区",
+      "ccp": "𑄉𑄨𑄠𑄬𑄑",
+      "uk": "Регіон Гейта",
+      "yue": "蓋塔區"
+    },
+    "comments": null
   },
   "28": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم كاتافي",
       "bn": "কাটাভি অঞ্চল",
@@ -1480,10 +1816,29 @@
       "th": "คาทาวี",
       "tr": "Katavi Bölgesi",
       "ur": "کاتاوی علاقہ",
-      "vi": "Khu vực Katavi"
-    }
+      "vi": "Khu vực Katavi",
+      "lv": "Katavi reģions",
+      "ceb": "Katavi Region",
+      "lt": "Katavio regionas",
+      "yue_Hans": "卡塔维区",
+      "ccp": "𑄇𑄑𑄞𑄨",
+      "uk": "Регіон Катаві",
+      "yue": "卡塔維區"
+    },
+    "comments": null
   },
   "29": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "إقليم نجومبي",
       "bn": "জম্বে অঞ্চল",
@@ -1519,10 +1874,30 @@
       "th": "เขตจอมบิ",
       "tr": "Nhombe Bölgesi",
       "ur": "نجومبے علاقہ",
-      "vi": "Khu vực Njombe"
-    }
+      "vi": "Khu vực Njombe",
+      "lv": "Nģombes reģions",
+      "ceb": "Njombe Region",
+      "lt": "Njombės regionas",
+      "zh": "恩瓊貝區",
+      "yue_Hans": "恩琼贝区",
+      "ccp": "𑄎𑄮𑄟𑄴𑄝𑄨",
+      "uk": "Регіон Нджомбе",
+      "yue": "恩瓊貝區"
+    },
+    "comments": null
   },
   "30": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "اقليم سيميو",
       "bn": "সিমিয়ো অঞ্চল",
@@ -1558,8 +1933,33 @@
       "th": "เขตซิมิยู",
       "tr": "Simiyu Region",
       "ur": "سیمیو ریجن",
-      "vi": "Khu vực Simiyu"
-    }
+      "vi": "Khu vực Simiyu",
+      "lv": "Simiju reģions",
+      "ceb": "Simiyu Region",
+      "lt": "Simijo regionas",
+      "yue_Hans": "锡米尤区",
+      "ccp": "𑄥𑄨𑄟𑄨𑄠𑄪",
+      "uk": "Регіон Сімію",
+      "yue": "錫米尤區"
+    },
+    "comments": null
+  },
+  "31": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -6.369028,
+      "longitude": 34.888822,
+      "min_latitude": -11.7612539,
+      "min_longitude": 29.34,
+      "max_latitude": -0.9843968000000001,
+      "max_longitude": 40.6398
+    },
+    "translations": {
+      "en": "Songwe"
+    },
+    "comments": null
   }
 }
 

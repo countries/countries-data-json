@@ -1,8 +1,18 @@
 {
   "A": {
+    "name": "Ahal",
+    "code": null,
     "unofficial_names": [
       "Akhal"
     ],
+    "geo": {
+      "latitude": 38.6399398,
+      "longitude": 59.4720904,
+      "min_latitude": 35.58967,
+      "min_longitude": 56.723392,
+      "max_latitude": 40.197323,
+      "max_longitude": 61.51145510000001
+    },
     "translations": {
       "en": "Ahal",
       "ar": "اقليم أهال",
@@ -49,20 +59,29 @@
       "uk": "Ахалський велаят",
       "ur": "صوبہ آخال",
       "vi": "Ahal (tỉnh)",
-      "zh": "阿哈爾州"
+      "zh": "阿哈爾州",
+      "lv": "Ahala vilajets",
+      "ceb": "Ahal",
+      "sr_Latn": "Pokrajina Ahal",
+      "ccp": "𑄃𑄦𑄣𑄴",
+      "ky": "Ашгабат облусу",
+      "be": "Ахалскі велаят",
+      "uz": "Ahal viloyati"
     },
-    "geo": {
-      "latitude": 38.6399398,
-      "longitude": 59.4720904,
-      "min_latitude": 35.58967,
-      "min_longitude": 56.723392,
-      "max_latitude": 40.197323,
-      "max_longitude": 61.51145510000001
-    },
-    "name": "Ahal"
+    "comments": null
   },
   "B": {
+    "name": "Balkan",
+    "code": null,
     "unofficial_names": "Balkan",
+    "geo": {
+      "latitude": 40.9468884,
+      "longitude": 54.4952432,
+      "min_latitude": 37.309181,
+      "min_longitude": 52.4446017,
+      "max_latitude": 42.3434979,
+      "max_longitude": 57.19972600000001
+    },
     "translations": {
       "en": "Balkan",
       "ar": "ولاية بلقان",
@@ -111,19 +130,21 @@
       "tr": "Balkan vilayeti",
       "uk": "Балканський велаят",
       "ur": "صوبہ بلخان",
-      "vi": "Balkan"
+      "vi": "Balkan",
+      "lv": "Balkanas vilajets",
+      "ceb": "Balkan",
+      "sr_Latn": "Pokrajina Balkan",
+      "zh": "巴爾坎州",
+      "ccp": "𑄝𑄧𑄣𑄴𑄇𑄚𑄴",
+      "ps": "بلخان ولايت",
+      "be": "Балканскі велаят",
+      "uz": "Bolqon viloyati"
     },
-    "geo": {
-      "latitude": 40.9468884,
-      "longitude": 54.4952432,
-      "min_latitude": 37.309181,
-      "min_longitude": 52.4446017,
-      "max_latitude": 42.3434979,
-      "max_longitude": 57.19972600000001
-    },
-    "name": "Balkan"
+    "comments": null
   },
   "D": {
+    "name": "Dasoguz",
+    "code": null,
     "unofficial_names": [
       "Dashhovuz",
       "Dashhowuz",
@@ -135,6 +156,14 @@
       "Tashauz",
       "Tašauz"
     ],
+    "geo": {
+      "latitude": 41.833333,
+      "longitude": 59.966667,
+      "min_latitude": 41.788273,
+      "min_longitude": 59.8845004,
+      "max_latitude": 41.880745,
+      "max_longitude": 60.038309
+    },
     "translations": {
       "en": "Daşoguz",
       "ar": "ولاية داشوغوز",
@@ -169,20 +198,28 @@
       "tr": "Daşoğuz vilayeti",
       "uk": "Дашогузький велаят",
       "ur": "صوبہ داشوغوز",
-      "vi": "Daşoguz"
+      "vi": "Daşoguz",
+      "ceb": "Daşoguz Welaýaty",
+      "sr_Latn": "Pokrajina Dašoguz",
+      "zh": "達沙古茲州",
+      "ccp": "𑄓𑄥𑄮𑄉𑄪𑄌𑄴",
+      "ky": "Ташауз областы",
+      "uz": "Dashoguz viloyati"
     },
-    "geo": {
-      "latitude": 41.833333,
-      "longitude": 59.966667,
-      "min_latitude": 41.788273,
-      "min_longitude": 59.8845004,
-      "max_latitude": 41.880745,
-      "max_longitude": 60.038309
-    },
-    "name": "Dasoguz"
+    "comments": null
   },
   "L": {
+    "name": "Lebap",
+    "code": null,
     "unofficial_names": "Lebap",
+    "geo": {
+      "latitude": 38.12724619999999,
+      "longitude": 64.7162415,
+      "min_latitude": 36.850881,
+      "min_longitude": 60.18987389999999,
+      "max_latitude": 41.2915379,
+      "max_longitude": 66.6843031
+    },
     "translations": {
       "en": "Lebap",
       "az": "Lebap vilayəti",
@@ -217,23 +254,30 @@
       "tr": "Lebap vilayeti",
       "uk": "Лебапський велаят",
       "ur": "صوبہ لب آب",
-      "vi": "Lebap"
+      "vi": "Lebap",
+      "ceb": "Lebap",
+      "sr_Latn": "Pokrajina Lebap",
+      "zh": "列巴普州",
+      "ccp": "𑄣𑄬𑄝𑄛𑄴",
+      "uz": "Lebap viloyati"
     },
-    "geo": {
-      "latitude": 38.12724619999999,
-      "longitude": 64.7162415,
-      "min_latitude": 36.850881,
-      "min_longitude": 60.18987389999999,
-      "max_latitude": 41.2915379,
-      "max_longitude": 66.6843031
-    },
-    "name": "Lebap"
+    "comments": null
   },
   "M": {
+    "name": "Mary",
+    "code": null,
     "unofficial_names": [
       "Mary",
       "Merv"
     ],
+    "geo": {
+      "latitude": 36.9481623,
+      "longitude": 62.4504154,
+      "min_latitude": 35.141151,
+      "min_longitude": 60.39503499999999,
+      "max_latitude": 39.5136029,
+      "max_longitude": 64.737839
+    },
     "translations": {
       "en": "Mary",
       "ar": "محافظة ماري",
@@ -279,19 +323,30 @@
       "tr": "Mary vilayeti",
       "uk": "Марийський велаят",
       "ur": "صوبہ ماری",
-      "vi": "Mary"
+      "vi": "Mary",
+      "lv": "Mari vilajets",
+      "ceb": "Mary",
+      "sr_Latn": "Pokrajina Mari",
+      "zh": "馬雷州",
+      "ccp": "𑄟𑄬𑄢𑄨",
+      "kk": "Мары уәлаяты",
+      "be": "Марыйскі велаят",
+      "uz": "Mari viloyati"
     },
-    "geo": {
-      "latitude": 36.9481623,
-      "longitude": 62.4504154,
-      "min_latitude": 35.141151,
-      "min_longitude": 60.39503499999999,
-      "max_latitude": 39.5136029,
-      "max_longitude": 64.737839
-    },
-    "name": "Mary"
+    "comments": null
   },
   "S": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Asjchabat",
       "am": "አሽጋባት",
@@ -352,8 +407,25 @@
       "tr": "Aşkabat",
       "uk": "Ашгабат",
       "ur": "اشک آباد",
-      "vi": "Ashgabat"
-    }
+      "vi": "Ashgabat",
+      "cy": "Ashgabat",
+      "sr_Latn": "Ašhabad",
+      "zh": "阿什哈巴德",
+      "yue_Hans": "阿什哈巴德",
+      "sq": "Aschgabat",
+      "ccp": "𑄃𑄌𑄴𑄉𑄝𑄖𑄴",
+      "ga": "Ashgabat",
+      "ky": "Ашхабад",
+      "pa": "ਅਸ਼ਗਾਬਾਦ",
+      "kk": "Ашғабад",
+      "yue": "阿什哈巴德",
+      "yo": "Ashgabat",
+      "uz": "Ashxobod",
+      "bs": "Ashgabat",
+      "mk": "Ашхабад",
+      "ne": "अस्गाबत"
+    },
+    "comments": null
   }
 }
 

@@ -1,9 +1,19 @@
 {
   "CPK": {
+    "name": "Chimbu",
+    "code": null,
     "unofficial_names": [
       "Chimbu",
       "Simbúa"
     ],
+    "geo": {
+      "latitude": -6.308768199999999,
+      "longitude": 144.8731219,
+      "min_latitude": -6.8954711,
+      "min_longitude": 144.4285419,
+      "max_latitude": -5.775725,
+      "max_longitude": 145.33975
+    },
     "translations": {
       "en": "Chimbu",
       "ar": "محافظة تشيمبو",
@@ -45,22 +55,28 @@
       "uk": "Сімбу",
       "ur": "چیمبو صوبہ",
       "vi": "Simbu",
-      "zh": "欽布省"
+      "zh": "欽布省",
+      "lv": "Simbu (Čimbu) province",
+      "ceb": "Chimbu Province",
+      "lt": "Čimbu provincija",
+      "ccp": "𑄌𑄨𑄟𑄴𑄝𑄪"
     },
-    "geo": {
-      "latitude": -6.308768199999999,
-      "longitude": 144.8731219,
-      "min_latitude": -6.8954711,
-      "min_longitude": 144.4285419,
-      "max_latitude": -5.775725,
-      "max_longitude": 145.33975
-    },
-    "name": "Chimbu"
+    "comments": null
   },
   "CPM": {
+    "name": "Central",
+    "code": null,
     "unofficial_names": [
       "Papua Central"
     ],
+    "geo": {
+      "latitude": -9.1360187,
+      "longitude": 147.4627259,
+      "min_latitude": -10.3948627,
+      "min_longitude": 146.381344,
+      "max_latitude": -7.773521,
+      "max_longitude": 149.6684618
+    },
     "translations": {
       "en": "Central",
       "ar": "المحافظة الوسطى",
@@ -101,22 +117,28 @@
       "tr": "Central Province",
       "uk": "Центральна провінція",
       "ur": "مرکزی صوبہ",
-      "vi": "Tỉnh Trung Ương"
+      "vi": "Tỉnh Trung Ương",
+      "lv": "Centrālā province",
+      "ceb": "Central Province (lalawigan sa Papua New Guinea)",
+      "lt": "Centrinė provincija",
+      "zh": "中央省"
     },
-    "geo": {
-      "latitude": -9.1360187,
-      "longitude": 147.4627259,
-      "min_latitude": -10.3948627,
-      "min_longitude": 146.381344,
-      "max_latitude": -7.773521,
-      "max_longitude": 149.6684618
-    },
-    "name": "Central"
+    "comments": null
   },
   "EBR": {
+    "name": "East New Britain",
+    "code": null,
     "unofficial_names": [
       "New Britain East"
     ],
+    "geo": {
+      "latitude": -4.612894300000001,
+      "longitude": 151.8877321,
+      "min_latitude": -6.068317899999999,
+      "min_longitude": 150.5976151,
+      "max_latitude": -4.0885039,
+      "max_longitude": 152.4966978
+    },
     "translations": {
       "en": "East New Britain",
       "ar": "شرق بريطانيا الجديدة",
@@ -155,22 +177,30 @@
       "tr": "Doğu Yeni Britanya",
       "uk": "Східна Нова Британія",
       "ur": "مشرقی نیا برطانیہ صوبہ",
-      "vi": "Đông New Britain"
+      "vi": "Đông New Britain",
+      "lv": "Austrumjaunbritānijas province",
+      "ceb": "East New Britain Province",
+      "lt": "Rytinė Naujosios Britanijos provincija",
+      "zh": "東新不列顛省",
+      "ccp": "𑄛𑄪𑄇𑄴 𑄚𑄱 𑄝𑄳𑄢𑄨𑄑𑄬𑄚𑄴",
+      "mk": "Источна Нова Британија"
     },
-    "geo": {
-      "latitude": -4.612894300000001,
-      "longitude": 151.8877321,
-      "min_latitude": -6.068317899999999,
-      "min_longitude": 150.5976151,
-      "max_latitude": -4.0885039,
-      "max_longitude": 152.4966978
-    },
-    "name": "East New Britain"
+    "comments": null
   },
   "EHG": {
+    "name": "Eastern Highlands",
+    "code": null,
     "unofficial_names": [
       "Highlands East"
     ],
+    "geo": {
+      "latitude": -6.5861674,
+      "longitude": 145.6689636,
+      "min_latitude": -7.1572681,
+      "min_longitude": 144.985481,
+      "max_latitude": -5.853335,
+      "max_longitude": 146.149775
+    },
     "translations": {
       "en": "Eastern Highlands",
       "ar": "مقاطعة هايلاند الشرقية",
@@ -209,20 +239,27 @@
       "tr": "Doğu Highlands",
       "uk": "Східний Гайлендс",
       "ur": "مشرقی سطح مرتفع صوبہ",
-      "vi": "Tỉnh Eastern Highlands"
+      "vi": "Tỉnh Eastern Highlands",
+      "lv": "Austrumu kalnienes province",
+      "ceb": "Eastern Highlands Province",
+      "lt": "Rytų Kanų provincija",
+      "zh": "東高地省",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": -6.5861674,
-      "longitude": 145.6689636,
-      "min_latitude": -7.1572681,
-      "min_longitude": 144.985481,
-      "max_latitude": -5.853335,
-      "max_longitude": 146.149775
-    },
-    "name": "Eastern Highlands"
+    "comments": null
   },
   "EPW": {
+    "name": "Enga",
+    "code": null,
     "unofficial_names": "Enga",
+    "geo": {
+      "latitude": -5.3005849,
+      "longitude": 143.5635637,
+      "min_latitude": -5.9661789,
+      "min_longitude": 142.7393411,
+      "max_latitude": -5.0077089,
+      "max_longitude": 144.2541971
+    },
     "translations": {
       "en": "Enga",
       "ar": "مقاطعة إنغا",
@@ -261,22 +298,29 @@
       "tr": "Enga Province",
       "uk": "Енга",
       "ur": "انگا صوبہ",
-      "vi": "Tỉnh Enga"
+      "vi": "Tỉnh Enga",
+      "lv": "Engas province",
+      "ceb": "Enga Province",
+      "lt": "Engos provincija",
+      "zh": "恩加省",
+      "ccp": "𑄃𑄬𑄚𑄴𑄉"
     },
-    "geo": {
-      "latitude": -5.3005849,
-      "longitude": 143.5635637,
-      "min_latitude": -5.9661789,
-      "min_longitude": 142.7393411,
-      "max_latitude": -5.0077089,
-      "max_longitude": 144.2541971
-    },
-    "name": "Enga"
+    "comments": null
   },
   "ESW": {
+    "name": "East Sepik",
+    "code": null,
     "unofficial_names": [
       "Sepik East"
     ],
+    "geo": {
+      "latitude": -4.3150058,
+      "longitude": 143.045893,
+      "min_latitude": -5.151646,
+      "min_longitude": 141.314843,
+      "max_latitude": -3.1911646,
+      "max_longitude": 144.8318195
+    },
     "translations": {
       "en": "East Sepik",
       "ar": "محافظة سيبيك الشرقية",
@@ -315,22 +359,29 @@
       "tr": "Doğu Sepik Province",
       "uk": "Східний Сепік",
       "ur": "مشرقی سپیک صوبہ",
-      "vi": "Tỉnh Đông Sepik"
+      "vi": "Tỉnh Đông Sepik",
+      "lv": "Austrumu Sepikas province",
+      "ceb": "East Sepik Province",
+      "lt": "Rytų Sepiko provincija",
+      "zh": "东塞皮克省",
+      "ccp": "𑄛𑄪𑄇𑄴 𑄥𑄬𑄛𑄭𑄇𑄴"
     },
-    "geo": {
-      "latitude": -4.3150058,
-      "longitude": 143.045893,
-      "min_latitude": -5.151646,
-      "min_longitude": 141.314843,
-      "max_latitude": -3.1911646,
-      "max_longitude": 144.8318195
-    },
-    "name": "East Sepik"
+    "comments": null
   },
   "GPK": {
+    "name": "Gulf",
+    "code": null,
     "unofficial_names": [
       "Papua Gulf"
     ],
+    "geo": {
+      "latitude": -7.269182100000001,
+      "longitude": 145.1375834,
+      "min_latitude": -8.5877783,
+      "min_longitude": 143.00871,
+      "max_latitude": -6.700165999999999,
+      "max_longitude": 146.6471049
+    },
     "translations": {
       "en": "Gulf",
       "ar": "الخليج",
@@ -368,20 +419,28 @@
       "tr": "gulf",
       "uk": "Галф",
       "ur": "گلف صوبہ",
-      "vi": "Gulf"
+      "vi": "Gulf",
+      "lv": "Galfa",
+      "ceb": "Gulf Province",
+      "lt": "Galfas",
+      "zh": "海灣省",
+      "ccp": "𑄉𑄧𑄣𑄴𑄛𑄴",
+      "et": "Gulfi provints"
     },
-    "geo": {
-      "latitude": -7.269182100000001,
-      "longitude": 145.1375834,
-      "min_latitude": -8.5877783,
-      "min_longitude": 143.00871,
-      "max_latitude": -6.700165999999999,
-      "max_longitude": 146.6471049
-    },
-    "name": "Gulf"
+    "comments": null
   },
   "MBA": {
+    "name": "Milne Bay",
+    "code": null,
     "unofficial_names": "Milne Bay",
+    "geo": {
+      "latitude": -10.4460842,
+      "longitude": 150.7214362,
+      "min_latitude": -10.5289949,
+      "min_longitude": 150.346527,
+      "max_latitude": -10.2622222,
+      "max_longitude": 150.8965302
+    },
     "translations": {
       "en": "Milne Bay",
       "ar": "محافظة خليج ميلن",
@@ -419,20 +478,27 @@
       "tr": "Milne Bay Province",
       "uk": "Мілн-Бей",
       "ur": "خلیج میلنے صوبہ",
-      "vi": "Tỉnh Milne Bay"
+      "vi": "Tỉnh Milne Bay",
+      "lv": "Milnbejas province",
+      "ceb": "Milne Bay Province",
+      "lt": "Milne Bėjaus provincija",
+      "zh": "米爾恩灣省",
+      "ccp": "𑄟𑄨𑄣𑄴𑄚𑄬 𑄝𑄬"
     },
-    "geo": {
-      "latitude": -10.4460842,
-      "longitude": 150.7214362,
-      "min_latitude": -10.5289949,
-      "min_longitude": 150.346527,
-      "max_latitude": -10.2622222,
-      "max_longitude": 150.8965302
-    },
-    "name": "Milne Bay"
+    "comments": null
   },
   "MPL": {
+    "name": "Morobe",
+    "code": null,
     "unofficial_names": "Morobe",
+    "geo": {
+      "latitude": -6.801373700000001,
+      "longitude": 146.561647,
+      "min_latitude": -8.031376999999999,
+      "min_longitude": 145.742827,
+      "max_latitude": -5.281522300000001,
+      "max_longitude": 148.1150151
+    },
     "translations": {
       "en": "Morobe",
       "ar": "محافظة موروب",
@@ -471,20 +537,27 @@
       "tr": "Morobe Province",
       "uk": "Моробе",
       "ur": "موروبے صوبہ",
-      "vi": "Tỉnh Morobe"
+      "vi": "Tỉnh Morobe",
+      "lv": "Morobes province",
+      "ceb": "Morobe Province",
+      "lt": "Morobės provincija",
+      "zh": "莫雷贝省",
+      "ccp": "𑄟𑄧𑄢𑄮𑄝𑄬"
     },
-    "geo": {
-      "latitude": -6.801373700000001,
-      "longitude": 146.561647,
-      "min_latitude": -8.031376999999999,
-      "min_longitude": 145.742827,
-      "max_latitude": -5.281522300000001,
-      "max_longitude": 148.1150151
-    },
-    "name": "Morobe"
+    "comments": null
   },
   "MPM": {
+    "name": "Madang",
+    "code": null,
     "unofficial_names": "Madang",
+    "geo": {
+      "latitude": -5.216667,
+      "longitude": 145.8,
+      "min_latitude": -5.2554161,
+      "min_longitude": 145.7496071,
+      "max_latitude": -5.203685699999999,
+      "max_longitude": 145.8166081
+    },
     "translations": {
       "en": "Madang",
       "ar": "مقاطعة مادانغ",
@@ -524,23 +597,30 @@
       "tr": "Madang ili",
       "uk": "Маданг",
       "ur": "مادنگ صوبہ",
-      "vi": "Tỉnh Madang"
+      "vi": "Tỉnh Madang",
+      "lv": "Madangas province",
+      "ceb": "Madang Province",
+      "lt": "Madango provincija",
+      "zh": "馬當省",
+      "ccp": "𑄟𑄬𑄓𑄋𑄴"
     },
-    "geo": {
-      "latitude": -5.216667,
-      "longitude": 145.8,
-      "min_latitude": -5.2554161,
-      "min_longitude": 145.7496071,
-      "max_latitude": -5.203685699999999,
-      "max_longitude": 145.8166081
-    },
-    "name": "Madang"
+    "comments": null
   },
   "MRL": {
+    "name": "Manus",
+    "code": null,
     "unofficial_names": [
       "Great Admiralty Island",
       "Mwanus"
     ],
+    "geo": {
+      "latitude": -2.0941169,
+      "longitude": 146.8760951,
+      "min_latitude": -2.5770971,
+      "min_longitude": 142.8257212,
+      "max_latitude": -0.8726387000000001,
+      "max_longitude": 148.2065104
+    },
     "translations": {
       "en": "Manus",
       "ar": "محافظة مانوس",
@@ -578,20 +658,28 @@
       "tr": "Manus Province",
       "uk": "Манус (провінція)",
       "ur": "مانوس صوبہ",
-      "vi": "Tỉnh Manus"
+      "vi": "Tỉnh Manus",
+      "lv": "Manusas province",
+      "ceb": "Manus Province",
+      "lt": "Manuso provincija",
+      "zh": "馬努斯省",
+      "jv": "Provinsi Manus",
+      "ccp": "𑄟𑄚𑄪𑄌𑄴"
     },
-    "geo": {
-      "latitude": -2.0941169,
-      "longitude": 146.8760951,
-      "min_latitude": -2.5770971,
-      "min_longitude": 142.8257212,
-      "max_latitude": -0.8726387000000001,
-      "max_longitude": 148.2065104
-    },
-    "name": "Manus"
+    "comments": null
   },
   "NCD": {
+    "name": "National Capital District (Port Moresby)",
+    "code": null,
     "unofficial_names": "National Capital District (Port Moresby)",
+    "geo": {
+      "latitude": -9.443800399999999,
+      "longitude": 147.1802671,
+      "min_latitude": -9.5045786,
+      "min_longitude": 147.136652,
+      "max_latitude": -9.3703217,
+      "max_longitude": 147.2438668
+    },
     "translations": {
       "en": "Port Moresby",
       "af": "Port Moresby",
@@ -651,22 +739,42 @@
       "tr": "Port Moresby",
       "uk": "Порт-Морсбі",
       "ur": "پورٹ مورسبی",
-      "vi": "Port Moresby"
+      "vi": "Port Moresby",
+      "cy": "Port Moresby",
+      "ceb": "Port Moresby",
+      "sr_Latn": "Port Morsbi",
+      "zh": "莫尔兹比港",
+      "yue_Hans": "莫士比港",
+      "jv": "Port Moresby",
+      "sq": "Port Moresbi",
+      "ccp": "𑄛𑄮𑄢𑄴𑄑𑄴 𑄟𑄮𑄢𑄴𑄝𑄭",
+      "ga": "Port Moresby",
+      "ky": "Порт-Морсби",
+      "pa": "ਪੋਰਟ ਮੋਰੈਸਬੀ",
+      "kk": "Порт-Морсби",
+      "yue": "莫士比港",
+      "yo": "Port Moresby",
+      "uz": "Port Morsbi",
+      "bs": "Port Moresby",
+      "mk": "Порт Морсби",
+      "ne": "पोर्ट मोरेस्बी"
     },
-    "geo": {
-      "latitude": -9.443800399999999,
-      "longitude": 147.1802671,
-      "min_latitude": -9.5045786,
-      "min_longitude": 147.136652,
-      "max_latitude": -9.3703217,
-      "max_longitude": 147.2438668
-    },
-    "name": "National Capital District (Port Moresby)"
+    "comments": null
   },
   "NIK": {
+    "name": "New Ireland",
+    "code": null,
     "unofficial_names": [
       "Niu Ailan"
     ],
+    "geo": {
+      "latitude": -4.2853256,
+      "longitude": 152.9205918,
+      "min_latitude": -4.8519637,
+      "min_longitude": 149.5108796,
+      "max_latitude": -1.315154,
+      "max_longitude": 153.7421607
+    },
     "translations": {
       "en": "New Ireland",
       "ar": "محافظة نيو إريلاند",
@@ -705,22 +813,29 @@
       "tr": "New Ireland Province",
       "uk": "Нова Ірландія",
       "ur": "نیو آئر لینڈ صوبہ",
-      "vi": "Tỉnh New Ireland"
+      "vi": "Tỉnh New Ireland",
+      "lv": "Jaunīrijas province",
+      "ceb": "New Ireland Province",
+      "lt": "Naujosios Airijos provincija",
+      "zh": "新愛爾蘭省",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄃𑄠𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
     },
-    "geo": {
-      "latitude": -4.2853256,
-      "longitude": 152.9205918,
-      "min_latitude": -4.8519637,
-      "min_longitude": 149.5108796,
-      "max_latitude": -1.315154,
-      "max_longitude": 153.7421607
-    },
-    "name": "New Ireland"
+    "comments": null
   },
   "NPP": {
+    "name": "Northern",
+    "code": null,
     "unofficial_names": [
       "Northern"
     ],
+    "geo": {
+      "latitude": -8.8988063,
+      "longitude": 148.1892921,
+      "min_latitude": -9.977337,
+      "min_longitude": 147.0030289,
+      "max_latitude": -8.002543,
+      "max_longitude": 149.439636
+    },
     "translations": {
       "en": "Oro",
       "ar": "مقاطعة أورو",
@@ -760,27 +875,23 @@
       "tr": "Oro Province",
       "uk": "Оро",
       "ur": "اورو صوبہ",
-      "vi": "Tỉnh Oro"
+      "vi": "Tỉnh Oro",
+      "lv": "Oro province",
+      "ceb": "Northern Province (lalawigan sa Papua New Guinea)",
+      "lt": "Oro provincija",
+      "zh": "北部省",
+      "ccp": "𑄃𑄧𑄢𑄮"
     },
-    "geo": {
-      "latitude": -8.8988063,
-      "longitude": 148.1892921,
-      "min_latitude": -9.977337,
-      "min_longitude": 147.0030289,
-      "max_latitude": -8.002543,
-      "max_longitude": 149.439636
-    },
-    "name": "Northern"
+    "comments": null
   },
   "NSA": {
+    "name": "North Solomons",
+    "code": null,
     "unofficial_names": [
       "Bougainville",
       "Mekamui",
       "North Solomons"
     ],
-    "translations": {
-      "en": "North Solomons"
-    },
     "geo": {
       "latitude": -6.053602,
       "longitude": 155.1907309,
@@ -789,12 +900,25 @@
       "max_latitude": -3.1095148,
       "max_longitude": 159.4923965
     },
-    "name": "North Solomons"
+    "translations": {
+      "en": "North Solomons"
+    },
+    "comments": null
   },
   "SAN": {
+    "name": "Sandaun [West Sepik]",
+    "code": null,
     "unofficial_names": [
       "West Sepik"
     ],
+    "geo": {
+      "latitude": -3.7126179,
+      "longitude": 141.6834275,
+      "min_latitude": -5.370609,
+      "min_longitude": 140.998795,
+      "max_latitude": -2.6086511,
+      "max_longitude": 143.1048729
+    },
     "translations": {
       "en": "Sandaun",
       "ar": "محافظة سانداون",
@@ -834,22 +958,29 @@
       "tr": "Sandaun Province",
       "uk": "Сандаун",
       "ur": "سانداون صوبہ",
-      "vi": "Tỉnh Sandaun"
+      "vi": "Tỉnh Sandaun",
+      "lv": "Sandaunas province",
+      "ceb": "West Sepik Province",
+      "lt": "Sandauno provincija",
+      "zh": "桑道恩省",
+      "ccp": "𑄥𑄚𑄴𑄓𑄅𑄪𑄚𑄴"
     },
-    "geo": {
-      "latitude": -3.7126179,
-      "longitude": 141.6834275,
-      "min_latitude": -5.370609,
-      "min_longitude": 140.998795,
-      "max_latitude": -2.6086511,
-      "max_longitude": 143.1048729
-    },
-    "name": "Sandaun [West Sepik]"
+    "comments": null
   },
   "SHM": {
+    "name": "Southern Highlands",
+    "code": null,
     "unofficial_names": [
       "Highlands South"
     ],
+    "geo": {
+      "latitude": -6.5156911,
+      "longitude": 143.045893,
+      "min_latitude": -6.863055,
+      "min_longitude": 142.0664641,
+      "max_latitude": -4.971731999999999,
+      "max_longitude": 144.683789
+    },
     "translations": {
       "en": "Southern Highlands",
       "ar": "محافظة هايلاند الجنوبية",
@@ -887,22 +1018,29 @@
       "tr": "Southern Highlands",
       "uk": "Південний Гайлендс",
       "ur": "جنوبی سطح مرتفع صوبہ",
-      "vi": "Tỉnh Phía Nam Highlands"
+      "vi": "Tỉnh Phía Nam Highlands",
+      "lv": "Dienvidu kalnienes province",
+      "ceb": "Southern Highlands Province",
+      "lt": "Pietinis Kalnų regionas",
+      "zh": "南高地省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": -6.5156911,
-      "longitude": 143.045893,
-      "min_latitude": -6.863055,
-      "min_longitude": 142.0664641,
-      "max_latitude": -4.971731999999999,
-      "max_longitude": 144.683789
-    },
-    "name": "Southern Highlands"
+    "comments": null
   },
   "WBK": {
+    "name": "West New Britain",
+    "code": null,
     "unofficial_names": [
       "New Britain West"
     ],
+    "geo": {
+      "latitude": -5.704743199999999,
+      "longitude": 150.0259466,
+      "min_latitude": -6.310895599999999,
+      "min_longitude": 148.3099281,
+      "max_latitude": -4.542134,
+      "max_longitude": 151.6839161
+    },
     "translations": {
       "en": "West New Britain",
       "ar": "مقاطعة غرب بريطانيا الجديدة",
@@ -941,22 +1079,30 @@
       "tr": "West New Britaion",
       "uk": "Західна Нова Британія",
       "ur": "مغربی نیا برطانیہ صوبہ",
-      "vi": "Tỉnh Tây New Britain"
+      "vi": "Tỉnh Tây New Britain",
+      "lv": "Rietumu Jaunbritānijas province",
+      "ceb": "West New Britain Province",
+      "lt": "Rytų Naujosios Britanijos provincija",
+      "zh": "西新不列顛省",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄚𑄱 𑄝𑄳𑄢𑄨𑄑𑄬𑄚𑄴",
+      "mk": "Западна Нова Британија"
     },
-    "geo": {
-      "latitude": -5.704743199999999,
-      "longitude": 150.0259466,
-      "min_latitude": -6.310895599999999,
-      "min_longitude": 148.3099281,
-      "max_latitude": -4.542134,
-      "max_longitude": 151.6839161
-    },
-    "name": "West New Britain"
+    "comments": null
   },
   "WHM": {
+    "name": "Western Highlands",
+    "code": null,
     "unofficial_names": [
       "Highlands West"
     ],
+    "geo": {
+      "latitude": -5.6268128,
+      "longitude": 144.2593118,
+      "min_latitude": -6.3646218,
+      "min_longitude": 143.771268,
+      "max_latitude": -5.2128599,
+      "max_longitude": 144.5993042
+    },
     "translations": {
       "en": "Western Highlands",
       "ar": "مقاطعة الهضاب الغربية",
@@ -995,23 +1141,30 @@
       "tr": "Western Highlands Province",
       "uk": "Західний Гайлендс",
       "ur": "مغربی سطح مرتفع صوبہ",
-      "vi": "Tỉnh Western Highlands"
+      "vi": "Tỉnh Western Highlands",
+      "lv": "Rietumu kalnienes province",
+      "ceb": "Western Highlands Province",
+      "lt": "Rytų Kalniečių provincija",
+      "zh": "西高地省",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "geo": {
-      "latitude": -5.6268128,
-      "longitude": 144.2593118,
-      "min_latitude": -6.3646218,
-      "min_longitude": 143.771268,
-      "max_latitude": -5.2128599,
-      "max_longitude": 144.5993042
-    },
-    "name": "Western Highlands"
+    "comments": null
   },
   "WPD": {
+    "name": "Western",
+    "code": null,
     "unofficial_names": [
       "Papua West",
       "Western"
     ],
+    "geo": {
+      "latitude": -7.584644,
+      "longitude": 142.3613378,
+      "min_latitude": -9.3337498,
+      "min_longitude": 140.842865,
+      "max_latitude": -5.000000099999999,
+      "max_longitude": 143.9240419
+    },
     "translations": {
       "en": "Western",
       "bg": "Западна провинция",
@@ -1034,19 +1187,27 @@
       "sr": "Западна покрајина",
       "sv": "Western Province",
       "uk": "Західна провінція",
-      "ur": "مغربی صوبہ"
+      "ur": "مغربی صوبہ",
+      "ceb": "Western Province (lalawigan sa Papua New Guinea)",
+      "sr_Latn": "Zapadna pokrajina",
+      "zh": "西部省",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "fi": "Western Province"
     },
-    "geo": {
-      "latitude": -7.584644,
-      "longitude": 142.3613378,
-      "min_latitude": -9.3337498,
-      "min_longitude": 140.842865,
-      "max_latitude": -5.000000099999999,
-      "max_longitude": 143.9240419
-    },
-    "name": "Western"
+    "comments": null
   },
   "NSB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة بوغانفيل ذات الحكم الذاتي",
       "bg": "Автономен регион Бугенвил",
@@ -1086,10 +1247,27 @@
       "tr": "Bougainville",
       "uk": "Автономний регіон Бугенвіль",
       "ur": "بووجاینویلی",
-      "vi": "Khu tự trị Bougainville"
-    }
+      "vi": "Khu tự trị Bougainville",
+      "lv": "Bugenvile",
+      "ceb": "Bougainville (lalawigan)",
+      "lt": "Bugenvilis",
+      "zh": "布干维尔省",
+      "ccp": "𑄝𑄯𑄉𑄬𑄭𑄚𑄴𑄞𑄨𑄣𑄬"
+    },
+    "comments": null
   },
   "HLA": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Hela Province",
       "en": "Hela",
@@ -1104,10 +1282,29 @@
       "nl": "Hela Province",
       "ru": "Хела",
       "uk": "Гела",
-      "ur": "ہیلا صوبہ"
-    }
+      "ur": "ہیلا صوبہ",
+      "ceb": "Hela (lalawigan)",
+      "zh": "赫拉省",
+      "pl": "Hela",
+      "ccp": "𑄦𑄬𑄣",
+      "fi": "Hela (maakunta)",
+      "pt": "Hela",
+      "et": "Hela provints"
+    },
+    "comments": null
   },
   "JWK": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Jiwaka Province",
       "en": "Jiwaka",
@@ -1122,8 +1319,16 @@
       "nl": "Jiwaka Province",
       "ru": "Дживака",
       "uk": "Дживака",
-      "ur": "جیواکا صوبہ"
-    }
+      "ur": "جیواکا صوبہ",
+      "ceb": "Jiwaka",
+      "zh": "吉瓦卡省",
+      "pl": "Jiwaka",
+      "ccp": "𑄎𑄨𑄤𑄇",
+      "fi": "Jiwaka",
+      "pt": "Jiwaka",
+      "et": "Jiwaka provints"
+    },
+    "comments": null
   }
 }
 

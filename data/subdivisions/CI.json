@@ -1,9 +1,8 @@
 {
   "01": {
+    "name": "Lagunes (Région des)",
+    "code": null,
     "unofficial_names": "Lagunes (Région des)",
-    "translations": {
-      "en": "Lagunes"
-    },
     "geo": {
       "latitude": 5.4611461,
       "longitude": -4.479976,
@@ -12,13 +11,16 @@
       "max_latitude": 6.385650900000001,
       "max_longitude": -3.4372559
     },
-    "name": "Lagunes (Région des)"
+    "translations": {
+      "en": "Lagunes",
+      "ccp": "𑄣𑄳𑄠𑄉𑄪𑄚𑄴𑄥𑄴"
+    },
+    "comments": null
   },
   "02": {
+    "name": "Haut-Sassandra (Région du)",
+    "code": null,
     "unofficial_names": "Haut-Sassandra (Région du)",
-    "translations": {
-      "en": "Haut-Sassandra"
-    },
     "geo": {
       "latitude": 6.8757848,
       "longitude": -6.5783387,
@@ -27,13 +29,16 @@
       "max_latitude": 7.791552,
       "max_longitude": -5.9337941
     },
-    "name": "Haut-Sassandra (Région du)"
+    "translations": {
+      "en": "Haut-Sassandra",
+      "ccp": "𑄦𑄖𑄴-𑄥𑄥𑄚𑄴𑄓𑄳𑄢"
+    },
+    "comments": null
   },
   "03": {
+    "name": "Savanes (Région des)",
+    "code": null,
     "unofficial_names": "Savanes (Région des)",
-    "translations": {
-      "en": "Savanes²"
-    },
     "geo": {
       "latitude": 9.6783614,
       "longitude": -5.5617279,
@@ -42,13 +47,16 @@
       "max_latitude": 10.736642,
       "max_longitude": -3.781528999999999
     },
-    "name": "Savanes (Région des)"
+    "translations": {
+      "en": "Savanes²",
+      "ccp": "𑄥𑄞𑄚𑄬𑄌𑄴"
+    },
+    "comments": null
   },
   "04": {
+    "name": "Vallée du Bandama (Région de la)",
+    "code": null,
     "unofficial_names": "Vallée du Bandama (Région de la)",
-    "translations": {
-      "en": "Vallée du Bandama"
-    },
     "geo": {
       "latitude": 8.278978,
       "longitude": -4.893562699999999,
@@ -57,13 +65,16 @@
       "max_latitude": 9.3980309,
       "max_longitude": -3.90265
     },
-    "name": "Vallée du Bandama (Région de la)"
+    "translations": {
+      "en": "Vallée du Bandama",
+      "ccp": "𑄞𑄣𑄬 𑄓𑄮 𑄝𑄚𑄴𑄓𑄟"
+    },
+    "comments": null
   },
   "05": {
+    "name": "Moyen-Comoé (Région du)",
+    "code": null,
     "unofficial_names": "Moyen-Comoé (Région du)",
-    "translations": {
-      "en": "Moyen-Comoé"
-    },
     "geo": {
       "latitude": 6.7419877,
       "longitude": -3.5073638,
@@ -72,13 +83,16 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Moyen-Comoé (Région du)"
+    "translations": {
+      "en": "Moyen-Comoé",
+      "ccp": "𑄟𑄮𑄠𑄬𑄚𑄴-𑄇𑄧𑄟𑄮𑄠𑄬"
+    },
+    "comments": null
   },
   "06": {
+    "name": "18 Montagnes (Région des)",
+    "code": null,
     "unofficial_names": "18 Montagnes (Région des)",
-    "translations": {
-      "en": "Dix-Huit Montagnes"
-    },
     "geo": {
       "latitude": 7.376237300000001,
       "longitude": -7.4381355,
@@ -87,13 +101,16 @@
       "max_latitude": 8.1423519,
       "max_longitude": -6.978052
     },
-    "name": "18 Montagnes (Région des)"
+    "translations": {
+      "en": "Dix-Huit Montagnes",
+      "ccp": "𑄓𑄨𑄇𑄴-𑄦𑄪𑄃𑄨𑄖𑄴 𑄟𑄧𑄚𑄴𑄑𑄳𑄠𑄇𑄴𑄚𑄬𑄌𑄴"
+    },
+    "comments": null
   },
   "07": {
+    "name": "Lacs (Région des)",
+    "code": null,
     "unofficial_names": "Lacs (Région des)",
-    "translations": {
-      "en": "Lacs"
-    },
     "geo": {
       "latitude": 6.892414400000001,
       "longitude": -5.2266675,
@@ -102,13 +119,16 @@
       "max_latitude": 7.549774999999999,
       "max_longitude": -4.618317999999999
     },
-    "name": "Lacs (Région des)"
+    "translations": {
+      "en": "Lacs",
+      "ccp": "𑄣𑄳𑄠𑄇𑄴𑄌𑄴"
+    },
+    "comments": null
   },
   "08": {
+    "name": "Zanzan (Région du)",
+    "code": null,
     "unofficial_names": "Zanzan (Région du)",
-    "translations": {
-      "en": "Zanzan"
-    },
     "geo": {
       "latitude": 8.8207904,
       "longitude": -3.4195527,
@@ -117,13 +137,16 @@
       "max_latitude": 9.957134100000001,
       "max_longitude": -2.494897
     },
-    "name": "Zanzan (Région du)"
+    "translations": {
+      "en": "Zanzan",
+      "ccp": "𑄎𑄚𑄴𑄎𑄚𑄴"
+    },
+    "comments": null
   },
   "09": {
+    "name": "Bas-Sassandra (Région du)",
+    "code": null,
     "unofficial_names": "Bas-Sassandra (Région du)",
-    "translations": {
-      "en": "Bas-Sassandra"
-    },
     "geo": {
       "latitude": 5.7841299,
       "longitude": -6.5957329,
@@ -132,13 +155,16 @@
       "max_latitude": 5.784246899999999,
       "max_longitude": -6.5954098
     },
-    "name": "Bas-Sassandra (Région du)"
+    "translations": {
+      "en": "Bas-Sassandra",
+      "ccp": "𑄝𑄌𑄴-𑄥𑄥𑄚𑄴𑄓𑄳𑄢"
+    },
+    "comments": null
   },
   "10": {
+    "name": "Denguélé (Région du)",
+    "code": null,
     "unofficial_names": "Denguélé (Région du)",
-    "translations": {
-      "en": "Denguélé"
-    },
     "geo": {
       "latitude": 9.4662372,
       "longitude": -7.4381355,
@@ -147,13 +173,16 @@
       "max_latitude": 10.4881189,
       "max_longitude": -6.570768999999999
     },
-    "name": "Denguélé (Région du)"
+    "translations": {
+      "en": "Denguélé",
+      "ccp": "𑄓𑄬𑄚𑄴𑄉𑄪𑄠𑄬𑄣𑄬"
+    },
+    "comments": null
   },
   "11": {
+    "name": "Nzi-Comoé (Région)",
+    "code": null,
     "unofficial_names": "Nzi-Comoé (Région)",
-    "translations": {
-      "en": "N’zi-Comoé"
-    },
     "geo": {
       "latitude": 7.2456749,
       "longitude": -4.2333355,
@@ -162,13 +191,16 @@
       "max_latitude": 8.0401179,
       "max_longitude": -3.5027291
     },
-    "name": "Nzi-Comoé (Région)"
+    "translations": {
+      "en": "N’zi-Comoé",
+      "ccp": "𑄃𑄬𑄚𑄴‘𑄎𑄨-𑄇𑄧𑄟𑄮𑄠𑄬"
+    },
+    "comments": null
   },
   "12": {
+    "name": "Marahoué (Région de la)",
+    "code": null,
     "unofficial_names": "Marahoué (Région de la)",
-    "translations": {
-      "en": "Marahoué"
-    },
     "geo": {
       "latitude": 6.884620699999999,
       "longitude": -5.898713900000001,
@@ -177,13 +209,16 @@
       "max_latitude": 7.743432100000001,
       "max_longitude": -5.4057449
     },
-    "name": "Marahoué (Région de la)"
+    "translations": {
+      "en": "Marahoué",
+      "ccp": "𑄟𑄧𑄢𑄦𑄯𑄠𑄬"
+    },
+    "comments": null
   },
   "13": {
+    "name": "Sud-Comoé (Région du)",
+    "code": null,
     "unofficial_names": "Sud-Comoé (Région du)",
-    "translations": {
-      "en": "Sud-Comoé"
-    },
     "geo": {
       "latitude": 5.552792999999999,
       "longitude": -3.2583626,
@@ -192,13 +227,16 @@
       "max_latitude": 6.244889,
       "max_longitude": -2.72626
     },
-    "name": "Sud-Comoé (Région du)"
+    "translations": {
+      "en": "Sud-Comoé",
+      "ccp": "𑄥𑄖𑄴-𑄇𑄧𑄟𑄮𑄠𑄬"
+    },
+    "comments": null
   },
   "14": {
+    "name": "Worodougou (Région du)",
+    "code": null,
     "unofficial_names": "Worodougou (Région du)",
-    "translations": {
-      "en": "Worodougou"
-    },
     "geo": {
       "latitude": 8.2548962,
       "longitude": -6.5783387,
@@ -207,13 +245,16 @@
       "max_latitude": 9.213116099999999,
       "max_longitude": -5.3440999
     },
-    "name": "Worodougou (Région du)"
+    "translations": {
+      "en": "Worodougou",
+      "ccp": "𑄤𑄢𑄧𑄓𑄯𑄉𑄯"
+    },
+    "comments": null
   },
   "15": {
+    "name": "Sud-Bandama (Région du)",
+    "code": null,
     "unofficial_names": "Sud-Bandama (Région du)",
-    "translations": {
-      "en": "Sud-Bandama"
-    },
     "geo": {
       "latitude": 5.5357083,
       "longitude": -5.5617279,
@@ -222,13 +263,16 @@
       "max_latitude": 6.2457021,
       "max_longitude": -4.917968999999999
     },
-    "name": "Sud-Bandama (Région du)"
+    "translations": {
+      "en": "Sud-Bandama",
+      "ccp": "𑄥𑄖𑄴-𑄝𑄚𑄴𑄓𑄟"
+    },
+    "comments": null
   },
   "16": {
+    "name": "Agnébi (Région de l')",
+    "code": null,
     "unofficial_names": "Agnébi (Région de l')",
-    "translations": {
-      "en": "Agnéby"
-    },
     "geo": {
       "latitude": null,
       "longitude": null,
@@ -237,13 +281,16 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "name": "Agnébi (Région de l')"
+    "translations": {
+      "en": "Agnéby",
+      "ccp": "𑄃𑄧𑄇𑄴𑄚𑄬𑄝𑄭"
+    },
+    "comments": null
   },
   "17": {
+    "name": "Bafing (Région du)",
+    "code": null,
     "unofficial_names": "Bafing (Région du)",
-    "translations": {
-      "en": "Bafing"
-    },
     "geo": {
       "latitude": 8.3252047,
       "longitude": -7.524724300000001,
@@ -252,13 +299,16 @@
       "max_latitude": 9.082188,
       "max_longitude": -7.065940899999999
     },
-    "name": "Bafing (Région du)"
+    "translations": {
+      "en": "Bafing",
+      "ccp": "𑄝𑄜𑄨𑄁"
+    },
+    "comments": null
   },
   "18": {
+    "name": "Fromager (Région du)",
+    "code": null,
     "unofficial_names": "Fromager (Région du)",
-    "translations": {
-      "en": "Fromager"
-    },
     "geo": {
       "latitude": 6.290341799999999,
       "longitude": -5.8142885,
@@ -267,13 +317,16 @@
       "max_latitude": 6.6425311,
       "max_longitude": -5.204736
     },
-    "name": "Fromager (Région du)"
+    "translations": {
+      "en": "Fromager",
+      "ccp": "𑄜𑄳𑄢𑄮𑄟𑄉𑄢𑄴"
+    },
+    "comments": null
   },
   "19": {
+    "name": "Moyen-Cavally (Région du)",
+    "code": null,
     "unofficial_names": "Moyen-Cavally (Région du)",
-    "translations": {
-      "en": "Moyen-Cavally"
-    },
     "geo": {
       "latitude": 6.5208793,
       "longitude": -7.6114217,
@@ -282,9 +335,24 @@
       "max_latitude": 6.967223,
       "max_longitude": -6.971871999999999
     },
-    "name": "Moyen-Cavally (Région du)"
+    "translations": {
+      "en": "Moyen-Cavally",
+      "ccp": "𑄟𑄧𑄠𑄬𑄚𑄴-𑄇𑄞𑄣𑄨"
+    },
+    "comments": null
   },
   "AB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Abidjan",
       "ar": "أبيدجان",
@@ -344,10 +412,41 @@
       "uk": "Абіджан",
       "ur": "آبدجان",
       "vi": "Abidjan",
-      "zh": "阿比让"
-    }
+      "zh": "阿比让",
+      "cy": "Abidjan",
+      "ceb": "Abidjan",
+      "sr_Latn": "Abidžan",
+      "yue_Hans": "阿必尚",
+      "jv": "Abidjan",
+      "sq": "Abidjan",
+      "ccp": "𑄃𑄝𑄨𑄖𑄴𑄎𑄚𑄴",
+      "ga": "Abidjan",
+      "ky": "Абиджан шаары",
+      "ha": "Abidjan",
+      "so": "Abidjan",
+      "pa": "ਅਬੀਜਾਨ",
+      "kk": "Абиджан",
+      "yue": "阿必尚",
+      "am": "አቢጃን",
+      "yo": "Abidjan",
+      "uz": "Abidjan",
+      "bs": "Abidjan",
+      "mk": "Абиџан"
+    },
+    "comments": null
   },
   "YM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "af": "Yamoussoukro",
       "am": "ያሙሱክሮ",
@@ -407,10 +506,42 @@
       "tr": "Yamoussoukro",
       "uk": "Ямусукро",
       "ur": "یاموسسوکرو",
-      "vi": "Yamoussoukro"
-    }
+      "vi": "Yamoussoukro",
+      "cy": "Yamoussoukro",
+      "ceb": "Yamoussoukro (ulohang dakbayan sa Baybayon sa Marpil)",
+      "sr_Latn": "Jamusukro",
+      "zh": "亚穆苏克罗",
+      "yue_Hans": "雅穆苏克雷",
+      "jv": "Yamoussoukro",
+      "sq": "Jamusukro",
+      "ccp": "𑄃𑄨𑄠𑄟𑄯𑄥𑄯𑄇𑄴𑄢𑄮",
+      "ga": "Yamoussoukro",
+      "ky": "Ямусукро",
+      "ha": "Yamoussoukro",
+      "so": "Yamoussoukro",
+      "pa": "ਯਾਮੂਸੂਕਰੋ",
+      "kk": "Ямусукро",
+      "ml": "യമൂസ്സൂക്രോ",
+      "yue": "雅穆蘇克雷",
+      "yo": "Yamoussoukro",
+      "uz": "Yamusukro",
+      "bs": "Yamoussoukro",
+      "mk": "Јамусукро"
+    },
+    "comments": null
   },
   "BS": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة باس-ساساندرا",
       "bn": "বাস সাসান্ড্রা জেলা",
@@ -442,10 +573,28 @@
       "th": "บาส ซาสซานดร้า ดิสทรี่",
       "tr": "Bas-Sassandra District",
       "ur": "باس-ساساندرا ضلع",
-      "vi": "Quận Bas-Sassandra"
-    }
+      "vi": "Quận Bas-Sassandra",
+      "lv": "Bassasandras distrikts",
+      "lt": "Bas-Sasandros apskritis",
+      "zh": "下薩桑德拉區",
+      "ccp": "𑄝𑄌𑄴-𑄥𑄥𑄚𑄴𑄓𑄳𑄢",
+      "ka": "ქვემო სასანდრა",
+      "uk": "Район Бас-Сассандра"
+    },
+    "comments": null
   },
   "DN": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة دينغويلي",
       "bn": "ডেনগোয়েলে জেলা",
@@ -478,10 +627,27 @@
       "tr": "Denguélé District",
       "uk": "Денґеле",
       "ur": "دینجویلی ڈسٹرک",
-      "vi": "Quận Denguélé"
-    }
+      "vi": "Quận Denguélé",
+      "lv": "Dengeles distrikts",
+      "lt": "Dengelės apskritis",
+      "zh": "登蓋萊區",
+      "ccp": "𑄓𑄬𑄚𑄴𑄉𑄪𑄠𑄬𑄣𑄬",
+      "ka": "დენგელეს ოლქი"
+    },
+    "comments": null
   },
   "SV": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة سافانس",
       "bn": "সাবানেস জেলা",
@@ -513,10 +679,28 @@
       "th": "ซาวาเนส",
       "tr": "Savanes District",
       "ur": "ساوانیس ڈسٹرک",
-      "vi": "Quận Savanes"
-    }
+      "vi": "Quận Savanes",
+      "lv": "Savannas distrikts",
+      "lt": "Savaneso apskritis",
+      "zh": "薩瓦內區",
+      "ccp": "𑄥𑄞𑄚𑄬𑄌𑄴",
+      "ka": "სავანების ოლქი",
+      "uk": "Район Саван"
+    },
+    "comments": null
   },
   "VB": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "ar": "مقاطعة فالي دو باندما",
       "bn": "ভালি দো বান্দামা জেলা",
@@ -549,70 +733,252 @@
       "tr": "Vallée du Bandama District",
       "uk": "Район Валле-дю-Бандама",
       "ur": "والیی دو بانداما ضلع",
-      "vi": "Quận Vallée du Bandama"
-    }
+      "vi": "Quận Vallée du Bandama",
+      "lv": "Bandamas ielejas distrikts",
+      "lt": "Vale du Bandamos apskritis",
+      "zh": "邦達馬河谷區",
+      "ccp": "𑄞𑄣𑄬 𑄓𑄪 𑄝𑄚𑄴𑄓𑄟",
+      "ka": "ვალე-დუ-ბანდამა"
+    },
+    "comments": null
   },
   "CM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Comoé",
       "en": "Comoé",
       "fr": "District de la Comoé",
-      "ja": "コモエ地方"
-    }
+      "ja": "コモエ地方",
+      "ur": "کوموے ضلع",
+      "zh": "科莫埃區",
+      "ccp": "𑄇𑄧𑄟𑄧𑄠𑄬",
+      "ka": "კომოეს ოლქი",
+      "it": "Distretto di Comoé",
+      "uk": "Комое (район)"
+    },
+    "comments": null
   },
   "GD": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Gôh-Djiboua",
       "en": "Gôh-Djiboua",
-      "uk": "Ґо-Джибуа"
-    }
+      "uk": "Ґо-Джибуа",
+      "zh": "戈吉布阿區",
+      "el": "Γκο-Ντζιμπουά",
+      "ccp": "𑄉𑄧𑄦𑄴-𑄎𑄨𑄝𑄯𑄠",
+      "ka": "გო-ჯიბუა",
+      "it": "Distretto di Gôh-Djiboua"
+    },
+    "comments": null
   },
   "LC": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Lacs",
       "en": "Lacs²",
       "fr": "District des Lacs",
-      "uk": "Лак (район)"
-    }
+      "uk": "Лак (район)",
+      "zh": "湖泊區",
+      "ru": "Лак",
+      "ccp": "𑄣𑄇𑄳𑄌𑄴",
+      "ka": "ტბების ოლქი",
+      "it": "Distretto di Lacs"
+    },
+    "comments": null
   },
   "LG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Lagunes",
       "en": "Lagunes²",
       "fr": "District des Lagunes",
-      "uk": "Район Лаґюн"
-    }
+      "uk": "Район Лаґюн",
+      "ur": "لاگونیس ضلع",
+      "zh": "潟湖區",
+      "ccp": "𑄣𑄳𑄠𑄉𑄪𑄚𑄴𑄥𑄴",
+      "ka": "ლაგუნების ოლქი",
+      "it": "Distretto di Lagunes",
+      "be": "раён Лагюн"
+    },
+    "comments": null
   },
   "MG": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Montagnes",
       "en": "Montagnes",
-      "fr": "District des Montagnes"
-    }
+      "fr": "District des Montagnes",
+      "ur": "مونتاگنیس ضلع",
+      "zh": "山地區",
+      "ru": "округ Монтань",
+      "ccp": "𑄟𑄧𑄚𑄴𑄑𑄳𑄠𑄇𑄴𑄚𑄬𑄌𑄴",
+      "ka": "მონტანის ოლქი",
+      "it": "Distretto di Montagnes"
+    },
+    "comments": null
   },
   "SM": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Sassandra-Marahoué",
       "en": "Sassandra-Marahoué",
-      "fr": "District du Sassandra-Marahoué"
-    }
+      "fr": "District du Sassandra-Marahoué",
+      "zh": "薩桑德拉-馬拉韋區",
+      "fa": "منطقه سساندرا ماراهوئه",
+      "ccp": "𑄥𑄥𑄚𑄴𑄓𑄳𑄢-𑄟𑄢𑄦𑄯𑄠𑄬",
+      "ka": "სასანდრა-მარაუე",
+      "it": "Distretto di Sassandra-Marahoué"
+    },
+    "comments": null
   },
   "WR": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "de": "Woroba",
       "en": "Woroba",
       "fi": "Woroban piiri",
       "fr": "District du Woroba",
       "ja": "ウォロバ地方",
-      "uk": "Район Вороба"
-    }
+      "uk": "Район Вороба",
+      "ur": "ووروبا ضلع",
+      "zh": "沃羅巴區",
+      "ccp": "𑄤𑄢𑄧𑄝",
+      "ka": "ვორობა",
+      "it": "Distretto di Woroba"
+    },
+    "comments": null
   },
   "ZZ": {
+    "name": null,
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
     "translations": {
       "en": "Zanzan²",
       "uk": "Район Занзан",
-      "ur": "زانزان ضلع"
-    }
+      "ur": "زانزان ضلع",
+      "lv": "Zanzānas reģions",
+      "mr": "झानझन प्रदेश",
+      "ceb": "Zanzan",
+      "ms": "Zanzan Region",
+      "ar": "إقليم زانزان",
+      "te": "జంజన్ ప్రాంతం",
+      "tr": "Zanzan Bölgesi",
+      "lt": "Zanzanas",
+      "ta": "சான்சன் பகுதி",
+      "vi": "Khu vực Zanzan",
+      "nl": "Zanzan",
+      "zh": "赞赞区",
+      "bn": "জানজান অঞ্চল",
+      "pl": "Region Zanzan",
+      "sw": "Mkoa wa Zanzan",
+      "sv": "Region Zanzan",
+      "el": "Ζανζάν",
+      "hi": "ज़नजान प्रदेश",
+      "ja": "ザンザン州",
+      "ru": "Занзан",
+      "ccp": "𑄎𑄚𑄴𑄎𑄚𑄴",
+      "gu": "ઝાંઝાન પ્રદેશ",
+      "ka": "ზანზანი",
+      "fr": "Zanzan",
+      "ko": "장잔 주",
+      "gl": "Zanzan",
+      "es": "Zanzan",
+      "si": "සන්සන් කලාපය",
+      "da": "Zanzan Region",
+      "fi": "Zanzan",
+      "kn": "ಝಾನ್ಜನ್ ಪ್ರದೇಶ",
+      "id": "Wilayah Zanzan",
+      "ro": "Regiunea Zanzan",
+      "eu": "Zanzan",
+      "pt": "Zanzan",
+      "de": "Region Zanzan",
+      "it": "regione di Zanzan",
+      "kk": "Занзан",
+      "cs": "Zanzan",
+      "nb": "Zanzan",
+      "be": "Рэгіён Занзан",
+      "th": "ซานซาน"
+    },
+    "comments": null
   }
 }
 

@@ -1,6 +1,16 @@
 {
   "01": {
+    "name": "Aiwo",
+    "code": null,
     "unofficial_names": "Aiwo",
+    "geo": {
+      "latitude": -0.5340012,
+      "longitude": 166.9138873,
+      "min_latitude": -0.5406168000000001,
+      "min_longitude": 166.9095518,
+      "max_latitude": -0.5264073,
+      "max_longitude": 166.918411
+    },
     "translations": {
       "en": "Aiwo",
       "ar": "ضاحية إيو",
@@ -42,20 +52,28 @@
       "uk": "Айво",
       "ur": "ایوو ضلع",
       "vi": "Aiwo",
-      "zh": "愛和區"
+      "zh": "愛和區",
+      "lv": "Aivo distrikts",
+      "ceb": "Aiwo District",
+      "jv": "Aiwo",
+      "ccp": "𑄃𑄭𑄠𑄮",
+      "kk": "Айво",
+      "mk": "Аиво"
     },
-    "geo": {
-      "latitude": -0.5340012,
-      "longitude": 166.9138873,
-      "min_latitude": -0.5406168000000001,
-      "min_longitude": 166.9095518,
-      "max_latitude": -0.5264073,
-      "max_longitude": 166.918411
-    },
-    "name": "Aiwo"
+    "comments": null
   },
   "02": {
+    "name": "Anabar",
+    "code": null,
     "unofficial_names": "Anabar",
+    "geo": {
+      "latitude": -0.5133517,
+      "longitude": 166.9484624,
+      "min_latitude": -0.522434,
+      "min_longitude": 166.9397261,
+      "max_latitude": -0.5043035,
+      "max_longitude": 166.9578031
+    },
     "translations": {
       "en": "Anabar",
       "ar": "ضاحية أنابار",
@@ -95,20 +113,30 @@
       "th": "อนาบาร์",
       "tr": "Anabar District",
       "ur": "انابر ضلع",
-      "vi": "Anabar"
+      "vi": "Anabar",
+      "lv": "Anabaras distrikts",
+      "ceb": "Anabar District",
+      "sr_Latn": "Anabar",
+      "zh": "阿納巴爾區",
+      "jv": "Anabar",
+      "ccp": "𑄃𑄚𑄝𑄢𑄴",
+      "uk": "Район Анабар",
+      "mk": "Анабар"
     },
-    "geo": {
-      "latitude": -0.5133517,
-      "longitude": 166.9484624,
-      "min_latitude": -0.522434,
-      "min_longitude": 166.9397261,
-      "max_latitude": -0.5043035,
-      "max_longitude": 166.9578031
-    },
-    "name": "Anabar"
+    "comments": null
   },
   "03": {
+    "name": "Anetan",
+    "code": null,
     "unofficial_names": "Anetan",
+    "geo": {
+      "latitude": -0.5064343,
+      "longitude": 166.9427006,
+      "min_latitude": -0.5187309999999999,
+      "min_longitude": 166.9389193,
+      "max_latitude": -0.5027978,
+      "max_longitude": 166.9484027
+    },
     "translations": {
       "en": "Anetan",
       "ar": "ضاحية أنتان",
@@ -146,20 +174,29 @@
       "th": "อะเนตัน",
       "tr": "Anetan District",
       "ur": "انیتان ضلع",
-      "vi": "Anetan"
+      "vi": "Anetan",
+      "lv": "Anetanas distrikts",
+      "ceb": "Anetan District",
+      "zh": "安鄂灘區",
+      "jv": "Anetan",
+      "ccp": "𑄃𑄚𑄬𑄑𑄚𑄴",
+      "uk": "Район Анетан",
+      "mk": "Анетан"
     },
-    "geo": {
-      "latitude": -0.5064343,
-      "longitude": 166.9427006,
-      "min_latitude": -0.5187309999999999,
-      "min_longitude": 166.9389193,
-      "max_latitude": -0.5027978,
-      "max_longitude": 166.9484027
-    },
-    "name": "Anetan"
+    "comments": null
   },
   "04": {
+    "name": "Anibare",
+    "code": null,
     "unofficial_names": "Anibare",
+    "geo": {
+      "latitude": -0.532915,
+      "longitude": 166.944141,
+      "min_latitude": -0.5423,
+      "min_longitude": 166.9355289,
+      "max_latitude": -0.520894,
+      "max_longitude": 166.9563043
+    },
     "translations": {
       "en": "Anibare",
       "ar": "ضاحية أنباير",
@@ -198,20 +235,28 @@
       "tr": "Anibare District",
       "uk": "Анібар",
       "ur": "انیباری ضلع",
-      "vi": "Anibare"
+      "vi": "Anibare",
+      "lv": "Anabares distrikts",
+      "ceb": "Anibare District",
+      "zh": "安尼巴惹區",
+      "jv": "Anibare",
+      "ccp": "𑄃𑄚𑄨𑄝𑄢𑄴",
+      "mk": "Анибар"
     },
-    "geo": {
-      "latitude": -0.532915,
-      "longitude": 166.944141,
-      "min_latitude": -0.5423,
-      "min_longitude": 166.9355289,
-      "max_latitude": -0.520894,
-      "max_longitude": 166.9563043
-    },
-    "name": "Anibare"
+    "comments": null
   },
   "05": {
+    "name": "Baiti",
+    "code": null,
     "unofficial_names": "Baiti",
+    "geo": {
+      "latitude": -0.5133158,
+      "longitude": 166.9311761,
+      "min_latitude": -0.5243401,
+      "min_longitude": 166.925876,
+      "max_latitude": -0.5060557,
+      "max_longitude": 166.941229
+    },
     "translations": {
       "en": "Baiti",
       "ar": "ضاحية بايتسي",
@@ -249,20 +294,29 @@
       "th": "ไบตี",
       "tr": "Baiti",
       "ur": "بیٹی ضلع",
-      "vi": "Baiti"
+      "vi": "Baiti",
+      "lv": "Baiti distrikts",
+      "ceb": "Baiti",
+      "zh": "白帝區",
+      "jv": "Baiti",
+      "ccp": "𑄝𑄭𑄑𑄨",
+      "uk": "Район Баіті",
+      "mk": "Баити"
     },
-    "geo": {
-      "latitude": -0.5133158,
-      "longitude": 166.9311761,
-      "min_latitude": -0.5243401,
-      "min_longitude": 166.925876,
-      "max_latitude": -0.5060557,
-      "max_longitude": 166.941229
-    },
-    "name": "Baiti"
+    "comments": null
   },
   "06": {
+    "name": "Boe",
+    "code": null,
     "unofficial_names": "Boe",
+    "geo": {
+      "latitude": -0.5414945,
+      "longitude": 166.9174893,
+      "min_latitude": -0.544316,
+      "min_longitude": 166.9117951,
+      "max_latitude": -0.5383049999999999,
+      "max_longitude": 166.922186
+    },
     "translations": {
       "en": "Boe",
       "ar": "ضاحية بو",
@@ -303,20 +357,29 @@
       "tr": "Boe District",
       "uk": "Бое",
       "ur": "بیو ضلع",
-      "vi": "Boe"
+      "vi": "Boe",
+      "lv": "Boe distrikts",
+      "ceb": "Boe District",
+      "sr_Latn": "Boe",
+      "zh": "泊區",
+      "jv": "Boe",
+      "ccp": "𑄝𑄮𑄠𑄬",
+      "mk": "Бое"
     },
-    "geo": {
-      "latitude": -0.5414945,
-      "longitude": 166.9174893,
-      "min_latitude": -0.544316,
-      "min_longitude": 166.9117951,
-      "max_latitude": -0.5383049999999999,
-      "max_longitude": 166.922186
-    },
-    "name": "Boe"
+    "comments": null
   },
   "07": {
+    "name": "Buada",
+    "code": null,
     "unofficial_names": "Buada",
+    "geo": {
+      "latitude": -0.5328777,
+      "longitude": 166.9268541,
+      "min_latitude": -0.542245,
+      "min_longitude": 166.916138,
+      "max_latitude": -0.5264839,
+      "max_longitude": 166.936519
+    },
     "translations": {
       "en": "Buada",
       "ar": "ضاحية بوادا",
@@ -356,22 +419,32 @@
       "tr": "Buada District",
       "uk": "Буада",
       "ur": "بوادا ضلع",
-      "vi": "Buada"
+      "vi": "Buada",
+      "lv": "Buadas distrikts",
+      "ceb": "Buada District",
+      "sr_Latn": "Buada",
+      "zh": "部亞達區",
+      "jv": "Buada",
+      "ccp": "𑄝𑄪𑄠𑄓",
+      "kk": "Буада",
+      "mk": "Буада"
     },
-    "geo": {
-      "latitude": -0.5328777,
-      "longitude": 166.9268541,
-      "min_latitude": -0.542245,
-      "min_longitude": 166.916138,
-      "max_latitude": -0.5264839,
-      "max_longitude": 166.936519
-    },
-    "name": "Buada"
+    "comments": null
   },
   "08": {
+    "name": "Denigomodu",
+    "code": null,
     "unofficial_names": [
       "Denigomodu"
     ],
+    "geo": {
+      "latitude": -0.5247963999999999,
+      "longitude": 166.9167689,
+      "min_latitude": -0.5291599,
+      "min_longitude": 166.9108336,
+      "max_latitude": -0.5191129,
+      "max_longitude": 166.925101
+    },
     "translations": {
       "en": "Denigomodu",
       "ar": "ضاحية دينيغومودو",
@@ -412,20 +485,30 @@
       "tr": "Denigomodu District",
       "uk": "Денігомоду",
       "ur": "دینیجومودو ضلع",
-      "vi": "Denigomodu"
+      "vi": "Denigomodu",
+      "lv": "Denigomodu distrikts",
+      "ceb": "Denigomodu District",
+      "sr_Latn": "Denigomodu",
+      "zh": "德尼高莫都區",
+      "jv": "Denigomodu",
+      "ccp": "𑄓𑄬𑄚𑄨𑄉𑄮𑄟𑄮𑄓𑄪",
+      "kk": "Денигомоду",
+      "mk": "Денигомоду (округ)"
     },
-    "geo": {
-      "latitude": -0.5247963999999999,
-      "longitude": 166.9167689,
-      "min_latitude": -0.5291599,
-      "min_longitude": 166.9108336,
-      "max_latitude": -0.5191129,
-      "max_longitude": 166.925101
-    },
-    "name": "Denigomodu"
+    "comments": null
   },
   "09": {
+    "name": "Ewa",
+    "code": null,
     "unofficial_names": "Ewa",
+    "geo": {
+      "latitude": -0.5087241,
+      "longitude": 166.9369384,
+      "min_latitude": -0.5203078999999999,
+      "min_longitude": 166.9306406,
+      "max_latitude": -0.5026395,
+      "max_longitude": 166.9437219
+    },
     "translations": {
       "en": "Ewa",
       "ar": "ضاحية إيوا",
@@ -463,20 +546,28 @@
       "th": "เอวา",
       "tr": "Ewa District",
       "ur": "یوا ضلع",
-      "vi": "Ewa"
+      "vi": "Ewa",
+      "lv": "Evas distrikts",
+      "zh": "埃瓦區",
+      "jv": "Ewa",
+      "ccp": "𑄃𑄨𑄤",
+      "uk": "Район Ева",
+      "mk": "Ева"
     },
-    "geo": {
-      "latitude": -0.5087241,
-      "longitude": 166.9369384,
-      "min_latitude": -0.5203078999999999,
-      "min_longitude": 166.9306406,
-      "max_latitude": -0.5026395,
-      "max_longitude": 166.9437219
-    },
-    "name": "Ewa"
+    "comments": null
   },
   "10": {
+    "name": "Ijuw",
+    "code": null,
     "unofficial_names": "Ijuw",
+    "geo": {
+      "latitude": -0.5202646000000001,
+      "longitude": 166.9513432,
+      "min_latitude": -0.523936,
+      "min_longitude": 166.9436481,
+      "max_latitude": -0.514258,
+      "max_longitude": 166.958865
+    },
     "translations": {
       "en": "Ijuw",
       "ar": "ضاحية أيجو",
@@ -514,20 +605,29 @@
       "th": "อิจูว์",
       "tr": "İyuv",
       "ur": "یجوو ضلع",
-      "vi": "Ijuw"
+      "vi": "Ijuw",
+      "lv": "Iju distrikts",
+      "ceb": "Ijuw District",
+      "zh": "艾珠區",
+      "jv": "Ijuw",
+      "ccp": "𑄃𑄨𑄎𑄪𑄠",
+      "uk": "Район Іюв",
+      "mk": "Ијув"
     },
-    "geo": {
-      "latitude": -0.5202646000000001,
-      "longitude": 166.9513432,
-      "min_latitude": -0.523936,
-      "min_longitude": 166.9436481,
-      "max_latitude": -0.514258,
-      "max_longitude": 166.958865
-    },
-    "name": "Ijuw"
+    "comments": null
   },
   "11": {
+    "name": "Meneng",
+    "code": null,
     "unofficial_names": "Meneng",
+    "geo": {
+      "latitude": -0.546724,
+      "longitude": 166.938379,
+      "min_latitude": -0.5539963,
+      "min_longitude": 166.9286009,
+      "max_latitude": -0.5366,
+      "max_longitude": 166.9506771
+    },
     "translations": {
       "en": "Meneng",
       "ar": "ضاحية مينينغ",
@@ -566,20 +666,30 @@
       "th": "เมเนง",
       "tr": "Meneng District",
       "ur": "مینینج ضلع",
-      "vi": "Meneng"
+      "vi": "Meneng",
+      "lv": "Menengas distrikts",
+      "ceb": "Meneng District",
+      "zh": "湄濘區",
+      "jv": "Meneng",
+      "ccp": "𑄟𑄬𑄚𑄬𑄚𑄴",
+      "kk": "Мененг",
+      "uk": "Район Мененг",
+      "mk": "Мененг"
     },
-    "geo": {
-      "latitude": -0.546724,
-      "longitude": 166.938379,
-      "min_latitude": -0.5539963,
-      "min_longitude": 166.9286009,
-      "max_latitude": -0.5366,
-      "max_longitude": 166.9506771
-    },
-    "name": "Meneng"
+    "comments": null
   },
   "12": {
+    "name": "Nibok",
+    "code": null,
     "unofficial_names": "Nibok",
+    "geo": {
+      "latitude": -0.5225124,
+      "longitude": 166.9254134,
+      "min_latitude": -0.530461,
+      "min_longitude": 166.917013,
+      "max_latitude": -0.5136925,
+      "max_longitude": 166.9371241
+    },
     "translations": {
       "en": "Nibok",
       "ar": "ضاحية نيبوك",
@@ -617,20 +727,30 @@
       "th": "นิบอก",
       "tr": "Nibok District",
       "ur": "نیبوک ضلع",
-      "vi": "Nibok"
+      "vi": "Nibok",
+      "lv": "Nibokas distrikts",
+      "ceb": "Nibok District",
+      "zh": "尼柏區",
+      "jv": "Nibok",
+      "ccp": "𑄚𑄨𑄝𑄮𑄇𑄴",
+      "kk": "Нибок",
+      "uk": "Район Нібок",
+      "mk": "Нибок"
     },
-    "geo": {
-      "latitude": -0.5225124,
-      "longitude": 166.9254134,
-      "min_latitude": -0.530461,
-      "min_longitude": 166.917013,
-      "max_latitude": -0.5136925,
-      "max_longitude": 166.9371241
-    },
-    "name": "Nibok"
+    "comments": null
   },
   "13": {
+    "name": "Uaboe",
+    "code": null,
     "unofficial_names": "Uaboe",
+    "geo": {
+      "latitude": -0.5173398,
+      "longitude": 166.9290151,
+      "min_latitude": -0.5244783,
+      "min_longitude": 166.9229766,
+      "max_latitude": -0.5118939,
+      "max_longitude": 166.939466
+    },
     "translations": {
       "en": "Uaboe",
       "ar": "ضاحية يوابوي",
@@ -668,20 +788,29 @@
       "th": "อัวโบเอ",
       "tr": "Uaboe District",
       "ur": "وابوی ضلع",
-      "vi": "Uaboe"
+      "vi": "Uaboe",
+      "lv": "Uaboe distrikts",
+      "ceb": "Uaboe District",
+      "zh": "優雅布區",
+      "jv": "Uaboe",
+      "ccp": "𑄅𑄪𑄝𑄮𑄠𑄬",
+      "uk": "Район Уабо",
+      "mk": "Уабое"
     },
-    "geo": {
-      "latitude": -0.5173398,
-      "longitude": 166.9290151,
-      "min_latitude": -0.5244783,
-      "min_longitude": 166.9229766,
-      "max_latitude": -0.5118939,
-      "max_longitude": 166.939466
-    },
-    "name": "Uaboe"
+    "comments": null
   },
   "14": {
+    "name": "Yaren",
+    "code": null,
     "unofficial_names": "Yaren",
+    "geo": {
+      "latitude": -0.5466856999999999,
+      "longitude": 166.9210913,
+      "min_latitude": -0.5541410999999999,
+      "min_longitude": 166.9109682,
+      "max_latitude": -0.5398079,
+      "max_longitude": 166.9298291
+    },
     "translations": {
       "en": "Yaren",
       "af": "Yaren",
@@ -736,17 +865,22 @@
       "tr": "Yaren",
       "uk": "Ярен",
       "ur": "یارن",
-      "vi": "Yaren"
+      "vi": "Yaren",
+      "cy": "Yaren",
+      "ceb": "Yaren",
+      "sr_Latn": "Jaren",
+      "zh": "亞倫區",
+      "yue_Hans": "亚伦",
+      "jv": "Yaren",
+      "ccp": "𑄃𑄨𑄠𑄢𑄬𑄚𑄴",
+      "sl": "Yaren",
+      "pa": "ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ",
+      "kk": "Ярен",
+      "yue": "亞倫",
+      "bs": "Yaren",
+      "mk": "Јарен"
     },
-    "geo": {
-      "latitude": -0.5466856999999999,
-      "longitude": 166.9210913,
-      "min_latitude": -0.5541410999999999,
-      "min_longitude": 166.9109682,
-      "max_latitude": -0.5398079,
-      "max_longitude": 166.9298291
-    },
-    "name": "Yaren"
+    "comments": null
   }
 }
 
