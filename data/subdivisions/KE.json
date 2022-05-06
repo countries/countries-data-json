@@ -1,142 +1,542 @@
 {
-  "110": {
-    "name": "Nairobi Municipality",
+  "01": {
+    "name": "Baringo",
     "code": null,
-    "unofficial_names": "Nairobi Municipality",
+    "unofficial_names": null,
     "geo": {
-      "latitude": -1.286577,
-      "longitude": 36.82193669999999,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
     "translations": {
-      "en": "Nairobi Municipality"
+      "de": "Baringo County",
+      "en": "Baringo",
+      "es": "Condado de Baringo",
+      "ja": "バリンゴ (カウンティ)",
+      "ko": "바링고 현",
+      "nb": "Baringo fylke",
+      "nl": "Baringo",
+      "ru": "Баринго",
+      "sv": "Baringo",
+      "sw": "Wilaya ya Baringo",
+      "ur": "بارنگو کاؤنٹی",
+      "vi": "Baringo",
+      "zh": "巴林戈郡",
+      "ceb": "Baringo",
+      "fa": "شهرستان بارینگو",
+      "ccp": "𑄝𑄢𑄨𑄁𑄉𑄮",
+      "no": "Baringo fylke"
     },
     "comments": null
   },
-  "200": {
-    "name": "Central",
+  "02": {
+    "name": "Bomet",
     "code": null,
-    "unofficial_names": "Central",
+    "unofficial_names": null,
     "geo": {
-      "latitude": -1.7959729,
-      "longitude": 37.7020747,
-      "min_latitude": -1.8022581,
-      "min_longitude": 37.6960079,
-      "max_latitude": -1.7872058,
-      "max_longitude": 37.7046067
-    },
-    "translations": {
-      "en": "Central"
-    },
-    "comments": null
-  },
-  "300": {
-    "name": "Coast",
-    "code": null,
-    "unofficial_names": "Coast",
-    "geo": {
-      "latitude": -1.2896282,
-      "longitude": 36.7499171,
-      "min_latitude": -1.2908067,
-      "min_longitude": 36.749455,
-      "max_latitude": -1.2882341,
-      "max_longitude": 36.7504468
-    },
-    "translations": {
-      "en": "Coast"
-    },
-    "comments": null
-  },
-  "400": {
-    "name": "Eastern",
-    "code": null,
-    "unofficial_names": "Eastern",
-    "geo": {
-      "latitude": 1.2692186,
-      "longitude": 33.438353,
-      "min_latitude": -0.1933874,
-      "min_longitude": 32.8465138,
-      "max_latitude": 2.421396,
-      "max_longitude": 34.829762
-    },
-    "translations": {
-      "en": "Eastern"
-    },
-    "comments": null
-  },
-  "500": {
-    "name": "North-Eastern",
-    "code": null,
-    "unofficial_names": "North-Eastern",
-    "geo": {
-      "latitude": -0.0190061,
-      "longitude": 37.6480812,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
     "translations": {
-      "en": "North-Eastern"
+      "de": "Bomet County",
+      "en": "Bomet",
+      "es": "Condado de Bomet",
+      "ja": "ボメット (カウンティ)",
+      "ko": "보메트 현",
+      "nb": "Bomet (distrikt)",
+      "nl": "Bomet",
+      "sv": "Bomet (distrikt)",
+      "sw": "Wilaya ya Bomet",
+      "ur": "بومت کاؤنٹی",
+      "vi": "Bomet",
+      "ceb": "Bomet (lalawigan)",
+      "zh": "博美特郡",
+      "fa": "شهرستان بومت",
+      "ccp": "𑄝𑄧𑄟𑄬𑄖𑄴",
+      "no": "Bomet (distrikt)"
     },
     "comments": null
   },
-  "600": {
-    "name": "Nyanza",
+  "03": {
+    "name": "Bungoma",
     "code": null,
-    "unofficial_names": "Nyanza",
+    "unofficial_names": null,
     "geo": {
-      "latitude": -1.2849963,
-      "longitude": 36.8272273,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
     "translations": {
-      "en": "Nyanza"
+      "de": "Bungoma County",
+      "en": "Bungoma",
+      "es": "Condado de Bungoma",
+      "fi": "Bungoman piirikunta",
+      "fr": "Bungoma (comté du Kenya)",
+      "ja": "ブンゴマ (カウンティ)",
+      "ko": "붕고마 현",
+      "nb": "Bungoma fylke",
+      "nl": "Bungoma County",
+      "sv": "Bungoma",
+      "sw": "Wilaya ya Bungoma",
+      "ur": "بونگوما کاؤنٹی",
+      "vi": "Bungoma",
+      "zh": "邦戈馬郡",
+      "fa": "شهرستان بونگوما",
+      "ccp": "𑄝𑄚𑄴𑄉𑄮𑄟",
+      "no": "Bungoma fylke"
     },
     "comments": null
   },
-  "700": {
-    "name": "Rift Valley",
+  "04": {
+    "name": "Busia",
     "code": null,
-    "unofficial_names": "Rift Valley",
+    "unofficial_names": null,
     "geo": {
-      "latitude": -0.2830282,
-      "longitude": 36.0750219,
+      "latitude": null,
+      "longitude": null,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
     },
     "translations": {
-      "en": "Rift Valley"
+      "de": "Busia County",
+      "en": "Busia",
+      "es": "Condado de Busia",
+      "fr": "Busia",
+      "ja": "ブシア (カウンティ)",
+      "ko": "부시아 현",
+      "nb": "Busia fylke",
+      "nl": "Busia",
+      "ru": "Бусиа (округ, Кения)",
+      "sv": "Busia (distrikt i Kenya)",
+      "sw": "Wilaya ya Busia, Kenya",
+      "ur": "بوسیا کاؤنٹی",
+      "vi": "Busia",
+      "ceb": "Busia",
+      "zh": "布希亞郡",
+      "fa": "شهرستان بوسیا",
+      "ccp": "𑄝𑄨𑄅𑄪𑄥𑄨𑄠",
+      "ca": "Busia",
+      "no": "Busia fylke"
     },
     "comments": null
   },
-  "900": {
-    "name": "Western",
+  "05": {
+    "name": "Elgeyo/Marakwet",
     "code": null,
-    "unofficial_names": "Western",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 0.7138363999999999,
-      "longitude": 35.5174033,
-      "min_latitude": 0.7136743999999999,
-      "min_longitude": 35.5173344,
-      "max_latitude": 0.714007,
-      "max_longitude": 35.5174577
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Western"
+      "de": "Elgeyo-Marakwet County",
+      "en": "Elgeyo-Marakwet",
+      "es": "Condado de Elgeyo-Marakwet",
+      "ko": "엘게요마라퀘트 현",
+      "nb": "Elgeyo-Marakwet fylke",
+      "nl": "Elgeyo-Marakwet County",
+      "ur": "ایلگیو-ماراکوت کاؤنٹی",
+      "zh": "埃爾格約-馬拉奎特郡",
+      "ccp": "𑄃𑄬𑄣𑄴𑄉𑄬𑄃𑄮-𑄟𑄢𑄇𑄴𑄤𑄬𑄖𑄴",
+      "no": "Elgeyo-Marakwet fylke"
+    },
+    "comments": null
+  },
+  "06": {
+    "name": "Embu",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Embu County",
+      "en": "Embu",
+      "es": "Condado de Embu",
+      "fi": "Embun piirikunta",
+      "it": "Contea di Embu",
+      "ja": "エンブ (カウンティ)",
+      "ko": "엠부 현",
+      "nb": "Embu fylke",
+      "nl": "Embu",
+      "sv": "Embu (distrikt)",
+      "sw": "Wilaya ya Embu",
+      "ur": "عمبو کاؤنٹی",
+      "vi": "Embu",
+      "ceb": "Embu (lalawigan)",
+      "zh": "恩布郡",
+      "fa": "شهرستان امبو",
+      "ccp": "𑄃𑄬𑄟𑄴𑄝𑄪",
+      "no": "Embu fylke"
+    },
+    "comments": null
+  },
+  "07": {
+    "name": "Garissa",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Comtat de Garissa",
+      "de": "Garissa County",
+      "en": "Garissa",
+      "es": "Condado de Garissa",
+      "fr": "Garissa",
+      "it": "Contea di Garissa",
+      "ja": "ガリッサ (カウンティ)",
+      "ko": "가리사 현",
+      "nb": "Garissa (distrikt)",
+      "nl": "Garissa",
+      "sv": "Garissa (distrikt)",
+      "sw": "Wilaya ya Garissa",
+      "ur": "گاریسا کاؤنٹی",
+      "vi": "Garissa",
+      "ceb": "Garissa",
+      "zh": "加里薩郡",
+      "fa": "شهرستان گاریسا",
+      "ru": "Гарисса (округ)",
+      "ccp": "𑄉𑄢𑄨𑄥",
+      "no": "Garissa (distrikt)"
+    },
+    "comments": null
+  },
+  "08": {
+    "name": "Homa Bay",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Homa Bay County",
+      "en": "Homa Bay",
+      "fr": "Homa Bay (district du Kenya)",
+      "ja": "ホマ・ベイ (カウンティ)",
+      "ko": "호마베이 현",
+      "nb": "Homa Bay fylke",
+      "nl": "Homa Bay",
+      "sv": "Homa Bay (distrikt)",
+      "sw": "Wilaya ya Homa Bay",
+      "ur": "ہوما بے کاؤنٹی",
+      "vi": "Homa Bay",
+      "ceb": "Homa Bay (lalawigan)",
+      "zh": "霍馬灣郡",
+      "fa": "شهرستان خلیج هوما",
+      "pl": "Wilaya ya Homa Bay",
+      "ccp": "𑄦𑄮𑄟 𑄝𑄬",
+      "es": "Condado de Homa Bay",
+      "no": "Homa Bay fylke"
+    },
+    "comments": null
+  },
+  "09": {
+    "name": "Isiolo",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Isiolo County",
+      "en": "Isiolo",
+      "es": "Condado de Isiolo",
+      "it": "Contea di Isiolo",
+      "ja": "イシオロ (カウンティ)",
+      "ko": "이시올로 현",
+      "nb": "Isiolo fylke",
+      "nl": "Isiolo",
+      "sv": "Isiolo",
+      "sw": "Wilaya ya Isiolo",
+      "ur": "اسیولو کاؤنٹی",
+      "vi": "Isiolo",
+      "ceb": "Isiolo",
+      "zh": "伊希約洛郡",
+      "fa": "شهرستان ایسیولو",
+      "ccp": "𑄃𑄭𑄥𑄨𑄃𑄮𑄣𑄮",
+      "no": "Isiolo fylke"
+    },
+    "comments": null
+  },
+  "10": {
+    "name": "Kajiado",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kajiado County",
+      "en": "Kajiado",
+      "es": "Condado de Kajiado",
+      "ja": "カジアド (カウンティ)",
+      "ko": "카지아도 현",
+      "nb": "Kajiado fylke",
+      "nl": "Kajiado",
+      "pt": "Distrito de Kajiado",
+      "sv": "Kajiado",
+      "sw": "Wilaya ya Kajiado",
+      "ur": "کاجیادو کاؤنٹی",
+      "vi": "Kajiado",
+      "ceb": "Kajiado (lalawigan)",
+      "zh": "卡耶亞多郡",
+      "fa": "شهرستان کاجیادو",
+      "ccp": "𑄇𑄎𑄨𑄠𑄓𑄮",
+      "fr": "Kajiado (comté du Kenya)",
+      "no": "Kajiado fylke"
+    },
+    "comments": null
+  },
+  "11": {
+    "name": "Kakamega",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kakamega County",
+      "en": "Kakamega",
+      "es": "Condado de Kakamega",
+      "fi": "Kakamegan piirikunta",
+      "fr": "Kakamega",
+      "ja": "カカメガ (カウンティ)",
+      "ko": "카카메가 현",
+      "nb": "Kakamega fylke",
+      "nl": "Kakamega",
+      "sv": "Kakamega (distrikt)",
+      "sw": "Wilaya ya Kakamega",
+      "ur": "کاکامیگا کاؤنٹی",
+      "vi": "Kakamega",
+      "ceb": "Kakamega",
+      "zh": "卡卡梅加郡",
+      "fa": "شهرستان کاکامگا",
+      "ccp": "𑄇𑄇𑄟𑄬𑄉",
+      "no": "Kakamega fylke"
+    },
+    "comments": null
+  },
+  "12": {
+    "name": "Kericho",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kericho County",
+      "en": "Kericho",
+      "es": "Condado de Kericho",
+      "fi": "Kerichon piirikunta",
+      "ja": "ケリチョ (カウンティ)",
+      "ko": "케리초 현",
+      "nb": "Kericho fylke",
+      "nl": "Kericho",
+      "sv": "Kericho (distrikt)",
+      "sw": "Wilaya ya Kericho",
+      "ur": "کیریچو کاؤنٹی",
+      "vi": "Kericho",
+      "ceb": "Kericho",
+      "zh": "凱里喬郡",
+      "fa": "شهرستان کریچو",
+      "ccp": "𑄇𑄬𑄢𑄨𑄌𑄮",
+      "no": "Kericho fylke"
+    },
+    "comments": null
+  },
+  "13": {
+    "name": "Kiambu",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kiambu County",
+      "en": "Kiambu",
+      "es": "Condado de Kiambu",
+      "fi": "Kiambun piirikunta",
+      "it": "Distretto di Kiambu",
+      "ja": "キアンブ (カウンティ)",
+      "ko": "키암부 현",
+      "nb": "Kiambu fylke",
+      "nl": "Kiambu",
+      "sv": "Kiambu",
+      "sw": "Wilaya ya Kiambu",
+      "ur": "کیامبو کاؤنٹی",
+      "vi": "Kiambu",
+      "ceb": "Kiambu",
+      "zh": "基安布郡",
+      "fa": "شهرستان کیامبو",
+      "ccp": "𑄇𑄨𑄠𑄟𑄴𑄝𑄪",
+      "no": "Kiambu fylke"
+    },
+    "comments": null
+  },
+  "14": {
+    "name": "Kilifi",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kilifi County",
+      "en": "Kilifi",
+      "es": "Distrito de Kilifi",
+      "fi": "Kilifin piirikunta",
+      "fr": "Kilifi",
+      "it": "Distretto di Kilifi",
+      "ja": "キリフィ (カウンティ)",
+      "ko": "킬리피 현",
+      "nb": "Kilifi fylke",
+      "nl": "Kilifi",
+      "sv": "Kilifi (distrikt)",
+      "sw": "Wilaya ya Kilifi",
+      "ur": "کیلیفی کاؤنٹی",
+      "vi": "Kilifi",
+      "ceb": "Kilifi",
+      "zh": "基利菲县",
+      "fa": "شهرستان کیلیفی",
+      "ccp": "𑄇𑄨𑄣𑄨𑄜𑄨",
+      "no": "Kilifi fylke"
+    },
+    "comments": null
+  },
+  "15": {
+    "name": "Kirinyaga",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kirinyaga County",
+      "en": "Kirinyaga",
+      "es": "Condado de Kirinyaga",
+      "fi": "Kirinyagan piirikunta",
+      "it": "Distretto di Kirinyaga",
+      "ja": "キリーニャガ (カウンティ)",
+      "ko": "키리니아가 현",
+      "nb": "Kirinyaga fylke",
+      "nl": "Kirinyaga",
+      "sv": "Kirinyaga",
+      "sw": "Wilaya ya Kirinyaga",
+      "ur": "کیرینیاگا کاؤنٹی",
+      "ceb": "Kirinyaga",
+      "zh": "基里尼亞加郡",
+      "fa": "شهرستان کیرینیاگا",
+      "ccp": "𑄇𑄨𑄢𑄨𑄚𑄨𑄠𑄉",
+      "he": "קריניאגה",
+      "no": "Kirinyaga fylke"
+    },
+    "comments": null
+  },
+  "16": {
+    "name": "Kisii",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kisii County",
+      "en": "Kisii",
+      "fi": "Kisiin piirikunta",
+      "fr": "Kisii",
+      "ja": "キシイ県",
+      "ko": "키시 현",
+      "nb": "Kisii (distrikt)",
+      "nl": "Kisii",
+      "pt": "Kisii (distrito)",
+      "ro": "Kisii",
+      "ru": "Кисии",
+      "sv": "Kisii (distrikt)",
+      "sw": "Wilaya ya Kisii Kati",
+      "ur": "کیسیی کاؤنٹی",
+      "ceb": "Kisii",
+      "zh": "基西郡",
+      "fa": "شهرستان کیسی",
+      "ccp": "𑄇𑄨𑄥𑄳𑄦𑄨",
+      "es": "Condado de Kisii",
+      "no": "Kisii (distrikt)"
     },
     "comments": null
   },
   "17": {
-    "name": null,
+    "name": "Kisumu",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -165,17 +565,423 @@
       "zh": "基蘇木郡",
       "fa": "شهرستان کیسومو",
       "ccp": "𑄇𑄨𑄥𑄪𑄟𑄪",
-      "es": "Condado de Kisumu"
+      "es": "Condado de Kisumu",
+      "no": "Kisumu fylke"
     },
     "comments": null
   },
-  "30": {
-    "name": null,
+  "18": {
+    "name": "Kitui",
     "code": null,
     "unofficial_names": null,
     "geo": {
       "latitude": null,
       "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "da": "Kitui",
+      "de": "Kitui County",
+      "en": "Kitui",
+      "es": "Condado de Kitui",
+      "fi": "Kituin piirikunta",
+      "ja": "キツイ (カウンティ)",
+      "ko": "키투이 현",
+      "nb": "Kitui fylke",
+      "nl": "Kitui",
+      "sv": "Kitui",
+      "sw": "Wilaya ya Kitui",
+      "ur": "کیتوئی کاؤنٹی",
+      "vi": "Kitui",
+      "ceb": "Kitui",
+      "zh": "基圖伊郡",
+      "fa": "شهرستان کیتوی",
+      "ccp": "𑄇𑄨𑄑𑄭𑄪",
+      "fr": "Comté de Kitui",
+      "no": "Kitui fylke"
+    },
+    "comments": null
+  },
+  "19": {
+    "name": "Kwale",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Kwale County",
+      "en": "Kwale",
+      "es": "Condado de Kwale",
+      "fr": "Kwale",
+      "it": "Distretto di Kwale",
+      "ja": "クワレ (カウンティ)",
+      "ko": "콸레 현",
+      "nb": "Kwale fylke",
+      "nl": "Kwale",
+      "sv": "Kwale",
+      "sw": "Wilaya ya Kwale",
+      "ur": "کوالے کاؤنٹی",
+      "vi": "Kwale",
+      "ceb": "Kwale",
+      "zh": "夸勒郡",
+      "fa": "شهرستان کوالی",
+      "ccp": "𑄇𑄬𑄤𑄣𑄬",
+      "no": "Kwale fylke"
+    },
+    "comments": null
+  },
+  "20": {
+    "name": "Laikipia",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Лаикипиа",
+      "de": "Laikipia County",
+      "en": "Laikipia",
+      "es": "Condado de Laikipia",
+      "it": "Distretto di Laikipia",
+      "ja": "ライキピア (カウンティ)",
+      "ko": "라이키피아 현",
+      "nb": "Laikipia fylke",
+      "nl": "Laikipia",
+      "ru": "Лайкипиа",
+      "sv": "Laikipia",
+      "sw": "Wilaya ya Laikipia",
+      "ur": "لائکی پیا کاؤنٹی",
+      "vi": "Laikipia",
+      "ceb": "Laikipia",
+      "zh": "萊基皮亞郡",
+      "fa": "شهرستان لایکیپیا",
+      "ccp": "𑄣𑄭𑄇𑄨𑄛𑄨𑄠",
+      "hy": "Լայկիպիա",
+      "no": "Laikipia fylke"
+    },
+    "comments": null
+  },
+  "21": {
+    "name": "Lamu",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Districte de Lamu",
+      "en": "Lamu",
+      "es": "Condado de Lamu",
+      "fr": "Lamu",
+      "it": "Contea di Lamu",
+      "ja": "ラム (カウンティ)",
+      "ko": "라무 현",
+      "nb": "Lamu fylke",
+      "nl": "Lamu",
+      "sv": "Lamu",
+      "sw": "Wilaya ya Lamu",
+      "ur": "لامو کاؤنٹی",
+      "vi": "Lamu",
+      "ceb": "Lamu District",
+      "zh": "拉穆郡",
+      "fa": "شهرستان لامو",
+      "ccp": "𑄣𑄟𑄴𑄝𑄪",
+      "no": "Lamu fylke"
+    },
+    "comments": null
+  },
+  "22": {
+    "name": "Machakos",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Machakos District",
+      "en": "Machakos",
+      "es": "Condado de Machakos",
+      "fi": "Machakosin piirikunta",
+      "ja": "マチャコス (カウンティ)",
+      "ko": "마차코스 현",
+      "nb": "Machakos fylke",
+      "nl": "Machakos",
+      "sv": "Machakos (distrikt)",
+      "sw": "Wilaya ya Machakos",
+      "ur": "ماچاکوس کاؤنٹی",
+      "vi": "Machakos",
+      "ceb": "Machakos (kapital sa lalawigan)",
+      "zh": "馬查科斯郡",
+      "fa": "شهرستان ماچاکوس",
+      "ccp": "𑄟𑄳𑄠𑄌𑄇𑄮𑄌𑄴",
+      "no": "Machakos fylke"
+    },
+    "comments": null
+  },
+  "23": {
+    "name": "Makueni",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Makueni District",
+      "en": "Makueni",
+      "es": "Condado de Makueni",
+      "ja": "マクエニ (カウンティ)",
+      "ko": "마쿠에니 현",
+      "nb": "Makueni fylke",
+      "nl": "Makueni",
+      "sv": "Makueni",
+      "sw": "Wilaya ya Makueni",
+      "ur": "ماکوینی کاؤنٹی",
+      "vi": "Makueni",
+      "ceb": "Makueni",
+      "zh": "馬瓜尼郡",
+      "ccp": "𑄟𑄇𑄪𑄠𑄬𑄚𑄨",
+      "fr": "Makueni",
+      "no": "Makueni fylke"
+    },
+    "comments": null
+  },
+  "24": {
+    "name": "Mandera",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Mandera District",
+      "en": "Mandera",
+      "es": "Condado de Mandera",
+      "fi": "Manderan piirikunta",
+      "it": "Contea di Mandera",
+      "ja": "マンデラ (カウンティ)",
+      "ko": "만데라 현",
+      "nb": "Mandera fylke",
+      "nl": "Mandera",
+      "sv": "Mandera",
+      "sw": "Wilaya ya Mandera",
+      "ur": "ماندیرا کاؤنٹی",
+      "vi": "Mandera",
+      "ceb": "Mandera (lalawigan)",
+      "zh": "曼德拉郡",
+      "ccp": "𑄟𑄚𑄴𑄓𑄬𑄢",
+      "no": "Mandera fylke"
+    },
+    "comments": null
+  },
+  "25": {
+    "name": "Marsabit",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Marsabit District",
+      "en": "Marsabit",
+      "es": "Marsabit",
+      "it": "Contea di Marsabit",
+      "ja": "マルサビット (カウンティ)",
+      "ko": "마르사비트 현",
+      "nb": "Marsabit fylke",
+      "nl": "Marsabit",
+      "pl": "Marsabit",
+      "sv": "Marsabit",
+      "sw": "Wilaya ya Marsabit",
+      "ur": "مارسابیت کاؤنٹی",
+      "vi": "Marsabit",
+      "ceb": "Marsabit",
+      "zh": "馬薩比特郡",
+      "fa": "شهرستان مارسابیت",
+      "ccp": "𑄟𑄢𑄴𑄥𑄝𑄨𑄖𑄴",
+      "fr": "Marsabit",
+      "no": "Marsabit fylke"
+    },
+    "comments": null
+  },
+  "26": {
+    "name": "Meru",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Meru",
+      "es": "Condado de Meru",
+      "fi": "Merun piirikunta",
+      "it": "Contea di Meru",
+      "ja": "メルー (カウンティ)",
+      "ko": "메루 현",
+      "nb": "Meru fylke",
+      "nl": "Meru County",
+      "sv": "Meru (län)",
+      "ur": "میرو کاؤنٹی",
+      "ceb": "Meru",
+      "zh": "梅魯郡",
+      "sw": "Kaunti ya Meru",
+      "ccp": "𑄟𑄬𑄢𑄪",
+      "no": "Meru fylke"
+    },
+    "comments": null
+  },
+  "27": {
+    "name": "Migori",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Migori District",
+      "en": "Migori",
+      "fr": "Migori",
+      "ja": "ミゴリ (カウンティ)",
+      "ko": "미고리 현",
+      "nb": "Migori fylke",
+      "nl": "Migori",
+      "pt": "Migori",
+      "sv": "Migori",
+      "sw": "Wilaya ya Migori",
+      "ur": "میگوری کاؤنٹی",
+      "vi": "Migori",
+      "ceb": "Migori (lalawigan)",
+      "zh": "米戈利郡",
+      "ccp": "𑄟𑄨𑄉𑄮𑄢𑄨",
+      "es": "Condado de Migori",
+      "uk": "Мігорі (округ)",
+      "no": "Migori fylke"
+    },
+    "comments": null
+  },
+  "28": {
+    "name": "Mombasa",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Mombasa District",
+      "en": "Mombasa",
+      "es": "Condado de Mombasa",
+      "fi": "Mombasan piirikunta",
+      "fr": "Mombasa District",
+      "it": "Contea di Mombasa",
+      "ja": "モンバサ (カウンティ)",
+      "ko": "몸바사 현",
+      "nb": "Mombasa fylke",
+      "nl": "Mombasa District",
+      "ru": "Момбаса",
+      "sw": "Wilaya ya Mombasa",
+      "ur": "ممباسا کاؤنٹی",
+      "vi": "Mombasa",
+      "ceb": "Mombasa",
+      "zh": "蒙巴萨县",
+      "ccp": "𑄟𑄧𑄟𑄴𑄝𑄥",
+      "pt": "Condado de Mombaça",
+      "be": "Мамбаса",
+      "no": "Mombasa fylke"
+    },
+    "comments": null
+  },
+  "29": {
+    "name": "Murang’a",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Murang’a District",
+      "en": "Murang’a",
+      "es": "Condado de Muranga",
+      "fi": "Murangan piirikunta",
+      "it": "Distretto di Muranga",
+      "ja": "ムランガ (カウンティ)",
+      "ko": "무랑가 현",
+      "nl": "Muranga",
+      "sv": "Muranga",
+      "sw": "Wilaya ya Murang’a",
+      "ur": "مورانگا کاؤنٹی",
+      "vi": "Murang’a",
+      "ceb": "Murang’A",
+      "zh": "穆蘭卡郡",
+      "ru": "Муранга",
+      "ccp": "𑄟𑄪𑄢𑄁‘𑄃"
+    },
+    "comments": null
+  },
+  "30": {
+    "name": "Nairobi City",
+    "code": null,
+    "unofficial_names": "Nairobi Municipality",
+    "geo": {
+      "latitude": -1.286577,
+      "longitude": 36.82193669999999,
       "min_latitude": null,
       "min_longitude": null,
       "max_latitude": null,
@@ -188,7 +994,7 @@
       "da": "Nairobi County",
       "de": "Nairobi",
       "el": "Ναϊρόμπι",
-      "en": "Nairobi County",
+      "en": "Nairobi City",
       "es": "Nairobi",
       "et": "Nairobi maakond",
       "fi": "Nairobin piirikunta",
@@ -220,959 +1026,13 @@
       "lt": "Nairobio sritis",
       "zh": "內羅畢郡",
       "ccp": "𑄚𑄭𑄢𑄮𑄝𑄨 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
-      "uk": "Округ Найробі"
-    },
-    "comments": null
-  },
-  "20": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Лаикипиа",
-      "de": "Laikipia County",
-      "en": "Laikipia",
-      "es": "Condado de Laikipia",
-      "it": "Distretto di Laikipia",
-      "ja": "ライキピア (カウンティ)",
-      "ko": "라이키피아 현",
-      "nb": "Laikipia fylke",
-      "nl": "Laikipia",
-      "ru": "Лайкипиа",
-      "sv": "Laikipia",
-      "sw": "Wilaya ya Laikipia",
-      "ur": "لائکی پیا کاؤنٹی",
-      "vi": "Laikipia",
-      "ceb": "Laikipia",
-      "zh": "萊基皮亞郡",
-      "fa": "شهرستان لایکیپیا",
-      "ccp": "𑄣𑄭𑄇𑄨𑄛𑄨𑄠",
-      "hy": "Լայկիպիա"
-    },
-    "comments": null
-  },
-  "37": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Самбуру",
-      "de": "Samburu District",
-      "en": "Samburu",
-      "es": "Condado de Samburu",
-      "it": "Distretto di Samburu",
-      "ja": "サンブル (カウンティ)",
-      "ko": "삼부루 현",
-      "nb": "Samburu fylke",
-      "nl": "Samburu",
-      "sv": "Samburu",
-      "sw": "Wilaya ya Samburu",
-      "ur": "سامبورو کاؤنٹی",
-      "vi": "Samburu",
-      "ceb": "Samburu",
-      "zh": "桑布盧郡",
-      "ccp": "𑄥𑄟𑄴𑄝𑄪𑄢𑄪"
-    },
-    "comments": null
-  },
-  "45": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Вихига",
-      "de": "Vihiga District",
-      "en": "Vihiga",
-      "es": "Condado de Vihiga",
-      "ja": "ヴィヒガ (カウンティ)",
-      "ko": "비히가 현",
-      "nb": "Vihiga fylke",
-      "nl": "Vihiga",
-      "sv": "Vihiga",
-      "sw": "Wilaya ya Vihiga",
-      "ur": "ویہیگا کاؤنٹی",
-      "vi": "Vihiga",
-      "ceb": "Vihiga",
-      "zh": "韋希加郡",
-      "ccp": "𑄞𑄨𑄦𑄨𑄉"
-    },
-    "comments": null
-  },
-  "07": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Comtat de Garissa",
-      "de": "Garissa County",
-      "en": "Garissa",
-      "es": "Condado de Garissa",
-      "fr": "Garissa",
-      "it": "Contea di Garissa",
-      "ja": "ガリッサ (カウンティ)",
-      "ko": "가리사 현",
-      "nb": "Garissa (distrikt)",
-      "nl": "Garissa",
-      "sv": "Garissa (distrikt)",
-      "sw": "Wilaya ya Garissa",
-      "ur": "گاریسا کاؤنٹی",
-      "vi": "Garissa",
-      "ceb": "Garissa",
-      "zh": "加里薩郡",
-      "fa": "شهرستان گاریسا",
-      "ru": "Гарисса (округ)",
-      "ccp": "𑄉𑄢𑄨𑄥"
-    },
-    "comments": null
-  },
-  "21": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Districte de Lamu",
-      "en": "Lamu",
-      "es": "Condado de Lamu",
-      "fr": "Lamu",
-      "it": "Contea di Lamu",
-      "ja": "ラム (カウンティ)",
-      "ko": "라무 현",
-      "nb": "Lamu fylke",
-      "nl": "Lamu",
-      "sv": "Lamu",
-      "sw": "Wilaya ya Lamu",
-      "ur": "لامو کاؤنٹی",
-      "vi": "Lamu",
-      "ceb": "Lamu District",
-      "zh": "拉穆郡",
-      "fa": "شهرستان لامو",
-      "ccp": "𑄣𑄟𑄴𑄝𑄪"
-    },
-    "comments": null
-  },
-  "18": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "da": "Kitui",
-      "de": "Kitui County",
-      "en": "Kitui",
-      "es": "Condado de Kitui",
-      "fi": "Kituin piirikunta",
-      "ja": "キツイ (カウンティ)",
-      "ko": "키투이 현",
-      "nb": "Kitui fylke",
-      "nl": "Kitui",
-      "sv": "Kitui",
-      "sw": "Wilaya ya Kitui",
-      "ur": "کیتوئی کاؤنٹی",
-      "vi": "Kitui",
-      "ceb": "Kitui",
-      "zh": "基圖伊郡",
-      "fa": "شهرستان کیتوی",
-      "ccp": "𑄇𑄨𑄑𑄭𑄪",
-      "fr": "Comté de Kitui"
-    },
-    "comments": null
-  },
-  "01": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Baringo County",
-      "en": "Baringo",
-      "es": "Condado de Baringo",
-      "ja": "バリンゴ (カウンティ)",
-      "ko": "바링고 현",
-      "nb": "Baringo fylke",
-      "nl": "Baringo",
-      "ru": "Баринго",
-      "sv": "Baringo",
-      "sw": "Wilaya ya Baringo",
-      "ur": "بارنگو کاؤنٹی",
-      "vi": "Baringo",
-      "zh": "巴林戈郡",
-      "ceb": "Baringo",
-      "fa": "شهرستان بارینگو",
-      "ccp": "𑄝𑄢𑄨𑄁𑄉𑄮"
-    },
-    "comments": null
-  },
-  "02": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Bomet County",
-      "en": "Bomet",
-      "es": "Condado de Bomet",
-      "ja": "ボメット (カウンティ)",
-      "ko": "보메트 현",
-      "nb": "Bomet (distrikt)",
-      "nl": "Bomet",
-      "sv": "Bomet (distrikt)",
-      "sw": "Wilaya ya Bomet",
-      "ur": "بومت کاؤنٹی",
-      "vi": "Bomet",
-      "ceb": "Bomet (lalawigan)",
-      "zh": "博美特郡",
-      "fa": "شهرستان بومت",
-      "ccp": "𑄝𑄧𑄟𑄬𑄖𑄴"
-    },
-    "comments": null
-  },
-  "03": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Bungoma County",
-      "en": "Bungoma",
-      "es": "Condado de Bungoma",
-      "fi": "Bungoman piirikunta",
-      "fr": "Bungoma (comté du Kenya)",
-      "ja": "ブンゴマ (カウンティ)",
-      "ko": "붕고마 현",
-      "nb": "Bungoma fylke",
-      "nl": "Bungoma County",
-      "sv": "Bungoma",
-      "sw": "Wilaya ya Bungoma",
-      "ur": "بونگوما کاؤنٹی",
-      "vi": "Bungoma",
-      "zh": "邦戈馬郡",
-      "fa": "شهرستان بونگوما",
-      "ccp": "𑄝𑄚𑄴𑄉𑄮𑄟"
-    },
-    "comments": null
-  },
-  "04": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Busia County",
-      "en": "Busia",
-      "es": "Condado de Busia",
-      "fr": "Busia",
-      "ja": "ブシア (カウンティ)",
-      "ko": "부시아 현",
-      "nb": "Busia fylke",
-      "nl": "Busia",
-      "ru": "Бусиа (округ, Кения)",
-      "sv": "Busia (distrikt i Kenya)",
-      "sw": "Wilaya ya Busia, Kenya",
-      "ur": "بوسیا کاؤنٹی",
-      "vi": "Busia",
-      "ceb": "Busia",
-      "zh": "布希亞郡",
-      "fa": "شهرستان بوسیا",
-      "ccp": "𑄝𑄨𑄅𑄪𑄥𑄨𑄠",
-      "ca": "Busia"
-    },
-    "comments": null
-  },
-  "05": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Elgeyo-Marakwet County",
-      "en": "Elgeyo-Marakwet",
-      "es": "Condado de Elgeyo-Marakwet",
-      "ko": "엘게요마라퀘트 현",
-      "nb": "Elgeyo-Marakwet fylke",
-      "nl": "Elgeyo-Marakwet County",
-      "ur": "ایلگیو-ماراکوت کاؤنٹی",
-      "zh": "埃爾格約-馬拉奎特郡",
-      "ccp": "𑄃𑄬𑄣𑄴𑄉𑄬𑄃𑄮-𑄟𑄢𑄇𑄴𑄤𑄬𑄖𑄴"
-    },
-    "comments": null
-  },
-  "06": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Embu County",
-      "en": "Embu",
-      "es": "Condado de Embu",
-      "fi": "Embun piirikunta",
-      "it": "Contea di Embu",
-      "ja": "エンブ (カウンティ)",
-      "ko": "엠부 현",
-      "nb": "Embu fylke",
-      "nl": "Embu",
-      "sv": "Embu (distrikt)",
-      "sw": "Wilaya ya Embu",
-      "ur": "عمبو کاؤنٹی",
-      "vi": "Embu",
-      "ceb": "Embu (lalawigan)",
-      "zh": "恩布郡",
-      "fa": "شهرستان امبو",
-      "ccp": "𑄃𑄬𑄟𑄴𑄝𑄪"
-    },
-    "comments": null
-  },
-  "08": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Homa Bay County",
-      "en": "Homa Bay",
-      "fr": "Homa Bay (district du Kenya)",
-      "ja": "ホマ・ベイ (カウンティ)",
-      "ko": "호마베이 현",
-      "nb": "Homa Bay fylke",
-      "nl": "Homa Bay",
-      "sv": "Homa Bay (distrikt)",
-      "sw": "Wilaya ya Homa Bay",
-      "ur": "ہوما بے کاؤنٹی",
-      "vi": "Homa Bay",
-      "ceb": "Homa Bay (lalawigan)",
-      "zh": "霍馬灣郡",
-      "fa": "شهرستان خلیج هوما",
-      "pl": "Wilaya ya Homa Bay",
-      "ccp": "𑄦𑄮𑄟 𑄝𑄬",
-      "es": "Condado de Homa Bay"
-    },
-    "comments": null
-  },
-  "09": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Isiolo County",
-      "en": "Isiolo",
-      "es": "Condado de Isiolo",
-      "it": "Contea di Isiolo",
-      "ja": "イシオロ (カウンティ)",
-      "ko": "이시올로 현",
-      "nb": "Isiolo fylke",
-      "nl": "Isiolo",
-      "sv": "Isiolo",
-      "sw": "Wilaya ya Isiolo",
-      "ur": "اسیولو کاؤنٹی",
-      "vi": "Isiolo",
-      "ceb": "Isiolo",
-      "zh": "伊希約洛郡",
-      "fa": "شهرستان ایسیولو",
-      "ccp": "𑄃𑄭𑄥𑄨𑄃𑄮𑄣𑄮"
-    },
-    "comments": null
-  },
-  "10": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kajiado County",
-      "en": "Kajiado",
-      "es": "Condado de Kajiado",
-      "ja": "カジアド (カウンティ)",
-      "ko": "카지아도 현",
-      "nb": "Kajiado fylke",
-      "nl": "Kajiado",
-      "pt": "Distrito de Kajiado",
-      "sv": "Kajiado",
-      "sw": "Wilaya ya Kajiado",
-      "ur": "کاجیادو کاؤنٹی",
-      "vi": "Kajiado",
-      "ceb": "Kajiado (lalawigan)",
-      "zh": "卡耶亞多郡",
-      "fa": "شهرستان کاجیادو",
-      "ccp": "𑄇𑄎𑄨𑄠𑄓𑄮",
-      "fr": "Kajiado (comté du Kenya)"
-    },
-    "comments": null
-  },
-  "11": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kakamega County",
-      "en": "Kakamega",
-      "es": "Condado de Kakamega",
-      "fi": "Kakamegan piirikunta",
-      "fr": "Kakamega",
-      "ja": "カカメガ (カウンティ)",
-      "ko": "카카메가 현",
-      "nb": "Kakamega fylke",
-      "nl": "Kakamega",
-      "sv": "Kakamega (distrikt)",
-      "sw": "Wilaya ya Kakamega",
-      "ur": "کاکامیگا کاؤنٹی",
-      "vi": "Kakamega",
-      "ceb": "Kakamega",
-      "zh": "卡卡梅加郡",
-      "fa": "شهرستان کاکامگا",
-      "ccp": "𑄇𑄇𑄟𑄬𑄉"
-    },
-    "comments": null
-  },
-  "12": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kericho County",
-      "en": "Kericho",
-      "es": "Condado de Kericho",
-      "fi": "Kerichon piirikunta",
-      "ja": "ケリチョ (カウンティ)",
-      "ko": "케리초 현",
-      "nb": "Kericho fylke",
-      "nl": "Kericho",
-      "sv": "Kericho (distrikt)",
-      "sw": "Wilaya ya Kericho",
-      "ur": "کیریچو کاؤنٹی",
-      "vi": "Kericho",
-      "ceb": "Kericho",
-      "zh": "凱里喬郡",
-      "fa": "شهرستان کریچو",
-      "ccp": "𑄇𑄬𑄢𑄨𑄌𑄮"
-    },
-    "comments": null
-  },
-  "13": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kiambu County",
-      "en": "Kiambu",
-      "es": "Condado de Kiambu",
-      "fi": "Kiambun piirikunta",
-      "it": "Distretto di Kiambu",
-      "ja": "キアンブ (カウンティ)",
-      "ko": "키암부 현",
-      "nb": "Kiambu fylke",
-      "nl": "Kiambu",
-      "sv": "Kiambu",
-      "sw": "Wilaya ya Kiambu",
-      "ur": "کیامبو کاؤنٹی",
-      "vi": "Kiambu",
-      "ceb": "Kiambu",
-      "zh": "基安布郡",
-      "fa": "شهرستان کیامبو",
-      "ccp": "𑄇𑄨𑄠𑄟𑄴𑄝𑄪"
-    },
-    "comments": null
-  },
-  "14": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kilifi County",
-      "en": "Kilifi",
-      "es": "Distrito de Kilifi",
-      "fi": "Kilifin piirikunta",
-      "fr": "Kilifi",
-      "it": "Distretto di Kilifi",
-      "ja": "キリフィ (カウンティ)",
-      "ko": "킬리피 현",
-      "nb": "Kilifi fylke",
-      "nl": "Kilifi",
-      "sv": "Kilifi (distrikt)",
-      "sw": "Wilaya ya Kilifi",
-      "ur": "کیلیفی کاؤنٹی",
-      "vi": "Kilifi",
-      "ceb": "Kilifi",
-      "zh": "基利菲县",
-      "fa": "شهرستان کیلیفی",
-      "ccp": "𑄇𑄨𑄣𑄨𑄜𑄨"
-    },
-    "comments": null
-  },
-  "15": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kirinyaga County",
-      "en": "Kirinyaga",
-      "es": "Condado de Kirinyaga",
-      "fi": "Kirinyagan piirikunta",
-      "it": "Distretto di Kirinyaga",
-      "ja": "キリーニャガ (カウンティ)",
-      "ko": "키리니아가 현",
-      "nb": "Kirinyaga fylke",
-      "nl": "Kirinyaga",
-      "sv": "Kirinyaga",
-      "sw": "Wilaya ya Kirinyaga",
-      "ur": "کیرینیاگا کاؤنٹی",
-      "ceb": "Kirinyaga",
-      "zh": "基里尼亞加郡",
-      "fa": "شهرستان کیرینیاگا",
-      "ccp": "𑄇𑄨𑄢𑄨𑄚𑄨𑄠𑄉",
-      "he": "קריניאגה"
-    },
-    "comments": null
-  },
-  "16": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kisii County",
-      "en": "Kisii",
-      "fi": "Kisiin piirikunta",
-      "fr": "Kisii",
-      "ja": "キシイ県",
-      "ko": "키시 현",
-      "nb": "Kisii (distrikt)",
-      "nl": "Kisii",
-      "pt": "Kisii (distrito)",
-      "ro": "Kisii",
-      "ru": "Кисии",
-      "sv": "Kisii (distrikt)",
-      "sw": "Wilaya ya Kisii Kati",
-      "ur": "کیسیی کاؤنٹی",
-      "ceb": "Kisii",
-      "zh": "基西郡",
-      "fa": "شهرستان کیسی",
-      "ccp": "𑄇𑄨𑄥𑄳𑄦𑄨",
-      "es": "Condado de Kisii"
-    },
-    "comments": null
-  },
-  "19": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Kwale County",
-      "en": "Kwale",
-      "es": "Condado de Kwale",
-      "fr": "Kwale",
-      "it": "Distretto di Kwale",
-      "ja": "クワレ (カウンティ)",
-      "ko": "콸레 현",
-      "nb": "Kwale fylke",
-      "nl": "Kwale",
-      "sv": "Kwale",
-      "sw": "Wilaya ya Kwale",
-      "ur": "کوالے کاؤنٹی",
-      "vi": "Kwale",
-      "ceb": "Kwale",
-      "zh": "夸勒郡",
-      "fa": "شهرستان کوالی",
-      "ccp": "𑄇𑄬𑄤𑄣𑄬"
-    },
-    "comments": null
-  },
-  "22": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Machakos District",
-      "en": "Machakos",
-      "es": "Condado de Machakos",
-      "fi": "Machakosin piirikunta",
-      "ja": "マチャコス (カウンティ)",
-      "ko": "마차코스 현",
-      "nb": "Machakos fylke",
-      "nl": "Machakos",
-      "sv": "Machakos (distrikt)",
-      "sw": "Wilaya ya Machakos",
-      "ur": "ماچاکوس کاؤنٹی",
-      "vi": "Machakos",
-      "ceb": "Machakos (kapital sa lalawigan)",
-      "zh": "馬查科斯郡",
-      "fa": "شهرستان ماچاکوس",
-      "ccp": "𑄟𑄳𑄠𑄌𑄇𑄮𑄌𑄴"
-    },
-    "comments": null
-  },
-  "23": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Makueni District",
-      "en": "Makueni",
-      "es": "Condado de Makueni",
-      "ja": "マクエニ (カウンティ)",
-      "ko": "마쿠에니 현",
-      "nb": "Makueni fylke",
-      "nl": "Makueni",
-      "sv": "Makueni",
-      "sw": "Wilaya ya Makueni",
-      "ur": "ماکوینی کاؤنٹی",
-      "vi": "Makueni",
-      "ceb": "Makueni",
-      "zh": "馬瓜尼郡",
-      "ccp": "𑄟𑄇𑄪𑄠𑄬𑄚𑄨",
-      "fr": "Makueni"
-    },
-    "comments": null
-  },
-  "24": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Mandera District",
-      "en": "Mandera",
-      "es": "Condado de Mandera",
-      "fi": "Manderan piirikunta",
-      "it": "Contea di Mandera",
-      "ja": "マンデラ (カウンティ)",
-      "ko": "만데라 현",
-      "nb": "Mandera fylke",
-      "nl": "Mandera",
-      "sv": "Mandera",
-      "sw": "Wilaya ya Mandera",
-      "ur": "ماندیرا کاؤنٹی",
-      "vi": "Mandera",
-      "ceb": "Mandera (lalawigan)",
-      "zh": "曼德拉郡",
-      "ccp": "𑄟𑄚𑄴𑄓𑄬𑄢"
-    },
-    "comments": null
-  },
-  "25": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Marsabit District",
-      "en": "Marsabit",
-      "es": "Marsabit",
-      "it": "Contea di Marsabit",
-      "ja": "マルサビット (カウンティ)",
-      "ko": "마르사비트 현",
-      "nb": "Marsabit fylke",
-      "nl": "Marsabit",
-      "pl": "Marsabit",
-      "sv": "Marsabit",
-      "sw": "Wilaya ya Marsabit",
-      "ur": "مارسابیت کاؤنٹی",
-      "vi": "Marsabit",
-      "ceb": "Marsabit",
-      "zh": "馬薩比特郡",
-      "fa": "شهرستان مارسابیت",
-      "ccp": "𑄟𑄢𑄴𑄥𑄝𑄨𑄖𑄴",
-      "fr": "Marsabit"
-    },
-    "comments": null
-  },
-  "27": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Migori District",
-      "en": "Migori",
-      "fr": "Migori",
-      "ja": "ミゴリ (カウンティ)",
-      "ko": "미고리 현",
-      "nb": "Migori fylke",
-      "nl": "Migori",
-      "pt": "Migori",
-      "sv": "Migori",
-      "sw": "Wilaya ya Migori",
-      "ur": "میگوری کاؤنٹی",
-      "vi": "Migori",
-      "ceb": "Migori (lalawigan)",
-      "zh": "米戈利郡",
-      "ccp": "𑄟𑄨𑄉𑄮𑄢𑄨",
-      "es": "Condado de Migori",
-      "uk": "Мігорі (округ)"
-    },
-    "comments": null
-  },
-  "28": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Mombasa District",
-      "en": "Mombasa",
-      "es": "Condado de Mombasa",
-      "fi": "Mombasan piirikunta",
-      "fr": "Mombasa District",
-      "it": "Contea di Mombasa",
-      "ja": "モンバサ (カウンティ)",
-      "ko": "몸바사 현",
-      "nb": "Mombasa fylke",
-      "nl": "Mombasa District",
-      "ru": "Момбаса",
-      "sw": "Wilaya ya Mombasa",
-      "ur": "ممباسا کاؤنٹی",
-      "vi": "Mombasa",
-      "ceb": "Mombasa",
-      "zh": "蒙巴萨县",
-      "ccp": "𑄟𑄧𑄟𑄴𑄝𑄥",
-      "pt": "Condado de Mombaça",
-      "be": "Мамбаса"
-    },
-    "comments": null
-  },
-  "29": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Murang’a District",
-      "en": "Murang’a",
-      "es": "Condado de Muranga",
-      "fi": "Murangan piirikunta",
-      "it": "Distretto di Muranga",
-      "ja": "ムランガ (カウンティ)",
-      "ko": "무랑가 현",
-      "nl": "Muranga",
-      "sv": "Muranga",
-      "sw": "Wilaya ya Murang’a",
-      "ur": "مورانگا کاؤنٹی",
-      "vi": "Murang’a",
-      "ceb": "Murang’A",
-      "zh": "穆蘭卡郡",
-      "ru": "Муранга",
-      "ccp": "𑄟𑄪𑄢𑄁‘𑄃"
+      "uk": "Округ Найробі",
+      "no": "Nairobi fylke"
     },
     "comments": null
   },
   "31": {
-    "name": null,
+    "name": "Nakuru",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1201,12 +1061,13 @@
       "zh": "納庫魯郡",
       "ccp": "𑄚𑄇𑄪𑄢𑄪",
       "hy": "Նակուրու շրջան",
-      "uk": "округ Накуру"
+      "uk": "округ Накуру",
+      "no": "Nakuru fylke"
     },
     "comments": null
   },
   "32": {
-    "name": null,
+    "name": "Nandi",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1236,12 +1097,13 @@
       "ceb": "Nandi North District",
       "zh": "南迪郡",
       "ccp": "𑄚𑄚𑄴𑄓𑄨",
-      "he": "מחוז ננדי"
+      "he": "מחוז ננדי",
+      "no": "Nandi fylke"
     },
     "comments": null
   },
   "33": {
-    "name": null,
+    "name": "Narok",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1266,12 +1128,13 @@
       "vi": "Narok",
       "ceb": "Narok",
       "zh": "納羅克郡",
-      "ccp": "𑄚𑄢𑄮𑄇𑄴"
+      "ccp": "𑄚𑄢𑄮𑄇𑄴",
+      "no": "Narok fylke"
     },
     "comments": null
   },
   "34": {
-    "name": null,
+    "name": "Nyamira",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1297,12 +1160,13 @@
       "ceb": "Nyamira (lalawigan)",
       "zh": "尼亞米拉郡",
       "ccp": "𑄚𑄨𑄠𑄟𑄨𑄢",
-      "es": "Condado de Nyamira"
+      "es": "Condado de Nyamira",
+      "no": "Nyamira fylke"
     },
     "comments": null
   },
   "35": {
-    "name": null,
+    "name": "Nyandarua",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1330,12 +1194,13 @@
       "vi": "Nyandarua",
       "ceb": "Nyandarua (lalawigan sa Kenya)",
       "zh": "年達魯阿郡",
-      "ccp": "𑄚𑄠𑄚𑄴𑄓𑄢𑄪𑄠"
+      "ccp": "𑄚𑄠𑄚𑄴𑄓𑄢𑄪𑄠",
+      "no": "Nyandarua fylke"
     },
     "comments": null
   },
   "36": {
-    "name": null,
+    "name": "Nyeri",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1365,12 +1230,46 @@
       "ceb": "Nyeri (lalawigan)",
       "zh": "涅里郡",
       "ccp": "𑄚𑄨𑄠𑄢𑄨",
-      "be": "акруга Ньеры"
+      "be": "акруга Ньеры",
+      "no": "Nyeri fylke"
+    },
+    "comments": null
+  },
+  "37": {
+    "name": "Samburu",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Самбуру",
+      "de": "Samburu District",
+      "en": "Samburu",
+      "es": "Condado de Samburu",
+      "it": "Distretto di Samburu",
+      "ja": "サンブル (カウンティ)",
+      "ko": "삼부루 현",
+      "nb": "Samburu fylke",
+      "nl": "Samburu",
+      "sv": "Samburu",
+      "sw": "Wilaya ya Samburu",
+      "ur": "سامبورو کاؤنٹی",
+      "vi": "Samburu",
+      "ceb": "Samburu",
+      "zh": "桑布盧郡",
+      "ccp": "𑄥𑄟𑄴𑄝𑄪𑄢𑄪",
+      "no": "Samburu fylke"
     },
     "comments": null
   },
   "38": {
-    "name": null,
+    "name": "Siaya",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1397,12 +1296,43 @@
       "vi": "Siaya",
       "ceb": "Siaya",
       "zh": "夏亞郡",
-      "ccp": "𑄥𑄨𑄠𑄳𑄦"
+      "ccp": "𑄥𑄨𑄠𑄳𑄦",
+      "no": "Siaya fylke"
+    },
+    "comments": null
+  },
+  "39": {
+    "name": "Taita-Taveta",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Taita-Taveta",
+      "es": "Taita-Taveta",
+      "fr": "Taita-Taveta",
+      "it": "Contea di Taita-Taveta",
+      "ko": "타이타타베타 현",
+      "nb": "Taita-Taveta fylke",
+      "nl": "Taita Taveta",
+      "sv": "Taita-Taveta",
+      "sw": "Wilaya ya Taita-Taveta",
+      "ur": "تائتا-تاویتا کاؤنٹی",
+      "ceb": "Taita Taveta",
+      "zh": "泰塔塔維塔郡",
+      "ccp": "𑄑𑄭𑄑-𑄑𑄞𑄬𑄑",
+      "no": "Taita-Taveta fylke"
     },
     "comments": null
   },
   "40": {
-    "name": null,
+    "name": "Tana River",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1428,12 +1358,43 @@
       "vi": "Tana River",
       "ceb": "Tana River",
       "zh": "塔納河郡",
-      "ccp": "𑄑𑄚𑄴 𑄢𑄨𑄞𑄢𑄴"
+      "ccp": "𑄑𑄚𑄴 𑄢𑄨𑄞𑄢𑄴",
+      "no": "Tana River fylke"
+    },
+    "comments": null
+  },
+  "41": {
+    "name": "Tharaka-Nithi",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Tharaka-Nithi",
+      "es": "Condado de Tharaka-Nithi",
+      "it": "Contea di Tharaka-Nithi",
+      "ko": "타라카니티 현",
+      "nb": "Tharaka-Nithi fylke",
+      "nl": "Tharaka-Nithi",
+      "sv": "Tharaka",
+      "sw": "Wilaya ya Tharaka",
+      "ur": "تھاراکا-نیتھی کاؤنٹی",
+      "vi": "Tharaka",
+      "ceb": "Tharaka - Nithi",
+      "zh": "薩拉卡尼蒂郡",
+      "ccp": "𑄗𑄢𑄇-𑄚𑄨𑄗𑄨",
+      "no": "Tharaka-Nithi fylke"
     },
     "comments": null
   },
   "42": {
-    "name": null,
+    "name": "Trans-Nzoia",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1460,12 +1421,13 @@
       "vi": "Trans Nzoia",
       "ceb": "Trans Nzoia",
       "zh": "特蘭斯-恩佐亞郡",
-      "ccp": "𑄑𑄳𑄢𑄚𑄴𑄥𑄴 𑄎𑄮𑄃𑄨𑄠"
+      "ccp": "𑄑𑄳𑄢𑄚𑄴𑄥𑄴 𑄎𑄮𑄃𑄨𑄠",
+      "no": "Trans-Nzoia fylke"
     },
     "comments": null
   },
   "43": {
-    "name": null,
+    "name": "Turkana",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1494,12 +1456,13 @@
       "zh": "圖爾卡納郡",
       "ccp": "𑄑𑄪𑄢𑄴𑄇𑄚",
       "fr": "Turkana",
-      "id": "Kabupaten Turkana"
+      "id": "Kabupaten Turkana",
+      "no": "Turkana"
     },
     "comments": null
   },
   "44": {
-    "name": null,
+    "name": "Uasin Gishu",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1526,12 +1489,45 @@
       "vi": "Uasin Gishu",
       "ceb": "Uasin Gishu",
       "zh": "瓦辛基蘇郡",
-      "ccp": "𑄅𑄪𑄠𑄥𑄨𑄚𑄴 𑄉𑄨𑄥𑄪"
+      "ccp": "𑄅𑄪𑄠𑄥𑄨𑄚𑄴 𑄉𑄨𑄥𑄪",
+      "no": "Uasin Gishu fylke"
+    },
+    "comments": null
+  },
+  "45": {
+    "name": "Vihiga",
+    "code": null,
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Вихига",
+      "de": "Vihiga District",
+      "en": "Vihiga",
+      "es": "Condado de Vihiga",
+      "ja": "ヴィヒガ (カウンティ)",
+      "ko": "비히가 현",
+      "nb": "Vihiga fylke",
+      "nl": "Vihiga",
+      "sv": "Vihiga",
+      "sw": "Wilaya ya Vihiga",
+      "ur": "ویہیگا کاؤنٹی",
+      "vi": "Vihiga",
+      "ceb": "Vihiga",
+      "zh": "韋希加郡",
+      "ccp": "𑄞𑄨𑄦𑄨𑄉",
+      "no": "Vihiga fylke"
     },
     "comments": null
   },
   "46": {
-    "name": null,
+    "name": "Wajir",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1557,12 +1553,13 @@
       "vi": "Wajir",
       "ceb": "Wajir",
       "zh": "瓦吉爾郡",
-      "ccp": "𑄤𑄎𑄨𑄢𑄴"
+      "ccp": "𑄤𑄎𑄨𑄢𑄴",
+      "no": "Wajir fylke"
     },
     "comments": null
   },
   "47": {
-    "name": null,
+    "name": "West Pokot",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1587,95 +1584,8 @@
       "vi": "West Pokot",
       "ceb": "West Pokot",
       "zh": "西波克特郡",
-      "ccp": "𑄤𑄠𑄬𑄌𑄴 𑄛𑄧𑄇𑄮𑄖𑄴"
-    },
-    "comments": null
-  },
-  "26": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Meru",
-      "es": "Condado de Meru",
-      "fi": "Merun piirikunta",
-      "it": "Contea di Meru",
-      "ja": "メルー (カウンティ)",
-      "ko": "메루 현",
-      "nb": "Meru fylke",
-      "nl": "Meru County",
-      "sv": "Meru (län)",
-      "ur": "میرو کاؤنٹی",
-      "ceb": "Meru",
-      "zh": "梅魯郡",
-      "sw": "Kaunti ya Meru",
-      "ccp": "𑄟𑄬𑄢𑄪"
-    },
-    "comments": null
-  },
-  "39": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Taita-Taveta",
-      "es": "Taita-Taveta",
-      "fr": "Taita-Taveta",
-      "it": "Contea di Taita-Taveta",
-      "ko": "타이타타베타 현",
-      "nb": "Taita-Taveta fylke",
-      "nl": "Taita Taveta",
-      "sv": "Taita-Taveta",
-      "sw": "Wilaya ya Taita-Taveta",
-      "ur": "تائتا-تاویتا کاؤنٹی",
-      "ceb": "Taita Taveta",
-      "zh": "泰塔塔維塔郡",
-      "ccp": "𑄑𑄭𑄑-𑄑𑄞𑄬𑄑"
-    },
-    "comments": null
-  },
-  "41": {
-    "name": null,
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Tharaka-Nithi",
-      "es": "Condado de Tharaka-Nithi",
-      "it": "Contea di Tharaka-Nithi",
-      "ko": "타라카니티 현",
-      "nb": "Tharaka-Nithi fylke",
-      "nl": "Tharaka-Nithi",
-      "sv": "Tharaka",
-      "sw": "Wilaya ya Tharaka",
-      "ur": "تھاراکا-نیتھی کاؤنٹی",
-      "vi": "Tharaka",
-      "ceb": "Tharaka - Nithi",
-      "zh": "薩拉卡尼蒂郡",
-      "ccp": "𑄗𑄢𑄇-𑄚𑄨𑄗𑄨"
+      "ccp": "𑄤𑄠𑄬𑄌𑄴 𑄛𑄧𑄇𑄮𑄖𑄴",
+      "no": "West Pokot"
     },
     "comments": null
   }

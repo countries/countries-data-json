@@ -52,7 +52,8 @@
       "zh": "中央大区 (斐济)",
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "uk": "Центральний округ",
-      "ca": "Divisió Central"
+      "ca": "Divisió Central",
+      "no": "Central"
     },
     "comments": null
   },
@@ -108,7 +109,8 @@
       "zh": "东部大区",
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "uk": "Східний округ",
-      "ca": "Divisió Est"
+      "ca": "Divisió Est",
+      "no": "Eastern"
     },
     "comments": null
   },
@@ -164,7 +166,8 @@
       "zh": "北部大区",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "uk": "Північний округ",
-      "ca": "Divisió Nord"
+      "ca": "Divisió Nord",
+      "no": "Northern"
     },
     "comments": null
   },
@@ -232,7 +235,9 @@
       "ccp": "𑄢𑄧𑄑𑄨𑄅𑄪𑄟",
       "yo": "Rotuma",
       "mk": "Ротума",
-      "bg": "Ротума"
+      "bg": "Ротума",
+      "no": "Rotuma",
+      "yo_BJ": "Rotuma"
     },
     "comments": null
   },
@@ -288,12 +293,13 @@
       "zh": "西部大区",
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "uk": "Західний округ",
-      "ca": "Divisió Oest"
+      "ca": "Divisió Oest",
+      "no": "Western"
     },
     "comments": null
   },
   "03": {
-    "name": null,
+    "name": "Cakaudrove",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -321,12 +327,13 @@
       "vi": "Cakaudrove",
       "ceb": "Thakaundrove Province",
       "zh": "卡考德罗韦省",
-      "ccp": "𑄇𑄬𑄇𑄅𑄪𑄓𑄳𑄢𑄮𑄛𑄴"
+      "ccp": "𑄇𑄬𑄇𑄅𑄪𑄓𑄳𑄢𑄮𑄛𑄴",
+      "no": "Cakaudrove Province"
     },
     "comments": null
   },
   "14": {
-    "name": null,
+    "name": "Tailevu",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -355,12 +362,13 @@
       "ceb": "Tailevu Province",
       "zh": "泰萊武省",
       "ccp": "𑄑𑄭𑄣𑄬𑄞𑄪",
-      "nb": "Tailevu Province"
+      "nb": "Tailevu Province",
+      "no": "Tailevu Province"
     },
     "comments": null
   },
   "01": {
-    "name": null,
+    "name": "Ba",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -392,12 +400,13 @@
       "zh": "巴省",
       "ceb": "Ba Province",
       "ar": "با",
-      "ccp": "𑄝"
+      "ccp": "𑄝",
+      "no": "Ba Province"
     },
     "comments": null
   },
   "02": {
-    "name": null,
+    "name": "Bua",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -426,12 +435,13 @@
       "zh": "布阿省",
       "ru": "Мбуа",
       "ccp": "𑄝𑄱",
-      "nb": "Bua Province"
+      "nb": "Bua Province",
+      "no": "Bua Province"
     },
     "comments": null
   },
   "04": {
-    "name": null,
+    "name": "Kadavu",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -458,12 +468,13 @@
       "zh": "坎達武省",
       "ru": "Кандаву",
       "ccp": "𑄇𑄧𑄓𑄞𑄪",
-      "nb": "Kadavu Province"
+      "nb": "Kadavu Province",
+      "no": "Kadavu Province"
     },
     "comments": null
   },
   "05": {
-    "name": null,
+    "name": "Lau",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -490,12 +501,13 @@
       "ceb": "Lau Province",
       "zh": "劳省",
       "ru": "Лау",
-      "ccp": "𑄣𑄅𑄪"
+      "ccp": "𑄣𑄅𑄪",
+      "no": "Lau Province"
     },
     "comments": null
   },
   "06": {
-    "name": null,
+    "name": "Lomaiviti",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -524,12 +536,13 @@
       "ru": "Ломаивичи",
       "ccp": "𑄣𑄮𑄟𑄭𑄞𑄨𑄑𑄨",
       "uk": "Ломаївіті",
-      "nb": "Lomaiviti Province"
+      "nb": "Lomaiviti Province",
+      "no": "Lomaiviti Province"
     },
     "comments": null
   },
   "07": {
-    "name": null,
+    "name": "Macuata",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -557,12 +570,13 @@
       "ceb": "Mathuata Province",
       "zh": "馬庫阿塔省",
       "ccp": "𑄟𑄳𑄠𑄇𑄱𑄑",
-      "nb": "Macuata Province"
+      "nb": "Macuata Province",
+      "no": "Macuata Province"
     },
     "comments": null
   },
   "08": {
-    "name": null,
+    "name": "Nadroga-Navosa",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -591,12 +605,13 @@
       "ceb": "Nandronga and Navosa Province",
       "zh": "那德羅加諾沃薩省",
       "ru": "Нандронга-Навоса (провинция)",
-      "ccp": "𑄚𑄓𑄳𑄢𑄮𑄉-𑄚𑄞𑄮𑄥"
+      "ccp": "𑄚𑄓𑄳𑄢𑄮𑄉-𑄚𑄞𑄮𑄥",
+      "no": "Nadroga-Navosa Province"
     },
     "comments": null
   },
   "09": {
-    "name": null,
+    "name": "Naitasiri",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -625,12 +640,13 @@
       "ceb": "Naitasiri Province",
       "zh": "奈塔西里省",
       "ccp": "𑄚𑄭𑄑𑄥𑄨𑄢𑄨",
-      "nb": "Naitasiri Province"
+      "nb": "Naitasiri Province",
+      "no": "Naitasiri Province"
     },
     "comments": null
   },
   "10": {
-    "name": null,
+    "name": "Namosi",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -658,12 +674,13 @@
       "ceb": "Namosi Province",
       "zh": "納莫西省",
       "ccp": "𑄚𑄟𑄮𑄥𑄨",
-      "nb": "Namosi Province"
+      "nb": "Namosi Province",
+      "no": "Namosi Province"
     },
     "comments": null
   },
   "11": {
-    "name": null,
+    "name": "Ra",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -693,12 +710,13 @@
       "zh": "拉省",
       "ru": "Ра",
       "ccp": "𑄢",
-      "nb": "Ra Province"
+      "nb": "Ra Province",
+      "no": "Ra Province"
     },
     "comments": null
   },
   "12": {
-    "name": null,
+    "name": "Rewa",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -727,12 +745,13 @@
       "vi": "Rewa",
       "ceb": "Rewa Province",
       "zh": "雷瓦省",
-      "ccp": "𑄢𑄬𑄤"
+      "ccp": "𑄢𑄬𑄤",
+      "no": "Rewa Province"
     },
     "comments": null
   },
   "13": {
-    "name": null,
+    "name": "Serua",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -762,7 +781,8 @@
       "ceb": "Serua Province",
       "zh": "塞魯阿省",
       "ccp": "𑄥𑄬𑄢𑄪𑄠",
-      "nb": "Serua Province"
+      "nb": "Serua Province",
+      "no": "Serua Province"
     },
     "comments": null
   }

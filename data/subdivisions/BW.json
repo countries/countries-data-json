@@ -56,7 +56,8 @@
       "ceb": "Central District (distrito sa Botswana)",
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "ca": "Districte Central",
-      "mk": "Централен округ"
+      "mk": "Централен округ",
+      "no": "Central"
     },
     "comments": null
   },
@@ -120,7 +121,8 @@
       "zh": "杭濟區",
       "ccp": "𑄊𑄚𑄴𑄎𑄨",
       "ca": "Districte de Ghanzi",
-      "mk": "Ганзи"
+      "mk": "Ганзи",
+      "no": "Ghanzi"
     },
     "comments": null
   },
@@ -181,7 +183,8 @@
       "zh": "卡拉哈迪區",
       "ccp": "𑄉𑄣𑄉𑄓𑄨",
       "ca": "Districte de Kgalagadi",
-      "mk": "Кгалагади"
+      "mk": "Кгалагади",
+      "no": "Kgalagadi"
     },
     "comments": null
   },
@@ -243,7 +246,8 @@
       "zh": "卡特倫區",
       "ccp": "𑄉𑄖𑄴𑄣𑄬𑄁",
       "ca": "Districte de Kgatleng",
-      "mk": "Кгатленг"
+      "mk": "Кгатленг",
+      "no": "Kgatleng"
     },
     "comments": null
   },
@@ -304,7 +308,8 @@
       "zh": "奎嫩區",
       "ccp": "𑄇𑄪𑄠𑄬𑄚𑄬𑄁",
       "ca": "Districte de Kweneng",
-      "mk": "Квененг"
+      "mk": "Квененг",
+      "no": "Kweneng"
     },
     "comments": null
   },
@@ -364,7 +369,8 @@
       "zh": "東北區",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄪𑄇𑄴",
       "ca": "Districte del Nord-est",
-      "mk": "Североисточен округ"
+      "mk": "Североисточен округ",
+      "no": "North-East"
     },
     "comments": null
   },
@@ -425,7 +431,8 @@
       "zh": "西北區",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴",
       "ca": "Districte del Nord-oest",
-      "mk": "Северозападен округ"
+      "mk": "Северозападен округ",
+      "no": "North-West"
     },
     "comments": null
   },
@@ -487,7 +494,8 @@
       "zh": "東南區",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄪𑄇𑄴",
       "ca": "Districte del Sud-est",
-      "mk": "Југоисточен округ"
+      "mk": "Југоисточен округ",
+      "no": "South-East"
     },
     "comments": null
   },
@@ -549,12 +557,13 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄮𑄘𑄨",
       "az": "Cənubi dairə",
       "ca": "Districte del Sud",
-      "mk": "Јужен округ"
+      "mk": "Јужен округ",
+      "no": "Southern"
     },
     "comments": null
   },
   "FR": {
-    "name": null,
+    "name": "Francistown",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -615,12 +624,13 @@
       "ccp": "𑄜𑄳𑄢𑄚𑄴𑄥𑄨𑄌𑄴𑄑𑄅𑄪𑄚𑄴",
       "cs": "Francistown",
       "ca": "Francistown",
-      "mk": "Франсистаун"
+      "mk": "Франсистаун",
+      "no": "Francistown"
     },
     "comments": null
   },
   "GA": {
-    "name": null,
+    "name": "Gaborone",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -709,12 +719,15 @@
       "zu": "IGaborone",
       "uz": "Gaborone",
       "bs": "Gaborone",
-      "mk": "Габороне"
+      "mk": "Габороне",
+      "ha_NE": "Gaborone",
+      "no": "Gaborone",
+      "yo_BJ": "Gaborone"
     },
     "comments": null
   },
   "JW": {
-    "name": null,
+    "name": "Jwaneng",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -767,12 +780,13 @@
       "ccp": "𑄎𑄳𑄝𑄧𑄚𑄬𑄁",
       "uk": "Джваненг",
       "az": "Cvanenq",
-      "ca": "Jwaneng"
+      "ca": "Jwaneng",
+      "no": "Jwaneng"
     },
     "comments": null
   },
   "LO": {
-    "name": null,
+    "name": "Lobatse",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -828,12 +842,13 @@
       "zh": "洛巴策",
       "ccp": "𑄢𑄧𑄝𑄖𑄴𑄥𑄬",
       "uk": "Лобаце",
-      "ca": "Lobatse"
+      "ca": "Lobatse",
+      "no": "Lobatse"
     },
     "comments": null
   },
   "SP": {
-    "name": null,
+    "name": "Selibe Phikwe",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -886,12 +901,13 @@
       "lv": "Selebi-Phikve",
       "ceb": "Selebi-Phikwe",
       "zh": "塞莱比-皮奎",
-      "ccp": "𑄥𑄬𑄣𑄨𑄝𑄬 𑄜𑄨𑄇𑄮𑄠𑄬"
+      "ccp": "𑄥𑄬𑄣𑄨𑄝𑄬 𑄜𑄨𑄇𑄮𑄠𑄬",
+      "no": "Selebi-Phikwe"
     },
     "comments": null
   },
   "ST": {
-    "name": null,
+    "name": "Sowa Town",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -940,12 +956,13 @@
       "lt": "Sova, Botsvana",
       "ccp": "𑄥𑄱 𑄑𑄅𑄪𑄚𑄴",
       "uk": "Сова",
-      "ca": "Sowa"
+      "ca": "Sowa",
+      "no": "Sowa"
     },
     "comments": null
   },
   "CH": {
-    "name": null,
+    "name": "Chobe",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -967,7 +984,8 @@
       "sv": "Chobe",
       "ur": "چوبے ضلع",
       "zh": "乔贝区",
-      "ccp": "𑄇𑄮𑄝𑄬"
+      "ccp": "𑄇𑄮𑄝𑄬",
+      "no": "Chobe"
     },
     "comments": null
   }

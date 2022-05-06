@@ -262,7 +262,8 @@
       "lt": "Barisalio apskritis",
       "zh": "巴里薩爾縣",
       "ccp": "𑄝𑄧𑄢𑄨𑄥𑄣𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
-      "ml": "ബാരിസൽ ജില്ല"
+      "ml": "ബാരിസൽ ജില്ല",
+      "no": "Barisal distrikt"
     },
     "comments": null
   },
@@ -879,7 +880,8 @@
       "el": "Επαρχία Τζαμαλπούρ",
       "ccp": "𑄎𑄟𑄣𑄴𑄛𑄪𑄢𑄴",
       "de": "Jamalpur (Distrikt)",
-      "ml": "ജമൽപുർ ജില്ല"
+      "ml": "ജമൽപുർ ജില്ല",
+      "no": "Jamalpur"
     },
     "comments": null
   },
@@ -2235,7 +2237,8 @@
       "ccp": "𑄢𑄌𑄴𑄥𑄦𑄨",
       "ml": "രാജ്ഷാഹി ജില്ല",
       "uk": "Район Раджшагі",
-      "or": "ରାଜସାହୀ ଜିଲ୍ଲା"
+      "or": "ରାଜସାହୀ ଜିଲ୍ଲା",
+      "no": "Rajshahi distrikt"
     },
     "comments": null
   },
@@ -2294,7 +2297,8 @@
       "lt": "Rangpuro apskritis",
       "zh": "朗布尔县",
       "ccp": "𑄢𑄧𑄁𑄛𑄪𑄢𑄴",
-      "ml": "രംഗ്പൂർ ജില്ല"
+      "ml": "രംഗ്പൂർ ജില്ല",
+      "no": "Ramgpur Distrikt"
     },
     "comments": null
   },
@@ -2514,7 +2518,8 @@
       "lt": "Sileto apskritis",
       "zh": "錫爾赫特縣",
       "ccp": "𑄥𑄨𑄣𑄬𑄖𑄴",
-      "ml": "സിൽഹെഡ് ജില്ല"
+      "ml": "സിൽഹെഡ് ജില്ല",
+      "no": "Sylhet distrikt"
     },
     "comments": null
   },
@@ -2680,7 +2685,7 @@
     "comments": null
   },
   "A": {
-    "name": null,
+    "name": "বরিশাল বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2726,12 +2731,13 @@
       "el": "Διαίρεση Μπαρισάλ",
       "ccp": "𑄝𑄧𑄢𑄨𑄥𑄣𑄴",
       "eu": "Barisal dibisioa",
-      "az": "Barisal (əyalət, Banqladeş)"
+      "az": "Barisal (əyalət, Banqladeş)",
+      "no": "Barisal"
     },
     "comments": null
   },
   "B": {
-    "name": null,
+    "name": "চট্টগ্রাম বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2779,12 +2785,13 @@
       "el": "Διαίρεση Τσιταγκόνγκ",
       "ccp": "𑄌𑄘𑄨𑄉𑄋𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
       "ro": "Chittagong²",
-      "eu": "Chittagong dibisioa"
+      "eu": "Chittagong dibisioa",
+      "no": "Chittagong"
     },
     "comments": null
   },
   "C": {
-    "name": null,
+    "name": "ঢাকা বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2841,12 +2848,13 @@
       "ccp": "𑄔𑄇 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
       "eu": "Dhaka dibisioa",
       "yue": "達卡專區",
-      "be": "Дака²"
+      "be": "Дака²",
+      "no": "Dhaka"
     },
     "comments": null
   },
   "D": {
-    "name": null,
+    "name": "খুলনা বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2900,12 +2908,13 @@
       "ceb": "Khulna Division",
       "zh": "庫爾納專區",
       "ccp": "𑄈𑄪𑄣𑄴𑄚 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
-      "eu": "Khulna dibisioa"
+      "eu": "Khulna dibisioa",
+      "no": "Khulna"
     },
     "comments": null
   },
   "F": {
-    "name": null,
+    "name": "রংপুর বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2948,12 +2957,13 @@
       "el": "Διαίρεση Ρανγκπούρ",
       "ccp": "𑄢𑄧𑄁𑄛𑄪𑄢𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
       "eu": "Rangpur dibisioa",
-      "ca": "Divisió de Rangpur"
+      "ca": "Divisió de Rangpur",
+      "no": "Rangpur"
     },
     "comments": null
   },
   "E": {
-    "name": null,
+    "name": "রাজশাহী বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2995,12 +3005,13 @@
       "zh": "拉傑沙希專區",
       "el": "Διαίρεση Ρατζσάχι",
       "ccp": "𑄢𑄌𑄴𑄥𑄦𑄨 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
-      "eu": "Rajshahi dibisioa"
+      "eu": "Rajshahi dibisioa",
+      "no": "Rajshahi"
     },
     "comments": null
   },
   "G": {
-    "name": null,
+    "name": "সিলেট বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -3042,12 +3053,13 @@
       "ceb": "Sylhet Division",
       "zh": "錫爾赫特專區",
       "ccp": "𑄥𑄨𑄣𑄬𑄖𑄴 𑄓𑄨𑄞𑄨𑄥𑄧𑄚𑄴",
-      "eu": "Sylhet dibisioa"
+      "eu": "Sylhet dibisioa",
+      "no": "Sylhet"
     },
     "comments": null
   },
   "H": {
-    "name": null,
+    "name": "ময়মনসিংহ বিভাগ",
     "code": null,
     "unofficial_names": null,
     "geo": {

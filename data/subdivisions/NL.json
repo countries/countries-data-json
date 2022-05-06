@@ -76,7 +76,8 @@
       "ga": "Drenthe",
       "so": "Drenthe",
       "yue": "德倫特",
-      "mk": "Дренте"
+      "mk": "Дренте",
+      "no": "Drenthe"
     },
     "comments": null
   },
@@ -157,7 +158,8 @@
       "ga": "Flevoland",
       "so": "Flevoland",
       "yue": "傅利禾蘭",
-      "mk": "Флеволанд"
+      "mk": "Флеволанд",
+      "no": "Flevoland"
     },
     "comments": null
   },
@@ -238,7 +240,8 @@
       "hy": "Ֆրիսլանդիա",
       "so": "Friesland",
       "yue": "菲士蘭",
-      "mk": "Фризија"
+      "mk": "Фризија",
+      "no": "Friesland"
     },
     "comments": null
   },
@@ -323,7 +326,8 @@
       "ga": "Gelderland",
       "so": "Gelderland",
       "yue": "希德蘭",
-      "mk": "Гелдерланд"
+      "mk": "Гелдерланд",
+      "no": "Gelderland"
     },
     "comments": null
   },
@@ -408,7 +412,8 @@
       "ga": "Groningen",
       "so": "Groningen",
       "yue": "古羅寧亨",
-      "mk": "Гронинген"
+      "mk": "Гронинген",
+      "no": "Groningen"
     },
     "comments": null
   },
@@ -489,7 +494,8 @@
       "ga": "Limburg",
       "so": "Limburg",
       "yue": "林堡",
-      "mk": "Лимбург"
+      "mk": "Лимбург",
+      "no": "Limburg"
     },
     "comments": null
   },
@@ -572,7 +578,8 @@
       "ga": "Brabant Thuaidh",
       "so": "Waqooyiga Brabant",
       "yue": "北布拉班",
-      "mk": "Северен Брабант"
+      "mk": "Северен Брабант",
+      "no": "Noord-Brabant"
     },
     "comments": null
   },
@@ -656,7 +663,8 @@
       "ga": "An Ollainn Thuaidh",
       "so": "Waqooyiga Holland",
       "yue": "北荷蘭",
-      "mk": "Северна Холандија"
+      "mk": "Северна Холандија",
+      "no": "Noord-Holland"
     },
     "comments": null
   },
@@ -737,7 +745,8 @@
       "ga": "Overijssel",
       "so": "Overijssel",
       "yue": "上艾修",
-      "mk": "Оверејсел"
+      "mk": "Оверејсел",
+      "no": "Overijssel"
     },
     "comments": null
   },
@@ -819,7 +828,8 @@
       "sl": "Utrecht",
       "yue": "宇德歷",
       "az": "Utrext vilayəti",
-      "mk": "Утрехт"
+      "mk": "Утрехт",
+      "no": "Utrecht"
     },
     "comments": null
   },
@@ -899,7 +909,8 @@
       "ga": "Zeeland",
       "so": "Zeeland",
       "yue": "西蘭",
-      "mk": "Зеланд"
+      "mk": "Зеланд",
+      "no": "Zeeland"
     },
     "comments": null
   },
@@ -983,12 +994,13 @@
       "ga": "An Ollainn Theas",
       "so": "Koofurta Holland",
       "yue": "南荷蘭",
-      "mk": "Јужна Холандија"
+      "mk": "Јужна Холандија",
+      "no": "Zuid-Holland"
     },
     "comments": null
   },
   "BQ1": {
-    "name": null,
+    "name": "Bonaire",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1063,12 +1075,14 @@
       "kk": "Бонэйр",
       "yue": "博奈爾島",
       "yo": "Bonaire",
-      "mk": "Бонер"
+      "mk": "Бонер",
+      "no": "Bonaire",
+      "yo_BJ": "Bonaire"
     },
     "comments": null
   },
   "BQ2": {
-    "name": null,
+    "name": "Saba",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1134,12 +1148,13 @@
       "kk": "Саба",
       "yue": "薩巴島",
       "bs": "Saba",
-      "mk": "Саба"
+      "mk": "Саба",
+      "no": "Saba"
     },
     "comments": null
   },
   "BQ3": {
-    "name": null,
+    "name": "Sint Eustatius",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1211,12 +1226,13 @@
       "pa": "ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ",
       "kk": "Синт-Эстатиус",
       "yue": "聖猶士坦島",
-      "mk": "Свети Евстахиј"
+      "mk": "Свети Евстахиј",
+      "no": "Sint Eustatius"
     },
     "comments": null
   },
   "AW": {
-    "name": null,
+    "name": "Aruba",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1234,7 +1250,7 @@
     "comments": null
   },
   "CW": {
-    "name": null,
+    "name": "Curaçao",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1252,7 +1268,7 @@
     "comments": null
   },
   "SX": {
-    "name": null,
+    "name": "Sint Maarten",
     "code": null,
     "unofficial_names": null,
     "geo": {

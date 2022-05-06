@@ -342,7 +342,7 @@
     "comments": null
   },
   "AB": {
-    "name": null,
+    "name": "Abidjan",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -431,12 +431,15 @@
       "yo": "Abidjan",
       "uz": "Abidjan",
       "bs": "Abidjan",
-      "mk": "Абиџан"
+      "mk": "Абиџан",
+      "ha_NE": "Abidjan",
+      "no": "Abidjan",
+      "yo_BJ": "Abidjan"
     },
     "comments": null
   },
   "YM": {
-    "name": null,
+    "name": "Yamoussoukro",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -526,12 +529,15 @@
       "yo": "Yamoussoukro",
       "uz": "Yamusukro",
       "bs": "Yamoussoukro",
-      "mk": "Јамусукро"
+      "mk": "Јамусукро",
+      "ha_NE": "Yamoussoukro",
+      "no": "Yamoussoukro",
+      "yo_BJ": "Yamoussoukro"
     },
     "comments": null
   },
   "BS": {
-    "name": null,
+    "name": "District du Bas-Sassandra",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -579,12 +585,13 @@
       "zh": "下薩桑德拉區",
       "ccp": "𑄝𑄌𑄴-𑄥𑄥𑄚𑄴𑄓𑄳𑄢",
       "ka": "ქვემო სასანდრა",
-      "uk": "Район Бас-Сассандра"
+      "uk": "Район Бас-Сассандра",
+      "no": "Bas-Sassandra distrikt"
     },
     "comments": null
   },
   "DN": {
-    "name": null,
+    "name": "Denguélé",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -632,12 +639,13 @@
       "lt": "Dengelės apskritis",
       "zh": "登蓋萊區",
       "ccp": "𑄓𑄬𑄚𑄴𑄉𑄪𑄠𑄬𑄣𑄬",
-      "ka": "დენგელეს ოლქი"
+      "ka": "დენგელეს ოლქი",
+      "no": "Denguele distrikt"
     },
     "comments": null
   },
   "SV": {
-    "name": null,
+    "name": "Savanes",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -685,12 +693,13 @@
       "zh": "薩瓦內區",
       "ccp": "𑄥𑄞𑄚𑄬𑄌𑄴",
       "ka": "სავანების ოლქი",
-      "uk": "Район Саван"
+      "uk": "Район Саван",
+      "no": "Savanes distrikt"
     },
     "comments": null
   },
   "VB": {
-    "name": null,
+    "name": "Vallée du Bandama",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -738,12 +747,13 @@
       "lt": "Vale du Bandamos apskritis",
       "zh": "邦達馬河谷區",
       "ccp": "𑄞𑄣𑄬 𑄓𑄪 𑄝𑄚𑄴𑄓𑄟",
-      "ka": "ვალე-დუ-ბანდამა"
+      "ka": "ვალე-დუ-ბანდამა",
+      "no": "Vallee du Dandama distrikt"
     },
     "comments": null
   },
   "CM": {
-    "name": null,
+    "name": "District de la Comoé",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -769,7 +779,7 @@
     "comments": null
   },
   "GD": {
-    "name": null,
+    "name": "Gôh-Djiboua",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -793,7 +803,7 @@
     "comments": null
   },
   "LC": {
-    "name": null,
+    "name": "District des Lacs",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -818,7 +828,7 @@
     "comments": null
   },
   "LG": {
-    "name": null,
+    "name": "District des Lagunes",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -844,7 +854,7 @@
     "comments": null
   },
   "MG": {
-    "name": null,
+    "name": "District des Montagnes",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -869,7 +879,7 @@
     "comments": null
   },
   "SM": {
-    "name": null,
+    "name": "District du Sassandra-Marahoué",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -893,7 +903,7 @@
     "comments": null
   },
   "WR": {
-    "name": null,
+    "name": "District du Woroba",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -920,7 +930,7 @@
     "comments": null
   },
   "ZZ": {
-    "name": null,
+    "name": "Zanzan",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -976,7 +986,9 @@
       "cs": "Zanzan",
       "nb": "Zanzan",
       "be": "Рэгіён Занзан",
-      "th": "ซานซาน"
+      "th": "ซานซาน",
+      "bg": "Занзан",
+      "no": "Zanzan"
     },
     "comments": null
   }

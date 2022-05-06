@@ -53,7 +53,8 @@
       "lt": "Bagmačio zona",
       "zh": "巴格馬蒂專區",
       "ccp": "𑄝𑄇𑄴𑄟𑄑𑄨",
-      "uk": "Багматі"
+      "uk": "Багматі",
+      "no": "Bagmati Sone"
     },
     "comments": null
   },
@@ -110,7 +111,8 @@
       "lt": "Bherio zona",
       "zh": "佩里專區",
       "ccp": "𑄞𑄬𑄢𑄨",
-      "uk": "Бхері"
+      "uk": "Бхері",
+      "no": "Bheri sone"
     },
     "comments": null
   },
@@ -168,7 +170,8 @@
       "zh": "道拉吉里专区",
       "ccp": "𑄙𑄧𑄤𑄣𑄉𑄨𑄢𑄨",
       "kk": "Дхаулагири",
-      "uk": "Дгаулагірі"
+      "uk": "Дгаулагірі",
+      "no": "Dhaulagiri sone"
     },
     "comments": null
   },
@@ -227,7 +230,8 @@
       "ccp": "𑄉𑄧𑄚𑄴𑄘𑄧𑄇𑄨",
       "hy": "Գանդակի",
       "uk": "Гандакі",
-      "ca": "zona de Gandaki"
+      "ca": "zona de Gandaki",
+      "no": "Gandaki sone"
     },
     "comments": null
   },
@@ -285,7 +289,8 @@
       "zh": "賈納克布爾專區",
       "fa": "جاناکپور",
       "ccp": "𑄎𑄚𑄧𑄇𑄴𑄛𑄪𑄢𑄴",
-      "uk": "Джанакпур"
+      "uk": "Джанакпур",
+      "no": "Janakpur sone"
     },
     "comments": null
   },
@@ -342,7 +347,8 @@
       "lt": "Karnalio zona",
       "zh": "格爾納利專區",
       "ccp": "𑄇𑄢𑄴𑄚𑄣𑄨",
-      "uk": "Карналі"
+      "uk": "Карналі",
+      "no": "Karnali sone"
     },
     "comments": null
   },
@@ -487,7 +493,8 @@
       "lt": "Mahakalio zona",
       "zh": "馬哈卡利專區",
       "ccp": "𑄟𑄧𑄦𑄇𑄧𑄣𑄨",
-      "uk": "Махакалі"
+      "uk": "Махакалі",
+      "no": "Mahakali Sone"
     },
     "comments": null
   },
@@ -544,7 +551,8 @@
       "lt": "Mečio zona",
       "zh": "梅吉專區",
       "ccp": "𑄟𑄬𑄌𑄨",
-      "uk": "Мечі"
+      "uk": "Мечі",
+      "no": "Mechi"
     },
     "comments": null
   },
@@ -601,7 +609,8 @@
       "lt": "Narajanio zona",
       "zh": "納拉亞尼專區",
       "ccp": "𑄚𑄢𑄠𑄧𑄚𑄨",
-      "uk": "Нараяні"
+      "uk": "Нараяні",
+      "no": "Narayani Sone"
     },
     "comments": null
   },
@@ -658,7 +667,8 @@
       "lt": "Rapčio zona",
       "zh": "拉布蒂專區",
       "ccp": "𑄢𑄛𑄴𑄑𑄨",
-      "uk": "Рапті"
+      "uk": "Рапті",
+      "no": "Rapti sone"
     },
     "comments": null
   },
@@ -716,7 +726,8 @@
       "zh": "萨加玛塔专区",
       "ccp": "𑄥𑄉𑄧𑄢𑄴𑄟𑄗",
       "uk": "Сагарматха",
-      "ca": "zona del Sagarmatha"
+      "ca": "zona del Sagarmatha",
+      "no": "Sagarmatha Sone"
     },
     "comments": null
   },
@@ -773,12 +784,13 @@
       "lt": "Sečio zona",
       "zh": "塞蒂專區",
       "ccp": "𑄥𑄬𑄑𑄨",
-      "uk": "Сеті"
+      "uk": "Сеті",
+      "no": "Seti"
     },
     "comments": null
   },
   "1": {
-    "name": null,
+    "name": "मध्यमाञ्चल विकास क्षेत्र",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -822,7 +834,7 @@
     "comments": null
   },
   "2": {
-    "name": null,
+    "name": "मध्य-पश्चिमाञ्चल विकास क्षेत्र",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -861,7 +873,7 @@
     "comments": null
   },
   "3": {
-    "name": null,
+    "name": "पश्चिमाञ्चल विकास क्षेत्र",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -905,7 +917,7 @@
     "comments": null
   },
   "4": {
-    "name": null,
+    "name": "पूर्वाञ्चल विकास क्षेत्र",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -947,7 +959,7 @@
     "comments": null
   },
   "5": {
-    "name": null,
+    "name": "सुदूर-पश्चिमाञ्चल विकास क्षेत्र",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -986,7 +998,7 @@
     "comments": null
   },
   "P1": {
-    "name": null,
+    "name": "Province 1",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -996,7 +1008,7 @@
     "comments": null
   },
   "P2": {
-    "name": null,
+    "name": "Province 2",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -1006,7 +1018,7 @@
     "comments": null
   },
   "P3": {
-    "name": null,
+    "name": "Province 3",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -1016,7 +1028,7 @@
     "comments": null
   },
   "P4": {
-    "name": null,
+    "name": "Gandaki²",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1033,7 +1045,7 @@
     "comments": null
   },
   "P5": {
-    "name": null,
+    "name": "Province 5",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -1043,7 +1055,7 @@
     "comments": null
   },
   "P6": {
-    "name": null,
+    "name": "Karnali²",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1060,7 +1072,7 @@
     "comments": null
   },
   "P7": {
-    "name": null,
+    "name": "Province 7",
     "code": null,
     "unofficial_names": null,
     "geo": null,

@@ -72,7 +72,8 @@
       "vi": "Tỉnh Ad Dakhiliyah",
       "lv": "Dāhilījas mintaka",
       "zh": "內地省",
-      "ccp": "𑄃𑄖𑄴 𑄓𑄈𑄭𑄣𑄨𑄠𑄦𑄴"
+      "ccp": "𑄃𑄖𑄴 𑄓𑄈𑄭𑄣𑄨𑄠𑄦𑄴",
+      "no": "Ad Dakhiliyah"
     },
     "comments": null
   },
@@ -156,7 +157,8 @@
       "zh": "馬斯喀特省",
       "ccp": "𑄟𑄌𑄴𑄇𑄖𑄴",
       "ro": "guvernoratul Muscat",
-      "eu": "Maskat"
+      "eu": "Maskat",
+      "no": "Muskat"
     },
     "comments": null
   },
@@ -221,7 +223,8 @@
       "lv": "Musendemas muhāfaza",
       "sr_Latn": "Musandam",
       "zh": "穆桑代姆省",
-      "ccp": "𑄟𑄪𑄥𑄚𑄴𑄓𑄟𑄴"
+      "ccp": "𑄟𑄪𑄥𑄚𑄴𑄓𑄟𑄴",
+      "no": "Musandam"
     },
     "comments": null
   },
@@ -298,7 +301,8 @@
       "vi": "Tỉnh Al Wusta",
       "lv": "Vustas muhāfaza",
       "zh": "中部省",
-      "ccp": "𑄃𑄣𑄴 𑄃𑄮𑄅𑄪𑄌𑄴𑄑"
+      "ccp": "𑄃𑄣𑄴 𑄃𑄮𑄅𑄪𑄌𑄴𑄑",
+      "no": "Al Wusta"
     },
     "comments": null
   },
@@ -375,12 +379,13 @@
       "vi": "Tỉnh Ad Dhahirah",
       "lv": "Zāhiras mintaka",
       "zh": "扎希拉省",
-      "ccp": "𑄃𑄖𑄴 𑄙𑄦𑄨𑄢𑄦𑄴"
+      "ccp": "𑄃𑄖𑄴 𑄙𑄦𑄨𑄢𑄦𑄴",
+      "no": "Ad Dhahirah"
     },
     "comments": null
   },
   "BJ": {
-    "name": null,
+    "name": "محافظة جنوب الباطنة",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -429,12 +434,13 @@
       "lt": "Al Batino pietų gubernija",
       "ccp": "𑄎𑄚𑄪𑄛𑄴 𑄃𑄣𑄴 𑄝𑄑𑄨𑄚𑄦𑄴",
       "eu": "Hego Al Batinah",
-      "uk": "Муніципалітет Південна Ель-Батіна"
+      "uk": "Муніципалітет Південна Ель-Батіна",
+      "no": "Sør-Al Batinah"
     },
     "comments": null
   },
   "BS": {
-    "name": null,
+    "name": "محافظة شمال الباطنة",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -462,12 +468,13 @@
       "fr": "Al-Batina du Nord",
       "es": "Al Batinah Norte gobernación",
       "eu": "Ipar Al Batinah",
-      "pt": "Batina Setentrional"
+      "pt": "Batina Setentrional",
+      "no": "Nord-Al Batinah"
     },
     "comments": null
   },
   "BU": {
-    "name": null,
+    "name": "محافظة البريمي",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -520,12 +527,13 @@
       "zh": "布賴米省",
       "lv": "Buraimī muhāfaza",
       "ccp": "𑄃𑄣𑄴 𑄝𑄪𑄢𑄭𑄟𑄨",
-      "eu": "Al Buraimi"
+      "eu": "Al Buraimi",
+      "no": "Al Buraimi"
     },
     "comments": null
   },
   "SJ": {
-    "name": null,
+    "name": "محافظة جنوب الشرقية",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -576,12 +584,13 @@
       "zh": "東南省",
       "ccp": "𑄎𑄚𑄪𑄛𑄴 𑄃𑄌𑄴 𑄥𑄧𑄢𑄴𑄇𑄪𑄃𑄨𑄦𑄴",
       "eu": "Hego Ash Sharqiyah",
-      "uk": "Південна Еш-Шаркія"
+      "uk": "Південна Еш-Шаркія",
+      "no": "Sør-Ash Sharqiyah"
     },
     "comments": null
   },
   "SS": {
-    "name": null,
+    "name": "محافظة شمال الشرقية",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -631,12 +640,13 @@
       "zh": "東北省",
       "ccp": "𑄥𑄳𑄠𑄟𑄧𑄣𑄴 𑄃𑄌𑄴 𑄥𑄢𑄴𑄇𑄪𑄃𑄨𑄦𑄴",
       "eu": "Ipar Ash Sharqiyah",
-      "uk": "Північно-Східна Провінція Еш-Шаркія"
+      "uk": "Північно-Східна Провінція Еш-Шаркія",
+      "no": "Nord-Ash Sharqiyah"
     },
     "comments": null
   },
   "ZU": {
-    "name": null,
+    "name": "محافظة ظفار",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -690,7 +700,8 @@
       "vi": "Tỉnh Dhofar",
       "lv": "Dofaras muhāfaza",
       "zh": "佐法爾省",
-      "ccp": "𑄙𑄮𑄜𑄢𑄴"
+      "ccp": "𑄙𑄮𑄜𑄢𑄴",
+      "no": "Dhofar"
     },
     "comments": null
   }

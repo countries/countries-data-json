@@ -267,7 +267,7 @@
     "comments": null
   },
   "01": {
-    "name": null,
+    "name": "평양직할시",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -359,12 +359,14 @@
       "yo": "Pyongyang",
       "uz": "Pxenyan",
       "bs": "Pjongjang",
-      "mk": "Пјонгјанг"
+      "mk": "Пјонгјанг",
+      "no": "Pyongyang",
+      "yo_BJ": "Pyongyang"
     },
     "comments": null
   },
   "02": {
-    "name": null,
+    "name": "평안남도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -422,12 +424,13 @@
       "yue_Hans": "平安南道",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄨𑄠𑄧𑄁𑄉𑄚𑄴",
       "eu": "Hego Pyongan",
-      "yue": "平安南道"
+      "yue": "平安南道",
+      "no": "Sør-Pyongan"
     },
     "comments": null
   },
   "03": {
-    "name": null,
+    "name": "평안북도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -485,12 +488,13 @@
       "yue_Hans": "平安北道",
       "ccp": "𑄅𑄧𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄨𑄠𑄧𑄁𑄉𑄚𑄴",
       "eu": "Ipar Pyongan",
-      "yue": "平安北道"
+      "yue": "平安北道",
+      "no": "Nord-Pyongan"
     },
     "comments": null
   },
   "04": {
-    "name": null,
+    "name": "자강도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -549,12 +553,13 @@
       "ccp": "𑄇𑄉𑄳𑄠𑄋𑄴",
       "ro": "Provincia Chagang",
       "eu": "Chagang",
-      "yue": "慈江"
+      "yue": "慈江",
+      "no": "Chagang"
     },
     "comments": null
   },
   "05": {
-    "name": null,
+    "name": "황해남도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -612,12 +617,13 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄦𑄧𑄅𑄪𑄚𑄴𑄊",
       "ro": "Provincia Hwanghae de Sud",
       "eu": "Hego Hwanghae",
-      "yue": "黃海南道"
+      "yue": "黃海南道",
+      "no": "Sør-Hwanghae"
     },
     "comments": null
   },
   "06": {
-    "name": null,
+    "name": "황해북도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -675,12 +681,13 @@
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄦𑄧𑄅𑄪𑄚𑄴𑄊",
       "ro": "Provincia Hwanghae de Nord",
       "eu": "Ipar Hwanghae",
-      "yue": "黃海北道"
+      "yue": "黃海北道",
+      "no": "Nord-Hwanghae"
     },
     "comments": null
   },
   "07": {
-    "name": null,
+    "name": "강원도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -739,12 +746,13 @@
       "yue_Hans": "江原道",
       "ccp": "𑄇𑄧𑄁𑄤𑄚𑄴",
       "eu": "Kangwon",
-      "yue": "江原道"
+      "yue": "江原道",
+      "no": "Kangwon"
     },
     "comments": null
   },
   "08": {
-    "name": null,
+    "name": "함경남도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -803,12 +811,13 @@
       "yue_Hans": "咸镜南道",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄦𑄟𑄴𑄎𑄨𑄠𑄧𑄁",
       "eu": "Hego Hamgyong",
-      "yue": "咸鏡南道"
+      "yue": "咸鏡南道",
+      "no": "Sør-Hamgyong"
     },
     "comments": null
   },
   "09": {
-    "name": null,
+    "name": "함경북도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -859,12 +868,13 @@
       "eu": "Ipar Hamgyong",
       "yue": "咸鏡北道",
       "az": "Hamqyon-Pukto",
-      "be": "Хамгён-Пукта"
+      "be": "Хамгён-Пукта",
+      "no": "Nord-Hamgyong"
     },
     "comments": null
   },
   "10": {
-    "name": null,
+    "name": "량강도",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -923,12 +933,13 @@
       "yue_Hans": "两江道",
       "ccp": "𑄢𑄨𑄠𑄁𑄉𑄧𑄁",
       "eu": "Ryanggang",
-      "yue": "兩江道"
+      "yue": "兩江道",
+      "no": "Ryanggang"
     },
     "comments": null
   },
   "13": {
-    "name": null,
+    "name": "라선특별시",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -987,12 +998,13 @@
       "ccp": "𑄢𑄥𑄧𑄚𑄴",
       "ga": "Rason",
       "yue": "羅先",
-      "az": "Rason"
+      "az": "Rason",
+      "no": "Rason"
     },
     "comments": null
   },
   "14": {
-    "name": null,
+    "name": "남포특별시",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -1034,7 +1046,9 @@
       "nb": "Nampo",
       "mn": "Нампу",
       "ca": "Namp’o",
-      "th": "นัมโพ"
+      "th": "นัมโพ",
+      "bg": "Нампхо",
+      "no": "Nampo"
     },
     "comments": null
   }

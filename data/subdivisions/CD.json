@@ -63,7 +63,8 @@
       "ccp": "𑄝𑄌𑄴-𑄇𑄧𑄚𑄴𑄉𑄮",
       "hy": "Ներքին Կոնգո",
       "ca": "Província del Baix Congo",
-      "mk": "Долно Конго"
+      "mk": "Долно Конго",
+      "no": "Bas-Congo"
     },
     "comments": null
   },
@@ -141,7 +142,8 @@
       "zh": "赤道省",
       "fa": "ایکواته",
       "ccp": "𑄃𑄨𑄇𑄱𑄑𑄬𑄅𑄪𑄢𑄴",
-      "uk": "Екватор (Екваторіальна провінція)"
+      "uk": "Екватор (Екваторіальна провінція)",
+      "no": "Équateur (provins)"
     },
     "comments": null
   },
@@ -224,7 +226,8 @@
       "zh": "东开赛省",
       "fa": "کاسای",
       "ccp": "𑄇𑄥𑄭-𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
-      "hy": "Արևելյան Կասայ"
+      "hy": "Արևելյան Կասայ",
+      "no": "Kasaï-Oriental"
     },
     "comments": null
   },
@@ -319,7 +322,10 @@
       "yo": "Kinshasa",
       "uz": "Kinshasa",
       "bs": "Kinshasa",
-      "mk": "Киншаса"
+      "mk": "Киншаса",
+      "ha_NE": "Kinshasa",
+      "no": "Kinshasa",
+      "yo_BJ": "Kinshasa"
     },
     "comments": null
   },
@@ -400,7 +406,8 @@
       "ceb": "Province du Maniema",
       "zh": "马涅马省",
       "ccp": "𑄟𑄚𑄨𑄠𑄬𑄟",
-      "he": "מניימה"
+      "he": "מניימה",
+      "no": "Maniema"
     },
     "comments": null
   },
@@ -465,7 +472,8 @@
       "zh": "北基伍省",
       "fa": "کیوو شمالی",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄨𑄞𑄪",
-      "az": "Şimali Kivu"
+      "az": "Şimali Kivu",
+      "no": "Nord-Kivu"
     },
     "comments": null
   },
@@ -550,12 +558,13 @@
       "fa": "سود کیوا",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄨𑄞𑄪",
       "uz": "Janubiy Kivu",
-      "mk": "Јужно Киву"
+      "mk": "Јужно Киву",
+      "no": "Sud-Kivu"
     },
     "comments": null
   },
   "BU": {
-    "name": null,
+    "name": "Bas-Uele",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -591,12 +600,13 @@
       "ceb": "Bas Uele",
       "zh": "下韦莱省",
       "ccp": "𑄝𑄌𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
-      "he": "מחוז אואלה תחתית"
+      "he": "מחוז אואלה תחתית",
+      "no": "Bas-Uele"
     },
     "comments": null
   },
   "HK": {
-    "name": null,
+    "name": "Haut-Katanga",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -633,12 +643,13 @@
       "ceb": "Haut Katanga",
       "zh": "上加丹加省",
       "ccp": "𑄦𑄖𑄴-𑄇𑄑𑄁𑄉",
-      "hy": "Վերին Կատանգա"
+      "hy": "Վերին Կատանգա",
+      "no": "Haut-Katanga"
     },
     "comments": null
   },
   "HL": {
-    "name": null,
+    "name": "Haut-Lomami",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -674,12 +685,13 @@
       "ceb": "Haut Lomami",
       "zh": "上洛马米省",
       "ccp": "𑄦𑄖𑄴-𑄣𑄧𑄟𑄟𑄨",
-      "hy": "Վերին Լոմամի"
+      "hy": "Վերին Լոմամի",
+      "no": "Haut-Lomami"
     },
     "comments": null
   },
   "HU": {
-    "name": null,
+    "name": "Haut-Uele",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -715,12 +727,13 @@
       "ceb": "Haut Uele",
       "zh": "上韦莱省",
       "ccp": "𑄦𑄖𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
-      "hy": "Վերին Ուելե"
+      "hy": "Վերին Ուելե",
+      "no": "Haut-Uele"
     },
     "comments": null
   },
   "KC": {
-    "name": null,
+    "name": "Lulua",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -756,12 +769,13 @@
       "ccp": "𑄇𑄥𑄭 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "ka": "ლულუის პროვინცია",
       "fi": "Keski-Kasai",
-      "it": "Provincia del Kasai Centrale"
+      "it": "Provincia del Kasai Centrale",
+      "no": "Lulua"
     },
     "comments": null
   },
   "KG": {
-    "name": null,
+    "name": "Kwango",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -790,12 +804,13 @@
       "sv": "Kwango",
       "uk": "Кванго",
       "zh": "宽果省",
-      "ccp": "𑄇𑄧𑄠𑄪𑄁𑄉𑄮"
+      "ccp": "𑄇𑄧𑄠𑄪𑄁𑄉𑄮",
+      "no": "Kwango"
     },
     "comments": null
   },
   "KL": {
-    "name": null,
+    "name": "Kwilu",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -831,12 +846,13 @@
       "ceb": "Kwilu (distrito)",
       "zh": "奎卢省",
       "ccp": "𑄇𑄧𑄃𑄨𑄣𑄪",
-      "hy": "Կվիլու"
+      "hy": "Կվիլու",
+      "no": "Kwilu"
     },
     "comments": null
   },
   "LO": {
-    "name": null,
+    "name": "Kabinda",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -869,12 +885,13 @@
       "uk": "Ломамі",
       "zh": "洛马米省",
       "ccp": "𑄣𑄧𑄟𑄟𑄨",
-      "ka": "ლომამის პროვინცია"
+      "ka": "ლომამის პროვინცია",
+      "no": "Lomami"
     },
     "comments": null
   },
   "LU": {
-    "name": null,
+    "name": "Lualaba",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -909,12 +926,13 @@
       "sw": "Mkoa wa Lualaba",
       "uk": "Луалаба",
       "zh": "卢阿拉巴省",
-      "ccp": "𑄣𑄪𑄠𑄣𑄝"
+      "ccp": "𑄣𑄪𑄠𑄣𑄝",
+      "no": "Lualaba (provins)"
     },
     "comments": null
   },
   "MN": {
-    "name": null,
+    "name": "Mai-Ndombe",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -946,12 +964,13 @@
       "sv": "Mai-Ndombe",
       "uk": "Маї-Ндомбе",
       "zh": "马伊恩东贝省",
-      "ccp": "𑄟𑄭-𑄓𑄮𑄟𑄴𑄝𑄬"
+      "ccp": "𑄟𑄭-𑄓𑄮𑄟𑄴𑄝𑄬",
+      "no": "Mai-Ndombe"
     },
     "comments": null
   },
   "MO": {
-    "name": null,
+    "name": "Mongala",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -986,12 +1005,13 @@
       "ceb": "Mongala",
       "zh": "蒙加拉省",
       "ccp": "𑄟𑄧𑄁𑄉𑄧𑄣",
-      "nb": "Mongala"
+      "nb": "Mongala",
+      "no": "Mongala"
     },
     "comments": null
   },
   "NU": {
-    "name": null,
+    "name": "Nord-Ubangi",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1026,12 +1046,13 @@
       "ceb": "Nord Ubangi",
       "zh": "北乌班吉省",
       "ccp": "𑄚𑄧𑄢𑄳𑄓𑄴-𑄃𑄪𑄝𑄋𑄴𑄉𑄨",
-      "nb": "Nord-Ubangi"
+      "nb": "Nord-Ubangi",
+      "no": "Nord-Ubangi"
     },
     "comments": null
   },
   "SA": {
-    "name": null,
+    "name": "Sankuru",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1065,12 +1086,13 @@
       "ceb": "Sankuru",
       "zh": "桑库鲁省",
       "ccp": "𑄥𑄁𑄇𑄪𑄢𑄪",
-      "nb": "Sankuru"
+      "nb": "Sankuru",
+      "no": "Sankuru"
     },
     "comments": null
   },
   "SU": {
-    "name": null,
+    "name": "Sud-Ubangi",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1104,12 +1126,13 @@
       "ceb": "Sud Ubangi",
       "zh": "南乌班吉省",
       "ccp": "𑄥𑄖𑄴-𑄅𑄪𑄝𑄋𑄴𑄉𑄨",
-      "nb": "Sud-Ubangi"
+      "nb": "Sud-Ubangi",
+      "no": "Sud-Ubangi"
     },
     "comments": null
   },
   "TA": {
-    "name": null,
+    "name": "Tanganyika",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1144,12 +1167,13 @@
       "uk": "Танганьїка",
       "ceb": "Kongolo Tanganyika District",
       "zh": "坦噶尼喀省",
-      "ccp": "𑄑𑄋𑄴𑄉𑄚𑄨𑄠𑄇"
+      "ccp": "𑄑𑄋𑄴𑄉𑄚𑄨𑄠𑄇",
+      "no": "Tanganyika"
     },
     "comments": null
   },
   "TO": {
-    "name": null,
+    "name": "Tshopo",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1184,12 +1208,13 @@
       "uk": "Чопо",
       "ceb": "Tshopo",
       "zh": "乔波省",
-      "ccp": "𑄥𑄮𑄛𑄮"
+      "ccp": "𑄥𑄮𑄛𑄮",
+      "no": "Tshopo"
     },
     "comments": null
   },
   "TU": {
-    "name": null,
+    "name": "Tshuapa",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1224,12 +1249,13 @@
       "uk": "Чуапа",
       "ceb": "Tshuapa",
       "zh": "楚阿帕省",
-      "ccp": "𑄥𑄪𑄠𑄛"
+      "ccp": "𑄥𑄪𑄠𑄛",
+      "no": "Tshuapa"
     },
     "comments": null
   },
   "IT": {
-    "name": null,
+    "name": "Ituri",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1248,7 +1274,7 @@
     "comments": null
   },
   "KS": {
-    "name": null,
+    "name": "Kasaï",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1272,7 +1298,8 @@
       "ru": "Касаи",
       "sv": "Kasaï",
       "uk": "Касаї",
-      "ccp": "𑄇𑄥𑄭"
+      "ccp": "𑄇𑄥𑄭",
+      "no": "Kasaï"
     },
     "comments": null
   }

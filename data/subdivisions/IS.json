@@ -84,7 +84,8 @@
       "sq": "Rajoni i Kryeqytetit",
       "ccp": "𑄇𑄳𑄠𑄛𑄨𑄑𑄣𑄴",
       "ga": "Höfuðborgarsvæði",
-      "mk": "Престолнински регион"
+      "mk": "Престолнински регион",
+      "no": "Höfuðborgarsvæðið"
     },
     "comments": null
   },
@@ -154,7 +155,8 @@
       "sq": "Gadishulli Jugor",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄪𑄣",
       "ga": "Suðurnes",
-      "mk": "Јужен Полуостров"
+      "mk": "Јужен Полуостров",
+      "no": "Suðurnes"
     },
     "comments": null
   },
@@ -224,7 +226,8 @@
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ga": "Vesturland",
       "mk": "Западен регион",
-      "bg": "Вестюрланд"
+      "bg": "Вестюрланд",
+      "no": "Vesturland"
     },
     "comments": null
   },
@@ -295,7 +298,8 @@
       "sq": "Fjordet Perëndimore",
       "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄎𑄮𑄢𑄴𑄓𑄴𑄥𑄴",
       "ga": "Vestfirðir",
-      "mk": "Западни Фјордови"
+      "mk": "Западни Фјордови",
+      "no": "Vestfirðir"
     },
     "comments": null
   },
@@ -363,7 +367,8 @@
       "sq": "Rajoni Veriperëndimor",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ga": "Norðurland vestra",
-      "mk": "Северозападен регион"
+      "mk": "Северозападен регион",
+      "no": "Norðurland vestra"
     },
     "comments": null
   },
@@ -433,7 +438,8 @@
       "sq": "Rajoni Verilindor",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ga": "Norðurland eystra",
-      "mk": "Североисточен регион"
+      "mk": "Североисточен регион",
+      "no": "Norðurland eystra"
     },
     "comments": null
   },
@@ -503,7 +509,8 @@
       "sq": "Rajoni Lindor",
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ga": "Austurland",
-      "mk": "Источен регион"
+      "mk": "Источен регион",
+      "no": "Austurland"
     },
     "comments": null
   },
@@ -574,9 +581,442 @@
       "sq": "Rajoni Jugor",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ga": "Suðurland",
-      "mk": "Јужен регион"
+      "mk": "Јужен регион",
+      "no": "Suðurland"
     },
     "comments": null
+  },
+  "AKH": {
+    "translations": {
+      "en": "Akrahreppur"
+    },
+    "name": "Akrahreppur"
+  },
+  "AKN": {
+    "translations": {
+      "en": "Akraneskaupstaður"
+    },
+    "name": "Akraneskaupstaður"
+  },
+  "AKU": {
+    "translations": {
+      "en": "Akureyrarbær"
+    },
+    "name": "Akureyrarbær"
+  },
+  "ARN": {
+    "translations": {
+      "en": "Árneshreppur"
+    },
+    "name": "Árneshreppur"
+  },
+  "ASA": {
+    "translations": {
+      "en": "Ásahreppur"
+    },
+    "name": "Ásahreppur"
+  },
+  "BFJ": {
+    "translations": {
+      "en": "Borgarfjarðarhreppur"
+    },
+    "name": "Borgarfjarðarhreppur"
+  },
+  "BLA": {
+    "translations": {
+      "en": "Bláskógabyggð"
+    },
+    "name": "Bláskógabyggð"
+  },
+  "BLO": {
+    "translations": {
+      "en": "Blönduósbær"
+    },
+    "name": "Blönduósbær"
+  },
+  "BOG": {
+    "translations": {
+      "en": "Borgarbyggð"
+    },
+    "name": "Borgarbyggð"
+  },
+  "BOL": {
+    "translations": {
+      "en": "Bolungarvíkurkaupstaður"
+    },
+    "name": "Bolungarvíkurkaupstaður"
+  },
+  "DAB": {
+    "translations": {
+      "en": "Dalabyggð"
+    },
+    "name": "Dalabyggð"
+  },
+  "DAV": {
+    "translations": {
+      "en": "Dalvíkurbyggð"
+    },
+    "name": "Dalvíkurbyggð"
+  },
+  "DJU": {
+    "translations": {
+      "en": "Djúpavogshreppur"
+    },
+    "name": "Djúpavogshreppur"
+  },
+  "EOM": {
+    "translations": {
+      "en": "Eyja- og Miklaholtshreppur"
+    },
+    "name": "Eyja- og Miklaholtshreppur"
+  },
+  "EYF": {
+    "translations": {
+      "en": "Eyjafjarðarsveit"
+    },
+    "name": "Eyjafjarðarsveit"
+  },
+  "FJD": {
+    "translations": {
+      "en": "Fjarðabyggð"
+    },
+    "name": "Fjarðabyggð"
+  },
+  "FJL": {
+    "translations": {
+      "en": "Fjallabyggð"
+    },
+    "name": "Fjallabyggð"
+  },
+  "FLA": {
+    "translations": {
+      "en": "Flóahreppur"
+    },
+    "name": "Flóahreppur"
+  },
+  "FLD": {
+    "translations": {
+      "en": "Fljótsdalshérað"
+    },
+    "name": "Fljótsdalshérað"
+  },
+  "FLR": {
+    "translations": {
+      "en": "Fljótsdalshreppur"
+    },
+    "name": "Fljótsdalshreppur"
+  },
+  "GAR": {
+    "translations": {
+      "en": "Garðabær"
+    },
+    "name": "Garðabær"
+  },
+  "GOG": {
+    "translations": {
+      "en": "Grímsnes- og Grafningshreppur"
+    },
+    "name": "Grímsnes- og Grafningshreppur"
+  },
+  "GRN": {
+    "translations": {
+      "en": "Grindavíkurbær"
+    },
+    "name": "Grindavíkurbær"
+  },
+  "GRU": {
+    "translations": {
+      "en": "Grundarfjarðarbær"
+    },
+    "name": "Grundarfjarðarbær"
+  },
+  "GRY": {
+    "translations": {
+      "en": "Grýtubakkahreppur"
+    },
+    "name": "Grýtubakkahreppur"
+  },
+  "HAF": {
+    "translations": {
+      "en": "Hafnarfjarðarkaupstaður"
+    },
+    "name": "Hafnarfjarðarkaupstaður"
+  },
+  "HEL": {
+    "translations": {
+      "en": "Helgafellssveit"
+    },
+    "name": "Helgafellssveit"
+  },
+  "HRG": {
+    "translations": {
+      "en": "Hörgársveit"
+    },
+    "name": "Hörgársveit"
+  },
+  "HRU": {
+    "translations": {
+      "en": "Hrunamannahreppur"
+    },
+    "name": "Hrunamannahreppur"
+  },
+  "HUT": {
+    "translations": {
+      "en": "Húnavatnshreppur"
+    },
+    "name": "Húnavatnshreppur"
+  },
+  "HUV": {
+    "translations": {
+      "en": "Húnaþing vestra"
+    },
+    "name": "Húnaþing vestra"
+  },
+  "HVA": {
+    "translations": {
+      "en": "Hvalfjarðarsveit"
+    },
+    "name": "Hvalfjarðarsveit"
+  },
+  "HVE": {
+    "translations": {
+      "en": "Hveragerðisbær"
+    },
+    "name": "Hveragerðisbær"
+  },
+  "ISA": {
+    "translations": {
+      "en": "Ísafjarðarbær"
+    },
+    "name": "Ísafjarðarbær"
+  },
+  "KAL": {
+    "translations": {
+      "en": "Kaldrananeshreppur"
+    },
+    "name": "Kaldrananeshreppur"
+  },
+  "KJO": {
+    "translations": {
+      "en": "Kjósarhreppur"
+    },
+    "name": "Kjósarhreppur"
+  },
+  "KOP": {
+    "translations": {
+      "en": "Kópavogsbær"
+    },
+    "name": "Kópavogsbær"
+  },
+  "LAN": {
+    "translations": {
+      "en": "Langanesbyggð"
+    },
+    "name": "Langanesbyggð"
+  },
+  "MOS": {
+    "translations": {
+      "en": "Mosfellsbær"
+    },
+    "name": "Mosfellsbær"
+  },
+  "MYR": {
+    "translations": {
+      "en": "Mýrdalshreppur"
+    },
+    "name": "Mýrdalshreppur"
+  },
+  "NOR": {
+    "translations": {
+      "en": "Norðurþing"
+    },
+    "name": "Norðurþing"
+  },
+  "RGE": {
+    "translations": {
+      "en": "Rangárþing eystra"
+    },
+    "name": "Rangárþing eystra"
+  },
+  "RGY": {
+    "translations": {
+      "en": "Rangárþing ytra"
+    },
+    "name": "Rangárþing ytra"
+  },
+  "RHH": {
+    "translations": {
+      "en": "Reykhólahreppur"
+    },
+    "name": "Reykhólahreppur"
+  },
+  "RKN": {
+    "translations": {
+      "en": "Reykjanesbær"
+    },
+    "name": "Reykjanesbær"
+  },
+  "RKV": {
+    "translations": {
+      "en": "Reykjavíkurborg"
+    },
+    "name": "Reykjavíkurborg"
+  },
+  "SBH": {
+    "translations": {
+      "en": "Svalbarðshreppur"
+    },
+    "name": "Svalbarðshreppur"
+  },
+  "SBT": {
+    "translations": {
+      "en": "Svalbarðsstrandarhreppur"
+    },
+    "name": "Svalbarðsstrandarhreppur"
+  },
+  "SDN": {
+    "translations": {
+      "en": "Suðurnesjabær"
+    },
+    "name": "Suðurnesjabær"
+  },
+  "SDV": {
+    "translations": {
+      "en": "Súðavíkurhreppur"
+    },
+    "name": "Súðavíkurhreppur"
+  },
+  "SEL": {
+    "translations": {
+      "en": "Seltjarnarnesbær"
+    },
+    "name": "Seltjarnarnesbær"
+  },
+  "SEY": {
+    "translations": {
+      "en": "Seyðisfjarðarkaupstaður"
+    },
+    "name": "Seyðisfjarðarkaupstaður"
+  },
+  "SFA": {
+    "translations": {
+      "en": "Sveitarfélagið Árborg"
+    },
+    "name": "Sveitarfélagið Árborg"
+  },
+  "SHF": {
+    "translations": {
+      "en": "Sveitarfélagið Hornafjörður"
+    },
+    "name": "Sveitarfélagið Hornafjörður"
+  },
+  "SKF": {
+    "translations": {
+      "en": "Skaftárhreppur"
+    },
+    "name": "Skaftárhreppur"
+  },
+  "SKG": {
+    "translations": {
+      "en": "Skagabyggð"
+    },
+    "name": "Skagabyggð"
+  },
+  "SKO": {
+    "translations": {
+      "en": "Skorradalshreppur"
+    },
+    "name": "Skorradalshreppur"
+  },
+  "SKU": {
+    "translations": {
+      "en": "Skútustaðahreppur"
+    },
+    "name": "Skútustaðahreppur"
+  },
+  "SNF": {
+    "translations": {
+      "en": "Snæfellsbær"
+    },
+    "name": "Snæfellsbær"
+  },
+  "SOG": {
+    "translations": {
+      "en": "Skeiða- og Gnúpverjahreppur"
+    },
+    "name": "Skeiða- og Gnúpverjahreppur"
+  },
+  "SOL": {
+    "translations": {
+      "en": "Sveitarfélagið Ölfus"
+    },
+    "name": "Sveitarfélagið Ölfus"
+  },
+  "SSF": {
+    "translations": {
+      "en": "Sveitarfélagið Skagafjörður"
+    },
+    "name": "Sveitarfélagið Skagafjörður"
+  },
+  "SSS": {
+    "translations": {
+      "en": "Sveitarfélagið Skagaströnd"
+    },
+    "name": "Sveitarfélagið Skagaströnd"
+  },
+  "STR": {
+    "translations": {
+      "en": "Strandabyggð"
+    },
+    "name": "Strandabyggð"
+  },
+  "STY": {
+    "translations": {
+      "en": "Stykkishólmsbær"
+    },
+    "name": "Stykkishólmsbær"
+  },
+  "SVG": {
+    "translations": {
+      "en": "Sveitarfélagið Vogar"
+    },
+    "name": "Sveitarfélagið Vogar"
+  },
+  "TAL": {
+    "translations": {
+      "en": "Tálknafjarðarhreppur"
+    },
+    "name": "Tálknafjarðarhreppur"
+  },
+  "THG": {
+    "translations": {
+      "en": "Þingeyjarsveit"
+    },
+    "name": "Þingeyjarsveit"
+  },
+  "TJO": {
+    "translations": {
+      "en": "Tjörneshreppur"
+    },
+    "name": "Tjörneshreppur"
+  },
+  "VEM": {
+    "translations": {
+      "en": "Vestmannaeyjabær"
+    },
+    "name": "Vestmannaeyjabær"
+  },
+  "VER": {
+    "translations": {
+      "en": "Vesturbyggð"
+    },
+    "name": "Vesturbyggð"
+  },
+  "VOP": {
+    "translations": {
+      "en": "Vopnafjarðarhreppur"
+    },
+    "name": "Vopnafjarðarhreppur"
   }
 }
 

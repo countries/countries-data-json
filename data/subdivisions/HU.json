@@ -12,7 +12,6 @@
       "max_longitude": 18.868302
     },
     "translations": {
-      "en": "Baranya",
       "ar": "مقاطعة بارانيا",
       "be": "Баранья",
       "bg": "Бараня",
@@ -20,6 +19,7 @@
       "cs": "Baranya",
       "da": "Baranya",
       "de": "Komitat Baranya",
+      "en": "Baranya",
       "es": "Baranya",
       "et": "Baranya komitaat",
       "eu": "Baranya",
@@ -74,7 +74,6 @@
       "max_longitude": 21.2357529
     },
     "translations": {
-      "en": "Békéscsaba",
       "ar": "بيكيسكسابا",
       "bg": "Бекешчаба",
       "bn": "বেকেসসাবা",
@@ -83,6 +82,7 @@
       "da": "Békéscsaba",
       "de": "Békéscsaba",
       "el": "Μπεκεστσάμπα",
+      "en": "Békéscsaba",
       "es": "Békéscsaba",
       "et": "Békéscsaba",
       "eu": "Békéscsaba",
@@ -131,7 +131,8 @@
       "ccp": "𑄝𑄇𑄬𑄌𑄴𑄥𑄝",
       "az": "Bekeşçaba",
       "be": "Бекешчаба",
-      "mk": "Бекешчаба"
+      "mk": "Бекешчаба",
+      "no": "Békéscsaba"
     },
     "comments": null
   },
@@ -148,7 +149,6 @@
       "max_longitude": 21.2195859
     },
     "translations": {
-      "en": "Békés",
       "ar": "مقاطعة بكيش",
       "bg": "Бекеш",
       "bn": "বেকস কাউন্টি",
@@ -157,6 +157,7 @@
       "da": "Békés",
       "de": "Komitat Békés",
       "el": "Μπεκές",
+      "en": "Békés",
       "es": "Békés",
       "et": "Békési komitaat",
       "eu": "Békés",
@@ -203,7 +204,8 @@
       "zh": "貝凱什州",
       "ccp": "𑄝𑄇𑄬𑄌𑄴",
       "be": "медзье Бекеш",
-      "mk": "Бекеш"
+      "mk": "Бекеш",
+      "no": "Bekes Fylke"
     },
     "comments": null
   },
@@ -220,7 +222,6 @@
       "max_longitude": 20.1599619
     },
     "translations": {
-      "en": "Bács-Kiskun",
       "ar": "مقاطعة باتش-كيشكون",
       "be": "Бач-Кішкун",
       "bg": "Бач-Кишкун",
@@ -230,6 +231,7 @@
       "da": "Bács-Kiskun",
       "de": "Komitat Bács-Kiskun",
       "el": "Μπακς-Κισκούν",
+      "en": "Bács-Kiskun",
       "es": "Bács-Kiskun",
       "et": "Bács-Kiskuni komitaat",
       "eu": "Bács-Kiskun",
@@ -276,7 +278,8 @@
       "zh": "巴奇-基什孔州",
       "ccp": "𑄝𑄳𑄠𑄇𑄴𑄥𑄴-𑄇𑄨𑄌𑄴𑄇𑄪𑄚𑄴",
       "az": "Baç-Kişkun (medye)",
-      "mk": "Бач-Кишкун"
+      "mk": "Бач-Кишкун",
+      "no": "Bacs-Kiskun Fylke"
     },
     "comments": null
   },
@@ -293,7 +296,6 @@
       "max_longitude": 19.334505
     },
     "translations": {
-      "en": "Budapest",
       "af": "Boedapest",
       "am": "ቡዳፔስት",
       "ar": "بودابست",
@@ -306,6 +308,7 @@
       "da": "Budapest",
       "de": "Budapest",
       "el": "Βουδαπέστη",
+      "en": "Budapest",
       "es": "Budapest",
       "et": "Budapest",
       "eu": "Budapest",
@@ -373,7 +376,9 @@
       "yo": "Budapest",
       "uz": "Budapesht",
       "bs": "Budimpešta",
-      "mk": "Будимпешта"
+      "mk": "Будимпешта",
+      "no": "Budapest",
+      "yo_BJ": "Budapest"
     },
     "comments": null
   },
@@ -390,7 +395,6 @@
       "max_longitude": 22.1292827
     },
     "translations": {
-      "en": "Borsod-Abaúj-Zemplén",
       "ar": "مقاطعة بورسود-آبائوي-زمبلن",
       "az": "Borşod-Abauy-Zemplen",
       "be": "Боршад-Абауй-Земплен",
@@ -401,6 +405,7 @@
       "da": "Borsod-Abaúj-Zemplén",
       "de": "Komitat Borsod-Abaúj-Zemplén",
       "el": "Μπόρσοντ-Αμπαούτζ-Ζεμπλέν",
+      "en": "Borsod-Abaúj-Zemplén",
       "es": "Borsod-Abaúj-Zemplén",
       "et": "Borsod-Abaúj-Zempléni komitaat",
       "eu": "Borsod-Abaúj-Zemplén",
@@ -446,7 +451,8 @@
       "sr_Latn": "Boršod-Abauj-Zemplen",
       "zh": "包爾紹德-奧包烏伊-曾普倫州",
       "ccp": "𑄝𑄮𑄢𑄴𑄥𑄮𑄖𑄴-𑄃𑄝𑄅𑄪𑄌𑄴-𑄎𑄬𑄟𑄴𑄛𑄳𑄣𑄬𑄚𑄴",
-      "mk": "Боршод-Абауј-Земплен"
+      "mk": "Боршод-Абауј-Земплен",
+      "no": "Borsod Abauj Zemplen Fylke"
     },
     "comments": null
   },
@@ -463,7 +469,6 @@
       "max_longitude": 20.221518
     },
     "translations": {
-      "en": "Csongrád",
       "ar": "مقاطعة تشونغراد",
       "be": "Чанград",
       "bg": "Чонград",
@@ -473,6 +478,7 @@
       "da": "Csongrád",
       "de": "Komitat Csongrád",
       "el": "Κσονγκράντ",
+      "en": "Csongrád",
       "es": "Csongrád",
       "et": "Csongrádi komitaat",
       "eu": "Csongrád",
@@ -517,7 +523,8 @@
       "sr_Latn": "Čongrad",
       "zh": "瓊格拉德州",
       "ccp": "𑄥𑄧𑄁𑄉𑄳𑄢𑄖𑄴",
-      "mk": "Чонград"
+      "mk": "Чонград",
+      "no": "Csongrád (fylke)"
     },
     "comments": null
   },
@@ -534,7 +541,6 @@
       "max_longitude": 21.8837061
     },
     "translations": {
-      "en": "Debrecen",
       "af": "Debrecen",
       "ar": "دبرتسن",
       "az": "Debrecen",
@@ -546,6 +552,7 @@
       "da": "Debrecen",
       "de": "Debrecen",
       "el": "Ντέμπρετσεν",
+      "en": "Debrecen",
       "es": "Debrecen",
       "et": "Debrecen",
       "eu": "Debrecen",
@@ -601,7 +608,8 @@
       "yue": "德布勒森",
       "uz": "Debretsen",
       "bs": "Debrecen",
-      "mk": "Дебрецин"
+      "mk": "Дебрецин",
+      "no": "Debrecen"
     },
     "comments": null
   },
@@ -618,12 +626,12 @@
       "max_longitude": 18.9657249
     },
     "translations": {
-      "en": "Dunaújváros",
       "bg": "Дунауйварош",
       "ca": "Dunaújváros",
       "cs": "Dunaújváros",
       "da": "Dunaújváros",
       "de": "Dunaújváros",
+      "en": "Dunaújváros",
       "es": "Dunaújváros",
       "et": "Dunaújváros",
       "fa": "دونائیوروش",
@@ -676,13 +684,13 @@
       "max_longitude": 20.471507
     },
     "translations": {
-      "en": "Eger",
       "be": "Горад Эгер",
       "bg": "Егер",
       "ca": "Eger",
       "cs": "Eger",
       "da": "Eger",
       "de": "Eger",
+      "en": "Eger",
       "es": "Eger",
       "et": "Eger",
       "eu": "Eger",
@@ -723,7 +731,8 @@
       "ccp": "𑄃𑄉𑄢𑄴",
       "id": "Eger",
       "az": "Eqer",
-      "mk": "Егер"
+      "mk": "Егер",
+      "no": "Eger"
     },
     "comments": null
   },
@@ -740,13 +749,13 @@
       "max_longitude": 18.96238
     },
     "translations": {
-      "en": "Érd",
       "be": "Горад Эрд",
       "bg": "Ерд",
       "ca": "Érd",
       "cs": "Érd",
       "da": "Érd",
       "de": "Érd",
+      "en": "Érd",
       "es": "Érd",
       "et": "Érd",
       "eu": "Érd",
@@ -796,7 +805,6 @@
       "max_longitude": 18.967485
     },
     "translations": {
-      "en": "Fejér",
       "ar": "مقاطعة فيير",
       "be": "Феер",
       "bg": "Фейер",
@@ -806,6 +814,7 @@
       "da": "Fejér",
       "de": "Komitat Fejér",
       "el": "Επαρχία Φετζέρ",
+      "en": "Fejér",
       "es": "Fejér",
       "et": "Fejéri komitaat",
       "eu": "Fejér",
@@ -853,7 +862,8 @@
       "zh": "費耶爾州",
       "ccp": "𑄜𑄬𑄎𑄢𑄴",
       "mn": "Фейер",
-      "mk": "Фејер"
+      "mk": "Фејер",
+      "no": "Fejer fylke"
     },
     "comments": null
   },
@@ -870,7 +880,6 @@
       "max_longitude": 17.9364819
     },
     "translations": {
-      "en": "Győr-Moson-Sopron",
       "ar": "مقاطعة ديور-موشون-سوبرون",
       "be": "Дзьёр-Мошан-Шопран",
       "bg": "Дьор-Мошон-Шопрон",
@@ -880,6 +889,7 @@
       "da": "Győr-Moson-Sopron",
       "de": "Komitat Győr-Moson-Sopron",
       "el": "Γκιόρ-Μοσόν-Σοπρόν",
+      "en": "Győr-Moson-Sopron",
       "es": "Győr-Moson-Sopron",
       "et": "Győr-Moson-Soproni komitaat",
       "eu": "Győr-Moson-Sopron",
@@ -927,7 +937,8 @@
       "ccp": "𑄉𑄭𑄠𑄮𑄢𑄴-𑄟𑄮𑄥𑄧𑄚𑄴-𑄥𑄮𑄛𑄳𑄢𑄧𑄚𑄴",
       "az": "Dyör-Moşon-Şopron",
       "mn": "Дьёр-Мошон-Шопрон",
-      "mk": "Ѓер-Мошон-Шопрон"
+      "mk": "Ѓер-Мошон-Шопрон",
+      "no": "Gyor Moson Sopron Fylke"
     },
     "comments": null
   },
@@ -944,7 +955,6 @@
       "max_longitude": 17.80789
     },
     "translations": {
-      "en": "Győr",
       "af": "Győr",
       "ar": "جيور",
       "be": "Горад Дзьёр",
@@ -955,6 +965,7 @@
       "da": "Győr",
       "de": "Győr",
       "el": "Γκιούρ",
+      "en": "Győr",
       "es": "Győr",
       "et": "Győr",
       "eu": "Győr",
@@ -1007,7 +1018,8 @@
       "kk": "Дьер",
       "az": "Dyor",
       "uz": "Dyor",
-      "mk": "Ѓер"
+      "mk": "Ѓер",
+      "no": "Győr"
     },
     "comments": null
   },
@@ -1024,7 +1036,6 @@
       "max_longitude": 22.1297241
     },
     "translations": {
-      "en": "Hajdú-Bihar",
       "ar": "مقاطعة هايدو-بيهار",
       "bg": "Хайду-Бихар",
       "bn": "হজদু-বিহার কাউন্টি",
@@ -1033,6 +1044,7 @@
       "da": "Hajdú-Bihar",
       "de": "Komitat Hajdú-Bihar",
       "el": "Χάτζντου-Μπιχάρ",
+      "en": "Hajdú-Bihar",
       "es": "Hajdú-Bihar",
       "et": "Hajdú-Bihari komitaat",
       "eu": "Hajdú-Bihar",
@@ -1079,7 +1091,8 @@
       "zh": "豪伊杜-比豪爾州",
       "ccp": "𑄦𑄌𑄴𑄓𑄪-𑄝𑄨𑄦𑄢𑄴",
       "be": "Хайду-Біхар",
-      "mk": "Хајду-Бихар"
+      "mk": "Хајду-Бихар",
+      "no": "Hajdu-Bihar Fylke"
     },
     "comments": null
   },
@@ -1096,7 +1109,6 @@
       "max_longitude": 20.3831291
     },
     "translations": {
-      "en": "Heves",
       "ar": "مقاطعة هفش",
       "be": "Хевеш",
       "bg": "Хевеш",
@@ -1106,6 +1118,7 @@
       "da": "Heves",
       "de": "Komitat Heves",
       "el": "Χέβςς",
+      "en": "Heves",
       "es": "Heves",
       "et": "Hevesi komitaat",
       "eu": "Heves",
@@ -1152,7 +1165,8 @@
       "zh": "赫維什州",
       "ccp": "𑄦𑄬𑄞𑄬𑄌𑄴",
       "hy": "Հևեշ",
-      "mk": "Хевеш"
+      "mk": "Хевеш",
+      "no": "Heves Fylke"
     },
     "comments": null
   },
@@ -1169,7 +1183,6 @@
       "max_longitude": 20.5828911
     },
     "translations": {
-      "en": "Hódmezővásárhely",
       "be": "Хадмезёвашархей",
       "bg": "Ходмезьовашархей",
       "ca": "Hódmezővásárhely",
@@ -1177,6 +1190,7 @@
       "da": "Hódmezővásárhely",
       "de": "Hódmezővásárhely",
       "el": "Χοντμεζοβάσαρχεϊ",
+      "en": "Hódmezővásárhely",
       "es": "Hódmezővásárhely",
       "et": "Hódmezővásárhely",
       "fa": "هدمزواشارهی",
@@ -1213,7 +1227,8 @@
       "ccp": "𑄦𑄮𑄖𑄴𑄟𑄬𑄎𑄮𑄞𑄥𑄢𑄴𑄦𑄬𑄣𑄨",
       "id": "Hódmezővásárhely",
       "az": "Xodmezövaşarxey",
-      "mk": "Ходмезевашархељ"
+      "mk": "Ходмезевашархељ",
+      "no": "Hódmezővásárhely"
     },
     "comments": null
   },
@@ -1230,7 +1245,6 @@
       "max_longitude": 21.0302648
     },
     "translations": {
-      "en": "Jász-Nagykun-Szolnok",
       "ar": "مقاطعة ياس-نادكون-سولنك",
       "bg": "Яс-Надкун-Солнок",
       "bn": "জায-নাগিকুন-জোলনক কাউন্টি",
@@ -1239,6 +1253,7 @@
       "da": "Jász-Nagykun-Szolnok",
       "de": "Komitat Jász-Nagykun-Szolnok",
       "el": "Τζασζ-Ναγκίκουν-Σζόλνοκ",
+      "en": "Jász-Nagykun-Szolnok",
       "es": "Jász-Nagykun-Szolnok",
       "et": "Jász-Nagykun-Szolnoki komitaat",
       "eu": "Jász-Nagykun-Szolnok",
@@ -1287,7 +1302,8 @@
       "ccp": "𑄎𑄌𑄴-𑄚𑄉𑄭𑄇𑄪𑄚𑄴-𑄥𑄪𑄣𑄴𑄚𑄧𑄇𑄴",
       "az": "Yas-Nadkun-Solnok",
       "be": "Яс-Надзькун-Сольнак",
-      "mk": "Јас-Наѓкун-Солнок"
+      "mk": "Јас-Наѓкун-Солнок",
+      "no": "Jasz Nagykun Szolnok fylke"
     },
     "comments": null
   },
@@ -1304,7 +1320,6 @@
       "max_longitude": 18.2301799
     },
     "translations": {
-      "en": "Komárom-Esztergom",
       "ar": "مقاطعة كوماروم-إستركوم",
       "be": "Камаром-Эстэргам",
       "bg": "Комаром-Естергом",
@@ -1314,6 +1329,7 @@
       "da": "Komárom-Esztergom",
       "de": "Komitat Komárom-Esztergom",
       "el": "Κομάρομ-Έσζτεργκομ",
+      "en": "Komárom-Esztergom",
       "es": "Komárom-Esztergom",
       "et": "Komárom-Esztergomi komitaat",
       "eu": "Komárom-Esztergom",
@@ -1360,7 +1376,8 @@
       "zh": "科馬羅姆-埃斯泰爾戈姆州",
       "ccp": "𑄇𑄮𑄟𑄢𑄪𑄚𑄴-𑄃𑄨𑄌𑄴𑄑𑄢𑄴𑄉𑄧𑄟𑄴",
       "mn": "Комаром-Эстергом",
-      "mk": "Комаром-Естергом"
+      "mk": "Комаром-Естергом",
+      "no": "Komarom-Esztergom fylke"
     },
     "comments": null
   },
@@ -1377,7 +1394,6 @@
       "max_longitude": 19.8515029
     },
     "translations": {
-      "en": "Kecskemét",
       "ar": "كيكسكيميت",
       "be": "Кечкемет",
       "bg": "Кечкемет",
@@ -1387,6 +1403,7 @@
       "da": "Kecskemét",
       "de": "Kecskemét",
       "el": "Κετσκέμετ",
+      "en": "Kecskemét",
       "es": "Kecskemét",
       "et": "Kecskemét",
       "eu": "Kecskemét",
@@ -1436,7 +1453,8 @@
       "ccp": "𑄇𑄬𑄌𑄴𑄇𑄬𑄟𑄬𑄖𑄴",
       "kk": "Кечкемет",
       "az": "Keçkemet",
-      "mk": "Кечкемет"
+      "mk": "Кечкемет",
+      "no": "Kecskemet"
     },
     "comments": null
   },
@@ -1453,7 +1471,6 @@
       "max_longitude": 17.8911989
     },
     "translations": {
-      "en": "Kaposvár",
       "ar": "كابوشفار",
       "be": "Капашвар",
       "bg": "Капошвар",
@@ -1463,6 +1480,7 @@
       "da": "Kaposvár",
       "de": "Kaposvár",
       "el": "Κάποσβαρ",
+      "en": "Kaposvár",
       "es": "Kaposvár",
       "et": "Kaposvár",
       "eu": "Kaposvár",
@@ -1512,7 +1530,8 @@
       "ccp": "𑄇𑄛𑄮𑄌𑄴𑄞𑄢𑄴",
       "kk": "Капошвар",
       "az": "Kapoşvar",
-      "mk": "Капошвар"
+      "mk": "Капошвар",
+      "no": "Kaposvár"
     },
     "comments": null
   },
@@ -1529,7 +1548,6 @@
       "max_longitude": 20.8697789
     },
     "translations": {
-      "en": "Miskolc",
       "af": "Miskolc",
       "ar": "ميشكولتس",
       "be": "Мішкальц",
@@ -1540,6 +1558,7 @@
       "da": "Miskolc",
       "de": "Miskolc",
       "el": "Μίσκολτς",
+      "en": "Miskolc",
       "es": "Miskolc",
       "et": "Miskolc",
       "eu": "Miskolc",
@@ -1590,7 +1609,8 @@
       "ky": "Мишкольц",
       "kk": "Мишкольц",
       "az": "Mişkolç",
-      "mk": "Мишколц"
+      "mk": "Мишколц",
+      "no": "Miskolc"
     },
     "comments": null
   },
@@ -1607,7 +1627,6 @@
       "max_longitude": 17.0906941
     },
     "translations": {
-      "en": "Nagykanizsa",
       "ar": "ناجيكانيزسا",
       "be": "Горад Надзьканіжа",
       "bg": "Надканижа",
@@ -1615,6 +1634,7 @@
       "cs": "Nagykanizsa",
       "da": "Nagykanizsa",
       "de": "Nagykanizsa",
+      "en": "Nagykanizsa",
       "es": "Nagykanizsa",
       "et": "Nagykanizsa",
       "eu": "Nagykanizsa",
@@ -1649,7 +1669,8 @@
       "sr_Latn": "Velika Kaniža",
       "zh": "瑙吉考尼饒",
       "jv": "Nagykanizsa",
-      "ccp": "𑄚𑄉𑄭𑄇𑄚𑄨𑄌𑄴𑄥"
+      "ccp": "𑄚𑄉𑄭𑄇𑄚𑄨𑄌𑄴𑄥",
+      "no": "Nagykanizsa"
     },
     "comments": null
   },
@@ -1666,7 +1687,6 @@
       "max_longitude": 19.1055319
     },
     "translations": {
-      "en": "Nógrád",
       "ar": "مقاطعة نوغراد",
       "bg": "Ноград",
       "bn": "নোগ্রাড কাউন্টি",
@@ -1675,6 +1695,7 @@
       "da": "Nógrád",
       "de": "Komitat Nógrád",
       "el": "Νόγκραντ",
+      "en": "Nógrád",
       "es": "Nógrád",
       "et": "Nógrádi komitaat",
       "eu": "Nógrád",
@@ -1722,7 +1743,8 @@
       "ccp": "𑄚𑄧𑄉𑄳𑄢𑄖𑄴",
       "az": "Noqrad",
       "be": "Ноград",
-      "mk": "Ноград"
+      "mk": "Ноград",
+      "no": "Nógrád"
     },
     "comments": null
   },
@@ -1739,7 +1761,6 @@
       "max_longitude": 21.844149
     },
     "translations": {
-      "en": "Nyíregyháza",
       "af": "Nyíregyháza",
       "ar": "نيرغهازا",
       "be": "Горад Ньірэдзьхаза",
@@ -1750,6 +1771,7 @@
       "da": "Nyíregyháza",
       "de": "Nyíregyháza",
       "el": "Νιρεγιχάσα",
+      "en": "Nyíregyháza",
       "es": "Nyíregyháza",
       "et": "Nyíregyháza",
       "eu": "Nyíregyháza",
@@ -1798,7 +1820,8 @@
       "zh": "尼賴吉哈佐",
       "ccp": "𑄚𑄭𑄢𑄴𑄢𑄬𑄉𑄭𑄦𑄎",
       "az": "Niredxaza",
-      "mk": "Њиреѓхаза"
+      "mk": "Њиреѓхаза",
+      "no": "Nyíregyháza"
     },
     "comments": null
   },
@@ -1815,7 +1838,6 @@
       "max_longitude": 20.1127141
     },
     "translations": {
-      "en": "Pest",
       "ar": "مقاطعة بشت",
       "be": "Пешт",
       "bg": "Пещ",
@@ -1823,6 +1845,7 @@
       "cs": "Pest",
       "da": "Pest",
       "de": "Komitat Pest",
+      "en": "Pest",
       "es": "Pest",
       "et": "Pesti komitaat",
       "eu": "Pest konderria",
@@ -1860,7 +1883,8 @@
       "sr_Latn": "Pešta",
       "zh": "佩斯州",
       "ccp": "𑄛𑄬𑄌𑄴𑄑𑄴",
-      "mk": "Пешта"
+      "mk": "Пешта",
+      "no": "Pest"
     },
     "comments": null
   },
@@ -1877,7 +1901,6 @@
       "max_longitude": 18.3654829
     },
     "translations": {
-      "en": "Pécs",
       "af": "Pécs",
       "ar": "بيتش",
       "be": "Печ",
@@ -1888,6 +1911,7 @@
       "da": "Pécs",
       "de": "Pécs",
       "el": "Πετς",
+      "en": "Pécs",
       "es": "Pécs",
       "et": "Pécs",
       "eu": "Pécs",
@@ -1938,7 +1962,8 @@
       "ccp": "𑄛𑄬𑄌𑄴𑄥𑄴",
       "az": "Peç",
       "bs": "Pečuh",
-      "mk": "Печ"
+      "mk": "Печ",
+      "no": "Pécs"
     },
     "comments": null
   },
@@ -1955,7 +1980,6 @@
       "max_longitude": 20.3085971
     },
     "translations": {
-      "en": "Szeged",
       "af": "Szeged",
       "ar": "سيجد",
       "be": "Сегед",
@@ -1966,6 +1990,7 @@
       "da": "Szeged",
       "de": "Szeged",
       "el": "Σέγκεντ",
+      "en": "Szeged",
       "es": "Szeged",
       "et": "Szeged",
       "eu": "Szeged",
@@ -2015,7 +2040,8 @@
       "jv": "Szeged",
       "ccp": "𑄎𑄎𑄬𑄖𑄴",
       "az": "Seqed",
-      "mk": "Сегедин"
+      "mk": "Сегедин",
+      "no": "Szeged"
     },
     "comments": null
   },
@@ -2032,7 +2058,6 @@
       "max_longitude": 18.553754
     },
     "translations": {
-      "en": "Székesfehérvár",
       "ar": "سيكشفهيرفار",
       "be": "Горад Секешфехервар",
       "bg": "Секешфехервар",
@@ -2042,6 +2067,7 @@
       "da": "Székesfehérvár",
       "de": "Székesfehérvár",
       "el": "Σεκεσφεχερβάρ",
+      "en": "Székesfehérvár",
       "es": "Székesfehérvár",
       "et": "Székesfehérvár",
       "eu": "Székesfehérvár",
@@ -2091,7 +2117,8 @@
       "ccp": "𑄎𑄬𑄇𑄬𑄌𑄴𑄜𑄬𑄦𑄬𑄢𑄴𑄞𑄢𑄴",
       "kk": "Секешфехервар",
       "az": "Sekeşfexervar",
-      "mk": "Секешфехервар"
+      "mk": "Секешфехервар",
+      "no": "Székesfehérvár"
     },
     "comments": null
   },
@@ -2108,7 +2135,6 @@
       "max_longitude": 16.6982231
     },
     "translations": {
-      "en": "Szombathely",
       "ar": "زومباثلي",
       "be": "Сомбатхей",
       "bg": "Сомбатхей",
@@ -2118,6 +2144,7 @@
       "da": "Szombathely",
       "de": "Szombathely",
       "el": "Σζομπαθέλι",
+      "en": "Szombathely",
       "es": "Szombathely",
       "et": "Szombathely",
       "eu": "Szombathely",
@@ -2166,7 +2193,8 @@
       "sq": "Szombathely",
       "ccp": "𑄎𑄮𑄟𑄴𑄝𑄗𑄬𑄣𑄨",
       "az": "Sombatxey",
-      "mk": "Сомбатхељ"
+      "mk": "Сомбатхељ",
+      "no": "Szombathely"
     },
     "comments": null
   },
@@ -2183,7 +2211,6 @@
       "max_longitude": 20.296315
     },
     "translations": {
-      "en": "Szolnok",
       "ar": "سزولنوك",
       "be": "Горад Сольнак",
       "bg": "Солнок",
@@ -2193,6 +2220,7 @@
       "da": "Szolnok",
       "de": "Szolnok",
       "el": "Ζόλνοκ",
+      "en": "Szolnok",
       "es": "Szolnok",
       "et": "Szolnok",
       "eu": "Szolnok",
@@ -2241,7 +2269,8 @@
       "ccp": "𑄎𑄮𑄣𑄴𑄚𑄧𑄇𑄴",
       "hr": "Szolnok",
       "az": "Solnok",
-      "mk": "Солнок"
+      "mk": "Солнок",
+      "no": "Szolnok"
     },
     "comments": null
   },
@@ -2258,7 +2287,6 @@
       "max_longitude": 16.7462818
     },
     "translations": {
-      "en": "Sopron",
       "af": "Sopron",
       "ar": "شوبرون",
       "be": "Горад Шопран",
@@ -2268,6 +2296,7 @@
       "da": "Sopron",
       "de": "Sopron",
       "el": "Σόπρον",
+      "en": "Sopron",
       "es": "Sopron",
       "et": "Sopron",
       "eu": "Sopron",
@@ -2307,7 +2336,8 @@
       "ccp": "𑄥𑄧𑄛𑄳𑄢𑄧𑄮𑄚𑄴",
       "kk": "Шопрон",
       "az": "Şopron",
-      "mk": "Шопрон"
+      "mk": "Шопрон",
+      "no": "Sopron"
     },
     "comments": null
   },
@@ -2324,7 +2354,6 @@
       "max_longitude": 18.2128418
     },
     "translations": {
-      "en": "Somogy",
       "ar": "مقاطعة شومود",
       "bg": "Шомод",
       "bn": "সোমোগি কাউন্টি",
@@ -2333,6 +2362,7 @@
       "da": "Somogy",
       "de": "Komitat Somogy",
       "el": "Σομόγκι",
+      "en": "Somogy",
       "es": "Somogy",
       "et": "Somogyi komitaat",
       "eu": "Somogy",
@@ -2380,7 +2410,8 @@
       "ccp": "𑄥𑄮𑄟𑄮𑄉𑄭",
       "mn": "Шомодь",
       "be": "медзье Шомадзь",
-      "mk": "Шомоѓ"
+      "mk": "Шомоѓ",
+      "no": "Saomogy fylke"
     },
     "comments": null
   },
@@ -2397,7 +2428,6 @@
       "max_longitude": 18.851653
     },
     "translations": {
-      "en": "Szekszárd",
       "ar": "سكسارد",
       "be": "Горад Сексард",
       "bg": "Сексард",
@@ -2406,7 +2436,8 @@
       "cs": "Szekszárd",
       "da": "Szekszárd",
       "de": "Szekszárd",
-      "el": "Σέξαρντ (Σέκσαρντ)",
+      "el": "Σέξαρντ",
+      "en": "Szekszárd",
       "es": "Szekszárd",
       "et": "Szekszárd",
       "eu": "Szekszárd",
@@ -2454,7 +2485,8 @@
       "zh": "塞克薩德",
       "ccp": "𑄎𑄬𑄇𑄴𑄎𑄢𑄴𑄓𑄴",
       "az": "Seksard",
-      "mk": "Сексард"
+      "mk": "Сексард",
+      "no": "Szekszárd"
     },
     "comments": null
   },
@@ -2471,7 +2503,6 @@
       "max_longitude": 19.9221181
     },
     "translations": {
-      "en": "Salgótarján",
       "ar": "سالجوتارجان",
       "bg": "Шалготарян",
       "bn": "সাল্গোতারিয়ান",
@@ -2480,6 +2511,7 @@
       "da": "Salgótarján",
       "de": "Salgótarján",
       "el": "Σαλγκόταριαν",
+      "en": "Salgótarján",
       "es": "Salgótarján",
       "et": "Salgótarján",
       "eu": "Salgótarján",
@@ -2527,7 +2559,8 @@
       "zh": "紹爾戈陶爾揚",
       "ccp": "𑄥𑄣𑄴𑄉𑄮𑄑𑄢𑄴𑄎𑄚𑄴",
       "az": "Şalqotariyan",
-      "mk": "Шалготарјан"
+      "mk": "Шалготарјан",
+      "no": "Salgótarján"
     },
     "comments": null
   },
@@ -2544,7 +2577,6 @@
       "max_longitude": 22.896544
     },
     "translations": {
-      "en": "Szabolcs-Szatmár-Bereg",
       "ar": "مقاطعة زابولكس-زاتمار-بيريج",
       "bg": "Саболч-Сатмар-Берег",
       "bn": "যাবলচেস-যাত্মার-বেরেগ কাউন্টি",
@@ -2553,6 +2585,7 @@
       "da": "Szabolcs-Szatmár-Bereg",
       "de": "Komitat Szabolcs-Szatmár-Bereg",
       "el": "Σζαμπόλκς-Σζατμάρ-Μπερέκ",
+      "en": "Szabolcs-Szatmár-Bereg",
       "es": "Szabolcs-Szatmár-Bereg",
       "et": "Szabolcs-Szatmár-Beregi komitaat",
       "eu": "Szabolcs-Szatmár-Bereg",
@@ -2601,7 +2634,8 @@
       "hy": "Սաբոլճ-Սատմար-Բերեգ շրջան",
       "az": "Sabolç-Satmar-Bereq",
       "be": "Сабальч-Сатмар-Берэг",
-      "mk": "Саболч-Сатмар-Берег"
+      "mk": "Саболч-Сатмар-Берег",
+      "no": "Szaboles Szatmar Bereg fylke"
     },
     "comments": null
   },
@@ -2618,7 +2652,6 @@
       "max_longitude": 18.4973549
     },
     "translations": {
-      "en": "Tatabánya",
       "ar": "تاتابانيا",
       "be": "Горад Татабанья",
       "bg": "Татабаня",
@@ -2628,6 +2661,7 @@
       "da": "Tatabánya",
       "de": "Tatabánya",
       "el": "Ταταμπάνια",
+      "en": "Tatabánya",
       "es": "Tatabánya",
       "et": "Tatabánya",
       "eu": "Tatabánya",
@@ -2676,7 +2710,8 @@
       "hy": "Թաթաբանյա",
       "hr": "Tatabánya",
       "az": "Tatabanya",
-      "mk": "Татабања"
+      "mk": "Татабања",
+      "no": "Tatabanya"
     },
     "comments": null
   },
@@ -2693,7 +2728,6 @@
       "max_longitude": 18.8259278
     },
     "translations": {
-      "en": "Tolna",
       "ar": "مقاطعة تولنا",
       "be": "медзье Тольна",
       "bg": "Толна",
@@ -2703,6 +2737,7 @@
       "da": "Tolna",
       "de": "Komitat Tolna",
       "el": "Κομητεία Τόλνα",
+      "en": "Tolna",
       "es": "Tolna",
       "et": "Tolna komitaat",
       "eu": "Tolna",
@@ -2748,7 +2783,8 @@
       "sr_Latn": "Tolna",
       "zh": "托爾瑙州",
       "ccp": "𑄑𑄮𑄣𑄴𑄚",
-      "mk": "Толна"
+      "mk": "Толна",
+      "no": "Tolna Fylke"
     },
     "comments": null
   },
@@ -2765,7 +2801,6 @@
       "max_longitude": 17.295531
     },
     "translations": {
-      "en": "Vas",
       "ar": "مقاطعة فاس",
       "be": "Ваш",
       "bg": "Ваш",
@@ -2775,6 +2810,7 @@
       "da": "Vas",
       "de": "Komitat Vas",
       "el": "Βας",
+      "en": "Vas",
       "es": "Vas",
       "et": "Vasi komitaat",
       "eu": "Vas konderria",
@@ -2822,7 +2858,8 @@
       "zh": "沃什州",
       "ccp": "𑄞𑄌𑄴",
       "mn": "Ваш",
-      "mk": "Ваш"
+      "mk": "Ваш",
+      "no": "Vas Fylke"
     },
     "comments": null
   },
@@ -2839,7 +2876,6 @@
       "max_longitude": 17.9937111
     },
     "translations": {
-      "en": "Veszprém County",
       "ar": "مقاطعة فسبرم",
       "be": "Веспрэм",
       "bg": "Веспрем",
@@ -2849,6 +2885,7 @@
       "da": "Veszprém",
       "de": "Komitat Veszprém",
       "el": "Κομητεία Βετσπρέμ",
+      "en": "Veszprém County",
       "es": "Veszprém",
       "et": "Veszprémi komitaat",
       "eu": "Veszprém",
@@ -2894,7 +2931,8 @@
       "sr_Latn": "Vesprem",
       "zh": "維斯普雷姆州",
       "ccp": "𑄞𑄬𑄌𑄴𑄛𑄳𑄢𑄬𑄟𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
-      "mk": "Веспрем"
+      "mk": "Веспрем",
+      "no": "Veszprém"
     },
     "comments": null
   },
@@ -2911,23 +2949,23 @@
       "max_longitude": 17.9937111
     },
     "translations": {
-      "en": "Veszprém",
       "ar": "فيسبرم",
       "az": "Vesprem",
       "be": "Горад Веспрэм",
-      "bg": "Веспрем²",
+      "bg": "Веспрем",
       "bn": "ভেসপ্রেম",
-      "ca": "Veszprém²",
-      "cs": "Veszprém²",
-      "da": "Veszprém²",
+      "ca": "Veszprém",
+      "cs": "Veszprém",
+      "da": "Veszprém",
       "de": "Veszprém",
       "el": "Βεσζπρέμ",
-      "es": "Veszprém²",
+      "en": "Veszprém",
+      "es": "Veszprém",
       "et": "Veszprém",
-      "eu": "Veszprém²",
+      "eu": "Veszprém",
       "fa": "وسپریم",
-      "fi": "Veszprém²",
-      "fr": "Veszprém²",
+      "fi": "Veszprém",
+      "fr": "Veszprém",
       "gl": "Veszprém",
       "gu": "વેસ્ઝપ્રેમ",
       "he": "וספרם",
@@ -2935,32 +2973,32 @@
       "hr": "Vesprim",
       "hu": "Veszprém",
       "hy": "Վեսպրեմ",
-      "id": "Veszprém²",
+      "id": "Veszprém",
       "it": "Veszprém",
       "ja": "ヴェスプレーム",
       "ka": "ვესპრემი",
       "kn": "ವೆಸ್ಜ್ಪ್ರೆಮ್",
       "ko": "베스프렘",
-      "lt": "Vesprėmas²",
+      "lt": "Vesprėmas",
       "mr": "वेसीझप्रेम",
-      "ms": "Veszprém²",
-      "nb": "Veszprém²",
-      "nl": "Veszprém²",
+      "ms": "Veszprém",
+      "nb": "Veszprém",
+      "nl": "Veszprém",
       "pl": "Veszprém",
-      "pt": "Veszprém²",
+      "pt": "Veszprém",
       "ro": "Veszprém",
-      "ru": "Веспрем²",
+      "ru": "Веспрем",
       "si": "වෙස්ප්‍රේම්",
       "sk": "Vesprém",
-      "sl": "Veszprém²",
-      "sr": "Веспрем²",
-      "sv": "Veszprém²",
-      "sw": "Veszprém²",
+      "sl": "Veszprém",
+      "sr": "Веспрем",
+      "sv": "Veszprém",
+      "sw": "Veszprém",
       "ta": "வெஸ்பிரேம்",
       "te": "వేస్జ్ ప్రేమ్",
       "th": "เวสเปรม",
       "tr": "Veszprém",
-      "uk": "Веспрем²",
+      "uk": "Веспрем",
       "ur": "ویسزپریم",
       "vi": "Veszprém",
       "lv": "Vesprēma",
@@ -2969,7 +3007,8 @@
       "sr_Latn": "Vesprem²",
       "zh": "維斯普雷姆",
       "ccp": "𑄞𑄬𑄌𑄴𑄛𑄳𑄢𑄬𑄟𑄴",
-      "mk": "Веспрем²"
+      "mk": "Веспрем²",
+      "no": "Veszprém²"
     },
     "comments": null
   },
@@ -3041,7 +3080,8 @@
       "zh": "佐洛州",
       "ccp": "𑄎𑄣",
       "mn": "Зала",
-      "mk": "Зала"
+      "mk": "Зала",
+      "no": "Zala Fylke"
     },
     "comments": null
   },
@@ -3116,7 +3156,8 @@
       "zh": "佐洛埃格塞格",
       "ccp": "𑄎𑄣𑄎𑄬𑄢𑄴𑄎𑄬𑄇𑄴",
       "az": "Zalaeqerseq",
-      "mk": "Залаегерсег"
+      "mk": "Залаегерсег",
+      "no": "Zalaegerszeg"
     },
     "comments": null
   }

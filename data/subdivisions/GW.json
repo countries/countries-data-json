@@ -52,7 +52,8 @@
       "zh": "巴法塔區",
       "lv": "Bafatas reģions",
       "ceb": "Bafatá",
-      "ccp": "𑄝𑄜𑄑"
+      "ccp": "𑄝𑄜𑄑",
+      "no": "Bafatá"
     },
     "comments": null
   },
@@ -110,7 +111,8 @@
       "lv": "Bolamas reģions",
       "ceb": "Bolama",
       "zh": "博拉馬區",
-      "ccp": "𑄝𑄧𑄣𑄟"
+      "ccp": "𑄝𑄧𑄣𑄟",
+      "no": "Bolama"
     },
     "comments": null
   },
@@ -167,7 +169,8 @@
       "lv": "Biombo reģions",
       "ceb": "Biombo",
       "zh": "比翁博區",
-      "ccp": "𑄝𑄭𑄃𑄮𑄟𑄴𑄝𑄮"
+      "ccp": "𑄝𑄭𑄃𑄮𑄟𑄴𑄝𑄮",
+      "no": "Biombo"
     },
     "comments": null
   },
@@ -259,7 +262,9 @@
       "yo": "Bissau",
       "uz": "Bisau",
       "bs": "Bissau",
-      "mk": "Бисао"
+      "mk": "Бисао",
+      "no": "Bissau",
+      "yo_BJ": "Bissau"
     },
     "comments": null
   },
@@ -318,7 +323,8 @@
       "ceb": "Cacheu Region",
       "zh": "卡謝烏區",
       "ccp": "𑄇𑄬𑄌𑄬𑄅𑄪",
-      "uk": "Регіон Кашеу"
+      "uk": "Регіон Кашеу",
+      "no": "Cacheu"
     },
     "comments": null
   },
@@ -374,7 +380,8 @@
       "lv": "Gabu reģions",
       "zh": "加布區",
       "ccp": "𑄉𑄝𑄪",
-      "uk": "Регіон Габу"
+      "uk": "Регіон Габу",
+      "no": "Gabú"
     },
     "comments": null
   },
@@ -432,7 +439,8 @@
       "ceb": "Oio Region",
       "zh": "奧約區",
       "ccp": "𑄃𑄮𑄃𑄰",
-      "uk": "Ойо"
+      "uk": "Ойо",
+      "no": "Oio"
     },
     "comments": null
   },
@@ -490,7 +498,8 @@
       "ceb": "Quinara",
       "zh": "基納拉區",
       "ccp": "𑄇𑄭𑄪𑄚𑄢",
-      "uk": "Регіон Кінара"
+      "uk": "Регіон Кінара",
+      "no": "Quinara"
     },
     "comments": null
   },
@@ -547,12 +556,13 @@
       "ceb": "Tombali",
       "zh": "通巴利區",
       "ccp": "𑄑𑄟𑄴𑄝𑄣𑄨",
-      "uk": "Район Томбалі"
+      "uk": "Район Томбалі",
+      "no": "Tombali"
     },
     "comments": null
   },
   "L": {
-    "name": null,
+    "name": "Leste",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -571,7 +581,7 @@
     "comments": null
   },
   "N": {
-    "name": null,
+    "name": "Norte",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -590,7 +600,7 @@
     "comments": null
   },
   "S": {
-    "name": null,
+    "name": "Sul",
     "code": null,
     "unofficial_names": null,
     "geo": {

@@ -1,38 +1,4 @@
 {
-  "AA": {
-    "name": "Armed Forces Americas",
-    "code": null,
-    "unofficial_names": "Armed Forces Americas",
-    "geo": {
-      "latitude": 33.8934985,
-      "longitude": -117.2732567,
-      "min_latitude": 33.8403275,
-      "min_longitude": -117.2985014,
-      "max_latitude": 33.9460679,
-      "max_longitude": -117.2498013
-    },
-    "translations": {
-      "en": "Armed Forces Americas"
-    },
-    "comments": null
-  },
-  "AE": {
-    "name": "Armed Forces Europe",
-    "code": null,
-    "unofficial_names": "Armed Forces Europe",
-    "geo": {
-      "latitude": 59.90441850000001,
-      "longitude": 10.7408094,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Armed Forces Europe"
-    },
-    "comments": null
-  },
   "AK": {
     "name": "Alaska",
     "code": null,
@@ -128,7 +94,10 @@
       "yo": "Alaska",
       "uz": "Alyaska",
       "bs": "Alaska",
-      "mk": "Алјаска"
+      "mk": "Алјаска",
+      "ha_NE": "Alaska",
+      "no": "Alaska",
+      "yo_BJ": "Alaska"
     },
     "comments": null
   },
@@ -226,24 +195,9 @@
       "yo": "Ìpínlẹ̀ Alabama",
       "uz": "Alabama",
       "bs": "Alabama",
-      "mk": "Алабама"
-    },
-    "comments": null
-  },
-  "AP": {
-    "name": "Armed Forces Pacific",
-    "code": null,
-    "unofficial_names": "Armed Forces Pacific",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Armed Forces Pacific"
+      "mk": "Алабама",
+      "ha_NE": "Alabama",
+      "no": "Alabama"
     },
     "comments": null
   },
@@ -339,7 +293,10 @@
       "yo": "Arkansas",
       "uz": "Arkanzas",
       "bs": "Arkansas",
-      "mk": "Арканзас"
+      "mk": "Арканзас",
+      "ha_NE": "Arkansas",
+      "no": "Arkansas",
+      "yo_BJ": "Arkansas"
     },
     "comments": null
   },
@@ -454,7 +411,10 @@
       "yo": "Arizona",
       "uz": "Arizona",
       "bs": "Arizona",
-      "mk": "Аризона"
+      "mk": "Аризона",
+      "ha_NE": "Arizona",
+      "no": "Arizona",
+      "yo_BJ": "Arizona"
     },
     "comments": null
   },
@@ -556,7 +516,9 @@
       "zu": "California",
       "uz": "Kaliforniya",
       "bs": "Kalifornija",
-      "mk": "Калифорнија"
+      "mk": "Калифорнија",
+      "ha_NE": "California",
+      "no": "California"
     },
     "comments": null
   },
@@ -653,7 +615,10 @@
       "zu": "Colorado",
       "uz": "Kolorado",
       "bs": "Colorado",
-      "mk": "Колорадо"
+      "mk": "Колорадо",
+      "ha_NE": "Colorado",
+      "no": "Colorado",
+      "yo_BJ": "Colorado"
     },
     "comments": null
   },
@@ -747,7 +712,10 @@
       "zu": "Connecticut",
       "uz": "Konnektikut",
       "bs": "Connecticut",
-      "mk": "Конектикат"
+      "mk": "Конектикат",
+      "ha_NE": "Connecticut",
+      "no": "Connecticut",
+      "yo_BJ": "Connecticut"
     },
     "comments": null
   },
@@ -829,7 +797,8 @@
       "ceb": "District of Columbia",
       "sr_Latn": "Vašington",
       "ccp": "𑄤𑄥𑄨𑄁𑄑𑄧𑄚𑄴 𑄓𑄨𑄥𑄨",
-      "uz": "Kolumbiya okrugi"
+      "uz": "Kolumbiya okrugi",
+      "no": "Washington D.C."
     },
     "comments": null
   },
@@ -923,7 +892,10 @@
       "yo": "Delaware",
       "uz": "Delaver",
       "bs": "Delaware",
-      "mk": "Делавер"
+      "mk": "Делавер",
+      "ha_NE": "Delaware",
+      "no": "Delaware",
+      "yo_BJ": "Delaware"
     },
     "comments": null
   },
@@ -1020,7 +992,10 @@
       "zu": "Florida",
       "uz": "Florida",
       "bs": "Florida",
-      "mk": "Флорида"
+      "mk": "Флорида",
+      "ha_NE": "Florida",
+      "no": "Florida",
+      "yo_BJ": "Florida"
     },
     "comments": null
   },
@@ -1116,7 +1091,8 @@
       "uz": "Jorjiya",
       "bs": "Georgia",
       "mk": "Џорџија",
-      "tk": "Jorjiýa"
+      "tk": "Jorjiýa",
+      "no": "Georgia"
     },
     "comments": null
   },
@@ -1232,7 +1208,10 @@
       "zu": "Hawaii",
       "uz": "Gavayi",
       "bs": "Hawaii",
-      "mk": "Хаваи"
+      "mk": "Хаваи",
+      "ha_NE": "Hawaii",
+      "no": "Hawaii",
+      "yo_BJ": "Hawaii"
     },
     "comments": null
   },
@@ -1327,7 +1306,10 @@
       "yo": "Iowa",
       "uz": "Ayova",
       "bs": "Iowa",
-      "mk": "Ајова"
+      "mk": "Ајова",
+      "ha_NE": "Iowa",
+      "no": "Iowa",
+      "yo_BJ": "Iowa"
     },
     "comments": null
   },
@@ -1421,7 +1403,9 @@
       "zu": "Idaho",
       "uz": "Aydaho",
       "bs": "Idaho",
-      "mk": "Ајдахо"
+      "mk": "Ајдахо",
+      "no": "Idaho",
+      "yo_BJ": "Idaho"
     },
     "comments": null
   },
@@ -1516,7 +1500,9 @@
       "yo": "Illinois",
       "uz": "Illinoys",
       "bs": "Illinois",
-      "mk": "Илиноис"
+      "mk": "Илиноис",
+      "no": "Illinois",
+      "yo_BJ": "Illinois"
     },
     "comments": null
   },
@@ -1611,7 +1597,10 @@
       "zu": "Indiana",
       "uz": "Indiana",
       "bs": "Indiana",
-      "mk": "Индијана"
+      "mk": "Индијана",
+      "ha_NE": "Indiana",
+      "no": "Indiana",
+      "yo_BJ": "Indiana"
     },
     "comments": null
   },
@@ -1704,7 +1693,9 @@
       "yo": "Kansas",
       "uz": "Kanzas",
       "bs": "Kansas",
-      "mk": "Канзас"
+      "mk": "Канзас",
+      "no": "Kansas",
+      "yo_BJ": "Kansas"
     },
     "comments": null
   },
@@ -1797,7 +1788,9 @@
       "yo": "Kentucky",
       "uz": "Kentukki",
       "bs": "Kentucky",
-      "mk": "Кентаки"
+      "mk": "Кентаки",
+      "no": "Kentucky",
+      "yo_BJ": "Kentucky"
     },
     "comments": null
   },
@@ -1890,7 +1883,9 @@
       "yo": "Louisiana",
       "uz": "Luiziana",
       "bs": "Louisiana",
-      "mk": "Луизијана"
+      "mk": "Луизијана",
+      "no": "Louisiana",
+      "yo_BJ": "Louisiana"
     },
     "comments": null
   },
@@ -1986,7 +1981,9 @@
       "zu": "Massachusetts",
       "uz": "Massachusetts",
       "bs": "Massachusetts",
-      "mk": "Масачусетс"
+      "mk": "Масачусетс",
+      "no": "Massachusetts",
+      "yo_BJ": "Massachusetts"
     },
     "comments": null
   },
@@ -2080,7 +2077,9 @@
       "zu": "Maryland",
       "uz": "Maryland",
       "bs": "Maryland",
-      "mk": "Мериленд"
+      "mk": "Мериленд",
+      "no": "Maryland",
+      "yo_BJ": "Maryland"
     },
     "comments": null
   },
@@ -2173,7 +2172,9 @@
       "yo": "Maine",
       "uz": "Meyn",
       "bs": "Maine",
-      "mk": "Мејн"
+      "mk": "Мејн",
+      "no": "Maine",
+      "yo_BJ": "Maine"
     },
     "comments": null
   },
@@ -2267,7 +2268,9 @@
       "yo": "Michigan",
       "uz": "Michigan",
       "bs": "Michigan",
-      "mk": "Мичиген"
+      "mk": "Мичиген",
+      "no": "Michigan",
+      "yo_BJ": "Michigan"
     },
     "comments": null
   },
@@ -2361,7 +2364,9 @@
       "yo": "Minnesota",
       "uz": "Minnesota",
       "bs": "Minnesota",
-      "mk": "Минесота"
+      "mk": "Минесота",
+      "no": "Minnesota",
+      "yo_BJ": "Minnesota"
     },
     "comments": null
   },
@@ -2455,7 +2460,8 @@
       "yo": "Ìpínlẹ̀ Missouri",
       "uz": "Missuri",
       "bs": "Missouri",
-      "mk": "Мисури"
+      "mk": "Мисури",
+      "no": "Missouri"
     },
     "comments": null
   },
@@ -2567,7 +2573,8 @@
       "yo": "Ìpínlẹ̀ Mississippi",
       "uz": "Mississippi",
       "bs": "Mississippi",
-      "mk": "Мисисипи"
+      "mk": "Мисисипи",
+      "no": "Mississippi"
     },
     "comments": null
   },
@@ -2661,7 +2668,10 @@
       "yo": "Montana",
       "uz": "Montana",
       "bs": "Montana",
-      "mk": "Монтана"
+      "mk": "Монтана",
+      "ha_NE": "Montana",
+      "no": "Montana",
+      "yo_BJ": "Montana"
     },
     "comments": null
   },
@@ -2753,7 +2763,9 @@
       "yo": "Àríwá Carolina",
       "uz": "Shimoliy Karolina",
       "bs": "Sjeverna Karolina",
-      "mk": "Северна Каролина"
+      "mk": "Северна Каролина",
+      "no": "Nord-Carolina",
+      "yo_BJ": "Àríwá Carolina"
     },
     "comments": null
   },
@@ -2847,7 +2859,10 @@
       "yo": "Àríwá Dakota",
       "uz": "Shimoliy Dakota",
       "bs": "Sjeverna Dakota",
-      "mk": "Северна Дакота"
+      "mk": "Северна Дакота",
+      "ha_NE": "North Dakota",
+      "no": "Nord-Dakota",
+      "yo_BJ": "Àríwá Dakota"
     },
     "comments": null
   },
@@ -2941,7 +2956,10 @@
       "yo": "Nebraska",
       "uz": "Nebraska",
       "bs": "Nebraska",
-      "mk": "Небраска"
+      "mk": "Небраска",
+      "ha_NE": "Nebraska",
+      "no": "Nebraska",
+      "yo_BJ": "Nebraska"
     },
     "comments": null
   },
@@ -3035,7 +3053,9 @@
       "yo": "New Hampshire",
       "uz": "Nyu-Xempshir",
       "bs": "New Hampshire",
-      "mk": "Њу Хемпшир"
+      "mk": "Њу Хемпшир",
+      "no": "New Hampshire",
+      "yo_BJ": "New Hampshire"
     },
     "comments": null
   },
@@ -3129,7 +3149,9 @@
       "zu": "New Jersey",
       "uz": "Nʼyu-Jersi",
       "bs": "New Jersey",
-      "mk": "Њу Џерси"
+      "mk": "Њу Џерси",
+      "no": "New Jersey",
+      "yo_BJ": "New Jersey"
     },
     "comments": null
   },
@@ -3225,7 +3247,9 @@
       "yo": "Ìpínlẹ̀ Titun Mẹ́ksíkò",
       "uz": "Nʼyu-Meksiko",
       "bs": "New Mexico",
-      "mk": "Ново Мексико"
+      "mk": "Ново Мексико",
+      "ha_NE": "New Mexico",
+      "no": "New Mexico"
     },
     "comments": null
   },
@@ -3320,7 +3344,10 @@
       "zu": "Nevada",
       "uz": "Nevada",
       "bs": "Nevada",
-      "mk": "Невада"
+      "mk": "Невада",
+      "ha_NE": "Nevada",
+      "no": "Nevada",
+      "yo_BJ": "Nevada"
     },
     "comments": null
   },
@@ -3423,7 +3450,9 @@
       "zu": "New York Isifunda",
       "uz": "Nyu York",
       "bs": "New York",
-      "mk": "Њујорк"
+      "mk": "Њујорк",
+      "ha_NE": "New York (jiha)",
+      "no": "New York"
     },
     "comments": null
   },
@@ -3517,7 +3546,10 @@
       "yo": "Ohio",
       "uz": "Ogayo",
       "bs": "Ohio",
-      "mk": "Охајо"
+      "mk": "Охајо",
+      "ha_NE": "Ohio",
+      "no": "Ohio",
+      "yo_BJ": "Ohio"
     },
     "comments": null
   },
@@ -3612,7 +3644,10 @@
       "yo": "Oklahoma",
       "uz": "Oklaxoma",
       "bs": "Oklahoma",
-      "mk": "Оклахома"
+      "mk": "Оклахома",
+      "ha_NE": "Oklahoma",
+      "no": "Oklahoma",
+      "yo_BJ": "Oklahoma"
     },
     "comments": null
   },
@@ -3706,7 +3741,10 @@
       "yo": "Oregon",
       "uz": "Oregon",
       "bs": "Oregon",
-      "mk": "Орегон"
+      "mk": "Орегон",
+      "ha_NE": "Oregon",
+      "no": "Oregon",
+      "yo_BJ": "Oregon"
     },
     "comments": null
   },
@@ -3801,7 +3839,9 @@
       "zu": "Pennsylvania",
       "uz": "Pennsilvaniya",
       "bs": "Pennsylvania",
-      "mk": "Пенсилванија"
+      "mk": "Пенсилванија",
+      "no": "Pennsylvania",
+      "yo_BJ": "Pennsylvania"
     },
     "comments": null
   },
@@ -3913,7 +3953,8 @@
       "yo": "Erékùṣù Rhode",
       "uz": "Rod-Aylend",
       "bs": "Rhode Island",
-      "mk": "Род Ајленд"
+      "mk": "Род Ајленд",
+      "no": "Rhode Island"
     },
     "comments": null
   },
@@ -4005,7 +4046,9 @@
       "yo": "Gúúsù Carolina",
       "uz": "Janubiy Karolina",
       "bs": "Južna Karolina",
-      "mk": "Јужна Каролина"
+      "mk": "Јужна Каролина",
+      "no": "Sør-Carolina",
+      "yo_BJ": "Gúúsù Carolina"
     },
     "comments": null
   },
@@ -4099,7 +4142,10 @@
       "yo": "Gúúsù Dakota",
       "uz": "Janubiy Dakota",
       "bs": "Južna Dakota",
-      "mk": "Јужна Дакота"
+      "mk": "Јужна Дакота",
+      "ha_NE": "South Dakota",
+      "no": "Sør-Dakota",
+      "yo_BJ": "Gúúsù Dakota"
     },
     "comments": null
   },
@@ -4192,7 +4238,9 @@
       "yo": "Tennessee",
       "uz": "Tennessi",
       "bs": "Tennessee",
-      "mk": "Тенеси"
+      "mk": "Тенеси",
+      "no": "Tennessee",
+      "yo_BJ": "Tennessee"
     },
     "comments": null
   },
@@ -4289,7 +4337,10 @@
       "zu": "Texas",
       "uz": "Texas",
       "bs": "Texas",
-      "mk": "Тексас"
+      "mk": "Тексас",
+      "ha_NE": "Texas",
+      "no": "Texas",
+      "yo_BJ": "Texas"
     },
     "comments": null
   },
@@ -4402,7 +4453,10 @@
       "zu": "Utah",
       "uz": "Yuta",
       "bs": "Utah",
-      "mk": "Јута"
+      "mk": "Јута",
+      "ha_NE": "Utah",
+      "no": "Utah",
+      "yo_BJ": "Utah"
     },
     "comments": null
   },
@@ -4498,7 +4552,10 @@
       "zu": "Virginia",
       "uz": "Virjiniya",
       "bs": "Virginia",
-      "mk": "Вирџинија"
+      "mk": "Вирџинија",
+      "ha_NE": "Virginia",
+      "no": "Virginia",
+      "yo_BJ": "Firginia"
     },
     "comments": null
   },
@@ -4611,7 +4668,10 @@
       "zu": "Vermont",
       "uz": "Vermont",
       "bs": "Vermont",
-      "mk": "Вермонт"
+      "mk": "Вермонт",
+      "ha_NE": "Vermont",
+      "no": "Vermont",
+      "yo_BJ": "Fermont"
     },
     "comments": null
   },
@@ -4708,7 +4768,8 @@
       "uz": "Vashington shtati",
       "bs": "Washington",
       "mk": "Вашингтон",
-      "ne": "वाशिङ्गटन डि.सि."
+      "ne": "वाशिङ्गटन डि.सि.",
+      "no": "Washington"
     },
     "comments": null
   },
@@ -4804,7 +4865,10 @@
       "yo": "Wisconsin",
       "uz": "Viskonsin",
       "bs": "Wisconsin",
-      "mk": "Висконсин"
+      "mk": "Висконсин",
+      "ha_NE": "Wisconsin",
+      "no": "Wisconsin",
+      "yo_BJ": "Wisconsin"
     },
     "comments": null
   },
@@ -4897,7 +4961,8 @@
       "my": "အနောက် ဗာဂျီးနီးယားပြည်နယ်",
       "yo": "Ìwọ̀orùn Firginia",
       "bs": "Zapadna Virginia",
-      "mk": "Западна Вирџинија"
+      "mk": "Западна Вирџинија",
+      "no": "Vest-Virginia"
     },
     "comments": null
   },
@@ -4993,7 +5058,10 @@
       "zu": "Wyoming",
       "uz": "Vayoming",
       "bs": "Wyoming",
-      "mk": "Вајоминг"
+      "mk": "Вајоминг",
+      "ha_NE": "Wyoming",
+      "no": "Wyoming",
+      "yo_BJ": "Wyoming"
     },
     "comments": null
   }

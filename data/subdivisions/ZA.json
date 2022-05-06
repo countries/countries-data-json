@@ -76,7 +76,9 @@
       "yue": "東開普",
       "az": "Şərqi Burun vilayəti",
       "yo": "Eastern Cape",
-      "mk": "Источен Кејп"
+      "mk": "Источен Кејп",
+      "no": "Eastern Cape",
+      "yo_BJ": "Eastern Cape"
     },
     "comments": null
   },
@@ -160,7 +162,9 @@
       "my": "ဩရိန်းပြည်နယ်",
       "be": "Фры-Стэйт",
       "yo": "Free State",
-      "mk": "Фристејт"
+      "mk": "Фристејт",
+      "no": "Free State",
+      "yo_BJ": "Free State"
     },
     "comments": null
   },
@@ -242,7 +246,9 @@
       "yue": "豪登",
       "az": "Qautenq vilayəti",
       "yo": "Gauteng",
-      "mk": "Гаутенг"
+      "mk": "Гаутенг",
+      "no": "Gauteng",
+      "yo_BJ": "Gauteng"
     },
     "comments": null
   },
@@ -321,7 +327,9 @@
       "yue": "林波波",
       "az": "Limpopo vilayəti",
       "yo": "Limpopo",
-      "mk": "Лимпопо"
+      "mk": "Лимпопо",
+      "no": "Limpopo",
+      "yo_BJ": "Limpopo"
     },
     "comments": null
   },
@@ -401,7 +409,9 @@
       "yue": "普馬蘭加",
       "az": "Mpumalanqa vilayəti",
       "yo": "Mpumalanga",
-      "mk": "Мпумаланга"
+      "mk": "Мпумаланга",
+      "no": "Mpumalanga",
+      "yo_BJ": "Mpumalanga"
     },
     "comments": null
   },
@@ -479,7 +489,9 @@
       "so": "Northern Cape Province",
       "yue": "北開普",
       "yo": "Northern Cape",
-      "mk": "Северен Кејп"
+      "mk": "Северен Кејп",
+      "no": "Northern Cape",
+      "yo_BJ": "Northern Cape"
     },
     "comments": null
   },
@@ -560,7 +572,9 @@
       "yue": "夸祖魯-納塔爾",
       "az": "Kvazulu-Natal vilayəti",
       "yo": "KwaZulu-Natal",
-      "mk": "Натал"
+      "mk": "Натал",
+      "no": "KwaZulu-Natal",
+      "yo_BJ": "KwaZulu-Natal"
     },
     "comments": null
   },
@@ -638,7 +652,8 @@
       "yue": "西北省",
       "az": "Şimal-Qərb vilayəti",
       "yo": "Àríwá-Ìwọòrùn",
-      "mk": "Северозапад"
+      "mk": "Северозапад",
+      "no": "North West"
     },
     "comments": null
   },
@@ -720,12 +735,14 @@
       "ml": "പടിഞ്ഞാറൻ കേപ്",
       "yue": "西開普",
       "yo": "Western Cape",
-      "mk": "Западен Кејп"
+      "mk": "Западен Кејп",
+      "no": "Western Cape",
+      "yo_BJ": "Western Cape"
     },
     "comments": null
   },
   "GP": {
-    "name": null,
+    "name": "Gauteng",
     "code": null,
     "unofficial_names": null,
     "geo": null,
@@ -735,7 +752,7 @@
     "comments": null
   },
   "KZN": {
-    "name": null,
+    "name": "KwaZulu-Natal",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -747,7 +764,7 @@
       "max_longitude": 32.8909911
     },
     "translations": {
-      "en": "Kwazulu-Natal"
+      "en": "KwaZulu-Natal"
     },
     "comments": null
   }

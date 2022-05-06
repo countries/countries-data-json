@@ -65,7 +65,8 @@
       "ccp": "𑄃𑄣𑄭𑄑𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Alytus",
       "bs": "Okrug Alitus",
-      "mk": "Алитушки округ"
+      "mk": "Алитушки округ",
+      "no": "Alytus fylke"
     },
     "comments": null
   },
@@ -128,7 +129,8 @@
       "hy": "Կլայպեդի գավառ",
       "th": "เทศมณฑลไคลเพดา",
       "bs": "Okrug Klaipėda",
-      "mk": "Клајпедски округ"
+      "mk": "Клајпедски округ",
+      "no": "Klaipėda fylke"
     },
     "comments": null
   },
@@ -198,7 +200,8 @@
       "ccp": "𑄇𑄯𑄚𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Kaunas",
       "bs": "Okrug Kaunas",
-      "mk": "Каунашки округ"
+      "mk": "Каунашки округ",
+      "no": "Kaunas fylke"
     },
     "comments": null
   },
@@ -270,7 +273,8 @@
       "ccp": "𑄟𑄢𑄨𑄟𑄴𑄛𑄮𑄣𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Marijampolė",
       "bs": "Okrug Marijampolė",
-      "mk": "Маријамполски округ"
+      "mk": "Маријамполски округ",
+      "no": "Marijampolė fylke"
     },
     "comments": null
   },
@@ -343,7 +347,8 @@
       "ga": "Contae Panevėžys",
       "hy": "Պանավեժի կոմսություն",
       "bs": "Okrug Panevėžys",
-      "mk": "Паневешки округ"
+      "mk": "Паневешки округ",
+      "no": "Panevėžys fylke"
     },
     "comments": null
   },
@@ -414,7 +419,8 @@
       "ccp": "𑄥𑄨𑄃𑄮𑄣𑄨𑄃𑄭 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Šiauliai",
       "bs": "Okrug Šiauliai",
-      "mk": "Шјауљајски округ"
+      "mk": "Шјауљајски округ",
+      "no": "Šiauliai fylke"
     },
     "comments": null
   },
@@ -487,7 +493,8 @@
       "ga": "Contae Tauragė",
       "hy": "Տաուրագեսի կոմսություն",
       "bs": "Okrug Tauragė",
-      "mk": "Таурашки округ"
+      "mk": "Таурашки округ",
+      "no": "Tauragė fylke"
     },
     "comments": null
   },
@@ -559,7 +566,8 @@
       "ccp": "𑄑𑄣𑄴𑄥𑄨𑄃𑄭 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Telšiai",
       "bs": "Okrug Telšiai",
-      "mk": "Телшјајски округ"
+      "mk": "Телшјајски округ",
+      "no": "Telšiai fylke"
     },
     "comments": null
   },
@@ -630,7 +638,8 @@
       "ga": "Contae Utena",
       "hy": "Ուտենայի գավառ",
       "bs": "Okrug Utena",
-      "mk": "Утенски округ"
+      "mk": "Утенски округ",
+      "no": "Utena fylke"
     },
     "comments": null
   },
@@ -701,12 +710,13 @@
       "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄠𑄌𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "ga": "Contae Vilnius",
       "bs": "Okrug Vilnius",
-      "mk": "Вилнушки округ"
+      "mk": "Вилнушки округ",
+      "no": "Vilnius fylke"
     },
     "comments": null
   },
   "49": {
-    "name": null,
+    "name": "Švenčionių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -739,12 +749,13 @@
       "uk": "Швенчьонський район",
       "ur": "شوینچونیس ضلع بلدیہ",
       "zh": "什文喬尼斯地區",
-      "ccp": "𑄌𑄳𑄞𑄬𑄚𑄴𑄥𑄨𑄃𑄮𑄚𑄨𑄌𑄴"
+      "ccp": "𑄌𑄳𑄞𑄬𑄚𑄴𑄥𑄨𑄃𑄮𑄚𑄨𑄌𑄴",
+      "no": "Švenčionys kommune"
     },
     "comments": null
   },
   "04": {
-    "name": null,
+    "name": "Anykščių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -783,7 +794,7 @@
     "comments": null
   },
   "01": {
-    "name": null,
+    "name": "Akmenės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -821,7 +832,7 @@
     "comments": null
   },
   "03": {
-    "name": null,
+    "name": "Alytaus rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -858,12 +869,13 @@
       "zh": "阿利圖斯地區",
       "ja": "アリートゥス郡",
       "ccp": "𑄃𑄣𑄨𑄠𑄑𑄌𑄴",
-      "et": "Alytuse rajoon"
+      "et": "Alytuse rajoon",
+      "no": "Alytus landkommune"
     },
     "comments": null
   },
   "06": {
-    "name": null,
+    "name": "Biržų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -904,7 +916,7 @@
     "comments": null
   },
   "07": {
-    "name": null,
+    "name": "Druskininkų savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -938,7 +950,7 @@
     "comments": null
   },
   "09": {
-    "name": null,
+    "name": "Ignalinos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -977,7 +989,7 @@
     "comments": null
   },
   "10": {
-    "name": null,
+    "name": "Jonavos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1018,7 +1030,7 @@
     "comments": null
   },
   "14": {
-    "name": null,
+    "name": "Kalvarijos savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1054,7 +1066,7 @@
     "comments": null
   },
   "15": {
-    "name": null,
+    "name": "Kauno miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1083,7 +1095,7 @@
     "comments": null
   },
   "16": {
-    "name": null,
+    "name": "Kauno rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1121,7 +1133,7 @@
     "comments": null
   },
   "18": {
-    "name": null,
+    "name": "Kėdainių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1159,7 +1171,7 @@
     "comments": null
   },
   "19": {
-    "name": null,
+    "name": "Kelmės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1194,7 +1206,7 @@
     "comments": null
   },
   "21": {
-    "name": null,
+    "name": "Klaipėdos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1228,12 +1240,13 @@
       "ur": "کلائپیدا ضلع بلدیہ",
       "ceb": "Klaipėdos rajonas",
       "zh": "克萊佩達地區",
-      "ccp": "𑄇𑄳𑄣𑄭𑄛𑄬𑄓"
+      "ccp": "𑄇𑄳𑄣𑄭𑄛𑄬𑄓",
+      "no": "Klaipeda landkommune"
     },
     "comments": null
   },
   "22": {
-    "name": null,
+    "name": "Kretingos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1267,12 +1280,13 @@
       "ur": "کریتینگا ضلع بلدیہ",
       "ceb": "Kretinga",
       "zh": "克雷廷加地區",
-      "ccp": "𑄇𑄳𑄢𑄬𑄑𑄨𑄁𑄉"
+      "ccp": "𑄇𑄳𑄢𑄬𑄑𑄨𑄁𑄉",
+      "no": "Kretinga kommune"
     },
     "comments": null
   },
   "23": {
-    "name": null,
+    "name": "Kupiškio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1309,7 +1323,7 @@
     "comments": null
   },
   "25": {
-    "name": null,
+    "name": "Marijampolės savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1344,7 +1358,7 @@
     "comments": null
   },
   "26": {
-    "name": null,
+    "name": "Mažeikių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1380,7 +1394,7 @@
     "comments": null
   },
   "29": {
-    "name": null,
+    "name": "Pagėgių savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1415,7 +1429,7 @@
     "comments": null
   },
   "30": {
-    "name": null,
+    "name": "Pakruojo rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1452,7 +1466,7 @@
     "comments": null
   },
   "33": {
-    "name": null,
+    "name": "Panevėžio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1492,7 +1506,7 @@
     "comments": null
   },
   "34": {
-    "name": null,
+    "name": "Pasvalio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1530,7 +1544,7 @@
     "comments": null
   },
   "36": {
-    "name": null,
+    "name": "Prienų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1566,7 +1580,7 @@
     "comments": null
   },
   "37": {
-    "name": null,
+    "name": "Radviliškio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1598,12 +1612,13 @@
       "uk": "Радвилішкіський район",
       "ur": "رادویلشکس ضلع بلدیہ",
       "zh": "拉德維利什基斯地區",
-      "ccp": "𑄢𑄖𑄴𑄞𑄨𑄣𑄨𑄌𑄴𑄇𑄨𑄌𑄴"
+      "ccp": "𑄢𑄖𑄴𑄞𑄨𑄣𑄨𑄌𑄴𑄇𑄨𑄌𑄴",
+      "no": "Radviliškis storkommune"
     },
     "comments": null
   },
   "38": {
-    "name": null,
+    "name": "Raseinių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1641,7 +1656,7 @@
     "comments": null
   },
   "40": {
-    "name": null,
+    "name": "Rokiškio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1678,7 +1693,7 @@
     "comments": null
   },
   "44": {
-    "name": null,
+    "name": "Šiaulių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1714,7 +1729,7 @@
     "comments": null
   },
   "46": {
-    "name": null,
+    "name": "Šilutės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1749,7 +1764,7 @@
     "comments": null
   },
   "47": {
-    "name": null,
+    "name": "Širvintų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1782,12 +1797,13 @@
       "ur": "شیروینتوس ضلع بلدیہ",
       "zh": "希爾文托斯地區",
       "ccp": "𑄥𑄨𑄢𑄴𑄞𑄭𑄚𑄴𑄑𑄮𑄌𑄴",
-      "et": "Širvintose rajoon"
+      "et": "Širvintose rajoon",
+      "no": "Širvintos kommune"
     },
     "comments": null
   },
   "50": {
-    "name": null,
+    "name": "Tauragės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1822,7 +1838,7 @@
     "comments": null
   },
   "51": {
-    "name": null,
+    "name": "Telšių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1859,7 +1875,7 @@
     "comments": null
   },
   "52": {
-    "name": null,
+    "name": "Trakų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1895,7 +1911,7 @@
     "comments": null
   },
   "53": {
-    "name": null,
+    "name": "Ukmergės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1934,7 +1950,7 @@
     "comments": null
   },
   "55": {
-    "name": null,
+    "name": "Varėnos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1971,7 +1987,7 @@
     "comments": null
   },
   "57": {
-    "name": null,
+    "name": "Vilniaus miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2002,7 +2018,7 @@
     "comments": null
   },
   "58": {
-    "name": null,
+    "name": "Vilniaus rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2036,12 +2052,13 @@
       "ur": "ویلنیوس ضلع بلدیہ",
       "ceb": "Vilniaus Rajonas",
       "zh": "維爾紐斯地區",
-      "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄠𑄌𑄴"
+      "ccp": "𑄞𑄨𑄣𑄴𑄚𑄨𑄠𑄌𑄴",
+      "no": "Vilnius landkommune"
     },
     "comments": null
   },
   "60": {
-    "name": null,
+    "name": "Zarasų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2077,7 +2094,7 @@
     "comments": null
   },
   "05": {
-    "name": null,
+    "name": "Birštono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2112,7 +2129,7 @@
     "comments": null
   },
   "08": {
-    "name": null,
+    "name": "Elektrėnų savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2144,12 +2161,13 @@
       "ceb": "Elektrėnai (munisipyo)",
       "zh": "埃萊克特倫艾區",
       "ccp": "𑄃𑄨𑄣𑄬𑄇𑄴𑄑𑄳𑄢𑄬𑄚𑄭",
-      "be": "Эляктрэнайскае самакіраванне"
+      "be": "Эляктрэнайскае самакіраванне",
+      "no": "Elektrėnai kommune"
     },
     "comments": null
   },
   "11": {
-    "name": null,
+    "name": "Joniškio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2184,7 +2202,7 @@
     "comments": null
   },
   "12": {
-    "name": null,
+    "name": "Jurbarko rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2220,7 +2238,7 @@
     "comments": null
   },
   "13": {
-    "name": null,
+    "name": "Kaišiadorių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2255,7 +2273,7 @@
     "comments": null
   },
   "17": {
-    "name": null,
+    "name": "Kazlų Rūdos savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2291,7 +2309,7 @@
     "comments": null
   },
   "24": {
-    "name": null,
+    "name": "Lazdijų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2323,12 +2341,13 @@
       "zh": "拉茲迪亞伊地區",
       "ccp": "𑄣𑄌𑄴𑄓𑄨𑄎𑄭",
       "et": "Lazdijai rajoon",
-      "be": "Лаздзіяйскі раён"
+      "be": "Лаздзіяйскі раён",
+      "no": "Lazdijai kommune"
     },
     "comments": null
   },
   "27": {
-    "name": null,
+    "name": "Molėtų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2366,7 +2385,7 @@
     "comments": null
   },
   "35": {
-    "name": null,
+    "name": "Plungės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2402,7 +2421,7 @@
     "comments": null
   },
   "39": {
-    "name": null,
+    "name": "Rietavo savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2440,7 +2459,7 @@
     "comments": null
   },
   "41": {
-    "name": null,
+    "name": "Šakių rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2474,7 +2493,7 @@
     "comments": null
   },
   "42": {
-    "name": null,
+    "name": "Šalčininkų rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2506,12 +2525,13 @@
       "uk": "Шальчинінкський район",
       "ur": "شیلچینیکئی ضلع بلدیہ",
       "zh": "沙爾奇寧凱地區",
-      "ccp": "𑄥𑄣𑄴𑄥𑄨𑄚𑄨𑄚𑄴𑄇𑄭"
+      "ccp": "𑄥𑄣𑄴𑄥𑄨𑄚𑄨𑄚𑄴𑄇𑄭",
+      "no": "Šalčininkai kommune"
     },
     "comments": null
   },
   "45": {
-    "name": null,
+    "name": "Šilalės rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2545,7 +2565,7 @@
     "comments": null
   },
   "48": {
-    "name": null,
+    "name": "Skuodo rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2580,7 +2600,7 @@
     "comments": null
   },
   "54": {
-    "name": null,
+    "name": "Utenos rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2616,7 +2636,7 @@
     "comments": null
   },
   "56": {
-    "name": null,
+    "name": "Vilkaviškio rajono savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2651,7 +2671,7 @@
     "comments": null
   },
   "59": {
-    "name": null,
+    "name": "Visagino savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2683,7 +2703,7 @@
     "comments": null
   },
   "43": {
-    "name": null,
+    "name": "Šiaulių miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2705,7 +2725,7 @@
     "comments": null
   },
   "02": {
-    "name": null,
+    "name": "Alytaus miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2729,7 +2749,7 @@
     "comments": null
   },
   "20": {
-    "name": null,
+    "name": "Klaipėdos miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2749,7 +2769,7 @@
     "comments": null
   },
   "28": {
-    "name": null,
+    "name": "Neringos savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2776,12 +2796,13 @@
       "ja": "ネリンガ基礎自治体",
       "ccp": "𑄚𑄬𑄢𑄨𑄁𑄉",
       "pt": "Neringa",
-      "nb": "Neringa kommune"
+      "nb": "Neringa kommune",
+      "no": "Neringa kommune"
     },
     "comments": null
   },
   "31": {
-    "name": null,
+    "name": "Palangos miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -2804,7 +2825,7 @@
     "comments": null
   },
   "32": {
-    "name": null,
+    "name": "Panevėžio miesto savivaldybė",
     "code": null,
     "unofficial_names": null,
     "geo": {

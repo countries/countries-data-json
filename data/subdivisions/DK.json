@@ -1,281 +1,11 @@
 {
-  "015": {
-    "name": "København",
-    "code": null,
-    "unofficial_names": "København",
-    "geo": {
-      "latitude": 55.6760968,
-      "longitude": 12.5683371,
-      "min_latitude": 55.615441,
-      "min_longitude": 12.4533824,
-      "max_latitude": 55.7270937,
-      "max_longitude": 12.7342654
-    },
-    "translations": {
-      "en": "København"
-    },
-    "comments": null
-  },
-  "020": {
-    "name": "Frederiksborg",
-    "code": null,
-    "unofficial_names": "Frederiksborg",
-    "geo": {
-      "latitude": 55.677069,
-      "longitude": 12.513321,
-      "min_latitude": 55.666376,
-      "min_longitude": 12.4917669,
-      "max_latitude": 55.69801099999999,
-      "max_longitude": 12.5577998
-    },
-    "translations": {
-      "en": "Frederiksborg"
-    },
-    "comments": null
-  },
-  "025": {
-    "name": "Roskilde",
-    "code": null,
-    "unofficial_names": "Roskilde",
-    "geo": {
-      "latitude": 55.64191,
-      "longitude": 12.087845,
-      "min_latitude": 55.5814391,
-      "min_longitude": 11.9134378,
-      "max_latitude": 55.7588478,
-      "max_longitude": 12.2491735
-    },
-    "translations": {
-      "en": "Roskilde"
-    },
-    "comments": null
-  },
-  "030": {
-    "name": "Vestsjælland",
-    "code": null,
-    "unofficial_names": "Vestsjælland",
-    "geo": {
-      "latitude": 55.4038568,
-      "longitude": 11.3523248,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Vestsjælland"
-    },
-    "comments": null
-  },
-  "035": {
-    "name": "Storstrøm",
-    "code": null,
-    "unofficial_names": "Storstrøm",
-    "geo": {
-      "latitude": 54.9601203,
-      "longitude": 11.9389738,
-      "min_latitude": 54.886489,
-      "min_longitude": 11.8242628,
-      "max_latitude": 55.01217889999999,
-      "max_longitude": 12.2099754
-    },
-    "translations": {
-      "en": "Storstrøm"
-    },
-    "comments": null
-  },
-  "040": {
-    "name": "Bornholm",
-    "code": null,
-    "unofficial_names": "Bornholm",
-    "geo": {
-      "latitude": 55.160428,
-      "longitude": 14.8668836,
-      "min_latitude": 54.9871699,
-      "min_longitude": 14.6808661,
-      "max_latitude": 55.29926099999999,
-      "max_longitude": 15.157218
-    },
-    "translations": {
-      "en": "Bornholm"
-    },
-    "comments": null
-  },
-  "042": {
-    "name": "Fyn",
-    "code": null,
-    "unofficial_names": "Fyn",
-    "geo": {
-      "latitude": 55.3290605,
-      "longitude": 10.2352908,
-      "min_latitude": 55.0266179,
-      "min_longitude": 9.6773899,
-      "max_latitude": 55.6231477,
-      "max_longitude": 10.8565127
-    },
-    "translations": {
-      "en": "Fyn"
-    },
-    "comments": null
-  },
-  "050": {
-    "name": "Sønderjylland",
-    "code": null,
-    "unofficial_names": "Sønderjylland",
-    "geo": {
-      "latitude": 54.9326301,
-      "longitude": 8.867273599999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Sønderjylland"
-    },
-    "comments": null
-  },
-  "055": {
-    "name": "Ribe",
-    "code": null,
-    "unofficial_names": "Ribe",
-    "geo": {
-      "latitude": 55.326936,
-      "longitude": 8.774665,
-      "min_latitude": 55.2246781,
-      "min_longitude": 8.5307257,
-      "max_latitude": 55.4171567,
-      "max_longitude": 8.938441599999999
-    },
-    "translations": {
-      "en": "Ribe"
-    },
-    "comments": null
-  },
-  "060": {
-    "name": "Vejle",
-    "code": null,
-    "unofficial_names": "Vejle",
-    "geo": {
-      "latitude": 55.7113112,
-      "longitude": 9.536354099999999,
-      "min_latitude": 55.609789,
-      "min_longitude": 9.3426909,
-      "max_latitude": 55.8197827,
-      "max_longitude": 9.685130599999999
-    },
-    "translations": {
-      "en": "Vejle"
-    },
-    "comments": null
-  },
-  "065": {
-    "name": "Ringkøbing",
-    "code": null,
-    "unofficial_names": "Ringkøbing",
-    "geo": {
-      "latitude": 56.088054,
-      "longitude": 8.257633000000002,
-      "min_latitude": 56.01195809999999,
-      "min_longitude": 8.0979665,
-      "max_latitude": 56.18181879999999,
-      "max_longitude": 8.469928699999999
-    },
-    "translations": {
-      "en": "Ringkøbing"
-    },
-    "comments": null
-  },
-  "070": {
-    "name": "Århus",
-    "code": null,
-    "unofficial_names": "Århus",
-    "geo": {
-      "latitude": 56.162939,
-      "longitude": 10.203921,
-      "min_latitude": 56.1185725,
-      "min_longitude": 10.1085108,
-      "max_latitude": 56.23763539999999,
-      "max_longitude": 10.2550862
-    },
-    "translations": {
-      "en": "Århus"
-    },
-    "comments": null
-  },
-  "076": {
-    "name": "Viborg",
-    "code": null,
-    "unofficial_names": "Viborg",
-    "geo": {
-      "latitude": 56.45202699999999,
-      "longitude": 9.396347,
-      "min_latitude": 56.340799,
-      "min_longitude": 9.0545674,
-      "max_latitude": 56.5302259,
-      "max_longitude": 9.5634978
-    },
-    "translations": {
-      "en": "Viborg"
-    },
-    "comments": null
-  },
-  "080": {
+  "81": {
     "name": "Nordjylland",
     "code": null,
-    "unofficial_names": "Nordjylland",
-    "geo": {
-      "latitude": 56.8307416,
-      "longitude": 9.4930528,
-      "min_latitude": 56.550334,
-      "min_longitude": 8.2120049,
-      "max_latitude": 57.7518131,
-      "max_longitude": 11.200088
-    },
-    "translations": {
-      "en": "Nordjylland"
-    },
-    "comments": null
-  },
-  "101": {
-    "name": "København City",
-    "code": null,
-    "unofficial_names": "København City",
-    "geo": {
-      "latitude": 55.6760968,
-      "longitude": 12.5683371,
-      "min_latitude": 55.615441,
-      "min_longitude": 12.4533824,
-      "max_latitude": 55.7270937,
-      "max_longitude": 12.7342654
-    },
-    "translations": {
-      "en": "København City"
-    },
-    "comments": null
-  },
-  "147": {
-    "name": "Frederiksberg City",
-    "code": null,
-    "unofficial_names": "Frederiksberg City",
-    "geo": {
-      "latitude": 55.677069,
-      "longitude": 12.513321,
-      "min_latitude": 55.666376,
-      "min_longitude": 12.4917669,
-      "max_latitude": 55.69801099999999,
-      "max_longitude": 12.5577998
-    },
-    "translations": {
-      "en": "Frederiksberg City"
-    },
-    "comments": null
-  },
-  "81": {
-    "name": "North Jutland",
-    "code": null,
     "unofficial_names": [
-      "Nordjylland"
+      "North Jutland",
+      "North Denmark Region",
+      "North Denmark"
     ],
     "geo": {
       "latitude": 56.8307416,
@@ -286,16 +16,20 @@
       "max_longitude": 11.200088
     },
     "translations": {
-      "en": "Northern Denmark",
+      "no": "Region Nordjylland",
       "ar": "مقاطعة نورييلاند",
       "be": "Вобласць Паўночная Ютландыя",
       "bg": "Северна Ютландия",
       "bn": "নর্থ ডেনমার্ক অঞ্চল",
+      "bs": "Sjeverna Danska",
       "ca": "Regió de Nordjylland",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ceb": "North Denmark Region",
       "cs": "Nordjylland",
       "da": "Region Nordjylland",
-      "de": "Region Nordjylland",
+      "de": "Region Nordjütland",
       "el": "Περιφέρεια Βόρειας Δανίας",
+      "en": "North Jutland Region",
       "es": "Jutlandia Septentrional",
       "et": "Põhja-Jüütimaa piirkond",
       "eu": "Ipar Jutlandia",
@@ -311,10 +45,12 @@
       "it": "Jutland settentrionale",
       "ja": "北ユラン地域",
       "ka": "ჩრდილოეთ იუტლანდიის რეგიონი",
+      "kk": "Солтүстік Ютландия (облыс)",
       "kn": "ಉತ್ತರ ಡೆನ್ಮಾರ್ಕ್ ಪ್ರದೇಶ",
       "ko": "북윌란 지역",
       "lt": "Šiaurės Jutlandijos regionas",
       "lv": "Ziemeļjitlandes reģions",
+      "mk": "Северна Данска",
       "mr": "उत्तर डेन्मार्क प्रदेश",
       "ms": "Region Nordjylland",
       "nb": "Region Nordjylland",
@@ -324,7 +60,8 @@
       "ro": "Regiunea Nordjylland",
       "ru": "Северная Ютландия",
       "si": "උතුරු ඩෙන්මාර්ක් කලාපය",
-      "sk": "Severné Jutsko (administratívny región)",
+      "sk": "Severné Jutsko",
+      "sr_Latn": "Severna Danska",
       "sr": "Северна Данска",
       "sv": "Region Nordjylland",
       "ta": "வடக்கு டென்மார்க் பகுதி",
@@ -334,21 +71,18 @@
       "uk": "Північна Ютландія",
       "ur": "شمالی ڈنمارک علاقہ",
       "vi": "Bắc Jutland",
-      "zh": "北日德兰大区",
-      "ceb": "North Denmark Region",
-      "sr_Latn": "Severna Danska",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
-      "kk": "Солтүстік Ютландия (облыс)",
-      "bs": "Sjeverna Danska",
-      "mk": "Северна Данска"
+      "zh": "北日德兰大区"
     },
     "comments": null
   },
   "82": {
-    "name": "Central Jutland",
+    "name": "Midtjylland",
     "code": null,
     "unofficial_names": [
-      "Midtjylland"
+      "Central Denmark",
+      "Central Jutland Region",
+      "Central Jutland",
+      "Mid Jutland"
     ],
     "geo": {
       "latitude": 56.302139,
@@ -359,16 +93,20 @@
       "max_longitude": 11.6613
     },
     "translations": {
-      "en": "Central Denmark",
+      "no": "Region Midtjylland",
       "ar": "إقليم ميديولند",
       "be": "Цэнтральная Ютландыя",
       "bg": "Централна Ютландия",
       "bn": "কেন্দ্রিয় ডেনমার্ক অঞ্চল",
+      "bs": "Centralna Danska",
       "ca": "Regió de Midtjylland",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ceb": "Region Midtjylland",
       "cs": "Midtjylland",
       "da": "Region Midtjylland",
       "de": "Region Midtjylland",
       "el": "Περιφέρεια Κεντρικής Δανίας",
+      "en": "Central Denmark Region",
       "es": "Jutlandia Central",
       "et": "Kesk-Jüütimaa",
       "eu": "Erdialdeko Jutlandia",
@@ -384,10 +122,12 @@
       "it": "Jutland centrale",
       "ja": "中央ユラン地域",
       "ka": "ცენტრალური იუტლანდიის რეგიონი",
+      "kk": "Орталық Ютландия (облыс)",
       "kn": "ಸೆಂಟ್ರಲ್ ಡೆನ್ಮಾರ್ಕ್ ಪ್ರದೇಶ",
       "ko": "중앙윌란 지역",
       "lt": "Vidurio Jutlandijos regionas",
       "lv": "Vidusjitlandes reģions",
+      "mk": "Средна Данска",
       "mr": "सेंट्रल डेनमार्क प्रदेश",
       "ms": "Region Midtjylland",
       "nb": "Region Midtjylland",
@@ -398,6 +138,7 @@
       "ru": "Центральная Ютландия",
       "si": "මද්‍යම ඩෙන්මාර්ක් කලාපය",
       "sk": "Region Midtjylland",
+      "sr_Latn": "Središnja Danska",
       "sr": "Средишња Данска",
       "sv": "Region Mittjylland",
       "ta": "சென்ட்ரல் டென்மார்க் பகுதி",
@@ -407,21 +148,15 @@
       "uk": "Центральна Ютландія",
       "ur": "وسطی ڈنمارک علاقہ",
       "vi": "Trung Jutland",
-      "ceb": "Region Midtjylland",
-      "sr_Latn": "Središnja Danska",
-      "zh": "中日德兰大区",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
-      "kk": "Орталық Ютландия (облыс)",
-      "bs": "Centralna Danska",
-      "mk": "Средна Данска"
+      "zh": "中日德兰大区"
     },
     "comments": null
   },
   "83": {
-    "name": "South Denmark",
+    "name": "Syddanmark",
     "code": null,
     "unofficial_names": [
-      "Syddanmark"
+      "South Denmark"
     ],
     "geo": {
       "latitude": 56.26392,
@@ -432,16 +167,21 @@
       "max_longitude": 15.1972813
     },
     "translations": {
-      "en": "Southern Denmark",
+      "no": "Region Syddanmark",
       "ar": "إقليم سيد دنمارك",
+      "az": "Cənubi Danimarka",
       "be": "Паўднёвая Данія",
       "bg": "Южна Дания",
       "bn": "অঞ্চলঅফ সাউদার্ন ডেরমার্ক",
+      "bs": "Južna Danska",
       "ca": "Regió de Syddanmark",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ceb": "Region Syddanmark",
       "cs": "Syddanmark",
       "da": "Region Syddanmark",
-      "de": "Region Syddanmark",
+      "de": "Region Süddänemark",
       "el": "Περιφέρεια Νότιας Δανίας",
+      "en": "Southern Denmark",
       "es": "Dinamarca Meridional",
       "et": "Lõuna-Taani piirkond",
       "eu": "Hegoaldeko Danimarka",
@@ -457,10 +197,12 @@
       "it": "Danimarca meridionale",
       "ja": "南デンマーク地域",
       "ka": "სამხრეთ დანიის რეგიონი",
+      "kk": "Оңтүстік Дания",
       "kn": "ದಕ್ಷಿಣ ಡೆನ್ಮಾರ್ಕ್ನ ಪ್ರದೇಶ",
       "ko": "남덴마크 지역",
       "lt": "Pietų Danijos regionas",
       "lv": "Dienviddānijas reģions",
+      "mk": "Јужна Данска",
       "mr": "दक्षिणी डेन्मार्कचा प्रदेश",
       "ms": "Region Syddanmark",
       "nb": "Region Syddanmark",
@@ -471,6 +213,7 @@
       "ru": "Южная Дания",
       "si": "දකුණු ඩෙන්මාර්ක් කලාපය",
       "sk": "Južné Dánsko",
+      "sr_Latn": "Južna Danska",
       "sr": "Јужна Данска",
       "sv": "Region Syddanmark",
       "ta": "டென்மார்க் தெற்கு பகுதி",
@@ -480,21 +223,15 @@
       "uk": "Південна Данія",
       "ur": "جنوبی ڈنمارک علاقہ",
       "vi": "Nam Đan Mạch",
-      "ceb": "Region Syddanmark",
-      "sr_Latn": "Južna Danska",
-      "zh": "南丹麦大区",
-      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
-      "kk": "Оңтүстік Дания",
-      "az": "Cənubi Danimarka",
-      "bs": "Južna Danska",
-      "mk": "Јужна Данска"
+      "zh": "南丹麦大区"
     },
     "comments": null
   },
   "84": {
-    "name": "Capital",
+    "name": "Hovedstaden",
     "code": null,
     "unofficial_names": [
+      "Capital Region",
       "Region Hovedstaden"
     ],
     "geo": {
@@ -506,16 +243,20 @@
       "max_longitude": 15.157218
     },
     "translations": {
-      "en": "Capital Region",
+      "no": "Region Hovedstaden",
       "ar": "إقليم هوفدستادن",
       "be": "Сталічная вобласць",
       "bg": "Столична област",
       "bn": "কেপিটাল অঞ্চলঅফ ডেরমার্ক",
+      "bs": "Regija glavnog grada",
       "ca": "Regió de Hovedstaden",
+      "ccp": "𑄢𑄌𑄴𑄙𑄚𑄩 𑄢𑄬𑄎𑄳𑄠𑄧",
+      "ceb": "Region Hovedstaden",
       "cs": "Hovedstaden",
       "da": "Region Hovedstaden",
       "de": "Region Hovedstaden",
       "el": "Περιφέρεια Πρωτεύουσας της Δανίας",
+      "en": "Capital Region of Denmark",
       "es": "Región Capital",
       "et": "Pealinna piirkond",
       "eu": "Hovedstaden",
@@ -532,9 +273,12 @@
       "it": "Hovedstaden",
       "ja": "デンマーク首都地域",
       "ka": "დედაქალაქის რეგიონი",
+      "kk": "Астаналық облыс",
       "kn": "ಡೆನ್ಮಾರ್ಕ್ನ ರಾಜಧಾನಿ ಪ್ರದೇಶ",
       "ko": "덴마크 수도 지역",
       "lt": "Sostinės regionas",
+      "lv": "Galvaspilsētas reģions",
+      "mk": "Голем Копенхаген",
       "mr": "डेन्मार्कचा राजधानी प्रदेश",
       "ms": "Region Hovedstaden",
       "nb": "Region Hovedstaden",
@@ -545,6 +289,7 @@
       "ru": "Ховедстаден",
       "si": "ඩෙන්මාර්ක් අග නගරය",
       "sk": "Hovedstaden",
+      "sr_Latn": "Veliki Kopenhagen",
       "sr": "Велики Копенхаген",
       "sv": "Region Hovedstaden",
       "ta": "கேப்பிடல் பகுதி டென்மார்க்",
@@ -554,22 +299,15 @@
       "uk": "Столичний регіон",
       "ur": "دارالحکومت علاقہ ڈنمارک",
       "vi": "Vùng thủ đô Đan Mạch",
-      "lv": "Galvaspilsētas reģions",
-      "ceb": "Region Hovedstaden",
-      "sr_Latn": "Veliki Kopenhagen",
-      "zh": "首都大区",
-      "ccp": "𑄢𑄌𑄴𑄙𑄚𑄩 𑄢𑄬𑄎𑄳𑄠𑄧",
-      "kk": "Астаналық облыс",
-      "bs": "Regija glavnog grada",
-      "mk": "Голем Копенхаген"
+      "zh": "首都大区"
     },
     "comments": null
   },
   "85": {
-    "name": "Zeeland",
+    "name": "Sjælland",
     "code": null,
     "unofficial_names": [
-      "Sjælland"
+      "Zeeland"
     ],
     "geo": {
       "latitude": 55.4632518,
@@ -580,21 +318,26 @@
       "max_longitude": 12.6244919
     },
     "translations": {
-      "en": "Zealand",
+      "no": "Region Sjælland",
       "ar": "إقليم شيلندا",
       "be": "Зеландыя",
       "bg": "Зеландия",
+      "bs": "Zealand (regija)",
       "ca": "Regió de Sjælland",
+      "ccp": "𑄎𑄩𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ceb": "Region Sjælland",
       "cs": "Sjælland",
       "da": "Region Sjælland",
       "de": "Region Sjælland",
       "el": "Σγιέλαν",
+      "en": "Region Zealand",
       "es": "Región de Selandia",
       "et": "Sjællandi piirkond",
       "eu": "Seelandia eskualdea",
       "fa": "استان شیلند",
       "fi": "Sjælland",
       "fr": "Sjælland",
+      "he": "קטגוריה:שלן",
       "hr": "Zeland",
       "hu": "Sjælland régió",
       "hy": "Զելանդիա տարածաշրջան",
@@ -602,8 +345,10 @@
       "it": "Selandia",
       "ja": "シェラン地域",
       "ka": "ზელანდიის რეგიონი",
+      "kk": "Зеландия",
       "ko": "셸란 지역",
       "lt": "Zelandijos regionas",
+      "mk": "Сјеланд",
       "ms": "Region Sjælland",
       "nb": "Region Sjælland",
       "nl": "Seeland",
@@ -611,22 +356,16 @@
       "pt": "Zelândia",
       "ro": "Regiunea Sjælland",
       "ru": "Зеландия",
-      "sk": "Sjælland (región)",
-      "sr": "Сјеланд (покрајина)",
+      "sk": "Sjælland región",
+      "sr_Latn": "Sjeland (pokrajina)",
+      "sr": "Сјеланд покрајина",
       "sv": "Region Själland",
+      "tr": "Zealand Bölgesi",
       "uk": "Зеландія",
       "vi": "Zealand",
-      "ceb": "Region Sjælland",
-      "tr": "Zealand Bölgesi",
-      "sr_Latn": "Sjeland (pokrajina)",
-      "zh": "西兰大区",
       "yue_Hans": "舍兰大区",
-      "ccp": "𑄎𑄩𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
-      "he": "קטגוריה:שלן",
-      "kk": "Зеландия",
       "yue": "舍蘭大區",
-      "bs": "Zealand (regija)",
-      "mk": "Сјеланд"
+      "zh": "西兰大区"
     },
     "comments": null
   }

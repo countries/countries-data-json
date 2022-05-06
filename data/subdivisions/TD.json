@@ -54,7 +54,8 @@
       "lv": "Batas reģions",
       "ceb": "Batha Region",
       "ccp": "𑄝𑄗",
-      "ka": "ბათის რეგიონი"
+      "ka": "ბათის რეგიონი",
+      "no": "Batha"
     },
     "comments": null
   },
@@ -131,7 +132,8 @@
       "ccp": "𑄌𑄢𑄨-Chari-Baguirmi",
       "ka": "შარი-ბაგირმის რეგიონი",
       "he": "צ׳ארי-בגוירמי",
-      "uk": "Регіон Шарі-Багірмі"
+      "uk": "Регіон Шарі-Багірмі",
+      "no": "Chari-Baguirmi"
     },
     "comments": null
   },
@@ -190,7 +192,8 @@
       "zh": "蓋拉區",
       "ccp": "𑄉𑄪𑄠𑄬𑄢",
       "ka": "გერის რეგიონი",
-      "uk": "Регіон Мбарара"
+      "uk": "Регіон Мбарара",
+      "no": "Guéra"
     },
     "comments": null
   },
@@ -248,7 +251,8 @@
       "zh": "哈傑爾-拉密區",
       "ccp": "𑄦𑄖𑄴𑄎𑄬𑄢𑄴-𑄣𑄟𑄨𑄌𑄴",
       "ka": "ჰაჯერ-ლამისის რეგიონი",
-      "uk": "Регіон Гаджер-Ламіс"
+      "uk": "Регіон Гаджер-Ламіс",
+      "no": "Hadjer-Lamis"
     },
     "comments": null
   },
@@ -307,7 +311,8 @@
       "zh": "加奈姆區",
       "ccp": "𑄇𑄚𑄬𑄟𑄴",
       "ka": "კანემის რეგიონი",
-      "uk": "Регіон Канем"
+      "uk": "Регіон Канем",
+      "no": "Kanem"
     },
     "comments": null
   },
@@ -365,7 +370,8 @@
       "zh": "湖區",
       "ccp": "𑄣𑄬𑄇𑄴",
       "ka": "ლაკის რეგიონი",
-      "uk": "Регіон Лак"
+      "uk": "Регіон Лак",
+      "no": "Lac"
     },
     "comments": null
   },
@@ -422,7 +428,8 @@
       "ceb": "Logone Occidental Region",
       "zh": "西洛貢區",
       "ccp": "𑄣𑄧𑄉𑄮𑄚𑄴 𑄃𑄧𑄇𑄴𑄥𑄨𑄓𑄬𑄚𑄴𑄑𑄣𑄴",
-      "ka": "დასავლეთი ლოგონის რეგიონი"
+      "ka": "დასავლეთი ლოგონის რეგიონი",
+      "no": "Logone Occidental"
     },
     "comments": null
   },
@@ -479,7 +486,8 @@
       "lv": "Austrumlogones reģions",
       "zh": "東洛貢區",
       "ccp": "𑄣𑄧𑄉𑄮𑄚𑄴 𑄃𑄧𑄢𑄨𑄠𑄬𑄚𑄴𑄑𑄣𑄴",
-      "ka": "აღმოსავლეთი ლოგონის რეგიონი"
+      "ka": "აღმოსავლეთი ლოგონის რეგიონი",
+      "no": "Logone Oriental"
     },
     "comments": null
   },
@@ -537,7 +545,8 @@
       "zh": "芒杜爾區",
       "ccp": "𑄟𑄚𑄴𑄓𑄯𑄣𑄴",
       "ka": "მანდულის რეგიონი",
-      "uk": "Регіон Мандуль"
+      "uk": "Регіон Мандуль",
+      "no": "Mandoul"
     },
     "comments": null
   },
@@ -595,7 +604,8 @@
       "ceb": "Moyen-Chari Region",
       "zh": "中沙里區",
       "ccp": "𑄟𑄧𑄠𑄬𑄚𑄴-𑄌𑄢𑄨",
-      "ka": "შუა შარის რეგიონი"
+      "ka": "შუა შარის რეგიონი",
+      "no": "Moyen-Chari"
     },
     "comments": null
   },
@@ -653,7 +663,8 @@
       "zh": "東凱比河區",
       "ccp": "𑄟𑄧𑄠-𑄇𑄬𑄝𑄳𑄦𑄨 𑄃𑄨𑄌𑄴𑄑𑄴",
       "ka": "აღმოსავლეთი მაიო-კების რეგიონი",
-      "uk": "Регіон Східний Майо-Кебі"
+      "uk": "Регіон Східний Майо-Кебі",
+      "no": "Mayo-Kebbi Est"
     },
     "comments": null
   },
@@ -711,7 +722,8 @@
       "zh": "西凱比河區",
       "ccp": "𑄟𑄧𑄠-𑄇𑄬𑄝𑄳𑄦𑄨 𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄴",
       "ka": "დასავლეთი მაიო-კების რეგიონი",
-      "uk": "Регіон Західний Майо-Кебі"
+      "uk": "Регіон Західний Майо-Кебі",
+      "no": "Mayo-Kebbi Ouest"
     },
     "comments": null
   },
@@ -805,7 +817,10 @@
       "yo": "N’Djamena",
       "uz": "Njamena",
       "bs": "N’Djamena",
-      "mk": "Нџамена"
+      "mk": "Нџамена",
+      "ha_NE": "Ndjamena",
+      "no": "N’Djamena",
+      "yo_BJ": "N’Djamena"
     },
     "comments": null
   },
@@ -864,7 +879,8 @@
       "zh": "瓦達伊區",
       "ccp": "𑄃𑄯𑄠𑄓𑄳𑄦𑄭",
       "ka": "უადაის რეგიონი",
-      "uk": "Ваддай"
+      "uk": "Ваддай",
+      "no": "Ouaddaï"
     },
     "comments": null
   },
@@ -923,7 +939,8 @@
       "ccp": "𑄥𑄣𑄟𑄧𑄖𑄴",
       "ka": "სალამატის რეგიონი",
       "uk": "Регіон Саламат",
-      "cs": "Salamat"
+      "cs": "Salamat",
+      "no": "Salamat"
     },
     "comments": null
   },
@@ -980,7 +997,8 @@
       "zh": "坦吉萊區",
       "ccp": "𑄑𑄚𑄴𑄎𑄭𑄣𑄴",
       "ka": "ტანჯილეს რეგიონი",
-      "uk": "Регіон Танджиле"
+      "uk": "Регіон Танджиле",
+      "no": "Tandjilé"
     },
     "comments": null
   },
@@ -1037,12 +1055,13 @@
       "lv": "Vādī Firas reģions",
       "zh": "瓦迪菲拉區",
       "ccp": "𑄤𑄓𑄨 𑄜𑄨𑄢",
-      "ka": "უადი-ფირის რეგიონი"
+      "ka": "უადი-ფირის რეგიონი",
+      "no": "Wadi Fira"
     },
     "comments": null
   },
   "BG": {
-    "name": null,
+    "name": "بحر الغزال",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1094,12 +1113,13 @@
       "ceb": "Barh el Gazel",
       "zh": "加扎勒河區",
       "ccp": "𑄝𑄦𑄴𑄢𑄴 𑄃𑄬𑄣𑄴 𑄉𑄎𑄬𑄣𑄴",
-      "ka": "ბაჰრ-ელ-გაზელის რეგიონი"
+      "ka": "ბაჰრ-ელ-გაზელის რეგიონი",
+      "no": "Bahr el Gazel region"
     },
     "comments": null
   },
   "BO": {
-    "name": null,
+    "name": "منطقة بوركو",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1153,12 +1173,13 @@
       "ceb": "Borkou Region",
       "zh": "博爾庫區",
       "ccp": "𑄝𑄮𑄢𑄴𑄇𑄯",
-      "ka": "ბორკუს რეგიონი"
+      "ka": "ბორკუს რეგიონი",
+      "no": "Borkou Region"
     },
     "comments": null
   },
   "SI": {
-    "name": null,
+    "name": "منطقة سيلا",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1209,12 +1230,13 @@
       "zh": "西拉區",
       "ccp": "𑄥𑄨𑄣",
       "ka": "სილის რეგიონი",
-      "uk": "Регіон Сіла"
+      "uk": "Регіон Сіла",
+      "no": "Sila region"
     },
     "comments": null
   },
   "TI": {
-    "name": null,
+    "name": "منطقة تبستي",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1266,12 +1288,13 @@
       "ccp": "𑄑𑄨𑄝𑄬𑄌𑄴𑄑𑄨",
       "ka": "ტიბესტის რეგიონი",
       "eu": "Tibesti",
-      "uk": "Регіон Тібесті"
+      "uk": "Регіон Тібесті",
+      "no": "Tibesti Region"
     },
     "comments": null
   },
   "EE": {
-    "name": null,
+    "name": "إنيدي الشرقية",
     "code": null,
     "unofficial_names": null,
     "geo": {
@@ -1297,7 +1320,7 @@
     "comments": null
   },
   "EO": {
-    "name": null,
+    "name": "إنيدي الغربية",
     "code": null,
     "unofficial_names": null,
     "geo": {
