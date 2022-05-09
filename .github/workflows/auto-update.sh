@@ -51,7 +51,8 @@ function fetch_remote_repository {
 }
 
 function copy_data {
-    mkdir -p ./data
+    rm -r ./data/
+    mkdir -p ./data/
     cp -r hexorx_countries/lib/countries/data/* ./data
     cp hexorx_countries/LICENSE data/
 }
