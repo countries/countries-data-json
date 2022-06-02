@@ -584,7 +584,7 @@
   "COA": {
     "name": "Coahuila",
     "code": null,
-    "unofficial_names": "Coahuila",
+    "unofficial_names": "Coahuila de Zaragoza",
     "geo": {
       "latitude": 27.058676,
       "longitude": -101.7068294,
@@ -1212,7 +1212,7 @@
   "MIC": {
     "name": "Michoacán",
     "code": null,
-    "unofficial_names": "Michoacán",
+    "unofficial_names": "Michoacán de Ocampo",
     "geo": {
       "latitude": 19.5665192,
       "longitude": -101.7068294,
@@ -2316,7 +2316,7 @@
   "VER": {
     "name": "Veracruz",
     "code": null,
-    "unofficial_names": "Veracruz",
+    "unofficial_names": "Veracruz de Ignacio de la Llave",
     "geo": {
       "latitude": 19.173773,
       "longitude": -96.1342241,
@@ -2551,20 +2551,6 @@
       "uz": "Sakatekas",
       "mk": "Закатекас",
       "no": "Zacatecas"
-    },
-    "comments": null
-  },
-  "DIF": {
-    "name": "Mexico City",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": 19.3663162,
-      "longitude": -99.1593231
-    },
-    "translations": {
-      "en": "Mexico City",
-      "ccp": "𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮 𑄥𑄨𑄑𑄨"
     },
     "comments": null
   }
