@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Ahal",
-    "code": null,
+    "code": "A",
     "unofficial_names": [
       "Akhal"
     ],
@@ -69,11 +69,12 @@
       "uz": "Ahal viloyati",
       "no": "Ahal provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "B": {
     "name": "Balkan",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Balkan",
     "geo": {
       "latitude": 40.9468884,
@@ -142,11 +143,12 @@
       "uz": "Bolqon viloyati",
       "no": "Belkan provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "D": {
     "name": "Dasoguz",
-    "code": null,
+    "code": "D",
     "unofficial_names": [
       "Dashhovuz",
       "Dashhowuz",
@@ -208,11 +210,12 @@
       "ky": "Ташауз областы",
       "uz": "Dashoguz viloyati"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "L": {
     "name": "Lebap",
-    "code": null,
+    "code": "L",
     "unofficial_names": "Lebap",
     "geo": {
       "latitude": 38.12724619999999,
@@ -263,11 +266,12 @@
       "ccp": "𑄣𑄬𑄝𑄛𑄴",
       "uz": "Lebap viloyati"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "M": {
     "name": "Mary",
-    "code": null,
+    "code": "M",
     "unofficial_names": [
       "Mary",
       "Merv"
@@ -336,11 +340,12 @@
       "uz": "Mari viloyati",
       "no": "Mary provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "S": {
     "name": "Aşgabat",
-    "code": null,
+    "code": "S",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -430,7 +435,8 @@
       "no": "Asjkhabad",
       "yo_BJ": "Ashgabat"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   }
 }
 

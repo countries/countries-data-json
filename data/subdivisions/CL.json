@@ -1,7 +1,7 @@
 {
   "AI": {
     "name": "Aisén del General Carlos Ibáñez del Campo",
-    "code": null,
+    "code": "AI",
     "unofficial_names": [
       "Aisén del General Carlos Ibáñez del Campo",
       "Aysén"
@@ -68,11 +68,12 @@
       "yue": "艾森大區",
       "no": "Aisén"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AN": {
     "name": "Antofagasta",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Antofagasta",
     "geo": {
       "latitude": -23.65,
@@ -137,11 +138,65 @@
       "be": "вобласць Антафагаста",
       "no": "Antofagasta"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "AP": {
+    "name": "Arica y Parinacota",
+    "code": "AP",
+    "unofficial_names": "Arica y Parinacota",
+    "geo": {
+      "latitude": -18.5940485,
+      "longitude": -69.4784541,
+      "min_latitude": -19.2302791,
+      "min_longitude": -70.37963309999999,
+      "max_latitude": -17.5008571,
+      "max_longitude": -68.9160989
+    },
+    "translations": {
+      "en": "Arica y Parinacota",
+      "ar": "إقليم أريكا وبارينكوتا",
+      "bg": "Арика и Паринакота",
+      "ca": "Regió d’Arica i Parinacota",
+      "cs": "Region Arica y Parinacota",
+      "da": "Arica og Parinacota-regionen",
+      "de": "Región de Arica y Parinacota",
+      "es": "Región de Arica y Parinacota",
+      "et": "Arica y Parinacota",
+      "eu": "Arica eta Parinacota eskualdea",
+      "fa": "منطقه آریکا و پاریناکوتا",
+      "fi": "Arica-Parinacota",
+      "fr": "Région d’Arica et Parinacota",
+      "gl": "Rexión de Arica e Parinacota",
+      "hr": "XV. regija Arica i Parinacota",
+      "hy": "Արիկա և Պարինակոտա",
+      "it": "regione di Arica e Parinacota",
+      "ja": "アリカ・イ・パリナコータ州",
+      "ka": "არიკა და პარინაკოტა",
+      "ko": "아리카 이 파리나코타 주",
+      "lt": "Arikos ir Parinakotos regionas",
+      "nb": "Arica y Parinacota",
+      "nl": "Arica y Parinacota",
+      "pl": "Arica y Parinacota",
+      "pt": "Região de Arica e Parinacota",
+      "ro": "Regiunea Arica și Parinacota",
+      "ru": "Арика-и-Паринакота",
+      "sk": "Arica y Parinacota",
+      "sv": "Región de Arica y Parinacota",
+      "sw": "Mkoa wa Arica na Parinacota",
+      "tr": "Arica ve Parinacota bölgesi",
+      "vi": "Arica và Parinacota",
+      "ceb": "Región de Arica y Parinacota",
+      "zh": "阿里卡和帕里纳科塔大区",
+      "ccp": "𑄃𑄢𑄨𑄇 𑄤𑄠𑄭 𑄛𑄢𑄨𑄚𑄇𑄮𑄑",
+      "no": "Arica y Parinacota"
+    },
+    "comments": null,
+    "type": "region"
   },
   "AR": {
     "name": "Araucanía",
-    "code": null,
+    "code": "AR",
     "unofficial_names": [
       "La Araucanía"
     ],
@@ -207,63 +262,12 @@
       "ccp": "𑄃𑄢𑄅𑄪𑄇𑄚𑄨𑄠",
       "no": "Araucanía"
     },
-    "comments": null
-  },
-  "AP": {
-    "name": "Arica y Parinacota",
-    "code": null,
-    "unofficial_names": "Arica y Parinacota",
-    "geo": {
-      "latitude": -18.5940485,
-      "longitude": -69.4784541,
-      "min_latitude": -19.2302791,
-      "min_longitude": -70.37963309999999,
-      "max_latitude": -17.5008571,
-      "max_longitude": -68.9160989
-    },
-    "translations": {
-      "en": "Arica y Parinacota",
-      "ar": "إقليم أريكا وبارينكوتا",
-      "bg": "Арика и Паринакота",
-      "ca": "Regió d’Arica i Parinacota",
-      "cs": "Region Arica y Parinacota",
-      "da": "Arica og Parinacota-regionen",
-      "de": "Región de Arica y Parinacota",
-      "es": "Región de Arica y Parinacota",
-      "et": "Arica y Parinacota",
-      "eu": "Arica eta Parinacota eskualdea",
-      "fa": "منطقه آریکا و پاریناکوتا",
-      "fi": "Arica-Parinacota",
-      "fr": "Région d’Arica et Parinacota",
-      "gl": "Rexión de Arica e Parinacota",
-      "hr": "XV. regija Arica i Parinacota",
-      "hy": "Արիկա և Պարինակոտա",
-      "it": "regione di Arica e Parinacota",
-      "ja": "アリカ・イ・パリナコータ州",
-      "ka": "არიკა და პარინაკოტა",
-      "ko": "아리카 이 파리나코타 주",
-      "lt": "Arikos ir Parinakotos regionas",
-      "nb": "Arica y Parinacota",
-      "nl": "Arica y Parinacota",
-      "pl": "Arica y Parinacota",
-      "pt": "Região de Arica e Parinacota",
-      "ro": "Regiunea Arica și Parinacota",
-      "ru": "Арика-и-Паринакота",
-      "sk": "Arica y Parinacota",
-      "sv": "Región de Arica y Parinacota",
-      "sw": "Mkoa wa Arica na Parinacota",
-      "tr": "Arica ve Parinacota bölgesi",
-      "vi": "Arica và Parinacota",
-      "ceb": "Región de Arica y Parinacota",
-      "zh": "阿里卡和帕里纳科塔大区",
-      "ccp": "𑄃𑄢𑄨𑄇 𑄤𑄠𑄭 𑄛𑄢𑄨𑄚𑄇𑄮𑄑",
-      "no": "Arica y Parinacota"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AT": {
     "name": "Atacama",
-    "code": null,
+    "code": "AT",
     "unofficial_names": "Atacama",
     "geo": {
       "latitude": -27.5660558,
@@ -324,11 +328,12 @@
       "ccp": "𑄃𑄑𑄇𑄟",
       "no": "Atacama"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BI": {
     "name": "Bío-Bío",
-    "code": null,
+    "code": "BI",
     "unofficial_names": [
       "Bíobío"
     ],
@@ -401,11 +406,12 @@
       "mk": "Биобио",
       "no": "Biobío"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CO": {
     "name": "Coquimbo",
-    "code": null,
+    "code": "CO",
     "unofficial_names": "Coquimbo",
     "geo": {
       "latitude": -29.9533,
@@ -467,11 +473,12 @@
       "mk": "Кокимбо",
       "no": "Coquimbo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LI": {
     "name": "Libertador General Bernardo O'Higgins",
-    "code": null,
+    "code": "LI",
     "unofficial_names": [
       "General Bernardo O'Higgins",
       "Libertador",
@@ -531,11 +538,12 @@
       "ccp": "𑄣𑄭𑄝𑄢𑄴𑄑𑄓𑄮 𑄎𑄬𑄚𑄢𑄬𑄣𑄴 𑄝𑄢𑄴𑄚𑄢𑄴𑄓𑄮 𑄃𑄮‘𑄦𑄭𑄎𑄨𑄚𑄴𑄥𑄴",
       "no": "O’Higgins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LL": {
     "name": "Los Lagos",
-    "code": null,
+    "code": "LL",
     "unofficial_names": "Los Lagos",
     "geo": {
       "latitude": -41.9197779,
@@ -599,11 +607,12 @@
       "ccp": "𑄣𑄧𑄌𑄴 𑄣𑄉𑄮𑄌𑄴",
       "no": "Los Lagos"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LR": {
     "name": "Los Ríos",
-    "code": null,
+    "code": "LR",
     "unofficial_names": "Los Ríos",
     "geo": {
       "latitude": -40.2310217,
@@ -668,11 +677,12 @@
       "ccp": "𑄣𑄧𑄌𑄴 𑄢𑄨𑄠𑄮𑄌𑄴",
       "no": "Los Ríos"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MA": {
     "name": "Magallanes",
-    "code": null,
+    "code": "MA",
     "unofficial_names": [
       "Magellantes y la Antártica Chilena"
     ],
@@ -738,11 +748,12 @@
       "be": "Магальянес і Чылійская Антарктыка",
       "no": "Magallanes y de la Antártica Chilena"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ML": {
     "name": "Maule",
-    "code": null,
+    "code": "ML",
     "unofficial_names": "Maule",
     "geo": {
       "latitude": -35.5163603,
@@ -806,11 +817,12 @@
       "he": "מאולה",
       "no": "Maule"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NB": {
     "name": "Región de Ñuble",
-    "code": null,
+    "code": "NB",
     "unofficial_names": [
       "Ñuble"
     ],
@@ -850,11 +862,12 @@
       "tr": "Ñuble bölgesi",
       "no": "Ñuble"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "RM": {
     "name": "Región Metropolitana de Santiago",
-    "code": null,
+    "code": "RM",
     "unofficial_names": [
       "Metropolitana de Santiago"
     ],
@@ -919,11 +932,12 @@
       "az": "Santyaqo Metropolitan bölgəsi",
       "no": "Región Metropolitana de Santiago"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TA": {
     "name": "Tarapacá",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Tarapacá",
     "geo": {
       "latitude": -20.2028799,
@@ -987,11 +1001,12 @@
       "mk": "Тарапака",
       "no": "Tarapacá"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "VS": {
     "name": "Valparaíso",
-    "code": null,
+    "code": "VS",
     "unofficial_names": "Valparaíso",
     "geo": {
       "latitude": -33.045646,
@@ -1054,7 +1069,8 @@
       "ccp": "𑄞𑄧𑄣𑄴𑄛𑄢𑄭𑄥𑄮",
       "no": "Valparaíso"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

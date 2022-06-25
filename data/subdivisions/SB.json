@@ -1,7 +1,7 @@
 {
   "CE": {
     "name": "Central",
-    "code": null,
+    "code": "CE",
     "unofficial_names": "Central",
     "geo": {
       "latitude": -9.0516057,
@@ -58,11 +58,12 @@
       "mk": "Централна Провинција",
       "no": "Sentral provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CH": {
     "name": "Choiseul",
-    "code": null,
+    "code": "CH",
     "unofficial_names": [
       "Lauru"
     ],
@@ -119,11 +120,12 @@
       "uk": "Провінція Шуазйоль",
       "no": "Chosieul provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CT": {
     "name": "Capital Territory (Honiara)",
-    "code": null,
+    "code": "CT",
     "unofficial_names": "Capital Territory (Honiara)",
     "geo": {
       "latitude": -9.4343868,
@@ -207,11 +209,12 @@
       "no": "Honiara",
       "yo_BJ": "Honiara"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_territory"
   },
   "GU": {
     "name": "Guadalcanal",
-    "code": null,
+    "code": "GU",
     "unofficial_names": "Guadalcanal",
     "geo": {
       "latitude": -9.577328399999999,
@@ -265,11 +268,12 @@
       "ccp": "𑄉𑄪𑄠𑄓𑄣𑄴𑄇𑄚𑄣𑄴",
       "no": "Guadalcanal provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "IS": {
     "name": "Isabel",
-    "code": null,
+    "code": "IS",
     "unofficial_names": "Isabel",
     "geo": {
       "latitude": -8.0592353,
@@ -324,11 +328,12 @@
       "uk": "Провінція Ісабель",
       "no": "Isabel provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MK": {
     "name": "Makira",
-    "code": null,
+    "code": "MK",
     "unofficial_names": [
       "San Cristóbal"
     ],
@@ -365,11 +370,12 @@
       "ccp": "𑄟𑄇𑄨𑄢-𑄃𑄣𑄤",
       "uk": "Макіра-Улава"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ML": {
     "name": "Malaita",
-    "code": null,
+    "code": "ML",
     "unofficial_names": [
       "Mala"
     ],
@@ -425,11 +431,12 @@
       "uk": "Провінція Малаіта",
       "no": "Malaita provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "RB": {
     "name": "Rennell and Bellona",
-    "code": null,
+    "code": "RB",
     "unofficial_names": "Rennell and Bellona",
     "geo": {
       "latitude": -11.6131435,
@@ -484,11 +491,12 @@
       "uk": "Провінція Реннелл та Беллона",
       "no": "Rennell and Bellona provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TE": {
     "name": "Temotu",
-    "code": null,
+    "code": "TE",
     "unofficial_names": [
       "Eastern Islands"
     ],
@@ -544,11 +552,12 @@
       "uk": "Провінція Темоту",
       "no": "Temotu-provinsen"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WE": {
     "name": "Western",
-    "code": null,
+    "code": "WE",
     "unofficial_names": "Western",
     "geo": {
       "latitude": -8.128037299999999,
@@ -604,7 +613,8 @@
       "ca": "Província Occidental",
       "no": "Vest provinsen"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

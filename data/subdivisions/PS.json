@@ -1,7 +1,7 @@
 {
   "BTH": {
     "name": "محافظة بيت لحم",
-    "code": null,
+    "code": "BTH",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -56,11 +56,12 @@
       "be": "Віфлеем",
       "no": "Bethlehem Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DEB": {
     "name": "الوسطى",
-    "code": null,
+    "code": "DEB",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -113,11 +114,12 @@
       "he": "דיר אל-בלח (נפה)",
       "uk": "Муніципалітет Дейр-ель-Балах"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "GZA": {
     "name": "محافظة غزة",
-    "code": null,
+    "code": "GZA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -152,11 +154,12 @@
       "it": "governatorato di Gaza",
       "uk": "мугафаза Ґаза"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "HBN": {
     "name": "محافظة الخليل",
-    "code": null,
+    "code": "HBN",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -210,11 +213,12 @@
       "ccp": "𑄦𑄬𑄝𑄳𑄢𑄧𑄚𑄴",
       "no": "Herbron Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JEM": {
     "name": "القدس",
-    "code": null,
+    "code": "JEM",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -249,11 +253,12 @@
       "de": "Gouvernement Jerusalem",
       "be": "Іерусалім"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JEN": {
     "name": "جنين",
-    "code": null,
+    "code": "JEN",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -288,11 +293,12 @@
       "pl": "Dżanin",
       "ccp": "𑄎𑄬𑄚𑄨𑄚𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JRH": {
     "name": "أريحا",
-    "code": null,
+    "code": "JRH",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -323,11 +329,12 @@
       "pl": "Jerycho",
       "ccp": "𑄎𑄬𑄢𑄨𑄇𑄮"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "KYS": {
     "name": "محافظة خان يونس",
-    "code": null,
+    "code": "KYS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -362,11 +369,12 @@
       "he": "ח׳אן יונס (נפה)",
       "it": "governatorato di Khan Yunis"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "NBS": {
     "name": "محافظة نابلس",
-    "code": null,
+    "code": "NBS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -421,11 +429,12 @@
       "uk": "Муніципалітет Наблус",
       "no": "Nablus Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "NGZ": {
     "name": "شمال غزة",
-    "code": null,
+    "code": "NGZ",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -480,11 +489,12 @@
       "uk": "Муніципалітет Північна Газа",
       "no": "Nord Gaza Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "QQA": {
     "name": "محافظة قلقيلية",
-    "code": null,
+    "code": "QQA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -538,11 +548,12 @@
       "uk": "Муніципалітет Калькілія",
       "no": "Qalqilya"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "RBH": {
     "name": "رام الله والبيرة",
-    "code": null,
+    "code": "RBH",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -595,11 +606,12 @@
       "uk": "Муніципалітет Рамалла та ель-Біра",
       "no": "Ramallah og al-Bireh"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "RFH": {
     "name": "محافظة رفح الفلسطينية",
-    "code": null,
+    "code": "RFH",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -634,11 +646,12 @@
       "ccp": "𑄢𑄜𑄦𑄴",
       "it": "governatorato di Rafah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "SLT": {
     "name": "محافظة سلفيت",
-    "code": null,
+    "code": "SLT",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -692,11 +705,12 @@
       "uk": "Муніципалітет Салфіт",
       "no": "Salfit Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "TBS": {
     "name": "محافظة طوباس",
-    "code": null,
+    "code": "TBS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -730,11 +744,12 @@
       "ccp": "𑄑𑄪𑄝𑄌𑄴",
       "it": "governatorato di Tubas"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "TKM": {
     "name": "محافظة طولكرم",
-    "code": null,
+    "code": "TKM",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -788,7 +803,8 @@
       "uk": "Муніципалітет Тулькарм",
       "no": "Tulkarm"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   }
 }
 

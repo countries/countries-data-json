@@ -1,7 +1,7 @@
 {
   "DB": {
     "name": "Diourbel",
-    "code": null,
+    "code": "DB",
     "unofficial_names": "Diourbel",
     "geo": {
       "latitude": 14.6561238,
@@ -57,11 +57,12 @@
       "uk": "Регіон Діурбель",
       "no": "Diourbel"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DK": {
     "name": "Dakar",
-    "code": null,
+    "code": "DK",
     "unofficial_names": "Dakar",
     "geo": {
       "latitude": 14.7645042,
@@ -117,11 +118,12 @@
       "bs": "Regija Dakar",
       "no": "Dakar"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "FK": {
     "name": "Fatick",
-    "code": null,
+    "code": "FK",
     "unofficial_names": "Fatick",
     "geo": {
       "latitude": 14.333333,
@@ -174,11 +176,69 @@
       "uk": "Регіон Фатік",
       "no": "Fatick"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "KA": {
+    "name": "Kaffrine",
+    "code": "KA",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "اقليم كفرين",
+      "bn": "ক্যাফ্রিন",
+      "da": "Kaffrine",
+      "de": "Region Kaffrine",
+      "el": "Καφρίν",
+      "en": "Kaffrine",
+      "es": "Kaffrine",
+      "eu": "Kaffrine eskualdea",
+      "fi": "Kaffrine",
+      "fr": "Kaffrine",
+      "gl": "Rexión de Kaffrine",
+      "gu": "કેફ્રીન",
+      "hi": "कैफरीन",
+      "id": "Kaffrine",
+      "it": "Kaffrine",
+      "ja": "カフリン州",
+      "kn": "ಕೆಫ್ರೈನ್",
+      "ko": "카프린 주",
+      "mr": "कॅफ्रीन",
+      "ms": "Kaffrine",
+      "nb": "Kaffrine",
+      "nl": "Kaffrine",
+      "pl": "Kaffrine",
+      "pt": "Kaffrine",
+      "ro": "Regiunea Kaffrine",
+      "ru": "Кафрин",
+      "si": "කෆ්රින්",
+      "sv": "Kaffrine",
+      "ta": "கஃரின்",
+      "te": "కాఫ్రిన్",
+      "th": "เขตคราฟฟริเน",
+      "tr": "Kaffrine",
+      "ur": "کفرین علاقہ",
+      "vi": "Kaffrine",
+      "lv": "Kafrines reģions",
+      "lt": "Kafrinė",
+      "zh": "卡夫林區",
+      "ccp": "𑄇𑄜𑄳𑄢𑄨𑄚𑄴",
+      "uk": "Регіон Кафрін",
+      "no": "Kaffrine"
+    },
+    "comments": null,
+    "type": "region"
   },
   "KD": {
     "name": "Kolda",
-    "code": null,
+    "code": "KD",
     "unofficial_names": "Kolda",
     "geo": {
       "latitude": 12.883333,
@@ -234,11 +294,70 @@
       "uk": "Регіон Колда",
       "no": "Kolda"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "KE": {
+    "name": "Kédougou",
+    "code": "KE",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "كيدوغو",
+      "bn": "কেদুগো",
+      "da": "Kédougou",
+      "de": "Region Kédougou",
+      "el": "Κεντούγκου",
+      "en": "Kédougou",
+      "es": "Kédougou",
+      "eu": "Kédougou eskualdea",
+      "fi": "Kédougoun alue",
+      "fr": "Kédougou",
+      "gl": "Rexión de Kédougou",
+      "gu": "કેડૌગૂ",
+      "hi": "केडूगू",
+      "id": "Kédougou",
+      "it": "Kédougou",
+      "ja": "ケドゥグ州",
+      "kn": "ಕೆಡೊಗೌ",
+      "ko": "케두구 주",
+      "mr": "केडौगु",
+      "ms": "Kedougou",
+      "nb": "Kédougou",
+      "nl": "Kédougou",
+      "pl": "Kédougou",
+      "pt": "Kédougou",
+      "ro": "Regiunea Kédougou",
+      "ru": "Кедугу",
+      "si": "කෙදොගු",
+      "sv": "Kédougou",
+      "ta": "கெடௌகௌ",
+      "te": "కెడోగూ",
+      "th": "เคดูดู",
+      "tr": "Kédougou",
+      "ur": "کیدؤگؤ علاقہ",
+      "vi": "Kédougou",
+      "lv": "Kēdugu",
+      "ceb": "Région de Kédougou",
+      "lt": "Kedugu",
+      "zh": "凱杜古區",
+      "ccp": "𑄇𑄬𑄓𑄯𑄉𑄯",
+      "uk": "Регіон Кедугу",
+      "no": "Kédougou"
+    },
+    "comments": null,
+    "type": "region"
   },
   "KL": {
     "name": "Kaolack",
-    "code": null,
+    "code": "KL",
     "unofficial_names": "Kaolack",
     "geo": {
       "latitude": 14.1652083,
@@ -292,11 +411,12 @@
       "ccp": "𑄇𑄠𑄮𑄣𑄇𑄴",
       "no": "Kaolack"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LG": {
     "name": "Louga",
-    "code": null,
+    "code": "LG",
     "unofficial_names": "Louga",
     "geo": {
       "latitude": 15.616667,
@@ -353,11 +473,12 @@
       "be": "Луга",
       "no": "Louga"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MT": {
     "name": "Matam",
-    "code": null,
+    "code": "MT",
     "unofficial_names": "Matam",
     "geo": {
       "latitude": 15.6600225,
@@ -411,11 +532,72 @@
       "uk": "Регіон Матам",
       "no": "Matam"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "SE": {
+    "name": "Sédhiou",
+    "code": "SE",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "سيدهيو",
+      "bn": "সেধিউ",
+      "da": "Sédhiou",
+      "de": "Region Sédhiou",
+      "el": "Σεντιού",
+      "en": "Sédhiou",
+      "es": "Sédhiou",
+      "eu": "Sédhiou eskualdea",
+      "fi": "Sédhiou",
+      "fr": "Sédhiou",
+      "gl": "Rexión de Sédhiou",
+      "gu": "સેધિઓ",
+      "hi": "सेदियोऊ",
+      "id": "Sédhiou",
+      "it": "Sédhiou",
+      "ja": "セディウ州",
+      "kn": "ಸೆಡಿಯೂ",
+      "ko": "세디우 주",
+      "mr": "सेधियो",
+      "ms": "Sedhiou",
+      "nb": "Sédhiou",
+      "nl": "Sédhiou",
+      "pl": "Sédhiou",
+      "pt": "Região de Sédhiou",
+      "ro": "Regiunea Sédhiou",
+      "ru": "Седиу",
+      "si": "සෙදෞ",
+      "sv": "Sédhiou",
+      "ta": "சேதிய",
+      "te": "సెదియో",
+      "th": "เซดเฮียว",
+      "tr": "Sédhiou",
+      "ur": "سیدھیو علاقہ",
+      "vi": "Sédhiou",
+      "lv": "Sēgu",
+      "ceb": "Région de Sédhiou",
+      "lt": "Sediju regionas",
+      "zh": "塞久區",
+      "sq": "Rajoni Sédhiou",
+      "ccp": "𑄥𑄬𑄙𑄨𑄠𑄮",
+      "uk": "Регіон Седіу",
+      "be": "рэгіён Седзіу",
+      "no": "Sédhiou"
+    },
+    "comments": null,
+    "type": "region"
   },
   "SL": {
     "name": "Saint-Louis",
-    "code": null,
+    "code": "SL",
     "unofficial_names": "Saint-Louis",
     "geo": {
       "latitude": 16.0326307,
@@ -470,11 +652,12 @@
       "ca": "regió de Saint-Louis",
       "no": "Saint-Louis"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TC": {
     "name": "Tambacounda",
-    "code": null,
+    "code": "TC",
     "unofficial_names": "Tambacounda",
     "geo": {
       "latitude": 13.768889,
@@ -530,11 +713,12 @@
       "uk": "Регіон Тамбакунда",
       "no": "Rambacounda region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TH": {
     "name": "Thiès",
-    "code": null,
+    "code": "TH",
     "unofficial_names": "Thiès",
     "geo": {
       "latitude": 14.766667,
@@ -590,11 +774,12 @@
       "uk": "Регіон Тієс",
       "no": "Thiès"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ZG": {
     "name": "Ziguinchor",
-    "code": null,
+    "code": "ZG",
     "unofficial_names": "Ziguinchor",
     "geo": {
       "latitude": 12.583333,
@@ -650,179 +835,8 @@
       "uk": "Регіон Зігіншор",
       "no": "Ziguinchor"
     },
-    "comments": null
-  },
-  "KA": {
-    "name": "Kaffrine",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "اقليم كفرين",
-      "bn": "ক্যাফ্রিন",
-      "da": "Kaffrine",
-      "de": "Region Kaffrine",
-      "el": "Καφρίν",
-      "en": "Kaffrine",
-      "es": "Kaffrine",
-      "eu": "Kaffrine eskualdea",
-      "fi": "Kaffrine",
-      "fr": "Kaffrine",
-      "gl": "Rexión de Kaffrine",
-      "gu": "કેફ્રીન",
-      "hi": "कैफरीन",
-      "id": "Kaffrine",
-      "it": "Kaffrine",
-      "ja": "カフリン州",
-      "kn": "ಕೆಫ್ರೈನ್",
-      "ko": "카프린 주",
-      "mr": "कॅफ्रीन",
-      "ms": "Kaffrine",
-      "nb": "Kaffrine",
-      "nl": "Kaffrine",
-      "pl": "Kaffrine",
-      "pt": "Kaffrine",
-      "ro": "Regiunea Kaffrine",
-      "ru": "Кафрин",
-      "si": "කෆ්රින්",
-      "sv": "Kaffrine",
-      "ta": "கஃரின்",
-      "te": "కాఫ్రిన్",
-      "th": "เขตคราฟฟริเน",
-      "tr": "Kaffrine",
-      "ur": "کفرین علاقہ",
-      "vi": "Kaffrine",
-      "lv": "Kafrines reģions",
-      "lt": "Kafrinė",
-      "zh": "卡夫林區",
-      "ccp": "𑄇𑄜𑄳𑄢𑄨𑄚𑄴",
-      "uk": "Регіон Кафрін",
-      "no": "Kaffrine"
-    },
-    "comments": null
-  },
-  "KE": {
-    "name": "Kédougou",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "كيدوغو",
-      "bn": "কেদুগো",
-      "da": "Kédougou",
-      "de": "Region Kédougou",
-      "el": "Κεντούγκου",
-      "en": "Kédougou",
-      "es": "Kédougou",
-      "eu": "Kédougou eskualdea",
-      "fi": "Kédougoun alue",
-      "fr": "Kédougou",
-      "gl": "Rexión de Kédougou",
-      "gu": "કેડૌગૂ",
-      "hi": "केडूगू",
-      "id": "Kédougou",
-      "it": "Kédougou",
-      "ja": "ケドゥグ州",
-      "kn": "ಕೆಡೊಗೌ",
-      "ko": "케두구 주",
-      "mr": "केडौगु",
-      "ms": "Kedougou",
-      "nb": "Kédougou",
-      "nl": "Kédougou",
-      "pl": "Kédougou",
-      "pt": "Kédougou",
-      "ro": "Regiunea Kédougou",
-      "ru": "Кедугу",
-      "si": "කෙදොගු",
-      "sv": "Kédougou",
-      "ta": "கெடௌகௌ",
-      "te": "కెడోగూ",
-      "th": "เคดูดู",
-      "tr": "Kédougou",
-      "ur": "کیدؤگؤ علاقہ",
-      "vi": "Kédougou",
-      "lv": "Kēdugu",
-      "ceb": "Région de Kédougou",
-      "lt": "Kedugu",
-      "zh": "凱杜古區",
-      "ccp": "𑄇𑄬𑄓𑄯𑄉𑄯",
-      "uk": "Регіон Кедугу",
-      "no": "Kédougou"
-    },
-    "comments": null
-  },
-  "SE": {
-    "name": "Sédhiou",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "سيدهيو",
-      "bn": "সেধিউ",
-      "da": "Sédhiou",
-      "de": "Region Sédhiou",
-      "el": "Σεντιού",
-      "en": "Sédhiou",
-      "es": "Sédhiou",
-      "eu": "Sédhiou eskualdea",
-      "fi": "Sédhiou",
-      "fr": "Sédhiou",
-      "gl": "Rexión de Sédhiou",
-      "gu": "સેધિઓ",
-      "hi": "सेदियोऊ",
-      "id": "Sédhiou",
-      "it": "Sédhiou",
-      "ja": "セディウ州",
-      "kn": "ಸೆಡಿಯೂ",
-      "ko": "세디우 주",
-      "mr": "सेधियो",
-      "ms": "Sedhiou",
-      "nb": "Sédhiou",
-      "nl": "Sédhiou",
-      "pl": "Sédhiou",
-      "pt": "Região de Sédhiou",
-      "ro": "Regiunea Sédhiou",
-      "ru": "Седиу",
-      "si": "සෙදෞ",
-      "sv": "Sédhiou",
-      "ta": "சேதிய",
-      "te": "సెదియో",
-      "th": "เซดเฮียว",
-      "tr": "Sédhiou",
-      "ur": "سیدھیو علاقہ",
-      "vi": "Sédhiou",
-      "lv": "Sēgu",
-      "ceb": "Région de Sédhiou",
-      "lt": "Sediju regionas",
-      "zh": "塞久區",
-      "sq": "Rajoni Sédhiou",
-      "ccp": "𑄥𑄬𑄙𑄨𑄠𑄮",
-      "uk": "Регіон Седіу",
-      "be": "рэгіён Седзіу",
-      "no": "Sédhiou"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "BZ": {
     "name": "Belize",
-    "code": null,
+    "code": "BZ",
     "unofficial_names": "Belize",
     "geo": {
       "latitude": 17.5045661,
@@ -44,11 +44,12 @@
       "uk": "Беліз",
       "no": "Belize"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CY": {
     "name": "Cayo",
-    "code": null,
+    "code": "CY",
     "unofficial_names": "Cayo",
     "geo": {
       "latitude": 17.0984445,
@@ -102,11 +103,12 @@
       "uk": "Район Кайо",
       "no": "Cayo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CZL": {
     "name": "Corozal",
-    "code": null,
+    "code": "CZL",
     "unofficial_names": "Corozal",
     "geo": {
       "latitude": 18.1349238,
@@ -160,11 +162,12 @@
       "uk": "Район Коросаль",
       "no": "Corozal"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "OW": {
     "name": "Orange Walk",
-    "code": null,
+    "code": "OW",
     "unofficial_names": "Orange Walk",
     "geo": {
       "latitude": 17.760353,
@@ -218,11 +221,12 @@
       "uk": "Район Ориндж-Волк",
       "no": "Orange Walk"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SC": {
     "name": "Stann Creek",
-    "code": null,
+    "code": "SC",
     "unofficial_names": "Stann Creek",
     "geo": {
       "latitude": 16.8116631,
@@ -276,11 +280,12 @@
       "ccp": "𑄌𑄳𑄑𑄚𑄴 𑄇𑄳𑄢𑄨𑄇𑄴",
       "no": "Stann Creek"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TOL": {
     "name": "Toledo",
-    "code": null,
+    "code": "TOL",
     "unofficial_names": "Toledo",
     "geo": {
       "latitude": 16.2491923,
@@ -335,7 +340,8 @@
       "uk": "Толедо",
       "no": "Toledo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Sagaing",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Sagaing",
     "geo": {
       "latitude": 21.9159702,
@@ -57,11 +57,12 @@
       "mk": "Сагаин",
       "no": "Sagaing"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "02": {
     "name": "Bago",
-    "code": null,
+    "code": "02",
     "unofficial_names": [
       "Pegu"
     ],
@@ -118,11 +119,12 @@
       "mk": "Баго (округ)",
       "no": "Bago"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "03": {
     "name": "Magway",
-    "code": null,
+    "code": "03",
     "unofficial_names": [
       "Magwe"
     ],
@@ -180,11 +182,12 @@
       "mk": "Магве",
       "no": "Magway"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "04": {
     "name": "Mandalay",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Mandalay",
     "geo": {
       "latitude": 21.975,
@@ -241,11 +244,12 @@
       "mk": "Мандалеј (округ)",
       "no": "Mandalay"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "05": {
     "name": "Tanintharyi",
-    "code": null,
+    "code": "05",
     "unofficial_names": [
       "Tenasserim"
     ],
@@ -304,11 +308,12 @@
       "mk": "Танинтаји",
       "no": "Tanintharyi"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "06": {
     "name": "Yangon",
-    "code": null,
+    "code": "06",
     "unofficial_names": [
       "Yangon",
       "Rangun",
@@ -371,11 +376,12 @@
       "mk": "Јангон",
       "no": "Yangon"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "07": {
     "name": "Ayeyarwady",
-    "code": null,
+    "code": "07",
     "unofficial_names": [
       "Irrawaddy"
     ],
@@ -439,11 +445,12 @@
       "mk": "Иравади",
       "no": "Ayeyarwady"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "11": {
     "name": "Kachin",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Kachin",
     "geo": {
       "latitude": 25.850904,
@@ -508,11 +515,12 @@
       "mk": "Качин",
       "no": "Kachin"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "12": {
     "name": "Kayah",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Kayah",
     "geo": {
       "latitude": 19.2342061,
@@ -572,11 +580,12 @@
       "mk": "Каја",
       "no": "Kayah"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "13": {
     "name": "Kayin",
-    "code": null,
+    "code": "13",
     "unofficial_names": [
       "Karen"
     ],
@@ -637,11 +646,12 @@
       "mk": "Карен",
       "no": "Karen"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "14": {
     "name": "Chin",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Chin",
     "geo": {
       "latitude": 22.3896751,
@@ -702,11 +712,12 @@
       "mk": "Чин",
       "no": "Chin"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "15": {
     "name": "Mon",
-    "code": null,
+    "code": "15",
     "unofficial_names": "Mon",
     "geo": {
       "latitude": 17.0626039,
@@ -766,11 +777,12 @@
       "mk": "Мон",
       "no": "Mon"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "16": {
     "name": "Rakhine",
-    "code": null,
+    "code": "16",
     "unofficial_names": [
       "Arakan"
     ],
@@ -834,11 +846,12 @@
       "mk": "Ракајн",
       "no": "Rakhine"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "17": {
     "name": "Shan",
-    "code": null,
+    "code": "17",
     "unofficial_names": "Shan",
     "geo": {
       "latitude": 21.156717,
@@ -901,11 +914,12 @@
       "mk": "Шан",
       "no": "Shan"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "18": {
     "name": "နေပြည်တော် ပြည်ထောင်စုနယ်မြေ",
-    "code": null,
+    "code": "18",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -936,7 +950,8 @@
       "my": "နေပြည်တော် ပြည်ထောင်စုနယ်မြေ",
       "ca": "Territori de la Unió de Naypyidaw"
     },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "0": {
     "name": "Reykjavík",
-    "code": null,
+    "code": "0",
     "unofficial_names": "Reykjavík",
     "geo": {
       "latitude": 64.133333,
@@ -15,11 +15,12 @@
       "en": "Reykjavík",
       "ccp": "𑄢𑄨𑄠𑄎𑄞𑄨𑄇𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "1": {
     "name": "Höfuðborgarsvæði utan Reykjavíkur",
-    "code": null,
+    "code": "1",
     "unofficial_names": "Höfuðborgarsvæði utan Reykjavíkur",
     "geo": {
       "latitude": 64.1475182,
@@ -87,11 +88,12 @@
       "mk": "Престолнински регион",
       "no": "Höfuðborgarsvæðið"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "2": {
     "name": "Suðurnes",
-    "code": null,
+    "code": "2",
     "unofficial_names": "Suðurnes",
     "geo": {
       "latitude": 63.91548030000001,
@@ -158,11 +160,12 @@
       "mk": "Јужен Полуостров",
       "no": "Suðurnes"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "3": {
     "name": "Vesturland",
-    "code": null,
+    "code": "3",
     "unofficial_names": "Vesturland",
     "geo": {
       "latitude": 64.770434,
@@ -229,11 +232,12 @@
       "bg": "Вестюрланд",
       "no": "Vesturland"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "4": {
     "name": "Vestfirðir",
-    "code": null,
+    "code": "4",
     "unofficial_names": "Vestfirðir",
     "geo": {
       "latitude": 65.91961500000001,
@@ -301,11 +305,12 @@
       "mk": "Западни Фјордови",
       "no": "Vestfirðir"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "5": {
     "name": "Norðurland vestra",
-    "code": null,
+    "code": "5",
     "unofficial_names": "Norðurland vestra",
     "geo": {
       "latitude": 65.19625049999999,
@@ -370,11 +375,12 @@
       "mk": "Северозападен регион",
       "no": "Norðurland vestra"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "6": {
     "name": "Norðurland eystra",
-    "code": null,
+    "code": "6",
     "unofficial_names": "Norðurland eystra",
     "geo": {
       "latitude": 65.4713712,
@@ -441,11 +447,12 @@
       "mk": "Североисточен регион",
       "no": "Norðurland eystra"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "7": {
     "name": "Austurland",
-    "code": null,
+    "code": "7",
     "unofficial_names": "Austurland",
     "geo": {
       "latitude": 64.8329974,
@@ -512,11 +519,12 @@
       "mk": "Источен регион",
       "no": "Austurland"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "8": {
     "name": "Suðurland",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Suðurland",
     "geo": {
       "latitude": 64.2661426,
@@ -584,439 +592,560 @@
       "mk": "Јужен регион",
       "no": "Suðurland"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AKH": {
     "translations": {
       "en": "Akrahreppur"
     },
-    "name": "Akrahreppur"
+    "name": "Akrahreppur",
+    "code": "AKH",
+    "type": "municipality"
   },
   "AKN": {
     "translations": {
       "en": "Akraneskaupstaður"
     },
-    "name": "Akraneskaupstaður"
+    "name": "Akraneskaupstaður",
+    "code": "AKN",
+    "type": "municipality"
   },
   "AKU": {
     "translations": {
       "en": "Akureyrarbær"
     },
-    "name": "Akureyrarbær"
+    "name": "Akureyrarbær",
+    "code": "AKU",
+    "type": "municipality"
   },
   "ARN": {
     "translations": {
       "en": "Árneshreppur"
     },
-    "name": "Árneshreppur"
+    "name": "Árneshreppur",
+    "code": "ARN",
+    "type": "municipality"
   },
   "ASA": {
     "translations": {
       "en": "Ásahreppur"
     },
-    "name": "Ásahreppur"
-  },
-  "BFJ": {
-    "translations": {
-      "en": "Borgarfjarðarhreppur"
-    },
-    "name": "Borgarfjarðarhreppur"
+    "name": "Ásahreppur",
+    "code": "ASA",
+    "type": "municipality"
   },
   "BLA": {
     "translations": {
       "en": "Bláskógabyggð"
     },
-    "name": "Bláskógabyggð"
+    "name": "Bláskógabyggð",
+    "code": "BLA",
+    "type": "municipality"
   },
   "BLO": {
     "translations": {
       "en": "Blönduósbær"
     },
-    "name": "Blönduósbær"
+    "name": "Blönduósbær",
+    "code": "BLO",
+    "type": "municipality"
   },
   "BOG": {
     "translations": {
       "en": "Borgarbyggð"
     },
-    "name": "Borgarbyggð"
+    "name": "Borgarbyggð",
+    "code": "BOG",
+    "type": "municipality"
   },
   "BOL": {
     "translations": {
       "en": "Bolungarvíkurkaupstaður"
     },
-    "name": "Bolungarvíkurkaupstaður"
+    "name": "Bolungarvíkurkaupstaður",
+    "code": "BOL",
+    "type": "municipality"
   },
   "DAB": {
     "translations": {
       "en": "Dalabyggð"
     },
-    "name": "Dalabyggð"
+    "name": "Dalabyggð",
+    "code": "DAB",
+    "type": "municipality"
   },
   "DAV": {
     "translations": {
       "en": "Dalvíkurbyggð"
     },
-    "name": "Dalvíkurbyggð"
-  },
-  "DJU": {
-    "translations": {
-      "en": "Djúpavogshreppur"
-    },
-    "name": "Djúpavogshreppur"
+    "name": "Dalvíkurbyggð",
+    "code": "DAV",
+    "type": "municipality"
   },
   "EOM": {
     "translations": {
       "en": "Eyja- og Miklaholtshreppur"
     },
-    "name": "Eyja- og Miklaholtshreppur"
+    "name": "Eyja- og Miklaholtshreppur",
+    "code": "EOM",
+    "type": "municipality"
   },
   "EYF": {
     "translations": {
       "en": "Eyjafjarðarsveit"
     },
-    "name": "Eyjafjarðarsveit"
+    "name": "Eyjafjarðarsveit",
+    "code": "EYF",
+    "type": "municipality"
   },
   "FJD": {
     "translations": {
       "en": "Fjarðabyggð"
     },
-    "name": "Fjarðabyggð"
+    "name": "Fjarðabyggð",
+    "code": "FJD",
+    "type": "municipality"
   },
   "FJL": {
     "translations": {
       "en": "Fjallabyggð"
     },
-    "name": "Fjallabyggð"
+    "name": "Fjallabyggð",
+    "code": "FJL",
+    "type": "municipality"
   },
   "FLA": {
     "translations": {
       "en": "Flóahreppur"
     },
-    "name": "Flóahreppur"
-  },
-  "FLD": {
-    "translations": {
-      "en": "Fljótsdalshérað"
-    },
-    "name": "Fljótsdalshérað"
+    "name": "Flóahreppur",
+    "code": "FLA",
+    "type": "municipality"
   },
   "FLR": {
     "translations": {
       "en": "Fljótsdalshreppur"
     },
-    "name": "Fljótsdalshreppur"
+    "name": "Fljótsdalshreppur",
+    "code": "FLR",
+    "type": "municipality"
   },
   "GAR": {
     "translations": {
       "en": "Garðabær"
     },
-    "name": "Garðabær"
+    "name": "Garðabær",
+    "code": "GAR",
+    "type": "municipality"
   },
   "GOG": {
     "translations": {
       "en": "Grímsnes- og Grafningshreppur"
     },
-    "name": "Grímsnes- og Grafningshreppur"
+    "name": "Grímsnes- og Grafningshreppur",
+    "code": "GOG",
+    "type": "municipality"
   },
   "GRN": {
     "translations": {
       "en": "Grindavíkurbær"
     },
-    "name": "Grindavíkurbær"
+    "name": "Grindavíkurbær",
+    "code": "GRN",
+    "type": "municipality"
   },
   "GRU": {
     "translations": {
       "en": "Grundarfjarðarbær"
     },
-    "name": "Grundarfjarðarbær"
+    "name": "Grundarfjarðarbær",
+    "code": "GRU",
+    "type": "municipality"
   },
   "GRY": {
     "translations": {
       "en": "Grýtubakkahreppur"
     },
-    "name": "Grýtubakkahreppur"
+    "name": "Grýtubakkahreppur",
+    "code": "GRY",
+    "type": "municipality"
   },
   "HAF": {
     "translations": {
       "en": "Hafnarfjarðarkaupstaður"
     },
-    "name": "Hafnarfjarðarkaupstaður"
+    "name": "Hafnarfjarðarkaupstaður",
+    "code": "HAF",
+    "type": "municipality"
   },
   "HEL": {
     "translations": {
       "en": "Helgafellssveit"
     },
-    "name": "Helgafellssveit"
+    "name": "Helgafellssveit",
+    "code": "HEL",
+    "type": "municipality"
   },
   "HRG": {
     "translations": {
       "en": "Hörgársveit"
     },
-    "name": "Hörgársveit"
+    "name": "Hörgársveit",
+    "code": "HRG",
+    "type": "municipality"
   },
   "HRU": {
     "translations": {
       "en": "Hrunamannahreppur"
     },
-    "name": "Hrunamannahreppur"
+    "name": "Hrunamannahreppur",
+    "code": "HRU",
+    "type": "municipality"
   },
   "HUT": {
     "translations": {
       "en": "Húnavatnshreppur"
     },
-    "name": "Húnavatnshreppur"
+    "name": "Húnavatnshreppur",
+    "code": "HUT",
+    "type": "municipality"
   },
   "HUV": {
     "translations": {
       "en": "Húnaþing vestra"
     },
-    "name": "Húnaþing vestra"
+    "name": "Húnaþing vestra",
+    "code": "HUV",
+    "type": "municipality"
   },
   "HVA": {
     "translations": {
       "en": "Hvalfjarðarsveit"
     },
-    "name": "Hvalfjarðarsveit"
+    "name": "Hvalfjarðarsveit",
+    "code": "HVA",
+    "type": "municipality"
   },
   "HVE": {
     "translations": {
       "en": "Hveragerðisbær"
     },
-    "name": "Hveragerðisbær"
+    "name": "Hveragerðisbær",
+    "code": "HVE",
+    "type": "municipality"
   },
   "ISA": {
     "translations": {
       "en": "Ísafjarðarbær"
     },
-    "name": "Ísafjarðarbær"
+    "name": "Ísafjarðarbær",
+    "code": "ISA",
+    "type": "municipality"
   },
   "KAL": {
     "translations": {
       "en": "Kaldrananeshreppur"
     },
-    "name": "Kaldrananeshreppur"
+    "name": "Kaldrananeshreppur",
+    "code": "KAL",
+    "type": "municipality"
   },
   "KJO": {
     "translations": {
       "en": "Kjósarhreppur"
     },
-    "name": "Kjósarhreppur"
+    "name": "Kjósarhreppur",
+    "code": "KJO",
+    "type": "municipality"
   },
   "KOP": {
     "translations": {
       "en": "Kópavogsbær"
     },
-    "name": "Kópavogsbær"
+    "name": "Kópavogsbær",
+    "code": "KOP",
+    "type": "municipality"
   },
   "LAN": {
     "translations": {
       "en": "Langanesbyggð"
     },
-    "name": "Langanesbyggð"
+    "name": "Langanesbyggð",
+    "code": "LAN",
+    "type": "municipality"
   },
   "MOS": {
     "translations": {
       "en": "Mosfellsbær"
     },
-    "name": "Mosfellsbær"
+    "name": "Mosfellsbær",
+    "code": "MOS",
+    "type": "municipality"
+  },
+  "MUL": {
+    "translations": {
+      "en": "Múlaþing"
+    },
+    "name": "Múlaþing",
+    "code": "MUL",
+    "type": "municipality"
   },
   "MYR": {
     "translations": {
       "en": "Mýrdalshreppur"
     },
-    "name": "Mýrdalshreppur"
+    "name": "Mýrdalshreppur",
+    "code": "MYR",
+    "type": "municipality"
   },
   "NOR": {
     "translations": {
       "en": "Norðurþing"
     },
-    "name": "Norðurþing"
+    "name": "Norðurþing",
+    "code": "NOR",
+    "type": "municipality"
   },
   "RGE": {
     "translations": {
       "en": "Rangárþing eystra"
     },
-    "name": "Rangárþing eystra"
+    "name": "Rangárþing eystra",
+    "code": "RGE",
+    "type": "municipality"
   },
   "RGY": {
     "translations": {
       "en": "Rangárþing ytra"
     },
-    "name": "Rangárþing ytra"
+    "name": "Rangárþing ytra",
+    "code": "RGY",
+    "type": "municipality"
   },
   "RHH": {
     "translations": {
       "en": "Reykhólahreppur"
     },
-    "name": "Reykhólahreppur"
+    "name": "Reykhólahreppur",
+    "code": "RHH",
+    "type": "municipality"
   },
   "RKN": {
     "translations": {
       "en": "Reykjanesbær"
     },
-    "name": "Reykjanesbær"
+    "name": "Reykjanesbær",
+    "code": "RKN",
+    "type": "municipality"
   },
   "RKV": {
     "translations": {
       "en": "Reykjavíkurborg"
     },
-    "name": "Reykjavíkurborg"
+    "name": "Reykjavíkurborg",
+    "code": "RKV",
+    "type": "municipality"
   },
   "SBH": {
     "translations": {
       "en": "Svalbarðshreppur"
     },
-    "name": "Svalbarðshreppur"
+    "name": "Svalbarðshreppur",
+    "code": "SBH",
+    "type": "municipality"
   },
   "SBT": {
     "translations": {
       "en": "Svalbarðsstrandarhreppur"
     },
-    "name": "Svalbarðsstrandarhreppur"
+    "name": "Svalbarðsstrandarhreppur",
+    "code": "SBT",
+    "type": "municipality"
   },
   "SDN": {
     "translations": {
       "en": "Suðurnesjabær"
     },
-    "name": "Suðurnesjabær"
+    "name": "Suðurnesjabær",
+    "code": "SDN",
+    "type": "municipality"
   },
   "SDV": {
     "translations": {
       "en": "Súðavíkurhreppur"
     },
-    "name": "Súðavíkurhreppur"
+    "name": "Súðavíkurhreppur",
+    "code": "SDV",
+    "type": "municipality"
   },
   "SEL": {
     "translations": {
       "en": "Seltjarnarnesbær"
     },
-    "name": "Seltjarnarnesbær"
-  },
-  "SEY": {
-    "translations": {
-      "en": "Seyðisfjarðarkaupstaður"
-    },
-    "name": "Seyðisfjarðarkaupstaður"
+    "name": "Seltjarnarnesbær",
+    "code": "SEL",
+    "type": "municipality"
   },
   "SFA": {
     "translations": {
       "en": "Sveitarfélagið Árborg"
     },
-    "name": "Sveitarfélagið Árborg"
+    "name": "Sveitarfélagið Árborg",
+    "code": "SFA",
+    "type": "municipality"
   },
   "SHF": {
     "translations": {
       "en": "Sveitarfélagið Hornafjörður"
     },
-    "name": "Sveitarfélagið Hornafjörður"
+    "name": "Sveitarfélagið Hornafjörður",
+    "code": "SHF",
+    "type": "municipality"
   },
   "SKF": {
     "translations": {
       "en": "Skaftárhreppur"
     },
-    "name": "Skaftárhreppur"
+    "name": "Skaftárhreppur",
+    "code": "SKF",
+    "type": "municipality"
   },
   "SKG": {
     "translations": {
       "en": "Skagabyggð"
     },
-    "name": "Skagabyggð"
+    "name": "Skagabyggð",
+    "code": "SKG",
+    "type": "municipality"
   },
   "SKO": {
     "translations": {
       "en": "Skorradalshreppur"
     },
-    "name": "Skorradalshreppur"
+    "name": "Skorradalshreppur",
+    "code": "SKO",
+    "type": "municipality"
   },
   "SKU": {
     "translations": {
       "en": "Skútustaðahreppur"
     },
-    "name": "Skútustaðahreppur"
+    "name": "Skútustaðahreppur",
+    "code": "SKU",
+    "type": "municipality"
   },
   "SNF": {
     "translations": {
       "en": "Snæfellsbær"
     },
-    "name": "Snæfellsbær"
+    "name": "Snæfellsbær",
+    "code": "SNF",
+    "type": "municipality"
   },
   "SOG": {
     "translations": {
       "en": "Skeiða- og Gnúpverjahreppur"
     },
-    "name": "Skeiða- og Gnúpverjahreppur"
+    "name": "Skeiða- og Gnúpverjahreppur",
+    "code": "SOG",
+    "type": "municipality"
   },
   "SOL": {
     "translations": {
       "en": "Sveitarfélagið Ölfus"
     },
-    "name": "Sveitarfélagið Ölfus"
+    "name": "Sveitarfélagið Ölfus",
+    "code": "SOL",
+    "type": "municipality"
   },
   "SSF": {
     "translations": {
       "en": "Sveitarfélagið Skagafjörður"
     },
-    "name": "Sveitarfélagið Skagafjörður"
+    "name": "Sveitarfélagið Skagafjörður",
+    "code": "SSF",
+    "type": "municipality"
   },
   "SSS": {
     "translations": {
       "en": "Sveitarfélagið Skagaströnd"
     },
-    "name": "Sveitarfélagið Skagaströnd"
+    "name": "Sveitarfélagið Skagaströnd",
+    "code": "SSS",
+    "type": "municipality"
   },
   "STR": {
     "translations": {
       "en": "Strandabyggð"
     },
-    "name": "Strandabyggð"
+    "name": "Strandabyggð",
+    "code": "STR",
+    "type": "municipality"
   },
   "STY": {
     "translations": {
       "en": "Stykkishólmsbær"
     },
-    "name": "Stykkishólmsbær"
+    "name": "Stykkishólmsbær",
+    "code": "STY",
+    "type": "municipality"
   },
   "SVG": {
     "translations": {
       "en": "Sveitarfélagið Vogar"
     },
-    "name": "Sveitarfélagið Vogar"
+    "name": "Sveitarfélagið Vogar",
+    "code": "SVG",
+    "type": "municipality"
   },
   "TAL": {
     "translations": {
       "en": "Tálknafjarðarhreppur"
     },
-    "name": "Tálknafjarðarhreppur"
+    "name": "Tálknafjarðarhreppur",
+    "code": "TAL",
+    "type": "municipality"
   },
   "THG": {
     "translations": {
       "en": "Þingeyjarsveit"
     },
-    "name": "Þingeyjarsveit"
+    "name": "Þingeyjarsveit",
+    "code": "THG",
+    "type": "municipality"
   },
   "TJO": {
     "translations": {
       "en": "Tjörneshreppur"
     },
-    "name": "Tjörneshreppur"
+    "name": "Tjörneshreppur",
+    "code": "TJO",
+    "type": "municipality"
   },
   "VEM": {
     "translations": {
       "en": "Vestmannaeyjabær"
     },
-    "name": "Vestmannaeyjabær"
+    "name": "Vestmannaeyjabær",
+    "code": "VEM",
+    "type": "municipality"
   },
   "VER": {
     "translations": {
       "en": "Vesturbyggð"
     },
-    "name": "Vesturbyggð"
+    "name": "Vesturbyggð",
+    "code": "VER",
+    "type": "municipality"
   },
   "VOP": {
     "translations": {
       "en": "Vopnafjarðarhreppur"
     },
-    "name": "Vopnafjarðarhreppur"
+    "name": "Vopnafjarðarhreppur",
+    "code": "VOP",
+    "type": "municipality"
   }
 }
 

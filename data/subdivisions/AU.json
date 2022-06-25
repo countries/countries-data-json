@@ -1,7 +1,7 @@
 {
   "ACT": {
     "name": "Australian Capital Territory",
-    "code": null,
+    "code": "ACT",
     "unofficial_names": "Australian Capital Territory",
     "geo": {
       "latitude": -35.4734679,
@@ -80,11 +80,12 @@
       "mk": "Австралиска престолнинска територија",
       "no": "Australian Capital Territory"
     },
-    "comments": null
+    "comments": null,
+    "type": "territory"
   },
   "NSW": {
     "name": "New South Wales",
-    "code": null,
+    "code": "NSW",
     "unofficial_names": "New South Wales",
     "geo": {
       "latitude": -33.864174,
@@ -171,11 +172,12 @@
       "mk": "Нов Јужен Велс",
       "no": "New South Wales"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NT": {
     "name": "Northern Territory",
-    "code": null,
+    "code": "NT",
     "unofficial_names": "Northern Territory",
     "geo": {
       "latitude": -19.4914108,
@@ -256,11 +258,12 @@
       "mk": "Северна Територија",
       "no": "Nordterritoriet"
     },
-    "comments": null
+    "comments": null,
+    "type": "territory"
   },
   "QLD": {
     "name": "Queensland",
-    "code": null,
+    "code": "QLD",
     "unofficial_names": "Queensland",
     "geo": {
       "latitude": -20.9175738,
@@ -351,11 +354,12 @@
       "no": "Queensland",
       "yo_BJ": "Queensland"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SA": {
     "name": "South Australia",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "South Australia",
     "geo": {
       "latitude": -30.0002315,
@@ -439,11 +443,12 @@
       "mk": "Јужна Австралија",
       "no": "Sør-Australia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TAS": {
     "name": "Tasmania",
-    "code": null,
+    "code": "TAS",
     "unofficial_names": "Tasmania",
     "geo": {
       "latitude": -41.3650419,
@@ -532,11 +537,12 @@
       "mk": "Тасманија",
       "no": "Tasmania"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "VIC": {
     "name": "Victoria",
-    "code": null,
+    "code": "VIC",
     "unofficial_names": "Victoria",
     "geo": {
       "latitude": -37.4713077,
@@ -619,11 +625,12 @@
       "mk": "Викторија",
       "no": "Victoria"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WA": {
     "name": "Western Australia",
-    "code": null,
+    "code": "WA",
     "unofficial_names": "Western Australia",
     "geo": {
       "latitude": -27.6728168,
@@ -706,7 +713,8 @@
       "mk": "Западна Австралија",
       "no": "Vest-Australia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

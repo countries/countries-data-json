@@ -1,7 +1,7 @@
 {
   "AW": {
     "name": "Awdal",
-    "code": null,
+    "code": "AW",
     "unofficial_names": "Awdal",
     "geo": {
       "latitude": 10.6334285,
@@ -42,11 +42,12 @@
       "ccp": "𑄃𑄧𑄓𑄣𑄴",
       "so": "Awdal"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BK": {
     "name": "Bakool",
-    "code": null,
+    "code": "BK",
     "unofficial_names": "Bakool",
     "geo": {
       "latitude": 4.3657221,
@@ -102,11 +103,12 @@
       "so": "Bakool",
       "no": "Bakool"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BN": {
     "name": "Banaadir",
-    "code": null,
+    "code": "BN",
     "unofficial_names": "Banaadir",
     "geo": {
       "latitude": 2.1187375,
@@ -162,11 +164,12 @@
       "so": "Banaadir",
       "no": "Banaadir"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BR": {
     "name": "Bari",
-    "code": null,
+    "code": "BR",
     "unofficial_names": "Bari",
     "geo": {
       "latitude": 10.1203847,
@@ -223,11 +226,12 @@
       "so": "Bari",
       "no": "Bari"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BY": {
     "name": "Bay",
-    "code": null,
+    "code": "BY",
     "unofficial_names": "Bay",
     "geo": {
       "latitude": 2.4825193,
@@ -284,11 +288,12 @@
       "so": "Baay",
       "no": "Bay"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "GA": {
     "name": "Galguduud",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Galguduud",
     "geo": {
       "latitude": 5.1850128,
@@ -344,11 +349,12 @@
       "so": "Galguduud",
       "no": "Galguduud"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "GE": {
     "name": "Gedo",
-    "code": null,
+    "code": "GE",
     "unofficial_names": "Gedo",
     "geo": {
       "latitude": 3.5039227,
@@ -404,11 +410,12 @@
       "so": "Gedo",
       "no": "Gedo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "HI": {
     "name": "Hiiraan",
-    "code": null,
+    "code": "HI",
     "unofficial_names": "Hiiraan",
     "geo": {
       "latitude": 4.321015,
@@ -464,11 +471,12 @@
       "so": "Hiiraan",
       "no": "Hiiraan"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "JD": {
     "name": "Jubbada Dhexe",
-    "code": null,
+    "code": "JD",
     "unofficial_names": "Jubbada Dhexe",
     "geo": {
       "latitude": 2.0780488,
@@ -525,11 +533,12 @@
       "so": "Jubbada Dhexe",
       "no": "Jubbada Dhexe"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "JH": {
     "name": "Jubbada Hoose",
-    "code": null,
+    "code": "JH",
     "unofficial_names": "Jubbada Hoose",
     "geo": {
       "latitude": 0.224021,
@@ -586,11 +595,12 @@
       "so": "Jubbada Hoose",
       "no": "Nedre Juba"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MU": {
     "name": "Mudug",
-    "code": null,
+    "code": "MU",
     "unofficial_names": "Mudug",
     "geo": {
       "latitude": 6.5656726,
@@ -647,11 +657,12 @@
       "so": "Mudug",
       "no": "Mudug"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NU": {
     "name": "Nugaal",
-    "code": null,
+    "code": "NU",
     "unofficial_names": "Nugaal",
     "geo": {
       "latitude": 8.2173496,
@@ -706,11 +717,12 @@
       "so": "Nugaal",
       "no": "Nugal"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SA": {
     "name": "Sanaag",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Sanaag",
     "geo": {
       "latitude": 10.3938218,
@@ -749,11 +761,12 @@
       "ccp": "𑄥𑄚𑄳𑄃𑄇𑄴",
       "so": "Sanaag"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SD": {
     "name": "Shabeellaha Dhexe",
-    "code": null,
+    "code": "SD",
     "unofficial_names": "Shabeellaha Dhexe",
     "geo": {
       "latitude": 2.9250247,
@@ -810,11 +823,12 @@
       "be": "Сярэдняя Шабеле",
       "no": "Shabeellaha Dhexe"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SH": {
     "name": "Shabeellaha Hoose",
-    "code": null,
+    "code": "SH",
     "unofficial_names": "Shabeellaha Hoose",
     "geo": {
       "latitude": 1.8766458,
@@ -871,11 +885,12 @@
       "so": "Shabeellaha Hoose",
       "no": "Nedre Shebelle"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SO": {
     "name": "Sool",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Sool",
     "geo": {
       "latitude": 8.722155599999999,
@@ -916,11 +931,12 @@
       "so": "Sool",
       "no": "Sool"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TO": {
     "name": "Togdheer",
-    "code": null,
+    "code": "TO",
     "unofficial_names": "Togdheer",
     "geo": {
       "latitude": 9.4460587,
@@ -958,11 +974,12 @@
       "ccp": "𑄑𑄮𑄇𑄴𑄙𑄩𑄢𑄴",
       "so": "Togdheer"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "WO": {
     "name": "Woqooyi Galbeed",
-    "code": null,
+    "code": "WO",
     "unofficial_names": "Woqooyi Galbeed",
     "geo": {
       "latitude": 9.542373999999999,
@@ -1001,7 +1018,8 @@
       "nb": "Woqooyi Galbeed",
       "no": "Woqooyi Galbeed"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

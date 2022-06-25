@@ -1,7 +1,7 @@
 {
   "BU": {
     "name": "Bulawayo",
-    "code": null,
+    "code": "BU",
     "unofficial_names": "Bulawayo",
     "geo": {
       "latitude": -20.1325066,
@@ -19,11 +19,12 @@
       "ccp": "𑄝𑄪𑄣𑄤𑄃𑄮",
       "be": "Булавая"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HA": {
     "name": "Harare",
-    "code": null,
+    "code": "HA",
     "unofficial_names": "Harare",
     "geo": {
       "latitude": -17.863889,
@@ -47,11 +48,12 @@
       "ne": "हरारे प्रदेश",
       "no": "Harare Province"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MA": {
     "name": "Manicaland",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Manicaland",
     "geo": {
       "latitude": -18.9216386,
@@ -112,11 +114,12 @@
       "ccp": "𑄟𑄧𑄚𑄨𑄇𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "no": "Manicaland"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MC": {
     "name": "Mashonaland Central",
-    "code": null,
+    "code": "MC",
     "unofficial_names": "Mashonaland Central",
     "geo": {
       "latitude": -16.7644295,
@@ -176,11 +179,12 @@
       "ccp": "𑄟𑄥𑄮𑄚𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "no": "Mashonaland Central"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ME": {
     "name": "Mashonaland East",
-    "code": null,
+    "code": "ME",
     "unofficial_names": "Mashonaland East",
     "geo": {
       "latitude": -18.5871642,
@@ -241,11 +245,12 @@
       "he": "משונאלנד מזרח פרובינציה",
       "no": "Mashonaland East"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MI": {
     "name": "Midlands",
-    "code": null,
+    "code": "MI",
     "unofficial_names": "Midlands",
     "geo": {
       "latitude": -19.0552009,
@@ -305,11 +310,12 @@
       "ccp": "𑄟𑄨𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
       "no": "Midlands"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MN": {
     "name": "Matabeleland North",
-    "code": null,
+    "code": "MN",
     "unofficial_names": "Matabeleland North",
     "geo": {
       "latitude": -18.5331566,
@@ -370,11 +376,12 @@
       "ccp": "𑄟𑄑𑄝𑄨𑄣𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴",
       "no": "Matabeleland North"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MS": {
     "name": "Matabeleland South",
-    "code": null,
+    "code": "MS",
     "unofficial_names": "Matabeleland South",
     "geo": {
       "latitude": -21.052337,
@@ -434,11 +441,12 @@
       "ccp": "𑄟𑄑𑄝𑄨𑄣𑄨𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄘𑄧𑄊𑄨𑄚𑄴",
       "no": "Matabeleland South"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MV": {
     "name": "Masvingo",
-    "code": null,
+    "code": "MV",
     "unofficial_names": "Masvingo",
     "geo": {
       "latitude": -20.074444,
@@ -498,11 +506,12 @@
       "ccp": "𑄟𑄌𑄴𑄞𑄨𑄁𑄉𑄮",
       "no": "Masvingo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MW": {
     "name": "Mashonaland West",
-    "code": null,
+    "code": "MW",
     "unofficial_names": "Mashonaland West",
     "geo": {
       "latitude": -17.4851029,
@@ -562,7 +571,8 @@
       "ccp": "𑄟𑄥𑄮𑄚𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄛𑄧𑄏𑄨𑄟𑄴",
       "no": "Mashonaland West"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

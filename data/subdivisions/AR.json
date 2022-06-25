@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Salta",
-    "code": null,
+    "code": "A",
     "unofficial_names": "Salta",
     "geo": {
       "latitude": -24.7829323,
@@ -68,11 +68,12 @@
       "mk": "Салта",
       "no": "Salta"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "B": {
     "name": "Buenos Aires",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Buenos Aires",
     "geo": {
       "latitude": -34.6037232,
@@ -146,11 +147,12 @@
       "mk": "Буенос Аирес",
       "no": "Buenos Aires"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "C": {
     "name": "Capital federal",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Capital federal",
     "geo": {
       "latitude": -34.6037232,
@@ -248,11 +250,12 @@
       "no": "Buenos Aires²",
       "yo_BJ": "Buenos Aires"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "D": {
     "name": "San Luis",
-    "code": null,
+    "code": "D",
     "unofficial_names": "San Luis",
     "geo": {
       "latitude": -33.3022202,
@@ -319,11 +322,12 @@
       "mk": "Сан Луис",
       "no": "San Luis"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "E": {
     "name": "Entre Ríos",
-    "code": null,
+    "code": "E",
     "unofficial_names": "Entre Ríos",
     "geo": {
       "latitude": -32.5175643,
@@ -393,11 +397,12 @@
       "mk": "Ентре Риос",
       "no": "Entre Ríos"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "F": {
     "name": "La Rioja",
-    "code": null,
+    "code": "F",
     "unofficial_names": "La Rioja",
     "geo": {
       "latitude": -29.4128001,
@@ -464,11 +469,12 @@
       "mk": "Ла Риоха",
       "no": "La Rioja"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "G": {
     "name": "Santiago del Estero",
-    "code": null,
+    "code": "G",
     "unofficial_names": "Santiago del Estero",
     "geo": {
       "latitude": -27.78442,
@@ -534,11 +540,12 @@
       "mk": "Сантјаго дел Естеро",
       "no": "Santiago del Estero"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "H": {
     "name": "Chaco",
-    "code": null,
+    "code": "H",
     "unofficial_names": "Chaco",
     "geo": {
       "latitude": -26.5857656,
@@ -611,11 +618,12 @@
       "mk": "Чако",
       "no": "Chaco"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "J": {
     "name": "San Juan",
-    "code": null,
+    "code": "J",
     "unofficial_names": "San Juan",
     "geo": {
       "latitude": -31.5272732,
@@ -682,11 +690,12 @@
       "mk": "Сан Хуан",
       "no": "San Juan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "K": {
     "name": "Catamarca",
-    "code": null,
+    "code": "K",
     "unofficial_names": "Catamarca",
     "geo": {
       "latitude": -28.4689906,
@@ -758,11 +767,12 @@
       "mk": "Катамарка",
       "no": "Catamarca"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "L": {
     "name": "La Pampa",
-    "code": null,
+    "code": "L",
     "unofficial_names": [
       "Pampa"
     ],
@@ -830,11 +840,12 @@
       "mk": "Ла Пампа",
       "no": "La Pampa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "M": {
     "name": "Mendoza",
-    "code": null,
+    "code": "M",
     "unofficial_names": "Mendoza",
     "geo": {
       "latitude": -32.890183,
@@ -906,11 +917,12 @@
       "mk": "Мендоза",
       "no": "Mendoza"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "N": {
     "name": "Misiones",
-    "code": null,
+    "code": "N",
     "unofficial_names": "Misiones",
     "geo": {
       "latitude": -26.9377146,
@@ -978,11 +990,12 @@
       "mk": "Мисионес",
       "no": "Misiones"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "P": {
     "name": "Formosa",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Formosa",
     "geo": {
       "latitude": -26.185201,
@@ -1049,11 +1062,12 @@
       "mk": "Формоза",
       "no": "Formosa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "Q": {
     "name": "Neuquén",
-    "code": null,
+    "code": "Q",
     "unofficial_names": "Neuquén",
     "geo": {
       "latitude": -38.9524444,
@@ -1124,11 +1138,12 @@
       "mk": "Неуквен",
       "no": "Neuquén"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "R": {
     "name": "Río Negro",
-    "code": null,
+    "code": "R",
     "unofficial_names": "Río Negro",
     "geo": {
       "latitude": -40.7344343,
@@ -1196,11 +1211,12 @@
       "mk": "Рио Негро",
       "no": "Río Negro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "S": {
     "name": "Santa Fe",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Santa Fe",
     "geo": {
       "latitude": -31.6323891,
@@ -1268,11 +1284,12 @@
       "mk": "Санта Фе",
       "no": "Santa Fe"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "T": {
     "name": "Tucumán",
-    "code": null,
+    "code": "T",
     "unofficial_names": "Tucumán",
     "geo": {
       "latitude": -26.8082848,
@@ -1338,11 +1355,12 @@
       "mk": "Тукуман",
       "no": "Tucumán"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "U": {
     "name": "Chubut",
-    "code": null,
+    "code": "U",
     "unofficial_names": "Chubut",
     "geo": {
       "latitude": -43.6846192,
@@ -1415,11 +1433,12 @@
       "mk": "Чубут",
       "no": "Chubut"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "V": {
     "name": "Tierra del Fuego",
-    "code": null,
+    "code": "V",
     "unofficial_names": "Tierra del Fuego",
     "geo": {
       "latitude": -54.3083548,
@@ -1488,11 +1507,12 @@
       "mk": "Огнена Земја, Антарктика и Јужни Атлантски Острови",
       "no": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "W": {
     "name": "Corrientes",
-    "code": null,
+    "code": "W",
     "unofficial_names": "Corrientes",
     "geo": {
       "latitude": -27.4712257,
@@ -1559,11 +1579,12 @@
       "mk": "Кориентес",
       "no": "Corrientes"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "X": {
     "name": "Córdoba",
-    "code": null,
+    "code": "X",
     "unofficial_names": "Córdoba",
     "geo": {
       "latitude": -31.3989296,
@@ -1634,11 +1655,12 @@
       "mk": "Кордоба",
       "no": "Córdoba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "Y": {
     "name": "Jujuy",
-    "code": null,
+    "code": "Y",
     "unofficial_names": "Jujuy",
     "geo": {
       "latitude": -24.1857864,
@@ -1706,11 +1728,12 @@
       "mk": "Хухуј",
       "no": "Jujuy"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "Z": {
     "name": "Santa Cruz",
-    "code": null,
+    "code": "Z",
     "unofficial_names": "Santa Cruz",
     "geo": {
       "latitude": -48.7736825,
@@ -1782,7 +1805,8 @@
       "mk": "Санта Круз",
       "no": "Santa Cruz"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

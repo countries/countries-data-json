@@ -1,7 +1,7 @@
 {
   "C": {
     "name": "Centre",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Centre",
     "geo": {
       "latitude": 8.6586029,
@@ -54,11 +54,12 @@
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "no": "Centrale"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "K": {
     "name": "Kara",
-    "code": null,
+    "code": "K",
     "unofficial_names": "Kara",
     "geo": {
       "latitude": 9.548888999999999,
@@ -113,11 +114,12 @@
       "ccp": "𑄇𑄢",
       "no": "Kara"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "M": {
     "name": "Maritime (Région)",
-    "code": null,
+    "code": "M",
     "unofficial_names": "Maritime (Région)",
     "geo": {
       "latitude": 6.4913504,
@@ -173,11 +175,12 @@
       "ccp": "𑄟𑄬𑄢𑄨𑄑𑄭𑄟𑄴",
       "no": "Maritime"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "P": {
     "name": "Plateaux",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Plateaux",
     "geo": {
       "latitude": 7.6101378,
@@ -229,11 +232,12 @@
       "ccp": "𑄛𑄳𑄣𑄑𑄨𑄠𑄇𑄴",
       "no": "Plateaux"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "S": {
     "name": "Savannes",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Savannes",
     "geo": {
       "latitude": 10.5291781,
@@ -286,7 +290,8 @@
       "ccp": "𑄥𑄝𑄚𑄬𑄌𑄴",
       "no": "Savanes"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

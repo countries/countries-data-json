@@ -1,7 +1,7 @@
 {
   "AMA": {
     "name": "Amazonas",
-    "code": null,
+    "code": "AMA",
     "unofficial_names": "Amazonas",
     "geo": {
       "latitude": -1.4429123,
@@ -69,11 +69,12 @@
       "no": "Amazonas",
       "yo_BJ": "Amazonas Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ANT": {
     "name": "Antioquia",
-    "code": null,
+    "code": "ANT",
     "unofficial_names": "Antioquia",
     "geo": {
       "latitude": 7.1986064,
@@ -146,11 +147,12 @@
       "no": "Antioquia",
       "yo_BJ": "Antioquia Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ARA": {
     "name": "Arauca",
-    "code": null,
+    "code": "ARA",
     "unofficial_names": "Arauca",
     "geo": {
       "latitude": 7.079371,
@@ -216,11 +218,12 @@
       "no": "Arauca",
       "yo_BJ": "Arauca Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ATL": {
     "name": "Atlántico",
-    "code": null,
+    "code": "ATL",
     "unofficial_names": "Atlántico",
     "geo": {
       "latitude": 10.6966159,
@@ -287,11 +290,12 @@
       "no": "Atlántico",
       "yo_BJ": "Atlántico Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BOL": {
     "name": "Bolívar",
-    "code": null,
+    "code": "BOL",
     "unofficial_names": "Bolívar",
     "geo": {
       "latitude": 8.6704382,
@@ -356,11 +360,12 @@
       "no": "Bolívar",
       "yo_BJ": "Bolívar Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BOY": {
     "name": "Boyacá",
-    "code": null,
+    "code": "BOY",
     "unofficial_names": "Boyacá",
     "geo": {
       "latitude": 5.45,
@@ -425,11 +430,12 @@
       "no": "Boyacá",
       "yo_BJ": "Boyacá Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CAL": {
     "name": "Caldas",
-    "code": null,
+    "code": "CAL",
     "unofficial_names": "Caldas",
     "geo": {
       "latitude": 5.4815477,
@@ -493,11 +499,12 @@
       "no": "Caldas",
       "yo_BJ": "Caldas Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CAQ": {
     "name": "Caquetá",
-    "code": null,
+    "code": "CAQ",
     "unofficial_names": "Caquetá",
     "geo": {
       "latitude": 0.869892,
@@ -560,11 +567,12 @@
       "no": "Caquetá",
       "yo_BJ": "Caquetá Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CAS": {
     "name": "Casanare",
-    "code": null,
+    "code": "CAS",
     "unofficial_names": "Casanare",
     "geo": {
       "latitude": 5.7589269,
@@ -626,11 +634,12 @@
       "no": "Casanare",
       "yo_BJ": "Casanare Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CAU": {
     "name": "Cauca",
-    "code": null,
+    "code": "CAU",
     "unofficial_names": "Cauca",
     "geo": {
       "latitude": 2.5725523,
@@ -695,11 +704,12 @@
       "no": "Cauca",
       "yo_BJ": "Cauca Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CES": {
     "name": "Cesar",
-    "code": null,
+    "code": "CES",
     "unofficial_names": "Cesar",
     "geo": {
       "latitude": 9.3372948,
@@ -762,11 +772,12 @@
       "no": "Cesar",
       "yo_BJ": "Cesar Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CHO": {
     "name": "Chocó",
-    "code": null,
+    "code": "CHO",
     "unofficial_names": "Chocó",
     "geo": {
       "latitude": 5.2528033,
@@ -831,11 +842,12 @@
       "no": "Chocó",
       "yo_BJ": "Chocó Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "COR": {
     "name": "Córdoba",
-    "code": null,
+    "code": "COR",
     "unofficial_names": "Córdoba",
     "geo": {
       "latitude": 8.4029253,
@@ -898,11 +910,12 @@
       "no": "Córdoba",
       "yo_BJ": "Córdoba Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CUN": {
     "name": "Cundinamarca",
-    "code": null,
+    "code": "CUN",
     "unofficial_names": "Cundinamarca",
     "geo": {
       "latitude": 5.026002999999999,
@@ -965,11 +978,12 @@
       "no": "Cundinamarca",
       "yo_BJ": "Cundinamarca Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "DC": {
     "name": "Distrito Capital de Bogotá",
-    "code": null,
+    "code": "DC",
     "unofficial_names": [
       "Santafé de Bogotá Distrito Capital"
     ],
@@ -1065,11 +1079,12 @@
       "no": "Bogotá",
       "yo_BJ": "Bogotá"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_district"
   },
   "GUA": {
     "name": "Guainía",
-    "code": null,
+    "code": "GUA",
     "unofficial_names": "Guainía",
     "geo": {
       "latitude": 2.585393,
@@ -1130,11 +1145,12 @@
       "no": "Guainía",
       "yo_BJ": "Guainía Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GUV": {
     "name": "Guaviare",
-    "code": null,
+    "code": "GUV",
     "unofficial_names": "Guaviare",
     "geo": {
       "latitude": 1.0619181,
@@ -1196,11 +1212,12 @@
       "no": "Guaviare",
       "yo_BJ": "Guaviare Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "HUI": {
     "name": "Huila",
-    "code": null,
+    "code": "HUI",
     "unofficial_names": "Huila",
     "geo": {
       "latitude": 2.5359349,
@@ -1262,11 +1279,12 @@
       "no": "Huila",
       "yo_BJ": "Huila Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "LAG": {
     "name": "La Guajira",
-    "code": null,
+    "code": "LAG",
     "unofficial_names": "La Guajira",
     "geo": {
       "latitude": 11.3547743,
@@ -1327,11 +1345,12 @@
       "no": "La Guajira",
       "yo_BJ": "La Guajira Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MAG": {
     "name": "Magdalena",
-    "code": null,
+    "code": "MAG",
     "unofficial_names": "Magdalena",
     "geo": {
       "latitude": 10.4113014,
@@ -1399,11 +1418,12 @@
       "no": "Magdalena",
       "yo_BJ": "Magdalena Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MET": {
     "name": "Meta",
-    "code": null,
+    "code": "MET",
     "unofficial_names": "Meta",
     "geo": {
       "latitude": 3.2719904,
@@ -1465,11 +1485,12 @@
       "no": "Meta",
       "yo_BJ": "Meta Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "NAR": {
     "name": "Nariño",
-    "code": null,
+    "code": "NAR",
     "unofficial_names": "Nariño",
     "geo": {
       "latitude": 1.289822,
@@ -1534,11 +1555,12 @@
       "no": "Nariño",
       "yo_BJ": "Nariño Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "NSA": {
     "name": "Norte de Santander",
-    "code": null,
+    "code": "NSA",
     "unofficial_names": "Norte de Santander",
     "geo": {
       "latitude": 7.9462831,
@@ -1601,11 +1623,12 @@
       "no": "Norte de Santander",
       "yo_BJ": "Norte de Santander Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "PUT": {
     "name": "Putumayo",
-    "code": null,
+    "code": "PUT",
     "unofficial_names": "Putumayo",
     "geo": {
       "latitude": 0.4359506,
@@ -1667,11 +1690,12 @@
       "no": "Putumayo",
       "yo_BJ": "Putumayo Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "QUI": {
     "name": "Quindío",
-    "code": null,
+    "code": "QUI",
     "unofficial_names": "Quindío",
     "geo": {
       "latitude": 4.4610191,
@@ -1733,11 +1757,12 @@
       "no": "Quindío",
       "yo_BJ": "Quindío Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RIS": {
     "name": "Risaralda",
-    "code": null,
+    "code": "RIS",
     "unofficial_names": "Risaralda",
     "geo": {
       "latitude": 4.99243,
@@ -1799,11 +1824,12 @@
       "no": "Risaralda",
       "yo_BJ": "Risaralda Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SAN": {
     "name": "Santander",
-    "code": null,
+    "code": "SAN",
     "unofficial_names": "Santander",
     "geo": {
       "latitude": 6.6437076,
@@ -1864,11 +1890,12 @@
       "no": "Santander",
       "yo_BJ": "Santander Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SAP": {
     "name": "San Andrés, Providencia y Santa Catalina",
-    "code": null,
+    "code": "SAP",
     "unofficial_names": "San Andrés, Providencia y Santa Catalina",
     "geo": {
       "latitude": 13.35395,
@@ -1934,11 +1961,12 @@
       "no": "San Andrés y Providencia",
       "yo_BJ": "San Andrés, Providencia àti Santa Catalina"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SUC": {
     "name": "Sucre",
-    "code": null,
+    "code": "SUC",
     "unofficial_names": "Sucre",
     "geo": {
       "latitude": 8.813889999999999,
@@ -1999,11 +2027,12 @@
       "no": "Sucre",
       "yo_BJ": "Sucre Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TOL": {
     "name": "Tolima",
-    "code": null,
+    "code": "TOL",
     "unofficial_names": "Tolima",
     "geo": {
       "latitude": 4.092516799999999,
@@ -2065,11 +2094,12 @@
       "no": "Tolima",
       "yo_BJ": "Tolima Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VAC": {
     "name": "Valle del Cauca",
-    "code": null,
+    "code": "VAC",
     "unofficial_names": "Valle del Cauca",
     "geo": {
       "latitude": 3.8008893,
@@ -2132,11 +2162,12 @@
       "no": "Valle del Cauca",
       "yo_BJ": "Valle del Cauca Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VAU": {
     "name": "Vaupés",
-    "code": null,
+    "code": "VAU",
     "unofficial_names": "Vaupés",
     "geo": {
       "latitude": 0.8553561,
@@ -2198,11 +2229,12 @@
       "no": "Vaupés",
       "yo_BJ": "Vaupés Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VID": {
     "name": "Vichada",
-    "code": null,
+    "code": "VID",
     "unofficial_names": "Vichada",
     "geo": {
       "latitude": 4.4234452,
@@ -2263,7 +2295,8 @@
       "no": "Vichada",
       "yo_BJ": "Vichada Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

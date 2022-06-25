@@ -1,7 +1,7 @@
 {
   "AA": {
     "name": "Adis Abeba",
-    "code": null,
+    "code": "AA",
     "unofficial_names": "Adis Abeba",
     "geo": {
       "latitude": 8.9806034,
@@ -96,11 +96,12 @@
       "no": "Addis Abeba",
       "yo_BJ": "Addis Ababa"
     },
-    "comments": null
+    "comments": null,
+    "type": "administration"
   },
   "AF": {
     "name": "Afar",
-    "code": null,
+    "code": "AF",
     "unofficial_names": [
       "Affar"
     ],
@@ -166,11 +167,12 @@
       "ccp": "𑄃𑄜𑄢𑄴",
       "no": "Afar"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "AM": {
     "name": "Amara",
-    "code": null,
+    "code": "AM",
     "unofficial_names": "Amara",
     "geo": {
       "latitude": 11.3494247,
@@ -236,11 +238,12 @@
       "eu": "Amhara eskualdea",
       "no": "Amhara"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "BE": {
     "name": "Binshangul Gumuz",
-    "code": null,
+    "code": "BE",
     "unofficial_names": "Binshangul Gumuz",
     "geo": {
       "latitude": 10.7802889,
@@ -303,11 +306,12 @@
       "zu": "Benishangul-Gumaz",
       "no": "Benishangul-Gumuz"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "DD": {
     "name": "Dire Dawa",
-    "code": null,
+    "code": "DD",
     "unofficial_names": "Dire Dawa",
     "geo": {
       "latitude": 9.6008747,
@@ -378,11 +382,12 @@
       "ha_NE": "Dire Dawa",
       "no": "Dire Dawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "administration"
   },
   "GA": {
     "name": "Gambela Hizboch",
-    "code": null,
+    "code": "GA",
     "unofficial_names": [
       "Gambela"
     ],
@@ -447,11 +452,12 @@
       "ccp": "𑄉𑄟𑄴𑄝𑄬𑄣",
       "no": "Gambela"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "HA": {
     "name": "Hareri Hizb",
-    "code": null,
+    "code": "HA",
     "unofficial_names": "Hareri Hizb",
     "geo": {
       "latitude": 9.314866,
@@ -514,11 +520,12 @@
       "eu": "Harari",
       "no": "Harar"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "OR": {
     "name": "Oromiya",
-    "code": null,
+    "code": "OR",
     "unofficial_names": "Oromiya",
     "geo": {
       "latitude": 7.546037699999999,
@@ -583,11 +590,12 @@
       "be": "Аромія",
       "no": "Oromia"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "SN": {
     "name": "YeDebub Biheroch Bihereseboch na Hizboch",
-    "code": null,
+    "code": "SN",
     "unofficial_names": "YeDebub Biheroch Bihereseboch na Hizboch",
     "geo": {
       "latitude": 6.5156911,
@@ -652,11 +660,12 @@
       "eu": "Hegoaldeko Nazioen, Nazionalitateen eta Herrien Eskualdea",
       "no": "Region for sørlige nasjoner, nasjonaliteter og folk"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "SO": {
     "name": "Sumale",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Sumale",
     "geo": {
       "latitude": 6.6612293,
@@ -721,11 +730,12 @@
       "so": "Soomaali Galbeed",
       "no": "Somali"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   },
   "TI": {
     "name": "Tigray",
-    "code": null,
+    "code": "TI",
     "unofficial_names": "Tigray",
     "geo": {
       "latitude": 14.0323336,
@@ -789,7 +799,8 @@
       "ccp": "𑄑𑄭𑄉𑄳𑄢𑄬",
       "no": "Tigray"
     },
-    "comments": null
+    "comments": null,
+    "type": "regional_state"
   }
 }
 

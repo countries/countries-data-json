@@ -1,7 +1,7 @@
 {
   "BA": {
     "name": "Barima-Waini",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Barima-Waini",
     "geo": {
       "latitude": 7.488241899999999,
@@ -55,11 +55,12 @@
       "ccp": "𑄝𑄢𑄨𑄟-𑄃𑄮𑄠𑄭𑄚𑄨",
       "no": "Barima-Waini"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CU": {
     "name": "Cuyuni-Mazaruni",
-    "code": null,
+    "code": "CU",
     "unofficial_names": "Cuyuni-Mazaruni",
     "geo": {
       "latitude": 6.4642141,
@@ -111,11 +112,12 @@
       "ccp": "𑄌𑄪𑄠𑄮𑄚𑄨-𑄟𑄎𑄢𑄪𑄚𑄨",
       "no": "Cuyuni-Mazaruni"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DE": {
     "name": "Demerara-Mahaica",
-    "code": null,
+    "code": "DE",
     "unofficial_names": "Demerara-Mahaica",
     "geo": {
       "latitude": 6.546425999999999,
@@ -169,11 +171,12 @@
       "be": "Дэмерара-Махайка",
       "no": "Demerara-Mahaica"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "EB": {
     "name": "East Berbice-Corentyne",
-    "code": null,
+    "code": "EB",
     "unofficial_names": "East Berbice-Corentyne",
     "geo": {
       "latitude": 2.7477922,
@@ -225,11 +228,12 @@
       "ccp": "𑄛𑄪𑄇𑄴 𑄝𑄢𑄴𑄝𑄭𑄌𑄴-𑄇𑄮𑄢𑄬𑄚𑄴𑄑𑄭𑄚𑄴",
       "no": "East Berbice-Corentyne"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ES": {
     "name": "Essequibo Islands-West Demerara",
-    "code": null,
+    "code": "ES",
     "unofficial_names": "Essequibo Islands-West Demerara",
     "geo": {
       "latitude": 6.5720132,
@@ -281,11 +285,12 @@
       "ccp": "𑄃𑄨𑄥𑄬𑄇𑄭𑄪𑄝𑄮 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄌𑄴-𑄛𑄧𑄏𑄨𑄟𑄴 𑄓𑄬𑄟𑄢𑄢",
       "no": "Essequibo Islands-West Demerara"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MA": {
     "name": "Mahaica-Berbice",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Mahaica-Berbice",
     "geo": {
       "latitude": 6.238496,
@@ -320,11 +325,12 @@
       "ccp": "𑄟𑄦𑄭𑄇-𑄝𑄢𑄴𑄝𑄭𑄌𑄴",
       "no": "Mahaica-Berbice"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PM": {
     "name": "Pomeroon-Supenaam",
-    "code": null,
+    "code": "PM",
     "unofficial_names": "Pomeroon-Supenaam",
     "geo": {
       "latitude": 7.1294166,
@@ -376,11 +382,12 @@
       "ccp": "𑄛𑄮𑄟𑄢𑄪𑄚𑄴-𑄥𑄪𑄛𑄬𑄚𑄟𑄴",
       "no": "Pomeroon-Supenaam"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PT": {
     "name": "Potaro-Siparuni",
-    "code": null,
+    "code": "PT",
     "unofficial_names": "Potaro-Siparuni",
     "geo": {
       "latitude": 4.7855853,
@@ -432,11 +439,12 @@
       "ccp": "𑄛𑄧𑄑𑄢𑄮-𑄥𑄨𑄛𑄢𑄪𑄚𑄨",
       "no": "Potaro-Siparuni"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "UD": {
     "name": "Upper Demerara-Berbice",
-    "code": null,
+    "code": "UD",
     "unofficial_names": "Upper Demerara-Berbice",
     "geo": {
       "latitude": 5.3064879,
@@ -487,11 +495,12 @@
       "ccp": "𑄃𑄛𑄢𑄴 𑄓𑄟𑄬𑄢𑄢-𑄝𑄢𑄴𑄝𑄭𑄌𑄴",
       "no": "Upper Demerara-Berbice"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "UT": {
     "name": "Upper Takutu-Upper Essequibo",
-    "code": null,
+    "code": "UT",
     "unofficial_names": "Upper Takutu-Upper Essequibo",
     "geo": {
       "latitude": 2.9239595,
@@ -542,7 +551,8 @@
       "ccp": "𑄃𑄛𑄢𑄴 𑄑𑄇𑄪𑄑𑄪-𑄃𑄛𑄢𑄴 𑄃𑄨𑄥𑄬𑄇𑄭𑄪𑄝𑄮",
       "no": "Upper Takutu-Upper Essequibo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

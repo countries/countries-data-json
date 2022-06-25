@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Anenii Noi",
-    "code": null,
+    "code": "AN",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -59,11 +59,12 @@
       "ccp": "𑄃𑄚𑄬𑄚𑄨 𑄚𑄰",
       "no": "Anenii Noi"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "BA": {
     "name": "Balti",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Balti",
     "geo": {
       "latitude": 47.7539947,
@@ -143,11 +144,12 @@
       "mk": "Белци",
       "no": "Bălți"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "BD": {
     "name": "Bender [Tighina]",
-    "code": null,
+    "code": "BD",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -232,11 +234,12 @@
       "no": "Bender",
       "yo_BJ": "Bender"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "BR": {
     "name": "Briceni",
-    "code": null,
+    "code": "BR",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -295,11 +298,12 @@
       "be": "Брычанскі раён",
       "no": "Briceni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "BS": {
     "name": "Basarabeasca",
-    "code": null,
+    "code": "BS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -358,11 +362,12 @@
       "ccp": "𑄝𑄥𑄢𑄴𑄝𑄨𑄠𑄌𑄴𑄇",
       "no": "Basarabeasca"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CA": {
     "name": "Cahul",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "Cahul",
     "geo": {
       "latitude": 45.8939404,
@@ -420,28 +425,12 @@
       "ccp": "𑄇𑄦𑄪𑄣𑄴",
       "no": "Cahul"
     },
-    "comments": null
-  },
-  "CH": {
-    "name": "Chisinau City",
-    "code": null,
-    "unofficial_names": "Chisinau City",
-    "geo": {
-      "latitude": 47.0240102,
-      "longitude": 28.8313156,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Chisinau City"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CL": {
     "name": "Călărași",
-    "code": null,
+    "code": "CL",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -500,11 +489,12 @@
       "ccp": "𑄇𑄣𑄢𑄥𑄨",
       "no": "Călărași"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CM": {
     "name": "Cimișlia",
-    "code": null,
+    "code": "CM",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -561,11 +551,12 @@
       "ccp": "𑄥𑄨𑄟𑄨𑄌𑄴𑄣𑄨𑄠",
       "no": "Cimișlia"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CR": {
     "name": "Criuleni",
-    "code": null,
+    "code": "CR",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -621,11 +612,12 @@
       "ccp": "𑄇𑄳𑄢𑄭𑄅𑄪𑄣𑄬𑄚𑄨",
       "no": "Criuleni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CS": {
     "name": "Căușeni",
-    "code": null,
+    "code": "CS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -682,11 +674,12 @@
       "ccp": "𑄇𑄯𑄥𑄬𑄚𑄨",
       "no": "Căușeni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CT": {
     "name": "Cantemir",
-    "code": null,
+    "code": "CT",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -744,11 +737,12 @@
       "ccp": "𑄇𑄚𑄴𑄑𑄬𑄟𑄨𑄢𑄴",
       "no": "Cantemir"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CU": {
     "name": "Chisinau",
-    "code": null,
+    "code": "CU",
     "unofficial_names": "Chisinau",
     "geo": {
       "latitude": 47.0240102,
@@ -837,11 +831,12 @@
       "no": "Chișinău",
       "yo_BJ": "Chişinău"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "DO": {
     "name": "Dondușeni",
-    "code": null,
+    "code": "DO",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -897,11 +892,12 @@
       "ccp": "𑄓𑄧𑄚𑄴𑄓𑄪𑄥𑄬𑄚𑄨",
       "no": "Dondușeni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "DR": {
     "name": "Drochia",
-    "code": null,
+    "code": "DR",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -958,11 +954,12 @@
       "be": "Дрокіеўскі раён",
       "no": "Drochia"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "DU": {
     "name": "Dubăsari",
-    "code": null,
+    "code": "DU",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1019,11 +1016,12 @@
       "ccp": "𑄓𑄪𑄝𑄥𑄢𑄨",
       "no": "Dubășari"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "ED": {
     "name": "Edinet",
-    "code": null,
+    "code": "ED",
     "unofficial_names": "Edinet",
     "geo": {
       "latitude": 48.1678991,
@@ -1079,11 +1077,12 @@
       "ccp": "𑄃𑄬𑄓𑄨𑄚𑄬𑄖𑄴",
       "no": "Edineț"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "FA": {
     "name": "Fălești",
-    "code": null,
+    "code": "FA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1140,11 +1139,12 @@
       "ccp": "𑄜𑄣𑄬𑄌𑄴𑄑𑄨",
       "no": "Fălești"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "FL": {
     "name": "Florești",
-    "code": null,
+    "code": "FL",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1202,11 +1202,12 @@
       "ccp": "𑄜𑄳𑄣𑄮𑄢𑄬𑄌𑄴𑄑𑄨",
       "no": "Florești"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "GA": {
     "name": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
     "geo": {
       "latitude": null,
@@ -1282,11 +1283,12 @@
       "tk": "Gagauzystan",
       "no": "Gagaus"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_territorial_unit"
   },
   "GL": {
     "name": "Glodeni",
-    "code": null,
+    "code": "GL",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1343,11 +1345,12 @@
       "ccp": "𑄉𑄳𑄣𑄮𑄓𑄬𑄚𑄨",
       "no": "Glodeni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "HI": {
     "name": "Hîncești",
-    "code": null,
+    "code": "HI",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1404,11 +1407,12 @@
       "hy": "Հնչեշտի շրջան",
       "no": "Hîncești"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "IA": {
     "name": "Ialoveni",
-    "code": null,
+    "code": "IA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1465,28 +1469,12 @@
       "ccp": "𑄃𑄭𑄃𑄣𑄮𑄞𑄬𑄚𑄨",
       "no": "Ialoveni"
     },
-    "comments": null
-  },
-  "LA": {
-    "name": "Lapusna",
-    "code": null,
-    "unofficial_names": "Lapusna",
-    "geo": {
-      "latitude": 46.883333,
-      "longitude": 28.416667,
-      "min_latitude": 46.8696098,
-      "min_longitude": 28.3915901,
-      "max_latitude": 46.9017563,
-      "max_longitude": 28.4313728
-    },
-    "translations": {
-      "en": "Lapusna"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "LE": {
     "name": "Leova",
-    "code": null,
+    "code": "LE",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1543,11 +1531,12 @@
       "ccp": "𑄣𑄨𑄃𑄮𑄞",
       "no": "Leova"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NI": {
     "name": "Nisporeni",
-    "code": null,
+    "code": "NI",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1603,11 +1592,12 @@
       "ccp": "𑄚𑄨𑄌𑄴𑄛𑄧𑄢𑄬𑄚𑄨",
       "no": "Nisporeni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "OC": {
     "name": "Ocnița",
-    "code": null,
+    "code": "OC",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1664,11 +1654,12 @@
       "ccp": "𑄃𑄧𑄇𑄴𑄚𑄨𑄑",
       "no": "Ocnița"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "OR": {
     "name": "Orhei",
-    "code": null,
+    "code": "OR",
     "unofficial_names": "Orhei",
     "geo": {
       "latitude": 47.383333,
@@ -1725,11 +1716,12 @@
       "ccp": "𑄃𑄧𑄢𑄴𑄦𑄬𑄭",
       "no": "Orhei"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "RE": {
     "name": "Rezina",
-    "code": null,
+    "code": "RE",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1785,11 +1777,12 @@
       "ccp": "𑄢𑄬𑄎𑄚",
       "no": "Rezina"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "RI": {
     "name": "Rîșcani",
-    "code": null,
+    "code": "RI",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1846,11 +1839,12 @@
       "ccp": "𑄢𑄨𑄌𑄴𑄇𑄚𑄨",
       "no": "Rîșcani"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SD": {
     "name": "Șoldănești",
-    "code": null,
+    "code": "SD",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1908,11 +1902,12 @@
       "ccp": "𑄥𑄮𑄣𑄴𑄓𑄚𑄬𑄌𑄴𑄑𑄨",
       "no": "Șoldănești"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SI": {
     "name": "Sîngerei",
-    "code": null,
+    "code": "SI",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1968,11 +1963,12 @@
       "ccp": "𑄥𑄨𑄚𑄴𑄉𑄬𑄢𑄭",
       "no": "Sîngerei"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SN": {
     "name": "Stînga Nistrului, unitatea teritoriala din",
-    "code": null,
+    "code": "SN",
     "unofficial_names": "Stînga Nistrului, unitatea teritoriala din",
     "geo": {
       "latitude": null,
@@ -1998,11 +1994,12 @@
       "ceb": "Unitatea Teritorială din Stînga Nistrului",
       "ccp": "𑄑𑄳𑄢𑄚𑄴𑄚𑄨𑄌𑄴𑄑𑄳𑄢𑄨𑄠"
     },
-    "comments": null
+    "comments": null,
+    "type": "territorial_unit"
   },
   "SO": {
     "name": "Soroca",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Soroca",
     "geo": {
       "latitude": 48.166667,
@@ -2060,11 +2057,12 @@
       "hy": "Սորոկի շրջան",
       "no": "Soroca"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "ST": {
     "name": "Strășeni",
-    "code": null,
+    "code": "ST",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -2121,11 +2119,12 @@
       "ccp": "𑄑𑄳𑄢𑄥𑄬𑄚𑄨",
       "no": "Strășeni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SV": {
     "name": "Ștefan Vodă",
-    "code": null,
+    "code": "SV",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -2182,11 +2181,12 @@
       "ccp": "𑄌𑄳𑄑𑄬𑄜𑄚𑄴 𑄞𑄮𑄓",
       "no": "Ștefan Vodă"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TA": {
     "name": "Taraclia",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Taraclia",
     "geo": {
       "latitude": 46.5703,
@@ -2243,11 +2243,12 @@
       "ccp": "𑄑𑄢𑄇𑄴𑄣𑄨𑄠",
       "no": "Taraclia"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TE": {
     "name": "Telenești",
-    "code": null,
+    "code": "TE",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -2304,28 +2305,12 @@
       "be": "Целянешцкі раён",
       "no": "Telenești"
     },
-    "comments": null
-  },
-  "TI": {
-    "name": "Tighina [Bender]",
-    "code": null,
-    "unofficial_names": "Tighina [Bender]",
-    "geo": {
-      "latitude": 46.84633609999999,
-      "longitude": 29.4534416,
-      "min_latitude": 46.795706,
-      "min_longitude": 29.39415499999999,
-      "max_latitude": 46.875329,
-      "max_longitude": 29.502832
-    },
-    "translations": {
-      "en": "Tighina [Bender]"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "UN": {
     "name": "Ungheni",
-    "code": null,
+    "code": "UN",
     "unofficial_names": "Ungheni",
     "geo": {
       "latitude": 47.216667,
@@ -2383,7 +2368,8 @@
       "ccp": "𑄃𑄚𑄴𑄊𑄬𑄚𑄨",
       "no": "Ungheni"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

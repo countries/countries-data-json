@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Zagrebačka županija",
-    "code": null,
+    "code": "01",
     "unofficial_names": [
       "Zagreb County"
     ],
@@ -72,11 +72,12 @@
       "mk": "Загрепска жупанија",
       "no": "Zagreb"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "02": {
     "name": "Krapinsko-zagorska županija",
-    "code": null,
+    "code": "02",
     "unofficial_names": [
       "Krapina-Zagorje"
     ],
@@ -143,11 +144,12 @@
       "mk": "Крапинско-загорска жупанија",
       "no": "Krapina-Zagorje"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "03": {
     "name": "Sisačko-moslavačka županija",
-    "code": null,
+    "code": "03",
     "unofficial_names": [
       "Sisak-Moslavina"
     ],
@@ -215,11 +217,12 @@
       "mk": "Сисачко-мославачка жупанија",
       "no": "Sisak-Moslavina"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "04": {
     "name": "Karlovačka županija",
-    "code": null,
+    "code": "04",
     "unofficial_names": [
       "Karlovac"
     ],
@@ -289,11 +292,12 @@
       "mk": "Карловачка жупанија",
       "no": "Karlovac"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "05": {
     "name": "Varaždinska županija",
-    "code": null,
+    "code": "05",
     "unofficial_names": [
       "Varaždin"
     ],
@@ -363,11 +367,12 @@
       "mk": "Вараждинска жупанија",
       "no": "Varaždin"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "06": {
     "name": "Koprivničko-križevačka županija",
-    "code": null,
+    "code": "06",
     "unofficial_names": [
       "Koprivnica-Križevci"
     ],
@@ -434,11 +439,12 @@
       "mk": "Копривничко-крижевачка жупанија",
       "no": "Koprivnica-Križevci"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "07": {
     "name": "Bjelovarsko-bilogorska županija",
-    "code": null,
+    "code": "07",
     "unofficial_names": [
       "Bjelovar-Bilogora"
     ],
@@ -507,11 +513,12 @@
       "mk": "Бјеловарско-билогорска жупанија",
       "no": "Bjelovar-Bilogora"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "08": {
     "name": "Primorsko-goranska županija",
-    "code": null,
+    "code": "08",
     "unofficial_names": [
       "Primorje-Gorski Kotar"
     ],
@@ -581,11 +588,12 @@
       "mk": "Приморско-горска жупанија",
       "no": "Primorje-Gorski Kotar"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "09": {
     "name": "Ličko-senjska županija",
-    "code": null,
+    "code": "09",
     "unofficial_names": [
       "Lika-Senj"
     ],
@@ -654,11 +662,12 @@
       "mk": "Личко-сењска жупанија",
       "no": "Lika-Senj"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "10": {
     "name": "Virovitičko-podravska županija",
-    "code": null,
+    "code": "10",
     "unofficial_names": [
       "Virovitica-Podravina"
     ],
@@ -726,11 +735,12 @@
       "mk": "Вировитичко-подравска жупанија",
       "no": "Virovitica-Podravina"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "11": {
     "name": "Požeško-slavonska županija",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Požega-Slavonia"
     ],
@@ -797,11 +807,12 @@
       "mk": "Пожешко-славонска жупанија",
       "no": "Požega-Slavonia"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "12": {
     "name": "Brodsko-posavska županija",
-    "code": null,
+    "code": "12",
     "unofficial_names": [
       "Brod-Posavina"
     ],
@@ -870,11 +881,12 @@
       "mk": "Бродско-посавска жупанија",
       "no": "Brod-Posavina"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "13": {
     "name": "Zadarska županija",
-    "code": null,
+    "code": "13",
     "unofficial_names": [
       "Zadar"
     ],
@@ -948,11 +960,12 @@
       "mk": "Задарска жупанија",
       "no": "Zadar"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "14": {
     "name": "Osječko-baranjska županija",
-    "code": null,
+    "code": "14",
     "unofficial_names": [
       "Osijek-Baranja"
     ],
@@ -1020,11 +1033,12 @@
       "mk": "Осиечко-барањска жупанија",
       "no": "Osijek-Baranja"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "15": {
     "name": "Šibensko-kninska županija",
-    "code": null,
+    "code": "15",
     "unofficial_names": [
       "Šibenik-Knin"
     ],
@@ -1093,11 +1107,12 @@
       "mk": "Шибенско-книнска жупанија",
       "no": "Šibenik-Knin"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "16": {
     "name": "Vukovarsko-srijemska županija",
-    "code": null,
+    "code": "16",
     "unofficial_names": [
       "Vukovar-Sirmium"
     ],
@@ -1165,11 +1180,12 @@
       "mk": "Вуковарско-сремска жупанија",
       "no": "Vukovar-Syrmia"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "17": {
     "name": "Splitsko-dalmatinska županija",
-    "code": null,
+    "code": "17",
     "unofficial_names": [
       "Split-Dalmatia"
     ],
@@ -1238,11 +1254,12 @@
       "mk": "Сплитско-далматинска жупанија",
       "no": "Split-Dalmatia"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "18": {
     "name": "Istarska županija",
-    "code": null,
+    "code": "18",
     "unofficial_names": [
       "Istria"
     ],
@@ -1312,11 +1329,12 @@
       "mk": "Истарска жупанија",
       "no": "Istria"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "19": {
     "name": "Dubrovačko-neretvanska županija",
-    "code": null,
+    "code": "19",
     "unofficial_names": [
       "Dubrovnik-Neretva"
     ],
@@ -1387,11 +1405,12 @@
       "mk": "Дубровничко-неретванска жупанија",
       "no": "Dubrovnik-Neretva"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "20": {
     "name": "Međimurska županija",
-    "code": null,
+    "code": "20",
     "unofficial_names": [
       "Međimurje"
     ],
@@ -1459,11 +1478,12 @@
       "mk": "Меѓимурска жупанија",
       "no": "Međimurje"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "21": {
     "name": "Grad Zagreb",
-    "code": null,
+    "code": "21",
     "unofficial_names": [
       "City of Zagreb"
     ],
@@ -1557,7 +1577,8 @@
       "no": "Zagreb²",
       "yo_BJ": "Zagreb"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   }
 }
 

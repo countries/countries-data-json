@@ -1,7 +1,7 @@
 {
   "AV": {
     "name": "Alta Verapaz",
-    "code": null,
+    "code": "AV",
     "unofficial_names": "Alta Verapaz",
     "geo": {
       "latitude": 15.5942883,
@@ -61,11 +61,12 @@
       "bs": "Alta Verapaz",
       "no": "Alta Verapaz"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BV": {
     "name": "Baja Verapaz",
-    "code": null,
+    "code": "BV",
     "unofficial_names": "Baja Verapaz",
     "geo": {
       "latitude": 15.0787498,
@@ -124,11 +125,12 @@
       "bs": "Baja Verapaz",
       "no": "Baja Verapaz"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CM": {
     "name": "Chimaltenango",
-    "code": null,
+    "code": "CM",
     "unofficial_names": "Chimaltenango",
     "geo": {
       "latitude": 14.662222,
@@ -187,11 +189,12 @@
       "bs": "Chimaltenango",
       "no": "Chimaltenango"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CQ": {
     "name": "Chiquimula",
-    "code": null,
+    "code": "CQ",
     "unofficial_names": "Chiquimula",
     "geo": {
       "latitude": 14.783333,
@@ -248,11 +251,12 @@
       "bs": "Chiquimula",
       "no": "Chiquimula"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ES": {
     "name": "Escuintla",
-    "code": null,
+    "code": "ES",
     "unofficial_names": "Escuintla",
     "geo": {
       "latitude": 14.3009389,
@@ -310,11 +314,12 @@
       "bs": "Escuintla",
       "no": "Escuintla"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GU": {
     "name": "Guatemala",
-    "code": null,
+    "code": "GU",
     "unofficial_names": "Guatemala",
     "geo": {
       "latitude": 14.613333,
@@ -375,11 +380,12 @@
       "bs": "Guatemala",
       "no": "Guatemala"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "HU": {
     "name": "Huehuetenango",
-    "code": null,
+    "code": "HU",
     "unofficial_names": "Huehuetenango",
     "geo": {
       "latitude": 15.314722,
@@ -437,11 +443,12 @@
       "bs": "Huehuetenango",
       "no": "Huehuetenango"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IZ": {
     "name": "Izabal",
-    "code": null,
+    "code": "IZ",
     "unofficial_names": "Izabal",
     "geo": {
       "latitude": 15.4036847,
@@ -499,11 +506,12 @@
       "bs": "Izabal",
       "no": "Izabal"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "JA": {
     "name": "Jalapa",
-    "code": null,
+    "code": "JA",
     "unofficial_names": "Jalapa",
     "geo": {
       "latitude": 14.5655154,
@@ -561,11 +569,12 @@
       "bs": "Jalapa",
       "no": "Jalapa"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "JU": {
     "name": "Jutiapa",
-    "code": null,
+    "code": "JU",
     "unofficial_names": "Jutiapa",
     "geo": {
       "latitude": 14.282778,
@@ -624,11 +633,12 @@
       "bs": "Jutiapa",
       "no": "Jutiapa"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "PE": {
     "name": "Petén",
-    "code": null,
+    "code": "PE",
     "unofficial_names": "Petén",
     "geo": {
       "latitude": 16.912033,
@@ -688,11 +698,12 @@
       "bs": "Petén",
       "no": "Petén"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "PR": {
     "name": "El Progreso",
-    "code": null,
+    "code": "PR",
     "unofficial_names": "El Progreso",
     "geo": {
       "latitude": 14.86527,
@@ -750,11 +761,12 @@
       "bs": "El Progreso",
       "no": "El Progreso"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "QC": {
     "name": "Quiché",
-    "code": null,
+    "code": "QC",
     "unofficial_names": "Quiché",
     "geo": {
       "latitude": 15.4983808,
@@ -812,11 +824,12 @@
       "bs": "Quiché",
       "no": "Quiché"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "QZ": {
     "name": "Quetzaltenango",
-    "code": null,
+    "code": "QZ",
     "unofficial_names": [
       "Quetzaltenango"
     ],
@@ -878,11 +891,12 @@
       "bs": "Quetzaltenango",
       "no": "Quetzaltenango"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RE": {
     "name": "Retalhuleu",
-    "code": null,
+    "code": "RE",
     "unofficial_names": "Retalhuleu",
     "geo": {
       "latitude": 14.533333,
@@ -941,11 +955,12 @@
       "bs": "Retalhuleu",
       "no": "Retalhuleu"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SA": {
     "name": "Sacatepéquez",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Sacatepéquez",
     "geo": {
       "latitude": 14.6110576,
@@ -1005,11 +1020,12 @@
       "bs": "Sacatepéquez",
       "no": "Sacatepéquez"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SM": {
     "name": "San Marcos",
-    "code": null,
+    "code": "SM",
     "unofficial_names": "San Marcos",
     "geo": {
       "latitude": 14.9309569,
@@ -1067,11 +1083,12 @@
       "bs": "San Marcos",
       "no": "San Marcos (departement)"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SO": {
     "name": "Sololá",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Sololá",
     "geo": {
       "latitude": 14.773889,
@@ -1129,11 +1146,12 @@
       "bs": "Sololá",
       "no": "Sololá"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SR": {
     "name": "Santa Rosa",
-    "code": null,
+    "code": "SR",
     "unofficial_names": "Santa Rosa",
     "geo": {
       "latitude": 14.1928003,
@@ -1193,11 +1211,12 @@
       "bs": "Santa Rosa",
       "no": "Santa Rosa (departement)"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SU": {
     "name": "Suchitepéquez",
-    "code": null,
+    "code": "SU",
     "unofficial_names": "Suchitepéquez",
     "geo": {
       "latitude": 14.4215982,
@@ -1255,11 +1274,12 @@
       "bs": "Suchitepéquez",
       "no": "Suchitepéquez"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TO": {
     "name": "Totonicapán",
-    "code": null,
+    "code": "TO",
     "unofficial_names": "Totonicapán",
     "geo": {
       "latitude": 14.910833,
@@ -1317,11 +1337,12 @@
       "bs": "Totonicapán",
       "no": "Totonicapán (departement)"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ZA": {
     "name": "Zacapa",
-    "code": null,
+    "code": "ZA",
     "unofficial_names": "Zacapa",
     "geo": {
       "latitude": 15.0784265,
@@ -1379,7 +1400,8 @@
       "bs": "Zacapa",
       "no": "Zacapa"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

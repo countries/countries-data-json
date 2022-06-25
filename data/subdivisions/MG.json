@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Toamasina",
-    "code": null,
+    "code": "A",
     "unofficial_names": [
       "Tamatave"
     ],
@@ -45,11 +45,12 @@
       "uz": "Tuamasina",
       "no": "Toamasina"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "D": {
     "name": "Antsiranana",
-    "code": null,
+    "code": "D",
     "unofficial_names": [
       "Antseranana",
       "Diégo Suarez"
@@ -95,11 +96,12 @@
       "uz": "Antsiranana",
       "no": "Antsiranana"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "F": {
     "name": "Fianarantsoa",
-    "code": null,
+    "code": "F",
     "unofficial_names": [
       "Fianar"
     ],
@@ -142,11 +144,12 @@
       "uz": "Fianarantsua",
       "no": "Fianarantsoa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "M": {
     "name": "Mahajanga",
-    "code": null,
+    "code": "M",
     "unofficial_names": [
       "Majunga"
     ],
@@ -191,11 +194,12 @@
       "uz": "Maxadzanga",
       "no": "Mahajanga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "T": {
     "name": "Antananarivo",
-    "code": null,
+    "code": "T",
     "unofficial_names": [
       "Tananarive"
     ],
@@ -244,11 +248,12 @@
       "uz": "Antananarivu",
       "no": "Antananarivo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "U": {
     "name": "Toliara",
-    "code": null,
+    "code": "U",
     "unofficial_names": [
       "Toliara",
       "Tuléar"
@@ -294,7 +299,8 @@
       "uz": "Tuliara",
       "no": "Toliara"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Johor",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Johor",
     "geo": {
       "latitude": 1.4853682,
@@ -66,11 +66,12 @@
       "mk": "Џохор",
       "no": "Johor"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "02": {
     "name": "Kedah",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Kedah",
     "geo": {
       "latitude": 6.1183964,
@@ -132,11 +133,12 @@
       "mk": "Кедах",
       "no": "Kedah"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "03": {
     "name": "Kelantan",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Kelantan",
     "geo": {
       "latitude": 6.1253969,
@@ -200,11 +202,12 @@
       "mk": "Келантан",
       "no": "Kelantan"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "04": {
     "name": "Melaka",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Melaka",
     "geo": {
       "latitude": 2.189594,
@@ -272,11 +275,12 @@
       "mk": "Малака",
       "no": "Malakka"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "05": {
     "name": "Negeri Sembilan",
-    "code": null,
+    "code": "05",
     "unofficial_names": [
       "Negri Sembilan"
     ],
@@ -339,11 +343,12 @@
       "mk": "Негери Сембилан",
       "no": "Negeri Sembilan"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "06": {
     "name": "Pahang",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Pahang",
     "geo": {
       "latitude": 3.8126318,
@@ -406,11 +411,12 @@
       "mk": "Паханг",
       "no": "Pahang"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "07": {
     "name": "Pulau Pinang",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Pulau Pinang",
     "geo": {
       "latitude": 5.4141675,
@@ -475,11 +481,12 @@
       "mk": "Пенанг",
       "no": "Penang"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "08": {
     "name": "Perak",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Perak",
     "geo": {
       "latitude": 4.5921126,
@@ -543,11 +550,12 @@
       "mk": "Перак",
       "no": "Perak"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "09": {
     "name": "Perlis",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Perlis",
     "geo": {
       "latitude": 6.444912899999999,
@@ -609,11 +617,12 @@
       "mk": "Перлис",
       "no": "Perlis"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "10": {
     "name": "Selangor",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Selangor",
     "geo": {
       "latitude": 3.0738379,
@@ -677,11 +686,12 @@
       "mk": "Селангор",
       "no": "Selangor"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "11": {
     "name": "Terengganu",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Terengganu",
     "geo": {
       "latitude": 5.3116916,
@@ -744,11 +754,12 @@
       "mk": "Теренгану",
       "no": "Terengganu"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "12": {
     "name": "Sabah",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Sabah",
     "geo": {
       "latitude": 5.978839799999999,
@@ -817,11 +828,12 @@
       "mk": "Сабах",
       "no": "Sabah"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "13": {
     "name": "Sarawak",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Sarawak",
     "geo": {
       "latitude": 1.5532783,
@@ -893,11 +905,12 @@
       "mk": "Саравак",
       "no": "Sarawak"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "14": {
     "name": "Wilayah Persekutuan Kuala Lumpur",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Wilayah Persekutuan Kuala Lumpur",
     "geo": {
       "latitude": 3.1569486,
@@ -998,11 +1011,12 @@
       "no": "Kuala Lumpur",
       "yo_BJ": "Kuala Lumpur"
     },
-    "comments": null
+    "comments": null,
+    "type": "federal_territory"
   },
   "15": {
     "name": "Wilayah Persekutuan Labuan",
-    "code": null,
+    "code": "15",
     "unofficial_names": "Wilayah Persekutuan Labuan",
     "geo": {
       "latitude": 5.2770169,
@@ -1065,11 +1079,12 @@
       "mk": "Лабуан",
       "no": "Labuan"
     },
-    "comments": null
+    "comments": null,
+    "type": "federal_territory"
   },
   "16": {
     "name": "Wilayah Persekutuan Putrajaya",
-    "code": null,
+    "code": "16",
     "unofficial_names": "Wilayah Persekutuan Putrajaya",
     "geo": {
       "latitude": 2.9353556,
@@ -1148,7 +1163,8 @@
       "mk": "Путраџаја",
       "no": "Putrajaya"
     },
-    "comments": null
+    "comments": null,
+    "type": "federal_territory"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Ville de Kigali",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Ville de Kigali",
     "geo": {
       "latitude": -1.943889,
@@ -91,11 +91,12 @@
       "no": "Kigali",
       "yo_BJ": "Kigali"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "02": {
     "name": "Est",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Est",
     "geo": {
       "latitude": -1.9174872,
@@ -156,11 +157,12 @@
       "mk": "Источна покраина",
       "no": "Vest provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "03": {
     "name": "Nord",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Nord",
     "geo": {
       "latitude": -1.656166,
@@ -220,11 +222,12 @@
       "mk": "Северна покраина",
       "no": "Nord provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "04": {
     "name": "Ouest",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Ouest",
     "geo": {
       "latitude": -2.07649,
@@ -284,11 +287,12 @@
       "mk": "Западна покраина",
       "no": "Vestlig provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "05": {
     "name": "Sud",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Sud",
     "geo": {
       "latitude": -2.5546618,
@@ -349,7 +353,8 @@
       "mk": "Јужна покраина",
       "no": "sør provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

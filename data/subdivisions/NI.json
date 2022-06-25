@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Atlántico Norte*",
-    "code": null,
+    "code": "AN",
     "unofficial_names": [
       "RAAN",
       "Región Autónoma Atlántico Norte",
@@ -64,11 +64,12 @@
       "mk": "Северноатлантски автономен регион",
       "no": "Región Autónoma del Atlántico Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_region"
   },
   "AS": {
     "name": "Atlántico Sur*",
-    "code": null,
+    "code": "AS",
     "unofficial_names": [
       "RAAS",
       "Región Autónoma Atlántico Sur",
@@ -132,11 +133,12 @@
       "mk": "Јужноатлантски автономен регион",
       "no": "Región Autónoma del Atlántico Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_region"
   },
   "BO": {
     "name": "Boaco",
-    "code": null,
+    "code": "BO",
     "unofficial_names": "Boaco",
     "geo": {
       "latitude": 12.492724,
@@ -196,11 +198,12 @@
       "ccp": "𑄝𑄯𑄇𑄮",
       "no": "Boaco"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CA": {
     "name": "Carazo",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "Carazo",
     "geo": {
       "latitude": 11.7274729,
@@ -259,11 +262,12 @@
       "ccp": "𑄇𑄢𑄎𑄮",
       "no": "Carazo"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CI": {
     "name": "Chinandega",
-    "code": null,
+    "code": "CI",
     "unofficial_names": "Chinandega",
     "geo": {
       "latitude": 12.8820062,
@@ -322,11 +326,12 @@
       "ccp": "𑄌𑄨𑄚𑄚𑄴𑄓𑄬𑄉",
       "no": "Chinandega"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CO": {
     "name": "Chontales",
-    "code": null,
+    "code": "CO",
     "unofficial_names": "Chontales",
     "geo": {
       "latitude": 11.9394717,
@@ -385,11 +390,12 @@
       "ccp": "𑄌𑄮𑄚𑄴𑄑𑄣𑄬𑄌𑄴",
       "no": "Chontales"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ES": {
     "name": "Estelí",
-    "code": null,
+    "code": "ES",
     "unofficial_names": "Estelí",
     "geo": {
       "latitude": 13.083333,
@@ -448,11 +454,12 @@
       "ccp": "𑄃𑄨𑄌𑄑𑄬𑄣𑄨",
       "no": "Estelí"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GR": {
     "name": "Granada",
-    "code": null,
+    "code": "GR",
     "unofficial_names": "Granada",
     "geo": {
       "latitude": 11.933333,
@@ -496,11 +503,12 @@
       "ccp": "𑄉𑄳𑄢𑄚𑄓",
       "no": "Granada"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "JI": {
     "name": "Jinotega",
-    "code": null,
+    "code": "JI",
     "unofficial_names": "Jinotega",
     "geo": {
       "latitude": 13.1,
@@ -559,11 +567,12 @@
       "ccp": "𑄎𑄨𑄚𑄮𑄑𑄬𑄉",
       "no": "Jinotega"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "LE": {
     "name": "León",
-    "code": null,
+    "code": "LE",
     "unofficial_names": "León",
     "geo": {
       "latitude": 12.5092037,
@@ -610,11 +619,12 @@
       "mk": "Леон",
       "no": "León"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MD": {
     "name": "Madriz",
-    "code": null,
+    "code": "MD",
     "unofficial_names": "Madriz",
     "geo": {
       "latitude": 13.4726005,
@@ -673,11 +683,12 @@
       "ccp": "𑄟𑄓𑄳𑄢𑄨𑄌𑄴",
       "no": "Madriz"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MN": {
     "name": "Managua",
-    "code": null,
+    "code": "MN",
     "unofficial_names": "Managua",
     "geo": {
       "latitude": 12.136389,
@@ -737,11 +748,12 @@
       "mk": "Манагва",
       "no": "Managua"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MS": {
     "name": "Masaya",
-    "code": null,
+    "code": "MS",
     "unofficial_names": "Masaya",
     "geo": {
       "latitude": 11.966667,
@@ -800,11 +812,12 @@
       "ccp": "𑄟𑄥𑄠𑄬",
       "no": "Masaya"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MT": {
     "name": "Matagalpa",
-    "code": null,
+    "code": "MT",
     "unofficial_names": "Matagalpa",
     "geo": {
       "latitude": 12.916667,
@@ -864,11 +877,12 @@
       "ccp": "𑄟𑄑𑄉𑄣𑄴𑄛",
       "no": "Matagalpa"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "NS": {
     "name": "Nueva Segovia",
-    "code": null,
+    "code": "NS",
     "unofficial_names": "Nueva Segovia",
     "geo": {
       "latitude": 13.7894404,
@@ -927,11 +941,12 @@
       "ccp": "𑄚𑄮𑄠𑄬𑄞 𑄥𑄬𑄉𑄮𑄞𑄨𑄠",
       "no": "Nueva Segovia"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RI": {
     "name": "Rivas",
-    "code": null,
+    "code": "RI",
     "unofficial_names": "Rivas",
     "geo": {
       "latitude": 11.402349,
@@ -976,11 +991,12 @@
       "ccp": "𑄢𑄨𑄞𑄌𑄴",
       "no": "Rivas"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SJ": {
     "name": "Río San Juan",
-    "code": null,
+    "code": "SJ",
     "unofficial_names": "Río San Juan",
     "geo": {
       "latitude": 10.9324722,
@@ -1039,7 +1055,8 @@
       "ccp": "𑄢𑄨𑄃𑄮 𑄥𑄚𑄴 𑄎𑄪𑄠𑄚𑄴",
       "no": "Río San Juan"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

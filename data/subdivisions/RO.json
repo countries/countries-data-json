@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Alba",
-    "code": null,
+    "code": "AB",
     "unofficial_names": "Alba",
     "geo": {
       "latitude": 46.1558924,
@@ -71,11 +71,12 @@
       "mk": "Алба",
       "no": "Alba"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "AG": {
     "name": "Arges",
-    "code": null,
+    "code": "AG",
     "unofficial_names": [
       "Arges"
     ],
@@ -145,11 +146,12 @@
       "mk": "Арџеш",
       "no": "Argeș"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "AR": {
     "name": "Arad",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Arad",
     "geo": {
       "latitude": 46.166667,
@@ -218,11 +220,12 @@
       "mk": "Арад",
       "no": "Arad"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "B": {
     "name": "Bucuresti",
-    "code": null,
+    "code": "B",
     "unofficial_names": [
       "Bucuresti",
       "Bucureşti",
@@ -322,11 +325,12 @@
       "no": "București",
       "yo_BJ": "Bucharest"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "BC": {
     "name": "Bacau",
-    "code": null,
+    "code": "BC",
     "unofficial_names": [
       "Bacau"
     ],
@@ -386,11 +390,12 @@
       "mk": "Бакау",
       "no": "Bacău"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BH": {
     "name": "Bihor",
-    "code": null,
+    "code": "BH",
     "unofficial_names": "Bihor",
     "geo": {
       "latitude": 47.01575159999999,
@@ -458,11 +463,12 @@
       "mk": "Бихор",
       "no": "Bihor"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BN": {
     "name": "Bistrita-Nasaud",
-    "code": null,
+    "code": "BN",
     "unofficial_names": [
       "Bistrita-Nasaud"
     ],
@@ -531,11 +537,12 @@
       "mk": "Бистрица-Насауд",
       "no": "Bistrița-Năsăud"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BR": {
     "name": "Braila",
-    "code": null,
+    "code": "BR",
     "unofficial_names": [
       "Braila"
     ],
@@ -604,11 +611,12 @@
       "mk": "Браила",
       "no": "Brăila"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BT": {
     "name": "Botosani",
-    "code": null,
+    "code": "BT",
     "unofficial_names": [
       "Botosani"
     ],
@@ -680,11 +688,12 @@
       "mk": "Ботошан",
       "no": "Botoșani"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BV": {
     "name": "Brasov",
-    "code": null,
+    "code": "BV",
     "unofficial_names": [
       "Brasov"
     ],
@@ -752,11 +761,12 @@
       "mk": "Брашов",
       "no": "Brașov"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BZ": {
     "name": "Buzau",
-    "code": null,
+    "code": "BZ",
     "unofficial_names": [
       "Buzau"
     ],
@@ -824,11 +834,12 @@
       "mk": "Бузау",
       "no": "Buzău"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CJ": {
     "name": "Cluj",
-    "code": null,
+    "code": "CJ",
     "unofficial_names": "Cluj",
     "geo": {
       "latitude": 46.766667,
@@ -896,11 +907,12 @@
       "mk": "Клуж",
       "no": "Cluj"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CL": {
     "name": "Calarasi",
-    "code": null,
+    "code": "CL",
     "unofficial_names": [
       "Calarasi"
     ],
@@ -968,11 +980,12 @@
       "mk": "Калараш",
       "no": "Călărași"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CS": {
     "name": "Caras-Severin",
-    "code": null,
+    "code": "CS",
     "unofficial_names": [
       "Caras-Severin"
     ],
@@ -1039,11 +1052,12 @@
       "mk": "Караш-Северин",
       "no": "Caraș-Severin"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CT": {
     "name": "Constanta",
-    "code": null,
+    "code": "CT",
     "unofficial_names": [
       "Constanta",
       "Konstanza"
@@ -1112,11 +1126,12 @@
       "mk": "Констанца",
       "no": "Constanța"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CV": {
     "name": "Covasna",
-    "code": null,
+    "code": "CV",
     "unofficial_names": "Covasna",
     "geo": {
       "latitude": 45.849167,
@@ -1180,11 +1195,12 @@
       "ccp": "𑄇𑄮𑄞𑄌𑄴𑄚",
       "no": "Covasna"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "DB": {
     "name": "Dâmbovita",
-    "code": null,
+    "code": "DB",
     "unofficial_names": [
       "Dambovita",
       "Dimbovita",
@@ -1254,11 +1270,12 @@
       "be": "жудзец Дымбавіца",
       "no": "Dâmbovița"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "DJ": {
     "name": "Dolj",
-    "code": null,
+    "code": "DJ",
     "unofficial_names": "Dolj",
     "geo": {
       "latitude": 44.1623022,
@@ -1324,11 +1341,12 @@
       "be": "жудзец Долж",
       "no": "Dolj"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GJ": {
     "name": "Gorj",
-    "code": null,
+    "code": "GJ",
     "unofficial_names": "Gorj",
     "geo": {
       "latitude": 44.94855949999999,
@@ -1394,11 +1412,12 @@
       "ccp": "𑄉𑄮𑄢𑄴",
       "no": "Gorj"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GL": {
     "name": "Galati",
-    "code": null,
+    "code": "GL",
     "unofficial_names": [
       "Galati",
       "Galatz"
@@ -1467,11 +1486,12 @@
       "be": "Галац",
       "no": "Galați"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GR": {
     "name": "Giurgiu",
-    "code": null,
+    "code": "GR",
     "unofficial_names": "Giurgiu",
     "geo": {
       "latitude": 43.900833,
@@ -1535,11 +1555,12 @@
       "ccp": "𑄎𑄨𑄠𑄢𑄴𑄎𑄨𑄅𑄪",
       "no": "Giurgiu"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "HD": {
     "name": "Hunedoara",
-    "code": null,
+    "code": "HD",
     "unofficial_names": "Hunedoara",
     "geo": {
       "latitude": 45.76972199999999,
@@ -1605,11 +1626,12 @@
       "ccp": "𑄦𑄪𑄚𑄬𑄓𑄮𑄠𑄢",
       "no": "Hunedoara"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "HR": {
     "name": "Harghita",
-    "code": null,
+    "code": "HR",
     "unofficial_names": "Harghita",
     "geo": {
       "latitude": 46.4928507,
@@ -1673,11 +1695,12 @@
       "ccp": "𑄦𑄢𑄴𑄊𑄨𑄑",
       "no": "Harghita"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IF": {
     "name": "Ilfov",
-    "code": null,
+    "code": "IF",
     "unofficial_names": [
       "Sectorul Agricol Ilfov"
     ],
@@ -1743,11 +1766,12 @@
       "ccp": "𑄃𑄨𑄣𑄴𑄜𑄮𑄛𑄴",
       "no": "Ilfov"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IL": {
     "name": "Ialomita",
-    "code": null,
+    "code": "IL",
     "unofficial_names": [
       "Ialomita"
     ],
@@ -1813,11 +1837,12 @@
       "ccp": "𑄃𑄭𑄃𑄣𑄮𑄟𑄨𑄑",
       "no": "Ialomiţa"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IS": {
     "name": "Iasi",
-    "code": null,
+    "code": "IS",
     "unofficial_names": [
       "Iasi",
       "Jasch",
@@ -1889,11 +1914,12 @@
       "mk": "Јаш",
       "no": "Iași"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MH": {
     "name": "Mehedinti",
-    "code": null,
+    "code": "MH",
     "unofficial_names": [
       "Mehedinti"
     ],
@@ -1960,11 +1986,12 @@
       "be": "жудзец Мехедынцы",
       "no": "Mehedinți"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MM": {
     "name": "Maramures",
-    "code": null,
+    "code": "MM",
     "unofficial_names": [
       "Maramures"
     ],
@@ -2019,11 +2046,12 @@
       "ccp": "𑄟𑄢𑄟𑄪𑄢𑄬𑄌𑄴",
       "no": "Maramureș"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MS": {
     "name": "Mures",
-    "code": null,
+    "code": "MS",
     "unofficial_names": [
       "Mures"
     ],
@@ -2089,11 +2117,12 @@
       "ccp": "𑄟𑄪𑄢𑄬𑄌𑄴",
       "no": "Mureș"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "NT": {
     "name": "Neamt",
-    "code": null,
+    "code": "NT",
     "unofficial_names": [
       "Neamt"
     ],
@@ -2160,11 +2189,12 @@
       "he": "ניאמץ",
       "no": "Neamț"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "OT": {
     "name": "Olt",
-    "code": null,
+    "code": "OT",
     "unofficial_names": "Olt",
     "geo": {
       "latitude": 44.200797,
@@ -2229,11 +2259,12 @@
       "ccp": "𑄃𑄧𑄣𑄴𑄑𑄴",
       "no": "Olt"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "PH": {
     "name": "Prahova",
-    "code": null,
+    "code": "PH",
     "unofficial_names": "Prahova",
     "geo": {
       "latitude": 45.08919059999999,
@@ -2297,11 +2328,12 @@
       "ccp": "𑄛𑄳𑄢𑄧𑄦𑄮𑄞",
       "no": "Prahova"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SB": {
     "name": "Sibiu",
-    "code": null,
+    "code": "SB",
     "unofficial_names": "Sibiu",
     "geo": {
       "latitude": 45.792784,
@@ -2369,11 +2401,12 @@
       "mk": "Сибиу",
       "no": "Sibiu"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SJ": {
     "name": "Salaj",
-    "code": null,
+    "code": "SJ",
     "unofficial_names": [
       "Salaj"
     ],
@@ -2441,11 +2474,12 @@
       "be": "жудзец Сэлаж",
       "no": "Sălaj"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SM": {
     "name": "Satu Mare",
-    "code": null,
+    "code": "SM",
     "unofficial_names": "Satu Mare",
     "geo": {
       "latitude": 47.79,
@@ -2512,11 +2546,12 @@
       "be": "жудзец Сату-Марэ",
       "no": "Satu Mare"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SV": {
     "name": "Suceava",
-    "code": null,
+    "code": "SV",
     "unofficial_names": "Suceava",
     "geo": {
       "latitude": 47.65138899999999,
@@ -2583,11 +2618,12 @@
       "ccp": "𑄥𑄪𑄌𑄨𑄞",
       "no": "Suceava"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TL": {
     "name": "Tulcea",
-    "code": null,
+    "code": "TL",
     "unofficial_names": "Tulcea",
     "geo": {
       "latitude": 45.1716165,
@@ -2653,11 +2689,12 @@
       "be": "жудзец Тулча",
       "no": "Tulcea"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TM": {
     "name": "Timis",
-    "code": null,
+    "code": "TM",
     "unofficial_names": [
       "Timis"
     ],
@@ -2727,11 +2764,12 @@
       "mk": "Тимиш",
       "no": "Timiș"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TR": {
     "name": "Teleorman",
-    "code": null,
+    "code": "TR",
     "unofficial_names": "Teleorman",
     "geo": {
       "latitude": 44.0160491,
@@ -2797,11 +2835,12 @@
       "be": "жудзец Тэлеарман",
       "no": "Teleorman"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VL": {
     "name": "Vâlcea",
-    "code": null,
+    "code": "VL",
     "unofficial_names": [
       "Vîlcea"
     ],
@@ -2869,11 +2908,12 @@
       "be": "жудзец Вылча",
       "no": "Vâlcea"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VN": {
     "name": "Vrancea",
-    "code": null,
+    "code": "VN",
     "unofficial_names": "Vrancea",
     "geo": {
       "latitude": 45.81348759999999,
@@ -2939,11 +2979,12 @@
       "ccp": "𑄞𑄳𑄢𑄚𑄴𑄥𑄨",
       "no": "Vrancea"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VS": {
     "name": "Vaslui",
-    "code": null,
+    "code": "VS",
     "unofficial_names": "Vaslui",
     "geo": {
       "latitude": 46.638333,
@@ -3010,7 +3051,8 @@
       "mk": "Васлуј",
       "no": "Vaslui"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

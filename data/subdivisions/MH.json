@@ -1,7 +1,7 @@
 {
   "ALK": {
     "name": "Ailuk",
-    "code": null,
+    "code": "ALK",
     "unofficial_names": "Ailuk",
     "geo": {
       "latitude": 10.304809,
@@ -36,11 +36,12 @@
       "ccp": "𑄃𑄭𑄣𑄪𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Ајлук"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "ALL": {
     "name": "Ailinglapalap",
-    "code": null,
+    "code": "ALL",
     "unofficial_names": [
       "Ailinglaplap"
     ],
@@ -80,11 +81,12 @@
       "mk": "Ајлинглаплап",
       "no": "Ailinglaplap"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "ARN": {
     "name": "Arno",
-    "code": null,
+    "code": "ARN",
     "unofficial_names": "Arno",
     "geo": {
       "latitude": 7.063888899999999,
@@ -118,11 +120,12 @@
       "es": "Arno (isla)",
       "mk": "Арно (атол)"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "AUR": {
     "name": "Aur",
-    "code": null,
+    "code": "AUR",
     "unofficial_names": "Aur",
     "geo": {
       "latitude": 8.2750905,
@@ -156,11 +159,12 @@
       "ccp": "𑄃𑄅𑄪𑄢𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Аур"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "EBO": {
     "name": "Ebon",
-    "code": null,
+    "code": "EBO",
     "unofficial_names": [
       "Epoon"
     ],
@@ -198,11 +202,12 @@
       "da": "Ebon",
       "mk": "Ебон"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "ENI": {
     "name": "Eniwetok",
-    "code": null,
+    "code": "ENI",
     "unofficial_names": [
       "Eniwetok"
     ],
@@ -249,11 +254,12 @@
       "mk": "Еневетак",
       "no": "Enewetakatollen"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "JAB": {
     "name": "Jabat",
-    "code": null,
+    "code": "JAB",
     "unofficial_names": [
       "Jabat"
     ],
@@ -288,11 +294,12 @@
       "ccp": "𑄎𑄝𑄧𑄖𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Џабат"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "JAL": {
     "name": "Jaluit",
-    "code": null,
+    "code": "JAL",
     "unofficial_names": [
       "Jālwōj"
     ],
@@ -332,11 +339,12 @@
       "ccp": "𑄎𑄣𑄨𑄠𑄬𑄖𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Џалуит"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "KIL": {
     "name": "Kili",
-    "code": null,
+    "code": "KIL",
     "unofficial_names": [
       "Kōle"
     ],
@@ -370,11 +378,12 @@
       "ccp": "𑄇𑄨𑄣𑄨 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Кили"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "KWA": {
     "name": "Kwajalein",
-    "code": null,
+    "code": "KWA",
     "unofficial_names": [
       "Kuwajleen"
     ],
@@ -422,11 +431,73 @@
       "mk": "Кваџалејн",
       "no": "Kwajalein"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
+  },
+  "L": {
+    "name": "Ralik Chain",
+    "code": "L",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "راليك تشين",
+      "bn": "রালিকচেইন",
+      "da": "Ralik Chain",
+      "de": "Ralik-Kette",
+      "el": "Ράλικ Τσέιν",
+      "en": "Ralik Chain",
+      "es": "Ralik Cadena",
+      "et": "Raliki saared",
+      "fi": "Ralik",
+      "fr": "Îles Ralik",
+      "gu": "રાલિક ચેઇન",
+      "he": "שרשרת רליק",
+      "hi": "रालिक चेन",
+      "hr": "Ralik",
+      "id": "Ralik Chain",
+      "it": "Ralik",
+      "ja": "ラリック列島",
+      "ka": "რალიკის ჯაჭვი",
+      "kn": "ರಾಲಿಕ್ ಚೈನ್",
+      "ko": "랄리크 열도",
+      "lt": "Raliko salos",
+      "mr": "रालिक चेन",
+      "ms": "Ralik Chain",
+      "nb": "Ralik-kjeden",
+      "nl": "Ralik Chain",
+      "pl": "Ralik Chain",
+      "pt": "Cadeia Ralik",
+      "ru": "Цепь Ралик",
+      "si": "රලික් චේන්",
+      "sv": "Raliköarna",
+      "ta": "ராலிக் செயின்",
+      "te": "రాలిక్ చైన్",
+      "th": "ลาลิก เชน",
+      "tr": "Ralik Chain",
+      "uk": "Ланцюг Ралік",
+      "ur": "رالیک چین",
+      "vi": "Chuỗi đảo Ralik",
+      "lv": "Raliku salas",
+      "ceb": "Ralik Chain",
+      "zh": "拉利克礁鏈",
+      "fa": "زنجیره رالیک",
+      "ccp": "𑄢𑄣𑄨𑄇𑄴 𑄌𑄬𑄭𑄚𑄴",
+      "mk": "Ралички Острови",
+      "no": "Ralik-kjeden"
+    },
+    "comments": null,
+    "type": "chain_of_islands"
   },
   "LAE": {
     "name": "Lae",
-    "code": null,
+    "code": "LAE",
     "unofficial_names": "Lae",
     "geo": {
       "latitude": 8.9411081,
@@ -459,11 +530,12 @@
       "ccp": "𑄣 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Лае"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "LIB": {
     "name": "Lib",
-    "code": null,
+    "code": "LIB",
     "unofficial_names": [
       "Ellep"
     ],
@@ -497,11 +569,12 @@
       "ccp": "𑄢𑄨𑄛𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Либ"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "LIK": {
     "name": "Likiep",
-    "code": null,
+    "code": "LIK",
     "unofficial_names": "Likiep",
     "geo": {
       "latitude": 9.816944399999999,
@@ -531,11 +604,12 @@
       "ccp": "𑄣𑄨𑄇𑄨𑄠𑄬𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Ликиеп"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MAJ": {
     "name": "Majuro",
-    "code": null,
+    "code": "MAJ",
     "unofficial_names": [
       "Mājro"
     ],
@@ -618,11 +692,12 @@
       "mk": "Маџуро",
       "no": "Majuro"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MAL": {
     "name": "Maloelap",
-    "code": null,
+    "code": "MAL",
     "unofficial_names": "Maloelap",
     "geo": {
       "latitude": 8.7735171,
@@ -657,11 +732,12 @@
       "ccp": "𑄟𑄣𑄮𑄠𑄬𑄣𑄛𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Малоелап"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MEJ": {
     "name": "Mejit",
-    "code": null,
+    "code": "MEJ",
     "unofficial_names": [
       "Mājeej"
     ],
@@ -695,11 +771,12 @@
       "ca": "Mejit",
       "mk": "Меџит"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MIL": {
     "name": "Mili",
-    "code": null,
+    "code": "MIL",
     "unofficial_names": "Mili",
     "geo": {
       "latitude": 6.1339492,
@@ -732,11 +809,12 @@
       "ccp": "𑄟𑄨𑄢𑄨 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Мили"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "NMK": {
     "name": "Namorik",
-    "code": null,
+    "code": "NMK",
     "unofficial_names": "Namorik",
     "geo": {
       "latitude": 5.6172553,
@@ -769,11 +847,12 @@
       "ccp": "𑄚𑄟𑄴𑄓𑄳𑄢𑄨𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Намдрик"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "NMU": {
     "name": "Namu",
-    "code": null,
+    "code": "NMU",
     "unofficial_names": [
       "Namo"
     ],
@@ -810,11 +889,12 @@
       "ccp": "𑄚𑄟𑄪 𑄃𑄑𑄮𑄣𑄴",
       "mk": "Наму"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "RON": {
     "name": "Rongelap",
-    "code": null,
+    "code": "RON",
     "unofficial_names": "Rongelap",
     "geo": {
       "latitude": 11.3603915,
@@ -852,242 +932,12 @@
       "mk": "Ронгелап",
       "no": "Rongelap"
     },
-    "comments": null
-  },
-  "UJA": {
-    "name": "Ujae",
-    "code": null,
-    "unofficial_names": "Ujae",
-    "geo": {
-      "latitude": 9.0582174,
-      "longitude": 165.6440842,
-      "min_latitude": 8.922806,
-      "min_longitude": 165.5181098,
-      "max_latitude": 9.2262549,
-      "max_longitude": 165.7703877
-    },
-    "translations": {
-      "en": "Ujae Atoll",
-      "de": "Ujae",
-      "es": "Ujae",
-      "fi": "Ujae",
-      "fr": "Ujae",
-      "gl": "Atol Ujae",
-      "hr": "Ujae",
-      "id": "Atol Ujae",
-      "it": "Ujae",
-      "ja": "ウジャエ環礁",
-      "ko": "우자에 환초",
-      "lt": "Udžaė",
-      "nl": "Ujae Atoll",
-      "pl": "Ujae",
-      "ru": "Уджаэ",
-      "sv": "Ujae",
-      "ceb": "Ujae Atoll (munisipyo)",
-      "zh": "烏賈環礁",
-      "fa": "آب‌سنگ حلقوی اوجائه",
-      "ccp": "𑄅𑄪𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
-      "mk": "Уџае"
-    },
-    "comments": null
-  },
-  "UJL": {
-    "name": "Ujelang",
-    "code": null,
-    "unofficial_names": "Ujelang",
-    "geo": {
-      "latitude": 9.77,
-      "longitude": 160.9752777,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Ujelang"
-    },
-    "comments": null
-  },
-  "UTI": {
-    "name": "Utirik",
-    "code": null,
-    "unofficial_names": [
-      "Utirik",
-      "Utrōk",
-      "Utrōnk"
-    ],
-    "geo": {
-      "latitude": 11.2226114,
-      "longitude": 169.8544701,
-      "min_latitude": 11.2214237,
-      "min_longitude": 169.8474976,
-      "max_latitude": 11.2233218,
-      "max_longitude": 169.8563474
-    },
-    "translations": {
-      "en": "Utirik Atoll",
-      "be": "Атол Утырык",
-      "ca": "Utirik",
-      "de": "Utirik",
-      "es": "Utirik",
-      "eu": "Utirik",
-      "fi": "Utirik",
-      "fr": "Utirik",
-      "gl": "Atol Utirik",
-      "it": "Utirik",
-      "ja": "ウチリック環礁",
-      "ko": "우티리크 환초",
-      "lt": "Utirikas",
-      "nl": "Utirik Atoll",
-      "pl": "Utirik",
-      "pt": "Atol Utirik",
-      "ru": "Утирик",
-      "sv": "Utirik",
-      "ceb": "Utrik",
-      "zh": "烏蒂里克環礁",
-      "fa": "آب‌سنگ حلقوی اوتیریک",
-      "ccp": "𑄅𑄪𑄑𑄨𑄢𑄨𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
-      "mk": "Утирик"
-    },
-    "comments": null
-  },
-  "WTH": {
-    "name": "Wotho",
-    "code": null,
-    "unofficial_names": [
-      "Wōtto"
-    ],
-    "geo": {
-      "latitude": 10.1024946,
-      "longitude": 165.9811564,
-      "min_latitude": 10.0144328,
-      "min_longitude": 165.9193897,
-      "max_latitude": 10.1839202,
-      "max_longitude": 166.0299827
-    },
-    "translations": {
-      "en": "Wotho Atoll",
-      "de": "Wotho",
-      "es": "Wotho",
-      "fi": "Wotho",
-      "fr": "Wotho",
-      "gl": "Atol Wotho",
-      "hr": "Wotho",
-      "id": "Atol Wotho",
-      "it": "Wotho",
-      "ja": "オトー環礁",
-      "ko": "워토 환초",
-      "lt": "Votas",
-      "nl": "Wotho Atoll",
-      "pl": "Wotho",
-      "ru": "Вото",
-      "sv": "Wotho",
-      "ceb": "Wotho",
-      "zh": "沃特環礁",
-      "ccp": "𑄤𑄗𑄮 𑄃𑄑𑄮𑄣𑄴",
-      "mk": "Вото"
-    },
-    "comments": null
-  },
-  "WTJ": {
-    "name": "Wotje",
-    "code": null,
-    "unofficial_names": "Wotje",
-    "geo": {
-      "latitude": 9.452366999999999,
-      "longitude": 170.237213,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Wotje Atoll",
-      "de": "Wotje",
-      "es": "Wotje",
-      "fi": "Wotje",
-      "fr": "Wotje",
-      "gl": "Atol Wotje",
-      "it": "Wotje",
-      "ja": "ウォッジェ環礁",
-      "ko": "웟제 환초",
-      "lt": "Votjė",
-      "nl": "Wotje Atoll",
-      "pl": "Wotje",
-      "pt": "Atol Wotje",
-      "ru": "Вотье",
-      "sv": "Wotje",
-      "uk": "Вотьє",
-      "ceb": "Wotje Atoll",
-      "zh": "沃特傑環礁",
-      "ccp": "𑄤𑄖𑄴𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
-      "mk": "Вотје"
-    },
-    "comments": null
-  },
-  "L": {
-    "name": "Ralik Chain",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "راليك تشين",
-      "bn": "রালিকচেইন",
-      "da": "Ralik Chain",
-      "de": "Ralik-Kette",
-      "el": "Ράλικ Τσέιν",
-      "en": "Ralik Chain",
-      "es": "Ralik Cadena",
-      "et": "Raliki saared",
-      "fi": "Ralik",
-      "fr": "Îles Ralik",
-      "gu": "રાલિક ચેઇન",
-      "he": "שרשרת רליק",
-      "hi": "रालिक चेन",
-      "hr": "Ralik",
-      "id": "Ralik Chain",
-      "it": "Ralik",
-      "ja": "ラリック列島",
-      "ka": "რალიკის ჯაჭვი",
-      "kn": "ರಾಲಿಕ್ ಚೈನ್",
-      "ko": "랄리크 열도",
-      "lt": "Raliko salos",
-      "mr": "रालिक चेन",
-      "ms": "Ralik Chain",
-      "nb": "Ralik-kjeden",
-      "nl": "Ralik Chain",
-      "pl": "Ralik Chain",
-      "pt": "Cadeia Ralik",
-      "ru": "Цепь Ралик",
-      "si": "රලික් චේන්",
-      "sv": "Raliköarna",
-      "ta": "ராலிக் செயின்",
-      "te": "రాలిక్ చైన్",
-      "th": "ลาลิก เชน",
-      "tr": "Ralik Chain",
-      "uk": "Ланцюг Ралік",
-      "ur": "رالیک چین",
-      "vi": "Chuỗi đảo Ralik",
-      "lv": "Raliku salas",
-      "ceb": "Ralik Chain",
-      "zh": "拉利克礁鏈",
-      "fa": "زنجیره رالیک",
-      "ccp": "𑄢𑄣𑄨𑄇𑄴 𑄌𑄬𑄭𑄚𑄴",
-      "mk": "Ралички Острови",
-      "no": "Ralik-kjeden"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "T": {
     "name": "Ratak Chain",
-    "code": null,
+    "code": "T",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1144,7 +994,184 @@
       "mk": "Ратачки Острови",
       "no": "Ratak Chain"
     },
-    "comments": null
+    "comments": null,
+    "type": "chain_of_islands"
+  },
+  "UJA": {
+    "name": "Ujae",
+    "code": "UJA",
+    "unofficial_names": "Ujae",
+    "geo": {
+      "latitude": 9.0582174,
+      "longitude": 165.6440842,
+      "min_latitude": 8.922806,
+      "min_longitude": 165.5181098,
+      "max_latitude": 9.2262549,
+      "max_longitude": 165.7703877
+    },
+    "translations": {
+      "en": "Ujae Atoll",
+      "de": "Ujae",
+      "es": "Ujae",
+      "fi": "Ujae",
+      "fr": "Ujae",
+      "gl": "Atol Ujae",
+      "hr": "Ujae",
+      "id": "Atol Ujae",
+      "it": "Ujae",
+      "ja": "ウジャエ環礁",
+      "ko": "우자에 환초",
+      "lt": "Udžaė",
+      "nl": "Ujae Atoll",
+      "pl": "Ujae",
+      "ru": "Уджаэ",
+      "sv": "Ujae",
+      "ceb": "Ujae Atoll (munisipyo)",
+      "zh": "烏賈環礁",
+      "fa": "آب‌سنگ حلقوی اوجائه",
+      "ccp": "𑄅𑄪𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Уџае"
+    },
+    "comments": null,
+    "type": "municipality"
+  },
+  "UJL": {
+    "name": "Ujelang",
+    "code": "UJL",
+    "unofficial_names": "Ujelang",
+    "geo": {
+      "latitude": 9.77,
+      "longitude": 160.9752777,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Ujelang"
+    },
+    "comments": null,
+    "type": "municipality"
+  },
+  "UTI": {
+    "name": "Utirik",
+    "code": "UTI",
+    "unofficial_names": [
+      "Utirik",
+      "Utrōk",
+      "Utrōnk"
+    ],
+    "geo": {
+      "latitude": 11.2226114,
+      "longitude": 169.8544701,
+      "min_latitude": 11.2214237,
+      "min_longitude": 169.8474976,
+      "max_latitude": 11.2233218,
+      "max_longitude": 169.8563474
+    },
+    "translations": {
+      "en": "Utirik Atoll",
+      "be": "Атол Утырык",
+      "ca": "Utirik",
+      "de": "Utirik",
+      "es": "Utirik",
+      "eu": "Utirik",
+      "fi": "Utirik",
+      "fr": "Utirik",
+      "gl": "Atol Utirik",
+      "it": "Utirik",
+      "ja": "ウチリック環礁",
+      "ko": "우티리크 환초",
+      "lt": "Utirikas",
+      "nl": "Utirik Atoll",
+      "pl": "Utirik",
+      "pt": "Atol Utirik",
+      "ru": "Утирик",
+      "sv": "Utirik",
+      "ceb": "Utrik",
+      "zh": "烏蒂里克環礁",
+      "fa": "آب‌سنگ حلقوی اوتیریک",
+      "ccp": "𑄅𑄪𑄑𑄨𑄢𑄨𑄇𑄴 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Утирик"
+    },
+    "comments": null,
+    "type": "municipality"
+  },
+  "WTH": {
+    "name": "Wotho",
+    "code": "WTH",
+    "unofficial_names": [
+      "Wōtto"
+    ],
+    "geo": {
+      "latitude": 10.1024946,
+      "longitude": 165.9811564,
+      "min_latitude": 10.0144328,
+      "min_longitude": 165.9193897,
+      "max_latitude": 10.1839202,
+      "max_longitude": 166.0299827
+    },
+    "translations": {
+      "en": "Wotho Atoll",
+      "de": "Wotho",
+      "es": "Wotho",
+      "fi": "Wotho",
+      "fr": "Wotho",
+      "gl": "Atol Wotho",
+      "hr": "Wotho",
+      "id": "Atol Wotho",
+      "it": "Wotho",
+      "ja": "オトー環礁",
+      "ko": "워토 환초",
+      "lt": "Votas",
+      "nl": "Wotho Atoll",
+      "pl": "Wotho",
+      "ru": "Вото",
+      "sv": "Wotho",
+      "ceb": "Wotho",
+      "zh": "沃特環礁",
+      "ccp": "𑄤𑄗𑄮 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Вото"
+    },
+    "comments": null,
+    "type": "municipality"
+  },
+  "WTJ": {
+    "name": "Wotje",
+    "code": "WTJ",
+    "unofficial_names": "Wotje",
+    "geo": {
+      "latitude": 9.452366999999999,
+      "longitude": 170.237213,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Wotje Atoll",
+      "de": "Wotje",
+      "es": "Wotje",
+      "fi": "Wotje",
+      "fr": "Wotje",
+      "gl": "Atol Wotje",
+      "it": "Wotje",
+      "ja": "ウォッジェ環礁",
+      "ko": "웟제 환초",
+      "lt": "Votjė",
+      "nl": "Wotje Atoll",
+      "pl": "Wotje",
+      "pt": "Atol Wotje",
+      "ru": "Вотье",
+      "sv": "Wotje",
+      "uk": "Вотьє",
+      "ceb": "Wotje Atoll",
+      "zh": "沃特傑環礁",
+      "ccp": "𑄤𑄖𑄴𑄎𑄬 𑄃𑄑𑄮𑄣𑄴",
+      "mk": "Вотје"
+    },
+    "comments": null,
+    "type": "municipality"
   }
 }
 

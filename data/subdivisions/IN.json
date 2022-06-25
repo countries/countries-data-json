@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Andaman and Nicobar Islands",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Andaman and Nicobar Islands",
     "geo": {
       "latitude": 11.7400867,
@@ -86,11 +86,12 @@
       "mk": "Андамани и Никобари",
       "no": "Andamanene og Nikobarene"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AP": {
     "name": "Andhra Pradesh",
-    "code": null,
+    "code": "AP",
     "unofficial_names": "Andhra Pradesh",
     "geo": {
       "latitude": 15.9128998,
@@ -181,11 +182,12 @@
       "no": "Andhra Pradesh",
       "yo_BJ": "Andhra Pradesh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AR": {
     "name": "Arunachal Pradesh",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Arunachal Pradesh",
     "geo": {
       "latitude": 28.2179994,
@@ -272,11 +274,12 @@
       "no": "Arunachal Pradesh",
       "yo_BJ": "Arunachal Pradesh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AS": {
     "name": "Assam",
-    "code": null,
+    "code": "AS",
     "unofficial_names": "Assam",
     "geo": {
       "latitude": 26.2006043,
@@ -368,11 +371,12 @@
       "no": "Assam",
       "yo_BJ": "Assam"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BR": {
     "name": "Bihar",
-    "code": null,
+    "code": "BR",
     "unofficial_names": "Bihar",
     "geo": {
       "latitude": 25.0960742,
@@ -460,11 +464,12 @@
       "no": "Bihar",
       "yo_BJ": "Bihar"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CH": {
     "name": "Chandigarh",
-    "code": null,
+    "code": "CH",
     "unofficial_names": "Chandigarh",
     "geo": {
       "latitude": 30.7333148,
@@ -545,11 +550,12 @@
       "no": "Chandigarh",
       "yo_BJ": "Chandigarh"
     },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   },
   "CT": {
     "name": "Chhattisgarh",
-    "code": null,
+    "code": "CT",
     "unofficial_names": "Chhattisgarh",
     "geo": {
       "latitude": 21.2786567,
@@ -633,92 +639,20 @@
       "no": "Chhattisgarh",
       "yo_BJ": "Chhattisgarh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
-  "DD": {
-    "name": "Daman and Diu",
-    "code": null,
-    "unofficial_names": "Daman and Diu",
-    "geo": {
-      "latitude": 20.428283,
-      "longitude": 72.8397317,
-      "min_latitude": 20.3672191,
-      "min_longitude": 70.8734812,
-      "max_latitude": 20.743124,
-      "max_longitude": 72.9067969
-    },
+  "DH": {
     "translations": {
-      "en": "Daman and Diu",
-      "ar": "دمن وديو",
-      "be": "Даман і Дыу",
-      "bg": "Даман и Диу",
-      "bn": "দমন ও দিউ",
-      "ca": "Daman i Diu",
-      "cs": "Daman a Díu",
-      "da": "Daman og Diu",
-      "de": "Daman und Diu",
-      "el": "Νταμάν και Ντιού",
-      "es": "Damán y Diu",
-      "et": "Daman ja Diu",
-      "eu": "Daman eta Diu",
-      "fa": "دامان و دیو",
-      "fi": "Daman ja Diu",
-      "fr": "Daman et Diu",
-      "gu": "દમણ અને દીવ",
-      "he": "דאמאן ודיו",
-      "hi": "दमन और दीव",
-      "hr": "Daman i Diu",
-      "hu": "Daman és Diu",
-      "id": "Daman dan Diu",
-      "is": "Daman og Diu",
-      "it": "Daman e Diu",
-      "ja": "ダマン・ディーウ連邦直轄領",
-      "ka": "დამანი და დიუ",
-      "kn": "ದಮನ್ ಮತ್ತು ದಿಯು",
-      "ko": "다만 디우",
-      "lt": "Damanas ir Diu",
-      "lv": "Damāna un Diu",
-      "ml": "ദമൻ, ദിയു",
-      "mr": "दमण आणि दीव",
-      "ms": "Daman dan Diu",
-      "nb": "Daman og Diu",
-      "ne": "दमन दिउ",
-      "nl": "Daman en Diu",
-      "or": "ଡାମନ ଓ ଡିଉ",
-      "pl": "Daman i Diu",
-      "pt": "Damão e Diu",
-      "ro": "Daman și Diu",
-      "ru": "Даман и Диу",
-      "si": "ඩමන් සහ ඩියු",
-      "sk": "Daman a Diú",
-      "sr": "Даман и Диу",
-      "sv": "Daman och Diu",
-      "sw": "Daman na Diu",
-      "ta": "தமன் மற்றும் தியூ",
-      "te": "దమన్ దియు",
-      "th": "ดามันและดีอู",
-      "tr": "Daman ve Diu",
-      "uk": "Даман і Діу",
-      "ur": "دمن و دیو",
-      "vi": "Daman và Diu",
-      "ceb": "Union Territory of Damān and Diu",
-      "sr_Latn": "Daman i Diu",
-      "zh": "达曼-第乌",
-      "yue_Hans": "达曼-第乌",
-      "ccp": "𑄘𑄧𑄟𑄧𑄚𑄴 𑄃𑄳𑄃 𑄓𑄨𑄅𑄪",
-      "pa": "ਦਮਨ ਅਤੇ ਦਿਉ",
-      "yue": "達曼-第烏",
-      "yo": "Daman àti Diu",
-      "uz": "Daman va diu",
-      "mk": "Даман и Диу",
-      "no": "Daman og Diu",
-      "yo_BJ": "Daman àti Diu"
+      "en": "Dādra and Nagar Haveli and Damān and Diu"
     },
-    "comments": null
+    "name": "Dādra and Nagar Haveli and Damān and Diu",
+    "code": "DH",
+    "type": "union_territory"
   },
   "DL": {
     "name": "Delhi",
-    "code": null,
+    "code": "DL",
     "unofficial_names": "Delhi",
     "geo": {
       "latitude": 28.6139391,
@@ -811,94 +745,12 @@
       "no": "Delhi",
       "yo_BJ": "Delhi"
     },
-    "comments": null
-  },
-  "DN": {
-    "name": "Dadra and Nagar Haveli",
-    "code": null,
-    "unofficial_names": "Dadra and Nagar Haveli",
-    "geo": {
-      "latitude": 20.1808672,
-      "longitude": 73.0169135,
-      "min_latitude": 20.052287,
-      "min_longitude": 72.921629,
-      "max_latitude": 20.3625029,
-      "max_longitude": 73.2258921
-    },
-    "translations": {
-      "en": "Dadra and Nagar Haveli",
-      "ar": "دادرا وناجار هافلي",
-      "be": "Дадра і Нагархавелі",
-      "bg": "Дадра и Нагар Хавели",
-      "bn": "দাদরা ও নগর হাভেলি",
-      "ca": "Dadra i Nagar Haveli",
-      "cs": "Dádra a Nágar Havélí",
-      "da": "Dadra og Nagar Haveli",
-      "de": "Dadra und Nagar Haveli",
-      "el": "Ντάντρα και Ναγκάρ Χαβέλι",
-      "es": "Dadra y Nagar Haveli",
-      "et": "Dadra ja Nagar Haveli",
-      "eu": "Dadra eta Nagar Haveli",
-      "fa": "دادرا و ناگار هاولی",
-      "fi": "Dadra ja Nagar Haveli",
-      "fr": "Dadra et Nagar Haveli",
-      "gl": "Dadra e Nagar Haveli",
-      "gu": "દાદરા અને નગરહવેલી",
-      "he": "דאדרה ונאגר הבלי",
-      "hi": "दादर और नागर हवेली",
-      "hr": "Dadra i Nagar Haveli",
-      "hu": "Dadra és Nagar Haveli",
-      "id": "Dadra dan Nagar Haveli",
-      "is": "Dadra og Nagar Haveli",
-      "it": "Dadra e Nagar Haveli",
-      "ja": "ダードラー及びナガル・ハヴェーリー連邦直轄領",
-      "ka": "დადრა და ნაგარ-ჰაველი",
-      "kn": "ದಾದ್ರ ಮತ್ತು ನಗರ್ ಹವೆಲಿ",
-      "ko": "다드라 나가르하벨리",
-      "lt": "Dadra ir Nagar Havelis",
-      "lv": "Dādra un Nagarhaveli",
-      "ml": "ദാദ്ര, നഗർ ഹവേലി",
-      "mr": "दादरा आणि नगर-हवेली",
-      "ms": "Dadra dan Nagar Haveli",
-      "nb": "Dadra og Nagar Haveli",
-      "ne": "दादरा र नगर हवेली",
-      "nl": "Dadra en Nagar Haveli",
-      "or": "ଦାଦ୍ରା ଓ ନଗର ହବେଳୀ",
-      "pl": "Dadra i Nagarhaweli",
-      "pt": "Dadrá e Nagar-Aveli",
-      "ro": "Dadra și Nagar Haveli",
-      "ru": "Дадра и Нагар-Хавели",
-      "si": "දඩ්රා සග නගර් හවේලි",
-      "sk": "Dádra a Nagar Havelí",
-      "sr": "Дадра и Нагар Хавели",
-      "sv": "Dadra och Nagar Haveli",
-      "sw": "Dadra na Nagar Haveli",
-      "ta": "தாத்ரா மற்றும் நகர் அவேலி",
-      "te": "దాద్రా నగరు హవేలీ",
-      "th": "ดาดราและนครหเวลี",
-      "tr": "Dadra ve Nagar Haveli",
-      "uk": "Дадра і Нагар-Хавелі",
-      "ur": "دادرا و نگر حویلی",
-      "vi": "Dadra và Nagar Haveli",
-      "cy": "Dadra a Nagar Haveli",
-      "ceb": "Union Territory of Dādra and Nagar Haveli",
-      "sr_Latn": "Dadra i Nagar Haveli",
-      "zh": "达德拉-纳加尔哈维利",
-      "yue_Hans": "达德拉-纳加尔哈维利",
-      "ccp": "𑄘𑄓𑄳𑄢 𑄃𑄳𑄃 𑄚𑄧𑄉𑄧𑄢𑄴 𑄦𑄞𑄬𑄣𑄨",
-      "pa": "ਦਾਦਰ ਅਤੇ ਨਗਰ ਹਵੇਲੀ",
-      "yue": "達德拉-納加爾哈維利",
-      "yo": "Dadra àti Nagar Haveli",
-      "uz": "Dadra va nagarhaveli",
-      "mk": "Дадра и Нагар Хавели",
-      "no": "Dadra og Nagar Haveli",
-      "yo_BJ": "Dadra àti Nagar Haveli"
-    },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   },
   "GA": {
     "name": "Goa",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Goa",
     "geo": {
       "latitude": 15.2993265,
@@ -989,11 +841,12 @@
       "no": "Goa",
       "yo_BJ": "Goa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GJ": {
     "name": "Gujarat",
-    "code": null,
+    "code": "GJ",
     "unofficial_names": "Gujarat",
     "geo": {
       "latitude": 22.258652,
@@ -1083,11 +936,12 @@
       "no": "Gujarat",
       "yo_BJ": "Gujarat"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HP": {
     "name": "Himachal Pradesh",
-    "code": null,
+    "code": "HP",
     "unofficial_names": "Himachal Pradesh",
     "geo": {
       "latitude": 31.1048294,
@@ -1174,11 +1028,12 @@
       "no": "Himachal Pradesh",
       "yo_BJ": "Himachal Pradesh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HR": {
     "name": "Haryana",
-    "code": null,
+    "code": "HR",
     "unofficial_names": "Haryana",
     "geo": {
       "latitude": 29.0587757,
@@ -1263,11 +1118,12 @@
       "no": "Haryana",
       "yo_BJ": "Haryana"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "JH": {
     "name": "Jharkhand",
-    "code": null,
+    "code": "JH",
     "unofficial_names": [
       "Vananchal"
     ],
@@ -1351,11 +1207,12 @@
       "no": "Jharkhand",
       "yo_BJ": "Jharkhand"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "JK": {
     "name": "Jammu and Kashmir",
-    "code": null,
+    "code": "JK",
     "unofficial_names": "Jammu and Kashmir",
     "geo": {
       "latitude": 34.1490875,
@@ -1442,11 +1299,12 @@
       "no": "Jammu og Kashmir",
       "yo_BJ": "Jammu àti Kashmir"
     },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   },
   "KA": {
     "name": "Karnataka",
-    "code": null,
+    "code": "KA",
     "unofficial_names": [
       "Kanara"
     ],
@@ -1533,11 +1391,12 @@
       "no": "Karnataka",
       "yo_BJ": "Karnataka"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KL": {
     "name": "Kerala",
-    "code": null,
+    "code": "KL",
     "unofficial_names": "Kerala",
     "geo": {
       "latitude": 10.8505159,
@@ -1625,11 +1484,30 @@
       "no": "Kerala",
       "yo_BJ": "Kerala"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
+  },
+  "LA": {
+    "name": "Ladakh",
+    "code": "LA",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 34.0522342,
+      "longitude": -118.2436849,
+      "min_latitude": 33.7036519,
+      "min_longitude": -118.6681759,
+      "max_latitude": 34.3373061,
+      "max_longitude": -118.1552891
+    },
+    "translations": {
+      "en": "Ladakh"
+    },
+    "comments": null,
+    "type": "union_territory"
   },
   "LD": {
     "name": "Lakshadweep",
-    "code": null,
+    "code": "LD",
     "unofficial_names": [
       "Laccadive",
       "Lakkadiven"
@@ -1709,11 +1587,12 @@
       "no": "Lakkadivene",
       "yo_BJ": "Lakshadweep"
     },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   },
   "MH": {
     "name": "Maharashtra",
-    "code": null,
+    "code": "MH",
     "unofficial_names": "Maharashtra",
     "geo": {
       "latitude": 19.7514798,
@@ -1802,11 +1681,12 @@
       "no": "Maharashtra",
       "yo_BJ": "Maharashtra"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ML": {
     "name": "Meghalaya",
-    "code": null,
+    "code": "ML",
     "unofficial_names": "Meghalaya",
     "geo": {
       "latitude": 25.4670308,
@@ -1889,11 +1769,12 @@
       "no": "Meghalaya",
       "yo_BJ": "Meghalaya"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MN": {
     "name": "Manipur",
-    "code": null,
+    "code": "MN",
     "unofficial_names": "Manipur",
     "geo": {
       "latitude": 24.6637173,
@@ -1981,11 +1862,12 @@
       "no": "Manipur",
       "yo_BJ": "Manipur"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MP": {
     "name": "Madhya Pradesh",
-    "code": null,
+    "code": "MP",
     "unofficial_names": "Madhya Pradesh",
     "geo": {
       "latitude": 22.9734229,
@@ -2073,11 +1955,12 @@
       "no": "Madhya Pradesh",
       "yo_BJ": "Madhya Pradesh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MZ": {
     "name": "Mizoram",
-    "code": null,
+    "code": "MZ",
     "unofficial_names": "Mizoram",
     "geo": {
       "latitude": 23.164543,
@@ -2160,11 +2043,12 @@
       "no": "Mizoram",
       "yo_BJ": "Mizoram"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NL": {
     "name": "Nagaland",
-    "code": null,
+    "code": "NL",
     "unofficial_names": "Nagaland",
     "geo": {
       "latitude": 26.1584354,
@@ -2250,11 +2134,12 @@
       "no": "Nagaland",
       "yo_BJ": "Nagaland"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OR": {
     "name": "Orissa",
-    "code": null,
+    "code": "OR",
     "unofficial_names": "Orissa",
     "geo": {
       "latitude": 20.9516658,
@@ -2344,11 +2229,12 @@
       "no": "Odisha",
       "yo_BJ": "Odisha"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PB": {
     "name": "Punjab",
-    "code": null,
+    "code": "PB",
     "unofficial_names": "Punjab",
     "geo": {
       "latitude": 31.1471305,
@@ -2432,11 +2318,12 @@
       "no": "Punjab",
       "yo_BJ": "Punjab"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PY": {
     "name": "Pondicherry",
-    "code": null,
+    "code": "PY",
     "unofficial_names": "Pondicherry",
     "geo": {
       "latitude": 11.9138598,
@@ -2515,11 +2402,12 @@
       "no": "Puducherry",
       "yo_BJ": "Puducherry"
     },
-    "comments": null
+    "comments": null,
+    "type": "union_territory"
   },
   "RJ": {
     "name": "Rajasthan",
-    "code": null,
+    "code": "RJ",
     "unofficial_names": "Rajasthan",
     "geo": {
       "latitude": 27.0238036,
@@ -2608,11 +2496,12 @@
       "no": "Rajasthan",
       "yo_BJ": "Rajasthan"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SK": {
     "name": "Sikkim",
-    "code": null,
+    "code": "SK",
     "unofficial_names": [
       "Denjong"
     ],
@@ -2702,11 +2591,91 @@
       "no": "Sikkim",
       "yo_BJ": "Sikkim"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
+  },
+  "TG": {
+    "name": "तेलंगाना",
+    "code": "TG",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "تيلانغانا",
+      "as": "তেলেংগানা",
+      "az": "Telanqana",
+      "bg": "Телангана",
+      "bn": "তেলঙ্গানা",
+      "ca": "Telangana",
+      "cs": "Telangána",
+      "da": "Telangana",
+      "de": "Telangana",
+      "el": "Τελανγκάνα",
+      "en": "Telangana",
+      "es": "Telingana",
+      "et": "Telangana",
+      "fa": "تلنگانا",
+      "fi": "Telangana",
+      "fr": "Telangana",
+      "gl": "Telangana",
+      "gu": "તેલંગાણા",
+      "he": "טלנגאנה",
+      "hi": "तेलंगाना",
+      "hu": "Telangána",
+      "id": "Telangana",
+      "it": "Telangana",
+      "ja": "テランガナ",
+      "ka": "ტელანგანა",
+      "kn": "ತೆಲಂಗಾಣ",
+      "ko": "텔랑가나 주",
+      "lt": "Telangana",
+      "lv": "Telangāna",
+      "ml": "തെലങ്കാന",
+      "mn": "Телангана",
+      "mr": "तेलंगणा",
+      "ms": "Telangana",
+      "nb": "Telangana",
+      "ne": "तेलंगाना",
+      "nl": "Telangana",
+      "or": "ତେଲେଙ୍ଗାନା",
+      "pl": "Telangana",
+      "pt": "Telangana",
+      "ro": "Telangana",
+      "ru": "Телангана",
+      "sr": "Телангана",
+      "sv": "Telangana",
+      "sw": "Telangana",
+      "ta": "தெலுங்கானா",
+      "te": "తెలంగాణ",
+      "th": "รัฐเตลันกานา",
+      "uk": "Телангана",
+      "ur": "تیلنگانا",
+      "vi": "Telangana",
+      "cy": "Telangana",
+      "ceb": "Telangana",
+      "tr": "Telangana",
+      "sr_Latn": "Telangana",
+      "zh": "特伦甘纳邦",
+      "yue_Hans": "泰伦加纳邦",
+      "ccp": "𑄑𑄬𑄣𑄚𑄴𑄉𑄚",
+      "ga": "Telangana",
+      "pa": "ਤੇਲੰਗਾਨਾ",
+      "yue": "泰倫加納邦",
+      "mk": "Телангана",
+      "no": "Telangana"
+    },
+    "comments": null,
+    "type": "state"
   },
   "TN": {
     "name": "Tamil Nadu",
-    "code": null,
+    "code": "TN",
     "unofficial_names": "Tamil Nadu",
     "geo": {
       "latitude": 11.1271225,
@@ -2796,11 +2765,12 @@
       "no": "Tamil Nadu",
       "yo_BJ": "Tamil Nadu"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TR": {
     "name": "Tripura",
-    "code": null,
+    "code": "TR",
     "unofficial_names": "Tripura",
     "geo": {
       "latitude": 23.9408482,
@@ -2888,45 +2858,12 @@
       "no": "Tripura",
       "yo_BJ": "Tripura"
     },
-    "comments": null
-  },
-  "TS": {
-    "name": "Telangana",
-    "code": null,
-    "unofficial_names": "Telangana",
-    "geo": {
-      "latitude": 18.1124372,
-      "longitude": 79.01929969999999,
-      "min_latitude": 15.83535,
-      "min_longitude": 77.23791299999999,
-      "max_latitude": 19.916715,
-      "max_longitude": 81.3075465
-    },
-    "translations": {
-      "en": "Telangana"
-    },
-    "comments": null
-  },
-  "UL": {
-    "name": "Uttaranchal",
-    "code": null,
-    "unofficial_names": "Uttaranchal",
-    "geo": {
-      "latitude": 30.066753,
-      "longitude": 79.01929969999999,
-      "min_latitude": 28.710125,
-      "min_longitude": 77.57860889999999,
-      "max_latitude": 31.45461499999999,
-      "max_longitude": 81.05566379999999
-    },
-    "translations": {
-      "en": "Uttaranchal"
-    },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "UP": {
     "name": "Uttar Pradesh",
-    "code": null,
+    "code": "UP",
     "unofficial_names": "Uttar Pradesh",
     "geo": {
       "latitude": 27.5705886,
@@ -3016,11 +2953,100 @@
       "no": "Uttar Pradesh",
       "yo_BJ": "Uttar Pradesh"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
+  },
+  "UT": {
+    "name": "उत्तराखण्ड",
+    "code": "UT",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "أوتاراخند",
+      "as": "উত্তৰাখণ্ড",
+      "be": "Утаракханд",
+      "bg": "Утаракханд",
+      "bn": "উত্তরাখণ্ড",
+      "ca": "Uttarakhand",
+      "cs": "Uttarákhand",
+      "da": "Uttarakhand",
+      "de": "Uttarakhand",
+      "el": "Ουταράχαντ",
+      "en": "Uttarakhand",
+      "es": "Uttarakhand",
+      "et": "Uttarakhand",
+      "eu": "Uttarakhand",
+      "fa": "اوتاراکند",
+      "fi": "Uttarakhand",
+      "fr": "Uttarakhand",
+      "gu": "ઉત્તરાખંડ",
+      "he": "אוטראקהאנד",
+      "hi": "उत्तराखण्ड",
+      "hr": "Uttarakhand",
+      "hu": "Uttarakhand",
+      "id": "Uttarakhand",
+      "is": "Uttarakhand",
+      "it": "Uttarakhand",
+      "ja": "ウッタラーカンド州",
+      "ka": "უტარაკჰანდი",
+      "kn": "ಉತ್ತರಾಖಂಡ",
+      "ko": "우타라칸드 주",
+      "lt": "Utarakhandas",
+      "lv": "Utarakhanda",
+      "ml": "ഉത്തരാഖണ്ഡ്",
+      "mn": "Уттараканд",
+      "mr": "उत्तराखंड",
+      "ms": "Uttarakhand",
+      "nb": "Uttarakhand",
+      "ne": "उत्तराखण्ड",
+      "nl": "Uttarakhand",
+      "or": "ଉତ୍ତରାଖଣ୍ଡ",
+      "pl": "Uttarakhand",
+      "ps": "اتر کنډ",
+      "pt": "Uttarakhand",
+      "ro": "Uttarakhand",
+      "ru": "Уттаракханд",
+      "si": "උට්ටරඛාන්ඩ්",
+      "sk": "Uttarákhand",
+      "sr": "Утараханд",
+      "sv": "Uttarakhand",
+      "sw": "Uttarakhand",
+      "ta": "உத்தராகண்டம்",
+      "te": "ఉత్తరాఖండ్",
+      "th": "รัฐอุตตราขัณฑ์",
+      "tr": "Uttarakhand",
+      "uk": "Уттаракханд",
+      "ur": "اتراکھنڈ",
+      "vi": "Uttarakhand",
+      "cy": "Uttarakhand",
+      "ceb": "State of Uttarakhand",
+      "sr_Latn": "Utarahand",
+      "zh": "北阿坎德邦",
+      "yue_Hans": "北阿坎德邦",
+      "sq": "Uttarakand",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄃𑄈𑄧𑄚𑄴𑄓𑄧",
+      "ga": "Uttarakhand",
+      "pa": "ਉੱਤਰਖੰਡ",
+      "yue": "北阿坎德邦",
+      "am": "ኡተራኸንድ",
+      "yo": "Uttarakhand",
+      "mk": "Утараканд",
+      "no": "Uttarakhand",
+      "yo_BJ": "Uttarakhand"
+    },
+    "comments": null,
+    "type": "state"
   },
   "WB": {
     "name": "West Bengal",
-    "code": null,
+    "code": "WB",
     "unofficial_names": [
       "West Bengal"
     ],
@@ -3113,195 +3139,8 @@
       "mk": "Западен Бенгал",
       "no": "Vest-Bengal"
     },
-    "comments": null
-  },
-  "TG": {
-    "name": "तेलंगाना",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "تيلانغانا",
-      "as": "তেলেংগানা",
-      "az": "Telanqana",
-      "bg": "Телангана",
-      "bn": "তেলঙ্গানা",
-      "ca": "Telangana",
-      "cs": "Telangána",
-      "da": "Telangana",
-      "de": "Telangana",
-      "el": "Τελανγκάνα",
-      "en": "Telangana",
-      "es": "Telingana",
-      "et": "Telangana",
-      "fa": "تلنگانا",
-      "fi": "Telangana",
-      "fr": "Telangana",
-      "gl": "Telangana",
-      "gu": "તેલંગાણા",
-      "he": "טלנגאנה",
-      "hi": "तेलंगाना",
-      "hu": "Telangána",
-      "id": "Telangana",
-      "it": "Telangana",
-      "ja": "テランガナ",
-      "ka": "ტელანგანა",
-      "kn": "ತೆಲಂಗಾಣ",
-      "ko": "텔랑가나 주",
-      "lt": "Telangana",
-      "lv": "Telangāna",
-      "ml": "തെലങ്കാന",
-      "mn": "Телангана",
-      "mr": "तेलंगणा",
-      "ms": "Telangana",
-      "nb": "Telangana",
-      "ne": "तेलंगाना",
-      "nl": "Telangana",
-      "or": "ତେଲେଙ୍ଗାନା",
-      "pl": "Telangana",
-      "pt": "Telangana",
-      "ro": "Telangana",
-      "ru": "Телангана",
-      "sr": "Телангана",
-      "sv": "Telangana",
-      "sw": "Telangana",
-      "ta": "தெலுங்கானா",
-      "te": "తెలంగాణ",
-      "th": "รัฐเตลันกานา",
-      "uk": "Телангана",
-      "ur": "تیلنگانا",
-      "vi": "Telangana",
-      "cy": "Telangana",
-      "ceb": "Telangana",
-      "tr": "Telangana",
-      "sr_Latn": "Telangana",
-      "zh": "特伦甘纳邦",
-      "yue_Hans": "泰伦加纳邦",
-      "ccp": "𑄑𑄬𑄣𑄚𑄴𑄉𑄚",
-      "ga": "Telangana",
-      "pa": "ਤੇਲੰਗਾਨਾ",
-      "yue": "泰倫加納邦",
-      "mk": "Телангана",
-      "no": "Telangana"
-    },
-    "comments": null
-  },
-  "UT": {
-    "name": "उत्तराखण्ड",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "أوتاراخند",
-      "as": "উত্তৰাখণ্ড",
-      "be": "Утаракханд",
-      "bg": "Утаракханд",
-      "bn": "উত্তরাখণ্ড",
-      "ca": "Uttarakhand",
-      "cs": "Uttarákhand",
-      "da": "Uttarakhand",
-      "de": "Uttarakhand",
-      "el": "Ουταράχαντ",
-      "en": "Uttarakhand",
-      "es": "Uttarakhand",
-      "et": "Uttarakhand",
-      "eu": "Uttarakhand",
-      "fa": "اوتاراکند",
-      "fi": "Uttarakhand",
-      "fr": "Uttarakhand",
-      "gu": "ઉત્તરાખંડ",
-      "he": "אוטראקהאנד",
-      "hi": "उत्तराखण्ड",
-      "hr": "Uttarakhand",
-      "hu": "Uttarakhand",
-      "id": "Uttarakhand",
-      "is": "Uttarakhand",
-      "it": "Uttarakhand",
-      "ja": "ウッタラーカンド州",
-      "ka": "უტარაკჰანდი",
-      "kn": "ಉತ್ತರಾಖಂಡ",
-      "ko": "우타라칸드 주",
-      "lt": "Utarakhandas",
-      "lv": "Utarakhanda",
-      "ml": "ഉത്തരാഖണ്ഡ്",
-      "mn": "Уттараканд",
-      "mr": "उत्तराखंड",
-      "ms": "Uttarakhand",
-      "nb": "Uttarakhand",
-      "ne": "उत्तराखण्ड",
-      "nl": "Uttarakhand",
-      "or": "ଉତ୍ତରାଖଣ୍ଡ",
-      "pl": "Uttarakhand",
-      "ps": "اتر کنډ",
-      "pt": "Uttarakhand",
-      "ro": "Uttarakhand",
-      "ru": "Уттаракханд",
-      "si": "උට්ටරඛාන්ඩ්",
-      "sk": "Uttarákhand",
-      "sr": "Утараханд",
-      "sv": "Uttarakhand",
-      "sw": "Uttarakhand",
-      "ta": "உத்தராகண்டம்",
-      "te": "ఉత్తరాఖండ్",
-      "th": "รัฐอุตตราขัณฑ์",
-      "tr": "Uttarakhand",
-      "uk": "Уттаракханд",
-      "ur": "اتراکھنڈ",
-      "vi": "Uttarakhand",
-      "cy": "Uttarakhand",
-      "ceb": "State of Uttarakhand",
-      "sr_Latn": "Utarahand",
-      "zh": "北阿坎德邦",
-      "yue_Hans": "北阿坎德邦",
-      "sq": "Uttarakand",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄃𑄈𑄧𑄚𑄴𑄓𑄧",
-      "ga": "Uttarakhand",
-      "pa": "ਉੱਤਰਖੰਡ",
-      "yue": "北阿坎德邦",
-      "am": "ኡተራኸንድ",
-      "yo": "Uttarakhand",
-      "mk": "Утараканд",
-      "no": "Uttarakhand",
-      "yo_BJ": "Uttarakhand"
-    },
-    "comments": null
-  },
-  "LA": {
-    "name": "Ladakh",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": 34.0522342,
-      "longitude": -118.2436849,
-      "min_latitude": 33.7036519,
-      "min_longitude": -118.6681759,
-      "max_latitude": 34.3373061,
-      "max_longitude": -118.1552891
-    },
-    "translations": {
-      "en": "Ladakh"
-    },
-    "comments": null
-  },
-  "DH": {
-    "translations": {
-      "en": "Dādra and Nagar Haveli and Damān and Diu"
-    },
-    "name": "Dādra and Nagar Haveli and Damān and Diu"
+    "comments": null,
+    "type": "state"
   }
 }
 

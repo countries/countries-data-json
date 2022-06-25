@@ -1,7 +1,7 @@
 {
   "CPK": {
     "name": "Chimbu",
-    "code": null,
+    "code": "CPK",
     "unofficial_names": [
       "Chimbu",
       "Simbúa"
@@ -62,11 +62,12 @@
       "ccp": "𑄌𑄨𑄟𑄴𑄝𑄪",
       "no": "Simbu provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CPM": {
     "name": "Central",
-    "code": null,
+    "code": "CPM",
     "unofficial_names": [
       "Papua Central"
     ],
@@ -125,11 +126,12 @@
       "zh": "中央省",
       "no": "Central"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "EBR": {
     "name": "East New Britain",
-    "code": null,
+    "code": "EBR",
     "unofficial_names": [
       "New Britain East"
     ],
@@ -188,11 +190,12 @@
       "mk": "Источна Нова Британија",
       "no": "Øst Ny Britland"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "EHG": {
     "name": "Eastern Highlands",
-    "code": null,
+    "code": "EHG",
     "unofficial_names": [
       "Highlands East"
     ],
@@ -250,11 +253,12 @@
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
       "no": "Øst høylands provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "EPW": {
     "name": "Enga",
-    "code": null,
+    "code": "EPW",
     "unofficial_names": "Enga",
     "geo": {
       "latitude": -5.3005849,
@@ -310,11 +314,12 @@
       "ccp": "𑄃𑄬𑄚𑄴𑄉",
       "no": "Enga provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ESW": {
     "name": "East Sepik",
-    "code": null,
+    "code": "ESW",
     "unofficial_names": [
       "Sepik East"
     ],
@@ -372,11 +377,12 @@
       "ccp": "𑄛𑄪𑄇𑄴 𑄥𑄬𑄛𑄭𑄇𑄴",
       "no": "East Sepik"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GPK": {
     "name": "Gulf",
-    "code": null,
+    "code": "GPK",
     "unofficial_names": [
       "Papua Gulf"
     ],
@@ -434,11 +440,88 @@
       "et": "Gulfi provints",
       "no": "Gulf"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "HLA": {
+    "name": "Hela",
+    "code": "HLA",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Hela Province",
+      "en": "Hela",
+      "es": "Hela",
+      "eu": "Hela",
+      "fa": "استان هلا",
+      "fr": "Hela",
+      "it": "Provincia di Hela",
+      "ja": "ヘラ州",
+      "ka": "ჰელა",
+      "ko": "헬라 주",
+      "nl": "Hela Province",
+      "ru": "Хела",
+      "uk": "Гела",
+      "ur": "ہیلا صوبہ",
+      "ceb": "Hela (lalawigan)",
+      "zh": "赫拉省",
+      "pl": "Hela",
+      "ccp": "𑄦𑄬𑄣",
+      "fi": "Hela (maakunta)",
+      "pt": "Hela",
+      "et": "Hela provints"
+    },
+    "comments": null,
+    "type": "province"
+  },
+  "JWK": {
+    "name": "Jiwaka",
+    "code": "JWK",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Jiwaka Province",
+      "en": "Jiwaka",
+      "es": "Jiwaka",
+      "eu": "Jiwaka (probintzia)",
+      "fa": "استان جیواکا",
+      "fr": "Jiwaka Province",
+      "it": "Provincia di Jiwaka",
+      "ja": "ジワカ州",
+      "ka": "ჯივაკა",
+      "ko": "지와카 주",
+      "nl": "Jiwaka Province",
+      "ru": "Дживака",
+      "uk": "Дживака",
+      "ur": "جیواکا صوبہ",
+      "ceb": "Jiwaka",
+      "zh": "吉瓦卡省",
+      "pl": "Jiwaka",
+      "ccp": "𑄎𑄨𑄤𑄇",
+      "fi": "Jiwaka",
+      "pt": "Jiwaka",
+      "et": "Jiwaka provints"
+    },
+    "comments": null,
+    "type": "province"
   },
   "MBA": {
     "name": "Milne Bay",
-    "code": null,
+    "code": "MBA",
     "unofficial_names": "Milne Bay",
     "geo": {
       "latitude": -10.4460842,
@@ -493,11 +576,12 @@
       "ccp": "𑄟𑄨𑄣𑄴𑄚𑄬 𑄝𑄬",
       "no": "Milne Bay"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MPL": {
     "name": "Morobe",
-    "code": null,
+    "code": "MPL",
     "unofficial_names": "Morobe",
     "geo": {
       "latitude": -6.801373700000001,
@@ -553,11 +637,12 @@
       "ccp": "𑄟𑄧𑄢𑄮𑄝𑄬",
       "no": "Morobe provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MPM": {
     "name": "Madang",
-    "code": null,
+    "code": "MPM",
     "unofficial_names": "Madang",
     "geo": {
       "latitude": -5.216667,
@@ -614,11 +699,12 @@
       "ccp": "𑄟𑄬𑄓𑄋𑄴",
       "no": "Madang provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MRL": {
     "name": "Manus",
-    "code": null,
+    "code": "MRL",
     "unofficial_names": [
       "Great Admiralty Island",
       "Mwanus"
@@ -677,11 +763,12 @@
       "ccp": "𑄟𑄚𑄪𑄌𑄴",
       "no": "Manus provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NCD": {
     "name": "National Capital District (Port Moresby)",
-    "code": null,
+    "code": "NCD",
     "unofficial_names": "National Capital District (Port Moresby)",
     "geo": {
       "latitude": -9.443800399999999,
@@ -772,11 +859,12 @@
       "no": "Port Moresby",
       "yo_BJ": "Port Moresby"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NIK": {
     "name": "New Ireland",
-    "code": null,
+    "code": "NIK",
     "unofficial_names": [
       "Niu Ailan"
     ],
@@ -834,11 +922,12 @@
       "ccp": "𑄚𑄨𑄅𑄪 𑄃𑄠𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "no": "Ny Irland provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NPP": {
     "name": "Northern",
-    "code": null,
+    "code": "NPP",
     "unofficial_names": [
       "Northern"
     ],
@@ -897,32 +986,74 @@
       "ccp": "𑄃𑄧𑄢𑄮",
       "no": "Oro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "NSA": {
-    "name": "North Solomons",
-    "code": null,
-    "unofficial_names": [
-      "Bougainville",
-      "Mekamui",
-      "North Solomons"
-    ],
+  "NSB": {
+    "name": "Bougainville",
+    "code": "NSB",
+    "unofficial_names": null,
     "geo": {
-      "latitude": -6.053602,
-      "longitude": 155.1907309,
-      "min_latitude": -6.8796257,
-      "min_longitude": 154.1177784,
-      "max_latitude": -3.1095148,
-      "max_longitude": 159.4923965
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "North Solomons"
+      "ar": "مقاطعة بوغانفيل ذات الحكم الذاتي",
+      "bg": "Автономен регион Бугенвил",
+      "bn": "বুগাইনভিলি",
+      "ca": "Bougainville",
+      "cs": "Autonomní území Bougainville",
+      "da": "Bougainville",
+      "de": "Bougainville",
+      "el": "Μπουγκαϊνβίλε",
+      "en": "Bougainville",
+      "es": "Bougainville",
+      "eu": "Bougainvilleko Eskualde Autonomoa",
+      "fa": "استان خودمختار بوگاینویل",
+      "fi": "Bougainville",
+      "fr": "Bougainville",
+      "gl": "Rexión Autónoma de Bougainville",
+      "gu": "બૌગૈનવિલ",
+      "hi": "बोगेनविल",
+      "id": "Daerah Otonom Bougainville",
+      "it": "regione autonoma di Bougainville",
+      "ja": "ブーゲンビル州",
+      "ka": "ბუგენვილის ავტონომიური რეგიონი",
+      "kn": "ಬೌಗೆನ್ವಿಲ್ಲೆ",
+      "ko": "부건빌 주",
+      "mr": "बोगनविले",
+      "ms": "Bougainville",
+      "nb": "Bougainville",
+      "nl": "Bougainville",
+      "pl": "Bougainville",
+      "pt": "Bougainville",
+      "ru": "Автономный регион Бугенвиль",
+      "si": "බෝගෙන්විලි",
+      "sv": "Bougainville",
+      "ta": "போகஇன்வில்லே",
+      "te": "బోగన్‌విల్లే",
+      "th": "บูแก็งวีล",
+      "tr": "Bougainville",
+      "uk": "Автономний регіон Бугенвіль",
+      "ur": "بووجاینویلی",
+      "vi": "Khu tự trị Bougainville",
+      "lv": "Bugenvile",
+      "ceb": "Bougainville (lalawigan)",
+      "lt": "Bugenvilis",
+      "zh": "布干维尔省",
+      "ccp": "𑄝𑄯𑄉𑄬𑄭𑄚𑄴𑄞𑄨𑄣𑄬",
+      "no": "Bougainville"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_region"
   },
   "SAN": {
     "name": "Sandaun [West Sepik]",
-    "code": null,
+    "code": "SAN",
     "unofficial_names": [
       "West Sepik"
     ],
@@ -981,11 +1112,12 @@
       "ccp": "𑄥𑄚𑄴𑄓𑄅𑄪𑄚𑄴",
       "no": "Sandaun provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SHM": {
     "name": "Southern Highlands",
-    "code": null,
+    "code": "SHM",
     "unofficial_names": [
       "Highlands South"
     ],
@@ -1042,11 +1174,12 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
       "no": "Sør høylands provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WBK": {
     "name": "West New Britain",
-    "code": null,
+    "code": "WBK",
     "unofficial_names": [
       "New Britain West"
     ],
@@ -1105,11 +1238,12 @@
       "mk": "Западна Нова Британија",
       "no": "Vest Nye Britiske provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WHM": {
     "name": "Western Highlands",
-    "code": null,
+    "code": "WHM",
     "unofficial_names": [
       "Highlands West"
     ],
@@ -1167,11 +1301,12 @@
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
       "no": "Vest Høyland provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WPD": {
     "name": "Western",
-    "code": null,
+    "code": "WPD",
     "unofficial_names": [
       "Papua West",
       "Western"
@@ -1213,142 +1348,8 @@
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "fi": "Western Province"
     },
-    "comments": null
-  },
-  "NSB": {
-    "name": "Bougainville",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "مقاطعة بوغانفيل ذات الحكم الذاتي",
-      "bg": "Автономен регион Бугенвил",
-      "bn": "বুগাইনভিলি",
-      "ca": "Bougainville",
-      "cs": "Autonomní území Bougainville",
-      "da": "Bougainville",
-      "de": "Bougainville",
-      "el": "Μπουγκαϊνβίλε",
-      "en": "Bougainville",
-      "es": "Bougainville",
-      "eu": "Bougainvilleko Eskualde Autonomoa",
-      "fa": "استان خودمختار بوگاینویل",
-      "fi": "Bougainville",
-      "fr": "Bougainville",
-      "gl": "Rexión Autónoma de Bougainville",
-      "gu": "બૌગૈનવિલ",
-      "hi": "बोगेनविल",
-      "id": "Daerah Otonom Bougainville",
-      "it": "regione autonoma di Bougainville",
-      "ja": "ブーゲンビル州",
-      "ka": "ბუგენვილის ავტონომიური რეგიონი",
-      "kn": "ಬೌಗೆನ್ವಿಲ್ಲೆ",
-      "ko": "부건빌 주",
-      "mr": "बोगनविले",
-      "ms": "Bougainville",
-      "nb": "Bougainville",
-      "nl": "Bougainville",
-      "pl": "Bougainville",
-      "pt": "Bougainville",
-      "ru": "Автономный регион Бугенвиль",
-      "si": "බෝගෙන්විලි",
-      "sv": "Bougainville",
-      "ta": "போகஇன்வில்லே",
-      "te": "బోగన్‌విల్లే",
-      "th": "บูแก็งวีล",
-      "tr": "Bougainville",
-      "uk": "Автономний регіон Бугенвіль",
-      "ur": "بووجاینویلی",
-      "vi": "Khu tự trị Bougainville",
-      "lv": "Bugenvile",
-      "ceb": "Bougainville (lalawigan)",
-      "lt": "Bugenvilis",
-      "zh": "布干维尔省",
-      "ccp": "𑄝𑄯𑄉𑄬𑄭𑄚𑄴𑄞𑄨𑄣𑄬",
-      "no": "Bougainville"
-    },
-    "comments": null
-  },
-  "HLA": {
-    "name": "Hela",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Hela Province",
-      "en": "Hela",
-      "es": "Hela",
-      "eu": "Hela",
-      "fa": "استان هلا",
-      "fr": "Hela",
-      "it": "Provincia di Hela",
-      "ja": "ヘラ州",
-      "ka": "ჰელა",
-      "ko": "헬라 주",
-      "nl": "Hela Province",
-      "ru": "Хела",
-      "uk": "Гела",
-      "ur": "ہیلا صوبہ",
-      "ceb": "Hela (lalawigan)",
-      "zh": "赫拉省",
-      "pl": "Hela",
-      "ccp": "𑄦𑄬𑄣",
-      "fi": "Hela (maakunta)",
-      "pt": "Hela",
-      "et": "Hela provints"
-    },
-    "comments": null
-  },
-  "JWK": {
-    "name": "Jiwaka",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Jiwaka Province",
-      "en": "Jiwaka",
-      "es": "Jiwaka",
-      "eu": "Jiwaka (probintzia)",
-      "fa": "استان جیواکا",
-      "fr": "Jiwaka Province",
-      "it": "Provincia di Jiwaka",
-      "ja": "ジワカ州",
-      "ka": "ჯივაკა",
-      "ko": "지와카 주",
-      "nl": "Jiwaka Province",
-      "ru": "Дживака",
-      "uk": "Дживака",
-      "ur": "جیواکا صوبہ",
-      "ceb": "Jiwaka",
-      "zh": "吉瓦卡省",
-      "pl": "Jiwaka",
-      "ccp": "𑄎𑄨𑄤𑄇",
-      "fi": "Jiwaka",
-      "pt": "Jiwaka",
-      "et": "Jiwaka provints"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

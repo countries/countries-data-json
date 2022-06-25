@@ -1,7 +1,7 @@
 {
   "MAP": {
     "name": "Malampa",
-    "code": null,
+    "code": "MAP",
     "unofficial_names": [
       "Ambrim",
       "Ambrym",
@@ -65,11 +65,12 @@
       "mk": "Малампа",
       "no": "Malampa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAM": {
     "name": "Pénama",
-    "code": null,
+    "code": "PAM",
     "unofficial_names": [
       "Ambae-Maewo",
       "Aoba-Maewo",
@@ -131,11 +132,12 @@
       "mk": "Пенама",
       "no": "Penama"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SAM": {
     "name": "Sanma",
-    "code": null,
+    "code": "SAM",
     "unofficial_names": [
       "Santo-Malo"
     ],
@@ -195,11 +197,12 @@
       "mk": "Санма",
       "no": "Sanma"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SEE": {
     "name": "Shéfa",
-    "code": null,
+    "code": "SEE",
     "unofficial_names": [
       "Sandwich Island",
       "Vaté",
@@ -259,11 +262,12 @@
       "uk": "Провінція Шефа",
       "no": "Shefa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TAE": {
     "name": "Taféa",
-    "code": null,
+    "code": "TAE",
     "unofficial_names": "Taféa",
     "geo": {
       "latitude": -18.7237827,
@@ -318,11 +322,12 @@
       "ccp": "𑄑𑄜𑄨𑄠",
       "no": "Tafea"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TOB": {
     "name": "Torba",
-    "code": null,
+    "code": "TOB",
     "unofficial_names": [
       "Banks-Torres"
     ],
@@ -380,7 +385,8 @@
       "uk": "Провінція Торба",
       "no": "Torba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

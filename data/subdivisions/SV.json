@@ -1,7 +1,7 @@
 {
   "AH": {
     "name": "Ahuachapán",
-    "code": null,
+    "code": "AH",
     "unofficial_names": "Ahuachapán",
     "geo": {
       "latitude": 13.9259486,
@@ -59,11 +59,12 @@
       "uk": "Регіон Ауачапан",
       "no": "Ahuachapán"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "CA": {
     "name": "Cabañas",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "Cabañas",
     "geo": {
       "latitude": 13.8648288,
@@ -119,11 +120,12 @@
       "uk": "Регіон Кабаньяс",
       "no": "Cabañas"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "CH": {
     "name": "Chalatenango",
-    "code": null,
+    "code": "CH",
     "unofficial_names": "Chalatenango",
     "geo": {
       "latitude": 14.033333,
@@ -163,11 +165,12 @@
       "eu": "Chalatenango departamendua",
       "uk": "Чалатенанго"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "CU": {
     "name": "Cuscatlán",
-    "code": null,
+    "code": "CU",
     "unofficial_names": "Cuscatlán",
     "geo": {
       "latitude": 13.8661957,
@@ -223,11 +226,12 @@
       "uk": "Регіон Кускатлан",
       "no": "Cuscatlan"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "LI": {
     "name": "La Libertad",
-    "code": null,
+    "code": "LI",
     "unofficial_names": "La Libertad",
     "geo": {
       "latitude": 13.6817661,
@@ -286,11 +290,12 @@
       "uk": "Муніципалітет Ла-Лібертад",
       "no": "La Libertad department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "MO": {
     "name": "Morazán",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Morazán",
     "geo": {
       "latitude": 13.7682,
@@ -346,11 +351,12 @@
       "eu": "Morazán departamendua",
       "no": "Morazan department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "PA": {
     "name": "La Paz",
-    "code": null,
+    "code": "PA",
     "unofficial_names": "La Paz",
     "geo": {
       "latitude": 13.495364,
@@ -407,11 +413,12 @@
       "uk": "Департамент Ла-Пас",
       "no": "La Paz department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "SA": {
     "name": "Santa Ana",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Santa Ana",
     "geo": {
       "latitude": 13.9778279,
@@ -467,11 +474,12 @@
       "uk": "Регіон Санта-Ана",
       "no": "Santa Ana department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "SM": {
     "name": "San Miguel",
-    "code": null,
+    "code": "SM",
     "unofficial_names": "San Miguel",
     "geo": {
       "latitude": 13.4451041,
@@ -528,11 +536,12 @@
       "uk": "Регіон Сан-Мігель",
       "no": "San Miguel department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "SO": {
     "name": "Sonsonate",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Sonsonate",
     "geo": {
       "latitude": 13.682358,
@@ -589,11 +598,12 @@
       "cs": "Sonsonate²",
       "no": "Sonsonate department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "SS": {
     "name": "San Salvador",
-    "code": null,
+    "code": "SS",
     "unofficial_names": "San Salvador",
     "geo": {
       "latitude": 13.6929403,
@@ -652,11 +662,12 @@
       "eu": "San Salvador departamendua",
       "no": "San Salvador"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "SV": {
     "name": "San Vicente",
-    "code": null,
+    "code": "SV",
     "unofficial_names": "San Vicente",
     "geo": {
       "latitude": 13.5868561,
@@ -712,11 +723,12 @@
       "uk": "Регіон Сан-Вісенте",
       "no": "San Vincente department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "UN": {
     "name": "La Unión",
-    "code": null,
+    "code": "UN",
     "unofficial_names": "La Unión",
     "geo": {
       "latitude": 13.336944,
@@ -754,11 +766,12 @@
       "eu": "La Unión departamendua",
       "uk": "Ла-Уніон"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "US": {
     "name": "Usulután",
-    "code": null,
+    "code": "US",
     "unofficial_names": "Usulután",
     "geo": {
       "latitude": 13.35,
@@ -814,7 +827,8 @@
       "uk": "Регіон Усулутан",
       "no": "Usulutan department"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   }
 }
 

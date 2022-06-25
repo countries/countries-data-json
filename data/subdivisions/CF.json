@@ -1,7 +1,7 @@
 {
   "AC": {
     "name": "Ouham",
-    "code": null,
+    "code": "AC",
     "unofficial_names": "Ouham",
     "geo": {
       "latitude": 7.090910999999999,
@@ -57,11 +57,12 @@
       "ccp": "𑄃𑄧𑄅𑄪𑄦𑄟𑄴",
       "no": "Ouham"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "BB": {
     "name": "Bamingui-Bangoran",
-    "code": null,
+    "code": "BB",
     "unofficial_names": "Bamingui-Bangoran",
     "geo": {
       "latitude": 8.2733455,
@@ -116,11 +117,12 @@
       "ccp": "𑄝𑄧𑄟𑄨𑄁𑄉𑄭𑄪-𑄝𑄁𑄉𑄮𑄢𑄚𑄴",
       "no": "Bamingui-Bangoran"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "BGF": {
     "name": "Bangui",
-    "code": null,
+    "code": "BGF",
     "unofficial_names": "Bangui",
     "geo": {
       "latitude": 4.366667,
@@ -214,11 +216,12 @@
       "no": "Bangui",
       "yo_BJ": "Bangui"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "BK": {
     "name": "Basse-Kotto",
-    "code": null,
+    "code": "BK",
     "unofficial_names": "Basse-Kotto",
     "geo": {
       "latitude": 4.8719319,
@@ -273,11 +276,12 @@
       "ccp": "𑄝𑄥𑄬-𑄇𑄧𑄑𑄳𑄦𑄧",
       "no": "Basse-Kotto"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "HK": {
     "name": "Haute-Kotto",
-    "code": null,
+    "code": "HK",
     "unofficial_names": "Haute-Kotto",
     "geo": {
       "latitude": 7.7964379,
@@ -333,11 +337,12 @@
       "ccp": "𑄦𑄅𑄪𑄑𑄬-𑄇𑄧𑄑𑄳𑄦𑄧",
       "no": "Haute-Kotto"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "HM": {
     "name": "Haut-Mbomou",
-    "code": null,
+    "code": "HM",
     "unofficial_names": [
       "Haut-Mʿbomou"
     ],
@@ -394,11 +399,12 @@
       "ccp": "𑄦𑄅𑄪𑄖𑄴-𑄝𑄧𑄟𑄯",
       "no": "Haut-Mbomou"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "HS": {
     "name": "Mambéré-Kadéï",
-    "code": null,
+    "code": "HS",
     "unofficial_names": [
       "Haut-Sangha"
     ],
@@ -456,11 +462,12 @@
       "ccp": "𑄟𑄟𑄴𑄝𑄬𑄢𑄬-𑄇𑄓𑄬𑄭",
       "no": "Mambéré-Kadéï"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "KB": {
     "name": "Nana-Grébizi",
-    "code": null,
+    "code": "KB",
     "unofficial_names": [
       "Gribingui",
       "Nana-Grébisi"
@@ -517,11 +524,12 @@
       "ccp": "𑄟𑄧𑄚-𑄉𑄳𑄢𑄬𑄝𑄨𑄎𑄨",
       "no": "Nana-Grébizi"
     },
-    "comments": null
+    "comments": null,
+    "type": "economic_prefecture"
   },
   "KG": {
     "name": "Kémo",
-    "code": null,
+    "code": "KG",
     "unofficial_names": [
       "Kémo Gribingui"
     ],
@@ -578,11 +586,12 @@
       "ccp": "𑄇𑄬𑄟𑄮",
       "no": "Kémo"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "LB": {
     "name": "Lobaye",
-    "code": null,
+    "code": "LB",
     "unofficial_names": "Lobaye",
     "geo": {
       "latitude": 4.3525981,
@@ -638,11 +647,12 @@
       "ccp": "𑄣𑄧𑄝𑄠𑄬",
       "no": "Lobaye"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "MB": {
     "name": "Mbomou",
-    "code": null,
+    "code": "MB",
     "unofficial_names": [
       "Mʿbomou"
     ],
@@ -699,11 +709,12 @@
       "ccp": "𑄝𑄧𑄟𑄯",
       "no": "Mbomou"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "MP": {
     "name": "Ombella-Mpoko",
-    "code": null,
+    "code": "MP",
     "unofficial_names": [
       "Ombella-Mʿpoko",
       "Ombelle Mpoko"
@@ -761,11 +772,12 @@
       "ccp": "𑄃𑄧𑄟𑄴𑄝𑄬𑄣-𑄃𑄬𑄟‘𑄛𑄧𑄇𑄮",
       "no": "Ombella-M’Poko"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "NM": {
     "name": "Nana-Mambéré",
-    "code": null,
+    "code": "NM",
     "unofficial_names": "Nana-Mambéré",
     "geo": {
       "latitude": 5.6932135,
@@ -821,11 +833,12 @@
       "ccp": "𑄚𑄚-𑄟𑄟𑄴𑄝𑄬𑄢𑄬",
       "no": "Nana-Mambéré"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "OP": {
     "name": "Ouham-Pendé",
-    "code": null,
+    "code": "OP",
     "unofficial_names": "Ouham-Pendé",
     "geo": {
       "latitude": 6.4850984,
@@ -879,11 +892,12 @@
       "ccp": "𑄃𑄧𑄅𑄮𑄦𑄟𑄴-𑄛𑄬𑄚𑄴𑄓𑄬",
       "no": "Ouham-Pendé"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "SE": {
     "name": "Sangha-Mbaéré",
-    "code": null,
+    "code": "SE",
     "unofficial_names": [
       "Mbaeré",
       "Sangha"
@@ -941,11 +955,12 @@
       "ccp": "𑄥𑄁𑄦-𑄝𑄃𑄨𑄢𑄬",
       "no": "Sangha-Mbaéré"
     },
-    "comments": null
+    "comments": null,
+    "type": "economic_prefecture"
   },
   "UK": {
     "name": "Ouaka",
-    "code": null,
+    "code": "UK",
     "unofficial_names": "Ouaka",
     "geo": {
       "latitude": 6.3168216,
@@ -1001,11 +1016,12 @@
       "ka": "უაკა",
       "no": "Ouaka"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "VK": {
     "name": "Vakaga",
-    "code": null,
+    "code": "VK",
     "unofficial_names": "Vakaga",
     "geo": {
       "latitude": 9.5113296,
@@ -1060,7 +1076,8 @@
       "ccp": "𑄞𑄇𑄎",
       "no": "Vakaga"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   }
 }
 

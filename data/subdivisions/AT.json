@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Burgenland",
-    "code": null,
+    "code": "1",
     "unofficial_names": "Burgenland",
     "geo": {
       "latitude": 47.15371649999999,
@@ -78,11 +78,12 @@
       "mk": "Градиште",
       "no": "Burgenland"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "2": {
     "name": "Kärnten",
-    "code": null,
+    "code": "2",
     "unofficial_names": [
       "Carinthia",
       "Koroška"
@@ -163,11 +164,12 @@
       "mk": "Корушка",
       "no": "Kärnten"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "3": {
     "name": "Niederösterreich",
-    "code": null,
+    "code": "3",
     "unofficial_names": [
       "Lower Austria"
     ],
@@ -248,11 +250,12 @@
       "mk": "Долна Австрија",
       "no": "Niederösterreich"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "4": {
     "name": "Oberösterreich",
-    "code": null,
+    "code": "4",
     "unofficial_names": [
       "Upper Austria"
     ],
@@ -331,11 +334,12 @@
       "mk": "Горна Австрија",
       "no": "Oberösterreich"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "5": {
     "name": "Salzburg",
-    "code": null,
+    "code": "5",
     "unofficial_names": [
       "Salzbourg"
     ],
@@ -414,11 +418,12 @@
       "mk": "Салцбург",
       "no": "Salzburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "6": {
     "name": "Steiermark",
-    "code": null,
+    "code": "6",
     "unofficial_names": [
       "Styria"
     ],
@@ -499,11 +504,12 @@
       "mk": "Штаерска",
       "no": "Steiermark"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "7": {
     "name": "Tirol",
-    "code": null,
+    "code": "7",
     "unofficial_names": [
       "Tyrol"
     ],
@@ -582,11 +588,12 @@
       "mk": "Тирол",
       "no": "Tirol"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "8": {
     "name": "Vorarlberg",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Vorarlberg",
     "geo": {
       "latitude": 47.2497427,
@@ -665,11 +672,12 @@
       "mk": "Предарлска",
       "no": "Vorarlberg"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "9": {
     "name": "Wien",
-    "code": null,
+    "code": "9",
     "unofficial_names": [
       "Vienna"
     ],
@@ -769,7 +777,8 @@
       "no": "Wien",
       "yo_BJ": "Fienna"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

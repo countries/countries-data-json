@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Charlotte",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Charlotte",
     "geo": {
       "latitude": 13.2175451,
@@ -53,11 +53,12 @@
       "mk": "Шарлот",
       "no": "Charlotte prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "02": {
     "name": "Saint Andrew",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Saint Andrew",
     "geo": {
       "latitude": 13.2008061,
@@ -110,11 +111,12 @@
       "mk": "Сент Ендру",
       "no": "Saint Andrew prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "03": {
     "name": "Saint David",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Saint David",
     "geo": {
       "latitude": 13.3154926,
@@ -166,11 +168,12 @@
       "mk": "Сент Дејвид",
       "no": "Saint David prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "04": {
     "name": "Saint George",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Saint George",
     "geo": {
       "latitude": 13.1698266,
@@ -221,11 +224,12 @@
       "mk": "Сент Џорџ",
       "no": "Saint George prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "05": {
     "name": "Saint Patrick",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Saint Patrick",
     "geo": {
       "latitude": 13.2379389,
@@ -277,11 +281,12 @@
       "mk": "Сент Патрик",
       "no": "Saint Patrick prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "06": {
     "name": "Grenadines",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Grenadines",
     "geo": {
       "latitude": 12.6666667,
@@ -316,7 +321,8 @@
       "uk": "Ґренадіни",
       "no": "Grenadines prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Annobón",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Annobón",
     "geo": {
       "latitude": -1.4221087,
@@ -59,11 +59,12 @@
       "uk": "Провінція Анобон",
       "no": "Annobón"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BN": {
     "name": "Bioko Norte",
-    "code": null,
+    "code": "BN",
     "unofficial_names": "Bioko Norte",
     "geo": {
       "latitude": 3.6595072,
@@ -120,11 +121,12 @@
       "ccp": "𑄝𑄭𑄇𑄮 𑄚𑄧𑄢𑄴𑄑𑄬",
       "no": "Bioko Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BS": {
     "name": "Bioko Sur",
-    "code": null,
+    "code": "BS",
     "unofficial_names": "Bioko Sur",
     "geo": {
       "latitude": 3.4209785,
@@ -181,11 +183,12 @@
       "ccp": "𑄝𑄭𑄇𑄮 𑄥𑄢𑄴",
       "no": "Bioko Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "C": {
     "name": "Región Continental",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Región Continental",
     "geo": {
       "latitude": 51.2798759,
@@ -227,11 +230,12 @@
       "he": "ריו מוני",
       "no": "Río Muni"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CS": {
     "name": "Centro Sur",
-    "code": null,
+    "code": "CS",
     "unofficial_names": "Centro Sur",
     "geo": {
       "latitude": 1.3436084,
@@ -288,11 +292,20 @@
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄮 𑄥𑄢𑄴",
       "no": "Centro Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "DJ": {
+    "translations": {
+      "en": "Djibloho"
+    },
+    "name": "Djibloho",
+    "code": "DJ",
+    "type": "province"
   },
   "I": {
     "name": "Región Insular",
-    "code": null,
+    "code": "I",
     "unofficial_names": "Región Insular",
     "geo": {
       "latitude": 49.662167,
@@ -317,11 +330,12 @@
       "ka": "კუნძულოვანი რეგიონი",
       "ko": "적도 기니 도서 지방"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KN": {
     "name": "Kie-Ntem",
-    "code": null,
+    "code": "KN",
     "unofficial_names": "Kie-Ntem",
     "geo": {
       "latitude": 2.028093,
@@ -377,11 +391,12 @@
       "ccp": "𑄇𑄭-𑄑𑄬𑄟𑄴",
       "no": "Kié-Ntem"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LI": {
     "name": "Litoral",
-    "code": null,
+    "code": "LI",
     "unofficial_names": "Litoral",
     "geo": {
       "latitude": 1.5750244,
@@ -437,11 +452,12 @@
       "ccp": "𑄣𑄨𑄑𑄮𑄢𑄣𑄴",
       "no": "Litoral"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WN": {
     "name": "Wele-Nzás",
-    "code": null,
+    "code": "WN",
     "unofficial_names": "Wele-Nzás",
     "geo": {
       "latitude": 1.4166162,
@@ -496,13 +512,8 @@
       "ccp": "𑄤𑄬𑄠𑄬 𑄚𑄌𑄴",
       "no": "Wele-Nzás"
     },
-    "comments": null
-  },
-  "DJ": {
-    "translations": {
-      "en": "Djibloho"
-    },
-    "name": "Djibloho"
+    "comments": null,
+    "type": "province"
   }
 }
 

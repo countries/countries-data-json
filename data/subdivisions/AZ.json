@@ -1,24 +1,7 @@
 {
-  "AB": {
-    "name": "Äli Bayramli",
-    "code": null,
-    "unofficial_names": "Äli Bayramli",
-    "geo": {
-      "latitude": 39.931944,
-      "longitude": 48.920278,
-      "min_latitude": 39.8688393,
-      "min_longitude": 48.867445,
-      "max_latitude": 39.983434,
-      "max_longitude": 48.9807415
-    },
-    "translations": {
-      "en": "Äli Bayramli"
-    },
-    "comments": null
-  },
   "ABS": {
     "name": "Abseron",
-    "code": null,
+    "code": "ABS",
     "unofficial_names": "Abseron",
     "geo": {
       "latitude": 40.3629693,
@@ -79,11 +62,12 @@
       "mk": "Апшерон",
       "no": "Abşeron"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AGA": {
     "name": "Agstafa",
-    "code": null,
+    "code": "AGA",
     "unofficial_names": "Agstafa",
     "geo": {
       "latitude": 41.118889,
@@ -143,11 +127,12 @@
       "mk": "Агстафа",
       "no": "Ağstafa"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AGC": {
     "name": "Agcabädi",
-    "code": null,
+    "code": "AGC",
     "unofficial_names": "Agcabädi",
     "geo": {
       "latitude": 40.0257239,
@@ -207,11 +192,12 @@
       "mk": "Агџабеди",
       "no": "Aghjabadi distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AGM": {
     "name": "Agdam",
-    "code": null,
+    "code": "AGM",
     "unofficial_names": "Agdam",
     "geo": {
       "latitude": 39.5554533,
@@ -272,11 +258,12 @@
       "mk": "Агдам",
       "no": "Ağdam"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AGS": {
     "name": "Agdas",
-    "code": null,
+    "code": "AGS",
     "unofficial_names": "Agdas",
     "geo": {
       "latitude": 40.6335427,
@@ -336,11 +323,12 @@
       "mk": "Агдаш",
       "no": "Ağdaş"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AGU": {
     "name": "Agsu",
-    "code": null,
+    "code": "AGU",
     "unofficial_names": "Agsu",
     "geo": {
       "latitude": 40.569167,
@@ -400,11 +388,12 @@
       "mk": "Агсу",
       "no": "Ağsu"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "AST": {
     "name": "Astara",
-    "code": null,
+    "code": "AST",
     "unofficial_names": "Astara",
     "geo": {
       "latitude": 38.45611100000001,
@@ -464,11 +453,12 @@
       "mk": "Астара",
       "no": "Astara"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "BA": {
     "name": "Baki",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Baki",
     "geo": {
       "latitude": 40.40926169999999,
@@ -562,11 +552,12 @@
       "no": "Baku",
       "yo_BJ": "Baku"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "BAB": {
     "name": "Babäk",
-    "code": null,
+    "code": "BAB",
     "unofficial_names": "Babäk",
     "geo": {
       "latitude": 39.1507613,
@@ -623,11 +614,12 @@
       "mk": "Бабек",
       "no": "Babək"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "BAL": {
     "name": "Balakän",
-    "code": null,
+    "code": "BAL",
     "unofficial_names": "Balakän",
     "geo": {
       "latitude": 41.725833,
@@ -687,11 +679,12 @@
       "mk": "Балакен",
       "no": "Balakən"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "BAR": {
     "name": "Bärdä",
-    "code": null,
+    "code": "BAR",
     "unofficial_names": "Bärdä",
     "geo": {
       "latitude": 40.3667,
@@ -750,11 +743,12 @@
       "mk": "Барда",
       "no": "Bərdə"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "BEY": {
     "name": "Beyläqan",
-    "code": null,
+    "code": "BEY",
     "unofficial_names": "Beyläqan",
     "geo": {
       "latitude": 39.766667,
@@ -813,11 +807,12 @@
       "mk": "Бејлеган",
       "no": "Beyləqan"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "BIL": {
     "name": "Biläsuvar",
-    "code": null,
+    "code": "BIL",
     "unofficial_names": "Biläsuvar",
     "geo": {
       "latitude": 39.45,
@@ -874,11 +869,12 @@
       "mk": "Биљасувар",
       "no": "Biləsuvar"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "CAB": {
     "name": "Cäbrayil",
-    "code": null,
+    "code": "CAB",
     "unofficial_names": "Cäbrayil",
     "geo": {
       "latitude": 39.2645544,
@@ -936,11 +932,12 @@
       "mk": "Џебраил",
       "no": "Cəbrayıl"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "CAL": {
     "name": "Cälilabab",
-    "code": null,
+    "code": "CAL",
     "unofficial_names": "Cälilabab",
     "geo": {
       "latitude": 39.218442,
@@ -999,11 +996,12 @@
       "mk": "Џелилабад",
       "no": "Cəlilabab"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "CUL": {
     "name": "Culfa",
-    "code": null,
+    "code": "CUL",
     "unofficial_names": "Culfa",
     "geo": {
       "latitude": 38.955833,
@@ -1061,11 +1059,12 @@
       "mk": "Џулфа",
       "no": "Culfa"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "DAS": {
     "name": "Daskäsän",
-    "code": null,
+    "code": "DAS",
     "unofficial_names": "Daskäsän",
     "geo": {
       "latitude": 40.5202257,
@@ -1125,28 +1124,12 @@
       "mk": "Дашкесен",
       "no": "Daşkəsən"
     },
-    "comments": null
-  },
-  "DAV": {
-    "name": "Däväçi",
-    "code": null,
-    "unofficial_names": "Däväçi",
-    "geo": {
-      "latitude": 41.2872222,
-      "longitude": 49.0747222,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Däväçi"
-    },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "FUZ": {
     "name": "Füzuli",
-    "code": null,
+    "code": "FUZ",
     "unofficial_names": "Füzuli",
     "geo": {
       "latitude": 39.6003,
@@ -1205,11 +1188,12 @@
       "mk": "Физули",
       "no": "Füzuli"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "GA": {
     "name": "Gäncä",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Gäncä",
     "geo": {
       "latitude": 40.682778,
@@ -1282,11 +1266,12 @@
       "uz": "Ganja",
       "no": "Gandsja"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "GAD": {
     "name": "Gädäbäy",
-    "code": null,
+    "code": "GAD",
     "unofficial_names": "Gädäbäy",
     "geo": {
       "latitude": 40.5087904,
@@ -1346,11 +1331,12 @@
       "mk": "Гедебеј",
       "no": "Gədəbəy"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "GOR": {
     "name": "Goranboy",
-    "code": null,
+    "code": "GOR",
     "unofficial_names": "Goranboy",
     "geo": {
       "latitude": 40.610278,
@@ -1409,11 +1395,12 @@
       "mk": "Горанбој",
       "no": "Goranboy"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "GOY": {
     "name": "Göyçay",
-    "code": null,
+    "code": "GOY",
     "unofficial_names": "Göyçay",
     "geo": {
       "latitude": 40.65309999999999,
@@ -1470,11 +1457,59 @@
       "mk": "Ѓојчај",
       "no": "Göyçay"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
+  },
+  "GYG": {
+    "name": "Göygöl",
+    "code": "GYG",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "az": "Göygöl",
+      "cs": "Göygöl",
+      "de": "Göygöl",
+      "en": "Goygol",
+      "es": "Göygöl",
+      "fa": "شهرستان گوی‌گل",
+      "fi": "Göygölin piirikunta",
+      "fr": "Göygöl",
+      "id": "Khanlar",
+      "it": "distretto di Göygöl",
+      "ja": "ギョイギョル県",
+      "ko": "괴이괼 구",
+      "ms": "Khanlar",
+      "nb": "Göygöl",
+      "nl": "Göygöl",
+      "pl": "Rejon Göygöl",
+      "pt": "Goygol",
+      "ru": "Гёйгёльский район",
+      "sr": "Гогољски рејон",
+      "sv": "Xanlar Rayonu",
+      "tr": "Göygöl Rayonu",
+      "vi": "Goygol",
+      "ceb": "Goygol Rayon",
+      "sr_Latn": "Gogoljski rejon",
+      "zh": "漢拉爾區",
+      "sq": "Goygol",
+      "ccp": "𑄉𑄧𑄠𑄴𑄉𑄮𑄣𑄴",
+      "hy": "Գոյգյոլի շրջան",
+      "mk": "Ѓојѓол",
+      "no": "Göygöl"
+    },
+    "comments": null,
+    "type": "rayon"
   },
   "HAC": {
     "name": "Haciqabul",
-    "code": null,
+    "code": "HAC",
     "unofficial_names": "Haciqabul",
     "geo": {
       "latitude": 40.043333,
@@ -1533,11 +1568,12 @@
       "mk": "Аџикабул",
       "no": "Hacıqabul"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "IMI": {
     "name": "Imisli",
-    "code": null,
+    "code": "IMI",
     "unofficial_names": "Imisli",
     "geo": {
       "latitude": 39.8692,
@@ -1594,11 +1630,12 @@
       "mk": "Имишли (округ)",
       "no": "İmişli (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "ISM": {
     "name": "Ismayilli",
-    "code": null,
+    "code": "ISM",
     "unofficial_names": "Ismayilli",
     "geo": {
       "latitude": 40.79,
@@ -1655,11 +1692,12 @@
       "mk": "Исмаили (округ)",
       "no": "İsmayıllı (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "KAL": {
     "name": "Kälbäcär",
-    "code": null,
+    "code": "KAL",
     "unofficial_names": "Kälbäcär",
     "geo": {
       "latitude": 40.1315615,
@@ -1718,11 +1756,73 @@
       "mk": "Келбеџер",
       "no": "Kəlbəcər"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
+  },
+  "KAN": {
+    "name": "Kəngərli",
+    "code": "KAN",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "كنجة",
+      "az": "Kəngərli",
+      "bn": "কানগারলি জেলা",
+      "da": "Kangarli District",
+      "de": "Kəngərli",
+      "el": "Κανγκαρλί",
+      "en": "Kangarli",
+      "es": "Kangarli",
+      "fa": "شهرستان کنگرلی",
+      "fi": "Kəngərlin piirikunta",
+      "fr": "Kangarli",
+      "gu": "કાન્ગરલી જિલ્લો",
+      "hi": "कंगारली जिला",
+      "hy": "Քենգերլիի շրջան",
+      "id": "Kangarli",
+      "it": "Distretto di Kəngərli",
+      "ja": "キャンギャルリ県",
+      "kn": "ಕಾಂಗಾರ್ಲಿ ಜಿಲ್ಲೆ",
+      "ko": "켄겔리 구",
+      "mr": "कांगारली जिल्हा",
+      "ms": "Kangarli",
+      "nb": "Kəngərli",
+      "nl": "Kəngərli",
+      "pl": "Rejon Kəngərli",
+      "pt": "Kangarli",
+      "ru": "Кенгерлинский район",
+      "si": "කන්ගාර්ලි දිස්ත්‍රික්කය",
+      "sr": "Кенгерлински рејон",
+      "sv": "Kangarli Rayon",
+      "ta": "காங்கரலி மாவட்டம்",
+      "te": "కంగార్లి జిల్లా",
+      "th": "จังหวัดมานัส",
+      "tr": "Kengerli Rayonu",
+      "uk": "Кенгерлінський район",
+      "ur": "کانجارلی ضلع",
+      "vi": "Kangarli",
+      "lv": "Kengerli rajons",
+      "ceb": "Kangarli Rayon",
+      "sr_Latn": "Kengerlinski rejon",
+      "lt": "Kangarlio apskritis",
+      "zh": "坎加利區",
+      "ccp": "𑄇𑄋𑄴𑄉𑄢𑄴𑄣𑄨",
+      "mk": "Кенгерли",
+      "no": "Kəngərli"
+    },
+    "comments": null,
+    "type": "rayon"
   },
   "KUR": {
     "name": "Kürdämir",
-    "code": null,
+    "code": "KUR",
     "unofficial_names": "Kürdämir",
     "geo": {
       "latitude": 40.34,
@@ -1778,11 +1878,12 @@
       "mk": "Ќурдемир",
       "no": "Kürdəmir"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "LA": {
     "name": "Länkäran City",
-    "code": null,
+    "code": "LA",
     "unofficial_names": "Länkäran City",
     "geo": {
       "latitude": 38.753611,
@@ -1839,11 +1940,12 @@
       "mk": "Ленкеран",
       "no": "Lənkəran"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "LAC": {
     "name": "Laçin",
-    "code": null,
+    "code": "LAC",
     "unofficial_names": "Laçin",
     "geo": {
       "latitude": 39.633333,
@@ -1886,11 +1988,12 @@
       "mk": "Лачин",
       "no": "Laçın"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "LAN": {
     "name": "Länkäran",
-    "code": null,
+    "code": "LAN",
     "unofficial_names": "Länkäran",
     "geo": {
       "latitude": 38.753611,
@@ -1957,11 +2060,12 @@
       "uz": "Lenkoran",
       "no": "Lənkəran²"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "LER": {
     "name": "Lerik",
-    "code": null,
+    "code": "LER",
     "unofficial_names": "Lerik",
     "geo": {
       "latitude": 38.7736192,
@@ -2017,11 +2121,12 @@
       "mk": "Лерик",
       "no": "Lerik"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "MAS": {
     "name": "Masalli",
-    "code": null,
+    "code": "MAS",
     "unofficial_names": "Masalli",
     "geo": {
       "latitude": 39.033333,
@@ -2077,11 +2182,12 @@
       "mk": "Масали",
       "no": "Masallı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "MI": {
     "name": "Mingäçevir",
-    "code": null,
+    "code": "MI",
     "unofficial_names": "Mingäçevir",
     "geo": {
       "latitude": 40.7702563,
@@ -2146,11 +2252,12 @@
       "be": "Мінгечаур",
       "no": "Mingachevir"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "NA": {
     "name": "Naftalan",
-    "code": null,
+    "code": "NA",
     "unofficial_names": "Naftalan",
     "geo": {
       "latitude": 40.506667,
@@ -2167,11 +2274,12 @@
       "ceb": "Naftalan",
       "ccp": "𑄚𑄛𑄴𑄑𑄣𑄧𑄚𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "NEF": {
     "name": "Neftçala",
-    "code": null,
+    "code": "NEF",
     "unofficial_names": "Neftçala",
     "geo": {
       "latitude": 39.358611,
@@ -2227,11 +2335,89 @@
       "mk": "Нефтчала",
       "no": "Neftçala"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
+  },
+  "NV": {
+    "name": "Naxçıvan",
+    "code": "NV",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "af": "Nachitsjewan",
+      "ar": "نخجوان",
+      "az": "Naxçıvan",
+      "be": "Горад Нахічэвань",
+      "bg": "Нахичеван",
+      "bn": "নাখচিভান",
+      "ca": "Naxçıvan",
+      "cs": "Nachičevan",
+      "da": "Nakhitjevan",
+      "de": "Naxçıvan",
+      "el": "Ναχιτσεβάν",
+      "en": "Nakhchivan",
+      "es": "Najicheván",
+      "et": "Naxçıvan",
+      "fa": "نخجوان",
+      "fi": "Nahitševan",
+      "fr": "Nakhitchevan",
+      "gl": "Nakhichevan",
+      "gu": "નખચિવેન",
+      "he": "נחיצ׳יבאן",
+      "hi": "नख़्चीवां",
+      "hu": "Nahicseván",
+      "hy": "Նախիջևան",
+      "id": "Kota Nakhchivan",
+      "it": "Naxçıvan",
+      "ja": "ナヒチェヴァン",
+      "ka": "ნახიჩევანი",
+      "kn": "ನಖ್ಚಿವನ್",
+      "ko": "나히체반",
+      "lt": "Nachičevanė",
+      "lv": "Nahčivana",
+      "ml": "നാഖ്ചിവൻ സിറ്റി",
+      "mr": "नखचीवं",
+      "ms": "Nakhchivan",
+      "nb": "Nachitjevan",
+      "nl": "Nachitsjevan",
+      "pl": "Nachiczewan",
+      "pt": "Naquichevão",
+      "ro": "Naxcivan",
+      "ru": "Нахичевань",
+      "si": "නක්සිවන්",
+      "sk": "Nachičevan",
+      "sr": "Нахчиван",
+      "sv": "Nachitjevan",
+      "ta": "நஃகுசிவான்",
+      "te": "నాక్చివన్",
+      "th": "นาคีชีวัน",
+      "tr": "Nahçıvan",
+      "uk": "Нахічевань",
+      "ur": "ناخچیوان (شہر)",
+      "vi": "Nakhchivan",
+      "cy": "Nakhchivan",
+      "ceb": "Nakhchivan Autonomous Republic",
+      "sr_Latn": "Nahčivan",
+      "zh": "納希切萬",
+      "ccp": "𑄚𑄇𑄴𑄌𑄨𑄞𑄧𑄚𑄴",
+      "ky": "Нахичеван",
+      "eu": "Nakhitxevan²",
+      "uz": "Naxichevan (shahar)",
+      "no": "Nachitjevan"
+    },
+    "comments": null,
+    "type": "municipality"
   },
   "NX": {
     "name": "Naxçivan",
-    "code": null,
+    "code": "NX",
     "unofficial_names": "Naxçivan",
     "geo": {
       "latitude": 39.208889,
@@ -2306,11 +2492,12 @@
       "bs": "Nahičevan",
       "no": "Nakhitsjevan"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_republic"
   },
   "OGU": {
     "name": "Oguz",
-    "code": null,
+    "code": "OGU",
     "unofficial_names": "Oguz",
     "geo": {
       "latitude": 41.070833,
@@ -2368,11 +2555,12 @@
       "mk": "Огуз",
       "no": "Oğuz"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "ORD": {
     "name": "Ordubad",
-    "code": null,
+    "code": "ORD",
     "unofficial_names": "Ordubad",
     "geo": {
       "latitude": 38.9,
@@ -2430,11 +2618,12 @@
       "mk": "Ордубад",
       "no": "Ordubad"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QAB": {
     "name": "Qäbälä",
-    "code": null,
+    "code": "QAB",
     "unofficial_names": "Qäbälä",
     "geo": {
       "latitude": 40.9981633,
@@ -2495,11 +2684,12 @@
       "mk": "Кабала",
       "no": "Qəbələ"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QAX": {
     "name": "Qax",
-    "code": null,
+    "code": "QAX",
     "unofficial_names": "Qax",
     "geo": {
       "latitude": 41.4225,
@@ -2557,11 +2747,12 @@
       "mk": "Ках",
       "no": "Qax"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QAZ": {
     "name": "Qazax",
-    "code": null,
+    "code": "QAZ",
     "unofficial_names": "Qazax",
     "geo": {
       "latitude": 41.093333,
@@ -2622,11 +2813,12 @@
       "mk": "Казах",
       "no": "Qazax"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QBA": {
     "name": "Quba",
-    "code": null,
+    "code": "QBA",
     "unofficial_names": "Quba",
     "geo": {
       "latitude": 41.359722,
@@ -2685,11 +2877,12 @@
       "mk": "Куба",
       "no": "Quba"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QBI": {
     "name": "Qubadli",
-    "code": null,
+    "code": "QBI",
     "unofficial_names": "Qubadli",
     "geo": {
       "latitude": 39.2713996,
@@ -2747,11 +2940,12 @@
       "mk": "Кубадли",
       "no": "Qubadlı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QOB": {
     "name": "Qobustan",
-    "code": null,
+    "code": "QOB",
     "unofficial_names": "Qobustan",
     "geo": {
       "latitude": 40.0877962,
@@ -2809,11 +3003,12 @@
       "mk": "Гобустан",
       "no": "Qobustan"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "QUS": {
     "name": "Qusar",
-    "code": null,
+    "code": "QUS",
     "unofficial_names": "Qusar",
     "geo": {
       "latitude": 41.426389,
@@ -2871,11 +3066,12 @@
       "mk": "Кусар",
       "no": "Qusar"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SA": {
     "name": "Säki City",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Säki City",
     "geo": {
       "latitude": 34.0489281,
@@ -2942,11 +3138,12 @@
       "uz": "Sheki",
       "no": "Şəki"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "SAB": {
     "name": "Sabirabad",
-    "code": null,
+    "code": "SAB",
     "unofficial_names": "Sabirabad",
     "geo": {
       "latitude": 40.012778,
@@ -3006,11 +3203,12 @@
       "bg": "Сабирабад (район)",
       "no": "Sabirabad"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAD": {
     "name": "Sädäräk",
-    "code": null,
+    "code": "SAD",
     "unofficial_names": "Sädäräk",
     "geo": {
       "latitude": 39.7175,
@@ -3067,11 +3265,12 @@
       "mk": "Седерек",
       "no": "Sədərək"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAH": {
     "name": "Sahbuz",
-    "code": null,
+    "code": "SAH",
     "unofficial_names": "Sahbuz",
     "geo": {
       "latitude": 39.407222,
@@ -3126,11 +3325,12 @@
       "mk": "Шахбуз (округ)",
       "no": "Şahbuz (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAK": {
     "name": "Säki",
-    "code": null,
+    "code": "SAK",
     "unofficial_names": "Säki",
     "geo": {
       "latitude": 41.1134662,
@@ -3189,11 +3389,12 @@
       "mk": "Шеки",
       "no": "Şəki²"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAL": {
     "name": "Salyan",
-    "code": null,
+    "code": "SAL",
     "unofficial_names": "Salyan",
     "geo": {
       "latitude": 39.595,
@@ -3249,11 +3450,12 @@
       "mk": "Саљан",
       "no": "Salyan"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAR": {
     "name": "Särur",
-    "code": null,
+    "code": "SAR",
     "unofficial_names": "Särur",
     "geo": {
       "latitude": 39.5687523,
@@ -3296,11 +3498,12 @@
       "mk": "Шерур",
       "no": "Şərur (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SAT": {
     "name": "Saatli",
-    "code": null,
+    "code": "SAT",
     "unofficial_names": "Saatli",
     "geo": {
       "latitude": 39.930833,
@@ -3356,11 +3559,75 @@
       "mk": "Саатли",
       "no": "Saatlı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
+  },
+  "SBN": {
+    "name": "Şabran (rayon)",
+    "code": "SBN",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "مقاطعة شابران",
+      "az": "Şabran (rayon)",
+      "bn": "সাব্রান জেলা",
+      "cs": "Šabran",
+      "da": "Shabran District",
+      "de": "Şabran (Rayon)",
+      "el": "Σάμπραν",
+      "en": "Shabran",
+      "es": "Şabran (raión)",
+      "fa": "دوه‌چی",
+      "fi": "Şabranin piirikunta",
+      "fr": "Şabran (raion)",
+      "gu": "શબ્રાન જિલ્લો",
+      "hi": "शबरान जिला",
+      "id": "Davachi",
+      "it": "distretto di Şabran",
+      "ja": "ダヴァヒ県",
+      "kn": "ಶಬ್ರಾನ್ ಜಿಲ್ಲೆ",
+      "ko": "샤브란 구",
+      "mn": "Шабран аймаг",
+      "mr": "शबरण जिल्हा",
+      "ms": "Davachi",
+      "nb": "Şabran",
+      "nl": "Dəvəçi",
+      "pl": "Rejon Dəvəçi",
+      "pt": "Shabran",
+      "ro": "Șabran",
+      "ru": "Шабранский район",
+      "si": "ශබ්රන් දිස්ත්‍රික්කය",
+      "sr": "Шабрански рејон",
+      "sv": "Shabran Rayon",
+      "ta": "சாப்ரான் மாவட்டம்",
+      "te": "షబ్రన్ జిల్లా",
+      "th": "จังหวัดคอปเปอเบล",
+      "tr": "Şabran rayonu",
+      "ur": "شابران ضلع",
+      "vi": "Quận Shabran",
+      "lv": "Šabranas rajons",
+      "ceb": "Shabran Rayon",
+      "sr_Latn": "Šabranski rejon",
+      "lt": "Šabrano apskritis",
+      "zh": "迪維奇區",
+      "ccp": "𑄥𑄛𑄴𑄢𑄚𑄴",
+      "uk": "Шабранський район",
+      "mk": "Шабран",
+      "no": "Şabran"
+    },
+    "comments": null,
+    "type": "rayon"
   },
   "SIY": {
     "name": "Siyäzän",
-    "code": null,
+    "code": "SIY",
     "unofficial_names": "Siyäzän",
     "geo": {
       "latitude": 41.0783833,
@@ -3417,11 +3684,12 @@
       "mk": "Сијезен",
       "no": "Siyəzən"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SKR": {
     "name": "Sämkir",
-    "code": null,
+    "code": "SKR",
     "unofficial_names": "Sämkir",
     "geo": {
       "latitude": 40.88123969999999,
@@ -3481,11 +3749,12 @@
       "mk": "Шемкир",
       "no": "Şəmkir"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SM": {
     "name": "Sumqayit",
-    "code": null,
+    "code": "SM",
     "unofficial_names": "Sumqayit",
     "geo": {
       "latitude": 40.5854765,
@@ -3559,11 +3828,12 @@
       "mk": "Сумгајит",
       "no": "Sumqayit"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "SMI": {
     "name": "Samaxi",
-    "code": null,
+    "code": "SMI",
     "unofficial_names": "Samaxi",
     "geo": {
       "latitude": 40.63187310000001,
@@ -3609,11 +3879,12 @@
       "mk": "Шамахи",
       "no": "Şamaxı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "SMX": {
     "name": "Samux",
-    "code": null,
+    "code": "SMX",
     "unofficial_names": "Samux",
     "geo": {
       "latitude": 40.765833,
@@ -3670,28 +3941,67 @@
       "mk": "Самух",
       "no": "Samux"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
-  "SS": {
-    "name": "Susa City",
-    "code": null,
-    "unofficial_names": "Susa City",
+  "SR": {
+    "name": "Şirvan",
+    "code": "SR",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 39.7537438,
-      "longitude": 46.7464755,
-      "min_latitude": 39.7456061,
-      "min_longitude": 46.7307758,
-      "max_latitude": 39.7725926,
-      "max_longitude": 46.765623
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Susa City"
+      "ar": "شيروان",
+      "az": "Şirvan",
+      "be": "Шырван",
+      "cs": "Širvan",
+      "de": "Şirvan",
+      "el": "Σιρβάν",
+      "en": "Shirvan",
+      "es": "Shirvan",
+      "fa": "شیروان",
+      "fi": "Şirvan",
+      "fr": "Şirvan",
+      "he": "שירוואן",
+      "hy": "Շիրվան",
+      "id": "Shirvan",
+      "it": "Şirvan",
+      "ja": "シルヴァン (市)",
+      "ka": "შირვანი",
+      "ko": "시르반",
+      "lt": "Širvanas",
+      "mn": "Азербайжаны Ширван",
+      "ms": "Shirvan",
+      "nl": "Şirvan",
+      "pl": "Szyrwan",
+      "pt": "Shirvan",
+      "ro": "Șirvan",
+      "ru": "Ширван",
+      "sr": "Ширван",
+      "sv": "Shirvan",
+      "tr": "Şirvan",
+      "uk": "Ширван",
+      "ur": "شیروان",
+      "lv": "Širvana",
+      "ceb": "Shirvan",
+      "sr_Latn": "Širvan",
+      "zh": "希爾萬",
+      "sq": "Shirvan",
+      "ccp": "𑄥𑄨𑄢𑄞𑄧𑄚𑄴",
+      "mk": "Ширван"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "SUS": {
     "name": "Susa",
-    "code": null,
+    "code": "SUS",
     "unofficial_names": "Susa",
     "geo": {
       "latitude": 39.7537438,
@@ -3750,11 +4060,12 @@
       "mk": "Шуша",
       "no": "Şuşa"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "TAR": {
     "name": "Tärtär",
-    "code": null,
+    "code": "TAR",
     "unofficial_names": "Tärtär",
     "geo": {
       "latitude": 40.333333,
@@ -3812,11 +4123,12 @@
       "mk": "Тертер",
       "no": "Tərtər"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "TOV": {
     "name": "Tovuz",
-    "code": null,
+    "code": "TOV",
     "unofficial_names": "Tovuz",
     "geo": {
       "latitude": 40.9922,
@@ -3874,11 +4186,12 @@
       "mk": "Товуз",
       "no": "Tovuz"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "UCA": {
     "name": "Ucar",
-    "code": null,
+    "code": "UCA",
     "unofficial_names": "Ucar",
     "geo": {
       "latitude": 40.518333,
@@ -3934,11 +4247,12 @@
       "mk": "Уџар",
       "no": "Ucar"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "XA": {
     "name": "Xankändi",
-    "code": null,
+    "code": "XA",
     "unofficial_names": "Xankändi",
     "geo": {
       "latitude": 39.8196258,
@@ -4013,11 +4327,12 @@
       "mk": "Степанакерт",
       "no": "Stepanakert"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "XAC": {
     "name": "Xaçmaz",
-    "code": null,
+    "code": "XAC",
     "unofficial_names": "Xaçmaz",
     "geo": {
       "latitude": 41.470833,
@@ -4075,28 +4390,12 @@
       "mk": "Хачмаз",
       "no": "Xaçmaz"
     },
-    "comments": null
-  },
-  "XAN": {
-    "name": "Xanlar",
-    "code": null,
-    "unofficial_names": "Xanlar",
-    "geo": {
-      "latitude": 40.5008523,
-      "longitude": 46.3454855,
-      "min_latitude": 40.274401,
-      "min_longitude": 46.0786468,
-      "max_latitude": 40.841456,
-      "max_longitude": 46.51906
-    },
-    "translations": {
-      "en": "Xanlar"
-    },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "XCI": {
     "name": "Xocali",
-    "code": null,
+    "code": "XCI",
     "unofficial_names": "Xocali",
     "geo": {
       "latitude": 39.9132553,
@@ -4157,11 +4456,12 @@
       "mk": "Хоџали",
       "no": "Xocalı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "XIZ": {
     "name": "Xizi",
-    "code": null,
+    "code": "XIZ",
     "unofficial_names": "Xizi",
     "geo": {
       "latitude": 40.9,
@@ -4202,11 +4502,12 @@
       "mk": "Хизи",
       "no": "Xızı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "XVD": {
     "name": "Xocavänd",
-    "code": null,
+    "code": "XVD",
     "unofficial_names": "Xocavänd",
     "geo": {
       "latitude": 39.7060287,
@@ -4248,11 +4549,12 @@
       "mk": "Хоџавенд",
       "no": "Xocavənd"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "YAR": {
     "name": "Yardimli",
-    "code": null,
+    "code": "YAR",
     "unofficial_names": "Yardimli",
     "geo": {
       "latitude": 38.9058917,
@@ -4309,11 +4611,12 @@
       "mk": "Јардимли",
       "no": "Yardımlı"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "YE": {
     "name": "Yevlax City",
-    "code": null,
+    "code": "YE",
     "unofficial_names": "Yevlax City",
     "geo": {
       "latitude": 40.617222,
@@ -4358,11 +4661,12 @@
       "ccp": "𑄃𑄨𑄠𑄬𑄛𑄴𑄣𑄇𑄴",
       "be": "Еўлах"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "YEV": {
     "name": "Yevlax",
-    "code": null,
+    "code": "YEV",
     "unofficial_names": "Yevlax",
     "geo": {
       "latitude": 40.617222,
@@ -4419,11 +4723,12 @@
       "mk": "Јевлах",
       "no": "Yevlax"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "ZAN": {
     "name": "Zängilan",
-    "code": null,
+    "code": "ZAN",
     "unofficial_names": "Zängilan",
     "geo": {
       "latitude": 39.0318935,
@@ -4480,11 +4785,12 @@
       "mk": "Зенгилан (округ)",
       "no": "Zəngilan (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "ZAQ": {
     "name": "Zaqatala",
-    "code": null,
+    "code": "ZAQ",
     "unofficial_names": "Zaqatala",
     "geo": {
       "latitude": 41.63361099999999,
@@ -4544,11 +4850,12 @@
       "mk": "Закатала (округ)",
       "no": "Zaqatala (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   },
   "ZAR": {
     "name": "Zärdab",
-    "code": null,
+    "code": "ZAR",
     "unofficial_names": "Zärdab",
     "geo": {
       "latitude": 40.218333,
@@ -4604,305 +4911,8 @@
       "mk": "Зердаб",
       "no": "Zərdab (distrikt)"
     },
-    "comments": null
-  },
-  "NV": {
-    "name": "Naxçıvan",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "af": "Nachitsjewan",
-      "ar": "نخجوان",
-      "az": "Naxçıvan",
-      "be": "Горад Нахічэвань",
-      "bg": "Нахичеван",
-      "bn": "নাখচিভান",
-      "ca": "Naxçıvan",
-      "cs": "Nachičevan",
-      "da": "Nakhitjevan",
-      "de": "Naxçıvan",
-      "el": "Ναχιτσεβάν",
-      "en": "Nakhchivan",
-      "es": "Najicheván",
-      "et": "Naxçıvan",
-      "fa": "نخجوان",
-      "fi": "Nahitševan",
-      "fr": "Nakhitchevan",
-      "gl": "Nakhichevan",
-      "gu": "નખચિવેન",
-      "he": "נחיצ׳יבאן",
-      "hi": "नख़्चीवां",
-      "hu": "Nahicseván",
-      "hy": "Նախիջևան",
-      "id": "Kota Nakhchivan",
-      "it": "Naxçıvan",
-      "ja": "ナヒチェヴァン",
-      "ka": "ნახიჩევანი",
-      "kn": "ನಖ್ಚಿವನ್",
-      "ko": "나히체반",
-      "lt": "Nachičevanė",
-      "lv": "Nahčivana",
-      "ml": "നാഖ്ചിവൻ സിറ്റി",
-      "mr": "नखचीवं",
-      "ms": "Nakhchivan",
-      "nb": "Nachitjevan",
-      "nl": "Nachitsjevan",
-      "pl": "Nachiczewan",
-      "pt": "Naquichevão",
-      "ro": "Naxcivan",
-      "ru": "Нахичевань",
-      "si": "නක්සිවන්",
-      "sk": "Nachičevan",
-      "sr": "Нахчиван",
-      "sv": "Nachitjevan",
-      "ta": "நஃகுசிவான்",
-      "te": "నాక్చివన్",
-      "th": "นาคีชีวัน",
-      "tr": "Nahçıvan",
-      "uk": "Нахічевань",
-      "ur": "ناخچیوان (شہر)",
-      "vi": "Nakhchivan",
-      "cy": "Nakhchivan",
-      "ceb": "Nakhchivan Autonomous Republic",
-      "sr_Latn": "Nahčivan",
-      "zh": "納希切萬",
-      "ccp": "𑄚𑄇𑄴𑄌𑄨𑄞𑄧𑄚𑄴",
-      "ky": "Нахичеван",
-      "eu": "Nakhitxevan²",
-      "uz": "Naxichevan (shahar)",
-      "no": "Nachitjevan"
-    },
-    "comments": null
-  },
-  "KAN": {
-    "name": "Kəngərli",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "كنجة",
-      "az": "Kəngərli",
-      "bn": "কানগারলি জেলা",
-      "da": "Kangarli District",
-      "de": "Kəngərli",
-      "el": "Κανγκαρλί",
-      "en": "Kangarli",
-      "es": "Kangarli",
-      "fa": "شهرستان کنگرلی",
-      "fi": "Kəngərlin piirikunta",
-      "fr": "Kangarli",
-      "gu": "કાન્ગરલી જિલ્લો",
-      "hi": "कंगारली जिला",
-      "hy": "Քենգերլիի շրջան",
-      "id": "Kangarli",
-      "it": "Distretto di Kəngərli",
-      "ja": "キャンギャルリ県",
-      "kn": "ಕಾಂಗಾರ್ಲಿ ಜಿಲ್ಲೆ",
-      "ko": "켄겔리 구",
-      "mr": "कांगारली जिल्हा",
-      "ms": "Kangarli",
-      "nb": "Kəngərli",
-      "nl": "Kəngərli",
-      "pl": "Rejon Kəngərli",
-      "pt": "Kangarli",
-      "ru": "Кенгерлинский район",
-      "si": "කන්ගාර්ලි දිස්ත්‍රික්කය",
-      "sr": "Кенгерлински рејон",
-      "sv": "Kangarli Rayon",
-      "ta": "காங்கரலி மாவட்டம்",
-      "te": "కంగార్లి జిల్లా",
-      "th": "จังหวัดมานัส",
-      "tr": "Kengerli Rayonu",
-      "uk": "Кенгерлінський район",
-      "ur": "کانجارلی ضلع",
-      "vi": "Kangarli",
-      "lv": "Kengerli rajons",
-      "ceb": "Kangarli Rayon",
-      "sr_Latn": "Kengerlinski rejon",
-      "lt": "Kangarlio apskritis",
-      "zh": "坎加利區",
-      "ccp": "𑄇𑄋𑄴𑄉𑄢𑄴𑄣𑄨",
-      "mk": "Кенгерли",
-      "no": "Kəngərli"
-    },
-    "comments": null
-  },
-  "SBN": {
-    "name": "Şabran (rayon)",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "مقاطعة شابران",
-      "az": "Şabran (rayon)",
-      "bn": "সাব্রান জেলা",
-      "cs": "Šabran",
-      "da": "Shabran District",
-      "de": "Şabran (Rayon)",
-      "el": "Σάμπραν",
-      "en": "Shabran",
-      "es": "Şabran (raión)",
-      "fa": "دوه‌چی",
-      "fi": "Şabranin piirikunta",
-      "fr": "Şabran (raion)",
-      "gu": "શબ્રાન જિલ્લો",
-      "hi": "शबरान जिला",
-      "id": "Davachi",
-      "it": "distretto di Şabran",
-      "ja": "ダヴァヒ県",
-      "kn": "ಶಬ್ರಾನ್ ಜಿಲ್ಲೆ",
-      "ko": "샤브란 구",
-      "mn": "Шабран аймаг",
-      "mr": "शबरण जिल्हा",
-      "ms": "Davachi",
-      "nb": "Şabran",
-      "nl": "Dəvəçi",
-      "pl": "Rejon Dəvəçi",
-      "pt": "Shabran",
-      "ro": "Șabran",
-      "ru": "Шабранский район",
-      "si": "ශබ්රන් දිස්ත්‍රික්කය",
-      "sr": "Шабрански рејон",
-      "sv": "Shabran Rayon",
-      "ta": "சாப்ரான் மாவட்டம்",
-      "te": "షబ్రన్ జిల్లా",
-      "th": "จังหวัดคอปเปอเบล",
-      "tr": "Şabran rayonu",
-      "ur": "شابران ضلع",
-      "vi": "Quận Shabran",
-      "lv": "Šabranas rajons",
-      "ceb": "Shabran Rayon",
-      "sr_Latn": "Šabranski rejon",
-      "lt": "Šabrano apskritis",
-      "zh": "迪維奇區",
-      "ccp": "𑄥𑄛𑄴𑄢𑄚𑄴",
-      "uk": "Шабранський район",
-      "mk": "Шабран",
-      "no": "Şabran"
-    },
-    "comments": null
-  },
-  "SR": {
-    "name": "Şirvan",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "شيروان",
-      "az": "Şirvan",
-      "be": "Шырван",
-      "cs": "Širvan",
-      "de": "Şirvan",
-      "el": "Σιρβάν",
-      "en": "Shirvan",
-      "es": "Shirvan",
-      "fa": "شیروان",
-      "fi": "Şirvan",
-      "fr": "Şirvan",
-      "he": "שירוואן",
-      "hy": "Շիրվան",
-      "id": "Shirvan",
-      "it": "Şirvan",
-      "ja": "シルヴァン (市)",
-      "ka": "შირვანი",
-      "ko": "시르반",
-      "lt": "Širvanas",
-      "mn": "Азербайжаны Ширван",
-      "ms": "Shirvan",
-      "nl": "Şirvan",
-      "pl": "Szyrwan",
-      "pt": "Shirvan",
-      "ro": "Șirvan",
-      "ru": "Ширван",
-      "sr": "Ширван",
-      "sv": "Shirvan",
-      "tr": "Şirvan",
-      "uk": "Ширван",
-      "ur": "شیروان",
-      "lv": "Širvana",
-      "ceb": "Shirvan",
-      "sr_Latn": "Širvan",
-      "zh": "希爾萬",
-      "sq": "Shirvan",
-      "ccp": "𑄥𑄨𑄢𑄞𑄧𑄚𑄴",
-      "mk": "Ширван"
-    },
-    "comments": null
-  },
-  "GYG": {
-    "name": "Göygöl",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "az": "Göygöl",
-      "cs": "Göygöl",
-      "de": "Göygöl",
-      "en": "Goygol",
-      "es": "Göygöl",
-      "fa": "شهرستان گوی‌گل",
-      "fi": "Göygölin piirikunta",
-      "fr": "Göygöl",
-      "id": "Khanlar",
-      "it": "distretto di Göygöl",
-      "ja": "ギョイギョル県",
-      "ko": "괴이괼 구",
-      "ms": "Khanlar",
-      "nb": "Göygöl",
-      "nl": "Göygöl",
-      "pl": "Rejon Göygöl",
-      "pt": "Goygol",
-      "ru": "Гёйгёльский район",
-      "sr": "Гогољски рејон",
-      "sv": "Xanlar Rayonu",
-      "tr": "Göygöl Rayonu",
-      "vi": "Goygol",
-      "ceb": "Goygol Rayon",
-      "sr_Latn": "Gogoljski rejon",
-      "zh": "漢拉爾區",
-      "sq": "Goygol",
-      "ccp": "𑄉𑄧𑄠𑄴𑄉𑄮𑄣𑄴",
-      "hy": "Գոյգյոլի շրջան",
-      "mk": "Ѓојѓол",
-      "no": "Göygöl"
-    },
-    "comments": null
+    "comments": null,
+    "type": "rayon"
   }
 }
 

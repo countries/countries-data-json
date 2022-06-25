@@ -1,7 +1,7 @@
 {
   "DI": {
     "name": "Dimashq",
-    "code": null,
+    "code": "DI",
     "unofficial_names": [
       "Dimashq",
       "Madīnat Dimašq",
@@ -49,11 +49,12 @@
       "de": "Gouvernement Damaskus",
       "no": "Damaskus"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DR": {
     "name": "Dar'ā",
-    "code": null,
+    "code": "DR",
     "unofficial_names": [
       "Dara",
       "Darā",
@@ -107,11 +108,12 @@
       "zh": "德拉省",
       "ccp": "𑄓𑄢𑄳𑄃"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DY": {
     "name": "Dayr az Zawr",
-    "code": null,
+    "code": "DY",
     "unofficial_names": [
       "Deir El-Zor",
       "Deir-ez-Zor"
@@ -177,11 +179,12 @@
       "ccp": "𑄓𑄠𑄬𑄢𑄴 𑄃𑄬𑄌𑄴-𑄎𑄮𑄢𑄴",
       "no": "Dayr az-Zawr"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HA": {
     "name": "Al Ḩasakah",
-    "code": null,
+    "code": "HA",
     "unofficial_names": [
       "El Haseke",
       "Hassetche",
@@ -249,11 +252,12 @@
       "ccp": "𑄃𑄣𑄴-𑄝𑄥𑄇𑄴𑄦𑄴",
       "no": "Al-Hasakah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HI": {
     "name": "Ḩimş",
-    "code": null,
+    "code": "HI",
     "unofficial_names": [
       "Hims",
       "Homs"
@@ -321,11 +325,12 @@
       "ccp": "𑄦𑄧𑄟𑄴𑄌𑄴",
       "no": "Homs"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HL": {
     "name": "Ḩalab",
-    "code": null,
+    "code": "HL",
     "unofficial_names": [
       "Halab",
       "Haleb",
@@ -384,11 +389,12 @@
       "be": "Халеб",
       "no": "Aleppo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HM": {
     "name": "Ḩamāh",
-    "code": null,
+    "code": "HM",
     "unofficial_names": [
       "Hama",
       "Hamah"
@@ -455,11 +461,12 @@
       "ccp": "𑄦𑄟",
       "no": "Guvernementet Hama"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ID": {
     "name": "Idlib",
-    "code": null,
+    "code": "ID",
     "unofficial_names": "Idlib",
     "geo": {
       "latitude": 35.933333,
@@ -522,11 +529,12 @@
       "ccp": "𑄃𑄨𑄖𑄴𑄣𑄨𑄛𑄴",
       "no": "Idlib"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LA": {
     "name": "Al Ladhiqiyah",
-    "code": null,
+    "code": "LA",
     "unofficial_names": [
       "Latakia",
       "Lattakia",
@@ -584,11 +592,12 @@
       "ccp": "𑄣𑄑𑄇𑄨𑄠",
       "no": "Latakia"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "QU": {
     "name": "Al Qunaytirah",
-    "code": null,
+    "code": "QU",
     "unofficial_names": [
       "Quneitra",
       "al-Qunaytirah"
@@ -652,11 +661,12 @@
       "ca": "governació de Quneitra",
       "no": "Al-Qunaytirah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "RA": {
     "name": "Ar Raqqah",
-    "code": null,
+    "code": "RA",
     "unofficial_names": [
       "Raqqah",
       "al-Rakka"
@@ -711,11 +721,12 @@
       "mk": "Рака",
       "no": "Ar-Raqqah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "RD": {
     "name": "Rif Dimashq",
-    "code": null,
+    "code": "RD",
     "unofficial_names": [
       "Dimashq",
       "Dimašq",
@@ -783,11 +794,12 @@
       "ccp": "𑄢𑄨𑄛𑄴 𑄓𑄨𑄟𑄌𑄴𑄇𑄴",
       "no": "Rif Dimashq"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SU": {
     "name": "As Suwayda'",
-    "code": null,
+    "code": "SU",
     "unofficial_names": [
       "as-Suwayda"
     ],
@@ -851,11 +863,12 @@
       "ccp": "𑄃𑄌𑄴-𑄥𑄪𑄠𑄬𑄓",
       "no": "as-Suwayda"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TA": {
     "name": "Tartus",
-    "code": null,
+    "code": "TA",
     "unofficial_names": [
       "Tartoûs",
       "Tartus"
@@ -921,7 +934,8 @@
       "ccp": "𑄑𑄢𑄴𑄑𑄌𑄴",
       "no": "Tartus"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

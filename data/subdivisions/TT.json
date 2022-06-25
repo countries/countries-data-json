@@ -1,7 +1,7 @@
 {
   "ARI": {
     "name": "Arima",
-    "code": null,
+    "code": "ARI",
     "unofficial_names": "Arima",
     "geo": {
       "latitude": 10.616667,
@@ -54,11 +54,12 @@
       "uk": "Аріма",
       "no": "Arima"
     },
-    "comments": null
+    "comments": null,
+    "type": "borough"
   },
   "CHA": {
     "name": "Chaguanas",
-    "code": null,
+    "code": "CHA",
     "unofficial_names": "Chaguanas",
     "geo": {
       "latitude": 10.5168387,
@@ -120,11 +121,12 @@
       "ro": "Chaguanas",
       "no": "Chaguanas"
     },
-    "comments": null
+    "comments": null,
+    "type": "borough"
   },
   "CTT": {
     "name": "Couva-Tabaquite-Talparo",
-    "code": null,
+    "code": "CTT",
     "unofficial_names": "Couva-Tabaquite-Talparo",
     "geo": {
       "latitude": 10.4297145,
@@ -173,11 +175,12 @@
       "uk": "Регіон Кува-Табакіте-Тальпаро",
       "no": "Couva Tabaquite Talparo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DMN": {
     "name": "Diego Martin",
-    "code": null,
+    "code": "DMN",
     "unofficial_names": "Diego Martin",
     "geo": {
       "latitude": 10.7137264,
@@ -227,29 +230,66 @@
       "uk": "Регіон Діего-Мартін",
       "no": "Diego Martin"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
-  "ETO": {
-    "name": "Eastern Tobago",
-    "code": null,
-    "unofficial_names": "Eastern Tobago",
+  "MRC": {
+    "name": "Mayaro-Rio Claro",
+    "code": "MRC",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 11.2979348,
-      "longitude": -60.55885240000001,
-      "min_latitude": 11.179728,
-      "min_longitude": -60.7451771,
-      "max_latitude": 11.3467941,
-      "max_longitude": -60.49331209999999
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Eastern Tobago",
-      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄑𑄮𑄝𑄉𑄮"
+      "ar": "ريو كلارو مايارو الإقليمية",
+      "bn": "রিও ক্লারো-মায়ারো আঞ্চলিক কর্পোরেশন",
+      "da": "Rio Claro - Mayaro",
+      "de": "Mayaro-Rio Claro",
+      "el": "Ρίο Κλάρο-Μαγιάρο",
+      "en": "Mayaro-Rio Claro",
+      "es": "Río Claro-Mayaro",
+      "fi": "Rio Claro-Mayaron hallintoalue",
+      "fr": "Région de Rio Claro-Mayaro",
+      "gu": "રિયો ક્લેરો-માયારો , પ્રદેશલ કોર્પોરેશન",
+      "hi": "रिओ क्लैरो-मायारो क्षेत्रीय निगम",
+      "id": "Korporasi Wilayah Rio Claro-Mayaro",
+      "it": "regione di Rio Claro-Mayaro",
+      "kn": "ರಿಯೊ ಕ್ಲೋರೊ-ಮಾಯಾರೊ ಪ್ರಾದೇಶಿಕ ಕಾರ್ಪೊರೇಷನ್",
+      "ko": "리오클라로마야로 지역",
+      "mr": "रिओ क्लॅरो-मायरो प्रादेशिक महानगरपालिका",
+      "ms": "Rio Claro-Mayaro Regional Corporation",
+      "nb": "Rio Claro-Mayaro",
+      "nl": "Rio Claro - Mayaro",
+      "pl": "Korporacja Rio Claro-Mayaro",
+      "pt": "Região de Rio Claro Mayaro",
+      "ru": "Рио Кларо-Майяро",
+      "si": "රියෝ ක්ලාරෝ-මෙයාරෝ කලාපීය සංස්ථාව",
+      "sv": "Rio Claro-Mayaro",
+      "ta": "ரியோ கிளரோ-மாயரோ ரிஜியோனல் மாநகராட்சி",
+      "te": "రియో క్లారో-మయారో రీజినల్ కార్పొరేషన్",
+      "th": "ริโอ คาโร มายาโร เรจินอล คอโพเรชั่น",
+      "tr": "Rio Claro-Mayaro",
+      "ur": "ریو کلارو-مایارو علاقائی کارپوریشن",
+      "vi": "Khu liên kết chung Rio Claro-Mayaro",
+      "lv": "Rioklaro-Majaro reģionālā pašvaldība",
+      "ceb": "Mayaro",
+      "lt": "Rio Klaro-Majaro regioninė korporacija",
+      "fa": "استان ریو کلارو-مایارو",
+      "ccp": "𑄟𑄠𑄢𑄮-𑄢𑄨𑄠𑄮 𑄇𑄳𑄣𑄢𑄮",
+      "uk": "Майаро-Ріо-Кларо",
+      "no": "Rio Claro-Mayaro"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PED": {
     "name": "Penal-Debe",
-    "code": null,
+    "code": "PED",
     "unofficial_names": "Penal-Debe",
     "geo": {
       "latitude": 10.1337402,
@@ -299,11 +339,12 @@
       "uk": "Регіон Пенал-Дебе",
       "no": "Penal Debe"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "POS": {
     "name": "Port of Spain",
-    "code": null,
+    "code": "POS",
     "unofficial_names": "Port of Spain",
     "geo": {
       "latitude": 10.666667,
@@ -389,11 +430,12 @@
       "no": "Port of Spain",
       "yo_BJ": "Port of Spain"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "PRT": {
     "name": "Princes Town",
-    "code": null,
+    "code": "PRT",
     "unofficial_names": "Princes Town",
     "geo": {
       "latitude": 10.2659505,
@@ -444,11 +486,12 @@
       "uk": "Регіон Прінсес-Таун",
       "no": "Princes Tiwn Regional Corpoation"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PTF": {
     "name": "Point Fortin",
-    "code": null,
+    "code": "PTF",
     "unofficial_names": "Point Fortin",
     "geo": {
       "latitude": 10.166667,
@@ -502,29 +545,12 @@
       "ccp": "𑄛𑄧𑄠𑄬𑄚𑄴𑄑 𑄜𑄮𑄢𑄴𑄑𑄨𑄚𑄴",
       "no": "Point Fortin"
     },
-    "comments": null
-  },
-  "RCM": {
-    "name": "Rio Claro-Mayaro",
-    "code": null,
-    "unofficial_names": "Rio Claro-Mayaro",
-    "geo": {
-      "latitude": 10.2412832,
-      "longitude": -61.09372059999999,
-      "min_latitude": 10.0748818,
-      "min_longitude": -61.23980999999999,
-      "max_latitude": 10.4406099,
-      "max_longitude": -60.97031769999999
-    },
-    "translations": {
-      "en": "Rio Claro-Mayaro",
-      "ccp": "𑄢𑄨𑄃𑄮 𑄇𑄳𑄣𑄢𑄮-𑄟𑄬𑄠𑄢𑄮"
-    },
-    "comments": null
+    "comments": null,
+    "type": "borough"
   },
   "SFO": {
     "name": "San Fernando",
-    "code": null,
+    "code": "SFO",
     "unofficial_names": "San Fernando",
     "geo": {
       "latitude": 10.2804924,
@@ -582,11 +608,12 @@
       "no": "San Fernando",
       "yo_BJ": "San Fernando"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "SGE": {
     "name": "Sangre Grande",
-    "code": null,
+    "code": "SGE",
     "unofficial_names": "Sangre Grande",
     "geo": {
       "latitude": 10.5852939,
@@ -636,11 +663,12 @@
       "uk": "Регіон Сангре-Гранде",
       "no": "Sangre Grande regional"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SIP": {
     "name": "Siparia",
-    "code": null,
+    "code": "SIP",
     "unofficial_names": "Siparia",
     "geo": {
       "latitude": 10.133333,
@@ -691,11 +719,12 @@
       "uk": "Регіон Сіпарія",
       "no": "Siparia"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SJL": {
     "name": "San Juan-Laventille",
-    "code": null,
+    "code": "SJL",
     "unofficial_names": "San Juan-Laventille",
     "geo": {
       "latitude": 10.6908578,
@@ -744,137 +773,12 @@
       "uk": "Регіон Сан-Хуан-Лавентіль",
       "no": "San Juan-Laventille region"
     },
-    "comments": null
-  },
-  "TUP": {
-    "name": "Tunapuna-Piarco",
-    "code": null,
-    "unofficial_names": "Tunapuna-Piarco",
-    "geo": {
-      "latitude": 10.6859096,
-      "longitude": -61.30352480000001,
-      "min_latitude": 10.560991,
-      "min_longitude": -61.4334169,
-      "max_latitude": 10.8057648,
-      "max_longitude": -61.151141
-    },
-    "translations": {
-      "en": "Tunapuna-Piarco",
-      "ar": "شركة تونابونا بياركو الإقليمية",
-      "bn": "টোনাপোনা-পিয়াকু আঞ্চলিক কর্পোরেশন",
-      "da": "Tunapuna - Piarco",
-      "de": "Tunapuna-Piarco",
-      "el": "Τουναπούνα-Πιάρκο",
-      "es": "Tunapuna-Piarco",
-      "fi": "Tunapuna-Piarcon hallintoalue",
-      "fr": "Région de Tunapuna-Piarco",
-      "gu": "ટ્યુનાપુના-પીઆર્કો પ્રદેશલ કોર્પોરેશન",
-      "hi": "टूनापूना-पायरको क्षेत्रीय निगम",
-      "id": "Korporasi Wilayah Tunapuna-Piarco",
-      "it": "regione di Tunapuna-Piarco",
-      "ja": "マコヤ",
-      "kn": "ಟುನಪುನಾ-ಪಿಯಾರ್ಕೊ ಪ್ರಾದೇಶಿಕ ಕಾರ್ಪೊರೇಷನ್",
-      "ko": "투나푸나피아르코 지역",
-      "mr": "टोनपुन-पायरको प्रादेशिक महानगरपालिका",
-      "ms": "Tunapuna-Piarco Regional Corporation",
-      "nb": "Tunapuna Piarco",
-      "nl": "Tunapuna - Piarco",
-      "pl": "Region Tunapuna-Piarco",
-      "pt": "Tunapuna Piarco",
-      "ru": "Тунапуна-Пиарко",
-      "si": "ටුනපුනා-පියර්කෝ කලාපිය සංස්ථාව",
-      "sv": "Tunapuna-Piarco Regional Corporation",
-      "ta": "துணைபுண -பியர்கோ ரிஜினல் மாநகராட்சி",
-      "te": "తునాపునా-పియార్కో రీజినల్ కార్పోరేషన్",
-      "th": "ทูนาปูนา เปียร์โค เรจินอล คอร์โพเรท",
-      "tr": "Tunapuna-Piarco Regional Corporation",
-      "ur": "ٹوناپونا-پیارکو علاقائی کارپوریشن",
-      "vi": "Khu liên kết chung Tunapuna-Piarco",
-      "lv": "Tunapuna-Piarko reģionālā pašvaldība",
-      "ceb": "Tunapuna/Piarco",
-      "lt": "Tunapuna-Pijarko regioninė korporacija",
-      "zh": "麥高耶",
-      "fa": "استان توناپونا-پیارکو",
-      "ccp": "𑄑𑄪𑄚𑄛𑄪𑄚-𑄛𑄨𑄠𑄢𑄴𑄇𑄮",
-      "uk": "Регіон Тунапуна-Піарко",
-      "no": "Tunapuna Piarco"
-    },
-    "comments": null
-  },
-  "WTO": {
-    "name": "Western Tobago",
-    "code": null,
-    "unofficial_names": "Western Tobago",
-    "geo": {
-      "latitude": 11.1897072,
-      "longitude": -60.7795452,
-      "min_latitude": 11.1388369,
-      "min_longitude": -60.84010199999999,
-      "max_latitude": 11.2928312,
-      "max_longitude": -60.66802099999999
-    },
-    "translations": {
-      "en": "Western Tobago",
-      "ccp": "𑄤𑄠𑄬𑄌𑄴𑄑𑄢𑄴 𑄑𑄮𑄝𑄉𑄮"
-    },
-    "comments": null
-  },
-  "MRC": {
-    "name": "Mayaro-Rio Claro",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "ريو كلارو مايارو الإقليمية",
-      "bn": "রিও ক্লারো-মায়ারো আঞ্চলিক কর্পোরেশন",
-      "da": "Rio Claro - Mayaro",
-      "de": "Mayaro-Rio Claro",
-      "el": "Ρίο Κλάρο-Μαγιάρο",
-      "en": "Mayaro-Rio Claro",
-      "es": "Río Claro-Mayaro",
-      "fi": "Rio Claro-Mayaron hallintoalue",
-      "fr": "Région de Rio Claro-Mayaro",
-      "gu": "રિયો ક્લેરો-માયારો , પ્રદેશલ કોર્પોરેશન",
-      "hi": "रिओ क्लैरो-मायारो क्षेत्रीय निगम",
-      "id": "Korporasi Wilayah Rio Claro-Mayaro",
-      "it": "regione di Rio Claro-Mayaro",
-      "kn": "ರಿಯೊ ಕ್ಲೋರೊ-ಮಾಯಾರೊ ಪ್ರಾದೇಶಿಕ ಕಾರ್ಪೊರೇಷನ್",
-      "ko": "리오클라로마야로 지역",
-      "mr": "रिओ क्लॅरो-मायरो प्रादेशिक महानगरपालिका",
-      "ms": "Rio Claro-Mayaro Regional Corporation",
-      "nb": "Rio Claro-Mayaro",
-      "nl": "Rio Claro - Mayaro",
-      "pl": "Korporacja Rio Claro-Mayaro",
-      "pt": "Região de Rio Claro Mayaro",
-      "ru": "Рио Кларо-Майяро",
-      "si": "රියෝ ක්ලාරෝ-මෙයාරෝ කලාපීය සංස්ථාව",
-      "sv": "Rio Claro-Mayaro",
-      "ta": "ரியோ கிளரோ-மாயரோ ரிஜியோனல் மாநகராட்சி",
-      "te": "రియో క్లారో-మయారో రీజినల్ కార్పొరేషన్",
-      "th": "ริโอ คาโร มายาโร เรจินอล คอโพเรชั่น",
-      "tr": "Rio Claro-Mayaro",
-      "ur": "ریو کلارو-مایارو علاقائی کارپوریشن",
-      "vi": "Khu liên kết chung Rio Claro-Mayaro",
-      "lv": "Rioklaro-Majaro reģionālā pašvaldība",
-      "ceb": "Mayaro",
-      "lt": "Rio Klaro-Majaro regioninė korporacija",
-      "fa": "استان ریو کلارو-مایارو",
-      "ccp": "𑄟𑄠𑄢𑄮-𑄢𑄨𑄠𑄮 𑄇𑄳𑄣𑄢𑄮",
-      "uk": "Майаро-Ріо-Кларо",
-      "no": "Rio Claro-Mayaro"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TOB": {
     "name": "Tobago",
-    "code": null,
+    "code": "TOB",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -943,7 +847,64 @@
       "no": "Tobago",
       "yo_BJ": "Tòbágò"
     },
-    "comments": null
+    "comments": null,
+    "type": "ward"
+  },
+  "TUP": {
+    "name": "Tunapuna-Piarco",
+    "code": "TUP",
+    "unofficial_names": "Tunapuna-Piarco",
+    "geo": {
+      "latitude": 10.6859096,
+      "longitude": -61.30352480000001,
+      "min_latitude": 10.560991,
+      "min_longitude": -61.4334169,
+      "max_latitude": 10.8057648,
+      "max_longitude": -61.151141
+    },
+    "translations": {
+      "en": "Tunapuna-Piarco",
+      "ar": "شركة تونابونا بياركو الإقليمية",
+      "bn": "টোনাপোনা-পিয়াকু আঞ্চলিক কর্পোরেশন",
+      "da": "Tunapuna - Piarco",
+      "de": "Tunapuna-Piarco",
+      "el": "Τουναπούνα-Πιάρκο",
+      "es": "Tunapuna-Piarco",
+      "fi": "Tunapuna-Piarcon hallintoalue",
+      "fr": "Région de Tunapuna-Piarco",
+      "gu": "ટ્યુનાપુના-પીઆર્કો પ્રદેશલ કોર્પોરેશન",
+      "hi": "टूनापूना-पायरको क्षेत्रीय निगम",
+      "id": "Korporasi Wilayah Tunapuna-Piarco",
+      "it": "regione di Tunapuna-Piarco",
+      "ja": "マコヤ",
+      "kn": "ಟುನಪುನಾ-ಪಿಯಾರ್ಕೊ ಪ್ರಾದೇಶಿಕ ಕಾರ್ಪೊರೇಷನ್",
+      "ko": "투나푸나피아르코 지역",
+      "mr": "टोनपुन-पायरको प्रादेशिक महानगरपालिका",
+      "ms": "Tunapuna-Piarco Regional Corporation",
+      "nb": "Tunapuna Piarco",
+      "nl": "Tunapuna - Piarco",
+      "pl": "Region Tunapuna-Piarco",
+      "pt": "Tunapuna Piarco",
+      "ru": "Тунапуна-Пиарко",
+      "si": "ටුනපුනා-පියර්කෝ කලාපිය සංස්ථාව",
+      "sv": "Tunapuna-Piarco Regional Corporation",
+      "ta": "துணைபுண -பியர்கோ ரிஜினல் மாநகராட்சி",
+      "te": "తునాపునా-పియార్కో రీజినల్ కార్పోరేషన్",
+      "th": "ทูนาปูนา เปียร์โค เรจินอล คอร์โพเรท",
+      "tr": "Tunapuna-Piarco Regional Corporation",
+      "ur": "ٹوناپونا-پیارکو علاقائی کارپوریشن",
+      "vi": "Khu liên kết chung Tunapuna-Piarco",
+      "lv": "Tunapuna-Piarko reģionālā pašvaldība",
+      "ceb": "Tunapuna/Piarco",
+      "lt": "Tunapuna-Pijarko regioninė korporacija",
+      "zh": "麥高耶",
+      "fa": "استان توناپونا-پیارکو",
+      "ccp": "𑄑𑄪𑄚𑄛𑄪𑄚-𑄛𑄨𑄠𑄢𑄴𑄇𑄮",
+      "uk": "Регіон Тунапуна-Піарко",
+      "no": "Tunapuna Piarco"
+    },
+    "comments": null,
+    "type": "region"
   }
 }
 

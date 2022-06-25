@@ -1,7 +1,7 @@
 {
   "BA": {
     "name": "Balaka",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Balaka",
     "geo": {
       "latitude": -14.9876054,
@@ -59,11 +59,12 @@
       "uk": "Район Балака",
       "no": "Balaka"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "BL": {
     "name": "Blantyre",
-    "code": null,
+    "code": "BL",
     "unofficial_names": "Blantyre",
     "geo": {
       "latitude": -15.786111,
@@ -121,11 +122,62 @@
       "uk": "Блантайр",
       "no": "Blantyre"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "C": {
+    "name": "Central",
+    "code": "C",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "az": "Mərkəz bölgəsi",
+      "bg": "Централен регион",
+      "ca": "Regió Central",
+      "de": "Central Region",
+      "el": "Κεντρική Περιφέρεια",
+      "en": "Central",
+      "es": "Región Central",
+      "fa": "منطقه مرکزی مالاوی",
+      "fi": "Keskinen alue",
+      "fr": "Malawi central",
+      "gl": "Rexión Central",
+      "id": "Region Tengah",
+      "it": "regione Centrale",
+      "ja": "中部州",
+      "ka": "მალავის ცენტრალური რეგიონი",
+      "ko": "중부 주",
+      "lt": "Centrinis regionas",
+      "nb": "Central",
+      "nl": "Central",
+      "pt": "Região Central",
+      "ro": "Regiunea Central",
+      "ru": "Центральный регион",
+      "sr": "Централни регион",
+      "sv": "Central Region",
+      "tr": "Merkez Bölgesi",
+      "uk": "Центральний регіон",
+      "ur": "وسطی علاقہ، ملاوی",
+      "ceb": "Central Region",
+      "sr_Latn": "Centralni region",
+      "zh": "中央区",
+      "ccp": "𑄥𑄬𑄚𑄑𑄳𑄢𑄣𑄴",
+      "be": "Цэнтральны рэгіён",
+      "no": "Central"
+    },
+    "comments": null,
+    "type": "region"
   },
   "CK": {
     "name": "Chikwawa",
-    "code": null,
+    "code": "CK",
     "unofficial_names": "Chikwawa",
     "geo": {
       "latitude": -16.035,
@@ -181,11 +233,12 @@
       "uk": "Район Чіквава",
       "no": "Chikwawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CR": {
     "name": "Chiradzulu",
-    "code": null,
+    "code": "CR",
     "unofficial_names": "Chiradzulu",
     "geo": {
       "latitude": -15.6759485,
@@ -241,11 +294,12 @@
       "uk": "Район Чірадзулу",
       "no": "Chiradzulu"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CT": {
     "name": "Chitipa",
-    "code": null,
+    "code": "CT",
     "unofficial_names": "Chitipa",
     "geo": {
       "latitude": -9.7037655,
@@ -303,11 +357,12 @@
       "uk": "Район Чітіпа",
       "no": "Chitipa"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "DE": {
     "name": "Dedza",
-    "code": null,
+    "code": "DE",
     "unofficial_names": "Dedza",
     "geo": {
       "latitude": -14.3816618,
@@ -364,11 +419,12 @@
       "uk": "Район Дедза",
       "no": "Dedza"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "DO": {
     "name": "Dowa",
-    "code": null,
+    "code": "DO",
     "unofficial_names": "Dowa",
     "geo": {
       "latitude": -13.6514687,
@@ -424,11 +480,12 @@
       "uk": "Район Дова",
       "no": "Dowa"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "KR": {
     "name": "Karonga",
-    "code": null,
+    "code": "KR",
     "unofficial_names": "Karonga",
     "geo": {
       "latitude": -9.933333,
@@ -467,11 +524,12 @@
       "ccp": "𑄇𑄢𑄧𑄁𑄉",
       "no": "Karonga"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "KS": {
     "name": "Kasungu",
-    "code": null,
+    "code": "KS",
     "unofficial_names": "Kasungu",
     "geo": {
       "latitude": -13.033333,
@@ -528,11 +586,12 @@
       "be": "раён Касунгу",
       "no": "Kasungu"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "LI": {
     "name": "Lilongwe",
-    "code": null,
+    "code": "LI",
     "unofficial_names": "Lilongwe",
     "geo": {
       "latitude": -13.983333,
@@ -589,11 +648,12 @@
       "be": "раён Лілонгвэ",
       "no": "Lilongwe"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "LK": {
     "name": "Likoma Island",
-    "code": null,
+    "code": "LK",
     "unofficial_names": "Likoma Island",
     "geo": {
       "latitude": -12.0584005,
@@ -651,11 +711,12 @@
       "uk": "Район Лікома",
       "no": "Likoma"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MC": {
     "name": "Mchinji",
-    "code": null,
+    "code": "MC",
     "unofficial_names": "Mchinji",
     "geo": {
       "latitude": -13.8000058,
@@ -711,11 +772,12 @@
       "uk": "Район Мчіньї",
       "no": "Mchinji"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MG": {
     "name": "Mangochi",
-    "code": null,
+    "code": "MG",
     "unofficial_names": "Mangochi",
     "geo": {
       "latitude": -14.4861733,
@@ -771,11 +833,12 @@
       "uk": "Район Мангочі",
       "no": "Mangochi"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MH": {
     "name": "Machinga",
-    "code": null,
+    "code": "MH",
     "unofficial_names": "Machinga",
     "geo": {
       "latitude": -15.1699934,
@@ -832,11 +895,12 @@
       "be": "раён Мачынга",
       "no": "Machinga"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MU": {
     "name": "Mulanje",
-    "code": null,
+    "code": "MU",
     "unofficial_names": "Mulanje",
     "geo": {
       "latitude": -16.033333,
@@ -892,11 +956,12 @@
       "uk": "Район Муланье",
       "no": "Mulanje"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MW": {
     "name": "Mwanza",
-    "code": null,
+    "code": "MW",
     "unofficial_names": "Mwanza",
     "geo": {
       "latitude": -15.609722,
@@ -952,11 +1017,12 @@
       "uk": "Район Мванза",
       "no": "Mwanza"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MZ": {
     "name": "Mzimba",
-    "code": null,
+    "code": "MZ",
     "unofficial_names": "Mzimba",
     "geo": {
       "latitude": -11.9,
@@ -1015,11 +1081,61 @@
       "be": "раён Мзімба",
       "no": "Mzimba"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "N": {
+    "name": "Northern",
+    "code": "N",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "az": "Şimal bölgəsi",
+      "bg": "Северен регион",
+      "de": "Northern Region",
+      "el": "Βόρεια Περιφέρεια",
+      "en": "Northern",
+      "es": "Región del Norte",
+      "fa": "منطقه شمالی مالاوی",
+      "fi": "Pohjoinen alue",
+      "fr": "Région Nord",
+      "gl": "Rexión Norte",
+      "it": "regione Settentrionale",
+      "ja": "北部州",
+      "ka": "მალავის ჩრდილოეთი რეგიონი",
+      "ko": "북부 주",
+      "lt": "Šiaurės regionas",
+      "nb": "Northern",
+      "nl": "Northern",
+      "pt": "Região Norte",
+      "ro": "Regiunea Northern",
+      "ru": "Северный регион",
+      "sr": "Северни регион",
+      "sv": "Northern Region",
+      "tr": "Kuzey Bölgesi",
+      "uk": "Північний регіон",
+      "ur": "شمالی علاقہ، ملاوی",
+      "ceb": "Northern Region",
+      "sr_Latn": "Severni region",
+      "zh": "北部区",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Regió del Nort",
+      "be": "Паўночны рэгіён",
+      "no": "Northern"
+    },
+    "comments": null,
+    "type": "region"
   },
   "NB": {
     "name": "Nkhata Bay",
-    "code": null,
+    "code": "NB",
     "unofficial_names": "Nkhata Bay",
     "geo": {
       "latitude": -11.6085556,
@@ -1077,11 +1193,72 @@
       "uk": "Район Нхата-Бей",
       "no": "Nkhata Bay"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "NE": {
+    "name": "Neno",
+    "code": "NE",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "مقاطعة نينو",
+      "az": "Neno",
+      "bg": "Нено",
+      "bn": "নেনো জেলা",
+      "da": "Neno District",
+      "de": "Neno-Distrikt",
+      "el": "Νένο",
+      "en": "Neno",
+      "es": "Distrito de Neno",
+      "fa": "بخش ننو",
+      "fi": "Nenon piirikunta",
+      "fr": "District de Neno",
+      "gl": "Distrito de Neno",
+      "gu": "નેનો જિલ્લો",
+      "hi": "नेनो जिला",
+      "id": "Distrik Neno",
+      "it": "Distretto di Neno",
+      "ja": "ネノ",
+      "ka": "ნენოს რაიონი",
+      "kn": "ನೆನೊ ಜಿಲ್ಲೆ",
+      "ko": "네노 현",
+      "mr": "नेनो जिल्हा",
+      "ms": "Neno District",
+      "nb": "Neno",
+      "nl": "Neno District",
+      "pl": "Dystrykt Neno",
+      "pt": "Neno",
+      "ro": "Districtul Neno",
+      "ru": "Нено",
+      "si": "නෙනෝ දිස්ත්‍රික්කය",
+      "sv": "Neno",
+      "ta": "நேனோ மாவட்டம்",
+      "te": "నెనో జిల్లా",
+      "th": "เขตนีโน",
+      "tr": "Neno",
+      "ur": "نینو ضلع",
+      "vi": "Neno Quận",
+      "lv": "Neno distrikts",
+      "ceb": "Neno District",
+      "lt": "Neno apskritis",
+      "ccp": "𑄚𑄬𑄚𑄮",
+      "uk": "Район Нено",
+      "no": "Neno"
+    },
+    "comments": null,
+    "type": "district"
   },
   "NI": {
     "name": "Ntchisi",
-    "code": null,
+    "code": "NI",
     "unofficial_names": "Ntchisi",
     "geo": {
       "latitude": -13.2841992,
@@ -1137,11 +1314,12 @@
       "uk": "Район Нтчісі",
       "no": "Ntchisi"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NK": {
     "name": "Nkhotakota",
-    "code": null,
+    "code": "NK",
     "unofficial_names": "Nkhotakota",
     "geo": {
       "latitude": -12.9316863,
@@ -1199,11 +1377,12 @@
       "be": "раён Нхатакота",
       "no": "Nkhotakota"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NS": {
     "name": "Nsanje",
-    "code": null,
+    "code": "NS",
     "unofficial_names": "Nsanje",
     "geo": {
       "latitude": -16.916667,
@@ -1259,11 +1438,12 @@
       "uk": "Район Нсанье",
       "no": "Nsanje"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NU": {
     "name": "Ntcheu",
-    "code": null,
+    "code": "NU",
     "unofficial_names": "Ntcheu",
     "geo": {
       "latitude": -14.8219765,
@@ -1319,11 +1499,12 @@
       "uk": "Нтчеу",
       "no": "Ntcheu"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PH": {
     "name": "Phalombe",
-    "code": null,
+    "code": "PH",
     "unofficial_names": "Phalombe",
     "geo": {
       "latitude": -15.7633303,
@@ -1380,11 +1561,12 @@
       "ca": "districte de Phalombe",
       "no": "Phalombe"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "RU": {
     "name": "Rumphi",
-    "code": null,
+    "code": "RU",
     "unofficial_names": "Rumphi",
     "geo": {
       "latitude": -11.016667,
@@ -1442,11 +1624,61 @@
       "uk": "Район Румфі",
       "no": "Rumphi"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "S": {
+    "name": "Southern",
+    "code": "S",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "az": "Cənub bölgəsi",
+      "bg": "Южен регион",
+      "de": "Southern Region",
+      "el": "Νότια Περιφέρεια",
+      "en": "Southern",
+      "es": "Región del Sur",
+      "fa": "منطقه جنوبی مالاوی",
+      "fi": "Eteläinen alue",
+      "fr": "Région Sud",
+      "gl": "Rexión Sur",
+      "it": "regione Meridionale",
+      "ja": "南部州",
+      "ka": "მალავის სამხრეთი რეგიონი",
+      "ko": "남부 주",
+      "lt": "Pietų regionas",
+      "nb": "Southern",
+      "nl": "Southern",
+      "pt": "Região Sul",
+      "ro": "Regiunea Southern",
+      "ru": "Южный регион",
+      "sr": "Јужни регион",
+      "sv": "Southern Region",
+      "tr": "Güney Bölgesi",
+      "uk": "Південний регіон",
+      "ur": "جنوبی علاقہ، ملاوی",
+      "ceb": "Southern Region",
+      "sr_Latn": "Južni region",
+      "zh": "南部区",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "ca": "Regió del Sud",
+      "be": "Паўднёвы рэгіён",
+      "no": "Southern"
+    },
+    "comments": null,
+    "type": "region"
   },
   "SA": {
     "name": "Salima",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Salima",
     "geo": {
       "latitude": -13.7795533,
@@ -1502,11 +1734,12 @@
       "uk": "Район Саліма",
       "no": "Salima"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TH": {
     "name": "Thyolo",
-    "code": null,
+    "code": "TH",
     "unofficial_names": "Thyolo",
     "geo": {
       "latitude": -16.066667,
@@ -1543,11 +1776,12 @@
       "ccp": "𑄒𑄭𑄠𑄮𑄣𑄮",
       "no": "Thyolo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "ZO": {
     "name": "Zomba",
-    "code": null,
+    "code": "ZO",
     "unofficial_names": "Zomba",
     "geo": {
       "latitude": -15.383333,
@@ -1586,211 +1820,8 @@
       "be": "раён Зомба",
       "no": "Zomba"
     },
-    "comments": null
-  },
-  "NE": {
-    "name": "Neno",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "مقاطعة نينو",
-      "az": "Neno",
-      "bg": "Нено",
-      "bn": "নেনো জেলা",
-      "da": "Neno District",
-      "de": "Neno-Distrikt",
-      "el": "Νένο",
-      "en": "Neno",
-      "es": "Distrito de Neno",
-      "fa": "بخش ننو",
-      "fi": "Nenon piirikunta",
-      "fr": "District de Neno",
-      "gl": "Distrito de Neno",
-      "gu": "નેનો જિલ્લો",
-      "hi": "नेनो जिला",
-      "id": "Distrik Neno",
-      "it": "Distretto di Neno",
-      "ja": "ネノ",
-      "ka": "ნენოს რაიონი",
-      "kn": "ನೆನೊ ಜಿಲ್ಲೆ",
-      "ko": "네노 현",
-      "mr": "नेनो जिल्हा",
-      "ms": "Neno District",
-      "nb": "Neno",
-      "nl": "Neno District",
-      "pl": "Dystrykt Neno",
-      "pt": "Neno",
-      "ro": "Districtul Neno",
-      "ru": "Нено",
-      "si": "නෙනෝ දිස්ත්‍රික්කය",
-      "sv": "Neno",
-      "ta": "நேனோ மாவட்டம்",
-      "te": "నెనో జిల్లా",
-      "th": "เขตนีโน",
-      "tr": "Neno",
-      "ur": "نینو ضلع",
-      "vi": "Neno Quận",
-      "lv": "Neno distrikts",
-      "ceb": "Neno District",
-      "lt": "Neno apskritis",
-      "ccp": "𑄚𑄬𑄚𑄮",
-      "uk": "Район Нено",
-      "no": "Neno"
-    },
-    "comments": null
-  },
-  "C": {
-    "name": "Central",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "az": "Mərkəz bölgəsi",
-      "bg": "Централен регион",
-      "ca": "Regió Central",
-      "de": "Central Region",
-      "el": "Κεντρική Περιφέρεια",
-      "en": "Central",
-      "es": "Región Central",
-      "fa": "منطقه مرکزی مالاوی",
-      "fi": "Keskinen alue",
-      "fr": "Malawi central",
-      "gl": "Rexión Central",
-      "id": "Region Tengah",
-      "it": "regione Centrale",
-      "ja": "中部州",
-      "ka": "მალავის ცენტრალური რეგიონი",
-      "ko": "중부 주",
-      "lt": "Centrinis regionas",
-      "nb": "Central",
-      "nl": "Central",
-      "pt": "Região Central",
-      "ro": "Regiunea Central",
-      "ru": "Центральный регион",
-      "sr": "Централни регион",
-      "sv": "Central Region",
-      "tr": "Merkez Bölgesi",
-      "uk": "Центральний регіон",
-      "ur": "وسطی علاقہ، ملاوی",
-      "ceb": "Central Region",
-      "sr_Latn": "Centralni region",
-      "zh": "中央区",
-      "ccp": "𑄥𑄬𑄚𑄑𑄳𑄢𑄣𑄴",
-      "be": "Цэнтральны рэгіён",
-      "no": "Central"
-    },
-    "comments": null
-  },
-  "N": {
-    "name": "Northern",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "az": "Şimal bölgəsi",
-      "bg": "Северен регион",
-      "de": "Northern Region",
-      "el": "Βόρεια Περιφέρεια",
-      "en": "Northern",
-      "es": "Región del Norte",
-      "fa": "منطقه شمالی مالاوی",
-      "fi": "Pohjoinen alue",
-      "fr": "Région Nord",
-      "gl": "Rexión Norte",
-      "it": "regione Settentrionale",
-      "ja": "北部州",
-      "ka": "მალავის ჩრდილოეთი რეგიონი",
-      "ko": "북부 주",
-      "lt": "Šiaurės regionas",
-      "nb": "Northern",
-      "nl": "Northern",
-      "pt": "Região Norte",
-      "ro": "Regiunea Northern",
-      "ru": "Северный регион",
-      "sr": "Северни регион",
-      "sv": "Northern Region",
-      "tr": "Kuzey Bölgesi",
-      "uk": "Північний регіон",
-      "ur": "شمالی علاقہ، ملاوی",
-      "ceb": "Northern Region",
-      "sr_Latn": "Severni region",
-      "zh": "北部区",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "ca": "Regió del Nort",
-      "be": "Паўночны рэгіён",
-      "no": "Northern"
-    },
-    "comments": null
-  },
-  "S": {
-    "name": "Southern",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "az": "Cənub bölgəsi",
-      "bg": "Южен регион",
-      "de": "Southern Region",
-      "el": "Νότια Περιφέρεια",
-      "en": "Southern",
-      "es": "Región del Sur",
-      "fa": "منطقه جنوبی مالاوی",
-      "fi": "Eteläinen alue",
-      "fr": "Région Sud",
-      "gl": "Rexión Sur",
-      "it": "regione Meridionale",
-      "ja": "南部州",
-      "ka": "მალავის სამხრეთი რეგიონი",
-      "ko": "남부 주",
-      "lt": "Pietų regionas",
-      "nb": "Southern",
-      "nl": "Southern",
-      "pt": "Região Sul",
-      "ro": "Regiunea Southern",
-      "ru": "Южный регион",
-      "sr": "Јужни регион",
-      "sv": "Southern Region",
-      "tr": "Güney Bölgesi",
-      "uk": "Південний регіон",
-      "ur": "جنوبی علاقہ، ملاوی",
-      "ceb": "Southern Region",
-      "sr_Latn": "Južni region",
-      "zh": "南部区",
-      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "ca": "Regió del Sud",
-      "be": "Паўднёвы рэгіён",
-      "no": "Southern"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Anse aux Pins",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Anse aux Pins",
     "geo": {
       "latitude": -4.6900443,
@@ -54,11 +54,12 @@
       "uk": "Анс-о-Пен",
       "no": "Anse aux Pins"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "02": {
     "name": "Anse Boileau",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Anse Boileau",
     "geo": {
       "latitude": -4.7047268,
@@ -112,11 +113,12 @@
       "uk": "Анс-Буало",
       "no": "Anse Boileau"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "03": {
     "name": "Anse Étoile",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Anse Étoile",
     "geo": {
       "latitude": -4.5962834,
@@ -170,11 +172,12 @@
       "uk": "Анс-Етуаль",
       "no": "Anse Etoile"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "04": {
     "name": "Anse Louis",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Anse Louis",
     "geo": {
       "latitude": -4.7189825,
@@ -227,11 +230,12 @@
       "uk": "О-Кап",
       "no": "Au Cap"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "05": {
     "name": "Anse Royale",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Anse Royale",
     "geo": {
       "latitude": -4.733333,
@@ -284,11 +288,12 @@
       "uk": "Анс-Рояль",
       "no": "Anse Royale"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "06": {
     "name": "Baie Lazare",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Baie Lazare",
     "geo": {
       "latitude": -4.7482525,
@@ -341,11 +346,12 @@
       "uk": "Бе-Лазар",
       "no": "Baie Lazare"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "07": {
     "name": "Baie Sainte Anne",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Baie Sainte Anne",
     "geo": {
       "latitude": -4.3193277,
@@ -398,11 +404,12 @@
       "uk": "Бе-Сент-Анн",
       "no": "Baie Sainte Anne"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "08": {
     "name": "Beau Vallon",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Beau Vallon",
     "geo": {
       "latitude": -4.6210967,
@@ -455,11 +462,12 @@
       "uk": "Бо-Валон",
       "no": "Beau Vallon"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "09": {
     "name": "Bel Air",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Bel Air",
     "geo": {
       "latitude": -4.6440325,
@@ -512,11 +520,12 @@
       "uk": "Белер",
       "no": "Bel Air"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "10": {
     "name": "Bel Ombre",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Bel Ombre",
     "geo": {
       "latitude": -4.6204838,
@@ -569,11 +578,12 @@
       "uk": "Бел-Омбре",
       "no": "Bel Ombre"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "11": {
     "name": "Cascade",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Cascade",
     "geo": {
       "latitude": -4.670554099999999,
@@ -626,11 +636,12 @@
       "uk": "Каскад",
       "no": "Cascade"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "12": {
     "name": "Glacis",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Glacis",
     "geo": {
       "latitude": -4.5719729,
@@ -684,11 +695,12 @@
       "be": "Гласіс",
       "no": "Glacis"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "13": {
     "name": "Grand' Anse (Mahé)",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Grand' Anse (Mahé)",
     "geo": {
       "latitude": -4.677392,
@@ -717,11 +729,12 @@
       "ka": "გრანდ-ანსი",
       "de": "Grand Anse (Mahé)"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "14": {
     "name": "Grand' Anse (Praslin)",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Grand' Anse (Praslin)",
     "geo": {
       "latitude": -4.3176219,
@@ -773,11 +786,12 @@
       "uk": "Гранд-Анс-Праслін",
       "no": "Grand Anse Praslin"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "15": {
     "name": "La Digue",
-    "code": null,
+    "code": "15",
     "unofficial_names": "La Digue",
     "geo": {
       "latitude": -4.3590972,
@@ -818,11 +832,12 @@
       "ccp": "𑄣 𑄓𑄨𑄉𑄪",
       "cs": "La Digue"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "16": {
     "name": "La Rivière Anglaise",
-    "code": null,
+    "code": "16",
     "unofficial_names": "La Rivière Anglaise",
     "geo": {
       "latitude": -4.6149553,
@@ -875,11 +890,12 @@
       "uk": "Ла-Рівьєр-Англез",
       "no": "English River"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "17": {
     "name": "Mont Buxton",
-    "code": null,
+    "code": "17",
     "unofficial_names": "Mont Buxton",
     "geo": {
       "latitude": -4.6166667,
@@ -932,11 +948,12 @@
       "uk": "Монт-Бакстон",
       "no": "Mont Buxton"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "18": {
     "name": "Mont Fleuri",
-    "code": null,
+    "code": "18",
     "unofficial_names": "Mont Fleuri",
     "geo": {
       "latitude": -4.6356543,
@@ -989,11 +1006,12 @@
       "uk": "Монт-Флері",
       "no": "Mont Fleuri"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "19": {
     "name": "Plaisance",
-    "code": null,
+    "code": "19",
     "unofficial_names": "Plaisance",
     "geo": {
       "latitude": -4.6489918,
@@ -1046,11 +1064,12 @@
       "uk": "Плезанс",
       "no": "Plaisance"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "20": {
     "name": "Pointe La Rue",
-    "code": null,
+    "code": "20",
     "unofficial_names": "Pointe La Rue",
     "geo": {
       "latitude": -4.680489,
@@ -1103,11 +1122,12 @@
       "uk": "Пуант-Ларю",
       "no": "Pointe La Rue"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "21": {
     "name": "Port Glaud",
-    "code": null,
+    "code": "21",
     "unofficial_names": "Port Glaud",
     "geo": {
       "latitude": -4.6488523,
@@ -1160,11 +1180,12 @@
       "uk": "Пор Гло",
       "no": "Port Glaud"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "22": {
     "name": "Saint Louis",
-    "code": null,
+    "code": "22",
     "unofficial_names": "Saint Louis",
     "geo": {
       "latitude": -4.625194899999999,
@@ -1218,11 +1239,12 @@
       "uk": "Парафія Сент-Луїс",
       "no": "Saint Louis"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "23": {
     "name": "Takamaka",
-    "code": null,
+    "code": "23",
     "unofficial_names": "Takamaka",
     "geo": {
       "latitude": -4.7843688,
@@ -1275,11 +1297,12 @@
       "uk": "Такамака",
       "no": "Takamaka"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "24": {
     "name": "Les Mamelles",
-    "code": null,
+    "code": "24",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1332,11 +1355,12 @@
       "uk": "Ле-Мамель",
       "no": "Les Mamelles"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "25": {
     "name": "Roche Caïman",
-    "code": null,
+    "code": "25",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1389,19 +1413,24 @@
       "uk": "Рош-Кайман",
       "no": "Roche Caiman"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "26": {
     "translations": {
       "en": "Ile Perseverance I"
     },
-    "name": "Ile Perseverance I"
+    "name": "Ile Perseverance I",
+    "code": "26",
+    "type": "district"
   },
   "27": {
     "translations": {
       "en": "Ile Perseverance II"
     },
-    "name": "Ile Perseverance II"
+    "name": "Ile Perseverance II",
+    "code": "27",
+    "type": "district"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "BE": {
     "name": "Belait",
-    "code": null,
+    "code": "BE",
     "unofficial_names": "Belait",
     "geo": {
       "latitude": 4.449758,
@@ -58,11 +58,12 @@
       "ca": "Districte de Belait",
       "no": "Belait distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "BM": {
     "name": "Brunei-Muara",
-    "code": null,
+    "code": "BM",
     "unofficial_names": "Brunei-Muara",
     "geo": {
       "latitude": 4.9311206,
@@ -119,11 +120,12 @@
       "ccp": "𑄝𑄳𑄢𑄪𑄚𑄬𑄭-𑄟𑄧𑄅𑄪𑄢",
       "no": "Brunei-Muara distrik"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TE": {
     "name": "Temburong",
-    "code": null,
+    "code": "TE",
     "unofficial_names": "Temburong",
     "geo": {
       "latitude": 4.6204128,
@@ -181,11 +183,12 @@
       "ca": "Districte de Temburong",
       "no": "Temburong distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TU": {
     "name": "Tutong",
-    "code": null,
+    "code": "TU",
     "unofficial_names": "Tutong",
     "geo": {
       "latitude": 4.7140373,
@@ -242,7 +245,8 @@
       "ca": "Districte de Tutong",
       "no": "Tutong"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "BAL": {
     "name": "Balkh",
-    "code": null,
+    "code": "BAL",
     "unofficial_names": [
       "Balkh"
     ],
@@ -71,11 +71,12 @@
       "pa": "ਬਲਖ ਸੂਬਾ",
       "no": "Balkh"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAM": {
     "name": "Bamian",
-    "code": null,
+    "code": "BAM",
     "unofficial_names": [
       "Bamian",
       "Bamiyan",
@@ -149,11 +150,12 @@
       "ml": "ബാമിയാൻ പ്രവിശ്യ",
       "no": "Bamiyan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BDG": {
     "name": "Badghis",
-    "code": null,
+    "code": "BDG",
     "unofficial_names": [
       "Badghis",
       "Badgis",
@@ -225,11 +227,12 @@
       "ccp": "𑄝𑄖𑄴𑄊𑄨𑄌𑄴",
       "no": "Badghis"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BDS": {
     "name": "Badakhshan",
-    "code": null,
+    "code": "BDS",
     "unofficial_names": [
       "Badaẖšan"
     ],
@@ -302,11 +305,12 @@
       "pa": "ਸੂਬਾ ਬਦਖ਼ਸ਼ਾਂ",
       "no": "Badakhshan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BGL": {
     "name": "Baghlan",
-    "code": null,
+    "code": "BGL",
     "unofficial_names": [
       "Baghlan",
       "Baghlān",
@@ -376,11 +380,12 @@
       "ccp": "𑄝𑄇𑄴𑄣𑄚𑄴",
       "no": "Baghlan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DAY": {
     "name": "Daykondi",
-    "code": null,
+    "code": "DAY",
     "unofficial_names": [
       "Daikondi"
     ],
@@ -441,11 +446,12 @@
       "ccp": "𑄓𑄬𑄇𑄪𑄚𑄴𑄘𑄨",
       "no": "Daikondi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "FRA": {
     "name": "Farah",
-    "code": null,
+    "code": "FRA",
     "unofficial_names": [
       "Fahrah"
     ],
@@ -512,11 +518,12 @@
       "ccp": "𑄜𑄢𑄦𑄴",
       "no": "Farah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "FYB": {
     "name": "Faryab",
-    "code": null,
+    "code": "FYB",
     "unofficial_names": [
       "Fariab"
     ],
@@ -585,11 +592,12 @@
       "uz": "Foryob (viloyat)",
       "no": "Faryab"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GHA": {
     "name": "Ghazni",
-    "code": null,
+    "code": "GHA",
     "unofficial_names": [
       "Gazni",
       "Ghazni"
@@ -660,11 +668,12 @@
       "pa": "ਗਜ਼ਨੀ ਸੂਬਾ",
       "no": "Ghazni"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GHO": {
     "name": "Ghowr",
-    "code": null,
+    "code": "GHO",
     "unofficial_names": [
       "Ghawr",
       "Ghor",
@@ -735,11 +744,12 @@
       "pa": "ਗ਼ੋਰ ਸੂਬਾ",
       "no": "Ghowr"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HEL": {
     "name": "Helmand",
-    "code": null,
+    "code": "HEL",
     "unofficial_names": [
       "Helmand",
       "Hilmend"
@@ -811,11 +821,12 @@
       "pa": "ਹੇਲਮੰਦ ਸੂਬਾ",
       "no": "Helmand"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HER": {
     "name": "Herat",
-    "code": null,
+    "code": "HER",
     "unofficial_names": [
       "Herat"
     ],
@@ -882,11 +893,12 @@
       "ccp": "𑄦𑄬𑄢𑄖𑄴",
       "no": "Herat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JOW": {
     "name": "Jowzjan",
-    "code": null,
+    "code": "JOW",
     "unofficial_names": [
       "Jawzjan",
       "Jowzjan",
@@ -959,11 +971,12 @@
       "uz": "Joʻzjon",
       "no": "Jowzjan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KAB": {
     "name": "Kabul [Kabol]",
-    "code": null,
+    "code": "KAB",
     "unofficial_names": [
       "Kabol",
       "Kābol",
@@ -1034,11 +1047,12 @@
       "tk": "Kabul welaýaty",
       "no": "Kabul"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KAN": {
     "name": "Kandahar",
-    "code": null,
+    "code": "KAN",
     "unofficial_names": [
       "Kandahar"
     ],
@@ -1107,11 +1121,12 @@
       "ccp": "𑄇𑄚𑄴𑄘𑄦𑄢𑄴",
       "no": "Kandahar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KAP": {
     "name": "Kapisa",
-    "code": null,
+    "code": "KAP",
     "unofficial_names": [
       "Kapesa",
       "Kapisa",
@@ -1181,11 +1196,12 @@
       "pa": "ਕਾਪੀਸਾ",
       "no": "Kapisa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KDZ": {
     "name": "Kondoz [Kunduz]",
-    "code": null,
+    "code": "KDZ",
     "unofficial_names": [
       "Kondoz",
       "Kondūz",
@@ -1257,11 +1273,12 @@
       "ccp": "𑄇𑄪𑄚𑄴𑄓𑄪𑄌𑄴",
       "no": "Kunduz"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KHO": {
     "name": "Khowst",
-    "code": null,
+    "code": "KHO",
     "unofficial_names": [
       "H̱ōst",
       "Khawst",
@@ -1334,11 +1351,12 @@
       "pa": "ਖੋਸਤ",
       "no": "Khost"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KNR": {
     "name": "Konar [Kunar]",
-    "code": null,
+    "code": "KNR",
     "unofficial_names": [
       "Konar",
       "Konarhā"
@@ -1406,11 +1424,12 @@
       "pa": "ਕੁਨੜ ਸੂਬਾ",
       "no": "Konar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LAG": {
     "name": "Laghman",
-    "code": null,
+    "code": "LAG",
     "unofficial_names": [
       "Laghman",
       "Laghmān",
@@ -1479,34 +1498,83 @@
       "pa": "ਲਗਮਾਨ",
       "no": "Laghman"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "LOW": {
-    "name": "Lowgar",
-    "code": null,
-    "unofficial_names": [
-      "Lawgar",
-      "Logar",
-      "Loghar",
-      "Lowgar",
-      "Lowghar"
-    ],
+  "LOG": {
+    "name": "لوګر ولايت",
+    "code": "LOG",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 34.0145518,
-      "longitude": 69.1923916,
-      "min_latitude": 33.602526,
-      "min_longitude": 68.716335,
-      "max_latitude": 34.366983,
-      "max_longitude": 69.8876531
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Lowgar"
+      "ar": "ولاية لوكر",
+      "az": "Lövgər vilayəti",
+      "be": "Правінцыя Лагар",
+      "bg": "Логар",
+      "bn": "লগার",
+      "ca": "Província de Lowgar",
+      "cs": "Lógar",
+      "da": "Lowgar",
+      "de": "Lugar",
+      "el": "Λογκάρ",
+      "en": "Logar",
+      "es": "Provincia de Lawgar",
+      "et": "Lowgari provints",
+      "eu": "Logar probintzia",
+      "fa": "ولایت لوگر",
+      "fi": "Logarin maakunta",
+      "fr": "Lôgar",
+      "gu": "લોગર",
+      "he": "לוגר",
+      "hi": "लोगर प्रान्त",
+      "id": "Logar",
+      "it": "Lowgar",
+      "ja": "ローガル州",
+      "ka": "ლოგარის პროვინცია",
+      "kn": "ಲೋಗರ್",
+      "ko": "로가르 주",
+      "lt": "Logaro provincija",
+      "mn": "Логар аймаг",
+      "mr": "लोंगर",
+      "ms": "Wilayah Logar",
+      "nb": "Lowgar",
+      "nl": "Logar",
+      "pl": "Logar",
+      "ps": "لوګر ولايت",
+      "pt": "Logar",
+      "ro": "Provincia Logar",
+      "ru": "Логар",
+      "si": "ලොගාර්",
+      "sr": "Провинција Логар",
+      "sv": "Lowgar",
+      "ta": "லோகர்",
+      "te": "లోగర్",
+      "th": "แคว้นโลเรโต",
+      "tr": "Lovgar Vilayeti",
+      "uk": "Логар",
+      "ur": "صوبہ لوگر",
+      "vi": "Logar",
+      "lv": "Lougara",
+      "ceb": "Wilāyat-e Lōgar",
+      "sr_Latn": "Provincija Logar",
+      "zh": "洛加尔省",
+      "ccp": "𑄣𑄧𑄉𑄢𑄴",
+      "uz": "Luvgar",
+      "no": "Lowgar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NAN": {
     "name": "Nangrahar [Nangarhar]",
-    "code": null,
+    "code": "NAN",
     "unofficial_names": [
       "Nangarhar",
       "Ningarhar"
@@ -1576,11 +1644,12 @@
       "pa": "ਨੰਗਰਹਾਰ ਸੂਬਾ",
       "no": "Nangarhar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NIM": {
     "name": "Nimruz",
-    "code": null,
+    "code": "NIM",
     "unofficial_names": [
       "Chakhānsur",
       "Neemroze",
@@ -1652,11 +1721,12 @@
       "pa": "ਨੀਮਰੋਜ਼ ਸੂਬਾ",
       "no": "Nimruz"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NUR": {
     "name": "Nurestan",
-    "code": null,
+    "code": "NUR",
     "unofficial_names": [
       "Nooristan",
       "Nouristan",
@@ -1729,35 +1799,12 @@
       "uz": "Nuriston",
       "no": "Nuristān"
     },
-    "comments": null
-  },
-  "ORU": {
-    "name": "Oruzgan [Uruzgan]",
-    "code": null,
-    "unofficial_names": [
-      "Oruzgan",
-      "Oruzghan",
-      "Orūzghān",
-      "Uruzgan",
-      "Uruzghan",
-      "Urūzghān"
-    ],
-    "geo": {
-      "latitude": 32.93021,
-      "longitude": 66.63642899999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Oruzgan [Uruzgan]"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAN": {
     "name": "Panjshir",
-    "code": null,
+    "code": "PAN",
     "unofficial_names": [
       "Panjshir"
     ],
@@ -1815,11 +1862,12 @@
       "pa": "ਪੰਜਸ਼ਿਰ",
       "no": "Panjshir"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAR": {
     "name": "Parwan",
-    "code": null,
+    "code": "PAR",
     "unofficial_names": [
       "Parvan",
       "Parvān",
@@ -1889,11 +1937,12 @@
       "pa": "ਪਰਵਾਨ",
       "no": "Parvan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PIA": {
     "name": "Paktia",
-    "code": null,
+    "code": "PIA",
     "unofficial_names": [
       "Paktia",
       "Paktiya",
@@ -1962,11 +2011,12 @@
       "pa": "ਪਕਤੀਆ",
       "no": "Paktia"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PKA": {
     "name": "Paktika",
-    "code": null,
+    "code": "PKA",
     "unofficial_names": [
       "Paktika"
     ],
@@ -2033,11 +2083,12 @@
       "pa": "ਪਕਤੀਕਾ",
       "no": "Paktika"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SAM": {
     "name": "Samangan",
-    "code": null,
+    "code": "SAM",
     "unofficial_names": "Samangan",
     "geo": {
       "latitude": 35.9807296,
@@ -2103,11 +2154,12 @@
       "pa": "ਸਮੰਗਾਨ ਸੂਬਾ",
       "no": "Samangan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SAR": {
     "name": "Sar-e Pol",
-    "code": null,
+    "code": "SAR",
     "unofficial_names": [
       "Sar-e Pol",
       "Sar-i Pol",
@@ -2176,11 +2228,12 @@
       "pa": "ਸਰੇ ਪੋਲ",
       "no": "Sar-e Pol"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TAK": {
     "name": "Takhar",
-    "code": null,
+    "code": "TAK",
     "unofficial_names": [
       "Tahar",
       "Takhar",
@@ -2250,11 +2303,83 @@
       "pa": "ਤਖਾਰ ਸੂਬਾ",
       "no": "Takhar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "URU": {
+    "name": "روزګان ولايت",
+    "code": "URU",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "ولاية أروزكان",
+      "az": "Uruzgan",
+      "be": "Правінцыя Урузган",
+      "bg": "Орузган",
+      "bn": "ওরুজ্‌গন প্রদেশ",
+      "ca": "Província d’Oruzgan",
+      "cs": "Orúzgán",
+      "da": "Oruzgan",
+      "de": "Urusgan",
+      "el": "Ορουζγκάν",
+      "en": "Urozgan",
+      "es": "Provincia de Urūzgān",
+      "et": "Uruzgāni provints",
+      "eu": "Oruzgan probintzia",
+      "fa": "ولایت اروزگان",
+      "fi": "Uruzganin maakunta",
+      "fr": "Orozgân",
+      "gu": "ઉરોઝગન",
+      "hi": "ओरूज़्गान प्रान्त",
+      "id": "Provinsi Oruzgan",
+      "it": "Oruzgan",
+      "ja": "ウルーズガーン州",
+      "ka": "ურუზგანის პროვინცია",
+      "kn": "ಉರೊಜ್ಗನ್",
+      "ko": "우루즈간 주",
+      "lt": "Urozgano provincija",
+      "mn": "Урузган аймаг",
+      "mr": "उरोजगण",
+      "ms": "Urozgan",
+      "nb": "Uruzgan",
+      "nl": "Uruzgan",
+      "pl": "Oruzgan",
+      "ps": "روزګان ولايت",
+      "pt": "Oruzgan",
+      "ro": "Provincia Urozgan",
+      "ru": "Урузган",
+      "si": "උරෝස්ගන්",
+      "sr": "Провинција Орузган",
+      "sv": "Oruzgan",
+      "ta": "உரோஸ்க்கான்",
+      "te": "యూరోజ్గాన్",
+      "th": "จังหวัดอูรานกัน",
+      "tr": "Uruzgan Vilayeti",
+      "uk": "Урузган",
+      "ur": "اروزگان",
+      "vi": "Oruzgan",
+      "lv": "Orūzgānas province",
+      "ceb": "Uruzgān",
+      "sr_Latn": "Provincija Oruzgan",
+      "zh": "乌鲁兹甘省",
+      "ccp": "𑄅𑄪𑄢𑄧𑄌𑄴𑄉𑄧𑄚𑄴",
+      "pa": "ਓਰੁਜਗਾਨ ਸੂਬਾ",
+      "ml": "ഉറോസ്ഗാൻ പ്രവിശ്യ",
+      "no": "Uruzgan"
+    },
+    "comments": null,
+    "type": "province"
   },
   "WAR": {
     "name": "Wardak [Wardag]",
-    "code": null,
+    "code": "WAR",
     "unofficial_names": [
       "Vardak",
       "Wardagh",
@@ -2323,11 +2448,12 @@
       "pa": "ਵਾਰਦਾਕ",
       "no": "Vardak"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZAB": {
     "name": "Zabol [Zabul]",
-    "code": null,
+    "code": "ZAB",
     "unofficial_names": [
       "Zabol",
       "Zabul",
@@ -2396,147 +2522,8 @@
       "pa": "ਜ਼ਾਬੁਲ ਸੂਬਾ",
       "no": "Zabol"
     },
-    "comments": null
-  },
-  "LOG": {
-    "name": "لوګر ولايت",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "ولاية لوكر",
-      "az": "Lövgər vilayəti",
-      "be": "Правінцыя Лагар",
-      "bg": "Логар",
-      "bn": "লগার",
-      "ca": "Província de Lowgar",
-      "cs": "Lógar",
-      "da": "Lowgar",
-      "de": "Lugar",
-      "el": "Λογκάρ",
-      "en": "Logar",
-      "es": "Provincia de Lawgar",
-      "et": "Lowgari provints",
-      "eu": "Logar probintzia",
-      "fa": "ولایت لوگر",
-      "fi": "Logarin maakunta",
-      "fr": "Lôgar",
-      "gu": "લોગર",
-      "he": "לוגר",
-      "hi": "लोगर प्रान्त",
-      "id": "Logar",
-      "it": "Lowgar",
-      "ja": "ローガル州",
-      "ka": "ლოგარის პროვინცია",
-      "kn": "ಲೋಗರ್",
-      "ko": "로가르 주",
-      "lt": "Logaro provincija",
-      "mn": "Логар аймаг",
-      "mr": "लोंगर",
-      "ms": "Wilayah Logar",
-      "nb": "Lowgar",
-      "nl": "Logar",
-      "pl": "Logar",
-      "ps": "لوګر ولايت",
-      "pt": "Logar",
-      "ro": "Provincia Logar",
-      "ru": "Логар",
-      "si": "ලොගාර්",
-      "sr": "Провинција Логар",
-      "sv": "Lowgar",
-      "ta": "லோகர்",
-      "te": "లోగర్",
-      "th": "แคว้นโลเรโต",
-      "tr": "Lovgar Vilayeti",
-      "uk": "Логар",
-      "ur": "صوبہ لوگر",
-      "vi": "Logar",
-      "lv": "Lougara",
-      "ceb": "Wilāyat-e Lōgar",
-      "sr_Latn": "Provincija Logar",
-      "zh": "洛加尔省",
-      "ccp": "𑄣𑄧𑄉𑄢𑄴",
-      "uz": "Luvgar",
-      "no": "Lowgar"
-    },
-    "comments": null
-  },
-  "URU": {
-    "name": "روزګان ولايت",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "ولاية أروزكان",
-      "az": "Uruzgan",
-      "be": "Правінцыя Урузган",
-      "bg": "Орузган",
-      "bn": "ওরুজ্‌গন প্রদেশ",
-      "ca": "Província d’Oruzgan",
-      "cs": "Orúzgán",
-      "da": "Oruzgan",
-      "de": "Urusgan",
-      "el": "Ορουζγκάν",
-      "en": "Urozgan",
-      "es": "Provincia de Urūzgān",
-      "et": "Uruzgāni provints",
-      "eu": "Oruzgan probintzia",
-      "fa": "ولایت اروزگان",
-      "fi": "Uruzganin maakunta",
-      "fr": "Orozgân",
-      "gu": "ઉરોઝગન",
-      "hi": "ओरूज़्गान प्रान्त",
-      "id": "Provinsi Oruzgan",
-      "it": "Oruzgan",
-      "ja": "ウルーズガーン州",
-      "ka": "ურუზგანის პროვინცია",
-      "kn": "ಉರೊಜ್ಗನ್",
-      "ko": "우루즈간 주",
-      "lt": "Urozgano provincija",
-      "mn": "Урузган аймаг",
-      "mr": "उरोजगण",
-      "ms": "Urozgan",
-      "nb": "Uruzgan",
-      "nl": "Uruzgan",
-      "pl": "Oruzgan",
-      "ps": "روزګان ولايت",
-      "pt": "Oruzgan",
-      "ro": "Provincia Urozgan",
-      "ru": "Урузган",
-      "si": "උරෝස්ගන්",
-      "sr": "Провинција Орузган",
-      "sv": "Oruzgan",
-      "ta": "உரோஸ்க்கான்",
-      "te": "యూరోజ్గాన్",
-      "th": "จังหวัดอูรานกัน",
-      "tr": "Uruzgan Vilayeti",
-      "uk": "Урузган",
-      "ur": "اروزگان",
-      "vi": "Oruzgan",
-      "lv": "Orūzgānas province",
-      "ceb": "Uruzgān",
-      "sr_Latn": "Provincija Oruzgan",
-      "zh": "乌鲁兹甘省",
-      "ccp": "𑄅𑄪𑄢𑄧𑄌𑄴𑄉𑄧𑄚𑄴",
-      "pa": "ਓਰੁਜਗਾਨ ਸੂਬਾ",
-      "ml": "ഉറോസ്ഗാൻ പ്രവിശ്യ",
-      "no": "Uruzgan"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

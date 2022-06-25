@@ -1,7 +1,7 @@
 {
   "AH": {
     "name": "Al Ahmadi",
-    "code": null,
+    "code": "AH",
     "unofficial_names": [
       "Ahmadi"
     ],
@@ -55,11 +55,12 @@
       "uk": "Муніципалітет Ель-Ахмаді",
       "no": "Al Ahmadi Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "FA": {
     "name": "Al Farwaniyah",
-    "code": null,
+    "code": "FA",
     "unofficial_names": [
       "Farwaniyah"
     ],
@@ -114,11 +115,12 @@
       "uk": "Меніципалітет Ель-Фарванія",
       "no": "Al Farwaniyah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "HA": {
     "name": "Hawalli",
-    "code": null,
+    "code": "HA",
     "unofficial_names": [
       "Hawalli"
     ],
@@ -173,11 +175,12 @@
       "ccp": "𑄦𑄤𑄣𑄨",
       "no": "Hawalli"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JA": {
     "name": "Al Jahrah",
-    "code": null,
+    "code": "JA",
     "unofficial_names": [
       "Al Jahra",
       "Jahra",
@@ -219,11 +222,12 @@
       "ccp": "𑄃𑄣𑄴 𑄎𑄦𑄴𑄢",
       "ca": "Governació d’Al Jahra"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "KU": {
     "name": "Al Kuwayt",
-    "code": null,
+    "code": "KU",
     "unofficial_names": [
       "Capital",
       "Koweit",
@@ -269,11 +273,12 @@
       "ccp": "𑄃𑄣𑄴 𑄃𑄥𑄨𑄟𑄦𑄴",
       "no": "Al Asimah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MU": {
     "name": "Mubarak al-Kabir",
-    "code": null,
+    "code": "MU",
     "unofficial_names": "Mubarak al-Kabir",
     "geo": {
       "latitude": 29.21224,
@@ -325,7 +330,8 @@
       "uk": "Муніципалітет Мубарак-аль-Кабір",
       "no": "Mubarak Al-Kabeer"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   }
 }
 

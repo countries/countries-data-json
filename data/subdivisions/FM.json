@@ -1,7 +1,7 @@
 {
   "KSA": {
     "name": "Kosrae",
-    "code": null,
+    "code": "KSA",
     "unofficial_names": [
       "Kosrae"
     ],
@@ -63,11 +63,12 @@
       "ccp": "𑄇𑄮𑄌𑄴𑄢𑄬",
       "no": "Kosrae"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PNI": {
     "name": "Pohnpei",
-    "code": null,
+    "code": "PNI",
     "unofficial_names": [
       "Ascension",
       "Ponape"
@@ -123,11 +124,12 @@
       "uk": "Понпеі",
       "no": "Pohnpei state"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TRK": {
     "name": "Chuuk",
-    "code": null,
+    "code": "TRK",
     "unofficial_names": [
       "Chuk",
       "Hogoley Islands",
@@ -194,11 +196,12 @@
       "mk": "Чук",
       "no": "Chuuk"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "YAP": {
     "name": "Yap",
-    "code": null,
+    "code": "YAP",
     "unofficial_names": "Yap",
     "geo": {
       "latitude": 9.539137199999999,
@@ -228,7 +231,8 @@
       "ccp": "𑄃𑄨𑄠𑄛𑄴",
       "ca": "Estat de Yap"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

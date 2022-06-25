@@ -1,7 +1,7 @@
 {
   "AMA": {
     "name": "Amazonas",
-    "code": null,
+    "code": "AMA",
     "unofficial_names": "Amazonas",
     "geo": {
       "latitude": -5.115146,
@@ -64,11 +64,12 @@
       "mk": "Амазон",
       "no": "Amazonas"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ANC": {
     "name": "Ancash",
-    "code": null,
+    "code": "ANC",
     "unofficial_names": [
       "Anqas"
     ],
@@ -133,11 +134,12 @@
       "mk": "Анкаш",
       "no": "Ancash"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "APU": {
     "name": "Apurímac",
-    "code": null,
+    "code": "APU",
     "unofficial_names": "Apurímac",
     "geo": {
       "latitude": -14.0504533,
@@ -199,11 +201,12 @@
       "mk": "Апуримак",
       "no": "Apurímac"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ARE": {
     "name": "Arequipa",
-    "code": null,
+    "code": "ARE",
     "unofficial_names": [
       "Areqepa"
     ],
@@ -267,11 +270,12 @@
       "mk": "Арекипа",
       "no": "Arequipa"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AYA": {
     "name": "Ayacucho",
-    "code": null,
+    "code": "AYA",
     "unofficial_names": [
       "Ayakuchu"
     ],
@@ -335,11 +339,12 @@
       "mk": "Ајакучо",
       "no": "Ayacucho"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CAJ": {
     "name": "Cajamarca",
-    "code": null,
+    "code": "CAJ",
     "unofficial_names": "Cajamarca",
     "geo": {
       "latitude": -6.4549673,
@@ -398,11 +403,12 @@
       "mk": "Кахамарка",
       "no": "Cajamarca"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CAL": {
     "name": "El Callao",
-    "code": null,
+    "code": "CAL",
     "unofficial_names": "El Callao",
     "geo": {
       "latitude": -12.0508491,
@@ -437,11 +443,12 @@
       "ccp": "𑄃𑄬𑄣𑄴 𑄇𑄣𑄃𑄮",
       "no": "Callao"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CUS": {
     "name": "Cuzco [Cusco]",
-    "code": null,
+    "code": "CUS",
     "unofficial_names": [
       "Cuzco",
       "Qosqo"
@@ -504,11 +511,12 @@
       "mk": "Куско",
       "no": "Cusco"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "HUC": {
     "name": "Huánuco",
-    "code": null,
+    "code": "HUC",
     "unofficial_names": "Huánuco",
     "geo": {
       "latitude": -9.9298454,
@@ -566,11 +574,12 @@
       "mk": "Уануко",
       "no": "Huánuco"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "HUV": {
     "name": "Huancavelica",
-    "code": null,
+    "code": "HUV",
     "unofficial_names": "Huancavelica",
     "geo": {
       "latitude": -12.786389,
@@ -630,11 +639,12 @@
       "mk": "Уанкавелика",
       "no": "Huancavelica"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ICA": {
     "name": "Ica",
-    "code": null,
+    "code": "ICA",
     "unofficial_names": "Ica",
     "geo": {
       "latitude": -13.9379378,
@@ -692,11 +702,12 @@
       "mk": "Ика",
       "no": "Ica"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "JUN": {
     "name": "Junín",
-    "code": null,
+    "code": "JUN",
     "unofficial_names": "Junín",
     "geo": {
       "latitude": -11.335798,
@@ -755,11 +766,12 @@
       "mk": "Хунин",
       "no": "Junín"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LAL": {
     "name": "La Libertad",
-    "code": null,
+    "code": "LAL",
     "unofficial_names": "La Libertad",
     "geo": {
       "latitude": -8.143593300000001,
@@ -817,11 +829,12 @@
       "mk": "Ла Либертад",
       "no": "La Libertad"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LAM": {
     "name": "Lambayeque",
-    "code": null,
+    "code": "LAM",
     "unofficial_names": "Lambayeque",
     "geo": {
       "latitude": -6.4776528,
@@ -879,11 +892,12 @@
       "mk": "Ламбајеке",
       "no": "Lambayeque"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LIM": {
     "name": "Lima",
-    "code": null,
+    "code": "LIM",
     "unofficial_names": "Lima",
     "geo": {
       "latitude": -12.046374,
@@ -940,11 +954,72 @@
       "mk": "Лима",
       "no": "Lima"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "LMA": {
+    "name": "Lima Metropolitana",
+    "code": "LMA",
+    "unofficial_names": "Lima Metropolitana",
+    "geo": {
+      "latitude": -12.046374,
+      "longitude": -77.0427934,
+      "min_latitude": -12.0798252,
+      "min_longitude": -77.0883395,
+      "max_latitude": -12.0308632,
+      "max_longitude": -77.0020311
+    },
+    "translations": {
+      "ar": "محافظة ليما",
+      "be": "правінцыя Ліма",
+      "bn": "লিমা প্রদেশ",
+      "ca": "Província de Lima",
+      "da": "Lima²",
+      "de": "Provinz Lima",
+      "el": "Επαρχία Λίμας",
+      "en": "Lima",
+      "es": "Provincia de Lima",
+      "fi": "Liman metropolialue",
+      "fr": "province de Lima",
+      "gl": "Provincia de Lima",
+      "gu": "લિમા પ્રાંત",
+      "hi": "लीमा प्रांत",
+      "id": "Provinsi Lima",
+      "it": "provincia di Lima",
+      "ja": "リマ郡",
+      "ka": "ლიმა²",
+      "kn": "ಲಿಮಾ ಪ್ರಾಂತ್ಯ",
+      "ko": "리마 군",
+      "lt": "Limos provincija",
+      "mr": "लिमा प्रांत",
+      "ms": "Lima Province",
+      "nb": "Lima provins",
+      "nl": "Lima²",
+      "pl": "Prowincja Lima",
+      "pt": "Lima²",
+      "ro": "Provincia Lima",
+      "ru": "Лима²",
+      "si": "ලිමා පළාත²",
+      "sv": "Lima²",
+      "ta": "லிமா மாகாணம்",
+      "te": "లిమా ప్రావిన్స్",
+      "th": "จังหวัดลิมา",
+      "tr": "Lima ili",
+      "uk": "Ліма²",
+      "ur": "لیما صوبہ",
+      "vi": "Tỉnh Lima",
+      "lv": "Limas province",
+      "ceb": "Provincia de Lima",
+      "zh": "利馬省",
+      "ccp": "𑄣𑄨𑄟",
+      "no": "Lima provins"
+    },
+    "comments": null,
+    "type": "municipality"
   },
   "LOR": {
     "name": "Loreto",
-    "code": null,
+    "code": "LOR",
     "unofficial_names": "Loreto",
     "geo": {
       "latitude": -4.232472899999999,
@@ -1005,11 +1080,12 @@
       "mk": "Лорето",
       "no": "Loreto"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MDD": {
     "name": "Madre de Dios",
-    "code": null,
+    "code": "MDD",
     "unofficial_names": "Madre de Dios",
     "geo": {
       "latitude": -12.5986,
@@ -1067,11 +1143,12 @@
       "mk": "Мадре де Диос",
       "no": "Madre de Dios"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MOQ": {
     "name": "Moquegua",
-    "code": null,
+    "code": "MOQ",
     "unofficial_names": "Moquegua",
     "geo": {
       "latitude": -17.1927361,
@@ -1130,11 +1207,12 @@
       "mk": "Мокегва",
       "no": "Moquegua"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PAS": {
     "name": "Pasco",
-    "code": null,
+    "code": "PAS",
     "unofficial_names": "Pasco",
     "geo": {
       "latitude": -10.4475753,
@@ -1193,11 +1271,12 @@
       "mk": "Паско",
       "no": "Pasco"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PIU": {
     "name": "Piura",
-    "code": null,
+    "code": "PIU",
     "unofficial_names": "Piura",
     "geo": {
       "latitude": -5.2,
@@ -1255,11 +1334,12 @@
       "mk": "Пиура",
       "no": "Piura"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PUN": {
     "name": "Puno",
-    "code": null,
+    "code": "PUN",
     "unofficial_names": "Puno",
     "geo": {
       "latitude": -15.234875,
@@ -1309,11 +1389,12 @@
       "mk": "Пуно",
       "no": "Puno"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SAM": {
     "name": "San Martín",
-    "code": null,
+    "code": "SAM",
     "unofficial_names": "San Martín",
     "geo": {
       "latitude": -7.244488100000001,
@@ -1373,11 +1454,12 @@
       "mk": "Сан Мартин",
       "no": "San Martín"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TAC": {
     "name": "Tacna",
-    "code": null,
+    "code": "TAC",
     "unofficial_names": "Tacna",
     "geo": {
       "latitude": -18.0065679,
@@ -1437,11 +1519,12 @@
       "mk": "Такна",
       "no": "Tacna"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TUM": {
     "name": "Tumbes",
-    "code": null,
+    "code": "TUM",
     "unofficial_names": "Tumbes",
     "geo": {
       "latitude": -3.9338256,
@@ -1499,11 +1582,12 @@
       "mk": "Тумбес",
       "no": "Tumbes"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "UCA": {
     "name": "Ucayali",
-    "code": null,
+    "code": "UCA",
     "unofficial_names": "Ucayali",
     "geo": {
       "latitude": -9.8251183,
@@ -1564,66 +1648,8 @@
       "mk": "Укајали",
       "no": "Ucayali"
     },
-    "comments": null
-  },
-  "LMA": {
-    "name": "Lima Metropolitana",
-    "code": null,
-    "unofficial_names": "Lima Metropolitana",
-    "geo": {
-      "latitude": -12.046374,
-      "longitude": -77.0427934,
-      "min_latitude": -12.0798252,
-      "min_longitude": -77.0883395,
-      "max_latitude": -12.0308632,
-      "max_longitude": -77.0020311
-    },
-    "translations": {
-      "ar": "محافظة ليما",
-      "be": "правінцыя Ліма",
-      "bn": "লিমা প্রদেশ",
-      "ca": "Província de Lima",
-      "da": "Lima²",
-      "de": "Provinz Lima",
-      "el": "Επαρχία Λίμας",
-      "en": "Lima",
-      "es": "Provincia de Lima",
-      "fi": "Liman metropolialue",
-      "fr": "province de Lima",
-      "gl": "Provincia de Lima",
-      "gu": "લિમા પ્રાંત",
-      "hi": "लीमा प्रांत",
-      "id": "Provinsi Lima",
-      "it": "provincia di Lima",
-      "ja": "リマ郡",
-      "ka": "ლიმა²",
-      "kn": "ಲಿಮಾ ಪ್ರಾಂತ್ಯ",
-      "ko": "리마 군",
-      "lt": "Limos provincija",
-      "mr": "लिमा प्रांत",
-      "ms": "Lima Province",
-      "nb": "Lima provins",
-      "nl": "Lima²",
-      "pl": "Prowincja Lima",
-      "pt": "Lima²",
-      "ro": "Provincia Lima",
-      "ru": "Лима²",
-      "si": "ලිමා පළාත²",
-      "sv": "Lima²",
-      "ta": "லிமா மாகாணம்",
-      "te": "లిమా ప్రావిన్స్",
-      "th": "จังหวัดลิมา",
-      "tr": "Lima ili",
-      "uk": "Ліма²",
-      "ur": "لیما صوبہ",
-      "vi": "Tỉnh Lima",
-      "lv": "Limas province",
-      "ceb": "Provincia de Lima",
-      "zh": "利馬省",
-      "ccp": "𑄣𑄨𑄟",
-      "no": "Lima provins"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

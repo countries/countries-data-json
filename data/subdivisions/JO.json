@@ -1,7 +1,7 @@
 {
   "AJ": {
     "name": "Ajlun",
-    "code": null,
+    "code": "AJ",
     "unofficial_names": [
       "Ajloan",
       "Ajlun"
@@ -61,11 +61,12 @@
       "uk": "Муніципалітет Аджлун",
       "no": "Ailoun"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AM": {
     "name": "Amman",
-    "code": null,
+    "code": "AM",
     "unofficial_names": [
       "Amman"
     ],
@@ -124,11 +125,12 @@
       "be": "Аман",
       "no": "Amman Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AQ": {
     "name": "Aqaba",
-    "code": null,
+    "code": "AQ",
     "unofficial_names": [
       "Akaba",
       "Aqaba",
@@ -188,11 +190,12 @@
       "uk": "Муніципалітет Акаба",
       "no": "Aqaba Givernorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AT": {
     "name": "At Tafilah",
-    "code": null,
+    "code": "AT",
     "unofficial_names": [
       "Tafiela",
       "Tafileh",
@@ -251,11 +254,12 @@
       "uk": "Муніципалітет Тафіла",
       "no": "Tafilah Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AZ": {
     "name": "Az Zarqa'",
-    "code": null,
+    "code": "AZ",
     "unofficial_names": [
       "Zarka",
       "Zarqa",
@@ -314,11 +318,12 @@
       "uk": "Муніципалітет Ез-Зарка",
       "no": "Zarqa"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BA": {
     "name": "Al Balqa'",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Al Balqa'",
     "geo": {
       "latitude": 31.9676039,
@@ -374,11 +379,12 @@
       "uk": "Муніципалітет Ель-Балка",
       "no": "Balqa"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "IR": {
     "name": "Irbid",
-    "code": null,
+    "code": "IR",
     "unofficial_names": [
       "Irbit"
     ],
@@ -438,11 +444,12 @@
       "uk": "Муніципалітет Ірбід",
       "no": "Irbid"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JA": {
     "name": "Jarash",
-    "code": null,
+    "code": "JA",
     "unofficial_names": [
       "Jarash",
       "Jerash"
@@ -502,11 +509,12 @@
       "uk": "Муніципалітет Джараш",
       "no": "Jerash"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "KA": {
     "name": "Al Karak",
-    "code": null,
+    "code": "KA",
     "unofficial_names": [
       "Karak",
       "Kerak"
@@ -565,11 +573,12 @@
       "uk": "Муніципалітет Карак",
       "no": "Karak Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MA": {
     "name": "Al Mafraq",
-    "code": null,
+    "code": "MA",
     "unofficial_names": [
       "Mafraq"
     ],
@@ -628,11 +637,12 @@
       "uk": "Муніципалітет Ель-Мафрак",
       "no": "Magraq"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MD": {
     "name": "Madaba",
-    "code": null,
+    "code": "MD",
     "unofficial_names": [
       "Madaba",
       "Maʿdaba",
@@ -692,11 +702,12 @@
       "uk": "Муніципалітет Мадаба",
       "no": "Madaba Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MN": {
     "name": "Ma`an",
-    "code": null,
+    "code": "MN",
     "unofficial_names": [
       "Maan",
       "Maʿan"
@@ -754,7 +765,8 @@
       "uk": "Муніципалітет Маан",
       "no": "Maan Governorate"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   }
 }
 

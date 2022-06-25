@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Hodh ech Chargui",
-    "code": null,
+    "code": "01",
     "unofficial_names": [
       "Hud-ash-Sharqi",
       "Huđ-aš-Šarqi",
@@ -57,11 +57,12 @@
       "uk": "Регіон Год-еш-Шарґі",
       "no": "Hodh Ech Chargui"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "02": {
     "name": "Hodh el Gharbi",
-    "code": null,
+    "code": "02",
     "unofficial_names": [
       "Hud-al-Garbi",
       "Huđ-al-Ġarbi",
@@ -117,11 +118,12 @@
       "uk": "Регіон Ход-Ель-Гарбі",
       "no": "Hodh El Gharbi"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "03": {
     "name": "Assaba",
-    "code": null,
+    "code": "03",
     "unofficial_names": [
       "aş-Şabah",
       "Açaba"
@@ -177,11 +179,12 @@
       "uk": "Регіон Асаба",
       "no": "Assaba"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "04": {
     "name": "Gorgol",
-    "code": null,
+    "code": "04",
     "unofficial_names": [
       "Gorgol"
     ],
@@ -235,11 +238,12 @@
       "uk": "Регіон Горголь",
       "no": "Gorgol"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "05": {
     "name": "Brakna",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Brakna",
     "geo": {
       "latitude": 17.2317561,
@@ -293,11 +297,12 @@
       "uk": "Регіон Бракна",
       "no": "Brakna"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "06": {
     "name": "Trarza",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Trarza",
     "geo": {
       "latitude": 17.8664964,
@@ -351,11 +356,12 @@
       "cs": "Trarza",
       "no": "Trarza"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "07": {
     "name": "Adrar",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Adrar",
     "geo": {
       "latitude": 19.8652176,
@@ -410,11 +416,12 @@
       "uk": "Адрар",
       "no": "Adrar"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "08": {
     "name": "Dakhlet Nouâdhibou",
-    "code": null,
+    "code": "08",
     "unofficial_names": [
       "Dakhlat Nawadibu",
       "Đaẖlat Nawadību",
@@ -470,11 +477,12 @@
       "uk": "Регіон Дахлет-Нуадібу",
       "no": "Dakhlet Nouadhibou"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "09": {
     "name": "Tagant",
-    "code": null,
+    "code": "09",
     "unofficial_names": [
       "Tagant"
     ],
@@ -529,11 +537,12 @@
       "uk": "Регіон Тагант",
       "no": "Tagant"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "10": {
     "name": "Guidimaka",
-    "code": null,
+    "code": "10",
     "unofficial_names": [
       "Guidimaka"
     ],
@@ -588,11 +597,12 @@
       "uk": "Регіон Ґідімака (Кудимага)",
       "no": "Guidimaka"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "11": {
     "name": "Tiris Zemmour",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Tiris Zammur",
       "Tiris Zammūr",
@@ -648,11 +658,12 @@
       "uk": "Регіон Тіріс-Земур",
       "no": "Tiris Zemmour"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "12": {
     "name": "Inchiri",
-    "code": null,
+    "code": "12",
     "unofficial_names": [
       "Inširi",
       "Inchiri"
@@ -708,34 +719,12 @@
       "ccp": "𑄃𑄨𑄚𑄴𑄌𑄨𑄢𑄨",
       "no": "Inchiri"
     },
-    "comments": null
-  },
-  "NKC": {
-    "name": "Nouakchott",
-    "code": null,
-    "unofficial_names": [
-      "Anwāksūţ",
-      "Nawakshut",
-      "Nawākšūţ",
-      "Nouakchott"
-    ],
-    "geo": {
-      "latitude": 18.1,
-      "longitude": -15.95,
-      "min_latitude": 17.9728548,
-      "min_longitude": -16.0267681,
-      "max_latitude": 18.1614863,
-      "max_longitude": -15.8803537
-    },
-    "translations": {
-      "en": "Nouakchott",
-      "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "13": {
     "name": "Nouakchott Ouest",
-    "code": null,
+    "code": "13",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -752,11 +741,12 @@
       "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄃𑄧𑄠𑄬𑄌𑄴𑄑𑄴",
       "fr": "Nouakchott-Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "14": {
     "name": "نواكشوط الشمالية",
-    "code": null,
+    "code": "14",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -775,11 +765,12 @@
       "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄚𑄧𑄢𑄴𑄓𑄴",
       "fr": "Nouakchott-Nord"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "15": {
     "name": "نواكشوط الجنوبية",
-    "code": null,
+    "code": "15",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -798,7 +789,8 @@
       "ccp": "𑄚𑄯𑄠𑄮𑄇𑄴𑄌𑄮𑄖𑄴 𑄥𑄖𑄴",
       "fr": "Nouakchott-Sud"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

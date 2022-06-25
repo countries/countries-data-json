@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Azuay",
-    "code": null,
+    "code": "A",
     "unofficial_names": "Azuay",
     "geo": {
       "latitude": -2.9633245,
@@ -60,11 +60,12 @@
       "mk": "Азуај",
       "no": "Azuay"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "B": {
     "name": "Bolívar",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Bolívar",
     "geo": {
       "latitude": -1.5696244,
@@ -121,11 +122,12 @@
       "hy": "Բոլիվար",
       "no": "Bolívar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "C": {
     "name": "Carchi",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Carchi",
     "geo": {
       "latitude": 0.6625532,
@@ -184,11 +186,12 @@
       "he": "מחוז קארצ׳י",
       "no": "Carchi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "D": {
     "name": "Orellana",
-    "code": null,
+    "code": "D",
     "unofficial_names": "Orellana",
     "geo": {
       "latitude": -0.7112664999999999,
@@ -245,11 +248,12 @@
       "hy": "Օրելյանա",
       "no": "Orellana"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "E": {
     "name": "Esmeraldas",
-    "code": null,
+    "code": "E",
     "unofficial_names": "Esmeraldas",
     "geo": {
       "latitude": 0.9681789,
@@ -307,11 +311,12 @@
       "he": "מחוז אסמרלדס",
       "no": "Esmeraldas"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "F": {
     "name": "Cañar",
-    "code": null,
+    "code": "F",
     "unofficial_names": "Cañar",
     "geo": {
       "latitude": -2.555695,
@@ -367,11 +372,12 @@
       "ccp": "𑄇𑄬𑄚𑄢𑄴",
       "no": "Cañar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "G": {
     "name": "Guayas",
-    "code": null,
+    "code": "G",
     "unofficial_names": "Guayas",
     "geo": {
       "latitude": -1.9574839,
@@ -429,11 +435,12 @@
       "ccp": "𑄉𑄪𑄠𑄠𑄬𑄌𑄴",
       "no": "Guayas"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "H": {
     "name": "Chimborazo",
-    "code": null,
+    "code": "H",
     "unofficial_names": "Chimborazo",
     "geo": {
       "latitude": -1.4693018,
@@ -492,11 +499,12 @@
       "mk": "Чимборасо",
       "no": "Chimborazo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "I": {
     "name": "Imbabura",
-    "code": null,
+    "code": "I",
     "unofficial_names": "Imbabura",
     "geo": {
       "latitude": 0.367159,
@@ -554,11 +562,12 @@
       "he": "מחוז אימבאבורה",
       "no": "Imbabura"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "L": {
     "name": "Loja",
-    "code": null,
+    "code": "L",
     "unofficial_names": "Loja",
     "geo": {
       "latitude": -3.983333,
@@ -614,11 +623,12 @@
       "ccp": "𑄣𑄮𑄎",
       "no": "Loja"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "M": {
     "name": "Manabí",
-    "code": null,
+    "code": "M",
     "unofficial_names": "Manabí",
     "geo": {
       "latitude": -0.7416532,
@@ -677,11 +687,12 @@
       "cs": "Manabí",
       "no": "Manabí"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "N": {
     "name": "Napo",
-    "code": null,
+    "code": "N",
     "unofficial_names": "Napo",
     "geo": {
       "latitude": -0.7371233,
@@ -739,11 +750,12 @@
       "he": "מחוז נפו",
       "no": "Napo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "O": {
     "name": "El Oro",
-    "code": null,
+    "code": "O",
     "unofficial_names": "El Oro",
     "geo": {
       "latitude": -3.4454787,
@@ -800,11 +812,12 @@
       "hy": "Էլ Օրո",
       "no": "El Oro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "P": {
     "name": "Pichincha",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Pichincha",
     "geo": {
       "latitude": -0.1464847,
@@ -862,11 +875,12 @@
       "hy": "Պիչինչա",
       "no": "Pichincha"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "R": {
     "name": "Los Ríos",
-    "code": null,
+    "code": "R",
     "unofficial_names": "Los Ríos",
     "geo": {
       "latitude": -1.4191719,
@@ -923,11 +937,12 @@
       "hy": "Լոս Ռիո",
       "no": "Los Ríos"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "S": {
     "name": "Morona-Santiago",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Morona-Santiago",
     "geo": {
       "latitude": -2.5628216,
@@ -983,11 +998,131 @@
       "hy": "Մորոնա Սանտյագո",
       "no": "Morona Santiago"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "SD": {
+    "name": "Santo Domingo de los Tsachilas",
+    "code": "SD",
+    "unofficial_names": "Santo Domingo de los Tsachilas",
+    "geo": {
+      "latitude": -0.2205563,
+      "longitude": -79.29021329999999,
+      "min_latitude": -0.6861889999999999,
+      "min_longitude": -79.623871,
+      "max_latitude": 0.123351,
+      "max_longitude": -78.73494099999999
+    },
+    "translations": {
+      "ar": "سانتو دومينغو دا لوس تساتشيلاس",
+      "be": "Правінцыя Санта-Дамінга-дэ-лос-Тсачылас",
+      "bg": "Санто Доминго де лос Цачилас",
+      "bn": "স্যান্তো ডোমিঙ্গ দে লস সাচিলাস প্রদেশ",
+      "da": "Santo Domingo de los Tsáchilas Province",
+      "de": "Provinz Santo Domingo de los Tsáchilas",
+      "el": "Σάντο Δομίγκο δε λος Τσατσίλας",
+      "en": "Santo Domingo de los Tsáchilas",
+      "es": "Provincia de Santo Domingo de los Tsáchilas",
+      "fi": "Santo Domingo de los Tsáchilas",
+      "fr": "Santo Domingo de los Tsáchilas",
+      "gu": "સાન્ટો ડોમિંગો દે લોસ સાચિલાસ પ્રાંત",
+      "hi": "सैंटो डोमिंगो डी लोस सैकिलास प्रांत",
+      "id": "Provinsi Santo Domingo de los Tsáchilas",
+      "it": "provincia di Santo Domingo de los Tsáchilas",
+      "ja": "サント・ドミンゴ・デ・ロス・ツァチラス県",
+      "ka": "სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია",
+      "kn": "ಸ್ಯಾಂಟೋ ಡೊಮಿಂಗೊ ಡಿ ಲಾಸ್ ತ್ಸಾಚಿಲಾಸ್ ಪ್ರಾಂತ್ಯ",
+      "ko": "산토도밍고데로스차칠라스 주",
+      "lt": "Santo Domingo de los Cačilaso provincija",
+      "mr": "सँटो डोमिंगो डी लॉस त्साचिलास प्रांत",
+      "ms": "Daerah Santo Domingo de los Tsáchilas",
+      "nb": "Santo Domingo de las Tsachilas provins",
+      "nl": "Santo Domingo de los Tsáchilas",
+      "pl": "Prowincja Santo Domingo de los Tsáchilas",
+      "pt": "Santo Domingo de los Tsáchilas",
+      "ru": "Санто-Доминго-де-лос-Тсачилас",
+      "si": "සැන්ටෝ ඩොමින්ගෝ ඩි ලොස් ට්සාචිලාස් පළාත",
+      "sv": "Santo Domingo de los Tsáchilas",
+      "ta": "சந்தோ டொமிங்கோ டி லாஸ் டச்சிலஸ் மாகாணம்",
+      "te": "సాంటో డామింగో ద లాస్ సాచిలాస్ ప్రావిన్స్",
+      "th": "จังหวัดซานโตโดมิงโกเดลาคัลซาดา",
+      "tr": "Santo Domingo de los Tsachilas Province",
+      "uk": "Санто-Домінго-де-лос-Тсачилас",
+      "ur": "سانتو دومنگو دے لاس تسآچیلاس صوبہ",
+      "vi": "Tỉnh Santo Domingo de los Tsáchilas",
+      "lv": "Santodomingo de los Cačilasas province",
+      "ceb": "Provincia de Santo Domingo de los Tsáchilas",
+      "zh": "聖多明各-德洛斯查奇拉斯省",
+      "ccp": "𑄥𑄚𑄴𑄑𑄮 𑄓𑄮𑄟𑄨𑄚𑄴𑄉𑄮 𑄓𑄬 𑄣𑄧𑄌𑄴 𑄥𑄌𑄨𑄣𑄌𑄴",
+      "hy": "Սանտա Դոմինգո դե լոս Տսաչիլաս",
+      "no": "Santo Domingo de las Tsachilas provins"
+    },
+    "comments": null,
+    "type": "province"
+  },
+  "SE": {
+    "name": "Santa Elena",
+    "code": "SE",
+    "unofficial_names": "Santa Elena",
+    "geo": {
+      "latitude": -2.1934804,
+      "longitude": -80.54384499999999,
+      "min_latitude": -2.508378,
+      "min_longitude": -81.0067736,
+      "max_latitude": -1.647962,
+      "max_longitude": -80.2266889
+    },
+    "translations": {
+      "ar": "مقاطعة سانتا إيلينا",
+      "be": "Правінцыя Санта-Элена",
+      "bg": "Света Елена",
+      "bn": "স্যান্টা এলেনা প্রদেশ",
+      "da": "Santa Elena Province",
+      "de": "Santa Elena",
+      "el": "Επαρχία Σάντα Έλενα",
+      "en": "Santa Elena",
+      "es": "Provincia de Santa Elena",
+      "fa": "استان سانتا النا",
+      "fi": "Santa Elena",
+      "fr": "Santa Elena",
+      "gu": "સાંતા એલેના પ્રાંત",
+      "hi": "सैंटा एलेना प्रांत",
+      "id": "Provinsi Santa Elena",
+      "it": "provincia di Santa Elena",
+      "ja": "サンタ・エレーナ県",
+      "ka": "სანტა-ელენას პროვინცია",
+      "kn": "ಸಾಂಟಾ ಎಲೆನಾ ಪ್ರಾಂತ್ಯ",
+      "ko": "산타엘레나 주",
+      "lt": "Santa Elenos provincija",
+      "mr": "सांता एलेना प्रांत",
+      "ms": "Santa Elena Province",
+      "nb": "Santa Elena provins",
+      "nl": "Santa Elena",
+      "pl": "Prowincja Santa Elena",
+      "pt": "Santa Elena (província)",
+      "ru": "Санта-Элена",
+      "si": "සැන්ටා එලේනා පළාත",
+      "sv": "Santa Elena",
+      "ta": "சாண்டா எலெனா மாகாணம்",
+      "te": "సాంటా ఎలీనా ప్రావిన్స్",
+      "th": "จังหวัดซานตา เอเลนา",
+      "tr": "Santa Elena Province",
+      "uk": "Санта-Елена",
+      "ur": "سانتا الینا صوبہ",
+      "vi": "Tỉnh Santa Elena",
+      "lv": "Santaelenas province",
+      "ceb": "Provincia de Santa Elena",
+      "zh": "聖埃倫娜省",
+      "ccp": "𑄥𑄚𑄴𑄑 𑄃𑄬𑄣𑄬𑄚",
+      "mk": "Санта Елена",
+      "no": "Santa Elena provins"
+    },
+    "comments": null,
+    "type": "province"
   },
   "T": {
     "name": "Tungurahua",
-    "code": null,
+    "code": "T",
     "unofficial_names": "Tungurahua",
     "geo": {
       "latitude": -1.2635284,
@@ -1043,11 +1178,12 @@
       "hy": "Տունգուրահուա",
       "no": "Tungurahua"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "U": {
     "name": "Sucumbíos",
-    "code": null,
+    "code": "U",
     "unofficial_names": "Sucumbíos",
     "geo": {
       "latitude": -0.1452276,
@@ -1103,11 +1239,12 @@
       "he": "מחוז סוקומביוס",
       "no": "Sucumbíos"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "W": {
     "name": "Galápagos",
-    "code": null,
+    "code": "W",
     "unofficial_names": "Galápagos",
     "geo": {
       "latitude": -0.8292784,
@@ -1162,11 +1299,12 @@
       "ccp": "𑄉𑄳𑄠𑄣𑄛𑄴𑄛𑄉𑄮𑄌𑄴",
       "no": "Galapagos provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "X": {
     "name": "Cotopaxi",
-    "code": null,
+    "code": "X",
     "unofficial_names": "Cotopaxi",
     "geo": {
       "latitude": -0.8139666999999999,
@@ -1223,11 +1361,12 @@
       "hy": "Կոտոպախի",
       "no": "Cotopaxi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "Y": {
     "name": "Pastaza",
-    "code": null,
+    "code": "Y",
     "unofficial_names": "Pastaza",
     "geo": {
       "latitude": -1.6332034,
@@ -1284,11 +1423,12 @@
       "hy": "Պաստասա",
       "no": "Pastaza"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "Z": {
     "name": "Zamora-Chinchipe",
-    "code": null,
+    "code": "Z",
     "unofficial_names": "Zamora-Chinchipe",
     "geo": {
       "latitude": -4.1535434,
@@ -1343,124 +1483,8 @@
       "ccp": "𑄎𑄟𑄮𑄢-𑄌𑄨𑄚𑄴𑄌𑄨𑄛𑄬",
       "no": "Zamora Chinchipe"
     },
-    "comments": null
-  },
-  "SD": {
-    "name": "Santo Domingo de los Tsachilas",
-    "code": null,
-    "unofficial_names": "Santo Domingo de los Tsachilas",
-    "geo": {
-      "latitude": -0.2205563,
-      "longitude": -79.29021329999999,
-      "min_latitude": -0.6861889999999999,
-      "min_longitude": -79.623871,
-      "max_latitude": 0.123351,
-      "max_longitude": -78.73494099999999
-    },
-    "translations": {
-      "ar": "سانتو دومينغو دا لوس تساتشيلاس",
-      "be": "Правінцыя Санта-Дамінга-дэ-лос-Тсачылас",
-      "bg": "Санто Доминго де лос Цачилас",
-      "bn": "স্যান্তো ডোমিঙ্গ দে লস সাচিলাস প্রদেশ",
-      "da": "Santo Domingo de los Tsáchilas Province",
-      "de": "Provinz Santo Domingo de los Tsáchilas",
-      "el": "Σάντο Δομίγκο δε λος Τσατσίλας",
-      "en": "Santo Domingo de los Tsáchilas",
-      "es": "Provincia de Santo Domingo de los Tsáchilas",
-      "fi": "Santo Domingo de los Tsáchilas",
-      "fr": "Santo Domingo de los Tsáchilas",
-      "gu": "સાન્ટો ડોમિંગો દે લોસ સાચિલાસ પ્રાંત",
-      "hi": "सैंटो डोमिंगो डी लोस सैकिलास प्रांत",
-      "id": "Provinsi Santo Domingo de los Tsáchilas",
-      "it": "provincia di Santo Domingo de los Tsáchilas",
-      "ja": "サント・ドミンゴ・デ・ロス・ツァチラス県",
-      "ka": "სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია",
-      "kn": "ಸ್ಯಾಂಟೋ ಡೊಮಿಂಗೊ ಡಿ ಲಾಸ್ ತ್ಸಾಚಿಲಾಸ್ ಪ್ರಾಂತ್ಯ",
-      "ko": "산토도밍고데로스차칠라스 주",
-      "lt": "Santo Domingo de los Cačilaso provincija",
-      "mr": "सँटो डोमिंगो डी लॉस त्साचिलास प्रांत",
-      "ms": "Daerah Santo Domingo de los Tsáchilas",
-      "nb": "Santo Domingo de las Tsachilas provins",
-      "nl": "Santo Domingo de los Tsáchilas",
-      "pl": "Prowincja Santo Domingo de los Tsáchilas",
-      "pt": "Santo Domingo de los Tsáchilas",
-      "ru": "Санто-Доминго-де-лос-Тсачилас",
-      "si": "සැන්ටෝ ඩොමින්ගෝ ඩි ලොස් ට්සාචිලාස් පළාත",
-      "sv": "Santo Domingo de los Tsáchilas",
-      "ta": "சந்தோ டொமிங்கோ டி லாஸ் டச்சிலஸ் மாகாணம்",
-      "te": "సాంటో డామింగో ద లాస్ సాచిలాస్ ప్రావిన్స్",
-      "th": "จังหวัดซานโตโดมิงโกเดลาคัลซาดา",
-      "tr": "Santo Domingo de los Tsachilas Province",
-      "uk": "Санто-Домінго-де-лос-Тсачилас",
-      "ur": "سانتو دومنگو دے لاس تسآچیلاس صوبہ",
-      "vi": "Tỉnh Santo Domingo de los Tsáchilas",
-      "lv": "Santodomingo de los Cačilasas province",
-      "ceb": "Provincia de Santo Domingo de los Tsáchilas",
-      "zh": "聖多明各-德洛斯查奇拉斯省",
-      "ccp": "𑄥𑄚𑄴𑄑𑄮 𑄓𑄮𑄟𑄨𑄚𑄴𑄉𑄮 𑄓𑄬 𑄣𑄧𑄌𑄴 𑄥𑄌𑄨𑄣𑄌𑄴",
-      "hy": "Սանտա Դոմինգո դե լոս Տսաչիլաս",
-      "no": "Santo Domingo de las Tsachilas provins"
-    },
-    "comments": null
-  },
-  "SE": {
-    "name": "Santa Elena",
-    "code": null,
-    "unofficial_names": "Santa Elena",
-    "geo": {
-      "latitude": -2.1934804,
-      "longitude": -80.54384499999999,
-      "min_latitude": -2.508378,
-      "min_longitude": -81.0067736,
-      "max_latitude": -1.647962,
-      "max_longitude": -80.2266889
-    },
-    "translations": {
-      "ar": "مقاطعة سانتا إيلينا",
-      "be": "Правінцыя Санта-Элена",
-      "bg": "Света Елена",
-      "bn": "স্যান্টা এলেনা প্রদেশ",
-      "da": "Santa Elena Province",
-      "de": "Santa Elena",
-      "el": "Επαρχία Σάντα Έλενα",
-      "en": "Santa Elena",
-      "es": "Provincia de Santa Elena",
-      "fa": "استان سانتا النا",
-      "fi": "Santa Elena",
-      "fr": "Santa Elena",
-      "gu": "સાંતા એલેના પ્રાંત",
-      "hi": "सैंटा एलेना प्रांत",
-      "id": "Provinsi Santa Elena",
-      "it": "provincia di Santa Elena",
-      "ja": "サンタ・エレーナ県",
-      "ka": "სანტა-ელენას პროვინცია",
-      "kn": "ಸಾಂಟಾ ಎಲೆನಾ ಪ್ರಾಂತ್ಯ",
-      "ko": "산타엘레나 주",
-      "lt": "Santa Elenos provincija",
-      "mr": "सांता एलेना प्रांत",
-      "ms": "Santa Elena Province",
-      "nb": "Santa Elena provins",
-      "nl": "Santa Elena",
-      "pl": "Prowincja Santa Elena",
-      "pt": "Santa Elena (província)",
-      "ru": "Санта-Элена",
-      "si": "සැන්ටා එලේනා පළාත",
-      "sv": "Santa Elena",
-      "ta": "சாண்டா எலெனா மாகாணம்",
-      "te": "సాంటా ఎలీనా ప్రావిన్స్",
-      "th": "จังหวัดซานตา เอเลนา",
-      "tr": "Santa Elena Province",
-      "uk": "Санта-Елена",
-      "ur": "سانتا الینا صوبہ",
-      "vi": "Tỉnh Santa Elena",
-      "lv": "Santaelenas province",
-      "ceb": "Provincia de Santa Elena",
-      "zh": "聖埃倫娜省",
-      "ccp": "𑄥𑄚𑄴𑄑 𑄃𑄬𑄣𑄬𑄚",
-      "mk": "Санта Елена",
-      "no": "Santa Elena provins"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Kayes",
-    "code": null,
+    "code": "1",
     "unofficial_names": "Kayes",
     "geo": {
       "latitude": 14.4367876,
@@ -58,11 +58,33 @@
       "ka": "კაესის რეგიონი",
       "no": "Kayes"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "10": {
+    "name": "Région de Taoudénit",
+    "code": "10",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -15.7753392,
+      "longitude": -47.8138065,
+      "min_latitude": -15.7804757,
+      "min_longitude": -47.817425,
+      "max_latitude": -15.7724352,
+      "max_longitude": -47.8095817
+    },
+    "translations": {
+      "ja": "タウデニ州",
+      "en": "Taoudénit",
+      "fr": "Région de Taoudénit",
+      "fi": "Taoudénitin alue"
+    },
+    "comments": null,
+    "type": "region"
   },
   "2": {
     "name": "Koulikoro",
-    "code": null,
+    "code": "2",
     "unofficial_names": "Koulikoro",
     "geo": {
       "latitude": 12.861111,
@@ -120,11 +142,12 @@
       "ka": "კულიკოროს რეგიონი",
       "no": "Koulikoro"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "3": {
     "name": "Sikasso",
-    "code": null,
+    "code": "3",
     "unofficial_names": "Sikasso",
     "geo": {
       "latitude": 11.316667,
@@ -181,11 +204,12 @@
       "ka": "სიკასოს რეგიონი",
       "no": "Sikasso"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "4": {
     "name": "Ségou",
-    "code": null,
+    "code": "4",
     "unofficial_names": "Ségou",
     "geo": {
       "latitude": 13.45,
@@ -241,11 +265,12 @@
       "ka": "სეგუს რეგიონი",
       "no": "Ségou"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "5": {
     "name": "Mopti",
-    "code": null,
+    "code": "5",
     "unofficial_names": "Mopti",
     "geo": {
       "latitude": 14.495833,
@@ -303,11 +328,12 @@
       "be": "Мопці",
       "no": "Mopti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "6": {
     "name": "Tombouctou",
-    "code": null,
+    "code": "6",
     "unofficial_names": "Tombouctou",
     "geo": {
       "latitude": 16.7665887,
@@ -364,11 +390,12 @@
       "ka": "ტომბუქტუს რეგიონი",
       "no": "Timbuktu"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "7": {
     "name": "Gao",
-    "code": null,
+    "code": "7",
     "unofficial_names": "Gao",
     "geo": {
       "latitude": 16.2639807,
@@ -425,11 +452,12 @@
       "ka": "გაოს რეგიონი",
       "no": "Gao"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "8": {
     "name": "Kidal",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Kidal",
     "geo": {
       "latitude": 18.438889,
@@ -486,11 +514,26 @@
       "ka": "კიდალის რეგიონი",
       "no": "Kidal"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "9": {
+    "name": "Région de Ménaka",
+    "code": "9",
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "ja": "メナカ州",
+      "en": "Ménaka",
+      "fr": "Région de Ménaka",
+      "fi": "Ménakan alue"
+    },
+    "comments": null,
+    "type": "region"
   },
   "BKO": {
     "name": "Bamako",
-    "code": null,
+    "code": "BKO",
     "unofficial_names": "Bamako",
     "geo": {
       "latitude": 12.65,
@@ -583,40 +626,8 @@
       "no": "Bamako",
       "yo_BJ": "Bamako"
     },
-    "comments": null
-  },
-  "9": {
-    "name": "Région de Ménaka",
-    "code": null,
-    "unofficial_names": null,
-    "geo": null,
-    "translations": {
-      "ja": "メナカ州",
-      "en": "Ménaka",
-      "fr": "Région de Ménaka",
-      "fi": "Ménakan alue"
-    },
-    "comments": null
-  },
-  "10": {
-    "name": "Région de Taoudénit",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": -15.7753392,
-      "longitude": -47.8138065,
-      "min_latitude": -15.7804757,
-      "min_longitude": -47.817425,
-      "max_latitude": -15.7724352,
-      "max_longitude": -47.8095817
-    },
-    "translations": {
-      "ja": "タウデニ州",
-      "en": "Taoudénit",
-      "fr": "Région de Taoudénit",
-      "fi": "Taoudénitin alue"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

@@ -1,7 +1,52 @@
 {
+  "1": {
+    "name": "බස්නාහිර පළාත, ශ් රී ලංකාව",
+    "code": "1",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Западна провинция",
+      "de": "Westprovinz",
+      "el": "Δυτική επαρχία",
+      "en": "Western",
+      "es": "Provincia Oeste",
+      "fa": "استان غربی، سری‌لانکا",
+      "fi": "Sri Lankan läntinen provinssi",
+      "fr": "Province de l’Ouest",
+      "hi": "पश्चिमी प्रान्त",
+      "id": "Provinsi Barat, Sri Lanka",
+      "it": "provincia Occidentale",
+      "ja": "西部州",
+      "ka": "დასავლეთი პროვინცია",
+      "ko": "서부 주",
+      "mr": "पश्चिम प्रांत",
+      "nl": "Westelijke Provincie",
+      "pl": "Prowincja Zachodnia",
+      "ru": "Западная провинция",
+      "si": "බස්නාහිර පළාත, ශ් රී ලංකාව",
+      "sv": "Västprovinsen, Sri Lanka",
+      "ta": "மேல் மாகாணம்",
+      "uk": "Західна провінція",
+      "ur": "مغربی صوبہ، سری لنکا",
+      "zh": "西部省",
+      "ceb": "Western Province",
+      "ar": "المقاطعة الغربية (سريلانكا)",
+      "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
+      "be": "Заходняя правінцыя"
+    },
+    "comments": null,
+    "type": "province"
+  },
   "11": {
     "name": "Colombo",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Kolamba",
       "Colombo",
@@ -47,11 +92,12 @@
       "mk": "Коломбо",
       "no": "Colombo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "12": {
     "name": "Gampaha",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Gampaha",
     "geo": {
       "latitude": 7.0873101,
@@ -103,11 +149,12 @@
       "ccp": "𑄉𑄟𑄴𑄛𑄦",
       "no": "Gampaha distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "13": {
     "name": "Kalutara",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Kalutara",
     "geo": {
       "latitude": 6.5894162,
@@ -159,11 +206,60 @@
       "ccp": "𑄇𑄣𑄪𑄑𑄢",
       "no": "Kalutara"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "2": {
+    "name": "මධ්‍යම පළාත, ශ්‍රී ලංකාව",
+    "code": "2",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централна провинция (Шри Ланка)",
+      "ca": "Província Central",
+      "de": "Zentralprovinz",
+      "el": "Κεντρική επαρχία",
+      "en": "Central",
+      "es": "Provincia Central",
+      "fa": "استان مرکزی (سری‌لانکا)",
+      "fi": "Sri Lankan keskinen provinssi",
+      "fr": "Province du Centre",
+      "gl": "Provincia Central",
+      "hi": "मध्य प्रान्त",
+      "it": "provincia Centrale",
+      "ja": "中部州",
+      "ka": "ცენტრალური პროვინცია",
+      "ko": "중부 주 (스리랑카)",
+      "mr": "मध्य प्रांत, श्रीलंका",
+      "nl": "Centrale Provincie",
+      "pl": "Prowincja Centralna (Sri Lanka)",
+      "pt": "Província Central",
+      "ru": "Центральная провинция (Шри-Ланка)",
+      "si": "මධ්‍යම පළාත, ශ්‍රී ලංකාව",
+      "sv": "Centralprovinsen, Sri Lanka",
+      "ta": "மத்திய மாகாணம்",
+      "uk": "Центральна провінція",
+      "ur": "وسطی صوبہ، سری لنکا",
+      "vi": "Tỉnh Trung Tâm, Sri Lanka",
+      "ceb": "Central Province",
+      "ar": "المقاطعة الوسطى (سريلانكا)",
+      "zh": "中央省 (斯里蘭卡)",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "id": "Provinsi Tengah, Sri Lanka"
+    },
+    "comments": null,
+    "type": "province"
   },
   "21": {
     "name": "Kandy",
-    "code": null,
+    "code": "21",
     "unofficial_names": [
       "Mahe Nuwara",
       "Maha Nuwara"
@@ -203,11 +299,12 @@
       "ccp": "𑄇𑄚𑄴𑄓𑄨",
       "id": "Distrik Kandy"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "22": {
     "name": "Matale",
-    "code": null,
+    "code": "22",
     "unofficial_names": "Matale",
     "geo": {
       "latitude": 7.467465,
@@ -259,11 +356,12 @@
       "ccp": "𑄟𑄖𑄣𑄬",
       "no": "Matale distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "23": {
     "name": "Nuwara Eliya",
-    "code": null,
+    "code": "23",
     "unofficial_names": "Nuwara Eliya",
     "geo": {
       "latitude": 6.9543992,
@@ -315,11 +413,58 @@
       "ccp": "𑄚𑄧𑄤𑄢 𑄃𑄨𑄣𑄨𑄠",
       "no": "Nuware Eliya Distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "3": {
+    "name": "දකුණු පළාත",
+    "code": "3",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Южна провинция",
+      "de": "Südprovinz",
+      "el": "Νότια επαρχία",
+      "en": "Southern",
+      "es": "Provincia Sur",
+      "fa": "استان جنوبی (سری‌لانکا)",
+      "fi": "Sri Lankan eteläinen provinssi",
+      "fr": "Province du Sud",
+      "hi": "दक्षिणी प्रान्त",
+      "it": "provincia Meridionale",
+      "ja": "南部州",
+      "ka": "სამხრეთი პროვინცია",
+      "ko": "남부 주",
+      "ml": "തെക്കൻ പ്രവിശ്യ",
+      "mr": "दक्षिण प्रांत",
+      "nl": "Zuidelijke Provincie",
+      "pl": "Prowincja Południowa",
+      "pt": "Província do Sul (Sri Lanka)",
+      "ru": "Южная провинция",
+      "si": "දකුණු පළාත",
+      "sv": "Sydprovinsen, Sri Lanka",
+      "ta": "தென் மாகாணம்",
+      "uk": "Південна провінція",
+      "ur": "جنوبی صوبہ، سری لنکا",
+      "ceb": "Southern Province",
+      "ar": "المقاطعة الجنوبية (سريلانكا)",
+      "zh": "南部省",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "id": "Provinsi Selatan, Sri Lanka"
+    },
+    "comments": null,
+    "type": "province"
   },
   "31": {
     "name": "Galle",
-    "code": null,
+    "code": "31",
     "unofficial_names": [
       "Gālla"
     ],
@@ -373,11 +518,12 @@
       "ccp": "𑄉𑄣𑄬",
       "no": "Galle"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "32": {
     "name": "Matara",
-    "code": null,
+    "code": "32",
     "unofficial_names": "Matara",
     "geo": {
       "latitude": 5.95492,
@@ -429,11 +575,12 @@
       "ccp": "𑄟𑄖𑄢",
       "no": "Matara"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "33": {
     "name": "Hambantota",
-    "code": null,
+    "code": "33",
     "unofficial_names": "Hambantota",
     "geo": {
       "latitude": 6.131742099999999,
@@ -485,11 +632,59 @@
       "ccp": "𑄦𑄟𑄴𑄝𑄚𑄴𑄑𑄮𑄑",
       "no": "Hambantota"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "4": {
+    "name": "උතුරු පළාත",
+    "code": "4",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Северна провинция",
+      "de": "Nordprovinz",
+      "el": "Βόρεια επαρχία",
+      "en": "Northern",
+      "es": "Provincia Norte",
+      "fa": "استان شمالی (سری‌لانکا)",
+      "fi": "Sri Lankan pohjoinen provinssi",
+      "fr": "Province du Nord",
+      "hi": "उत्तरी प्रान्त, श्रीलंका",
+      "it": "provincia Settentrionale",
+      "ja": "北部州",
+      "ka": "ჩრდილოეთი პროვინცია",
+      "ko": "북부 주",
+      "ml": "വടക്കൻ പ്രവിശ്യ, ശ്രീലങ്ക",
+      "mr": "उत्तर प्रांत, श्रीलंका",
+      "nl": "Noordelijke Provincie",
+      "pl": "Prowincja Północna",
+      "pt": "Província do Norte",
+      "ru": "Северная провинция",
+      "si": "උතුරු පළාත",
+      "sv": "Nordprovinsen, Sri Lanka",
+      "ta": "வட மாகாணம், இலங்கை",
+      "uk": "Північна провінція",
+      "ur": "شمالی صوبہ، سری لنکا",
+      "vi": "Tỉnh Phía Bắc, Sri Lanka",
+      "ceb": "Northern Province (lalawigan sa Sri Lanka)",
+      "ar": "المقاطعة الشمالية (سريلانكا)",
+      "zh": "北部省",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "id": "Provinsi Utara, Sri Lanka"
+    },
+    "comments": null,
+    "type": "province"
   },
   "41": {
     "name": "Jaffna",
-    "code": null,
+    "code": "41",
     "unofficial_names": [
       "Yapnaya",
       "Yāpanaya"
@@ -531,11 +726,12 @@
       "pt": "Distrito de Jaffna",
       "no": "Jaffna"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "42": {
     "name": "Kilinochchi",
-    "code": null,
+    "code": "42",
     "unofficial_names": "Kilinochchi",
     "geo": {
       "latitude": 9.3802886,
@@ -587,11 +783,12 @@
       "ccp": "𑄇𑄨𑄣𑄨𑄚𑄮𑄌𑄴𑄌𑄨",
       "no": "Kilinochchi"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "43": {
     "name": "Mannar",
-    "code": null,
+    "code": "43",
     "unofficial_names": [
       "Manar",
       "Mannar",
@@ -647,11 +844,12 @@
       "ccp": "𑄟𑄚𑄢𑄴",
       "no": "Mannar distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "44": {
     "name": "Vavuniya",
-    "code": null,
+    "code": "44",
     "unofficial_names": [
       "Vavuniyāwa"
     ],
@@ -691,11 +889,12 @@
       "ccp": "𑄞𑄞𑄪𑄚𑄨𑄠",
       "id": "Distrik Vavuniya"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "45": {
     "name": "Mullaittivu",
-    "code": null,
+    "code": "45",
     "unofficial_names": [
       "Mulativu"
     ],
@@ -749,11 +948,58 @@
       "ccp": "𑄟𑄪𑄣𑄭𑄑𑄨𑄞𑄪",
       "no": "Mullaittivu"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "5": {
+    "name": "නැගෙනහිර පළාත, ශ් රී ලංකාව",
+    "code": "5",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Източна провинция",
+      "de": "Ostprovinz",
+      "el": "Ανατολική επαρχία",
+      "en": "Eastern",
+      "es": "Provincia del Este",
+      "fa": "استان شرقی (سری‌لانکا)",
+      "fi": "Sri Lankan itäinen provinssi",
+      "fr": "Province de l’Est",
+      "hi": "पूर्वी प्रान्त",
+      "it": "provincia Orientale",
+      "ja": "東部州",
+      "ka": "აღმოსავლეთი პროვინცია",
+      "ko": "동부 주",
+      "mr": "पूर्व प्रांत",
+      "nl": "Oostelijke Provincie",
+      "pl": "Prowincja Wschodnia",
+      "pt": "Este",
+      "ru": "Восточная провинция",
+      "si": "නැගෙනහිර පළාත, ශ් රී ලංකාව",
+      "sv": "Östprovinsen, Sri Lanka",
+      "ta": "கிழக்கு மாகாணம்",
+      "uk": "Східна провінція",
+      "ur": "مشرقی صوبہ، سری لنکا",
+      "vi": "Tỉnh Phía Đông",
+      "ceb": "Eastern Province (lalawigan sa Sri Lanka)",
+      "ar": "المقاطعة الشرقية (سريلانكا)",
+      "zh": "東部省",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "id": "Provinsi Timur, Sri Lanka"
+    },
+    "comments": null,
+    "type": "province"
   },
   "51": {
     "name": "Batticaloa",
-    "code": null,
+    "code": "51",
     "unofficial_names": [
       "Mad̨akalpūwa"
     ],
@@ -795,11 +1041,12 @@
       "id": "Distrik Batticaloa",
       "no": "Batticaloa (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "52": {
     "name": "Ampara",
-    "code": null,
+    "code": "52",
     "unofficial_names": [
       "Ampara"
     ],
@@ -853,11 +1100,12 @@
       "ccp": "𑄃𑄟𑄴𑄛𑄢",
       "no": "Ampara"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "53": {
     "name": "Trincomalee",
-    "code": null,
+    "code": "53",
     "unofficial_names": [
       "Trinkomali",
       "Tirikunāmalaya"
@@ -898,11 +1146,57 @@
       "ccp": "𑄑𑄳𑄢𑄨𑄚𑄴𑄇𑄮𑄟𑄣𑄨",
       "no": "Trincomalee"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "6": {
+    "name": "වයඹ පළාත, ශ්‍රී ලංකාව",
+    "code": "6",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Северозападна провинция",
+      "de": "Nordwestprovinz",
+      "el": "Βορειοδυτική επαρχία",
+      "en": "North Western",
+      "es": "Provincia Noroeste",
+      "fa": "استان شمال غربی، سری‌لانکا",
+      "fi": "Sri Lankan luoteisprovinssi",
+      "fr": "Province du Nord-Ouest",
+      "hi": "उत्तर पश्चिमी प्रान्त",
+      "it": "provincia Nord-Occidentale",
+      "ja": "北西部州",
+      "ka": "ჩრდილო-დასავლეთი პროვინცია",
+      "ko": "북서부 주",
+      "mr": "वायव्य प्रांत",
+      "nl": "Noordwestelijke Provincie",
+      "pl": "Prowincja Północno-Zachodnia",
+      "pt": "Noroeste",
+      "ru": "Северо-Западная провинция",
+      "si": "වයඹ පළාත, ශ්‍රී ලංකාව",
+      "sv": "Nordvästprovinsen, Sri Lanka",
+      "ta": "வடமேல் மாகாணம்",
+      "uk": "Північно-Західна провінція",
+      "ur": "شمال مغربی صوبہ، سری لنکا",
+      "ceb": "North Western Province",
+      "ar": "المقاطعة الشمالية الغربية (سريلانكا)",
+      "zh": "西北省",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
+      "id": "Provinsi Barat Laut, Sri Lanka"
+    },
+    "comments": null,
+    "type": "province"
   },
   "61": {
     "name": "Kurunegala",
-    "code": null,
+    "code": "61",
     "unofficial_names": "Kurunegala",
     "geo": {
       "latitude": 7.472981299999999,
@@ -954,11 +1248,12 @@
       "ccp": "𑄇𑄪𑄢𑄪𑄚𑄬𑄉𑄣",
       "no": "Kurunegala distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "62": {
     "name": "Puttalam",
-    "code": null,
+    "code": "62",
     "unofficial_names": [
       "Puttalam"
     ],
@@ -1012,11 +1307,57 @@
       "ccp": "𑄛𑄪𑄑𑄣𑄟𑄴",
       "no": "Puttalam distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "7": {
+    "name": "උතුරු මැද පළාත",
+    "code": "7",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Северна централна провинция",
+      "de": "Nördliche Zentralprovinz",
+      "en": "North Central",
+      "es": "Provincia Central del Norte",
+      "fa": "استان شمال مرکزی، سری‌لانکا",
+      "fi": "Sri Lankan keskipohjoinen provinssi",
+      "fr": "Province du Centre-Nord",
+      "hi": "उत्तरी मध्य प्रान्त",
+      "it": "provincia Centro-Settentrionale",
+      "ja": "北中部州",
+      "ka": "ჩრდილო-ცენტრალური პროვინცია",
+      "ko": "중북부 주",
+      "mr": "उत्तर मध्य प्रांत",
+      "nl": "Noordelijke Centrale Provincie",
+      "pl": "Prowincja Północno-Środkowa",
+      "pt": "Centro-Norte",
+      "ru": "Северо-Центральная провинция",
+      "si": "උතුරු මැද පළාත",
+      "sv": "Norra centralprovinsen",
+      "ta": "வடமத்திய மாகாணம்",
+      "uk": "Північно-Центральна провінція",
+      "ur": "شمال وسطی صوبہ، سری لنکا",
+      "vi": "Tỉnh Trung Bắc",
+      "ceb": "North Central Province",
+      "ar": "المقاطعة الشمالية الوسطى (سريلانكا)",
+      "zh": "北中省",
+      "el": "Βορειοκεντρική επαρχία",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴"
+    },
+    "comments": null,
+    "type": "province"
   },
   "71": {
     "name": "Anuradhapura",
-    "code": null,
+    "code": "71",
     "unofficial_names": [
       "Anuradhapur",
       "Anurādhapūraya"
@@ -1056,11 +1397,12 @@
       "zh": "阿努拉德普勒區",
       "ccp": "𑄃𑄚𑄪𑄢𑄙𑄛𑄪𑄢𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "72": {
     "name": "Polonnaruwa",
-    "code": null,
+    "code": "72",
     "unofficial_names": [
       "Polonaruwa",
       "Polunnaruwa"
@@ -1115,11 +1457,58 @@
       "ccp": "𑄛𑄧𑄣𑄧𑄚𑄢𑄪𑄤",
       "no": "Polinnaruwa distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "8": {
+    "name": "ඌව පළාත",
+    "code": "8",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Ува",
+      "ca": "Província de Uva",
+      "de": "Uva",
+      "el": "Επαρχία της Ούβα",
+      "en": "Uva",
+      "es": "Provincia de Uva",
+      "fa": "استان یووا",
+      "fi": "Uva",
+      "fr": "Province d’Uva",
+      "hi": "उवा प्रान्त",
+      "it": "Uva",
+      "ja": "ウバ州",
+      "ka": "უვის პროვინცია",
+      "ko": "우바 주",
+      "mr": "उवा प्रांत",
+      "nl": "Uva",
+      "pl": "Prowincja Uwa",
+      "pt": "Uva",
+      "ru": "Ува",
+      "si": "ඌව පළාත",
+      "sv": "Uvaprovinsen",
+      "ta": "ஊவா மாகாணம்",
+      "uk": "Ува",
+      "ur": "اووا صوبہ",
+      "ceb": "Province of Uva",
+      "ar": "مقاطعة يوفا",
+      "zh": "烏沃省",
+      "ccp": "𑄅𑄪𑄞",
+      "id": "Provinsi Uva"
+    },
+    "comments": null,
+    "type": "province"
   },
   "81": {
     "name": "Badulla",
-    "code": null,
+    "code": "81",
     "unofficial_names": "Badulla",
     "geo": {
       "latitude": 6.993400899999999,
@@ -1171,11 +1560,12 @@
       "ccp": "𑄝𑄓𑄪𑄣𑄳𑄦",
       "no": "Badulla distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "82": {
     "name": "Monaragala",
-    "code": null,
+    "code": "82",
     "unofficial_names": [
       "Monaragalla",
       "Moneragala"
@@ -1214,11 +1604,58 @@
       "ccp": "𑄟𑄧𑄚𑄢𑄉𑄣",
       "id": "Distrik Monaragala"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "9": {
+    "name": "සබරගමුව පළාත",
+    "code": "9",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Сабарагамува",
+      "ca": "Província de Sabaragamuwa",
+      "de": "Sabaragamuwa",
+      "el": "Σαμπαραγκαμούβα",
+      "en": "Sabaragamuwa",
+      "es": "Sabaragamuwa",
+      "fa": "استان ساباراگامووا",
+      "fi": "Sabaragamuwa",
+      "fr": "Province de Sabaragamuwa",
+      "hi": "सबरगमुवा प्रान्त",
+      "it": "Sabaragamuwa",
+      "ja": "サバラガムワ州",
+      "ka": "საბარაგამუვის პროვინცია",
+      "ko": "사바라가무와 주",
+      "mr": "सबरगमुवा प्रांत",
+      "nl": "Sabaragamuwa",
+      "pl": "Prowincja Sabaragamuwa",
+      "pt": "Sabaragamuwa",
+      "ru": "Сабарагамува",
+      "si": "සබරගමුව පළාත",
+      "sv": "Sabaragamuwa",
+      "ta": "சப்பிரகமுவா மாகாணம்",
+      "uk": "Сабарагамува",
+      "ur": "سبراگموا علاقہ",
+      "ceb": "Province of Sabaragamuwa",
+      "ar": "مقاطعة ساباراغاموا (سريلانكا)",
+      "zh": "薩伯勒格穆沃省",
+      "ccp": "𑄥𑄝𑄢𑄇𑄴𑄟𑄪𑄤",
+      "id": "Provinsi Sabaragamuwa"
+    },
+    "comments": null,
+    "type": "province"
   },
   "91": {
     "name": "Ratnapura",
-    "code": null,
+    "code": "91",
     "unofficial_names": [
       "Ratnapūraya"
     ],
@@ -1272,11 +1709,12 @@
       "ccp": "𑄢𑄖𑄴𑄚𑄧𑄛𑄪𑄢𑄴",
       "no": "Ratnapura distrikt"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "92": {
     "name": "Kegalla",
-    "code": null,
+    "code": "92",
     "unofficial_names": [
       "Kegalle"
     ],
@@ -1330,412 +1768,8 @@
       "ccp": "𑄇𑄨𑄉𑄣𑄨",
       "no": "Kegalle distrikt"
     },
-    "comments": null
-  },
-  "1": {
-    "name": "බස්නාහිර පළාත, ශ් රී ලංකාව",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Западна провинция",
-      "de": "Westprovinz",
-      "el": "Δυτική επαρχία",
-      "en": "Western",
-      "es": "Provincia Oeste",
-      "fa": "استان غربی، سری‌لانکا",
-      "fi": "Sri Lankan läntinen provinssi",
-      "fr": "Province de l’Ouest",
-      "hi": "पश्चिमी प्रान्त",
-      "id": "Provinsi Barat, Sri Lanka",
-      "it": "provincia Occidentale",
-      "ja": "西部州",
-      "ka": "დასავლეთი პროვინცია",
-      "ko": "서부 주",
-      "mr": "पश्चिम प्रांत",
-      "nl": "Westelijke Provincie",
-      "pl": "Prowincja Zachodnia",
-      "ru": "Западная провинция",
-      "si": "බස්නාහිර පළාත, ශ් රී ලංකාව",
-      "sv": "Västprovinsen, Sri Lanka",
-      "ta": "மேல் மாகாணம்",
-      "uk": "Західна провінція",
-      "ur": "مغربی صوبہ، سری لنکا",
-      "zh": "西部省",
-      "ceb": "Western Province",
-      "ar": "المقاطعة الغربية (سريلانكا)",
-      "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
-      "be": "Заходняя правінцыя"
-    },
-    "comments": null
-  },
-  "2": {
-    "name": "මධ්‍යම පළාත, ශ්‍රී ලංකාව",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централна провинция (Шри Ланка)",
-      "ca": "Província Central",
-      "de": "Zentralprovinz",
-      "el": "Κεντρική επαρχία",
-      "en": "Central",
-      "es": "Provincia Central",
-      "fa": "استان مرکزی (سری‌لانکا)",
-      "fi": "Sri Lankan keskinen provinssi",
-      "fr": "Province du Centre",
-      "gl": "Provincia Central",
-      "hi": "मध्य प्रान्त",
-      "it": "provincia Centrale",
-      "ja": "中部州",
-      "ka": "ცენტრალური პროვინცია",
-      "ko": "중부 주 (스리랑카)",
-      "mr": "मध्य प्रांत, श्रीलंका",
-      "nl": "Centrale Provincie",
-      "pl": "Prowincja Centralna (Sri Lanka)",
-      "pt": "Província Central",
-      "ru": "Центральная провинция (Шри-Ланка)",
-      "si": "මධ්‍යම පළාත, ශ්‍රී ලංකාව",
-      "sv": "Centralprovinsen, Sri Lanka",
-      "ta": "மத்திய மாகாணம்",
-      "uk": "Центральна провінція",
-      "ur": "وسطی صوبہ، سری لنکا",
-      "vi": "Tỉnh Trung Tâm, Sri Lanka",
-      "ceb": "Central Province",
-      "ar": "المقاطعة الوسطى (سريلانكا)",
-      "zh": "中央省 (斯里蘭卡)",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
-      "id": "Provinsi Tengah, Sri Lanka"
-    },
-    "comments": null
-  },
-  "3": {
-    "name": "දකුණු පළාත",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Южна провинция",
-      "de": "Südprovinz",
-      "el": "Νότια επαρχία",
-      "en": "Southern",
-      "es": "Provincia Sur",
-      "fa": "استان جنوبی (سری‌لانکا)",
-      "fi": "Sri Lankan eteläinen provinssi",
-      "fr": "Province du Sud",
-      "hi": "दक्षिणी प्रान्त",
-      "it": "provincia Meridionale",
-      "ja": "南部州",
-      "ka": "სამხრეთი პროვინცია",
-      "ko": "남부 주",
-      "ml": "തെക്കൻ പ്രവിശ്യ",
-      "mr": "दक्षिण प्रांत",
-      "nl": "Zuidelijke Provincie",
-      "pl": "Prowincja Południowa",
-      "pt": "Província do Sul (Sri Lanka)",
-      "ru": "Южная провинция",
-      "si": "දකුණු පළාත",
-      "sv": "Sydprovinsen, Sri Lanka",
-      "ta": "தென் மாகாணம்",
-      "uk": "Південна провінція",
-      "ur": "جنوبی صوبہ، سری لنکا",
-      "ceb": "Southern Province",
-      "ar": "المقاطعة الجنوبية (سريلانكا)",
-      "zh": "南部省",
-      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Selatan, Sri Lanka"
-    },
-    "comments": null
-  },
-  "4": {
-    "name": "උතුරු පළාත",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Северна провинция",
-      "de": "Nordprovinz",
-      "el": "Βόρεια επαρχία",
-      "en": "Northern",
-      "es": "Provincia Norte",
-      "fa": "استان شمالی (سری‌لانکا)",
-      "fi": "Sri Lankan pohjoinen provinssi",
-      "fr": "Province du Nord",
-      "hi": "उत्तरी प्रान्त, श्रीलंका",
-      "it": "provincia Settentrionale",
-      "ja": "北部州",
-      "ka": "ჩრდილოეთი პროვინცია",
-      "ko": "북부 주",
-      "ml": "വടക്കൻ പ്രവിശ്യ, ശ്രീലങ്ക",
-      "mr": "उत्तर प्रांत, श्रीलंका",
-      "nl": "Noordelijke Provincie",
-      "pl": "Prowincja Północna",
-      "pt": "Província do Norte",
-      "ru": "Северная провинция",
-      "si": "උතුරු පළාත",
-      "sv": "Nordprovinsen, Sri Lanka",
-      "ta": "வட மாகாணம், இலங்கை",
-      "uk": "Північна провінція",
-      "ur": "شمالی صوبہ، سری لنکا",
-      "vi": "Tỉnh Phía Bắc, Sri Lanka",
-      "ceb": "Northern Province (lalawigan sa Sri Lanka)",
-      "ar": "المقاطعة الشمالية (سريلانكا)",
-      "zh": "北部省",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Utara, Sri Lanka"
-    },
-    "comments": null
-  },
-  "5": {
-    "name": "නැගෙනහිර පළාත, ශ් රී ලංකාව",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Източна провинция",
-      "de": "Ostprovinz",
-      "el": "Ανατολική επαρχία",
-      "en": "Eastern",
-      "es": "Provincia del Este",
-      "fa": "استان شرقی (سری‌لانکا)",
-      "fi": "Sri Lankan itäinen provinssi",
-      "fr": "Province de l’Est",
-      "hi": "पूर्वी प्रान्त",
-      "it": "provincia Orientale",
-      "ja": "東部州",
-      "ka": "აღმოსავლეთი პროვინცია",
-      "ko": "동부 주",
-      "mr": "पूर्व प्रांत",
-      "nl": "Oostelijke Provincie",
-      "pl": "Prowincja Wschodnia",
-      "pt": "Este",
-      "ru": "Восточная провинция",
-      "si": "නැගෙනහිර පළාත, ශ් රී ලංකාව",
-      "sv": "Östprovinsen, Sri Lanka",
-      "ta": "கிழக்கு மாகாணம்",
-      "uk": "Східна провінція",
-      "ur": "مشرقی صوبہ، سری لنکا",
-      "vi": "Tỉnh Phía Đông",
-      "ceb": "Eastern Province (lalawigan sa Sri Lanka)",
-      "ar": "المقاطعة الشرقية (سريلانكا)",
-      "zh": "東部省",
-      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Timur, Sri Lanka"
-    },
-    "comments": null
-  },
-  "6": {
-    "name": "වයඹ පළාත, ශ්‍රී ලංකාව",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Северозападна провинция",
-      "de": "Nordwestprovinz",
-      "el": "Βορειοδυτική επαρχία",
-      "en": "North Western",
-      "es": "Provincia Noroeste",
-      "fa": "استان شمال غربی، سری‌لانکا",
-      "fi": "Sri Lankan luoteisprovinssi",
-      "fr": "Province du Nord-Ouest",
-      "hi": "उत्तर पश्चिमी प्रान्त",
-      "it": "provincia Nord-Occidentale",
-      "ja": "北西部州",
-      "ka": "ჩრდილო-დასავლეთი პროვინცია",
-      "ko": "북서부 주",
-      "mr": "वायव्य प्रांत",
-      "nl": "Noordwestelijke Provincie",
-      "pl": "Prowincja Północno-Zachodnia",
-      "pt": "Noroeste",
-      "ru": "Северо-Западная провинция",
-      "si": "වයඹ පළාත, ශ්‍රී ලංකාව",
-      "sv": "Nordvästprovinsen, Sri Lanka",
-      "ta": "வடமேல் மாகாணம்",
-      "uk": "Північно-Західна провінція",
-      "ur": "شمال مغربی صوبہ، سری لنکا",
-      "ceb": "North Western Province",
-      "ar": "المقاطعة الشمالية الغربية (سريلانكا)",
-      "zh": "西北省",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Barat Laut, Sri Lanka"
-    },
-    "comments": null
-  },
-  "7": {
-    "name": "උතුරු මැද පළාත",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Северна централна провинция",
-      "de": "Nördliche Zentralprovinz",
-      "en": "North Central",
-      "es": "Provincia Central del Norte",
-      "fa": "استان شمال مرکزی، سری‌لانکا",
-      "fi": "Sri Lankan keskipohjoinen provinssi",
-      "fr": "Province du Centre-Nord",
-      "hi": "उत्तरी मध्य प्रान्त",
-      "it": "provincia Centro-Settentrionale",
-      "ja": "北中部州",
-      "ka": "ჩრდილო-ცენტრალური პროვინცია",
-      "ko": "중북부 주",
-      "mr": "उत्तर मध्य प्रांत",
-      "nl": "Noordelijke Centrale Provincie",
-      "pl": "Prowincja Północno-Środkowa",
-      "pt": "Centro-Norte",
-      "ru": "Северо-Центральная провинция",
-      "si": "උතුරු මැද පළාත",
-      "sv": "Norra centralprovinsen",
-      "ta": "வடமத்திய மாகாணம்",
-      "uk": "Північно-Центральна провінція",
-      "ur": "شمال وسطی صوبہ، سری لنکا",
-      "vi": "Tỉnh Trung Bắc",
-      "ceb": "North Central Province",
-      "ar": "المقاطعة الشمالية الوسطى (سريلانكا)",
-      "zh": "北中省",
-      "el": "Βορειοκεντρική επαρχία",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴"
-    },
-    "comments": null
-  },
-  "8": {
-    "name": "ඌව පළාත",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Ува",
-      "ca": "Província de Uva",
-      "de": "Uva",
-      "el": "Επαρχία της Ούβα",
-      "en": "Uva",
-      "es": "Provincia de Uva",
-      "fa": "استان یووا",
-      "fi": "Uva",
-      "fr": "Province d’Uva",
-      "hi": "उवा प्रान्त",
-      "it": "Uva",
-      "ja": "ウバ州",
-      "ka": "უვის პროვინცია",
-      "ko": "우바 주",
-      "mr": "उवा प्रांत",
-      "nl": "Uva",
-      "pl": "Prowincja Uwa",
-      "pt": "Uva",
-      "ru": "Ува",
-      "si": "ඌව පළාත",
-      "sv": "Uvaprovinsen",
-      "ta": "ஊவா மாகாணம்",
-      "uk": "Ува",
-      "ur": "اووا صوبہ",
-      "ceb": "Province of Uva",
-      "ar": "مقاطعة يوفا",
-      "zh": "烏沃省",
-      "ccp": "𑄅𑄪𑄞",
-      "id": "Provinsi Uva"
-    },
-    "comments": null
-  },
-  "9": {
-    "name": "සබරගමුව පළාත",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Сабарагамува",
-      "ca": "Província de Sabaragamuwa",
-      "de": "Sabaragamuwa",
-      "el": "Σαμπαραγκαμούβα",
-      "en": "Sabaragamuwa",
-      "es": "Sabaragamuwa",
-      "fa": "استان ساباراگامووا",
-      "fi": "Sabaragamuwa",
-      "fr": "Province de Sabaragamuwa",
-      "hi": "सबरगमुवा प्रान्त",
-      "it": "Sabaragamuwa",
-      "ja": "サバラガムワ州",
-      "ka": "საბარაგამუვის პროვინცია",
-      "ko": "사바라가무와 주",
-      "mr": "सबरगमुवा प्रांत",
-      "nl": "Sabaragamuwa",
-      "pl": "Prowincja Sabaragamuwa",
-      "pt": "Sabaragamuwa",
-      "ru": "Сабарагамува",
-      "si": "සබරගමුව පළාත",
-      "sv": "Sabaragamuwa",
-      "ta": "சப்பிரகமுவா மாகாணம்",
-      "uk": "Сабарагамува",
-      "ur": "سبراگموا علاقہ",
-      "ceb": "Province of Sabaragamuwa",
-      "ar": "مقاطعة ساباراغاموا (سريلانكا)",
-      "zh": "薩伯勒格穆沃省",
-      "ccp": "𑄥𑄝𑄢𑄇𑄴𑄟𑄪𑄤",
-      "id": "Provinsi Sabaragamuwa"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

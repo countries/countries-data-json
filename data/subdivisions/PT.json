@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Aveiro",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Aveiro",
     "geo": {
       "latitude": 40.6405055,
@@ -47,11 +47,12 @@
       "be": "акруга Авейру",
       "no": "Aveiro"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "02": {
     "name": "Beja",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Beja",
     "geo": {
       "latitude": 38.0153039,
@@ -111,11 +112,12 @@
       "ccp": "𑄝𑄬𑄎",
       "no": "Beja"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "03": {
     "name": "Braga",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Braga",
     "geo": {
       "latitude": 41.5454486,
@@ -175,11 +177,12 @@
       "ccp": "𑄝𑄳𑄢𑄉",
       "no": "Braga"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "04": {
     "name": "Bragança",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Bragança",
     "geo": {
       "latitude": 41.8061131,
@@ -224,11 +227,12 @@
       "be": "акруга Браганса",
       "no": "Bragança"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "05": {
     "name": "Castelo Branco",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Castelo Branco",
     "geo": {
       "latitude": 39.8197117,
@@ -287,11 +291,12 @@
       "be": "акруга Каштэлу-Бранку",
       "no": "Castelo Branco"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "06": {
     "name": "Coimbra",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Coimbra",
     "geo": {
       "latitude": 40.2033145,
@@ -350,11 +355,12 @@
       "ccp": "𑄇𑄰𑄟𑄴𑄝𑄳𑄢",
       "no": "Coimbra"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "07": {
     "name": "Évora",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Évora",
     "geo": {
       "latitude": 38.571431,
@@ -413,11 +419,12 @@
       "be": "акруга Эвара",
       "no": "Évora"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "08": {
     "name": "Faro",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Faro",
     "geo": {
       "latitude": 37.0193548,
@@ -477,11 +484,12 @@
       "be": "акруга Фару",
       "no": "Faro"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "09": {
     "name": "Guarda",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Guarda",
     "geo": {
       "latitude": 40.5383482,
@@ -526,11 +534,12 @@
       "be": "акруга Гуарда",
       "no": "Guarda"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "10": {
     "name": "Leiria",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Leiria",
     "geo": {
       "latitude": 39.74953310000001,
@@ -590,11 +599,12 @@
       "be": "акруга Лейрыя",
       "no": "Leiria"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "11": {
     "name": "Lisboa",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Lisboa",
     "geo": {
       "latitude": 38.7222524,
@@ -642,11 +652,12 @@
       "ccp": "𑄣𑄨𑄌𑄴𑄝𑄧𑄚𑄴",
       "no": "Lisboa"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "12": {
     "name": "Portalegre",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Portalegre",
     "geo": {
       "latitude": 39.2967086,
@@ -691,11 +702,12 @@
       "be": "акруга Порталегры",
       "no": "Portalegre"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "13": {
     "name": "Porto",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Porto",
     "geo": {
       "latitude": 41.1579438,
@@ -739,11 +751,12 @@
       "mk": "Порто",
       "no": "Porto"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "14": {
     "name": "Santarém",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Santarém",
     "geo": {
       "latitude": 39.2366618,
@@ -803,11 +816,12 @@
       "be": "акруга Сантарэн",
       "no": "Santarém"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "15": {
     "name": "Setúbal",
-    "code": null,
+    "code": "15",
     "unofficial_names": "Setúbal",
     "geo": {
       "latitude": 38.5260437,
@@ -866,11 +880,12 @@
       "ccp": "𑄥𑄬𑄑𑄪𑄝𑄧𑄣𑄴",
       "no": "Setúbal"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "16": {
     "name": "Viana do Castelo",
-    "code": null,
+    "code": "16",
     "unofficial_names": "Viana do Castelo",
     "geo": {
       "latitude": 41.6918275,
@@ -929,11 +944,12 @@
       "ccp": "𑄞𑄨𑄠𑄚 𑄓𑄮 𑄇𑄌𑄴𑄑𑄬𑄣𑄮",
       "no": "Viana do Castelo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "17": {
     "name": "Vila Real",
-    "code": null,
+    "code": "17",
     "unofficial_names": "Vila Real",
     "geo": {
       "latitude": 41.3010351,
@@ -977,11 +993,12 @@
       "be": "акруга Віла-Рэал",
       "no": "Vila Real"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "18": {
     "name": "Viseu",
-    "code": null,
+    "code": "18",
     "unofficial_names": "Viseu",
     "geo": {
       "latitude": 40.6565861,
@@ -1040,11 +1057,12 @@
       "be": "акруга Візеу",
       "no": "Viseu"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "20": {
     "name": "Açores",
-    "code": null,
+    "code": "20",
     "unofficial_names": "Açores",
     "geo": {
       "latitude": 37.7412488,
@@ -1131,11 +1149,12 @@
       "mk": "Азорски Острови",
       "no": "Asorene"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_region"
   },
   "30": {
     "name": "Madeira",
-    "code": null,
+    "code": "30",
     "unofficial_names": "Madeira",
     "geo": {
       "latitude": 32.76070740000001,
@@ -1216,7 +1235,8 @@
       "no": "Madeira",
       "yo_BJ": "Madeira"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_region"
   }
 }
 

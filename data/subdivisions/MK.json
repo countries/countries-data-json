@@ -1,7 +1,7 @@
 {
   "101": {
     "name": "Veles",
-    "code": null,
+    "code": "101",
     "unofficial_names": "Veles",
     "geo": {
       "latitude": 41.7138462,
@@ -37,11 +37,12 @@
       "ccp": "𑄞𑄣𑄬𑄌𑄴",
       "mk": "Општина Велес"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "102": {
     "name": "Gradsko",
-    "code": null,
+    "code": "102",
     "unofficial_names": "Gradsko",
     "geo": {
       "latitude": 41.5750625,
@@ -99,11 +100,12 @@
       "mk": "Општина Градско",
       "no": "Gradsko kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "103": {
     "name": "Demir Kapija",
-    "code": null,
+    "code": "103",
     "unofficial_names": "Demir Kapija",
     "geo": {
       "latitude": 41.411389,
@@ -139,11 +141,12 @@
       "pt": "Município de Demir Kapija",
       "mk": "Општина Демир Капија"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "104": {
     "name": "Kavadarci",
-    "code": null,
+    "code": "104",
     "unofficial_names": "Kavadarci",
     "geo": {
       "latitude": 41.4329364,
@@ -201,11 +204,12 @@
       "mk": "Општина Кавадарци",
       "no": "Kavadarci kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "105": {
     "name": "Lozovo",
-    "code": null,
+    "code": "105",
     "unofficial_names": "Lozovo",
     "geo": {
       "latitude": 41.780833,
@@ -263,11 +267,12 @@
       "mk": "Општина Лозово",
       "no": "Lozovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "106": {
     "name": "Negotino",
-    "code": null,
+    "code": "106",
     "unofficial_names": "Negotino",
     "geo": {
       "latitude": 41.4989985,
@@ -325,11 +330,12 @@
       "mk": "Општина Неготино",
       "no": "Negotino kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "107": {
     "name": "Rosoman",
-    "code": null,
+    "code": "107",
     "unofficial_names": "Rosoman",
     "geo": {
       "latitude": 41.4848006,
@@ -364,11 +370,12 @@
       "ccp": "𑄢𑄮𑄥𑄮𑄟𑄚𑄴",
       "mk": "Општина Росоман"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "108": {
     "name": "Sveti Nikole",
-    "code": null,
+    "code": "108",
     "unofficial_names": "Sveti Nikole",
     "geo": {
       "latitude": 41.866667,
@@ -425,11 +432,12 @@
       "mk": "Општина Свети Николе",
       "no": "Sveti Nikole kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "109": {
     "name": "Čaška",
-    "code": null,
+    "code": "109",
     "unofficial_names": "Čaška",
     "geo": {
       "latitude": 41.647438,
@@ -488,11 +496,12 @@
       "mk": "Општина Чашка",
       "no": "Caska Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "201": {
     "name": "Berovo",
-    "code": null,
+    "code": "201",
     "unofficial_names": "Berovo",
     "geo": {
       "latitude": 41.71,
@@ -550,11 +559,12 @@
       "mk": "Општина Берово",
       "no": "Berovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "202": {
     "name": "Vinica",
-    "code": null,
+    "code": "202",
     "unofficial_names": "Vinica",
     "geo": {
       "latitude": 49.233083,
@@ -611,11 +621,12 @@
       "mk": "Општина Виница",
       "no": "Vinica Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "203": {
     "name": "Delčevo",
-    "code": null,
+    "code": "203",
     "unofficial_names": "Delčevo",
     "geo": {
       "latitude": 41.9764,
@@ -673,11 +684,12 @@
       "mk": "Општина Делчево",
       "no": "Delcevo Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "204": {
     "name": "Zrnovci",
-    "code": null,
+    "code": "204",
     "unofficial_names": "Zrnovci",
     "geo": {
       "latitude": 41.8228221,
@@ -734,11 +746,12 @@
       "mk": "Општина Зрновци",
       "no": "Zrnovci kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "205": {
     "name": "Karbinci",
-    "code": null,
+    "code": "205",
     "unofficial_names": "Karbinci",
     "geo": {
       "latitude": 41.8180159,
@@ -796,11 +809,12 @@
       "mk": "Општина Карбинци",
       "no": "Karbinci"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "206": {
     "name": "Kočani",
-    "code": null,
+    "code": "206",
     "unofficial_names": "Kočani",
     "geo": {
       "latitude": 41.91680480000001,
@@ -857,11 +871,12 @@
       "mk": "Општина Кочани",
       "no": "Kocani kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "207": {
     "name": "Makedonska Kamenica",
-    "code": null,
+    "code": "207",
     "unofficial_names": "Makedonska Kamenica",
     "geo": {
       "latitude": 42.019722,
@@ -918,11 +933,12 @@
       "mk": "Општина Македонска Каменица",
       "no": "Makedonska Kamencia kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "208": {
     "name": "Pehčevo",
-    "code": null,
+    "code": "208",
     "unofficial_names": "Pehčevo",
     "geo": {
       "latitude": 41.76,
@@ -979,11 +995,12 @@
       "mk": "Општина Пехчево",
       "no": "Pehcevo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "209": {
     "name": "Probištip",
-    "code": null,
+    "code": "209",
     "unofficial_names": "Probištip",
     "geo": {
       "latitude": 41.9948176,
@@ -1040,11 +1057,12 @@
       "mk": "Општина Пробиштип",
       "no": "Probistip kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "210": {
     "name": "Češinovo-Obleševo",
-    "code": null,
+    "code": "210",
     "unofficial_names": "Češinovo-Obleševo",
     "geo": {
       "latitude": 41.8639316,
@@ -1099,11 +1117,12 @@
       "mk": "Општина Чешиново-Облешево",
       "no": "Cesinoco-Oblesevo Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "211": {
     "name": "Štip",
-    "code": null,
+    "code": "211",
     "unofficial_names": "Štip",
     "geo": {
       "latitude": 41.737503,
@@ -1160,11 +1179,12 @@
       "mk": "Општина Штип",
       "no": "Strip kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "301": {
     "name": "Vevčani",
-    "code": null,
+    "code": "301",
     "unofficial_names": "Vevčani",
     "geo": {
       "latitude": 41.2403,
@@ -1197,11 +1217,12 @@
       "ccp": "𑄞𑄬𑄛𑄴𑄇𑄚𑄨",
       "mk": "Општина Вевчани"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "303": {
     "name": "Debar",
-    "code": null,
+    "code": "303",
     "unofficial_names": "Debar",
     "geo": {
       "latitude": 41.5266768,
@@ -1258,11 +1279,12 @@
       "mk": "Општина Дебар",
       "no": "Debar kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "304": {
     "name": "Debarca",
-    "code": null,
+    "code": "304",
     "unofficial_names": "Debarca",
     "geo": {
       "latitude": 42.0010109,
@@ -1321,11 +1343,12 @@
       "mk": "Општина Дебарца",
       "no": "Debarca kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "307": {
     "name": "Kičevo",
-    "code": null,
+    "code": "307",
     "unofficial_names": "Kičevo",
     "geo": {
       "latitude": 41.5158412,
@@ -1383,11 +1406,12 @@
       "mk": "Општина Кичево",
       "no": "Kicevo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "308": {
     "name": "Makedonski Brod",
-    "code": null,
+    "code": "308",
     "unofficial_names": "Makedonski Brod",
     "geo": {
       "latitude": 41.5133088,
@@ -1444,11 +1468,12 @@
       "mk": "Општина Македонски Брод",
       "no": "Makedoniske Brod kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "310": {
     "name": "Ohrid",
-    "code": null,
+    "code": "310",
     "unofficial_names": "Ohrid",
     "geo": {
       "latitude": 41.1230977,
@@ -1507,11 +1532,12 @@
       "mk": "Општина Охрид",
       "no": "Ohrid Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "311": {
     "name": "Plasnica",
-    "code": null,
+    "code": "311",
     "unofficial_names": "Plasnica",
     "geo": {
       "latitude": 41.45463489999999,
@@ -1568,11 +1594,12 @@
       "mk": "Општина Пласница",
       "no": "Plasnica Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "312": {
     "name": "Struga",
-    "code": null,
+    "code": "312",
     "unofficial_names": "Struga",
     "geo": {
       "latitude": 41.1778353,
@@ -1630,11 +1657,12 @@
       "mk": "Општина Струга",
       "no": "Struga kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "313": {
     "name": "Centar Župa",
-    "code": null,
+    "code": "313",
     "unofficial_names": "Centar Župa",
     "geo": {
       "latitude": 41.47852779999999,
@@ -1691,11 +1719,12 @@
       "mk": "Општина Центар Жупа",
       "no": "Centar Zupa kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "401": {
     "name": "Bogdanci",
-    "code": null,
+    "code": "401",
     "unofficial_names": "Bogdanci",
     "geo": {
       "latitude": 41.203138,
@@ -1753,11 +1782,12 @@
       "mk": "Општина Богданци",
       "no": "Bogdanci Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "402": {
     "name": "Bosilovo",
-    "code": null,
+    "code": "402",
     "unofficial_names": "Bosilovo",
     "geo": {
       "latitude": 41.4406,
@@ -1815,11 +1845,12 @@
       "mk": "Општина Босилово",
       "no": "Bosiovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "403": {
     "name": "Valandovo",
-    "code": null,
+    "code": "403",
     "unofficial_names": "Valandovo",
     "geo": {
       "latitude": 41.316944,
@@ -1854,11 +1885,12 @@
       "ccp": "𑄞𑄣𑄚𑄴𑄓𑄮𑄞𑄮",
       "mk": "Општина Валандово"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "404": {
     "name": "Vasilevo",
-    "code": null,
+    "code": "404",
     "unofficial_names": "Vasilevo",
     "geo": {
       "latitude": 41.5201985,
@@ -1918,11 +1950,12 @@
       "mk": "Општина Василево",
       "no": "Vasilevo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "405": {
     "name": "Gevgelija",
-    "code": null,
+    "code": "405",
     "unofficial_names": "Gevgelija",
     "geo": {
       "latitude": 41.140278,
@@ -1959,11 +1992,12 @@
       "pt": "Município de Gevgelija",
       "mk": "Општина Гевгелија"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "406": {
     "name": "Dojran",
-    "code": null,
+    "code": "406",
     "unofficial_names": "Dojran",
     "geo": {
       "latitude": 41.2436672,
@@ -2002,11 +2036,12 @@
       "pt": "Município de Dojran",
       "mk": "Општина Дојран"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "407": {
     "name": "Konče",
-    "code": null,
+    "code": "407",
     "unofficial_names": "Konče",
     "geo": {
       "latitude": 41.4965779,
@@ -2063,11 +2098,12 @@
       "mk": "Општина Конче",
       "no": "Konce Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "408": {
     "name": "Novo Selo",
-    "code": null,
+    "code": "408",
     "unofficial_names": "Novo Selo",
     "geo": {
       "latitude": 41.413889,
@@ -2125,11 +2161,12 @@
       "mk": "Општина Ново Село",
       "no": "Novo Selo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "409": {
     "name": "Radoviš",
-    "code": null,
+    "code": "409",
     "unofficial_names": "Radoviš",
     "geo": {
       "latitude": 41.636111,
@@ -2186,11 +2223,12 @@
       "mk": "Општина Радовиш",
       "no": "Radovis kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "410": {
     "name": "Strumica",
-    "code": null,
+    "code": "410",
     "unofficial_names": "Strumica",
     "geo": {
       "latitude": 41.4378004,
@@ -2248,11 +2286,12 @@
       "mk": "Општина Струмица",
       "no": "Stumica kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "501": {
     "name": "Bitola",
-    "code": null,
+    "code": "501",
     "unofficial_names": "Bitola",
     "geo": {
       "latitude": 41.031944,
@@ -2309,11 +2348,12 @@
       "mk": "Општина Битола",
       "no": "Bitcola kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "502": {
     "name": "Demir Hisar",
-    "code": null,
+    "code": "502",
     "unofficial_names": [
       "Murgaševo"
     ],
@@ -2355,11 +2395,12 @@
       "pt": "Município de Demir Hisar",
       "mk": "Општина Демир Хисар"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "503": {
     "name": "Dolneni",
-    "code": null,
+    "code": "503",
     "unofficial_names": "Dolneni",
     "geo": {
       "latitude": 41.425278,
@@ -2417,11 +2458,12 @@
       "mk": "Општина Долнени",
       "no": "Dolneni Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "504": {
     "name": "Krivogaštani",
-    "code": null,
+    "code": "504",
     "unofficial_names": "Krivogaštani",
     "geo": {
       "latitude": 41.30823059999999,
@@ -2478,11 +2520,12 @@
       "mk": "Општина Кривогаштани",
       "no": "Krivogasjtani kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "505": {
     "name": "Kruševo",
-    "code": null,
+    "code": "505",
     "unofficial_names": "Kruševo",
     "geo": {
       "latitude": 41.3801216,
@@ -2541,11 +2584,12 @@
       "mk": "Општина Крушево",
       "no": "Kursevo Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "506": {
     "name": "Mogila",
-    "code": null,
+    "code": "506",
     "unofficial_names": "Mogila",
     "geo": {
       "latitude": 41.108056,
@@ -2580,11 +2624,12 @@
       "ccp": "𑄟𑄮𑄉𑄨𑄣",
       "mk": "Општина Могила"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "507": {
     "name": "Novaci",
-    "code": null,
+    "code": "507",
     "unofficial_names": "Novaci",
     "geo": {
       "latitude": 45.18,
@@ -2617,11 +2662,12 @@
       "ccp": "𑄚𑄮𑄞𑄥𑄨",
       "mk": "Општина Новаци"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "508": {
     "name": "Prilep",
-    "code": null,
+    "code": "508",
     "unofficial_names": "Prilep",
     "geo": {
       "latitude": 41.344444,
@@ -2680,11 +2726,12 @@
       "mk": "Општина Прилеп",
       "no": "Prilep kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "509": {
     "name": "Resen",
-    "code": null,
+    "code": "509",
     "unofficial_names": "Resen",
     "geo": {
       "latitude": 41.0889,
@@ -2742,11 +2789,12 @@
       "mk": "Општина Ресен",
       "no": "Resen kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "601": {
     "name": "Bogovinje",
-    "code": null,
+    "code": "601",
     "unofficial_names": "Bogovinje",
     "geo": {
       "latitude": 41.9236371,
@@ -2803,11 +2851,12 @@
       "mk": "Општина Боговиње",
       "no": "Bogovinje kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "602": {
     "name": "Brvenica",
-    "code": null,
+    "code": "602",
     "unofficial_names": "Brvenica",
     "geo": {
       "latitude": 41.9672,
@@ -2865,11 +2914,12 @@
       "mk": "Општина Брвеница",
       "no": "Brvenica Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "603": {
     "name": "Vrapčište",
-    "code": null,
+    "code": "603",
     "unofficial_names": "Vrapčište",
     "geo": {
       "latitude": 41.83841779999999,
@@ -2904,11 +2954,12 @@
       "ccp": "𑄞𑄳𑄢𑄛𑄴𑄥𑄨𑄌𑄴𑄑𑄬",
       "mk": "Општина Врапчиште"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "604": {
     "name": "Gostivar",
-    "code": null,
+    "code": "604",
     "unofficial_names": "Gostivar",
     "geo": {
       "latitude": 41.8,
@@ -2967,11 +3018,12 @@
       "mk": "Општина Гостивар",
       "no": "Gostivar kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "605": {
     "name": "Želino",
-    "code": null,
+    "code": "605",
     "unofficial_names": "Želino",
     "geo": {
       "latitude": 41.98034190000001,
@@ -3028,11 +3080,12 @@
       "mk": "Општина Желино",
       "no": "Zelino kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "606": {
     "name": "Jegunovce",
-    "code": null,
+    "code": "606",
     "unofficial_names": "Jegunovce",
     "geo": {
       "latitude": 42.07407200000001,
@@ -3089,11 +3142,12 @@
       "mk": "Општина Јегуновце",
       "no": "Jegunovce kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "607": {
     "name": "Mavrovo i Rostuša",
-    "code": null,
+    "code": "607",
     "unofficial_names": "Mavrovo i Rostuša",
     "geo": {
       "latitude": 41.65,
@@ -3151,11 +3205,12 @@
       "mk": "Општина Маврово и Ростуша",
       "no": "Mavrovo og Rostusa kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "608": {
     "name": "Tearce",
-    "code": null,
+    "code": "608",
     "unofficial_names": "Tearce",
     "geo": {
       "latitude": 42.0777511,
@@ -3212,11 +3267,12 @@
       "mk": "Општина Теарце",
       "no": "Tearce Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "609": {
     "name": "Tetovo",
-    "code": null,
+    "code": "609",
     "unofficial_names": "Tetovo",
     "geo": {
       "latitude": 42,
@@ -3274,11 +3330,12 @@
       "mk": "Општина Тетово",
       "no": "Tetovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "701": {
     "name": "Kratovo",
-    "code": null,
+    "code": "701",
     "unofficial_names": "Kratovo",
     "geo": {
       "latitude": 42.0800379,
@@ -3336,11 +3393,12 @@
       "mk": "Општина Кратово",
       "no": "Kratovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "702": {
     "name": "Kriva Palanka",
-    "code": null,
+    "code": "702",
     "unofficial_names": "Kriva Palanka",
     "geo": {
       "latitude": 42.2058454,
@@ -3398,11 +3456,12 @@
       "mk": "Општина Крива Паланка",
       "no": "Kriva Palanka kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "703": {
     "name": "Kumanovo",
-    "code": null,
+    "code": "703",
     "unofficial_names": "Kumanovo",
     "geo": {
       "latitude": 42.135833,
@@ -3462,11 +3521,12 @@
       "mk": "Општина Куманово",
       "no": "Kumanovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "704": {
     "name": "Lipkovo",
-    "code": null,
+    "code": "704",
     "unofficial_names": "Lipkovo",
     "geo": {
       "latitude": 42.1561352,
@@ -3524,11 +3584,12 @@
       "mk": "Општина Липково",
       "no": "Lipkovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "705": {
     "name": "Rankovce",
-    "code": null,
+    "code": "705",
     "unofficial_names": "Rankovce",
     "geo": {
       "latitude": 42.1695387,
@@ -3587,11 +3648,12 @@
       "mk": "Општина Ранковце",
       "no": "Rankovce kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "706": {
     "name": "Staro Nagoričane",
-    "code": null,
+    "code": "706",
     "unofficial_names": "Staro Nagoričane",
     "geo": {
       "latitude": 42.2,
@@ -3625,11 +3687,12 @@
       "ccp": "𑄌𑄳𑄑𑄢𑄮 𑄚𑄉𑄮𑄢𑄨𑄇𑄬𑄚𑄴",
       "mk": "Општина Старо Нагоричане"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "801": {
     "name": "Aerodrom †",
-    "code": null,
+    "code": "801",
     "unofficial_names": "Aerodrom †",
     "geo": {
       "latitude": 41.94643629999999,
@@ -3643,11 +3706,12 @@
       "en": "Aerodrom †",
       "ccp": "𑄃𑄠𑄬𑄢𑄮𑄓𑄳𑄢𑄮𑄟𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "802": {
     "name": "Aračinovo",
-    "code": null,
+    "code": "802",
     "unofficial_names": "Aracinovo",
     "geo": {
       "latitude": 42.0247381,
@@ -3706,11 +3770,12 @@
       "mk": "Општина Арачиново",
       "no": "Aracinovo Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "803": {
     "name": "Butel †",
-    "code": null,
+    "code": "803",
     "unofficial_names": "Butel †",
     "geo": {
       "latitude": 42.0895068,
@@ -3724,11 +3789,12 @@
       "en": "Butel †",
       "ccp": "𑄝𑄪𑄑𑄬𑄣𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "804": {
     "name": "Gazi Baba †",
-    "code": null,
+    "code": "804",
     "unofficial_names": "Gazi Baba †",
     "geo": {
       "latitude": 42.0162961,
@@ -3742,11 +3808,12 @@
       "en": "Gazi Baba †",
       "ccp": "𑄉𑄎𑄨 𑄝𑄝"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "805": {
     "name": "Gjorče Petrov †",
-    "code": null,
+    "code": "805",
     "unofficial_names": "Gjorče Petrov †",
     "geo": {
       "latitude": 42.0606374,
@@ -3760,11 +3827,12 @@
       "en": "Gjorče Petrov †",
       "ccp": "𑄎𑄮𑄢𑄴 𑄛𑄬𑄑𑄳𑄢𑄮𑄛𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "806": {
     "name": "Zelenikovo",
-    "code": null,
+    "code": "806",
     "unofficial_names": "Zelenikovo",
     "geo": {
       "latitude": 41.8733812,
@@ -3822,11 +3890,12 @@
       "mk": "Општина Зелениково",
       "no": "Zelenikovo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "807": {
     "name": "Ilinden",
-    "code": null,
+    "code": "807",
     "unofficial_names": "Ilinden",
     "geo": {
       "latitude": 41.98999999999999,
@@ -3884,11 +3953,12 @@
       "mk": "Општина Илинден",
       "no": "Ilinden Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "808": {
     "name": "Karpoš †",
-    "code": null,
+    "code": "808",
     "unofficial_names": "Karpoš †",
     "geo": {
       "latitude": 42.156389,
@@ -3902,11 +3972,12 @@
       "en": "Karpoš †",
       "ccp": "𑄇𑄢𑄴𑄛𑄮𑄌𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "809": {
     "name": "Kisela Voda †",
-    "code": null,
+    "code": "809",
     "unofficial_names": "Kisela Voda †",
     "geo": {
       "latitude": 41.92748,
@@ -3920,11 +3991,12 @@
       "en": "Kisela Voda †",
       "ccp": "𑄇𑄨𑄥𑄬𑄣 𑄣𑄮𑄓"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "810": {
     "name": "Petrovec",
-    "code": null,
+    "code": "810",
     "unofficial_names": "Petrovec",
     "geo": {
       "latitude": 41.933333,
@@ -3958,11 +4030,12 @@
       "ccp": "𑄛𑄬𑄑𑄳𑄢𑄮𑄞𑄬𑄇𑄴",
       "mk": "Општина Петровец"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "811": {
     "name": "Saraj †",
-    "code": null,
+    "code": "811",
     "unofficial_names": "Saraj †",
     "geo": {
       "latitude": 41.477778,
@@ -3975,11 +4048,12 @@
     "translations": {
       "en": "Saraj †"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "812": {
     "name": "Sopište",
-    "code": null,
+    "code": "812",
     "unofficial_names": "Sopište",
     "geo": {
       "latitude": 41.9500453,
@@ -4036,11 +4110,12 @@
       "mk": "Општина Сопиште",
       "no": "Sopiste kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "813": {
     "name": "Studeničani",
-    "code": null,
+    "code": "813",
     "unofficial_names": "Studeničani",
     "geo": {
       "latitude": 41.9225639,
@@ -4097,11 +4172,12 @@
       "mk": "Општина Студеничани",
       "no": "Studenicani Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "814": {
     "name": "Centar †",
-    "code": null,
+    "code": "814",
     "unofficial_names": "Centar †",
     "geo": {
       "latitude": 41.9953628,
@@ -4115,11 +4191,12 @@
       "en": "Centar †",
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "815": {
     "name": "Čair †",
-    "code": null,
+    "code": "815",
     "unofficial_names": "Čair †",
     "geo": {
       "latitude": 41.9930355,
@@ -4133,11 +4210,12 @@
       "en": "Čair †",
       "ccp": "𑄥𑄨𑄠𑄢𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "816": {
     "name": "Čučer-Sandevo",
-    "code": null,
+    "code": "816",
     "unofficial_names": "Čučer-Sandevo",
     "geo": {
       "latitude": 42.0974773,
@@ -4195,11 +4273,12 @@
       "mk": "Општина Чучер-Сандево",
       "no": "Cucer-Sandevo kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "817": {
     "name": "Šuto Orizari †",
-    "code": null,
+    "code": "817",
     "unofficial_names": "Šuto Orizari †",
     "geo": {
       "latitude": 42.0290416,
@@ -4213,7 +4292,8 @@
       "en": "Šuto Orizari †",
       "ccp": "𑄥𑄪𑄑𑄮 𑄃𑄧𑄢𑄨𑄎𑄢𑄨"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   }
 }
 

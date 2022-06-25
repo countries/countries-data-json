@@ -1,7 +1,647 @@
 {
+  "01": {
+    "name": "Boucle du Mouhoun",
+    "code": "01",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Букъл дю Муун",
+      "da": "Boucle du Mouhoun",
+      "de": "Boucle du Mouhoun",
+      "en": "Boucle du Mouhoun",
+      "es": "Región Boucle du Mouhoun",
+      "eu": "Boucle du Mouhoun eskualdea",
+      "fi": "Boucle du Mouhoun",
+      "fr": "Boucle du Mouhoun",
+      "gl": "Boucle du Mouhoun",
+      "hr": "Boucle du Mouhoun",
+      "id": "Region Boucle du Mouhoun",
+      "it": "regione di Boucle du Mouhoun",
+      "ja": "ブクル・デュ・ムウン地方",
+      "ko": "부클뒤무운 주",
+      "lt": "Muhuno Kilpos regionas",
+      "nb": "Boucle du Mouhoun",
+      "nl": "Boucle du Mouhoun",
+      "pl": "Region Boucle du Mouhoun",
+      "pt": "Boucle du Mouhoun",
+      "ro": "Regiunea Boucle du Mouhoun, Burkina Faso",
+      "ru": "Букле-ду-Мухун",
+      "sv": "Boucle du Mouhoun",
+      "tr": "Boucle du Mouhoun Bölgesi",
+      "uk": "Букле-ду-Мухун",
+      "ur": "بوکل دی موہون علاقہ",
+      "zh": "布克萊迪穆翁大區",
+      "ceb": "Boucle du Mouhoun Region",
+      "ar": "بوكل دو موهون",
+      "ccp": "𑄝𑄧𑄅𑄪𑄌𑄴𑄣𑄬 𑄓𑄪 𑄟𑄯𑄦𑄯𑄚𑄴",
+      "ka": "ბუკლე-დუ-მუჰუნის რეგიონი",
+      "he": "מחוז בוקל דו מואון",
+      "ca": "Regió Boucle du Mouhoun",
+      "no": "Boucle du Mouhoun"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "02": {
+    "name": "Cascades",
+    "code": "02",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Каскадес",
+      "da": "Cascades",
+      "de": "Cascades",
+      "el": "Κασκάντ",
+      "en": "Cascades",
+      "es": "Región Cascades",
+      "eu": "Cascades eskualdea",
+      "fi": "Cascades",
+      "fr": "Cascades",
+      "gl": "Cascades, Burquina Faso",
+      "hr": "Cascades",
+      "id": "Region Cascades",
+      "it": "regione delle Cascate",
+      "ja": "カスカード地方",
+      "ko": "카스카드 주",
+      "lt": "Kaskadų regionas",
+      "nb": "Cascades",
+      "nl": "Cascades",
+      "pl": "Region Cascades",
+      "pt": "Região Cascades",
+      "ro": "Regiunea Cascades, Burkina Faso",
+      "ru": "Каскады",
+      "sv": "Cascades, Burkina Faso",
+      "tr": "Cascades Bölgesi",
+      "uk": "Каскади",
+      "ur": "آبشار علاقہ",
+      "ceb": "Cascades Region",
+      "ar": "الشالالات",
+      "zh": "瀑布大區",
+      "ccp": "𑄇𑄌𑄴𑄇𑄳𑄠𑄓𑄬𑄌𑄴",
+      "ka": "კასკადების რეგიონი",
+      "ca": "Regió Cascades",
+      "no": "Cascades"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "03": {
+    "name": "Centre",
+    "code": "03",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централен регион",
+      "da": "Centre",
+      "de": "Centre",
+      "en": "Centre",
+      "es": "Región Centro",
+      "eu": "Erdialdeko eskualdea",
+      "fi": "Centre",
+      "fr": "Centre",
+      "gl": "Rexión Centro, Burquina Faso",
+      "hr": "Centralna regija, Burkina Faso",
+      "id": "Region Centre",
+      "it": "regione del Centro",
+      "ja": "中部地方 (ブルキナファソ)",
+      "ko": "중부 주",
+      "lt": "Centrinis regionas (Burkina Fasas)",
+      "nb": "Centre",
+      "nl": "Centre",
+      "pl": "Region Centre",
+      "pt": "Região Centro",
+      "ro": "Regiunea Centre, Burkina Faso",
+      "ru": "Центральная область",
+      "sv": "Centre, Burkina Faso",
+      "tr": "Centre Bölgesi",
+      "uk": "Центральна область",
+      "ur": "وسطی علاقہ",
+      "ceb": "Centre",
+      "zh": "中央大區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴",
+      "ka": "ცენტრალური რეგიონი",
+      "ca": "Regió Centre",
+      "be": "Цэнтральная вобласць",
+      "no": "Centre"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "04": {
+    "name": "Centre-Est",
+    "code": "04",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централно-източен регион",
+      "da": "Centre-Est",
+      "de": "Centre-Est",
+      "en": "Centre-Est",
+      "es": "Región Centro-Este",
+      "eu": "Erdialde Ekialdeko eskualdea",
+      "fi": "Centre-Est",
+      "fr": "Centre-Est",
+      "gl": "Rexión Centro-Leste",
+      "hr": "Centralno-istočna regija, Burkina Faso",
+      "id": "Region Centre-Est",
+      "it": "regione del Centro-Est",
+      "ja": "中東部地方 (ブルキナファソ)",
+      "ko": "중동부 주",
+      "lt": "Vidurio Rytų regionas",
+      "nb": "Centre-Est",
+      "nl": "Centre-Est",
+      "pl": "Region Centre-Est",
+      "pt": "Região Centro-Este",
+      "ro": "Regiunea Centre-Est, Burkina Faso",
+      "ru": "Восточно-Центральная область",
+      "sv": "Centre-Est",
+      "tr": "Centre-Est Bölgesi",
+      "uk": "Східно-Центральна область",
+      "ur": "وسطی-مشرقی علاقہ",
+      "ceb": "Centre-Est",
+      "zh": "中東大區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄃𑄨𑄌𑄳𑄑𑄴",
+      "ka": "აღმოსავლეთ-ცენტრალური რეგიონი",
+      "ca": "Regió Centre-Est",
+      "no": "Centre-Est"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "05": {
+    "name": "Centre-Nord",
+    "code": "05",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централно-северен регион",
+      "da": "Centre-Nord",
+      "de": "Centre-Nord",
+      "en": "Centre-Nord",
+      "es": "Región Centro-Norte",
+      "eu": "Erdialde Iparraldeko eskualdea",
+      "fi": "Centre-Nord",
+      "fr": "Centre-Nord",
+      "gl": "Rexión Centro-Norte",
+      "hr": "Centralno-sjeverna regija",
+      "id": "Region Centre-Nord",
+      "it": "regione del Centro-Nord",
+      "ja": "中北部地方 (ブルキナファソ)",
+      "ko": "중북부 주",
+      "lt": "Vidurio Šiaurės regionas",
+      "nb": "Centre-Nord",
+      "nl": "Centre-Nord",
+      "pl": "Region Centre-Nord",
+      "pt": "Região Centro-Norte",
+      "ro": "Regiunea Centre-Nord, Burkina Faso",
+      "ru": "Северо-Центральная область",
+      "sv": "Centre-Nord",
+      "tr": "Centre-Nord Bölgesi",
+      "uk": "Північно-Центральна область",
+      "ur": "وسطی-شمالی علاقہ",
+      "ceb": "Centre-Nord",
+      "ar": "الوسط شمالي",
+      "zh": "中北大區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄚𑄧𑄢𑄳𑄓𑄴",
+      "ka": "ჩრდილო-ცენტრალური რეგიონი",
+      "he": "מחוז מרכז-צפון (בורקינה פאסו)",
+      "ca": "Regió Centre-Nord",
+      "no": "Centre-Nord"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "06": {
+    "name": "Centre-Ouest",
+    "code": "06",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централно-западен регион",
+      "da": "Centre-Ouest",
+      "de": "Centre-Ouest",
+      "el": "Σαντρ-Ουέστ",
+      "en": "Centre-Ouest",
+      "es": "Región Centro-Oeste",
+      "eu": "Erdialde Mendebaldeko eskualdea",
+      "fi": "Centre-Ouest",
+      "fr": "Centre-Ouest",
+      "gl": "Rexión Centro-Oeste",
+      "hr": "Centralno-zapadna regija",
+      "id": "Region Centre-Ouest",
+      "it": "regione del Centro-Ovest",
+      "ja": "中西部地方 (ブルキナファソ)",
+      "ko": "중서부 주",
+      "lt": "Vidurio Vakarų regionas",
+      "nb": "Centre-Ouest",
+      "nl": "Centre-Ouest",
+      "pl": "Region Centre-Ouest",
+      "pt": "Região Centro-Oeste",
+      "ro": "Regiunea Centre-Ouest, Burkina Faso",
+      "ru": "Западно-Центральная область",
+      "sv": "Centre-Ouest",
+      "tr": "Centre-Ouest Bölgesi",
+      "uk": "Західно-Центральна область",
+      "ur": "وسطی-مغربی علاقہ",
+      "ceb": "Centre-Ouest",
+      "ar": "وسط كويست",
+      "zh": "中西大區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄃𑄯𑄠𑄬𑄌𑄳𑄑𑄴",
+      "ka": "დასავლეთ-ცენტრალური რეგიონი",
+      "no": "Centre-Ouest"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "07": {
+    "name": "Centre-Sud",
+    "code": "07",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Централно-южен регион",
+      "da": "Centre-Sud",
+      "de": "Centre-Sud",
+      "en": "Centre-Sud",
+      "es": "Región Centro-Sur",
+      "eu": "Erdialde Hegoaldeko eskualdea",
+      "fi": "Centre-Sud",
+      "fr": "Centre-Sud",
+      "gl": "Rexión Centro-Sur",
+      "hr": "Centralno-južna regija",
+      "id": "Region Centre-Sud",
+      "it": "regione del Centro-Sud",
+      "ja": "中南部地方 (ブルキナファソ)",
+      "ko": "중남부 주",
+      "lt": "Vidurio Pietų regionas",
+      "nb": "Centre-Sud",
+      "nl": "Centre-Sud",
+      "pl": "Region Centre-Sud",
+      "pt": "Região Centro-Sul",
+      "ro": "Regiunea Centre-Sud, Burkina Faso",
+      "ru": "Юго-Центральная область",
+      "sv": "Centre-Sud",
+      "tr": "Centre-Sud Bölgesi",
+      "uk": "Південно-Центральна область",
+      "ur": "وسطی-جنوبی علاقہ",
+      "ceb": "Centre-Sud",
+      "ar": "الوسط الجنوبي",
+      "zh": "中南大區",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄥𑄖𑄴",
+      "ka": "სამხრეთ-ცენტრალური რეგიონი",
+      "ca": "Regió Centre-Sud",
+      "no": "Centre-Sud"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "08": {
+    "name": "Est",
+    "code": "08",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Източен регион",
+      "da": "Est",
+      "de": "Est",
+      "en": "Est",
+      "es": "Región Este",
+      "eu": "Ekialdeko eskualdea",
+      "fi": "Est",
+      "fr": "Est",
+      "gl": "Rexión Leste, Burquina Faso",
+      "hr": "Istočna regija",
+      "id": "Region Est",
+      "it": "regione dell’Est",
+      "ja": "東部地方 (ブルキナファソ)",
+      "ko": "동부 주",
+      "lt": "Rytų regionas",
+      "nb": "Est",
+      "nl": "Est",
+      "pl": "Region Est",
+      "pt": "Região Este",
+      "ro": "Regiunea Est, Burkina Faso",
+      "ru": "Восточная область",
+      "sv": "Est, Burkina Faso",
+      "tr": "Est Bölgesi",
+      "uk": "Східна область",
+      "ur": "مشرقی علاقہ",
+      "ceb": "Est",
+      "ar": "الشرقي",
+      "zh": "東部大區",
+      "ccp": "𑄃𑄨𑄌𑄳𑄑𑄴",
+      "ka": "აღმოსავლეთი რეგიონი",
+      "ca": "Regió Est",
+      "no": "Est"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "09": {
+    "name": "Hauts-Bassins",
+    "code": "09",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "От Басен",
+      "da": "Hauts-Bassins",
+      "de": "Hauts-Bassins",
+      "el": "Ω-Μπασάν",
+      "en": "Hauts-Bassins",
+      "es": "Región Hauts-Bassins",
+      "eu": "Hauts-Bassins eskualdea",
+      "fa": "منطقه هوت-باسین",
+      "fi": "Hauts-Bassins",
+      "fr": "Hauts-Bassins",
+      "gl": "Hauts-Bassins",
+      "hr": "Hauts-Bassins",
+      "id": "Region Hauts-Bassins",
+      "it": "regione degli Alti Bacini",
+      "ja": "上流域地方",
+      "ko": "오트바생 주",
+      "lt": "Aukštutinių Baseinų regionas",
+      "nb": "Hauts-Bassins",
+      "nl": "Hauts-Bassins",
+      "pl": "Region Hauts-Bassins",
+      "pt": "Região Hauts-Bassins",
+      "ro": "Regiunea Hauts-Bassins, Burkina Faso",
+      "ru": "Верхние Бассейны",
+      "sv": "Hauts-Bassins",
+      "tr": "Hauts-Bassins Bölgesi",
+      "uk": "Верхні Басейни",
+      "ur": "بالائی-طاس علاقہ",
+      "ceb": "High-Basins Region",
+      "zh": "上盆地大區",
+      "ccp": "𑄦𑄧𑄅𑄪𑄑𑄳𑄥𑄴-𑄝𑄥𑄨𑄁",
+      "ka": "ზემო აუზების რეგიონი",
+      "he": "מחוז אוט בסינס",
+      "ca": "Regió Hauts-Bassins",
+      "no": "Hauts-Bassins"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "10": {
+    "name": "Nord",
+    "code": "10",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Regió Nord",
+      "da": "Nord",
+      "de": "Nord",
+      "en": "Nord",
+      "es": "Región Norte",
+      "eu": "Iparraldeko eskualdea",
+      "fi": "Nord",
+      "fr": "Nord",
+      "gl": "Rexión Norte",
+      "hr": "Sjeverna regija",
+      "id": "Region Nord",
+      "it": "regione del Nord",
+      "ja": "北部地方 (ブルキナファソ)",
+      "ko": "북부 주",
+      "lt": "Šiaurės regionas",
+      "nb": "Nord",
+      "nl": "Nord",
+      "pl": "Region Nord",
+      "pt": "Região Norte",
+      "ro": "Regiunea Nord, Burkina Faso",
+      "ru": "Северная область",
+      "sv": "Nord, Burkina Faso",
+      "tr": "Nord Bölgesi",
+      "uk": "Північна область",
+      "ur": "شمالی علاقہ",
+      "ceb": "Nord",
+      "ar": "الشمالي",
+      "zh": "北部大區",
+      "ccp": "𑄚𑄧𑄢𑄳𑄓𑄴",
+      "ka": "ჩრდილოეთი რეგიონი",
+      "be": "Паўночная вобласць",
+      "no": "Nord"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "11": {
+    "name": "Plateau-Central",
+    "code": "11",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Плато Сентрал",
+      "da": "Plateau-Central",
+      "de": "Plateau Central",
+      "en": "Plateau-Central",
+      "es": "Región Plateau-Central",
+      "eu": "Plateau-Central eskualdea",
+      "fi": "Plateau-Central",
+      "fr": "Plateau-Central",
+      "gl": "Plateau-Central",
+      "hr": "Plato-centralna regija",
+      "id": "Region Plateau-Central",
+      "it": "regione dell’Altopiano Centrale",
+      "ja": "中央大地地方",
+      "ko": "플라토상트랄 주",
+      "lt": "Vidurio Plokščiakalnio regionas",
+      "nb": "Plateau-Central",
+      "nl": "Plateau-Central",
+      "pl": "Region Plateau-Central",
+      "pt": "Região Plateau-Central",
+      "ro": "Regiunea Plateau-Central, Burkina Faso",
+      "ru": "Центральное Плато",
+      "sv": "Plateau-Central",
+      "tr": "Plateau-Central Bölgesi",
+      "uk": "Центральне Плато",
+      "ur": "مرتفع-وسطی علاقہ",
+      "ceb": "Plateau-Central",
+      "ar": "الهضبة الوسطى",
+      "zh": "高原-中部大區",
+      "ccp": "𑄛𑄳𑄣𑄧𑄑𑄮-𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "ka": "ცენტრალური პლატოს რეგიონი",
+      "ca": "Regió Plateau-Central",
+      "no": "Plateau-Central"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "12": {
+    "name": "Sahel",
+    "code": "12",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Саел",
+      "da": "Sahel",
+      "de": "Sahel",
+      "en": "Sahel",
+      "es": "Región del Sahel",
+      "eu": "Sahel eskualdea",
+      "fi": "Sahel",
+      "fr": "Sahel",
+      "gl": "Sahel, Burquina Faso",
+      "hr": "Sahel, Burkina Faso",
+      "id": "Region Sahel",
+      "it": "regione del Sahel",
+      "ja": "サヘル地方",
+      "ko": "사엘 주",
+      "lt": "Sahelio regionas",
+      "nb": "Sahel",
+      "nl": "Sahel",
+      "pl": "Region Sahel",
+      "pt": "Região Sahel",
+      "ru": "Сахель",
+      "sv": "Sahel, Burkina Faso",
+      "tr": "Sahel Bölgesi",
+      "uk": "Сахель",
+      "ur": "سہیل ریجن",
+      "ceb": "Sahel",
+      "ar": "الساحل",
+      "zh": "薩赫勒大區",
+      "ccp": "𑄥𑄧𑄦𑄬𑄣𑄴",
+      "ka": "საჰელის რეგიონი",
+      "ca": "Regió del Sahel",
+      "no": "Sahel"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "13": {
+    "name": "Sud-Ouest",
+    "code": "13",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bg": "Югозападен регион",
+      "da": "Sud-Ouest",
+      "de": "Sud-Ouest",
+      "el": "Συντ-Ουέστ",
+      "en": "Sud-Ouest",
+      "es": "Región Suroeste",
+      "eu": "Hego-mendebaldeko eskualdea",
+      "fi": "Sud-Ouest",
+      "fr": "Sud-Ouest",
+      "gl": "Rexión Sur-Oeste",
+      "hr": "Jugo-zapadna regija, Burkina Faso",
+      "id": "Region Sud-Ouest",
+      "it": "regione del Sud-Ovest",
+      "ja": "南西地方 (ブルキナファソ)",
+      "ko": "남서부 주",
+      "lt": "Pietvakarių regionas",
+      "nb": "Sud-Ouest",
+      "nl": "Sud-Ouest",
+      "pl": "Region Sud-Ouest",
+      "pt": "Região Sul-Oeste",
+      "ro": "Regiunea Sud-Ouest, Burkina Faso",
+      "ru": "Юго-Западная область",
+      "sv": "Sud-Ouest, Burkina Faso",
+      "tr": "Sud-Ouest Bölgesi",
+      "uk": "Південно-Західна область",
+      "ur": "جنوبی-مغربی علاقہ",
+      "ceb": "Southwest Region",
+      "zh": "西南大區",
+      "ccp": "𑄥𑄖𑄴-𑄃𑄯𑄠𑄬𑄥𑄳𑄑𑄴",
+      "ka": "სამხრეთ-დასავლეთი რეგიონი",
+      "ca": "Regió Sud-Oest",
+      "no": "Sud-Ouest"
+    },
+    "comments": null,
+    "type": "region"
+  },
   "BAL": {
     "name": "Balé",
-    "code": null,
+    "code": "BAL",
     "unofficial_names": "Balé",
     "geo": {
       "latitude": 13.383333,
@@ -55,11 +695,12 @@
       "eu": "Balé probintzia",
       "no": "Balé"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAM": {
     "name": "Bam",
-    "code": null,
+    "code": "BAM",
     "unofficial_names": "Bam",
     "geo": {
       "latitude": 13.4061979,
@@ -113,11 +754,12 @@
       "eu": "Bam probintzia",
       "no": "Bam"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAN": {
     "name": "Banwa",
-    "code": null,
+    "code": "BAN",
     "unofficial_names": "Banwa",
     "geo": {
       "latitude": 12.1323053,
@@ -171,11 +813,12 @@
       "eu": "Banwa probintzia",
       "no": "Banwa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAZ": {
     "name": "Bazèga",
-    "code": null,
+    "code": "BAZ",
     "unofficial_names": "Bazèga",
     "geo": {
       "latitude": 11.9767692,
@@ -229,11 +872,12 @@
       "eu": "Bazèga probintzia",
       "no": "Bazèga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BGR": {
     "name": "Bougouriba",
-    "code": null,
+    "code": "BGR",
     "unofficial_names": "Bougouriba",
     "geo": {
       "latitude": 10.8722646,
@@ -285,11 +929,12 @@
       "ccp": "𑄝𑄯𑄉𑄯𑄢𑄨𑄝",
       "no": "Bougouriba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BLG": {
     "name": "Boulgou",
-    "code": null,
+    "code": "BLG",
     "unofficial_names": "Boulgou",
     "geo": {
       "latitude": 11.4336766,
@@ -344,11 +989,12 @@
       "ca": "Boulgou",
       "no": "Boulgou"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BLK": {
     "name": "Boulkiemdé",
-    "code": null,
+    "code": "BLK",
     "unofficial_names": "Boulkiemdé",
     "geo": {
       "latitude": 12.3373752,
@@ -401,11 +1047,12 @@
       "eu": "Boulkiemdé probintzia",
       "no": "Boulkiemdé"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "COM": {
     "name": "Comoé",
-    "code": null,
+    "code": "COM",
     "unofficial_names": "Comoé",
     "geo": {
       "latitude": 10.4072992,
@@ -457,11 +1104,12 @@
       "eu": "Comoé probintzia",
       "no": "Comoé"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GAN": {
     "name": "Ganzourgou",
-    "code": null,
+    "code": "GAN",
     "unofficial_names": "Ganzourgou",
     "geo": {
       "latitude": 12.2537648,
@@ -514,11 +1162,12 @@
       "ccp": "𑄉𑄚𑄴𑄎𑄯𑄢𑄴𑄉𑄯",
       "no": "Ganzourgou"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GNA": {
     "name": "Gnagna",
-    "code": null,
+    "code": "GNA",
     "unofficial_names": "Gnagna",
     "geo": {
       "latitude": 12.8974992,
@@ -573,11 +1222,12 @@
       "eu": "Gnagna probintzia",
       "no": "Gnagna"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GOU": {
     "name": "Gourma",
-    "code": null,
+    "code": "GOU",
     "unofficial_names": "Gourma",
     "geo": {
       "latitude": 12.1624473,
@@ -630,11 +1280,12 @@
       "eu": "Gourma probintzia",
       "no": "Gourma"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HOU": {
     "name": "Houet",
-    "code": null,
+    "code": "HOU",
     "unofficial_names": "Houet",
     "geo": {
       "latitude": 11.1320447,
@@ -687,11 +1338,12 @@
       "eu": "Houet probintzia",
       "no": "Houet"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "IOB": {
     "name": "Ioba",
-    "code": null,
+    "code": "IOB",
     "unofficial_names": "Ioba",
     "geo": {
       "latitude": 11.0562034,
@@ -743,11 +1395,12 @@
       "ccp": "𑄣𑄧𑄝",
       "no": "Ioba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KAD": {
     "name": "Kadiogo",
-    "code": null,
+    "code": "KAD",
     "unofficial_names": "Kadiogo",
     "geo": {
       "latitude": 12.3425897,
@@ -802,11 +1455,12 @@
       "be": "правінцыя Кадыёга",
       "no": "Kadiogo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KEN": {
     "name": "Kénédougou",
-    "code": null,
+    "code": "KEN",
     "unofficial_names": "Kénédougou",
     "geo": {
       "latitude": 11.3919395,
@@ -859,11 +1513,12 @@
       "eu": "Kénédougou probintzia",
       "no": "Kénédougou"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KMD": {
     "name": "Komondjari",
-    "code": null,
+    "code": "KMD",
     "unofficial_names": [
       "Komandjoari",
       "Komondjari"
@@ -919,11 +1574,12 @@
       "uk": "Провінція Комонджарі",
       "no": "Komondjari"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KMP": {
     "name": "Kompienga",
-    "code": null,
+    "code": "KMP",
     "unofficial_names": "Kompienga",
     "geo": {
       "latitude": 11.5238362,
@@ -976,11 +1632,12 @@
       "eu": "Kompienga probintzia",
       "no": "Kompienga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KOP": {
     "name": "Koulpélogo",
-    "code": null,
+    "code": "KOP",
     "unofficial_names": "Koulpélogo",
     "geo": {
       "latitude": 11.5247674,
@@ -1033,11 +1690,12 @@
       "eu": "Koulpélogo probintzia",
       "no": "Koulpélogo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KOS": {
     "name": "Kossi",
-    "code": null,
+    "code": "KOS",
     "unofficial_names": "Kossi",
     "geo": {
       "latitude": 12.960458,
@@ -1090,11 +1748,12 @@
       "eu": "Kossi probintzia",
       "no": "Kossi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KOT": {
     "name": "Kouritenga",
-    "code": null,
+    "code": "KOT",
     "unofficial_names": "Kouritenga",
     "geo": {
       "latitude": 12.1631813,
@@ -1147,11 +1806,12 @@
       "eu": "Kouritenga probintzia",
       "no": "Kouritenga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KOW": {
     "name": "Kourwéogo",
-    "code": null,
+    "code": "KOW",
     "unofficial_names": "Kourwéogo",
     "geo": {
       "latitude": 12.7077495,
@@ -1203,11 +1863,12 @@
       "ccp": "𑄇𑄯𑄢𑄴𑄃𑄪𑄃𑄨𑄉𑄮",
       "no": "Kourwéogo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LER": {
     "name": "Léraba",
-    "code": null,
+    "code": "LER",
     "unofficial_names": "Léraba",
     "geo": {
       "latitude": 10.6648785,
@@ -1261,11 +1922,12 @@
       "eu": "Léraba probintzia",
       "no": "Léraba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LOR": {
     "name": "Loroum",
-    "code": null,
+    "code": "LOR",
     "unofficial_names": "Loroum",
     "geo": {
       "latitude": 13.8129814,
@@ -1318,11 +1980,12 @@
       "eu": "Loroum probintzia",
       "no": "Loroum"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MOU": {
     "name": "Mouhoun",
-    "code": null,
+    "code": "MOU",
     "unofficial_names": "Mouhoun",
     "geo": {
       "latitude": 12.1432381,
@@ -1375,11 +2038,12 @@
       "ccp": "𑄟𑄯𑄦𑄯",
       "no": "Mouhoun"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NAM": {
     "name": "Namentenga",
-    "code": null,
+    "code": "NAM",
     "unofficial_names": "Namentenga",
     "geo": {
       "latitude": 13.0812584,
@@ -1433,11 +2097,12 @@
       "eu": "Namentenga probintzia",
       "no": "Namentenga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NAO": {
     "name": "Nahouri",
-    "code": null,
+    "code": "NAO",
     "unofficial_names": [
       "Naouri"
     ],
@@ -1492,11 +2157,12 @@
       "eu": "Nahouri probintzia",
       "no": "Nahouri"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NAY": {
     "name": "Nayala",
-    "code": null,
+    "code": "NAY",
     "unofficial_names": "Nayala",
     "geo": {
       "latitude": 12.6964558,
@@ -1549,11 +2215,12 @@
       "eu": "Nayala probintzia",
       "no": "Nayala"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NOU": {
     "name": "Noumbiel",
-    "code": null,
+    "code": "NOU",
     "unofficial_names": "Noumbiel",
     "geo": {
       "latitude": 9.8440946,
@@ -1605,11 +2272,12 @@
       "ccp": "𑄚𑄯𑄟𑄴𑄝𑄭𑄠𑄬𑄣𑄴",
       "no": "Noumbiel"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "OUB": {
     "name": "Oubritenga",
-    "code": null,
+    "code": "OUB",
     "unofficial_names": "Oubritenga",
     "geo": {
       "latitude": 12.7096087,
@@ -1661,11 +2329,12 @@
       "ccp": "𑄃𑄮𑄅𑄪𑄝𑄳𑄢𑄨𑄑𑄬𑄁𑄉",
       "no": "Oubritenga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "OUD": {
     "name": "Oudalan",
-    "code": null,
+    "code": "OUD",
     "unofficial_names": "Oudalan",
     "geo": {
       "latitude": 14.471902,
@@ -1717,11 +2386,12 @@
       "ccp": "𑄃𑄮𑄅𑄪𑄓𑄣𑄚𑄴",
       "no": "Oudalan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAS": {
     "name": "Passoré",
-    "code": null,
+    "code": "PAS",
     "unofficial_names": "Passoré",
     "geo": {
       "latitude": 12.8881221,
@@ -1775,11 +2445,12 @@
       "be": "правінцыя Пасарэ",
       "no": "Passoré"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PON": {
     "name": "Poni",
-    "code": null,
+    "code": "PON",
     "unofficial_names": "Poni",
     "geo": {
       "latitude": 10.3325996,
@@ -1832,11 +2503,12 @@
       "ccp": "𑄛𑄧𑄚𑄨",
       "no": "Poni"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SEN": {
     "name": "Séno",
-    "code": null,
+    "code": "SEN",
     "unofficial_names": "Séno",
     "geo": {
       "latitude": 14.0072234,
@@ -1889,11 +2561,12 @@
       "ccp": "𑄥𑄨𑄚𑄮",
       "no": "Séno"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SIS": {
     "name": "Sissili",
-    "code": null,
+    "code": "SIS",
     "unofficial_names": "Sissili",
     "geo": {
       "latitude": 11.2441219,
@@ -1947,11 +2620,12 @@
       "eu": "Sissili probintzia",
       "no": "Sissili"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SMT": {
     "name": "Sanmatenga",
-    "code": null,
+    "code": "SMT",
     "unofficial_names": "Sanmatenga",
     "geo": {
       "latitude": 13.3565304,
@@ -2004,11 +2678,12 @@
       "eu": "Sanmatenga probintzia",
       "no": "Sanmatenga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SNG": {
     "name": "Sanguié",
-    "code": null,
+    "code": "SNG",
     "unofficial_names": "Sanguié",
     "geo": {
       "latitude": 12.1501861,
@@ -2061,11 +2736,12 @@
       "eu": "Sanguié probintzia",
       "no": "Sanguié"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SOM": {
     "name": "Soum",
-    "code": null,
+    "code": "SOM",
     "unofficial_names": "Soum",
     "geo": {
       "latitude": 12.600536,
@@ -2100,11 +2776,12 @@
       "ccp": "𑄥𑄯𑄟𑄴",
       "no": "Soum"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SOR": {
     "name": "Sourou",
-    "code": null,
+    "code": "SOR",
     "unofficial_names": "Sourou",
     "geo": {
       "latitude": 13.341803,
@@ -2157,11 +2834,12 @@
       "eu": "Sourou probintzia",
       "no": "Sourou"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TAP": {
     "name": "Tapoa",
-    "code": null,
+    "code": "TAP",
     "unofficial_names": "Tapoa",
     "geo": {
       "latitude": 12.2497072,
@@ -2214,11 +2892,12 @@
       "eu": "Tapoa probintzia",
       "no": "Tapoa"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TUI": {
     "name": "Tui",
-    "code": null,
+    "code": "TUI",
     "unofficial_names": [
       "Tui"
     ],
@@ -2273,11 +2952,12 @@
       "eu": "Tuy probintzia",
       "no": "Tuy"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "YAG": {
     "name": "Yagha",
-    "code": null,
+    "code": "YAG",
     "unofficial_names": "Yagha",
     "geo": {
       "latitude": 13.3576157,
@@ -2329,11 +3009,12 @@
       "ccp": "𑄡𑄮𑄊",
       "no": "Yagha"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "YAT": {
     "name": "Yatenga",
-    "code": null,
+    "code": "YAT",
     "unofficial_names": "Yatenga",
     "geo": {
       "latitude": 13.6249344,
@@ -2386,11 +3067,12 @@
       "ccp": "𑄃𑄨𑄑𑄬𑄁𑄉",
       "no": "Yatenga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZIR": {
     "name": "Ziro",
-    "code": null,
+    "code": "ZIR",
     "unofficial_names": "Ziro",
     "geo": {
       "latitude": 11.6094995,
@@ -2444,11 +3126,12 @@
       "eu": "Ziro probintzia",
       "no": "Ziro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZON": {
     "name": "Zondoma",
-    "code": null,
+    "code": "ZON",
     "unofficial_names": "Zondoma",
     "geo": {
       "latitude": 13.1165926,
@@ -2500,11 +3183,12 @@
       "ccp": "𑄎𑄧𑄚𑄴𑄓𑄮𑄟",
       "no": "Zondoma"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZOU": {
     "name": "Zoundwéogo",
-    "code": null,
+    "code": "ZOU",
     "unofficial_names": "Zoundwéogo",
     "geo": {
       "latitude": 11.6141174,
@@ -2557,634 +3241,8 @@
       "eu": "Zoundwéogo probintzia",
       "no": "Zoundwéogo"
     },
-    "comments": null
-  },
-  "01": {
-    "name": "Boucle du Mouhoun",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Букъл дю Муун",
-      "da": "Boucle du Mouhoun",
-      "de": "Boucle du Mouhoun",
-      "en": "Boucle du Mouhoun",
-      "es": "Región Boucle du Mouhoun",
-      "eu": "Boucle du Mouhoun eskualdea",
-      "fi": "Boucle du Mouhoun",
-      "fr": "Boucle du Mouhoun",
-      "gl": "Boucle du Mouhoun",
-      "hr": "Boucle du Mouhoun",
-      "id": "Region Boucle du Mouhoun",
-      "it": "regione di Boucle du Mouhoun",
-      "ja": "ブクル・デュ・ムウン地方",
-      "ko": "부클뒤무운 주",
-      "lt": "Muhuno Kilpos regionas",
-      "nb": "Boucle du Mouhoun",
-      "nl": "Boucle du Mouhoun",
-      "pl": "Region Boucle du Mouhoun",
-      "pt": "Boucle du Mouhoun",
-      "ro": "Regiunea Boucle du Mouhoun, Burkina Faso",
-      "ru": "Букле-ду-Мухун",
-      "sv": "Boucle du Mouhoun",
-      "tr": "Boucle du Mouhoun Bölgesi",
-      "uk": "Букле-ду-Мухун",
-      "ur": "بوکل دی موہون علاقہ",
-      "zh": "布克萊迪穆翁大區",
-      "ceb": "Boucle du Mouhoun Region",
-      "ar": "بوكل دو موهون",
-      "ccp": "𑄝𑄧𑄅𑄪𑄌𑄴𑄣𑄬 𑄓𑄪 𑄟𑄯𑄦𑄯𑄚𑄴",
-      "ka": "ბუკლე-დუ-მუჰუნის რეგიონი",
-      "he": "מחוז בוקל דו מואון",
-      "ca": "Regió Boucle du Mouhoun",
-      "no": "Boucle du Mouhoun"
-    },
-    "comments": null
-  },
-  "02": {
-    "name": "Cascades",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Каскадес",
-      "da": "Cascades",
-      "de": "Cascades",
-      "el": "Κασκάντ",
-      "en": "Cascades",
-      "es": "Región Cascades",
-      "eu": "Cascades eskualdea",
-      "fi": "Cascades",
-      "fr": "Cascades",
-      "gl": "Cascades, Burquina Faso",
-      "hr": "Cascades",
-      "id": "Region Cascades",
-      "it": "regione delle Cascate",
-      "ja": "カスカード地方",
-      "ko": "카스카드 주",
-      "lt": "Kaskadų regionas",
-      "nb": "Cascades",
-      "nl": "Cascades",
-      "pl": "Region Cascades",
-      "pt": "Região Cascades",
-      "ro": "Regiunea Cascades, Burkina Faso",
-      "ru": "Каскады",
-      "sv": "Cascades, Burkina Faso",
-      "tr": "Cascades Bölgesi",
-      "uk": "Каскади",
-      "ur": "آبشار علاقہ",
-      "ceb": "Cascades Region",
-      "ar": "الشالالات",
-      "zh": "瀑布大區",
-      "ccp": "𑄇𑄌𑄴𑄇𑄳𑄠𑄓𑄬𑄌𑄴",
-      "ka": "კასკადების რეგიონი",
-      "ca": "Regió Cascades",
-      "no": "Cascades"
-    },
-    "comments": null
-  },
-  "03": {
-    "name": "Centre",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централен регион",
-      "da": "Centre",
-      "de": "Centre",
-      "en": "Centre",
-      "es": "Región Centro",
-      "eu": "Erdialdeko eskualdea",
-      "fi": "Centre",
-      "fr": "Centre",
-      "gl": "Rexión Centro, Burquina Faso",
-      "hr": "Centralna regija, Burkina Faso",
-      "id": "Region Centre",
-      "it": "regione del Centro",
-      "ja": "中部地方 (ブルキナファソ)",
-      "ko": "중부 주",
-      "lt": "Centrinis regionas (Burkina Fasas)",
-      "nb": "Centre",
-      "nl": "Centre",
-      "pl": "Region Centre",
-      "pt": "Região Centro",
-      "ro": "Regiunea Centre, Burkina Faso",
-      "ru": "Центральная область",
-      "sv": "Centre, Burkina Faso",
-      "tr": "Centre Bölgesi",
-      "uk": "Центральна область",
-      "ur": "وسطی علاقہ",
-      "ceb": "Centre",
-      "zh": "中央大區",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴",
-      "ka": "ცენტრალური რეგიონი",
-      "ca": "Regió Centre",
-      "be": "Цэнтральная вобласць",
-      "no": "Centre"
-    },
-    "comments": null
-  },
-  "04": {
-    "name": "Centre-Est",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централно-източен регион",
-      "da": "Centre-Est",
-      "de": "Centre-Est",
-      "en": "Centre-Est",
-      "es": "Región Centro-Este",
-      "eu": "Erdialde Ekialdeko eskualdea",
-      "fi": "Centre-Est",
-      "fr": "Centre-Est",
-      "gl": "Rexión Centro-Leste",
-      "hr": "Centralno-istočna regija, Burkina Faso",
-      "id": "Region Centre-Est",
-      "it": "regione del Centro-Est",
-      "ja": "中東部地方 (ブルキナファソ)",
-      "ko": "중동부 주",
-      "lt": "Vidurio Rytų regionas",
-      "nb": "Centre-Est",
-      "nl": "Centre-Est",
-      "pl": "Region Centre-Est",
-      "pt": "Região Centro-Este",
-      "ro": "Regiunea Centre-Est, Burkina Faso",
-      "ru": "Восточно-Центральная область",
-      "sv": "Centre-Est",
-      "tr": "Centre-Est Bölgesi",
-      "uk": "Східно-Центральна область",
-      "ur": "وسطی-مشرقی علاقہ",
-      "ceb": "Centre-Est",
-      "zh": "中東大區",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄃𑄨𑄌𑄳𑄑𑄴",
-      "ka": "აღმოსავლეთ-ცენტრალური რეგიონი",
-      "ca": "Regió Centre-Est",
-      "no": "Centre-Est"
-    },
-    "comments": null
-  },
-  "05": {
-    "name": "Centre-Nord",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централно-северен регион",
-      "da": "Centre-Nord",
-      "de": "Centre-Nord",
-      "en": "Centre-Nord",
-      "es": "Región Centro-Norte",
-      "eu": "Erdialde Iparraldeko eskualdea",
-      "fi": "Centre-Nord",
-      "fr": "Centre-Nord",
-      "gl": "Rexión Centro-Norte",
-      "hr": "Centralno-sjeverna regija",
-      "id": "Region Centre-Nord",
-      "it": "regione del Centro-Nord",
-      "ja": "中北部地方 (ブルキナファソ)",
-      "ko": "중북부 주",
-      "lt": "Vidurio Šiaurės regionas",
-      "nb": "Centre-Nord",
-      "nl": "Centre-Nord",
-      "pl": "Region Centre-Nord",
-      "pt": "Região Centro-Norte",
-      "ro": "Regiunea Centre-Nord, Burkina Faso",
-      "ru": "Северо-Центральная область",
-      "sv": "Centre-Nord",
-      "tr": "Centre-Nord Bölgesi",
-      "uk": "Північно-Центральна область",
-      "ur": "وسطی-شمالی علاقہ",
-      "ceb": "Centre-Nord",
-      "ar": "الوسط شمالي",
-      "zh": "中北大區",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄚𑄧𑄢𑄳𑄓𑄴",
-      "ka": "ჩრდილო-ცენტრალური რეგიონი",
-      "he": "מחוז מרכז-צפון (בורקינה פאסו)",
-      "ca": "Regió Centre-Nord",
-      "no": "Centre-Nord"
-    },
-    "comments": null
-  },
-  "06": {
-    "name": "Centre-Ouest",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централно-западен регион",
-      "da": "Centre-Ouest",
-      "de": "Centre-Ouest",
-      "el": "Σαντρ-Ουέστ",
-      "en": "Centre-Ouest",
-      "es": "Región Centro-Oeste",
-      "eu": "Erdialde Mendebaldeko eskualdea",
-      "fi": "Centre-Ouest",
-      "fr": "Centre-Ouest",
-      "gl": "Rexión Centro-Oeste",
-      "hr": "Centralno-zapadna regija",
-      "id": "Region Centre-Ouest",
-      "it": "regione del Centro-Ovest",
-      "ja": "中西部地方 (ブルキナファソ)",
-      "ko": "중서부 주",
-      "lt": "Vidurio Vakarų regionas",
-      "nb": "Centre-Ouest",
-      "nl": "Centre-Ouest",
-      "pl": "Region Centre-Ouest",
-      "pt": "Região Centro-Oeste",
-      "ro": "Regiunea Centre-Ouest, Burkina Faso",
-      "ru": "Западно-Центральная область",
-      "sv": "Centre-Ouest",
-      "tr": "Centre-Ouest Bölgesi",
-      "uk": "Західно-Центральна область",
-      "ur": "وسطی-مغربی علاقہ",
-      "ceb": "Centre-Ouest",
-      "ar": "وسط كويست",
-      "zh": "中西大區",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄃𑄯𑄠𑄬𑄌𑄳𑄑𑄴",
-      "ka": "დასავლეთ-ცენტრალური რეგიონი",
-      "no": "Centre-Ouest"
-    },
-    "comments": null
-  },
-  "07": {
-    "name": "Centre-Sud",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Централно-южен регион",
-      "da": "Centre-Sud",
-      "de": "Centre-Sud",
-      "en": "Centre-Sud",
-      "es": "Región Centro-Sur",
-      "eu": "Erdialde Hegoaldeko eskualdea",
-      "fi": "Centre-Sud",
-      "fr": "Centre-Sud",
-      "gl": "Rexión Centro-Sur",
-      "hr": "Centralno-južna regija",
-      "id": "Region Centre-Sud",
-      "it": "regione del Centro-Sud",
-      "ja": "中南部地方 (ブルキナファソ)",
-      "ko": "중남부 주",
-      "lt": "Vidurio Pietų regionas",
-      "nb": "Centre-Sud",
-      "nl": "Centre-Sud",
-      "pl": "Region Centre-Sud",
-      "pt": "Região Centro-Sul",
-      "ro": "Regiunea Centre-Sud, Burkina Faso",
-      "ru": "Юго-Центральная область",
-      "sv": "Centre-Sud",
-      "tr": "Centre-Sud Bölgesi",
-      "uk": "Південно-Центральна область",
-      "ur": "وسطی-جنوبی علاقہ",
-      "ceb": "Centre-Sud",
-      "ar": "الوسط الجنوبي",
-      "zh": "中南大區",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄢𑄴-𑄥𑄖𑄴",
-      "ka": "სამხრეთ-ცენტრალური რეგიონი",
-      "ca": "Regió Centre-Sud",
-      "no": "Centre-Sud"
-    },
-    "comments": null
-  },
-  "08": {
-    "name": "Est",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Източен регион",
-      "da": "Est",
-      "de": "Est",
-      "en": "Est",
-      "es": "Región Este",
-      "eu": "Ekialdeko eskualdea",
-      "fi": "Est",
-      "fr": "Est",
-      "gl": "Rexión Leste, Burquina Faso",
-      "hr": "Istočna regija",
-      "id": "Region Est",
-      "it": "regione dell’Est",
-      "ja": "東部地方 (ブルキナファソ)",
-      "ko": "동부 주",
-      "lt": "Rytų regionas",
-      "nb": "Est",
-      "nl": "Est",
-      "pl": "Region Est",
-      "pt": "Região Este",
-      "ro": "Regiunea Est, Burkina Faso",
-      "ru": "Восточная область",
-      "sv": "Est, Burkina Faso",
-      "tr": "Est Bölgesi",
-      "uk": "Східна область",
-      "ur": "مشرقی علاقہ",
-      "ceb": "Est",
-      "ar": "الشرقي",
-      "zh": "東部大區",
-      "ccp": "𑄃𑄨𑄌𑄳𑄑𑄴",
-      "ka": "აღმოსავლეთი რეგიონი",
-      "ca": "Regió Est",
-      "no": "Est"
-    },
-    "comments": null
-  },
-  "09": {
-    "name": "Hauts-Bassins",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "От Басен",
-      "da": "Hauts-Bassins",
-      "de": "Hauts-Bassins",
-      "el": "Ω-Μπασάν",
-      "en": "Hauts-Bassins",
-      "es": "Región Hauts-Bassins",
-      "eu": "Hauts-Bassins eskualdea",
-      "fa": "منطقه هوت-باسین",
-      "fi": "Hauts-Bassins",
-      "fr": "Hauts-Bassins",
-      "gl": "Hauts-Bassins",
-      "hr": "Hauts-Bassins",
-      "id": "Region Hauts-Bassins",
-      "it": "regione degli Alti Bacini",
-      "ja": "上流域地方",
-      "ko": "오트바생 주",
-      "lt": "Aukštutinių Baseinų regionas",
-      "nb": "Hauts-Bassins",
-      "nl": "Hauts-Bassins",
-      "pl": "Region Hauts-Bassins",
-      "pt": "Região Hauts-Bassins",
-      "ro": "Regiunea Hauts-Bassins, Burkina Faso",
-      "ru": "Верхние Бассейны",
-      "sv": "Hauts-Bassins",
-      "tr": "Hauts-Bassins Bölgesi",
-      "uk": "Верхні Басейни",
-      "ur": "بالائی-طاس علاقہ",
-      "ceb": "High-Basins Region",
-      "zh": "上盆地大區",
-      "ccp": "𑄦𑄧𑄅𑄪𑄑𑄳𑄥𑄴-𑄝𑄥𑄨𑄁",
-      "ka": "ზემო აუზების რეგიონი",
-      "he": "מחוז אוט בסינס",
-      "ca": "Regió Hauts-Bassins",
-      "no": "Hauts-Bassins"
-    },
-    "comments": null
-  },
-  "11": {
-    "name": "Plateau-Central",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Плато Сентрал",
-      "da": "Plateau-Central",
-      "de": "Plateau Central",
-      "en": "Plateau-Central",
-      "es": "Región Plateau-Central",
-      "eu": "Plateau-Central eskualdea",
-      "fi": "Plateau-Central",
-      "fr": "Plateau-Central",
-      "gl": "Plateau-Central",
-      "hr": "Plato-centralna regija",
-      "id": "Region Plateau-Central",
-      "it": "regione dell’Altopiano Centrale",
-      "ja": "中央大地地方",
-      "ko": "플라토상트랄 주",
-      "lt": "Vidurio Plokščiakalnio regionas",
-      "nb": "Plateau-Central",
-      "nl": "Plateau-Central",
-      "pl": "Region Plateau-Central",
-      "pt": "Região Plateau-Central",
-      "ro": "Regiunea Plateau-Central, Burkina Faso",
-      "ru": "Центральное Плато",
-      "sv": "Plateau-Central",
-      "tr": "Plateau-Central Bölgesi",
-      "uk": "Центральне Плато",
-      "ur": "مرتفع-وسطی علاقہ",
-      "ceb": "Plateau-Central",
-      "ar": "الهضبة الوسطى",
-      "zh": "高原-中部大區",
-      "ccp": "𑄛𑄳𑄣𑄧𑄑𑄮-𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
-      "ka": "ცენტრალური პლატოს რეგიონი",
-      "ca": "Regió Plateau-Central",
-      "no": "Plateau-Central"
-    },
-    "comments": null
-  },
-  "12": {
-    "name": "Sahel",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Саел",
-      "da": "Sahel",
-      "de": "Sahel",
-      "en": "Sahel",
-      "es": "Región del Sahel",
-      "eu": "Sahel eskualdea",
-      "fi": "Sahel",
-      "fr": "Sahel",
-      "gl": "Sahel, Burquina Faso",
-      "hr": "Sahel, Burkina Faso",
-      "id": "Region Sahel",
-      "it": "regione del Sahel",
-      "ja": "サヘル地方",
-      "ko": "사엘 주",
-      "lt": "Sahelio regionas",
-      "nb": "Sahel",
-      "nl": "Sahel",
-      "pl": "Region Sahel",
-      "pt": "Região Sahel",
-      "ru": "Сахель",
-      "sv": "Sahel, Burkina Faso",
-      "tr": "Sahel Bölgesi",
-      "uk": "Сахель",
-      "ur": "سہیل ریجن",
-      "ceb": "Sahel",
-      "ar": "الساحل",
-      "zh": "薩赫勒大區",
-      "ccp": "𑄥𑄧𑄦𑄬𑄣𑄴",
-      "ka": "საჰელის რეგიონი",
-      "ca": "Regió del Sahel",
-      "no": "Sahel"
-    },
-    "comments": null
-  },
-  "13": {
-    "name": "Sud-Ouest",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bg": "Югозападен регион",
-      "da": "Sud-Ouest",
-      "de": "Sud-Ouest",
-      "el": "Συντ-Ουέστ",
-      "en": "Sud-Ouest",
-      "es": "Región Suroeste",
-      "eu": "Hego-mendebaldeko eskualdea",
-      "fi": "Sud-Ouest",
-      "fr": "Sud-Ouest",
-      "gl": "Rexión Sur-Oeste",
-      "hr": "Jugo-zapadna regija, Burkina Faso",
-      "id": "Region Sud-Ouest",
-      "it": "regione del Sud-Ovest",
-      "ja": "南西地方 (ブルキナファソ)",
-      "ko": "남서부 주",
-      "lt": "Pietvakarių regionas",
-      "nb": "Sud-Ouest",
-      "nl": "Sud-Ouest",
-      "pl": "Region Sud-Ouest",
-      "pt": "Região Sul-Oeste",
-      "ro": "Regiunea Sud-Ouest, Burkina Faso",
-      "ru": "Юго-Западная область",
-      "sv": "Sud-Ouest, Burkina Faso",
-      "tr": "Sud-Ouest Bölgesi",
-      "uk": "Південно-Західна область",
-      "ur": "جنوبی-مغربی علاقہ",
-      "ceb": "Southwest Region",
-      "zh": "西南大區",
-      "ccp": "𑄥𑄖𑄴-𑄃𑄯𑄠𑄬𑄥𑄳𑄑𑄴",
-      "ka": "სამხრეთ-დასავლეთი რეგიონი",
-      "ca": "Regió Sud-Oest",
-      "no": "Sud-Ouest"
-    },
-    "comments": null
-  },
-  "10": {
-    "name": "Nord",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Regió Nord",
-      "da": "Nord",
-      "de": "Nord",
-      "en": "Nord",
-      "es": "Región Norte",
-      "eu": "Iparraldeko eskualdea",
-      "fi": "Nord",
-      "fr": "Nord",
-      "gl": "Rexión Norte",
-      "hr": "Sjeverna regija",
-      "id": "Region Nord",
-      "it": "regione del Nord",
-      "ja": "北部地方 (ブルキナファソ)",
-      "ko": "북부 주",
-      "lt": "Šiaurės regionas",
-      "nb": "Nord",
-      "nl": "Nord",
-      "pl": "Region Nord",
-      "pt": "Região Norte",
-      "ro": "Regiunea Nord, Burkina Faso",
-      "ru": "Северная область",
-      "sv": "Nord, Burkina Faso",
-      "tr": "Nord Bölgesi",
-      "uk": "Північна область",
-      "ur": "شمالی علاقہ",
-      "ceb": "Nord",
-      "ar": "الشمالي",
-      "zh": "北部大區",
-      "ccp": "𑄚𑄧𑄢𑄳𑄓𑄴",
-      "ka": "ჩრდილოეთი რეგიონი",
-      "be": "Паўночная вобласць",
-      "no": "Nord"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Maseru",
-    "code": null,
+    "code": "A",
     "unofficial_names": "Maseru",
     "geo": {
       "latitude": -29.31,
@@ -55,11 +55,12 @@
       "ccp": "𑄟𑄥𑄬𑄢𑄪",
       "no": "Maseru"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "B": {
     "name": "Butha-Buthe",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Butha-Buthe",
     "geo": {
       "latitude": -28.801561,
@@ -114,11 +115,12 @@
       "ccp": "𑄝𑄪𑄗-𑄝𑄪𑄖𑄴",
       "no": "Butha-Buthe"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "C": {
     "name": "Leribe",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Leribe",
     "geo": {
       "latitude": -28.873361,
@@ -173,11 +175,12 @@
       "ccp": "𑄣𑄬𑄢𑄨𑄝𑄬",
       "no": "Leribe"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "D": {
     "name": "Berea",
-    "code": null,
+    "code": "D",
     "unofficial_names": "Berea",
     "geo": {
       "latitude": -29.1746723,
@@ -233,11 +236,12 @@
       "ccp": "𑄝𑄢𑄨𑄠",
       "no": "Berea"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "E": {
     "name": "Mafeteng",
-    "code": null,
+    "code": "E",
     "unofficial_names": "Mafeteng",
     "geo": {
       "latitude": -29.8224312,
@@ -292,11 +296,12 @@
       "ccp": "𑄟𑄜𑄬𑄑𑄬𑄁",
       "no": "Mafeteng"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "F": {
     "name": "Mohale's Hoek",
-    "code": null,
+    "code": "F",
     "unofficial_names": "Mohale's Hoek",
     "geo": {
       "latitude": -30.15,
@@ -349,11 +354,12 @@
       "ccp": "𑄟𑄧𑄦𑄣𑄨𑄌𑄴 𑄦𑄮𑄠𑄬𑄇𑄴",
       "no": "Mohale’s Hoek"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "G": {
     "name": "Quthing",
-    "code": null,
+    "code": "G",
     "unofficial_names": "Quthing",
     "geo": {
       "latitude": -30.400111,
@@ -406,11 +412,12 @@
       "ccp": "𑄇𑄪𑄠𑄗𑄨𑄁",
       "no": "Quthing"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "H": {
     "name": "Qacha's Nek",
-    "code": null,
+    "code": "H",
     "unofficial_names": "Qacha's Nek",
     "geo": {
       "latitude": -30.116667,
@@ -462,11 +469,12 @@
       "ccp": "𑄇𑄮𑄠𑄌𑄳𑄦 𑄚𑄬𑄇𑄴",
       "no": "Qacha’s Nek"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "J": {
     "name": "Mokhotlong",
-    "code": null,
+    "code": "J",
     "unofficial_names": "Mokhotlong",
     "geo": {
       "latitude": -29.288495,
@@ -519,11 +527,12 @@
       "ccp": "𑄟𑄮𑄈𑄮𑄖𑄴𑄣𑄧𑄁",
       "no": "Mokhotlong"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "K": {
     "name": "Thaba-Tseka",
-    "code": null,
+    "code": "K",
     "unofficial_names": "Thaba-Tseka",
     "geo": {
       "latitude": -29.5157527,
@@ -576,7 +585,8 @@
       "ccp": "𑄗𑄝-𑄥𑄬𑄇",
       "no": "Thaba-Tseka"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

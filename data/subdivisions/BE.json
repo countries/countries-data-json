@@ -1,7 +1,7 @@
 {
   "BRU": {
     "name": "Brussels",
-    "code": null,
+    "code": "BRU",
     "unofficial_names": [
       "Brussels Hoofdstedelijk Gewest",
       "Région de Bruxelles-Capitale",
@@ -97,11 +97,12 @@
       "no": "Brussel",
       "yo_BJ": "Brussels"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "VAN": {
     "name": "Antwerpen (nl)",
-    "code": null,
+    "code": "VAN",
     "unofficial_names": [
       "Antwerpen",
       "Anvers"
@@ -175,11 +176,12 @@
       "mk": "Антверпен",
       "no": "Antwerpen"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "VBR": {
     "name": "Vlaams Brabant (nl)",
-    "code": null,
+    "code": "VBR",
     "unofficial_names": [
       "Brabant-Vlanderen",
       "Vlaams-Brabant",
@@ -255,11 +257,92 @@
       "mk": "Фламански Брабант",
       "no": "Flamsk Brabant"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "VLG": {
+    "name": "Vlaams Gewest",
+    "code": "VLG",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "الإقليم الفلامندي",
+      "be": "Фламандскі рэгіён",
+      "bg": "Фламандски регион",
+      "ca": "regió Flamenca",
+      "cs": "Vlámský region",
+      "de": "Flandern",
+      "el": "Φλαμανδική Περιοχή",
+      "en": "Flanders",
+      "es": "Región Flamenca",
+      "et": "Flandria",
+      "fr": "Région flamande",
+      "hi": "फ्लेमिश क्षेत्र",
+      "hy": "Ֆլանդրիա",
+      "it": "Fiandre",
+      "ja": "フランデレン地域",
+      "ka": "ფლანდრია",
+      "ko": "플라망 지역",
+      "lt": "Flandrija",
+      "nl": "Vlaams Gewest",
+      "pl": "Region Flamandzki",
+      "ru": "Фламандский регион",
+      "sk": "Flámsky región",
+      "th": "เขตฟลามส์",
+      "tr": "Flaman Bölgesi",
+      "uk": "Фламандській регіон",
+      "ur": "فلیمش علاقہ",
+      "vi": "Vùng Flemish",
+      "lv": "Flandrija",
+      "mr": "फ्लांडर्स",
+      "cy": "Fflandrys",
+      "af": "Vlaandere",
+      "ceb": "Flanders",
+      "ms": "Flanders",
+      "sr_Latn": "Flandrija",
+      "ta": "பிலான்டர்ஸ்",
+      "zh": "弗拉芒大區",
+      "fa": "منطقه فلمیش",
+      "sw": "Flandria",
+      "yue_Hans": "法兰德斯",
+      "sv": "Flandern",
+      "ccp": "𑄜𑄳𑄣𑄚𑄴𑄓𑄢𑄴𑄥𑄴",
+      "sr": "Фландрија",
+      "ga": "Flóndras",
+      "gl": "Flandres - Vlaanderen",
+      "da": "Flandern",
+      "fi": "Flanderi",
+      "hu": "Flandria",
+      "is": "Flæmingjaland",
+      "id": "Flandria",
+      "ro": "Flandra",
+      "he": "פלנדריה",
+      "hr": "Flandrija",
+      "eu": "Flandria",
+      "pt": "Flandres",
+      "sl": "Flanders",
+      "kk": "Фландрия",
+      "yue": "法蘭德斯",
+      "az": "Flandriya",
+      "nb": "Flandern",
+      "bs": "Flandrija",
+      "mk": "Фламански регион",
+      "ne": "फ्लेमिस क्षेत्र",
+      "no": "Flandern"
+    },
+    "comments": null,
+    "type": "region"
   },
   "VLI": {
     "name": "Limburg (nl)",
-    "code": null,
+    "code": "VLI",
     "unofficial_names": [
       "Limbourg"
     ],
@@ -333,11 +416,12 @@
       "mk": "Лимбург",
       "no": "Limburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "VOV": {
     "name": "Oost-Vlaanderen (nl)",
-    "code": null,
+    "code": "VOV",
     "unofficial_names": [
       "Oos-Vlanderen",
       "Oost-Vlaanderen",
@@ -413,11 +497,12 @@
       "mk": "Источна Фландрија",
       "no": "Øst-Flandern"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "VWV": {
     "name": "West-Vlaanderen (nl)",
-    "code": null,
+    "code": "VWV",
     "unofficial_names": [
       "Wes-Vlanderen",
       "West-Vlaanderen",
@@ -494,11 +579,90 @@
       "mk": "Западна Фландрија",
       "no": "Vest-Flandern"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "WAL": {
+    "name": "Wallonië",
+    "code": "WAL",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "af": "Wallonië",
+      "ar": "والونيا",
+      "be": "Валонія",
+      "bg": "Валония",
+      "ca": "Valònia",
+      "cs": "Valonsko",
+      "da": "Vallonien",
+      "de": "Wallonien",
+      "el": "Βαλλωνία",
+      "en": "Wallonia",
+      "es": "Valonia",
+      "et": "Valloonia",
+      "eu": "Valonia",
+      "fa": "والونیا",
+      "fi": "Vallonia",
+      "fr": "Wallonie",
+      "gl": "Valonia",
+      "he": "ולוניה",
+      "hr": "Valonija",
+      "hu": "Vallónia",
+      "hy": "Վալոնիա",
+      "id": "Walonia",
+      "is": "Vallónía",
+      "it": "Vallonia",
+      "ja": "ワロン地域",
+      "ka": "ვალონია",
+      "ko": "왈롱",
+      "lt": "Valonija",
+      "lv": "Valonija",
+      "mr": "वालोनी",
+      "ms": "Walonia",
+      "nb": "Vallonia",
+      "ne": "वालुन क्षेत्र",
+      "nl": "Wallonië",
+      "pl": "Walonia",
+      "pt": "Valônia",
+      "ro": "Valonia",
+      "ru": "Валлония",
+      "sk": "Valónsko",
+      "sl": "Valonija",
+      "sr": "Валонија",
+      "sv": "Vallonien",
+      "sw": "Wallonia",
+      "ta": "வால்லொனியா",
+      "th": "เขตวัลลูน",
+      "tr": "Valonya",
+      "uk": "Валлонія",
+      "ur": "والونیا",
+      "vi": "Wallonie",
+      "cy": "Walonia",
+      "ceb": "Wallonia",
+      "sr_Latn": "Valonija",
+      "zh": "瓦隆",
+      "yue_Hans": "华隆",
+      "hi": "वालोनिया",
+      "ccp": "𑄃𑄮𑄠𑄣𑄮𑄚𑄨𑄠",
+      "ga": "An Vallóin",
+      "yue": "華隆",
+      "bs": "Valonija",
+      "mk": "Валонија",
+      "no": "Vallonia"
+    },
+    "comments": null,
+    "type": "region"
   },
   "WBR": {
     "name": "Brabant Wallon (fr)",
-    "code": null,
+    "code": "WBR",
     "unofficial_names": [
       "Waals-Brabant",
       "Wallonisch Brabant",
@@ -574,11 +738,12 @@
       "az": "Vallonskiy Brabant",
       "no": "Vallonsk Brabant"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WHT": {
     "name": "Hainaut (fr)",
-    "code": null,
+    "code": "WHT",
     "unofficial_names": [
       "Henegouwen",
       "Hennegau"
@@ -653,11 +818,12 @@
       "mk": "Ено",
       "no": "Hainaut"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WLG": {
     "name": "Liège (fr)",
-    "code": null,
+    "code": "WLG",
     "unofficial_names": [
       "Luik",
       "Lüttich"
@@ -732,11 +898,12 @@
       "mk": "Лиеж",
       "no": "Liège"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WLX": {
     "name": "Luxembourg (fr)",
-    "code": null,
+    "code": "WLX",
     "unofficial_names": [
       "Luxembourg",
       "Luxemburg"
@@ -810,11 +977,12 @@
       "mk": "Луксембург",
       "no": "Luxembourg"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WNA": {
     "name": "Namur (fr)",
-    "code": null,
+    "code": "WNA",
     "unofficial_names": [
       "Namen"
     ],
@@ -885,163 +1053,8 @@
       "az": "Namyur",
       "no": "Namur"
     },
-    "comments": null
-  },
-  "WAL": {
-    "name": "Wallonië",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "af": "Wallonië",
-      "ar": "والونيا",
-      "be": "Валонія",
-      "bg": "Валония",
-      "ca": "Valònia",
-      "cs": "Valonsko",
-      "da": "Vallonien",
-      "de": "Wallonien",
-      "el": "Βαλλωνία",
-      "en": "Wallonia",
-      "es": "Valonia",
-      "et": "Valloonia",
-      "eu": "Valonia",
-      "fa": "والونیا",
-      "fi": "Vallonia",
-      "fr": "Wallonie",
-      "gl": "Valonia",
-      "he": "ולוניה",
-      "hr": "Valonija",
-      "hu": "Vallónia",
-      "hy": "Վալոնիա",
-      "id": "Walonia",
-      "is": "Vallónía",
-      "it": "Vallonia",
-      "ja": "ワロン地域",
-      "ka": "ვალონია",
-      "ko": "왈롱",
-      "lt": "Valonija",
-      "lv": "Valonija",
-      "mr": "वालोनी",
-      "ms": "Walonia",
-      "nb": "Vallonia",
-      "ne": "वालुन क्षेत्र",
-      "nl": "Wallonië",
-      "pl": "Walonia",
-      "pt": "Valônia",
-      "ro": "Valonia",
-      "ru": "Валлония",
-      "sk": "Valónsko",
-      "sl": "Valonija",
-      "sr": "Валонија",
-      "sv": "Vallonien",
-      "sw": "Wallonia",
-      "ta": "வால்லொனியா",
-      "th": "เขตวัลลูน",
-      "tr": "Valonya",
-      "uk": "Валлонія",
-      "ur": "والونیا",
-      "vi": "Wallonie",
-      "cy": "Walonia",
-      "ceb": "Wallonia",
-      "sr_Latn": "Valonija",
-      "zh": "瓦隆",
-      "yue_Hans": "华隆",
-      "hi": "वालोनिया",
-      "ccp": "𑄃𑄮𑄠𑄣𑄮𑄚𑄨𑄠",
-      "ga": "An Vallóin",
-      "yue": "華隆",
-      "bs": "Valonija",
-      "mk": "Валонија",
-      "no": "Vallonia"
-    },
-    "comments": null
-  },
-  "VLG": {
-    "name": "Vlaams Gewest",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "الإقليم الفلامندي",
-      "be": "Фламандскі рэгіён",
-      "bg": "Фламандски регион",
-      "ca": "regió Flamenca",
-      "cs": "Vlámský region",
-      "de": "Flandern",
-      "el": "Φλαμανδική Περιοχή",
-      "en": "Flanders",
-      "es": "Región Flamenca",
-      "et": "Flandria",
-      "fr": "Région flamande",
-      "hi": "फ्लेमिश क्षेत्र",
-      "hy": "Ֆլանդրիա",
-      "it": "Fiandre",
-      "ja": "フランデレン地域",
-      "ka": "ფლანდრია",
-      "ko": "플라망 지역",
-      "lt": "Flandrija",
-      "nl": "Vlaams Gewest",
-      "pl": "Region Flamandzki",
-      "ru": "Фламандский регион",
-      "sk": "Flámsky región",
-      "th": "เขตฟลามส์",
-      "tr": "Flaman Bölgesi",
-      "uk": "Фламандській регіон",
-      "ur": "فلیمش علاقہ",
-      "vi": "Vùng Flemish",
-      "lv": "Flandrija",
-      "mr": "फ्लांडर्स",
-      "cy": "Fflandrys",
-      "af": "Vlaandere",
-      "ceb": "Flanders",
-      "ms": "Flanders",
-      "sr_Latn": "Flandrija",
-      "ta": "பிலான்டர்ஸ்",
-      "zh": "弗拉芒大區",
-      "fa": "منطقه فلمیش",
-      "sw": "Flandria",
-      "yue_Hans": "法兰德斯",
-      "sv": "Flandern",
-      "ccp": "𑄜𑄳𑄣𑄚𑄴𑄓𑄢𑄴𑄥𑄴",
-      "sr": "Фландрија",
-      "ga": "Flóndras",
-      "gl": "Flandres - Vlaanderen",
-      "da": "Flandern",
-      "fi": "Flanderi",
-      "hu": "Flandria",
-      "is": "Flæmingjaland",
-      "id": "Flandria",
-      "ro": "Flandra",
-      "he": "פלנדריה",
-      "hr": "Flandrija",
-      "eu": "Flandria",
-      "pt": "Flandres",
-      "sl": "Flanders",
-      "kk": "Фландрия",
-      "yue": "法蘭德斯",
-      "az": "Flandriya",
-      "nb": "Flandern",
-      "bs": "Flandrija",
-      "mk": "Фламански регион",
-      "ne": "फ्लेमिस क्षेत्र",
-      "no": "Flandern"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

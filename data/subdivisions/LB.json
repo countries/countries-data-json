@@ -1,7 +1,39 @@
 {
+  "AK": {
+    "name": "محافظة عكار",
+    "code": "AK",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "محافظة عكار",
+      "de": "Gouvernement Akkar",
+      "en": "Akkar",
+      "es": "Gobernación de Akkar",
+      "hu": "Akkár kormányzóság",
+      "ceb": "Mohafazat Aakkâr",
+      "zh": "阿卡省",
+      "sv": "Mohafazat Aakkâr",
+      "ja": "アッカール県",
+      "ru": "Аккар",
+      "ccp": "𑄃𑄧𑄇𑄴𑄇𑄧𑄢𑄴",
+      "ka": "აკარის მუჰაფაზა",
+      "ko": "아카르 주",
+      "he": "מחוז עכאר",
+      "it": "Governatorato di Akkar"
+    },
+    "comments": null,
+    "type": "governorate"
+  },
   "AS": {
     "name": "Loubnâne ech Chemâli",
-    "code": null,
+    "code": "AS",
     "unofficial_names": [
       "Ash Shamal",
       "North"
@@ -63,11 +95,12 @@
       "ka": "ჩრდილოეთის მუჰაფაზა",
       "no": "Nord-Libanon"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BA": {
     "name": "Beirut",
-    "code": null,
+    "code": "BA",
     "unofficial_names": [
       "Bayrout",
       "Bayrut",
@@ -132,11 +165,45 @@
       "ka": "ბეირუთის მუჰაფაზა",
       "no": "Beirut governementet"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
+  },
+  "BH": {
+    "name": "محافظة بعلبك الهرمل",
+    "code": "BH",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "محافظة بعلبك الهرمل",
+      "de": "Gouvernement Baalbek-Hermel",
+      "en": "Baalbek-Hermel",
+      "es": "Gobernación de Baalbek - Hermel",
+      "he": "מחוז בעלבכ-הרמל",
+      "hu": "Baalbek-Hermel kormányzóság",
+      "ceb": "Mohafazat Baalbek-Hermel",
+      "ur": "محافظہ بعلبک الہرمل",
+      "zh": "巴勒貝克-希爾米勒省",
+      "sv": "Mohafazat Baalbek-Hermel",
+      "ru": "Баальбек-Хирмиль",
+      "ccp": "𑄝𑄧𑄣𑄴𑄝𑄬𑄇𑄴-𑄦𑄢𑄴𑄟𑄬𑄣𑄴",
+      "ka": "ბაალბექ-ჰერმელის მუჰაფაზა",
+      "fr": "gouvernorat de Baalbek-Hermel",
+      "ko": "바알베크헤르멜 주",
+      "it": "Governatorato di Baalbek-Hermel"
+    },
+    "comments": null,
+    "type": "governorate"
   },
   "BI": {
     "name": "El Béqaa",
-    "code": null,
+    "code": "BI",
     "unofficial_names": [
       "Bekaa"
     ],
@@ -188,11 +255,12 @@
       "ka": "ბექაას მუჰაფაზა",
       "no": "Guvernementet Bekaa"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JA": {
     "name": "Loubnâne ej Jnoûbi",
-    "code": null,
+    "code": "JA",
     "unofficial_names": [
       "South"
     ],
@@ -242,11 +310,12 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴",
       "ka": "სამხრეთის მუჰაფაზა"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JL": {
     "name": "Jabal Loubnâne",
-    "code": null,
+    "code": "JL",
     "unofficial_names": [
       "Mount Lebanon"
     ],
@@ -306,11 +375,12 @@
       "ka": "მთიანი ლიბანის მუჰაფაზა",
       "no": "Libanonfjellene"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "NA": {
     "name": "Nabatîyé",
-    "code": null,
+    "code": "NA",
     "unofficial_names": [
       "Nabatiyeh"
     ],
@@ -373,70 +443,8 @@
       "ka": "ნაბათიეს მუჰაფაზა",
       "no": "Guvernementet Nabatiye"
     },
-    "comments": null
-  },
-  "AK": {
-    "name": "محافظة عكار",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "محافظة عكار",
-      "de": "Gouvernement Akkar",
-      "en": "Akkar",
-      "es": "Gobernación de Akkar",
-      "hu": "Akkár kormányzóság",
-      "ceb": "Mohafazat Aakkâr",
-      "zh": "阿卡省",
-      "sv": "Mohafazat Aakkâr",
-      "ja": "アッカール県",
-      "ru": "Аккар",
-      "ccp": "𑄃𑄧𑄇𑄴𑄇𑄧𑄢𑄴",
-      "ka": "აკარის მუჰაფაზა",
-      "ko": "아카르 주",
-      "he": "מחוז עכאר",
-      "it": "Governatorato di Akkar"
-    },
-    "comments": null
-  },
-  "BH": {
-    "name": "محافظة بعلبك الهرمل",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "محافظة بعلبك الهرمل",
-      "de": "Gouvernement Baalbek-Hermel",
-      "en": "Baalbek-Hermel",
-      "es": "Gobernación de Baalbek - Hermel",
-      "he": "מחוז בעלבכ-הרמל",
-      "hu": "Baalbek-Hermel kormányzóság",
-      "ceb": "Mohafazat Baalbek-Hermel",
-      "ur": "محافظہ بعلبک الہرمل",
-      "zh": "巴勒貝克-希爾米勒省",
-      "sv": "Mohafazat Baalbek-Hermel",
-      "ru": "Баальбек-Хирмиль",
-      "ccp": "𑄝𑄧𑄣𑄴𑄝𑄬𑄇𑄴-𑄦𑄢𑄴𑄟𑄬𑄣𑄴",
-      "ka": "ბაალბექ-ჰერმელის მუჰაფაზა",
-      "fr": "gouvernorat de Baalbek-Hermel",
-      "ko": "바알베크헤르멜 주",
-      "it": "Governatorato di Baalbek-Hermel"
-    },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   }
 }
 

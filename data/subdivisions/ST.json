@@ -1,7 +1,55 @@
 {
+  "01": {
+    "translations": {
+      "en": "Água Grande"
+    },
+    "name": "Água Grande",
+    "code": "01",
+    "type": "district"
+  },
+  "02": {
+    "translations": {
+      "en": "Cantagalo"
+    },
+    "name": "Cantagalo",
+    "code": "02",
+    "type": "district"
+  },
+  "03": {
+    "translations": {
+      "en": "Caué"
+    },
+    "name": "Caué",
+    "code": "03",
+    "type": "district"
+  },
+  "04": {
+    "translations": {
+      "en": "Lembá"
+    },
+    "name": "Lembá",
+    "code": "04",
+    "type": "district"
+  },
+  "05": {
+    "translations": {
+      "en": "Lobata"
+    },
+    "name": "Lobata",
+    "code": "05",
+    "type": "district"
+  },
+  "06": {
+    "translations": {
+      "en": "Mé-Zóchi"
+    },
+    "name": "Mé-Zóchi",
+    "code": "06",
+    "type": "district"
+  },
   "P": {
     "name": "Príncipe",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Príncipe",
     "geo": {
       "latitude": 1.6139381,
@@ -26,73 +74,8 @@
       "mk": "Принсипе",
       "no": "Príncipe"
     },
-    "comments": null
-  },
-  "S": {
-    "name": "São Tomé",
-    "code": null,
-    "unofficial_names": "São Tomé",
-    "geo": {
-      "latitude": 0.3301924,
-      "longitude": 6.733343,
-      "min_latitude": 0.2995513,
-      "min_longitude": 6.7015236,
-      "max_latitude": 0.3843648000000001,
-      "max_longitude": 6.7529951
-    },
-    "translations": {
-      "en": "São Tomé",
-      "ca": "Província de São Tomé",
-      "fr": "province de Sao Tomé",
-      "it": "Provincia di São Tomé",
-      "ja": "サントメ州",
-      "nb": "São Tomé",
-      "ru": "провинция Сан-Томе",
-      "ceb": "São Tomé (lalawigan)",
-      "ar": "محافظة ساو تومي",
-      "ur": "ساؤ ٹومے صوبہ",
-      "ccp": "𑄥𑄃𑄮 𑄑𑄮𑄟𑄴",
-      "ka": "სან-ტომეს პროვინცია",
-      "mk": "Сао Томе",
-      "no": "São Tomé"
-    },
-    "comments": null
-  },
-  "01": {
-    "translations": {
-      "en": "Água Grande"
-    },
-    "name": "Água Grande"
-  },
-  "02": {
-    "translations": {
-      "en": "Cantagalo"
-    },
-    "name": "Cantagalo"
-  },
-  "03": {
-    "translations": {
-      "en": "Caué"
-    },
-    "name": "Caué"
-  },
-  "04": {
-    "translations": {
-      "en": "Lembá"
-    },
-    "name": "Lembá"
-  },
-  "05": {
-    "translations": {
-      "en": "Lobata"
-    },
-    "name": "Lobata"
-  },
-  "06": {
-    "translations": {
-      "en": "Mé-Zóchi"
-    },
-    "name": "Mé-Zóchi"
+    "comments": null,
+    "type": "autonomous_region"
   }
 }
 

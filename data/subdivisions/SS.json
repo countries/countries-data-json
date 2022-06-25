@@ -1,7 +1,7 @@
 {
   "BN": {
     "name": "شمال بحر الغزال",
-    "code": null,
+    "code": "BN",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -60,11 +60,12 @@
       "mk": "Северен Бахр ел-Газал",
       "no": "Northern Bahr el Ghazal"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BW": {
     "name": "غرب بحر الغزال",
-    "code": null,
+    "code": "BW",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -124,11 +125,12 @@
       "mk": "Западен Бахр ел-Газал",
       "no": "Western Bahr el Ghazal"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EC": {
     "name": "وسط الاستوائية",
-    "code": null,
+    "code": "EC",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -191,11 +193,12 @@
       "mk": "Централна Екваторија",
       "no": "Central Equatoria"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EE": {
     "name": "شرق الاستوائية",
-    "code": null,
+    "code": "EE",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -255,11 +258,12 @@
       "mk": "Источна Екваторија",
       "no": "Øst-Ekvatoria"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EW": {
     "name": "غرب الاستوائية",
-    "code": null,
+    "code": "EW",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -318,11 +322,12 @@
       "mk": "Западна Екваторија",
       "no": "Western Equatoria"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "JG": {
     "name": "جونقلي",
-    "code": null,
+    "code": "JG",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -383,11 +388,12 @@
       "mk": "Џонглеј",
       "no": "Jonglei"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "LK": {
     "name": "البحيرات",
-    "code": null,
+    "code": "LK",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -448,11 +454,12 @@
       "mk": "Езера",
       "no": "Lakes"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NU": {
     "name": "أعالي النيل",
-    "code": null,
+    "code": "NU",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -514,11 +521,12 @@
       "mk": "Горен Нил",
       "no": "Upper Nile"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "UY": {
     "name": "الوحدة",
-    "code": null,
+    "code": "UY",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -578,11 +586,12 @@
       "mk": "Единство",
       "no": "Unity"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WR": {
     "name": "واراب",
-    "code": null,
+    "code": "WR",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -643,7 +652,8 @@
       "mk": "Варап",
       "no": "Warrap"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

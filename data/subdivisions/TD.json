@@ -1,7 +1,7 @@
 {
   "BA": {
     "name": "Batha",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Batha",
     "geo": {
       "latitude": 13.9371775,
@@ -57,28 +57,132 @@
       "ka": "ბათის რეგიონი",
       "no": "Batha"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "BET": {
-    "name": "Borkou-Ennedi-Tibesti",
-    "code": null,
-    "unofficial_names": "Borkou-Ennedi-Tibesti",
+  "BG": {
+    "name": "بحر الغزال",
+    "code": "BG",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 17.8688845,
-      "longitude": 18.8076195,
-      "min_latitude": 15.2738331,
-      "min_longitude": 15.505546,
-      "max_latitude": 22.064452,
-      "max_longitude": 21.02631
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Borkou-Ennedi-Tibesti"
+      "ar": "بحر الغزال",
+      "bg": "Бар ел Газел",
+      "bn": "বার এল গাজেল অঞ্চল",
+      "cs": "Barh El Gazel",
+      "da": "Barh El Gazel",
+      "de": "Region Barh El Gazel",
+      "el": "Μπαχρ ελ Γκαζέλ",
+      "en": "Bahr el Gazel",
+      "es": "Región de Barh El Gazel",
+      "eu": "Barh El Gazel",
+      "fi": "Barh el Gazel",
+      "fr": "Barh El Gazel",
+      "gu": "બાહર અલ ગેઝલ પ્રદેશ",
+      "hi": "बहल एल गेज़ेल क्षेत्र",
+      "id": "Wilayah Bahr el Gazel",
+      "it": "regione di Barh El Gazel",
+      "kn": "ಬಹರ್ ಎಲ್ ಗಸೆಲ್ ಪ್ರದೇಶ",
+      "ko": "바르엘가젤 주",
+      "lt": "Bahr El Gazelio regionas",
+      "mr": "बहल एल गाझेल प्रदेश",
+      "ms": "Bahr el Gazel Region",
+      "nb": "Bahr el Gazel region",
+      "nl": "Bahr el Gazel Region",
+      "pl": "Region Bahr El Gazel",
+      "pt": "Barh El Gazel",
+      "ro": "Regiunea Barh el Ghazel",
+      "ru": "Бахр-эль-Газаль",
+      "si": "බහර් එල් ගසෙල් කලාපය",
+      "sv": "Bahr el Gazel (region)",
+      "ta": "பார் எல் கஸில் பகுதி",
+      "te": "బహర్ ఎల్ గాజెల్ ప్రాంతం",
+      "th": "บาฮ์ เอล กาเซล",
+      "tr": "Bahr el Gazel Bölgesi",
+      "uk": "Бахр-ель-Газаль",
+      "ur": "بحر الغزال علاقہ",
+      "vi": "Khu vực Bahr el Gazel",
+      "lv": "Bahrelgazalas reģions",
+      "ceb": "Barh el Gazel",
+      "zh": "加扎勒河區",
+      "ccp": "𑄝𑄦𑄴𑄢𑄴 𑄃𑄬𑄣𑄴 𑄉𑄎𑄬𑄣𑄴",
+      "ka": "ბაჰრ-ელ-გაზელის რეგიონი",
+      "no": "Bahr el Gazel region"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "BO": {
+    "name": "منطقة بوركو",
+    "code": "BO",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "منطقة بوركو",
+      "bn": "বুরকু অঞ্চল",
+      "ca": "Borku",
+      "cs": "Borkou",
+      "da": "Borkou",
+      "de": "Region Borkou",
+      "el": "Μπόρκου",
+      "en": "Borkou",
+      "es": "Región de Borkou",
+      "eu": "Borkou",
+      "fi": "Borkou",
+      "fr": "Borkou",
+      "gu": "બૉર્કાઉ પ્રદેશ",
+      "hi": "बोर्कू प्रदेश",
+      "hy": "Բորկու",
+      "id": "Wilayah Borkou",
+      "it": "regione di Borkou",
+      "ja": "ボルク州",
+      "kn": "ಬೊರ್ಕೊ ಪ್ರದೇಶ",
+      "ko": "보르쿠 주",
+      "lt": "Borku regionas",
+      "mr": "बोरोकू प्रांत",
+      "ms": "Borkou Region",
+      "nb": "Borkou Region",
+      "nl": "Borkou Region",
+      "pl": "Region Borku",
+      "pt": "Região Borkou",
+      "ro": "Regiunea Borkou",
+      "ru": "Борку",
+      "si": "බොර්කොවූ කලාපය",
+      "sv": "Borkou (region)",
+      "ta": "போர்கோவு பகுதி",
+      "te": "బోర్కోవ్ ప్రాంతం",
+      "th": "แถบบอคูย์",
+      "tr": "Borkou Bölgesi",
+      "uk": "Борку",
+      "ur": "بورکؤ علاقہ",
+      "vi": "Khu vực Borkou",
+      "lv": "Borku reģions",
+      "ceb": "Borkou Region",
+      "zh": "博爾庫區",
+      "ccp": "𑄝𑄮𑄢𑄴𑄇𑄯",
+      "ka": "ბორკუს რეგიონი",
+      "no": "Borkou Region"
+    },
+    "comments": null,
+    "type": "province"
   },
   "CB": {
     "name": "Chari-Baguirmi",
-    "code": null,
+    "code": "CB",
     "unofficial_names": "Chari-Baguirmi",
     "geo": {
       "latitude": 11.2564207,
@@ -135,11 +239,67 @@
       "uk": "Регіон Шарі-Багірмі",
       "no": "Chari-Baguirmi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "EE": {
+    "name": "إنيدي الشرقية",
+    "code": "EE",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Ennedi-Est",
+      "fr": "Ennedi Est",
+      "it": "Regione di Ennedi Est",
+      "ja": "東エネディ州",
+      "ur": "انیدی-مشرقی علاقہ",
+      "ar": "إنيدي الشرقية",
+      "ru": "Восточный Эннеди",
+      "ccp": "𑄃𑄨𑄚𑄬𑄓𑄨-𑄃𑄨𑄌𑄴𑄑𑄴",
+      "ka": "აღმოსავლეთი ენედის რეგიონი",
+      "es": "Ennedi Est"
+    },
+    "comments": null,
+    "type": "province"
+  },
+  "EO": {
+    "name": "إنيدي الغربية",
+    "code": "EO",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Ennedi-Ouest",
+      "es": "Ennedi Ouest",
+      "fr": "Ennedi Ouest",
+      "it": "Regione di Ennedi Ovest",
+      "ja": "西エネディ州",
+      "ur": "انیدی-مغربی علاقہ",
+      "ar": "إنيدي الغربية",
+      "zh": "西恩內迪區",
+      "ru": "Западный Эннеди",
+      "ccp": "𑄃𑄨𑄚𑄬𑄓𑄨-𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄴",
+      "ka": "დასავლეთი ენედის რეგიონი"
+    },
+    "comments": null,
+    "type": "province"
   },
   "GR": {
     "name": "Guéra",
-    "code": null,
+    "code": "GR",
     "unofficial_names": "Guéra",
     "geo": {
       "latitude": 11.1219015,
@@ -195,11 +355,12 @@
       "uk": "Регіон Мбарара",
       "no": "Guéra"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HL": {
     "name": "Hadjer Lamis",
-    "code": null,
+    "code": "HL",
     "unofficial_names": "Hadjer Lamis",
     "geo": {
       "latitude": 12.4577273,
@@ -254,11 +415,12 @@
       "uk": "Регіон Гаджер-Ламіс",
       "no": "Hadjer-Lamis"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KA": {
     "name": "Kanem",
-    "code": null,
+    "code": "KA",
     "unofficial_names": "Kanem",
     "geo": {
       "latitude": 14.8781262,
@@ -314,11 +476,12 @@
       "uk": "Регіон Канем",
       "no": "Kanem"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LC": {
     "name": "Lac",
-    "code": null,
+    "code": "LC",
     "unofficial_names": "Lac",
     "geo": {
       "latitude": 13.6915377,
@@ -373,11 +536,12 @@
       "uk": "Регіон Лак",
       "no": "Lac"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LO": {
     "name": "Logone-Occidental",
-    "code": null,
+    "code": "LO",
     "unofficial_names": "Logone-Occidental",
     "geo": {
       "latitude": 8.759675999999999,
@@ -431,11 +595,12 @@
       "ka": "დასავლეთი ლოგონის რეგიონი",
       "no": "Logone Occidental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LR": {
     "name": "Logone-Oriental",
-    "code": null,
+    "code": "LR",
     "unofficial_names": "Logone-Oriental",
     "geo": {
       "latitude": 8.3149949,
@@ -489,11 +654,12 @@
       "ka": "აღმოსავლეთი ლოგონის რეგიონი",
       "no": "Logone Oriental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MA": {
     "name": "Mandoul",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Mandoul",
     "geo": {
       "latitude": 8.603091,
@@ -548,11 +714,12 @@
       "uk": "Регіон Мандуль",
       "no": "Mandoul"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MC": {
     "name": "Moyen-Chari",
-    "code": null,
+    "code": "MC",
     "unofficial_names": "Moyen-Chari",
     "geo": {
       "latitude": 9.0639998,
@@ -607,11 +774,12 @@
       "ka": "შუა შარის რეგიონი",
       "no": "Moyen-Chari"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ME": {
     "name": "Mayo-Kébbi-Est",
-    "code": null,
+    "code": "ME",
     "unofficial_names": "Mayo-Kébbi-Est",
     "geo": {
       "latitude": 9.4046039,
@@ -666,11 +834,12 @@
       "uk": "Регіон Східний Майо-Кебі",
       "no": "Mayo-Kebbi Est"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MO": {
     "name": "Mayo-Kébbi-Ouest",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Mayo-Kébbi-Ouest",
     "geo": {
       "latitude": 10.4113014,
@@ -725,11 +894,12 @@
       "uk": "Регіон Західний Майо-Кебі",
       "no": "Mayo-Kebbi Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ND": {
     "name": "Ndjamena",
-    "code": null,
+    "code": "ND",
     "unofficial_names": "Ndjamena",
     "geo": {
       "latitude": 12.113056,
@@ -822,11 +992,12 @@
       "no": "N’Djamena",
       "yo_BJ": "N’Djamena"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "OD": {
     "name": "Ouaddaï",
-    "code": null,
+    "code": "OD",
     "unofficial_names": "Ouaddaï",
     "geo": {
       "latitude": 13.748476,
@@ -882,11 +1053,12 @@
       "uk": "Ваддай",
       "no": "Ouaddaï"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SA": {
     "name": "Salamat",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Salamat",
     "geo": {
       "latitude": 10.9691601,
@@ -942,11 +1114,70 @@
       "cs": "Salamat",
       "no": "Salamat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "SI": {
+    "name": "منطقة سيلا",
+    "code": "SI",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "منطقة سيلا",
+      "bg": "Сила",
+      "bn": "সিলা অঞ্চল",
+      "da": "Sila",
+      "de": "Region Sila",
+      "el": "Σίλα",
+      "en": "Sila",
+      "es": "Región de Sila",
+      "eu": "Sila",
+      "fi": "Sila",
+      "fr": "Sila",
+      "gu": "સિલા પ્રદેશ",
+      "hi": "सिला क्षेत्र",
+      "id": "Wilayah Sila",
+      "it": "regione del Sila",
+      "ja": "シラ州",
+      "kn": "ಸಿಲಾ ಪ್ರದೇಶ",
+      "ko": "실라 주",
+      "lt": "Silos regionas",
+      "mr": "शिला प्रदेश",
+      "ms": "Sila Region",
+      "nb": "Sila region",
+      "nl": "Sila Region",
+      "pl": "Region Sila",
+      "pt": "Região Sila",
+      "ro": "Regiunea Sila",
+      "ru": "Сила",
+      "si": "සිලා කලාපය",
+      "sv": "Sila (region)",
+      "ta": "சிலா பகுதி",
+      "te": "సిలా ప్రాంతం",
+      "th": "ซิลา",
+      "tr": "Sila Bölgesi",
+      "ur": "سیلا علاقہ",
+      "vi": "Khu vực Sila",
+      "lv": "Silas reģions",
+      "zh": "西拉區",
+      "ccp": "𑄥𑄨𑄣",
+      "ka": "სილის რეგიონი",
+      "uk": "Регіон Сіла",
+      "no": "Sila region"
+    },
+    "comments": null,
+    "type": "province"
   },
   "TA": {
     "name": "Tandjilé",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Tandjilé",
     "geo": {
       "latitude": 9.6625729,
@@ -1000,244 +1231,12 @@
       "uk": "Регіон Танджиле",
       "no": "Tandjilé"
     },
-    "comments": null
-  },
-  "WF": {
-    "name": "Wadi Fira",
-    "code": null,
-    "unofficial_names": "Wadi Fira",
-    "geo": {
-      "latitude": 15.0892416,
-      "longitude": 21.4752851,
-      "min_latitude": 13.85626,
-      "min_longitude": 20.035872,
-      "max_latitude": 15.9035701,
-      "max_longitude": 23.0038449
-    },
-    "translations": {
-      "en": "Wadi Fira",
-      "ar": "منطقة وادي فيرا",
-      "bg": "Уади Фира",
-      "bn": "ওয়াডি ফিরা অঞ্চল",
-      "da": "Wadi Fira",
-      "de": "Region Wadi Fira",
-      "el": "Γουάντι Φίρα",
-      "es": "Región de Wadi Fira",
-      "et": "Wadi Fira",
-      "eu": "Wadi Fira",
-      "fi": "Wadi Fira",
-      "fr": "Wadi Fira",
-      "gu": "વાડી ફિરા પ્રદેશ",
-      "hi": "वादी फिरा क्षेत्र",
-      "id": "Region Wadi Fira",
-      "it": "regione di Wadi Fira",
-      "ja": "ワジ・フィラ州",
-      "kn": "ವಾಡಿ ಫಿರಾ ಪ್ರದೇಶ",
-      "ko": "와디피라 주",
-      "lt": "Vadi Firos regionas",
-      "mr": "वाडी फिरा प्रदेश",
-      "ms": "Wadi Fira Region",
-      "nb": "Wadi Fira",
-      "nl": "Wadi Fira",
-      "pl": "Region Wadi Fira",
-      "pt": "Wadi Fira",
-      "ro": "Regiunea Wadi Fira",
-      "ru": "Вади-Фера",
-      "si": "වඩි ෆිරා කලාපය",
-      "sv": "Wadi Fira (region)",
-      "ta": "வாடி பிறா பகுதி",
-      "te": "వాడి ఫిరా ప్రాంతం",
-      "th": "วาดีฟีรา",
-      "tr": "Wadi Fira Bölgesi",
-      "uk": "Ваді-Фіра",
-      "ur": "وادی فیرا علاقہ",
-      "vi": "Khu vực Wadi Fira",
-      "lv": "Vādī Firas reģions",
-      "zh": "瓦迪菲拉區",
-      "ccp": "𑄤𑄓𑄨 𑄜𑄨𑄢",
-      "ka": "უადი-ფირის რეგიონი",
-      "no": "Wadi Fira"
-    },
-    "comments": null
-  },
-  "BG": {
-    "name": "بحر الغزال",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "بحر الغزال",
-      "bg": "Бар ел Газел",
-      "bn": "বার এল গাজেল অঞ্চল",
-      "cs": "Barh El Gazel",
-      "da": "Barh El Gazel",
-      "de": "Region Barh El Gazel",
-      "el": "Μπαχρ ελ Γκαζέλ",
-      "en": "Bahr el Gazel",
-      "es": "Región de Barh El Gazel",
-      "eu": "Barh El Gazel",
-      "fi": "Barh el Gazel",
-      "fr": "Barh El Gazel",
-      "gu": "બાહર અલ ગેઝલ પ્રદેશ",
-      "hi": "बहल एल गेज़ेल क्षेत्र",
-      "id": "Wilayah Bahr el Gazel",
-      "it": "regione di Barh El Gazel",
-      "kn": "ಬಹರ್ ಎಲ್ ಗಸೆಲ್ ಪ್ರದೇಶ",
-      "ko": "바르엘가젤 주",
-      "lt": "Bahr El Gazelio regionas",
-      "mr": "बहल एल गाझेल प्रदेश",
-      "ms": "Bahr el Gazel Region",
-      "nb": "Bahr el Gazel region",
-      "nl": "Bahr el Gazel Region",
-      "pl": "Region Bahr El Gazel",
-      "pt": "Barh El Gazel",
-      "ro": "Regiunea Barh el Ghazel",
-      "ru": "Бахр-эль-Газаль",
-      "si": "බහර් එල් ගසෙල් කලාපය",
-      "sv": "Bahr el Gazel (region)",
-      "ta": "பார் எல் கஸில் பகுதி",
-      "te": "బహర్ ఎల్ గాజెల్ ప్రాంతం",
-      "th": "บาฮ์ เอล กาเซล",
-      "tr": "Bahr el Gazel Bölgesi",
-      "uk": "Бахр-ель-Газаль",
-      "ur": "بحر الغزال علاقہ",
-      "vi": "Khu vực Bahr el Gazel",
-      "lv": "Bahrelgazalas reģions",
-      "ceb": "Barh el Gazel",
-      "zh": "加扎勒河區",
-      "ccp": "𑄝𑄦𑄴𑄢𑄴 𑄃𑄬𑄣𑄴 𑄉𑄎𑄬𑄣𑄴",
-      "ka": "ბაჰრ-ელ-გაზელის რეგიონი",
-      "no": "Bahr el Gazel region"
-    },
-    "comments": null
-  },
-  "BO": {
-    "name": "منطقة بوركو",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "منطقة بوركو",
-      "bn": "বুরকু অঞ্চল",
-      "ca": "Borku",
-      "cs": "Borkou",
-      "da": "Borkou",
-      "de": "Region Borkou",
-      "el": "Μπόρκου",
-      "en": "Borkou",
-      "es": "Región de Borkou",
-      "eu": "Borkou",
-      "fi": "Borkou",
-      "fr": "Borkou",
-      "gu": "બૉર્કાઉ પ્રદેશ",
-      "hi": "बोर्कू प्रदेश",
-      "hy": "Բորկու",
-      "id": "Wilayah Borkou",
-      "it": "regione di Borkou",
-      "ja": "ボルク州",
-      "kn": "ಬೊರ್ಕೊ ಪ್ರದೇಶ",
-      "ko": "보르쿠 주",
-      "lt": "Borku regionas",
-      "mr": "बोरोकू प्रांत",
-      "ms": "Borkou Region",
-      "nb": "Borkou Region",
-      "nl": "Borkou Region",
-      "pl": "Region Borku",
-      "pt": "Região Borkou",
-      "ro": "Regiunea Borkou",
-      "ru": "Борку",
-      "si": "බොර්කොවූ කලාපය",
-      "sv": "Borkou (region)",
-      "ta": "போர்கோவு பகுதி",
-      "te": "బోర్కోవ్ ప్రాంతం",
-      "th": "แถบบอคูย์",
-      "tr": "Borkou Bölgesi",
-      "uk": "Борку",
-      "ur": "بورکؤ علاقہ",
-      "vi": "Khu vực Borkou",
-      "lv": "Borku reģions",
-      "ceb": "Borkou Region",
-      "zh": "博爾庫區",
-      "ccp": "𑄝𑄮𑄢𑄴𑄇𑄯",
-      "ka": "ბორკუს რეგიონი",
-      "no": "Borkou Region"
-    },
-    "comments": null
-  },
-  "SI": {
-    "name": "منطقة سيلا",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "منطقة سيلا",
-      "bg": "Сила",
-      "bn": "সিলা অঞ্চল",
-      "da": "Sila",
-      "de": "Region Sila",
-      "el": "Σίλα",
-      "en": "Sila",
-      "es": "Región de Sila",
-      "eu": "Sila",
-      "fi": "Sila",
-      "fr": "Sila",
-      "gu": "સિલા પ્રદેશ",
-      "hi": "सिला क्षेत्र",
-      "id": "Wilayah Sila",
-      "it": "regione del Sila",
-      "ja": "シラ州",
-      "kn": "ಸಿಲಾ ಪ್ರದೇಶ",
-      "ko": "실라 주",
-      "lt": "Silos regionas",
-      "mr": "शिला प्रदेश",
-      "ms": "Sila Region",
-      "nb": "Sila region",
-      "nl": "Sila Region",
-      "pl": "Region Sila",
-      "pt": "Região Sila",
-      "ro": "Regiunea Sila",
-      "ru": "Сила",
-      "si": "සිලා කලාපය",
-      "sv": "Sila (region)",
-      "ta": "சிலா பகுதி",
-      "te": "సిలా ప్రాంతం",
-      "th": "ซิลา",
-      "tr": "Sila Bölgesi",
-      "ur": "سیلا علاقہ",
-      "vi": "Khu vực Sila",
-      "lv": "Silas reģions",
-      "zh": "西拉區",
-      "ccp": "𑄥𑄨𑄣",
-      "ka": "სილის რეგიონი",
-      "uk": "Регіон Сіла",
-      "no": "Sila region"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TI": {
     "name": "منطقة تبستي",
-    "code": null,
+    "code": "TI",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1291,60 +1290,67 @@
       "uk": "Регіон Тібесті",
       "no": "Tibesti Region"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "EE": {
-    "name": "إنيدي الشرقية",
-    "code": null,
-    "unofficial_names": null,
+  "WF": {
+    "name": "Wadi Fira",
+    "code": "WF",
+    "unofficial_names": "Wadi Fira",
     "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "latitude": 15.0892416,
+      "longitude": 21.4752851,
+      "min_latitude": 13.85626,
+      "min_longitude": 20.035872,
+      "max_latitude": 15.9035701,
+      "max_longitude": 23.0038449
     },
     "translations": {
-      "en": "Ennedi-Est",
-      "fr": "Ennedi Est",
-      "it": "Regione di Ennedi Est",
-      "ja": "東エネディ州",
-      "ur": "انیدی-مشرقی علاقہ",
-      "ar": "إنيدي الشرقية",
-      "ru": "Восточный Эннеди",
-      "ccp": "𑄃𑄨𑄚𑄬𑄓𑄨-𑄃𑄨𑄌𑄴𑄑𑄴",
-      "ka": "აღმოსავლეთი ენედის რეგიონი",
-      "es": "Ennedi Est"
+      "en": "Wadi Fira",
+      "ar": "منطقة وادي فيرا",
+      "bg": "Уади Фира",
+      "bn": "ওয়াডি ফিরা অঞ্চল",
+      "da": "Wadi Fira",
+      "de": "Region Wadi Fira",
+      "el": "Γουάντι Φίρα",
+      "es": "Región de Wadi Fira",
+      "et": "Wadi Fira",
+      "eu": "Wadi Fira",
+      "fi": "Wadi Fira",
+      "fr": "Wadi Fira",
+      "gu": "વાડી ફિરા પ્રદેશ",
+      "hi": "वादी फिरा क्षेत्र",
+      "id": "Region Wadi Fira",
+      "it": "regione di Wadi Fira",
+      "ja": "ワジ・フィラ州",
+      "kn": "ವಾಡಿ ಫಿರಾ ಪ್ರದೇಶ",
+      "ko": "와디피라 주",
+      "lt": "Vadi Firos regionas",
+      "mr": "वाडी फिरा प्रदेश",
+      "ms": "Wadi Fira Region",
+      "nb": "Wadi Fira",
+      "nl": "Wadi Fira",
+      "pl": "Region Wadi Fira",
+      "pt": "Wadi Fira",
+      "ro": "Regiunea Wadi Fira",
+      "ru": "Вади-Фера",
+      "si": "වඩි ෆිරා කලාපය",
+      "sv": "Wadi Fira (region)",
+      "ta": "வாடி பிறா பகுதி",
+      "te": "వాడి ఫిరా ప్రాంతం",
+      "th": "วาดีฟีรา",
+      "tr": "Wadi Fira Bölgesi",
+      "uk": "Ваді-Фіра",
+      "ur": "وادی فیرا علاقہ",
+      "vi": "Khu vực Wadi Fira",
+      "lv": "Vādī Firas reģions",
+      "zh": "瓦迪菲拉區",
+      "ccp": "𑄤𑄓𑄨 𑄜𑄨𑄢",
+      "ka": "უადი-ფირის რეგიონი",
+      "no": "Wadi Fira"
     },
-    "comments": null
-  },
-  "EO": {
-    "name": "إنيدي الغربية",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Ennedi-Ouest",
-      "es": "Ennedi Ouest",
-      "fr": "Ennedi Ouest",
-      "it": "Regione di Ennedi Ovest",
-      "ja": "西エネディ州",
-      "ur": "انیدی-مغربی علاقہ",
-      "ar": "إنيدي الغربية",
-      "zh": "西恩內迪區",
-      "ru": "Западный Эннеди",
-      "ccp": "𑄃𑄨𑄚𑄬𑄓𑄨-𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄴",
-      "ka": "დასავლეთი ენედის რეგიონი"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

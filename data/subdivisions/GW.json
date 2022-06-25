@@ -1,7 +1,7 @@
 {
   "BA": {
     "name": "Bafatá",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Bafatá",
     "geo": {
       "latitude": 12.171944,
@@ -55,11 +55,12 @@
       "ccp": "𑄝𑄜𑄑",
       "no": "Bafatá"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BL": {
     "name": "Bolama",
-    "code": null,
+    "code": "BL",
     "unofficial_names": "Bolama",
     "geo": {
       "latitude": 11.5770712,
@@ -114,11 +115,12 @@
       "ccp": "𑄝𑄧𑄣𑄟",
       "no": "Bolama"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BM": {
     "name": "Biombo",
-    "code": null,
+    "code": "BM",
     "unofficial_names": "Biombo",
     "geo": {
       "latitude": 11.8529061,
@@ -172,11 +174,12 @@
       "ccp": "𑄝𑄭𑄃𑄮𑄟𑄴𑄝𑄮",
       "no": "Biombo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BS": {
     "name": "Bissau",
-    "code": null,
+    "code": "BS",
     "unofficial_names": "Bissau",
     "geo": {
       "latitude": 11.8816553,
@@ -266,11 +269,12 @@
       "no": "Bissau",
       "yo_BJ": "Bissau"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_sector"
   },
   "CA": {
     "name": "Cacheu",
-    "code": null,
+    "code": "CA",
     "unofficial_names": [
       "Cacheo"
     ],
@@ -326,11 +330,12 @@
       "uk": "Регіон Кашеу",
       "no": "Cacheu"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "GA": {
     "name": "Gabú",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Gabú",
     "geo": {
       "latitude": 11.8962488,
@@ -383,11 +388,52 @@
       "uk": "Регіон Габу",
       "no": "Gabú"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "L": {
+    "name": "Leste",
+    "code": "L",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Leste",
+      "ccp": "𑄣𑄬𑄌𑄴𑄑𑄬",
+      "de": "Provinz Leste"
+    },
+    "comments": null,
+    "type": "province"
+  },
+  "N": {
+    "name": "Norte",
+    "code": "N",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Norte",
+      "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬",
+      "de": "Provinz Norte"
+    },
+    "comments": null,
+    "type": "province"
   },
   "OI": {
     "name": "Oio",
-    "code": null,
+    "code": "OI",
     "unofficial_names": "Oio",
     "geo": {
       "latitude": 12.2760709,
@@ -442,11 +488,12 @@
       "uk": "Ойо",
       "no": "Oio"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "QU": {
     "name": "Quinara",
-    "code": null,
+    "code": "QU",
     "unofficial_names": "Quinara",
     "geo": {
       "latitude": 11.795562,
@@ -501,11 +548,32 @@
       "uk": "Регіон Кінара",
       "no": "Quinara"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "S": {
+    "name": "Sul",
+    "code": "S",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Sul",
+      "ccp": "𑄥𑄣𑄴",
+      "de": "Provinz Sul"
+    },
+    "comments": null,
+    "type": "province"
   },
   "TO": {
     "name": "Tombali",
-    "code": null,
+    "code": "TO",
     "unofficial_names": "Tombali",
     "geo": {
       "latitude": 11.300838,
@@ -559,64 +627,8 @@
       "uk": "Район Томбалі",
       "no": "Tombali"
     },
-    "comments": null
-  },
-  "L": {
-    "name": "Leste",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Leste",
-      "ccp": "𑄣𑄬𑄌𑄴𑄑𑄬",
-      "de": "Provinz Leste"
-    },
-    "comments": null
-  },
-  "N": {
-    "name": "Norte",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Norte",
-      "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬",
-      "de": "Provinz Norte"
-    },
-    "comments": null
-  },
-  "S": {
-    "name": "Sul",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Sul",
-      "ccp": "𑄥𑄣𑄴",
-      "de": "Provinz Sul"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "02": {
     "name": "Canillo",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Canillo",
     "geo": {
       "latitude": 42.5666535,
@@ -14,11 +14,12 @@
     "translations": {
       "en": "Canillo"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "03": {
     "name": "Encamp",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Encamp",
     "geo": {
       "latitude": 42.5362652,
@@ -31,11 +32,12 @@
     "translations": {
       "en": "Encamp"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "04": {
     "name": "La Massana",
-    "code": null,
+    "code": "04",
     "unofficial_names": "La Massana",
     "geo": {
       "latitude": 42.545625,
@@ -48,11 +50,12 @@
     "translations": {
       "en": "La Massana"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "05": {
     "name": "Ordino",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Ordino",
     "geo": {
       "latitude": 42.5556547,
@@ -65,11 +68,12 @@
     "translations": {
       "en": "Ordino"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "06": {
     "name": "Sant Julià de Lòria",
-    "code": null,
+    "code": "06",
     "unofficial_names": [
       "Saint Julia de Loria"
     ],
@@ -84,11 +88,12 @@
     "translations": {
       "en": "Sant Julià de Lòria"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "07": {
     "name": "Andorra la Vella",
-    "code": null,
+    "code": "07",
     "unofficial_names": [
       "Andorra la Vieja",
       "Andorre-la-Vieille"
@@ -104,11 +109,12 @@
     "translations": {
       "en": "Andorra la Vella"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "08": {
     "name": "Escaldes-Engordany",
-    "code": null,
+    "code": "08",
     "unofficial_names": [
       "Les Escaldes"
     ],
@@ -123,7 +129,8 @@
     "translations": {
       "en": "Escaldes-Engordany"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   }
 }
 

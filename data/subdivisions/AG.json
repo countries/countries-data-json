@@ -1,7 +1,7 @@
 {
   "03": {
     "name": "Saint George",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Saint George",
     "geo": {
       "latitude": 17.1078489,
@@ -55,11 +55,12 @@
       "ca": "Parròquia de Saint George",
       "no": "Saint George prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "04": {
     "name": "Saint John’s",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Saint John’s",
     "geo": {
       "latitude": 17.116667,
@@ -98,11 +99,12 @@
       "ca": "Parròquia de Saint John",
       "no": "Saint John prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "05": {
     "name": "Saint Mary",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Saint Mary",
     "geo": {
       "latitude": 17.0512064,
@@ -157,11 +159,12 @@
       "ca": "Parròquia de Saint Mary",
       "no": "Saint Mary prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "06": {
     "name": "Saint Paul",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Saint Paul",
     "geo": {
       "latitude": 17.0371588,
@@ -215,11 +218,12 @@
       "ca": "Parròquia de Saint Paul",
       "no": "Saint Paul prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "07": {
     "name": "Saint Peter",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Saint Peter",
     "geo": {
       "latitude": 17.0980665,
@@ -273,11 +277,12 @@
       "ca": "Parròquia de Saint Peter",
       "no": "Saint Peter prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "08": {
     "name": "Saint Philip",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Saint Philip",
     "geo": {
       "latitude": 17.0480636,
@@ -331,11 +336,12 @@
       "ca": "Parròquia de Saint Philip",
       "no": "Saint Philip prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "10": {
     "name": "Barbuda",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Barbuda",
     "geo": {
       "latitude": 17.626798,
@@ -405,28 +411,12 @@
       "no": "Barbuda",
       "yo_BJ": "Bàrbúdà"
     },
-    "comments": null
-  },
-  "X2~": {
-    "name": "Redonda",
-    "code": null,
-    "unofficial_names": "Redonda",
-    "geo": {
-      "latitude": 16.938416,
-      "longitude": -62.3455148,
-      "min_latitude": 16.9325319,
-      "min_longitude": -62.347657,
-      "max_latitude": 16.9430241,
-      "max_longitude": -62.342078
-    },
-    "translations": {
-      "en": "Redonda"
-    },
-    "comments": null
+    "comments": null,
+    "type": "dependency"
   },
   "11": {
     "name": "Redonda",
-    "code": null,
+    "code": "11",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -490,7 +480,8 @@
       "mk": "Редонда",
       "no": "Redonda"
     },
-    "comments": null
+    "comments": null,
+    "type": "dependency"
   }
 }
 

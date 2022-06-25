@@ -1,7 +1,7 @@
 {
   "AD": {
     "name": "Adamaoua",
-    "code": null,
+    "code": "AD",
     "unofficial_names": [
       "Adamawa"
     ],
@@ -62,11 +62,12 @@
       "uk": "Адамава",
       "no": "Adamawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "CE": {
     "name": "Centre",
-    "code": null,
+    "code": "CE",
     "unofficial_names": "Centre",
     "geo": {
       "latitude": 4.6298411,
@@ -126,11 +127,12 @@
       "no": "Centre",
       "yo_BJ": "àárín"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "EN": {
     "name": "Far North",
-    "code": null,
+    "code": "EN",
     "unofficial_names": "Far North",
     "geo": {
       "latitude": 10.6315589,
@@ -188,11 +190,12 @@
       "uk": "Крайньопівнічний регіон",
       "no": "Extrême-Nord"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ES": {
     "name": "East",
-    "code": null,
+    "code": "ES",
     "unofficial_names": "East",
     "geo": {
       "latitude": 3.950512799999999,
@@ -253,11 +256,12 @@
       "no": "Est",
       "yo_BJ": "ilà oòrùn"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LT": {
     "name": "Littoral",
-    "code": null,
+    "code": "LT",
     "unofficial_names": "Littoral",
     "geo": {
       "latitude": 4.1682138,
@@ -316,11 +320,12 @@
       "he": "מחוז החוף",
       "no": "Littoral"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NO": {
     "name": "North",
-    "code": null,
+    "code": "NO",
     "unofficial_names": [
       "Bénoué"
     ],
@@ -382,11 +387,12 @@
       "no": "Nord",
       "yo_BJ": "Àríwá"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NW": {
     "name": "North-West",
-    "code": null,
+    "code": "NW",
     "unofficial_names": "North-West",
     "geo": {
       "latitude": 6.470373899999999,
@@ -444,11 +450,12 @@
       "uk": "Північно-Західний регіон",
       "no": "Nord-Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "OU": {
     "name": "West",
-    "code": null,
+    "code": "OU",
     "unofficial_names": "West",
     "geo": {
       "latitude": 5.4638158,
@@ -508,11 +515,12 @@
       "yo": "ìwọ̀ oòrùn",
       "no": "Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SU": {
     "name": "South",
-    "code": null,
+    "code": "SU",
     "unofficial_names": "South",
     "geo": {
       "latitude": 2.7202832,
@@ -571,11 +579,12 @@
       "no": "Sud",
       "yo_BJ": "Gúúsù"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SW": {
     "name": "South-West",
-    "code": null,
+    "code": "SW",
     "unofficial_names": "South-West",
     "geo": {
       "latitude": 5.1573493,
@@ -633,7 +642,8 @@
       "uk": "Південно-Західний регіон",
       "no": "Sud-Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

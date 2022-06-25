@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Anse la Raye",
-    "code": null,
+    "code": "01",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -54,11 +54,85 @@
       "mk": "Анс ла Реј",
       "no": "Anse la Raye Quarter"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "02": {
+    "name": "Castries",
+    "code": "02",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Castries",
+      "en": "Castries",
+      "es": "Castries",
+      "fa": "بخش کاستریس",
+      "fr": "District de Castries",
+      "it": "quartiere di Castries",
+      "ja": "カストリーズ地区",
+      "ko": "캐스트리스 구",
+      "lt": "Kastrio kvartalas",
+      "nl": "Castries",
+      "pl": "Castries (dystrykt)",
+      "ru": "Кастри",
+      "sv": "Castries (kvarter)",
+      "tr": "Castries (şehir)",
+      "ur": "کاستریس کوارٹر",
+      "vi": "Castries (quận)",
+      "ceb": "Castries (baranggay)",
+      "zh": "卡斯特里區",
+      "ccp": "𑄇𑄌𑄴𑄑𑄳𑄢𑄭𑄌𑄴",
+      "mk": "Кастри"
+    },
+    "comments": null,
+    "type": "district"
+  },
+  "03": {
+    "name": "Choiseul",
+    "code": "03",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Choiseul",
+      "en": "Choiseul",
+      "es": "Choiseul",
+      "fa": "بخش چویسول",
+      "fr": "District de Choiseul",
+      "it": "quartiere di Choiseul",
+      "ja": "ショゼール地区",
+      "ko": "슈아죌 구",
+      "lt": "Šuazelis (Sent Lusija)",
+      "nl": "Choiseul",
+      "pl": "Choiseul (dystrykt)",
+      "ru": "Шуазёль (приход)",
+      "sv": "Choiseul (kvarter i Saint Lucia, lat 13,79, long -61,03)",
+      "tr": "Choiseul (şehir)",
+      "ur": "چویسول کوارٹر",
+      "vi": "Choiseul (quận)",
+      "ceb": "Choiseul (baranggay sa Saint Lucia, lat 13,79, long -61,03)",
+      "zh": "舒瓦瑟爾區",
+      "ccp": "𑄇𑄰𑄱𑄥𑄨𑄅𑄪𑄣𑄴"
+    },
+    "comments": null,
+    "type": "district"
   },
   "05": {
     "name": "Dennery",
-    "code": null,
+    "code": "05",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -110,11 +184,12 @@
       "uk": "Денері",
       "no": "Dennery"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "06": {
     "name": "Gros Islet",
-    "code": null,
+    "code": "06",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -166,11 +241,12 @@
       "be": "Грос-Айлет",
       "no": "Gros-islet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "07": {
     "name": "Laborie",
-    "code": null,
+    "code": "07",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -222,11 +298,12 @@
       "uk": "Лаборі",
       "no": "Laborie"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "08": {
     "name": "Micoud",
-    "code": null,
+    "code": "08",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -277,11 +354,50 @@
       "uk": "Міку",
       "no": "Micoud Quarter"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
+  },
+  "10": {
+    "name": "Soufrière",
+    "code": "10",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Soufrière",
+      "en": "Soufrière",
+      "es": "Soufrière",
+      "fa": "بخش سوفریر",
+      "fr": "District de Soufrière",
+      "he": "סופרייר",
+      "it": "quartiere di Soufrière",
+      "ja": "スフレ (セントルシア)",
+      "ko": "수프리에르 구",
+      "lt": "Sufrieras",
+      "nl": "Soufrière",
+      "pl": "Soufrière",
+      "pt": "Soufrière",
+      "ru": "Суфриер",
+      "sv": "Soufrière (kvarter)",
+      "tr": "Soufrière",
+      "vi": "Soufrière",
+      "ceb": "Soufrière (baranggay)",
+      "zh": "蘇弗里耶爾區",
+      "ccp": "𑄥𑄯𑄜𑄳𑄢𑄭𑄠𑄢𑄴",
+      "mk": "Суфриер"
+    },
+    "comments": null,
+    "type": "district"
   },
   "11": {
     "name": "Vieux Fort",
-    "code": null,
+    "code": "11",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -332,11 +448,12 @@
       "uk": "Вʼє-Форт",
       "no": "Vieux Fort Quarter"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "12": {
     "name": "Canaries",
-    "code": null,
+    "code": "12",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -387,115 +504,8 @@
       "uk": "Канаріс",
       "no": "Kanariene"
     },
-    "comments": null
-  },
-  "02": {
-    "name": "Castries",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Castries",
-      "en": "Castries",
-      "es": "Castries",
-      "fa": "بخش کاستریس",
-      "fr": "District de Castries",
-      "it": "quartiere di Castries",
-      "ja": "カストリーズ地区",
-      "ko": "캐스트리스 구",
-      "lt": "Kastrio kvartalas",
-      "nl": "Castries",
-      "pl": "Castries (dystrykt)",
-      "ru": "Кастри",
-      "sv": "Castries (kvarter)",
-      "tr": "Castries (şehir)",
-      "ur": "کاستریس کوارٹر",
-      "vi": "Castries (quận)",
-      "ceb": "Castries (baranggay)",
-      "zh": "卡斯特里區",
-      "ccp": "𑄇𑄌𑄴𑄑𑄳𑄢𑄭𑄌𑄴",
-      "mk": "Кастри"
-    },
-    "comments": null
-  },
-  "03": {
-    "name": "Choiseul",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Choiseul",
-      "en": "Choiseul",
-      "es": "Choiseul",
-      "fa": "بخش چویسول",
-      "fr": "District de Choiseul",
-      "it": "quartiere di Choiseul",
-      "ja": "ショゼール地区",
-      "ko": "슈아죌 구",
-      "lt": "Šuazelis (Sent Lusija)",
-      "nl": "Choiseul",
-      "pl": "Choiseul (dystrykt)",
-      "ru": "Шуазёль (приход)",
-      "sv": "Choiseul (kvarter i Saint Lucia, lat 13,79, long -61,03)",
-      "tr": "Choiseul (şehir)",
-      "ur": "چویسول کوارٹر",
-      "vi": "Choiseul (quận)",
-      "ceb": "Choiseul (baranggay sa Saint Lucia, lat 13,79, long -61,03)",
-      "zh": "舒瓦瑟爾區",
-      "ccp": "𑄇𑄰𑄱𑄥𑄨𑄅𑄪𑄣𑄴"
-    },
-    "comments": null
-  },
-  "10": {
-    "name": "Soufrière",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Soufrière",
-      "en": "Soufrière",
-      "es": "Soufrière",
-      "fa": "بخش سوفریر",
-      "fr": "District de Soufrière",
-      "he": "סופרייר",
-      "it": "quartiere di Soufrière",
-      "ja": "スフレ (セントルシア)",
-      "ko": "수프리에르 구",
-      "lt": "Sufrieras",
-      "nl": "Soufrière",
-      "pl": "Soufrière",
-      "pt": "Soufrière",
-      "ru": "Суфриер",
-      "sv": "Soufrière (kvarter)",
-      "tr": "Soufrière",
-      "vi": "Soufrière",
-      "ceb": "Soufrière (baranggay)",
-      "zh": "蘇弗里耶爾區",
-      "ccp": "𑄥𑄯𑄜𑄳𑄢𑄭𑄠𑄢𑄴",
-      "mk": "Суфриер"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

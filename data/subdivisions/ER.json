@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Anseba",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Anseba",
     "geo": {
       "latitude": 16.4745531,
@@ -60,11 +60,12 @@
       "yue": "安塞巴地區",
       "no": "Anseba"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DK": {
     "name": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
-    "code": null,
+    "code": "DK",
     "unofficial_names": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
     "geo": {
       "latitude": 13.5137103,
@@ -123,11 +124,12 @@
       "yue": "南紅海地區",
       "no": "Debubawi Keyih Bahri"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DU": {
     "name": "Debub",
-    "code": null,
+    "code": "DU",
     "unofficial_names": "Debub",
     "geo": {
       "latitude": 14.9478692,
@@ -186,11 +188,12 @@
       "yue": "南部地區",
       "no": "Debub"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "GB": {
     "name": "Gash-Barka",
-    "code": null,
+    "code": "GB",
     "unofficial_names": "Gash-Barka",
     "geo": {
       "latitude": 15.4068825,
@@ -248,11 +251,12 @@
       "yue": "加什-巴爾卡地區",
       "no": "Gash-Barka"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MA": {
     "name": "Maakel [Maekel]",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Maakel [Maekel]",
     "geo": {
       "latitude": 15.3551409,
@@ -311,11 +315,12 @@
       "yue": "中部地區",
       "no": "Maekel"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SK": {
     "name": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
-    "code": null,
+    "code": "SK",
     "unofficial_names": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
     "geo": {
       "latitude": 16.2583997,
@@ -373,7 +378,8 @@
       "yue": "北紅海地區",
       "no": "Semenawi Keyih Bahri"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Andijon",
-    "code": null,
+    "code": "AN",
     "unofficial_names": [
       "Andijon",
       "Andizhan",
@@ -69,11 +69,12 @@
       "mk": "Андиџанска област",
       "no": "Andijan region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BU": {
     "name": "Buxoro",
-    "code": null,
+    "code": "BU",
     "unofficial_names": [
       "Boukhara",
       "Buchara",
@@ -143,11 +144,12 @@
       "mk": "Бухарска област",
       "no": "Bukhara region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "FA": {
     "name": "Farg‘ona",
-    "code": null,
+    "code": "FA",
     "unofficial_names": [
       "Farghona",
       "Fergana",
@@ -215,11 +217,12 @@
       "mk": "Ферганска област",
       "no": "Fergana region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "JI": {
     "name": "Jizzax",
-    "code": null,
+    "code": "JI",
     "unofficial_names": [
       "Cizah",
       "Cizak",
@@ -286,11 +289,12 @@
       "mk": "Џизачка област",
       "no": "Jizzakh region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NG": {
     "name": "Namangan",
-    "code": null,
+    "code": "NG",
     "unofficial_names": [
       "Namangan",
       "Namaņgan"
@@ -355,11 +359,12 @@
       "mk": "Наманганска област",
       "no": "Namangan region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NW": {
     "name": "Navoiy",
-    "code": null,
+    "code": "NW",
     "unofficial_names": [
       "Navoi",
       "Navoj",
@@ -425,11 +430,12 @@
       "mk": "Навојска област",
       "no": "Navoiy region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "QA": {
     "name": "Qashqadaryo",
-    "code": null,
+    "code": "QA",
     "unofficial_names": [
       "Kashkadar",
       "Kashkadaria",
@@ -499,11 +505,12 @@
       "mk": "Кашкадарјанска област",
       "no": "Qashqadryo region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "QR": {
     "name": "Qoraqalpog‘iston Respublikasi",
-    "code": null,
+    "code": "QR",
     "unofficial_names": [
       "Karakalpakistan",
       "Qoraqalpoghiston",
@@ -581,11 +588,12 @@
       "mk": "Каракалпакстан",
       "no": "Karakalpakstan"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "SA": {
     "name": "Samarqand",
-    "code": null,
+    "code": "SA",
     "unofficial_names": [
       "Samarqand",
       "Samarķand",
@@ -654,11 +662,12 @@
       "mk": "Самаркандска област",
       "no": "Samarqand region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SI": {
     "name": "Sirdaryo",
-    "code": null,
+    "code": "SI",
     "unofficial_names": [
       "Sirdare",
       "Syrdarja",
@@ -722,11 +731,12 @@
       "mk": "Сирдарјанска област",
       "no": "Sirdarya region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SU": {
     "name": "Surxondaryo",
-    "code": null,
+    "code": "SU",
     "unofficial_names": [
       "Surkhondar"
     ],
@@ -792,11 +802,12 @@
       "mk": "Сурхандарјанска област",
       "no": "Surxondaryo region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TK": {
     "name": "Toshkent City",
-    "code": null,
+    "code": "TK",
     "unofficial_names": "Toshkent City",
     "geo": {
       "latitude": 41.266667,
@@ -887,11 +898,12 @@
       "no": "Tasjkent",
       "yo_BJ": "Tashkent"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "TO": {
     "name": "Toshkent",
-    "code": null,
+    "code": "TO",
     "unofficial_names": [
       "Taškent",
       "Toshkent",
@@ -962,11 +974,12 @@
       "mk": "Ташкентска област",
       "no": "Tashkent region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "XO": {
     "name": "Xorazm",
-    "code": null,
+    "code": "XO",
     "unofficial_names": [
       "Khorazm"
     ],
@@ -1030,7 +1043,8 @@
       "mk": "Хорезмска област",
       "no": "Xorazm region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "BB": {
     "name": "Brandenburg",
-    "code": null,
+    "code": "BB",
     "unofficial_names": [
       "Brandenbourg",
       "Brandenburgo"
@@ -95,11 +95,12 @@
       "no": "Brandenburg",
       "yo_BJ": "Brandenburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BE": {
     "name": "Berlin",
-    "code": null,
+    "code": "BE",
     "unofficial_names": [
       "Berlín"
     ],
@@ -199,11 +200,12 @@
       "no": "Berlin",
       "yo_BJ": "Berlin"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BW": {
     "name": "Baden-Württemberg",
-    "code": null,
+    "code": "BW",
     "unofficial_names": "Baden-Württemberg",
     "geo": {
       "latitude": 48.6616037,
@@ -293,11 +295,12 @@
       "no": "Baden-Württemberg",
       "yo_BJ": "Baden-Württemberg"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BY": {
     "name": "Bayern",
-    "code": null,
+    "code": "BY",
     "unofficial_names": [
       "Bavière",
       "Bayern",
@@ -393,11 +396,12 @@
       "no": "Bayern",
       "yo_BJ": "Bavaria"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HB": {
     "name": "Bremen",
-    "code": null,
+    "code": "HB",
     "unofficial_names": [
       "Brème"
     ],
@@ -485,11 +489,12 @@
       "no": "Bremen",
       "yo_BJ": "Bremen"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HE": {
     "name": "Hessen",
-    "code": null,
+    "code": "HE",
     "unofficial_names": [
       "Hessen",
       "Hesse"
@@ -583,11 +588,12 @@
       "no": "Hessen",
       "yo_BJ": "Hesse"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HH": {
     "name": "Hamburg",
-    "code": null,
+    "code": "HH",
     "unofficial_names": [
       "Amburgo",
       "Hambourg",
@@ -687,11 +693,12 @@
       "no": "Hamburg",
       "yo_BJ": "Hamburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MV": {
     "name": "Mecklenburg-Vorpommern",
-    "code": null,
+    "code": "MV",
     "unofficial_names": [
       "Mecklenburg-Vorpommern"
     ],
@@ -780,11 +787,12 @@
       "no": "Mecklenburg-Vorpommern",
       "yo_BJ": "Mecklenburg-Vorpommern"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NI": {
     "name": "Niedersachsen",
-    "code": null,
+    "code": "NI",
     "unofficial_names": [
       "Niedersachsen"
     ],
@@ -874,11 +882,12 @@
       "no": "Niedersachsen",
       "yo_BJ": "Lower Saxony"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NW": {
     "name": "Nordrhein-Westfalen",
-    "code": null,
+    "code": "NW",
     "unofficial_names": [
       "Nordrhein-Westfalen",
       "Rhénanie-Westphalie"
@@ -969,11 +978,12 @@
       "no": "Nordrhein-Westfalen",
       "yo_BJ": "Nordrhein-Westfalen"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RP": {
     "name": "Rheinland-Pfalz",
-    "code": null,
+    "code": "RP",
     "unofficial_names": [
       "Rheinland-Pfalz",
       "Rhénanie-Palatinat",
@@ -1063,11 +1073,12 @@
       "no": "Rheinland-Pfalz",
       "yo_BJ": "Rhineland-Palatinate"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SH": {
     "name": "Schleswig-Holstein",
-    "code": null,
+    "code": "SH",
     "unofficial_names": "Schleswig-Holstein",
     "geo": {
       "latitude": 54.21936720000001,
@@ -1154,11 +1165,12 @@
       "no": "Schleswig-Holstein",
       "yo_BJ": "Schleswig-Holstein"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SL": {
     "name": "Saarland",
-    "code": null,
+    "code": "SL",
     "unofficial_names": "Saarland",
     "geo": {
       "latitude": 49.3964234,
@@ -1249,11 +1261,12 @@
       "no": "Saarland",
       "yo_BJ": "Saarland"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SN": {
     "name": "Sachsen",
-    "code": null,
+    "code": "SN",
     "unofficial_names": [
       "Sachsen"
     ],
@@ -1344,11 +1357,12 @@
       "no": "Sachsen",
       "yo_BJ": "Saxony"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ST": {
     "name": "Sachsen-Anhalt",
-    "code": null,
+    "code": "ST",
     "unofficial_names": "Sachsen-Anhalt",
     "geo": {
       "latitude": 51.9502649,
@@ -1434,11 +1448,12 @@
       "no": "Sachsen-Anhalt",
       "yo_BJ": "Saxony-Anhalt"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TH": {
     "name": "Thüringen",
-    "code": null,
+    "code": "TH",
     "unofficial_names": [
       "Thüringen"
     ],
@@ -1529,7 +1544,8 @@
       "no": "Thüringen",
       "yo_BJ": "Thuringia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

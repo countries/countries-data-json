@@ -1,7 +1,7 @@
 {
   "EC": {
     "name": "Eastern Cape",
-    "code": null,
+    "code": "EC",
     "unofficial_names": [
       "Oos Kaap"
     ],
@@ -80,11 +80,12 @@
       "no": "Eastern Cape",
       "yo_BJ": "Eastern Cape"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "FS": {
     "name": "Free State",
-    "code": null,
+    "code": "FS",
     "unofficial_names": [
       "Foreistata",
       "Vrystaat"
@@ -166,14 +167,13 @@
       "no": "Free State",
       "yo_BJ": "Free State"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "GT": {
+  "GP": {
     "name": "Gauteng",
-    "code": null,
-    "unofficial_names": [
-      "Pretoria-Witwatersrand-Vereeniging"
-    ],
+    "code": "GP",
+    "unofficial_names": null,
     "geo": {
       "latitude": -26.2707593,
       "longitude": 28.1122679,
@@ -250,11 +250,12 @@
       "no": "Gauteng",
       "yo_BJ": "Gauteng"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LP": {
     "name": "Limpopo",
-    "code": null,
+    "code": "LP",
     "unofficial_names": "Limpopo",
     "geo": {
       "latitude": -23.4012946,
@@ -331,11 +332,12 @@
       "no": "Limpopo",
       "yo_BJ": "Limpopo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MP": {
     "name": "Mpumalanga",
-    "code": null,
+    "code": "MP",
     "unofficial_names": [
       "eMpumalanga"
     ],
@@ -413,11 +415,12 @@
       "no": "Mpumalanga",
       "yo_BJ": "Mpumalanga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NC": {
     "name": "Northern Cape",
-    "code": null,
+    "code": "NC",
     "unofficial_names": "Northern Cape",
     "geo": {
       "latitude": -29.0466808,
@@ -493,94 +496,12 @@
       "no": "Northern Cape",
       "yo_BJ": "Northern Cape"
     },
-    "comments": null
-  },
-  "NL": {
-    "name": "Kwazulu-Natal",
-    "code": null,
-    "unofficial_names": "Kwazulu-Natal",
-    "geo": {
-      "latitude": -28.5305539,
-      "longitude": 30.8958242,
-      "min_latitude": -31.0853648,
-      "min_longitude": 28.8734801,
-      "max_latitude": -26.80442,
-      "max_longitude": 32.8909911
-    },
-    "translations": {
-      "en": "KwaZulu-Natal",
-      "af": "KwaZulu-Natal",
-      "ar": "كوازولو ناتال",
-      "be": "Правінцыя Квазулу-Натал",
-      "bg": "Квазулу-Натал",
-      "bn": "কোয়া-জুলু নাটাল প্রদেশ",
-      "ca": "KwaZulu-Natal",
-      "cs": "KwaZulu-Natal",
-      "da": "KwaZulu-Natal",
-      "de": "KwaZulu-Natal",
-      "el": "Νατάλ",
-      "es": "KwaZulu-Natal",
-      "et": "KwaZulu-Natal",
-      "eu": "KwaZulu-Natal",
-      "fa": "کوازولو-ناتال",
-      "fi": "KwaZulu-Natal",
-      "fr": "KwaZulu-Natal",
-      "gl": "KwaZulu-Natal",
-      "gu": "ક્વાઝુલુ-નાતાલ",
-      "he": "קוואזולו-נטאל",
-      "hi": "क्वाज़ूलू-नताल प्रान्त",
-      "hr": "KwaZulu-Natal",
-      "hu": "KwaZulu-Natal",
-      "hy": "Նատալ",
-      "id": "KwaZulu-Natal",
-      "it": "KwaZulu-Natal",
-      "ja": "クワズール・ナタール州",
-      "ka": "კვაზულუ-ნატალი",
-      "kn": "ಕ್ವಾಝುಲು-ನಟಾಲ್",
-      "ko": "콰줄루나탈 주",
-      "lt": "Kvazulu-Natalis",
-      "lv": "Kvazulu-Natāla",
-      "mr": "क्वाझुलू-नाताल",
-      "ms": "KwaZulu-Natal",
-      "nb": "KwaZulu-Natal",
-      "nl": "KwaZoeloe-Natal",
-      "pl": "KwaZulu-Natal",
-      "pt": "KwaZulu-Natal",
-      "ro": "Provincia KwaZulu-Natal",
-      "ru": "Квазулу-Натал",
-      "si": "ක්වාසුලු-නටාල්",
-      "sk": "Kwa-Zulu Natal",
-      "sr": "Квазулу-Натал",
-      "sv": "KwaZulu-Natal",
-      "sw": "KwaZulu-Natal",
-      "ta": "குவாசுலு-நதால்",
-      "te": "క్వాజులు-నేటల్",
-      "th": "ควาซูลู นาทาล",
-      "tr": "KwaZulu-Natal",
-      "uk": "Квазулу-Наталь",
-      "ur": "کوازولو نیٹل",
-      "vi": "KwaZulu-Natal",
-      "zh": "夸祖魯-納塔爾省",
-      "zu": "KwaZulu-Natal",
-      "cy": "KwaZulu-Natal",
-      "ceb": "Province of KwaZulu-Natal",
-      "sr_Latn": "Kvazulu-Natal",
-      "yue_Hans": "夸祖鲁-纳塔尔",
-      "ccp": "𑄤𑄎𑄪𑄣𑄪-𑄚𑄑𑄣𑄴",
-      "so": "KwaZulu-Natal Province",
-      "ml": "ക്വാസുളു-നറ്റാൽ",
-      "yue": "夸祖魯-納塔爾",
-      "az": "Kvazulu-Natal vilayəti",
-      "yo": "KwaZulu-Natal",
-      "mk": "Натал",
-      "no": "KwaZulu-Natal",
-      "yo_BJ": "KwaZulu-Natal"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NW": {
     "name": "North-West",
-    "code": null,
+    "code": "NW",
     "unofficial_names": "North-West",
     "geo": {
       "latitude": -26.6638599,
@@ -655,11 +576,12 @@
       "mk": "Северозапад",
       "no": "North West"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WC": {
     "name": "Western Cape",
-    "code": null,
+    "code": "WC",
     "unofficial_names": [
       "Wes Kaap"
     ],
@@ -739,21 +661,12 @@
       "no": "Western Cape",
       "yo_BJ": "Western Cape"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
-  "GP": {
-    "name": "Gauteng",
-    "code": null,
-    "unofficial_names": null,
-    "geo": null,
-    "translations": {
-      "en": "Gauteng"
-    },
-    "comments": null
-  },
-  "KZN": {
+  "ZN": {
     "name": "KwaZulu-Natal",
-    "code": null,
+    "code": "ZN",
     "unofficial_names": null,
     "geo": {
       "latitude": -28.5305539,
@@ -764,9 +677,76 @@
       "max_longitude": 32.8909911
     },
     "translations": {
-      "en": "KwaZulu-Natal"
+      "en": "KwaZulu-Natal",
+      "af": "KwaZulu-Natal",
+      "ar": "كوازولو ناتال",
+      "be": "Правінцыя Квазулу-Натал",
+      "bg": "Квазулу-Натал",
+      "bn": "কোয়া-জুলু নাটাল প্রদেশ",
+      "ca": "KwaZulu-Natal",
+      "cs": "KwaZulu-Natal",
+      "da": "KwaZulu-Natal",
+      "de": "KwaZulu-Natal",
+      "el": "Νατάλ",
+      "es": "KwaZulu-Natal",
+      "et": "KwaZulu-Natal",
+      "eu": "KwaZulu-Natal",
+      "fa": "کوازولو-ناتال",
+      "fi": "KwaZulu-Natal",
+      "fr": "KwaZulu-Natal",
+      "gl": "KwaZulu-Natal",
+      "gu": "ક્વાઝુલુ-નાતાલ",
+      "he": "קוואזולו-נטאל",
+      "hi": "क्वाज़ूलू-नताल प्रान्त",
+      "hr": "KwaZulu-Natal",
+      "hu": "KwaZulu-Natal",
+      "hy": "Նատալ",
+      "id": "KwaZulu-Natal",
+      "it": "KwaZulu-Natal",
+      "ja": "クワズール・ナタール州",
+      "ka": "კვაზულუ-ნატალი",
+      "kn": "ಕ್ವಾಝುಲು-ನಟಾಲ್",
+      "ko": "콰줄루나탈 주",
+      "lt": "Kvazulu-Natalis",
+      "lv": "Kvazulu-Natāla",
+      "mr": "क्वाझुलू-नाताल",
+      "ms": "KwaZulu-Natal",
+      "nb": "KwaZulu-Natal",
+      "nl": "KwaZoeloe-Natal",
+      "pl": "KwaZulu-Natal",
+      "pt": "KwaZulu-Natal",
+      "ro": "Provincia KwaZulu-Natal",
+      "ru": "Квазулу-Натал",
+      "si": "ක්වාසුලු-නටාල්",
+      "sk": "Kwa-Zulu Natal",
+      "sr": "Квазулу-Натал",
+      "sv": "KwaZulu-Natal",
+      "sw": "KwaZulu-Natal",
+      "ta": "குவாசுலு-நதால்",
+      "te": "క్వాజులు-నేటల్",
+      "th": "ควาซูลู นาทาล",
+      "tr": "KwaZulu-Natal",
+      "uk": "Квазулу-Наталь",
+      "ur": "کوازولو نیٹل",
+      "vi": "KwaZulu-Natal",
+      "zh": "夸祖魯-納塔爾省",
+      "zu": "KwaZulu-Natal",
+      "cy": "KwaZulu-Natal",
+      "ceb": "Province of KwaZulu-Natal",
+      "sr_Latn": "Kvazulu-Natal",
+      "yue_Hans": "夸祖鲁-纳塔尔",
+      "ccp": "𑄤𑄎𑄪𑄣𑄪-𑄚𑄑𑄣𑄴",
+      "so": "KwaZulu-Natal Province",
+      "ml": "ക്വാസുളു-നറ്റാൽ",
+      "yue": "夸祖魯-納塔爾",
+      "az": "Kvazulu-Natal vilayəti",
+      "yo": "KwaZulu-Natal",
+      "mk": "Натал",
+      "no": "KwaZulu-Natal",
+      "yo_BJ": "KwaZulu-Natal"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

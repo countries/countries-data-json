@@ -4,7 +4,8 @@
       "Åland"
     ],
     "translations": {
-      "en": "Åland Islands"
+      "en": "Åland Islands",
+      "ccp": "𑄃𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
     "geo": {
       "latitude": 60.177002,
@@ -14,7 +15,9 @@
       "max_latitude": 60.6547739,
       "max_longitude": 21.1111317
     },
-    "name": "Ahvenanmaan maakunta"
+    "name": "Ahvenanmaan maakunta",
+    "code": "01",
+    "type": "region"
   },
   "02": {
     "unofficial_names": [
@@ -66,9 +69,18 @@
       "uk": "Південна Карелія",
       "ur": "جنوبی کاریلیا",
       "vi": "Nam Karelia",
-      "zh": "南卡累利阿區"
+      "zh": "南卡累利阿區",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄢𑄬𑄣𑄨𑄠",
+      "ceb": "Etelä-Karjala",
+      "ga": "An Chairéil Theas",
+      "lv": "Dienvidkarēlija",
+      "no": "Södra Karelen",
+      "sq": "Karelia Jugore",
+      "sr_Latn": "Južna Karelija"
     },
-    "name": "Etelä-Karjala"
+    "name": "Etelä-Karjala",
+    "code": "02",
+    "type": "region"
   },
   "03": {
     "unofficial_names": [
@@ -118,9 +130,18 @@
       "tr": "Güney Ostrobothnia",
       "uk": "Південна Погʼянмаа",
       "ur": "جنوبی اوستروبوثنیہ",
-      "vi": "Phía Nam Ostrobothnia"
+      "vi": "Phía Nam Ostrobothnia",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "ceb": "Etelä-Pohjanmaa",
+      "hy": "Հարավային Օստրոբոտնիա",
+      "lv": "Dienvidpohjanmā",
+      "no": "Södra Österbotten",
+      "sq": "Ostrobothnia Jugore",
+      "sr_Latn": "Južna Ostrobotnija"
     },
-    "name": "Etelä-Pohjanmaa"
+    "name": "Etelä-Pohjanmaa",
+    "code": "03",
+    "type": "region"
   },
   "04": {
     "unofficial_names": [
@@ -171,9 +192,18 @@
       "tr": "Güney Savonya",
       "uk": "Південна Савонія",
       "ur": "سدرن ساوونیا",
-      "vi": "Phía Nam Savonia"
+      "vi": "Phía Nam Savonia",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄞𑄮𑄚𑄨𑄠",
+      "ceb": "Southern Savonia",
+      "hu": "Dél-Savo",
+      "lv": "Dienvidsavo",
+      "no": "Södra Savolax",
+      "sq": "Savonia Jugore",
+      "sr_Latn": "Južna Savonija"
     },
-    "name": "Etelä-Savo"
+    "name": "Etelä-Savo",
+    "code": "04",
+    "type": "region"
   },
   "05": {
     "unofficial_names": [
@@ -226,9 +256,19 @@
       "tr": "Kainuu",
       "uk": "Кайнуу",
       "ur": "کاینو",
-      "vi": "Kainuu"
+      "vi": "Kainuu",
+      "ccp": "𑄇𑄭𑄚𑄪",
+      "ceb": "Kainuu",
+      "ga": "Kainuu",
+      "lv": "Kainū",
+      "mk": "Каину",
+      "no": "Kajanaland",
+      "sq": "Kainuu",
+      "sr_Latn": "Kajinu"
     },
-    "name": "Kainuu"
+    "name": "Kainuu",
+    "code": "05",
+    "type": "region"
   },
   "06": {
     "unofficial_names": [
@@ -276,9 +316,17 @@
       "tr": "Tavastia Proper",
       "uk": "Канта-Гяме",
       "ur": "تاواستیا پروپر",
-      "vi": "Tavastia Proper"
+      "vi": "Tavastia Proper",
+      "ccp": "𑄑𑄞𑄌𑄴𑄑𑄨𑄠 𑄛𑄳𑄢𑄮𑄛𑄢𑄴",
+      "ceb": "Häme",
+      "lv": "Kantaheme",
+      "no": "Egentliga Tavastland",
+      "sq": "Tavastia Proper",
+      "sr_Latn": "Uža Tavastija"
     },
-    "name": "Kanta-Häme"
+    "name": "Kanta-Häme",
+    "code": "06",
+    "type": "region"
   },
   "07": {
     "unofficial_names": [
@@ -328,9 +376,18 @@
       "tr": "Orta Ostrobothnia",
       "uk": "Центральна Погʼянмаа",
       "ur": "وسطی اوستروبوثنیہ",
-      "vi": "Miền Trung Ostrobothnia"
+      "vi": "Miền Trung Ostrobothnia",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "ceb": "Keski-Pohjanmaa",
+      "hy": "Կենտրոնական Օստրոբոտնիա",
+      "lv": "Viduspohjanmā",
+      "no": "Mellersta Österbotten",
+      "sq": "Ostrobothnia Qendrore",
+      "sr_Latn": "Središnja Ostrobotnija"
     },
-    "name": "Keski-Pohjanmaa"
+    "name": "Keski-Pohjanmaa",
+    "code": "07",
+    "type": "region"
   },
   "08": {
     "unofficial_names": [
@@ -379,9 +436,19 @@
       "tr": "Orta Finlandiya",
       "uk": "Центральна Фінляндія",
       "ur": "وسطی فن لینڈ",
-      "vi": "Miền Trung Phần Lan"
+      "vi": "Miền Trung Phần Lan",
+      "be": "Цэнтральная Фінляндыя",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄜𑄨𑄚𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ceb": "Keski-Suomi",
+      "hy": "Կենտրոնական Ֆինլանդիա",
+      "lv": "Vidussomija",
+      "no": "Mellersta Finland",
+      "sq": "Finlanda Qendrore",
+      "sr_Latn": "Središnja Finska"
     },
-    "name": "Keski-Suomi"
+    "name": "Keski-Suomi",
+    "code": "08",
+    "type": "region"
   },
   "09": {
     "unofficial_names": [
@@ -431,9 +498,18 @@
       "tr": "Kymenlaakso",
       "uk": "Кюменлааксо",
       "ur": "کومنلاکسو",
-      "vi": "Kymenlaakso"
+      "vi": "Kymenlaakso",
+      "be": "Кюменлаакса",
+      "ccp": "𑄇𑄭𑄟𑄬𑄚𑄴𑄣𑄇𑄴𑄥𑄮",
+      "ceb": "Kymenlaakso",
+      "lv": "Kjumenlākso",
+      "no": "Kymmenedalen",
+      "sq": "Kymenlaakso",
+      "sr_Latn": "Kimenska Dolina"
     },
-    "name": "Kymenlaakso"
+    "name": "Kymenlaakso",
+    "code": "09",
+    "type": "region"
   },
   "10": {
     "unofficial_names": [
@@ -479,7 +555,15 @@
       "tr": "Lappi",
       "uk": "Лапландія",
       "ur": "لاپلند",
-      "vi": "Lapland"
+      "vi": "Lapland",
+      "af": "Lapland",
+      "bg": "Лапландия",
+      "ccp": "𑄣𑄛𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ceb": "Lappi (lalawigan)",
+      "mk": "Лапонија",
+      "no": "Lappland",
+      "sq": "Lapland",
+      "sr_Latn": "Laponija"
     },
     "geo": {
       "latitude": 67.9222304,
@@ -489,7 +573,9 @@
       "max_latitude": 70.092444,
       "max_longitude": 30.016886
     },
-    "name": "Lappi"
+    "name": "Lappi",
+    "code": "10",
+    "type": "region"
   },
   "11": {
     "unofficial_names": [
@@ -540,9 +626,20 @@
       "tr": "Pirkanmaa",
       "uk": "Пірканмаа",
       "ur": "پیرکانما",
-      "vi": "Pirkanmaa"
+      "vi": "Pirkanmaa",
+      "be": "Пірканмаа",
+      "ccp": "𑄛𑄨𑄢𑄴𑄇𑄚𑄴𑄟𑄳𑄦",
+      "ceb": "Pirkanmaa",
+      "ga": "Pirkanmaa",
+      "hy": "Պիրկանմաա",
+      "lv": "Pirkanmā",
+      "no": "Birkaland",
+      "sq": "Pirkanmaa",
+      "sr_Latn": "Pirkanska zemlja"
     },
-    "name": "Pirkanmaa"
+    "name": "Pirkanmaa",
+    "code": "11",
+    "type": "region"
   },
   "12": {
     "unofficial_names": [
@@ -580,9 +677,17 @@
       "sv": "Österbotten",
       "tr": "Ostrobothnia",
       "uk": "Погʼянмаа",
-      "ur": "اوستروبوثنیہ"
+      "ur": "اوستروبوثنیہ",
+      "ccp": "𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "ceb": "Pohjanmaa",
+      "hu": "Pohjanmaa",
+      "no": "Österbotten",
+      "sq": "Ostrobothnia",
+      "sr_Latn": "Ostrobotnija"
     },
-    "name": "Pohjanmaa"
+    "name": "Pohjanmaa",
+    "code": "12",
+    "type": "region"
   },
   "13": {
     "unofficial_names": "Norra Karelen",
@@ -632,9 +737,18 @@
       "tr": "Kuzey Karelya",
       "uk": "Північна Карелія",
       "ur": "شمالی کاریلیا",
-      "vi": "Bắc Karelia"
+      "vi": "Bắc Karelia",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄬𑄢𑄬𑄣𑄨𑄚",
+      "ceb": "Pohjois-Karjala",
+      "lv": "Ziemeļkarēlija",
+      "mk": "Северна Карелија",
+      "no": "Norra Karelen",
+      "sq": "Karelia Veriore",
+      "sr_Latn": "Severna Karelija"
     },
-    "name": "Pohjois-Karjala"
+    "name": "Pohjois-Karjala",
+    "code": "13",
+    "type": "region"
   },
   "14": {
     "unofficial_names": "Norra Österbotten",
@@ -684,9 +798,19 @@
       "tr": "Kuzey Ostrobothnia",
       "uk": "Північна Погʼянмаа",
       "ur": "شمالی اوستروبوثنیہ",
-      "vi": "Phía Bắc Ostrobothnia"
+      "vi": "Phía Bắc Ostrobothnia",
+      "be": "Паўночная Астработнія",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄮𑄝𑄮𑄖𑄴𑄚𑄨𑄠",
+      "ceb": "Pohjois-Pohjanmaa",
+      "lv": "Ziemeļpohjanmā",
+      "mk": "Северна Остроботнија",
+      "no": "Norra Österbotten",
+      "sq": "Ostrobothnia Veriore",
+      "sr_Latn": "Severna Ostrobotnija"
     },
-    "name": "Pohjois-Pohjanmaa"
+    "name": "Pohjois-Pohjanmaa",
+    "code": "14",
+    "type": "region"
   },
   "15": {
     "unofficial_names": "Norra Savolax",
@@ -737,9 +861,18 @@
       "tr": "Kuzey Savonya",
       "uk": "Північна Савонія",
       "ur": "شمالی ساوونیا",
-      "vi": "Phía Bắc Savonia"
+      "vi": "Phía Bắc Savonia",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄧𑄞𑄮𑄚𑄨𑄠",
+      "ceb": "Pohjois-Savo",
+      "lv": "Ziemeļsavo",
+      "mk": "Северна Савонија",
+      "no": "Norra Savolax",
+      "sq": "Savonia Veriore",
+      "sr_Latn": "Severna Savonija"
     },
-    "name": "Pohjois-Savo"
+    "name": "Pohjois-Savo",
+    "code": "15",
+    "type": "region"
   },
   "16": {
     "unofficial_names": "Päijänne-Tavastland",
@@ -786,9 +919,19 @@
       "tr": "Päijänne Tavastia",
       "uk": "Пяйят-Гяме",
       "ur": "پائینے تاواستیا",
-      "vi": "Päijänne Tavastia"
+      "vi": "Päijänne Tavastia",
+      "ccp": "𑄛𑄭𑄎𑄚𑄬 𑄑𑄞𑄌𑄴𑄑𑄨𑄠",
+      "ceb": "Päijänne-Tavastland",
+      "ga": "Päijät-Häme",
+      "hy": "Պյայատ-Հյամե",
+      "lv": "Peijetheme",
+      "no": "Päijänne-Tavastland",
+      "sq": "Päijänne Tavastia",
+      "sr_Latn": "Pejenska Tavastija"
     },
-    "name": "Päijät-Häme"
+    "name": "Päijät-Häme",
+    "code": "16",
+    "type": "region"
   },
   "17": {
     "unofficial_names": "Satakunda",
@@ -837,9 +980,22 @@
       "tr": "Satakunta",
       "uk": "Сатакунта",
       "ur": "ساتاکونتا",
-      "vi": "Satakunta"
+      "vi": "Satakunta",
+      "az": "Satakunta",
+      "be": "Сатакунта",
+      "bs": "Satakunta",
+      "ccp": "𑄥𑄑𑄇𑄪𑄚𑄴𑄑",
+      "ceb": "Satakunta",
+      "ga": "Satakunta",
+      "hy": "Սատակունա",
+      "lv": "Satakunta",
+      "no": "Satakunta",
+      "sq": "Satakunta",
+      "sr_Latn": "Satakunta"
     },
-    "name": "Satakunta"
+    "name": "Satakunta",
+    "code": "17",
+    "type": "region"
   },
   "18": {
     "unofficial_names": "Nyland",
@@ -891,9 +1047,20 @@
       "tr": "Uusimaa",
       "uk": "Уусімаа",
       "ur": "وسیما",
-      "vi": "Uusimaa"
+      "vi": "Uusimaa",
+      "ccp": "𑄅𑄫𑄪𑄥𑄨𑄟𑄳𑄦",
+      "ceb": "Uusimaa",
+      "ga": "An Nualainn",
+      "hy": "Ուուսիմաա",
+      "lv": "Ūsimā",
+      "mk": "Усима",
+      "no": "Nyland",
+      "sq": "Uusimaa",
+      "sr_Latn": "Nova Zemlja"
     },
-    "name": "Uusimaa"
+    "name": "Uusimaa",
+    "code": "18",
+    "type": "region"
   },
   "19": {
     "unofficial_names": "Egentliga Finland",
@@ -926,7 +1093,7 @@
       "mr": "फिनलंड प्रॉपर",
       "ms": "Finland Proper",
       "nb": "Egentliga Finland",
-      "nl": "Varsinais-Suomiapplicant_information_controller",
+      "nl": "Varsinais-Suomi",
       "pl": "Varsinais-Suomi",
       "pt": "Finlândia Própria",
       "ro": "Finlanda Propriu-Zisă",
@@ -941,9 +1108,17 @@
       "tr": "Güneybatı Finlandiya",
       "uk": "Південно-західна Фінляндія",
       "ur": "جنوب مغربی فن لینڈ",
-      "vi": "Finland Proper"
+      "vi": "Finland Proper",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄜𑄨𑄚𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
+      "ceb": "Varsinais-Suomi",
+      "lv": "Dienvidrietumsomija",
+      "no": "Egentliga Finland",
+      "sq": "Finlanda Jugperëndimore",
+      "sr_Latn": "Uža Finska"
     },
-    "name": "Varsinais-Suomi"
+    "name": "Varsinais-Suomi",
+    "code": "19",
+    "type": "region"
   }
 }
 

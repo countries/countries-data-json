@@ -1,7 +1,7 @@
 {
   "AC": {
     "name": "Acre",
-    "code": null,
+    "code": "AC",
     "unofficial_names": "Acre",
     "geo": {
       "latitude": -9.0237964,
@@ -82,11 +82,12 @@
       "no": "Acre",
       "yo_BJ": "Acre"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AL": {
     "name": "Alagoas",
-    "code": null,
+    "code": "AL",
     "unofficial_names": "Alagoas",
     "geo": {
       "latitude": -9.5713058,
@@ -169,11 +170,12 @@
       "no": "Alagoas",
       "yo_BJ": "Alagoas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AM": {
     "name": "Amazonas",
-    "code": null,
+    "code": "AM",
     "unofficial_names": "Amazonas",
     "geo": {
       "latitude": -3.4168427,
@@ -254,11 +256,12 @@
       "no": "Amazonas",
       "yo_BJ": "Amazonas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AP": {
     "name": "Amapá",
-    "code": null,
+    "code": "AP",
     "unofficial_names": "Amapá",
     "geo": {
       "latitude": 2.0447397,
@@ -338,11 +341,12 @@
       "no": "Amapá",
       "yo_BJ": "Amapá"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BA": {
     "name": "Bahia",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Bahia",
     "geo": {
       "latitude": -12.579738,
@@ -425,11 +429,12 @@
       "no": "Bahia",
       "yo_BJ": "Bahia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CE": {
     "name": "Ceará",
-    "code": null,
+    "code": "CE",
     "unofficial_names": "Ceará",
     "geo": {
       "latitude": -5.4983977,
@@ -509,11 +514,12 @@
       "no": "Ceará",
       "yo_BJ": "Ceará"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "DF": {
     "name": "Distrito Federal",
-    "code": null,
+    "code": "DF",
     "unofficial_names": "Distrito Federal",
     "geo": {
       "latitude": -15.826691,
@@ -589,11 +595,12 @@
       "no": "Distrito Federal",
       "yo_BJ": "Brazilian Federal District"
     },
-    "comments": null
+    "comments": null,
+    "type": "federal_district"
   },
   "ES": {
     "name": "Espírito Santo",
-    "code": null,
+    "code": "ES",
     "unofficial_names": "Espírito Santo",
     "geo": {
       "latitude": -19.1834229,
@@ -672,11 +679,12 @@
       "no": "Espírito Santo",
       "yo_BJ": "Espírito Santo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GO": {
     "name": "Goiás",
-    "code": null,
+    "code": "GO",
     "unofficial_names": "Goiás",
     "geo": {
       "latitude": -15.93397,
@@ -755,11 +763,12 @@
       "no": "Goiás",
       "yo_BJ": "Goiás"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MA": {
     "name": "Maranhão",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Maranhão",
     "geo": {
       "latitude": -4.9609498,
@@ -839,11 +848,12 @@
       "no": "Maranhão",
       "yo_BJ": "Maranhão"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MG": {
     "name": "Minas Gerais",
-    "code": null,
+    "code": "MG",
     "unofficial_names": "Minas Gerais",
     "geo": {
       "latitude": -18.512178,
@@ -925,11 +935,12 @@
       "no": "Minas Gerais",
       "yo_BJ": "Minas Gerais"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MS": {
     "name": "Mato Grosso do Sul",
-    "code": null,
+    "code": "MS",
     "unofficial_names": "Mato Grosso do Sul",
     "geo": {
       "latitude": -20.7722295,
@@ -1009,11 +1020,12 @@
       "no": "Mato Grosso do Sul",
       "yo_BJ": "Mato Grosso do Sul"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MT": {
     "name": "Mato Grosso",
-    "code": null,
+    "code": "MT",
     "unofficial_names": "Mato Grosso",
     "geo": {
       "latitude": -12.6818712,
@@ -1093,11 +1105,12 @@
       "no": "Mato Grosso",
       "yo_BJ": "Mato Grosso"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PA": {
     "name": "Pará",
-    "code": null,
+    "code": "PA",
     "unofficial_names": "Pará",
     "geo": {
       "latitude": -1.9981271,
@@ -1178,11 +1191,12 @@
       "no": "Pará",
       "yo_BJ": "Pará"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PB": {
     "name": "Paraíba",
-    "code": null,
+    "code": "PB",
     "unofficial_names": "Paraíba",
     "geo": {
       "latitude": -7.239960900000001,
@@ -1263,11 +1277,12 @@
       "no": "Paraíba",
       "yo_BJ": "Paraíba"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PE": {
     "name": "Pernambuco",
-    "code": null,
+    "code": "PE",
     "unofficial_names": "Pernambuco",
     "geo": {
       "latitude": -8.8137173,
@@ -1350,11 +1365,12 @@
       "no": "Pernambuco",
       "yo_BJ": "Pernambuco"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PI": {
     "name": "Piauí",
-    "code": null,
+    "code": "PI",
     "unofficial_names": "Piauí",
     "geo": {
       "latitude": -7.718340100000001,
@@ -1435,11 +1451,12 @@
       "no": "Piauí",
       "yo_BJ": "Piauí"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PR": {
     "name": "Paraná",
-    "code": null,
+    "code": "PR",
     "unofficial_names": "Paraná",
     "geo": {
       "latitude": -25.2520888,
@@ -1519,11 +1536,12 @@
       "no": "Paraná",
       "yo_BJ": "Paraná"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RJ": {
     "name": "Rio de Janeiro",
-    "code": null,
+    "code": "RJ",
     "unofficial_names": "Rio de Janeiro",
     "geo": {
       "latitude": -22.9068467,
@@ -1597,11 +1615,12 @@
       "mk": "Рио де Жанеиро",
       "no": "Rio de Janeiro"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RN": {
     "name": "Rio Grande do Norte",
-    "code": null,
+    "code": "RN",
     "unofficial_names": "Rio Grande do Norte",
     "geo": {
       "latitude": -5.402580299999999,
@@ -1682,11 +1701,12 @@
       "no": "Rio Grande do Norte",
       "yo_BJ": "Rio Grande do Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RO": {
     "name": "Rondônia",
-    "code": null,
+    "code": "RO",
     "unofficial_names": "Rondônia",
     "geo": {
       "latitude": -11.5057341,
@@ -1765,11 +1785,12 @@
       "no": "Rondônia",
       "yo_BJ": "Rondônia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RR": {
     "name": "Roraima",
-    "code": null,
+    "code": "RR",
     "unofficial_names": "Roraima",
     "geo": {
       "latitude": 2.7375971,
@@ -1850,11 +1871,12 @@
       "no": "Roraima",
       "yo_BJ": "Roraima"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RS": {
     "name": "Rio Grande do Sul",
-    "code": null,
+    "code": "RS",
     "unofficial_names": "Rio Grande do Sul",
     "geo": {
       "latitude": -30.0346316,
@@ -1941,11 +1963,12 @@
       "no": "Rio Grande do Sul",
       "yo_BJ": "Rio Grande do Sul"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SC": {
     "name": "Santa Catarina",
-    "code": null,
+    "code": "SC",
     "unofficial_names": "Santa Catarina",
     "geo": {
       "latitude": -27.2423392,
@@ -2026,11 +2049,12 @@
       "no": "Santa Catarina",
       "yo_BJ": "Santa Catarina"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SE": {
     "name": "Sergipe",
-    "code": null,
+    "code": "SE",
     "unofficial_names": "Sergipe",
     "geo": {
       "latitude": -10.5740934,
@@ -2111,11 +2135,12 @@
       "no": "Sergipe",
       "yo_BJ": "Sergipe"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SP": {
     "name": "São Paulo",
-    "code": null,
+    "code": "SP",
     "unofficial_names": "São Paulo",
     "geo": {
       "latitude": -23.5505199,
@@ -2199,11 +2224,12 @@
       "no": "São Paulo",
       "yo_BJ": "Sao Paulo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TO": {
     "name": "Tocantins",
-    "code": null,
+    "code": "TO",
     "unofficial_names": "Tocantins",
     "geo": {
       "latitude": -10.17528,
@@ -2282,7 +2308,8 @@
       "no": "Tocantins",
       "yo_BJ": "Tocantins"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

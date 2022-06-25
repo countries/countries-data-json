@@ -1,7 +1,860 @@
 {
+  "00": {
+    "name": "National Capital Region",
+    "code": "00",
+    "unofficial_names": [
+      "National Capital Region",
+      "Pambansang Punong Rehiyon"
+    ],
+    "geo": {
+      "latitude": 14.6090537,
+      "longitude": 121.0222565,
+      "min_latitude": 14.3493861,
+      "min_longitude": 120.9172569,
+      "max_latitude": 14.781217,
+      "max_longitude": 121.132012
+    },
+    "translations": {
+      "en": "Metro Manila",
+      "be": "Сталічны Рэгіён",
+      "ca": "Metro Manila",
+      "de": "Metro Manila",
+      "es": "Gran Manila",
+      "fa": "کلانشهر مانیل",
+      "fi": "Metro Manila",
+      "fr": "Grand Manille",
+      "hi": "मेट्रो मनिला",
+      "hr": "Metro Manila",
+      "id": "Metro Manila",
+      "it": "Regione Capitale Nazionale",
+      "ja": "マニラ首都圏",
+      "ko": "마닐라 대도시",
+      "lt": "Manilos metropolija",
+      "ms": "Metro Manila",
+      "nb": "Metro Manila",
+      "nl": "National Capital Region",
+      "pl": "Region Stołeczny",
+      "pt": "Grande Manila",
+      "ru": "Столичный Регион",
+      "sl": "Metro Manila",
+      "sr": "Метро Манила",
+      "sv": "Metro Manila",
+      "ta": "மணிலா பெருநகரம்",
+      "th": "เมโทรมะนิลา",
+      "tr": "Metro Manila",
+      "uk": "Столичний регіон (Філіппіни)",
+      "ur": "میٹرو منیلا",
+      "vi": "Vùng đô thị Manila",
+      "zh": "馬尼拉大都會",
+      "ceb": "Manila",
+      "sr_Latn": "Metro Manila",
+      "bn": "মেট্রো মানিলা",
+      "yue_Hans": "马尼拉大都会",
+      "ccp": "𑄟𑄬𑄑𑄳𑄢𑄮 𑄟𑄬𑄚𑄨𑄣",
+      "he": "אזור מנילה רבתי",
+      "eu": "Manila Handia",
+      "ml": "മെട്രോ മനില",
+      "cs": "Metro Manila",
+      "yue": "馬尼拉大都會",
+      "my": "မက်ထရို မနီလာ",
+      "mk": "Метро Манила",
+      "no": "Metro Manila"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "01": {
+    "name": "Ilocos",
+    "code": "01",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Regió d’Ilocos",
+      "de": "Ilocos Region",
+      "en": "Ilocos",
+      "es": "Ilocos",
+      "fi": "Ilocosin alue",
+      "fr": "Région d’Ilocos",
+      "hi": "इलोकोस क्षेत्र",
+      "hr": "Ilocos",
+      "id": "Ilocos",
+      "it": "Ilocos",
+      "ja": "イロコス地方",
+      "ko": "일로코스 지방",
+      "lt": "Ilokoso regionas",
+      "nb": "Ilocos Region",
+      "nl": "Ilocos Region",
+      "pl": "Ilocos",
+      "pt": "Ilocos",
+      "ru": "Илокос",
+      "sv": "Ilocosregionen",
+      "ta": "இலோகொஸ் பிராந்தியம்",
+      "tr": "Ilocos Bölgesi",
+      "uk": "Ілокос",
+      "ur": "ایلوکوس علاقہ",
+      "vi": "Ilocos",
+      "ceb": "Rehiyon sa Ilocos",
+      "zh": "伊羅戈",
+      "yue_Hans": "伊罗戈",
+      "ccp": "𑄃𑄨𑄣𑄮𑄇𑄮𑄌𑄴",
+      "eu": "Ilocos",
+      "yue": "伊羅戈",
+      "th": "เขตอีโลโคส",
+      "mk": "Илокос",
+      "no": "Ilocos Region"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "02": {
+    "name": "Cagayan Valley",
+    "code": "02",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Vall de Cagayan",
+      "de": "Cagayan Valley",
+      "en": "Cagayan Valley",
+      "es": "Valle del Cagayán",
+      "fi": "Cagayan Valley",
+      "fr": "Vallée de Cagayan",
+      "hi": "कागायान घाटी",
+      "hr": "Cagayan Valley",
+      "id": "Lembah Cagayan",
+      "it": "Valle di Cagayan",
+      "ja": "カガヤン・バレー地方",
+      "ko": "카가얀밸리 지방",
+      "lt": "Kagajano Slėnis",
+      "nb": "Cagayan Valley",
+      "nl": "Cagayan Valley",
+      "pl": "Cagayan Valley",
+      "ru": "Долина Кагаян",
+      "sv": "Cagayandalen",
+      "ta": "ககயன் பள்ளத்தாக்கு",
+      "uk": "Долина Кагаян",
+      "ur": "کاگایان وادی",
+      "vi": "Thung lũng Cagayan",
+      "ceb": "Lupot sa Cagayan",
+      "ms": "Lembah Cagayan",
+      "ar": "وادي كاغيان",
+      "zh": "卡加延河谷",
+      "yue_Hans": "卡加延谷",
+      "ccp": "𑄇𑄬𑄉𑄬𑄃𑄨𑄠𑄚𑄴 𑄞𑄬𑄣𑄩",
+      "eu": "Cagayan Harana",
+      "yue": "卡加延谷",
+      "th": "เขตลัมบักนางคากายัน",
+      "mk": "Кагајанска Долина",
+      "no": "Cagayan Valley"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "03": {
+    "name": "Central Luzon",
+    "code": "03",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Luzon Central",
+      "de": "Central Luzon",
+      "en": "Central Luzon",
+      "es": "Luzón Central",
+      "fi": "Keski-Luzon",
+      "fr": "Luçon centrale",
+      "hi": "मध्य लूज़ोन",
+      "hr": "Središnji Luzon",
+      "id": "Luzon Tengah",
+      "it": "Luzon Centrale",
+      "ja": "中部ルソン地方",
+      "ko": "중앙루손 지방",
+      "lt": "Centrinis Lusonas",
+      "nb": "Central Luzon",
+      "nl": "Central Luzon",
+      "pl": "Luzon Środkowy",
+      "ru": "Центральный Лусон",
+      "sv": "Centrala Luzon",
+      "ta": "மத்திய லூசோன்",
+      "tr": "Merkez Luzon",
+      "uk": "Центральний Лусон",
+      "ur": "وسطی لوزون",
+      "vi": "Trung Luzon",
+      "ceb": "Tunga-tungang Luzon",
+      "zh": "中央吕宋",
+      "yue_Hans": "中吕宋",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄣𑄪𑄎𑄧𑄚𑄴",
+      "eu": "Erdialdeko Luzon",
+      "yue": "中呂宋",
+      "th": "เขตกิตนางลูโซน",
+      "mk": "Централен Лузон",
+      "no": "Central Luzon"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "05": {
+    "name": "Bicol",
+    "code": "05",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Regió de Bicol",
+      "de": "Bicol Region",
+      "en": "Bicol",
+      "es": "Bicolandia",
+      "fi": "Bicolin alue",
+      "fr": "Bicol",
+      "hi": "बिकोल क्षेत्र",
+      "hr": "Bicol",
+      "it": "Bicol",
+      "ja": "ビコル地方",
+      "ko": "비콜 지방",
+      "lt": "Bikolo regionas",
+      "nb": "Bicol Region",
+      "nl": "Bicol Region",
+      "pl": "Bicol Region",
+      "ru": "Бикольский Регион",
+      "sv": "Bikolregionen",
+      "ta": "பிகோல் பிராந்தியம்",
+      "uk": "Бікол",
+      "ur": "بیکول علاقہ",
+      "vi": "Bicol",
+      "ceb": "Bikol",
+      "zh": "比科爾",
+      "yue_Hans": "比科尔",
+      "ccp": "𑄝𑄨𑄇𑄮𑄣𑄴",
+      "hy": "Բիկոլի շրջան",
+      "eu": "Bicolgo eskualdea",
+      "yue": "比科爾",
+      "th": "เขตบีโคล",
+      "mk": "Бикол",
+      "no": "Bicol Region"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "06": {
+    "name": "Western Visayas",
+    "code": "06",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Visayas Occidentals",
+      "de": "Western Visayas",
+      "en": "Western Visayas",
+      "es": "Bisayas Occidentales",
+      "fi": "Länsi-Visayas",
+      "fr": "Visayas occidentales",
+      "gl": "Visayas Occidental",
+      "he": "מערב ויסאיאס",
+      "hi": "पश्चिमी विसाया",
+      "hr": "Zapadni Visayas",
+      "it": "Visayas Occidentale",
+      "ja": "西ヴィサヤ地方",
+      "ko": "서비사야 지방",
+      "lt": "Vakarų Visajai",
+      "nl": "Western Visayas",
+      "pl": "Western Visayas",
+      "ru": "Западные Висайи",
+      "sv": "Västra Visayas",
+      "ta": "மேற்கு விசயாசு",
+      "tr": "Batı Visayas",
+      "uk": "Західні Вісаї",
+      "ur": "مغربی ویسایا",
+      "vi": "Tây Visayas",
+      "ceb": "Kasadpang Kabisay-an",
+      "ar": "بيسايا الغربية",
+      "zh": "西米沙鄢",
+      "yue_Hans": "西维萨亚斯",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Mendebaldeko Bisayak",
+      "yue": "西維薩亞斯",
+      "nb": "Western Visayas",
+      "th": "เขตคันลูรังคาบีซายาอัน",
+      "mk": "Западни Висаи",
+      "no": "Western Visayas"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "07": {
+    "name": "Central Visayas",
+    "code": "07",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Visayas Centrals",
+      "de": "Central Visayas",
+      "en": "Central Visayas",
+      "es": "Bisayas Centrales",
+      "fi": "Keski-Visayas",
+      "fr": "Visayas centrales",
+      "hi": "मध्य विसाया",
+      "hr": "Središnji Visayas",
+      "hy": "Կենտրոնական Վիսարյա",
+      "id": "Bisaya Tengah",
+      "it": "Visayas Centrale",
+      "ja": "中部ヴィサヤ地方",
+      "ko": "중앙비사야 지방",
+      "lt": "Centriniai Visajai",
+      "nl": "Central Visayas",
+      "pl": "Central Visayas",
+      "pt": "Visayas Centrais",
+      "ru": "Центральные Висайи",
+      "sv": "Centrala Visayas",
+      "ta": "மத்திய விசயாசு",
+      "tr": "Merkez Visayas",
+      "uk": "Центральні Вісаї",
+      "ur": "وسطی ویسایا",
+      "vi": "Trung Visayas",
+      "ceb": "Tunga-tungang Kabisay-an",
+      "ar": "بيسايا الوسطى",
+      "zh": "中米沙鄢",
+      "yue_Hans": "中维萨亚斯",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Erdialdeko Bisayak",
+      "yue": "中維薩亞斯",
+      "th": "เขตกิตนางคาบีซายาอัน",
+      "mk": "Централни Висаи"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "08": {
+    "name": "Eastern Visayas",
+    "code": "08",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "be": "Усходнія Вісаі",
+      "ca": "Visayas Orientals",
+      "de": "Eastern Visayas",
+      "en": "Eastern Visayas",
+      "es": "Bisayas Orientales",
+      "fi": "Itä-Visayas",
+      "fr": "Visayas orientales",
+      "he": "מזרח ויסאיאס",
+      "hi": "पूर्वी विसाया",
+      "hr": "Istočni Visayas",
+      "it": "Visayas Orientale",
+      "ja": "東ヴィサヤ地方",
+      "ko": "동비사야 지방",
+      "lt": "Rytų Visajai",
+      "nl": "Eastern Visayas",
+      "pl": "Eastern Visayas",
+      "ru": "Восточные Висайи",
+      "sv": "Östra Visayas",
+      "ta": "கிழக்கு விசயாசு",
+      "uk": "Східні Вісаї",
+      "ur": "مشرقی ویسایا",
+      "vi": "Đông Visayas",
+      "ceb": "Sidlakang Kabisay-an",
+      "zh": "東米沙鄢",
+      "yue_Hans": "东维萨亚斯",
+      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
+      "eu": "Ekialdeko Bisayak",
+      "ml": "കിഴക്കൻ വിസായസ്",
+      "yue": "東維薩亞斯",
+      "th": "เขตซีลางังคาบีซายาอัน",
+      "mk": "Источни Висаи"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "09": {
+    "name": "Zamboanga Peninsula",
+    "code": "09",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Península de Zamboanga",
+      "de": "Zamboanga Peninsula",
+      "en": "Zamboanga Peninsula",
+      "es": "Península de Zamboanga",
+      "fi": "Zamboangan niemimaa",
+      "fr": "péninsule de Zamboanga",
+      "hi": "ज़म्बोआंगा प्रायद्वीप",
+      "hr": "Poluotok Zamboanga",
+      "id": "Semenanjung Zamboanga",
+      "it": "Penisola di Zamboanga",
+      "ja": "サンボアンガ半島地方",
+      "ko": "삼보앙가 반도 지방",
+      "lt": "Zamboangos pusiasalis",
+      "nb": "Zamboangahalvøya",
+      "nl": "Zamboanga Peninsula",
+      "pl": "Zamboanga Peninsula",
+      "pt": "Península de Zamboanga",
+      "ru": "Полуостров Замбоанга",
+      "sv": "Zamboangahalvön",
+      "ta": "சம்பொவாங்கா தீபகற்பம்",
+      "tr": "Zamboanga Yarımadası",
+      "uk": "Півострів Замбоанга",
+      "ur": "زامبوانگا جزیرہ نما",
+      "vi": "Bán đảo Zamboanga",
+      "ceb": "Zamboanga",
+      "ar": "شبه جزيرة زامبوانجا",
+      "zh": "三宝颜半岛",
+      "yue_Hans": "三宝颜半岛",
+      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄁𑄉 𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄪𑄣",
+      "eu": "Zamboangako penintsula",
+      "cs": "Poloostrov Zamboanga",
+      "yue": "三寶顏半島",
+      "th": "เขตตังไวนางซัมบวงกา",
+      "mk": "Полуостров Замбоанга",
+      "no": "Zamboangahalvøya"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "10": {
+    "name": "Northern Mindanao",
+    "code": "10",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Mindanao Septentrional",
+      "de": "Northern Mindanao",
+      "en": "Northern Mindanao",
+      "es": "Mindanao del Norte",
+      "fi": "Pohjois-Mindanaon alue",
+      "fr": "Mindanao du Nord",
+      "hi": "उत्तरी मिन्दनाओ",
+      "hr": "Sjeverni Mindanao",
+      "it": "Mindanao Settentrionale",
+      "ja": "北ミンダナオ地方",
+      "ko": "북민다나오 지방",
+      "lt": "Šiaurinis Mindanao",
+      "nb": "Northern Mindanao",
+      "nl": "Northern Mindanao",
+      "pl": "Mindanao Północne",
+      "ru": "Северный Минданао",
+      "sv": "Norra Mindanao",
+      "ta": "வடக்கு மின்டனவு",
+      "uk": "Північне Мінданао",
+      "ur": "شمالی مینداناؤ",
+      "vi": "Bắc Mindanao",
+      "ceb": "Amihanang Mindanao",
+      "zh": "北棉兰老",
+      "yue_Hans": "北棉兰老",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
+      "eu": "Iparraldeko Mindanao",
+      "yue": "北棉蘭老",
+      "th": "เขตฮีลากังมินดาเนา",
+      "mk": "Северен Минданао",
+      "no": "Northern Mindanao"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "11": {
+    "name": "Davao",
+    "code": "11",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "bn": "দাভাও অঞ্চল",
+      "ca": "Regió de Davao",
+      "de": "Davao Region",
+      "en": "Davao",
+      "es": "Región de Davao",
+      "fi": "Davaon alue",
+      "fr": "région de Davao",
+      "hi": "दावाओ क्षेत्र",
+      "hr": "Davao (regija)",
+      "it": "Davao",
+      "ja": "ダバオ地方",
+      "ko": "다바오 지방",
+      "lt": "Davao regionas",
+      "ms": "Daerah Davao",
+      "nl": "Davao Region",
+      "pl": "Davao",
+      "ru": "Давао (регион)",
+      "sv": "Davaoregionen",
+      "ta": "டவாவோ பிராந்தியம்",
+      "tr": "Davao Bölgesi",
+      "uk": "Давао",
+      "ur": "داوائو علاقہ",
+      "vi": "Vùng Davao",
+      "ceb": "Davao",
+      "zh": "达沃区",
+      "yue_Hans": "达沃区",
+      "ccp": "𑄓𑄞𑄃𑄮",
+      "eu": "Davaoko eskualdea",
+      "yue": "達沃區",
+      "th": "เขตดาเบา",
+      "mk": "Давао"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "12": {
+    "name": "Soccsksargen",
+    "code": "12",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "SOCCSKSARGEN",
+      "cs": "Soccsksargen",
+      "de": "SOCCSKSARGEN",
+      "en": "Soccsksargen",
+      "es": "Región XII",
+      "fi": "SOCCSKSARGEN",
+      "fr": "SOCCSKSARGEN",
+      "hi": "सोकसारजेन",
+      "hr": "SOCCSKSARGEN",
+      "it": "SOCCSKSARGEN",
+      "ja": "ソクサージェン地方",
+      "ko": "소크사르젠 지방",
+      "lt": "SOCCSKSARGEN",
+      "nl": "SOCCSKSARGEN",
+      "pl": "SOCCSKSARGEN",
+      "ru": "СОККСКСАРХЕН",
+      "sv": "SOCCSKSARGEN",
+      "ta": "சொக்ஸ்சர்ஜென்",
+      "uk": "Сокксксарген",
+      "ur": "سوکسارگین",
+      "vi": "SOCCSKSARGEN",
+      "ceb": "SOCCSKSARGEN",
+      "yue_Hans": "中棉兰老",
+      "ccp": "𑄥𑄧𑄌𑄴𑄥𑄢𑄴𑄉𑄬𑄚𑄴",
+      "eu": "Soccsksargen",
+      "yue": "中棉蘭老",
+      "th": "เขตโซกซาร์เจน",
+      "mk": "Сокксксархен"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "13": {
+    "name": "Caraga",
+    "code": "13",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Caraga",
+      "de": "Caraga",
+      "en": "Caraga",
+      "es": "Caraga",
+      "fi": "Caraga",
+      "fr": "Caraga",
+      "hi": "कारागा",
+      "hr": "Caraga",
+      "it": "Caraga",
+      "ja": "カラガ地方",
+      "ko": "카라가 지방",
+      "lt": "Karaga",
+      "nl": "Caraga",
+      "pl": "Caraga",
+      "ru": "Карага",
+      "sv": "Caraga",
+      "ta": "கரகா",
+      "uk": "Карага",
+      "ur": "کاراگا",
+      "vi": "Caraga",
+      "ceb": "Caraga",
+      "zh": "卡拉加区",
+      "yue_Hans": "卡拉加",
+      "ccp": "𑄥𑄢𑄴𑄉",
+      "eu": "Caraga",
+      "yue": "卡拉加",
+      "nb": "Caraga",
+      "th": "เขตคารากา",
+      "mk": "Карага",
+      "no": "Caraga"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "14": {
+    "name": "Muslim Mindanao",
+    "code": "14",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "az": "Müsəlman Mindanao muxtar regionu",
+      "be": "Аўтаномны рэгіён у Мусульманскім Мінданаа",
+      "ca": "Regió Autònoma del Mindanao Musulmà",
+      "cs": "Autonomní region Muslimské Mindanao",
+      "de": "Autonomous Region in Muslim Mindanao",
+      "en": "Muslim Mindanao",
+      "es": "Mindanao Musulmán",
+      "eu": "Mindanao Musulmaneko Eskualde Autonomoa",
+      "fi": "Mindanaon autonominen alue",
+      "fr": "région autonome en Mindanao musulmane",
+      "gl": "Rexión Autónoma do Mindanao Musulmán",
+      "hi": "मुस्लिम मिन्दनाओ में स्वशासित क्षेत्र",
+      "hr": "Autonomna regija Muslimanski Mindanao",
+      "id": "Region Otonomi Muslim Mindanao",
+      "it": "regione autonoma nel Mindanao Musulmano",
+      "ja": "イスラム教徒ミンダナオ自治地域",
+      "ko": "무슬림 민다나오 자치구",
+      "lt": "Mindanao musulmonų autonominis regionas",
+      "ms": "Wilayah Autonomi Islam Mindanao",
+      "nl": "Autonomous Region in Muslim Mindanao",
+      "pl": "Muzułmańskie Mindanao",
+      "pt": "Região Autónoma do Mindanau Muçulmano",
+      "ru": "Автономный регион в Мусульманском Минданао",
+      "sr": "Муслимански Минданао",
+      "sv": "Muslimska Mindanao",
+      "ta": "முசுலிம் மிண்டனாவோ தன்னாட்சிப் பகுதி",
+      "tr": "Müslüman Mindanao Özerk Bölgesi",
+      "uk": "Автономний регіон в Мусульманському Мінданао",
+      "ur": "مسلم مینداناؤ کا خود مختار علاقہ",
+      "vi": "Khu tự trị Hồi giáo Mindanao",
+      "ceb": "Mindanawng Muslim",
+      "sr_Latn": "Muslimanski Mindanao",
+      "zh": "棉兰老穆斯林自治区",
+      "fa": "ناحیه خودمختار مسلمانان میندانائو",
+      "yue_Hans": "棉兰老穆斯林自治区",
+      "ccp": "𑄟𑄪𑄌𑄴𑄣𑄨𑄟𑄴 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
+      "yue": "棉蘭老穆斯林自治區",
+      "nb": "Autonomous Region in Muslim Mindanao",
+      "th": "เขตปกครองตนเองในมินดาเนามุสลิม",
+      "mk": "Автономен регион во Муслимански Минданао",
+      "no": "Autonomous Region in Muslim Mindanao"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "15": {
+    "name": "Cordillera Administrative",
+    "code": "15",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "Regió Administrativa de la Cordillera",
+      "de": "Cordillera Administrative Region",
+      "en": "Cordillera Administrative",
+      "es": "La Cordillera",
+      "fi": "Cordilleran hallinnollinen alue",
+      "fr": "région administrative de la Cordillère",
+      "hi": "कोर्दिल्येरा प्रशासनिक क्षेत्र",
+      "hr": "Administrativna regija Cordillera",
+      "it": "Regione amministrativa Cordillera",
+      "ja": "コルディリェラ行政地域",
+      "ko": "코르디예라 행정구",
+      "lt": "Kordiljeros administracinis regionas",
+      "nl": "Cordillera Administrative Region",
+      "pl": "Cordillera Administrative Region",
+      "pt": "Região Administrativa de Cordillera",
+      "ru": "Кордильерский административный регион",
+      "sv": "Kordiljärernas administrativa region",
+      "ta": "கோர்டில்லெரா நிர்வாகப் பிராந்தியம்",
+      "uk": "Кордильєрський адміністративний регіон",
+      "ur": "کوردیلیرا انتظامی علاقہ",
+      "vi": "Vùng Hành chính Cordillera",
+      "ceb": "Administratibong Rehiyon sa Cordillera",
+      "zh": "科迪勒拉行政區",
+      "yue_Hans": "科迪勒拉",
+      "ccp": "𑄇𑄧𑄢𑄴𑄓𑄨𑄣𑄬𑄢 𑄃𑄬𑄖𑄴𑄟𑄨𑄚𑄨𑄌𑄴𑄑𑄳𑄢𑄑𑄨𑄛𑄴",
+      "eu": "Cordillerako Eskualde Administratiboa",
+      "yue": "科迪勒拉",
+      "nb": "Cordillera Administrative Region",
+      "th": "เขตบริหารคอร์ดิลเยรา",
+      "mk": "Кордилјера",
+      "no": "Cordillera Administrative Region"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "40": {
+    "name": "Calabarzon",
+    "code": "40",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ca": "CALABARZON",
+      "de": "Calabarzon",
+      "en": "Calabarzon",
+      "es": "Región IV-A",
+      "fi": "Calabarzon",
+      "fr": "Calabarzon",
+      "hi": "कालाबारज़ोन",
+      "hr": "CALABARZON",
+      "id": "CALABARZON",
+      "it": "CALABARZON",
+      "ja": "カラバルソン地方",
+      "ko": "칼라바르손 지방",
+      "lt": "CALABARZON",
+      "ms": "CALABARZON",
+      "nb": "Calabarzon",
+      "nl": "Calabarzon",
+      "pl": "CALABARZON",
+      "ru": "КАЛАБАРСОН",
+      "sv": "CALABARZON",
+      "ta": "கலபர்சொன்",
+      "tr": "CALABARZON",
+      "uk": "Калабарсон",
+      "ur": "کالابارزون",
+      "vi": "CALABARZON",
+      "ceb": "CALABARZON",
+      "zh": "卡拉巴松",
+      "yue_Hans": "卡拉巴松",
+      "ccp": "𑄇𑄣𑄝𑄢𑄴𑄎𑄧𑄚𑄴",
+      "eu": "Calabarzon",
+      "yue": "卡拉巴鬆",
+      "th": "เขตคาลาบาร์โซน",
+      "mk": "Калабарзон",
+      "no": "Calabarzon"
+    },
+    "comments": null,
+    "type": "region"
+  },
+  "41": {
+    "name": "Mimaropa",
+    "code": "41",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "ميماروبا",
+      "ca": "MIMAROPA",
+      "de": "MIMAROPA",
+      "en": "Mimaropa",
+      "es": "Región IV-B",
+      "fi": "Mimaropa",
+      "fr": "MIMAROPA",
+      "hi": "मिमारोपा",
+      "hr": "MIMAROPA",
+      "it": "MIMARO",
+      "ja": "ミマロパ地方",
+      "ko": "미마로파 지방",
+      "lt": "MIMAROPA",
+      "nl": "MIMAROPA",
+      "pl": "MIMAROPA",
+      "ru": "МИМАРОПА",
+      "sv": "MIMAROPA",
+      "ta": "மிமரோபா",
+      "uk": "Мімаропа",
+      "ur": "میماپورا",
+      "vi": "MIMAROPA",
+      "ceb": "MIMAROPA",
+      "zh": "民马罗巴区",
+      "yue_Hans": "民马罗巴",
+      "ccp": "𑄟𑄨𑄟𑄢𑄮𑄛",
+      "eu": "Mimaropa",
+      "yue": "民馬羅巴",
+      "nb": "MIMAROPA",
+      "th": "เขตมีมาโรปา",
+      "mk": "Мимаропа",
+      "no": "MIMAROPA"
+    },
+    "comments": null,
+    "type": "region"
+  },
   "ABR": {
     "name": "Abra",
-    "code": null,
+    "code": "ABR",
     "unofficial_names": "Abra",
     "geo": {
       "latitude": 17.5951122,
@@ -54,11 +907,12 @@
       "mk": "Абра",
       "no": "Abra"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "AGN": {
     "name": "Agusan del Norte",
-    "code": null,
+    "code": "AGN",
     "unofficial_names": "Agusan del Norte",
     "geo": {
       "latitude": 8.9456259,
@@ -111,11 +965,12 @@
       "mk": "Северен Агусан",
       "no": "Agusan del Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "AGS": {
     "name": "Agusan del Sur",
-    "code": null,
+    "code": "AGS",
     "unofficial_names": "Agusan del Sur",
     "geo": {
       "latitude": 8.6051665,
@@ -167,11 +1022,12 @@
       "mk": "Јужен Агусан",
       "no": "Agusan del Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "AKL": {
     "name": "Aklan",
-    "code": null,
+    "code": "AKL",
     "unofficial_names": "Aklan",
     "geo": {
       "latitude": 11.8166109,
@@ -226,11 +1082,12 @@
       "mk": "Аклан",
       "no": "Aklan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ALB": {
     "name": "Albay",
-    "code": null,
+    "code": "ALB",
     "unofficial_names": "Albay",
     "geo": {
       "latitude": 13.1774827,
@@ -284,11 +1141,12 @@
       "mk": "Албај",
       "no": "Albay"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ANT": {
     "name": "Antique",
-    "code": null,
+    "code": "ANT",
     "unofficial_names": "Antique",
     "geo": {
       "latitude": 11.380579,
@@ -341,11 +1199,12 @@
       "mk": "Антике",
       "no": "Antique"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "APA": {
     "name": "Apayao",
-    "code": null,
+    "code": "APA",
     "unofficial_names": "Apayao",
     "geo": {
       "latitude": 18.0120304,
@@ -398,11 +1257,12 @@
       "mk": "Апајао",
       "no": "Apayao"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "AUR": {
     "name": "Aurora",
-    "code": null,
+    "code": "AUR",
     "unofficial_names": "Aurora",
     "geo": {
       "latitude": 16.991944,
@@ -456,11 +1316,12 @@
       "mk": "Аурора",
       "no": "Aurora"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAN": {
     "name": "Bataan",
-    "code": null,
+    "code": "BAN",
     "unofficial_names": "Bataan",
     "geo": {
       "latitude": 14.6416842,
@@ -513,11 +1374,12 @@
       "mk": "Батаан",
       "no": "Bataan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BAS": {
     "name": "Basilan",
-    "code": null,
+    "code": "BAS",
     "unofficial_names": "Basilan",
     "geo": {
       "latitude": 6.4296349,
@@ -572,11 +1434,12 @@
       "mk": "Басилан",
       "no": "Basilan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BEN": {
     "name": "Benguet",
-    "code": null,
+    "code": "BEN",
     "unofficial_names": "Benguet",
     "geo": {
       "latitude": 16.5577257,
@@ -629,11 +1492,12 @@
       "mk": "Бенгет",
       "no": "Benguet"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BIL": {
     "name": "Biliran",
-    "code": null,
+    "code": "BIL",
     "unofficial_names": "Biliran",
     "geo": {
       "latitude": 11.466667,
@@ -689,11 +1553,12 @@
       "mk": "Билиран",
       "no": "Biliran"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BOH": {
     "name": "Bohol",
-    "code": null,
+    "code": "BOH",
     "unofficial_names": "Bohol",
     "geo": {
       "latitude": 9.849991099999999,
@@ -757,11 +1622,12 @@
       "mk": "Бохол",
       "no": "Bohol"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BTG": {
     "name": "Batangas",
-    "code": null,
+    "code": "BTG",
     "unofficial_names": "Batangas",
     "geo": {
       "latitude": 13.7564651,
@@ -815,11 +1681,12 @@
       "mk": "Батангас",
       "no": "Batangas"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BTN": {
     "name": "Batanes",
-    "code": null,
+    "code": "BTN",
     "unofficial_names": "Batanes",
     "geo": {
       "latitude": 20.4485074,
@@ -875,11 +1742,12 @@
       "mk": "Батанес",
       "no": "Batanes"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BUK": {
     "name": "Bukidnon",
-    "code": null,
+    "code": "BUK",
     "unofficial_names": "Bukidnon",
     "geo": {
       "latitude": 8.0515054,
@@ -933,11 +1801,12 @@
       "mk": "Букиднон",
       "no": "Bukidnon"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BUL": {
     "name": "Bulacan",
-    "code": null,
+    "code": "BUL",
     "unofficial_names": "Bulacan",
     "geo": {
       "latitude": 14.7942735,
@@ -991,11 +1860,12 @@
       "mk": "Булакан",
       "no": "Bulacan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAG": {
     "name": "Cagayan",
-    "code": null,
+    "code": "CAG",
     "unofficial_names": "Cagayan",
     "geo": {
       "latitude": 18.2489629,
@@ -1049,11 +1919,12 @@
       "mk": "Кагајан",
       "no": "Cagayan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAM": {
     "name": "Camiguin",
-    "code": null,
+    "code": "CAM",
     "unofficial_names": "Camiguin",
     "geo": {
       "latitude": 9.1732164,
@@ -1107,11 +1978,12 @@
       "mk": "Камигин",
       "no": "Camiguin"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAN": {
     "name": "Camarines Norte",
-    "code": null,
+    "code": "CAN",
     "unofficial_names": "Camarines Norte",
     "geo": {
       "latitude": 14.1390265,
@@ -1164,11 +2036,12 @@
       "mk": "Северен Камаринес",
       "no": "Camarines Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAP": {
     "name": "Capiz",
-    "code": null,
+    "code": "CAP",
     "unofficial_names": "Capiz",
     "geo": {
       "latitude": 11.3888799,
@@ -1220,11 +2093,12 @@
       "mk": "Капиз",
       "no": "Capiz"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAS": {
     "name": "Camarines Sur",
-    "code": null,
+    "code": "CAS",
     "unofficial_names": "Camarines Sur",
     "geo": {
       "latitude": 13.5250197,
@@ -1279,11 +2153,12 @@
       "mk": "Јужен Камаринес",
       "no": "Camarines Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAT": {
     "name": "Catanduanes",
-    "code": null,
+    "code": "CAT",
     "unofficial_names": "Catanduanes",
     "geo": {
       "latitude": 13.7088684,
@@ -1339,11 +2214,12 @@
       "mk": "Катандуанес",
       "no": "Catanduanes"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAV": {
     "name": "Cavite",
-    "code": null,
+    "code": "CAV",
     "unofficial_names": "Cavite",
     "geo": {
       "latitude": 14.4791297,
@@ -1397,11 +2273,12 @@
       "mk": "Кавите",
       "no": "Cavite"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CEB": {
     "name": "Cebu",
-    "code": null,
+    "code": "CEB",
     "unofficial_names": "Cebu",
     "geo": {
       "latitude": 10.3156992,
@@ -1463,11 +2340,12 @@
       "mk": "Себу",
       "no": "Cebu"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "COM": {
     "name": "Compostela Valley",
-    "code": null,
+    "code": "COM",
     "unofficial_names": "Compostela Valley",
     "geo": {
       "latitude": 7.512514999999999,
@@ -1519,11 +2397,12 @@
       "mk": "Долина Компостела",
       "no": "Compostela Valley"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DAO": {
     "name": "Davao Oriental",
-    "code": null,
+    "code": "DAO",
     "unofficial_names": "Davao Oriental",
     "geo": {
       "latitude": 7.3171585,
@@ -1575,11 +2454,12 @@
       "mk": "Источен Давао",
       "no": "Davao Oriental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DAS": {
     "name": "Davao del Sur",
-    "code": null,
+    "code": "DAS",
     "unofficial_names": "Davao del Sur",
     "geo": {
       "latitude": 6.766268699999999,
@@ -1631,11 +2511,12 @@
       "mk": "Јужен Давао",
       "no": "Davao del Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DAV": {
     "name": "Davao del Norte",
-    "code": null,
+    "code": "DAV",
     "unofficial_names": [
       "Davao"
     ],
@@ -1689,11 +2570,12 @@
       "mk": "Северен Давао",
       "no": "Davao del Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DIN": {
     "name": "Dinagat Islands",
-    "code": null,
+    "code": "DIN",
     "unofficial_names": "Dinagat Islands",
     "geo": {
       "latitude": 10.1281816,
@@ -1730,11 +2612,12 @@
       "mk": "Динагат",
       "no": "Dinagat Islands"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "DVO": {
     "name": "Davao Occidental",
-    "code": null,
+    "code": "DVO",
     "unofficial_names": "Davao Occidental",
     "geo": {
       "latitude": 12.879721,
@@ -1763,11 +2646,12 @@
       "th": "จังหวัดคันลูรังดาเบา",
       "mk": "Западен Давао"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "EAS": {
     "name": "Eastern Samar",
-    "code": null,
+    "code": "EAS",
     "unofficial_names": "Eastern Samar",
     "geo": {
       "latitude": 11.5000731,
@@ -1820,11 +2704,12 @@
       "mk": "Источен Самар",
       "no": "Eastern Samar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GUI": {
     "name": "Guimaras",
-    "code": null,
+    "code": "GUI",
     "unofficial_names": "Guimaras",
     "geo": {
       "latitude": 10.5928661,
@@ -1878,11 +2763,12 @@
       "mk": "Гимарас",
       "no": "Guimaras"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "IFU": {
     "name": "Ifugao",
-    "code": null,
+    "code": "IFU",
     "unofficial_names": "Ifugao",
     "geo": {
       "latitude": 16.8330792,
@@ -1935,11 +2821,12 @@
       "mk": "Ифугао",
       "no": "Ifugao"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ILI": {
     "name": "Iloilo",
-    "code": null,
+    "code": "ILI",
     "unofficial_names": "Iloilo",
     "geo": {
       "latitude": 10.7201501,
@@ -1993,11 +2880,12 @@
       "mk": "Илоило",
       "no": "Iloilo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ILN": {
     "name": "Ilocos Norte",
-    "code": null,
+    "code": "ILN",
     "unofficial_names": "Ilocos Norte",
     "geo": {
       "latitude": 18.1647281,
@@ -2051,11 +2939,12 @@
       "mk": "Северен Илокос",
       "no": "Ilocos Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ILS": {
     "name": "Ilocos Sur",
-    "code": null,
+    "code": "ILS",
     "unofficial_names": "Ilocos Sur",
     "geo": {
       "latitude": 17.2278664,
@@ -2108,11 +2997,12 @@
       "mk": "Јужен Илокос",
       "no": "Ilocos Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ISA": {
     "name": "Isabela",
-    "code": null,
+    "code": "ISA",
     "unofficial_names": "Isabela",
     "geo": {
       "latitude": 16.9753758,
@@ -2164,11 +3054,12 @@
       "mk": "Изабела",
       "no": "Isabela"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KAL": {
     "name": "Kalinga",
-    "code": null,
+    "code": "KAL",
     "unofficial_names": "Kalinga",
     "geo": {
       "latitude": 17.4740422,
@@ -2222,11 +3113,12 @@
       "mk": "Калинга",
       "no": "Kalinga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LAG": {
     "name": "Laguna",
-    "code": null,
+    "code": "LAG",
     "unofficial_names": "Laguna",
     "geo": {
       "latitude": 14.2956294,
@@ -2281,11 +3173,12 @@
       "mk": "Лагуна",
       "no": "Laguna"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LAN": {
     "name": "Lanao del Norte",
-    "code": null,
+    "code": "LAN",
     "unofficial_names": "Lanao del Norte",
     "geo": {
       "latitude": 7.8721811,
@@ -2337,11 +3230,12 @@
       "mk": "Северен Ланао",
       "no": "Lanao del Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LAS": {
     "name": "Lanao del Sur",
-    "code": null,
+    "code": "LAS",
     "unofficial_names": "Lanao del Sur",
     "geo": {
       "latitude": 7.823176,
@@ -2393,11 +3287,12 @@
       "mk": "Јужен Ланао",
       "no": "Lanao del Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LEY": {
     "name": "Leyte",
-    "code": null,
+    "code": "LEY",
     "unofficial_names": "Leyte",
     "geo": {
       "latitude": 11.366667,
@@ -2450,11 +3345,12 @@
       "mk": "Лејте",
       "no": "Leyte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LUN": {
     "name": "La Union",
-    "code": null,
+    "code": "LUN",
     "unofficial_names": "La Union",
     "geo": {
       "latitude": 16.6158906,
@@ -2507,11 +3403,12 @@
       "mk": "Ла Унион",
       "no": "La Union"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MAD": {
     "name": "Marinduque",
-    "code": null,
+    "code": "MAD",
     "unofficial_names": "Marinduque",
     "geo": {
       "latitude": 13.4767171,
@@ -2568,11 +3465,12 @@
       "mk": "Мариндуке",
       "no": "Marinduque"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MAG": {
     "name": "Maguindanao",
-    "code": null,
+    "code": "MAG",
     "unofficial_names": "Maguindanao",
     "geo": {
       "latitude": 6.9422581,
@@ -2626,11 +3524,12 @@
       "mk": "Магинданао",
       "no": "Maguindanao"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MAS": {
     "name": "Masbate",
-    "code": null,
+    "code": "MAS",
     "unofficial_names": "Masbate",
     "geo": {
       "latitude": 12.366667,
@@ -2687,11 +3586,12 @@
       "mk": "Масбате",
       "no": "Masbate"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MDC": {
     "name": "Mindoro Occidental",
-    "code": null,
+    "code": "MDC",
     "unofficial_names": "Mindoro Occidental",
     "geo": {
       "latitude": 13.1024111,
@@ -2744,11 +3644,12 @@
       "mk": "Западен Миндоро",
       "no": "Occidental Mindoro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MDR": {
     "name": "Mindoro Oriental",
-    "code": null,
+    "code": "MDR",
     "unofficial_names": "Mindoro Oriental",
     "geo": {
       "latitude": 13.0564598,
@@ -2801,11 +3702,12 @@
       "mk": "Источен Миндоро",
       "no": "Oriental Mindoro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MOU": {
     "name": "Mountain Province",
-    "code": null,
+    "code": "MOU",
     "unofficial_names": "Mountain Province",
     "geo": {
       "latitude": 17.0663429,
@@ -2858,11 +3760,12 @@
       "mk": "Планинска покраина",
       "no": "Bergsprovinsen"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MSC": {
     "name": "Misamis Occidental",
-    "code": null,
+    "code": "MSC",
     "unofficial_names": "Misamis Occidental",
     "geo": {
       "latitude": 8.337490299999999,
@@ -2915,11 +3818,12 @@
       "mk": "Западен Мисамис",
       "no": "Misamis Occidental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MSR": {
     "name": "Misamis Oriental",
-    "code": null,
+    "code": "MSR",
     "unofficial_names": "Misamis Oriental",
     "geo": {
       "latitude": 8.5045558,
@@ -2972,11 +3876,12 @@
       "mk": "Источен Мисамис",
       "no": "Misamis Oriental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NCO": {
     "name": "North Cotabato",
-    "code": null,
+    "code": "NCO",
     "unofficial_names": [
       "North Cotabato"
     ],
@@ -3031,11 +3936,12 @@
       "mk": "Котабато",
       "no": "Cotabato"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NEC": {
     "name": "Negros Occidental",
-    "code": null,
+    "code": "NEC",
     "unofficial_names": "Negros Occidental",
     "geo": {
       "latitude": 10.2925609,
@@ -3088,11 +3994,12 @@
       "mk": "Западен Негрос",
       "no": "Negros Occidental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NER": {
     "name": "Negros Oriental",
-    "code": null,
+    "code": "NER",
     "unofficial_names": "Negros Oriental",
     "geo": {
       "latitude": 9.628208299999999,
@@ -3146,11 +4053,12 @@
       "mk": "Источен Негрос",
       "no": "Negros Oriental"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NSA": {
     "name": "Northern Samar",
-    "code": null,
+    "code": "NSA",
     "unofficial_names": "Northern Samar",
     "geo": {
       "latitude": 12.3613199,
@@ -3203,11 +4111,12 @@
       "mk": "Северен Самар",
       "no": "Northern Samar"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NUE": {
     "name": "Nueva Ecija",
-    "code": null,
+    "code": "NUE",
     "unofficial_names": "Nueva Ecija",
     "geo": {
       "latitude": 15.6906831,
@@ -3261,11 +4170,12 @@
       "mk": "Нова Есиха",
       "no": "Nueva Ecija"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NUV": {
     "name": "Nueva Vizcaya",
-    "code": null,
+    "code": "NUV",
     "unofficial_names": "Nueva Vizcaya",
     "geo": {
       "latitude": 16.3301107,
@@ -3319,11 +4229,12 @@
       "mk": "Нова Вискаја",
       "no": "Nueva Vizcaya"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAM": {
     "name": "Pampanga",
-    "code": null,
+    "code": "PAM",
     "unofficial_names": "Pampanga",
     "geo": {
       "latitude": 15.079409,
@@ -3376,11 +4287,12 @@
       "mk": "Пампанга",
       "no": "Pampanga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PAN": {
     "name": "Pangasinan",
-    "code": null,
+    "code": "PAN",
     "unofficial_names": "Pangasinan",
     "geo": {
       "latitude": 15.8949055,
@@ -3434,11 +4346,12 @@
       "mk": "Пангасинан",
       "no": "Pangasinan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PLW": {
     "name": "Palawan",
-    "code": null,
+    "code": "PLW",
     "unofficial_names": "Palawan",
     "geo": {
       "latitude": 9.8349493,
@@ -3503,11 +4416,12 @@
       "mk": "Палаван",
       "no": "Palawan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "QUE": {
     "name": "Quezon",
-    "code": null,
+    "code": "QUE",
     "unofficial_names": "Quezon",
     "geo": {
       "latitude": 14.0313906,
@@ -3560,11 +4474,12 @@
       "mk": "Кезон",
       "no": "Quezon"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "QUI": {
     "name": "Quirino",
-    "code": null,
+    "code": "QUI",
     "unofficial_names": [
       "Angkaki"
     ],
@@ -3619,11 +4534,12 @@
       "mk": "Кирино",
       "no": "Quirino"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "RIZ": {
     "name": "Rizal",
-    "code": null,
+    "code": "RIZ",
     "unofficial_names": "Rizal",
     "geo": {
       "latitude": 14.6037446,
@@ -3676,11 +4592,12 @@
       "mk": "Ризал",
       "no": "Rizal"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ROM": {
     "name": "Romblon",
-    "code": null,
+    "code": "ROM",
     "unofficial_names": "Romblon",
     "geo": {
       "latitude": 12.5778554,
@@ -3733,11 +4650,12 @@
       "mk": "Ромблон",
       "no": "Romblon"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SAR": {
     "name": "Sarangani",
-    "code": null,
+    "code": "SAR",
     "unofficial_names": "Sarangani",
     "geo": {
       "latitude": 5.926717500000001,
@@ -3791,11 +4709,12 @@
       "mk": "Сарангани",
       "no": "Sarangani"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SCO": {
     "name": "South Cotabato",
-    "code": null,
+    "code": "SCO",
     "unofficial_names": "South Cotabato",
     "geo": {
       "latitude": 6.3357565,
@@ -3847,11 +4766,12 @@
       "mk": "Јужен Котабато",
       "no": "South Cotabato"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SIG": {
     "name": "Siquijor",
-    "code": null,
+    "code": "SIG",
     "unofficial_names": "Siquijor",
     "geo": {
       "latitude": 9.213263099999999,
@@ -3905,11 +4825,12 @@
       "mk": "Сикихор",
       "no": "Siquijor"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SLE": {
     "name": "Southern Leyte",
-    "code": null,
+    "code": "SLE",
     "unofficial_names": "Southern Leyte",
     "geo": {
       "latitude": 10.3346206,
@@ -3964,11 +4885,12 @@
       "mk": "Јужен Лејте",
       "no": "Southern Leyte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SLU": {
     "name": "Sulu",
-    "code": null,
+    "code": "SLU",
     "unofficial_names": "Sulu",
     "geo": {
       "latitude": 5.974901099999999,
@@ -4021,11 +4943,12 @@
       "mk": "Сулу",
       "no": "Sulu"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SOR": {
     "name": "Sorsogon",
-    "code": null,
+    "code": "SOR",
     "unofficial_names": "Sorsogon",
     "geo": {
       "latitude": 12.9927095,
@@ -4080,11 +5003,12 @@
       "mk": "Сорсогон",
       "no": "Sorsogon"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SUK": {
     "name": "Sultan Kudarat",
-    "code": null,
+    "code": "SUK",
     "unofficial_names": "Sultan Kudarat",
     "geo": {
       "latitude": 6.5069401,
@@ -4137,11 +5061,12 @@
       "mk": "Султан Кударат",
       "no": "Sultan Kudarat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SUN": {
     "name": "Surigao del Norte",
-    "code": null,
+    "code": "SUN",
     "unofficial_names": "Surigao del Norte",
     "geo": {
       "latitude": 9.514828,
@@ -4193,11 +5118,12 @@
       "mk": "Северен Суригао",
       "no": "Surigao del Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SUR": {
     "name": "Surigao del Sur",
-    "code": null,
+    "code": "SUR",
     "unofficial_names": "Surigao del Sur",
     "geo": {
       "latitude": 8.5404906,
@@ -4249,11 +5175,12 @@
       "mk": "Јужен Суригао",
       "no": "Surigao del Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TAR": {
     "name": "Tarlac",
-    "code": null,
+    "code": "TAR",
     "unofficial_names": "Tarlac",
     "geo": {
       "latitude": 15.4754786,
@@ -4307,11 +5234,12 @@
       "mk": "Тарлак",
       "no": "Tarlac"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "TAW": {
     "name": "Tawi-Tawi",
-    "code": null,
+    "code": "TAW",
     "unofficial_names": "Tawi-Tawi",
     "geo": {
       "latitude": 5.133811,
@@ -4366,11 +5294,12 @@
       "mk": "Тави-Тави",
       "no": "Tawi-Tawi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "WSA": {
     "name": "Western Samar",
-    "code": null,
+    "code": "WSA",
     "unofficial_names": [
       "Western Samar"
     ],
@@ -4427,45 +5356,12 @@
       "mk": "Самар",
       "no": "Samar"
     },
-    "comments": null
-  },
-  "X1~": {
-    "name": "Dinagat",
-    "code": null,
-    "unofficial_names": "Dinagat",
-    "geo": {
-      "latitude": 10.1281816,
-      "longitude": 125.6095474,
-      "min_latitude": 9.8547497,
-      "min_longitude": 125.465279,
-      "max_latitude": 10.4716027,
-      "max_longitude": 125.7067526
-    },
-    "translations": {
-      "en": "Dinagat"
-    },
-    "comments": null
-  },
-  "X2~": {
-    "name": "Shariff Kabunsuan",
-    "code": null,
-    "unofficial_names": "Shariff Kabunsuan",
-    "geo": {
-      "latitude": 7.214106399999999,
-      "longitude": 124.2535718,
-      "min_latitude": 7.2127832,
-      "min_longitude": 124.2530217,
-      "max_latitude": 7.2155299,
-      "max_longitude": 124.2541869
-    },
-    "translations": {
-      "en": "Shariff Kabunsuan"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZAN": {
     "name": "Zamboanga del Norte",
-    "code": null,
+    "code": "ZAN",
     "unofficial_names": "Zamboanga del Norte",
     "geo": {
       "latitude": 8.3886282,
@@ -4517,11 +5413,12 @@
       "mk": "Северна Замбоанга",
       "no": "Zamboanga del Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZAS": {
     "name": "Zamboanga del Sur",
-    "code": null,
+    "code": "ZAS",
     "unofficial_names": "Zamboanga del Sur",
     "geo": {
       "latitude": 7.838305399999999,
@@ -4573,11 +5470,12 @@
       "mk": "Јужна Замбоанга",
       "no": "Zamboanga del Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZMB": {
     "name": "Zambales",
-    "code": null,
+    "code": "ZMB",
     "unofficial_names": "Zambales",
     "geo": {
       "latitude": 15.5081766,
@@ -4632,11 +5530,12 @@
       "mk": "Замбалес",
       "no": "Zambales"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZSI": {
     "name": "Zamboanga Sibuguey [Zamboanga Sibugay]",
-    "code": null,
+    "code": "ZSI",
     "unofficial_names": "Zamboanga Sibuguey [Zamboanga Sibugay]",
     "geo": {
       "latitude": 7.02427,
@@ -4689,843 +5588,8 @@
       "mk": "Замбоанга Сибугај",
       "no": "Zamboanga Sibugay"
     },
-    "comments": null
-  },
-  "00": {
-    "name": "National Capital Region",
-    "code": null,
-    "unofficial_names": [
-      "National Capital Region",
-      "Pambansang Punong Rehiyon"
-    ],
-    "geo": {
-      "latitude": 14.6090537,
-      "longitude": 121.0222565,
-      "min_latitude": 14.3493861,
-      "min_longitude": 120.9172569,
-      "max_latitude": 14.781217,
-      "max_longitude": 121.132012
-    },
-    "translations": {
-      "en": "Metro Manila",
-      "be": "Сталічны Рэгіён",
-      "ca": "Metro Manila",
-      "de": "Metro Manila",
-      "es": "Gran Manila",
-      "fa": "کلانشهر مانیل",
-      "fi": "Metro Manila",
-      "fr": "Grand Manille",
-      "hi": "मेट्रो मनिला",
-      "hr": "Metro Manila",
-      "id": "Metro Manila",
-      "it": "Regione Capitale Nazionale",
-      "ja": "マニラ首都圏",
-      "ko": "마닐라 대도시",
-      "lt": "Manilos metropolija",
-      "ms": "Metro Manila",
-      "nb": "Metro Manila",
-      "nl": "National Capital Region",
-      "pl": "Region Stołeczny",
-      "pt": "Grande Manila",
-      "ru": "Столичный Регион",
-      "sl": "Metro Manila",
-      "sr": "Метро Манила",
-      "sv": "Metro Manila",
-      "ta": "மணிலா பெருநகரம்",
-      "th": "เมโทรมะนิลา",
-      "tr": "Metro Manila",
-      "uk": "Столичний регіон (Філіппіни)",
-      "ur": "میٹرو منیلا",
-      "vi": "Vùng đô thị Manila",
-      "zh": "馬尼拉大都會",
-      "ceb": "Manila",
-      "sr_Latn": "Metro Manila",
-      "bn": "মেট্রো মানিলা",
-      "yue_Hans": "马尼拉大都会",
-      "ccp": "𑄟𑄬𑄑𑄳𑄢𑄮 𑄟𑄬𑄚𑄨𑄣",
-      "he": "אזור מנילה רבתי",
-      "eu": "Manila Handia",
-      "ml": "മെട്രോ മനില",
-      "cs": "Metro Manila",
-      "yue": "馬尼拉大都會",
-      "my": "မက်ထရို မနီလာ",
-      "mk": "Метро Манила",
-      "no": "Metro Manila"
-    },
-    "comments": null
-  },
-  "41": {
-    "name": "Mimaropa",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "ميماروبا",
-      "ca": "MIMAROPA",
-      "de": "MIMAROPA",
-      "en": "Mimaropa",
-      "es": "Región IV-B",
-      "fi": "Mimaropa",
-      "fr": "MIMAROPA",
-      "hi": "मिमारोपा",
-      "hr": "MIMAROPA",
-      "it": "MIMARO",
-      "ja": "ミマロパ地方",
-      "ko": "미마로파 지방",
-      "lt": "MIMAROPA",
-      "nl": "MIMAROPA",
-      "pl": "MIMAROPA",
-      "ru": "МИМАРОПА",
-      "sv": "MIMAROPA",
-      "ta": "மிமரோபா",
-      "uk": "Мімаропа",
-      "ur": "میماپورا",
-      "vi": "MIMAROPA",
-      "ceb": "MIMAROPA",
-      "zh": "民马罗巴区",
-      "yue_Hans": "民马罗巴",
-      "ccp": "𑄟𑄨𑄟𑄢𑄮𑄛",
-      "eu": "Mimaropa",
-      "yue": "民馬羅巴",
-      "nb": "MIMAROPA",
-      "th": "เขตมีมาโรปา",
-      "mk": "Мимаропа",
-      "no": "MIMAROPA"
-    },
-    "comments": null
-  },
-  "14": {
-    "name": "Muslim Mindanao",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "az": "Müsəlman Mindanao muxtar regionu",
-      "be": "Аўтаномны рэгіён у Мусульманскім Мінданаа",
-      "ca": "Regió Autònoma del Mindanao Musulmà",
-      "cs": "Autonomní region Muslimské Mindanao",
-      "de": "Autonomous Region in Muslim Mindanao",
-      "en": "Muslim Mindanao",
-      "es": "Mindanao Musulmán",
-      "eu": "Mindanao Musulmaneko Eskualde Autonomoa",
-      "fi": "Mindanaon autonominen alue",
-      "fr": "région autonome en Mindanao musulmane",
-      "gl": "Rexión Autónoma do Mindanao Musulmán",
-      "hi": "मुस्लिम मिन्दनाओ में स्वशासित क्षेत्र",
-      "hr": "Autonomna regija Muslimanski Mindanao",
-      "id": "Region Otonomi Muslim Mindanao",
-      "it": "regione autonoma nel Mindanao Musulmano",
-      "ja": "イスラム教徒ミンダナオ自治地域",
-      "ko": "무슬림 민다나오 자치구",
-      "lt": "Mindanao musulmonų autonominis regionas",
-      "ms": "Wilayah Autonomi Islam Mindanao",
-      "nl": "Autonomous Region in Muslim Mindanao",
-      "pl": "Muzułmańskie Mindanao",
-      "pt": "Região Autónoma do Mindanau Muçulmano",
-      "ru": "Автономный регион в Мусульманском Минданао",
-      "sr": "Муслимански Минданао",
-      "sv": "Muslimska Mindanao",
-      "ta": "முசுலிம் மிண்டனாவோ தன்னாட்சிப் பகுதி",
-      "tr": "Müslüman Mindanao Özerk Bölgesi",
-      "uk": "Автономний регіон в Мусульманському Мінданао",
-      "ur": "مسلم مینداناؤ کا خود مختار علاقہ",
-      "vi": "Khu tự trị Hồi giáo Mindanao",
-      "ceb": "Mindanawng Muslim",
-      "sr_Latn": "Muslimanski Mindanao",
-      "zh": "棉兰老穆斯林自治区",
-      "fa": "ناحیه خودمختار مسلمانان میندانائو",
-      "yue_Hans": "棉兰老穆斯林自治区",
-      "ccp": "𑄟𑄪𑄌𑄴𑄣𑄨𑄟𑄴 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
-      "yue": "棉蘭老穆斯林自治區",
-      "nb": "Autonomous Region in Muslim Mindanao",
-      "th": "เขตปกครองตนเองในมินดาเนามุสลิม",
-      "mk": "Автономен регион во Муслимански Минданао",
-      "no": "Autonomous Region in Muslim Mindanao"
-    },
-    "comments": null
-  },
-  "08": {
-    "name": "Eastern Visayas",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "be": "Усходнія Вісаі",
-      "ca": "Visayas Orientals",
-      "de": "Eastern Visayas",
-      "en": "Eastern Visayas",
-      "es": "Bisayas Orientales",
-      "fi": "Itä-Visayas",
-      "fr": "Visayas orientales",
-      "he": "מזרח ויסאיאס",
-      "hi": "पूर्वी विसाया",
-      "hr": "Istočni Visayas",
-      "it": "Visayas Orientale",
-      "ja": "東ヴィサヤ地方",
-      "ko": "동비사야 지방",
-      "lt": "Rytų Visajai",
-      "nl": "Eastern Visayas",
-      "pl": "Eastern Visayas",
-      "ru": "Восточные Висайи",
-      "sv": "Östra Visayas",
-      "ta": "கிழக்கு விசயாசு",
-      "uk": "Східні Вісаї",
-      "ur": "مشرقی ویسایا",
-      "vi": "Đông Visayas",
-      "ceb": "Sidlakang Kabisay-an",
-      "zh": "東米沙鄢",
-      "yue_Hans": "东维萨亚斯",
-      "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
-      "eu": "Ekialdeko Bisayak",
-      "ml": "കിഴക്കൻ വിസായസ്",
-      "yue": "東維薩亞斯",
-      "th": "เขตซีลางังคาบีซายาอัน",
-      "mk": "Источни Висаи"
-    },
-    "comments": null
-  },
-  "11": {
-    "name": "Davao",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "bn": "দাভাও অঞ্চল",
-      "ca": "Regió de Davao",
-      "de": "Davao Region",
-      "en": "Davao",
-      "es": "Región de Davao",
-      "fi": "Davaon alue",
-      "fr": "région de Davao",
-      "hi": "दावाओ क्षेत्र",
-      "hr": "Davao (regija)",
-      "it": "Davao",
-      "ja": "ダバオ地方",
-      "ko": "다바오 지방",
-      "lt": "Davao regionas",
-      "ms": "Daerah Davao",
-      "nl": "Davao Region",
-      "pl": "Davao",
-      "ru": "Давао (регион)",
-      "sv": "Davaoregionen",
-      "ta": "டவாவோ பிராந்தியம்",
-      "tr": "Davao Bölgesi",
-      "uk": "Давао",
-      "ur": "داوائو علاقہ",
-      "vi": "Vùng Davao",
-      "ceb": "Davao",
-      "zh": "达沃区",
-      "yue_Hans": "达沃区",
-      "ccp": "𑄓𑄞𑄃𑄮",
-      "eu": "Davaoko eskualdea",
-      "yue": "達沃區",
-      "th": "เขตดาเบา",
-      "mk": "Давао"
-    },
-    "comments": null
-  },
-  "01": {
-    "name": "Ilocos",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Regió d’Ilocos",
-      "de": "Ilocos Region",
-      "en": "Ilocos",
-      "es": "Ilocos",
-      "fi": "Ilocosin alue",
-      "fr": "Région d’Ilocos",
-      "hi": "इलोकोस क्षेत्र",
-      "hr": "Ilocos",
-      "id": "Ilocos",
-      "it": "Ilocos",
-      "ja": "イロコス地方",
-      "ko": "일로코스 지방",
-      "lt": "Ilokoso regionas",
-      "nb": "Ilocos Region",
-      "nl": "Ilocos Region",
-      "pl": "Ilocos",
-      "pt": "Ilocos",
-      "ru": "Илокос",
-      "sv": "Ilocosregionen",
-      "ta": "இலோகொஸ் பிராந்தியம்",
-      "tr": "Ilocos Bölgesi",
-      "uk": "Ілокос",
-      "ur": "ایلوکوس علاقہ",
-      "vi": "Ilocos",
-      "ceb": "Rehiyon sa Ilocos",
-      "zh": "伊羅戈",
-      "yue_Hans": "伊罗戈",
-      "ccp": "𑄃𑄨𑄣𑄮𑄇𑄮𑄌𑄴",
-      "eu": "Ilocos",
-      "yue": "伊羅戈",
-      "th": "เขตอีโลโคส",
-      "mk": "Илокос",
-      "no": "Ilocos Region"
-    },
-    "comments": null
-  },
-  "02": {
-    "name": "Cagayan Valley",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Vall de Cagayan",
-      "de": "Cagayan Valley",
-      "en": "Cagayan Valley",
-      "es": "Valle del Cagayán",
-      "fi": "Cagayan Valley",
-      "fr": "Vallée de Cagayan",
-      "hi": "कागायान घाटी",
-      "hr": "Cagayan Valley",
-      "id": "Lembah Cagayan",
-      "it": "Valle di Cagayan",
-      "ja": "カガヤン・バレー地方",
-      "ko": "카가얀밸리 지방",
-      "lt": "Kagajano Slėnis",
-      "nb": "Cagayan Valley",
-      "nl": "Cagayan Valley",
-      "pl": "Cagayan Valley",
-      "ru": "Долина Кагаян",
-      "sv": "Cagayandalen",
-      "ta": "ககயன் பள்ளத்தாக்கு",
-      "uk": "Долина Кагаян",
-      "ur": "کاگایان وادی",
-      "vi": "Thung lũng Cagayan",
-      "ceb": "Lupot sa Cagayan",
-      "ms": "Lembah Cagayan",
-      "ar": "وادي كاغيان",
-      "zh": "卡加延河谷",
-      "yue_Hans": "卡加延谷",
-      "ccp": "𑄇𑄬𑄉𑄬𑄃𑄨𑄠𑄚𑄴 𑄞𑄬𑄣𑄩",
-      "eu": "Cagayan Harana",
-      "yue": "卡加延谷",
-      "th": "เขตลัมบักนางคากายัน",
-      "mk": "Кагајанска Долина",
-      "no": "Cagayan Valley"
-    },
-    "comments": null
-  },
-  "03": {
-    "name": "Central Luzon",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Luzon Central",
-      "de": "Central Luzon",
-      "en": "Central Luzon",
-      "es": "Luzón Central",
-      "fi": "Keski-Luzon",
-      "fr": "Luçon centrale",
-      "hi": "मध्य लूज़ोन",
-      "hr": "Središnji Luzon",
-      "id": "Luzon Tengah",
-      "it": "Luzon Centrale",
-      "ja": "中部ルソン地方",
-      "ko": "중앙루손 지방",
-      "lt": "Centrinis Lusonas",
-      "nb": "Central Luzon",
-      "nl": "Central Luzon",
-      "pl": "Luzon Środkowy",
-      "ru": "Центральный Лусон",
-      "sv": "Centrala Luzon",
-      "ta": "மத்திய லூசோன்",
-      "tr": "Merkez Luzon",
-      "uk": "Центральний Лусон",
-      "ur": "وسطی لوزون",
-      "vi": "Trung Luzon",
-      "ceb": "Tunga-tungang Luzon",
-      "zh": "中央吕宋",
-      "yue_Hans": "中吕宋",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄣𑄪𑄎𑄧𑄚𑄴",
-      "eu": "Erdialdeko Luzon",
-      "yue": "中呂宋",
-      "th": "เขตกิตนางลูโซน",
-      "mk": "Централен Лузон",
-      "no": "Central Luzon"
-    },
-    "comments": null
-  },
-  "05": {
-    "name": "Bicol",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Regió de Bicol",
-      "de": "Bicol Region",
-      "en": "Bicol",
-      "es": "Bicolandia",
-      "fi": "Bicolin alue",
-      "fr": "Bicol",
-      "hi": "बिकोल क्षेत्र",
-      "hr": "Bicol",
-      "it": "Bicol",
-      "ja": "ビコル地方",
-      "ko": "비콜 지방",
-      "lt": "Bikolo regionas",
-      "nb": "Bicol Region",
-      "nl": "Bicol Region",
-      "pl": "Bicol Region",
-      "ru": "Бикольский Регион",
-      "sv": "Bikolregionen",
-      "ta": "பிகோல் பிராந்தியம்",
-      "uk": "Бікол",
-      "ur": "بیکول علاقہ",
-      "vi": "Bicol",
-      "ceb": "Bikol",
-      "zh": "比科爾",
-      "yue_Hans": "比科尔",
-      "ccp": "𑄝𑄨𑄇𑄮𑄣𑄴",
-      "hy": "Բիկոլի շրջան",
-      "eu": "Bicolgo eskualdea",
-      "yue": "比科爾",
-      "th": "เขตบีโคล",
-      "mk": "Бикол",
-      "no": "Bicol Region"
-    },
-    "comments": null
-  },
-  "06": {
-    "name": "Western Visayas",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Visayas Occidentals",
-      "de": "Western Visayas",
-      "en": "Western Visayas",
-      "es": "Bisayas Occidentales",
-      "fi": "Länsi-Visayas",
-      "fr": "Visayas occidentales",
-      "gl": "Visayas Occidental",
-      "he": "מערב ויסאיאס",
-      "hi": "पश्चिमी विसाया",
-      "hr": "Zapadni Visayas",
-      "it": "Visayas Occidentale",
-      "ja": "西ヴィサヤ地方",
-      "ko": "서비사야 지방",
-      "lt": "Vakarų Visajai",
-      "nl": "Western Visayas",
-      "pl": "Western Visayas",
-      "ru": "Западные Висайи",
-      "sv": "Västra Visayas",
-      "ta": "மேற்கு விசயாசு",
-      "tr": "Batı Visayas",
-      "uk": "Західні Вісаї",
-      "ur": "مغربی ویسایا",
-      "vi": "Tây Visayas",
-      "ceb": "Kasadpang Kabisay-an",
-      "ar": "بيسايا الغربية",
-      "zh": "西米沙鄢",
-      "yue_Hans": "西维萨亚斯",
-      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
-      "eu": "Mendebaldeko Bisayak",
-      "yue": "西維薩亞斯",
-      "nb": "Western Visayas",
-      "th": "เขตคันลูรังคาบีซายาอัน",
-      "mk": "Западни Висаи",
-      "no": "Western Visayas"
-    },
-    "comments": null
-  },
-  "07": {
-    "name": "Central Visayas",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Visayas Centrals",
-      "de": "Central Visayas",
-      "en": "Central Visayas",
-      "es": "Bisayas Centrales",
-      "fi": "Keski-Visayas",
-      "fr": "Visayas centrales",
-      "hi": "मध्य विसाया",
-      "hr": "Središnji Visayas",
-      "hy": "Կենտրոնական Վիսարյա",
-      "id": "Bisaya Tengah",
-      "it": "Visayas Centrale",
-      "ja": "中部ヴィサヤ地方",
-      "ko": "중앙비사야 지방",
-      "lt": "Centriniai Visajai",
-      "nl": "Central Visayas",
-      "pl": "Central Visayas",
-      "pt": "Visayas Centrais",
-      "ru": "Центральные Висайи",
-      "sv": "Centrala Visayas",
-      "ta": "மத்திய விசயாசு",
-      "tr": "Merkez Visayas",
-      "uk": "Центральні Вісаї",
-      "ur": "وسطی ویسایا",
-      "vi": "Trung Visayas",
-      "ceb": "Tunga-tungang Kabisay-an",
-      "ar": "بيسايا الوسطى",
-      "zh": "中米沙鄢",
-      "yue_Hans": "中维萨亚斯",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄞𑄨𑄥𑄬𑄠𑄌𑄴",
-      "eu": "Erdialdeko Bisayak",
-      "yue": "中維薩亞斯",
-      "th": "เขตกิตนางคาบีซายาอัน",
-      "mk": "Централни Висаи"
-    },
-    "comments": null
-  },
-  "09": {
-    "name": "Zamboanga Peninsula",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Península de Zamboanga",
-      "de": "Zamboanga Peninsula",
-      "en": "Zamboanga Peninsula",
-      "es": "Península de Zamboanga",
-      "fi": "Zamboangan niemimaa",
-      "fr": "péninsule de Zamboanga",
-      "hi": "ज़म्बोआंगा प्रायद्वीप",
-      "hr": "Poluotok Zamboanga",
-      "id": "Semenanjung Zamboanga",
-      "it": "Penisola di Zamboanga",
-      "ja": "サンボアンガ半島地方",
-      "ko": "삼보앙가 반도 지방",
-      "lt": "Zamboangos pusiasalis",
-      "nb": "Zamboangahalvøya",
-      "nl": "Zamboanga Peninsula",
-      "pl": "Zamboanga Peninsula",
-      "pt": "Península de Zamboanga",
-      "ru": "Полуостров Замбоанга",
-      "sv": "Zamboangahalvön",
-      "ta": "சம்பொவாங்கா தீபகற்பம்",
-      "tr": "Zamboanga Yarımadası",
-      "uk": "Півострів Замбоанга",
-      "ur": "زامبوانگا جزیرہ نما",
-      "vi": "Bán đảo Zamboanga",
-      "ceb": "Zamboanga",
-      "ar": "شبه جزيرة زامبوانجا",
-      "zh": "三宝颜半岛",
-      "yue_Hans": "三宝颜半岛",
-      "ccp": "𑄎𑄟𑄴𑄝𑄮𑄠𑄁𑄉 𑄛𑄬𑄚𑄨𑄚𑄴𑄥𑄪𑄣",
-      "eu": "Zamboangako penintsula",
-      "cs": "Poloostrov Zamboanga",
-      "yue": "三寶顏半島",
-      "th": "เขตตังไวนางซัมบวงกา",
-      "mk": "Полуостров Замбоанга",
-      "no": "Zamboangahalvøya"
-    },
-    "comments": null
-  },
-  "10": {
-    "name": "Northern Mindanao",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Mindanao Septentrional",
-      "de": "Northern Mindanao",
-      "en": "Northern Mindanao",
-      "es": "Mindanao del Norte",
-      "fi": "Pohjois-Mindanaon alue",
-      "fr": "Mindanao du Nord",
-      "hi": "उत्तरी मिन्दनाओ",
-      "hr": "Sjeverni Mindanao",
-      "it": "Mindanao Settentrionale",
-      "ja": "北ミンダナオ地方",
-      "ko": "북민다나오 지방",
-      "lt": "Šiaurinis Mindanao",
-      "nb": "Northern Mindanao",
-      "nl": "Northern Mindanao",
-      "pl": "Mindanao Północne",
-      "ru": "Северный Минданао",
-      "sv": "Norra Mindanao",
-      "ta": "வடக்கு மின்டனவு",
-      "uk": "Північне Мінданао",
-      "ur": "شمالی مینداناؤ",
-      "vi": "Bắc Mindanao",
-      "ceb": "Amihanang Mindanao",
-      "zh": "北棉兰老",
-      "yue_Hans": "北棉兰老",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄟𑄨𑄚𑄴𑄓𑄚𑄃𑄮",
-      "eu": "Iparraldeko Mindanao",
-      "yue": "北棉蘭老",
-      "th": "เขตฮีลากังมินดาเนา",
-      "mk": "Северен Минданао",
-      "no": "Northern Mindanao"
-    },
-    "comments": null
-  },
-  "12": {
-    "name": "Soccsksargen",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "SOCCSKSARGEN",
-      "cs": "Soccsksargen",
-      "de": "SOCCSKSARGEN",
-      "en": "Soccsksargen",
-      "es": "Región XII",
-      "fi": "SOCCSKSARGEN",
-      "fr": "SOCCSKSARGEN",
-      "hi": "सोकसारजेन",
-      "hr": "SOCCSKSARGEN",
-      "it": "SOCCSKSARGEN",
-      "ja": "ソクサージェン地方",
-      "ko": "소크사르젠 지방",
-      "lt": "SOCCSKSARGEN",
-      "nl": "SOCCSKSARGEN",
-      "pl": "SOCCSKSARGEN",
-      "ru": "СОККСКСАРХЕН",
-      "sv": "SOCCSKSARGEN",
-      "ta": "சொக்ஸ்சர்ஜென்",
-      "uk": "Сокксксарген",
-      "ur": "سوکسارگین",
-      "vi": "SOCCSKSARGEN",
-      "ceb": "SOCCSKSARGEN",
-      "yue_Hans": "中棉兰老",
-      "ccp": "𑄥𑄧𑄌𑄴𑄥𑄢𑄴𑄉𑄬𑄚𑄴",
-      "eu": "Soccsksargen",
-      "yue": "中棉蘭老",
-      "th": "เขตโซกซาร์เจน",
-      "mk": "Сокксксархен"
-    },
-    "comments": null
-  },
-  "13": {
-    "name": "Caraga",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Caraga",
-      "de": "Caraga",
-      "en": "Caraga",
-      "es": "Caraga",
-      "fi": "Caraga",
-      "fr": "Caraga",
-      "hi": "कारागा",
-      "hr": "Caraga",
-      "it": "Caraga",
-      "ja": "カラガ地方",
-      "ko": "카라가 지방",
-      "lt": "Karaga",
-      "nl": "Caraga",
-      "pl": "Caraga",
-      "ru": "Карага",
-      "sv": "Caraga",
-      "ta": "கரகா",
-      "uk": "Карага",
-      "ur": "کاراگا",
-      "vi": "Caraga",
-      "ceb": "Caraga",
-      "zh": "卡拉加区",
-      "yue_Hans": "卡拉加",
-      "ccp": "𑄥𑄢𑄴𑄉",
-      "eu": "Caraga",
-      "yue": "卡拉加",
-      "nb": "Caraga",
-      "th": "เขตคารากา",
-      "mk": "Карага",
-      "no": "Caraga"
-    },
-    "comments": null
-  },
-  "15": {
-    "name": "Cordillera Administrative",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "Regió Administrativa de la Cordillera",
-      "de": "Cordillera Administrative Region",
-      "en": "Cordillera Administrative",
-      "es": "La Cordillera",
-      "fi": "Cordilleran hallinnollinen alue",
-      "fr": "région administrative de la Cordillère",
-      "hi": "कोर्दिल्येरा प्रशासनिक क्षेत्र",
-      "hr": "Administrativna regija Cordillera",
-      "it": "Regione amministrativa Cordillera",
-      "ja": "コルディリェラ行政地域",
-      "ko": "코르디예라 행정구",
-      "lt": "Kordiljeros administracinis regionas",
-      "nl": "Cordillera Administrative Region",
-      "pl": "Cordillera Administrative Region",
-      "pt": "Região Administrativa de Cordillera",
-      "ru": "Кордильерский административный регион",
-      "sv": "Kordiljärernas administrativa region",
-      "ta": "கோர்டில்லெரா நிர்வாகப் பிராந்தியம்",
-      "uk": "Кордильєрський адміністративний регіон",
-      "ur": "کوردیلیرا انتظامی علاقہ",
-      "vi": "Vùng Hành chính Cordillera",
-      "ceb": "Administratibong Rehiyon sa Cordillera",
-      "zh": "科迪勒拉行政區",
-      "yue_Hans": "科迪勒拉",
-      "ccp": "𑄇𑄧𑄢𑄴𑄓𑄨𑄣𑄬𑄢 𑄃𑄬𑄖𑄴𑄟𑄨𑄚𑄨𑄌𑄴𑄑𑄳𑄢𑄑𑄨𑄛𑄴",
-      "eu": "Cordillerako Eskualde Administratiboa",
-      "yue": "科迪勒拉",
-      "nb": "Cordillera Administrative Region",
-      "th": "เขตบริหารคอร์ดิลเยรา",
-      "mk": "Кордилјера",
-      "no": "Cordillera Administrative Region"
-    },
-    "comments": null
-  },
-  "40": {
-    "name": "Calabarzon",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ca": "CALABARZON",
-      "de": "Calabarzon",
-      "en": "Calabarzon",
-      "es": "Región IV-A",
-      "fi": "Calabarzon",
-      "fr": "Calabarzon",
-      "hi": "कालाबारज़ोन",
-      "hr": "CALABARZON",
-      "id": "CALABARZON",
-      "it": "CALABARZON",
-      "ja": "カラバルソン地方",
-      "ko": "칼라바르손 지방",
-      "lt": "CALABARZON",
-      "ms": "CALABARZON",
-      "nb": "Calabarzon",
-      "nl": "Calabarzon",
-      "pl": "CALABARZON",
-      "ru": "КАЛАБАРСОН",
-      "sv": "CALABARZON",
-      "ta": "கலபர்சொன்",
-      "tr": "CALABARZON",
-      "uk": "Калабарсон",
-      "ur": "کالابارزون",
-      "vi": "CALABARZON",
-      "ceb": "CALABARZON",
-      "zh": "卡拉巴松",
-      "yue_Hans": "卡拉巴松",
-      "ccp": "𑄇𑄣𑄝𑄢𑄴𑄎𑄧𑄚𑄴",
-      "eu": "Calabarzon",
-      "yue": "卡拉巴鬆",
-      "th": "เขตคาลาบาร์โซน",
-      "mk": "Калабарзон",
-      "no": "Calabarzon"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

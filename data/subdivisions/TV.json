@@ -1,7 +1,7 @@
 {
   "FUN": {
     "name": "Funafuti",
-    "code": null,
+    "code": "FUN",
     "unofficial_names": "Funafuti",
     "geo": {
       "latitude": -8.516667,
@@ -75,11 +75,12 @@
       "mk": "Фунафути",
       "no": "Funafuti"
     },
-    "comments": null
+    "comments": null,
+    "type": "town_council"
   },
   "NIT": {
     "name": "Niutao",
-    "code": null,
+    "code": "NIT",
     "unofficial_names": "Niutao",
     "geo": {
       "latitude": -6.106425799999999,
@@ -122,28 +123,12 @@
       "mk": "Ниутао",
       "no": "Niutao"
     },
-    "comments": null
-  },
-  "NIU": {
-    "name": "Nui",
-    "code": null,
-    "unofficial_names": "Nui",
-    "geo": {
-      "latitude": -7.2426288,
-      "longitude": 177.1485716,
-      "min_latitude": -7.246044599999999,
-      "min_longitude": 177.1461329,
-      "max_latitude": -7.1889099,
-      "max_longitude": 177.16564
-    },
-    "translations": {
-      "en": "Nui"
-    },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
   },
   "NKF": {
     "name": "Nukufetau",
-    "code": null,
+    "code": "NKF",
     "unofficial_names": "Nukufetau",
     "geo": {
       "latitude": -8,
@@ -185,11 +170,12 @@
       "mk": "Нукуфетау",
       "no": "Nukufetau"
     },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
   },
   "NKL": {
     "name": "Nukulaelae",
-    "code": null,
+    "code": "NKL",
     "unofficial_names": [
       "Nukulailai"
     ],
@@ -236,11 +222,12 @@
       "mk": "Нукулаелае",
       "no": "Nukulaelae"
     },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
   },
   "NMA": {
     "name": "Nanumea",
-    "code": null,
+    "code": "NMA",
     "unofficial_names": "Nanumea",
     "geo": {
       "latitude": -5.681538799999999,
@@ -286,11 +273,12 @@
       "mk": "Нанумеја",
       "no": "Nanumea"
     },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
   },
   "NMG": {
     "name": "Nanumanga",
-    "code": null,
+    "code": "NMG",
     "unofficial_names": [
       "Nanumaga"
     ],
@@ -334,11 +322,58 @@
       "mk": "Нануманга",
       "no": "Nanumanga"
     },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
+  },
+  "NUI": {
+    "name": "Nui",
+    "code": "NUI",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -7.2426288,
+      "longitude": 177.1485716,
+      "min_latitude": -7.246044599999999,
+      "min_longitude": 177.1461329,
+      "max_latitude": -7.1889099,
+      "max_longitude": 177.16564
+    },
+    "translations": {
+      "be": "Атол Нуі",
+      "ca": "Nui",
+      "cs": "Nui",
+      "de": "Nui",
+      "en": "Nui",
+      "es": "Nui",
+      "fa": "نوئی (آب‌سنگ حلقوی)",
+      "fi": "Nui",
+      "fr": "Nui",
+      "gl": "Nui",
+      "hu": "Nui",
+      "it": "Nui",
+      "ja": "ヌイ環礁",
+      "ka": "ნუი",
+      "ko": "누이 환초",
+      "lt": "Nui",
+      "nb": "Nui",
+      "nl": "Nui",
+      "pl": "Nui",
+      "pt": "Nui",
+      "ro": "Nui",
+      "ru": "Нуи",
+      "sk": "Nui",
+      "sv": "Nui",
+      "ur": "نوئی",
+      "zh": "努伊環礁",
+      "ccp": "𑄚𑄭𑄪",
+      "mk": "Нуи",
+      "no": "Nui"
+    },
+    "comments": null,
+    "type": "island_council"
   },
   "VAI": {
     "name": "Vaitupu",
-    "code": null,
+    "code": "VAI",
     "unofficial_names": "Vaitupu",
     "geo": {
       "latitude": -7.476732699999999,
@@ -381,52 +416,8 @@
       "mk": "Ваитупу",
       "no": "Vaitupu"
     },
-    "comments": null
-  },
-  "NUI": {
-    "name": "Nui",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "be": "Атол Нуі",
-      "ca": "Nui",
-      "cs": "Nui",
-      "de": "Nui",
-      "en": "Nui",
-      "es": "Nui",
-      "fa": "نوئی (آب‌سنگ حلقوی)",
-      "fi": "Nui",
-      "fr": "Nui",
-      "gl": "Nui",
-      "hu": "Nui",
-      "it": "Nui",
-      "ja": "ヌイ環礁",
-      "ka": "ნუი",
-      "ko": "누이 환초",
-      "lt": "Nui",
-      "nb": "Nui",
-      "nl": "Nui",
-      "pl": "Nui",
-      "pt": "Nui",
-      "ro": "Nui",
-      "ru": "Нуи",
-      "sk": "Nui",
-      "sv": "Nui",
-      "ur": "نوئی",
-      "zh": "努伊環礁",
-      "ccp": "𑄚𑄭𑄪",
-      "mk": "Нуи",
-      "no": "Nui"
-    },
-    "comments": null
+    "comments": null,
+    "type": "island_council"
   }
 }
 

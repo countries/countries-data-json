@@ -1,7 +1,7 @@
 {
   "D": {
     "name": "HaDarom",
-    "code": null,
+    "code": "D",
     "unofficial_names": [
       "Southern"
     ],
@@ -61,11 +61,12 @@
       "mk": "Јужен округ",
       "no": "Sørdistriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "HA": {
     "name": "Haifa",
-    "code": null,
+    "code": "HA",
     "unofficial_names": [
       "Hefa",
       "H̱efa",
@@ -140,11 +141,12 @@
       "mk": "Хаифа",
       "no": "Haifa-distriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "JM": {
     "name": "Yerushalayim",
-    "code": null,
+    "code": "JM",
     "unofficial_names": [
       "al-Quds",
       "Yerushalayim",
@@ -208,11 +210,12 @@
       "mk": "Ерусалим",
       "no": "Jerusalem-distriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "M": {
     "name": "HaMerkaz",
-    "code": null,
+    "code": "M",
     "unofficial_names": [
       "Central"
     ],
@@ -282,11 +285,12 @@
       "mk": "Централен округ",
       "no": "Sentraldistriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "TA": {
     "name": "Tel-Aviv",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Tel-Aviv",
     "geo": {
       "latitude": 32.0852999,
@@ -343,11 +347,12 @@
       "mk": "Тел Авив",
       "no": "Tel Aviv-distriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "Z": {
     "name": "HaZafon",
-    "code": null,
+    "code": "Z",
     "unofficial_names": [
       "Northern"
     ],
@@ -417,7 +422,8 @@
       "mk": "Северен округ",
       "no": "Norddistriktet"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

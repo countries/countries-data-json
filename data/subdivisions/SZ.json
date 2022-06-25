@@ -1,7 +1,7 @@
 {
   "HH": {
     "name": "Hhohho",
-    "code": null,
+    "code": "HH",
     "unofficial_names": "Hhohho",
     "geo": {
       "latitude": -26.1365662,
@@ -58,11 +58,12 @@
       "he": "מחוז האהוהאהו",
       "no": "Hhohho"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LU": {
     "name": "Lubombo",
-    "code": null,
+    "code": "LU",
     "unofficial_names": [
       "Lebombo"
     ],
@@ -119,11 +120,12 @@
       "ca": "Lubombo",
       "no": "Lubombo"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MA": {
     "name": "Manzini",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Manzini",
     "geo": {
       "latitude": -26.644588,
@@ -177,11 +179,12 @@
       "he": "מחוז מנזיני",
       "no": "Manzini"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SH": {
     "name": "Shiselweni",
-    "code": null,
+    "code": "SH",
     "unofficial_names": "Shiselweni",
     "geo": {
       "latitude": -26.9827577,
@@ -236,7 +239,8 @@
       "he": "מחוז שיסלוואני",
       "no": "Shiselweni"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

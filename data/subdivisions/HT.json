@@ -1,7 +1,7 @@
 {
   "AR": {
     "name": "Artibonite",
-    "code": null,
+    "code": "AR",
     "unofficial_names": [
       "LʿArtibonite"
     ],
@@ -56,11 +56,12 @@
       "ca": "Artibonite",
       "no": "Artibonite"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CE": {
     "name": "Centre",
-    "code": null,
+    "code": "CE",
     "unofficial_names": "Centre",
     "geo": {
       "latitude": 18.9582742,
@@ -114,11 +115,12 @@
       "bs": "Centre",
       "no": "Centre"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GA": {
     "name": "Grande-Anse",
-    "code": null,
+    "code": "GA",
     "unofficial_names": [
       "Grande Anse"
     ],
@@ -174,11 +176,12 @@
       "ca": "Grand’Anse",
       "no": "Grand’Anse"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "ND": {
     "name": "Nord",
-    "code": null,
+    "code": "ND",
     "unofficial_names": "Nord",
     "geo": {
       "latitude": 19.5687715,
@@ -231,11 +234,12 @@
       "ca": "Nord",
       "no": "Nord"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "NE": {
     "name": "Nord-Est",
-    "code": null,
+    "code": "NE",
     "unofficial_names": "Nord-Est",
     "geo": {
       "latitude": 19.4889723,
@@ -288,11 +292,70 @@
       "ca": "Nord-Est",
       "no": "Nord-Est"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
+  },
+  "NI": {
+    "name": "Nippes",
+    "code": "NI",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "إدارة نيبيس",
+      "bn": "নিপেস",
+      "da": "Nippes",
+      "de": "Département Nippes",
+      "el": "Νιπς",
+      "en": "Nippes",
+      "es": "Nippes",
+      "fa": "شهرستان نیپ",
+      "fi": "Nippes",
+      "fr": "Nippes",
+      "gu": "નિપ્પ્સ",
+      "hi": "निपेस",
+      "hr": "Nippes",
+      "id": "Nippes",
+      "it": "dipartimento di Nippes",
+      "ja": "ニップ県",
+      "kn": "ನಿಪ್ಪೆಸ್",
+      "ko": "니프 주",
+      "mr": "निप्प्स",
+      "ms": "Nippes",
+      "nb": "Nippes",
+      "nl": "Nippes",
+      "pl": "Departament Nippes",
+      "pt": "Nippes",
+      "ru": "Нип",
+      "si": "නිපස්",
+      "sv": "Nippes",
+      "ta": "நிப்பேஸ்",
+      "te": "నిప్పెస్",
+      "th": "นิปเป้",
+      "tr": "Nippes",
+      "ur": "نیپ محکمہ",
+      "vi": "Nippes",
+      "lv": "Nipesa",
+      "ceb": "Département de Nippes",
+      "lt": "Nipesas",
+      "zh": "尼普斯省",
+      "ccp": "𑄚𑄨𑄛𑄬𑄌𑄴",
+      "uk": "Ніп",
+      "ca": "Nippes",
+      "no": "Nippes"
+    },
+    "comments": null,
+    "type": "department"
   },
   "NO": {
     "name": "Nord-Ouest",
-    "code": null,
+    "code": "NO",
     "unofficial_names": "Nord-Ouest",
     "geo": {
       "latitude": 19.8374009,
@@ -345,11 +408,12 @@
       "ca": "Nord-Ouest",
       "no": "Nord-Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "OU": {
     "name": "Ouest",
-    "code": null,
+    "code": "OU",
     "unofficial_names": "Ouest",
     "geo": {
       "latitude": 18.4957015,
@@ -403,11 +467,12 @@
       "ca": "Ouest",
       "no": "Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SD": {
     "name": "Sud",
-    "code": null,
+    "code": "SD",
     "unofficial_names": "Sud",
     "geo": {
       "latitude": 18.3320005,
@@ -460,11 +525,12 @@
       "ca": "Sud",
       "no": "Sud"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SE": {
     "name": "Sud-Est",
-    "code": null,
+    "code": "SE",
     "unofficial_names": "Sud-Est",
     "geo": {
       "latitude": 18.2783598,
@@ -517,64 +583,8 @@
       "ca": "Sud-Est",
       "no": "Sud-Est"
     },
-    "comments": null
-  },
-  "NI": {
-    "name": "Nippes",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "إدارة نيبيس",
-      "bn": "নিপেস",
-      "da": "Nippes",
-      "de": "Département Nippes",
-      "el": "Νιπς",
-      "en": "Nippes",
-      "es": "Nippes",
-      "fa": "شهرستان نیپ",
-      "fi": "Nippes",
-      "fr": "Nippes",
-      "gu": "નિપ્પ્સ",
-      "hi": "निपेस",
-      "hr": "Nippes",
-      "id": "Nippes",
-      "it": "dipartimento di Nippes",
-      "ja": "ニップ県",
-      "kn": "ನಿಪ್ಪೆಸ್",
-      "ko": "니프 주",
-      "mr": "निप्प्स",
-      "ms": "Nippes",
-      "nb": "Nippes",
-      "nl": "Nippes",
-      "pl": "Departament Nippes",
-      "pt": "Nippes",
-      "ru": "Нип",
-      "si": "නිපස්",
-      "sv": "Nippes",
-      "ta": "நிப்பேஸ்",
-      "te": "నిప్పెస్",
-      "th": "นิปเป้",
-      "tr": "Nippes",
-      "ur": "نیپ محکمہ",
-      "vi": "Nippes",
-      "lv": "Nipesa",
-      "ceb": "Département de Nippes",
-      "lt": "Nipesas",
-      "zh": "尼普斯省",
-      "ccp": "𑄚𑄨𑄛𑄬𑄌𑄴",
-      "uk": "Ніп",
-      "ca": "Nippes",
-      "no": "Nippes"
-    },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

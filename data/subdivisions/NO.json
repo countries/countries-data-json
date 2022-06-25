@@ -1,7 +1,7 @@
 {
-  "NO-03": {
+  "03": {
     "name": "Oslo",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Oslo",
     "geo": {
       "latitude": 59.9138688,
@@ -74,11 +74,12 @@
       "uk": "Осло",
       "ur": "اوسلو",
       "vi": "Oslo"
-    }
+    },
+    "type": "county"
   },
-  "NO-11": {
+  "11": {
     "name": "Rogaland",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Rogaland",
     "geo": {
       "latitude": 59.1489544,
@@ -130,11 +131,12 @@
       "uk": "Руґалан",
       "ur": "روگالان",
       "vi": "Rogaland"
-    }
+    },
+    "type": "county"
   },
-  "NO-15": {
+  "15": {
     "name": "Møre og Romsdal",
-    "code": null,
+    "code": "15",
     "unofficial_names": "Møre og Romsdal",
     "geo": {
       "latitude": 62.9760369,
@@ -184,11 +186,12 @@
       "uk": "Мере-ог-Ромсдал",
       "ur": "مورہ او رومسدال",
       "vi": "Møre og Romsdal"
-    }
+    },
+    "type": "county"
   },
-  "NO-18": {
+  "18": {
     "name": "Nordland",
-    "code": null,
+    "code": "18",
     "unofficial_names": "Nordland",
     "translations": {
       "af": "Nordland",
@@ -250,9 +253,10 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "type": "county"
   },
-  "NO-21": {
+  "21": {
     "name": "Svalbard (Arctic Region)",
     "unofficial_names": "Svalbard (Arctic Region)",
     "translations": {
@@ -321,9 +325,11 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "See also country code SJ"
+    "comments": "See also country code SJ",
+    "code": "21",
+    "type": "arctic_region"
   },
-  "NO-22": {
+  "22": {
     "name": "Jan Mayen (Arctic Region)",
     "unofficial_names": "Jan Mayen (Arctic Region)",
     "translations": {
@@ -386,9 +392,11 @@
       "max_latitude": null,
       "max_longitude": null
     },
-    "comments": "See also country code SJ"
+    "comments": "See also country code SJ",
+    "code": "22",
+    "type": "arctic_region"
   },
-  "NO-30": {
+  "30": {
     "name": "Viken",
     "translations": {
       "ast": "Viken",
@@ -425,9 +433,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "30",
+    "type": "county"
   },
-  "NO-34": {
+  "34": {
     "name": "Innlandet",
     "translations": {
       "aa": "Innlandet",
@@ -666,9 +676,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "34",
+    "type": "county"
   },
-  "NO-38": {
+  "38": {
     "name": "Vestfold og Telemark",
     "translations": {
       "ast": "Vestfold og Telemark",
@@ -704,9 +716,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "38",
+    "type": "county"
   },
-  "NO-42": {
+  "42": {
     "name": "Agder",
     "translations": {
       "af": "Agder",
@@ -749,9 +763,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "42",
+    "type": "county"
   },
-  "NO-46": {
+  "46": {
     "name": "Vestland",
     "translations": {
       "af": "Vestland",
@@ -787,9 +803,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "46",
+    "type": "county"
   },
-  "NO-50": {
+  "50": {
     "name": "Trøndelag",
     "translations": {
       "ang": "Þrondham",
@@ -858,9 +876,11 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "50",
+    "type": "county"
   },
-  "NO-54": {
+  "54": {
     "name": "Troms og Finnmark",
     "translations": {
       "ast": "Troms og Finnmark",
@@ -902,7 +922,9 @@
       "min_longitude": null,
       "max_latitude": null,
       "max_longitude": null
-    }
+    },
+    "code": "54",
+    "type": "county"
   }
 }
 

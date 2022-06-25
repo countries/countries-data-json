@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Stockholms län",
-    "code": null,
+    "code": "AB",
     "unofficial_names": "Stockholms län",
     "geo": {
       "latitude": 59.60249579999999,
@@ -71,11 +71,12 @@
       "mk": "Стокхолм",
       "no": "Stockholms län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "AC": {
     "name": "Västerbottens län",
-    "code": null,
+    "code": "AC",
     "unofficial_names": "Västerbottens län",
     "geo": {
       "latitude": 65.3337311,
@@ -142,11 +143,12 @@
       "mk": "Вестерботен",
       "no": "Västerbottens län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "BD": {
     "name": "Norrbottens län",
-    "code": null,
+    "code": "BD",
     "unofficial_names": "Norrbottens län",
     "geo": {
       "latitude": 66.8309216,
@@ -215,11 +217,12 @@
       "mk": "Норботен",
       "no": "Norrbottens län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "C": {
     "name": "Uppsala län",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Uppsala län",
     "geo": {
       "latitude": 60.00922619999999,
@@ -290,11 +293,12 @@
       "mk": "Упсала",
       "no": "Uppsala län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "D": {
     "name": "Södermanlands län",
-    "code": null,
+    "code": "D",
     "unofficial_names": "Södermanlands län",
     "geo": {
       "latitude": 59.03363489999999,
@@ -363,11 +367,12 @@
       "mk": "Седерманланд",
       "no": "Södermanlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "E": {
     "name": "Östergötlands län",
-    "code": null,
+    "code": "E",
     "unofficial_names": "Östergötlands län",
     "geo": {
       "latitude": 58.3453635,
@@ -436,11 +441,12 @@
       "mk": "Естерјетланд",
       "no": "Östergötlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "F": {
     "name": "Jönköpings län",
-    "code": null,
+    "code": "F",
     "unofficial_names": "Jönköpings län",
     "geo": {
       "latitude": 57.3708434,
@@ -509,11 +515,12 @@
       "mk": "Јеншепинг",
       "no": "Jönköpings län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "G": {
     "name": "Kronobergs län",
-    "code": null,
+    "code": "G",
     "unofficial_names": "Kronobergs län",
     "geo": {
       "latitude": 56.71834029999999,
@@ -580,11 +587,12 @@
       "mk": "Крунуберг",
       "no": "Kronobergs län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "H": {
     "name": "Kalmar län",
-    "code": null,
+    "code": "H",
     "unofficial_names": [
       "Calmar"
     ],
@@ -653,11 +661,12 @@
       "mk": "Калмар",
       "no": "Kalmar län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "I": {
     "name": "Gotlands län",
-    "code": null,
+    "code": "I",
     "unofficial_names": "Gotlands län",
     "geo": {
       "latitude": 57.46841209999999,
@@ -725,11 +734,12 @@
       "mk": "Готланд",
       "no": "Gotlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "K": {
     "name": "Blekinge län",
-    "code": null,
+    "code": "K",
     "unofficial_names": "Blekinge län",
     "geo": {
       "latitude": 56.2783837,
@@ -797,11 +807,12 @@
       "mk": "Блекинге",
       "no": "Blekinge län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "M": {
     "name": "Skåne län",
-    "code": null,
+    "code": "M",
     "unofficial_names": [
       "Scania"
     ],
@@ -873,11 +884,12 @@
       "mk": "Сконе",
       "no": "Skåne län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "N": {
     "name": "Hallands län",
-    "code": null,
+    "code": "N",
     "unofficial_names": "Hallands län",
     "geo": {
       "latitude": 56.8966805,
@@ -945,11 +957,12 @@
       "mk": "Халанд",
       "no": "Hallands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "O": {
     "name": "Västra Götalands län",
-    "code": null,
+    "code": "O",
     "unofficial_names": "Västra Götalands län",
     "geo": {
       "latitude": 58.2527926,
@@ -1019,11 +1032,12 @@
       "mk": "Вестра Јеталанд",
       "no": "Västra Götalands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "S": {
     "name": "Värmlands län",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Värmlands län",
     "geo": {
       "latitude": 59.7294065,
@@ -1091,11 +1105,12 @@
       "mk": "Вермланд",
       "no": "Värmlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "T": {
     "name": "Örebro län",
-    "code": null,
+    "code": "T",
     "unofficial_names": "Örebro län",
     "geo": {
       "latitude": 59.535036,
@@ -1165,11 +1180,12 @@
       "mk": "Еребру",
       "no": "Örebro län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "U": {
     "name": "Västmanlands län",
-    "code": null,
+    "code": "U",
     "unofficial_names": "Västmanlands län",
     "geo": {
       "latitude": 59.6713879,
@@ -1236,11 +1252,12 @@
       "mk": "Вестманланд",
       "no": "Västmanlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "W": {
     "name": "Dalarnas län",
-    "code": null,
+    "code": "W",
     "unofficial_names": [
       "Dalarnas",
       "Dalecarlia",
@@ -1312,11 +1329,12 @@
       "mk": "Даларна",
       "no": "Dalarnas län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "X": {
     "name": "Gävleborgs län",
-    "code": null,
+    "code": "X",
     "unofficial_names": "Gävleborgs län",
     "geo": {
       "latitude": 61.30119930000001,
@@ -1383,11 +1401,12 @@
       "mk": "Јевлеборг",
       "no": "Gävleborgs län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "Y": {
     "name": "Västernorrlands län",
-    "code": null,
+    "code": "Y",
     "unofficial_names": "Västernorrlands län",
     "geo": {
       "latitude": 63.4276473,
@@ -1453,11 +1472,12 @@
       "mk": "Вестернорланд",
       "no": "Västernorrlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "Z": {
     "name": "Jämtlands län",
-    "code": null,
+    "code": "Z",
     "unofficial_names": "Jämtlands län",
     "geo": {
       "latitude": 63.1711922,
@@ -1524,7 +1544,8 @@
       "mk": "Јемтланд",
       "no": "Jämtlands län"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   }
 }
 

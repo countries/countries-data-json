@@ -1,7 +1,7 @@
 {
   "02": {
     "name": "Saint Andrew",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Saint Andrew",
     "geo": {
       "latitude": 15.5542442,
@@ -53,11 +53,12 @@
       "ca": "Parròquia de Saint Andrew",
       "no": "Saint Andrew prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "03": {
     "name": "Saint David",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Saint David",
     "geo": {
       "latitude": 15.4081998,
@@ -109,11 +110,12 @@
       "ca": "Parròquia de Saint David",
       "no": "Saint David prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "04": {
     "name": "Saint George",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Saint George",
     "geo": {
       "latitude": 15.3087847,
@@ -165,11 +167,12 @@
       "ca": "Parròquia de Saint George",
       "no": "Saint George prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "05": {
     "name": "Saint John",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Saint John",
     "geo": {
       "latitude": 15.5763757,
@@ -221,11 +224,12 @@
       "ca": "Parròquia de Saint John",
       "no": "Saint John prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "06": {
     "name": "Saint Joseph",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Saint Joseph",
     "geo": {
       "latitude": 15.4335083,
@@ -277,11 +281,12 @@
       "ca": "Parròquia de Saint Joseph",
       "no": "Saint Joseph prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "07": {
     "name": "Saint Luke",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Saint Luke",
     "geo": {
       "latitude": 15.254587,
@@ -333,11 +338,12 @@
       "ca": "Parròquia de Saint Luke",
       "no": "Saint Luke prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "08": {
     "name": "Saint Mark",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Saint Mark",
     "geo": {
       "latitude": 15.2195922,
@@ -389,11 +395,12 @@
       "ca": "Parròquia de Saint Mark",
       "no": "Saint Mark prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "09": {
     "name": "Saint Patrick",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Saint Patrick",
     "geo": {
       "latitude": 15.2811117,
@@ -445,11 +452,12 @@
       "ca": "Parròquia de Saint Patrick",
       "no": "Saint Patrick prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "10": {
     "name": "Saint Paul",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Saint Paul",
     "geo": {
       "latitude": 15.3756073,
@@ -501,11 +509,12 @@
       "ca": "Parròquia de Saint Paul",
       "no": "Saint Paul prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   },
   "11": {
     "name": "Saint Peter",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Saint Peter",
     "geo": {
       "latitude": 15.5098288,
@@ -557,7 +566,8 @@
       "ca": "Parròquia de Saint Peter",
       "no": "Saint Peter prestegjeld"
     },
-    "comments": null
+    "comments": null,
+    "type": "parish"
   }
 }
 

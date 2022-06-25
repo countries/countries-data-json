@@ -1,7 +1,7 @@
 {
   "AD": {
     "name": "Adygeya, Respublika",
-    "code": null,
+    "code": "AD",
     "unofficial_names": [
       "Adygei Republic",
       "Adygeja"
@@ -88,11 +88,12 @@
       "mk": "Адигеја",
       "no": "Adygia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "AL": {
     "name": "Altay, Respublika",
-    "code": null,
+    "code": "AL",
     "unofficial_names": [
       "Altaj",
       "Altay",
@@ -177,11 +178,12 @@
       "mk": "Република Алтај",
       "no": "Altaj"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "ALT": {
     "name": "Altayskiy kray",
-    "code": null,
+    "code": "ALT",
     "unofficial_names": [
       "Altai Kray",
       "Altajskij Kray",
@@ -265,11 +267,12 @@
       "mk": "Алтајски крај",
       "no": "Altaj²"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "AMU": {
     "name": "Amurskaya oblast'",
-    "code": null,
+    "code": "AMU",
     "unofficial_names": [
       "Amurskaja Oblast"
     ],
@@ -350,11 +353,12 @@
       "mk": "Амурска област",
       "no": "Amur"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "ARK": {
     "name": "Arkhangel'skaya oblast'",
-    "code": null,
+    "code": "ARK",
     "unofficial_names": [
       "Arhangelskaja Oblast",
       "Arhangelsk"
@@ -438,11 +442,12 @@
       "mk": "Архангелска област",
       "no": "Arkhangelsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "AST": {
     "name": "Astrakhanskaya oblast'",
-    "code": null,
+    "code": "AST",
     "unofficial_names": [
       "Astrahanska Oblast",
       "Astrahan"
@@ -525,11 +530,12 @@
       "mk": "Астраханска област",
       "no": "Astrakhan"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "BA": {
     "name": "Bashkortostan, Respublika",
-    "code": null,
+    "code": "BA",
     "unofficial_names": [
       "Baškortostan"
     ],
@@ -618,11 +624,12 @@
       "mk": "Башкортостан",
       "no": "Basjkortostan"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "BEL": {
     "name": "Belgorodskaya oblast'",
-    "code": null,
+    "code": "BEL",
     "unofficial_names": [
       "Belgorodskaja Oblast"
     ],
@@ -702,11 +709,12 @@
       "mk": "Белгородска област",
       "no": "Belgorod"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "BRY": {
     "name": "Bryanskaya oblast'",
-    "code": null,
+    "code": "BRY",
     "unofficial_names": [
       "Brjanskaja Oblast",
       "Brjansk"
@@ -788,11 +796,12 @@
       "mk": "Брјанска област",
       "no": "Brjansk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "BU": {
     "name": "Buryatiya, Respublika",
-    "code": null,
+    "code": "BU",
     "unofficial_names": [
       "Buryat Republic",
       "Burjatija"
@@ -877,11 +886,12 @@
       "mk": "Бурјатија",
       "no": "Burjatia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "CE": {
     "name": "Chechenskaya Respublika",
-    "code": null,
+    "code": "CE",
     "unofficial_names": [
       "Chechen",
       "Chechenia",
@@ -976,11 +986,12 @@
       "mk": "Чеченија",
       "no": "Tsjetsjenia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "CHE": {
     "name": "Chelyabinskaya oblast'",
-    "code": null,
+    "code": "CHE",
     "unofficial_names": [
       "Cheljabinsk",
       "Čeljabinskaja Oblast",
@@ -1063,11 +1074,12 @@
       "mk": "Чељабинска област",
       "no": "Tsjeljabinsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "CHU": {
     "name": "Chukotskiy avtonomnyy okrug",
-    "code": null,
+    "code": "CHU",
     "unofficial_names": [
       "Chuckchi",
       "Čukotskij Avtonomnyj Okrug",
@@ -1150,11 +1162,12 @@
       "mk": "Чукотски автономен округ",
       "no": "Tsjukotka"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_district"
   },
   "CU": {
     "name": "Chuvashskaya Respublika",
-    "code": null,
+    "code": "CU",
     "unofficial_names": [
       "Chuvash Republic",
       "Chuvashskaya Respublika",
@@ -1240,11 +1253,12 @@
       "mk": "Чувашија",
       "no": "Tsjuvasjia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "DA": {
     "name": "Dagestan, Respublika",
-    "code": null,
+    "code": "DA",
     "unofficial_names": "Dagestan, Respublika",
     "geo": {
       "latitude": 55.7599606,
@@ -1330,11 +1344,12 @@
       "mk": "Дагестан",
       "no": "Dagestan"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "IN": {
     "name": "Ingushskaya Respublika [Respublika Ingushetiya]",
-    "code": null,
+    "code": "IN",
     "unofficial_names": [
       "Ingushetija",
       "Ingušetija"
@@ -1413,11 +1428,12 @@
       "mk": "Ингушетија",
       "no": "Ingusjetia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "IRK": {
     "name": "Irkutskaya oblast'",
-    "code": null,
+    "code": "IRK",
     "unofficial_names": [
       "Irkutskaja Oblast"
     ],
@@ -1497,11 +1513,12 @@
       "mk": "Иркутска област",
       "no": "Irkutsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "IVA": {
     "name": "Ivanovskaya oblast'",
-    "code": null,
+    "code": "IVA",
     "unofficial_names": [
       "Ivanovskaja Oblast"
     ],
@@ -1581,11 +1598,12 @@
       "mk": "Ивановска област",
       "no": "Ivanovo"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KAM": {
     "name": "Kamchatskaya oblast'",
-    "code": null,
+    "code": "KAM",
     "unofficial_names": [
       "Kamchatskaya Oblast",
       "Kamčatskaja Oblast",
@@ -1670,11 +1688,12 @@
       "mk": "Камчатски крај",
       "no": "Kamtsjatka"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "KB": {
     "name": "Kabardino-Balkarskaya Respublika",
-    "code": null,
+    "code": "KB",
     "unofficial_names": [
       "Kabardino-Balkarian Republic",
       "Kabardino-Balkarskaja Respublika",
@@ -1760,11 +1779,12 @@
       "mk": "Кабардино-Балкарија",
       "no": "Kabardino-Balkaria"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KC": {
     "name": "Karachayevo-Cherkesskaya Respublika",
-    "code": null,
+    "code": "KC",
     "unofficial_names": [
       "Karachay-Cherkessian",
       "Karačajevo-Čerkesskaja Respublika",
@@ -1849,11 +1869,12 @@
       "mk": "Карачаево-Черкесија",
       "no": "Karatsjajevo-Tsjerkessia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KDA": {
     "name": "Krasnodarskiy kray",
-    "code": null,
+    "code": "KDA",
     "unofficial_names": [
       "Krasnodarskij Kraj"
     ],
@@ -1936,11 +1957,12 @@
       "mk": "Краснодарски крај",
       "no": "Krasnodar"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "KEM": {
     "name": "Kemerovskaya oblast'",
-    "code": null,
+    "code": "KEM",
     "unofficial_names": [
       "Kemerovskaja Oblast"
     ],
@@ -2020,11 +2042,12 @@
       "mk": "Кемеровска област",
       "no": "Kemerovo"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KGD": {
     "name": "Kaliningradskaya oblast'",
-    "code": null,
+    "code": "KGD",
     "unofficial_names": [
       "Kaliningradskaja Oblast"
     ],
@@ -2109,11 +2132,12 @@
       "no": "Kaliningrad",
       "yo_BJ": "Kaliningrad Oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KGN": {
     "name": "Kurganskaya oblast'",
-    "code": null,
+    "code": "KGN",
     "unofficial_names": [
       "Kurganskaja Oblast"
     ],
@@ -2194,11 +2218,12 @@
       "mk": "Курганска област",
       "no": "Kurgan"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KHA": {
     "name": "Khabarovskiy kray",
-    "code": null,
+    "code": "KHA",
     "unofficial_names": [
       "Habarovskij Kray",
       "Habarovsk"
@@ -2281,11 +2306,12 @@
       "mk": "Хабаровски крај",
       "no": "Khabarovsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "KHM": {
     "name": "Khanty-Mansiyskiy avtonomnyy okrug [Yugra]",
-    "code": null,
+    "code": "KHM",
     "unofficial_names": [
       "Hanty-Mansijskij Avtonomnyj Okrug",
       "Hanty-Mansija"
@@ -2365,11 +2391,12 @@
       "mk": "Ханти-Мансиски автономен округ",
       "no": "Khanty-Mansia"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_district"
   },
   "KIR": {
     "name": "Kirovskaya oblast'",
-    "code": null,
+    "code": "KIR",
     "unofficial_names": [
       "Kirovskaja Oblast"
     ],
@@ -2449,11 +2476,12 @@
       "mk": "Кировска област",
       "no": "Kirov"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KK": {
     "name": "Khakasiya, Respublika",
-    "code": null,
+    "code": "KK",
     "unofficial_names": [
       "Khakass Republic",
       "Hakasija"
@@ -2536,11 +2564,12 @@
       "mk": "Хакасија",
       "no": "Khakasia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KL": {
     "name": "Kalmykiya, Respublika",
-    "code": null,
+    "code": "KL",
     "unofficial_names": [
       "Halmg-Tangč",
       "Kalmyk Republic",
@@ -2627,11 +2656,12 @@
       "mk": "Калмикија",
       "no": "Kalmykia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KLU": {
     "name": "Kaluzhskaya oblast'",
-    "code": null,
+    "code": "KLU",
     "unofficial_names": [
       "Kaluzhskaya Oblast",
       "Kalužskaja Oblast"
@@ -2711,11 +2741,12 @@
       "mk": "Калушка област",
       "no": "Kaluga"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KO": {
     "name": "Komi, Respublika",
-    "code": null,
+    "code": "KO",
     "unofficial_names": "Komi, Respublika",
     "geo": {
       "latitude": 63.8630539,
@@ -2796,11 +2827,12 @@
       "mk": "Коми",
       "no": "Komi"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KOS": {
     "name": "Kostromskaya oblast'",
-    "code": null,
+    "code": "KOS",
     "unofficial_names": [
       "Kostromskaja Oblast"
     ],
@@ -2880,11 +2912,12 @@
       "mk": "Костромска област",
       "no": "Kostroma"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KR": {
     "name": "Kareliya, Respublika",
-    "code": null,
+    "code": "KR",
     "unofficial_names": [
       "Karelian Republic",
       "Karelija"
@@ -2969,11 +3002,12 @@
       "mk": "Република Карелија",
       "no": "Karelia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "KRS": {
     "name": "Kurskaya oblast'",
-    "code": null,
+    "code": "KRS",
     "unofficial_names": [
       "Kurskaja Oblast"
     ],
@@ -3052,11 +3086,12 @@
       "mk": "Курска област",
       "no": "Kursk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "KYA": {
     "name": "Krasnoyarskiy kray",
-    "code": null,
+    "code": "KYA",
     "unofficial_names": [
       "Krasnojarsk",
       "Krasnojarskij Kraj",
@@ -3139,11 +3174,12 @@
       "mk": "Краснојарски крај",
       "no": "Krasnojarsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "LEN": {
     "name": "Leningradskaya oblast'",
-    "code": null,
+    "code": "LEN",
     "unofficial_names": [
       "Leningradskaja Oblast"
     ],
@@ -3226,11 +3262,12 @@
       "mk": "Ленинградска област",
       "no": "Leningrad"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "LIP": {
     "name": "Lipetskaya oblast'",
-    "code": null,
+    "code": "LIP",
     "unofficial_names": [
       "Lipeckaja Oblast",
       "Lipeck"
@@ -3313,11 +3350,12 @@
       "mk": "Липецка област",
       "no": "Lipetsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "MAG": {
     "name": "Magadanskaya oblast'",
-    "code": null,
+    "code": "MAG",
     "unofficial_names": [
       "Magadanskaja Oblast"
     ],
@@ -3398,11 +3436,12 @@
       "mk": "Магаданска област",
       "no": "Magadan"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "ME": {
     "name": "Mariy El, Respublika",
-    "code": null,
+    "code": "ME",
     "unofficial_names": [
       "Mariy El",
       "Marij El"
@@ -3486,11 +3525,12 @@
       "mk": "Мариј Ел",
       "no": "Mari El"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "MO": {
     "name": "Mordoviya, Respublika",
-    "code": null,
+    "code": "MO",
     "unofficial_names": [
       "Mordovian Republic",
       "Mordovija"
@@ -3573,11 +3613,12 @@
       "mk": "Мордовија",
       "no": "Mordovia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "MOS": {
     "name": "Moskovskaya oblast'",
-    "code": null,
+    "code": "MOS",
     "unofficial_names": [
       "Moskovskaja Oblast"
     ],
@@ -3658,11 +3699,12 @@
       "mk": "Московска област",
       "no": "Moskva"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "MOW": {
     "name": "Moskva",
-    "code": null,
+    "code": "MOW",
     "unofficial_names": [
       "Moskva",
       "Moskau",
@@ -3766,11 +3808,12 @@
       "ha_NE": "Moscow",
       "no": "Moskva²"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_city"
   },
   "MUR": {
     "name": "Murmanskaya oblast'",
-    "code": null,
+    "code": "MUR",
     "unofficial_names": [
       "Murmanskaja Oblast"
     ],
@@ -3851,11 +3894,12 @@
       "mk": "Мурманска област",
       "no": "Murmansk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "NEN": {
     "name": "Nenetskiy avtonomnyy okrug",
-    "code": null,
+    "code": "NEN",
     "unofficial_names": [
       "Nenetskij Avtonomnyj Okrug"
     ],
@@ -3934,11 +3978,12 @@
       "mk": "Ненецки автономен округ",
       "no": "Nenetsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_district"
   },
   "NGR": {
     "name": "Novgorodskaya oblast'",
-    "code": null,
+    "code": "NGR",
     "unofficial_names": [
       "Novgorodskaja Oblast"
     ],
@@ -4017,11 +4062,12 @@
       "mk": "Новгородска област",
       "no": "Novgorod"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "NIZ": {
     "name": "Nizhegorodskaya oblast'",
-    "code": null,
+    "code": "NIZ",
     "unofficial_names": [
       "Gorki",
       "Gorkij",
@@ -4106,11 +4152,12 @@
       "mk": "Нижегородска област",
       "no": "Nizjnij Novgorod"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "NVS": {
     "name": "Novosibirskaya oblast'",
-    "code": null,
+    "code": "NVS",
     "unofficial_names": [
       "Novosibirskaja Oblast"
     ],
@@ -4190,11 +4237,12 @@
       "mk": "Новосибирска област",
       "no": "Novosibirsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "OMS": {
     "name": "Omskaya oblast'",
-    "code": null,
+    "code": "OMS",
     "unofficial_names": [
       "Omskaja Oblast"
     ],
@@ -4275,11 +4323,12 @@
       "mk": "Омска област",
       "no": "Omsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "ORE": {
     "name": "Orenburgskaya oblast'",
-    "code": null,
+    "code": "ORE",
     "unofficial_names": [
       "Orenburgskaja Oblast"
     ],
@@ -4361,11 +4410,12 @@
       "mk": "Оренбуршка област",
       "no": "Orenburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "ORL": {
     "name": "Orlovskaya oblast'",
-    "code": null,
+    "code": "ORL",
     "unofficial_names": [
       "Orlovskaja Oblast",
       "Orjol"
@@ -4446,11 +4496,12 @@
       "mk": "Орловска област",
       "no": "Orjol"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "PER": {
     "name": "Perm",
-    "code": null,
+    "code": "PER",
     "unofficial_names": [
       "Permskaja Oblast"
     ],
@@ -4528,11 +4579,12 @@
       "mk": "Пермски крај",
       "no": "Perm"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "PNZ": {
     "name": "Penzenskaya oblast'",
-    "code": null,
+    "code": "PNZ",
     "unofficial_names": [
       "Penzenskaja Oblast"
     ],
@@ -4611,11 +4663,12 @@
       "mk": "Пензенска област",
       "no": "Penza"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "PRI": {
     "name": "Primorskiy kray",
-    "code": null,
+    "code": "PRI",
     "unofficial_names": [
       "Primorskij",
       "Primorskij Kraj",
@@ -4698,11 +4751,12 @@
       "mk": "Приморски крај",
       "no": "Primorskij"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "PSK": {
     "name": "Pskovskaya oblast'",
-    "code": null,
+    "code": "PSK",
     "unofficial_names": [
       "Pihkva",
       "Pleskau",
@@ -4783,11 +4837,12 @@
       "mk": "Псковска област",
       "no": "Pskov"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "ROS": {
     "name": "Rostovskaya oblast'",
-    "code": null,
+    "code": "ROS",
     "unofficial_names": [
       "Rostovskaja Oblast"
     ],
@@ -4869,11 +4924,12 @@
       "mk": "Ростовска област",
       "no": "Rostov"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "RYA": {
     "name": "Ryazanskaya oblast'",
-    "code": null,
+    "code": "RYA",
     "unofficial_names": [
       "Rjazanskaja Oblast",
       "Rjazan"
@@ -4954,11 +5010,12 @@
       "mk": "Рјазањска област",
       "no": "Rjazan"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "SA": {
     "name": "Sakha, Respublika [Yakutiya]",
-    "code": null,
+    "code": "SA",
     "unofficial_names": [
       "Jakutija",
       "Sakha",
@@ -5048,11 +5105,12 @@
       "mk": "Јакутија",
       "no": "Sakha"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "SAK": {
     "name": "Sakhalinskaya oblast'",
-    "code": null,
+    "code": "SAK",
     "unofficial_names": [
       "Sahalinskaya Oblast",
       "Sahalin"
@@ -5136,11 +5194,12 @@
       "mk": "Сахалинска област",
       "no": "Sakhalin"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "SAM": {
     "name": "Samarskaya oblast'",
-    "code": null,
+    "code": "SAM",
     "unofficial_names": [
       "Samarskaja Oblast"
     ],
@@ -5219,11 +5278,12 @@
       "mk": "Самарска област",
       "no": "Samara"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "SAR": {
     "name": "Saratovskaya oblast'",
-    "code": null,
+    "code": "SAR",
     "unofficial_names": [
       "Saratovskaja Oblast"
     ],
@@ -5302,11 +5362,12 @@
       "mk": "Саратовска област",
       "no": "Saratov"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "SE": {
     "name": "Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]",
-    "code": null,
+    "code": "SE",
     "unofficial_names": [
       "Alania",
       "North Ossetian Republic",
@@ -5393,11 +5454,12 @@
       "mk": "Северна Осетија-Аланија",
       "no": "Nord-Ossetia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "SMO": {
     "name": "Smolenskaya oblast'",
-    "code": null,
+    "code": "SMO",
     "unofficial_names": [
       "Smolenskaja Oblast"
     ],
@@ -5476,11 +5538,12 @@
       "mk": "Смоленска област",
       "no": "Smolensk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "SPE": {
     "name": "Sankt-Peterburg",
-    "code": null,
+    "code": "SPE",
     "unofficial_names": [
       "San Pietroburgo",
       "Sankt-Peterburg",
@@ -5581,11 +5644,12 @@
       "no": "St. Petersburg",
       "yo_BJ": "Saint Petersburg"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_city"
   },
   "STA": {
     "name": "Stavropol'skiy kray",
-    "code": null,
+    "code": "STA",
     "unofficial_names": [
       "Stavropolskij Kraj"
     ],
@@ -5664,11 +5728,12 @@
       "mk": "Ставрополски крај",
       "no": "Stavropol"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   },
   "SVE": {
     "name": "Sverdlovskaya oblast'",
-    "code": null,
+    "code": "SVE",
     "unofficial_names": [
       "Sverdlovskaja Oblast"
     ],
@@ -5748,11 +5813,12 @@
       "mk": "Свердловска област",
       "no": "Sverdlovsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "TA": {
     "name": "Tatarstan, Respublika",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Tatarstan, Respublika",
     "geo": {
       "latitude": 55.1802364,
@@ -5837,11 +5903,12 @@
       "mk": "Татарстан",
       "no": "Tatarstan"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "TAM": {
     "name": "Tambovskaya oblast'",
-    "code": null,
+    "code": "TAM",
     "unofficial_names": [
       "Tambovskaja Oblast"
     ],
@@ -5920,11 +5987,12 @@
       "mk": "Тамбовска област",
       "no": "Tambov"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "TOM": {
     "name": "Tomskaya oblast'",
-    "code": null,
+    "code": "TOM",
     "unofficial_names": [
       "Tomskaja Oblast"
     ],
@@ -6003,11 +6071,12 @@
       "mk": "Томска област",
       "no": "Tomsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "TUL": {
     "name": "Tul'skaya oblast'",
-    "code": null,
+    "code": "TUL",
     "unofficial_names": [
       "Tulskaja Oblast"
     ],
@@ -6087,11 +6156,12 @@
       "mk": "Тулска област",
       "no": "Tula"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "TVE": {
     "name": "Tverskaya oblast'",
-    "code": null,
+    "code": "TVE",
     "unofficial_names": [
       "Tverskaja Oblast"
     ],
@@ -6171,11 +6241,12 @@
       "mk": "Тверска област",
       "no": "Tver"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "TY": {
     "name": "Tyva, Respublika [Tuva]",
-    "code": null,
+    "code": "TY",
     "unofficial_names": [
       "Tuva"
     ],
@@ -6260,11 +6331,12 @@
       "mk": "Тува",
       "no": "Tuva"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "TYU": {
     "name": "Tyumenskaya oblast'",
-    "code": null,
+    "code": "TYU",
     "unofficial_names": [
       "Tjumenskaja Oblast",
       "Tumen",
@@ -6346,11 +6418,12 @@
       "mk": "Тјумењска област",
       "no": "Tjumen"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "UD": {
     "name": "Udmurtskaya Respublika",
-    "code": null,
+    "code": "UD",
     "unofficial_names": [
       "Udmurt Republic",
       "Udmurtskaya Respublika",
@@ -6435,11 +6508,12 @@
       "mk": "Удмуртија",
       "no": "Udmurtia"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "ULY": {
     "name": "Ul'yanovskaya oblast'",
-    "code": null,
+    "code": "ULY",
     "unofficial_names": [
       "Uljanovskaja Oblast",
       "Uljanovsk"
@@ -6520,11 +6594,12 @@
       "mk": "Уљјановска област",
       "no": "Uljanovsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "VGG": {
     "name": "Volgogradskaya oblast'",
-    "code": null,
+    "code": "VGG",
     "unofficial_names": [
       "Volgogradskaja Oblast"
     ],
@@ -6605,11 +6680,12 @@
       "mk": "Волгоградска област",
       "no": "Volgograd"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "VLA": {
     "name": "Vladimirskaya oblast'",
-    "code": null,
+    "code": "VLA",
     "unofficial_names": [
       "Vladimirskaja Oblast"
     ],
@@ -6690,11 +6766,12 @@
       "mk": "Владимирска област",
       "no": "Vladimir"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "VLG": {
     "name": "Vologodskaya oblast'",
-    "code": null,
+    "code": "VLG",
     "unofficial_names": [
       "Vologodskaja Oblast"
     ],
@@ -6775,11 +6852,12 @@
       "mk": "Вологодска област",
       "no": "Vologda"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "VOR": {
     "name": "Voronezhskaya oblast'",
-    "code": null,
+    "code": "VOR",
     "unofficial_names": [
       "Voronežskaja Oblast",
       "Voronež"
@@ -6861,11 +6939,12 @@
       "mk": "Воронешка област",
       "no": "Voronezj"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "YAN": {
     "name": "Yamalo-Nenetskiy avtonomnyy okrug",
-    "code": null,
+    "code": "YAN",
     "unofficial_names": [
       "Jamalija",
       "Jamalo-Nenetskij Avtonomnyj Okrug",
@@ -6946,11 +7025,12 @@
       "mk": "Јамало-Ненецки автономен округ",
       "no": "Jamalo-Nenetsk"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_district"
   },
   "YAR": {
     "name": "Yaroslavskaya oblast'",
-    "code": null,
+    "code": "YAR",
     "unofficial_names": [
       "Jaroslavskaja Oblast",
       "Jaroslavl"
@@ -7030,11 +7110,12 @@
       "mk": "Јарославска област",
       "no": "Jaroslavl"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_region"
   },
   "YEV": {
     "name": "Yevreyskaya avtonomnaya oblast'",
-    "code": null,
+    "code": "YEV",
     "unofficial_names": [
       "Jevrejskaja Oblast",
       "Jevrejskaja Respublika",
@@ -7120,11 +7201,12 @@
       "mk": "Еврејска автономна област",
       "no": "Den jødiske autonome oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_district"
   },
   "ZAB": {
     "name": "Zabaykal'skij kray",
-    "code": null,
+    "code": "ZAB",
     "unofficial_names": [
       "Zabajkal'skij kraj",
       "Zabajkal'skij",
@@ -7205,7 +7287,8 @@
       "mk": "Забајкалски крај",
       "no": "Zabajkalskij"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_territory"
   }
 }
 

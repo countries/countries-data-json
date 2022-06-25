@@ -1,7 +1,7 @@
 {
   "AKM": {
     "name": "Aqmola oblysy",
-    "code": null,
+    "code": "AKM",
     "unofficial_names": [
       "Akmola",
       "Akmolinsk",
@@ -76,11 +76,12 @@
       "mk": "Акмола",
       "no": "Akmola region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AKT": {
     "name": "Aqtöbe oblysy",
-    "code": null,
+    "code": "AKT",
     "unofficial_names": [
       "Aktjubinsk",
       "Aktyubinsk",
@@ -153,11 +154,12 @@
       "mk": "Актобе",
       "no": "Aqtöbe"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ALA": {
     "name": "Almaty",
-    "code": null,
+    "code": "ALA",
     "unofficial_names": [
       "Almati Oblasti",
       "Almaty Oblasty",
@@ -251,11 +253,12 @@
       "no": "Almaty",
       "yo_BJ": "Almaty"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "ALM": {
     "name": "Almaty oblysy",
-    "code": null,
+    "code": "ALM",
     "unofficial_names": "Almaty oblysy",
     "geo": {
       "latitude": 45.0119227,
@@ -326,11 +329,12 @@
       "mk": "Алмати²",
       "no": "Almaty region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AST": {
     "name": "Astana",
-    "code": null,
+    "code": "AST",
     "unofficial_names": "Astana",
     "geo": {
       "latitude": 51.16052269999999,
@@ -423,11 +427,12 @@
       "no": "Astana",
       "yo_BJ": "Astana"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "ATY": {
     "name": "Atyrau oblysy",
-    "code": null,
+    "code": "ATY",
     "unofficial_names": [
       "Ateransk",
       "Aterau",
@@ -502,86 +507,12 @@
       "mk": "Атирау",
       "no": "Atyrau oblast"
     },
-    "comments": null
-  },
-  "BAY": {
-    "name": "Bayqongyr",
-    "code": null,
-    "unofficial_names": "Bayqongyr",
-    "geo": {
-      "latitude": 45.6232258,
-      "longitude": 63.31398289999999,
-      "min_latitude": 45.6036048,
-      "min_longitude": 63.2785679,
-      "max_latitude": 45.6437181,
-      "max_longitude": 63.3368253
-    },
-    "translations": {
-      "en": "Bayqongyr",
-      "ar": "بايكونور",
-      "az": "Baykonur",
-      "be": "Горад Байканур",
-      "bg": "Байконур",
-      "bn": "বাইকুনোর",
-      "ca": "Baikonur",
-      "cs": "Bajkonur",
-      "da": "Bajkonur",
-      "de": "Baikonur",
-      "el": "Μπαϊκονούρ",
-      "es": "Baikonur",
-      "et": "Bajkongõr",
-      "eu": "Baikonur",
-      "fa": "بایقونور، قزاقستان",
-      "fi": "Baikonur",
-      "fr": "Baïkonour",
-      "gl": "Baikonur",
-      "gu": "બેકોનુર",
-      "he": "בייקונור",
-      "hi": "बायकोनूर",
-      "hr": "Bajkonur",
-      "hu": "Bajkonur",
-      "id": "Baykonur",
-      "it": "Bayqoñyr",
-      "ja": "バイコヌール",
-      "ka": "ბაიკონური",
-      "kn": "ಬೈಕೊನೂರ್",
-      "ko": "바이코누르",
-      "lt": "Baikonyras",
-      "lv": "Baikonura",
-      "mr": "बैकोनूर",
-      "ms": "Baikonur",
-      "nb": "Bajkonur",
-      "nl": "Bajkonoer",
-      "pl": "Bajkonur",
-      "pt": "Baikonur",
-      "ro": "Baikonur",
-      "ru": "Байконур",
-      "si": "බයිකොනුර්",
-      "sk": "Bajkonur",
-      "sr": "Бајконур",
-      "sv": "Bajkonur",
-      "ta": "பைகோனுர்",
-      "te": "బైకోనూర్",
-      "th": "เซวตา",
-      "tr": "Baykonur",
-      "uk": "Байконур",
-      "ur": "بایکونور",
-      "vi": "Baikonur",
-      "zh": "拜科努爾",
-      "ceb": "Bayqongyr Qalasy",
-      "sr_Latn": "Bajkonur",
-      "ccp": "𑄝𑄬𑄇𑄧𑄁𑄉𑄠𑄢𑄴",
-      "pa": "ਬਾਈਕੋਨਰ",
-      "kk": "Байқоңыр",
-      "uz": "Boyqoʻngʻir",
-      "mk": "Бајконур",
-      "no": "Bajkonur"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KAR": {
     "name": "Qaraghandy oblysy",
-    "code": null,
+    "code": "KAR",
     "unofficial_names": [
       "Karaganda",
       "Karagandi",
@@ -657,11 +588,12 @@
       "mk": "Караганди",
       "no": "Karagandy region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KUS": {
     "name": "Qostanay oblysy",
-    "code": null,
+    "code": "KUS",
     "unofficial_names": [
       "Kostanay",
       "Kustanai",
@@ -738,11 +670,12 @@
       "mk": "Костанај",
       "no": "Kostanay region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KZY": {
     "name": "Qyzylorda oblysy",
-    "code": null,
+    "code": "KZY",
     "unofficial_names": [
       "Ak-Mechet",
       "Kizilorda",
@@ -819,11 +752,12 @@
       "mk": "Кизилорда",
       "no": "Qızılorda"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MAN": {
     "name": "Mangghystau oblysy",
-    "code": null,
+    "code": "MAN",
     "unofficial_names": [
       "Mangghystau",
       "Mangistau",
@@ -896,11 +830,12 @@
       "mk": "Мангистау",
       "no": "Mangystau oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PAV": {
     "name": "Pavlodar oblysy",
-    "code": null,
+    "code": "PAV",
     "unofficial_names": "Pavlodar oblysy",
     "geo": {
       "latitude": 52.65085440000001,
@@ -970,11 +905,12 @@
       "mk": "Павлодар",
       "no": "Pavlodar provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SEV": {
     "name": "Soltüstik Qazaqstan oblysy",
-    "code": null,
+    "code": "SEV",
     "unofficial_names": [
       "Northern Kazakhstan",
       "Soltüstik Kazakstan",
@@ -1047,11 +983,30 @@
       "mk": "Северен Казахстан",
       "no": "Nord Kazakhstan provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
+  },
+  "SHY": {
+    "name": "Shymkent",
+    "code": "SHY",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 48.019573,
+      "longitude": 66.923684,
+      "min_latitude": 40.5685841,
+      "min_longitude": 46.493672,
+      "max_latitude": 55.4419839,
+      "max_longitude": 87.315415
+    },
+    "translations": {
+      "en": "Shymkent"
+    },
+    "comments": null,
+    "type": "city"
   },
   "VOS": {
     "name": "Shyghys Qazaqstan oblysy",
-    "code": null,
+    "code": "VOS",
     "unofficial_names": [
       "Eastern Kazakhstan",
       "Shyghys Qazaqstan",
@@ -1123,11 +1078,12 @@
       "mk": "Источен Казахстан",
       "no": "Vest Kazakhstan region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "YUZ": {
     "name": "Ongtüstik Qazaqstan oblysy",
-    "code": null,
+    "code": "YUZ",
     "unofficial_names": [
       "Ongtüstik Qazaqstan",
       "Ongtüstük Kazakstan",
@@ -1201,11 +1157,12 @@
       "mk": "Јужен Казахстан",
       "no": "Sør Kazakhstan region"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ZAP": {
     "name": "Batys Qazaqstan oblysy",
-    "code": null,
+    "code": "ZAP",
     "unofficial_names": [
       "Batis Kazakstan",
       "Batys Qazaqstan",
@@ -1280,11 +1237,12 @@
       "mk": "Западноказахстанска област",
       "no": "Vest-Kasakhstan oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ZHA": {
     "name": "Zhambyl oblysy",
-    "code": null,
+    "code": "ZHA",
     "unofficial_names": [
       "Aulie-Ata",
       "Auliye-Ata",
@@ -1352,24 +1310,8 @@
       "uz": "Jambul viloyati",
       "mk": "Жамбил"
     },
-    "comments": null
-  },
-  "SHY": {
-    "name": "Shymkent",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": 48.019573,
-      "longitude": 66.923684,
-      "min_latitude": 40.5685841,
-      "min_longitude": 46.493672,
-      "max_latitude": 55.4419839,
-      "max_longitude": 87.315415
-    },
-    "translations": {
-      "en": "Shymkent"
-    },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

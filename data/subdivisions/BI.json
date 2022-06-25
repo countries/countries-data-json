@@ -1,7 +1,7 @@
 {
   "BB": {
     "name": "Bubanza",
-    "code": null,
+    "code": "BB",
     "unofficial_names": "Bubanza",
     "geo": {
       "latitude": -3.083333,
@@ -60,11 +60,12 @@
       "ca": "Província de Bubanza",
       "no": "Bubanza"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BJ": {
     "name": "Bujumbura",
-    "code": null,
+    "code": "BJ",
     "unofficial_names": "Bujumbura",
     "geo": {
       "latitude": -3.383333,
@@ -77,11 +78,133 @@
     "translations": {
       "en": "Bujumbura"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "BL": {
+    "name": "province de Bujumbura rural",
+    "code": "BL",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "مقاطعة بويمبورا الريفية",
+      "bn": "বুজাম্বুরা রুরাল প্রদেশ",
+      "da": "Bujumbura Rural Province",
+      "de": "Bujumbura Rural",
+      "el": "Μπουζουμπουρά-Ρουράλ",
+      "en": "Bujumbura Rural",
+      "es": "Provincia de Buyumbura Rural",
+      "et": "Bujumbura maaprovints",
+      "eu": "Bujumbura Rural probintzia",
+      "fi": "Bujumbura Rural",
+      "fr": "province de Bujumbura rural",
+      "gl": "Bujumbura Rural",
+      "gu": "બુજુમ્બુરા રૂરલ પ્રાંત",
+      "hi": "बुखुम्बुरा ग्रामीण प्रांत",
+      "id": "Provinsi Bujumbura Rural",
+      "it": "provincia di Bujumbura Rurale",
+      "ja": "ブジュンブラ近郊県",
+      "ka": "ბუჟუმბურა-რურალი",
+      "kn": "ಬುಜುಂಬುರಾ ಗ್ರಾಮೀಣ ಪ್ರಾಂತ್ಯ",
+      "ko": "부줌부라 교외주",
+      "lt": "Bužumbūros kaimiškoji provincija",
+      "mr": "बुजुंबुरा ग्रामीण प्रांत",
+      "ms": "Bujumbura Rural Province",
+      "nb": "Bujumbura Rural",
+      "nl": "Bujumbura Rural",
+      "pl": "Prowincja Bużumbura",
+      "pt": "Bujumbura Rural",
+      "ro": "Provincia Bujumbura Rurală",
+      "ru": "Бужумбура-Рурал",
+      "si": "බුජුම්බුරා දුෂ්කර පළාත",
+      "sv": "Bujumbura Rural",
+      "ta": "பூஜும்புறா ரூரல் மாகாணம்",
+      "te": "బుజుంబుర రూరల్ ప్రావిన్స్",
+      "th": "จังหวัดบูจุมบูรา รูเลล",
+      "tr": "Bujumbura Rural ili",
+      "uk": "Бужумбура",
+      "ur": "بوجمبورا دیہی صوبہ",
+      "vi": "Tỉnh Bujumbura Rural",
+      "lv": "Bužumburas lauku province",
+      "ceb": "Bujumbura Rural Province",
+      "zh": "布松布拉鄉村省",
+      "sw": "Bujumbura Vijijini",
+      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢 𑄢𑄪𑄢𑄣𑄴",
+      "no": "Bujumbura Rural"
+    },
+    "comments": null,
+    "type": "province"
+  },
+  "BM": {
+    "name": "province de Bujumbura Mairie",
+    "code": "BM",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "مقاطعة بويومبورا مايري",
+      "bn": "বুজুম্বুরা মাইরি প্রদেশ",
+      "da": "Bujumbura Mairie Province",
+      "de": "Bujumbura Mairie",
+      "el": "Μπουτζουμπούρα",
+      "en": "Bujumbura",
+      "es": "Provincia de Buyumbura Mairie",
+      "et": "Bujumbura linnaprovints",
+      "eu": "Bujumbura Mairie probintzia",
+      "fi": "Bujumbura Mairie",
+      "fr": "province de Bujumbura Mairie",
+      "gl": "Bujumbura Mairie",
+      "gu": "બુજુમ્બુરા મૈરી પ્રાંત",
+      "hi": "बुखुम्बरा मैरी प्रांत",
+      "id": "Provinsi Bujumbura Mairie",
+      "it": "provincia di Bujumbura Mairie",
+      "ja": "ブジュンブラ・メリー県",
+      "ka": "ბუჟუმბურა-მერი",
+      "kn": "ಬುಜುಂಬುರಾ ಮೈರೈ ಪ್ರಾಂತ್ಯ",
+      "ko": "부줌부라 도시주",
+      "mr": "बुजुंबुरा मारी प्रांत",
+      "ms": "Bujumbura Mairie Province",
+      "nb": "Bujumbura Mairie",
+      "nl": "Bujumbura Mairie",
+      "pl": "Prowincja Miasto Bużumbura",
+      "pt": "Bujumbura Mairie",
+      "ro": "Provincia Bujumbura Mairie",
+      "ru": "Бужумбура-Мэри",
+      "si": "බුජුම්බුරා මෛරියේ",
+      "sv": "Bujumbura Mairie",
+      "ta": "பூஜும்புறா மேரியே மாகாணம்",
+      "te": "బుజుంబురా మెయిరీ ప్రావిన్స్",
+      "th": "จังหวัดบูจุมบูรา ไมรี่",
+      "tr": "Bujumbra Mairie Province",
+      "uk": "Бужумбура-Мері",
+      "ur": "بوجمبورا میری صوبہ",
+      "vi": "Tỉnh Bujumbura Mairie",
+      "lv": "Bužumburas Mērijas province",
+      "ceb": "Bujumbura Mairie Province",
+      "lt": "Budžumbura Meri provincija",
+      "sw": "Bujumbura Mjini",
+      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢",
+      "no": "Bujumbura Mairie"
+    },
+    "comments": null,
+    "type": "province"
   },
   "BR": {
     "name": "Bururi",
-    "code": null,
+    "code": "BR",
     "unofficial_names": "Bururi",
     "geo": {
       "latitude": -3.95,
@@ -137,11 +260,12 @@
       "ccp": "𑄝𑄪𑄢𑄪𑄢𑄨",
       "no": "Bururi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CA": {
     "name": "Cankuzo",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "Cankuzo",
     "geo": {
       "latitude": -3.2196819,
@@ -197,11 +321,12 @@
       "uk": "Провінція Чанкузо",
       "no": "Cankuzo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CI": {
     "name": "Cibitoke",
-    "code": null,
+    "code": "CI",
     "unofficial_names": "Cibitoke",
     "geo": {
       "latitude": -2.888611,
@@ -257,11 +382,12 @@
       "uk": "Провінція Кібітоке",
       "no": "Cibitoke"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GI": {
     "name": "Gitega",
-    "code": null,
+    "code": "GI",
     "unofficial_names": [
       "Kitega"
     ],
@@ -318,11 +444,12 @@
       "ccp": "𑄉𑄭𑄖𑄴𑄉",
       "no": "Gitega"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KI": {
     "name": "Kirundo",
-    "code": null,
+    "code": "KI",
     "unofficial_names": "Kirundo",
     "geo": {
       "latitude": -2.5848378,
@@ -380,11 +507,12 @@
       "uk": "Провінція Кірундо",
       "no": "Kirundo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KR": {
     "name": "Karuzi",
-    "code": null,
+    "code": "KR",
     "unofficial_names": [
       "Karusi"
     ],
@@ -443,11 +571,12 @@
       "uk": "Провінція Карузі",
       "no": "Karuzi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KY": {
     "name": "Kayanza",
-    "code": null,
+    "code": "KY",
     "unofficial_names": "Kayanza",
     "geo": {
       "latitude": -2.9218531,
@@ -503,11 +632,12 @@
       "ccp": "𑄇𑄠𑄚𑄴𑄎",
       "no": "Kayanza"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MA": {
     "name": "Makamba",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Makamba",
     "geo": {
       "latitude": -4.133332999999999,
@@ -563,11 +693,12 @@
       "uk": "Провінція Макамба",
       "no": "Makamba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MU": {
     "name": "Muramvya",
-    "code": null,
+    "code": "MU",
     "unofficial_names": [
       "Muramuya"
     ],
@@ -626,11 +757,12 @@
       "ccp": "𑄟𑄪𑄢𑄟𑄴𑄞𑄨𑄠",
       "no": "Muramvya"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MW": {
     "name": "Mwaro",
-    "code": null,
+    "code": "MW",
     "unofficial_names": "Mwaro",
     "geo": {
       "latitude": -3.511985,
@@ -685,11 +817,12 @@
       "uk": "Провінція Мваро",
       "no": "Mwaro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MY": {
     "name": "Muyinga",
-    "code": null,
+    "code": "MY",
     "unofficial_names": [
       "Muhinga"
     ],
@@ -746,11 +879,12 @@
       "uk": "Провінція Муйінга",
       "no": "Muyinga"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NG": {
     "name": "Ngozi",
-    "code": null,
+    "code": "NG",
     "unofficial_names": "Ngozi",
     "geo": {
       "latitude": -2.9,
@@ -806,11 +940,43 @@
       "ccp": "𑄉𑄮𑄎𑄨",
       "no": "Ngozi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "RM": {
+    "name": "Province de Rumonge",
+    "code": "RM",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "de": "Rumonge",
+      "en": "Rumonge",
+      "fi": "Rumongen provinssi",
+      "fr": "Province de Rumonge",
+      "it": "Provincia di Rumonge",
+      "ja": "ルモンゲ県",
+      "ko": "루몽게 주",
+      "nl": "Rumonge",
+      "sv": "Rumonge",
+      "ur": "رومونگی صوبہ",
+      "zh": "鲁蒙盖省",
+      "fa": "استان رومونگه",
+      "ccp": "𑄢𑄟𑄧𑄁𑄉𑄬",
+      "es": "Provincia de Rumonge"
+    },
+    "comments": null,
+    "type": "province"
   },
   "RT": {
     "name": "Rutana",
-    "code": null,
+    "code": "RT",
     "unofficial_names": "Rutana",
     "geo": {
       "latitude": -3.9257199,
@@ -867,11 +1033,12 @@
       "uk": "Провінція Рутана",
       "no": "Rutana"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "RY": {
     "name": "Ruyigi",
-    "code": null,
+    "code": "RY",
     "unofficial_names": "Ruyigi",
     "geo": {
       "latitude": -3.4750027,
@@ -926,156 +1093,8 @@
       "uk": "Муніципалітет Руйігі",
       "no": "Ruyigi"
     },
-    "comments": null
-  },
-  "BL": {
-    "name": "province de Bujumbura rural",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "مقاطعة بويمبورا الريفية",
-      "bn": "বুজাম্বুরা রুরাল প্রদেশ",
-      "da": "Bujumbura Rural Province",
-      "de": "Bujumbura Rural",
-      "el": "Μπουζουμπουρά-Ρουράλ",
-      "en": "Bujumbura Rural",
-      "es": "Provincia de Buyumbura Rural",
-      "et": "Bujumbura maaprovints",
-      "eu": "Bujumbura Rural probintzia",
-      "fi": "Bujumbura Rural",
-      "fr": "province de Bujumbura rural",
-      "gl": "Bujumbura Rural",
-      "gu": "બુજુમ્બુરા રૂરલ પ્રાંત",
-      "hi": "बुखुम्बुरा ग्रामीण प्रांत",
-      "id": "Provinsi Bujumbura Rural",
-      "it": "provincia di Bujumbura Rurale",
-      "ja": "ブジュンブラ近郊県",
-      "ka": "ბუჟუმბურა-რურალი",
-      "kn": "ಬುಜುಂಬುರಾ ಗ್ರಾಮೀಣ ಪ್ರಾಂತ್ಯ",
-      "ko": "부줌부라 교외주",
-      "lt": "Bužumbūros kaimiškoji provincija",
-      "mr": "बुजुंबुरा ग्रामीण प्रांत",
-      "ms": "Bujumbura Rural Province",
-      "nb": "Bujumbura Rural",
-      "nl": "Bujumbura Rural",
-      "pl": "Prowincja Bużumbura",
-      "pt": "Bujumbura Rural",
-      "ro": "Provincia Bujumbura Rurală",
-      "ru": "Бужумбура-Рурал",
-      "si": "බුජුම්බුරා දුෂ්කර පළාත",
-      "sv": "Bujumbura Rural",
-      "ta": "பூஜும்புறா ரூரல் மாகாணம்",
-      "te": "బుజుంబుర రూరల్ ప్రావిన్స్",
-      "th": "จังหวัดบูจุมบูรา รูเลล",
-      "tr": "Bujumbura Rural ili",
-      "uk": "Бужумбура",
-      "ur": "بوجمبورا دیہی صوبہ",
-      "vi": "Tỉnh Bujumbura Rural",
-      "lv": "Bužumburas lauku province",
-      "ceb": "Bujumbura Rural Province",
-      "zh": "布松布拉鄉村省",
-      "sw": "Bujumbura Vijijini",
-      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢 𑄢𑄪𑄢𑄣𑄴",
-      "no": "Bujumbura Rural"
-    },
-    "comments": null
-  },
-  "BM": {
-    "name": "province de Bujumbura Mairie",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "مقاطعة بويومبورا مايري",
-      "bn": "বুজুম্বুরা মাইরি প্রদেশ",
-      "da": "Bujumbura Mairie Province",
-      "de": "Bujumbura Mairie",
-      "el": "Μπουτζουμπούρα",
-      "en": "Bujumbura",
-      "es": "Provincia de Buyumbura Mairie",
-      "et": "Bujumbura linnaprovints",
-      "eu": "Bujumbura Mairie probintzia",
-      "fi": "Bujumbura Mairie",
-      "fr": "province de Bujumbura Mairie",
-      "gl": "Bujumbura Mairie",
-      "gu": "બુજુમ્બુરા મૈરી પ્રાંત",
-      "hi": "बुखुम्बरा मैरी प्रांत",
-      "id": "Provinsi Bujumbura Mairie",
-      "it": "provincia di Bujumbura Mairie",
-      "ja": "ブジュンブラ・メリー県",
-      "ka": "ბუჟუმბურა-მერი",
-      "kn": "ಬುಜುಂಬುರಾ ಮೈರೈ ಪ್ರಾಂತ್ಯ",
-      "ko": "부줌부라 도시주",
-      "mr": "बुजुंबुरा मारी प्रांत",
-      "ms": "Bujumbura Mairie Province",
-      "nb": "Bujumbura Mairie",
-      "nl": "Bujumbura Mairie",
-      "pl": "Prowincja Miasto Bużumbura",
-      "pt": "Bujumbura Mairie",
-      "ro": "Provincia Bujumbura Mairie",
-      "ru": "Бужумбура-Мэри",
-      "si": "බුජුම්බුරා මෛරියේ",
-      "sv": "Bujumbura Mairie",
-      "ta": "பூஜும்புறா மேரியே மாகாணம்",
-      "te": "బుజుంబురా మెయిరీ ప్రావిన్స్",
-      "th": "จังหวัดบูจุมบูรา ไมรี่",
-      "tr": "Bujumbra Mairie Province",
-      "uk": "Бужумбура-Мері",
-      "ur": "بوجمبورا میری صوبہ",
-      "vi": "Tỉnh Bujumbura Mairie",
-      "lv": "Bužumburas Mērijas province",
-      "ceb": "Bujumbura Mairie Province",
-      "lt": "Budžumbura Meri provincija",
-      "sw": "Bujumbura Mjini",
-      "ccp": "𑄝𑄪𑄎𑄪𑄟𑄴𑄝𑄪𑄢",
-      "no": "Bujumbura Mairie"
-    },
-    "comments": null
-  },
-  "RM": {
-    "name": "Province de Rumonge",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "de": "Rumonge",
-      "en": "Rumonge",
-      "fi": "Rumongen provinssi",
-      "fr": "Province de Rumonge",
-      "it": "Provincia di Rumonge",
-      "ja": "ルモンゲ県",
-      "ko": "루몽게 주",
-      "nl": "Rumonge",
-      "sv": "Rumonge",
-      "ur": "رومونگی صوبہ",
-      "zh": "鲁蒙盖省",
-      "fa": "استان رومونگه",
-      "ccp": "𑄢𑄟𑄧𑄁𑄉𑄬",
-      "es": "Provincia de Rumonge"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

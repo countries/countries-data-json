@@ -1,7 +1,7 @@
 {
   "BR": {
     "name": "Brokopondo",
-    "code": null,
+    "code": "BR",
     "unofficial_names": "Brokopondo",
     "geo": {
       "latitude": 4.7710247,
@@ -55,11 +55,12 @@
       "ccp": "𑄝𑄳𑄢𑄮𑄇𑄨𑄛𑄮𑄚𑄴𑄓𑄮",
       "no": "Brokopondo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CM": {
     "name": "Commewijne",
-    "code": null,
+    "code": "CM",
     "unofficial_names": "Commewijne",
     "geo": {
       "latitude": 5.740211,
@@ -113,11 +114,12 @@
       "ccp": "𑄇𑄧𑄟𑄬𑄅𑄪𑄃𑄨𑄌𑄴𑄚𑄬",
       "no": "Commewijne"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CR": {
     "name": "Coronie",
-    "code": null,
+    "code": "CR",
     "unofficial_names": "Coronie",
     "geo": {
       "latitude": 5.6943271,
@@ -170,11 +172,12 @@
       "ccp": "𑄇𑄧𑄮𑄢𑄮𑄚𑄭",
       "no": "Coronie"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MA": {
     "name": "Marowijne",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Marowijne",
     "geo": {
       "latitude": 5.6268128,
@@ -227,11 +230,12 @@
       "ccp": "𑄟𑄬𑄢𑄮𑄃𑄨𑄌𑄴𑄚𑄬",
       "no": "Marowijne"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "NI": {
     "name": "Nickerie",
-    "code": null,
+    "code": "NI",
     "unofficial_names": "Nickerie",
     "geo": {
       "latitude": 5.5855469,
@@ -284,11 +288,12 @@
       "ccp": "𑄚𑄨𑄇𑄬𑄢𑄭",
       "no": "Nickerie"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PM": {
     "name": "Paramaribo",
-    "code": null,
+    "code": "PM",
     "unofficial_names": "Paramaribo",
     "geo": {
       "latitude": 5.8520355,
@@ -329,11 +334,12 @@
       "ccp": "𑄛𑄳𑄠𑄢𑄟𑄢𑄨𑄝𑄮",
       "no": "Paramaribo"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PR": {
     "name": "Para",
-    "code": null,
+    "code": "PR",
     "unofficial_names": "Para",
     "geo": {
       "latitude": 5.481731799999999,
@@ -386,11 +392,12 @@
       "ccp": "𑄛𑄳𑄠𑄢",
       "no": "Para"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SA": {
     "name": "Saramacca",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Saramacca",
     "geo": {
       "latitude": 5.7240813,
@@ -443,11 +450,12 @@
       "ccp": "𑄥𑄢𑄟𑄇𑄳𑄦",
       "no": "Saramacca"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SI": {
     "name": "Sipaliwini",
-    "code": null,
+    "code": "SI",
     "unofficial_names": "Sipaliwini",
     "geo": {
       "latitude": 2.0331027,
@@ -499,11 +507,12 @@
       "ccp": "𑄥𑄨𑄛𑄣𑄨𑄅𑄪𑄃𑄨𑄚𑄨",
       "no": "Sipaliwini"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "WA": {
     "name": "Wanica",
-    "code": null,
+    "code": "WA",
     "unofficial_names": "Wanica",
     "geo": {
       "latitude": 5.7323762,
@@ -559,7 +568,8 @@
       "ca": "Wanica",
       "no": "Wanica"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

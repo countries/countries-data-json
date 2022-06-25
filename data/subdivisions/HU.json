@@ -1,7 +1,7 @@
 {
   "BA": {
     "name": "Baranya",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Baranya",
     "geo": {
       "latitude": 46.0484585,
@@ -59,11 +59,12 @@
       "az": "Baranya əyaləti",
       "mk": "Барања"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "BC": {
     "name": "Békéscsaba",
-    "code": null,
+    "code": "BC",
     "unofficial_names": "Békéscsaba",
     "geo": {
       "latitude": 46.6735939,
@@ -134,11 +135,12 @@
       "mk": "Бекешчаба",
       "no": "Békéscsaba"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "BE": {
     "name": "Békés",
-    "code": null,
+    "code": "BE",
     "unofficial_names": "Békés",
     "geo": {
       "latitude": 46.7711185,
@@ -207,11 +209,12 @@
       "mk": "Бекеш",
       "no": "Bekes Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "BK": {
     "name": "Bács-Kiskun",
-    "code": null,
+    "code": "BK",
     "unofficial_names": "Bács-Kiskun",
     "geo": {
       "latitude": 46.5661437,
@@ -281,11 +284,12 @@
       "mk": "Бач-Кишкун",
       "no": "Bacs-Kiskun Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "BU": {
     "name": "Budapest",
-    "code": null,
+    "code": "BU",
     "unofficial_names": "Budapest",
     "geo": {
       "latitude": 47.497912,
@@ -380,11 +384,12 @@
       "no": "Budapest",
       "yo_BJ": "Budapest"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_city"
   },
   "BZ": {
     "name": "Borsod-Abaúj-Zemplén",
-    "code": null,
+    "code": "BZ",
     "unofficial_names": "Borsod-Abaúj-Zemplén",
     "geo": {
       "latitude": 48.2939401,
@@ -454,11 +459,12 @@
       "mk": "Боршод-Абауј-Земплен",
       "no": "Borsod Abauj Zemplen Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "CS": {
     "name": "Csongrád",
-    "code": null,
+    "code": "CS",
     "unofficial_names": "Csongrád",
     "geo": {
       "latitude": 46.7084264,
@@ -526,11 +532,12 @@
       "mk": "Чонград",
       "no": "Csongrád (fylke)"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "DE": {
     "name": "Debrecen",
-    "code": null,
+    "code": "DE",
     "unofficial_names": "Debrecen",
     "geo": {
       "latitude": 47.5316049,
@@ -611,11 +618,12 @@
       "mk": "Дебрецин",
       "no": "Debrecen"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "DU": {
     "name": "Dunaújváros",
-    "code": null,
+    "code": "DU",
     "unofficial_names": "Dunaújváros",
     "geo": {
       "latitude": 46.9619059,
@@ -669,11 +677,12 @@
       "az": "Dunauyvaroş",
       "mk": "Дунаујварош"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "EG": {
     "name": "Eger",
-    "code": null,
+    "code": "EG",
     "unofficial_names": "Eger",
     "geo": {
       "latitude": 47.9025348,
@@ -734,11 +743,12 @@
       "mk": "Егер",
       "no": "Eger"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "ER": {
     "name": "Érd",
-    "code": null,
+    "code": "ER",
     "unofficial_names": "Érd",
     "geo": {
       "latitude": 47.3919718,
@@ -790,11 +800,12 @@
       "az": "Erd",
       "mk": "Ерд"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "FE": {
     "name": "Fejér",
-    "code": null,
+    "code": "FE",
     "unofficial_names": "Fejér",
     "geo": {
       "latitude": 47.1217932,
@@ -865,11 +876,12 @@
       "mk": "Фејер",
       "no": "Fejer fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "GS": {
     "name": "Győr-Moson-Sopron",
-    "code": null,
+    "code": "GS",
     "unofficial_names": "Győr-Moson-Sopron",
     "geo": {
       "latitude": 47.6509285,
@@ -940,11 +952,12 @@
       "mk": "Ѓер-Мошон-Шопрон",
       "no": "Gyor Moson Sopron Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "GY": {
     "name": "Győr",
-    "code": null,
+    "code": "GY",
     "unofficial_names": "Győr",
     "geo": {
       "latitude": 47.6874569,
@@ -1021,11 +1034,12 @@
       "mk": "Ѓер",
       "no": "Győr"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "HB": {
     "name": "Hajdú-Bihar",
-    "code": null,
+    "code": "HB",
     "unofficial_names": "Hajdú-Bihar",
     "geo": {
       "latitude": 47.4688355,
@@ -1094,11 +1108,12 @@
       "mk": "Хајду-Бихар",
       "no": "Hajdu-Bihar Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "HE": {
     "name": "Heves",
-    "code": null,
+    "code": "HE",
     "unofficial_names": "Heves",
     "geo": {
       "latitude": 47.5971694,
@@ -1168,11 +1183,12 @@
       "mk": "Хевеш",
       "no": "Heves Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "HV": {
     "name": "Hódmezővásárhely",
-    "code": null,
+    "code": "HV",
     "unofficial_names": "Hódmezővásárhely",
     "geo": {
       "latitude": 46.4181262,
@@ -1230,11 +1246,12 @@
       "mk": "Ходмезевашархељ",
       "no": "Hódmezővásárhely"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "JN": {
     "name": "Jász-Nagykun-Szolnok",
-    "code": null,
+    "code": "JN",
     "unofficial_names": "Jász-Nagykun-Szolnok",
     "geo": {
       "latitude": 47.2555579,
@@ -1305,11 +1322,12 @@
       "mk": "Јас-Наѓкун-Солнок",
       "no": "Jasz Nagykun Szolnok fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KE": {
     "name": "Komárom-Esztergom",
-    "code": null,
+    "code": "KE",
     "unofficial_names": "Komárom-Esztergom",
     "geo": {
       "latitude": 47.7390852,
@@ -1379,11 +1397,12 @@
       "mk": "Комаром-Естергом",
       "no": "Komarom-Esztergom fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KM": {
     "name": "Kecskemét",
-    "code": null,
+    "code": "KM",
     "unofficial_names": "Kecskemét",
     "geo": {
       "latitude": 46.8963711,
@@ -1456,11 +1475,12 @@
       "mk": "Кечкемет",
       "no": "Kecskemet"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "KV": {
     "name": "Kaposvár",
-    "code": null,
+    "code": "KV",
     "unofficial_names": "Kaposvár",
     "geo": {
       "latitude": 46.3593606,
@@ -1533,11 +1553,12 @@
       "mk": "Капошвар",
       "no": "Kaposvár"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "MI": {
     "name": "Miskolc",
-    "code": null,
+    "code": "MI",
     "unofficial_names": "Miskolc",
     "geo": {
       "latitude": 48.0963631,
@@ -1612,11 +1633,12 @@
       "mk": "Мишколц",
       "no": "Miskolc"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "NK": {
     "name": "Nagykanizsa",
-    "code": null,
+    "code": "NK",
     "unofficial_names": "Nagykanizsa",
     "geo": {
       "latitude": 46.4590218,
@@ -1672,11 +1694,12 @@
       "ccp": "𑄚𑄉𑄭𑄇𑄚𑄨𑄌𑄴𑄥",
       "no": "Nagykanizsa"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "NO": {
     "name": "Nógrád",
-    "code": null,
+    "code": "NO",
     "unofficial_names": "Nógrád",
     "geo": {
       "latitude": 47.90410310000001,
@@ -1746,11 +1769,12 @@
       "mk": "Ноград",
       "no": "Nógrád"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "NY": {
     "name": "Nyíregyháza",
-    "code": null,
+    "code": "NY",
     "unofficial_names": "Nyíregyháza",
     "geo": {
       "latitude": 47.9495324,
@@ -1823,11 +1847,12 @@
       "mk": "Њиреѓхаза",
       "no": "Nyíregyháza"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "PE": {
     "name": "Pest",
-    "code": null,
+    "code": "PE",
     "unofficial_names": "Pest",
     "geo": {
       "latitude": 47.44800009999999,
@@ -1886,11 +1911,12 @@
       "mk": "Пешта",
       "no": "Pest"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "PS": {
     "name": "Pécs",
-    "code": null,
+    "code": "PS",
     "unofficial_names": "Pécs",
     "geo": {
       "latitude": 46.0727345,
@@ -1965,11 +1991,12 @@
       "mk": "Печ",
       "no": "Pécs"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SD": {
     "name": "Szeged",
-    "code": null,
+    "code": "SD",
     "unofficial_names": "Szeged",
     "geo": {
       "latitude": 46.2530102,
@@ -2043,11 +2070,12 @@
       "mk": "Сегедин",
       "no": "Szeged"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SF": {
     "name": "Székesfehérvár",
-    "code": null,
+    "code": "SF",
     "unofficial_names": "Székesfehérvár",
     "geo": {
       "latitude": 47.18602620000001,
@@ -2120,11 +2148,12 @@
       "mk": "Секешфехервар",
       "no": "Székesfehérvár"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SH": {
     "name": "Szombathely",
-    "code": null,
+    "code": "SH",
     "unofficial_names": "Szombathely",
     "geo": {
       "latitude": 47.2306851,
@@ -2196,11 +2225,12 @@
       "mk": "Сомбатхељ",
       "no": "Szombathely"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SK": {
     "name": "Szolnok",
-    "code": null,
+    "code": "SK",
     "unofficial_names": "Szolnok",
     "geo": {
       "latitude": 47.16213550000001,
@@ -2272,11 +2302,12 @@
       "mk": "Солнок",
       "no": "Szolnok"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SN": {
     "name": "Sopron",
-    "code": null,
+    "code": "SN",
     "unofficial_names": "Sopron",
     "geo": {
       "latitude": 47.68166189999999,
@@ -2339,11 +2370,12 @@
       "mk": "Шопрон",
       "no": "Sopron"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SO": {
     "name": "Somogy",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Somogy",
     "geo": {
       "latitude": 46.554859,
@@ -2413,11 +2445,12 @@
       "mk": "Шомоѓ",
       "no": "Saomogy fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "SS": {
     "name": "Szekszárd",
-    "code": null,
+    "code": "SS",
     "unofficial_names": "Szekszárd",
     "geo": {
       "latitude": 46.3474326,
@@ -2436,7 +2469,7 @@
       "cs": "Szekszárd",
       "da": "Szekszárd",
       "de": "Szekszárd",
-      "el": "Σέξαρντ",
+      "el": "Σέξαρντ (Σέκσαρντ)",
       "en": "Szekszárd",
       "es": "Szekszárd",
       "et": "Szekszárd",
@@ -2488,11 +2521,12 @@
       "mk": "Сексард",
       "no": "Szekszárd"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "ST": {
     "name": "Salgótarján",
-    "code": null,
+    "code": "ST",
     "unofficial_names": "Salgótarján",
     "geo": {
       "latitude": 48.0935237,
@@ -2562,11 +2596,12 @@
       "mk": "Шалготарјан",
       "no": "Salgótarján"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "SZ": {
     "name": "Szabolcs-Szatmár-Bereg",
-    "code": null,
+    "code": "SZ",
     "unofficial_names": "Szabolcs-Szatmár-Bereg",
     "geo": {
       "latitude": 48.0394954,
@@ -2637,11 +2672,12 @@
       "mk": "Саболч-Сатмар-Берег",
       "no": "Szaboles Szatmar Bereg fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "TB": {
     "name": "Tatabánya",
-    "code": null,
+    "code": "TB",
     "unofficial_names": "Tatabánya",
     "geo": {
       "latitude": 47.569246,
@@ -2713,11 +2749,12 @@
       "mk": "Татабања",
       "no": "Tatabanya"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "TO": {
     "name": "Tolna",
-    "code": null,
+    "code": "TO",
     "unofficial_names": "Tolna",
     "geo": {
       "latitude": 46.4258265,
@@ -2786,11 +2823,12 @@
       "mk": "Толна",
       "no": "Tolna Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "VA": {
     "name": "Vas",
-    "code": null,
+    "code": "VA",
     "unofficial_names": "Vas",
     "geo": {
       "latitude": 47.09291109999999,
@@ -2861,11 +2899,12 @@
       "mk": "Ваш",
       "no": "Vas Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "VE": {
     "name": "Veszprém",
-    "code": null,
+    "code": "VE",
     "unofficial_names": "Veszprém",
     "geo": {
       "latitude": 47.1028087,
@@ -2934,11 +2973,12 @@
       "mk": "Веспрем",
       "no": "Veszprém"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "VM": {
     "name": "Veszprém",
-    "code": null,
+    "code": "VM",
     "unofficial_names": "Veszprém",
     "geo": {
       "latitude": 47.1028087,
@@ -2952,20 +2992,20 @@
       "ar": "فيسبرم",
       "az": "Vesprem",
       "be": "Горад Веспрэм",
-      "bg": "Веспрем",
+      "bg": "Веспрем²",
       "bn": "ভেসপ্রেম",
-      "ca": "Veszprém",
-      "cs": "Veszprém",
-      "da": "Veszprém",
+      "ca": "Veszprém²",
+      "cs": "Veszprém²",
+      "da": "Veszprém²",
       "de": "Veszprém",
       "el": "Βεσζπρέμ",
       "en": "Veszprém",
-      "es": "Veszprém",
+      "es": "Veszprém²",
       "et": "Veszprém",
-      "eu": "Veszprém",
+      "eu": "Veszprém²",
       "fa": "وسپریم",
-      "fi": "Veszprém",
-      "fr": "Veszprém",
+      "fi": "Veszprém²",
+      "fr": "Veszprém²",
       "gl": "Veszprém",
       "gu": "વેસ્ઝપ્રેમ",
       "he": "וספרם",
@@ -2973,32 +3013,32 @@
       "hr": "Vesprim",
       "hu": "Veszprém",
       "hy": "Վեսպրեմ",
-      "id": "Veszprém",
+      "id": "Veszprém²",
       "it": "Veszprém",
       "ja": "ヴェスプレーム",
       "ka": "ვესპრემი",
       "kn": "ವೆಸ್ಜ್ಪ್ರೆಮ್",
       "ko": "베스프렘",
-      "lt": "Vesprėmas",
+      "lt": "Vesprėmas²",
       "mr": "वेसीझप्रेम",
-      "ms": "Veszprém",
+      "ms": "Veszprém²",
       "nb": "Veszprém",
-      "nl": "Veszprém",
+      "nl": "Veszprém²",
       "pl": "Veszprém",
-      "pt": "Veszprém",
+      "pt": "Veszprém²",
       "ro": "Veszprém",
-      "ru": "Веспрем",
+      "ru": "Веспрем²",
       "si": "වෙස්ප්‍රේම්",
       "sk": "Vesprém",
-      "sl": "Veszprém",
-      "sr": "Веспрем",
-      "sv": "Veszprém",
-      "sw": "Veszprém",
+      "sl": "Veszprém²",
+      "sr": "Веспрем²",
+      "sv": "Veszprém²",
+      "sw": "Veszprém²",
       "ta": "வெஸ்பிரேம்",
       "te": "వేస్జ్ ప్రేమ్",
       "th": "เวสเปรม",
       "tr": "Veszprém",
-      "uk": "Веспрем",
+      "uk": "Веспрем²",
       "ur": "ویسزپریم",
       "vi": "Veszprém",
       "lv": "Vesprēma",
@@ -3010,11 +3050,12 @@
       "mk": "Веспрем²",
       "no": "Veszprém²"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   },
   "ZA": {
     "name": "Zala",
-    "code": null,
+    "code": "ZA",
     "unofficial_names": "Zala",
     "geo": {
       "latitude": 46.73844039999999,
@@ -3083,11 +3124,12 @@
       "mk": "Зала",
       "no": "Zala Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "ZE": {
     "name": "Zalaegerszeg",
-    "code": null,
+    "code": "ZE",
     "unofficial_names": "Zalaegerszeg",
     "geo": {
       "latitude": 46.8416936,
@@ -3159,7 +3201,8 @@
       "mk": "Залаегерсег",
       "no": "Zalaegerszeg"
     },
-    "comments": null
+    "comments": null,
+    "type": "city_with_county_rights"
   }
 }
 

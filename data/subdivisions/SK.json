@@ -1,7 +1,7 @@
 {
   "BC": {
     "name": "Banskobystrický kraj",
-    "code": null,
+    "code": "BC",
     "unofficial_names": "Banskobystrický kraj",
     "geo": {
       "latitude": 48.5312499,
@@ -68,11 +68,12 @@
       "bs": "Banska Bistrica",
       "no": "Banská Bystrica"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "BL": {
     "name": "Bratislavský kraj",
-    "code": null,
+    "code": "BL",
     "unofficial_names": "Bratislavský kraj",
     "geo": {
       "latitude": 48.3118304,
@@ -141,11 +142,12 @@
       "mk": "Братиславски крај",
       "no": "Bratislava"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KI": {
     "name": "Košický kraj",
-    "code": null,
+    "code": "KI",
     "unofficial_names": "Košický kraj",
     "geo": {
       "latitude": 48.6375737,
@@ -211,11 +213,12 @@
       "bs": "Košice",
       "no": "Košice"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "NI": {
     "name": "Nitriansky kraj",
-    "code": null,
+    "code": "NI",
     "unofficial_names": "Nitriansky kraj",
     "geo": {
       "latitude": 48.0143765,
@@ -281,11 +284,12 @@
       "bs": "Nitra",
       "no": "Nitra"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "PV": {
     "name": "Prešovský kraj",
-    "code": null,
+    "code": "PV",
     "unofficial_names": "Prešovský kraj",
     "geo": {
       "latitude": 49.1716773,
@@ -352,11 +356,12 @@
       "bs": "Prešov",
       "no": "Prešov"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TA": {
     "name": "Trnavský kraj",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Trnavský kraj",
     "geo": {
       "latitude": 48.3943898,
@@ -425,11 +430,12 @@
       "bs": "Trnava",
       "no": "Trnava"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TC": {
     "name": "Trenciansky kraj",
-    "code": null,
+    "code": "TC",
     "unofficial_names": "Trenciansky kraj",
     "geo": {
       "latitude": 48.8086758,
@@ -497,11 +503,12 @@
       "bs": "Trenčin",
       "no": "Trenčín"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ZI": {
     "name": "Žilinský kraj",
-    "code": null,
+    "code": "ZI",
     "unofficial_names": "Žilinský kraj",
     "geo": {
       "latitude": 49.2031435,
@@ -569,7 +576,8 @@
       "bs": "Žilina",
       "no": "Žilina"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

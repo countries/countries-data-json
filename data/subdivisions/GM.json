@@ -1,7 +1,7 @@
 {
   "B": {
     "name": "Banjul",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Banjul",
     "geo": {
       "latitude": 13.453056,
@@ -92,11 +92,12 @@
       "no": "Banjul",
       "yo_BJ": "Banjul"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "L": {
     "name": "Lower River",
-    "code": null,
+    "code": "L",
     "unofficial_names": [
       "Lower River"
     ],
@@ -157,11 +158,12 @@
       "mk": "Долна Река",
       "no": "Lower River"
     },
-    "comments": null
+    "comments": null,
+    "type": "division"
   },
   "M": {
     "name": "MacCarthy Island",
-    "code": null,
+    "code": "M",
     "unofficial_names": "MacCarthy Island",
     "geo": {
       "latitude": 13.5336211,
@@ -219,11 +221,12 @@
       "mk": "Средна Река",
       "no": "Central River"
     },
-    "comments": null
+    "comments": null,
+    "type": "division"
   },
   "N": {
     "name": "North Bank",
-    "code": null,
+    "code": "N",
     "unofficial_names": [
       "North Bank"
     ],
@@ -283,11 +286,12 @@
       "mk": "Северен Брег",
       "no": "North Bank"
     },
-    "comments": null
+    "comments": null,
+    "type": "division"
   },
   "U": {
     "name": "Upper River",
-    "code": null,
+    "code": "U",
     "unofficial_names": [
       "Upper River"
     ],
@@ -347,11 +351,12 @@
       "mk": "Горна Река",
       "no": "Upper River"
     },
-    "comments": null
+    "comments": null,
+    "type": "division"
   },
   "W": {
     "name": "Western",
-    "code": null,
+    "code": "W",
     "unofficial_names": [
       "Western"
     ],
@@ -411,7 +416,8 @@
       "mk": "Западен Округ",
       "no": "West Coast"
     },
-    "comments": null
+    "comments": null,
+    "type": "division"
   }
 }
 

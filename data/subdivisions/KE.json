@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Baringo",
-    "code": null,
+    "code": "01",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -30,11 +30,12 @@
       "ccp": "𑄝𑄢𑄨𑄁𑄉𑄮",
       "no": "Baringo fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "02": {
     "name": "Bomet",
-    "code": null,
+    "code": "02",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -62,11 +63,12 @@
       "ccp": "𑄝𑄧𑄟𑄬𑄖𑄴",
       "no": "Bomet (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "03": {
     "name": "Bungoma",
-    "code": null,
+    "code": "03",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -95,11 +97,12 @@
       "ccp": "𑄝𑄚𑄴𑄉𑄮𑄟",
       "no": "Bungoma fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "04": {
     "name": "Busia",
-    "code": null,
+    "code": "04",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -130,11 +133,12 @@
       "ca": "Busia",
       "no": "Busia fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "05": {
     "name": "Elgeyo/Marakwet",
-    "code": null,
+    "code": "05",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -156,11 +160,12 @@
       "ccp": "𑄃𑄬𑄣𑄴𑄉𑄬𑄃𑄮-𑄟𑄢𑄇𑄴𑄤𑄬𑄖𑄴",
       "no": "Elgeyo-Marakwet fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "06": {
     "name": "Embu",
-    "code": null,
+    "code": "06",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -190,11 +195,12 @@
       "ccp": "𑄃𑄬𑄟𑄴𑄝𑄪",
       "no": "Embu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "07": {
     "name": "Garissa",
-    "code": null,
+    "code": "07",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -226,11 +232,12 @@
       "ccp": "𑄉𑄢𑄨𑄥",
       "no": "Garissa (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "08": {
     "name": "Homa Bay",
-    "code": null,
+    "code": "08",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -260,11 +267,12 @@
       "es": "Condado de Homa Bay",
       "no": "Homa Bay fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "09": {
     "name": "Isiolo",
-    "code": null,
+    "code": "09",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -293,11 +301,12 @@
       "ccp": "𑄃𑄭𑄥𑄨𑄃𑄮𑄣𑄮",
       "no": "Isiolo fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "10": {
     "name": "Kajiado",
-    "code": null,
+    "code": "10",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -327,11 +336,12 @@
       "fr": "Kajiado (comté du Kenya)",
       "no": "Kajiado fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "11": {
     "name": "Kakamega",
-    "code": null,
+    "code": "11",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -361,11 +371,12 @@
       "ccp": "𑄇𑄇𑄟𑄬𑄉",
       "no": "Kakamega fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "12": {
     "name": "Kericho",
-    "code": null,
+    "code": "12",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -394,11 +405,12 @@
       "ccp": "𑄇𑄬𑄢𑄨𑄌𑄮",
       "no": "Kericho fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "13": {
     "name": "Kiambu",
-    "code": null,
+    "code": "13",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -428,11 +440,12 @@
       "ccp": "𑄇𑄨𑄠𑄟𑄴𑄝𑄪",
       "no": "Kiambu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "14": {
     "name": "Kilifi",
-    "code": null,
+    "code": "14",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -463,11 +476,12 @@
       "ccp": "𑄇𑄨𑄣𑄨𑄜𑄨",
       "no": "Kilifi fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "15": {
     "name": "Kirinyaga",
-    "code": null,
+    "code": "15",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -497,11 +511,12 @@
       "he": "קריניאגה",
       "no": "Kirinyaga fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "16": {
     "name": "Kisii",
-    "code": null,
+    "code": "16",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -533,11 +548,12 @@
       "es": "Condado de Kisii",
       "no": "Kisii (distrikt)"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "17": {
     "name": "Kisumu",
-    "code": null,
+    "code": "17",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -568,11 +584,12 @@
       "es": "Condado de Kisumu",
       "no": "Kisumu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "18": {
     "name": "Kitui",
-    "code": null,
+    "code": "18",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -603,11 +620,12 @@
       "fr": "Comté de Kitui",
       "no": "Kitui fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "19": {
     "name": "Kwale",
-    "code": null,
+    "code": "19",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -637,11 +655,12 @@
       "ccp": "𑄇𑄬𑄤𑄣𑄬",
       "no": "Kwale fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "20": {
     "name": "Laikipia",
-    "code": null,
+    "code": "20",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -673,11 +692,12 @@
       "hy": "Լայկիպիա",
       "no": "Laikipia fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "21": {
     "name": "Lamu",
-    "code": null,
+    "code": "21",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -707,11 +727,12 @@
       "ccp": "𑄣𑄟𑄴𑄝𑄪",
       "no": "Lamu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "22": {
     "name": "Machakos",
-    "code": null,
+    "code": "22",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -740,11 +761,12 @@
       "ccp": "𑄟𑄳𑄠𑄌𑄇𑄮𑄌𑄴",
       "no": "Machakos fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "23": {
     "name": "Makueni",
-    "code": null,
+    "code": "23",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -772,11 +794,12 @@
       "fr": "Makueni",
       "no": "Makueni fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "24": {
     "name": "Mandera",
-    "code": null,
+    "code": "24",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -805,11 +828,12 @@
       "ccp": "𑄟𑄚𑄴𑄓𑄬𑄢",
       "no": "Mandera fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "25": {
     "name": "Marsabit",
-    "code": null,
+    "code": "25",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -840,11 +864,12 @@
       "fr": "Marsabit",
       "no": "Marsabit fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "26": {
     "name": "Meru",
-    "code": null,
+    "code": "26",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -871,11 +896,12 @@
       "ccp": "𑄟𑄬𑄢𑄪",
       "no": "Meru fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "27": {
     "name": "Migori",
-    "code": null,
+    "code": "27",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -905,11 +931,12 @@
       "uk": "Мігорі (округ)",
       "no": "Migori fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "28": {
     "name": "Mombasa",
-    "code": null,
+    "code": "28",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -941,11 +968,12 @@
       "be": "Мамбаса",
       "no": "Mombasa fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "29": {
     "name": "Murang’a",
-    "code": null,
+    "code": "29",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -973,11 +1001,12 @@
       "ru": "Муранга",
       "ccp": "𑄟𑄪𑄢𑄁‘𑄃"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "30": {
     "name": "Nairobi City",
-    "code": null,
+    "code": "30",
     "unofficial_names": "Nairobi Municipality",
     "geo": {
       "latitude": -1.286577,
@@ -994,7 +1023,7 @@
       "da": "Nairobi County",
       "de": "Nairobi",
       "el": "Ναϊρόμπι",
-      "en": "Nairobi City",
+      "en": "Nairobi County",
       "es": "Nairobi",
       "et": "Nairobi maakond",
       "fi": "Nairobin piirikunta",
@@ -1029,11 +1058,12 @@
       "uk": "Округ Найробі",
       "no": "Nairobi fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "31": {
     "name": "Nakuru",
-    "code": null,
+    "code": "31",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1064,11 +1094,12 @@
       "uk": "округ Накуру",
       "no": "Nakuru fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "32": {
     "name": "Nandi",
-    "code": null,
+    "code": "32",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1100,11 +1131,12 @@
       "he": "מחוז ננדי",
       "no": "Nandi fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "33": {
     "name": "Narok",
-    "code": null,
+    "code": "33",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1131,11 +1163,12 @@
       "ccp": "𑄚𑄢𑄮𑄇𑄴",
       "no": "Narok fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "34": {
     "name": "Nyamira",
-    "code": null,
+    "code": "34",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1163,11 +1196,12 @@
       "es": "Condado de Nyamira",
       "no": "Nyamira fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "35": {
     "name": "Nyandarua",
-    "code": null,
+    "code": "35",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1197,11 +1231,12 @@
       "ccp": "𑄚𑄠𑄚𑄴𑄓𑄢𑄪𑄠",
       "no": "Nyandarua fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "36": {
     "name": "Nyeri",
-    "code": null,
+    "code": "36",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1233,11 +1268,12 @@
       "be": "акруга Ньеры",
       "no": "Nyeri fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "37": {
     "name": "Samburu",
-    "code": null,
+    "code": "37",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1266,11 +1302,12 @@
       "ccp": "𑄥𑄟𑄴𑄝𑄪𑄢𑄪",
       "no": "Samburu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "38": {
     "name": "Siaya",
-    "code": null,
+    "code": "38",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1299,11 +1336,12 @@
       "ccp": "𑄥𑄨𑄠𑄳𑄦",
       "no": "Siaya fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "39": {
     "name": "Taita-Taveta",
-    "code": null,
+    "code": "39",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1329,11 +1367,12 @@
       "ccp": "𑄑𑄭𑄑-𑄑𑄞𑄬𑄑",
       "no": "Taita-Taveta fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "40": {
     "name": "Tana River",
-    "code": null,
+    "code": "40",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1361,11 +1400,12 @@
       "ccp": "𑄑𑄚𑄴 𑄢𑄨𑄞𑄢𑄴",
       "no": "Tana River fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "41": {
     "name": "Tharaka-Nithi",
-    "code": null,
+    "code": "41",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1391,11 +1431,12 @@
       "ccp": "𑄗𑄢𑄇-𑄚𑄨𑄗𑄨",
       "no": "Tharaka-Nithi fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "42": {
     "name": "Trans-Nzoia",
-    "code": null,
+    "code": "42",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1424,11 +1465,12 @@
       "ccp": "𑄑𑄳𑄢𑄚𑄴𑄥𑄴 𑄎𑄮𑄃𑄨𑄠",
       "no": "Trans-Nzoia fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "43": {
     "name": "Turkana",
-    "code": null,
+    "code": "43",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1459,11 +1501,12 @@
       "id": "Kabupaten Turkana",
       "no": "Turkana"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "44": {
     "name": "Uasin Gishu",
-    "code": null,
+    "code": "44",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1492,11 +1535,12 @@
       "ccp": "𑄅𑄪𑄠𑄥𑄨𑄚𑄴 𑄉𑄨𑄥𑄪",
       "no": "Uasin Gishu fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "45": {
     "name": "Vihiga",
-    "code": null,
+    "code": "45",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1524,11 +1568,12 @@
       "ccp": "𑄞𑄨𑄦𑄨𑄉",
       "no": "Vihiga fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "46": {
     "name": "Wajir",
-    "code": null,
+    "code": "46",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1556,11 +1601,12 @@
       "ccp": "𑄤𑄎𑄨𑄢𑄴",
       "no": "Wajir fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "47": {
     "name": "West Pokot",
-    "code": null,
+    "code": "47",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1587,7 +1633,8 @@
       "ccp": "𑄤𑄠𑄬𑄌𑄴 𑄛𑄧𑄇𑄮𑄖𑄴",
       "no": "West Pokot"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   }
 }
 

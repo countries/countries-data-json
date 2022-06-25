@@ -1,7 +1,7 @@
 {
   "AGU": {
     "name": "Aguascalientes",
-    "code": null,
+    "code": "AGU",
     "unofficial_names": "Aguascalientes",
     "geo": {
       "latitude": 21.8852562,
@@ -77,11 +77,12 @@
       "mk": "Агваскалиентес",
       "no": "Aguascalientes"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BCN": {
     "name": "Baja California",
-    "code": null,
+    "code": "BCN",
     "unofficial_names": "Baja California",
     "geo": {
       "latitude": 30.8406338,
@@ -162,11 +163,12 @@
       "mk": "Долна Калифорнија",
       "no": "Baja California"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BCS": {
     "name": "Baja California Sur",
-    "code": null,
+    "code": "BCS",
     "unofficial_names": "Baja California Sur",
     "geo": {
       "latitude": 26.0444446,
@@ -242,11 +244,12 @@
       "mk": "Јужна Долна Калифорнија",
       "no": "Baja California Sur"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CAM": {
     "name": "Campeche",
-    "code": null,
+    "code": "CAM",
     "unofficial_names": "Campeche",
     "geo": {
       "latitude": 19.8301251,
@@ -320,11 +323,12 @@
       "mk": "Кампече",
       "no": "Campeche"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CHH": {
     "name": "Chihuahua",
-    "code": null,
+    "code": "CHH",
     "unofficial_names": "Chihuahua",
     "geo": {
       "latitude": 28.6329957,
@@ -403,11 +407,12 @@
       "mk": "Чивава",
       "no": "Chihuahua"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CHP": {
     "name": "Chiapas",
-    "code": null,
+    "code": "CHP",
     "unofficial_names": "Chiapas",
     "geo": {
       "latitude": 16.7569318,
@@ -481,11 +486,12 @@
       "bs": "Chiapas",
       "no": "Chiapas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CMX": {
     "name": "Ciudad de México",
-    "code": null,
+    "code": "CMX",
     "unofficial_names": "Ciudad de México",
     "geo": {
       "latitude": 19.2464696,
@@ -579,11 +585,12 @@
       "ha_NE": "Mexico",
       "no": "Mexico by"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital"
   },
   "COA": {
     "name": "Coahuila",
-    "code": null,
+    "code": "COA",
     "unofficial_names": "Coahuila de Zaragoza",
     "geo": {
       "latitude": 27.058676,
@@ -657,11 +664,12 @@
       "uz": "Koauila",
       "no": "Coahuila"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "COL": {
     "name": "Colima",
-    "code": null,
+    "code": "COL",
     "unofficial_names": "Colima",
     "geo": {
       "latitude": 19.2452342,
@@ -735,11 +743,12 @@
       "uz": "Kolima",
       "no": "Colima"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "DUR": {
     "name": "Durango",
-    "code": null,
+    "code": "DUR",
     "unofficial_names": "Durango",
     "geo": {
       "latitude": 24.0277202,
@@ -814,11 +823,12 @@
       "mk": "Дуранго",
       "no": "Durango"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GRO": {
     "name": "Guerrero",
-    "code": null,
+    "code": "GRO",
     "unofficial_names": "Guerrero",
     "geo": {
       "latitude": 17.4391926,
@@ -892,11 +902,12 @@
       "mk": "Гереро",
       "no": "Guerrero"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GUA": {
     "name": "Guanajuato",
-    "code": null,
+    "code": "GUA",
     "unofficial_names": "Guanajuato",
     "geo": {
       "latitude": 21.0190145,
@@ -971,11 +982,12 @@
       "mk": "Гванахуато",
       "no": "Guanajuato"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "HID": {
     "name": "Hidalgo",
-    "code": null,
+    "code": "HID",
     "unofficial_names": "Hidalgo",
     "geo": {
       "latitude": 20.0910963,
@@ -1050,11 +1062,12 @@
       "mk": "Идалго",
       "no": "Hidalgo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "JAL": {
     "name": "Jalisco",
-    "code": null,
+    "code": "JAL",
     "unofficial_names": "Jalisco",
     "geo": {
       "latitude": 20.6595382,
@@ -1130,11 +1143,12 @@
       "mk": "Халиско",
       "no": "Jalisco"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MEX": {
     "name": "México",
-    "code": null,
+    "code": "MEX",
     "unofficial_names": "México",
     "geo": {
       "latitude": 19.4326077,
@@ -1207,11 +1221,12 @@
       "uz": "Mexiko",
       "no": "México"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MIC": {
     "name": "Michoacán",
-    "code": null,
+    "code": "MIC",
     "unofficial_names": "Michoacán de Ocampo",
     "geo": {
       "latitude": 19.5665192,
@@ -1284,11 +1299,12 @@
       "uz": "Michoakan",
       "no": "Michoacán"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MOR": {
     "name": "Morelos",
-    "code": null,
+    "code": "MOR",
     "unofficial_names": "Morelos",
     "geo": {
       "latitude": 18.6813049,
@@ -1358,11 +1374,12 @@
       "uz": "Morelos",
       "no": "Morelos"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NAY": {
     "name": "Nayarit",
-    "code": null,
+    "code": "NAY",
     "unofficial_names": "Nayarit",
     "geo": {
       "latitude": 21.7513844,
@@ -1437,11 +1454,12 @@
       "uz": "Nayarit",
       "no": "Nayarit"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NLE": {
     "name": "Nuevo León",
-    "code": null,
+    "code": "NLE",
     "unofficial_names": "Nuevo León",
     "geo": {
       "latitude": 25.592172,
@@ -1514,11 +1532,12 @@
       "uz": "Nuevoleon",
       "no": "Nuevo León"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OAX": {
     "name": "Oaxaca",
-    "code": null,
+    "code": "OAX",
     "unofficial_names": "Oaxaca",
     "geo": {
       "latitude": 17.0594169,
@@ -1600,11 +1619,12 @@
       "uz": "Oaksaka",
       "no": "Oaxaca"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PUE": {
     "name": "Puebla",
-    "code": null,
+    "code": "PUE",
     "unofficial_names": "Puebla",
     "geo": {
       "latitude": 19.0412967,
@@ -1679,11 +1699,12 @@
       "uz": "Puebla",
       "no": "Puebla"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "QUE": {
     "name": "Querétaro",
-    "code": null,
+    "code": "QUE",
     "unofficial_names": "Querétaro",
     "geo": {
       "latitude": 20.5887932,
@@ -1757,11 +1778,12 @@
       "uz": "Keretaro (Meksika)",
       "no": "Querétaro"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ROO": {
     "name": "Quintana Roo",
-    "code": null,
+    "code": "ROO",
     "unofficial_names": "Quintana Roo",
     "geo": {
       "latitude": 19.1817393,
@@ -1835,11 +1857,12 @@
       "mk": "Кинтана Ро",
       "no": "Quintana Roo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SIN": {
     "name": "Sinaloa",
-    "code": null,
+    "code": "SIN",
     "unofficial_names": "Sinaloa",
     "geo": {
       "latitude": 25.825701,
@@ -1918,11 +1941,12 @@
       "no": "Sinaloa",
       "yo_BJ": "Sinaloa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SLP": {
     "name": "San Luis Potosí",
-    "code": null,
+    "code": "SLP",
     "unofficial_names": "San Luis Potosí",
     "geo": {
       "latitude": 22.1564699,
@@ -1995,11 +2019,12 @@
       "uz": "San-Luis-Potosi",
       "no": "San Luis Potosí"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SON": {
     "name": "Sonora",
-    "code": null,
+    "code": "SON",
     "unofficial_names": "Sonora",
     "geo": {
       "latitude": 29.2972247,
@@ -2076,11 +2101,12 @@
       "mk": "Сонора",
       "no": "Sonora"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TAB": {
     "name": "Tabasco",
-    "code": null,
+    "code": "TAB",
     "unofficial_names": "Tabasco",
     "geo": {
       "latitude": 17.8409173,
@@ -2155,11 +2181,12 @@
       "uz": "Tabasko",
       "no": "Tabasco"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TAM": {
     "name": "Tamaulipas",
-    "code": null,
+    "code": "TAM",
     "unofficial_names": "Tamaulipas",
     "geo": {
       "latitude": 24.26694,
@@ -2233,11 +2260,12 @@
       "uz": "Tamaulipas",
       "no": "Tamaulipas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TLA": {
     "name": "Tlaxcala",
-    "code": null,
+    "code": "TLA",
     "unofficial_names": "Tlaxcala",
     "geo": {
       "latitude": 19.3181521,
@@ -2311,11 +2339,12 @@
       "uz": "Tlaskala",
       "no": "Tlaxcala"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "VER": {
     "name": "Veracruz",
-    "code": null,
+    "code": "VER",
     "unofficial_names": "Veracruz de Ignacio de la Llave",
     "geo": {
       "latitude": 19.173773,
@@ -2392,11 +2421,12 @@
       "mk": "Веракруз",
       "no": "Veracruz"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "YUC": {
     "name": "Yucatán",
-    "code": null,
+    "code": "YUC",
     "unofficial_names": "Yucatán",
     "geo": {
       "latitude": 20.7098786,
@@ -2472,11 +2502,12 @@
       "mk": "Јукатан",
       "no": "Yucatán"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ZAC": {
     "name": "Zacatecas",
-    "code": null,
+    "code": "ZAC",
     "unofficial_names": "Zacatecas",
     "geo": {
       "latitude": 22.7709249,
@@ -2552,7 +2583,8 @@
       "mk": "Закатекас",
       "no": "Zacatecas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

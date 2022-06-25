@@ -1,7 +1,7 @@
 {
   "AJ": {
     "name": "'Ajmān",
-    "code": null,
+    "code": "AJ",
     "unofficial_names": "-إمارة عجمانّ - Ujman",
     "geo": {
       "latitude": 25.3995,
@@ -75,11 +75,12 @@
       "no": "Emiratet Ajman",
       "yo_BJ": "Ajman"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "AZ": {
     "name": "Abū Z̧aby [Abu Dhabi]",
-    "code": null,
+    "code": "AZ",
     "unofficial_names": [
       "أبو ظبي",
       "Abu Zabi",
@@ -162,11 +163,12 @@
       "mk": "Абу Даби",
       "no": "Emiratet Abu Dhabi"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "DU": {
     "name": "Dubayy",
-    "code": null,
+    "code": "DU",
     "unofficial_names": [
       "دبي",
       "Dubai"
@@ -241,11 +243,12 @@
       "bs": "Dubai",
       "no": "Emiratet Dubai"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "FU": {
     "name": "Al Fujayrah",
-    "code": null,
+    "code": "FU",
     "unofficial_names": [
       "الفجيرة",
       "Al Fujayrah",
@@ -322,11 +325,12 @@
       "no": "Emiratet Fujairah",
       "yo_BJ": "Fujairah"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "RK": {
     "name": "Ra's al Khaymah",
-    "code": null,
+    "code": "RK",
     "unofficial_names": [
       "إمارة رأس الخيمة",
       "Ras al-Khaimah"
@@ -402,11 +406,12 @@
       "no": "Emiratet Ras al-Khaimah",
       "yo_BJ": "Ras al Khaimah"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "SH": {
     "name": "Ash Shariqah [Sharjah]",
-    "code": null,
+    "code": "SH",
     "unofficial_names": [
       "إمارة الشارقةّ",
       "Ash Shariqah"
@@ -483,11 +488,12 @@
       "no": "Emiratet Sharjah",
       "yo_BJ": "Sharjah"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   },
   "UQ": {
     "name": "Umm al Qaywayn",
-    "code": null,
+    "code": "UQ",
     "unofficial_names": [
       "أمّ القيوين",
       "Umm al-Quwain"
@@ -562,7 +568,8 @@
       "no": "Emiratet Umm al-Qaiwain",
       "yo_BJ": "Um Al Quwain"
     },
-    "comments": null
+    "comments": null,
+    "type": "emirate"
   }
 }
 

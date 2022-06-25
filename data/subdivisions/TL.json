@@ -1,7 +1,7 @@
 {
   "AL": {
     "name": "Aileu",
-    "code": null,
+    "code": "AL",
     "unofficial_names": "Aileu",
     "geo": {
       "latitude": -8.7043994,
@@ -55,11 +55,12 @@
       "ccp": "𑄃𑄭𑄣𑄨𑄅𑄪",
       "no": "Aileu"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "AN": {
     "name": "Ainaro",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Ainaro",
     "geo": {
       "latitude": -9.0113171,
@@ -113,11 +114,12 @@
       "ccp": "𑄃𑄭𑄚𑄢𑄮",
       "no": "Ainaro"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "BA": {
     "name": "Baucau",
-    "code": null,
+    "code": "BA",
     "unofficial_names": [
       "Baukau"
     ],
@@ -172,11 +174,12 @@
       "ccp": "𑄝𑄅𑄪𑄇𑄅𑄪",
       "no": "Baucau"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "BO": {
     "name": "Bobonaro",
-    "code": null,
+    "code": "BO",
     "unofficial_names": "Bobonaro",
     "geo": {
       "latitude": -9.031944,
@@ -229,11 +232,12 @@
       "ccp": "𑄝𑄮𑄚𑄮𑄚𑄢𑄮",
       "no": "Bobonaro"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "CO": {
     "name": "Cova Lima",
-    "code": null,
+    "code": "CO",
     "unofficial_names": [
       "Kova-Lima"
     ],
@@ -288,11 +292,12 @@
       "ccp": "𑄇𑄮𑄞 𑄣𑄨𑄟",
       "no": "Cova Lima"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "DI": {
     "name": "Dili",
-    "code": null,
+    "code": "DI",
     "unofficial_names": "Dili",
     "geo": {
       "latitude": -8.549999999999999,
@@ -346,11 +351,12 @@
       "be": "Дылі",
       "no": "Dili"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "ER": {
     "name": "Ermera",
-    "code": null,
+    "code": "ER",
     "unofficial_names": "Ermera",
     "geo": {
       "latitude": -8.752222,
@@ -403,11 +409,12 @@
       "ccp": "𑄃𑄨𑄢𑄴𑄟𑄬𑄢",
       "no": "Ermera"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "LA": {
     "name": "Lautem",
-    "code": null,
+    "code": "LA",
     "unofficial_names": "Lautem",
     "geo": {
       "latitude": -8.363999999999999,
@@ -460,11 +467,12 @@
       "ccp": "𑄣𑄧𑄅𑄪𑄑𑄬𑄟𑄴",
       "no": "Lautém"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "LI": {
     "name": "Liquiça",
-    "code": null,
+    "code": "LI",
     "unofficial_names": [
       "Likisia"
     ],
@@ -519,11 +527,12 @@
       "ccp": "𑄣𑄨𑄇𑄭𑄪𑄇",
       "no": "Liquiçá"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MF": {
     "name": "Manufahi",
-    "code": null,
+    "code": "MF",
     "unofficial_names": "Manufahi",
     "geo": {
       "latitude": -9.0145495,
@@ -577,11 +586,12 @@
       "ccp": "𑄟𑄚𑄪𑄜𑄦𑄨",
       "no": "Manufahi"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MT": {
     "name": "Manatuto",
-    "code": null,
+    "code": "MT",
     "unofficial_names": "Manatuto",
     "geo": {
       "latitude": -8.7406923,
@@ -634,11 +644,12 @@
       "ccp": "𑄟𑄚𑄑𑄪𑄑𑄮",
       "no": "Manatuto"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "OE": {
     "name": "Oecussi",
-    "code": null,
+    "code": "OE",
     "unofficial_names": [
       "Ambeno",
       "Ambino",
@@ -697,11 +708,12 @@
       "ca": "Oecusse",
       "no": "Oecusse"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_administrative_region"
   },
   "VI": {
     "name": "Viqueque",
-    "code": null,
+    "code": "VI",
     "unofficial_names": [
       "Vikeke"
     ],
@@ -756,7 +768,8 @@
       "ccp": "𑄞𑄨𑄇𑄪𑄇𑄪",
       "no": "Viqueque"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   }
 }
 

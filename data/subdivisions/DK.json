@@ -1,7 +1,7 @@
 {
   "81": {
     "name": "Nordjylland",
-    "code": null,
+    "code": "81",
     "unofficial_names": [
       "North Jutland",
       "North Denmark Region",
@@ -23,13 +23,13 @@
       "bn": "নর্থ ডেনমার্ক অঞ্চল",
       "bs": "Sjeverna Danska",
       "ca": "Regió de Nordjylland",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
       "ceb": "North Denmark Region",
       "cs": "Nordjylland",
       "da": "Region Nordjylland",
-      "de": "Region Nordjütland",
+      "de": "Region Nordjylland",
       "el": "Περιφέρεια Βόρειας Δανίας",
-      "en": "North Jutland Region",
+      "en": "Northern Denmark",
       "es": "Jutlandia Septentrional",
       "et": "Põhja-Jüütimaa piirkond",
       "eu": "Ipar Jutlandia",
@@ -60,7 +60,7 @@
       "ro": "Regiunea Nordjylland",
       "ru": "Северная Ютландия",
       "si": "උතුරු ඩෙන්මාර්ක් කලාපය",
-      "sk": "Severné Jutsko",
+      "sk": "Severné Jutsko (administratívny región)",
       "sr_Latn": "Severna Danska",
       "sr": "Северна Данска",
       "sv": "Region Nordjylland",
@@ -73,11 +73,12 @@
       "vi": "Bắc Jutland",
       "zh": "北日德兰大区"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "82": {
     "name": "Midtjylland",
-    "code": null,
+    "code": "82",
     "unofficial_names": [
       "Central Denmark",
       "Central Jutland Region",
@@ -100,13 +101,13 @@
       "bn": "কেন্দ্রিয় ডেনমার্ক অঞ্চল",
       "bs": "Centralna Danska",
       "ca": "Regió de Midtjylland",
-      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
       "ceb": "Region Midtjylland",
       "cs": "Midtjylland",
       "da": "Region Midtjylland",
       "de": "Region Midtjylland",
       "el": "Περιφέρεια Κεντρικής Δανίας",
-      "en": "Central Denmark Region",
+      "en": "Central Denmark",
       "es": "Jutlandia Central",
       "et": "Kesk-Jüütimaa",
       "eu": "Erdialdeko Jutlandia",
@@ -150,11 +151,12 @@
       "vi": "Trung Jutland",
       "zh": "中日德兰大区"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "83": {
     "name": "Syddanmark",
-    "code": null,
+    "code": "83",
     "unofficial_names": [
       "South Denmark"
     ],
@@ -175,11 +177,11 @@
       "bn": "অঞ্চলঅফ সাউদার্ন ডেরমার্ক",
       "bs": "Južna Danska",
       "ca": "Regió de Syddanmark",
-      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
+      "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄴",
       "ceb": "Region Syddanmark",
       "cs": "Syddanmark",
       "da": "Region Syddanmark",
-      "de": "Region Süddänemark",
+      "de": "Region Syddanmark",
       "el": "Περιφέρεια Νότιας Δανίας",
       "en": "Southern Denmark",
       "es": "Dinamarca Meridional",
@@ -225,11 +227,12 @@
       "vi": "Nam Đan Mạch",
       "zh": "南丹麦大区"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "84": {
     "name": "Hovedstaden",
-    "code": null,
+    "code": "84",
     "unofficial_names": [
       "Capital Region",
       "Region Hovedstaden"
@@ -256,7 +259,7 @@
       "da": "Region Hovedstaden",
       "de": "Region Hovedstaden",
       "el": "Περιφέρεια Πρωτεύουσας της Δανίας",
-      "en": "Capital Region of Denmark",
+      "en": "Capital Region",
       "es": "Región Capital",
       "et": "Pealinna piirkond",
       "eu": "Hovedstaden",
@@ -301,11 +304,12 @@
       "vi": "Vùng thủ đô Đan Mạch",
       "zh": "首都大区"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "85": {
     "name": "Sjælland",
-    "code": null,
+    "code": "85",
     "unofficial_names": [
       "Zeeland"
     ],
@@ -330,7 +334,7 @@
       "da": "Region Sjælland",
       "de": "Region Sjælland",
       "el": "Σγιέλαν",
-      "en": "Region Zealand",
+      "en": "Zealand",
       "es": "Región de Selandia",
       "et": "Sjællandi piirkond",
       "eu": "Seelandia eskualdea",
@@ -356,9 +360,9 @@
       "pt": "Zelândia",
       "ro": "Regiunea Sjælland",
       "ru": "Зеландия",
-      "sk": "Sjælland región",
+      "sk": "Sjælland (región)",
       "sr_Latn": "Sjeland (pokrajina)",
-      "sr": "Сјеланд покрајина",
+      "sr": "Сјеланд (покрајина)",
       "sv": "Region Själland",
       "tr": "Zealand Bölgesi",
       "uk": "Зеландія",
@@ -367,7 +371,8 @@
       "yue": "舍蘭大區",
       "zh": "西兰大区"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "CHA": {
     "name": "Changhua",
-    "code": null,
+    "code": "CHA",
     "unofficial_names": [
       "Changhua"
     ],
@@ -60,11 +60,12 @@
       "yue": "彰化縣",
       "no": "Changhua Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "CYI": {
     "name": "Chiayi Municipality",
-    "code": null,
+    "code": "CYI",
     "unofficial_names": [
       "Chiai"
     ],
@@ -122,11 +123,12 @@
       "mn": "Жяи шянь",
       "no": "Chiayi Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "CYQ": {
     "name": "Chiayi",
-    "code": null,
+    "code": "CYQ",
     "unofficial_names": "Chiayi",
     "geo": {
       "latitude": 23.4518428,
@@ -184,11 +186,12 @@
       "yue": "嘉義市",
       "no": "Chiayi"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "HSQ": {
     "name": "Hsinchu",
-    "code": null,
+    "code": "HSQ",
     "unofficial_names": "Hsinchu",
     "geo": {
       "latitude": 24.8066493,
@@ -244,11 +247,12 @@
       "yue": "新竹縣",
       "no": "Hsinchu Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "HSZ": {
     "name": "Hsinchu Municipality",
-    "code": null,
+    "code": "HSZ",
     "unofficial_names": "Hsinchu Municipality",
     "geo": {
       "latitude": 24.9330791,
@@ -308,11 +312,12 @@
       "be": "Сіньчжу",
       "no": "Hsinchu"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "HUA": {
     "name": "Hualien",
-    "code": null,
+    "code": "HUA",
     "unofficial_names": [
       "Hualian"
     ],
@@ -371,11 +376,12 @@
       "yue": "花蓮縣",
       "no": "Hualien Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "ILA": {
     "name": "Ilan",
-    "code": null,
+    "code": "ILA",
     "unofficial_names": "Ilan",
     "geo": {
       "latitude": 24.7021073,
@@ -432,11 +438,12 @@
       "yue": "宜蘭縣",
       "no": "Yilan Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KEE": {
     "name": "Keelung Municipality",
-    "code": null,
+    "code": "KEE",
     "unofficial_names": [
       "Chilung Shih"
     ],
@@ -497,11 +504,12 @@
       "yue": "基隆",
       "no": "Chilung"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "KHH": {
     "name": "Kaohsiung Special Municipality",
-    "code": null,
+    "code": "KHH",
     "unofficial_names": "Kaohsiung Special Municipality",
     "geo": {
       "latitude": 22.6272784,
@@ -573,29 +581,110 @@
       "mk": "Гаосјунг",
       "no": "Kaohsiung"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
-  "KHQ": {
-    "name": "Kaohsiung",
-    "code": null,
-    "unofficial_names": "Kaohsiung",
+  "KIN": {
+    "name": "金門縣",
+    "code": "KIN",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 22.6272784,
-      "longitude": 120.3014353,
-      "min_latitude": 20.5862202,
-      "min_longitude": 116.7118602,
-      "max_latitude": 23.4717267,
-      "max_longitude": 121.0490147
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Kaohsiung County",
-      "ccp": "𑄇𑄃𑄮𑄦𑄥𑄨𑄅𑄪𑄁 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
+      "ar": "كنمن",
+      "az": "Szinmınsyundao",
+      "bn": "কোয়েময়",
+      "ca": "Kinmen",
+      "cs": "Okres Ťin-men",
+      "da": "Kinmen",
+      "de": "Kinmen",
+      "el": "Κίνμεν",
+      "en": "Kinmen",
+      "es": "Kinmen",
+      "et": "Jinmen",
+      "eu": "Kinmen",
+      "fa": "کینمن",
+      "fi": "Kinmen",
+      "fr": "Jinmen",
+      "gu": "કિનમેન",
+      "he": "קואמוי",
+      "hi": "किन्मेन",
+      "hu": "Csinmen-szigetek",
+      "id": "Kabupaten Kinmen",
+      "it": "Kinmen",
+      "ja": "金門県",
+      "kn": "ಕಿನ್ಮೆನ್",
+      "ko": "진먼 현",
+      "lt": "Dzinmenas",
+      "ml": "കിന്മെൻ",
+      "mn": "Жиньмэнь",
+      "mr": "किमेन",
+      "ms": "Kinmen",
+      "nb": "Kinmen",
+      "nl": "Kinmen",
+      "pl": "Kinmen",
+      "pt": "Kinmen",
+      "ru": "Цзиньмэнь",
+      "si": "කින්මෙන්",
+      "sv": "Kinmen",
+      "ta": "கின்மேன்",
+      "te": "కిన్మెన్",
+      "th": "หมู่เกาะจินเหมิน",
+      "tr": "Kinmen",
+      "ur": "کنمن",
+      "vi": "Kim Môn",
+      "lv": "Dzjiņmeņa",
+      "ceb": "Kinmen (lalawigan sa Republika sa Tsina)",
+      "zh": "金門縣",
+      "yue_Hans": "金门",
+      "ccp": "𑄇𑄨𑄚𑄴𑄟𑄬𑄚𑄴",
+      "uk": "Цзіньмень",
+      "yue": "金門",
+      "yo": "Kinmen",
+      "no": "Kinmen",
+      "yo_BJ": "Kinmen"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
+  },
+  "LIE": {
+    "name": "連江縣",
+    "code": "LIE",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "cs": "Okres Lien-ťiang",
+      "en": "Lienchiang",
+      "fr": "comté de Lienchiang",
+      "id": "Kepulauan Lienchiang",
+      "ja": "連江県",
+      "ko": "롄장 현",
+      "cy": "Sir Lienchiang",
+      "ceb": "Lienchiang",
+      "zh": "連江縣",
+      "yue_Hans": "连江",
+      "ccp": "𑄢𑄨𑄠𑄬𑄚𑄴𑄌𑄨𑄠𑄬𑄁",
+      "yue": "連江"
+    },
+    "comments": null,
+    "type": "county"
   },
   "MIA": {
     "name": "Miaoli",
-    "code": null,
+    "code": "MIA",
     "unofficial_names": "Miaoli",
     "geo": {
       "latitude": 24.560159,
@@ -652,11 +741,12 @@
       "yue": "苗栗縣",
       "no": "Miaoli Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "NAN": {
     "name": "Nantou",
-    "code": null,
+    "code": "NAN",
     "unofficial_names": "Nantou",
     "geo": {
       "latitude": 23.9609981,
@@ -712,11 +802,31 @@
       "yue": "南投縣",
       "no": "Nantou fylk"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
+  },
+  "NWT": {
+    "name": "New Taipei",
+    "code": "NWT",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "New Taipei",
+      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬"
+    },
+    "comments": null,
+    "type": "special_municipality"
   },
   "PEN": {
     "name": "Penghu",
-    "code": null,
+    "code": "PEN",
     "unofficial_names": "Penghu",
     "geo": {
       "latitude": 23.5711899,
@@ -758,11 +868,12 @@
       "yo": "Penghu",
       "yo_BJ": "Penghu"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "PIF": {
     "name": "Pingtung",
-    "code": null,
+    "code": "PIF",
     "unofficial_names": "Pingtung",
     "geo": {
       "latitude": 22.5519759,
@@ -822,11 +933,12 @@
       "be": "Піндун",
       "no": "Pingtung fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "TAO": {
     "name": "Taoyuan",
-    "code": null,
+    "code": "TAO",
     "unofficial_names": "Taoyuan",
     "geo": {
       "latitude": 24.9936281,
@@ -885,11 +997,12 @@
       "mk": "Тоајуен",
       "no": "Toayuan By"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "TNN": {
     "name": "Tainan Municipality",
-    "code": null,
+    "code": "TNN",
     "unofficial_names": "Tainan Municipality",
     "geo": {
       "latitude": 23.0038497,
@@ -952,29 +1065,12 @@
       "mk": "Тајнан",
       "no": "Tainan"
     },
-    "comments": null
-  },
-  "TNQ": {
-    "name": "Tainan",
-    "code": null,
-    "unofficial_names": "Tainan",
-    "geo": {
-      "latitude": 22.9998999,
-      "longitude": 120.2268758,
-      "min_latitude": 22.8874908,
-      "min_longitude": 120.0354791,
-      "max_latitude": 23.4137568,
-      "max_longitude": 120.6562596
-    },
-    "translations": {
-      "en": "Tainan County",
-      "ccp": "𑄑𑄭𑄚𑄚𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
-    },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "TPE": {
     "name": "Taipei Special Municipality",
-    "code": null,
+    "code": "TPE",
     "unofficial_names": "Taipei Special Municipality",
     "geo": {
       "latitude": 25.0329694,
@@ -1070,29 +1166,12 @@
       "no": "Taipei",
       "yo_BJ": "Taipei"
     },
-    "comments": null
-  },
-  "TPQ": {
-    "name": "Taipei",
-    "code": null,
-    "unofficial_names": "Taipei",
-    "geo": {
-      "latitude": 25.0329694,
-      "longitude": 121.5654177,
-      "min_latitude": 24.7900797,
-      "min_longitude": 121.2826735,
-      "max_latitude": 25.2443731,
-      "max_longitude": 121.7300824
-    },
-    "translations": {
-      "en": "New Taipei City",
-      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬 𑄥𑄨𑄑𑄨"
-    },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "TTT": {
     "name": "Taitung",
-    "code": null,
+    "code": "TTT",
     "unofficial_names": [
       "Taidong"
     ],
@@ -1151,11 +1230,12 @@
       "yue": "臺東縣",
       "no": "Taitung Fylke"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "TXG": {
     "name": "Taichung Municipality",
-    "code": null,
+    "code": "TXG",
     "unofficial_names": "Taichung Municipality",
     "geo": {
       "latitude": 24.301983,
@@ -1217,29 +1297,12 @@
       "mk": "Тајџунг",
       "no": "Taichung"
     },
-    "comments": null
-  },
-  "TXQ": {
-    "name": "Taichung",
-    "code": null,
-    "unofficial_names": "Taichung",
-    "geo": {
-      "latitude": 24.1477358,
-      "longitude": 120.6736482,
-      "min_latitude": 23.9985086,
-      "min_longitude": 120.4607975,
-      "max_latitude": 24.4416976,
-      "max_longitude": 121.4509512
-    },
-    "translations": {
-      "en": "Taichung County",
-      "ccp": "𑄑𑄭𑄌𑄪𑄁 𑄇𑄅𑄪𑄚𑄴𑄑𑄨"
-    },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "YUN": {
     "name": "Yunlin",
-    "code": null,
+    "code": "YUN",
     "unofficial_names": "Yunlin",
     "geo": {
       "latitude": 23.7092033,
@@ -1296,121 +1359,8 @@
       "yue": "雲林縣",
       "no": "Yunlin County"
     },
-    "comments": null
-  },
-  "KIN": {
-    "name": "金門縣",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "كنمن",
-      "az": "Szinmınsyundao",
-      "bn": "কোয়েময়",
-      "ca": "Kinmen",
-      "cs": "Okres Ťin-men",
-      "da": "Kinmen",
-      "de": "Kinmen",
-      "el": "Κίνμεν",
-      "en": "Kinmen",
-      "es": "Kinmen",
-      "et": "Jinmen",
-      "eu": "Kinmen",
-      "fa": "کینمن",
-      "fi": "Kinmen",
-      "fr": "Jinmen",
-      "gu": "કિનમેન",
-      "he": "קואמוי",
-      "hi": "किन्मेन",
-      "hu": "Csinmen-szigetek",
-      "id": "Kabupaten Kinmen",
-      "it": "Kinmen",
-      "ja": "金門県",
-      "kn": "ಕಿನ್ಮೆನ್",
-      "ko": "진먼 현",
-      "lt": "Dzinmenas",
-      "ml": "കിന്മെൻ",
-      "mn": "Жиньмэнь",
-      "mr": "किमेन",
-      "ms": "Kinmen",
-      "nb": "Kinmen",
-      "nl": "Kinmen",
-      "pl": "Kinmen",
-      "pt": "Kinmen",
-      "ru": "Цзиньмэнь",
-      "si": "කින්මෙන්",
-      "sv": "Kinmen",
-      "ta": "கின்மேன்",
-      "te": "కిన్మెన్",
-      "th": "หมู่เกาะจินเหมิน",
-      "tr": "Kinmen",
-      "ur": "کنمن",
-      "vi": "Kim Môn",
-      "lv": "Dzjiņmeņa",
-      "ceb": "Kinmen (lalawigan sa Republika sa Tsina)",
-      "zh": "金門縣",
-      "yue_Hans": "金门",
-      "ccp": "𑄇𑄨𑄚𑄴𑄟𑄬𑄚𑄴",
-      "uk": "Цзіньмень",
-      "yue": "金門",
-      "yo": "Kinmen",
-      "no": "Kinmen",
-      "yo_BJ": "Kinmen"
-    },
-    "comments": null
-  },
-  "LIE": {
-    "name": "連江縣",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "cs": "Okres Lien-ťiang",
-      "en": "Lienchiang",
-      "fr": "comté de Lienchiang",
-      "id": "Kepulauan Lienchiang",
-      "ja": "連江県",
-      "ko": "롄장 현",
-      "cy": "Sir Lienchiang",
-      "ceb": "Lienchiang",
-      "zh": "連江縣",
-      "yue_Hans": "连江",
-      "ccp": "𑄢𑄨𑄠𑄬𑄚𑄴𑄌𑄨𑄠𑄬𑄁",
-      "yue": "連江"
-    },
-    "comments": null
-  },
-  "NWT": {
-    "name": "New Taipei",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "New Taipei",
-      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬"
-    },
-    "comments": null
+    "comments": null,
+    "type": "county"
   }
 }
 

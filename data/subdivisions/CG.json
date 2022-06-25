@@ -1,7 +1,7 @@
 {
   "11": {
     "name": "Bouenza",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Bouénza"
     ],
@@ -56,11 +56,12 @@
       "uk": "Регіон Буенза",
       "no": "Bouenza"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "12": {
     "name": "Pool",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Pool",
     "geo": {
       "latitude": -2.420088,
@@ -114,11 +115,12 @@
       "uk": "Регіон Пул",
       "no": "Pool"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "13": {
     "name": "Sangha",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Sangha",
     "geo": {
       "latitude": 1.4662328,
@@ -171,11 +173,12 @@
       "uk": "Регіон Санга",
       "no": "Sangha"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "14": {
     "name": "Plateaux",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Plateaux",
     "geo": {
       "latitude": -2.0680088,
@@ -230,11 +233,12 @@
       "yue": "高原省",
       "no": "Plateaux"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "15": {
     "name": "Cuvette-Ouest",
-    "code": null,
+    "code": "15",
     "unofficial_names": [
       "Cuvette Ouest"
     ],
@@ -290,11 +294,33 @@
       "uk": "Регіон Західний Кювет",
       "no": "Cuvette-Ouest"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
+  },
+  "16": {
+    "name": "Pointe-Noire",
+    "code": "16",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "en": "Pointe-Noire",
+      "ceb": "Pointe-Noire (distrito)",
+      "sv": "Pointe-Noire",
+      "ccp": "𑄛𑄧𑄠𑄬𑄚𑄳𑄑𑄴-𑄚𑄧𑄠𑄨𑄢𑄴"
+    },
+    "comments": null,
+    "type": "department"
   },
   "2": {
     "name": "Lékoumou",
-    "code": null,
+    "code": "2",
     "unofficial_names": "Lékoumou",
     "geo": {
       "latitude": -3.170382,
@@ -349,11 +375,12 @@
       "yue": "萊庫穆省",
       "no": "Lékoumou"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "5": {
     "name": "Kouilou",
-    "code": null,
+    "code": "5",
     "unofficial_names": "Kouilou",
     "geo": {
       "latitude": -4.1428413,
@@ -406,11 +433,12 @@
       "uk": "Куілу",
       "no": "Kouilou"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "7": {
     "name": "Likouala",
-    "code": null,
+    "code": "7",
     "unofficial_names": "Likouala",
     "geo": {
       "latitude": 2.043924000000001,
@@ -464,11 +492,12 @@
       "uk": "Регіон Лікуала",
       "no": "Likouala"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "8": {
     "name": "Cuvette",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Cuvette",
     "geo": {
       "latitude": -0.2877446,
@@ -523,11 +552,12 @@
       "yue": "盆地省",
       "no": "Cuvette"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "9": {
     "name": "Niari",
-    "code": null,
+    "code": "9",
     "unofficial_names": "Niari",
     "geo": {
       "latitude": -3.18427,
@@ -582,11 +612,12 @@
       "yue": "尼阿里省",
       "no": "Niari"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "BZV": {
     "name": "Brazzaville",
-    "code": null,
+    "code": "BZV",
     "unofficial_names": "Brazzaville",
     "geo": {
       "latitude": -4.267778,
@@ -679,27 +710,8 @@
       "no": "Brazzaville",
       "yo_BJ": "Brazzaville"
     },
-    "comments": null
-  },
-  "16": {
-    "name": "Pointe-Noire",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Pointe-Noire",
-      "ceb": "Pointe-Noire (distrito)",
-      "sv": "Pointe-Noire",
-      "ccp": "𑄛𑄧𑄠𑄬𑄚𑄳𑄑𑄴-𑄚𑄧𑄠𑄨𑄢𑄴"
-    },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

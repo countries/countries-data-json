@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Alberta",
-    "code": null,
+    "code": "AB",
     "unofficial_names": [
       "Alberta"
     ],
@@ -91,11 +91,12 @@
       "mk": "Алберта",
       "no": "Alberta"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BC": {
     "name": "British Columbia",
-    "code": null,
+    "code": "BC",
     "unofficial_names": [
       "Colombie-Britannique"
     ],
@@ -183,11 +184,12 @@
       "mk": "Британска Колумбија",
       "no": "Britisk Columbia"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MB": {
     "name": "Manitoba",
-    "code": null,
+    "code": "MB",
     "unofficial_names": [
       "Manitoba"
     ],
@@ -275,11 +277,12 @@
       "mk": "Манитоба",
       "no": "Manitoba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NB": {
     "name": "New Brunswick",
-    "code": null,
+    "code": "NB",
     "unofficial_names": [
       "Nouveau-Brunswick"
     ],
@@ -364,11 +367,12 @@
       "mk": "Њу Бранзвик",
       "no": "New Brunswick"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NL": {
     "name": "Newfoundland and Labrador",
-    "code": null,
+    "code": "NL",
     "unofficial_names": [
       "Terre-Neuve-et-Labrador",
       "Newfoundland",
@@ -458,11 +462,12 @@
       "no": "Newfoundland og Labrador",
       "yo_BJ": "Newfoundland àti Labrador"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NS": {
     "name": "Nova Scotia",
-    "code": null,
+    "code": "NS",
     "unofficial_names": [
       "Nouvelle-Écosse"
     ],
@@ -549,11 +554,12 @@
       "mk": "Нова Шкотска",
       "no": "Nova Scotia"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NT": {
     "name": "Northwest Territories",
-    "code": null,
+    "code": "NT",
     "unofficial_names": [
       "Territoires du Nord-Ouest"
     ],
@@ -638,11 +644,12 @@
       "mk": "Северозападни Територии",
       "no": "Nordvestterritoriene"
     },
-    "comments": null
+    "comments": null,
+    "type": "territory"
   },
   "NU": {
     "name": "Nunavut",
-    "code": null,
+    "code": "NU",
     "unofficial_names": [
       "Nunavut"
     ],
@@ -729,11 +736,12 @@
       "mk": "Нунавут",
       "no": "Nunavut"
     },
-    "comments": null
+    "comments": null,
+    "type": "territory"
   },
   "ON": {
     "name": "Ontario",
-    "code": null,
+    "code": "ON",
     "unofficial_names": [
       "Ontario"
     ],
@@ -822,11 +830,12 @@
       "ne": "ओन्टारियो",
       "no": "Ontario"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PE": {
     "name": "Prince Edward Island",
-    "code": null,
+    "code": "PE",
     "unofficial_names": [
       "Île-du-Prince-Édouard"
     ],
@@ -911,11 +920,12 @@
       "mk": "Остров Принц Едвард",
       "no": "Prince Edward Island"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "QC": {
     "name": "Quebec",
-    "code": null,
+    "code": "QC",
     "unofficial_names": [
       "Québec"
     ],
@@ -1009,11 +1019,12 @@
       "ha_NE": "Kebek",
       "no": "Québec"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SK": {
     "name": "Saskatchewan",
-    "code": null,
+    "code": "SK",
     "unofficial_names": [
       "Saskatchewan"
     ],
@@ -1099,11 +1110,12 @@
       "mk": "Саскачеван",
       "no": "Saskatchewan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "YT": {
     "name": "Yukon",
-    "code": null,
+    "code": "YT",
     "unofficial_names": [
       "Yukon Territory"
     ],
@@ -1189,7 +1201,8 @@
       "mk": "Јукон",
       "no": "Yukon"
     },
-    "comments": null
+    "comments": null,
+    "type": "territory"
   }
 }
 

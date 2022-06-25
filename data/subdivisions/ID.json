@@ -1,7 +1,7 @@
 {
   "AC": {
     "name": "Aceh",
-    "code": null,
+    "code": "AC",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.131231499999999,
@@ -81,11 +81,68 @@
       "no": "Aceh",
       "yo_BJ": "Aceh"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "BA": {
+    "name": "Bali",
+    "code": "BA",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -8.4095178,
+      "longitude": 115.188916,
+      "min_latitude": -8.849261,
+      "min_longitude": 114.431626,
+      "max_latitude": -8.061681799999999,
+      "max_longitude": 115.7115281
+    },
+    "translations": {
+      "cy": "Bali",
+      "af": "Bali",
+      "ceb": "Provinsi Bali",
+      "ms": "Bali",
+      "vi": "Bali",
+      "nl": "Bali",
+      "pl": "prowincja Bali",
+      "sw": "Bali",
+      "sv": "Bali",
+      "jv": "Provinsi Bali",
+      "ja": "バリ州",
+      "en": "Bali",
+      "ru": "Бали",
+      "ccp": "𑄝𑄣𑄨",
+      "fr": "province de Bali",
+      "ga": "Bali",
+      "ko": "발리주",
+      "gl": "Bali",
+      "es": "provincia de Bali",
+      "da": "Bali",
+      "fi": "Bali",
+      "hu": "Bali",
+      "is": "Bali",
+      "id": "Bali",
+      "sk": "Bali",
+      "ro": "Bali",
+      "hr": "Bali",
+      "eu": "Bali",
+      "pt": "Bali",
+      "et": "Bali provints",
+      "de": "Provinz Bali",
+      "sl": "Bali",
+      "it": "provincia di Bali",
+      "uk": "Балі",
+      "cs": "Bali",
+      "nb": "Bali",
+      "ca": "Bali",
+      "zu": "Bali",
+      "no": "Bali"
+    },
+    "comments": null,
+    "type": "province"
   },
   "BB": {
     "name": "Kepulauan Bangka Belitung",
-    "code": null,
+    "code": "BB",
     "unofficial_names": null,
     "geo": {
       "latitude": -1.2392759,
@@ -146,11 +203,12 @@
       "bg": "Бангка Белитунг",
       "no": "Bangka-Belitung"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BE": {
     "name": "Bengkulu",
-    "code": null,
+    "code": "BE",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -209,11 +267,12 @@
       "bg": "Бенгкулу",
       "no": "Bengkulu"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BT": {
     "name": "Banten",
-    "code": null,
+    "code": "BT",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
@@ -282,11 +341,12 @@
       "bg": "Бантен",
       "no": "Banten"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "GO": {
     "name": "Gorontalo",
-    "code": null,
+    "code": "GO",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
@@ -350,11 +410,12 @@
       "bg": "Горонтало",
       "no": "Gorontalo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JA": {
     "name": "Jambi",
-    "code": null,
+    "code": "JA",
     "unofficial_names": null,
     "geo": {
       "latitude": -1.4851831,
@@ -419,11 +480,12 @@
       "bg": "Джамби",
       "no": "Jambi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JB": {
     "name": "Jawa Barat",
-    "code": null,
+    "code": "JB",
     "unofficial_names": null,
     "geo": {
       "latitude": -7.446736199999999,
@@ -486,11 +548,12 @@
       "bg": "Западна Ява",
       "no": "Jawa Barat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JI": {
     "name": "Jawa Timur",
-    "code": null,
+    "code": "JI",
     "unofficial_names": null,
     "geo": {
       "latitude": -7.5360639,
@@ -558,11 +621,12 @@
       "bg": "Източна Ява",
       "no": "Jawa Timur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JK": {
     "name": "Daerah Khusus Ibukota Jakarta",
-    "code": null,
+    "code": "JK",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.180495,
@@ -660,11 +724,12 @@
       "no": "Jakarta",
       "yo_BJ": "Jakarta"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_region"
   },
   "JT": {
     "name": "Jawa Tengah",
-    "code": null,
+    "code": "JT",
     "unofficial_names": null,
     "geo": {
       "latitude": -7.150975,
@@ -742,11 +807,12 @@
       "bg": "Централна Ява",
       "no": "Jawa Tengah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "JW": {
     "name": "Jawa",
-    "code": null,
+    "code": "JW",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -831,11 +897,67 @@
       "ha_NE": "Java",
       "no": "Java"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
+  },
+  "KA": {
+    "name": "Kalimantan",
+    "code": "KA",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -7.9790674,
+      "longitude": 112.6358005
+    },
+    "translations": {
+      "ms": "Kalimantan",
+      "ar": "كليمنتان",
+      "tr": "Kalimantan",
+      "lt": "Kalimantanas",
+      "ta": "கலிமந்தன்",
+      "vi": "Kalimantan",
+      "ur": "کالیمانتان",
+      "nl": "Kalimantan",
+      "zh": "加里曼丹",
+      "bn": "কালিমান্তান",
+      "fa": "کالیمانتان",
+      "pl": "Kalimantan",
+      "sw": "Kalimantan",
+      "yue_Hans": "婆罗洲",
+      "sv": "Kalimantan",
+      "hi": "कालिमंतान",
+      "ja": "カリマンタン",
+      "en": "Kalimantan",
+      "ru": "Индонезийский Калимантан",
+      "ccp": "𑄇𑄣𑄨𑄟𑄚𑄴𑄑𑄚𑄴",
+      "fr": "Kalimantan",
+      "ko": "칼리만탄",
+      "es": "Kalimantan",
+      "da": "Kalimantan",
+      "fi": "Kalimantan",
+      "id": "Kalimantan",
+      "km": "កាលីម៉ាន់តាន់",
+      "he": "קלימנטן",
+      "eu": "Kalimantan",
+      "pt": "Kalimantan",
+      "de": "Kalimantan",
+      "it": "Kalimantan",
+      "ml": "കലിമന്താൻ‌",
+      "uk": "Індонезійський Калімантан",
+      "yue": "婆羅洲",
+      "nb": "Kalimantan",
+      "ca": "Kalimantan",
+      "be": "Інданезійскі Калімантан",
+      "uz": "Kalimantan",
+      "mk": "Калимантан",
+      "bg": "Калимантан",
+      "no": "Kalimantan"
+    },
+    "comments": null,
+    "type": "geographical_unit"
   },
   "KB": {
     "name": "Kalimantan Barat",
-    "code": null,
+    "code": "KB",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.2787808,
@@ -899,11 +1021,12 @@
       "bg": "Западен Калимантан",
       "no": "Kalimantan Barat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KI": {
     "name": "Kalimantan Timur",
-    "code": null,
+    "code": "KI",
     "unofficial_names": null,
     "geo": {
       "latitude": 0.5386586,
@@ -968,11 +1091,12 @@
       "bg": "Източен Калимантан",
       "no": "Kalimantan Timur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KR": {
     "name": "Kepulauan Riau",
-    "code": null,
+    "code": "KR",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.4429142,
@@ -1034,11 +1158,12 @@
       "bg": "Острови Риау",
       "no": "Kepulauan Riau"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KS": {
     "name": "Kalimantan Selatan",
-    "code": null,
+    "code": "KS",
     "unofficial_names": null,
     "geo": {
       "latitude": -3.0926415,
@@ -1101,11 +1226,12 @@
       "bg": "Южен Калимантан",
       "no": "Kalimantan Selatan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KT": {
     "name": "Kalimantan Tengah",
-    "code": null,
+    "code": "KT",
     "unofficial_names": null,
     "geo": {
       "latitude": -1.6814878,
@@ -1169,11 +1295,62 @@
       "bg": "Централен Калимантан",
       "no": "Kalimantan Tengah"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "KU": {
+    "name": "Kalimantan Utara",
+    "code": "KU",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": -6.1718272,
+      "longitude": 106.8440285
+    },
+    "translations": {
+      "mr": "उत्तर कालिमांतान",
+      "ceb": "North Kalimantan",
+      "ms": "Kalimantan Utara",
+      "ar": "كالمنتان الشمالية",
+      "tr": "Kuzey Kalimantan",
+      "sr_Latn": "Severni Kalimantan",
+      "ta": "வடக்குக் களிமந்தான் மாகாணம்",
+      "vi": "Bắc Kalimantan",
+      "ur": "شمالی کالیمانتان",
+      "nl": "Noord-Kalimantan",
+      "zh": "北加里曼丹省",
+      "fa": "کالیمانتان شمالی",
+      "pl": "Borneo Północne",
+      "yue_Hans": "北加里曼丹",
+      "hi": "उत्तर कालिमंतान",
+      "jv": "Kalimantan Lor",
+      "ja": "北カリマンタン州",
+      "en": "North Kalimantan",
+      "ru": "Северный Калимантан",
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄣𑄨𑄟𑄚𑄴𑄑𑄚𑄴",
+      "sr": "Северни Калимантан",
+      "fr": "Nord Kalimantan",
+      "ko": "칼리만탄우타라 주",
+      "es": "Kalimantán Septentrional",
+      "fi": "Pohjois-Kalimantan",
+      "id": "Kalimantan Utara",
+      "eu": "Ipar Kalimantan",
+      "pt": "Kalimantan Setentrional",
+      "de": "Kalimantan Utara",
+      "it": "Kalimantan Utara",
+      "uk": "Північний Калімантан",
+      "cs": "Severní Kalimantan",
+      "yue": "北加里曼丹",
+      "my": "မြောက်ကာလီမန်တန်ပြည်နယ်",
+      "ca": "Kalimantan Nord",
+      "be": "Паўночны Калімантан",
+      "th": "จังหวัดกาลีมันตันเหนือ"
+    },
+    "comments": null,
+    "type": "province"
   },
   "LA": {
     "name": "Lampung",
-    "code": null,
+    "code": "LA",
     "unofficial_names": null,
     "geo": {
       "latitude": -8.636759399999999,
@@ -1236,11 +1413,12 @@
       "bg": "Лампунг",
       "no": "Lampung"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MA": {
     "name": "Maluku",
-    "code": null,
+    "code": "MA",
     "unofficial_names": null,
     "geo": {
       "latitude": 42.4072107,
@@ -1306,11 +1484,12 @@
       "bg": "Молуку",
       "no": "Maluku Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ML": {
     "name": "Kepulauan Maluku",
-    "code": null,
+    "code": "ML",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
@@ -1384,11 +1563,12 @@
       "bg": "Молукски острови",
       "no": "Molukkene"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
   },
   "MU": {
     "name": "Maluku Utara",
-    "code": null,
+    "code": "MU",
     "unofficial_names": null,
     "geo": {
       "latitude": 1.5709993,
@@ -1453,11 +1633,12 @@
       "bg": "Северно Молуку",
       "no": "Nord Maluku provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NB": {
     "name": "Nusa Tenggara Barat",
-    "code": null,
+    "code": "NB",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.249008,
@@ -1518,11 +1699,12 @@
       "bg": "Западни Малки Зондски острови",
       "no": "West Nusa Tenggara"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NT": {
     "name": "Nusa Tenggara Timur",
-    "code": null,
+    "code": "NT",
     "unofficial_names": null,
     "geo": {
       "latitude": -8.657381899999999,
@@ -1588,11 +1770,12 @@
       "bg": "Източни Малки Зондски острови",
       "no": "Nusa Tenggara Timur"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NU": {
     "name": "Kepulauan Nusa Tenggara",
-    "code": null,
+    "code": "NU",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -1657,11 +1840,12 @@
       "bg": "Малки Зондски острови",
       "no": "De små Sundaøyer"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
   },
   "PA": {
     "name": "Papua",
-    "code": null,
+    "code": "PA",
     "unofficial_names": null,
     "geo": {
       "latitude": 41.2033216,
@@ -1727,11 +1911,12 @@
       "mk": "Папуа",
       "no": "Papua"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PB": {
     "name": "Papua Barat",
-    "code": null,
+    "code": "PB",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
@@ -1796,11 +1981,12 @@
       "bg": "Западна Папуа",
       "no": "Papua Barat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PP": {
     "name": "Papua bagian barat",
-    "code": null,
+    "code": "PP",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.9084233,
@@ -1859,11 +2045,12 @@
       "bg": "Западна Нова Гвинея",
       "no": "Vest-Papua"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
   },
   "RI": {
     "name": "Riau",
-    "code": null,
+    "code": "RI",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.91266,
@@ -1924,11 +2111,12 @@
       "bg": "Риау",
       "no": "Riau"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SA": {
     "name": "Sulawesi Utara",
-    "code": null,
+    "code": "SA",
     "unofficial_names": null,
     "geo": {
       "latitude": -8.7199596,
@@ -1987,11 +2175,12 @@
       "bg": "Северно Сулавеси",
       "no": "Nord Sulawesi provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SB": {
     "name": "Sumatera Barat",
-    "code": null,
+    "code": "SB",
     "unofficial_names": null,
     "geo": {
       "latitude": -0.7399397,
@@ -2057,11 +2246,12 @@
       "bg": "Западна Суматра",
       "no": "Sumatera Barat"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SG": {
     "name": "Sulawesi Tenggara",
-    "code": null,
+    "code": "SG",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -2115,11 +2305,12 @@
       "bg": "Югоизточно Сулавеси",
       "no": "South East Sulawesi Provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SL": {
     "name": "Sulawesi",
-    "code": null,
+    "code": "SL",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -2193,11 +2384,12 @@
       "ha_NE": "Sulawesi",
       "no": "Sulawesi"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
   },
   "SM": {
     "name": "Sumatera",
-    "code": null,
+    "code": "SM",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -2277,11 +2469,12 @@
       "ha_NE": "Sumatra",
       "no": "Sumatra"
     },
-    "comments": null
+    "comments": null,
+    "type": "geographical_unit"
   },
   "SN": {
     "name": "Sulawesi Selatan",
-    "code": null,
+    "code": "SN",
     "unofficial_names": null,
     "geo": {
       "latitude": -3.6687994,
@@ -2344,11 +2537,12 @@
       "bg": "Южно Сулавеси",
       "no": "Sør Sulawesi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SR": {
     "name": "Sulawesi Barat",
-    "code": null,
+    "code": "SR",
     "unofficial_names": null,
     "geo": {
       "latitude": -6.926822599999999,
@@ -2406,11 +2600,12 @@
       "bg": "Западно Сулавеси",
       "no": "West Sulawesi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SS": {
     "name": "Sumatera Selatan",
-    "code": null,
+    "code": "SS",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -2470,11 +2665,12 @@
       "bg": "Южна Суматра",
       "no": "Sumatera Selatan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ST": {
     "name": "Sulawesi Tengah",
-    "code": null,
+    "code": "ST",
     "unofficial_names": null,
     "geo": null,
     "translations": {
@@ -2531,11 +2727,12 @@
       "bg": "Централно Сулавеси",
       "no": "Sentral Sulaweisi provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SU": {
     "name": "Sumatera Utara",
-    "code": null,
+    "code": "SU",
     "unofficial_names": null,
     "geo": {
       "latitude": 2.1153547,
@@ -2602,11 +2799,12 @@
       "bg": "Северна Суматра",
       "no": "Sumatera Utara"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "YO": {
     "name": "Yogyakarta",
-    "code": null,
+    "code": "YO",
     "unofficial_names": null,
     "geo": {
       "latitude": -7.875384899999999,
@@ -2681,165 +2879,8 @@
       "bg": "Джокякарта",
       "no": "Yogyakarta"
     },
-    "comments": null
-  },
-  "KU": {
-    "name": "Kalimantan Utara",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": -6.1718272,
-      "longitude": 106.8440285
-    },
-    "translations": {
-      "mr": "उत्तर कालिमांतान",
-      "ceb": "North Kalimantan",
-      "ms": "Kalimantan Utara",
-      "ar": "كالمنتان الشمالية",
-      "tr": "Kuzey Kalimantan",
-      "sr_Latn": "Severni Kalimantan",
-      "ta": "வடக்குக் களிமந்தான் மாகாணம்",
-      "vi": "Bắc Kalimantan",
-      "ur": "شمالی کالیمانتان",
-      "nl": "Noord-Kalimantan",
-      "zh": "北加里曼丹省",
-      "fa": "کالیمانتان شمالی",
-      "pl": "Borneo Północne",
-      "yue_Hans": "北加里曼丹",
-      "hi": "उत्तर कालिमंतान",
-      "jv": "Kalimantan Lor",
-      "ja": "北カリマンタン州",
-      "en": "North Kalimantan",
-      "ru": "Северный Калимантан",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄣𑄨𑄟𑄚𑄴𑄑𑄚𑄴",
-      "sr": "Северни Калимантан",
-      "fr": "Nord Kalimantan",
-      "ko": "칼리만탄우타라 주",
-      "es": "Kalimantán Septentrional",
-      "fi": "Pohjois-Kalimantan",
-      "id": "Kalimantan Utara",
-      "eu": "Ipar Kalimantan",
-      "pt": "Kalimantan Setentrional",
-      "de": "Kalimantan Utara",
-      "it": "Kalimantan Utara",
-      "uk": "Північний Калімантан",
-      "cs": "Severní Kalimantan",
-      "yue": "北加里曼丹",
-      "my": "မြောက်ကာလီမန်တန်ပြည်နယ်",
-      "ca": "Kalimantan Nord",
-      "be": "Паўночны Калімантан",
-      "th": "จังหวัดกาลีมันตันเหนือ"
-    },
-    "comments": null
-  },
-  "BA": {
-    "name": "Bali",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": -8.4095178,
-      "longitude": 115.188916,
-      "min_latitude": -8.849261,
-      "min_longitude": 114.431626,
-      "max_latitude": -8.061681799999999,
-      "max_longitude": 115.7115281
-    },
-    "translations": {
-      "cy": "Bali",
-      "af": "Bali",
-      "ceb": "Provinsi Bali",
-      "ms": "Bali",
-      "vi": "Bali",
-      "nl": "Bali",
-      "pl": "prowincja Bali",
-      "sw": "Bali",
-      "sv": "Bali",
-      "jv": "Provinsi Bali",
-      "ja": "バリ州",
-      "en": "Bali",
-      "ru": "Бали",
-      "ccp": "𑄝𑄣𑄨",
-      "fr": "province de Bali",
-      "ga": "Bali",
-      "ko": "발리주",
-      "gl": "Bali",
-      "es": "provincia de Bali",
-      "da": "Bali",
-      "fi": "Bali",
-      "hu": "Bali",
-      "is": "Bali",
-      "id": "Bali",
-      "sk": "Bali",
-      "ro": "Bali",
-      "hr": "Bali",
-      "eu": "Bali",
-      "pt": "Bali",
-      "et": "Bali provints",
-      "de": "Provinz Bali",
-      "sl": "Bali",
-      "it": "provincia di Bali",
-      "uk": "Балі",
-      "cs": "Bali",
-      "nb": "Bali",
-      "ca": "Bali",
-      "zu": "Bali",
-      "no": "Bali"
-    },
-    "comments": null
-  },
-  "KA": {
-    "name": "Kalimantan",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": -7.9790674,
-      "longitude": 112.6358005
-    },
-    "translations": {
-      "ms": "Kalimantan",
-      "ar": "كليمنتان",
-      "tr": "Kalimantan",
-      "lt": "Kalimantanas",
-      "ta": "கலிமந்தன்",
-      "vi": "Kalimantan",
-      "ur": "کالیمانتان",
-      "nl": "Kalimantan",
-      "zh": "加里曼丹",
-      "bn": "কালিমান্তান",
-      "fa": "کالیمانتان",
-      "pl": "Kalimantan",
-      "sw": "Kalimantan",
-      "yue_Hans": "婆罗洲",
-      "sv": "Kalimantan",
-      "hi": "कालिमंतान",
-      "ja": "カリマンタン",
-      "en": "Kalimantan",
-      "ru": "Индонезийский Калимантан",
-      "ccp": "𑄇𑄣𑄨𑄟𑄚𑄴𑄑𑄚𑄴",
-      "fr": "Kalimantan",
-      "ko": "칼리만탄",
-      "es": "Kalimantan",
-      "da": "Kalimantan",
-      "fi": "Kalimantan",
-      "id": "Kalimantan",
-      "km": "កាលីម៉ាន់តាន់",
-      "he": "קלימנטן",
-      "eu": "Kalimantan",
-      "pt": "Kalimantan",
-      "de": "Kalimantan",
-      "it": "Kalimantan",
-      "ml": "കലിമന്താൻ‌",
-      "uk": "Індонезійський Калімантан",
-      "yue": "婆羅洲",
-      "nb": "Kalimantan",
-      "ca": "Kalimantan",
-      "be": "Інданезійскі Калімантан",
-      "uz": "Kalimantan",
-      "mk": "Калимантан",
-      "bg": "Калимантан",
-      "no": "Kalimantan"
-    },
-    "comments": null
+    "comments": null,
+    "type": "special_region"
   }
 }
 

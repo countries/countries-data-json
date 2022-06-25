@@ -1,7 +1,7 @@
 {
   "CA": {
     "name": "Kapellen",
-    "code": null,
+    "code": "CA",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.633333,
@@ -38,11 +38,12 @@
       "ccp": "𑄇𑄛𑄬𑄣𑄬𑄚𑄴",
       "no": "Capellen"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "CL": {
     "name": "Klierf",
-    "code": null,
+    "code": "CL",
     "unofficial_names": null,
     "geo": {
       "latitude": 50.066667,
@@ -83,11 +84,12 @@
       "be": "Клерво",
       "no": "Clervaux"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "DI": {
     "name": "Diekrech",
-    "code": null,
+    "code": "DI",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.8671784,
@@ -128,11 +130,12 @@
       "ccp": "𑄓𑄭𑄇𑄨𑄢𑄴𑄌𑄴",
       "no": "Diekirch"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "EC": {
     "name": "Iechternach",
-    "code": null,
+    "code": "EC",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.8,
@@ -172,11 +175,12 @@
       "ccp": "𑄃𑄨𑄌𑄴𑄑𑄢𑄴𑄚𑄌𑄴",
       "no": "Echternach"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "ES": {
     "name": "Esch-Uelzecht",
-    "code": null,
+    "code": "ES",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.5,
@@ -216,11 +220,12 @@
       "ccp": "𑄃𑄨𑄌𑄴-𑄥𑄢𑄴-𑄃𑄣𑄴𑄎𑄬𑄑𑄨",
       "no": "Esch-sur-Alzette"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "GR": {
     "name": "Gréivemaacher",
-    "code": null,
+    "code": "GR",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.680841,
@@ -262,11 +267,12 @@
       "th": "อำเภอเกรเวินมัคเคอร์",
       "no": "Grevenmacher"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "LU": {
     "name": "Lëtzebuerg",
-    "code": null,
+    "code": "LU",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -308,11 +314,12 @@
       "ccp": "𑄣𑄪𑄇𑄴𑄥𑄬𑄟𑄴𑄝𑄢𑄴𑄇𑄴",
       "no": "Luxembourg"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "ME": {
     "name": "Miersch",
-    "code": null,
+    "code": "ME",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.6,
@@ -351,11 +358,12 @@
       "az": "Merş",
       "no": "Mersch"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "RD": {
     "name": "Réiden-Atert",
-    "code": null,
+    "code": "RD",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.8,
@@ -393,11 +401,12 @@
       "ccp": "𑄢𑄬𑄓𑄋𑄴𑄉𑄬",
       "no": "Redingen"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "RM": {
     "name": "Réimech",
-    "code": null,
+    "code": "RM",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.5,
@@ -437,11 +446,12 @@
       "ccp": "𑄢𑄬𑄟𑄨𑄌𑄴",
       "no": "Remich"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "VD": {
     "name": "Veianen",
-    "code": null,
+    "code": "VD",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.933333,
@@ -480,11 +490,12 @@
       "ccp": "𑄞𑄭𑄚𑄴𑄓𑄬𑄚𑄴",
       "no": "Vianden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "WI": {
     "name": "Wolz",
-    "code": null,
+    "code": "WI",
     "unofficial_names": null,
     "geo": {
       "latitude": 49.95,
@@ -523,7 +534,8 @@
       "ccp": "𑄅𑄪𑄃𑄨𑄣𑄴𑄑𑄴𑄎𑄴",
       "no": "Wiltz"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   }
 }
 

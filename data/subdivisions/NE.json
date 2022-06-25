@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Agadez",
-    "code": null,
+    "code": "1",
     "unofficial_names": "Agadez",
     "geo": {
       "latitude": 16.966667,
@@ -57,11 +57,12 @@
       "ha_NE": "Yankin Agadez",
       "no": "Agadez (region)"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "2": {
     "name": "Diffa",
-    "code": null,
+    "code": "2",
     "unofficial_names": "Diffa",
     "geo": {
       "latitude": 13.316667,
@@ -117,11 +118,12 @@
       "ha_NE": "Yankin Diffa",
       "no": "Diffa"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "3": {
     "name": "Dosso",
-    "code": null,
+    "code": "3",
     "unofficial_names": "Dosso",
     "geo": {
       "latitude": 13.05,
@@ -178,11 +180,12 @@
       "ha_NE": "Yankin Dosso",
       "no": "Dosso"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "4": {
     "name": "Maradi",
-    "code": null,
+    "code": "4",
     "unofficial_names": "Maradi",
     "geo": {
       "latitude": 13.483333,
@@ -238,11 +241,12 @@
       "ha_NE": "Yankin Maradi",
       "no": "Maradi"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "5": {
     "name": "Tahoua",
-    "code": null,
+    "code": "5",
     "unofficial_names": "Tahoua",
     "geo": {
       "latitude": 14.883333,
@@ -298,11 +302,12 @@
       "ha_NE": "Yankin Tahoua",
       "no": "Tahoua"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "6": {
     "name": "Tillabéri",
-    "code": null,
+    "code": "6",
     "unofficial_names": [
       "Tillaberi"
     ],
@@ -360,11 +365,12 @@
       "ha_NE": "Tillabéri",
       "no": "Tillabéri"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "7": {
     "name": "Zinder",
-    "code": null,
+    "code": "7",
     "unofficial_names": "Zinder",
     "geo": {
       "latitude": 13.805278,
@@ -419,11 +425,12 @@
       "ha_NE": "Yankin Zinder",
       "no": "Zinder"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "8": {
     "name": "Niamey",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Niamey",
     "geo": {
       "latitude": 13.521389,
@@ -514,7 +521,8 @@
       "no": "Niamey",
       "yo_BJ": "Niamey"
     },
-    "comments": null
+    "comments": null,
+    "type": "urban_community"
   }
 }
 

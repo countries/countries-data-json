@@ -1,7 +1,7 @@
 {
   "AK": {
     "name": "Alaska",
-    "code": null,
+    "code": "AK",
     "unofficial_names": "Alaska",
     "geo": {
       "latitude": 64.2008413,
@@ -99,11 +99,12 @@
       "no": "Alaska",
       "yo_BJ": "Alaska"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AL": {
     "name": "Alabama",
-    "code": null,
+    "code": "AL",
     "unofficial_names": "Alabama",
     "geo": {
       "latitude": 32.3182314,
@@ -199,11 +200,12 @@
       "ha_NE": "Alabama",
       "no": "Alabama"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AR": {
     "name": "Arkansas",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Arkansas",
     "geo": {
       "latitude": 35.20105,
@@ -298,11 +300,12 @@
       "no": "Arkansas",
       "yo_BJ": "Arkansas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AS": {
     "name": "American Samoa",
-    "code": null,
+    "code": "AS",
     "unofficial_names": "American Samoa",
     "geo": {
       "latitude": 21.3239718,
@@ -316,11 +319,12 @@
       "en": "American Samoa",
       "ccp": "𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄥𑄪𑄟𑄮𑄠"
     },
-    "comments": "see also separate entry under AS"
+    "comments": "see also separate entry under AS",
+    "type": "outlying_area"
   },
   "AZ": {
     "name": "Arizona",
-    "code": null,
+    "code": "AZ",
     "unofficial_names": "Arizona",
     "geo": {
       "latitude": 34.0489281,
@@ -416,11 +420,12 @@
       "no": "Arizona",
       "yo_BJ": "Arizona"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CA": {
     "name": "California",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "California",
     "geo": {
       "latitude": 36.778261,
@@ -520,11 +525,12 @@
       "ha_NE": "California",
       "no": "California"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CO": {
     "name": "Colorado",
-    "code": null,
+    "code": "CO",
     "unofficial_names": "Colorado",
     "geo": {
       "latitude": 39.5500507,
@@ -620,11 +626,12 @@
       "no": "Colorado",
       "yo_BJ": "Colorado"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CT": {
     "name": "Connecticut",
-    "code": null,
+    "code": "CT",
     "unofficial_names": "Connecticut",
     "geo": {
       "latitude": 41.6032207,
@@ -717,11 +724,12 @@
       "no": "Connecticut",
       "yo_BJ": "Connecticut"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "DC": {
     "name": "District of Columbia",
-    "code": null,
+    "code": "DC",
     "unofficial_names": "District of Columbia",
     "geo": {
       "latitude": 38.9071923,
@@ -800,11 +808,12 @@
       "uz": "Kolumbiya okrugi",
       "no": "Washington D.C."
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "DE": {
     "name": "Delaware",
-    "code": null,
+    "code": "DE",
     "unofficial_names": "Delaware",
     "geo": {
       "latitude": 38.9108325,
@@ -897,11 +906,12 @@
       "no": "Delaware",
       "yo_BJ": "Delaware"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "FL": {
     "name": "Florida",
-    "code": null,
+    "code": "FL",
     "unofficial_names": "Florida",
     "geo": {
       "latitude": 27.6648274,
@@ -997,11 +1007,12 @@
       "no": "Florida",
       "yo_BJ": "Florida"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GA": {
     "name": "Georgia",
-    "code": null,
+    "code": "GA",
     "unofficial_names": "Georgia",
     "geo": {
       "latitude": 32.1656221,
@@ -1094,11 +1105,12 @@
       "tk": "Jorjiýa",
       "no": "Georgia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "GU": {
     "name": "Guam",
-    "code": null,
+    "code": "GU",
     "unofficial_names": "Guam",
     "geo": {
       "latitude": 36.90194,
@@ -1112,11 +1124,12 @@
       "en": "Guam",
       "ccp": "𑄉𑄪𑄠𑄟𑄴"
     },
-    "comments": "see also separate entry under GU"
+    "comments": "see also separate entry under GU",
+    "type": "outlying_area"
   },
   "HI": {
     "name": "Hawaii",
-    "code": null,
+    "code": "HI",
     "unofficial_names": "Hawaii",
     "geo": {
       "latitude": 19.8967662,
@@ -1213,11 +1226,12 @@
       "no": "Hawaii",
       "yo_BJ": "Hawaii"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "IA": {
     "name": "Iowa",
-    "code": null,
+    "code": "IA",
     "unofficial_names": "Iowa",
     "geo": {
       "latitude": 41.8780025,
@@ -1311,11 +1325,12 @@
       "no": "Iowa",
       "yo_BJ": "Iowa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ID": {
     "name": "Idaho",
-    "code": null,
+    "code": "ID",
     "unofficial_names": "Idaho",
     "geo": {
       "latitude": 44.0682019,
@@ -1407,11 +1422,12 @@
       "no": "Idaho",
       "yo_BJ": "Idaho"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "IL": {
     "name": "Illinois",
-    "code": null,
+    "code": "IL",
     "unofficial_names": "Illinois",
     "geo": {
       "latitude": 40.6331249,
@@ -1504,11 +1520,12 @@
       "no": "Illinois",
       "yo_BJ": "Illinois"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "IN": {
     "name": "Indiana",
-    "code": null,
+    "code": "IN",
     "unofficial_names": "Indiana",
     "geo": {
       "latitude": 40.2671941,
@@ -1602,11 +1619,12 @@
       "no": "Indiana",
       "yo_BJ": "Indiana"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KS": {
     "name": "Kansas",
-    "code": null,
+    "code": "KS",
     "unofficial_names": "Kansas",
     "geo": {
       "latitude": 39.011902,
@@ -1697,11 +1715,12 @@
       "no": "Kansas",
       "yo_BJ": "Kansas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KY": {
     "name": "Kentucky",
-    "code": null,
+    "code": "KY",
     "unofficial_names": "Kentucky",
     "geo": {
       "latitude": 37.8393332,
@@ -1792,11 +1811,12 @@
       "no": "Kentucky",
       "yo_BJ": "Kentucky"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "LA": {
     "name": "Louisiana",
-    "code": null,
+    "code": "LA",
     "unofficial_names": "Louisiana",
     "geo": {
       "latitude": 30.9842977,
@@ -1887,11 +1907,12 @@
       "no": "Louisiana",
       "yo_BJ": "Louisiana"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MA": {
     "name": "Massachusetts",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Massachusetts",
     "geo": {
       "latitude": 42.4072107,
@@ -1985,11 +2006,12 @@
       "no": "Massachusetts",
       "yo_BJ": "Massachusetts"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MD": {
     "name": "Maryland",
-    "code": null,
+    "code": "MD",
     "unofficial_names": "Maryland",
     "geo": {
       "latitude": 39.0457549,
@@ -2081,11 +2103,12 @@
       "no": "Maryland",
       "yo_BJ": "Maryland"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ME": {
     "name": "Maine",
-    "code": null,
+    "code": "ME",
     "unofficial_names": "Maine",
     "geo": {
       "latitude": 45.253783,
@@ -2176,11 +2199,12 @@
       "no": "Maine",
       "yo_BJ": "Maine"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MI": {
     "name": "Michigan",
-    "code": null,
+    "code": "MI",
     "unofficial_names": "Michigan",
     "geo": {
       "latitude": 44.3148443,
@@ -2272,11 +2296,12 @@
       "no": "Michigan",
       "yo_BJ": "Michigan"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MN": {
     "name": "Minnesota",
-    "code": null,
+    "code": "MN",
     "unofficial_names": "Minnesota",
     "geo": {
       "latitude": 46.729553,
@@ -2368,11 +2393,12 @@
       "no": "Minnesota",
       "yo_BJ": "Minnesota"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MO": {
     "name": "Missouri",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Missouri",
     "geo": {
       "latitude": 37.9642529,
@@ -2463,11 +2489,12 @@
       "mk": "Мисури",
       "no": "Missouri"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MP": {
     "name": "Northern Mariana Islands",
-    "code": null,
+    "code": "MP",
     "unofficial_names": "Northern Mariana Islands",
     "geo": {
       "latitude": 15.1466435,
@@ -2481,11 +2508,12 @@
       "en": "Northern Mariana Islands",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄟𑄬𑄢𑄨𑄠𑄚 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴"
     },
-    "comments": "see also separate entry under MP"
+    "comments": "see also separate entry under MP",
+    "type": "outlying_area"
   },
   "MS": {
     "name": "Mississippi",
-    "code": null,
+    "code": "MS",
     "unofficial_names": "Mississippi",
     "geo": {
       "latitude": 32.3546679,
@@ -2576,11 +2604,12 @@
       "mk": "Мисисипи",
       "no": "Mississippi"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "MT": {
     "name": "Montana",
-    "code": null,
+    "code": "MT",
     "unofficial_names": "Montana",
     "geo": {
       "latitude": 46.8796822,
@@ -2673,11 +2702,12 @@
       "no": "Montana",
       "yo_BJ": "Montana"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NC": {
     "name": "North Carolina",
-    "code": null,
+    "code": "NC",
     "unofficial_names": "North Carolina",
     "geo": {
       "latitude": 35.7595731,
@@ -2767,11 +2797,12 @@
       "no": "Nord-Carolina",
       "yo_BJ": "Àríwá Carolina"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ND": {
     "name": "North Dakota",
-    "code": null,
+    "code": "ND",
     "unofficial_names": "North Dakota",
     "geo": {
       "latitude": 47.5514926,
@@ -2864,11 +2895,12 @@
       "no": "Nord-Dakota",
       "yo_BJ": "Àríwá Dakota"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NE": {
     "name": "Nebraska",
-    "code": null,
+    "code": "NE",
     "unofficial_names": "Nebraska",
     "geo": {
       "latitude": 41.4925374,
@@ -2961,11 +2993,12 @@
       "no": "Nebraska",
       "yo_BJ": "Nebraska"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NH": {
     "name": "New Hampshire",
-    "code": null,
+    "code": "NH",
     "unofficial_names": "New Hampshire",
     "geo": {
       "latitude": 43.1938516,
@@ -3057,11 +3090,12 @@
       "no": "New Hampshire",
       "yo_BJ": "New Hampshire"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NJ": {
     "name": "New Jersey",
-    "code": null,
+    "code": "NJ",
     "unofficial_names": "New Jersey",
     "geo": {
       "latitude": 40.0583238,
@@ -3153,11 +3187,12 @@
       "no": "New Jersey",
       "yo_BJ": "New Jersey"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NM": {
     "name": "New Mexico",
-    "code": null,
+    "code": "NM",
     "unofficial_names": "New Mexico",
     "geo": {
       "latitude": 34.5199402,
@@ -3251,11 +3286,12 @@
       "ha_NE": "New Mexico",
       "no": "New Mexico"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NV": {
     "name": "Nevada",
-    "code": null,
+    "code": "NV",
     "unofficial_names": "Nevada",
     "geo": {
       "latitude": 38.8026097,
@@ -3349,11 +3385,12 @@
       "no": "Nevada",
       "yo_BJ": "Nevada"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NY": {
     "name": "New York",
-    "code": null,
+    "code": "NY",
     "unofficial_names": "New York",
     "geo": {
       "latitude": 43.2994285,
@@ -3454,11 +3491,12 @@
       "ha_NE": "New York (jiha)",
       "no": "New York"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OH": {
     "name": "Ohio",
-    "code": null,
+    "code": "OH",
     "unofficial_names": "Ohio",
     "geo": {
       "latitude": 40.4172871,
@@ -3551,11 +3589,12 @@
       "no": "Ohio",
       "yo_BJ": "Ohio"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OK": {
     "name": "Oklahoma",
-    "code": null,
+    "code": "OK",
     "unofficial_names": "Oklahoma",
     "geo": {
       "latitude": 35.0077519,
@@ -3649,11 +3688,12 @@
       "no": "Oklahoma",
       "yo_BJ": "Oklahoma"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OR": {
     "name": "Oregon",
-    "code": null,
+    "code": "OR",
     "unofficial_names": "Oregon",
     "geo": {
       "latitude": 43.8041334,
@@ -3746,11 +3786,12 @@
       "no": "Oregon",
       "yo_BJ": "Oregon"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PA": {
     "name": "Pennsylvania",
-    "code": null,
+    "code": "PA",
     "unofficial_names": "Pennsylvania",
     "geo": {
       "latitude": 41.2033216,
@@ -3843,11 +3884,12 @@
       "no": "Pennsylvania",
       "yo_BJ": "Pennsylvania"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PR": {
     "name": "Puerto Rico",
-    "code": null,
+    "code": "PR",
     "unofficial_names": "Puerto Rico",
     "geo": {
       "latitude": 32.7290818,
@@ -3861,11 +3903,12 @@
       "en": "Puerto Rico",
       "ccp": "𑄛𑄮𑄢𑄴𑄑𑄮 𑄢𑄨𑄇𑄮"
     },
-    "comments": "see also separate entry under PR"
+    "comments": "see also separate entry under PR",
+    "type": "outlying_area"
   },
   "RI": {
     "name": "Rhode Island",
-    "code": null,
+    "code": "RI",
     "unofficial_names": "Rhode Island",
     "geo": {
       "latitude": 41.5800945,
@@ -3956,11 +3999,12 @@
       "mk": "Род Ајленд",
       "no": "Rhode Island"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SC": {
     "name": "South Carolina",
-    "code": null,
+    "code": "SC",
     "unofficial_names": "South Carolina",
     "geo": {
       "latitude": 33.836081,
@@ -4050,11 +4094,12 @@
       "no": "Sør-Carolina",
       "yo_BJ": "Gúúsù Carolina"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SD": {
     "name": "South Dakota",
-    "code": null,
+    "code": "SD",
     "unofficial_names": "South Dakota",
     "geo": {
       "latitude": 43.9695148,
@@ -4147,11 +4192,12 @@
       "no": "Sør-Dakota",
       "yo_BJ": "Gúúsù Dakota"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TN": {
     "name": "Tennessee",
-    "code": null,
+    "code": "TN",
     "unofficial_names": "Tennessee",
     "geo": {
       "latitude": 35.5174913,
@@ -4242,11 +4288,12 @@
       "no": "Tennessee",
       "yo_BJ": "Tennessee"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TX": {
     "name": "Texas",
-    "code": null,
+    "code": "TX",
     "unofficial_names": "Texas",
     "geo": {
       "latitude": 31.9685988,
@@ -4342,11 +4389,12 @@
       "no": "Texas",
       "yo_BJ": "Texas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "UM": {
     "name": "United States Minor Outlying Islands",
-    "code": null,
+    "code": "UM",
     "unofficial_names": "United States Minor Outlying Islands",
     "geo": {
       "latitude": 28.2021222,
@@ -4360,11 +4408,12 @@
       "en": "U.S. Outlying Islands",
       "ccp": "𑄃𑄨𑄅𑄪. 𑄃𑄬𑄌𑄴. 𑄃𑄅𑄪𑄖𑄴𑄣𑄭𑄃𑄨𑄁 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
     },
-    "comments": "see also separate entry under UM"
+    "comments": "see also separate entry under UM",
+    "type": "outlying_area"
   },
   "UT": {
     "name": "Utah",
-    "code": null,
+    "code": "UT",
     "unofficial_names": "Utah",
     "geo": {
       "latitude": 39.3209801,
@@ -4458,11 +4507,12 @@
       "no": "Utah",
       "yo_BJ": "Utah"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "VA": {
     "name": "Virginia",
-    "code": null,
+    "code": "VA",
     "unofficial_names": "Virginia",
     "geo": {
       "latitude": 37.4315734,
@@ -4557,11 +4607,12 @@
       "no": "Virginia",
       "yo_BJ": "Firginia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "VI": {
     "name": "Virgin Islands, U.S.",
-    "code": null,
+    "code": "VI",
     "unofficial_names": "Virgin Islands, U.S.",
     "geo": {
       "latitude": 33.8569878,
@@ -4575,11 +4626,12 @@
       "en": "U.S. Virgin Islands",
       "ccp": "𑄃𑄨𑄅𑄪. 𑄃𑄬𑄌𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
     },
-    "comments": "see also separate entry under VI"
+    "comments": "see also separate entry under VI",
+    "type": "outlying_area"
   },
   "VT": {
     "name": "Vermont",
-    "code": null,
+    "code": "VT",
     "unofficial_names": "Vermont",
     "geo": {
       "latitude": 44.5588028,
@@ -4673,11 +4725,12 @@
       "no": "Vermont",
       "yo_BJ": "Fermont"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WA": {
     "name": "Washington",
-    "code": null,
+    "code": "WA",
     "unofficial_names": "Washington",
     "geo": {
       "latitude": 47.7510741,
@@ -4771,11 +4824,12 @@
       "ne": "वाशिङ्गटन डि.सि.",
       "no": "Washington"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WI": {
     "name": "Wisconsin",
-    "code": null,
+    "code": "WI",
     "unofficial_names": "Wisconsin",
     "geo": {
       "latitude": 43.7844397,
@@ -4870,11 +4924,12 @@
       "no": "Wisconsin",
       "yo_BJ": "Wisconsin"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WV": {
     "name": "West Virginia",
-    "code": null,
+    "code": "WV",
     "unofficial_names": "West Virginia",
     "geo": {
       "latitude": 38.5976262,
@@ -4964,11 +5019,12 @@
       "mk": "Западна Вирџинија",
       "no": "Vest-Virginia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "WY": {
     "name": "Wyoming",
-    "code": null,
+    "code": "WY",
     "unofficial_names": "Wyoming",
     "geo": {
       "latitude": 43.0759678,
@@ -5063,7 +5119,8 @@
       "no": "Wyoming",
       "yo_BJ": "Wyoming"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

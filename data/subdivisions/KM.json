@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Anjouan",
-    "code": null,
+    "code": "A",
     "unofficial_names": [
       "Anjouan",
       "Ndzuwani",
@@ -71,11 +71,12 @@
       "uk": "Анжуан",
       "no": "Anjouan"
     },
-    "comments": null
+    "comments": null,
+    "type": "island"
   },
   "G": {
     "name": "Grande Comore",
-    "code": null,
+    "code": "G",
     "unofficial_names": [
       "Grande Comore",
       "Njazídja"
@@ -141,11 +142,12 @@
       "ccp": "𑄉𑄳𑄢𑄚𑄳𑄓𑄴 𑄇𑄮𑄟𑄢𑄴",
       "no": "Grande Comore"
     },
-    "comments": null
+    "comments": null,
+    "type": "island"
   },
   "M": {
     "name": "Mohéli",
-    "code": null,
+    "code": "M",
     "unofficial_names": [
       "Mohilla",
       "Mohéli",
@@ -212,7 +214,8 @@
       "uk": "Мохелі",
       "no": "Mohéli"
     },
-    "comments": null
+    "comments": null,
+    "type": "island"
   }
 }
 

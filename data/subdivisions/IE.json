@@ -1,7 +1,7 @@
 {
   "C": {
     "name": "Connacht",
-    "code": null,
+    "code": "C",
     "unofficial_names": [
       "Connaught"
     ],
@@ -63,11 +63,12 @@
       "mk": "Конахт",
       "no": "Connacht"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CE": {
     "name": "Clare",
-    "code": null,
+    "code": "CE",
     "unofficial_names": [
       "An Clár"
     ],
@@ -139,11 +140,12 @@
       "mk": "Клер",
       "no": "Clare"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "CN": {
     "name": "Cavan",
-    "code": null,
+    "code": "CN",
     "unofficial_names": [
       "An Cabhán"
     ],
@@ -158,7 +160,7 @@
     "translations": {
       "ar": "مقاطعة كافان",
       "bg": "Каван",
-      "bn": "কাউন্টি কর্ক",
+      "bn": "কাউন্টি কভেন",
       "ca": "Comtat de Cavan",
       "cs": "Hrabství Cavan",
       "da": "County Cavan",
@@ -215,11 +217,12 @@
       "mk": "Каван",
       "no": "Cavan"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "CO": {
     "name": "Cork",
-    "code": null,
+    "code": "CO",
     "unofficial_names": [
       "Corcaigh",
       "County Cork"
@@ -295,11 +298,12 @@
       "vi": "Hạt Cork",
       "zh": "科克郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "CW": {
     "name": "Carlow",
-    "code": null,
+    "code": "CW",
     "unofficial_names": [
       "Ceatharlach"
     ],
@@ -372,13 +376,15 @@
       "vi": "Hạt Carlow",
       "zh": "卡洛郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "D": {
     "name": "Dublin",
-    "code": null,
+    "code": "D",
     "unofficial_names": [
-      "Átha Cliath"
+      "Átha Cliath",
+      "Baile Átha Cliath"
     ],
     "geo": {
       "latitude": 53.3498053,
@@ -434,11 +440,12 @@
       "ur": "کاؤنٹی ڈبلن",
       "zh": "都柏林地區"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "DL": {
     "name": "Donegal",
-    "code": null,
+    "code": "DL",
     "unofficial_names": [
       "Dún na nGall"
     ],
@@ -511,11 +518,12 @@
       "vi": "Hạt Donegal",
       "zh": "多尼戈爾郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "G": {
     "name": "Galway",
-    "code": null,
+    "code": "G",
     "unofficial_names": [
       "Gaillimh"
     ],
@@ -587,11 +595,12 @@
       "vi": "Hạt Galway",
       "zh": "戈尔韦郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KE": {
     "name": "Kildare",
-    "code": null,
+    "code": "KE",
     "unofficial_names": [
       "Cill Dara"
     ],
@@ -664,11 +673,12 @@
       "vi": "Hạt Kildare",
       "zh": "基尔代尔郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KK": {
     "name": "Kilkenny",
-    "code": null,
+    "code": "KK",
     "unofficial_names": [
       "Cill Chainnigh"
     ],
@@ -741,11 +751,12 @@
       "vi": "Hạt Kilkenny",
       "zh": "基爾肯尼郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "KY": {
     "name": "Kerry",
-    "code": null,
+    "code": "KY",
     "unofficial_names": [
       "Ciarraighe",
       "Ciarraí"
@@ -817,11 +828,12 @@
       "vi": "Hạt Kerry",
       "zh": "凱里郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "L": {
     "name": "Leinster",
-    "code": null,
+    "code": "L",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -882,11 +894,12 @@
       "yue": "利揚省",
       "zh": "倫斯特省"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LD": {
     "name": "Longford",
-    "code": null,
+    "code": "LD",
     "unofficial_names": [
       "Longphort",
       "Longphuirt"
@@ -958,11 +971,12 @@
       "vi": "Hạt Longford",
       "zh": "朗福德郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "LH": {
     "name": "Louth",
-    "code": null,
+    "code": "LH",
     "unofficial_names": [
       "Lughbhadh",
       "Lú"
@@ -1035,11 +1049,12 @@
       "vi": "Hạt Louth",
       "zh": "劳斯郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "LK": {
     "name": "Limerick",
-    "code": null,
+    "code": "LK",
     "unofficial_names": [
       "Luimneach"
     ],
@@ -1111,11 +1126,12 @@
       "vi": "Hạt Limerick",
       "zh": "利默里克郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "LM": {
     "name": "Leitrim",
-    "code": null,
+    "code": "LM",
     "unofficial_names": [
       "Liathdroim"
     ],
@@ -1185,11 +1201,12 @@
       "vi": "Hạt Leitrim",
       "zh": "利特里姆郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "LS": {
     "name": "Laois",
-    "code": null,
+    "code": "LS",
     "unofficial_names": [
       "Laoighis",
       "Queenʿs"
@@ -1260,11 +1277,12 @@
       "vi": "Hạt Laois",
       "zh": "萊伊什郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "M": {
     "name": "Munster",
-    "code": null,
+    "code": "M",
     "unofficial_names": null,
     "geo": {
       "latitude": 52.2218,
@@ -1326,11 +1344,12 @@
       "yue": "莫雲省",
       "zh": "芒斯特省"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MH": {
     "name": "Meath",
-    "code": null,
+    "code": "MH",
     "unofficial_names": [
       "An Mhí",
       "An Mhídhe"
@@ -1403,11 +1422,12 @@
       "yue": "中土郡",
       "zh": "米斯郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "MN": {
     "name": "Monaghan",
-    "code": null,
+    "code": "MN",
     "unofficial_names": [
       "Muineachán"
     ],
@@ -1477,11 +1497,12 @@
       "vi": "Hạt Monaghan",
       "zh": "莫纳亨郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "MO": {
     "name": "Mayo",
-    "code": null,
+    "code": "MO",
     "unofficial_names": [
       "Maigh Eo"
     ],
@@ -1553,11 +1574,12 @@
       "vi": "Hạt Mayo",
       "zh": "梅奧郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "OY": {
     "name": "Offaly",
-    "code": null,
+    "code": "OY",
     "unofficial_names": [
       "Kingʿs",
       "Kingʿs County",
@@ -1631,11 +1653,12 @@
       "vi": "Hạt Offaly",
       "zh": "奧法利郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "RN": {
     "name": "Roscommon",
-    "code": null,
+    "code": "RN",
     "unofficial_names": [
       "Ros Comáin"
     ],
@@ -1706,11 +1729,12 @@
       "vi": "Hạt Roscommon",
       "zh": "羅斯康芒郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "SO": {
     "name": "Sligo",
-    "code": null,
+    "code": "SO",
     "unofficial_names": [
       "Sligeach"
     ],
@@ -1783,11 +1807,12 @@
       "vi": "Hạt Sligo",
       "zh": "斯萊戈郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "TA": {
     "name": "Tipperary",
-    "code": null,
+    "code": "TA",
     "unofficial_names": [
       "Tiobraid Árann"
     ],
@@ -1856,11 +1881,83 @@
       "vi": "Hạt Tipperary",
       "zh": "蒂珀雷里郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
+  },
+  "U": {
+    "name": "Ulster",
+    "code": "U",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": 54.7617,
+      "longitude": 6.9612,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "no": "Ulster",
+      "af": "Ulster",
+      "ar": "أولستر",
+      "az": "Olster",
+      "be": "Ольстэр",
+      "bg": "Ълстър",
+      "bs": "Ulster",
+      "ca": "Ulster",
+      "ccp": "𑄃𑄣𑄴𑄌𑄳𑄑𑄢𑄴",
+      "ceb": "Ulster",
+      "cs": "Ulster",
+      "cy": "Ulster",
+      "da": "Ulster",
+      "de": "Provinz Ulster",
+      "el": "Άλστερ",
+      "en": "Ulster",
+      "es": "Úlster",
+      "et": "Ulster",
+      "eu": "Ulster",
+      "fa": "اولستر",
+      "fi": "Ulster",
+      "fr": "Ulster",
+      "ga": "Cúige Uladh",
+      "gl": "Úlster - Cúige Uladh",
+      "he": "אלסטר",
+      "hr": "Cúige Uladh",
+      "hy": "Օլսթեր",
+      "id": "Ulster",
+      "is": "Ulster",
+      "it": "Ulster",
+      "ja": "アルスター",
+      "ka": "ოლსტერი",
+      "ko": "얼스터",
+      "lt": "Alsteris",
+      "lv": "Olstera",
+      "mk": "Алстер",
+      "nb": "Ulster",
+      "nl": "Ulster",
+      "pl": "Ulster",
+      "pt": "Ulster",
+      "ro": "Ulster",
+      "ru": "Ольстер",
+      "sk": "Ulster",
+      "sr_Latn": "Alster",
+      "sr": "Алстер",
+      "sv": "Ulster",
+      "th": "อัลสเตอร์",
+      "tr": "Ulster",
+      "uk": "Ольстер",
+      "ur": "السٹر",
+      "vi": "Ulster",
+      "yue_Hans": "乌勒省",
+      "yue": "烏勒省",
+      "zh": "阿爾斯特省"
+    },
+    "comments": null,
+    "type": "province"
   },
   "WD": {
     "name": "Waterford",
-    "code": null,
+    "code": "WD",
     "unofficial_names": [
       "Port Láirge"
     ],
@@ -1931,11 +2028,12 @@
       "vi": "Hạt Waterford",
       "zh": "沃特福德郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "WH": {
     "name": "Westmeath",
-    "code": null,
+    "code": "WH",
     "unofficial_names": [
       "An Iarmhidhe"
     ],
@@ -2004,11 +2102,12 @@
       "vi": "Hạt Westmeath",
       "zh": "韋斯特米斯郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "WW": {
     "name": "Wicklow",
-    "code": null,
+    "code": "WW",
     "unofficial_names": [
       "Cill Maintain",
       "Cill Mhanntáin"
@@ -2081,11 +2180,12 @@
       "vi": "Hạt Wicklow",
       "zh": "威克洛郡"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "WX": {
     "name": "Wexford",
-    "code": null,
+    "code": "WX",
     "unofficial_names": [
       "Loch Garman"
     ],
@@ -2155,77 +2255,8 @@
       "vi": "Wexford",
       "zh": "韦克斯福德郡"
     },
-    "comments": null
-  },
-  "U": {
-    "name": "Ulster",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": 54.7617,
-      "longitude": 6.9612,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "no": "Ulster",
-      "af": "Ulster",
-      "ar": "أولستر",
-      "az": "Olster",
-      "be": "Ольстэр",
-      "bg": "Ълстър",
-      "bs": "Ulster",
-      "ca": "Ulster",
-      "ccp": "𑄃𑄣𑄴𑄌𑄳𑄑𑄢𑄴",
-      "ceb": "Ulster",
-      "cs": "Ulster",
-      "cy": "Ulster",
-      "da": "Ulster",
-      "de": "Provinz Ulster",
-      "el": "Άλστερ",
-      "en": "Ulster",
-      "es": "Úlster",
-      "et": "Ulster",
-      "eu": "Ulster",
-      "fa": "اولستر",
-      "fi": "Ulster",
-      "fr": "Ulster",
-      "ga": "Cúige Uladh",
-      "gl": "Úlster - Cúige Uladh",
-      "he": "אלסטר",
-      "hr": "Cúige Uladh",
-      "hy": "Օլսթեր",
-      "id": "Ulster",
-      "is": "Ulster",
-      "it": "Ulster",
-      "ja": "アルスター",
-      "ka": "ოლსტერი",
-      "ko": "얼스터",
-      "lt": "Alsteris",
-      "lv": "Olstera",
-      "mk": "Алстер",
-      "nb": "Ulster",
-      "nl": "Ulster",
-      "pl": "Ulster",
-      "pt": "Ulster",
-      "ro": "Ulster",
-      "ru": "Ольстер",
-      "sk": "Ulster",
-      "sr_Latn": "Alster",
-      "sr": "Алстер",
-      "sv": "Ulster",
-      "th": "อัลสเตอร์",
-      "tr": "Ulster",
-      "uk": "Ольстер",
-      "ur": "السٹر",
-      "vi": "Ulster",
-      "yue_Hans": "乌勒省",
-      "yue": "烏勒省",
-      "zh": "阿爾斯特省"
-    },
-    "comments": null
+    "comments": null,
+    "type": "county"
   }
 }
 

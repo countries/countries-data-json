@@ -1,7 +1,7 @@
 {
   "AT": {
     "name": "Atlántida",
-    "code": null,
+    "code": "AT",
     "unofficial_names": "Atlántida",
     "geo": {
       "latitude": 15.6696283,
@@ -60,11 +60,12 @@
       "ccp": "𑄃𑄖𑄴𑄣𑄥𑄑𑄨𑄓",
       "no": "Atlantida department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CH": {
     "name": "Choluteca",
-    "code": null,
+    "code": "CH",
     "unofficial_names": "Choluteca",
     "geo": {
       "latitude": 13.3198572,
@@ -123,11 +124,12 @@
       "ccp": "𑄌𑄮𑄣𑄨𑄅𑄪𑄑𑄬𑄇",
       "no": "Choluteca"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CL": {
     "name": "Colón",
-    "code": null,
+    "code": "CL",
     "unofficial_names": "Colón",
     "geo": {
       "latitude": 15.6391768,
@@ -185,11 +187,12 @@
       "ccp": "𑄇𑄮𑄣𑄮𑄚𑄴",
       "no": "Colon department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CM": {
     "name": "Comayagua",
-    "code": null,
+    "code": "CM",
     "unofficial_names": "Comayagua",
     "geo": {
       "latitude": 14.5534828,
@@ -233,11 +236,12 @@
       "zh": "科馬亞瓜省",
       "ccp": "𑄇𑄮𑄟𑄬𑄠𑄋𑄴𑄉𑄪𑄠"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CP": {
     "name": "Copán",
-    "code": null,
+    "code": "CP",
     "unofficial_names": "Copán",
     "geo": {
       "latitude": 14.9360838,
@@ -294,11 +298,12 @@
       "ccp": "𑄇𑄮𑄛𑄚𑄴",
       "no": "Copan department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CR": {
     "name": "Cortés",
-    "code": null,
+    "code": "CR",
     "unofficial_names": "Cortés",
     "geo": {
       "latitude": 15.4909515,
@@ -357,11 +362,12 @@
       "ccp": "𑄇𑄧𑄢𑄴𑄑𑄬𑄌𑄴",
       "no": "Cortes"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "EP": {
     "name": "El Paraíso",
-    "code": null,
+    "code": "EP",
     "unofficial_names": "El Paraíso",
     "geo": {
       "latitude": 14.0736932,
@@ -419,11 +425,12 @@
       "ccp": "𑄃𑄬𑄣𑄴 𑄛𑄢𑄭𑄥𑄮",
       "no": "El Paraiso"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "FM": {
     "name": "Francisco Morazán",
-    "code": null,
+    "code": "FM",
     "unofficial_names": "Francisco Morazán",
     "geo": {
       "latitude": 14.45411,
@@ -481,11 +488,12 @@
       "be": "Франсіска Марасан",
       "no": "Franciso Morazan department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "GD": {
     "name": "Gracias a Dios",
-    "code": null,
+    "code": "GD",
     "unofficial_names": "Gracias a Dios",
     "geo": {
       "latitude": 15.341806,
@@ -544,11 +552,12 @@
       "ccp": "𑄉𑄳𑄢𑄥𑄨𑄠𑄌𑄴 𑄃 𑄓𑄨𑄠𑄮𑄌𑄴",
       "no": "Gracias a Dios"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IB": {
     "name": "Islas de la Bahía",
-    "code": null,
+    "code": "IB",
     "unofficial_names": "Islas de la Bahía",
     "geo": {
       "latitude": 16.3526078,
@@ -612,11 +621,12 @@
       "yue": "海灣群島省",
       "no": "Bay Islands department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "IN": {
     "name": "Intibucá",
-    "code": null,
+    "code": "IN",
     "unofficial_names": "Intibucá",
     "geo": {
       "latitude": 14.316667,
@@ -673,11 +683,12 @@
       "ccp": "𑄃𑄨𑄚𑄴𑄑𑄨𑄝𑄨𑄅𑄪𑄇",
       "no": "Intibuca department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "LE": {
     "name": "Lempira",
-    "code": null,
+    "code": "LE",
     "unofficial_names": "Lempira",
     "geo": {
       "latitude": 14.1887698,
@@ -734,11 +745,12 @@
       "ccp": "𑄣𑄬𑄟𑄴𑄛𑄨𑄢",
       "no": "Lampira department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "LP": {
     "name": "La Paz",
-    "code": null,
+    "code": "LP",
     "unofficial_names": "La Paz",
     "geo": {
       "latitude": 13.9984833,
@@ -796,11 +808,12 @@
       "ccp": "𑄣 𑄛𑄌𑄴",
       "no": "La Paz department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "OC": {
     "name": "Ocotepeque",
-    "code": null,
+    "code": "OC",
     "unofficial_names": "Ocotepeque",
     "geo": {
       "latitude": 14.5170347,
@@ -857,11 +870,12 @@
       "ccp": "𑄃𑄮𑄇𑄮𑄑𑄬𑄛𑄬𑄇𑄴",
       "no": "Ocotepeque department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "OL": {
     "name": "Olancho",
-    "code": null,
+    "code": "OL",
     "unofficial_names": "Olancho",
     "geo": {
       "latitude": 14.8067406,
@@ -918,11 +932,12 @@
       "ccp": "𑄃𑄮𑄣𑄚𑄴𑄇𑄮",
       "no": "Olancho department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SB": {
     "name": "Santa Bárbara",
-    "code": null,
+    "code": "SB",
     "unofficial_names": "Santa Bárbara",
     "geo": {
       "latitude": 15.1202795,
@@ -980,11 +995,12 @@
       "ccp": "𑄥𑄚𑄴𑄑 𑄝𑄢𑄴𑄝𑄢",
       "no": "Santa Barbara Department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "VA": {
     "name": "Valle",
-    "code": null,
+    "code": "VA",
     "unofficial_names": "Valle",
     "geo": {
       "latitude": 13.5782936,
@@ -1043,11 +1059,12 @@
       "be": "Валье",
       "no": "Valle"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "YO": {
     "name": "Yoro",
-    "code": null,
+    "code": "YO",
     "unofficial_names": "Yoro",
     "geo": {
       "latitude": 15.2949679,
@@ -1104,7 +1121,8 @@
       "ccp": "𑄃𑄨𑄠𑄮𑄢𑄮",
       "no": "Yoro department"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

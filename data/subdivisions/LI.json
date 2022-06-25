@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Balzers",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Balzers",
     "geo": {
       "latitude": 47.06887,
@@ -49,11 +49,12 @@
       "mk": "Балцерс",
       "no": "Balzers"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "02": {
     "name": "Eschen",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Eschen",
     "geo": {
       "latitude": 47.21239,
@@ -102,11 +103,12 @@
       "mk": "Ешен",
       "no": "Eschen"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "03": {
     "name": "Gamprin",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Gamprin",
     "geo": {
       "latitude": 47.2196376,
@@ -153,11 +155,12 @@
       "mk": "Гамприн",
       "no": "Gamprin"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "04": {
     "name": "Mauren",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Mauren",
     "geo": {
       "latitude": 47.21937,
@@ -202,11 +205,12 @@
       "mk": "Маурен",
       "no": "Mauren"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "05": {
     "name": "Planken",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Planken",
     "geo": {
       "latitude": 47.1855315,
@@ -251,11 +255,12 @@
       "mk": "Планкен",
       "no": "Planken"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "06": {
     "name": "Ruggell",
-    "code": null,
+    "code": "06",
     "unofficial_names": [
       "Ruggel"
     ],
@@ -302,11 +307,12 @@
       "mk": "Ругел",
       "no": "Ruggell"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "07": {
     "name": "Schaan",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Schaan",
     "geo": {
       "latitude": 47.16638529999999,
@@ -363,11 +369,12 @@
       "mk": "Шан",
       "no": "Schaan"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "08": {
     "name": "Schellenberg",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Schellenberg",
     "geo": {
       "latitude": 47.23968439999999,
@@ -415,11 +422,12 @@
       "mk": "Шеленберг",
       "no": "Schellenberg"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "09": {
     "name": "Triesen",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Triesen",
     "geo": {
       "latitude": 47.1111739,
@@ -465,11 +473,12 @@
       "mk": "Тризен",
       "no": "Triesen"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "10": {
     "name": "Triesenberg",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Triesenberg",
     "geo": {
       "latitude": 47.1173252,
@@ -516,11 +525,12 @@
       "mk": "Тризенберг",
       "no": "Triesenberg"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   },
   "11": {
     "name": "Vaduz",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Vaduz",
     "geo": {
       "latitude": 47.14136999999999,
@@ -609,7 +619,8 @@
       "no": "Vaduz",
       "yo_BJ": "Vaduz"
     },
-    "comments": null
+    "comments": null,
+    "type": "commune"
   }
 }
 

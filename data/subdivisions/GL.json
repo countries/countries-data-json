@@ -1,7 +1,18 @@
 {
+  "AV": {
+    "name": "Avannaata Kommunia",
+    "code": "AV",
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Avannaata Kommunia"
+    },
+    "comments": null,
+    "type": "municipality"
+  },
   "KU": {
     "name": "Kujalleq",
-    "code": null,
+    "code": "KU",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -62,74 +73,12 @@
       "mk": "Кујалек",
       "no": "Kujalleq"
     },
-    "comments": null
-  },
-  "QA": {
-    "name": "Qaasuitsup",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "كاسويتسوب",
-      "bn": "কুয়াসুইটসুপ",
-      "ca": "Qaasuitsup",
-      "cs": "Severní Grónsko",
-      "da": "Qaasuitsup Kommune",
-      "de": "Qaasuitsup Kommunia",
-      "el": "Καασουίτσουπ",
-      "en": "Qaasuitsup",
-      "es": "Qaasuitsup",
-      "et": "Qaasuitsup",
-      "eu": "Qaasuitsup",
-      "fi": "Qaasuitsup",
-      "fr": "Qaasuitsup",
-      "gu": "કાસ્યુટ્સપ",
-      "hi": "काझवित्सप",
-      "hy": "Քաասուիտսուպ",
-      "id": "Qaasuitsup",
-      "is": "Qaasuitsup",
-      "it": "Qaasuitsup",
-      "ja": "カースートスップ",
-      "ka": "კაასუიტსუპი",
-      "kn": "ಕ್ವಾಸುಸ್ಯಪ್ಅಪ್",
-      "ko": "카수이추프",
-      "mr": "क्यूसुटुप्स",
-      "ms": "Qaasuitsup",
-      "nb": "Qaasuitsoq",
-      "nl": "Qaasuitsup",
-      "pl": "Qaasuitsup",
-      "pt": "Qaasuitsup",
-      "ro": "Qaasuitsup",
-      "ru": "Каасуитсуп",
-      "si": "කුආසුට්ස්අප්",
-      "sr": "Касуитсуп",
-      "sv": "Qaasuitsup",
-      "ta": "கிராசுவிட்சுப்",
-      "te": "ఖాసూట్సప్",
-      "th": "เทศบาลเคาแอสสูทซับ",
-      "tr": "Qaasuitsup",
-      "uk": "Каасуїтсуп",
-      "ur": "قاسویتسوپ",
-      "vi": "Qaasuitsup",
-      "lv": "Kasuitsupa",
-      "sr_Latn": "Kasuitsup",
-      "lt": "Kaasuitsupas",
-      "zh": "卡苏伊特萨普",
-      "ccp": "𑄇𑄥𑄭𑄪𑄖𑄴𑄥𑄛𑄴",
-      "no": "Qaasuitsoq"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "QE": {
     "name": "Qeqqata",
-    "code": null,
+    "code": "QE",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -189,11 +138,23 @@
       "mk": "Кеката",
       "no": "Qeqqata"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
+  },
+  "QT": {
+    "name": "Kommune Qeqertalik",
+    "code": "QT",
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "en": "Kommune Qeqertalik"
+    },
+    "comments": null,
+    "type": "municipality"
   },
   "SM": {
     "name": "Sermersooq",
-    "code": null,
+    "code": "SM",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -254,27 +215,8 @@
       "mk": "Сермерсок",
       "no": "Sermersooq"
     },
-    "comments": null
-  },
-  "AV": {
-    "name": "Avannaata Kommunia",
-    "code": null,
-    "unofficial_names": null,
-    "geo": null,
-    "translations": {
-      "en": "Avannaata Kommunia"
-    },
-    "comments": null
-  },
-  "QT": {
-    "name": "Kommune Qeqertalik",
-    "code": null,
-    "unofficial_names": null,
-    "geo": null,
-    "translations": {
-      "en": "Kommune Qeqertalik"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   }
 }
 

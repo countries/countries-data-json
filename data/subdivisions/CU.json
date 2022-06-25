@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Pinar del Río",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Pinar del Río",
     "geo": {
       "latitude": 22.412222,
@@ -63,11 +63,12 @@
       "mk": "Пинар дел Рио",
       "no": "Pinar del Rio"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "03": {
     "name": "La Habana",
-    "code": null,
+    "code": "03",
     "unofficial_names": "La Habana",
     "geo": {
       "latitude": 23.159167,
@@ -93,11 +94,12 @@
       "sv": "Provincia de Ciudad de La Habana",
       "ccp": "𑄦𑄞𑄚"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "04": {
     "name": "Matanzas",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Matanzas",
     "geo": {
       "latitude": 22.5767123,
@@ -161,11 +163,12 @@
       "mk": "Матансас",
       "no": "Matanzas"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "05": {
     "name": "Villa Clara",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Villa Clara",
     "geo": {
       "latitude": 22.4937204,
@@ -230,11 +233,12 @@
       "mk": "Виља Клара",
       "no": "Villa Clara Provinsen"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "06": {
     "name": "Cienfuegos",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Cienfuegos",
     "geo": {
       "latitude": 22.2379783,
@@ -295,11 +299,12 @@
       "mk": "Сиенфуегос",
       "no": "Cienfuegos"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "07": {
     "name": "Sancti Spíritus",
-    "code": null,
+    "code": "07",
     "unofficial_names": "Sancti Spíritus",
     "geo": {
       "latitude": 21.9938214,
@@ -357,11 +362,12 @@
       "mk": "Санкти Спиритус",
       "no": "Sancti Spíritus"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "08": {
     "name": "Ciego de Ávila",
-    "code": null,
+    "code": "08",
     "unofficial_names": "Ciego de Ávila",
     "geo": {
       "latitude": 21.9329515,
@@ -420,11 +426,12 @@
       "mk": "Сиего де Авила",
       "no": "Ciego de Avila"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "09": {
     "name": "Camagüey",
-    "code": null,
+    "code": "09",
     "unofficial_names": "Camagüey",
     "geo": {
       "latitude": 21.3926035,
@@ -486,11 +493,12 @@
       "mk": "Камагвеј",
       "no": "Camagüey"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "10": {
     "name": "Las Tunas",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Las Tunas",
     "geo": {
       "latitude": 21.0605162,
@@ -551,11 +559,12 @@
       "mk": "Лас Тунас",
       "no": "Las Tunas"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "11": {
     "name": "Holguín",
-    "code": null,
+    "code": "11",
     "unofficial_names": "Holguín",
     "geo": {
       "latitude": 20.7837893,
@@ -620,11 +629,12 @@
       "mk": "Олгин",
       "no": "Holguín"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "12": {
     "name": "Granma",
-    "code": null,
+    "code": "12",
     "unofficial_names": "Granma",
     "geo": {
       "latitude": 20.3844902,
@@ -688,11 +698,12 @@
       "mk": "Гранма",
       "no": "Granma"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "13": {
     "name": "Santiago de Cuba",
-    "code": null,
+    "code": "13",
     "unofficial_names": "Santiago de Cuba",
     "geo": {
       "latitude": 20.01693,
@@ -751,11 +762,12 @@
       "mk": "Сантјаго де Куба",
       "no": "Santiago de Cuba"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "14": {
     "name": "Guantánamo",
-    "code": null,
+    "code": "14",
     "unofficial_names": "Guantánamo",
     "geo": {
       "latitude": 20.136667,
@@ -802,11 +814,12 @@
       "mk": "Гвантанамо",
       "no": "Guantánamo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "15": {
     "name": "Artemisa",
-    "code": null,
+    "code": "15",
     "unofficial_names": "Artemisa",
     "geo": {
       "latitude": 22.7522903,
@@ -865,11 +878,12 @@
       "mk": "Артемиса",
       "no": "Artemisa provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "16": {
     "name": "Mayabeque",
-    "code": null,
+    "code": "16",
     "unofficial_names": "Mayabeque",
     "geo": {
       "latitude": 22.8926529,
@@ -927,11 +941,12 @@
       "mk": "Мајабеке",
       "no": "Mayabeque provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "99": {
     "name": "Isla de la Juventud",
-    "code": null,
+    "code": "99",
     "unofficial_names": "Isla de la Juventud",
     "geo": {
       "latitude": 21.6066405,
@@ -997,7 +1012,8 @@
       "mk": "Исла де ла Хувентуд",
       "no": "Isla de la Juventud"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   }
 }
 

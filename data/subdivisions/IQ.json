@@ -1,7 +1,7 @@
 {
   "AN": {
     "name": "Al Anbar",
-    "code": null,
+    "code": "AN",
     "unofficial_names": [
       "al-Anbar"
     ],
@@ -67,11 +67,12 @@
       "ca": "Governació d’Al-Anbar",
       "no": "Anbar"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AR": {
     "name": "Arbil",
-    "code": null,
+    "code": "AR",
     "unofficial_names": [
       "Arbil",
       "Erbil",
@@ -140,11 +141,12 @@
       "mk": "Ербил",
       "no": "Arbil"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BA": {
     "name": "Al Basrah",
-    "code": null,
+    "code": "BA",
     "unofficial_names": [
       "Basra",
       "Bassora",
@@ -212,11 +214,12 @@
       "mk": "Басра",
       "no": "Basra"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BB": {
     "name": "Babil",
-    "code": null,
+    "code": "BB",
     "unofficial_names": [
       "Babil",
       "Babylon"
@@ -281,11 +284,12 @@
       "be": "Бабіль",
       "no": "Babil"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BG": {
     "name": "Baghdad",
-    "code": null,
+    "code": "BG",
     "unofficial_names": [
       "Baġdād",
       "Bagdad",
@@ -342,11 +346,12 @@
       "ca": "Governació de Bagdad",
       "no": "Bagdad"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DA": {
     "name": "Dahuk",
-    "code": null,
+    "code": "DA",
     "unofficial_names": [
       "Dahuk"
     ],
@@ -413,11 +418,12 @@
       "kk": "Дахук",
       "no": "Dahuk"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DI": {
     "name": "Diyalá",
-    "code": null,
+    "code": "DI",
     "unofficial_names": [
       "Diyala"
     ],
@@ -480,11 +486,12 @@
       "ca": "Governació de Diyala",
       "no": "Diyala"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DQ": {
     "name": "Dhi Qar",
-    "code": null,
+    "code": "DQ",
     "unofficial_names": [
       "Dhi Qar",
       "Thi Qar"
@@ -547,11 +554,12 @@
       "eu": "Dhi Qarreko probintzia",
       "no": "Dhi Qar"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "KA": {
     "name": "Karbala'",
-    "code": null,
+    "code": "KA",
     "unofficial_names": [
       "Karbala",
       "Kerbala",
@@ -613,11 +621,95 @@
       "eu": "Karbalako probintzia",
       "no": "Karbala"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
+  },
+  "KI": {
+    "name": "كركوك",
+    "code": "KI",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "كركوك",
+      "az": "Kərkük",
+      "bg": "Киркук",
+      "bn": "কির্কুক প্রদেশ",
+      "cs": "Kirkúk",
+      "da": "Kirkuk",
+      "de": "Kirkuk",
+      "el": "Κίρκουκ Γκοβερνοράτε",
+      "en": "Kirkuk",
+      "es": "Gobernación de Kirkuk",
+      "et": "Kirkūki kubernerkond",
+      "eu": "At Ta’mim probintzia",
+      "fa": "استان کرکوک",
+      "fi": "Kirkukin maakunta",
+      "fr": "Kirkuk",
+      "gu": "કિર્કુક ગવર્નોરેટ",
+      "he": "כרכוכ",
+      "hi": "करकूक प्रान्त",
+      "hu": "Kirkuk kormányzóság",
+      "id": "Provinsi Kirkuk",
+      "it": "Governatorato di Kirkuk",
+      "ja": "キルクーク県",
+      "ka": "კირკუკის მუჰაფაზა",
+      "kn": "ಕಿರ್ಕ್ಕುಕ್ ಗವರ್ನೇಟ್",
+      "ko": "키르쿠크 주",
+      "mr": "किर्कुक गव्हर्नोरेट",
+      "ms": "Pentadbiran At-Ta’mim",
+      "nb": "Kirkuk",
+      "nl": "Kirkoek",
+      "pl": "Kirkuk",
+      "pt": "Kirkuk",
+      "ru": "Киркук",
+      "si": "කර්කක් පළාත",
+      "sv": "Kirkuk",
+      "ta": "கிர்குக் கோவெர்னோகைட்",
+      "te": "కిర్కుక్ గవర్నరేట్",
+      "th": "เคอคุก กอเวอโนเรท",
+      "tr": "Kerkük ili",
+      "uk": "Кіркук",
+      "ur": "محافظہ کرکوک",
+      "vi": "Tỉnh Kirkuk",
+      "lv": "Kirkuko muhāfaza",
+      "lt": "Kirkuko gubernija",
+      "zh": "基爾庫克省",
+      "ccp": "𑄇𑄨𑄢𑄴𑄇𑄪𑄇𑄴",
+      "no": "Kirkuk"
+    },
+    "comments": null,
+    "type": "governorate"
+  },
+  "KR": {
+    "name": "إقليم كردستان",
+    "code": "KR",
+    "unofficial_names": null,
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "ar": "إقليم كردستان",
+      "en": "Kurdistan",
+      "ku": "ھەرێمی کوردستان"
+    },
+    "comments": null,
+    "type": "region"
   },
   "MA": {
     "name": "Maysan",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Maysan",
     "geo": {
       "latitude": 31.8734002,
@@ -678,11 +770,12 @@
       "eu": "Maysango probintzia",
       "no": "Maysan"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MU": {
     "name": "Al Muthanná",
-    "code": null,
+    "code": "MU",
     "unofficial_names": [
       "al-Muthanna"
     ],
@@ -744,11 +837,12 @@
       "eu": "Al-Muthanna probintzia",
       "no": "Muthanna"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "NA": {
     "name": "An Najaf",
-    "code": null,
+    "code": "NA",
     "unofficial_names": [
       "Najaf",
       "Nedjef",
@@ -815,11 +909,12 @@
       "ca": "Governació de Najaf",
       "no": "Najaf"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "NI": {
     "name": "Ninawá",
-    "code": null,
+    "code": "NI",
     "unofficial_names": [
       "Nineveh",
       "Niniveh"
@@ -886,11 +981,12 @@
       "mk": "Нинива",
       "no": "Ninawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "QA": {
     "name": "Al Qadisiyah",
-    "code": null,
+    "code": "QA",
     "unofficial_names": [
       "al-Qadisiyah"
     ],
@@ -951,11 +1047,12 @@
       "ca": "Governació d’Al-Qadisiyyah",
       "no": "Al-Qadisiyya"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "SD": {
     "name": "Salah ad Din",
-    "code": null,
+    "code": "SD",
     "unofficial_names": [
       "Salah-ad-Din"
     ],
@@ -1023,11 +1120,12 @@
       "be": "правінцыя Салах-эд-Дзін",
       "no": "Salah ad Din"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "SU": {
     "name": "As Sulaymaniyah",
-    "code": null,
+    "code": "SU",
     "unofficial_names": [
       "Sulaymaniya",
       "Sulaymānīyah",
@@ -1094,30 +1192,12 @@
       "ccp": "𑄥𑄪𑄣𑄭𑄟𑄚𑄨𑄠𑄦𑄴",
       "no": "Suleimania"
     },
-    "comments": null
-  },
-  "TS": {
-    "name": "At Ta'mim",
-    "code": null,
-    "unofficial_names": [
-      "at-Tamim"
-    ],
-    "geo": {
-      "latitude": 35.3292014,
-      "longitude": 43.9436788,
-      "min_latitude": 34.681948,
-      "min_longitude": 43.264615,
-      "max_latitude": 35.906433,
-      "max_longitude": 44.790187
-    },
-    "translations": {
-      "en": "At Ta'mim"
-    },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "WA": {
     "name": "Wasit",
-    "code": null,
+    "code": "WA",
     "unofficial_names": [
       "Wasit"
     ],
@@ -1182,69 +1262,8 @@
       "ca": "Governació de Wasit",
       "no": "Wasit"
     },
-    "comments": null
-  },
-  "KI": {
-    "name": "كركوك",
-    "code": null,
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "ar": "كركوك",
-      "az": "Kərkük",
-      "bg": "Киркук",
-      "bn": "কির্কুক প্রদেশ",
-      "cs": "Kirkúk",
-      "da": "Kirkuk",
-      "de": "Kirkuk",
-      "el": "Κίρκουκ Γκοβερνοράτε",
-      "en": "Kirkuk",
-      "es": "Gobernación de Kirkuk",
-      "et": "Kirkūki kubernerkond",
-      "eu": "At Ta’mim probintzia",
-      "fa": "استان کرکوک",
-      "fi": "Kirkukin maakunta",
-      "fr": "Kirkuk",
-      "gu": "કિર્કુક ગવર્નોરેટ",
-      "he": "כרכוכ",
-      "hi": "करकूक प्रान्त",
-      "hu": "Kirkuk kormányzóság",
-      "id": "Provinsi Kirkuk",
-      "it": "Governatorato di Kirkuk",
-      "ja": "キルクーク県",
-      "ka": "კირკუკის მუჰაფაზა",
-      "kn": "ಕಿರ್ಕ್ಕುಕ್ ಗವರ್ನೇಟ್",
-      "ko": "키르쿠크 주",
-      "mr": "किर्कुक गव्हर्नोरेट",
-      "ms": "Pentadbiran At-Ta’mim",
-      "nb": "Kirkuk",
-      "nl": "Kirkoek",
-      "pl": "Kirkuk",
-      "pt": "Kirkuk",
-      "ru": "Киркук",
-      "si": "කර්කක් පළාත",
-      "sv": "Kirkuk",
-      "ta": "கிர்குக் கோவெர்னோகைட்",
-      "te": "కిర్కుక్ గవర్నరేట్",
-      "th": "เคอคุก กอเวอโนเรท",
-      "tr": "Kerkük ili",
-      "uk": "Кіркук",
-      "ur": "محافظہ کرکوک",
-      "vi": "Tỉnh Kirkuk",
-      "lv": "Kirkuko muhāfaza",
-      "lt": "Kirkuko gubernija",
-      "zh": "基爾庫克省",
-      "ccp": "𑄇𑄨𑄢𑄴𑄇𑄪𑄇𑄴",
-      "no": "Kirkuk"
-    },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   }
 }
 

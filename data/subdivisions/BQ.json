@@ -1,7 +1,7 @@
 {
   "BO": {
     "name": "Bonaire",
-    "code": null,
+    "code": "BO",
     "unofficial_names": "Bonaire",
     "geo": {
       "latitude": 12.1783611,
@@ -79,11 +79,12 @@
       "no": "Bonaire",
       "yo_BJ": "Bonaire"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "SA": {
     "name": "Saba",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Saba",
     "geo": {
       "latitude": 17.6354642,
@@ -151,11 +152,12 @@
       "mk": "Саба",
       "no": "Saba"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   },
   "SE": {
     "name": "Sint Eustatius",
-    "code": null,
+    "code": "SE",
     "unofficial_names": "Sint Eustatius",
     "geo": {
       "latitude": 17.4890306,
@@ -229,7 +231,8 @@
       "mk": "Свети Евстахиј",
       "no": "Sint Eustatius"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_municipality"
   }
 }
 

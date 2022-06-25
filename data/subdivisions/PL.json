@@ -57,7 +57,8 @@
       "uk": "Нижньосілезьке воєводство",
       "ur": "زیریں سیلیزیا صوبہ",
       "vi": "Dolnośląskie",
-      "zh": "下西里西亚省"
+      "zh": "下西里西亚省",
+      "no": "Nederschlesiske voivodskap"
     },
     "geo": {
       "latitude": 51.13398609999999,
@@ -67,7 +68,9 @@
       "max_latitude": 51.8047592,
       "max_longitude": 17.798917
     },
-    "name": "Dolnośląskie"
+    "name": "Dolnośląskie",
+    "code": "02",
+    "type": "voivodeship"
   },
   "04": {
     "unofficial_names": [
@@ -128,7 +131,8 @@
       "uk": "Куявсько-Поморське воєводство",
       "ur": "کویاوی-پومرانیا صوبہ",
       "vi": "Kujawsko-Pomorskie",
-      "zh": "庫亞維-波美拉尼亞省"
+      "zh": "庫亞維-波美拉尼亞省",
+      "no": "Kujaviskpommerske voivodskap"
     },
     "geo": {
       "latitude": 53.1648363,
@@ -138,7 +142,9 @@
       "max_latitude": 53.7809987,
       "max_longitude": 19.7618466
     },
-    "name": "Kujawsko-pomorskie"
+    "name": "Kujawsko-pomorskie",
+    "code": "04",
+    "type": "voivodeship"
   },
   "06": {
     "unofficial_names": [
@@ -200,7 +206,8 @@
       "uk": "Люблінське воєводство",
       "ur": "لوبلین صوبہ",
       "vi": "Lubelskie",
-      "zh": "卢布林省"
+      "zh": "卢布林省",
+      "no": "Lublin voivodskap"
     },
     "geo": {
       "latitude": 51.2493519,
@@ -210,7 +217,9 @@
       "max_latitude": 52.2879201,
       "max_longitude": 24.1458931
     },
-    "name": "Lubelskie"
+    "name": "Lubelskie",
+    "code": "06",
+    "type": "voivodeship"
   },
   "08": {
     "unofficial_names": [
@@ -271,7 +280,8 @@
       "uk": "Любуське воєводство",
       "ur": "لوبوش صوبہ",
       "vi": "Lubuskie",
-      "zh": "盧布斯卡省"
+      "zh": "盧布斯卡省",
+      "no": "Lubusz voivodskap"
     },
     "geo": {
       "latitude": 52.2274612,
@@ -281,7 +291,9 @@
       "max_latitude": 53.1239582,
       "max_longitude": 16.4163811
     },
-    "name": "Lubuskie"
+    "name": "Lubuskie",
+    "code": "08",
+    "type": "voivodeship"
   },
   "10": {
     "unofficial_names": [
@@ -340,7 +352,8 @@
       "uk": "Лодзинське воєводство",
       "ur": "ووچ صوبہ",
       "vi": "Łódzkie",
-      "zh": "罗兹省"
+      "zh": "罗兹省",
+      "no": "Łódź voivodskap"
     },
     "geo": {
       "latitude": 51.4634771,
@@ -350,7 +363,9 @@
       "max_latitude": 52.3940561,
       "max_longitude": 20.6591903
     },
-    "name": "Łódzkie"
+    "name": "Łódzkie",
+    "code": "10",
+    "type": "voivodeship"
   },
   "12": {
     "unofficial_names": [
@@ -411,7 +426,8 @@
       "uk": "Малопольське воєводство",
       "ur": "اصغر پولینڈ صوبہ",
       "vi": "Małopolskie",
-      "zh": "小波兰省"
+      "zh": "小波兰省",
+      "no": "Lillepolske voivodskap"
     },
     "geo": {
       "latitude": 49.72253060000001,
@@ -421,7 +437,9 @@
       "max_latitude": 50.5200442,
       "max_longitude": 21.4213826
     },
-    "name": "Małopolskie"
+    "name": "Małopolskie",
+    "code": "12",
+    "type": "voivodeship"
   },
   "14": {
     "unofficial_names": [
@@ -482,7 +500,8 @@
       "uk": "Мазовецьке воєводство",
       "ur": "صوبہ ماسووی",
       "vi": "Mazowieckie",
-      "zh": "馬佐夫舍省"
+      "zh": "馬佐夫舍省",
+      "no": "Masoviske voivodskap"
     },
     "geo": {
       "latitude": 51.8927182,
@@ -492,7 +511,9 @@
       "max_latitude": 53.4818919,
       "max_longitude": 23.1283212
     },
-    "name": "Mazowieckie"
+    "name": "Mazowieckie",
+    "code": "14",
+    "type": "voivodeship"
   },
   "16": {
     "unofficial_names": [
@@ -552,7 +573,8 @@
       "uk": "Опольське воєводство",
       "ur": "اوپولے صوبہ",
       "vi": "Opolskie",
-      "zh": "奧波萊省"
+      "zh": "奧波萊省",
+      "no": "Opole voivodskap"
     },
     "geo": {
       "latitude": 50.8003761,
@@ -562,7 +584,9 @@
       "max_latitude": 51.1945111,
       "max_longitude": 18.6957862
     },
-    "name": "Opolskie"
+    "name": "Opolskie",
+    "code": "16",
+    "type": "voivodeship"
   },
   "18": {
     "unofficial_names": [
@@ -623,7 +647,8 @@
       "uk": "Підкарпатське воєводство",
       "ur": "پودکرپاسکیہ صوبہ",
       "vi": "Podkarpackie",
-      "zh": "喀尔巴阡山省"
+      "zh": "喀尔巴阡山省",
+      "no": "Subkarpatiske voivodskap"
     },
     "geo": {
       "latitude": 50.0574749,
@@ -633,7 +658,9 @@
       "max_latitude": 50.8181161,
       "max_longitude": 23.5476409
     },
-    "name": "Podkarpackie"
+    "name": "Podkarpackie",
+    "code": "18",
+    "type": "voivodeship"
   },
   "20": {
     "unofficial_names": [
@@ -652,7 +679,7 @@
       "da": "Województwo podlaskie",
       "de": "Woiwodschaft Podlachien",
       "el": "Ποντλάσκιε",
-      "en": "Podlaskie",
+      "en": "Podlachia",
       "es": "Voivodato de Podlaquia",
       "et": "Podlaasia vojevoodkond",
       "eu": "Podlasiako voivoderria",
@@ -694,7 +721,8 @@
       "uk": "Підляське воєводство",
       "ur": "پودلاسکیہ صوبہ",
       "vi": "Podlaskie",
-      "zh": "波德拉謝省"
+      "zh": "波德拉謝省",
+      "no": "Podlasie voivodskap"
     },
     "geo": {
       "latitude": 53.0697159,
@@ -704,7 +732,9 @@
       "max_latitude": 54.409889,
       "max_longitude": 23.9462697
     },
-    "name": "Podlaskie"
+    "name": "Podlaskie",
+    "code": "20",
+    "type": "voivodeship"
   },
   "22": {
     "unofficial_names": [
@@ -723,7 +753,7 @@
       "da": "Województwo pomorskie",
       "de": "Woiwodschaft Pommern",
       "el": "Πομερανία",
-      "en": "Federal Capital Territory",
+      "en": "Pomerania",
       "es": "Voivodato de Pomerania",
       "et": "Pomorze vojevoodkond",
       "eu": "Pomeraniako voivoderria",
@@ -764,7 +794,8 @@
       "uk": "Поморське воєводство",
       "ur": "پومرانیا صوبہ",
       "vi": "Pomorskie",
-      "zh": "濱海省"
+      "zh": "濱海省",
+      "no": "Pommerske voivodskap"
     },
     "geo": {
       "latitude": 54.2944252,
@@ -774,7 +805,9 @@
       "max_latitude": 54.83572969999999,
       "max_longitude": 19.6493699
     },
-    "name": "Pomorskie"
+    "name": "Pomorskie",
+    "code": "22",
+    "type": "voivodeship"
   },
   "24": {
     "unofficial_names": [
@@ -834,7 +867,8 @@
       "uk": "Сілезьке воєводство",
       "ur": "سیلیزیا صوبہ",
       "vi": "Śląskie",
-      "zh": "西里西亚省"
+      "zh": "西里西亚省",
+      "no": "Schlesiske voivodskap"
     },
     "geo": {
       "latitude": 50.5716595,
@@ -844,7 +878,9 @@
       "max_latitude": 51.0993559,
       "max_longitude": 19.9739915
     },
-    "name": "Śląskie"
+    "name": "Śląskie",
+    "code": "24",
+    "type": "voivodeship"
   },
   "26": {
     "unofficial_names": [
@@ -862,7 +898,7 @@
       "da": "Województwo świętokrzyskie",
       "de": "Woiwodschaft Heiligkreuz",
       "el": "βοϊβοδάτο Σβιετοκρίσκιε",
-      "en": "Świętokrzyskie",
+      "en": "Holy Cross",
       "es": "Voivodato de Santa Cruz",
       "et": "Święty Krzyżi vojevoodkond",
       "eu": "Gurutze Santuko voivoderria",
@@ -903,7 +939,8 @@
       "uk": "Свентокшиське воєводство",
       "ur": "شوئینتوشوسکیہ صوبہ",
       "vi": "Świętokrzyskie",
-      "zh": "聖十字省"
+      "zh": "聖十字省",
+      "no": "Helligkorsvoivodskapet"
     },
     "geo": {
       "latitude": 50.6261041,
@@ -913,7 +950,9 @@
       "max_latitude": 51.3421558,
       "max_longitude": 21.8703061
     },
-    "name": "Świętokrzyskie"
+    "name": "Świętokrzyskie",
+    "code": "26",
+    "type": "voivodeship"
   },
   "28": {
     "unofficial_names": [
@@ -972,7 +1011,8 @@
       "uk": "Вармінсько-Мазурське воєводство",
       "ur": "وارمیا-ماسوریا صوبہ",
       "vi": "Warmińsko-Mazurskie",
-      "zh": "瓦爾米亞-馬祖里省"
+      "zh": "瓦爾米亞-馬祖里省",
+      "no": "Ermlandskmasuriske voivodskap"
     },
     "geo": {
       "latitude": 53.8671117,
@@ -982,7 +1022,9 @@
       "max_latitude": 54.4533097,
       "max_longitude": 22.8058724
     },
-    "name": "Warmińsko-mazurskie"
+    "name": "Warmińsko-mazurskie",
+    "code": "28",
+    "type": "voivodeship"
   },
   "30": {
     "unofficial_names": [
@@ -1045,7 +1087,8 @@
       "uk": "Великопольське воєводство",
       "ur": "اکبر پولینڈ صوبہ",
       "vi": "Wielkopolskie",
-      "zh": "大波兰省"
+      "zh": "大波兰省",
+      "no": "Storpolske voivodskap"
     },
     "geo": {
       "latitude": 52.279986,
@@ -1055,7 +1098,9 @@
       "max_latitude": 53.6559175,
       "max_longitude": 19.103349
     },
-    "name": "Wielkopolskie"
+    "name": "Wielkopolskie",
+    "code": "30",
+    "type": "voivodeship"
   },
   "32": {
     "unofficial_names": [
@@ -1119,7 +1164,8 @@
       "uk": "Західнопоморське воєводство",
       "ur": "مغربی پومرانیا صوبہ",
       "vi": "Zachodniopomorskie",
-      "zh": "西波美拉尼亚省"
+      "zh": "西波美拉尼亚省",
+      "no": "Vestpommerske voivodskap"
     },
     "geo": {
       "latitude": 53.46578909999999,
@@ -1129,7 +1175,9 @@
       "max_latitude": 54.5690916,
       "max_longitude": 16.9822089
     },
-    "name": "Zachodniopomorskie"
+    "name": "Zachodniopomorskie",
+    "code": "32",
+    "type": "voivodeship"
   }
 }
 

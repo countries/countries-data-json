@@ -1,7 +1,7 @@
 {
   "AK": {
     "name": "Atakora",
-    "code": null,
+    "code": "AK",
     "unofficial_names": [
       "Atakora"
     ],
@@ -61,11 +61,12 @@
       "no": "Atakora",
       "yo_BJ": "Apá Atakora"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "AL": {
     "name": "Alibori",
-    "code": null,
+    "code": "AL",
     "unofficial_names": "Alibori",
     "geo": {
       "latitude": 10.9681093,
@@ -124,11 +125,12 @@
       "no": "Alibori",
       "yo_BJ": "Apá Alibori"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "AQ": {
     "name": "Atlantique",
-    "code": null,
+    "code": "AQ",
     "unofficial_names": "Atlantique",
     "geo": {
       "latitude": 6.6588391,
@@ -187,11 +189,12 @@
       "no": "Atlantique",
       "yo_BJ": "Apá Atlantique"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "BO": {
     "name": "Borgou",
-    "code": null,
+    "code": "BO",
     "unofficial_names": "Borgou",
     "geo": {
       "latitude": 9.5340864,
@@ -250,11 +253,12 @@
       "no": "Borgou",
       "yo_BJ": "Apá Borgou"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "CO": {
     "name": "Collines",
-    "code": null,
+    "code": "CO",
     "unofficial_names": "Collines",
     "geo": {
       "latitude": 8.3022297,
@@ -313,11 +317,12 @@
       "no": "Collines",
       "yo_BJ": "Apá Collines"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "DO": {
     "name": "Donga",
-    "code": null,
+    "code": "DO",
     "unofficial_names": "Donga",
     "geo": {
       "latitude": 9.7191867,
@@ -376,11 +381,12 @@
       "no": "Donga",
       "yo_BJ": "Apá Donga"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "KO": {
     "name": "Kouffo",
-    "code": null,
+    "code": "KO",
     "unofficial_names": [
       "Kouffo"
     ],
@@ -440,11 +446,12 @@
       "no": "Kouffo",
       "yo_BJ": "Apá Kouffo"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "LI": {
     "name": "Littoral",
-    "code": null,
+    "code": "LI",
     "unofficial_names": "Littoral",
     "geo": {
       "latitude": 6.3806973,
@@ -502,11 +509,12 @@
       "no": "Littoral",
       "yo_BJ": "Apá Littoral"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "MO": {
     "name": "Mono",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Mono",
     "geo": {
       "latitude": 6.6607182,
@@ -564,11 +572,12 @@
       "no": "Mono",
       "yo_BJ": "Apá Mono"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "OU": {
     "name": "Ouémé",
-    "code": null,
+    "code": "OU",
     "unofficial_names": "Ouémé",
     "geo": {
       "latitude": 6.6148152,
@@ -626,11 +635,12 @@
       "no": "Ouémé",
       "yo_BJ": "Apá Ouémé"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "PL": {
     "name": "Plateau",
-    "code": null,
+    "code": "PL",
     "unofficial_names": "Plateau",
     "geo": {
       "latitude": 7.3445141,
@@ -688,11 +698,12 @@
       "no": "Plateau",
       "yo_BJ": "Apá Plateau"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   },
   "ZO": {
     "name": "Zou",
-    "code": null,
+    "code": "ZO",
     "unofficial_names": "Zou",
     "geo": {
       "latitude": 7.346926799999999,
@@ -752,7 +763,8 @@
       "no": "Zou",
       "yo_BJ": "Apá Zou"
     },
-    "comments": null
+    "comments": null,
+    "type": "departments"
   }
 }
 

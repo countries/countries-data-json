@@ -1,7 +1,7 @@
 {
   "B": {
     "name": "El Beni",
-    "code": null,
+    "code": "B",
     "unofficial_names": "El Beni",
     "geo": {
       "latitude": -14.3782747,
@@ -64,11 +64,12 @@
       "mk": "Бени",
       "no": "Beni"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "C": {
     "name": "Cochabamba",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Cochabamba",
     "geo": {
       "latitude": -17.383333,
@@ -131,11 +132,12 @@
       "mk": "Кочабамба",
       "no": "Cochabamba"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "H": {
     "name": "Chuquisaca",
-    "code": null,
+    "code": "H",
     "unofficial_names": "Chuquisaca",
     "geo": {
       "latitude": -20.0249144,
@@ -197,11 +199,12 @@
       "mk": "Чукисака",
       "no": "Chuquisaca"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "L": {
     "name": "La Paz",
-    "code": null,
+    "code": "L",
     "unofficial_names": "La Paz",
     "geo": {
       "latitude": -16.5,
@@ -263,11 +266,12 @@
       "mk": "Ла Паз",
       "no": "La Paz"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "N": {
     "name": "Pando",
-    "code": null,
+    "code": "N",
     "unofficial_names": "Pando",
     "geo": {
       "latitude": -10.7988901,
@@ -329,11 +333,12 @@
       "mk": "Пандо",
       "no": "Pando"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "O": {
     "name": "Oruro",
-    "code": null,
+    "code": "O",
     "unofficial_names": "Oruro",
     "geo": {
       "latitude": -17.966667,
@@ -395,11 +400,12 @@
       "mk": "Оруро",
       "no": "Oruro"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "P": {
     "name": "Potosí",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Potosí",
     "geo": {
       "latitude": -19.5722805,
@@ -463,11 +469,12 @@
       "mk": "Потоси",
       "no": "Potosí"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "S": {
     "name": "Santa Cruz",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Santa Cruz",
     "geo": {
       "latitude": -17.866667,
@@ -534,11 +541,12 @@
       "mk": "Санта Круз",
       "no": "Santa Cruz"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "T": {
     "name": "Tarija",
-    "code": null,
+    "code": "T",
     "unofficial_names": "Tarija",
     "geo": {
       "latitude": -21.533333,
@@ -603,7 +611,8 @@
       "mk": "Тариха",
       "no": "Tarija"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

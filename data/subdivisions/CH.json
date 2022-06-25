@@ -1,7 +1,7 @@
 {
   "AG": {
     "name": "Aargau (de)",
-    "code": null,
+    "code": "AG",
     "unofficial_names": [
       "Argovie"
     ],
@@ -82,11 +82,12 @@
       "mk": "Аргау",
       "no": "Aargau"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "AI": {
     "name": "Appenzell Innerrhoden (de)",
-    "code": null,
+    "code": "AI",
     "unofficial_names": "Appenzell Innerrhoden (de)",
     "geo": {
       "latitude": 47.3161925,
@@ -161,11 +162,12 @@
       "mk": "Апенцел Инероден",
       "no": "Appenzell Innerrhoden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "AR": {
     "name": "Appenzell Ausserrhoden (de)",
-    "code": null,
+    "code": "AR",
     "unofficial_names": [
       "Appenzell-Ausser Rhoden"
     ],
@@ -243,11 +245,12 @@
       "mk": "Апенцел Аусероден",
       "no": "Appenzell Ausserrhoden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "BE": {
     "name": "Bern (de)",
-    "code": null,
+    "code": "BE",
     "unofficial_names": [
       "Berne"
     ],
@@ -324,11 +327,12 @@
       "mk": "Берн",
       "no": "Bern"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "BL": {
     "name": "Basel-Landschaft (de)",
-    "code": null,
+    "code": "BL",
     "unofficial_names": [
       "Bâle-Campagne"
     ],
@@ -404,11 +408,12 @@
       "mk": "Базел-краина",
       "no": "Basel-Landschaft"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "BS": {
     "name": "Basel-Stadt (de)",
-    "code": null,
+    "code": "BS",
     "unofficial_names": [
       "Basel",
       "Basilea",
@@ -487,11 +492,12 @@
       "mk": "Базел-град",
       "no": "Basel-Stadt"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "FR": {
     "name": "Fribourg (fr)",
-    "code": null,
+    "code": "FR",
     "unofficial_names": [
       "Freiburg"
     ],
@@ -569,11 +575,12 @@
       "mk": "Фрибур",
       "no": "Fribourg"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "GE": {
     "name": "Genève (fr)",
-    "code": null,
+    "code": "GE",
     "unofficial_names": [
       "Ginevra",
       "Genève",
@@ -648,11 +655,12 @@
       "mk": "Женева",
       "no": "Genève"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "GL": {
     "name": "Glarus (de)",
-    "code": null,
+    "code": "GL",
     "unofficial_names": [
       "Glaris"
     ],
@@ -731,11 +739,12 @@
       "mk": "Гларус",
       "no": "Glarus"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "GR": {
     "name": "Graubünden (de)",
-    "code": null,
+    "code": "GR",
     "unofficial_names": [
       "Grigioni",
       "Grisons"
@@ -816,11 +825,12 @@
       "mk": "Граубинден",
       "no": "Graubünden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "JU": {
     "name": "Jura (fr)",
-    "code": null,
+    "code": "JU",
     "unofficial_names": "Jura (fr)",
     "geo": {
       "latitude": 47.3444474,
@@ -895,11 +905,12 @@
       "mk": "Кантон Јура",
       "no": "Jura"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "LU": {
     "name": "Luzern (de)",
-    "code": null,
+    "code": "LU",
     "unofficial_names": [
       "Lucerna",
       "Lucerne"
@@ -977,11 +988,12 @@
       "mk": "Луцерн",
       "no": "Luzern"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "NE": {
     "name": "Neuchâtel (fr)",
-    "code": null,
+    "code": "NE",
     "unofficial_names": [
       "Neuenburg"
     ],
@@ -1060,11 +1072,12 @@
       "mk": "Нешател",
       "no": "Neuchâtel"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "NW": {
     "name": "Nidwalden (de)",
-    "code": null,
+    "code": "NW",
     "unofficial_names": [
       "Nidwald"
     ],
@@ -1140,11 +1153,12 @@
       "mk": "Нидвалден",
       "no": "Nidwalden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "OW": {
     "name": "Obwalden (de)",
-    "code": null,
+    "code": "OW",
     "unofficial_names": [
       "Obwald"
     ],
@@ -1221,11 +1235,12 @@
       "mk": "Обвалден",
       "no": "Obwalden"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "SG": {
     "name": "Sankt Gallen (de)",
-    "code": null,
+    "code": "SG",
     "unofficial_names": [
       "Saint Galle",
       "Sankt Gallen",
@@ -1306,11 +1321,12 @@
       "mk": "Санкт Гален",
       "no": "Sankt Gallen"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "SH": {
     "name": "Schaffhausen (de)",
-    "code": null,
+    "code": "SH",
     "unofficial_names": [
       "Schaffhouse"
     ],
@@ -1385,11 +1401,12 @@
       "mk": "Шафхаузен",
       "no": "Schaffhausen"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "SO": {
     "name": "Solothurn (de)",
-    "code": null,
+    "code": "SO",
     "unofficial_names": [
       "Soleure"
     ],
@@ -1466,11 +1483,12 @@
       "mk": "Золотурн",
       "no": "Solothurn"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "SZ": {
     "name": "Schwyz (de)",
-    "code": null,
+    "code": "SZ",
     "unofficial_names": "Schwyz (de)",
     "geo": {
       "latitude": 47.0198346,
@@ -1548,11 +1566,12 @@
       "mk": "Швиц",
       "no": "Schwyz"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "TG": {
     "name": "Thurgau (de)",
-    "code": null,
+    "code": "TG",
     "unofficial_names": [
       "Thurgovie"
     ],
@@ -1630,11 +1649,12 @@
       "mk": "Тургау",
       "no": "Thurgau"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "TI": {
     "name": "Ticino (it)",
-    "code": null,
+    "code": "TI",
     "unofficial_names": [
       "Tessin",
       "Tessin"
@@ -1716,11 +1736,12 @@
       "mk": "Тичино",
       "no": "Ticino"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "UR": {
     "name": "Uri (de)",
-    "code": null,
+    "code": "UR",
     "unofficial_names": "Uri (de)",
     "geo": {
       "latitude": 46.7738629,
@@ -1796,11 +1817,12 @@
       "mk": "Ури",
       "no": "Uri"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "VD": {
     "name": "Vaud (fr)",
-    "code": null,
+    "code": "VD",
     "unofficial_names": [
       "Waadt"
     ],
@@ -1878,11 +1900,12 @@
       "mk": "Во",
       "no": "Vaud"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "VS": {
     "name": "Valais (fr)",
-    "code": null,
+    "code": "VS",
     "unofficial_names": [
       "Vallese",
       "Wallis"
@@ -1962,11 +1985,12 @@
       "mk": "Вале",
       "no": "Wallis"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "ZG": {
     "name": "Zug (de)",
-    "code": null,
+    "code": "ZG",
     "unofficial_names": [
       "Zoug"
     ],
@@ -2044,11 +2068,12 @@
       "mk": "Цуг",
       "no": "Zug"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   },
   "ZH": {
     "name": "Zürich (de)",
-    "code": null,
+    "code": "ZH",
     "unofficial_names": [
       "Zurigo",
       "Zürich",
@@ -2130,7 +2155,8 @@
       "mk": "Цирих",
       "no": "Zürich"
     },
-    "comments": null
+    "comments": null,
+    "type": "canton"
   }
 }
 

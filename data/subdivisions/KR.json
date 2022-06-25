@@ -1,7 +1,7 @@
 {
   "11": {
     "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Seoul",
       "Soul"
@@ -103,11 +103,12 @@
       "no": "Seoul",
       "yo_BJ": "Seoul"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_city"
   },
   "26": {
     "name": "Busan Gwang'yeogsi [Pusan-Kwangyokshi]",
-    "code": null,
+    "code": "26",
     "unofficial_names": [
       "Busan"
     ],
@@ -198,11 +199,12 @@
       "ha_NE": "Busan",
       "no": "Busan"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "27": {
     "name": "Daegu Gwang'yeogsi [Taegu-Kwangyokshi]",
-    "code": null,
+    "code": "27",
     "unofficial_names": [
       "Daegu"
     ],
@@ -281,11 +283,12 @@
       "ha_NE": "Daegu",
       "no": "Daegu"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "28": {
     "name": "Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]",
-    "code": null,
+    "code": "28",
     "unofficial_names": [
       "Incheon",
       "Inchon"
@@ -368,11 +371,12 @@
       "ha_NE": "Incheon",
       "no": "Incheon"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "29": {
     "name": "Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]",
-    "code": null,
+    "code": "29",
     "unofficial_names": [
       "Gwangju"
     ],
@@ -450,11 +454,12 @@
       "mk": "Квангџу",
       "no": "Gwangju"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "30": {
     "name": "Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]",
-    "code": null,
+    "code": "30",
     "unofficial_names": [
       "Daejeon",
       "Taejeon",
@@ -534,11 +539,12 @@
       "ha_NE": "Daejeon",
       "no": "Daejeon"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "31": {
     "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
-    "code": null,
+    "code": "31",
     "unofficial_names": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
     "geo": {
       "latitude": 35.5383773,
@@ -609,11 +615,12 @@
       "uz": "Ulsan",
       "no": "Ulsan"
     },
-    "comments": null
+    "comments": null,
+    "type": "metropolitan_city"
   },
   "41": {
     "name": "Gyeonggido [Kyonggi-do]",
-    "code": null,
+    "code": "41",
     "unofficial_names": "Gyeonggido [Kyonggi-do]",
     "geo": {
       "latitude": 37.41379999999999,
@@ -681,11 +688,12 @@
       "yue": "京畿道",
       "no": "Gyeonggi"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "42": {
     "name": "Gang'weondo [Kang-won-do]",
-    "code": null,
+    "code": "42",
     "unofficial_names": [
       "Kangwon"
     ],
@@ -756,11 +764,12 @@
       "mk": "Кангвон",
       "no": "Gangwon"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "43": {
     "name": "Chungcheongbugdo [Ch'ungch'ongbuk-do]",
-    "code": null,
+    "code": "43",
     "unofficial_names": [
       "North Chungchong"
     ],
@@ -829,11 +838,12 @@
       "be": "Чхунчхон-Пукто",
       "no": "Nord-Chungcheong"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "44": {
     "name": "Chungcheongnamdo [Ch'ungch'ongnam-do]",
-    "code": null,
+    "code": "44",
     "unofficial_names": [
       "South Chungchong"
     ],
@@ -901,11 +911,12 @@
       "yue": "忠清南道",
       "no": "Sør-Chungcheong"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "45": {
     "name": "Jeonrabugdo[Chollabuk-do]",
-    "code": null,
+    "code": "45",
     "unofficial_names": [
       "Chollapuk",
       "North Cholla"
@@ -975,11 +986,12 @@
       "yue": "全羅北道",
       "no": "Nord-Jeolla"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "46": {
     "name": "Jeonranamdo [Chollanam-do]",
-    "code": null,
+    "code": "46",
     "unofficial_names": [
       "South Cholla"
     ],
@@ -1048,11 +1060,12 @@
       "yue": "全羅南道",
       "no": "Sør-Jeolla"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "47": {
     "name": "Gyeongsangbugdo [Kyongsangbuk-do]",
-    "code": null,
+    "code": "47",
     "unofficial_names": [
       "North Kyongsang"
     ],
@@ -1121,11 +1134,12 @@
       "be": "Кёнсан-Пукта",
       "no": "Nord-Gyeongsang"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "48": {
     "name": "Gyeongsangnamdo [Kyongsangnam-do]",
-    "code": null,
+    "code": "48",
     "unofficial_names": [
       "Gyeongsangnamdo/ Kyongsang-namdo/ South Kyongsang"
     ],
@@ -1193,11 +1207,12 @@
       "yue": "慶尚南道",
       "no": "Sør-Gyeongsang"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "49": {
     "name": "Jejudo [Cheju-do]",
-    "code": null,
+    "code": "49",
     "unofficial_names": [
       "Jeju",
       "Quelpart"
@@ -1273,11 +1288,12 @@
       "mk": "Чеџу",
       "no": "Jeju"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_self-governing_province"
   },
   "50": {
     "name": "세종특별자치시",
-    "code": null,
+    "code": "50",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1336,7 +1352,8 @@
       "yue": "世宗特別自治市",
       "no": "Sejong by"
     },
-    "comments": null
+    "comments": null,
+    "type": "special_self-governing_city"
   }
 }
 

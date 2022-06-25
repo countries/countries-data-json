@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Abyan",
-    "code": null,
+    "code": "AB",
     "unofficial_names": "Abyan",
     "geo": {
       "latitude": 13.6343413,
@@ -62,11 +62,12 @@
       "az": "Abya mühafazası",
       "no": "Abyan"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AD": {
     "name": "ʿAdan",
-    "code": null,
+    "code": "AD",
     "unofficial_names": [
       "Adan",
       "ʿAdan",
@@ -115,11 +116,12 @@
       "az": "Aden mühafazası",
       "ca": "Governació d’Adan"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "AM": {
     "name": "'Amran",
-    "code": null,
+    "code": "AM",
     "unofficial_names": "'Amran",
     "geo": {
       "latitude": 16.2569214,
@@ -175,11 +177,12 @@
       "ccp": "𑄃𑄟𑄢𑄚𑄴",
       "az": "Amran mühafazası"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "BA": {
     "name": "Al Bayḑā’",
-    "code": null,
+    "code": "BA",
     "unofficial_names": [
       "Al Baida"
     ],
@@ -240,11 +243,12 @@
       "ca": "Governació d’Al Bayda",
       "no": "Al Bayda’"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DA": {
     "name": "Ad¸ D¸ali'",
-    "code": null,
+    "code": "DA",
     "unofficial_names": "Ad¸ D¸ali'",
     "geo": {
       "latitude": 13.696667,
@@ -303,11 +307,12 @@
       "ca": "Governació d’Ad Dali",
       "no": "Ad Dali’"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "DH": {
     "name": "Dhamar",
-    "code": null,
+    "code": "DH",
     "unofficial_names": [
       "Dhamar",
       "Dhomar",
@@ -371,11 +376,12 @@
       "az": "Damar mühafazası",
       "no": "Dhamar"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "HD": {
     "name": "Hadramawt",
-    "code": null,
+    "code": "HD",
     "unofficial_names": [
       "Hadramout"
     ],
@@ -436,11 +442,12 @@
       "ccp": "𑄦𑄓𑄳𑄢𑄭𑄟𑄧𑄅𑄪𑄖𑄴",
       "no": "Guvernementet Hadhramaut"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "HJ": {
     "name": "Hajjah",
-    "code": null,
+    "code": "HJ",
     "unofficial_names": "Hajjah",
     "geo": {
       "latitude": 16.1180631,
@@ -501,11 +508,12 @@
       "ca": "Governació d’Hajjah",
       "no": "Hajjah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "HU": {
     "name": "Al Ḩudaydah",
-    "code": null,
+    "code": "HU",
     "unofficial_names": [
       "Hodeida",
       "Hodeidah",
@@ -572,11 +580,12 @@
       "sr": "Ел Худаида",
       "no": "Al Huaydah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "IB": {
     "name": "Ibb",
-    "code": null,
+    "code": "IB",
     "unofficial_names": "Ibb",
     "geo": {
       "latitude": 14.1415717,
@@ -637,11 +646,12 @@
       "ca": "Governació d’Ibb",
       "no": "Ibb"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "JA": {
     "name": "Al Jawf",
-    "code": null,
+    "code": "JA",
     "unofficial_names": "Al Jawf",
     "geo": {
       "latitude": 16.7901819,
@@ -703,11 +713,12 @@
       "be": "Эль-Джауф",
       "no": "Al Jawf"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "LA": {
     "name": "Laḩij",
-    "code": null,
+    "code": "LA",
     "unofficial_names": [
       "Lahej",
       "Lahj"
@@ -755,11 +766,12 @@
       "ca": "Governació de Lahij",
       "no": "Lahij"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MA": {
     "name": "Ma'rib",
-    "code": null,
+    "code": "MA",
     "unofficial_names": [
       "Marab",
       "Mareb"
@@ -821,11 +833,12 @@
       "ca": "Governació de Marib",
       "no": "Ma’rib"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MR": {
     "name": "Al Mahrah",
-    "code": null,
+    "code": "MR",
     "unofficial_names": "Al Mahrah",
     "geo": {
       "latitude": 16.5238423,
@@ -885,11 +898,12 @@
       "ccp": "𑄃𑄣𑄴 𑄟𑄦𑄴𑄢𑄦𑄴",
       "no": "Al-Mahrah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "MW": {
     "name": "Al Mahwit",
-    "code": null,
+    "code": "MW",
     "unofficial_names": "Al Mahwit",
     "geo": {
       "latitude": 15.3963229,
@@ -949,267 +963,76 @@
       "ca": "Governació d’Al Mahwit",
       "no": "Al Mahwit"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
-  "SD": {
-    "name": "Sa`dah",
-    "code": null,
-    "unofficial_names": [
-      "Saʿadah"
-    ],
+  "RA": {
+    "name": "محافظة ريمة",
+    "code": "RA",
+    "unofficial_names": null,
     "geo": {
-      "latitude": 16.9509413,
-      "longitude": 43.7477743,
-      "min_latitude": 16.9213471,
-      "min_longitude": 43.7216377,
-      "max_latitude": 16.9842336,
-      "max_longitude": 43.7776101
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
     },
     "translations": {
-      "en": "Sa’dah",
-      "ar": "محافظة صعدة",
-      "bg": "Саада",
-      "bn": "সাঁদা গভর্নোরেট",
-      "ca": "Governació de Sa’dah",
-      "cs": "Provincie Sa’ada",
-      "da": "Saada Governorate",
-      "de": "Gouvernement Sa’da",
-      "el": "Σαάντα Γκοβερνοράτε",
-      "es": "Gobernación de Sa’dah",
-      "eu": "Sa’dah gobernantzia",
-      "fa": "استان صعده",
-      "fi": "Saada",
-      "fr": "Gouvernorat de Sa’dah",
-      "gu": "સાદા ગવર્નોરેટ",
-      "he": "צעדה",
-      "hi": "सआदाह प्रान्त",
-      "hr": "Sa’da",
-      "hu": "Szaada kormányzóság",
-      "id": "Kegubernuran Saada",
-      "it": "governatorato di Sa’da",
-      "ja": "サアダ県",
-      "ka": "საადის მუჰაფაზა",
-      "kn": "ಸಾಡ ಗವರ್ನರ್",
-      "ko": "사다 주",
-      "mr": "सादा गव्हर्नोरेट",
-      "ms": "Saada Governorate",
-      "nb": "Sa’dah",
-      "nl": "Sa’dah",
-      "pl": "Sada",
-      "pt": "Sa’dah",
-      "ro": "Guvernoratul Sa’dah",
-      "ru": "Саада",
-      "si": "සාදා පළාත",
-      "sv": "Sadah",
-      "sw": "Wilaya ya Sadah",
-      "ta": "சாதா கோவெர்னோரேட்",
-      "te": "సాదా గవర్నరేట్",
-      "th": "ซาดา กอฟเวอโนเลต",
-      "tr": "Saada ili",
-      "uk": "Саада",
-      "ur": "سادہ گوورنوراتے",
-      "vi": "Tỉnh Saada",
-      "lv": "Saadas muhāfaza",
-      "lt": "Saados gubernija",
-      "zh": "萨达省",
-      "ccp": "𑄥‘𑄓𑄦𑄴",
-      "no": "Sa’dah"
+      "ar": "محافظة ريمة",
+      "bg": "Райма",
+      "bn": "রায়মাহ গভর্নোরেট",
+      "da": "Raymah Governorate",
+      "de": "Gouvernement Raima",
+      "el": "Ρέιμαχ",
+      "en": "Raymah",
+      "es": "Gobernación de Raymah",
+      "eu": "Raymah gobernantzia",
+      "fa": "استان ریمه",
+      "fi": "Raima",
+      "fr": "Gouvernorat de Raima",
+      "gu": "રેમેહ ગવર્નોરેટ",
+      "he": "רימה",
+      "hi": "रेमाह प्रान्त",
+      "hr": "Raima",
+      "hu": "Rajma kormányzóság",
+      "id": "Kegubernuran Raymah",
+      "it": "governatorato di Rayma",
+      "ja": "ライマ県",
+      "ka": "რაიმის მუჰაფაზა",
+      "kn": "ರೇಮಾ ಗವರ್ನೇಟ್",
+      "ko": "라이마 주",
+      "mr": "रेमह गव्हर्नोरेट",
+      "ms": "Raymah Governorate",
+      "nb": "Raymah",
+      "nl": "Raymah",
+      "pl": "Rajma",
+      "pt": "Raymah",
+      "ro": "Guvernoratul Raymah",
+      "ru": "Райма",
+      "si": "රේමාහ් පළාත",
+      "sv": "Raymah",
+      "sw": "Wilaya ya Raymah",
+      "ta": "ரெய்மாஹ் கோவெர்னோகைட்",
+      "te": "రేమా గవర్నరేట్",
+      "th": "เรมาฮ์ โกเวอโนเรท",
+      "tr": "Rayima ili",
+      "uk": "Рейма",
+      "ur": "محافظہ ریمہ",
+      "vi": "Tỉnh Raymah",
+      "lv": "Raimas muhāfaza",
+      "lt": "Raimos gubernija",
+      "zh": "赖马省",
+      "ccp": "𑄢𑄬𑄟𑄦𑄴",
+      "ca": "Governació de Raimah",
+      "no": "Raymah"
     },
-    "comments": null
-  },
-  "SH": {
-    "name": "Shabwah",
-    "code": null,
-    "unofficial_names": [
-      "Shabwah"
-    ],
-    "geo": {
-      "latitude": 15.368889,
-      "longitude": 47.023611,
-      "min_latitude": 15.3665084,
-      "min_longitude": 47.0220423,
-      "max_latitude": 15.3717846,
-      "max_longitude": 47.0317305
-    },
-    "translations": {
-      "en": "Shabwah",
-      "ar": "محافظة شبوة",
-      "bg": "Шабуа",
-      "bn": "সাবাহ গভর্নোরেট",
-      "ca": "Governació de Xabwa",
-      "da": "Shabwah Governorate",
-      "de": "Gouvernement Schabwa",
-      "el": "Σαμπγουά Γκοβερνοράτε",
-      "es": "Gobernación de Shabwah",
-      "fa": "استان شبوه",
-      "fi": "Šabwa",
-      "fr": "Shabwah",
-      "gu": "શેબવા ગવર્નોરેટ",
-      "he": "שבוה",
-      "hi": "शबवाह प्रान्त",
-      "hr": "Shabwa",
-      "hu": "Sabva kormányzóság",
-      "id": "Kegubernuran Shabwah",
-      "it": "governatorato di Shabwa",
-      "ja": "シャブワ県",
-      "ka": "შაბვის მუჰაფაზა",
-      "kn": "ಷಬ್ವಾ ಗವರ್ನೇಟ್",
-      "ko": "샤브와 주",
-      "mr": "शबवा गव्हर्नोरेट",
-      "ms": "Shabwah Governorate",
-      "nb": "Shabwah",
-      "nl": "Shabwah",
-      "pl": "Szabwa",
-      "pt": "Shabwa",
-      "ro": "Guvernoratul Shabwah",
-      "ru": "Шабва",
-      "si": "ශබ්වා පළාත",
-      "sl": "Šabva",
-      "sv": "Shabwah",
-      "sw": "Wilaya ya Shabwah",
-      "ta": "ஷபவாஹ கோவெர்னோரேட்",
-      "te": "షబ్వా గవర్నరేట్",
-      "th": "ชัปว๊ะห์ เกอเวอโนเลต",
-      "tr": "Şabva ili",
-      "uk": "Шабва",
-      "ur": "محافظہ شبوہ",
-      "vi": "Tỉnh Shabwah",
-      "lv": "Šebvas muhāfaza",
-      "ceb": "Shabwah",
-      "sr_Latn": "Šabva",
-      "lt": "Šabvos gubernija",
-      "zh": "舍卜沃省",
-      "ccp": "𑄥𑄛𑄴𑄤𑄦𑄴",
-      "sr": "Шабва",
-      "no": "Shabwah"
-    },
-    "comments": null
-  },
-  "SN": {
-    "name": "Sanʿā",
-    "code": null,
-    "unofficial_names": [
-      "Sana",
-      "Sanaa",
-      "Sanaʿa",
-      "Sanaʿa City",
-      "Sanʿaʿ"
-    ],
-    "geo": {
-      "latitude": 16.0905301,
-      "longitude": 49.6554124,
-      "min_latitude": 16.08029,
-      "min_longitude": 49.64571480000001,
-      "max_latitude": 16.0981446,
-      "max_longitude": 49.6662712
-    },
-    "translations": {
-      "en": "Sana’a",
-      "ar": "محافظة صنعاء",
-      "bg": "Сана²",
-      "de": "Gouvernement Sanaa",
-      "es": "Gobernación de Saná",
-      "fa": "استان صنعا",
-      "fi": "Sanaa²",
-      "fr": "Gouvernorat de Sanaa",
-      "he": "צנעא²",
-      "hi": "सनआ प्रान्त",
-      "hr": "Sana²",
-      "hu": "Szanaa kormányzóság",
-      "id": "Kegubernuran Sana’a",
-      "it": "governatorato di San’a’",
-      "ja": "サナア県",
-      "ka": "სანის მუჰაფაზა",
-      "ko": "사나 주",
-      "nb": "Sanaá²",
-      "nl": "Sanaa²",
-      "pl": "Sana²",
-      "pt": "Sana²",
-      "ro": "Guvernoratul Sana’a",
-      "ru": "Сана²",
-      "sv": "Guvernementet Sana’a",
-      "sw": "Wilaya ya Sana’a",
-      "tr": "San’a ili",
-      "uk": "Сана²",
-      "ur": "محافظہ صنعاء",
-      "ceb": "Sanaa²",
-      "zh": "薩那省",
-      "ccp": "𑄥𑄚‘𑄃𑄧",
-      "ca": "Governació de Sanà",
-      "be": "Сана",
-      "no": "Sanaá²"
-    },
-    "comments": null
-  },
-  "TA": {
-    "name": "Taʿizz",
-    "code": null,
-    "unofficial_names": [
-      "Taiz"
-    ],
-    "geo": {
-      "latitude": 13.4131166,
-      "longitude": 43.6375314,
-      "min_latitude": 12.6340961,
-      "min_longitude": 43.2397839,
-      "max_latitude": 13.887883,
-      "max_longitude": 44.510999
-    },
-    "translations": {
-      "en": "Taiz",
-      "ar": "محافظة تعز",
-      "bg": "Таиз",
-      "da": "Ta’izz Governorate",
-      "de": "Gouvernement Ta’izz",
-      "el": "Ταΐζ Γκοβερνοράτε",
-      "es": "Gobernación de Ta’izz",
-      "fa": "استان تعز",
-      "fi": "Taizz",
-      "fr": "Gouvernorat de Ta’izz",
-      "gu": "તા‘ઝ ગવર્નોરેટ",
-      "he": "תעז",
-      "hi": "ताइज़ प्रान्त",
-      "hr": "Taizz",
-      "hu": "Taizz kormányzóság",
-      "id": "Kegubernuran Ta’izz",
-      "it": "governatorato di Ta’izz",
-      "ja": "タイズ県",
-      "ka": "ტაიზის მუჰაფაზა",
-      "kn": "ತಾಯಿಜ್ ಗವರ್ನೇಟ್",
-      "ko": "타이즈 주",
-      "mr": "ता‘ज गव्हरेनरेट",
-      "ms": "Ta’izz Governorate",
-      "nb": "Ta’izz",
-      "nl": "Ta’izz",
-      "pl": "Taizz",
-      "pt": "Ta’izz",
-      "ro": "Guvernoratul Ta’izz",
-      "ru": "Таиз",
-      "si": "ටාඉස් පළාත",
-      "sv": "Taizz",
-      "sw": "Wilaya ya Taizz",
-      "ta": "டா ‘இஸ்ஸ் கோவெர்னோராட்",
-      "te": "టాయిజ్",
-      "th": "ทา อิซ กอฟเวอโนเลท",
-      "tr": "Taiz ili",
-      "uk": "Таїз",
-      "ur": "محافظہ تعز",
-      "vi": "Tỉnh Ta’izz",
-      "lv": "Taizas muhāfaza",
-      "sr_Latn": "Taiz",
-      "lt": "Taiz gubernija",
-      "zh": "塔伊茲省",
-      "bn": "তা‘ইজ গভর্নোরেট",
-      "ccp": "𑄑𑄭𑄌𑄴",
-      "sr": "Таиз",
-      "ca": "Governació de Taizz",
-      "no": "Ta’izz"
-    },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
   },
   "SA": {
     "name": "صنعاء",
-    "code": null,
+    "code": "SA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1300,74 +1123,205 @@
       "no": "Sanaá",
       "yo_BJ": "Sana’a"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
-  "RA": {
-    "name": "محافظة ريمة",
-    "code": null,
-    "unofficial_names": null,
+  "SD": {
+    "name": "Sa`dah",
+    "code": "SD",
+    "unofficial_names": [
+      "Saʿadah"
+    ],
     "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "latitude": 16.9509413,
+      "longitude": 43.7477743,
+      "min_latitude": 16.9213471,
+      "min_longitude": 43.7216377,
+      "max_latitude": 16.9842336,
+      "max_longitude": 43.7776101
     },
     "translations": {
-      "ar": "محافظة ريمة",
-      "bg": "Райма",
-      "bn": "রায়মাহ গভর্নোরেট",
-      "da": "Raymah Governorate",
-      "de": "Gouvernement Raima",
-      "el": "Ρέιμαχ",
-      "en": "Raymah",
-      "es": "Gobernación de Raymah",
-      "eu": "Raymah gobernantzia",
-      "fa": "استان ریمه",
-      "fi": "Raima",
-      "fr": "Gouvernorat de Raima",
-      "gu": "રેમેહ ગવર્નોરેટ",
-      "he": "רימה",
-      "hi": "रेमाह प्रान्त",
-      "hr": "Raima",
-      "hu": "Rajma kormányzóság",
-      "id": "Kegubernuran Raymah",
-      "it": "governatorato di Rayma",
-      "ja": "ライマ県",
-      "ka": "რაიმის მუჰაფაზა",
-      "kn": "ರೇಮಾ ಗವರ್ನೇಟ್",
-      "ko": "라이마 주",
-      "mr": "रेमह गव्हर्नोरेट",
-      "ms": "Raymah Governorate",
-      "nb": "Raymah",
-      "nl": "Raymah",
-      "pl": "Rajma",
-      "pt": "Raymah",
-      "ro": "Guvernoratul Raymah",
-      "ru": "Райма",
-      "si": "රේමාහ් පළාත",
-      "sv": "Raymah",
-      "sw": "Wilaya ya Raymah",
-      "ta": "ரெய்மாஹ் கோவெர்னோகைட்",
-      "te": "రేమా గవర్నరేట్",
-      "th": "เรมาฮ์ โกเวอโนเรท",
-      "tr": "Rayima ili",
-      "uk": "Рейма",
-      "ur": "محافظہ ریمہ",
-      "vi": "Tỉnh Raymah",
-      "lv": "Raimas muhāfaza",
-      "lt": "Raimos gubernija",
-      "zh": "赖马省",
-      "ccp": "𑄢𑄬𑄟𑄦𑄴",
-      "ca": "Governació de Raimah",
-      "no": "Raymah"
+      "en": "Sa’dah",
+      "ar": "محافظة صعدة",
+      "bg": "Саада",
+      "bn": "সাঁদা গভর্নোরেট",
+      "ca": "Governació de Sa’dah",
+      "cs": "Provincie Sa’ada",
+      "da": "Saada Governorate",
+      "de": "Gouvernement Sa’da",
+      "el": "Σαάντα Γκοβερνοράτε",
+      "es": "Gobernación de Sa’dah",
+      "eu": "Sa’dah gobernantzia",
+      "fa": "استان صعده",
+      "fi": "Saada",
+      "fr": "Gouvernorat de Sa’dah",
+      "gu": "સાદા ગવર્નોરેટ",
+      "he": "צעדה",
+      "hi": "सआदाह प्रान्त",
+      "hr": "Sa’da",
+      "hu": "Szaada kormányzóság",
+      "id": "Kegubernuran Saada",
+      "it": "governatorato di Sa’da",
+      "ja": "サアダ県",
+      "ka": "საადის მუჰაფაზა",
+      "kn": "ಸಾಡ ಗವರ್ನರ್",
+      "ko": "사다 주",
+      "mr": "सादा गव्हर्नोरेट",
+      "ms": "Saada Governorate",
+      "nb": "Sa’dah",
+      "nl": "Sa’dah",
+      "pl": "Sada",
+      "pt": "Sa’dah",
+      "ro": "Guvernoratul Sa’dah",
+      "ru": "Саада",
+      "si": "සාදා පළාත",
+      "sv": "Sadah",
+      "sw": "Wilaya ya Sadah",
+      "ta": "சாதா கோவெர்னோரேட்",
+      "te": "సాదా గవర్నరేట్",
+      "th": "ซาดา กอฟเวอโนเลต",
+      "tr": "Saada ili",
+      "uk": "Саада",
+      "ur": "سادہ گوورنوراتے",
+      "vi": "Tỉnh Saada",
+      "lv": "Saadas muhāfaza",
+      "lt": "Saados gubernija",
+      "zh": "萨达省",
+      "ccp": "𑄥‘𑄓𑄦𑄴",
+      "no": "Sa’dah"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
+  },
+  "SH": {
+    "name": "Shabwah",
+    "code": "SH",
+    "unofficial_names": [
+      "Shabwah"
+    ],
+    "geo": {
+      "latitude": 15.368889,
+      "longitude": 47.023611,
+      "min_latitude": 15.3665084,
+      "min_longitude": 47.0220423,
+      "max_latitude": 15.3717846,
+      "max_longitude": 47.0317305
+    },
+    "translations": {
+      "en": "Shabwah",
+      "ar": "محافظة شبوة",
+      "bg": "Шабуа",
+      "bn": "সাবাহ গভর্নোরেট",
+      "ca": "Governació de Xabwa",
+      "da": "Shabwah Governorate",
+      "de": "Gouvernement Schabwa",
+      "el": "Σαμπγουά Γκοβερνοράτε",
+      "es": "Gobernación de Shabwah",
+      "fa": "استان شبوه",
+      "fi": "Šabwa",
+      "fr": "Shabwah",
+      "gu": "શેબવા ગવર્નોરેટ",
+      "he": "שבוה",
+      "hi": "शबवाह प्रान्त",
+      "hr": "Shabwa",
+      "hu": "Sabva kormányzóság",
+      "id": "Kegubernuran Shabwah",
+      "it": "governatorato di Shabwa",
+      "ja": "シャブワ県",
+      "ka": "შაბვის მუჰაფაზა",
+      "kn": "ಷಬ್ವಾ ಗವರ್ನೇಟ್",
+      "ko": "샤브와 주",
+      "mr": "शबवा गव्हर्नोरेट",
+      "ms": "Shabwah Governorate",
+      "nb": "Shabwah",
+      "nl": "Shabwah",
+      "pl": "Szabwa",
+      "pt": "Shabwa",
+      "ro": "Guvernoratul Shabwah",
+      "ru": "Шабва",
+      "si": "ශබ්වා පළාත",
+      "sl": "Šabva",
+      "sv": "Shabwah",
+      "sw": "Wilaya ya Shabwah",
+      "ta": "ஷபவாஹ கோவெர்னோரேட்",
+      "te": "షబ్వా గవర్నరేట్",
+      "th": "ชัปว๊ะห์ เกอเวอโนเลต",
+      "tr": "Şabva ili",
+      "uk": "Шабва",
+      "ur": "محافظہ شبوہ",
+      "vi": "Tỉnh Shabwah",
+      "lv": "Šebvas muhāfaza",
+      "ceb": "Shabwah",
+      "sr_Latn": "Šabva",
+      "lt": "Šabvos gubernija",
+      "zh": "舍卜沃省",
+      "ccp": "𑄥𑄛𑄴𑄤𑄦𑄴",
+      "sr": "Шабва",
+      "no": "Shabwah"
+    },
+    "comments": null,
+    "type": "governorate"
+  },
+  "SN": {
+    "name": "Sanʿā",
+    "code": "SN",
+    "unofficial_names": [
+      "Sana",
+      "Sanaa",
+      "Sanaʿa",
+      "Sanaʿa City",
+      "Sanʿaʿ"
+    ],
+    "geo": {
+      "latitude": 16.0905301,
+      "longitude": 49.6554124,
+      "min_latitude": 16.08029,
+      "min_longitude": 49.64571480000001,
+      "max_latitude": 16.0981446,
+      "max_longitude": 49.6662712
+    },
+    "translations": {
+      "en": "Sana’a",
+      "ar": "محافظة صنعاء",
+      "bg": "Сана²",
+      "de": "Gouvernement Sanaa",
+      "es": "Gobernación de Saná",
+      "fa": "استان صنعا",
+      "fi": "Sanaa²",
+      "fr": "Gouvernorat de Sanaa",
+      "he": "צנעא²",
+      "hi": "सनआ प्रान्त",
+      "hr": "Sana²",
+      "hu": "Szanaa kormányzóság",
+      "id": "Kegubernuran Sana’a",
+      "it": "governatorato di San’a’",
+      "ja": "サナア県",
+      "ka": "სანის მუჰაფაზა",
+      "ko": "사나 주",
+      "nb": "Sanaá²",
+      "nl": "Sanaa²",
+      "pl": "Sana²",
+      "pt": "Sana²",
+      "ro": "Guvernoratul Sana’a",
+      "ru": "Сана²",
+      "sv": "Guvernementet Sana’a",
+      "sw": "Wilaya ya Sana’a",
+      "tr": "San’a ili",
+      "uk": "Сана²",
+      "ur": "محافظہ صنعاء",
+      "ceb": "Sanaa²",
+      "zh": "薩那省",
+      "ccp": "𑄥𑄚‘𑄃𑄧",
+      "ca": "Governació de Sanà",
+      "be": "Сана",
+      "no": "Sanaá²"
+    },
+    "comments": null,
+    "type": "governorate"
   },
   "SU": {
     "name": "محافظة أرخبيل سقطرى",
-    "code": null,
+    "code": "SU",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1393,7 +1347,75 @@
       "es": "Gobernación de Socotra",
       "ca": "Governació de Socotra"
     },
-    "comments": null
+    "comments": null,
+    "type": "governorate"
+  },
+  "TA": {
+    "name": "Taʿizz",
+    "code": "TA",
+    "unofficial_names": [
+      "Taiz"
+    ],
+    "geo": {
+      "latitude": 13.4131166,
+      "longitude": 43.6375314,
+      "min_latitude": 12.6340961,
+      "min_longitude": 43.2397839,
+      "max_latitude": 13.887883,
+      "max_longitude": 44.510999
+    },
+    "translations": {
+      "en": "Taiz",
+      "ar": "محافظة تعز",
+      "bg": "Таиз",
+      "da": "Ta’izz Governorate",
+      "de": "Gouvernement Ta’izz",
+      "el": "Ταΐζ Γκοβερνοράτε",
+      "es": "Gobernación de Ta’izz",
+      "fa": "استان تعز",
+      "fi": "Taizz",
+      "fr": "Gouvernorat de Ta’izz",
+      "gu": "તા‘ઝ ગવર્નોરેટ",
+      "he": "תעז",
+      "hi": "ताइज़ प्रान्त",
+      "hr": "Taizz",
+      "hu": "Taizz kormányzóság",
+      "id": "Kegubernuran Ta’izz",
+      "it": "governatorato di Ta’izz",
+      "ja": "タイズ県",
+      "ka": "ტაიზის მუჰაფაზა",
+      "kn": "ತಾಯಿಜ್ ಗವರ್ನೇಟ್",
+      "ko": "타이즈 주",
+      "mr": "ता‘ज गव्हरेनरेट",
+      "ms": "Ta’izz Governorate",
+      "nb": "Ta’izz",
+      "nl": "Ta’izz",
+      "pl": "Taizz",
+      "pt": "Ta’izz",
+      "ro": "Guvernoratul Ta’izz",
+      "ru": "Таиз",
+      "si": "ටාඉස් පළාත",
+      "sv": "Taizz",
+      "sw": "Wilaya ya Taizz",
+      "ta": "டா ‘இஸ்ஸ் கோவெர்னோராட்",
+      "te": "టాయిజ్",
+      "th": "ทา อิซ กอฟเวอโนเลท",
+      "tr": "Taiz ili",
+      "uk": "Таїз",
+      "ur": "محافظہ تعز",
+      "vi": "Tỉnh Ta’izz",
+      "lv": "Taizas muhāfaza",
+      "sr_Latn": "Taiz",
+      "lt": "Taiz gubernija",
+      "zh": "塔伊茲省",
+      "bn": "তা‘ইজ গভর্নোরেট",
+      "ccp": "𑄑𑄭𑄌𑄴",
+      "sr": "Таиз",
+      "ca": "Governació de Taizz",
+      "no": "Ta’izz"
+    },
+    "comments": null,
+    "type": "governorate"
   }
 }
 

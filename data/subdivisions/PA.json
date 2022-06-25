@@ -1,7 +1,7 @@
 {
   "1": {
     "name": "Bocas del Toro",
-    "code": null,
+    "code": "1",
     "unofficial_names": "Bocas del Toro",
     "geo": {
       "latitude": 9.340556,
@@ -59,11 +59,48 @@
       "ccp": "𑄝𑄧𑄇𑄌𑄴 𑄓𑄬𑄣𑄴 𑄑𑄮𑄢𑄮",
       "no": "Bocas del Toro"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
+  },
+  "10": {
+    "name": "Panamá Oeste",
+    "code": "10",
+    "unofficial_names": "Panamá Oeste",
+    "geo": {
+      "latitude": null,
+      "longitude": null,
+      "min_latitude": null,
+      "min_longitude": null,
+      "max_latitude": null,
+      "max_longitude": null
+    },
+    "translations": {
+      "cs": "Západní Panama",
+      "de": "Provinz Panamá Oeste",
+      "en": "West Panamá",
+      "es": "Provincia de Panamá Oeste",
+      "fr": "Panama Ouest",
+      "ja": "西パナマ県",
+      "ko": "서파나마 주",
+      "lv": "Rietumpanama",
+      "nl": "Panama Oeste",
+      "pl": "Panama Zachodnia",
+      "ru": "Западная Панама",
+      "ur": "پاناما غربی صوبہ",
+      "zh": "西巴拿馬省",
+      "fa": "استان پاناما اوسته",
+      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄛𑄚𑄟",
+      "hy": "Արևմտյան Պանամա",
+      "eu": "Mendebaldeko Panama",
+      "uk": "Західна Панама",
+      "bg": "Панама Оесте"
+    },
+    "comments": null,
+    "type": "province"
   },
   "2": {
     "name": "Coclé",
-    "code": null,
+    "code": "2",
     "unofficial_names": "Coclé",
     "geo": {
       "latitude": 8.400144899999999,
@@ -120,11 +157,12 @@
       "ccp": "𑄇𑄮𑄇𑄴𑄣𑄬",
       "no": "Cocle provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "3": {
     "name": "Colón",
-    "code": null,
+    "code": "3",
     "unofficial_names": "Colón",
     "geo": {
       "latitude": 9.333333,
@@ -183,11 +221,12 @@
       "be": "Калон",
       "no": "Colon provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "4": {
     "name": "Chiriquí",
-    "code": null,
+    "code": "4",
     "unofficial_names": "Chiriquí",
     "geo": {
       "latitude": 8.3866964,
@@ -244,11 +283,12 @@
       "ccp": "𑄥𑄨𑄢𑄨𑄇𑄭𑄪",
       "no": "Chiriqui Prrvins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "5": {
     "name": "Darién",
-    "code": null,
+    "code": "5",
     "unofficial_names": "Darién",
     "geo": {
       "latitude": 7.868171299999999,
@@ -307,11 +347,12 @@
       "ccp": "𑄓𑄢𑄨𑄠𑄬𑄚𑄴",
       "no": "Darien provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "6": {
     "name": "Herrera",
-    "code": null,
+    "code": "6",
     "unofficial_names": "Herrera",
     "geo": {
       "latitude": 7.7704282,
@@ -368,11 +409,12 @@
       "ccp": "𑄦𑄬𑄢𑄢",
       "no": "Herrera Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "7": {
     "name": "Los Santos",
-    "code": null,
+    "code": "7",
     "unofficial_names": "Los Santos",
     "geo": {
       "latitude": 7.5909302,
@@ -429,11 +471,12 @@
       "ccp": "𑄣𑄧𑄌𑄴 𑄥𑄚𑄴𑄑𑄮𑄌𑄴",
       "no": "Los Santos Provins"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "8": {
     "name": "Panamá",
-    "code": null,
+    "code": "8",
     "unofficial_names": "Panamá",
     "geo": {
       "latitude": 8.983333,
@@ -480,11 +523,12 @@
       "th": "จังหวัดปานามา",
       "no": "Panamá"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "9": {
     "name": "Veraguas",
-    "code": null,
+    "code": "9",
     "unofficial_names": "Veraguas",
     "geo": {
       "latitude": 8.866667,
@@ -542,46 +586,12 @@
       "eu": "Veraguas",
       "no": "Veraguas provins"
     },
-    "comments": null
-  },
-  "10": {
-    "name": "Panamá Oeste",
-    "code": null,
-    "unofficial_names": "Panamá Oeste",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "cs": "Západní Panama",
-      "de": "Provinz Panamá Oeste",
-      "en": "West Panamá",
-      "es": "Provincia de Panamá Oeste",
-      "fr": "Panama Ouest",
-      "ja": "西パナマ県",
-      "ko": "서파나마 주",
-      "lv": "Rietumpanama",
-      "nl": "Panama Oeste",
-      "pl": "Panama Zachodnia",
-      "ru": "Западная Панама",
-      "ur": "پاناما غربی صوبہ",
-      "zh": "西巴拿馬省",
-      "fa": "استان پاناما اوسته",
-      "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄛𑄚𑄟",
-      "hy": "Արևմտյան Պանամա",
-      "eu": "Mendebaldeko Panama",
-      "uk": "Західна Панама",
-      "bg": "Панама Оесте"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "EM": {
     "name": "Emberá-Wounaan",
-    "code": null,
+    "code": "EM",
     "unofficial_names": "Emberá-Wounaan",
     "geo": {
       "latitude": null,
@@ -638,11 +648,12 @@
       "eu": "Emberá-Wounaan",
       "no": "Embera Wounaan Comarca"
     },
-    "comments": null
+    "comments": null,
+    "type": "indigenous_region"
   },
   "KY": {
     "name": "Guna Yala",
-    "code": null,
+    "code": "KY",
     "unofficial_names": "Guna Yala",
     "geo": {
       "latitude": 8.537981,
@@ -700,11 +711,12 @@
       "eu": "Guna Yala",
       "no": "Kuna Yala"
     },
-    "comments": null
+    "comments": null,
+    "type": "indigenous_region"
   },
   "NB": {
     "name": "Ngäbe-Buglé",
-    "code": null,
+    "code": "NB",
     "unofficial_names": "Ngäbe-Buglé",
     "geo": {
       "latitude": null,
@@ -761,7 +773,8 @@
       "eu": "Ngäbe-Buglé",
       "no": "Ngobe-Bugle Comarca"
     },
-    "comments": null
+    "comments": null,
+    "type": "indigenous_region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Abkhazia",
-    "code": null,
+    "code": "AB",
     "unofficial_names": [
       "Abhasia"
     ],
@@ -81,11 +81,12 @@
       "kk": "Абхазия Автономиялық Республикасы",
       "no": "Abkhasia"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_republic"
   },
   "AJ": {
     "name": "Ajaria",
-    "code": null,
+    "code": "AJ",
     "unofficial_names": [
       "Achara",
       "Adzharia",
@@ -170,11 +171,12 @@
       "no": "Adsjaria",
       "yo_BJ": "Adjara"
     },
-    "comments": null
+    "comments": null,
+    "type": "autonomous_republic"
   },
   "GU": {
     "name": "Guria",
-    "code": null,
+    "code": "GU",
     "unofficial_names": "Guria",
     "geo": {
       "latitude": 41.9442736,
@@ -240,11 +242,12 @@
       "mk": "Гурија",
       "no": "Guria"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "IM": {
     "name": "Imereti",
-    "code": null,
+    "code": "IM",
     "unofficial_names": "Imereti",
     "geo": {
       "latitude": 42.230108,
@@ -312,11 +315,12 @@
       "mk": "Имеретија",
       "no": "Imereti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KA": {
     "name": "Kakheti",
-    "code": null,
+    "code": "KA",
     "unofficial_names": [
       "Kaheti"
     ],
@@ -385,11 +389,12 @@
       "mk": "Кахетија",
       "no": "Kakheti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KK": {
     "name": "Kvemo Kartli",
-    "code": null,
+    "code": "KK",
     "unofficial_names": "Kvemo Kartli",
     "geo": {
       "latitude": 41.4791833,
@@ -455,11 +460,12 @@
       "mk": "Долна Картли",
       "no": "Kvemo Kartli"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "MM": {
     "name": "Mtskheta-Mtianeti",
-    "code": null,
+    "code": "MM",
     "unofficial_names": [
       "Mcheta-Mtianeti"
     ],
@@ -527,11 +533,12 @@
       "mk": "Мцхета-Мтијанетија",
       "no": "Mtskheta-Mtianeti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "RL": {
     "name": "Racha-Lechkhumi [and] Kvemo Svaneti",
-    "code": null,
+    "code": "RL",
     "unofficial_names": [
       "Racha",
       "Racha-Lechkumi and Kverno Svaneti"
@@ -597,11 +604,12 @@
       "mk": "Рача-Лечхуми и Долна Сванетија",
       "no": "Racha-Lechkhumi og Kvemo Svaneti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SJ": {
     "name": "Samtskhe-Javakheti",
-    "code": null,
+    "code": "SJ",
     "unofficial_names": [
       "Samche-Žavaheti"
     ],
@@ -668,11 +676,12 @@
       "mk": "Самцхе-Џавахетија",
       "no": "Samtskhe-Javakheti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SK": {
     "name": "Shida Kartli",
-    "code": null,
+    "code": "SK",
     "unofficial_names": [
       "Šida Kartli"
     ],
@@ -740,11 +749,12 @@
       "mk": "Внатрешен Картли",
       "no": "Shida Kartli"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SZ": {
     "name": "Samegrelo-Zemo Svaneti",
-    "code": null,
+    "code": "SZ",
     "unofficial_names": "Samegrelo-Zemo Svaneti",
     "geo": {
       "latitude": 42.7352247,
@@ -807,11 +817,12 @@
       "mk": "Мегрелија-Горна Сванетија",
       "no": "Samegrelo-Zemo Svaneti"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TB": {
     "name": "Tbilisi",
-    "code": null,
+    "code": "TB",
     "unofficial_names": [
       "Tiflis"
     ],
@@ -906,7 +917,8 @@
       "no": "Tbilisi",
       "yo_BJ": "Tbilisi"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   }
 }
 

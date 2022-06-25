@@ -1,7 +1,7 @@
 {
   "AG": {
     "name": "Aragacotn",
-    "code": null,
+    "code": "AG",
     "unofficial_names": "Aragacotn",
     "geo": {
       "latitude": null,
@@ -74,11 +74,12 @@
       "mk": "Арагацотн",
       "no": "Aragatsotn"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AR": {
     "name": "Ararat",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Ararat",
     "geo": {
       "latitude": 39.9753273,
@@ -147,11 +148,12 @@
       "mk": "Арарат",
       "no": "Ararat"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AV": {
     "name": "Armavir",
-    "code": null,
+    "code": "AV",
     "unofficial_names": "Armavir",
     "geo": {
       "latitude": 40.1315615,
@@ -221,11 +223,12 @@
       "mk": "Армавир",
       "no": "Armavir"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "ER": {
     "name": "Erevan",
-    "code": null,
+    "code": "ER",
     "unofficial_names": "Erevan",
     "geo": {
       "latitude": 40.183333,
@@ -316,11 +319,12 @@
       "no": "Jerevan",
       "yo_BJ": "Yerevan"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "GR": {
     "name": "Gegark'unik'",
-    "code": null,
+    "code": "GR",
     "unofficial_names": [
       "Gegharkunick"
     ],
@@ -392,11 +396,12 @@
       "mk": "Гехаркуник",
       "no": "Gegharkunik"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "KT": {
     "name": "Kotayk'",
-    "code": null,
+    "code": "KT",
     "unofficial_names": [
       "Kotaik"
     ],
@@ -468,11 +473,12 @@
       "mk": "Котајк",
       "no": "Kotajk"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "LO": {
     "name": "Lory",
-    "code": null,
+    "code": "LO",
     "unofficial_names": [
       "Lorri"
     ],
@@ -544,11 +550,12 @@
       "mk": "Лори",
       "no": "Lori"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SH": {
     "name": "Širak",
-    "code": null,
+    "code": "SH",
     "unofficial_names": "Širak",
     "geo": {
       "latitude": 40.9630814,
@@ -618,11 +625,12 @@
       "mk": "Ширак",
       "no": "Sjirak"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "SU": {
     "name": "Syunik'",
-    "code": null,
+    "code": "SU",
     "unofficial_names": "Syunik'",
     "geo": {
       "latitude": 39.3194392,
@@ -693,11 +701,12 @@
       "mk": "Сјуник",
       "no": "Syunik"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TV": {
     "name": "Tavuš",
-    "code": null,
+    "code": "TV",
     "unofficial_names": [
       "Tavoush"
     ],
@@ -769,11 +778,12 @@
       "mk": "Тавуш",
       "no": "Tavusj"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "VD": {
     "name": "Vayoc Jor",
-    "code": null,
+    "code": "VD",
     "unofficial_names": "Vayoc Jor",
     "geo": {
       "latitude": 39.8107912,
@@ -844,7 +854,8 @@
       "mk": "Вајоц Ѕор",
       "no": "Vajots Dzor"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "AG": {
     "name": "Agalega Islands",
-    "code": null,
+    "code": "AG",
     "unofficial_names": "Agalega Islands",
     "geo": {
       "latitude": -10.4681988,
@@ -66,11 +66,12 @@
       "yo": "Àwọn Erékùṣù Agalega",
       "no": "Agalegaøyene"
     },
-    "comments": null
+    "comments": null,
+    "type": "dependency"
   },
   "BL": {
     "name": "Black River",
-    "code": null,
+    "code": "BL",
     "unofficial_names": "Black River",
     "geo": {
       "latitude": -20.34756,
@@ -128,49 +129,12 @@
       "yue": "黑河區",
       "no": "Black River"
     },
-    "comments": null
-  },
-  "BR": {
-    "name": "Beau Bassin-Rose Hill",
-    "code": null,
-    "unofficial_names": "Beau Bassin-Rose Hill",
-    "geo": {
-      "latitude": -20.239806,
-      "longitude": 57.47169400000001,
-      "min_latitude": -20.2644097,
-      "min_longitude": 57.44771590000001,
-      "max_latitude": -20.1898941,
-      "max_longitude": 57.48024589999999
-    },
-    "translations": {
-      "en": "Beau-Bassin Rose-Hill",
-      "de": "Beau Bassin-Rose Hill",
-      "es": "Beau Bassin-Rose Hill",
-      "fr": "Beau-Bassin Rose-Hill",
-      "he": "בו בסין-רוז איל",
-      "it": "Beau Bassin-Rose Hill",
-      "ja": "ボーバッサン・ローズヒル",
-      "ko": "보베이신로즈힐",
-      "lt": "Bo Basenas-Rouz Hilis",
-      "nb": "Beau Bassin-Rosehill",
-      "nl": "Beau Bassin",
-      "pl": "Beau Bassin",
-      "ru": "Роз-Хилл",
-      "sv": "Beau Bassin",
-      "tr": "Beau Bassin-Rose Hill",
-      "ur": "بو-باسن روز-ہل",
-      "zh": "羅斯希爾",
-      "yue_Hans": "博巴森罗斯希尔",
-      "ccp": "𑄝𑄨𑄅𑄪-𑄝𑄥𑄨𑄚𑄴 𑄢𑄮𑄌𑄴 𑄦𑄨𑄣𑄴",
-      "uk": "Роз-Гілл",
-      "yue": "博巴森羅斯希爾",
-      "no": "Beau Bassin-Rosehill"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "CC": {
     "name": "Cargados Carajos Shoals [Saint Brandon Islands]",
-    "code": null,
+    "code": "CC",
     "unofficial_names": "Cargados Carajos Shoals [Saint Brandon Islands]",
     "geo": {
       "latitude": -16.6333333,
@@ -232,50 +196,12 @@
       "no": "Cargados Carajos",
       "yo_BJ": "Cargados Carajos"
     },
-    "comments": null
-  },
-  "CU": {
-    "name": "Curepipe",
-    "code": null,
-    "unofficial_names": "Curepipe",
-    "geo": {
-      "latitude": -20.3170872,
-      "longitude": 57.5265289,
-      "min_latitude": -20.3392349,
-      "min_longitude": 57.4977753,
-      "max_latitude": -20.2971679,
-      "max_longitude": 57.5484643
-    },
-    "translations": {
-      "en": "Curepipe",
-      "ar": "كوريبيب",
-      "de": "Curepipe",
-      "es": "Curepipe",
-      "fr": "Curepipe",
-      "it": "Curepipe",
-      "ja": "キュールピップ",
-      "ko": "쿠레피페",
-      "lt": "Kiurpipas",
-      "nl": "Curepipe",
-      "pl": "Curepipe",
-      "pt": "Curepipe",
-      "ru": "Кюрпип",
-      "sr": "Кјурпајп",
-      "sv": "Curepipe",
-      "th": "กูร์ปีป",
-      "ur": "کیورپیپہ",
-      "ceb": "Curepipe",
-      "sr_Latn": "Kjurpajp",
-      "zh": "居爾皮普",
-      "fa": "کورپیپ",
-      "ccp": "𑄇𑄨𑄅𑄪𑄢𑄬𑄛𑄭𑄛𑄴",
-      "uk": "Кьюрпайп"
-    },
-    "comments": null
+    "comments": null,
+    "type": "dependency"
   },
   "FL": {
     "name": "Flacq",
-    "code": null,
+    "code": "FL",
     "unofficial_names": "Flacq",
     "geo": {
       "latitude": -20.2257836,
@@ -334,11 +260,12 @@
       "yue": "弗拉克區",
       "no": "Flacq"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "GP": {
     "name": "Grand Port",
-    "code": null,
+    "code": "GP",
     "unofficial_names": "Grand Port",
     "geo": {
       "latitude": -20.3851546,
@@ -396,11 +323,12 @@
       "yue": "大港區",
       "no": "Grand Port"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "MO": {
     "name": "Moka",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Moka",
     "geo": {
       "latitude": -20.219,
@@ -458,11 +386,12 @@
       "yue": "莫卡區",
       "no": "Moka"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PA": {
     "name": "Pamplemousses",
-    "code": null,
+    "code": "PA",
     "unofficial_names": "Pamplemousses",
     "geo": {
       "latitude": -20.116667,
@@ -519,11 +448,12 @@
       "yue": "龐波慕斯區",
       "no": "Pamplemousses"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PL": {
     "name": "Port Louis City",
-    "code": null,
+    "code": "PL",
     "unofficial_names": "Port Louis City",
     "geo": {
       "latitude": -20.166667,
@@ -563,109 +493,12 @@
       "yue": "路易港區",
       "no": "Port Louis"
     },
-    "comments": null
-  },
-  "PU": {
-    "name": "Port Louis District",
-    "code": null,
-    "unofficial_names": "Port Louis District",
-    "geo": {
-      "latitude": -20.166667,
-      "longitude": 57.516667,
-      "min_latitude": -20.2016751,
-      "min_longitude": 57.42768760000001,
-      "max_latitude": -20.124287,
-      "max_longitude": 57.5659989
-    },
-    "translations": {
-      "en": "Port Louis",
-      "af": "Port Louis",
-      "am": "ፖርት ሉዊስ",
-      "ar": "بور لويس",
-      "az": "Port Luiz",
-      "be": "Порт-Луі",
-      "bg": "Порт Луи",
-      "bn": "পোর্ট লুইস",
-      "ca": "Port Louis",
-      "cs": "Port Louis",
-      "da": "Port Louis",
-      "de": "Port Louis²",
-      "el": "Πορ-Λουί",
-      "es": "Port Louis",
-      "et": "Port Louis",
-      "eu": "Port Louis",
-      "fa": "پورت‌لوئیس",
-      "fi": "Port Louis",
-      "fr": "Port-Louis",
-      "gl": "Port Louis, Port Louis",
-      "gu": "પોર્ટ લુઇસ",
-      "he": "פור לואי",
-      "hi": "पोर्ट लुई",
-      "hr": "Port Louis",
-      "hu": "Port Louis",
-      "hy": "Պորտ Լուի",
-      "id": "Port Louis",
-      "is": "Port Lois",
-      "it": "Port Louis",
-      "ja": "ポートルイス",
-      "ka": "პორტ-ლუი",
-      "kn": "ಪೋರ್ಟ್ ಲೂಯಿಸ್",
-      "ko": "포트루이스",
-      "lt": "Port Luisas",
-      "lv": "Portluī",
-      "ml": "പോർട്ട് ലൂയിസ്",
-      "mn": "Порт Луйс",
-      "mr": "पोर्ट लुईस",
-      "ms": "Port Louis",
-      "nb": "Port Louis²",
-      "nl": "Port Louis²",
-      "or": "ପୋର୍ଟ ଲୁଇସ",
-      "pl": "Port Louis²",
-      "pt": "Port Louis²",
-      "ro": "Port Louis",
-      "ru": "Порт-Луи²",
-      "si": "පෝර්ට් ලුවිස්",
-      "sk": "Port Louis",
-      "sl": "Port Louis",
-      "sr": "Порт Луис",
-      "sv": "Port Louis²",
-      "sw": "Port Louis",
-      "ta": "போர்ட் லூயிஸ்",
-      "te": "పోర్ట్ లుయీస్",
-      "th": "พอร์ตลูอิส",
-      "tk": "Port-Lui",
-      "tr": "Port Louis",
-      "uk": "Порт-Луї",
-      "ur": "پورٹ لوئس",
-      "vi": "Port Louis",
-      "cy": "Port Louis",
-      "ceb": "Port Louis District",
-      "sr_Latn": "Port Luis",
-      "zh": "路易港",
-      "yue_Hans": "路易港",
-      "jv": "Port Louis",
-      "sq": "Port Louis",
-      "ccp": "𑄛𑄮𑄢𑄴𑄑𑄴 𑄣𑄪𑄃𑄨𑄌𑄴",
-      "ga": "Port Louis",
-      "ky": "Порт-Луи",
-      "ha": "Port Louis",
-      "so": "Bort Lois",
-      "pa": "ਪੋਰਟ ਲੂਈ",
-      "kk": "Порт-Луи",
-      "yue": "路易港",
-      "yo": "Port Louis",
-      "uz": "Port-Lui",
-      "bs": "Port Louis",
-      "mk": "Порт Луис",
-      "ha_NE": "Port Louis",
-      "no": "Port Louis²",
-      "yo_BJ": "Port Louis"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "PW": {
     "name": "Plaines Wilhems",
-    "code": null,
+    "code": "PW",
     "unofficial_names": "Plaines Wilhems",
     "geo": {
       "latitude": -20.3054872,
@@ -721,46 +554,12 @@
       "yue": "威廉平原區",
       "no": "Plaines Wilhems"
     },
-    "comments": null
-  },
-  "QB": {
-    "name": "Quatre Bornes",
-    "code": null,
-    "unofficial_names": "Quatre Bornes",
-    "geo": {
-      "latitude": -20.265358,
-      "longitude": 57.47905299999999,
-      "min_latitude": -20.3044439,
-      "min_longitude": 57.44096529999999,
-      "max_latitude": -20.2386383,
-      "max_longitude": 57.5246287
-    },
-    "translations": {
-      "en": "Quatre Bornes",
-      "ca": "Quatre Bornes",
-      "de": "Quatre Bornes",
-      "es": "Quatre Bornes",
-      "fr": "Quatre Bornes",
-      "it": "Quatre Bornes",
-      "ja": "カトル・ボルヌ",
-      "ko": "쿠아트레 보르네",
-      "nl": "Quatre Bornes",
-      "pl": "Quatre Bornes",
-      "pt": "Quatre Bornes",
-      "ru": "Катре-Борне",
-      "sr": "Катр Боне",
-      "sv": "Quatre Bornes (ort)",
-      "ur": "قیتخ بورن",
-      "ceb": "Quatre Bornes",
-      "sr_Latn": "Katr Bone",
-      "zh": "卡特勒博爾納",
-      "ccp": "𑄇𑄪𑄠𑄖𑄴𑄢𑄬 𑄝𑄮𑄢𑄴𑄚𑄬𑄌𑄴"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "RO": {
     "name": "Rodrigues Island",
-    "code": null,
+    "code": "RO",
     "unofficial_names": "Rodrigues Island",
     "geo": {
       "latitude": -19.7245385,
@@ -827,11 +626,12 @@
       "no": "Rodrigues",
       "yo_BJ": "Rodrigues"
     },
-    "comments": null
+    "comments": null,
+    "type": "dependency"
   },
   "RR": {
     "name": "Rivière du Rempart",
-    "code": null,
+    "code": "RR",
     "unofficial_names": "Rivière du Rempart",
     "geo": {
       "latitude": -20.0905351,
@@ -886,11 +686,12 @@
       "yue": "朗帕河區",
       "no": "Rivière du Rempart"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "SA": {
     "name": "Savanne",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Savanne",
     "geo": {
       "latitude": -20.473953,
@@ -946,61 +747,8 @@
       "yue": "薩凡納區",
       "no": "Savanne"
     },
-    "comments": null
-  },
-  "VP": {
-    "name": "Vacoas-Phoenix",
-    "code": null,
-    "unofficial_names": "Vacoas-Phoenix",
-    "geo": {
-      "latitude": -20.300047,
-      "longitude": 57.474508,
-      "min_latitude": -20.3481117,
-      "min_longitude": 57.46740039999999,
-      "max_latitude": -20.2580787,
-      "max_longitude": 57.5513649
-    },
-    "translations": {
-      "en": "Vacoas-Phoenix",
-      "ar": "فاكوس-فينيكس",
-      "bn": "ভাকোয়াস-ফিনিক্স",
-      "da": "Vacoas-Phoenix",
-      "de": "Vacoas-Phoenix",
-      "el": "Βακόας-Φοίνιξ",
-      "es": "Vacoas-Phoenix",
-      "fi": "Vacoas-Phoenix",
-      "fr": "Vacoas-Phœnix",
-      "gu": "વેકોસ-ફિનિક્સ",
-      "hi": "वकाऊ फीनिक्स",
-      "id": "Vacoas-Phoenix",
-      "it": "Vacoas-Phoenix",
-      "ja": "ヴァコア・フェニックス",
-      "kn": "ವ್ಯಾಕೋವಾಸ್ ಫೀನಿಕ್ಸ್",
-      "ko": "바코아스피닉스",
-      "lt": "Vakoasas",
-      "mr": "व्होकस-फिनिक्स",
-      "ms": "Vacoas-Phoenix",
-      "nb": "Vacoas-Phoenix",
-      "nl": "Vacoas-Phoenix",
-      "pl": "Vacoas-Phoenix",
-      "pt": "Vacoas-Phoenix",
-      "ru": "Вакоа-Феникс",
-      "si": "වාකොස් ෆීනික්ස්",
-      "sr": "Вакоа-Феникс",
-      "sv": "Vacoas-Phoenix",
-      "ta": "வாகோஸ் - போயெனிக்ஸ்",
-      "te": "వాకోవస్-ఫీనిక్స్",
-      "th": "วาโคอ์-โฟนิกส์",
-      "tr": "Vacaos-Phoneix",
-      "uk": "Вакоа-Фенікс",
-      "ur": "واکواس فینکس",
-      "vi": "Vacoas-Phoenix",
-      "lv": "Vakoasa-Fīniksa",
-      "sr_Latn": "Vakoa-Feniks",
-      "ccp": "𑄞𑄇𑄮𑄠𑄌𑄴-𑄜𑄮𑄚𑄨𑄇𑄴",
-      "no": "Vacoas-Phoenix"
-    },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 

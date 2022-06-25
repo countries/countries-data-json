@@ -1,7 +1,7 @@
 {
   "AT": {
     "name": "Attapu [Attopeu]",
-    "code": null,
+    "code": "AT",
     "unofficial_names": [
       "Attapu",
       "Attopei",
@@ -63,11 +63,12 @@
       "ca": "província d’Attapeu",
       "no": "Attapeu"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BK": {
     "name": "Bokèo",
-    "code": null,
+    "code": "BK",
     "unofficial_names": "Bokèo",
     "geo": {
       "latitude": 20.2872662,
@@ -122,11 +123,12 @@
       "ccp": "𑄝𑄧𑄇𑄨𑄃𑄮",
       "no": "Bokeo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BL": {
     "name": "Bolikhamxai [Borikhane]",
-    "code": null,
+    "code": "BL",
     "unofficial_names": [
       "Bolikhamsai",
       "Bolikhamxai",
@@ -185,11 +187,12 @@
       "ccp": "𑄝𑄧𑄣𑄨𑄈𑄟𑄴𑄥𑄭",
       "no": "Bolikhamsai"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CH": {
     "name": "Champasak [Champassak]",
-    "code": null,
+    "code": "CH",
     "unofficial_names": [
       "Champasack",
       "Champassak"
@@ -248,11 +251,12 @@
       "ccp": "𑄌𑄟𑄴𑄛𑄥𑄇𑄴",
       "no": "Champasack"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HO": {
     "name": "Houaphan",
-    "code": null,
+    "code": "HO",
     "unofficial_names": [
       "Houaphan"
     ],
@@ -310,11 +314,12 @@
       "ccp": "𑄦𑄯𑄠𑄜𑄚𑄴",
       "no": "Hua Phan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "KH": {
     "name": "Khammouan",
-    "code": null,
+    "code": "KH",
     "unofficial_names": "Khammouan",
     "geo": {
       "latitude": 17.6384066,
@@ -370,11 +375,12 @@
       "uk": "Провінція Кхамуан",
       "no": "Khammuan"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LM": {
     "name": "Louang Namtha",
-    "code": null,
+    "code": "LM",
     "unofficial_names": [
       "Louang Namtha",
       "Louangnamtha",
@@ -435,11 +441,12 @@
       "uk": "Провінція Луанг-Намта",
       "no": "Luang Namtha"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LP": {
     "name": "Louangphabang [Louang Prabang]",
-    "code": null,
+    "code": "LP",
     "unofficial_names": [
       "Louang Phrabang",
       "Louang Prabang",
@@ -501,11 +508,12 @@
       "be": "Луангпхабанг",
       "no": "Luang Prabang"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "OU": {
     "name": "Oudômxai [Oudomsai]",
-    "code": null,
+    "code": "OU",
     "unofficial_names": [
       "Oudomsai",
       "Oudomsay"
@@ -565,11 +573,12 @@
       "ccp": "𑄃𑄯𑄓𑄧𑄟𑄴𑄎𑄳𑄠𑄬",
       "no": "Udomxai"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "PH": {
     "name": "Phôngsali [Phong Saly]",
-    "code": null,
+    "code": "PH",
     "unofficial_names": [
       "Phongsali"
     ],
@@ -628,11 +637,12 @@
       "ccp": "𑄛𑄧𑄁𑄥𑄣𑄨",
       "no": "Phongsali"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SL": {
     "name": "Salavan [Saravane]",
-    "code": null,
+    "code": "SL",
     "unofficial_names": [
       "Saravane"
     ],
@@ -689,11 +699,12 @@
       "ccp": "𑄥𑄣𑄴𑄞𑄧𑄣𑄴",
       "no": "Saravane"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "SV": {
     "name": "Savannakhét",
-    "code": null,
+    "code": "SV",
     "unofficial_names": "Savannakhét",
     "geo": {
       "latitude": 16.5722464,
@@ -750,11 +761,12 @@
       "be": "Саванакхет",
       "no": "Savannakhet"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "VI": {
     "name": "Vientiane",
-    "code": null,
+    "code": "VI",
     "unofficial_names": [
       "Vientiane Province"
     ],
@@ -798,11 +810,12 @@
       "ccp": "𑄞𑄨𑄠𑄬𑄚𑄴𑄑𑄨𑄠𑄬𑄚𑄴 𑄛𑄳𑄢𑄧𑄞𑄨𑄚𑄴𑄥𑄴",
       "no": "Vientiane"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "VT": {
     "name": "Vientiane Prefecture",
-    "code": null,
+    "code": "VT",
     "unofficial_names": [
       "Viangchan City",
       "Vientiane City"
@@ -844,11 +857,12 @@
       "zh": "永珍市",
       "ccp": "𑄞𑄨𑄠𑄬𑄚𑄴𑄑𑄨𑄠𑄬𑄚𑄴"
     },
-    "comments": null
+    "comments": null,
+    "type": "prefecture"
   },
   "XA": {
     "name": "Xaignabouli [Sayaboury]",
-    "code": null,
+    "code": "XA",
     "unofficial_names": [
       "Sayaboury",
       "Sayabury",
@@ -909,11 +923,12 @@
       "ml": "സൈന്യാബുലി പ്രവിശ്യ",
       "no": "Sainyabuli"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "XE": {
     "name": "Xékong [Sékong]",
-    "code": null,
+    "code": "XE",
     "unofficial_names": [
       "Xékong"
     ],
@@ -970,11 +985,12 @@
       "hy": "Սեկոնգ",
       "no": "Sekong"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "XI": {
     "name": "Xiangkhoang [Xieng Khouang]",
-    "code": null,
+    "code": "XI",
     "unofficial_names": [
       "Xiang Khouang",
       "Xiangkhouang",
@@ -1034,31 +1050,12 @@
       "ccp": "𑄎𑄨𑄠𑄁𑄇𑄯𑄁",
       "no": "Xieng Khouang"
     },
-    "comments": null
-  },
-  "XN": {
-    "name": "Xaisômboun",
-    "code": null,
-    "unofficial_names": [
-      "Xaisômboun"
-    ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Xaisomboun",
-      "ccp": "𑄎𑄭𑄥𑄧𑄟𑄴𑄝𑄯𑄚𑄴"
-    },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "XS": {
     "name": "ແຂວງໄຊສົມບູນ",
-    "code": null,
+    "code": "XS",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -1084,7 +1081,8 @@
       "fr": "Province de Xaisomboun",
       "ko": "싸이솜분 주"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

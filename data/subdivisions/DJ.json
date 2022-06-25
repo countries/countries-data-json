@@ -1,7 +1,7 @@
 {
   "AR": {
     "name": "Arta",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Arta",
     "geo": {
       "latitude": 11.5255528,
@@ -59,11 +59,12 @@
       "ca": "Regió d’Arta",
       "no": "Arta"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "AS": {
     "name": "Ali Sabieh",
-    "code": null,
+    "code": "AS",
     "unofficial_names": [
       "Ali Sabieh",
       "Ali Sabih"
@@ -123,11 +124,12 @@
       "ca": "Regió d’Ali Sabieh",
       "no": "Ali Sabieh"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DI": {
     "name": "Dikhil",
-    "code": null,
+    "code": "DI",
     "unofficial_names": [
       "Dikhil",
       "Dikkil"
@@ -188,11 +190,12 @@
       "ca": "Regió de Dikhil",
       "no": "Dikhil"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "DJ": {
     "name": "Djibouti",
-    "code": null,
+    "code": "DJ",
     "unofficial_names": [
       "Djibouti"
     ],
@@ -286,11 +289,12 @@
       "no": "Djibouti",
       "yo_BJ": "Ìlú Djibouti"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "OB": {
     "name": "Obock",
-    "code": null,
+    "code": "OB",
     "unofficial_names": [
       "Obock",
       "Obok"
@@ -351,11 +355,12 @@
       "ca": "Regió d’Obock",
       "no": "Obock"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "TA": {
     "name": "Tadjourah",
-    "code": null,
+    "code": "TA",
     "unofficial_names": [
       "Tadjoura",
       "Tadjourah",
@@ -417,7 +422,8 @@
       "ccp": "𑄒𑄖𑄴𑄇𑄯𑄢𑄦𑄴",
       "no": "Tadjourah"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

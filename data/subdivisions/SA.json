@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Ar Riyāḑ",
-    "code": null,
+    "code": "01",
     "unofficial_names": [
       "ar-Riyad",
       "ar-Riyād̨",
@@ -55,11 +55,12 @@
       "he": "מחוז ריאד",
       "no": "Ar Riyad (provins)"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "02": {
     "name": "Makkah al Mukarramah",
-    "code": null,
+    "code": "02",
     "unofficial_names": [
       "La Meca",
       "Mecca"
@@ -126,11 +127,12 @@
       "mk": "Мека",
       "no": "Mekka"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "03": {
     "name": "Al Madinah",
-    "code": null,
+    "code": "03",
     "unofficial_names": [
       "Medina",
       "Médine",
@@ -197,11 +199,12 @@
       "mk": "Медина",
       "no": "Medina"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "04": {
     "name": "Ash Sharqiyah",
-    "code": null,
+    "code": "04",
     "unofficial_names": [
       "Eastern",
       "ash-Sharqiyah"
@@ -266,11 +269,12 @@
       "ca": "Província Oriental",
       "no": "Ash Sharqiyah"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "05": {
     "name": "Al Qasim",
-    "code": null,
+    "code": "05",
     "unofficial_names": [
       "Qaseem"
     ],
@@ -334,11 +338,12 @@
       "pa": "ਅਲ-ਕਸੀਮ ਸੂਬਾ",
       "no": "Al Qasim (provins)"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "06": {
     "name": "Ḩā'il",
-    "code": null,
+    "code": "06",
     "unofficial_names": [
       "Hail"
     ],
@@ -404,11 +409,12 @@
       "mk": "Хаил",
       "no": "Ha’il"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "07": {
     "name": "Tabūk",
-    "code": null,
+    "code": "07",
     "unofficial_names": [
       "Tabook"
     ],
@@ -471,11 +477,12 @@
       "pa": "ਤਬੂਕ ਸੂਬਾ",
       "no": "Tabuk (provins)"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "08": {
     "name": "Al Ḩudūd ash Shamālīyah",
-    "code": null,
+    "code": "08",
     "unofficial_names": [
       "Northern",
       "al-Hudud ash-Shamaliyah"
@@ -527,11 +534,12 @@
       "ca": "Província de la Frontera Septentrional",
       "no": "Al Hudud ash Shamaliyah"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "09": {
     "name": "Jāzān",
-    "code": null,
+    "code": "09",
     "unofficial_names": [
       "Jizan"
     ],
@@ -582,11 +590,12 @@
       "ccp": "𑄎𑄨𑄎𑄚𑄴",
       "no": "Jizan"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "10": {
     "name": "Najrān",
-    "code": null,
+    "code": "10",
     "unofficial_names": "Najran",
     "geo": {
       "latitude": 17.491667,
@@ -645,11 +654,12 @@
       "ca": "Província de Najran",
       "no": "Najran"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "11": {
     "name": "Al Bāḩah",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Baha"
     ],
@@ -712,11 +722,12 @@
       "pa": "ਅਲਬਾਹਾ ਸੂਬਾ",
       "no": "al-Bāḥa"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "12": {
     "name": "Al Jawf",
-    "code": null,
+    "code": "12",
     "unofficial_names": [
       "Al-Jouf"
     ],
@@ -780,11 +791,12 @@
       "pa": "ਜੌਫ਼ ਸੂਬਾ",
       "no": "Al Jawf (provins)"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "14": {
     "name": "'Asīr",
-    "code": null,
+    "code": "14",
     "unofficial_names": [
       "Aseer"
     ],
@@ -849,7 +861,8 @@
       "ne": "असिर प्रान्त",
       "no": "Asir"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

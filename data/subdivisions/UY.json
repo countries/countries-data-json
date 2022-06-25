@@ -1,7 +1,7 @@
 {
   "AR": {
     "name": "Artigas",
-    "code": null,
+    "code": "AR",
     "unofficial_names": "Artigas",
     "geo": {
       "latitude": -30.4880891,
@@ -62,11 +62,12 @@
       "mk": "Артигас",
       "no": "Artigas"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CA": {
     "name": "Canelones",
-    "code": null,
+    "code": "CA",
     "unofficial_names": "Canelones",
     "geo": {
       "latitude": -34.721,
@@ -127,76 +128,12 @@
       "mk": "Канелонес (департман)",
       "no": "Canelones"
     },
-    "comments": null
-  },
-  "CO": {
-    "name": "Colonia",
-    "code": null,
-    "unofficial_names": "Colonia",
-    "geo": {
-      "latitude": -34.4607,
-      "longitude": -57.8339,
-      "min_latitude": -35.5012,
-      "min_longitude": -56.7844,
-      "max_latitude": -34.4517,
-      "max_longitude": -57.7667
-    },
-    "translations": {
-      "en": "Colonia",
-      "ar": "إدارة كولونيا",
-      "be": "дэпартамент Калонія",
-      "bg": "Колония (департамент)",
-      "bn": "কুলুনিয়া বিভাগ",
-      "ca": "Departament de Colonia",
-      "da": "Colonia (departement)",
-      "de": "Departamento Colonia",
-      "el": "Κολόνια",
-      "es": "Departamento de Colonia",
-      "eu": "Colonia departamendua",
-      "fi": "Colonia (departementti)",
-      "fr": "Colonia",
-      "gl": "Departamento de Colonia",
-      "gu": "કોલોનિયા વિભાગ",
-      "hi": "कोलोनिया विभाग",
-      "hr": "Colonia",
-      "hu": "Colonia megye",
-      "id": "Departemen Colonia",
-      "it": "dipartimento di Colonia",
-      "ja": "コロニア県",
-      "ka": "კოლონიის დეპარტამენტი",
-      "kn": "ಕಲೋನಿಯಾ ಇಲಾಖೆ",
-      "ko": "콜로니아 주",
-      "lt": "Kolonijos departamentas",
-      "mr": "कॉलोनिया विभाग",
-      "ms": "Colonia Department",
-      "nb": "Colonia (departement)",
-      "nl": "Colonia (departement)",
-      "pl": "Colonia (departament)",
-      "pt": "Colonia",
-      "ru": "Колония",
-      "si": "කොලොනියා දෙපාර්තමේන්තුව",
-      "sv": "Colonia (departement)",
-      "ta": "கோலோனியா துறை",
-      "te": "కొలోనియా డిపార్ట్మెంట్",
-      "th": "โคโลเนีย",
-      "tr": "Colonia Department",
-      "uk": "Колонія",
-      "ur": "کولونیا محکمہ",
-      "vi": "Colonia (tỉnh)",
-      "lv": "Kolonijas departaments",
-      "ceb": "Departamento de Colonia",
-      "zh": "科洛尼亚省",
-      "fa": "بخش کولونیا",
-      "ccp": "𑄇𑄳𑄠𑄣𑄮𑄚𑄨𑄠",
-      "sk": "Colonia",
-      "mk": "Колонија (департман)",
-      "no": "Colonia (departement)"
-    },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "CL": {
     "name": "Cerro Lago",
-    "code": null,
+    "code": "CL",
     "unofficial_names": "Cerro Lago",
     "geo": {
       "latitude": -32.3769,
@@ -257,11 +194,78 @@
       "mk": "Серо Ларго",
       "no": "Cerro Largo"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
+  },
+  "CO": {
+    "name": "Colonia",
+    "code": "CO",
+    "unofficial_names": "Colonia",
+    "geo": {
+      "latitude": -34.4607,
+      "longitude": -57.8339,
+      "min_latitude": -35.5012,
+      "min_longitude": -56.7844,
+      "max_latitude": -34.4517,
+      "max_longitude": -57.7667
+    },
+    "translations": {
+      "en": "Colonia",
+      "ar": "إدارة كولونيا",
+      "be": "дэпартамент Калонія",
+      "bg": "Колония (департамент)",
+      "bn": "কুলুনিয়া বিভাগ",
+      "ca": "Departament de Colonia",
+      "da": "Colonia (departement)",
+      "de": "Departamento Colonia",
+      "el": "Κολόνια",
+      "es": "Departamento de Colonia",
+      "eu": "Colonia departamendua",
+      "fi": "Colonia (departementti)",
+      "fr": "Colonia",
+      "gl": "Departamento de Colonia",
+      "gu": "કોલોનિયા વિભાગ",
+      "hi": "कोलोनिया विभाग",
+      "hr": "Colonia",
+      "hu": "Colonia megye",
+      "id": "Departemen Colonia",
+      "it": "dipartimento di Colonia",
+      "ja": "コロニア県",
+      "ka": "კოლონიის დეპარტამენტი",
+      "kn": "ಕಲೋನಿಯಾ ಇಲಾಖೆ",
+      "ko": "콜로니아 주",
+      "lt": "Kolonijos departamentas",
+      "mr": "कॉलोनिया विभाग",
+      "ms": "Colonia Department",
+      "nb": "Colonia (departement)",
+      "nl": "Colonia (departement)",
+      "pl": "Colonia (departament)",
+      "pt": "Colonia",
+      "ru": "Колония",
+      "si": "කොලොනියා දෙපාර්තමේන්තුව",
+      "sv": "Colonia (departement)",
+      "ta": "கோலோனியா துறை",
+      "te": "కొలోనియా డిపార్ట్మెంట్",
+      "th": "โคโลเนีย",
+      "tr": "Colonia Department",
+      "uk": "Колонія",
+      "ur": "کولونیا محکمہ",
+      "vi": "Colonia (tỉnh)",
+      "lv": "Kolonijas departaments",
+      "ceb": "Departamento de Colonia",
+      "zh": "科洛尼亚省",
+      "fa": "بخش کولونیا",
+      "ccp": "𑄇𑄳𑄠𑄣𑄮𑄚𑄨𑄠",
+      "sk": "Colonia",
+      "mk": "Колонија (департман)",
+      "no": "Colonia (departement)"
+    },
+    "comments": null,
+    "type": "department"
   },
   "DU": {
     "name": "Durazno",
-    "code": null,
+    "code": "DU",
     "unofficial_names": "Durazno",
     "geo": {
       "latitude": -33.3822982,
@@ -322,11 +326,12 @@
       "mk": "Дурасно",
       "no": "Durazno"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "FD": {
     "name": "Florida",
-    "code": null,
+    "code": "FD",
     "unofficial_names": [
       "FLorida"
     ],
@@ -388,11 +393,12 @@
       "mk": "Флорида",
       "no": "Florida"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "FS": {
     "name": "Flores",
-    "code": null,
+    "code": "FS",
     "unofficial_names": "Flores",
     "geo": {
       "latitude": -33.5629477,
@@ -452,11 +458,12 @@
       "mk": "Флорес",
       "no": "Flores"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "LA": {
     "name": "Lavalleja",
-    "code": null,
+    "code": "LA",
     "unofficial_names": "Lavalleja",
     "geo": {
       "latitude": -34.0040354,
@@ -516,11 +523,12 @@
       "cs": "Lavalleja",
       "no": "Lavalleja"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MA": {
     "name": "Maldonado",
-    "code": null,
+    "code": "MA",
     "unofficial_names": "Maldonado",
     "geo": {
       "latitude": -34.6277617,
@@ -580,11 +588,12 @@
       "sk": "Maldonado",
       "no": "Maldonado"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "MO": {
     "name": "Montevideo",
-    "code": null,
+    "code": "MO",
     "unofficial_names": "Montevideo",
     "geo": {
       "latitude": -34.9011127,
@@ -677,11 +686,12 @@
       "no": "Montevideo",
       "yo_BJ": "Montevideo"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "PA": {
     "name": "Paysandú",
-    "code": null,
+    "code": "PA",
     "unofficial_names": "Paysandú",
     "geo": {
       "latitude": -32.2216595,
@@ -740,11 +750,12 @@
       "sk": "Paysandú",
       "no": "Paysandú"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RN": {
     "name": "Río Negro",
-    "code": null,
+    "code": "RN",
     "unofficial_names": "Río Negro",
     "geo": {
       "latitude": -32.7625409,
@@ -804,11 +815,12 @@
       "be": "дэпартамент Рыа-Негра",
       "no": "Río Negro"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RO": {
     "name": "Rocha",
-    "code": null,
+    "code": "RO",
     "unofficial_names": "Rocha",
     "geo": {
       "latitude": -33.9674948,
@@ -867,11 +879,12 @@
       "sk": "Rocha",
       "no": "Rocha"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "RV": {
     "name": "Rivera",
-    "code": null,
+    "code": "RV",
     "unofficial_names": "Rivera",
     "geo": {
       "latitude": -30.9025,
@@ -930,11 +943,12 @@
       "sk": "Rivera",
       "no": "Rivera"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SA": {
     "name": "Salto",
-    "code": null,
+    "code": "SA",
     "unofficial_names": "Salto",
     "geo": {
       "latitude": -31.4679335,
@@ -994,11 +1008,12 @@
       "be": "дэпартамент Сальта",
       "no": "Salto"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SJ": {
     "name": "San José",
-    "code": null,
+    "code": "SJ",
     "unofficial_names": "San José",
     "geo": {
       "latitude": -34.250223,
@@ -1058,11 +1073,12 @@
       "he": "סן חוסה (מחוז באורוגוואי)",
       "no": "San José"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "SO": {
     "name": "Soriano",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Soriano",
     "geo": {
       "latitude": -33.5103372,
@@ -1121,11 +1137,12 @@
       "sk": "Soriano",
       "no": "Soriano"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TA": {
     "name": "Tacuarembó",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Tacuarembó",
     "geo": {
       "latitude": -32.0106717,
@@ -1186,11 +1203,12 @@
       "sk": "Tacuarembó",
       "no": "Tacuarembó"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   },
   "TT": {
     "name": "Treinta y Tres",
-    "code": null,
+    "code": "TT",
     "unofficial_names": "Treinta y Tres",
     "geo": {
       "latitude": -33.1476661,
@@ -1250,7 +1268,8 @@
       "sk": "Treinta y Tres",
       "no": "Treinta y Tres"
     },
-    "comments": null
+    "comments": null,
+    "type": "department"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "A": {
     "name": "Distrito Federal",
-    "code": null,
+    "code": "A",
     "unofficial_names": "Distrito Federal",
     "geo": {
       "latitude": 10.4883092,
@@ -57,11 +57,12 @@
       "be": "Сталічная акруга Венесуэлы",
       "no": "Hovedstad"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_district"
   },
   "B": {
     "name": "Anzoátegui",
-    "code": null,
+    "code": "B",
     "unofficial_names": "Anzoátegui",
     "geo": {
       "latitude": 8.5913073,
@@ -127,11 +128,12 @@
       "mk": "Анзоатеги",
       "no": "Anzoátegui"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "C": {
     "name": "Apure",
-    "code": null,
+    "code": "C",
     "unofficial_names": "Apure",
     "geo": {
       "latitude": 6.926948299999999,
@@ -197,11 +199,12 @@
       "mk": "Апуре",
       "no": "Apure"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "D": {
     "name": "Aragua",
-    "code": null,
+    "code": "D",
     "unofficial_names": "Aragua",
     "geo": {
       "latitude": 10.2313205,
@@ -266,11 +269,12 @@
       "mk": "Арагва",
       "no": "Aragua"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "E": {
     "name": "Barinas",
-    "code": null,
+    "code": "E",
     "unofficial_names": "Barinas",
     "geo": {
       "latitude": 8.6231498,
@@ -335,11 +339,12 @@
       "mk": "Баринас",
       "no": "Barinas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "F": {
     "name": "Bolívar",
-    "code": null,
+    "code": "F",
     "unofficial_names": "Bolívar",
     "geo": {
       "latitude": 28.6002894,
@@ -404,11 +409,12 @@
       "mk": "Боливар",
       "no": "Bolívar"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "G": {
     "name": "Carabobo",
-    "code": null,
+    "code": "G",
     "unofficial_names": "Carabobo",
     "geo": {
       "latitude": 10.1176433,
@@ -473,11 +479,12 @@
       "mk": "Карабобо",
       "no": "Carabobo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "H": {
     "name": "Cojedes",
-    "code": null,
+    "code": "H",
     "unofficial_names": "Cojedes",
     "geo": {
       "latitude": 9.3816682,
@@ -539,11 +546,12 @@
       "mk": "Кохедес",
       "no": "Cojedes"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "I": {
     "name": "Falcón",
-    "code": null,
+    "code": "I",
     "unofficial_names": "Falcón",
     "geo": {
       "latitude": 11.1810674,
@@ -606,11 +614,12 @@
       "mk": "Фалкон",
       "no": "Falcón"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "J": {
     "name": "Guárico",
-    "code": null,
+    "code": "J",
     "unofficial_names": "Guárico",
     "geo": {
       "latitude": 8.7489309,
@@ -672,11 +681,12 @@
       "mk": "Гварико",
       "no": "Guárico"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "K": {
     "name": "Lara",
-    "code": null,
+    "code": "K",
     "unofficial_names": "Lara",
     "geo": {
       "latitude": 10.1537842,
@@ -738,11 +748,12 @@
       "mk": "Лара",
       "no": "Lara"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "L": {
     "name": "Mérida",
-    "code": null,
+    "code": "L",
     "unofficial_names": "Mérida",
     "geo": {
       "latitude": 8.6,
@@ -804,11 +815,12 @@
       "mk": "Мерида",
       "no": "Mérida"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "M": {
     "name": "Miranda",
-    "code": null,
+    "code": "M",
     "unofficial_names": "Miranda",
     "geo": {
       "latitude": 10.4883092,
@@ -872,11 +884,12 @@
       "mk": "Миранда",
       "no": "Miranda"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "N": {
     "name": "Monagas",
-    "code": null,
+    "code": "N",
     "unofficial_names": "Monagas",
     "geo": {
       "latitude": 9.3241652,
@@ -938,11 +951,12 @@
       "mk": "Монагас",
       "no": "Monagas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "O": {
     "name": "Nueva Esparta",
-    "code": null,
+    "code": "O",
     "unofficial_names": "Nueva Esparta",
     "geo": {
       "latitude": 10.9970723,
@@ -1006,11 +1020,12 @@
       "mk": "Нуева Еспарта",
       "no": "Nueva Esparta"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "P": {
     "name": "Portuguesa",
-    "code": null,
+    "code": "P",
     "unofficial_names": "Portuguesa",
     "geo": {
       "latitude": 9.094399899999999,
@@ -1072,11 +1087,12 @@
       "mk": "Португеса",
       "no": "Portuguesa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "R": {
     "name": "Sucre",
-    "code": null,
+    "code": "R",
     "unofficial_names": "Sucre",
     "geo": {
       "latitude": 10.4883092,
@@ -1138,11 +1154,12 @@
       "mk": "Сукре",
       "no": "Sucre"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "S": {
     "name": "Táchira",
-    "code": null,
+    "code": "S",
     "unofficial_names": "Táchira",
     "geo": {
       "latitude": 7.9137001,
@@ -1206,11 +1223,12 @@
       "mk": "Тачира",
       "no": "Táchira"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "T": {
     "name": "Trujillo",
-    "code": null,
+    "code": "T",
     "unofficial_names": "Trujillo",
     "geo": {
       "latitude": 9.366667,
@@ -1273,11 +1291,12 @@
       "mk": "Трухиљо",
       "no": "Trujillo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "U": {
     "name": "Yaracuy",
-    "code": null,
+    "code": "U",
     "unofficial_names": "Yaracuy",
     "geo": {
       "latitude": 10.417644,
@@ -1340,11 +1359,12 @@
       "mk": "Јаракуј",
       "no": "Yaracuy"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "V": {
     "name": "Zulia",
-    "code": null,
+    "code": "V",
     "unofficial_names": "Zulia",
     "geo": {
       "latitude": 9.967492,
@@ -1409,11 +1429,12 @@
       "mk": "Сулија",
       "no": "Zulia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "W": {
     "name": "Dependencias Federales",
-    "code": null,
+    "code": "W",
     "unofficial_names": "Dependencias Federales",
     "geo": {
       "latitude": 10.9377053,
@@ -1472,11 +1493,12 @@
       "be": "Федэральныя ўладанні Венесуэлы",
       "no": "Føderal avhengighet av Venezuela"
     },
-    "comments": null
+    "comments": null,
+    "type": "federal_dependency"
   },
   "X": {
     "name": "Vargas",
-    "code": null,
+    "code": "X",
     "unofficial_names": "Vargas",
     "geo": {
       "latitude": 10.5890015,
@@ -1538,11 +1560,12 @@
       "mk": "Варгас",
       "no": "Vargas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "Y": {
     "name": "Delta Amacuro",
-    "code": null,
+    "code": "Y",
     "unofficial_names": "Delta Amacuro",
     "geo": {
       "latitude": 8.8315945,
@@ -1606,11 +1629,12 @@
       "mk": "Делта Амакуро",
       "no": "Delta Amacuro"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "Z": {
     "name": "Amazonas",
-    "code": null,
+    "code": "Z",
     "unofficial_names": "Amazonas",
     "geo": {
       "latitude": 2.8101413,
@@ -1680,7 +1704,8 @@
       "mk": "Амазон",
       "no": "Amazonas"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

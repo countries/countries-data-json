@@ -1,7 +1,7 @@
 {
   "05": {
     "name": "Vinnyts'ka Oblast'",
-    "code": null,
+    "code": "05",
     "unofficial_names": [
       "Vinnica",
       "Vinnitsa",
@@ -81,11 +81,12 @@
       "mk": "Виницка област",
       "no": "Vinnytsia oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "07": {
     "name": "Volyns'ka Oblast'",
-    "code": null,
+    "code": "07",
     "unofficial_names": [
       "Volyn",
       "Volynska"
@@ -161,11 +162,12 @@
       "mk": "Волинска област",
       "no": "Volyn oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "09": {
     "name": "Luhans'ka Oblast'",
-    "code": null,
+    "code": "09",
     "unofficial_names": [
       "Lugansk",
       "Luhanska",
@@ -245,11 +247,12 @@
       "mk": "Луганска област",
       "no": "Luhansk oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "12": {
     "name": "Dnipropetrovs'ka Oblast'",
-    "code": null,
+    "code": "12",
     "unofficial_names": [
       "Dnepropetrovsk",
       "Dnipropetrovsk",
@@ -327,11 +330,12 @@
       "mk": "Днепропетровска област",
       "no": "Dnipropetrovsk oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "14": {
     "name": "Donets'ka Oblast'",
-    "code": null,
+    "code": "14",
     "unofficial_names": [
       "Doneck",
       "Donetska",
@@ -408,11 +412,12 @@
       "mk": "Донечка област",
       "no": "Donetsk oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "18": {
     "name": "Zhytomyrs'ka Oblast'",
-    "code": null,
+    "code": "18",
     "unofficial_names": [
       "Zhitomir",
       "Zhytomyrska"
@@ -489,11 +494,12 @@
       "mk": "Житомирска област",
       "no": "Zjytomyr oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "21": {
     "name": "Zakarpats'ka Oblast'",
-    "code": null,
+    "code": "21",
     "unofficial_names": [
       "Transcarpathia",
       "Zakarpatska",
@@ -570,11 +576,12 @@
       "mk": "Закарпатска област",
       "no": "Zakarpattja oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "23": {
     "name": "Zaporiz'ka Oblast'",
-    "code": null,
+    "code": "23",
     "unofficial_names": [
       "Zaporizhzhya",
       "Zaporizka",
@@ -653,11 +660,12 @@
       "mk": "Запорошка област",
       "no": "Zaporizjzja oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "26": {
     "name": "Ivano-Frankivs'ka Oblast'",
-    "code": null,
+    "code": "26",
     "unofficial_names": [
       "Ivano-Frankivsk",
       "Ivano-Frankivska",
@@ -732,11 +740,12 @@
       "mk": "Ивано-Франковска област",
       "no": "Ivano-Frankivsk oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "30": {
     "name": "Kyïv",
-    "code": null,
+    "code": "30",
     "unofficial_names": [
       "Kyiv",
       "Kyyiv",
@@ -751,7 +760,7 @@
       "max_longitude": 30.825941
     },
     "translations": {
-      "en": "Kiev",
+      "en": "Kyiv",
       "af": "Kiëf",
       "am": "ኪየቭ",
       "ar": "كييف",
@@ -833,11 +842,12 @@
       "no": "Kiev",
       "yo_BJ": "Kiev"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "32": {
     "name": "Kyïvs'ka Oblast'",
-    "code": null,
+    "code": "32",
     "unofficial_names": [
       "Kyyivsʿka Oblast",
       "Kyyivsʿka Oblastʿ"
@@ -912,11 +922,12 @@
       "mk": "Киевска област",
       "no": "Kiev oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "35": {
     "name": "Kirovohrads'ka Oblast'",
-    "code": null,
+    "code": "35",
     "unofficial_names": [
       "Kirovograd",
       "Kirovohrad",
@@ -992,11 +1003,12 @@
       "mk": "Кировоградска област",
       "no": "Kirovohrad oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "40": {
     "name": "Sevastopol'",
-    "code": null,
+    "code": "40",
     "unofficial_names": [
       "Sebastopol",
       "Sevastopol"
@@ -1082,11 +1094,12 @@
       "mk": "Севастопол",
       "no": "Sevastopol"
     },
-    "comments": null
+    "comments": null,
+    "type": "city"
   },
   "43": {
     "name": "Respublika Krym",
-    "code": null,
+    "code": "43",
     "unofficial_names": [
       "Crimea",
       "Krim"
@@ -1168,11 +1181,12 @@
       "tk": "Awtonom Respublikasy Krym",
       "no": "Den autonome republikken Krim"
     },
-    "comments": null
+    "comments": null,
+    "type": "republic"
   },
   "46": {
     "name": "L'vivs'ka Oblast'",
-    "code": null,
+    "code": "46",
     "unofficial_names": [
       "Lvivska",
       "Lvov",
@@ -1248,11 +1262,12 @@
       "mk": "Лавовска област",
       "no": "Lviv oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "48": {
     "name": "Mykolaïvs'ka Oblast'",
-    "code": null,
+    "code": "48",
     "unofficial_names": [
       "Mykolayivsk",
       "Mykolayivska",
@@ -1330,11 +1345,12 @@
       "mk": "Николаевска област",
       "no": "Mykolajiv oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "51": {
     "name": "Odes'ka Oblast'",
-    "code": null,
+    "code": "51",
     "unofficial_names": [
       "Odesa",
       "Odeska",
@@ -1412,11 +1428,12 @@
       "mk": "Одеска област",
       "no": "Odessa oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "53": {
     "name": "Poltavs'ka Oblast'",
-    "code": null,
+    "code": "53",
     "unofficial_names": [
       "Poltava",
       "Poltavska"
@@ -1493,11 +1510,12 @@
       "mk": "Полтавска област",
       "no": "Poltava oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "56": {
     "name": "Rivnens'ka Oblast'",
-    "code": null,
+    "code": "56",
     "unofficial_names": [
       "Rivne",
       "Rivnenska",
@@ -1574,11 +1592,12 @@
       "mk": "Ровненска област",
       "no": "Rivne oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "59": {
     "name": "Sums'ka Oblast'",
-    "code": null,
+    "code": "59",
     "unofficial_names": [
       "Sumska",
       "Sumy"
@@ -1655,11 +1674,12 @@
       "mk": "Сумска област",
       "no": "Sumy oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "61": {
     "name": "Ternopil's'ka Oblast'",
-    "code": null,
+    "code": "61",
     "unofficial_names": [
       "Ternopil",
       "Ternopilska",
@@ -1736,11 +1756,12 @@
       "mk": "Тернополска област",
       "no": "Ternopil oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "63": {
     "name": "Kharkivs'ka Oblast'",
-    "code": null,
+    "code": "63",
     "unofficial_names": [
       "Harkov",
       "Kharkiv",
@@ -1817,11 +1838,12 @@
       "mk": "Харковска област",
       "no": "Kharkiv oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "65": {
     "name": "Khersons'ka Oblast'",
-    "code": null,
+    "code": "65",
     "unofficial_names": [
       "Herson",
       "Kherson",
@@ -1899,11 +1921,12 @@
       "mk": "Херсонска област",
       "no": "Kherson oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "68": {
     "name": "Khmel'nyts'ka Oblast'",
-    "code": null,
+    "code": "68",
     "unofficial_names": [
       "Hmelnickij",
       "Khmelnitsky",
@@ -1981,11 +2004,12 @@
       "mk": "Хмелницка област",
       "no": "Khmelnytskyj oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "71": {
     "name": "Cherkas'ka Oblast'",
-    "code": null,
+    "code": "71",
     "unofficial_names": [
       "Cherkask",
       "Cherkassy"
@@ -2064,11 +2088,12 @@
       "mk": "Черкаска област",
       "no": "Tsjerkasy oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "74": {
     "name": "Chernihivs'ka Oblast'",
-    "code": null,
+    "code": "74",
     "unofficial_names": [
       "Chernigov",
       "Chernihiv",
@@ -2144,11 +2169,12 @@
       "mk": "Черниговска област",
       "no": "Tsjernihiv oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   },
   "77": {
     "name": "Chernivets'ka Oblast'",
-    "code": null,
+    "code": "77",
     "unofficial_names": [
       "Cernăuţi",
       "Chernivtsi",
@@ -2229,7 +2255,8 @@
       "mk": "Черновечка област",
       "no": "Tsjernivtsi oblast"
     },
-    "comments": null
+    "comments": null,
+    "type": "region"
   }
 }
 

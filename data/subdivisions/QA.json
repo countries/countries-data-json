@@ -1,7 +1,7 @@
 {
   "DA": {
     "name": "Ad Dawhah",
-    "code": null,
+    "code": "DA",
     "unofficial_names": [
       "Dawhah",
       "Doha",
@@ -106,66 +106,12 @@
       "no": "Doha",
       "yo_BJ": "Doha"
     },
-    "comments": null
-  },
-  "GH": {
-    "name": "Al Ghuwayriyah",
-    "code": null,
-    "unofficial_names": [
-      "al-Ghuwayriyah"
-    ],
-    "geo": {
-      "latitude": 25.8447931,
-      "longitude": 51.2453739,
-      "min_latitude": 25.8219899,
-      "min_longitude": 51.2385179,
-      "max_latitude": 25.851963,
-      "max_longitude": 51.2548255
-    },
-    "translations": {
-      "en": "Al Ghuwayriyah"
-    },
-    "comments": null
-  },
-  "JB": {
-    "name": "Jariyan al Batnah",
-    "code": null,
-    "unofficial_names": "Jariyan al Batnah",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "translations": {
-      "en": "Jariyan al Batnah"
-    },
-    "comments": null
-  },
-  "JU": {
-    "name": "Al Jumayliyah",
-    "code": null,
-    "unofficial_names": [
-      "al-Jumayliyah"
-    ],
-    "geo": {
-      "latitude": 25.6218514,
-      "longitude": 51.0835811,
-      "min_latitude": 25.6071655,
-      "min_longitude": 51.0743236,
-      "max_latitude": 25.6417585,
-      "max_longitude": 51.1042785
-    },
-    "translations": {
-      "en": "Al Jumayliyah"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "KH": {
     "name": "Al Khawr",
-    "code": null,
+    "code": "KH",
     "unofficial_names": [
       "H̱ūr",
       "al-Khawr",
@@ -222,11 +168,12 @@
       "mk": "Хор",
       "no": "Al Khor"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "MS": {
     "name": "Madinat ash Shamal",
-    "code": null,
+    "code": "MS",
     "unofficial_names": [
       "ash-Shamal"
     ],
@@ -279,11 +226,12 @@
       "mk": "Шамал",
       "no": "Ash Shamal"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "RA": {
     "name": "Ar Rayyan",
-    "code": null,
+    "code": "RA",
     "unofficial_names": [
       "Rayyan",
       "ar-Rayyan"
@@ -343,11 +291,27 @@
       "mk": "Рајан",
       "no": "Al Rayyan kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
+  },
+  "SH": {
+    "name": "الشحانية",
+    "code": "SH",
+    "unofficial_names": null,
+    "geo": null,
+    "translations": {
+      "ar": "الشحانية",
+      "fa": "شحانیه",
+      "ja": "シャハーニーヤ",
+      "en": "Ash Shīḩānīyah",
+      "gl": "Al Shahaniya"
+    },
+    "comments": null,
+    "type": "municipality"
   },
   "US": {
     "name": "Umm Salal",
-    "code": null,
+    "code": "US",
     "unofficial_names": [
       "Umm Shalal"
     ],
@@ -400,11 +364,12 @@
       "mk": "Ум Салал",
       "no": "Umm Salal Kommune"
     },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "WA": {
     "name": "Al Wakrah",
-    "code": null,
+    "code": "WA",
     "unofficial_names": [
       "Wakra",
       "Wakrah"
@@ -462,30 +427,12 @@
       "mk": "Вакра",
       "no": "Al Wakrah"
     },
-    "comments": null
-  },
-  "X1~": {
-    "name": "Umm Sa'id",
-    "code": null,
-    "unofficial_names": [
-      "Mesaieed"
-    ],
-    "geo": {
-      "latitude": 24.9909255,
-      "longitude": 51.5493483,
-      "min_latitude": 24.886986,
-      "min_longitude": 51.5258231,
-      "max_latitude": 25.0202494,
-      "max_longitude": 51.6018392
-    },
-    "translations": {
-      "en": "Umm Sa'id"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   },
   "ZA": {
     "name": "بلدية الضعاين",
-    "code": null,
+    "code": "ZA",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -535,21 +482,8 @@
       "mk": "Дајен",
       "no": "Al Daayen"
     },
-    "comments": null
-  },
-  "SH": {
-    "name": "الشحانية",
-    "code": null,
-    "unofficial_names": null,
-    "geo": null,
-    "translations": {
-      "ar": "الشحانية",
-      "fa": "شحانیه",
-      "ja": "シャハーニーヤ",
-      "en": "Ash Shīḩānīyah",
-      "gl": "Al Shahaniya"
-    },
-    "comments": null
+    "comments": null,
+    "type": "municipality"
   }
 }
 

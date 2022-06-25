@@ -1,7 +1,7 @@
 {
   "AL": {
     "name": "Alo",
-    "code": null,
+    "code": "AL",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -69,11 +69,12 @@
       "uk": "Ало",
       "no": "Alo"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_precinct"
   },
   "SG": {
     "name": "Sigave",
-    "code": null,
+    "code": "SG",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -138,11 +139,12 @@
       "uk": "Сігаве",
       "no": "Sigave"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_precinct"
   },
   "UV": {
     "name": "Uvea",
-    "code": null,
+    "code": "UV",
     "unofficial_names": null,
     "geo": {
       "latitude": null,
@@ -206,7 +208,8 @@
       "cs": "Uvea",
       "no": "Uvea"
     },
-    "comments": null
+    "comments": null,
+    "type": "administrative_precinct"
   }
 }
 

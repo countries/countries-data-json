@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Berat",
-    "code": null,
+    "code": "01",
     "unofficial_names": null,
     "geo": {
       "latitude": 40.7086377,
@@ -71,11 +71,12 @@
       "mk": "Белград",
       "no": "Berat"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "02": {
     "name": "Durrës",
-    "code": null,
+    "code": "02",
     "unofficial_names": null,
     "geo": {
       "latitude": 41.316667,
@@ -144,11 +145,12 @@
       "mk": "Драч",
       "no": "Durrës"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "03": {
     "name": "Elbasan",
-    "code": null,
+    "code": "03",
     "unofficial_names": null,
     "geo": {
       "latitude": 41.11023,
@@ -204,11 +206,12 @@
       "mk": "Елбасан",
       "no": "Elbasan"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "04": {
     "name": "Fier",
-    "code": null,
+    "code": "04",
     "unofficial_names": null,
     "geo": {
       "latitude": 40.9191392,
@@ -263,11 +266,12 @@
       "mk": "Фиер",
       "no": "Fier"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "05": {
     "name": "Gjirokastër",
-    "code": null,
+    "code": "05",
     "unofficial_names": null,
     "geo": {
       "latitude": 40.0672874,
@@ -337,11 +341,12 @@
       "mk": "Ѓирокастро",
       "no": "Gjirokastër"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "06": {
     "name": "Korçë",
-    "code": null,
+    "code": "06",
     "unofficial_names": null,
     "geo": {
       "latitude": 40.6140785,
@@ -409,11 +414,12 @@
       "mk": "Горица",
       "no": "Korçë"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "07": {
     "name": "Kukës",
-    "code": null,
+    "code": "07",
     "unofficial_names": null,
     "geo": {
       "latitude": 42.076667,
@@ -468,11 +474,12 @@
       "mk": "Кукуш",
       "no": "Kukës"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "08": {
     "name": "Lezhë",
-    "code": null,
+    "code": "08",
     "unofficial_names": null,
     "geo": {
       "latitude": 41.78607299999999,
@@ -528,11 +535,12 @@
       "mk": "Леска",
       "no": "Lezhë"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "09": {
     "name": "Dibër",
-    "code": null,
+    "code": "09",
     "unofficial_names": null,
     "geo": {
       "latitude": 41.5888163,
@@ -589,11 +597,12 @@
       "mk": "Дебар",
       "no": "Dibër"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "10": {
     "name": "Shkodër",
-    "code": null,
+    "code": "10",
     "unofficial_names": null,
     "geo": {
       "latitude": 42.0692985,
@@ -652,11 +661,12 @@
       "mk": "Скадар",
       "no": "Shkodër"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "11": {
     "name": "Tiranë",
-    "code": null,
+    "code": "11",
     "unofficial_names": [
       "Tiranë",
       "Tirana",
@@ -719,11 +729,12 @@
       "mk": "Тирана",
       "no": "Tiranë"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   },
   "12": {
     "name": "Vlorë",
-    "code": null,
+    "code": "12",
     "unofficial_names": null,
     "geo": {
       "latitude": 40.465,
@@ -791,7 +802,8 @@
       "mk": "Валона",
       "no": "Vlorë"
     },
-    "comments": null
+    "comments": null,
+    "type": "county"
   }
 }
 

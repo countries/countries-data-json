@@ -1,7 +1,7 @@
 {
   "BGO": {
     "name": "Bengo",
-    "code": null,
+    "code": "BGO",
     "unofficial_names": "Bengo",
     "geo": {
       "latitude": -9.104225699999999,
@@ -69,11 +69,12 @@
       "yue": "本哥省",
       "no": "Bengo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BGU": {
     "name": "Benguela",
-    "code": null,
+    "code": "BGU",
     "unofficial_names": "Benguela",
     "geo": {
       "latitude": -12.5905158,
@@ -139,11 +140,12 @@
       "yue": "班圭拉省",
       "no": "Benguela"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "BIE": {
     "name": "Bié",
-    "code": null,
+    "code": "BIE",
     "unofficial_names": "Bié",
     "geo": {
       "latitude": -12.5727907,
@@ -208,11 +210,12 @@
       "yue": "比耶省",
       "no": "Bié"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CAB": {
     "name": "Cabinda",
-    "code": null,
+    "code": "CAB",
     "unofficial_names": [
       "Kabinda"
     ],
@@ -286,11 +289,12 @@
       "yue": "喀丙達省",
       "no": "Cabinda"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CCU": {
     "name": "Cuando-Cubango",
-    "code": null,
+    "code": "CCU",
     "unofficial_names": [
       "Cuando-Cubango"
     ],
@@ -357,11 +361,12 @@
       "yue": "庫安多古班哥省",
       "no": "Cuando Cubango"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CNN": {
     "name": "Cunene",
-    "code": null,
+    "code": "CNN",
     "unofficial_names": "Cunene",
     "geo": {
       "latitude": -16.2802221,
@@ -424,11 +429,12 @@
       "yue": "庫內納省",
       "no": "Cunene"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CNO": {
     "name": "Cuanza Norte",
-    "code": null,
+    "code": "CNO",
     "unofficial_names": [
       "Cuanza-Norte"
     ],
@@ -493,11 +499,12 @@
       "yue": "北廣薩省",
       "no": "Cuanza Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "CUS": {
     "name": "Cuanza Sul",
-    "code": null,
+    "code": "CUS",
     "unofficial_names": [
       "Cuanza-Sul"
     ],
@@ -562,11 +569,12 @@
       "yue": "南廣薩省",
       "no": "Cuanza Sul"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HUA": {
     "name": "Huambo",
-    "code": null,
+    "code": "HUA",
     "unofficial_names": "Huambo",
     "geo": {
       "latitude": -12.766667,
@@ -631,11 +639,12 @@
       "yue": "萬博省",
       "no": "Huambo"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "HUI": {
     "name": "Huíla",
-    "code": null,
+    "code": "HUI",
     "unofficial_names": "Huíla",
     "geo": {
       "latitude": -14.9280553,
@@ -698,11 +707,12 @@
       "yue": "威拉省",
       "no": "Huíla"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LNO": {
     "name": "Lunda Norte",
-    "code": null,
+    "code": "LNO",
     "unofficial_names": "Lunda Norte",
     "geo": {
       "latitude": -8.352502200000002,
@@ -765,11 +775,12 @@
       "yue": "北倫達省",
       "no": "Lunda Norte"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LSU": {
     "name": "Lunda Sul",
-    "code": null,
+    "code": "LSU",
     "unofficial_names": "Lunda Sul",
     "geo": {
       "latitude": -10.2866578,
@@ -832,11 +843,12 @@
       "yue": "南倫達省",
       "no": "Lunda Sul"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "LUA": {
     "name": "Luanda",
-    "code": null,
+    "code": "LUA",
     "unofficial_names": "Luanda",
     "geo": {
       "latitude": -8.838333,
@@ -901,11 +913,12 @@
       "yue": "羅安達省",
       "no": "Luanda"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MAL": {
     "name": "Malange",
-    "code": null,
+    "code": "MAL",
     "unofficial_names": [
       "Malange"
     ],
@@ -970,11 +983,12 @@
       "yue": "馬蘭哲省",
       "no": "Malanje"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "MOX": {
     "name": "Moxico",
-    "code": null,
+    "code": "MOX",
     "unofficial_names": "Moxico",
     "geo": {
       "latitude": -13.4293579,
@@ -1040,11 +1054,12 @@
       "yue": "莫西古省",
       "no": "Moxico"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "NAM": {
     "name": "Namibe",
-    "code": null,
+    "code": "NAM",
     "unofficial_names": "Namibe",
     "geo": {
       "latitude": -15.195278,
@@ -1109,11 +1124,12 @@
       "yue": "納米貝省",
       "no": "Namibe"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "UIG": {
     "name": "Uíge",
-    "code": null,
+    "code": "UIG",
     "unofficial_names": "Uíge",
     "geo": {
       "latitude": -7.616667,
@@ -1176,11 +1192,12 @@
       "yue": "威熱省",
       "no": "Uíge"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   },
   "ZAI": {
     "name": "Zaire",
-    "code": null,
+    "code": "ZAI",
     "unofficial_names": "Zaire",
     "geo": {
       "latitude": -6.573345799999999,
@@ -1242,7 +1259,8 @@
       "yue": "薩伊省",
       "no": "Zaire"
     },
-    "comments": null
+    "comments": null,
+    "type": "province"
   }
 }
 

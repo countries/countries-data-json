@@ -1,7 +1,7 @@
 {
   "AB": {
     "name": "Abia",
-    "code": null,
+    "code": "AB",
     "unofficial_names": "Abia",
     "geo": {
       "latitude": 5.430892099999999,
@@ -67,11 +67,12 @@
       "ha_NE": "Abiya",
       "no": "Abia"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AD": {
     "name": "Adamawa",
-    "code": null,
+    "code": "AD",
     "unofficial_names": [
       "Adamaoua",
       "Gongola"
@@ -139,11 +140,12 @@
       "ha_NE": "Adamawa",
       "no": "Adamawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AK": {
     "name": "Akwa Ibom",
-    "code": null,
+    "code": "AK",
     "unofficial_names": "Akwa Ibom",
     "geo": {
       "latitude": 4.929986899999999,
@@ -208,11 +210,12 @@
       "ha_NE": "Akwa Ibom",
       "no": "Akwa Ibom"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "AN": {
     "name": "Anambra",
-    "code": null,
+    "code": "AN",
     "unofficial_names": "Anambra",
     "geo": {
       "latitude": 6.2757656,
@@ -279,11 +282,12 @@
       "ha_NE": "Anambra",
       "no": "Anambra"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BA": {
     "name": "Bauchi",
-    "code": null,
+    "code": "BA",
     "unofficial_names": "Bauchi",
     "geo": {
       "latitude": 10.315833,
@@ -349,11 +353,12 @@
       "ha_NE": "Bauchi",
       "no": "Bauchi"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BE": {
     "name": "Benue",
-    "code": null,
+    "code": "BE",
     "unofficial_names": "Benue",
     "geo": {
       "latitude": 7.350825899999999,
@@ -418,11 +423,12 @@
       "ha_NE": "Benue",
       "no": "Benue"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BO": {
     "name": "Borno",
-    "code": null,
+    "code": "BO",
     "unofficial_names": "Borno",
     "geo": {
       "latitude": 11.5097479,
@@ -491,11 +497,12 @@
       "ha_NE": "jihar Borno",
       "no": "Borno"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "BY": {
     "name": "Bayelsa",
-    "code": null,
+    "code": "BY",
     "unofficial_names": "Bayelsa",
     "geo": {
       "latitude": 4.867776699999999,
@@ -560,11 +567,12 @@
       "ha_NE": "Bayelsa",
       "no": "Bayelsa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "CR": {
     "name": "Cross River",
-    "code": null,
+    "code": "CR",
     "unofficial_names": "Cross River",
     "geo": {
       "latitude": 6.167031499999999,
@@ -629,11 +637,12 @@
       "ha_NE": "Cross River",
       "no": "Cross River"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "DE": {
     "name": "Delta",
-    "code": null,
+    "code": "DE",
     "unofficial_names": "Delta",
     "geo": {
       "latitude": 5.5324624,
@@ -701,11 +710,12 @@
       "ha_NE": "Delta",
       "no": "Delta"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EB": {
     "name": "Ebonyi",
-    "code": null,
+    "code": "EB",
     "unofficial_names": "Ebonyi",
     "geo": {
       "latitude": 6.177973,
@@ -768,11 +778,12 @@
       "ha_NE": "Ebonyi",
       "no": "Ebonyi"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ED": {
     "name": "Edo",
-    "code": null,
+    "code": "ED",
     "unofficial_names": [
       "Bendel"
     ],
@@ -841,11 +852,12 @@
       "ha_NE": "Edo",
       "no": "Edo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EK": {
     "name": "Ekiti",
-    "code": null,
+    "code": "EK",
     "unofficial_names": "Ekiti",
     "geo": {
       "latitude": 7.665581299999999,
@@ -910,11 +922,12 @@
       "ha_NE": "Ekiti",
       "no": "Ekiti"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "EN": {
     "name": "Enugu",
-    "code": null,
+    "code": "EN",
     "unofficial_names": "Enugu",
     "geo": {
       "latitude": 6.452667,
@@ -980,11 +993,12 @@
       "ha_NE": "Enugu",
       "no": "Enugu"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "FC": {
     "name": "Abuja Capital Territory",
-    "code": null,
+    "code": "FC",
     "unofficial_names": "Abuja Capital Territory",
     "geo": {
       "latitude": 8.8556838,
@@ -1044,11 +1058,12 @@
       "yo": "Agbègbè Olú-ìlú Ìjọba Àpapọ̀ Nàíjíríà",
       "no": "Federal Capital Territory"
     },
-    "comments": null
+    "comments": null,
+    "type": "capital_territory"
   },
   "GO": {
     "name": "Gombe",
-    "code": null,
+    "code": "GO",
     "unofficial_names": "Gombe",
     "geo": {
       "latitude": 10.283333,
@@ -1114,11 +1129,12 @@
       "ha_NE": "Gombe",
       "no": "Gombe"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "IM": {
     "name": "Imo",
-    "code": null,
+    "code": "IM",
     "unofficial_names": "Imo",
     "geo": {
       "latitude": 5.5214533,
@@ -1185,11 +1201,12 @@
       "ha_NE": "Imo",
       "no": "Imo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "JI": {
     "name": "Jigawa",
-    "code": null,
+    "code": "JI",
     "unofficial_names": "Jigawa",
     "geo": {
       "latitude": 12.5700315,
@@ -1254,11 +1271,12 @@
       "ha_NE": "Jigawa",
       "no": "Jigawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KD": {
     "name": "Kaduna",
-    "code": null,
+    "code": "KD",
     "unofficial_names": "Kaduna",
     "geo": {
       "latitude": 10.516667,
@@ -1323,11 +1341,12 @@
       "ha_NE": "Kaduna",
       "no": "Kaduna (delstat)"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KE": {
     "name": "Kebbi",
-    "code": null,
+    "code": "KE",
     "unofficial_names": "Kebbi",
     "geo": {
       "latitude": 11.6781241,
@@ -1392,11 +1411,12 @@
       "ha_NE": "Kebbi",
       "no": "Kebbi"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KN": {
     "name": "Kano",
-    "code": null,
+    "code": "KN",
     "unofficial_names": "Kano",
     "geo": {
       "latitude": 12.0021794,
@@ -1462,11 +1482,12 @@
       "ha_NE": "jihar Kano",
       "no": "Kano"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KO": {
     "name": "Kogi",
-    "code": null,
+    "code": "KO",
     "unofficial_names": "Kogi",
     "geo": {
       "latitude": 7.561891,
@@ -1531,11 +1552,12 @@
       "ha_NE": "Kogi",
       "no": "Kogi"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KT": {
     "name": "Katsina",
-    "code": null,
+    "code": "KT",
     "unofficial_names": "Katsina",
     "geo": {
       "latitude": 12.983333,
@@ -1601,11 +1623,12 @@
       "ha_NE": "Jihar Katsina",
       "no": "Katsina"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "KW": {
     "name": "Kwara",
-    "code": null,
+    "code": "KW",
     "unofficial_names": "Kwara",
     "geo": {
       "latitude": 8.9847995,
@@ -1671,11 +1694,12 @@
       "ha_NE": "Kwara",
       "no": "Kwara"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "LA": {
     "name": "Lagos",
-    "code": null,
+    "code": "LA",
     "unofficial_names": "Lagos",
     "geo": {
       "latitude": 6.5243793,
@@ -1731,11 +1755,12 @@
       "no": "Lagos",
       "yo_BJ": "Èkó"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NA": {
     "name": "Nassarawa",
-    "code": null,
+    "code": "NA",
     "unofficial_names": [
       "Nasarawa"
     ],
@@ -1803,11 +1828,12 @@
       "ha_NE": "Nasarawa",
       "no": "Nasarawa"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "NI": {
     "name": "Niger",
-    "code": null,
+    "code": "NI",
     "unofficial_names": "Niger",
     "geo": {
       "latitude": 9.081999,
@@ -1872,11 +1898,12 @@
       "ha_NE": "Neja",
       "no": "Niger"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OG": {
     "name": "Ogun",
-    "code": null,
+    "code": "OG",
     "unofficial_names": "Ogun",
     "geo": {
       "latitude": 6.9098333,
@@ -1943,11 +1970,12 @@
       "ha_NE": "Ogun",
       "no": "Ogun"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ON": {
     "name": "Ondo",
-    "code": null,
+    "code": "ON",
     "unofficial_names": "Ondo",
     "geo": {
       "latitude": 7.083333,
@@ -2013,11 +2041,12 @@
       "ha_NE": "Ondo",
       "no": "Ondo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OS": {
     "name": "Osun",
-    "code": null,
+    "code": "OS",
     "unofficial_names": "Osun",
     "geo": {
       "latitude": 7.5875843,
@@ -2081,11 +2110,12 @@
       "ha_NE": "Osun",
       "no": "Osun"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "OY": {
     "name": "Oyo",
-    "code": null,
+    "code": "OY",
     "unofficial_names": "Oyo",
     "geo": {
       "latitude": 7.85,
@@ -2137,11 +2167,12 @@
       "ha_NE": "Oyo",
       "no": "Oyo"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "PL": {
     "name": "Plateau",
-    "code": null,
+    "code": "PL",
     "unofficial_names": "Plateau",
     "geo": {
       "latitude": 9.2350817,
@@ -2207,11 +2238,12 @@
       "ha_NE": "Plateau",
       "no": "Plateau"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "RI": {
     "name": "Rivers",
-    "code": null,
+    "code": "RI",
     "unofficial_names": "Rivers",
     "geo": {
       "latitude": 4.8580767,
@@ -2279,11 +2311,12 @@
       "ha_NE": "Rivers",
       "no": "Rivers"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "SO": {
     "name": "Sokoto",
-    "code": null,
+    "code": "SO",
     "unofficial_names": "Sokoto",
     "geo": {
       "latitude": 13.066667,
@@ -2349,11 +2382,12 @@
       "ha_NE": "jihar Sokoto",
       "no": "Sokoto"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "TA": {
     "name": "Taraba",
-    "code": null,
+    "code": "TA",
     "unofficial_names": "Taraba",
     "geo": {
       "latitude": 7.9868755,
@@ -2419,11 +2453,12 @@
       "ha_NE": "Taraba",
       "no": "Taraba"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "YO": {
     "name": "Yobe",
-    "code": null,
+    "code": "YO",
     "unofficial_names": "Yobe",
     "geo": {
       "latitude": 12.1871412,
@@ -2489,11 +2524,12 @@
       "ha_NE": "Yobe",
       "no": "Yobe"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   },
   "ZA": {
     "name": "Zamfara",
-    "code": null,
+    "code": "ZA",
     "unofficial_names": "Zamfara",
     "geo": {
       "latitude": 12.1844159,
@@ -2558,7 +2594,8 @@
       "ha_NE": "Zamfara",
       "no": "Zamfara"
     },
-    "comments": null
+    "comments": null,
+    "type": "state"
   }
 }
 

@@ -1,7 +1,7 @@
 {
   "01": {
     "name": "Lefkosia",
-    "code": null,
+    "code": "01",
     "unofficial_names": "Lefkosia",
     "geo": {
       "latitude": 35.166667,
@@ -53,11 +53,12 @@
       "he": "מחוז ניקוסיה",
       "no": "Nikosia"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "02": {
     "name": "Lemesos",
-    "code": null,
+    "code": "02",
     "unofficial_names": "Lemesos",
     "geo": {
       "latitude": 34.7071301,
@@ -118,11 +119,12 @@
       "hu": "Limassol kerület",
       "no": "Limassol"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "03": {
     "name": "Larnaka",
-    "code": null,
+    "code": "03",
     "unofficial_names": "Larnaka",
     "geo": {
       "latitude": 34.8507206,
@@ -183,11 +185,12 @@
       "hu": "Lárnaka kerület",
       "no": "Larnaka"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "04": {
     "name": "Ammochostos",
-    "code": null,
+    "code": "04",
     "unofficial_names": "Ammochostos",
     "geo": {
       "latitude": 35.1149116,
@@ -237,11 +240,12 @@
       "hu": "Famagusta kerület",
       "no": "Famagusta"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "05": {
     "name": "Pafos",
-    "code": null,
+    "code": "05",
     "unofficial_names": "Pafos",
     "geo": {
       "latitude": 34.7720133,
@@ -290,11 +294,12 @@
       "hu": "Paphos kerület",
       "no": "Pafos"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   },
   "06": {
     "name": "Keryneia",
-    "code": null,
+    "code": "06",
     "unofficial_names": "Keryneia",
     "geo": {
       "latitude": 35.0586943,
@@ -355,7 +360,8 @@
       "hu": "Kyrenia kerület",
       "no": "Kyrenia"
     },
-    "comments": null
+    "comments": null,
+    "type": "district"
   }
 }
 
