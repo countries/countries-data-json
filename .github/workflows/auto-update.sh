@@ -47,7 +47,7 @@ function exit_if_no_changes {
 }
 
 function fetch_remote_repository {
-    git clone --depth 1 https://github.com/hexorx/countries.git --single-branch hexorx_countries
+    git clone --depth 1 https://github.com/countries/countries.git --single-branch hexorx_countries
 }
 
 function copy_data {
