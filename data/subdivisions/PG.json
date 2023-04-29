@@ -60,7 +60,9 @@
       "ceb": "Chimbu Province",
       "lt": "Čimbu provincija",
       "ccp": "𑄌𑄨𑄟𑄴𑄝𑄪",
-      "no": "Simbu provins"
+      "no": "Simbu provins",
+      "ca": "Chimbu",
+      "cy": "Talaith Chimbu"
     },
     "comments": null,
     "type": "province"
@@ -188,7 +190,8 @@
       "zh": "東新不列顛省",
       "ccp": "𑄛𑄪𑄇𑄴 𑄚𑄱 𑄝𑄳𑄢𑄨𑄑𑄬𑄚𑄴",
       "mk": "Источна Нова Британија",
-      "no": "Øst Ny Britland"
+      "no": "Øst Ny Britland",
+      "ca": "East New Britain"
     },
     "comments": null,
     "type": "province"
@@ -251,7 +254,8 @@
       "lt": "Rytų Kanų provincija",
       "zh": "東高地省",
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
-      "no": "Øst høylands provins"
+      "no": "Øst høylands provins",
+      "ca": "Eastern Highlands"
     },
     "comments": null,
     "type": "province"
@@ -312,7 +316,10 @@
       "lt": "Engos provincija",
       "zh": "恩加省",
       "ccp": "𑄃𑄬𑄚𑄴𑄉",
-      "no": "Enga provins"
+      "no": "Enga provins",
+      "bs": "Enga",
+      "ca": "Enga",
+      "cy": "Talaith Enga"
     },
     "comments": null,
     "type": "province"
@@ -375,7 +382,9 @@
       "lt": "Rytų Sepiko provincija",
       "zh": "东塞皮克省",
       "ccp": "𑄛𑄪𑄇𑄴 𑄥𑄬𑄛𑄭𑄇𑄴",
-      "no": "East Sepik"
+      "no": "East Sepik",
+      "ca": "East Sepik",
+      "cy": "Talaith Dwyrain Sepik"
     },
     "comments": null,
     "type": "province"
@@ -476,7 +485,8 @@
       "ccp": "𑄦𑄬𑄣",
       "fi": "Hela (maakunta)",
       "pt": "Hela",
-      "et": "Hela provints"
+      "et": "Hela provints",
+      "bs": "Hela"
     },
     "comments": null,
     "type": "province"
@@ -514,7 +524,9 @@
       "ccp": "𑄎𑄨𑄤𑄇",
       "fi": "Jiwaka",
       "pt": "Jiwaka",
-      "et": "Jiwaka provints"
+      "et": "Jiwaka provints",
+      "bs": "Jiwaka",
+      "cy": "Talaith Jiwaka"
     },
     "comments": null,
     "type": "province"
@@ -574,7 +586,9 @@
       "lt": "Milne Bėjaus provincija",
       "zh": "米爾恩灣省",
       "ccp": "𑄟𑄨𑄣𑄴𑄚𑄬 𑄝𑄬",
-      "no": "Milne Bay"
+      "no": "Milne Bay",
+      "ca": "Milne Bay",
+      "et": "Milne Bay provints"
     },
     "comments": null,
     "type": "province"
@@ -635,7 +649,9 @@
       "lt": "Morobės provincija",
       "zh": "莫雷贝省",
       "ccp": "𑄟𑄧𑄢𑄮𑄝𑄬",
-      "no": "Morobe provins"
+      "no": "Morobe provins",
+      "ca": "Morobe",
+      "cy": "Talaith Morobe"
     },
     "comments": null,
     "type": "province"
@@ -697,7 +713,9 @@
       "lt": "Madango provincija",
       "zh": "馬當省",
       "ccp": "𑄟𑄬𑄓𑄋𑄴",
-      "no": "Madang provins"
+      "no": "Madang provins",
+      "ca": "Madang",
+      "cy": "Talaith Madang"
     },
     "comments": null,
     "type": "province"
@@ -761,7 +779,10 @@
       "zh": "馬努斯省",
       "jv": "Provinsi Manus",
       "ccp": "𑄟𑄚𑄪𑄌𑄴",
-      "no": "Manus provins"
+      "no": "Manus provins",
+      "ca": "Província de Manus",
+      "cy": "Talaith Manus",
+      "et": "Manusi provints"
     },
     "comments": null,
     "type": "province"
@@ -857,7 +878,9 @@
       "mk": "Порт Морсби",
       "ne": "पोर्ट मोरेस्बी",
       "no": "Port Moresby",
-      "yo_BJ": "Port Moresby"
+      "yo_BJ": "Port Moresby",
+      "ps": "پورټ مورسب",
+      "so": "Port Moresby"
     },
     "comments": null,
     "type": "district"
@@ -920,7 +943,8 @@
       "lt": "Naujosios Airijos provincija",
       "zh": "新愛爾蘭省",
       "ccp": "𑄚𑄨𑄅𑄪 𑄃𑄠𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
-      "no": "Ny Irland provins"
+      "no": "Ny Irland provins",
+      "ca": "Província de Nova Irlanda"
     },
     "comments": null,
     "type": "province"
@@ -984,7 +1008,10 @@
       "lt": "Oro provincija",
       "zh": "北部省",
       "ccp": "𑄃𑄧𑄢𑄮",
-      "no": "Oro"
+      "no": "Oro",
+      "ca": "Província d’Oro",
+      "cy": "Talaith Oro",
+      "he": "פרובינציית אורו"
     },
     "comments": null,
     "type": "province"
@@ -1046,7 +1073,17 @@
       "lt": "Bugenvilis",
       "zh": "布干维尔省",
       "ccp": "𑄝𑄯𑄉𑄬𑄭𑄚𑄴𑄞𑄨𑄣𑄬",
-      "no": "Bougainville"
+      "no": "Bougainville",
+      "az": "Bugenvil muxtar ərazisi",
+      "be": "Аўтаномны рэгіён Бугенвіль",
+      "cy": "Rhanbarth Ymreolaethol Bougainville",
+      "et": "Bougainville’i autonoomne piirkond",
+      "hr": "Bougainville",
+      "hu": "Bougainville Autonóm Terület",
+      "is": "Bougainville",
+      "mk": "Бугенвил",
+      "sr": "Аутономна покрајина Богенвил",
+      "sr_Latn": "Autonomna pokrajina Bogenvil"
     },
     "comments": null,
     "type": "autonomous_region"
@@ -1110,7 +1147,11 @@
       "lt": "Sandauno provincija",
       "zh": "桑道恩省",
       "ccp": "𑄥𑄚𑄴𑄓𑄅𑄪𑄚𑄴",
-      "no": "Sandaun provins"
+      "no": "Sandaun provins",
+      "ca": "West Sepik",
+      "cy": "Talaith Sandaun",
+      "ha": "Sandaun Province",
+      "ha_NE": "Sandaun Province"
     },
     "comments": null,
     "type": "province"
@@ -1172,7 +1213,8 @@
       "lt": "Pietinis Kalnų regionas",
       "zh": "南高地省",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
-      "no": "Sør høylands provins"
+      "no": "Sør høylands provins",
+      "eu": "Hegoaldeko Lur Garaiak"
     },
     "comments": null,
     "type": "province"
@@ -1236,7 +1278,9 @@
       "zh": "西新不列顛省",
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄚𑄱 𑄝𑄳𑄢𑄨𑄑𑄬𑄚𑄴",
       "mk": "Западна Нова Британија",
-      "no": "Vest Nye Britiske provins"
+      "no": "Vest Nye Britiske provins",
+      "ca": "West New Britain",
+      "cs": "Západní Nová Británie"
     },
     "comments": null,
     "type": "province"
@@ -1299,7 +1343,8 @@
       "lt": "Rytų Kalniečių provincija",
       "zh": "西高地省",
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄦𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
-      "no": "Vest Høyland provins"
+      "no": "Vest Høyland provins",
+      "ca": "Western Highlands"
     },
     "comments": null,
     "type": "province"
@@ -1346,7 +1391,8 @@
       "sr_Latn": "Zapadna pokrajina",
       "zh": "西部省",
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "fi": "Western Province"
+      "fi": "Western Province",
+      "ca": "Western"
     },
     "comments": null,
     "type": "province"

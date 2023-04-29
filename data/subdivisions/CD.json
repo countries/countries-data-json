@@ -64,7 +64,13 @@
       "hy": "Ներքին Կոնգո",
       "ca": "Província del Baix Congo",
       "mk": "Долно Конго",
-      "no": "Bas-Congo"
+      "no": "Bas-Congo",
+      "cy": "Rhanbarth Bas-Congo",
+      "eu": "Kongo-Central",
+      "sw": "Mkoa wa Kongo Kati",
+      "yue": "中剛果省",
+      "yue_Hans": "中刚果省",
+      "zu": "Kongo Central"
     },
     "comments": null,
     "type": "province"
@@ -107,7 +113,8 @@
       "zh": "下韦莱省",
       "ccp": "𑄝𑄌𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
       "he": "מחוז אואלה תחתית",
-      "no": "Bas-Uele"
+      "no": "Bas-Uele",
+      "id": "Provinsi Bas-Uélé"
     },
     "comments": null,
     "type": "province"
@@ -169,7 +176,9 @@
       "fa": "ایکواته",
       "ccp": "𑄃𑄨𑄇𑄱𑄑𑄬𑄅𑄪𑄢𑄴",
       "uk": "Екватор (Екваторіальна провінція)",
-      "no": "Équateur (provins)"
+      "no": "Équateur (provins)",
+      "cy": "Talaith Équateur",
+      "he": "מחוז אקווטור"
     },
     "comments": null,
     "type": "province"
@@ -213,7 +222,11 @@
       "zh": "上加丹加省",
       "ccp": "𑄦𑄖𑄴-𑄇𑄑𑄁𑄉",
       "hy": "Վերին Կատանգա",
-      "no": "Haut-Katanga"
+      "no": "Haut-Katanga",
+      "cy": "Talaith Haut-Katanga",
+      "eu": "Haut-Katanga",
+      "fa": "استان هاوت-کاتانگا",
+      "id": "Provinsi Haut-Katanga"
     },
     "comments": null,
     "type": "province"
@@ -256,7 +269,10 @@
       "zh": "上洛马米省",
       "ccp": "𑄦𑄖𑄴-𑄣𑄧𑄟𑄟𑄨",
       "hy": "Վերին Լոմամի",
-      "no": "Haut-Lomami"
+      "no": "Haut-Lomami",
+      "ar": "أوت لومامي",
+      "fa": "هاوت لومامی",
+      "id": "Provinsi Haut-Lomami"
     },
     "comments": null,
     "type": "province"
@@ -299,7 +315,9 @@
       "zh": "上韦莱省",
       "ccp": "𑄦𑄖𑄴-𑄃𑄪𑄠𑄬𑄣𑄬",
       "hy": "Վերին Ուելե",
-      "no": "Haut-Uele"
+      "no": "Haut-Uele",
+      "fa": "هاوت اوله",
+      "id": "Provinsi Haut-Uélé"
     },
     "comments": null,
     "type": "province"
@@ -463,7 +481,19 @@
       "uk": "Кванго",
       "zh": "宽果省",
       "ccp": "𑄇𑄧𑄠𑄪𑄁𑄉𑄮",
-      "no": "Kwango"
+      "no": "Kwango",
+      "ca": "Kwango",
+      "cy": "Talaith Kwango",
+      "fa": "کوانگو",
+      "fi": "Kwango",
+      "hy": "Կվանգո",
+      "id": "Provinsi Kwango",
+      "it": "provincia di Kwango",
+      "ka": "კუანგოს პროვინცია",
+      "ko": "쾅고주",
+      "sw": "Mkoa wa Kwango",
+      "yue": "關果省",
+      "yue_Hans": "关果省"
     },
     "comments": null,
     "type": "province"
@@ -506,7 +536,10 @@
       "zh": "奎卢省",
       "ccp": "𑄇𑄧𑄃𑄨𑄣𑄪",
       "hy": "Կվիլու",
-      "no": "Kwilu"
+      "no": "Kwilu",
+      "fa": "استان کویلو",
+      "he": "מחוז קווילו",
+      "id": "Provinsi Kwilu"
     },
     "comments": null,
     "type": "province"
@@ -605,7 +638,9 @@
       "mk": "Киншаса",
       "ha_NE": "Kinshasa",
       "no": "Kinshasa",
-      "yo_BJ": "Kinshasa"
+      "yo_BJ": "Kinshasa",
+      "ig": "Kinshasa",
+      "ps": "کینشاسا"
     },
     "comments": null,
     "type": "city"
@@ -636,7 +671,10 @@
       "sv": "Kasaï",
       "uk": "Касаї",
       "ccp": "𑄇𑄥𑄭",
-      "no": "Kasaï"
+      "no": "Kasaï",
+      "ca": "Kasaï",
+      "fa": "ناحیه کسایی",
+      "zh": "开赛"
     },
     "comments": null,
     "type": "province"
@@ -676,7 +714,12 @@
       "zh": "洛马米省",
       "ccp": "𑄣𑄧𑄟𑄟𑄨",
       "ka": "ლომამის პროვინცია",
-      "no": "Lomami"
+      "no": "Lomami",
+      "ceb": "Kabinda (distrito)",
+      "cy": "Talaith Lomami",
+      "fa": "استان لومامی",
+      "gl": "Lomami",
+      "id": "Provinsi Lomami"
     },
     "comments": null,
     "type": "province"
@@ -718,7 +761,9 @@
       "uk": "Луалаба",
       "zh": "卢阿拉巴省",
       "ccp": "𑄣𑄪𑄠𑄣𑄝",
-      "no": "Lualaba (provins)"
+      "no": "Lualaba (provins)",
+      "fa": "استان لوالابا",
+      "id": "Provinsi Lualaba"
     },
     "comments": null,
     "type": "province"
@@ -783,7 +828,10 @@
       "zh": "马涅马省",
       "ccp": "𑄟𑄚𑄨𑄠𑄬𑄟",
       "he": "מניימה",
-      "no": "Maniema"
+      "no": "Maniema",
+      "ca": "Maniema",
+      "cs": "Maniema",
+      "eu": "Maniema"
     },
     "comments": null,
     "type": "province"
@@ -822,7 +870,10 @@
       "uk": "Маї-Ндомбе",
       "zh": "马伊恩东贝省",
       "ccp": "𑄟𑄭-𑄓𑄮𑄟𑄴𑄝𑄬",
-      "no": "Mai-Ndombe"
+      "no": "Mai-Ndombe",
+      "cy": "Talaith Mai-Ndombe",
+      "fa": "استان مای-ندومبی",
+      "id": "Provinsi Mai-Ndombe"
     },
     "comments": null,
     "type": "province"
@@ -864,7 +915,9 @@
       "zh": "蒙加拉省",
       "ccp": "𑄟𑄧𑄁𑄉𑄧𑄣",
       "nb": "Mongala",
-      "no": "Mongala"
+      "no": "Mongala",
+      "fa": "مونگالا",
+      "id": "Provinsi Mongala"
     },
     "comments": null,
     "type": "province"
@@ -931,7 +984,9 @@
       "fa": "کیوو شمالی",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄨𑄞𑄪",
       "az": "Şimali Kivu",
-      "no": "Nord-Kivu"
+      "no": "Nord-Kivu",
+      "eu": "Ipar Kivu",
+      "he": "קיוו צפון"
     },
     "comments": null,
     "type": "province"
@@ -973,7 +1028,8 @@
       "zh": "北乌班吉省",
       "ccp": "𑄚𑄧𑄢𑄳𑄓𑄴-𑄃𑄪𑄝𑄋𑄴𑄉𑄨",
       "nb": "Nord-Ubangi",
-      "no": "Nord-Ubangi"
+      "no": "Nord-Ubangi",
+      "fa": "نورد اوبانگی"
     },
     "comments": null,
     "type": "province"
@@ -1014,7 +1070,11 @@
       "zh": "桑库鲁省",
       "ccp": "𑄥𑄁𑄇𑄪𑄢𑄪",
       "nb": "Sankuru",
-      "no": "Sankuru"
+      "no": "Sankuru",
+      "fa": "سانکورو",
+      "id": "Provinsi Sankuru",
+      "yue": "桑庫魯省",
+      "yue_Hans": "桑库鲁省"
     },
     "comments": null,
     "type": "province"
@@ -1080,7 +1140,11 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄨𑄞𑄪",
       "uz": "Janubiy Kivu",
       "mk": "Јужно Киву",
-      "no": "Sud-Kivu"
+      "no": "Sud-Kivu",
+      "ca": "Kivu del Sud",
+      "cs": "Jižní Kivu",
+      "eu": "Hego Kivu",
+      "hy": "Հարավային Կիվու"
     },
     "comments": null,
     "type": "province"
@@ -1121,7 +1185,9 @@
       "zh": "南乌班吉省",
       "ccp": "𑄥𑄖𑄴-𑄅𑄪𑄝𑄋𑄴𑄉𑄨",
       "nb": "Sud-Ubangi",
-      "no": "Sud-Ubangi"
+      "no": "Sud-Ubangi",
+      "fa": "سود-اوبانگی",
+      "id": "Provinsi Sud-Ubangi"
     },
     "comments": null,
     "type": "province"
@@ -1163,7 +1229,11 @@
       "ceb": "Kongolo Tanganyika District",
       "zh": "坦噶尼喀省",
       "ccp": "𑄑𑄋𑄴𑄉𑄚𑄨𑄠𑄇",
-      "no": "Tanganyika"
+      "no": "Tanganyika",
+      "cy": "Talaith Tanganyika",
+      "eu": "Tanganyika (probintzia)",
+      "fa": "استان تانگانیکا",
+      "id": "Provinsi Tanganyika"
     },
     "comments": null,
     "type": "province"
@@ -1205,7 +1275,10 @@
       "ceb": "Tshopo",
       "zh": "乔波省",
       "ccp": "𑄥𑄮𑄛𑄮",
-      "no": "Tshopo"
+      "no": "Tshopo",
+      "eu": "Tshopo",
+      "fa": "تاشو",
+      "id": "Provinsi Tshopo"
     },
     "comments": null,
     "type": "province"
@@ -1247,7 +1320,9 @@
       "ceb": "Tshuapa",
       "zh": "楚阿帕省",
       "ccp": "𑄥𑄪𑄠𑄛",
-      "no": "Tshuapa"
+      "no": "Tshuapa",
+      "fa": "تشوپا",
+      "id": "Provinsi Tshuapa"
     },
     "comments": null,
     "type": "province"

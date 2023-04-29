@@ -52,7 +52,11 @@
       "ceb": "Arima",
       "ccp": "𑄃𑄢𑄨𑄟",
       "uk": "Аріма",
-      "no": "Arima"
+      "no": "Arima",
+      "ca": "Arima",
+      "sr": "Арима",
+      "sr_Latn": "Arima",
+      "zh": "阿里马"
     },
     "comments": null,
     "type": "borough"
@@ -119,7 +123,8 @@
       "ccp": "𑄌𑄉𑄪𑄠𑄚𑄌𑄴",
       "ga": "Chaguanas",
       "ro": "Chaguanas",
-      "no": "Chaguanas"
+      "no": "Chaguanas",
+      "he": "צ׳אגואנאס"
     },
     "comments": null,
     "type": "borough"
@@ -428,7 +433,10 @@
       "bs": "Port of Spain",
       "mk": "Порт оф Спејн",
       "no": "Port of Spain",
-      "yo_BJ": "Port of Spain"
+      "yo_BJ": "Port of Spain",
+      "ha": "Port of Spain",
+      "ha_NE": "Port of Spain",
+      "sw": "Port of Spain"
     },
     "comments": null,
     "type": "city"
@@ -543,7 +551,9 @@
       "ceb": "Point Fortin (kapital sa rehiyon)",
       "zh": "波因特福廷",
       "ccp": "𑄛𑄧𑄠𑄬𑄚𑄴𑄑 𑄜𑄮𑄢𑄴𑄑𑄨𑄚𑄴",
-      "no": "Point Fortin"
+      "no": "Point Fortin",
+      "ca": "Point Fortin",
+      "hy": "Փոյնթ Ֆորթին"
     },
     "comments": null,
     "type": "borough"
@@ -606,7 +616,10 @@
       "cs": "San Fernando",
       "yo": "San Fernando",
       "no": "San Fernando",
-      "yo_BJ": "San Fernando"
+      "yo_BJ": "San Fernando",
+      "ca": "San Fernando",
+      "sr": "Сан Фернандо (Тринидад и Тобаго)",
+      "sr_Latn": "San Fernando (Trinidad i Tobago)"
     },
     "comments": null,
     "type": "city"
@@ -717,7 +730,9 @@
       "fa": "استان سیپاریا",
       "ccp": "𑄥𑄨𑄛𑄢𑄨𑄠",
       "uk": "Регіон Сіпарія",
-      "no": "Siparia"
+      "no": "Siparia",
+      "ca": "Siparia",
+      "eu": "Siparia"
     },
     "comments": null,
     "type": "region"
@@ -771,7 +786,8 @@
       "fa": "استان سن خوآن-لاونتویل",
       "ccp": "𑄥𑄚𑄴 𑄎𑄪𑄠𑄚𑄴-𑄣𑄧𑄞𑄬𑄚𑄴𑄑𑄨𑄣𑄴",
       "uk": "Регіон Сан-Хуан-Лавентіль",
-      "no": "San Juan-Laventille region"
+      "no": "San Juan-Laventille region",
+      "be": "Сан-Хуан-Лавентыль"
     },
     "comments": null,
     "type": "region"
@@ -845,7 +861,12 @@
       "yue": "托巴哥島",
       "yo": "Tòbágò",
       "no": "Tobago",
-      "yo_BJ": "Tòbágò"
+      "yo_BJ": "Tòbágò",
+      "ha": "Tobago",
+      "ha_NE": "Tobago",
+      "is": "Tóbagó",
+      "sw": "Tobago",
+      "uz": "Tobago"
     },
     "comments": null,
     "type": "ward"

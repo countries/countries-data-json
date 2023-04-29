@@ -39,7 +39,13 @@
       "ceb": "Western Province",
       "ar": "المقاطعة الغربية (سريلانكا)",
       "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
-      "be": "Заходняя правінцыя"
+      "be": "Заходняя правінцыя",
+      "bn": "পশ্চিমাঞ্চল প্রদেশ",
+      "ca": "província de l’Oest",
+      "cy": "Talaith y Gorllewin",
+      "hy": "Արևմտյան նահանգ",
+      "pt": "Província Ocidental",
+      "tr": "Batı Eyaleti"
     },
     "comments": null,
     "type": "province"
@@ -90,7 +96,11 @@
       "id": "Distrik Kolombo",
       "be": "Каломба",
       "mk": "Коломбо",
-      "no": "Colombo"
+      "no": "Colombo",
+      "bn": "কলম্বো জেলা",
+      "cy": "Ardal Colombo",
+      "ml": "കൊളംബോ ജില്ല",
+      "pl": "Kolombo (dystrykt)"
     },
     "comments": null,
     "type": "district"
@@ -147,7 +157,8 @@
       "lt": "Gampachos sritis",
       "zh": "加姆珀哈區",
       "ccp": "𑄉𑄟𑄴𑄛𑄦",
-      "no": "Gampaha distrikt"
+      "no": "Gampaha distrikt",
+      "ml": "ഗമ്പഹ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -204,7 +215,8 @@
       "lt": "Kalutaros apskritis",
       "zh": "卡盧特勒區",
       "ccp": "𑄇𑄣𑄪𑄑𑄢",
-      "no": "Kalutara"
+      "no": "Kalutara",
+      "ml": "കലുതാര ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -252,7 +264,8 @@
       "ar": "المقاطعة الوسطى (سريلانكا)",
       "zh": "中央省 (斯里蘭卡)",
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
-      "id": "Provinsi Tengah, Sri Lanka"
+      "id": "Provinsi Tengah, Sri Lanka",
+      "bn": "মধ্যাঞ্চল প্রদেশ"
     },
     "comments": null,
     "type": "province"
@@ -297,7 +310,9 @@
       "zh": "康提區",
       "hi": "कैंडी जिला",
       "ccp": "𑄇𑄚𑄴𑄓𑄨",
-      "id": "Distrik Kandy"
+      "id": "Distrik Kandy",
+      "ca": "Kandy",
+      "ml": "കൗണ്ടി ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -354,7 +369,10 @@
       "lt": "Matalės apskritis",
       "zh": "馬特萊區",
       "ccp": "𑄟𑄖𑄣𑄬",
-      "no": "Matale distrikt"
+      "no": "Matale distrikt",
+      "ca": "Matale",
+      "ml": "മാതലെ ജില്ല",
+      "sl": "Okrožje Matale"
     },
     "comments": null,
     "type": "district"
@@ -411,7 +429,9 @@
       "lt": "Nuvara Elijos apskritis",
       "zh": "努沃勒埃利耶區",
       "ccp": "𑄚𑄧𑄤𑄢 𑄃𑄨𑄣𑄨𑄠",
-      "no": "Nuware Eliya Distrikt"
+      "no": "Nuware Eliya Distrikt",
+      "ca": "Nuwara Eliya",
+      "ml": "നുവാര ഏലിയ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -457,7 +477,8 @@
       "ar": "المقاطعة الجنوبية (سريلانكا)",
       "zh": "南部省",
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Selatan, Sri Lanka"
+      "id": "Provinsi Selatan, Sri Lanka",
+      "bn": "দক্ষিণাঞ্চল প্রদেশ"
     },
     "comments": null,
     "type": "province"
@@ -516,7 +537,9 @@
       "lt": "Galės apskritis",
       "zh": "加勒區",
       "ccp": "𑄉𑄣𑄬",
-      "no": "Galle"
+      "no": "Galle",
+      "ca": "Galle",
+      "ml": "ഗാലി ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -573,7 +596,8 @@
       "lt": "Mataros apskritis",
       "zh": "馬特勒區",
       "ccp": "𑄟𑄖𑄢",
-      "no": "Matara"
+      "no": "Matara",
+      "ml": "മാത്താര ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -630,7 +654,9 @@
       "lt": "Hambantotos apskritis",
       "zh": "漢班托特區",
       "ccp": "𑄦𑄟𑄴𑄝𑄚𑄴𑄑𑄮𑄑",
-      "no": "Hambantota"
+      "no": "Hambantota",
+      "ca": "Hambantota",
+      "ml": "ഹംമ്പൻതോട്ട ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -677,7 +703,10 @@
       "ar": "المقاطعة الشمالية (سريلانكا)",
       "zh": "北部省",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Utara, Sri Lanka"
+      "id": "Provinsi Utara, Sri Lanka",
+      "bn": "উত্তরাঞ্চল প্রদেশ",
+      "ca": "Província del Nord",
+      "he": "מחוז הצפון"
     },
     "comments": null,
     "type": "province"
@@ -724,7 +753,9 @@
       "zh": "賈夫納區",
       "ccp": "𑄎𑄛𑄴𑄚",
       "pt": "Distrito de Jaffna",
-      "no": "Jaffna"
+      "no": "Jaffna",
+      "ca": "Districte de Jaffna",
+      "ml": "ജാഫ്ന ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -781,7 +812,8 @@
       "lt": "Kilinočio apskritis",
       "zh": "基利諾奇區",
       "ccp": "𑄇𑄨𑄣𑄨𑄚𑄮𑄌𑄴𑄌𑄨",
-      "no": "Kilinochchi"
+      "no": "Kilinochchi",
+      "ml": "കില്ലിനോച്ചി ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -842,7 +874,8 @@
       "lt": "Manaro apskritis",
       "zh": "馬納爾區",
       "ccp": "𑄟𑄚𑄢𑄴",
-      "no": "Mannar distrikt"
+      "no": "Mannar distrikt",
+      "ml": "മന്നാർ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -887,7 +920,8 @@
       "zh": "瓦武尼亞區",
       "el": "Επαρχία Βαβουνίγια",
       "ccp": "𑄞𑄞𑄪𑄚𑄨𑄠",
-      "id": "Distrik Vavuniya"
+      "id": "Distrik Vavuniya",
+      "ml": "വാവുനിയ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -946,7 +980,9 @@
       "lt": "Mulaitivo apskritis",
       "zh": "穆萊蒂武區",
       "ccp": "𑄟𑄪𑄣𑄭𑄑𑄨𑄞𑄪",
-      "no": "Mullaittivu"
+      "no": "Mullaittivu",
+      "ca": "Mullaitivu",
+      "ml": "മുല്ലൈടിവ് ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -992,7 +1028,10 @@
       "ar": "المقاطعة الشرقية (سريلانكا)",
       "zh": "東部省",
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Timur, Sri Lanka"
+      "id": "Provinsi Timur, Sri Lanka",
+      "bn": "পূর্বাঞ্চল প্রদেশ",
+      "he": "מחוז המזרח",
+      "ro": "Provincia de Est"
     },
     "comments": null,
     "type": "province"
@@ -1039,7 +1078,8 @@
       "zh": "拜蒂克洛區",
       "ccp": "𑄝𑄖𑄳𑄦𑄨𑄇𑄣𑄱",
       "id": "Distrik Batticaloa",
-      "no": "Batticaloa (distrikt)"
+      "no": "Batticaloa (distrikt)",
+      "ca": "Batticaloa"
     },
     "comments": null,
     "type": "district"
@@ -1098,7 +1138,9 @@
       "lt": "Amparos apskritis",
       "zh": "安帕賴區",
       "ccp": "𑄃𑄟𑄴𑄛𑄢",
-      "no": "Ampara"
+      "no": "Ampara",
+      "ca": "Amparai",
+      "ml": "അമ്പാറ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1144,7 +1186,9 @@
       "ar": "مديرية ترينكومالي",
       "zh": "亭可馬里區",
       "ccp": "𑄑𑄳𑄢𑄨𑄚𑄴𑄇𑄮𑄟𑄣𑄨",
-      "no": "Trincomalee"
+      "no": "Trincomalee",
+      "ca": "Trincomalee",
+      "ml": "ട്രിങ്കോമാലി ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1189,7 +1233,8 @@
       "ar": "المقاطعة الشمالية الغربية (سريلانكا)",
       "zh": "西北省",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄛𑄧𑄏𑄨𑄟𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
-      "id": "Provinsi Barat Laut, Sri Lanka"
+      "id": "Provinsi Barat Laut, Sri Lanka",
+      "bn": "উত্তর পশ্চিমাঞ্চল প্রদেশ"
     },
     "comments": null,
     "type": "province"
@@ -1246,7 +1291,8 @@
       "lt": "Kurunegalos apskritis",
       "zh": "庫魯內格勒區",
       "ccp": "𑄇𑄪𑄢𑄪𑄚𑄬𑄉𑄣",
-      "no": "Kurunegala distrikt"
+      "no": "Kurunegala distrikt",
+      "ml": "കുറുനേഗല ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1305,7 +1351,8 @@
       "lt": "Putalamo apskritis",
       "zh": "普塔勒姆區",
       "ccp": "𑄛𑄪𑄑𑄣𑄟𑄴",
-      "no": "Puttalam distrikt"
+      "no": "Puttalam distrikt",
+      "ml": "പുത്തലം ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1350,7 +1397,9 @@
       "ar": "المقاطعة الشمالية الوسطى (سريلانكا)",
       "zh": "北中省",
       "el": "Βορειοκεντρική επαρχία",
-      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴"
+      "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
+      "bn": "উত্তর মধ্যাঞ্চল প্রদেশ",
+      "id": "Provinsi Tengah Utara, Sri Lanka"
     },
     "comments": null,
     "type": "province"
@@ -1395,7 +1444,8 @@
       "ceb": "Anuradhapura District",
       "ar": "مديرية انورادهابورا",
       "zh": "阿努拉德普勒區",
-      "ccp": "𑄃𑄚𑄪𑄢𑄙𑄛𑄪𑄢𑄴"
+      "ccp": "𑄃𑄚𑄪𑄢𑄙𑄛𑄪𑄢𑄴",
+      "ca": "Anuradhapura"
     },
     "comments": null,
     "type": "district"
@@ -1455,7 +1505,10 @@
       "lt": "Plonaruvos apskritis",
       "zh": "波隆納魯沃區",
       "ccp": "𑄛𑄧𑄣𑄧𑄚𑄢𑄪𑄤",
-      "no": "Polinnaruwa distrikt"
+      "no": "Polinnaruwa distrikt",
+      "ca": "Polonnaruwa",
+      "he": "נפת פולונארווה",
+      "ml": "പോളൊന്നാരുവ ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1501,7 +1554,10 @@
       "ar": "مقاطعة يوفا",
       "zh": "烏沃省",
       "ccp": "𑄅𑄪𑄞",
-      "id": "Provinsi Uva"
+      "id": "Provinsi Uva",
+      "bn": "উভা প্রদেশ",
+      "cy": "Talaith Uva",
+      "he": "מחוז אובה"
     },
     "comments": null,
     "type": "province"
@@ -1558,7 +1614,9 @@
       "lt": "Badulos apskritis",
       "zh": "巴杜勒區",
       "ccp": "𑄝𑄓𑄪𑄣𑄳𑄦",
-      "no": "Badulla distrikt"
+      "no": "Badulla distrikt",
+      "ca": "Badulla",
+      "ml": "ബഡുല്ല ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1602,7 +1660,10 @@
       "ar": "مديرية موناراغالا",
       "zh": "莫訥勒格勒區",
       "ccp": "𑄟𑄧𑄚𑄢𑄉𑄣",
-      "id": "Distrik Monaragala"
+      "id": "Distrik Monaragala",
+      "ca": "Districte de Monaragala",
+      "ml": "മോണരാഗല ജില്ല",
+      "pl": "Monaragala (dystrykt)"
     },
     "comments": null,
     "type": "district"
@@ -1648,7 +1709,10 @@
       "ar": "مقاطعة ساباراغاموا (سريلانكا)",
       "zh": "薩伯勒格穆沃省",
       "ccp": "𑄥𑄝𑄢𑄇𑄴𑄟𑄪𑄤",
-      "id": "Provinsi Sabaragamuwa"
+      "id": "Provinsi Sabaragamuwa",
+      "bn": "সাবরাগমুওয়া প্রদেশ",
+      "cy": "Talaith Sabaragamuwa",
+      "he": "מחוז סבראגמובה"
     },
     "comments": null,
     "type": "province"
@@ -1707,7 +1771,9 @@
       "lt": "Ratnapuros apskritis",
       "zh": "拉特納普勒區",
       "ccp": "𑄢𑄖𑄴𑄚𑄧𑄛𑄪𑄢𑄴",
-      "no": "Ratnapura distrikt"
+      "no": "Ratnapura distrikt",
+      "ca": "Ratnapura",
+      "ml": "രത്നപുര ജില്ല"
     },
     "comments": null,
     "type": "district"
@@ -1766,7 +1832,8 @@
       "lt": "Kegaės apskritis",
       "zh": "凱格勒區",
       "ccp": "𑄇𑄨𑄉𑄣𑄨",
-      "no": "Kegalle distrikt"
+      "no": "Kegalle distrikt",
+      "ml": "കെഗല്ലെ ജില്ല"
     },
     "comments": null,
     "type": "district"

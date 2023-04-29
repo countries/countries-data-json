@@ -57,7 +57,10 @@
       "hi": "बरानिया काउंटी",
       "ccp": "𑄝𑄢𑄚𑄨𑄠",
       "az": "Baranya əyaləti",
-      "mk": "Барања"
+      "mk": "Барања",
+      "cy": "Sir Baranya",
+      "hy": "Բարանյա",
+      "th": "เทศมณฑลบอรอญอ"
     },
     "comments": null,
     "type": "county"
@@ -207,7 +210,9 @@
       "ccp": "𑄝𑄇𑄬𑄌𑄴",
       "be": "медзье Бекеш",
       "mk": "Бекеш",
-      "no": "Bekes Fylke"
+      "no": "Bekes Fylke",
+      "az": "Bekeş medyesi",
+      "cy": "Sir Békés"
     },
     "comments": null,
     "type": "county"
@@ -282,7 +287,10 @@
       "ccp": "𑄝𑄳𑄠𑄇𑄴𑄥𑄴-𑄇𑄨𑄌𑄴𑄇𑄪𑄚𑄴",
       "az": "Baç-Kişkun (medye)",
       "mk": "Бач-Кишкун",
-      "no": "Bacs-Kiskun Fylke"
+      "no": "Bacs-Kiskun Fylke",
+      "cy": "Sir Bács-Kiskun",
+      "hy": "Բաչ-Կիշկուն",
+      "mn": "Бач-Кишкун"
     },
     "comments": null,
     "type": "county"
@@ -382,7 +390,9 @@
       "bs": "Budimpešta",
       "mk": "Будимпешта",
       "no": "Budapest",
-      "yo_BJ": "Budapest"
+      "yo_BJ": "Budapest",
+      "ha": "Budapest",
+      "ha_NE": "Budapest"
     },
     "comments": null,
     "type": "capital_city"
@@ -457,7 +467,9 @@
       "zh": "包爾紹德-奧包烏伊-曾普倫州",
       "ccp": "𑄝𑄮𑄢𑄴𑄥𑄮𑄖𑄴-𑄃𑄝𑄅𑄪𑄌𑄴-𑄎𑄬𑄟𑄴𑄛𑄳𑄣𑄬𑄚𑄴",
       "mk": "Боршод-Абауј-Земплен",
-      "no": "Borsod Abauj Zemplen Fylke"
+      "no": "Borsod Abauj Zemplen Fylke",
+      "cy": "Sir Borsod-Abaúj-Zemplén",
+      "hy": "Բորշոդ-Աբաույ-Զեմպլեն"
     },
     "comments": null,
     "type": "county"
@@ -530,7 +542,10 @@
       "zh": "瓊格拉德州",
       "ccp": "𑄥𑄧𑄁𑄉𑄳𑄢𑄖𑄴",
       "mk": "Чонград",
-      "no": "Csongrád (fylke)"
+      "no": "Csongrád (fylke)",
+      "az": "Çonqrad",
+      "cy": "Sir Csongrád-Csanád",
+      "hy": "Չոնգրադ"
     },
     "comments": null,
     "type": "county"
@@ -616,7 +631,9 @@
       "uz": "Debretsen",
       "bs": "Debrecen",
       "mk": "Дебрецин",
-      "no": "Debrecen"
+      "no": "Debrecen",
+      "ga": "Debrecen",
+      "ps": "دبرسن"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -675,7 +692,10 @@
       "ccp": "𑄓𑄪𑄚𑄧𑄅𑄪𑄌𑄴𑄞𑄢𑄮𑄌𑄴",
       "ky": "Дунауйварош",
       "az": "Dunauyvaroş",
-      "mk": "Дунаујварош"
+      "mk": "Дунаујварош",
+      "ar": "دوناوجفاروس",
+      "be": "Дунауйвараш",
+      "el": "Ντούναουϊβαρος"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -741,7 +761,9 @@
       "id": "Eger",
       "az": "Eqer",
       "mk": "Егер",
-      "no": "Eger"
+      "no": "Eger",
+      "ar": "ايغر",
+      "kk": "Эгер"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -798,7 +820,10 @@
       "zh": "埃爾德",
       "ccp": "𑄃𑄨𑄢𑄴𑄓𑄴",
       "az": "Erd",
-      "mk": "Ерд"
+      "mk": "Ерд",
+      "ar": "إيرد",
+      "hy": "Էրդ",
+      "kk": "Эрд"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -874,7 +899,10 @@
       "ccp": "𑄜𑄬𑄎𑄢𑄴",
       "mn": "Фейер",
       "mk": "Фејер",
-      "no": "Fejer fylke"
+      "no": "Fejer fylke",
+      "az": "Feyer medyesi",
+      "cy": "Fejér",
+      "ga": "Contae Fejér"
     },
     "comments": null,
     "type": "county"
@@ -950,7 +978,9 @@
       "az": "Dyör-Moşon-Şopron",
       "mn": "Дьёр-Мошон-Шопрон",
       "mk": "Ѓер-Мошон-Шопрон",
-      "no": "Gyor Moson Sopron Fylke"
+      "no": "Gyor Moson Sopron Fylke",
+      "cy": "Győr-Moson-Sopron",
+      "hy": "Դյոր-Մոշոն-Շոպրոն"
     },
     "comments": null,
     "type": "county"
@@ -1032,7 +1062,11 @@
       "az": "Dyor",
       "uz": "Dyor",
       "mk": "Ѓер",
-      "no": "Győr"
+      "no": "Győr",
+      "ga": "Győr",
+      "ps": "ګیور",
+      "yue": "焦爾",
+      "yue_Hans": "焦尔"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1106,7 +1140,9 @@
       "ccp": "𑄦𑄌𑄴𑄓𑄪-𑄝𑄨𑄦𑄢𑄴",
       "be": "Хайду-Біхар",
       "mk": "Хајду-Бихар",
-      "no": "Hajdu-Bihar Fylke"
+      "no": "Hajdu-Bihar Fylke",
+      "az": "Haydu-Bihar medyesi",
+      "cy": "Sir Hajdú-Bihar"
     },
     "comments": null,
     "type": "county"
@@ -1181,7 +1217,9 @@
       "ccp": "𑄦𑄬𑄞𑄬𑄌𑄴",
       "hy": "Հևեշ",
       "mk": "Хевеш",
-      "no": "Heves Fylke"
+      "no": "Heves Fylke",
+      "az": "Xeveş",
+      "cy": "Sir Heves"
     },
     "comments": null,
     "type": "county"
@@ -1244,7 +1282,9 @@
       "id": "Hódmezővásárhely",
       "az": "Xodmezövaşarxey",
       "mk": "Ходмезевашархељ",
-      "no": "Hódmezővásárhely"
+      "no": "Hódmezővásárhely",
+      "ar": "هدمزوفازارهلي",
+      "fi": "Hódmezővásárhely"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1320,7 +1360,9 @@
       "az": "Yas-Nadkun-Solnok",
       "be": "Яс-Надзькун-Сольнак",
       "mk": "Јас-Наѓкун-Солнок",
-      "no": "Jasz Nagykun Szolnok fylke"
+      "no": "Jasz Nagykun Szolnok fylke",
+      "cy": "Sir Jász-Nagykun-Szolnok",
+      "hy": "Յաս-Նադկուն-Սոլնոկ"
     },
     "comments": null,
     "type": "county"
@@ -1395,7 +1437,10 @@
       "ccp": "𑄇𑄮𑄟𑄢𑄪𑄚𑄴-𑄃𑄨𑄌𑄴𑄑𑄢𑄴𑄉𑄧𑄟𑄴",
       "mn": "Комаром-Эстергом",
       "mk": "Комаром-Естергом",
-      "no": "Komarom-Esztergom fylke"
+      "no": "Komarom-Esztergom fylke",
+      "az": "Komarom-Esterqom",
+      "cy": "Sir Komárom-Esztergom",
+      "hy": "Կոմարոմ-Էստերգոմ"
     },
     "comments": null,
     "type": "county"
@@ -1473,7 +1518,9 @@
       "kk": "Кечкемет",
       "az": "Keçkemet",
       "mk": "Кечкемет",
-      "no": "Kecskemet"
+      "no": "Kecskemet",
+      "ga": "Kecskemét",
+      "ps": "کچکمیت"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1551,7 +1598,9 @@
       "kk": "Капошвар",
       "az": "Kapoşvar",
       "mk": "Капошвар",
-      "no": "Kaposvár"
+      "no": "Kaposvár",
+      "bs": "Kaposvár",
+      "uz": "Kaposhvar"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1631,7 +1680,12 @@
       "kk": "Мишкольц",
       "az": "Mişkolç",
       "mk": "Мишколц",
-      "no": "Miskolc"
+      "no": "Miskolc",
+      "ga": "Miskolc",
+      "ps": "میشکولتس",
+      "sq": "Miskolc",
+      "yue": "米什科爾茨",
+      "yue_Hans": "米什科尔茨"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1692,7 +1746,10 @@
       "zh": "瑙吉考尼饒",
       "jv": "Nagykanizsa",
       "ccp": "𑄚𑄉𑄭𑄇𑄚𑄨𑄌𑄴𑄥",
-      "no": "Nagykanizsa"
+      "no": "Nagykanizsa",
+      "az": "Nadkanija",
+      "lv": "Naģkaniža",
+      "mk": "Велика Канижа"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1767,7 +1824,8 @@
       "az": "Noqrad",
       "be": "Ноград",
       "mk": "Ноград",
-      "no": "Nógrád"
+      "no": "Nógrád",
+      "cy": "Sir Nógrád"
     },
     "comments": null,
     "type": "county"
@@ -1845,7 +1903,9 @@
       "ccp": "𑄚𑄭𑄢𑄴𑄢𑄬𑄉𑄭𑄦𑄎",
       "az": "Niredxaza",
       "mk": "Њиреѓхаза",
-      "no": "Nyíregyháza"
+      "no": "Nyíregyháza",
+      "ga": "Nyíregyháza",
+      "ps": "نیرګهزا"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -1909,7 +1969,9 @@
       "zh": "佩斯州",
       "ccp": "𑄛𑄬𑄌𑄴𑄑𑄴",
       "mk": "Пешта",
-      "no": "Pest"
+      "no": "Pest",
+      "az": "Peşt medyesi",
+      "cy": "Sir Pest"
     },
     "comments": null,
     "type": "county"
@@ -1989,7 +2051,12 @@
       "az": "Peç",
       "bs": "Pečuh",
       "mk": "Печ",
-      "no": "Pécs"
+      "no": "Pécs",
+      "ga": "Pécs",
+      "ps": "پچ (هنګري)",
+      "uz": "Pech",
+      "yue": "佩奇",
+      "yue_Hans": "佩奇"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2068,7 +2135,13 @@
       "ccp": "𑄎𑄎𑄬𑄖𑄴",
       "az": "Seqed",
       "mk": "Сегедин",
-      "no": "Szeged"
+      "no": "Szeged",
+      "ga": "Szeged",
+      "kk": "Сегед",
+      "ps": "سګد",
+      "sq": "Szeged",
+      "yue": "塞格德",
+      "yue_Hans": "塞格德"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2146,7 +2219,9 @@
       "kk": "Секешфехервар",
       "az": "Sekeşfexervar",
       "mk": "Секешфехервар",
-      "no": "Székesfehérvár"
+      "no": "Székesfehérvár",
+      "ga": "Székesfehérvár",
+      "ps": "سیکشفهروار"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2223,7 +2298,9 @@
       "ccp": "𑄎𑄮𑄟𑄴𑄝𑄗𑄬𑄣𑄨",
       "az": "Sombatxey",
       "mk": "Сомбатхељ",
-      "no": "Szombathely"
+      "no": "Szombathely",
+      "kk": "Сомбатхей",
+      "ps": "سمباتهي"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2300,7 +2377,9 @@
       "hr": "Szolnok",
       "az": "Solnok",
       "mk": "Солнок",
-      "no": "Szolnok"
+      "no": "Szolnok",
+      "yue": "蘇諾",
+      "yue_Hans": "苏诺"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2368,7 +2447,8 @@
       "kk": "Шопрон",
       "az": "Şopron",
       "mk": "Шопрон",
-      "no": "Sopron"
+      "no": "Sopron",
+      "cy": "Sopron"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2443,7 +2523,9 @@
       "mn": "Шомодь",
       "be": "медзье Шомадзь",
       "mk": "Шомоѓ",
-      "no": "Saomogy fylke"
+      "no": "Saomogy fylke",
+      "az": "Şomod",
+      "cy": "Sir Somogy"
     },
     "comments": null,
     "type": "county"
@@ -2670,7 +2752,8 @@
       "az": "Sabolç-Satmar-Bereq",
       "be": "Сабальч-Сатмар-Берэг",
       "mk": "Саболч-Сатмар-Берег",
-      "no": "Szaboles Szatmar Bereg fylke"
+      "no": "Szaboles Szatmar Bereg fylke",
+      "cy": "Sir Szabolcs-Szatmár-Bereg"
     },
     "comments": null,
     "type": "county"
@@ -2747,7 +2830,8 @@
       "hr": "Tatabánya",
       "az": "Tatabanya",
       "mk": "Татабања",
-      "no": "Tatabanya"
+      "no": "Tatabanya",
+      "kk": "Татабанья"
     },
     "comments": null,
     "type": "city_with_county_rights"
@@ -2821,7 +2905,9 @@
       "zh": "托爾瑙州",
       "ccp": "𑄑𑄮𑄣𑄴𑄚",
       "mk": "Толна",
-      "no": "Tolna Fylke"
+      "no": "Tolna Fylke",
+      "az": "Tolna",
+      "cy": "Sir Tolna"
     },
     "comments": null,
     "type": "county"
@@ -2897,7 +2983,9 @@
       "ccp": "𑄞𑄌𑄴",
       "mn": "Ваш",
       "mk": "Ваш",
-      "no": "Vas Fylke"
+      "no": "Vas Fylke",
+      "az": "Vaş medyesi",
+      "cy": "Sir Vas"
     },
     "comments": null,
     "type": "county"
@@ -2971,7 +3059,10 @@
       "zh": "維斯普雷姆州",
       "ccp": "𑄞𑄬𑄌𑄴𑄛𑄳𑄢𑄬𑄟𑄴 𑄇𑄅𑄪𑄚𑄴𑄑𑄨",
       "mk": "Веспрем",
-      "no": "Veszprém"
+      "no": "Veszprém",
+      "az": "Vesprem²",
+      "cy": "Sir Veszprém",
+      "hy": "Վեսպրեմ²"
     },
     "comments": null,
     "type": "county"
@@ -3122,7 +3213,10 @@
       "ccp": "𑄎𑄣",
       "mn": "Зала",
       "mk": "Зала",
-      "no": "Zala Fylke"
+      "no": "Zala Fylke",
+      "az": "Zala",
+      "be": "медзье Зала",
+      "cy": "Sir Zala"
     },
     "comments": null,
     "type": "county"

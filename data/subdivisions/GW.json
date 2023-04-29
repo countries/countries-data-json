@@ -53,7 +53,8 @@
       "lv": "Bafatas reģions",
       "ceb": "Bafatá",
       "ccp": "𑄝𑄜𑄑",
-      "no": "Bafatá"
+      "no": "Bafatá",
+      "fa": "ناحیه بافتا"
     },
     "comments": null,
     "type": "region"
@@ -113,7 +114,8 @@
       "ceb": "Bolama",
       "zh": "博拉馬區",
       "ccp": "𑄝𑄧𑄣𑄟",
-      "no": "Bolama"
+      "no": "Bolama",
+      "fa": "ناحیه بولاما"
     },
     "comments": null,
     "type": "region"
@@ -267,7 +269,10 @@
       "bs": "Bissau",
       "mk": "Бисао",
       "no": "Bissau",
-      "yo_BJ": "Bissau"
+      "yo_BJ": "Bissau",
+      "ha": "Bisau",
+      "ha_NE": "Bisau",
+      "ps": "بیساو"
     },
     "comments": null,
     "type": "autonomous_sector"
@@ -386,7 +391,9 @@
       "zh": "加布區",
       "ccp": "𑄉𑄝𑄪",
       "uk": "Регіон Габу",
-      "no": "Gabú"
+      "no": "Gabú",
+      "ceb": "Gabú (rehiyon)",
+      "fa": "ناحیه گابو"
     },
     "comments": null,
     "type": "region"
@@ -406,7 +413,11 @@
     "translations": {
       "en": "Leste",
       "ccp": "𑄣𑄬𑄌𑄴𑄑𑄬",
-      "de": "Provinz Leste"
+      "de": "Provinz Leste",
+      "cy": "Talaith Leste",
+      "fa": "استان شرقی (گینه بیسائو)",
+      "pt": "Província Leste",
+      "ru": "Восточная провинция"
     },
     "comments": null,
     "type": "province"
@@ -426,7 +437,12 @@
     "translations": {
       "en": "Norte",
       "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬",
-      "de": "Provinz Norte"
+      "de": "Provinz Norte",
+      "ca": "província Nord",
+      "cy": "Talaith Norte",
+      "fa": "شمال (گینه بیسائو)",
+      "pt": "Província Norte",
+      "ru": "Северная провинция"
     },
     "comments": null,
     "type": "province"
@@ -546,7 +562,8 @@
       "zh": "基納拉區",
       "ccp": "𑄇𑄭𑄪𑄚𑄢",
       "uk": "Регіон Кінара",
-      "no": "Quinara"
+      "no": "Quinara",
+      "fa": "ناحیه کوینارا"
     },
     "comments": null,
     "type": "region"
@@ -566,7 +583,11 @@
     "translations": {
       "en": "Sul",
       "ccp": "𑄥𑄣𑄴",
-      "de": "Provinz Sul"
+      "de": "Provinz Sul",
+      "cy": "Talaith Sul",
+      "fa": "استان جنوبی (گینه بیسائو)",
+      "pt": "Província Sul",
+      "ru": "Южная провинция"
     },
     "comments": null,
     "type": "province"
@@ -625,7 +646,8 @@
       "zh": "通巴利區",
       "ccp": "𑄑𑄟𑄴𑄝𑄣𑄨",
       "uk": "Район Томбалі",
-      "no": "Tombali"
+      "no": "Tombali",
+      "fa": "ناحیه تومبالی"
     },
     "comments": null,
     "type": "region"

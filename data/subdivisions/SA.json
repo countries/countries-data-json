@@ -53,7 +53,14 @@
       "vi": "Riyadh",
       "ccp": "𑄢𑄨𑄠𑄖𑄴",
       "he": "מחוז ריאד",
-      "no": "Ar Riyad (provins)"
+      "no": "Ar Riyad (provins)",
+      "az": "Ər-Riyad regionu",
+      "hy": "Էև-Ռիյադ",
+      "ms": "Wilayah Riyadh",
+      "sr": "Ријад (провинција)",
+      "sr_Latn": "Rijad (provincija)",
+      "ta": "ரியாத் மாகாணம்",
+      "uz": "Riyod viloyati"
     },
     "comments": null,
     "type": "region"
@@ -125,7 +132,13 @@
       "pa": "ਮੱਕਾ ਸੂਬਾ",
       "ca": "Regió de la Meca",
       "mk": "Мека",
-      "no": "Mekka"
+      "no": "Mekka",
+      "az": "Məkkə bölgəsi",
+      "ha": "yankin Makka",
+      "ha_NE": "yankin Makka",
+      "hy": "Մեքքայի շրջան",
+      "sq": "Provinca Meka",
+      "uz": "Makka viloyati"
     },
     "comments": null,
     "type": "region"
@@ -267,7 +280,9 @@
       "zh": "东部省",
       "ccp": "𑄃𑄨𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
       "ca": "Província Oriental",
-      "no": "Ash Sharqiyah"
+      "no": "Ash Sharqiyah",
+      "hy": "Արևելյան նահանգ",
+      "uz": "Sharqiy viloyati, Saudi Arabistoni"
     },
     "comments": null,
     "type": "region"
@@ -336,7 +351,12 @@
       "ccp": "𑄃𑄣𑄴-𑄇𑄪𑄥𑄨𑄟𑄴",
       "he": "אזור אלקסים",
       "pa": "ਅਲ-ਕਸੀਮ ਸੂਬਾ",
-      "no": "Al Qasim (provins)"
+      "no": "Al Qasim (provins)",
+      "ha": "Yankin Al-Qassim",
+      "ha_NE": "Yankin Al-Qassim",
+      "hy": "Ալ Քասիմ",
+      "ka": "ელ-ქაზიმი",
+      "uz": "Al-Qassim viloyati"
     },
     "comments": null,
     "type": "region"
@@ -407,7 +427,8 @@
       "pa": "ਹਾਇਲ ਰਿਆਸਤ",
       "ca": "Província de Ha’il",
       "mk": "Хаил",
-      "no": "Ha’il"
+      "no": "Ha’il",
+      "uz": "Hail viloyati"
     },
     "comments": null,
     "type": "region"
@@ -475,7 +496,8 @@
       "zh": "塔布克省",
       "ccp": "𑄑𑄝𑄪𑄇𑄴",
       "pa": "ਤਬੂਕ ਸੂਬਾ",
-      "no": "Tabuk (provins)"
+      "no": "Tabuk (provins)",
+      "uz": "Tabuk viloyati"
     },
     "comments": null,
     "type": "region"
@@ -532,7 +554,9 @@
       "zh": "北部边疆省",
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄥𑄨𑄟𑄨𑄚𑄬",
       "ca": "Província de la Frontera Septentrional",
-      "no": "Al Hudud ash Shamaliyah"
+      "no": "Al Hudud ash Shamaliyah",
+      "he": "מחוז אל-חודוד א-שמאליה",
+      "ta": "வடக்கு எல்லைகள் மாகாணம்"
     },
     "comments": null,
     "type": "region"
@@ -588,7 +612,11 @@
       "vi": "Jizan",
       "zh": "吉赞省",
       "ccp": "𑄎𑄨𑄎𑄚𑄴",
-      "no": "Jizan"
+      "no": "Jizan",
+      "cs": "Džižan",
+      "he": "מחוז ג׳אזאן",
+      "ta": "ஜாசான் மாகாணம்",
+      "uz": "Jizan viloyati"
     },
     "comments": null,
     "type": "region"
@@ -652,7 +680,10 @@
       "zh": "奈季兰省",
       "ccp": "𑄚𑄌𑄴𑄢𑄚𑄴",
       "ca": "Província de Najran",
-      "no": "Najran"
+      "no": "Najran",
+      "cs": "Provincie Nadžrán",
+      "he": "מחוז נג׳ראן",
+      "uz": "Najron viloyati"
     },
     "comments": null,
     "type": "region"
@@ -720,7 +751,10 @@
       "zh": "巴哈省",
       "ccp": "𑄃𑄣𑄴 𑄝𑄦𑄴",
       "pa": "ਅਲਬਾਹਾ ਸੂਬਾ",
-      "no": "al-Bāḥa"
+      "no": "al-Bāḥa",
+      "he": "מחוז אל-באחה",
+      "ne": "अल बाहा प्रान्त",
+      "uz": "Al-Baha viloyati"
     },
     "comments": null,
     "type": "region"
@@ -789,7 +823,9 @@
       "zh": "焦夫省 (沙地阿拉伯)",
       "ccp": "𑄃𑄣𑄴 𑄎𑄧𑄠𑄮𑄛𑄴",
       "pa": "ਜੌਫ਼ ਸੂਬਾ",
-      "no": "Al Jawf (provins)"
+      "no": "Al Jawf (provins)",
+      "he": "מחוז אל-ג׳וף",
+      "hy": "Ալ Ջաուֆ"
     },
     "comments": null,
     "type": "region"
@@ -859,7 +895,9 @@
       "ccp": "𑄃𑄥𑄨𑄢𑄴",
       "pa": "ਅਸੀਰ ਰਿਆਸਤ",
       "ne": "असिर प्रान्त",
-      "no": "Asir"
+      "no": "Asir",
+      "az": "Əsir bölgəsi",
+      "gl": "Provincia de Asir"
     },
     "comments": null,
     "type": "region"

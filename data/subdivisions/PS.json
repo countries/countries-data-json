@@ -54,7 +54,8 @@
       "lv": "Bētlemes muhāfaza",
       "ccp": "𑄝𑄬𑄗𑄬𑄣𑄴𑄦𑄟𑄴",
       "be": "Віфлеем",
-      "no": "Bethlehem Governorate"
+      "no": "Bethlehem Governorate",
+      "cy": "Llywodraethiaeth Bethlehem"
     },
     "comments": null,
     "type": "governorate"
@@ -112,7 +113,8 @@
       "zh": "代尔拜莱赫省",
       "ccp": "𑄓𑄬𑄃𑄨𑄢𑄴 𑄃𑄣𑄴 𑄝𑄣𑄦𑄴",
       "he": "דיר אל-בלח (נפה)",
-      "uk": "Муніципалітет Дейр-ель-Балах"
+      "uk": "Муніципалітет Дейр-ель-Балах",
+      "cy": "Llywodraethiaeth Deir al-Balah"
     },
     "comments": null,
     "type": "governorate"
@@ -152,7 +154,11 @@
       "ccp": "𑄉𑄎",
       "he": "עזה (נפה)",
       "it": "governatorato di Gaza",
-      "uk": "мугафаза Ґаза"
+      "uk": "мугафаза Ґаза",
+      "bn": "গাজা গভর্নরেট",
+      "cy": "Llywodraethiaeth Gaza",
+      "el": "Κυβερνείο Γάζας",
+      "ta": "காசா ஆளுநரகம்"
     },
     "comments": null,
     "type": "governorate"
@@ -211,7 +217,9 @@
       "lv": "Hebronas muhāfaza",
       "zh": "希布伦省",
       "ccp": "𑄦𑄬𑄝𑄳𑄢𑄧𑄚𑄴",
-      "no": "Herbron Governorate"
+      "no": "Herbron Governorate",
+      "ceb": "Al Khalil",
+      "cy": "Llywodraethiaeth Hebron"
     },
     "comments": null,
     "type": "governorate"
@@ -251,7 +259,10 @@
       "pl": "Jerozolima",
       "ccp": "𑄎𑄬𑄢𑄪𑄎𑄣𑄬𑄟𑄴",
       "de": "Gouvernement Jerusalem",
-      "be": "Іерусалім"
+      "be": "Іерусалім",
+      "cy": "Llywodraethiaeth Jeriwsalem",
+      "id": "Kegubernuran Yerusalem",
+      "tr": "Kudüs valiliği"
     },
     "comments": null,
     "type": "governorate"
@@ -291,7 +302,11 @@
       "ur": "محافظہ جنین",
       "zh": "杰宁省",
       "pl": "Dżanin",
-      "ccp": "𑄎𑄬𑄚𑄨𑄚𑄴"
+      "ccp": "𑄎𑄬𑄚𑄨𑄚𑄴",
+      "cy": "Llywodraethiaeth Jenin",
+      "el": "Κυβερνείο Τζενίν",
+      "ta": "ஜெனின் ஆளுநரகம்",
+      "th": "เขตผู้ว่าการญินีน"
     },
     "comments": null,
     "type": "governorate"
@@ -327,7 +342,12 @@
       "ur": "محافظہ اریحا",
       "zh": "杰里科省",
       "pl": "Jerycho",
-      "ccp": "𑄎𑄬𑄢𑄨𑄇𑄮"
+      "ccp": "𑄎𑄬𑄢𑄨𑄇𑄮",
+      "cy": "Llywodraethiaeth Jericho",
+      "de": "Gouvernement Jericho",
+      "el": "Κυβερνείο Ιεριχούς",
+      "ta": "எரிக்கோ ஆளுநரகம்",
+      "tr": "Eriha valiliği"
     },
     "comments": null,
     "type": "governorate"
@@ -367,7 +387,10 @@
       "pl": "Chan Junus",
       "ccp": "𑄈𑄚𑄴 𑄃𑄨𑄅𑄪𑄚𑄪𑄌𑄴",
       "he": "ח׳אן יונס (נפה)",
-      "it": "governatorato di Khan Yunis"
+      "it": "governatorato di Khan Yunis",
+      "cy": "Llywodraethiaeth Khan Yunis",
+      "el": "Κυβερνείο Χαν Γιουνίς",
+      "ta": "கான் யூனிஸ் ஆளுநரகம்"
     },
     "comments": null,
     "type": "governorate"
@@ -427,7 +450,9 @@
       "zh": "纳布卢斯省",
       "ccp": "𑄚𑄛𑄴𑄣𑄌𑄴",
       "uk": "Муніципалітет Наблус",
-      "no": "Nablus Governorate"
+      "no": "Nablus Governorate",
+      "cy": "Llywodraethiaeth Nablus",
+      "hy": "Նաբլուս"
     },
     "comments": null,
     "type": "governorate"
@@ -487,7 +512,8 @@
       "ccp": "𑄅𑄧𑄖𑄳𑄦𑄧𑄢𑄴 𑄉𑄎",
       "he": "צפון עזה (נפה)",
       "uk": "Муніципалітет Північна Газа",
-      "no": "Nord Gaza Governorate"
+      "no": "Nord Gaza Governorate",
+      "cy": "Llywodraethiaeth Gogledd Gaza"
     },
     "comments": null,
     "type": "governorate"
@@ -546,7 +572,9 @@
       "zh": "盖勒吉利耶省",
       "ccp": "𑄇𑄪𑄠𑄣𑄴𑄇𑄪𑄣𑄨𑄠",
       "uk": "Муніципалітет Калькілія",
-      "no": "Qalqilya"
+      "no": "Qalqilya",
+      "ceb": "Qalqilya",
+      "cy": "Llywodraethiaeth Qalqilya"
     },
     "comments": null,
     "type": "governorate"
@@ -604,7 +632,8 @@
       "zh": "拉马拉和比雷赫省",
       "ccp": "𑄢𑄟𑄣𑄳𑄣𑄦𑄴 𑄃𑄳𑄃 𑄃𑄣𑄴-𑄝𑄨𑄢𑄬𑄦𑄴",
       "uk": "Муніципалітет Рамалла та ель-Біра",
-      "no": "Ramallah og al-Bireh"
+      "no": "Ramallah og al-Bireh",
+      "cy": "Llywodraethiaeth Ramal-lâh ac Al-Bireh"
     },
     "comments": null,
     "type": "governorate"
@@ -644,7 +673,11 @@
       "zh": "拉法省",
       "pl": "Rafah",
       "ccp": "𑄢𑄜𑄦𑄴",
-      "it": "governatorato di Rafah"
+      "it": "governatorato di Rafah",
+      "cy": "Llywodraethiaeth Rafah",
+      "el": "Κυβερνείο Ράφαχ",
+      "ta": "ரஃபா ஆளுநரகம்",
+      "tr": "Refah valiliği"
     },
     "comments": null,
     "type": "governorate"
@@ -703,7 +736,8 @@
       "zh": "萨尔费特省",
       "ccp": "𑄥𑄣𑄴𑄜𑄨𑄖𑄴",
       "uk": "Муніципалітет Салфіт",
-      "no": "Salfit Governorate"
+      "no": "Salfit Governorate",
+      "cy": "Llywodraethiaeth Salfit"
     },
     "comments": null,
     "type": "governorate"
@@ -742,7 +776,12 @@
       "zh": "图巴斯省",
       "pl": "Tubas",
       "ccp": "𑄑𑄪𑄝𑄌𑄴",
-      "it": "governatorato di Tubas"
+      "it": "governatorato di Tubas",
+      "bn": "তুবাস গভর্নরেট",
+      "cy": "Rhanbarth Tubas",
+      "de": "Gouvernement Tubas",
+      "el": "Κυβερνείο Τουμπάς",
+      "ta": "துபாஸ் ஆளுநரகம்"
     },
     "comments": null,
     "type": "governorate"
@@ -801,7 +840,8 @@
       "zh": "图勒凯尔姆省",
       "ccp": "𑄑𑄪𑄣𑄴𑄇𑄢𑄴𑄟𑄴",
       "uk": "Муніципалітет Тулькарм",
-      "no": "Tulkarm"
+      "no": "Tulkarm",
+      "cy": "Rhanbarth Tulkarm"
     },
     "comments": null,
     "type": "governorate"

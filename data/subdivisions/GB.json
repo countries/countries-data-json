@@ -93,7 +93,11 @@
       "be": "Абердзіншыр",
       "yo": "Aberdeenshire",
       "no": "Aberdeenshire",
-      "yo_BJ": "Aberdeenshire"
+      "yo_BJ": "Aberdeenshire",
+      "el": "Αμπερντήνσαϊρ",
+      "he": "אברדינשייר",
+      "yue": "鴨巴甸郡",
+      "yue_Hans": "鸭巴甸郡"
     },
     "comments": null,
     "type": "council_area"
@@ -186,7 +190,8 @@
       "bs": "Aberdeen",
       "mk": "Абердин",
       "no": "Aberdeen",
-      "yo_BJ": "Aberdeen"
+      "yo_BJ": "Aberdeen",
+      "sd": "ايبرڊين"
     },
     "comments": null,
     "type": "council_area"
@@ -243,7 +248,8 @@
       "kn": "ಆರ್ಗೈಲ್ ಮತ್ತು ಬ್ಯುಟೆ",
       "kk": "Аргайл-энд-Бьют",
       "az": "Arqayl-end-Büt",
-      "no": "Argyll and Bute"
+      "no": "Argyll and Bute",
+      "ar": "أرغيل وبوت"
     },
     "comments": null,
     "type": "council_area"
@@ -313,7 +319,8 @@
       "da": "Anglesey",
       "yue": "安格爾西島",
       "th": "แองเกิลซีย์",
-      "no": "Anglesey"
+      "no": "Anglesey",
+      "ur": "انگلسی"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -349,7 +356,8 @@
       "ko": "아르즈",
       "es": "Ards and North Down",
       "kn": "ಆರ್ಡ್ಸ್ ಮತ್ತು ನಾರ್ತ್ ಡೌನ್",
-      "pt": "Ards and North Down"
+      "pt": "Ards and North Down",
+      "az": "Ards və Norf-Daun"
     },
     "comments": null,
     "type": "district"
@@ -440,7 +448,10 @@
       "kn": "ಆಂಗಸ್",
       "yue": "安格斯",
       "mk": "Ангус",
-      "no": "Angus"
+      "no": "Angus",
+      "az": "Angus",
+      "my": "အားအန်ဂက်စ်၊ စကော့တလန်",
+      "sk": "Angus"
     },
     "comments": null,
     "type": "council_area"
@@ -487,7 +498,11 @@
       "kn": "ಬಾತ್ ಮತ್ತು ಈಶಾನ್ಯ ಸೊಮರ್ಸೆಟ್",
       "pt": "Bath and North East Somerset",
       "mk": "Бат и Североисточен Сомерсет",
-      "no": "Bath and North East Somerset"
+      "no": "Bath and North East Somerset",
+      "cy": "Caerfaddon a Gogledd-ddwyrain Gwlad yr Haf",
+      "fi": "Bath ja North East Somerset",
+      "he": "באת׳ וצפון מזרח סומרסט",
+      "hy": "Բաթ և Հյուսիս-արևելյան Սոմերսեթ"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -532,14 +547,31 @@
       "es": "Blackburn with Darwen",
       "kn": "ಡಾರ್ವೆನ್ನೊಂದಿಗೆ ಬ್ಲ್ಯಾಕ್ಬರ್ನ್",
       "pt": "Blackburn with Darwen",
-      "no": "Blackburn with Darwen"
+      "no": "Blackburn with Darwen",
+      "cy": "Bwrdeistref Blackburn gyda Darwen",
+      "yue": "布力般-達溫",
+      "yue_Hans": "布力般-达温"
     },
     "comments": null,
     "type": "unitary_authority"
   },
   "BCP": {
     "translations": {
-      "en": "Bournemouth, Christchurch and Poole"
+      "en": "Bournemouth, Christchurch and Poole",
+      "az": "Bornmut, Kraystçörç və Pul",
+      "be": "Борнмут, Крайстчэрч і Пул",
+      "ceb": "Bournemouth, Christchurch and Poole",
+      "cy": "Bournemouth, Christchurch a Poole",
+      "de": "Bournemouth, Christchurch and Poole",
+      "fi": "Bournemouth, Christchurch ja Poole",
+      "fr": "Bournemouth, Christchurch et Poole",
+      "ja": "ボーンマス・クライストチャーチ・アンド・プール",
+      "nl": "Bournemouth, Christchurch and Poole",
+      "pl": "Bournemouth, Christchurch and Poole",
+      "ru": "Борнмут, Крайстчерч и Пул",
+      "sv": "Bournemouth, Christchurch and Poole",
+      "uk": "Борнмут, Крайстчерч і Пул",
+      "zh": "伯恩茅斯，基督城和普尔统一管理区"
     },
     "name": "Bournemouth, Christchurch and Poole",
     "code": "BCP",
@@ -577,7 +609,9 @@
       "fa": "بدفورد بورو",
       "ccp": "𑄝𑄬𑄖𑄴𑄜𑄮𑄢𑄴𑄓𑄴",
       "es": "Bedford",
-      "no": "Bedford (distrikt)"
+      "no": "Bedford (distrikt)",
+      "cy": "Bwrdeistref Bedford",
+      "ga": "Bedford"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -639,7 +673,8 @@
       "gu": "લંડન બોરો ઓફ બાર્કિંગ અને ડગેનહામ",
       "ga": "Buirg Londan Barking agus Dagenham",
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಬಾರ್ಕಿಂಗ್ ಮತ್ತು ಡೇಗೆನ್ಹ್ಯಾಮ್",
-      "no": "Barking and Dagenham"
+      "no": "Barking and Dagenham",
+      "et": "Barking and Dagenham"
     },
     "comments": null,
     "type": "london_borough"
@@ -702,7 +737,8 @@
       "ga": "Buirg Londan Brent",
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಬ್ರೆಂಟ್",
       "mk": "Брент",
-      "no": "Brent"
+      "no": "Brent",
+      "hy": "Բրենտ"
     },
     "comments": null,
     "type": "london_borough"
@@ -790,7 +826,9 @@
       "ru": "Белфаст",
       "uk": "Белфаст",
       "zh": "貝爾法斯特區",
-      "ccp": "𑄝𑄬𑄣𑄴𑄜𑄌𑄳𑄑𑄴"
+      "ccp": "𑄝𑄬𑄣𑄴𑄜𑄌𑄳𑄑𑄴",
+      "cy": "Ardal Belffast",
+      "ga": "ceantar Bhéal Feirste"
     },
     "comments": null,
     "type": "council_area"
@@ -845,7 +883,8 @@
       "ga": "Pen-y-bont ar Ogwr",
       "kn": "ಬ್ರಿಡ್ಜೆಂಡ್ ಕೌಂಟಿ ಬರೋ",
       "pt": "Bridgend County Borough",
-      "no": "Bridgend"
+      "no": "Bridgend",
+      "ps": "بریډ جند"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -896,7 +935,8 @@
       "gu": "બ્લેનો ગ્વેંટ કાઉન્ટી બોરો",
       "ga": "Blaenau Gwent",
       "kn": "ಬ್ಲೇನೌ ಗ್ವೆಂಟ್ ಕೌಂಟಿ ಬರೋ",
-      "no": "Blaenau Gwent"
+      "no": "Blaenau Gwent",
+      "da": "Blaenau Gwent"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -977,7 +1017,9 @@
       "ceb": "City and Borough of Birmingham",
       "sr_Latn": "Birmingem",
       "ccp": "𑄝𑄢𑄴𑄟𑄨𑄁𑄦𑄟𑄴",
-      "no": "Birmingham"
+      "no": "Birmingham",
+      "cy": "Dinas Birmingham",
+      "ga": "Birmingham"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -1054,7 +1096,8 @@
       "kn": "ಬಕಿಂಗ್ಹ್ಯಾಮ್ಷೈರ್",
       "yue": "白金漢郡",
       "mk": "Бакингемшир",
-      "no": "Buckinghamshire"
+      "no": "Buckinghamshire",
+      "az": "Bakingemşir"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -1183,7 +1226,14 @@
       "ga": "Brighton & Hove",
       "kn": "ಬ್ರೈಟನ್ ಮತ್ತು ಹೋವ್",
       "mk": "Брајтон и Хоув",
-      "no": "Brighton and Hove"
+      "no": "Brighton and Hove",
+      "az": "Brayton və Houv",
+      "ca": "Brighton and Hove",
+      "cs": "Brighton and Hove",
+      "he": "ברייטון והוב",
+      "is": "Brighton og Hove",
+      "yue": "白禮頓-賀夫",
+      "yue_Hans": "白礼顿-贺夫"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -1221,7 +1271,10 @@
       "ccp": "𑄝𑄢𑄴𑄚𑄴𑄌𑄳𑄣𑄬",
       "uk": "Барнслі",
       "be": "Муніцыпальны раён Барнслі",
-      "no": "Barnsley"
+      "no": "Barnsley",
+      "cy": "Bwrdeistref Fetropolitan Barnsley",
+      "fi": "Barnsley",
+      "ga": "Barnsley"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -1261,7 +1314,10 @@
       "fa": "کلان‌شهر مستقل بولتون",
       "ccp": "𑄝𑄮𑄣𑄴𑄑𑄧𑄚𑄴",
       "be": "раён Болтан",
-      "no": "Bolton"
+      "no": "Bolton",
+      "cy": "Bwrdeistref Fetropolitan Bolton",
+      "ga": "Bolton",
+      "uk": "Болтон"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -1384,7 +1440,10 @@
       "gu": "બ્રેકનેલ ફોરેસ્ટ",
       "es": "Bracknell Forest",
       "kn": "ಬ್ರಾಕ್ನೆಲ್ ಫಾರೆಸ್ಟ್",
-      "no": "Bracknell Forest"
+      "no": "Bracknell Forest",
+      "cy": "Bwrdeistref Bracknell Forest",
+      "ga": "Bracknell Forest",
+      "hy": "Բրեքնել Ֆորեսթ"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -1424,7 +1483,9 @@
       "hy": "Բրադֆորդ",
       "es": "Ciudad de Bradford",
       "uk": "Брадфорд",
-      "no": "City of Bradford"
+      "no": "City of Bradford",
+      "cy": "Dinas Bradford",
+      "ga": "Bradford"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -1625,7 +1686,10 @@
       "ccp": "𑄝𑄢𑄨",
       "uk": "Бері",
       "be": "Беры",
-      "no": "Bury"
+      "no": "Bury",
+      "cy": "Bwrdeisdref Fetropolitan Bury",
+      "ga": "Bury",
+      "hy": "Բյուրի"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -1701,7 +1765,8 @@
       "kn": "ಕೇಂಬ್ರಿಜ್ಷೈರ್",
       "yue": "劍橋郡",
       "mk": "Кембриџшир",
-      "no": "Cambridgeshire"
+      "no": "Cambridgeshire",
+      "az": "Kembricşir"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -1795,7 +1860,9 @@
       "kn": "ಸೆಂಟ್ರಲ್ ಬೆಡ್ಫೋರ್ಡ್ಶೈರ್",
       "pt": "Central Bedfordshire",
       "yue": "中百福郡",
-      "be": "Цэнтральны Бедфардшыр"
+      "be": "Цэнтральны Бедфардшыр",
+      "ca": "Central Bedfordshire",
+      "cy": "Canol Swydd Bedford"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -1887,7 +1954,9 @@
       "ga": "Ceredigion",
       "kn": "ಸೆರೆಡಿಜನ್",
       "cs": "Ceredigion",
-      "no": "Ceredigion"
+      "no": "Ceredigion",
+      "da": "Ceredigion",
+      "tr": "Ceredigion"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -1929,7 +1998,10 @@
       "hy": "Արևելյան Չեշիր",
       "es": "Cheshire East",
       "kn": "ಚೆಷೈರ್ ಈಸ್ಟ್",
-      "pt": "Cheshire East"
+      "pt": "Cheshire East",
+      "ar": "تشيشير إيست",
+      "cy": "Dwyrain Swydd Gaer",
+      "ga": "Cheshire Thoir"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -1970,7 +2042,10 @@
       "es": "Cheshire West and Chester",
       "kn": "ಚೆಶೈರ್ ವೆಸ್ಟ್ ಮತ್ತು ಚೆಸ್ಟರ್",
       "pt": "Cheshire West and Chester",
-      "be": "Заходні Чэшыр і Чэстэр"
+      "be": "Заходні Чэшыр і Чэстэр",
+      "cy": "Gorllewin Swydd Gaer a Chaer",
+      "fi": "Cheshire West ja Chester",
+      "hy": "Չեստեր և Արևմտյան Չեշիր"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2010,7 +2085,11 @@
       "fa": "کالدردیل",
       "ccp": "𑄇𑄳𑄠𑄣𑄴𑄓𑄢𑄴𑄓𑄣𑄬",
       "eu": "Calderdale",
-      "no": "Calderdale"
+      "no": "Calderdale",
+      "az": "Kolderdeyl",
+      "cy": "Calderdale",
+      "ga": "Calderdale",
+      "hy": "Կալդերդեյլ"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -2063,7 +2142,8 @@
       "gu": "ક્લેકમેનશાયર",
       "ga": "Clach Mhanainn",
       "kn": "ಕ್ಲಾಕ್ಮನ್ಶೈರ್",
-      "no": "Clackmannanshire"
+      "no": "Clackmannanshire",
+      "az": "Klakmannanşir"
     },
     "comments": null,
     "type": "council_area"
@@ -2140,7 +2220,8 @@
       "kn": "ಕುಂಬ್ರಿಯಾ",
       "yue": "金巴倫郡",
       "mk": "Камбрија",
-      "no": "Cumbria"
+      "no": "Cumbria",
+      "az": "Kambriya"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -2204,7 +2285,9 @@
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಕ್ಯಾಮ್ಡೆನ್",
       "yue": "劍頓區",
       "mk": "Камден",
-      "no": "Camden"
+      "no": "Camden",
+      "ceb": "Camden",
+      "th": "ลอนดอนโบโรออฟคามเดิน"
     },
     "comments": null,
     "type": "london_borough"
@@ -2265,7 +2348,8 @@
       "kn": "ಕಾರ್ಮರ್ಥನ್ಶೈರ್",
       "pt": "Carmarthenshire",
       "be": "Кармартэншыр",
-      "no": "Carmarthenshire"
+      "no": "Carmarthenshire",
+      "hy": "Կարմարթենշիր"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2342,7 +2426,9 @@
       "gu": "કોર્નવોલ",
       "ka": "კორნუოლი",
       "kn": "ಕಾರ್ನ್ವಾಲ್",
-      "no": "Cornwall"
+      "no": "Cornwall",
+      "az": "Kornuoll",
+      "ga": "Corn na Breataine"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2419,7 +2505,9 @@
       "ceb": "Coventry",
       "sr_Latn": "Koventri",
       "ccp": "𑄇𑄮𑄞𑄬𑄚𑄴𑄑𑄳𑄢𑄨",
-      "no": "Coventry"
+      "no": "Coventry",
+      "cy": "Dinas Coventry",
+      "ga": "Coventry"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -2621,7 +2709,9 @@
       "ccp": "𑄇𑄧𑄚𑄴𑄃𑄪𑄃𑄨",
       "ga": "Conwy",
       "cs": "Conwy",
-      "no": "Conwy"
+      "no": "Conwy",
+      "da": "Conwy County Borough",
+      "pt": "Conwy County Borough"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2655,7 +2745,8 @@
       "zh": "達靈頓區",
       "ceb": "Darlington (kondado)",
       "ccp": "𑄓𑄢𑄴𑄣𑄨𑄁𑄑𑄧𑄚𑄴",
-      "no": "Darlington"
+      "no": "Darlington",
+      "cy": "Bwrdeistref Darlington"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2731,7 +2822,9 @@
       "kn": "ಡರ್ಬಿಶೈರ್",
       "yue": "打比郡",
       "mk": "Дарбишир",
-      "no": "Derbyshire"
+      "no": "Derbyshire",
+      "az": "Derbişir",
+      "my": "ဒါဘီရှိုင်းယား"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -2792,7 +2885,9 @@
       "ga": "Sir Ddinbych",
       "kn": "ಡೆನ್ಬಿಘೈರ್",
       "pt": "Denbighshire",
-      "no": "Denbighshire"
+      "no": "Denbighshire",
+      "ar": "دنبيشير",
+      "da": "Denbighshire"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -2953,7 +3048,8 @@
       "kn": "ಡೆವೊನ್",
       "yue": "德雲 （行政郡）",
       "mk": "Девон",
-      "no": "Devon"
+      "no": "Devon",
+      "sq": "Devon (Angli)"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -3007,7 +3103,8 @@
       "gu": "ડમફ્રીઝ અને ગેલોવે",
       "ga": "Comhairle Dhún Phrís is Gall-Ghaidhealaibh",
       "kn": "ಡಮ್ಫ್ರೀಸ್ ಮತ್ತು ಗ್ಯಾಲೋವೆ",
-      "no": "Dumfries and Galloway"
+      "no": "Dumfries and Galloway",
+      "hy": "Դամֆրիս ընդ Գալոուեյ"
     },
     "comments": null,
     "type": "council_area"
@@ -3045,7 +3142,11 @@
       "fa": "کلان‌شهر مستقل دانکستر",
       "ja": "メトロポリタン・バラ・オブ・ドンカスター",
       "ccp": "𑄓𑄧𑄚𑄴𑄇𑄌𑄴𑄑𑄢𑄴",
-      "no": "Doncaster (distrikt)"
+      "no": "Doncaster (distrikt)",
+      "az": "Donkaster",
+      "cy": "Bwrdeistref Fetropolitan Doncaster",
+      "fi": "Doncaster",
+      "ga": "Doncaster"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -3236,7 +3337,8 @@
       "zh": "德里城和斯特拉班",
       "fa": "دری و استرابن",
       "ccp": "𑄓𑄬𑄢𑄨 𑄃𑄳𑄃 𑄌𑄳𑄑𑄳𑄢𑄳𑄢𑄳𑄢𑄧𑄝𑄚𑄨",
-      "es": "Distrito de Derry y Strabane"
+      "es": "Distrito de Derry y Strabane",
+      "ga": "Cathair Dhoire agus an Srath Bán"
     },
     "comments": null,
     "type": "district"
@@ -3270,7 +3372,9 @@
       "ceb": "Dudley",
       "fa": "کلان‌شهر مستقل دادلی",
       "ccp": "𑄓𑄪𑄖𑄴𑄣𑄬",
-      "no": "Dudley"
+      "no": "Dudley",
+      "cy": "Bwrdeistref Fetropolitan Dudley",
+      "ga": "Dudley"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -3341,7 +3445,9 @@
       "gu": "કાઉન્ટી ડરહામ",
       "gl": "Condado de Durham",
       "kn": "ಕೌಂಟಿ ಡರ್ಹಾಮ್",
-      "no": "Durham"
+      "no": "Durham",
+      "el": "κομητεία Ντέραμ",
+      "ga": "Contae Durham"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -3398,7 +3504,9 @@
       "sr_Latn": "Londonska opština Iling",
       "ccp": "𑄃𑄨𑄠𑄢𑄴𑄣𑄨𑄁",
       "ga": "Buirg Londan Ealing",
-      "no": "Ealing"
+      "no": "Ealing",
+      "it": "Ealing",
+      "th": "ลอนดอนโบโรออฟอีลิง"
     },
     "comments": null,
     "type": "london_borough"
@@ -3553,7 +3661,9 @@
       "uz": "Edinburg",
       "bs": "Edinburgh",
       "mk": "Единбург",
-      "no": "Edinburgh"
+      "no": "Edinburgh",
+      "jv": "Edinburgh",
+      "ky": "Эдинбург"
     },
     "comments": null,
     "type": "council_area"
@@ -3664,7 +3774,10 @@
       "ga": "Lodainn an Ear",
       "kn": "ಪೂರ್ವ ಲೋಥಿಯನ್",
       "kk": "Ист-Лотиан",
-      "no": "East Lothian"
+      "no": "East Lothian",
+      "hy": "Արևելյան Լոթիան",
+      "yue": "東洛錫安",
+      "yue_Hans": "东洛锡安"
     },
     "comments": null,
     "type": "council_area"
@@ -3727,7 +3840,10 @@
       "sk": "Vonkajšie Hebridy",
       "az": "Xarici Hebrid adaları",
       "mk": "Надворешни Хебриди",
-      "no": "Ytre Hebridene"
+      "no": "Ytre Hebridene",
+      "el": "Εξωτερικές Εβρίδες",
+      "he": "ההיברידים החיצוניים",
+      "th": "เอาเตอร์เฮบริดีส"
     },
     "comments": null,
     "type": "council_area"
@@ -3877,7 +3993,25 @@
       "ur": "انگلینڈ",
       "vi": "Anh Quốc",
       "zh": "英格兰",
-      "zh_Hant": "英格蘭"
+      "zh_Hant": "英格蘭",
+      "bs": "Engleska",
+      "ceb": "Inglatera",
+      "cy": "Lloegr",
+      "ga": "Sasana",
+      "jv": "Inggris",
+      "kk": "Англия",
+      "ky": "Англия",
+      "mk": "Англија",
+      "my": "အင်္ဂလန်နိုင်ငံ",
+      "pa": "ਇੰਗਲੈਂਡ",
+      "so": "Ingiriiska",
+      "sq": "Anglia",
+      "sr_Latn": "Engleska",
+      "uz": "Angliya",
+      "yo": "Ilẹ̀gẹ̀ẹ́sì",
+      "yo_BJ": "Ilɛ̀gɛ̀ɛ́sì",
+      "yue": "英倫",
+      "yue_Hans": "英伦"
     },
     "comments": null,
     "type": "country"
@@ -4074,7 +4208,10 @@
       "kn": "ಎಸ್ಸೆಕ್ಸ್",
       "yue": "雅息士郡",
       "mk": "Есекс",
-      "no": "Essex"
+      "no": "Essex",
+      "az": "Esseks",
+      "hr": "Essex (grofovija)",
+      "uz": "Essex"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -4150,7 +4287,11 @@
       "kn": "ಪೂರ್ವ ಸಸೆಕ್ಸ್",
       "yue": "東修適士",
       "mk": "Источен Сасекс",
-      "no": "East Sussex"
+      "no": "East Sussex",
+      "az": "Şərqi Susseks",
+      "ga": "Sussex Thoir",
+      "hr": "Istočni Sussex",
+      "my": "အိစက်စက်"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -4201,7 +4342,10 @@
       "ga": "Comhairle na h-Eaglaise Brice",
       "es": "Falkirk",
       "kn": "ಫಾಲ್ಕಿರ್ಕ್",
-      "no": "Falkirk"
+      "no": "Falkirk",
+      "ar": "فالكيرك",
+      "az": "Falkerk",
+      "he": "פולקרק"
     },
     "comments": null,
     "type": "council_area"
@@ -4266,7 +4410,10 @@
       "kk": "Файф",
       "yue": "快富",
       "mk": "Фајф",
-      "no": "Fife"
+      "no": "Fife",
+      "ar": "فايف",
+      "az": "Fayf",
+      "gl": "Fife, Escocia"
     },
     "comments": null,
     "type": "council_area"
@@ -4325,7 +4472,9 @@
       "gu": "ફ્લિંટશાયર",
       "ga": "Sir y Fflint",
       "kn": "ಫ್ಲಿಂಟ್ಸ್ಶೈರ್",
-      "no": "Flintshire"
+      "no": "Flintshire",
+      "az": "Flintşir",
+      "da": "Flintshire"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -4387,7 +4536,12 @@
       "fa": "کلان‌شهر مستقل گیتس‌هد",
       "ja": "メトロポリタン・バラ・オブ・ゲーツヘッド",
       "ccp": "𑄉𑄬𑄖𑄴𑄥𑄬𑄖𑄴",
-      "no": "Gateshead"
+      "no": "Gateshead",
+      "ca": "Gateshead",
+      "cy": "Bwrdeistref Fetropolitan Gateshead",
+      "ga": "Gateshead",
+      "he": "גייטסהד",
+      "uk": "Метропольне бюро в Гейтсхеді"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -4485,7 +4639,10 @@
       "mk": "Глазгов",
       "ha_NE": "Glasgow",
       "no": "Glasgow",
-      "yo_BJ": "Glasgow"
+      "yo_BJ": "Glasgow",
+      "mn": "Глазгоу",
+      "ps": "ګلاسګو",
+      "sd": "گلاسگو"
     },
     "comments": null,
     "type": "council_area"
@@ -4622,7 +4779,9 @@
       "yue": "格林尼治區",
       "uz": "Grinvich",
       "mk": "Гринич",
-      "no": "Greenwich"
+      "no": "Greenwich",
+      "fi": "Royal Borough of Greenwich",
+      "ga": "Buirg Ríoga Greenwich"
     },
     "comments": null,
     "type": "london_borough"
@@ -4685,7 +4844,13 @@
       "ga": "Gwynedd",
       "kn": "ಗ್ವಿನೆಡ್",
       "mk": "Гвинед",
-      "no": "Gwynedd"
+      "no": "Gwynedd",
+      "ar": "جوينيد",
+      "az": "Quinet",
+      "hy": "Գվինեդ",
+      "sr": "Гвинет",
+      "sr_Latn": "Gvinet",
+      "tr": "Gwynedd"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -4732,7 +4897,9 @@
       "kn": "ಹ್ಯಾಲ್ಟನ್",
       "pt": "Halton",
       "be": "Халтан",
-      "no": "Halton"
+      "no": "Halton",
+      "cy": "Bwrdeistref Halton",
+      "ga": "Halton"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -4810,7 +4977,8 @@
       "kn": "ಹ್ಯಾಂಪ್ಶೈರ್",
       "yue": "衡州郡",
       "mk": "Хемпшир",
-      "no": "Hampshire"
+      "no": "Hampshire",
+      "az": "Hempşir"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -5011,7 +5179,8 @@
       "kn": "ಹಿಯರ್ಫೋರ್ಡ್ಶೈರ್",
       "yue": "禧福郡",
       "mk": "Херефордшир",
-      "no": "Herefordshire"
+      "no": "Herefordshire",
+      "az": "Herefordşir qraflığı"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -5133,7 +5302,9 @@
       "kn": "ಹೈಲ್ಯಾಂಡ್",
       "be": "Хайленд",
       "mk": "Хајленд",
-      "no": "Highland"
+      "no": "Highland",
+      "he": "היילנד",
+      "hy": "Հայլենդ"
     },
     "comments": null,
     "type": "council_area"
@@ -5292,7 +5463,9 @@
       "es": "Hartlepool",
       "kn": "ಹಾರ್ಟ್ಲೆಪಲ್",
       "pt": "Hartlepool",
-      "be": "Хартлпул"
+      "be": "Хартлпул",
+      "cy": "Bwrdeistref Hartlepool",
+      "hy": "Հարթլփուլ"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -5484,7 +5657,9 @@
       "ccp": "𑄦𑄢𑄨𑄁𑄉𑄳𑄠",
       "ga": "Buirg Londan Haringey",
       "mk": "Харинги",
-      "no": "Haringey"
+      "no": "Haringey",
+      "yue": "夏靈基",
+      "yue_Hans": "夏灵基"
     },
     "comments": null,
     "type": "london_borough"
@@ -5557,7 +5732,9 @@
       "kn": "ಐಲ್ಸ್ ಆಫ್ ಸಿಲ್ಲಿ",
       "yue": "錫利群島",
       "mk": "Сили",
-      "no": "Scillyøyene"
+      "no": "Scillyøyene",
+      "gl": "Illas Scilly",
+      "lv": "Sili salas"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -5639,7 +5816,9 @@
       "pa": "ਆੲੀਲ ਆਫ਼ ਵਾੲੀਟ",
       "yue": "威特島",
       "mk": "Вајт",
-      "no": "Wight"
+      "no": "Wight",
+      "hr": "Otok Wight",
+      "my": "အယ်လော့ဝိုက်"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -5697,7 +5876,8 @@
       "ga": "Buirg Londan Islington",
       "be": "Ізлінгтан",
       "mk": "Излингтон",
-      "no": "Islington"
+      "no": "Islington",
+      "bg": "Ислингтън"
     },
     "comments": null,
     "type": "london_borough"
@@ -5818,7 +5998,10 @@
       "ga": "Buirg Ríoga Kensington agus Chelsea",
       "kn": "ರಾಯಲ್ ಬರೋ ಆಫ್ ಕೆನ್ಸಿಂಗ್ಟನ್ ಮತ್ತು ಚೆಲ್ಸಿಯಾ",
       "mk": "Кензингтон и Челси",
-      "no": "Kensington and Chelsea"
+      "no": "Kensington and Chelsea",
+      "az": "Kensinqton və Çelsi",
+      "el": "Βασιλικός Δήμος του Κένσινγκτον και Τσέλσι",
+      "th": "รอยัลโบโรออฟเคนซิงทันแอนด์เชลซี"
     },
     "comments": null,
     "type": "london_borough"
@@ -5898,7 +6081,9 @@
       "uz": "Kent",
       "bs": "Kent",
       "mk": "Кент",
-      "no": "Kent"
+      "no": "Kent",
+      "hr": "Kent, grofovija",
+      "ne": "केन्ट"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -5980,7 +6165,8 @@
       "ga": "Kingston upon Hull",
       "yue": "侯城",
       "mk": "Кингстон на Хал",
-      "no": "Kingston upon Hull"
+      "no": "Kingston upon Hull",
+      "ky": "Кингстон-Апон-Халл"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -6022,7 +6208,13 @@
       "ccp": "𑄇𑄨𑄢𑄴𑄇𑄴𑄣𑄨𑄌𑄴",
       "hy": "Կիրկլիս",
       "uk": "Кірклісс",
-      "no": "Kirklees"
+      "no": "Kirklees",
+      "be": "бора Кіркліс",
+      "cy": "Kirklees",
+      "da": "Kirklees",
+      "el": "Κέρκλις",
+      "fi": "Kirklees",
+      "ga": "Kirklees"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -6124,7 +6316,11 @@
       "kn": "ನೋಸ್ಲೇ",
       "pt": "Knowsley",
       "uk": "Ноуслі",
-      "no": "Knowsley"
+      "no": "Knowsley",
+      "ca": "Knowsley",
+      "cy": "Bwrdeistref Fetropolitan Knowsley",
+      "ga": "Knowsley",
+      "hu": "Knowsley"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -6228,7 +6424,8 @@
       "ur": "لسبرن اور کیسلرے",
       "nl": "Lisburn and Castlereagh",
       "fa": "لیسبورن و کاسلری",
-      "ccp": "𑄣𑄨𑄌𑄴𑄝𑄢𑄴𑄚𑄴 𑄃𑄳𑄃 𑄇𑄳𑄠𑄥𑄧𑄣𑄴𑄢𑄨𑄇𑄴"
+      "ccp": "𑄣𑄨𑄌𑄴𑄝𑄢𑄴𑄚𑄴 𑄃𑄳𑄃 𑄇𑄳𑄠𑄥𑄧𑄣𑄴𑄢𑄨𑄇𑄴",
+      "ru": "Лисберн и Каслри"
     },
     "comments": null,
     "type": "district"
@@ -6288,7 +6485,11 @@
       "ccp": "𑄣𑄟𑄴𑄝𑄬𑄖𑄴",
       "ga": "Buirg Londan Lambeth",
       "hu": "London Borough of Lambeth",
-      "no": "Lambeth"
+      "no": "Lambeth",
+      "az": "Lambet",
+      "ka": "ლამბეთი",
+      "yue": "琳寶區",
+      "yue_Hans": "琳宝区"
     },
     "comments": null,
     "type": "london_borough"
@@ -6365,7 +6566,9 @@
       "ceb": "City of Leicester",
       "sr_Latn": "Lester",
       "ccp": "𑄣𑄬𑄭𑄥𑄬𑄌𑄴𑄑𑄢𑄴",
-      "no": "Leicester"
+      "no": "Leicester",
+      "cy": "Dinas Caerlŷr",
+      "ga": "Cathair Leicester"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -6408,7 +6611,13 @@
       "uk": "Сіті-оф-Лідс",
       "az": "Lids",
       "mk": "Град Лидс",
-      "no": "City of Leeds"
+      "no": "City of Leeds",
+      "ar": "ليدز",
+      "ca": "Leeds",
+      "ceb": "City and Borough of Leeds",
+      "cy": "Dinas Leeds",
+      "ga": "Leeds",
+      "hy": "Սիթի օֆ Լիդս"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -6489,7 +6698,8 @@
       "yue": "里斯特郡",
       "bs": "Leicestershire",
       "mk": "Лестершир",
-      "no": "Leicestershire"
+      "no": "Leicestershire",
+      "az": "Lesterşir"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -6708,7 +6918,9 @@
       "ceb": "Liverpool (kondado sa Hiniusang Gingharian, Inglatera, lat 53,42, long -2,92)",
       "sr_Latn": "Liverpul",
       "ccp": "𑄣𑄨𑄞𑄢𑄴𑄛𑄪𑄣𑄴",
-      "no": "Liverpool"
+      "no": "Liverpool",
+      "cy": "Dinas Lerpwl",
+      "ga": "Learpholl"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -6967,7 +7179,9 @@
       "ceb": "Manchester",
       "sr_Latn": "Mančester",
       "ccp": "𑄟𑄳𑄠𑄚𑄴𑄥𑄬𑄌𑄴𑄑𑄢𑄴",
-      "no": "Manchester"
+      "no": "Manchester",
+      "cy": "Dinas Manceinion",
+      "ga": "Manchain"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -7092,7 +7306,15 @@
       "ga": "Medway",
       "kn": "ಮೆಡ್ವೇ",
       "pt": "Medway",
-      "no": "Medway"
+      "no": "Medway",
+      "az": "Meduey",
+      "be": "Медуэй",
+      "cs": "Medway",
+      "cy": "Medway",
+      "fa": "مدوی",
+      "hr": "Medway, Kent",
+      "id": "Medway",
+      "is": "Medway"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -7169,7 +7391,12 @@
       "gu": "મિલ્ટન કેઇન્સ",
       "kn": "ಮಿಲ್ಟನ್ ಕೀನ್ಸ್",
       "pt": "Milton Keynes",
-      "no": "Milton Keynes"
+      "no": "Milton Keynes",
+      "be": "бора Мілтан-Кінс",
+      "cy": "Bwrdeistref Milton Keynes",
+      "el": "Μίλτον Κινζ",
+      "fi": "Milton Keynes",
+      "zh": "米尔顿凯恩斯区"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -7226,7 +7453,9 @@
       "ga": "Labhaidh Láir",
       "kn": "ಮಿಡ್ಲೊಥಿಯನ್",
       "be": "Мідлотыян",
-      "no": "Midlothian"
+      "no": "Midlothian",
+      "he": "מידלוטיאן",
+      "tr": "Midlothian"
     },
     "comments": null,
     "type": "council_area"
@@ -7286,7 +7515,11 @@
       "gu": "મોનમાઉથશાયર",
       "ga": "Sir Fynwy",
       "kn": "ಮೊನ್ಮೌತ್ಶೈರ್",
-      "no": "Monmouthshire"
+      "no": "Monmouthshire",
+      "da": "Monmouthshire",
+      "hy": "Մոնմութշիր",
+      "sq": "Monmouthshire",
+      "tr": "Monmouthshire"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -7402,7 +7635,9 @@
       "kn": "ಮೊರೇ",
       "kk": "Мори",
       "mk": "Мари",
-      "no": "Moray"
+      "no": "Moray",
+      "yue": "慕禮",
+      "yue_Hans": "慕礼"
     },
     "comments": null,
     "type": "council_area"
@@ -7537,7 +7772,8 @@
       "ga": "Comhairle Shiorrachd Áir a Tuath",
       "kn": "ಉತ್ತರ ಐರ್ಶೈರ್",
       "kk": "Норт-Эршир",
-      "no": "North Ayrshire"
+      "no": "North Ayrshire",
+      "hy": "Նորթ Էրշիր"
     },
     "comments": null,
     "type": "council_area"
@@ -7613,7 +7849,10 @@
       "kn": "ನಾರ್ಥಂಬರ್ಲ್ಯಾಂಡ್",
       "yue": "諾森伯倫郡",
       "mk": "Нортамберленд",
-      "no": "Northumberland"
+      "no": "Northumberland",
+      "az": "Nortamberlend qraflığı",
+      "gl": "Northumberland",
+      "sw": "Northumberland"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -7656,7 +7895,9 @@
       "kn": "ನಾರ್ತ್ ಈಸ್ಟ್ ಲಿಂಕನ್ಷೈರ್",
       "pt": "North East Lincolnshire",
       "be": "Паўночна-Усходні Лінкальншыр",
-      "no": "North East Lincolnshire"
+      "no": "North East Lincolnshire",
+      "cy": "Bwrdeistref Gogledd-ddwyrain Swydd Lincoln",
+      "eu": "North East Lincolnshire"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -7734,7 +7975,9 @@
       "ceb": "Newcastle upon Tyne",
       "sr_Latn": "Njukasl na Tajnu",
       "ccp": "𑄚𑄨𑄅𑄪𑄇𑄳𑄠𑄥𑄧𑄣𑄴 𑄃𑄛𑄧𑄚𑄴 𑄑𑄭𑄚𑄴",
-      "no": "Newcastle upon Tyne"
+      "no": "Newcastle upon Tyne",
+      "cy": "Dinas Newcastle upon Tyne",
+      "ga": "Newcastle upon Tyne"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -7999,7 +8242,10 @@
       "uz": "Shimoliy Irlandiya",
       "bs": "Sjeverna Irska",
       "mk": "Северна Ирска",
-      "no": "Nord-Irland"
+      "no": "Nord-Irland",
+      "my": "မြောက်အိုင်ယာလန်နိုင်ငံ",
+      "sd": "اتر آئرلينڊ",
+      "tk": "Demirgazyk Irlandiýa"
     },
     "comments": null,
     "type": "province"
@@ -8054,7 +8300,9 @@
       "gu": "ઉત્તર લેનાર્કશાયર",
       "ga": "Comhairle Shiorrachd Lannraig a Tuath",
       "kn": "ನಾರ್ತ್ ಲ್ಯಾನಾರ್ಕ್ಶೈರ್",
-      "no": "North Lanarkshire"
+      "no": "North Lanarkshire",
+      "az": "Nort-Lanarkşir",
+      "mk": "Северен Ланаркшир"
     },
     "comments": null,
     "type": "council_area"
@@ -8099,7 +8347,10 @@
       "gu": "ઉત્તર લિંકનશાયર",
       "kn": "ಉತ್ತರ ಲಿಂಕನ್ಷೈರ್",
       "pt": "North Lincolnshire",
-      "no": "North Lincolnshire"
+      "no": "North Lincolnshire",
+      "cy": "Bwrdeistref Gogledd Swydd Lincoln",
+      "ga": "Lincolnshire Thuaidh",
+      "hy": "Հյուսիսային Լինքոլնշիր"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -8135,7 +8386,8 @@
       "ko": "뉴리",
       "es": "Newry",
       "kn": "ನ್ಯೂರಿ",
-      "pt": "Newry"
+      "pt": "Newry",
+      "ca": "Newry, Mourne and Down"
     },
     "comments": null,
     "type": "district"
@@ -8260,7 +8512,10 @@
       "kn": "ನಾರ್ಥಾಂಪ್ಟನ್ಶೈರ್",
       "yue": "諾咸頓郡",
       "mk": "Нортхемптоншир",
-      "no": "Northamptonshire"
+      "no": "Northamptonshire",
+      "az": "Northemptonşir qraflığı",
+      "hr": "Northamptonshire (grofovija)",
+      "ms": "Northamptonshire"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -8316,7 +8571,11 @@
       "ga": "Castell-nedd Port Talbot",
       "kn": "ನೀತ್ ಪೋರ್ಟ್ ಟಾಲ್ಬೋಟ್ ಕೌಂಟಿ ಬರೋ",
       "mk": "Нит Порт Толбот",
-      "no": "Neath Port Talbot"
+      "no": "Neath Port Talbot",
+      "ar": "مقاطعة ناحية نيث بورت طالبوت",
+      "az": "Nit-Port-Tolbot",
+      "da": "Neath Port Talbot",
+      "el": "Νιθ Ποτ Τόλμποτ"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -8394,7 +8653,9 @@
       "yue": "諾定咸郡",
       "bs": "Nottinghamshire",
       "mk": "Нотингемшир",
-      "no": "Nottinghamshire"
+      "no": "Nottinghamshire",
+      "az": "Nottinqemşir",
+      "gl": "Nottinghamshire"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -8441,7 +8702,11 @@
       "gu": "ઉત્તર ટાઇનીસાઇડ",
       "kn": "ನಾರ್ತ್ ಟೈನೆಸೈಡ್",
       "pt": "North Tyneside",
-      "no": "North Tyneside"
+      "no": "North Tyneside",
+      "be": "бора Норт-Тайнсайд",
+      "cy": "Gogledd Tyneside",
+      "ga": "Tyneside Thuaidh",
+      "he": "צפון טיינסייד"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -8505,7 +8770,10 @@
       "ga": "Buirg Londan Newham",
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ನ್ಯೂಹಾಮ್",
       "yue": "紐咸區",
-      "no": "Newham"
+      "no": "Newham",
+      "az": "Nyuem",
+      "be": "Ньюэм",
+      "mk": "Њуам"
     },
     "comments": null,
     "type": "london_borough"
@@ -8536,7 +8804,9 @@
       "ccp": "𑄚𑄨𑄅𑄪𑄛𑄮𑄢𑄴𑄑𑄴",
       "fr": "Newport",
       "de": "Newport",
-      "be": "Ньюпарт"
+      "be": "Ньюпарт",
+      "ga": "Casnewydd",
+      "ja": "シティ・オヴ・ニューポート"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -8609,7 +8879,9 @@
       "yue": "北約郡",
       "be": "Норт-Ёркшыр",
       "mk": "Северен Јоркшир",
-      "no": "North Yorkshire"
+      "no": "North Yorkshire",
+      "az": "Nort-Yorkşir",
+      "sd": "نارٿ يارڪ شائر"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -8647,7 +8919,10 @@
       "ccp": "𑄃𑄮𑄣𑄳𑄓𑄴𑄦𑄟𑄴",
       "uk": "Олдем",
       "be": "Олдэм",
-      "no": "Oldham"
+      "no": "Oldham",
+      "ca": "Oldham",
+      "cy": "Bwrdeistref Fetropolitan Oldham",
+      "ga": "Oldham"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -8818,7 +9093,9 @@
       "uz": "Oksford",
       "bs": "Oxford",
       "mk": "Оксфорд",
-      "no": "Oxfordshire"
+      "no": "Oxfordshire",
+      "ml": "ഓക്സ്ഫോഡ്",
+      "sd": "آڪسفورڊ"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -8881,7 +9158,12 @@
       "kn": "ಪೆಂಬ್ರೋಕ್ಶೈರ್",
       "he": "פמברוקשייר",
       "be": "Пембрукшыр",
-      "no": "Pembrokeshire"
+      "no": "Pembrokeshire",
+      "da": "Pembrokeshire",
+      "hy": "Պեմբրուկշիր",
+      "id": "Pembrokeshire",
+      "mk": "Пембрукшир",
+      "tr": "Pembrokeshire"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9016,7 +9298,9 @@
       "ceb": "Plymouth (kondado)",
       "sr_Latn": "Plimut",
       "ccp": "𑄛𑄳𑄣𑄭𑄟𑄅𑄪𑄖𑄴",
-      "no": "Plymouth"
+      "no": "Plymouth",
+      "cy": "Dinas Plymouth",
+      "ga": "Cathair Plymouth"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9162,7 +9446,10 @@
       "hu": "Powys",
       "kn": "ಪೊವಿಸ್",
       "cs": "Powys",
-      "no": "Powys"
+      "no": "Powys",
+      "da": "Powys",
+      "gl": "Powys",
+      "tr": "Powys"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9233,7 +9520,9 @@
       "ceb": "City of Peterborough",
       "sr_Latn": "Piterboro",
       "ccp": "𑄛𑄨𑄑𑄢𑄴",
-      "no": "Peterborough"
+      "no": "Peterborough",
+      "be": "Пітэрбара",
+      "cy": "Dinas Peterborough"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9276,7 +9565,10 @@
       "es": "Redcar and Cleveland",
       "kn": "ರೆಡ್ಕಾರ್ ಮತ್ತು ಕ್ಲೀವ್ಲ್ಯಾಂಡ್",
       "pt": "Redcar and Cleveland",
-      "no": "Redcar and Cleveland"
+      "no": "Redcar and Cleveland",
+      "cy": "Bwrdeistref Redcar a Cleveland",
+      "fi": "Redcar ja Cleveland",
+      "ga": "Redcar agus Cleveland"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9313,7 +9605,10 @@
       "ceb": "Borough of Rochdale",
       "fa": "کلان‌شهر مستقل روچدیل",
       "ccp": "𑄢𑄮𑄌𑄴𑄓𑄣𑄬",
-      "no": "Rochdale"
+      "no": "Rochdale",
+      "ca": "Rochdale",
+      "cy": "Bwrdeistref Fetropolitan Rochdale",
+      "ga": "Rochdale"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -9557,7 +9852,12 @@
       "gu": "રેનફ્ર્યુશાયર",
       "ga": "Comhairle Shiorrachd Rinn Friú",
       "kn": "ರೆನ್ಫ್ರೂಷೈರ್",
-      "no": "Renfrewshire"
+      "no": "Renfrewshire",
+      "he": "רנפרושייר",
+      "tr": "Renfrewshire",
+      "vi": "Renfrewshire",
+      "yue": "聯福郡",
+      "yue_Hans": "联福郡"
     },
     "comments": null,
     "type": "council_area"
@@ -9616,7 +9916,8 @@
       "ga": "Buirg Londan Richmond ar Tamais",
       "hy": "Ռիչմոնդ ափոն Թեմզա",
       "mk": "Ричмонд на Темза",
-      "no": "Richmond upon Thames"
+      "no": "Richmond upon Thames",
+      "az": "Riçmond-apon-Tems"
     },
     "comments": null,
     "type": "london_borough"
@@ -9653,7 +9954,10 @@
       "fa": "کلان‌شهر مستقل راترهام",
       "ccp": "𑄢𑄮𑄗𑄢𑄴𑄦𑄟𑄴",
       "uk": "Ротергем",
-      "no": "Rotherham"
+      "no": "Rotherham",
+      "cy": "Bwrdeistref Fetropolitan Rotherham",
+      "fi": "Rotherham",
+      "ga": "Rotherham"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -9723,7 +10027,10 @@
       "kn": "ರುಟ್ಲ್ಯಾಂಡ್",
       "yue": "律倫郡",
       "mk": "Ратленд",
-      "no": "Rutland"
+      "no": "Rutland",
+      "az": "Ratlend qraflığı",
+      "be": "Ратленд",
+      "tr": "Rutland"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -9762,7 +10069,12 @@
       "yue_Hans": "山威",
       "ccp": "𑄥𑄳𑄠𑄚𑄳𑄓𑄴𑄃𑄮𑄠𑄬𑄣𑄴",
       "yue": "山威",
-      "no": "Sandwell"
+      "no": "Sandwell",
+      "be": "бора Сандуэл",
+      "cy": "Bwrdeistref Fetropolitan Sandwell",
+      "fi": "Sandwell",
+      "ga": "Sandwell",
+      "uk": "Сандвелл"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -9816,7 +10128,9 @@
       "gu": "દક્ષિણ આયરશાયર",
       "kn": "ದಕ್ಷಿಣ ಐರ್ಶೈರ್",
       "kk": "Саут-Эршир",
-      "no": "South Ayrshire"
+      "no": "South Ayrshire",
+      "ga": "Comhairle Shiorrachd Áir a Deas",
+      "he": "סאות׳ איירשייר"
     },
     "comments": null,
     "type": "council_area"
@@ -9873,7 +10187,11 @@
       "kn": "ಸ್ಕಾಟಿಷ್ ಬಾರ್ಡರ್ಸ್",
       "id": "Scottish Borders",
       "be": "Скотыш-Бордэрс",
-      "no": "Scottish Borders"
+      "no": "Scottish Borders",
+      "hy": "Սքոթիշ Բորդերս",
+      "ka": "სკოტიშ-ბორდერსი",
+      "yue": "蘇格蘭邊區",
+      "yue_Hans": "苏格兰边区"
     },
     "comments": null,
     "type": "council_area"
@@ -9954,7 +10272,28 @@
       "ur": "اسکاٹ لینڈ",
       "vi": "Scotland",
       "zh": "苏格兰",
-      "zh_Hant": "蘇格蘭"
+      "zh_Hant": "蘇格蘭",
+      "bs": "Škotska",
+      "ceb": "Scotland",
+      "cy": "Yr Alban",
+      "ga": "Albain",
+      "jv": "Skotlandia",
+      "kk": "Шотландия",
+      "ky": "Шотландия",
+      "mk": "Шкотска",
+      "my": "စကော့တလန်နိုင်ငံ",
+      "pa": "ਸਕਾਟਲੈਂਡ",
+      "ps": "سکاټ لينډ",
+      "sd": "اسڪاٽلينڊ",
+      "so": "Skotland",
+      "sq": "Skocia",
+      "sr_Latn": "Škotska",
+      "tk": "Şotlandiýa",
+      "uz": "Shotlandiya",
+      "yo": "Skọ́tlándì",
+      "yo_BJ": "Skɔ́tlándì",
+      "yue": "蘇格蘭",
+      "yue_Hans": "苏格兰"
     },
     "comments": null,
     "type": "country"
@@ -10032,7 +10371,9 @@
       "kn": "ಸಫೊಲ್ಕ್",
       "yue": "修福郡",
       "mk": "Сафолк",
-      "no": "Suffolk"
+      "no": "Suffolk",
+      "az": "Saffolk qraflığı",
+      "hy": "Սուֆոլք"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -10074,7 +10415,10 @@
       "hy": "Սեֆթոն",
       "uk": "Сефтон",
       "be": "Сефтан",
-      "no": "Sefton"
+      "no": "Sefton",
+      "ca": "Sefton",
+      "cy": "Bwrdeistref Fetropolitan Sefton",
+      "ga": "Sefton"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10122,7 +10466,10 @@
       "hu": "South Gloucestershire",
       "kn": "ಸೌತ್ ಗ್ಲೌಸೆಸ್ಟರ್ಶೈರ್",
       "ca": "Gloucestershire del Sud",
-      "no": "South Gloucestershire"
+      "no": "South Gloucestershire",
+      "cy": "De Swydd Gaerloyw",
+      "el": "Σάουθ Γκλόστερσιρ",
+      "ga": "Gloucestershire Theas"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -10200,7 +10547,9 @@
       "ceb": "Sheffield",
       "sr_Latn": "Šefild",
       "ccp": "𑄥𑄬𑄜𑄨𑄣𑄳𑄓𑄴",
-      "no": "Sheffield"
+      "no": "Sheffield",
+      "cy": "Dinas Sheffield",
+      "ga": "Sheffield"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10236,7 +10585,12 @@
       "ceb": "St. Helens",
       "fa": "کلان‌شهر مستقل سنت هلنز",
       "ccp": "𑄥𑄬𑄚𑄴 𑄦𑄬𑄣𑄬𑄚𑄴𑄌𑄴",
-      "no": "St. Helens"
+      "no": "St. Helens",
+      "be": "Сент-Хеленс",
+      "cs": "St. Helens (Merseyside, England)",
+      "cy": "Bwrdeistref Fetropolitan St Helens",
+      "fi": "St Helens",
+      "ga": "St Helens"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10346,7 +10700,10 @@
       "ccp": "𑄌𑄳𑄑𑄧𑄇𑄴𑄛𑄮𑄢𑄴𑄑𑄴",
       "uk": "Стокпорт",
       "be": "Стокпарт",
-      "no": "Stockport"
+      "no": "Stockport",
+      "ca": "Stockport",
+      "cy": "Bwrdeistref Fetropolitan Stockport",
+      "ga": "Stockport"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10390,7 +10747,11 @@
       "ar": "سالفورد",
       "ccp": "𑄥𑄣𑄴𑄜𑄮𑄢𑄴𑄓𑄴",
       "be": "Солфард",
-      "no": "City of Salford"
+      "no": "City of Salford",
+      "ca": "Salford",
+      "cy": "Dinas Salford",
+      "ga": "Salford",
+      "uk": "Солфорд"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10445,7 +10806,8 @@
       "ceb": "Slough",
       "sr_Latn": "Slau",
       "ccp": "𑄥𑄳𑄣𑄮𑄅𑄪",
-      "no": "Slough"
+      "no": "Slough",
+      "cy": "Bwrdeistref Slough"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -10502,7 +10864,11 @@
       "kn": "ಸೌತ್ ಲನಾರ್ಕ್ಶೈರ್",
       "id": "South Lanarkshire",
       "be": "Саўт-Ланаркшыр",
-      "no": "South Lanarkshire"
+      "no": "South Lanarkshire",
+      "ar": "ساوث لانركشاير",
+      "az": "Saut-Lanarkşir",
+      "he": "דרום לאנארקשייר",
+      "mk": "Јужен Ланаркшир"
     },
     "comments": null,
     "type": "council_area"
@@ -10539,7 +10905,11 @@
       "ccp": "𑄥𑄚𑄴𑄓𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "hy": "Սանդերլենդ",
       "uk": "Сандерленд",
-      "no": "City of Sunderland"
+      "no": "City of Sunderland",
+      "be": "бора Сандэрленд",
+      "el": "Δήμος του Σάντερλαντ",
+      "ga": "Sunderland",
+      "he": "הסיטי של סנדרלנד"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10574,7 +10944,10 @@
       "ceb": "Solihull",
       "fa": "کلان‌شهر مستقل سولیهال",
       "ccp": "𑄥𑄮𑄣𑄨𑄦𑄣𑄴",
-      "no": "Solihull (distrikt)"
+      "no": "Solihull (distrikt)",
+      "ca": "Solihull",
+      "cy": "Bwrdeistref Fetropolitan Solihull",
+      "ga": "Solihull"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -10653,7 +11026,9 @@
       "kn": "ಸಾಮರ್ಸೆಟ್",
       "yue": "森麻錫郡",
       "mk": "Сомерсет",
-      "no": "Somerset"
+      "no": "Somerset",
+      "my": "ဆမ်းမားဆတ်",
+      "pa": "ਸਮਰਸੈੱਟ"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -10800,7 +11175,8 @@
       "yo": "Surrey",
       "mk": "Сари",
       "no": "Surrey",
-      "yo_BJ": "Surrey"
+      "yo_BJ": "Surrey",
+      "hr": "Surrey (grofovija)"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -10872,7 +11248,9 @@
       "ceb": "City of Stoke-on-Trent",
       "sr_Latn": "Stouk na Trentu",
       "ccp": "𑄌𑄳𑄑𑄧𑄇𑄴-𑄃𑄧𑄚𑄴-𑄑𑄳𑄢𑄬𑄚𑄴𑄑𑄴",
-      "no": "Stoke-on-Trent"
+      "no": "Stoke-on-Trent",
+      "cy": "Dinas Stoke-on-Trent",
+      "ga": "Stoke-on-Trent"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -10920,7 +11298,10 @@
       "ceb": "Stirling",
       "ccp": "𑄌𑄳𑄑𑄢𑄴𑄣𑄨𑄁",
       "ga": "Comhairle Shruighlea",
-      "no": "Stirling"
+      "no": "Stirling",
+      "az": "Sterlinq",
+      "ca": "Stirling",
+      "hu": "Stirling"
     },
     "comments": null,
     "type": "council_area"
@@ -11059,7 +11440,10 @@
       "ar": "منطقة ساتون",
       "sr_Latn": "Londonska opština Saton",
       "ccp": "𑄥𑄑𑄧𑄚𑄴",
-      "no": "Sutton"
+      "no": "Sutton",
+      "fi": "Sutton",
+      "ga": "Buirg Londan Sutton",
+      "hy": "Սաթն"
     },
     "comments": null,
     "type": "london_borough"
@@ -11135,7 +11519,9 @@
       "kn": "ಸ್ಟಾಫರ್ಡ್ಶೈರ್",
       "yue": "史德福郡",
       "mk": "Стафордшир",
-      "no": "Staffordshire"
+      "no": "Staffordshire",
+      "az": "Staffordşir qraflığı",
+      "ne": "स्टाफोर्डशायर"
     },
     "comments": null,
     "type": "two-tier_county"
@@ -11178,7 +11564,8 @@
       "gu": "સ્ટોકટન-ઑન-ટીઝ",
       "kn": "ಸ್ಟಾಕ್ಟನ್-ಆನ್-ಟೀಸ್",
       "pt": "Stockton-on-Tees",
-      "no": "Stockton-on-Tees (distrikt)"
+      "no": "Stockton-on-Tees (distrikt)",
+      "cy": "Bwrdeistref Stockton-on-Tees"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11218,7 +11605,9 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄑𑄭𑄛𑄴𑄥𑄭𑄖𑄴",
       "uk": "Саут-Тайнсайд",
       "mk": "Јужен Тајнсајд",
-      "no": "South Tyneside"
+      "no": "South Tyneside",
+      "cy": "Cyngor De Tyneside",
+      "ga": "Tyneside Theas"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -11345,7 +11734,8 @@
       "es": "Swindon",
       "kn": "ಸ್ವಿಂಡನ್",
       "yue": "史雲頓區",
-      "no": "Swindon"
+      "no": "Swindon",
+      "cy": "Bwrdeistref Swindon"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11403,7 +11793,9 @@
       "ga": "Buirg Londan Southwark",
       "be": "Саўтуарк",
       "mk": "Савак",
-      "no": "Southwark"
+      "no": "Southwark",
+      "az": "Sautark",
+      "bg": "Съдърк"
     },
     "comments": null,
     "type": "london_borough"
@@ -11442,7 +11834,8 @@
       "ceb": "Borough of Tameside",
       "ccp": "𑄑𑄬𑄟𑄴𑄥𑄭𑄖𑄴",
       "ga": "Tameside",
-      "no": "Tameside"
+      "no": "Tameside",
+      "ca": "Tameside"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -11485,7 +11878,10 @@
       "gu": "ટેલફોર્ડ અને વ્રેકીન",
       "kn": "ಟೆಲ್ಫೋರ್ಡ್ ಮತ್ತು ವ್ರೆಕಿನ್",
       "pt": "Telford and Wrekin",
-      "no": "Telford and Wrekin"
+      "no": "Telford and Wrekin",
+      "ar": "تلفورد وريكين",
+      "fi": "Telford ja Wrekin",
+      "ga": "Telford agus Wrekin"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11532,7 +11928,10 @@
       "kn": "ಥುರಾಕ್",
       "pt": "Thurrock",
       "yue": "土洛克",
-      "no": "Thurrock"
+      "no": "Thurrock",
+      "cy": "Bwrdeistref Thurrock",
+      "el": "Θάροκ",
+      "ga": "Thurrock"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11581,7 +11980,11 @@
       "pt": "Torbay",
       "be": "Торбэй",
       "mk": "Торбеј",
-      "no": "Torbay"
+      "no": "Torbay",
+      "cy": "Bwrdeistref Torbay",
+      "fa": "توربی",
+      "ga": "Torbay",
+      "he": "טורביי"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11635,7 +12038,8 @@
       "gu": "ટોરફાએન કાઉન્ટી બોરો",
       "ga": "Tor-faen",
       "kn": "ಟೊರ್ಫಾನ್ ಕೌಂಟಿ ಬರೋ",
-      "no": "Torfaen"
+      "no": "Torfaen",
+      "hy": "Տորվայն"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11682,7 +12086,10 @@
       "ceb": "Trafford",
       "ccp": "𑄑𑄳𑄢𑄜𑄮𑄢𑄴𑄓𑄴",
       "ga": "Trafford",
-      "no": "Trafford"
+      "no": "Trafford",
+      "cy": "Bwrdeistref Fetropolitan Trafford",
+      "he": "טראפורד",
+      "hy": "Թրաֆորդ"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -11743,7 +12150,10 @@
       "ga": "Buirg Londan Tower Hamlets",
       "hu": "London Borough of Tower Hamlets",
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಟವರ್ ಹ್ಯಾಮ್ಲೆಟ್ಸ್",
-      "no": "Tower Hamlets"
+      "no": "Tower Hamlets",
+      "az": "Tauer-Hemlets",
+      "yue": "塔村區",
+      "yue_Hans": "塔村区"
     },
     "comments": null,
     "type": "london_borough"
@@ -11796,7 +12206,9 @@
       "gu": "વેલ ઓફ ગ્લેમોર્ગન",
       "ga": "Bro Morgannwg",
       "kn": "ವೇಲ್ ಆಫ್ ಗ್ಲಾಮೊರ್ಗನ್",
-      "no": "Vale of Glamorgan"
+      "no": "Vale of Glamorgan",
+      "be": "Вейл-оф-Гламарган",
+      "da": "Vale of Glamorgan"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11921,7 +12333,9 @@
       "es": "West Berkshire",
       "kn": "ವೆಸ್ಟ್ ಬರ್ಕ್ಷೈರ್",
       "pt": "West Berkshire",
-      "no": "West Berkshire"
+      "no": "West Berkshire",
+      "cy": "Gorllewin Berkshire",
+      "ga": "Berkshire Thiar"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -11974,7 +12388,8 @@
       "ccp": "𑄛𑄧𑄏𑄨𑄟𑄴 𑄓𑄚𑄴𑄝𑄢𑄴𑄑𑄧𑄚𑄴𑄥𑄠𑄢𑄴",
       "ga": "Comhairle Dhún Breatainn an Iar",
       "he": "דאמברטון מערב",
-      "no": "West Dunbartonshire"
+      "no": "West Dunbartonshire",
+      "az": "Uest Danbartonşir"
     },
     "comments": null,
     "type": "council_area"
@@ -12033,7 +12448,8 @@
       "gu": "લંડન બોરો ઓફ વોલ્થમ ફોરેસ્ટ",
       "ga": "Buirg Londan Waltham Forest",
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ವಾಲ್ತ್ ಫಾರೆಸ್ಟ್",
-      "no": "Waltham Forest"
+      "no": "Waltham Forest",
+      "ar": "ناحية غابة والثام في لندن"
     },
     "comments": null,
     "type": "london_borough"
@@ -12070,7 +12486,11 @@
       "fa": "کلان‌شهر مستقل ویگان",
       "el": "Μητροπολιτικός Δήμος του Γουίγκαν",
       "ccp": "𑄃𑄪𑄃𑄨𑄉𑄧𑄚𑄴",
-      "no": "Wigan"
+      "no": "Wigan",
+      "cy": "Bwrdeisdref Fetropolitan Wigan",
+      "ga": "Wigan",
+      "yue": "韋根都市自治市",
+      "yue_Hans": "韦根都市自治市"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -12136,7 +12556,19 @@
       "sr_Latn": "Viltšir",
       "ccp": "𑄃𑄪𑄃𑄨𑄣𑄳𑄑𑄴𑄥𑄠𑄢𑄴",
       "ka": "უილტშირი",
-      "no": "Wiltshire"
+      "no": "Wiltshire",
+      "az": "Uiltşir",
+      "bn": "উইল্টশায়ার",
+      "cy": "Wiltshire (awdurdod unedol)",
+      "ga": "Wiltshire",
+      "gl": "Wiltshire",
+      "gu": "વિલ્ટશાયર",
+      "kn": "ವಿಲ್ಟ್ಶೈರ್",
+      "mk": "Вилтшир",
+      "ta": "வில்ட்ஷயர்",
+      "te": "విల్ట్షైర్",
+      "yue": "渭州郡",
+      "yue_Hans": "渭州郡"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -12180,7 +12612,11 @@
       "ccp": "𑄤𑄠𑄬𑄇𑄴𑄜𑄨𑄣𑄳𑄓𑄴",
       "he": "וייקפילד",
       "be": "Уэйкфілд",
-      "no": "City of Wakefield"
+      "no": "City of Wakefield",
+      "ar": "ويكفيلد",
+      "cy": "Dinas Wakefield",
+      "el": "Γουέικφιλντ",
+      "ga": "Wakefield"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -12224,7 +12660,10 @@
       "es": "Walsall",
       "kn": "ವಾಲ್ಸಾಲ್",
       "pt": "Walsall",
-      "no": "Walsall"
+      "no": "Walsall",
+      "cy": "Bwrdeistref Fetropolitan Walsall",
+      "ga": "Walsall",
+      "uk": "Волсолл"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -12281,7 +12720,9 @@
       "ga": "Labhaidh Thoir",
       "kn": "ವೆಸ್ಟ್ ಲೋಥಿಯನ್",
       "mk": "Западен Лотијан",
-      "no": "West Lothian"
+      "no": "West Lothian",
+      "az": "Uest-Lotian",
+      "hy": "Ուեսթ Լոտիան"
     },
     "comments": null,
     "type": "council_area"
@@ -12363,7 +12804,27 @@
       "ur": "ویلز",
       "vi": "Xứ Wales",
       "zh": "威尔士",
-      "zh_Hant": "威爾斯"
+      "zh_Hant": "威爾斯",
+      "bs": "Vels",
+      "ceb": "Wales (apil sa nasod)",
+      "cy": "Cymru",
+      "ga": "An Bhreatain Bheag",
+      "jv": "Wales",
+      "kk": "Уэльс",
+      "ky": "Вельс",
+      "mk": "Велс",
+      "my": "ဝေလနိုင်ငံ",
+      "pa": "ਵੇਲਜ਼",
+      "ps": "ولز",
+      "so": "Waalis",
+      "sq": "Uellsi",
+      "sr_Latn": "Vels",
+      "tk": "Uels",
+      "uz": "Uels",
+      "yo": "Wélsì",
+      "yo_BJ": "Wélsì",
+      "yue": "威爾斯",
+      "yue_Hans": "威尔斯"
     },
     "comments": null,
     "type": "country"
@@ -12437,7 +12898,9 @@
       "ceb": "City of Wolverhampton",
       "sr_Latn": "Vulverhempton",
       "ccp": "𑄤𑄠𑄮𑄣𑄴𑄞𑄢𑄴𑄦𑄟𑄴𑄛𑄴𑄑𑄧𑄚𑄴",
-      "no": "Wolverhampton"
+      "no": "Wolverhampton",
+      "cy": "Dinas Wolverhampton",
+      "ga": "Wolverhampton"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -12546,7 +13009,12 @@
       "es": "Windsor and Maidenhead",
       "kn": "ವಿಂಡ್ಸರ್ ಮತ್ತು ಮೇಡನ್ ಹೆಡ್",
       "pt": "Windsor and Maidenhead",
-      "no": "Windsor and Maidenhead"
+      "no": "Windsor and Maidenhead",
+      "az": "Vindzor və Meydenhed",
+      "ca": "Windsor and Maidenhead",
+      "cy": "Bwrdeistref Frenhinol Windsor a Maidenhead",
+      "fi": "Windsor ja Maidenhead",
+      "ga": "Windsor agus Maidenhead"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -12591,7 +13059,8 @@
       "kn": "ವೋಕಿಂಗ್ಹ್ಯಾಮ್",
       "pt": "Wokingham",
       "mk": "Вокингем",
-      "no": "Wokingham"
+      "no": "Wokingham",
+      "cy": "Bwrdeistref Wokingham"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -12665,7 +13134,9 @@
       "yue": "窩士打郡",
       "be": "графства Вустэршыр",
       "mk": "Вустершир",
-      "no": "Worcestershire"
+      "no": "Worcestershire",
+      "az": "Vusterşir",
+      "el": "Γούστερσιρ"
     },
     "comments": null,
     "type": "council_area"
@@ -12706,7 +13177,13 @@
       "fa": "کلان‌شهر مستقل ویرال",
       "ccp": "𑄃𑄮𑄠𑄢𑄬𑄣𑄴",
       "uk": "Віррал",
-      "no": "Wirral"
+      "no": "Wirral",
+      "ar": "ويرال",
+      "ca": "Wirral",
+      "cy": "Bwrdeistref Fetropolitan Cilgwri",
+      "fi": "Wirral",
+      "ga": "Wirral",
+      "hy": "Ուիրրալ"
     },
     "comments": null,
     "type": "metropolitan_district"
@@ -12761,7 +13238,8 @@
       "gu": "વોરિંગટન",
       "kn": "ವಾರಿಂಗ್ಟನ್",
       "be": "Уорынгтан",
-      "no": "Warrington"
+      "no": "Warrington",
+      "cy": "Bwrdeistref Warrington"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -12813,7 +13291,9 @@
       "kn": "ವ್ರೆಕ್ಸ್ಹ್ಯಾಮ್ ಕೌಂಟಿ ಬರೋ",
       "pt": "Wrexham County Borough",
       "de": "Wrexham County Borough",
-      "no": "Wrexham"
+      "no": "Wrexham",
+      "ceb": "Wrexham",
+      "ga": "Contaebhuirg Wrecsam"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -12890,7 +13370,11 @@
       "ga": "Cathair Westminster",
       "yue": "西敏市",
       "mk": "Вестминстер",
-      "no": "City of Westminster"
+      "no": "City of Westminster",
+      "ka": "უესტმინსტერი (ლონდონის ბორო)",
+      "sq": "Westminster",
+      "sr": "Град Вестминстер",
+      "sr_Latn": "Grad Vestminster"
     },
     "comments": null,
     "type": "london_borough"
@@ -13045,7 +13529,9 @@
       "ceb": "City of York",
       "sr_Latn": "Jork",
       "ccp": "𑄃𑄨𑄠𑄧𑄢𑄴𑄇𑄴",
-      "no": "York"
+      "no": "York",
+      "cy": "Dinas Efrog",
+      "ga": "Cathair Eabhrac"
     },
     "comments": null,
     "type": "unitary_authority"
@@ -13124,7 +13610,9 @@
       "yue": "昔德蘭",
       "uz": "Shetlend orollari",
       "mk": "Шетландски Острови",
-      "no": "Shetland"
+      "no": "Shetland",
+      "ml": "ഷെറ്റ്ലാൻഡ്",
+      "mr": "शेटलँड"
     },
     "comments": null,
     "type": "council_area"

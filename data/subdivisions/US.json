@@ -198,7 +198,8 @@
       "bs": "Alabama",
       "mk": "Алабама",
       "ha_NE": "Alabama",
-      "no": "Alabama"
+      "no": "Alabama",
+      "ps": "آلاباما"
     },
     "comments": null,
     "type": "state"
@@ -420,7 +421,8 @@
       "mk": "Аризона",
       "ha_NE": "Arizona",
       "no": "Arizona",
-      "yo_BJ": "Arizona"
+      "yo_BJ": "Arizona",
+      "ky": "Аризона"
     },
     "comments": null,
     "type": "state"
@@ -727,7 +729,10 @@
       "mk": "Конектикат",
       "ha_NE": "Connecticut",
       "no": "Connecticut",
-      "yo_BJ": "Connecticut"
+      "yo_BJ": "Connecticut",
+      "km": "ខុនណេកទីខាត់",
+      "my": "ကွန်နက်တီကတ်ပြည်နယ်",
+      "sd": "ڪونيڪٽيڪٽ"
     },
     "comments": null,
     "type": "state"
@@ -811,7 +816,8 @@
       "sr_Latn": "Vašington",
       "ccp": "𑄤𑄥𑄨𑄁𑄑𑄧𑄚𑄴 𑄓𑄨𑄥𑄨",
       "uz": "Kolumbiya okrugi",
-      "no": "Washington D.C."
+      "no": "Washington D.C.",
+      "ja": "コロンビア特別区"
     },
     "comments": null,
     "type": "district"
@@ -910,7 +916,8 @@
       "mk": "Делавер",
       "ha_NE": "Delaware",
       "no": "Delaware",
-      "yo_BJ": "Delaware"
+      "yo_BJ": "Delaware",
+      "so": "Delaware"
     },
     "comments": null,
     "type": "state"
@@ -1012,7 +1019,8 @@
       "mk": "Флорида",
       "ha_NE": "Florida",
       "no": "Florida",
-      "yo_BJ": "Florida"
+      "yo_BJ": "Florida",
+      "ky": "Флорида"
     },
     "comments": null,
     "type": "state"
@@ -1110,7 +1118,9 @@
       "uz": "Jorjiya",
       "bs": "Georgia",
       "mk": "Џорџија",
-      "no": "Georgia"
+      "no": "Georgia",
+      "ha": "Georgia (Tarayyar Amurka)",
+      "ha_NE": "Georgia (Tarayyar Amurka)"
     },
     "comments": null,
     "type": "state"
@@ -1231,7 +1241,9 @@
       "mk": "Хаваи",
       "ha_NE": "Hawaii",
       "no": "Hawaii",
-      "yo_BJ": "Hawaii"
+      "yo_BJ": "Hawaii",
+      "km": "ហាវ៉ៃ",
+      "ps": "هاوایی"
     },
     "comments": null,
     "type": "state"
@@ -1331,7 +1343,8 @@
       "mk": "Ајова",
       "ha_NE": "Iowa",
       "no": "Iowa",
-      "yo_BJ": "Iowa"
+      "yo_BJ": "Iowa",
+      "ps": "آیووا"
     },
     "comments": null,
     "type": "state"
@@ -1429,7 +1442,9 @@
       "bs": "Idaho",
       "mk": "Ајдахо",
       "no": "Idaho",
-      "yo_BJ": "Idaho"
+      "yo_BJ": "Idaho",
+      "ha": "Idaho",
+      "ha_NE": "Idaho"
     },
     "comments": null,
     "type": "state"
@@ -1528,7 +1543,9 @@
       "bs": "Illinois",
       "mk": "Илиноис",
       "no": "Illinois",
-      "yo_BJ": "Illinois"
+      "yo_BJ": "Illinois",
+      "ha": "Illinois",
+      "ha_NE": "Illinois"
     },
     "comments": null,
     "type": "state"
@@ -1725,7 +1742,10 @@
       "bs": "Kansas",
       "mk": "Канзас",
       "no": "Kansas",
-      "yo_BJ": "Kansas"
+      "yo_BJ": "Kansas",
+      "ha": "Kansas",
+      "ha_NE": "Kansas",
+      "ps": "کانزاس"
     },
     "comments": null,
     "type": "state"
@@ -1822,7 +1842,10 @@
       "bs": "Kentucky",
       "mk": "Кентаки",
       "no": "Kentucky",
-      "yo_BJ": "Kentucky"
+      "yo_BJ": "Kentucky",
+      "ha": "Kentucky",
+      "ha_NE": "Kentucky",
+      "ps": "کنتاکي"
     },
     "comments": null,
     "type": "state"
@@ -1919,7 +1942,10 @@
       "bs": "Louisiana",
       "mk": "Луизијана",
       "no": "Louisiana",
-      "yo_BJ": "Louisiana"
+      "yo_BJ": "Louisiana",
+      "ha": "Louisiana",
+      "ha_NE": "Louisiana",
+      "ps": "لویزیانا"
     },
     "comments": null,
     "type": "state"
@@ -2019,7 +2045,11 @@
       "bs": "Massachusetts",
       "mk": "Масачусетс",
       "no": "Massachusetts",
-      "yo_BJ": "Massachusetts"
+      "yo_BJ": "Massachusetts",
+      "ha": "Massachusetts",
+      "ha_NE": "Massachusetts",
+      "lo": "ລັດແມສຊາຊູເຊຕສ໌",
+      "ps": "ماساچوست"
     },
     "comments": null,
     "type": "state"
@@ -2117,7 +2147,10 @@
       "bs": "Maryland",
       "mk": "Мериленд",
       "no": "Maryland",
-      "yo_BJ": "Maryland"
+      "yo_BJ": "Maryland",
+      "ha": "Maryland",
+      "ha_NE": "Maryland",
+      "ps": "مریلنډ"
     },
     "comments": null,
     "type": "state"
@@ -2214,7 +2247,11 @@
       "bs": "Maine",
       "mk": "Мејн",
       "no": "Maine",
-      "yo_BJ": "Maine"
+      "yo_BJ": "Maine",
+      "ha": "Maine (Tarayyar Amurka)",
+      "ha_NE": "Maine (Tarayyar Amurka)",
+      "ps": "مین",
+      "so": "Maine"
     },
     "comments": null,
     "type": "state"
@@ -2312,7 +2349,11 @@
       "bs": "Michigan",
       "mk": "Мичиген",
       "no": "Michigan",
-      "yo_BJ": "Michigan"
+      "yo_BJ": "Michigan",
+      "ha": "Michigan",
+      "ha_NE": "Michigan",
+      "ps": "میشیګان",
+      "so": "Mishiigan"
     },
     "comments": null,
     "type": "state"
@@ -2410,7 +2451,10 @@
       "bs": "Minnesota",
       "mk": "Минесота",
       "no": "Minnesota",
-      "yo_BJ": "Minnesota"
+      "yo_BJ": "Minnesota",
+      "ha": "Minnesota",
+      "ha_NE": "Minnesota",
+      "ps": "مینه سوتا"
     },
     "comments": null,
     "type": "state"
@@ -2507,7 +2551,10 @@
       "uz": "Missuri",
       "bs": "Missouri",
       "mk": "Мисури",
-      "no": "Missouri"
+      "no": "Missouri",
+      "ha": "Missouri (jiha)",
+      "ha_NE": "Missouri (jiha)",
+      "ps": "میسوري آیالات"
     },
     "comments": null,
     "type": "state"
@@ -2623,7 +2670,11 @@
       "uz": "Mississippi",
       "bs": "Mississippi",
       "mk": "Мисисипи",
-      "no": "Mississippi"
+      "no": "Mississippi",
+      "ha": "Mississippi (jiha)",
+      "ha_NE": "Mississippi (jiha)",
+      "ps": "میسیسیپی",
+      "so": "Mississippi"
     },
     "comments": null,
     "type": "state"
@@ -2722,7 +2773,8 @@
       "mk": "Монтана",
       "ha_NE": "Montana",
       "no": "Montana",
-      "yo_BJ": "Montana"
+      "yo_BJ": "Montana",
+      "ps": "مونتانا"
     },
     "comments": null,
     "type": "state"
@@ -2818,7 +2870,10 @@
       "bs": "Sjeverna Karolina",
       "mk": "Северна Каролина",
       "no": "Nord-Carolina",
-      "yo_BJ": "Àríwá Carolina"
+      "yo_BJ": "Àríwá Carolina",
+      "ha": "North Carolina",
+      "ha_NE": "North Carolina",
+      "ps": "شمالي کارولینا"
     },
     "comments": null,
     "type": "state"
@@ -2917,7 +2972,9 @@
       "mk": "Северна Дакота",
       "ha_NE": "North Dakota",
       "no": "Nord-Dakota",
-      "yo_BJ": "Àríwá Dakota"
+      "yo_BJ": "Àríwá Dakota",
+      "ps": "شمالي داکوتا",
+      "so": "Waqooyi Dakota"
     },
     "comments": null,
     "type": "state"
@@ -3016,7 +3073,9 @@
       "mk": "Небраска",
       "ha_NE": "Nebraska",
       "no": "Nebraska",
-      "yo_BJ": "Nebraska"
+      "yo_BJ": "Nebraska",
+      "ps": "نبراسکا",
+      "so": "Nebraska"
     },
     "comments": null,
     "type": "state"
@@ -3114,7 +3173,10 @@
       "bs": "New Hampshire",
       "mk": "Њу Хемпшир",
       "no": "New Hampshire",
-      "yo_BJ": "New Hampshire"
+      "yo_BJ": "New Hampshire",
+      "ha": "New Hampshire",
+      "ha_NE": "New Hampshire",
+      "ps": "نیو همپشایر"
     },
     "comments": null,
     "type": "state"
@@ -3212,7 +3274,11 @@
       "bs": "New Jersey",
       "mk": "Њу Џерси",
       "no": "New Jersey",
-      "yo_BJ": "New Jersey"
+      "yo_BJ": "New Jersey",
+      "ha": "New Jersey",
+      "ha_NE": "New Jersey",
+      "mn": "Нью-Жерси",
+      "ps": "نیو جرسي"
     },
     "comments": null,
     "type": "state"
@@ -3312,7 +3378,10 @@
       "bs": "New Mexico",
       "mk": "Ново Мексико",
       "ha_NE": "New Mexico",
-      "no": "New Mexico"
+      "no": "New Mexico",
+      "ps": "نیو مکسیکو",
+      "sd": "نيو ميڪسيڪو",
+      "so": "Meksiko Cusub"
     },
     "comments": null,
     "type": "state"
@@ -3412,7 +3481,8 @@
       "mk": "Невада",
       "ha_NE": "Nevada",
       "no": "Nevada",
-      "yo_BJ": "Nevada"
+      "yo_BJ": "Nevada",
+      "ps": "نوادا"
     },
     "comments": null,
     "type": "state"
@@ -3617,7 +3687,9 @@
       "mk": "Охајо",
       "ha_NE": "Ohio",
       "no": "Ohio",
-      "yo_BJ": "Ohio"
+      "yo_BJ": "Ohio",
+      "ps": "اوهایو",
+      "so": "Ohio"
     },
     "comments": null,
     "type": "state"
@@ -3717,7 +3789,9 @@
       "mk": "Оклахома",
       "ha_NE": "Oklahoma",
       "no": "Oklahoma",
-      "yo_BJ": "Oklahoma"
+      "yo_BJ": "Oklahoma",
+      "ps": "اوکلاهوما",
+      "so": "Oklahoma"
     },
     "comments": null,
     "type": "state"
@@ -3816,7 +3890,9 @@
       "mk": "Орегон",
       "ha_NE": "Oregon",
       "no": "Oregon",
-      "yo_BJ": "Oregon"
+      "yo_BJ": "Oregon",
+      "ps": "اورګان",
+      "so": "Oregon"
     },
     "comments": null,
     "type": "state"
@@ -3915,7 +3991,11 @@
       "bs": "Pennsylvania",
       "mk": "Пенсилванија",
       "no": "Pennsylvania",
-      "yo_BJ": "Pennsylvania"
+      "yo_BJ": "Pennsylvania",
+      "ha": "Pennsylvania",
+      "ha_NE": "Pennsylvania",
+      "km": "ផេនស៊ីលវ៉ានៀ",
+      "ps": "پنسلوانیا"
     },
     "comments": null,
     "type": "state"
@@ -4031,7 +4111,11 @@
       "uz": "Rod-Aylend",
       "bs": "Rhode Island",
       "mk": "Род Ајленд",
-      "no": "Rhode Island"
+      "no": "Rhode Island",
+      "ha": "Rhode Island",
+      "ha_NE": "Rhode Island",
+      "ps": "روډ ایسلنډ",
+      "so": "Gasiirada Rhode"
     },
     "comments": null,
     "type": "state"
@@ -4127,7 +4211,11 @@
       "bs": "Južna Karolina",
       "mk": "Јужна Каролина",
       "no": "Sør-Carolina",
-      "yo_BJ": "Gúúsù Carolina"
+      "yo_BJ": "Gúúsù Carolina",
+      "ha": "South Carolina",
+      "ha_NE": "South Carolina",
+      "ps": "سویلي کارولینا",
+      "so": "Koonfur Karolina"
     },
     "comments": null,
     "type": "state"
@@ -4226,7 +4314,9 @@
       "mk": "Јужна Дакота",
       "ha_NE": "South Dakota",
       "no": "Sør-Dakota",
-      "yo_BJ": "Gúúsù Dakota"
+      "yo_BJ": "Gúúsù Dakota",
+      "ps": "سویلي داکوتا",
+      "so": "Koonfur Dakota"
     },
     "comments": null,
     "type": "state"
@@ -4323,7 +4413,12 @@
       "bs": "Tennessee",
       "mk": "Тенеси",
       "no": "Tennessee",
-      "yo_BJ": "Tennessee"
+      "yo_BJ": "Tennessee",
+      "ha": "Tennessee",
+      "ha_NE": "Tennessee",
+      "km": "តេណេសស៊ី",
+      "ps": "تینسي",
+      "so": "Tennessee"
     },
     "comments": null,
     "type": "state"
@@ -4424,7 +4519,11 @@
       "mk": "Тексас",
       "ha_NE": "Texas",
       "no": "Texas",
-      "yo_BJ": "Texas"
+      "yo_BJ": "Texas",
+      "ky": "Техас",
+      "lo": "ເທັກຊາສ",
+      "ps": "تکزاس",
+      "sd": "ٽيڪساس"
     },
     "comments": null,
     "type": "state"
@@ -4543,7 +4642,9 @@
       "mk": "Јута",
       "ha_NE": "Utah",
       "no": "Utah",
-      "yo_BJ": "Utah"
+      "yo_BJ": "Utah",
+      "ps": "یوتا",
+      "so": "Utah"
     },
     "comments": null,
     "type": "state"
@@ -4644,7 +4745,8 @@
       "mk": "Вирџинија",
       "ha_NE": "Virginia",
       "no": "Virginia",
-      "yo_BJ": "Firginia"
+      "yo_BJ": "Firginia",
+      "ps": "ویرجینیا"
     },
     "comments": null,
     "type": "state"
@@ -4863,7 +4965,10 @@
       "bs": "Washington",
       "mk": "Вашингтон",
       "ne": "वाशिङ्गटन डि.सि.",
-      "no": "Washington"
+      "no": "Washington",
+      "as": "ৱাশ্বিংটন",
+      "ha": "Washington (jiha)",
+      "ha_NE": "Washington (jiha)"
     },
     "comments": null,
     "type": "state"
@@ -4964,7 +5069,8 @@
       "mk": "Висконсин",
       "ha_NE": "Wisconsin",
       "no": "Wisconsin",
-      "yo_BJ": "Wisconsin"
+      "yo_BJ": "Wisconsin",
+      "ps": "ویسکانسین"
     },
     "comments": null,
     "type": "state"
@@ -5060,7 +5166,11 @@
       "yo": "Ìwọ̀orùn Firginia",
       "bs": "Zapadna Virginia",
       "mk": "Западна Вирџинија",
-      "no": "Vest-Virginia"
+      "no": "Vest-Virginia",
+      "as": "ৱেষ্ট ভাৰ্জিনিয়া",
+      "ha": "West Virginia",
+      "ha_NE": "West Virginia",
+      "ps": "لویدیځه ویرجینیا"
     },
     "comments": null,
     "type": "state"
@@ -5161,7 +5271,9 @@
       "mk": "Вајоминг",
       "ha_NE": "Wyoming",
       "no": "Wyoming",
-      "yo_BJ": "Wyoming"
+      "yo_BJ": "Wyoming",
+      "ps": "وایومینګ",
+      "so": "Wyoming"
     },
     "comments": null,
     "type": "state"

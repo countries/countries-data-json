@@ -61,7 +61,9 @@
       "hy": "Կոննախտ",
       "yue": "干諾省",
       "mk": "Конахт",
-      "no": "Connacht"
+      "no": "Connacht",
+      "ps": "کناخت",
+      "ro": "Connacht"
     },
     "comments": null,
     "type": "province"
@@ -138,7 +140,9 @@
       "ga": "Contae an Chláir",
       "be": "графства Клэр",
       "mk": "Клер",
-      "no": "Clare"
+      "no": "Clare",
+      "hr": "Clare (okrug)",
+      "hy": "Քլեր"
     },
     "comments": null,
     "type": "county"
@@ -296,7 +300,9 @@
       "uk": "Корк",
       "ur": "کاؤنٹی کورک",
       "vi": "Hạt Cork",
-      "zh": "科克郡"
+      "zh": "科克郡",
+      "az": "Kork",
+      "hr": "Cork (okrug)"
     },
     "comments": null,
     "type": "county"
@@ -374,7 +380,9 @@
       "uk": "Карлоу",
       "ur": "کاؤنٹی کارلو",
       "vi": "Hạt Carlow",
-      "zh": "卡洛郡"
+      "zh": "卡洛郡",
+      "az": "Karlou qraflığı",
+      "kk": "Карлоу (графтық)"
     },
     "comments": null,
     "type": "county"
@@ -438,7 +446,10 @@
       "tr": "Dublin ili",
       "uk": "Дублін",
       "ur": "کاؤنٹی ڈبلن",
-      "zh": "都柏林地區"
+      "zh": "都柏林地區",
+      "az": "Dublin qraflığı",
+      "kk": "Дублин (графтық)",
+      "sw": "Wilaya ya Dublin"
     },
     "comments": null,
     "type": "county"
@@ -516,7 +527,9 @@
       "uk": "Донегол",
       "ur": "کاؤنٹی ڈانیگول",
       "vi": "Hạt Donegal",
-      "zh": "多尼戈爾郡"
+      "zh": "多尼戈爾郡",
+      "is": "County Donegal",
+      "sq": "Qarku i Donegal"
     },
     "comments": null,
     "type": "county"
@@ -593,7 +606,9 @@
       "uk": "Голвей",
       "ur": "کاؤنٹی گالوے",
       "vi": "Hạt Galway",
-      "zh": "戈尔韦郡"
+      "zh": "戈尔韦郡",
+      "et": "Galway krahvkond",
+      "hy": "Գոլուեյ"
     },
     "comments": null,
     "type": "county"
@@ -671,7 +686,9 @@
       "uk": "Кілдер",
       "ur": "کاؤنٹی کلڈیئر",
       "vi": "Hạt Kildare",
-      "zh": "基尔代尔郡"
+      "zh": "基尔代尔郡",
+      "az": "Kilder qraflığı",
+      "hy": "Քիլդեր կոմսություն"
     },
     "comments": null,
     "type": "county"
@@ -749,7 +766,8 @@
       "uk": "Кілкенні",
       "ur": "کاؤنٹی کلکینی",
       "vi": "Hạt Kilkenny",
-      "zh": "基爾肯尼郡"
+      "zh": "基爾肯尼郡",
+      "az": "Kilkenni qraflığı"
     },
     "comments": null,
     "type": "county"
@@ -826,7 +844,9 @@
       "uk": "Керрі",
       "ur": "کاؤنٹی کیری",
       "vi": "Hạt Kerry",
-      "zh": "凱里郡"
+      "zh": "凱里郡",
+      "az": "Kerri",
+      "hy": "Քերի կոմսություն"
     },
     "comments": null,
     "type": "county"
@@ -892,7 +912,10 @@
       "vi": "Leinster",
       "yue_Hans": "利扬省",
       "yue": "利揚省",
-      "zh": "倫斯特省"
+      "zh": "倫斯特省",
+      "az": "Lenster",
+      "ps": "لینستر",
+      "ro": "Leinster"
     },
     "comments": null,
     "type": "province"
@@ -1199,7 +1222,8 @@
       "uk": "Літрім",
       "ur": "کاؤنٹی لیٹریم",
       "vi": "Hạt Leitrim",
-      "zh": "利特里姆郡"
+      "zh": "利特里姆郡",
+      "et": "Leitrimi krahvkond"
     },
     "comments": null,
     "type": "county"
@@ -1342,7 +1366,9 @@
       "vi": "Munster",
       "yue_Hans": "莫云省",
       "yue": "莫雲省",
-      "zh": "芒斯特省"
+      "zh": "芒斯特省",
+      "az": "Munster",
+      "ps": "مونسټر (آیرلنډ)"
     },
     "comments": null,
     "type": "province"
@@ -1572,7 +1598,9 @@
       "uk": "Мейо",
       "ur": "کاؤنٹی میو",
       "vi": "Hạt Mayo",
-      "zh": "梅奧郡"
+      "zh": "梅奧郡",
+      "et": "Mayo krahvkond",
+      "sl": "Grofija Mayo"
     },
     "comments": null,
     "type": "county"
@@ -1651,7 +1679,8 @@
       "uk": "Оффалі",
       "ur": "کاؤنٹی اوفلی",
       "vi": "Hạt Offaly",
-      "zh": "奧法利郡"
+      "zh": "奧法利郡",
+      "az": "Offali"
     },
     "comments": null,
     "type": "county"
@@ -1727,7 +1756,9 @@
       "uk": "Роскоммон",
       "ur": "کاؤنٹی راسکومن",
       "vi": "Hạt Roscommon",
-      "zh": "羅斯康芒郡"
+      "zh": "羅斯康芒郡",
+      "et": "Roscommoni krahvkond",
+      "hu": "Roscommon megye"
     },
     "comments": null,
     "type": "county"
@@ -1805,7 +1836,8 @@
       "uk": "Слайго",
       "ur": "کاؤنٹی سلایگوہ",
       "vi": "Hạt Sligo",
-      "zh": "斯萊戈郡"
+      "zh": "斯萊戈郡",
+      "et": "Sligo krahvkond"
     },
     "comments": null,
     "type": "county"
@@ -1879,7 +1911,8 @@
       "uk": "Тіпперері",
       "ur": "کاؤنٹی ٹپاریری",
       "vi": "Hạt Tipperary",
-      "zh": "蒂珀雷里郡"
+      "zh": "蒂珀雷里郡",
+      "hu": "Tipperary megye"
     },
     "comments": null,
     "type": "county"
@@ -1950,7 +1983,10 @@
       "vi": "Ulster",
       "yue_Hans": "乌勒省",
       "yue": "烏勒省",
-      "zh": "阿爾斯特省"
+      "zh": "阿爾斯特省",
+      "kk": "Олстер",
+      "ps": "اولسټر",
+      "sd": "اولسٽر"
     },
     "comments": null,
     "type": "province"
@@ -2100,7 +2136,8 @@
       "uk": "Західний Міт",
       "ur": "کاؤنٹی ویسٹمیدھ",
       "vi": "Hạt Westmeath",
-      "zh": "韋斯特米斯郡"
+      "zh": "韋斯特米斯郡",
+      "kk": "Уэстмит"
     },
     "comments": null,
     "type": "county"
@@ -2253,7 +2290,9 @@
       "uk": "Вексфорд",
       "ur": "کاؤنٹی ویکسفرڈ",
       "vi": "Wexford",
-      "zh": "韦克斯福德郡"
+      "zh": "韦克斯福德郡",
+      "et": "Wexfordi krahvkond",
+      "hy": "Ուեքսֆորդ"
     },
     "comments": null,
     "type": "county"

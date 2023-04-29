@@ -55,7 +55,11 @@
       "cs": "Sakainská oblast",
       "my": "စစ်ကိုင်းတိုင်း",
       "mk": "Сагаин",
-      "no": "Sagaing"
+      "no": "Sagaing",
+      "eu": "Sagaing",
+      "ka": "საგაინგის რეგიონი",
+      "km": "តំបន់សាហ្គាំង",
+      "ky": "Сикайн (оодан)"
     },
     "comments": null,
     "type": "region"
@@ -117,7 +121,9 @@
       "ccp": "𑄝𑄉𑄮",
       "my": "ပဲခူးတိုင်း",
       "mk": "Баго (округ)",
-      "no": "Bago"
+      "no": "Bago",
+      "ka": "ბაგოს რეგიონი",
+      "km": "តំបន់បាហ្គោ"
     },
     "comments": null,
     "type": "region"
@@ -180,7 +186,9 @@
       "cs": "Makweiská oblast",
       "my": "မကွေးတိုင်း",
       "mk": "Магве",
-      "no": "Magway"
+      "no": "Magway",
+      "ka": "მაგვაის რეგიონი",
+      "ky": "Магуэ (оодан)"
     },
     "comments": null,
     "type": "region"
@@ -242,7 +250,12 @@
       "my": "မန္တလေးတိုင်း",
       "be": "Мандалай",
       "mk": "Мандалеј (округ)",
-      "no": "Mandalay"
+      "no": "Mandalay",
+      "eu": "Mandalay",
+      "ka": "მანდალაის რეგიონი",
+      "km": "តំបន់ម៉ាន់ដាឡាយ",
+      "ky": "Мандалай (оодан)",
+      "ro": "Regiunea Mandalay"
     },
     "comments": null,
     "type": "region"
@@ -306,7 +319,9 @@
       "pa": "ਤਨੀਂਥਾਰਾਈ ਮੰਡਲ",
       "my": "တနင်္သာရီတိုင်း",
       "mk": "Танинтаји",
-      "no": "Tanintharyi"
+      "no": "Tanintharyi",
+      "km": "តំបន់តានីនថារី",
+      "ky": "Танинтайи"
     },
     "comments": null,
     "type": "region"
@@ -374,7 +389,13 @@
       "cs": "Rangúnská oblast",
       "my": "ရန်ကုန်တိုင်း",
       "mk": "Јангон",
-      "no": "Yangon"
+      "no": "Yangon",
+      "cy": "Ardal Yangon",
+      "eu": "Yangon",
+      "he": "מחוז יאנגון",
+      "hy": "Յանգոն",
+      "ka": "იანგონის რეგიონი",
+      "km": "តំបន់យ៉ាំងហ្គូន"
     },
     "comments": null,
     "type": "region"
@@ -443,7 +464,10 @@
       "yue": "愛耶也華地省",
       "be": "Іравадзі",
       "mk": "Иравади",
-      "no": "Ayeyarwady"
+      "no": "Ayeyarwady",
+      "he": "מחוז אייברטי",
+      "ka": "აიეიარვადის რეგიონი",
+      "my": "ဧရာဝတီတိုင်း"
     },
     "comments": null,
     "type": "region"
@@ -513,7 +537,10 @@
       "pa": "ਕਾਚੀਨ ਸੂਬਾ",
       "my": "ကချင်ပြည်နယ်",
       "mk": "Качин",
-      "no": "Kachin"
+      "no": "Kachin",
+      "ka": "კაჩინის შტატი",
+      "km": "រដ្ឋកាឈីន",
+      "ky": "Качин (штат)"
     },
     "comments": null,
     "type": "state"
@@ -578,7 +605,11 @@
       "cs": "Kajaský stát",
       "my": "ကယားပြည်နယ်",
       "mk": "Каја",
-      "no": "Kayah"
+      "no": "Kayah",
+      "ka": "კაიაჰის შტატი",
+      "km": "រដ្ឋកាយ៉ា",
+      "ky": "Кая (штат)",
+      "ro": "Statul Kayah"
     },
     "comments": null,
     "type": "state"
@@ -644,7 +675,10 @@
       "pa": "ਕਾਇਨ",
       "my": "ကရင်ပြည်နယ်",
       "mk": "Карен",
-      "no": "Karen"
+      "no": "Karen",
+      "ka": "კაინის შტატი",
+      "ky": "Карен (штат)",
+      "ro": "Statul Kayin"
     },
     "comments": null,
     "type": "state"
@@ -710,7 +744,10 @@
       "hy": "Չին",
       "ml": "ചിൻ സംസ്ഥാനം",
       "mk": "Чин",
-      "no": "Chin"
+      "no": "Chin",
+      "gl": "Chin",
+      "ky": "Чин (штат)",
+      "my": "ချင်းပြည်နယ်"
     },
     "comments": null,
     "type": "state"
@@ -775,7 +812,11 @@
       "cs": "Monský stát",
       "my": "မွန်ပြည်နယ်",
       "mk": "Мон",
-      "no": "Mon"
+      "no": "Mon",
+      "eu": "Mon",
+      "ka": "მონის შტატი",
+      "km": "រដ្ឋមន",
+      "ky": "Мон (штат)"
     },
     "comments": null,
     "type": "state"
@@ -844,7 +885,8 @@
       "he": "ראקין",
       "my": "ရခိုင်ပြည်နယ်",
       "mk": "Ракајн",
-      "no": "Rakhine"
+      "no": "Rakhine",
+      "ky": "Ракхайн"
     },
     "comments": null,
     "type": "state"
@@ -912,7 +954,12 @@
       "yue": "撣邦",
       "my": "ရှမ်းပြည်နယ်",
       "mk": "Шан",
-      "no": "Shan"
+      "no": "Shan",
+      "az": "Şan (Myanma)",
+      "ka": "შანის შტატი",
+      "km": "រដ្ឋសាន",
+      "ky": "Шан (штат)",
+      "pa": "ਸ਼ਾਨ ਰਾਜ"
     },
     "comments": null,
     "type": "state"
@@ -948,7 +995,11 @@
       "el": "Ενωσιακή Επικράτεια Νέπιντο",
       "ccp": "𑄚𑄬𑄛𑄭𑄃𑄨𑄓𑄳𑄦𑄧",
       "my": "နေပြည်တော် ပြည်ထောင်စုနယ်မြေ",
-      "ca": "Territori de la Unió de Naypyidaw"
+      "ca": "Territori de la Unió de Naypyidaw",
+      "bn": "নেপিডো কেন্দ্রশাসিত অঞ্চল",
+      "eu": "Naypyidaw",
+      "km": "ទឹកដីសហភាពណៃពិដោ",
+      "mr": "नेप्यिडॉ केंद्रशासित प्रदेश"
     },
     "comments": null,
     "type": "union_territory"

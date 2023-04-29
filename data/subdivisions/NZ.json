@@ -60,7 +60,11 @@
       "lt": "Oklendo regionas",
       "ccp": "𑄃𑄧𑄇𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Окленд",
-      "no": "Auckland"
+      "no": "Auckland",
+      "az": "Oklend regionu",
+      "cs": "Auckland",
+      "fa": "منطقه آوکلند",
+      "ro": "Auckland"
     },
     "comments": null,
     "type": "region"
@@ -123,7 +127,10 @@
       "ccp": "𑄝𑄬 𑄃𑄧𑄛𑄴 𑄛𑄳𑄣𑄬𑄚𑄴𑄑𑄨",
       "cs": "Bay of Plenty",
       "mk": "Залив Пленти",
-      "no": "Bay of Plenty"
+      "no": "Bay of Plenty",
+      "be": "рэгіён Бэй-оф-Пленці",
+      "ceb": "Bay of Plenty",
+      "ga": "Réigiún Bhá na Flúirse"
     },
     "comments": null,
     "type": "region"
@@ -188,7 +195,10 @@
       "zh": "坎特伯雷",
       "ccp": "𑄇𑄚𑄴𑄑𑄢𑄴𑄝𑄪𑄢𑄨",
       "mk": "Кантербери",
-      "no": "Canterbury"
+      "no": "Canterbury",
+      "af": "Canterbury streek",
+      "ceb": "Canterbury, Nueva Zelanda",
+      "hy": "Քանթերբերիի շրջան"
     },
     "comments": null,
     "type": "region"
@@ -259,7 +269,12 @@
       "sr_Latn": "Četem ostrva",
       "zh": "查塔姆群岛",
       "ccp": "𑄇𑄗𑄟𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
-      "no": "Chathamøyene"
+      "no": "Chathamøyene",
+      "uz": "Chatem",
+      "yo": "Àwọn Erékùṣù Chatham",
+      "yo_BJ": "Àwɔn Erékùshù Chatham",
+      "yue": "漆咸群島",
+      "yue_Hans": "漆咸群岛"
     },
     "comments": null,
     "type": "special_island_authority"
@@ -382,7 +397,9 @@
       "zh": "霍克湾大区",
       "ccp": "𑄦𑄧𑄇𑄬𑄌𑄴 𑄝𑄬",
       "mk": "Хоков Залив",
-      "no": "Hawke’s Bay"
+      "no": "Hawke’s Bay",
+      "az": "Xoks-Bey",
+      "cy": "Te Matau-a-Māui"
     },
     "comments": null,
     "type": "region"
@@ -441,7 +458,8 @@
       "zh": "马尔堡",
       "ccp": "𑄟𑄢𑄴𑄣𑄴",
       "mk": "Марлборо",
-      "no": "Marlborough"
+      "no": "Marlborough",
+      "eu": "Marlborough eskualdea"
     },
     "comments": null,
     "type": "region"
@@ -603,7 +621,9 @@
       "zh": "北地大区",
       "ccp": "𑄚𑄧𑄢𑄴𑄒𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Нортленд",
-      "no": "Northland"
+      "no": "Northland",
+      "cs": "Northland",
+      "gl": "Rexión de Northland"
     },
     "comments": null,
     "type": "region"
@@ -668,7 +688,9 @@
       "fa": "اوتاگو",
       "ccp": "𑄃𑄧𑄑𑄉𑄮",
       "mk": "Отаго",
-      "no": "Otago"
+      "no": "Otago",
+      "gl": "Rexión de Otago",
+      "hy": "Օտագոյի շրջան"
     },
     "comments": null,
     "type": "region"
@@ -730,7 +752,9 @@
       "zh": "南地大区",
       "ccp": "𑄥𑄅𑄪𑄖𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "mk": "Саутленд",
-      "no": "Southland"
+      "no": "Southland",
+      "be": "Саўтленд",
+      "hy": "Սաութլենդ"
     },
     "comments": null,
     "type": "region"
@@ -790,7 +814,8 @@
       "zh": "塔斯曼",
       "ccp": "𑄑𑄌𑄴𑄟𑄳𑄠𑄚𑄴",
       "mk": "Тасман",
-      "no": "Tasman"
+      "no": "Tasman",
+      "he": "מחוז טזמן"
     },
     "comments": null,
     "type": "region"
@@ -914,7 +939,12 @@
       "zh": "惠灵顿大区",
       "ccp": "𑄃𑄮𑄠𑄬𑄣𑄨𑄁𑄑𑄧𑄚𑄴",
       "mk": "Велингтон",
-      "no": "Wellington"
+      "no": "Wellington",
+      "be": "Велінгтан",
+      "hy": "Վելինգթոն",
+      "ro": "Wellington",
+      "sr": "Велингтон (регија)",
+      "sr_Latn": "Velington (regija)"
     },
     "comments": null,
     "type": "region"
@@ -980,7 +1010,9 @@
       "zh": "懷卡托",
       "ccp": "𑄃𑄮𑄠𑄇𑄑𑄮",
       "mk": "Ваикато",
-      "no": "Waikato"
+      "no": "Waikato",
+      "cs": "Waikato (region)",
+      "ro": "Waikato"
     },
     "comments": null,
     "type": "region"
@@ -1041,7 +1073,9 @@
       "zh": "西岸大区",
       "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴 𑄇𑄮𑄌𑄴𑄑𑄴",
       "mk": "Западно Крајбрежје",
-      "no": "West Coast"
+      "no": "West Coast",
+      "fa": "وست کوست، نیوزیلند",
+      "hu": "West Coast régió"
     },
     "comments": null,
     "type": "region"

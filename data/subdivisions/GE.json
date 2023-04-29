@@ -79,7 +79,8 @@
       "ccp": "𑄃𑄛𑄴𑄈𑄎𑄨𑄠",
       "sd": "ابخازيہ",
       "kk": "Абхазия Автономиялық Республикасы",
-      "no": "Abkhasia"
+      "no": "Abkhasia",
+      "cy": "Gweriniaeth Ymreolaethol Abchasia"
     },
     "comments": null,
     "type": "autonomous_republic"
@@ -169,7 +170,9 @@
       "bs": "Adžarija",
       "mk": "Аџарија",
       "no": "Adsjaria",
-      "yo_BJ": "Adjara"
+      "yo_BJ": "Adjara",
+      "ha": "Adjara",
+      "ha_NE": "Adjara"
     },
     "comments": null,
     "type": "autonomous_republic"
@@ -240,7 +243,11 @@
       "eu": "Guria",
       "ml": "ഗുരിയ",
       "mk": "Гурија",
-      "no": "Guria"
+      "no": "Guria",
+      "ha": "Guria",
+      "ha_NE": "Guria",
+      "hr": "Gurija",
+      "uz": "Guria"
     },
     "comments": null,
     "type": "region"
@@ -313,7 +320,12 @@
       "eu": "Imereti",
       "kk": "Имеретия патшалығы",
       "mk": "Имеретија",
-      "no": "Imereti"
+      "no": "Imereti",
+      "cy": "Imereti",
+      "ha": "Imereti",
+      "ha_NE": "Imereti",
+      "hr": "Imeretija",
+      "ro": "Imeresia"
     },
     "comments": null,
     "type": "region"
@@ -387,7 +399,11 @@
       "ccp": "𑄇𑄈𑄬𑄑𑄨",
       "ml": "കാഖേറ്റി",
       "mk": "Кахетија",
-      "no": "Kakheti"
+      "no": "Kakheti",
+      "hr": "Kahetija",
+      "ro": "Kakhesia",
+      "sl": "Kaheti",
+      "uz": "Kaxeti"
     },
     "comments": null,
     "type": "region"
@@ -458,7 +474,9 @@
       "ccp": "𑄞𑄬𑄟𑄮 𑄇𑄢𑄴𑄑𑄴𑄣𑄨",
       "eu": "Kvemo Kartli",
       "mk": "Долна Картли",
-      "no": "Kvemo Kartli"
+      "no": "Kvemo Kartli",
+      "ml": "ക്വെമോ കാർട്ട്ലി",
+      "ro": "Kartli Inferior"
     },
     "comments": null,
     "type": "region"
@@ -531,7 +549,9 @@
       "ml": "മ്റ്റിസ്ഖേറ്റ-മ്റ്റിയാനേറ്റി",
       "yue": "姆茨赫塔-姆季阿涅季州",
       "mk": "Мцхета-Мтијанетија",
-      "no": "Mtskheta-Mtianeti"
+      "no": "Mtskheta-Mtianeti",
+      "ca": "Mtskheta-Mtianeti",
+      "ro": "Mtskheta-Mtianeti"
     },
     "comments": null,
     "type": "region"
@@ -602,7 +622,10 @@
       "zh": "拉恰-列其呼米-下斯瓦涅季亞州",
       "ccp": "𑄢𑄌-𑄣𑄬𑄌𑄴𑄈𑄪𑄟𑄨 𑄃𑄳𑄃 𑄞𑄬𑄟𑄮 𑄞𑄚𑄬𑄑𑄨",
       "mk": "Рача-Лечхуми и Долна Сванетија",
-      "no": "Racha-Lechkhumi og Kvemo Svaneti"
+      "no": "Racha-Lechkhumi og Kvemo Svaneti",
+      "ca": "Ratxa-Letxkhumi i Baixa Svanètia",
+      "ml": "റച്ച-ലെച്ച്കുമി ആൻഡ് ക്വെമൊ സ്വനെറ്റി",
+      "ro": "Racia-Lecihumi și Svanesia Inferioară"
     },
     "comments": null,
     "type": "region"
@@ -674,7 +697,8 @@
       "eu": "Samtskhe-Javakheti",
       "ml": "സാംറ്റ്സ്കെ ജവാഖേറ്റി",
       "mk": "Самцхе-Џавахетија",
-      "no": "Samtskhe-Javakheti"
+      "no": "Samtskhe-Javakheti",
+      "ro": "Samtskhe-Javakheti"
     },
     "comments": null,
     "type": "region"
@@ -747,7 +771,9 @@
       "ccp": "𑄥𑄨𑄓 𑄇𑄢𑄴𑄑𑄴𑄣𑄨",
       "ml": "ഷിദ കാർട്‌ലി",
       "mk": "Внатрешен Картли",
-      "no": "Shida Kartli"
+      "no": "Shida Kartli",
+      "hr": "Unutarnji Kartli",
+      "ro": "Kartli Interior"
     },
     "comments": null,
     "type": "region"
@@ -815,7 +841,10 @@
       "ccp": "𑄥𑄳𑄠𑄟𑄴𑄉𑄳𑄢𑄬𑄣𑄮-𑄎𑄬𑄟𑄮 𑄞𑄚𑄬𑄑𑄨",
       "ml": "സാമെഗ്രെലോ-സെമോ സ്വാനെറ്റി",
       "mk": "Мегрелија-Горна Сванетија",
-      "no": "Samegrelo-Zemo Svaneti"
+      "no": "Samegrelo-Zemo Svaneti",
+      "ca": "Mingrèlia - Alta Svanètia",
+      "et": "Samegrelo–Zemo Svanethi",
+      "ro": "Megrelia-Svanesia Superioară"
     },
     "comments": null,
     "type": "region"
@@ -915,7 +944,8 @@
       "bs": "Tbilisi",
       "mk": "Тбилиси",
       "no": "Tbilisi",
-      "yo_BJ": "Tbilisi"
+      "yo_BJ": "Tbilisi",
+      "ps": "تفلیس"
     },
     "comments": null,
     "type": "city"

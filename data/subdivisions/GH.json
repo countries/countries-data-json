@@ -57,7 +57,10 @@
       "ha": "Yankin Greater Accra",
       "uk": "Велика Аккра",
       "ha_NE": "Yankin Greater Accra",
-      "no": "Greater Accra"
+      "no": "Greater Accra",
+      "he": "אזור אקרה רבתי",
+      "hy": "Մեծ Աքրա",
+      "sw": "Mkoa wa Greater Accra"
     },
     "comments": null,
     "type": "region"
@@ -75,7 +78,15 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "Ahafo"
+      "en": "Ahafo",
+      "de": "Ahafo Region",
+      "es": "Región Ahafo",
+      "fa": "ناحیه آهافو",
+      "it": "Regione di Ahafo",
+      "ja": "アハフォ州",
+      "pl": "Region Ahafo",
+      "ru": "Ахафо",
+      "sw": "Mkoa wa Ahafo"
     },
     "comments": null,
     "type": "region"
@@ -143,7 +154,10 @@
       "yo": "Agbègbè Ashanti",
       "ha_NE": "Yankin Ashanti",
       "no": "Ashanti",
-      "yo_BJ": "Agbègbè Ashanti"
+      "yo_BJ": "Agbègbè Ashanti",
+      "af": "Asjanti (streek)",
+      "he": "חבל אשנטי",
+      "sw": "Mkoa wa Ashanti"
     },
     "comments": null,
     "type": "region"
@@ -161,7 +175,16 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "Bono East"
+      "en": "Bono East",
+      "ar": "إقليم شرق بونو",
+      "de": "Bono East Region",
+      "es": "Región de Bono Oriental",
+      "fa": "ناحیه بونو شرقی",
+      "it": "Regione di Bono Est",
+      "ja": "ボノ・イースト州",
+      "pl": "Region Bono Wschodnie",
+      "ru": "Боно-Ист",
+      "sw": "Mkoa wa Bono Mashariki"
     },
     "comments": null,
     "type": "region"
@@ -179,7 +202,18 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "Bono"
+      "en": "Bono",
+      "ar": "إقليم بونو",
+      "de": "Bono Region",
+      "es": "Región de Bono",
+      "fa": "ناحیه بونو",
+      "ha": "Yankin Bono",
+      "ha_NE": "Yankin Bono",
+      "it": "Regione di Bono",
+      "ja": "ボノ州",
+      "pl": "Region Bono",
+      "ru": "Боно",
+      "sw": "Mkoa wa Bono"
     },
     "comments": null,
     "type": "region"
@@ -242,7 +276,9 @@
       "hy": "Կենտրոնական շրջան",
       "ha": "Yankin Tsakiya (Ghana)",
       "ha_NE": "Yankin Tsakiya (Ghana)",
-      "no": "Central"
+      "no": "Central",
+      "he": "מחוז המרכז",
+      "sw": "Mkoa wa Kati, Ghana"
     },
     "comments": null,
     "type": "region"
@@ -304,7 +340,8 @@
       "ccp": "𑄛𑄪𑄇𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ha": "Yankin Gabashi (Ghana)",
       "ha_NE": "Yankin Gabashi (Ghana)",
-      "no": "Eastern"
+      "no": "Eastern",
+      "sw": "Mkoa wa Mashariki, Ghana"
     },
     "comments": null,
     "type": "region"
@@ -322,7 +359,14 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "North East"
+      "en": "North East",
+      "de": "North East Region",
+      "es": "Región Norte Oriental",
+      "fa": "ناحیه شمال شرقی (غنا)",
+      "it": "Regione Nord Est",
+      "ja": "ノース・イースト州",
+      "pl": "Region Północno–Wschodni",
+      "ru": "Северо-Восточная область"
     },
     "comments": null,
     "type": "region"
@@ -384,7 +428,9 @@
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴𑄟𑄬𑄇𑄴𑄈𑄬",
       "ha": "Yankin Arewaci (Ghana)",
       "ha_NE": "Yankin Arewaci (Ghana)",
-      "no": "Northern"
+      "no": "Northern",
+      "cs": "Northern Region (Ghana)",
+      "sw": "Mkoa wa Kaskazini, Ghana"
     },
     "comments": null,
     "type": "region"
@@ -395,7 +441,15 @@
     "unofficial_names": null,
     "geo": null,
     "translations": {
-      "en": "Oti"
+      "en": "Oti",
+      "de": "Oti Region",
+      "es": "Región Oti",
+      "fa": "ناحیه اوتی",
+      "it": "Regione di Oti",
+      "ja": "オティ州",
+      "pl": "Region Oti",
+      "ru": "Оти",
+      "sw": "Mkoa wa Oti"
     },
     "comments": null,
     "type": "region"
@@ -413,7 +467,18 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "Savannah"
+      "en": "Savannah",
+      "ar": "منطقة السفانا",
+      "de": "Savannah Region",
+      "es": "Región de Sabana",
+      "fa": "ناحیه ساوانا",
+      "ha": "Yankin Savannah",
+      "ha_NE": "Yankin Savannah",
+      "it": "Regione di Savannah",
+      "ja": "サバンナ州",
+      "pl": "Region Savannah",
+      "ru": "Саванна",
+      "sw": "Mkoa wa Savannah"
     },
     "comments": null,
     "type": "region"
@@ -476,7 +541,8 @@
       "ccp": "𑄞𑄮𑄣𑄴𑄑",
       "ha": "Yankin Volta",
       "ha_NE": "Yankin Volta",
-      "no": "Volta"
+      "no": "Volta",
+      "sw": "Mkoa wa Volta"
     },
     "comments": null,
     "type": "region"
@@ -538,7 +604,9 @@
       "ha": "Yankin Upper East",
       "uk": "Верхній Східний Регіон",
       "ha_NE": "Yankin Upper East",
-      "no": "Upper East"
+      "no": "Upper East",
+      "gl": "rexión Superior Oriental",
+      "sw": "Mkoa wa Mashariki ya Juu"
     },
     "comments": null,
     "type": "region"
@@ -600,7 +668,8 @@
       "ha": "Yankin Upper West",
       "uk": "Верхній Західний регіон",
       "ha_NE": "Yankin Upper West",
-      "no": "Upper West"
+      "no": "Upper West",
+      "sw": "Mkoa wa Magharibi ya Juu"
     },
     "comments": null,
     "type": "region"
@@ -618,7 +687,15 @@
       "max_longitude": 1.199972
     },
     "translations": {
-      "en": "Western North"
+      "en": "Western North",
+      "de": "Western North Region",
+      "es": "Región Norte Occidental",
+      "fa": "ناحیه شمال غربی",
+      "it": "Regione Nordoccidentale",
+      "ja": "ウェスタン・ノース州",
+      "pl": "Region Zachodnio-Północny",
+      "ru": "Северо-Западная область (Гана)",
+      "sw": "Mkoa wa Kaskazini Magharibi"
     },
     "comments": null,
     "type": "region"
@@ -680,7 +757,9 @@
       "ccp": "𑄃𑄮𑄠𑄬𑄌𑄴𑄑𑄢𑄴𑄚𑄴",
       "ha": "Yankin Yammaci, Ghana",
       "ha_NE": "Yankin Yammaci, Ghana",
-      "no": "Western"
+      "no": "Western",
+      "he": "מחוז המערב",
+      "sw": "Mkoa wa Magharibi, Ghana"
     },
     "comments": null,
     "type": "region"

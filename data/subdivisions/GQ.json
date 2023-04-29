@@ -57,7 +57,11 @@
       "he": "אנובון",
       "ml": "അന്നോബോൺ",
       "uk": "Провінція Анобон",
-      "no": "Annobón"
+      "no": "Annobón",
+      "af": "Annobón",
+      "cy": "Talaith Annobón",
+      "zh": "安诺本省",
+      "zu": "Annobón"
     },
     "comments": null,
     "type": "province"
@@ -119,7 +123,10 @@
       "lv": "Ziemeļbioko province",
       "ceb": "Provincia de Bioko Norte",
       "ccp": "𑄝𑄭𑄇𑄮 𑄚𑄧𑄢𑄴𑄑𑄬",
-      "no": "Bioko Norte"
+      "no": "Bioko Norte",
+      "cy": "Bioko Norte",
+      "fa": "بیوکو نورت",
+      "gl": "Bioko Norte"
     },
     "comments": null,
     "type": "province"
@@ -181,7 +188,9 @@
       "zh": "南比奥科省",
       "fa": "استان بیوکو سور",
       "ccp": "𑄝𑄭𑄇𑄮 𑄥𑄢𑄴",
-      "no": "Bioko Sur"
+      "no": "Bioko Sur",
+      "cy": "Talaith Bioko Sur",
+      "gl": "Bioko Sur"
     },
     "comments": null,
     "type": "province"
@@ -228,7 +237,11 @@
       "ccp": "𑄢𑄨𑄃𑄮 𑄟𑄪𑄚𑄨",
       "ka": "რიო-მუნი",
       "he": "ריו מוני",
-      "no": "Río Muni"
+      "no": "Río Muni",
+      "az": "Rio-Muni",
+      "hy": "Ռիո Մունի",
+      "th": "ภูมิภาคริโอมูนิ",
+      "ur": "ریو مونی"
     },
     "comments": null,
     "type": "region"
@@ -290,14 +303,27 @@
       "zh": "中南省",
       "fa": "استان سنترو سور",
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄮 𑄥𑄢𑄴",
-      "no": "Centro Sur"
+      "no": "Centro Sur",
+      "cy": "Talaith Centro Sur"
     },
     "comments": null,
     "type": "province"
   },
   "DJ": {
     "translations": {
-      "en": "Djibloho"
+      "en": "Djibloho",
+      "de": "Djibloho",
+      "es": "Provincia de Djibloho",
+      "fa": "دجیبلوهو",
+      "fr": "Djibloho",
+      "he": "ג׳יבלו",
+      "ja": "ジブロホ県",
+      "ko": "지블로호",
+      "pl": "Djibloho",
+      "ru": "Джиблохо",
+      "th": "จังหวัดจิโบลโอ",
+      "ur": "جیبلوہو",
+      "zh": "吉布劳"
     },
     "name": "Djibloho",
     "code": "DJ",
@@ -328,7 +354,11 @@
       "zh": "海岛大区",
       "ccp": "𑄃𑄨𑄚𑄴𑄥𑄪𑄣𑄢𑄴",
       "ka": "კუნძულოვანი რეგიონი",
-      "ko": "적도 기니 도서 지방"
+      "ko": "적도 기니 도서 지방",
+      "af": "Insular-streek",
+      "de": "Región Insular (Äquatorialguinea)",
+      "th": "ภูมิภาคเกาะ",
+      "ur": "جزیراتی علاقہ"
     },
     "comments": null,
     "type": "region"
@@ -389,7 +419,9 @@
       "ceb": "Provincia de Kié-Ntem",
       "zh": "基埃恩特姆省",
       "ccp": "𑄇𑄭-𑄑𑄬𑄟𑄴",
-      "no": "Kié-Ntem"
+      "no": "Kié-Ntem",
+      "cy": "Kié-Ntem",
+      "fa": "کاینتم"
     },
     "comments": null,
     "type": "province"
@@ -450,7 +482,8 @@
       "ceb": "Provincia de Litoral",
       "zh": "滨海省",
       "ccp": "𑄣𑄨𑄑𑄮𑄢𑄣𑄴",
-      "no": "Litoral"
+      "no": "Litoral",
+      "cy": "Litoral"
     },
     "comments": null,
     "type": "province"
@@ -510,7 +543,10 @@
       "ceb": "Provincia de Wele-Nzas",
       "zh": "韦莱恩萨斯省",
       "ccp": "𑄤𑄬𑄠𑄬 𑄚𑄌𑄴",
-      "no": "Wele-Nzás"
+      "no": "Wele-Nzás",
+      "cy": "Wele-Nzas",
+      "fa": "وله نزا",
+      "hy": "Վելե-Նզաս"
     },
     "comments": null,
     "type": "province"

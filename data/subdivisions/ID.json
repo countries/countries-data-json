@@ -79,7 +79,8 @@
       "ne": "अाचे",
       "bg": "Ачех",
       "no": "Aceh",
-      "yo_BJ": "Aceh"
+      "yo_BJ": "Aceh",
+      "az": "Açeh"
     },
     "comments": null,
     "type": "province"
@@ -135,7 +136,23 @@
       "nb": "Bali",
       "ca": "Bali",
       "zu": "Bali",
-      "no": "Bali"
+      "no": "Bali",
+      "ar": "بالي",
+      "az": "Bali (əyalət)",
+      "be": "правінцыя Балі",
+      "bn": "বালি, ইন্দোনেশিয়া",
+      "el": "Μπαλί",
+      "fa": "بالی (استان)",
+      "he": "באלי",
+      "hi": "बाली",
+      "hy": "Բալի",
+      "km": "កោះបាលី",
+      "lv": "Bali",
+      "mr": "बाली",
+      "ta": "பாலி",
+      "th": "จังหวัดบาหลี",
+      "ur": "بالی",
+      "zh": "巴厘岛"
     },
     "comments": null,
     "type": "province"
@@ -265,7 +282,9 @@
       "be": "Правінцыя Бенгкулу",
       "th": "จังหวัดเบิงกูลู",
       "bg": "Бенгкулу",
-      "no": "Bengkulu"
+      "no": "Bengkulu",
+      "az": "Benqkulu",
+      "so": "Bengkulu"
     },
     "comments": null,
     "type": "province"
@@ -339,7 +358,8 @@
       "be": "Правінцыя Бантэн",
       "th": "จังหวัดบันเติน",
       "bg": "Бантен",
-      "no": "Banten"
+      "no": "Banten",
+      "az": "Banten"
     },
     "comments": null,
     "type": "province"
@@ -478,7 +498,9 @@
       "ca": "Jambi",
       "th": "จังหวัดจัมบี",
       "bg": "Джамби",
-      "no": "Jambi"
+      "no": "Jambi",
+      "az": "Cambi",
+      "mk": "Џамби (покраина)"
     },
     "comments": null,
     "type": "province"
@@ -546,7 +568,10 @@
       "ca": "Java Occidental",
       "th": "จังหวัดชวาตะวันตก",
       "bg": "Западна Ява",
-      "no": "Jawa Barat"
+      "no": "Jawa Barat",
+      "hy": "Արևմտյան Ճավա",
+      "mk": "Западна Јава",
+      "so": "Jawa Barat,"
     },
     "comments": null,
     "type": "province"
@@ -619,7 +644,13 @@
       "th": "จังหวัดชวาตะวันออก",
       "ne": "पूर्वी जाभा क्षेत्र",
       "bg": "Източна Ява",
-      "no": "Jawa Timur"
+      "no": "Jawa Timur",
+      "az": "Şərqi Yava",
+      "be": "Усходняя Ява",
+      "ga": "Iáva Thoir",
+      "hy": "Արևելյան Յավա",
+      "mk": "Источна Јава",
+      "my": "အရှေ့ ဂျာဗား"
     },
     "comments": null,
     "type": "province"
@@ -722,7 +753,8 @@
       "bg": "Джакарта",
       "ha_NE": "Jakarta",
       "no": "Jakarta",
-      "yo_BJ": "Jakarta"
+      "yo_BJ": "Jakarta",
+      "sd": "جڪارتا"
     },
     "comments": null,
     "type": "capital_region"
@@ -805,7 +837,10 @@
       "th": "จังหวัดชวากลาง",
       "zu": "Jawa Tengah",
       "bg": "Централна Ява",
-      "no": "Jawa Tengah"
+      "no": "Jawa Tengah",
+      "az": "Mərkəzi Yava",
+      "mk": "Централна Јава",
+      "so": "Jawa tengah,"
     },
     "comments": null,
     "type": "province"
@@ -895,7 +930,8 @@
       "ne": "जावा द्वीप",
       "bg": "Ява",
       "ha_NE": "Java",
-      "no": "Java"
+      "no": "Java",
+      "sq": "Ishulli Java"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -950,7 +986,12 @@
       "uz": "Kalimantan",
       "mk": "Калимантан",
       "bg": "Калимантан",
-      "no": "Kalimantan"
+      "no": "Kalimantan",
+      "az": "Kalimantan (İndoneziya)",
+      "el": "Καλιμαντάν²",
+      "gl": "Kalimantan",
+      "sr": "Калимантан",
+      "sr_Latn": "Kalimantan"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -1019,7 +1060,9 @@
       "mn": "Өрнө Калимантан",
       "th": "จังหวัดกาลีมันตันตะวันตก",
       "bg": "Западен Калимантан",
-      "no": "Kalimantan Barat"
+      "no": "Kalimantan Barat",
+      "mk": "Западен Калимантан",
+      "so": "Kalimantan Barat,"
     },
     "comments": null,
     "type": "province"
@@ -1089,7 +1132,9 @@
       "be": "Правінцыя Усходні Калімантан",
       "th": "จังหวัดกาลีมันตันตะวันออก",
       "bg": "Източен Калимантан",
-      "no": "Kalimantan Timur"
+      "no": "Kalimantan Timur",
+      "he": "מזרח קלימנטאן",
+      "mk": "Источен Калимантан"
     },
     "comments": null,
     "type": "province"
@@ -1224,7 +1269,8 @@
       "ca": "Kalimantan del Sud",
       "th": "จังหวัดกาลิมันตัน",
       "bg": "Южен Калимантан",
-      "no": "Kalimantan Selatan"
+      "no": "Kalimantan Selatan",
+      "he": "דרום קלימנטאן"
     },
     "comments": null,
     "type": "province"
@@ -1293,7 +1339,11 @@
       "ca": "Kalimantan central",
       "th": "จังหวัดกาลีมันตันกลาง",
       "bg": "Централен Калимантан",
-      "no": "Kalimantan Tengah"
+      "no": "Kalimantan Tengah",
+      "gl": "Kalimantan Central",
+      "he": "מרכז קלימנטאן",
+      "mk": "Централен Калимантан",
+      "my": "အလယ်ပိုင်း ကာလီမန်တန်"
     },
     "comments": null,
     "type": "province"
@@ -1343,7 +1393,12 @@
       "my": "မြောက်ကာလီမန်တန်ပြည်နယ်",
       "ca": "Kalimantan Nord",
       "be": "Паўночны Калімантан",
-      "th": "จังหวัดกาลีมันตันเหนือ"
+      "th": "จังหวัดกาลีมันตันเหนือ",
+      "az": "Şimali Kalimantan",
+      "bn": "উত্তর কালিমান্তান",
+      "el": "Βόρειο Καλιμαντάν",
+      "he": "צפון קלימנטאן",
+      "ml": "വടക്കൻ കലിമന്താൻ"
     },
     "comments": null,
     "type": "province"
@@ -1411,7 +1466,9 @@
       "th": "จังหวัดลำปาง",
       "ne": "ल्याम्पुङ क्षेत्र",
       "bg": "Лампунг",
-      "no": "Lampung"
+      "no": "Lampung",
+      "az": "Lampunq",
+      "so": "Lampung,"
     },
     "comments": null,
     "type": "province"
@@ -1482,7 +1539,8 @@
       "th": "จังหวัดมาลูกู",
       "mk": "Малуку",
       "bg": "Молуку",
-      "no": "Maluku Kommune"
+      "no": "Maluku Kommune",
+      "hr": "Maluku"
     },
     "comments": null,
     "type": "province"
@@ -1561,7 +1619,10 @@
       "bs": "Molučka ostrva",
       "mk": "Молучки Острови",
       "bg": "Молукски острови",
-      "no": "Molukkene"
+      "no": "Molukkene",
+      "bn": "মালুকু দ্বীপপুঞ্জ",
+      "sl": "Moluki",
+      "sw": "Visiwa vya Maluku"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -1697,7 +1758,9 @@
       "th": "จังหวัดนูซาเต็งการาตะวันตก",
       "mk": "Западни Мали Сундски острови",
       "bg": "Западни Малки Зондски острови",
-      "no": "West Nusa Tenggara"
+      "no": "West Nusa Tenggara",
+      "be": "Заходняя Нуса-Тэнгара",
+      "he": "מערב נוסה טנגרה"
     },
     "comments": null,
     "type": "province"
@@ -1768,7 +1831,9 @@
       "th": "นูซา เตงการา ตะวันออก",
       "mk": "Источни Мали Сундски Острови",
       "bg": "Източни Малки Зондски острови",
-      "no": "Nusa Tenggara Timur"
+      "no": "Nusa Tenggara Timur",
+      "be": "Усходняя Нуса-Тэнгара",
+      "ps": "ختیځ سوندای"
     },
     "comments": null,
     "type": "province"
@@ -1838,7 +1903,9 @@
       "bs": "Mala Sundska ostrva",
       "mk": "Мали Сундски Острови",
       "bg": "Малки Зондски острови",
-      "no": "De små Sundaøyer"
+      "no": "De små Sundaøyer",
+      "hy": "Փոքր Զոնդյան կղզիներ",
+      "sl": "Mali Sundski otoki"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -1909,7 +1976,10 @@
       "be": "Правінцыя Папуа",
       "th": "จังหวัดปาปัว",
       "mk": "Папуа",
-      "no": "Papua"
+      "no": "Papua",
+      "az": "Papua",
+      "bg": "Папуа",
+      "et": "Paapua provints"
     },
     "comments": null,
     "type": "province"
@@ -1979,7 +2049,10 @@
       "th": "จังหวัดปาปัวตะวันตก",
       "mk": "Западна Папуа",
       "bg": "Западна Папуа",
-      "no": "Papua Barat"
+      "no": "Papua Barat",
+      "et": "Lääne-Paapua provints",
+      "hr": "Zapadna Papua (pokrajina)",
+      "hy": "Արևմտյան Պապուա"
     },
     "comments": null,
     "type": "province"
@@ -2043,7 +2116,11 @@
       "ca": "Papua Occidental",
       "th": "นิวกินีตะวันตก",
       "bg": "Западна Нова Гвинея",
-      "no": "Vest-Papua"
+      "no": "Vest-Papua",
+      "az": "Qərbi Yeni Qvineya",
+      "hu": "Nyugat-Új-Guinea",
+      "sw": "Guinea Mpya ya Kiholanzi",
+      "uz": "Gʻarbiy Yangi Gvineya"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -2109,7 +2186,8 @@
       "be": "Правінцыя Рыау",
       "th": "จังหวัดเรียว",
       "bg": "Риау",
-      "no": "Riau"
+      "no": "Riau",
+      "az": "Riau"
     },
     "comments": null,
     "type": "province"
@@ -2173,7 +2251,9 @@
       "be": "Правінцыя Паўночны Сулавесі",
       "th": "จังหวัดซูลาเวซีใต้",
       "bg": "Северно Сулавеси",
-      "no": "Nord Sulawesi provins"
+      "no": "Nord Sulawesi provins",
+      "ca": "Cèlebes septentrional",
+      "ga": "An tSulaivéis Thuaidh"
     },
     "comments": null,
     "type": "province"
@@ -2244,7 +2324,8 @@
       "be": "Правінцыя Заходняя Суматра",
       "th": "จังหวัดสุมาตราตะวันตก",
       "bg": "Западна Суматра",
-      "no": "Sumatera Barat"
+      "no": "Sumatera Barat",
+      "az": "Qərbi Sumatra"
     },
     "comments": null,
     "type": "province"
@@ -2303,7 +2384,12 @@
       "be": "Правінцыя Паўднёва-Усходні Сулавесі",
       "th": "สุลาเวสีเตงการาตะวันออกเฉียงใต้",
       "bg": "Югоизточно Сулавеси",
-      "no": "South East Sulawesi Provins"
+      "no": "South East Sulawesi Provins",
+      "ca": "Cèlebes Sud-orientals",
+      "he": "דרום-מזרח סולאווסי",
+      "hu": "Délkelet-Celebesz",
+      "ml": "തെക്കുകിഴക്കൻ സുലവേസി",
+      "so": "Sulawesi Tenggara,"
     },
     "comments": null,
     "type": "province"
@@ -2382,7 +2468,8 @@
       "mk": "Сулавеси",
       "bg": "Сулавеси",
       "ha_NE": "Sulawesi",
-      "no": "Sulawesi"
+      "no": "Sulawesi",
+      "bn": "সুলাওসি"
     },
     "comments": null,
     "type": "geographical_unit"
@@ -2535,7 +2622,8 @@
       "be": "Правінцыя Паўднёвы Сулавесі",
       "th": "จังหวัดสุลาเวสี",
       "bg": "Южно Сулавеси",
-      "no": "Sør Sulawesi"
+      "no": "Sør Sulawesi",
+      "ca": "Cèlebes Meridionals"
     },
     "comments": null,
     "type": "province"
@@ -2598,7 +2686,9 @@
       "be": "Правінцыя Заходні Сулавесі",
       "th": "จังหวัดซูลาเวซีตะวันตก",
       "bg": "Западно Сулавеси",
-      "no": "West Sulawesi"
+      "no": "West Sulawesi",
+      "he": "מערב סולאווסי",
+      "mk": "Западен Сулавеси"
     },
     "comments": null,
     "type": "province"
@@ -2663,7 +2753,8 @@
       "ca": "Sumatra Meridional",
       "th": "จังหวัดสุมาตราใต้",
       "bg": "Южна Суматра",
-      "no": "Sumatera Selatan"
+      "no": "Sumatera Selatan",
+      "az": "Cənubi Sumatra"
     },
     "comments": null,
     "type": "province"
@@ -2797,7 +2888,11 @@
       "th": "จังหวัดสุมาตราเหนือ",
       "uz": "Shimoliy Sumatra",
       "bg": "Северна Суматра",
-      "no": "Sumatera Utara"
+      "no": "Sumatera Utara",
+      "az": "Şimali Sumatra",
+      "hu": "Észak-Szumátra",
+      "hy": "Հյուսիսային Սումատրա",
+      "mk": "Северна Суматра"
     },
     "comments": null,
     "type": "province"
@@ -2877,7 +2972,11 @@
       "th": "เขตปกครองพิเศษย็อกยาการ์ตา",
       "zu": "Yogyakarta",
       "bg": "Джокякарта",
-      "no": "Yogyakarta"
+      "no": "Yogyakarta",
+      "az": "Cokyakarta Xüsusi Bölgəsi",
+      "he": "מחוז מיוחד יוגיאקרטה",
+      "hy": "Ջոկյակարտա հատուկ մարզ",
+      "mk": "Јогјакарта (покраина)"
     },
     "comments": null,
     "type": "special_region"

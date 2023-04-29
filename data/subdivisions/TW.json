@@ -58,7 +58,9 @@
       "ccp": "𑄌𑄚𑄴𑄊𑄪𑄠",
       "uk": "Округ Чжанхуа",
       "yue": "彰化縣",
-      "no": "Changhua Fylke"
+      "no": "Changhua Fylke",
+      "ca": "Changhua",
+      "fa": "شهرستان جانگوآ"
     },
     "comments": null,
     "type": "county"
@@ -121,7 +123,10 @@
       "uk": "Округ Цзяі",
       "yue": "嘉義縣",
       "mn": "Жяи шянь",
-      "no": "Chiayi Fylke"
+      "no": "Chiayi Fylke",
+      "fa": "چیایای²",
+      "he": "ג׳יאיי²",
+      "hu": "Csiaji²"
     },
     "comments": null,
     "type": "city"
@@ -184,7 +189,9 @@
       "yue_Hans": "嘉义市",
       "ccp": "𑄌𑄨𑄠𑄃𑄨",
       "yue": "嘉義市",
-      "no": "Chiayi"
+      "no": "Chiayi",
+      "ca": "Comarca de Txiayi",
+      "cy": "Sir Chiayi²"
     },
     "comments": null,
     "type": "county"
@@ -245,7 +252,9 @@
       "ml": "ഹ്സിഞ്ചു കൗണ്ടി",
       "uk": "Округ Сіньчжу",
       "yue": "新竹縣",
-      "no": "Hsinchu Fylke"
+      "no": "Hsinchu Fylke",
+      "ca": "Comarca de Xintxu",
+      "fa": "شهرستان هسینچو"
     },
     "comments": null,
     "type": "county"
@@ -310,7 +319,10 @@
       "yue": "新竹市",
       "ca": "Hsinchu",
       "be": "Сіньчжу",
-      "no": "Hsinchu"
+      "no": "Hsinchu",
+      "af": "Hsinchu",
+      "cy": "Hsinchu",
+      "ga": "Hsinchu"
     },
     "comments": null,
     "type": "city"
@@ -374,7 +386,9 @@
       "ccp": "𑄦𑄪𑄠𑄣𑄨𑄠𑄬𑄚𑄴",
       "uk": "Округ Гуалянь",
       "yue": "花蓮縣",
-      "no": "Hualien Fylke"
+      "no": "Hualien Fylke",
+      "ca": "comtat de Hualien",
+      "ml": "ഹുവാലിയെൻ കൗണ്ടി"
     },
     "comments": null,
     "type": "county"
@@ -502,7 +516,9 @@
       "ccp": "𑄇𑄩𑄣𑄪𑄁",
       "uk": "Цзилун",
       "yue": "基隆",
-      "no": "Chilung"
+      "no": "Chilung",
+      "ca": "Keelung",
+      "ga": "Keelung"
     },
     "comments": null,
     "type": "city"
@@ -579,7 +595,14 @@
       "yue": "高雄市",
       "my": "ကောင်းရှုံမြို့",
       "mk": "Гаосјунг",
-      "no": "Kaohsiung"
+      "no": "Kaohsiung",
+      "be": "Гаасюн",
+      "ga": "Kaohsiung",
+      "ha": "Kaohsiung",
+      "ha_NE": "Kaohsiung",
+      "is": "Kaohsiung",
+      "ml": "കൗഷ്യിംഗ്",
+      "so": "Kaohsiung"
     },
     "comments": null,
     "type": "special_municipality"
@@ -677,7 +700,10 @@
       "zh": "連江縣",
       "yue_Hans": "连江",
       "ccp": "𑄢𑄨𑄠𑄬𑄚𑄴𑄌𑄨𑄠𑄬𑄁",
-      "yue": "連江"
+      "yue": "連江",
+      "el": "Λιέντζιανγκ Κάουντι",
+      "it": "contea di Lianjiang",
+      "ru": "Ляньцзян"
     },
     "comments": null,
     "type": "county"
@@ -739,7 +765,8 @@
       "ml": "മിയോലി കൗണ്ടി",
       "uk": "Округ Мяолі",
       "yue": "苗栗縣",
-      "no": "Miaoli Fylke"
+      "no": "Miaoli Fylke",
+      "ca": "comtat de Miaoli"
     },
     "comments": null,
     "type": "county"
@@ -800,7 +827,9 @@
       "ccp": "𑄚𑄚𑄴𑄑𑄯",
       "uk": "Округ Наньтоу",
       "yue": "南投縣",
-      "no": "Nantou fylk"
+      "no": "Nantou fylk",
+      "he": "מחוז נאנטו",
+      "ml": "നാൻറ്റൗ കൗണ്ടി"
     },
     "comments": null,
     "type": "county"
@@ -819,7 +848,59 @@
     },
     "translations": {
       "en": "New Taipei",
-      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬"
+      "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬",
+      "af": "Nieu-Taipei",
+      "ar": "تايبيه الجديدة",
+      "be": "Новы Тайбэй",
+      "bn": "নিউ তাইপে সিটি",
+      "ca": "Nova Taipei",
+      "ceb": "Taipei",
+      "cs": "Nová Tchaj-pej",
+      "cy": "Dinas Newydd Taipei",
+      "da": "Ny Taipei",
+      "de": "Neu-Taipeh",
+      "el": "Νιού Ταϊπέι Σίτι",
+      "es": "Nuevo Taipéi",
+      "eu": "Taipei konderria",
+      "fa": "نیو تایپه",
+      "fi": "Uusi-Taipei",
+      "fr": "Nouveau Taipei",
+      "gu": "ન્યુ તાઇપે શહેર",
+      "he": "ניו טאיפיי",
+      "hi": "न्यू ताइपे शहर",
+      "hu": "Hszinpej",
+      "hy": "Նոր Նայպեյ",
+      "id": "Kabupaten Taipei",
+      "it": "Nuova Taipei",
+      "ja": "新北市",
+      "kn": "ಹೊಸ ತೈಪೆ ನಗರ",
+      "ko": "신베이시",
+      "lt": "Sinbėjus",
+      "lv": "Sinbei",
+      "mk": "Нов Тајпеј",
+      "ml": "ന്യൂ തായ്പെയ് നഗരം",
+      "mn": "Шиньбэй",
+      "mr": "न्यू ताइपे शहर",
+      "ms": "New Taipei City",
+      "my": "ထိုင်ပေမြို့သစ်",
+      "nl": "Nieuw Taipei",
+      "pa": "ਨਵਾਂ ਤਾਈਪਈ ਸ਼ਹਿਰ",
+      "pl": "Nowe Tajpej",
+      "pt": "Novo Taipé",
+      "ru": "Новый Тайбэй",
+      "si": "නිව් තායිපේ නගරය",
+      "sr": "Синбеј",
+      "sr_Latn": "Sinbej",
+      "sv": "New Taipei City",
+      "ta": "நியூ டைப்பாய் நகரம்",
+      "te": "న్యూ టాయిపెయ్ సిటీ",
+      "th": "ซินเป่ย์",
+      "tr": "New Taipei",
+      "uk": "Новий Тайбей",
+      "ur": "نیا تائپے شہر",
+      "vi": "Tân Bắc",
+      "yue": "新北市",
+      "yue_Hans": "新北市"
     },
     "comments": null,
     "type": "special_municipality"
@@ -866,7 +947,12 @@
       "mn": "Пөнхү",
       "th": "เผิงหู",
       "yo": "Penghu",
-      "yo_BJ": "Penghu"
+      "yo_BJ": "Penghu",
+      "ca": "Comtat de Penghu",
+      "ceb": "Penghu (lalawigan sa Republika sa Tsina)",
+      "eu": "Penghu konderria",
+      "he": "פנגחו",
+      "ur": "پینگہو"
     },
     "comments": null,
     "type": "county"
@@ -931,7 +1017,8 @@
       "uk": "Округ Пінтун",
       "yue": "屏東縣",
       "be": "Піндун",
-      "no": "Pingtung fylke"
+      "no": "Pingtung fylke",
+      "he": "מחוז פינגטונג"
     },
     "comments": null,
     "type": "county"
@@ -995,7 +1082,11 @@
       "uk": "Таоюань",
       "yue": "桃園縣",
       "mk": "Тоајуен",
-      "no": "Toayuan By"
+      "no": "Toayuan By",
+      "ca": "Taoyuan",
+      "ga": "Taoyuan",
+      "ha": "Taoyuan",
+      "ha_NE": "Taoyuan"
     },
     "comments": null,
     "type": "special_municipality"
@@ -1063,7 +1154,15 @@
       "ga": "Tainan",
       "yue": "臺南",
       "mk": "Тајнан",
-      "no": "Tainan"
+      "no": "Tainan",
+      "bg": "Тайнан",
+      "ceb": "Tainan",
+      "ha": "Tainan",
+      "ha_NE": "Tainan",
+      "is": "Taínan",
+      "ro": "Tainan",
+      "sk": "Tainan",
+      "sl": "Tajnan"
     },
     "comments": null,
     "type": "special_municipality"
@@ -1164,7 +1263,8 @@
       "mk": "Тајпеј",
       "ha_NE": "Taipei",
       "no": "Taipei",
-      "yo_BJ": "Taipei"
+      "yo_BJ": "Taipei",
+      "ps": "تایپي"
     },
     "comments": null,
     "type": "special_municipality"
@@ -1228,7 +1328,8 @@
       "ccp": "𑄑𑄭𑄑𑄪𑄁",
       "uk": "Округ Тайдун",
       "yue": "臺東縣",
-      "no": "Taitung Fylke"
+      "no": "Taitung Fylke",
+      "he": "מחוז טייטונג"
     },
     "comments": null,
     "type": "county"
@@ -1295,7 +1396,11 @@
       "yue": "臺中市",
       "ca": "Taichung",
       "mk": "Тајџунг",
-      "no": "Taichung"
+      "no": "Taichung",
+      "et": "Taichung",
+      "ha": "Taichung",
+      "ha_NE": "Taichung",
+      "hr": "Taichung"
     },
     "comments": null,
     "type": "special_municipality"
@@ -1357,7 +1462,8 @@
       "ccp": "𑄃𑄨𑄅𑄪𑄚𑄴𑄣𑄨𑄚𑄴",
       "uk": "Округ Юньлінь",
       "yue": "雲林縣",
-      "no": "Yunlin County"
+      "no": "Yunlin County",
+      "ca": "Comarca de Yunlin"
     },
     "comments": null,
     "type": "county"

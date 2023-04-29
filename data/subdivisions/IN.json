@@ -84,7 +84,12 @@
       "uz": "Andaman va Nikobar orollari",
       "bs": "Andamani i Nikobari",
       "mk": "Андамани и Никобари",
-      "no": "Andamanene og Nikobarene"
+      "no": "Andamanene og Nikobarene",
+      "az": "Andaman və Nikobar adaları",
+      "ga": "Oileáin Andaman agus Nicobar",
+      "ha": "Tsibiran Andaman da Nicobar",
+      "ha_NE": "Tsibiran Andaman da Nicobar",
+      "ps": "اندامان او نیکوبار ټاپو"
     },
     "comments": null,
     "type": "state"
@@ -180,7 +185,10 @@
       "bs": "Andhra Pradesh",
       "mk": "Андра Прадеш",
       "no": "Andhra Pradesh",
-      "yo_BJ": "Andhra Pradesh"
+      "yo_BJ": "Andhra Pradesh",
+      "ha": "Andhra Pradesh",
+      "ha_NE": "Andhra Pradesh",
+      "sd": "آنڌرا پرديش"
     },
     "comments": null,
     "type": "state"
@@ -272,7 +280,12 @@
       "uz": "Arunachal-Pradesh",
       "mk": "Аруначал Прадеш",
       "no": "Arunachal Pradesh",
-      "yo_BJ": "Arunachal Pradesh"
+      "yo_BJ": "Arunachal Pradesh",
+      "az": "Arunaçal-Pradeş",
+      "ha": "Arunachal Pradesh",
+      "ha_NE": "Arunachal Pradesh",
+      "jv": "Arunachal Pradesh",
+      "sd": "اروناچل پرديش"
     },
     "comments": null,
     "type": "state"
@@ -369,7 +382,9 @@
       "uz": "Accom",
       "mk": "Асам",
       "no": "Assam",
-      "yo_BJ": "Assam"
+      "yo_BJ": "Assam",
+      "ha": "Assam",
+      "ha_NE": "Assam"
     },
     "comments": null,
     "type": "state"
@@ -462,7 +477,11 @@
       "uz": "Bihar",
       "mk": "Бихар",
       "no": "Bihar",
-      "yo_BJ": "Bihar"
+      "yo_BJ": "Bihar",
+      "ha": "Bihar",
+      "ha_NE": "Bihar",
+      "sd": "بھار (رياست)",
+      "sq": "Bihar"
     },
     "comments": null,
     "type": "state"
@@ -548,7 +567,9 @@
       "uz": "Chandigarh",
       "mk": "Чандигар",
       "no": "Chandigarh",
-      "yo_BJ": "Chandigarh"
+      "yo_BJ": "Chandigarh",
+      "as": "চণ্ডীগড়",
+      "az": "Çandiqarh"
     },
     "comments": null,
     "type": "union_territory"
@@ -637,14 +658,48 @@
       "uz": "Chhattisgarh",
       "mk": "Чатисгар",
       "no": "Chhattisgarh",
-      "yo_BJ": "Chhattisgarh"
+      "yo_BJ": "Chhattisgarh",
+      "az": "Çhattisqarh",
+      "ha": "Chhattisgarh",
+      "ha_NE": "Chhattisgarh",
+      "hy": "Չհատիսգարխ",
+      "sd": "ڇتيس ڳڙھ"
     },
     "comments": null,
     "type": "state"
   },
   "DH": {
     "translations": {
-      "en": "Dādra and Nagar Haveli and Damān and Diu"
+      "en": "Dādra and Nagar Haveli and Damān and Diu",
+      "ar": "دادرا وناغار هافيلي ودامان وديو",
+      "as": "দাদৰা আৰু নগৰ হাভেলী আৰু দমন আৰু দিউ",
+      "be": "Дадра і Нагархавелі і Даман і Дыу",
+      "bn": "দাদরা ও নগর হাভেলি এবং দমন ও দিউ",
+      "ca": "Dadra i Nagar Haveli i Daman i Diu",
+      "cs": "Dádra a Nagar Havélí a Daman a Díu",
+      "de": "Dadra und Nagar Haveli und Daman und Diu",
+      "es": "Dadra y Nagar Haveli y Damán y Diu",
+      "fa": "دادرا و نگر حویلی و دامان و دیو",
+      "fi": "Dadra ja Nagar Haveli ja Daman ja Diu",
+      "fr": "Dadra et Nagar Haveli et Daman et Diu",
+      "gu": "દાદરા અને નગર હવેલી અને દમણ અને દીવ",
+      "he": "דאדרה ונאגר הבלי ודאמאן ודיו",
+      "hi": "दादरा और नगर हवेली और दमन और दीव",
+      "it": "Dadra e Nagar Haveli e Daman e Diu",
+      "ja": "ダードラー・ナガル・ハヴェーリーおよびダマン・ディーウ連邦直轄領",
+      "kn": "ದಾದ್ರಾ ಮತ್ತು ನಗರ್ ಹವೇಲಿ ಮತ್ತು ದಮನ್ ಮತ್ತು ದಿಯು",
+      "ko": "다드라 나가르하벨리 다만 디우",
+      "ml": "ദാദ്രാ, നഗർ ഹവേലിയും ദാമൻ, ദിയുവും",
+      "mr": "दादरा व नगर हवेली आणि दमण व दीव",
+      "nl": "Dadra en Nagar Haveli en Daman en Diu",
+      "pt": "Dadrá e Nagar Aveli e Damão e Diu",
+      "ro": "Dadra și Nagar Haveli și Daman și Diu",
+      "ru": "Дадра и Нагар-Хавели и Даман и Диу",
+      "ta": "தாத்ரா & நகர் ஹவேலி மற்றும் தாமன் & தியூ",
+      "te": "దాద్రా నగర్ హవేలీ, డామన్ డయ్యూ",
+      "th": "ดาดราและนครหเวลี และดามันและดีอู",
+      "ur": "دادرا و نگر حویلی و دمن و دیو",
+      "vi": "Dadra và Nagar Haveli và Daman và Diu"
     },
     "name": "Dādra and Nagar Haveli and Damān and Diu",
     "code": "DH",
@@ -743,7 +798,9 @@
       "bs": "Delhi",
       "mk": "Делхи",
       "no": "Delhi",
-      "yo_BJ": "Delhi"
+      "yo_BJ": "Delhi",
+      "km": "ដេលី",
+      "sq": "Delhi"
     },
     "comments": null,
     "type": "union_territory"
@@ -839,7 +896,10 @@
       "uz": "Goa",
       "mk": "Гоа",
       "no": "Goa",
-      "yo_BJ": "Goa"
+      "yo_BJ": "Goa",
+      "ha": "Goa",
+      "ha_NE": "Goa",
+      "sd": "گووا"
     },
     "comments": null,
     "type": "state"
@@ -934,7 +994,10 @@
       "uz": "Gujarot",
       "mk": "Гуџарат",
       "no": "Gujarat",
-      "yo_BJ": "Gujarat"
+      "yo_BJ": "Gujarat",
+      "ha": "Gujarat",
+      "ha_NE": "Gujarat",
+      "my": "ဂုဇရာတ်"
     },
     "comments": null,
     "type": "state"
@@ -1026,7 +1089,10 @@
       "uz": "Ximachalpradesh",
       "mk": "Химачал Прадеш",
       "no": "Himachal Pradesh",
-      "yo_BJ": "Himachal Pradesh"
+      "yo_BJ": "Himachal Pradesh",
+      "ha": "Himachal Pradesh",
+      "ha_NE": "Himachal Pradesh",
+      "sd": "هماچل پرديش"
     },
     "comments": null,
     "type": "state"
@@ -1116,7 +1182,12 @@
       "uz": "Xaryana",
       "mk": "Харајана",
       "no": "Haryana",
-      "yo_BJ": "Haryana"
+      "yo_BJ": "Haryana",
+      "az": "Haryana",
+      "ha": "Haryana",
+      "ha_NE": "Haryana",
+      "sd": "هريانا",
+      "sl": "Harjana"
     },
     "comments": null,
     "type": "state"
@@ -1205,7 +1276,12 @@
       "yo": "Jharkhand",
       "mk": "Џарканд",
       "no": "Jharkhand",
-      "yo_BJ": "Jharkhand"
+      "yo_BJ": "Jharkhand",
+      "az": "Charkhand",
+      "ha": "Jharkhand",
+      "ha_NE": "Jharkhand",
+      "hy": "Ջարկխանդ",
+      "sd": "جھرکنڊ"
     },
     "comments": null,
     "type": "state"
@@ -1297,7 +1373,8 @@
       "bs": "Jammu i Kashmir",
       "mk": "Џаму-Кашмир",
       "no": "Jammu og Kashmir",
-      "yo_BJ": "Jammu àti Kashmir"
+      "yo_BJ": "Jammu àti Kashmir",
+      "sq": "Xhamu dhe Kashmiri (territori i bashkimit)"
     },
     "comments": null,
     "type": "union_territory"
@@ -1389,7 +1466,12 @@
       "uz": "Karnataka",
       "mk": "Карнатака",
       "no": "Karnataka",
-      "yo_BJ": "Karnataka"
+      "yo_BJ": "Karnataka",
+      "az": "Karnataka",
+      "ha": "Karnataka",
+      "ha_NE": "Karnataka",
+      "my": "ကာနာတာကာပြည်နယ်",
+      "sd": "ڪرناٽڪا"
     },
     "comments": null,
     "type": "state"
@@ -1482,7 +1564,11 @@
       "bs": "Kerala",
       "mk": "Керала",
       "no": "Kerala",
-      "yo_BJ": "Kerala"
+      "yo_BJ": "Kerala",
+      "az": "Kerala",
+      "ha": "Kerala",
+      "ha_NE": "Kerala",
+      "sd": "ڪيرالا"
     },
     "comments": null,
     "type": "state"
@@ -1500,7 +1586,59 @@
       "max_longitude": -118.1552891
     },
     "translations": {
-      "en": "Ladakh"
+      "en": "Ladakh",
+      "ar": "لداخ",
+      "as": "লাডাখ",
+      "be": "Ладакх",
+      "bn": "লাদাখ",
+      "ca": "Ladakh",
+      "ceb": "Ladākh",
+      "cs": "Ladak",
+      "de": "Ladakh",
+      "el": "Λαντάχ",
+      "es": "Ladakh",
+      "eu": "Ladakh",
+      "fa": "لداخ",
+      "fi": "Ladakh",
+      "fr": "Ladakh",
+      "ga": "Ladakh",
+      "gu": "લડાખ",
+      "he": "לדאק",
+      "hi": "लद्दाख़",
+      "hu": "Ladak",
+      "id": "Ladakh",
+      "it": "Ladakh",
+      "ja": "ラダック",
+      "ka": "ლადაქი",
+      "kn": "ಲಡಾಖ್",
+      "ko": "라다크",
+      "lt": "Ladakas",
+      "lv": "Ladākha",
+      "ml": "ലഡാക്",
+      "mn": "Ладакх",
+      "mr": "लडाख",
+      "ms": "Ladakh",
+      "my": "လာတက်",
+      "ne": "लदाख",
+      "nl": "Ladakh",
+      "or": "ଲଦାଖ",
+      "pa": "ਲਦਾਖ਼",
+      "pl": "Ladakh",
+      "pt": "Ladaque",
+      "ro": "Ladakh",
+      "ru": "Ладакх",
+      "sl": "Ladak",
+      "sv": "Ladakh",
+      "ta": "லடாக்",
+      "te": "లడఖ్",
+      "th": "ลาดัก",
+      "tr": "Ladakh",
+      "uk": "Ладакх",
+      "ur": "لداخ",
+      "uz": "Ladakh",
+      "vi": "Ladakh",
+      "yue": "拉達克",
+      "yue_Hans": "拉达克"
     },
     "comments": null,
     "type": "union_territory"
@@ -1585,7 +1723,10 @@
       "uz": "Lakshadvip",
       "mk": "Лакадиви",
       "no": "Lakkadivene",
-      "yo_BJ": "Lakshadweep"
+      "yo_BJ": "Lakshadweep",
+      "as": "লাক্ষাদ্বীপ",
+      "ha": "Lakshadweep",
+      "ha_NE": "Lakshadweep"
     },
     "comments": null,
     "type": "union_territory"
@@ -1679,7 +1820,10 @@
       "uz": "Maharashtra",
       "mk": "Махараштра",
       "no": "Maharashtra",
-      "yo_BJ": "Maharashtra"
+      "yo_BJ": "Maharashtra",
+      "ha": "Maharashtra",
+      "ha_NE": "Maharashtra",
+      "sd": "مھاراشٽر"
     },
     "comments": null,
     "type": "state"
@@ -1767,7 +1911,11 @@
       "uz": "Meghalaya",
       "mk": "Мегхалаја",
       "no": "Meghalaya",
-      "yo_BJ": "Meghalaya"
+      "yo_BJ": "Meghalaya",
+      "az": "Meqhalaya",
+      "ha": "Meghalaya",
+      "ha_NE": "Meghalaya",
+      "my": "မေဃာလယ"
     },
     "comments": null,
     "type": "state"
@@ -1860,7 +2008,11 @@
       "uz": "Manipur",
       "mk": "Манипур",
       "no": "Manipur",
-      "yo_BJ": "Manipur"
+      "yo_BJ": "Manipur",
+      "gl": "Manipur",
+      "ha": "Manipur",
+      "ha_NE": "Manipur",
+      "kk": "Манипур"
     },
     "comments": null,
     "type": "state"
@@ -1953,7 +2105,11 @@
       "uz": "Madhya-pradesh",
       "mk": "Мадја Прадеш",
       "no": "Madhya Pradesh",
-      "yo_BJ": "Madhya Pradesh"
+      "yo_BJ": "Madhya Pradesh",
+      "af": "Madja Pradesj",
+      "az": "Madhya-Pradeş",
+      "ha": "Madhya Pradesh",
+      "ha_NE": "Madhya Pradesh"
     },
     "comments": null,
     "type": "state"
@@ -2041,7 +2197,12 @@
       "yo": "Mizoram",
       "mk": "Мизорам",
       "no": "Mizoram",
-      "yo_BJ": "Mizoram"
+      "yo_BJ": "Mizoram",
+      "ha": "Mizoram",
+      "ha_NE": "Mizoram",
+      "hy": "Միզորամ",
+      "my": "မီဇိုရမ်ပြည်နယ်",
+      "uz": "Mizoram"
     },
     "comments": null,
     "type": "state"
@@ -2132,7 +2293,12 @@
       "uz": "Nagalend",
       "mk": "Нагаланд",
       "no": "Nagaland",
-      "yo_BJ": "Nagaland"
+      "yo_BJ": "Nagaland",
+      "ha": "Nagaland",
+      "ha_NE": "Nagaland",
+      "hy": "Նագալենդ",
+      "kk": "Нагаленд",
+      "my": "နာဂလန်ပြည်နယ်"
     },
     "comments": null,
     "type": "state"
@@ -2227,7 +2393,10 @@
       "uz": "Odisha",
       "mk": "Одиша",
       "no": "Odisha",
-      "yo_BJ": "Odisha"
+      "yo_BJ": "Odisha",
+      "ha": "Odisha",
+      "ha_NE": "Odisha",
+      "sd": "اوڙيسيا"
     },
     "comments": null,
     "type": "state"
@@ -2316,7 +2485,11 @@
       "uz": "Panjob",
       "mk": "Пенџаб",
       "no": "Punjab",
-      "yo_BJ": "Punjab"
+      "yo_BJ": "Punjab",
+      "bs": "Punjab",
+      "gl": "Punjab",
+      "ha": "Punjab (Indiya)",
+      "ha_NE": "Punjab (Indiya)"
     },
     "comments": null,
     "type": "state"
@@ -2400,7 +2573,11 @@
       "yo": "Puducherry",
       "mk": "Пондишери",
       "no": "Puducherry",
-      "yo_BJ": "Puducherry"
+      "yo_BJ": "Puducherry",
+      "as": "পুডুছেৰী",
+      "ha": "Puducherry (yanki)",
+      "ha_NE": "Puducherry (yanki)",
+      "hy": "Պոնդիչերրի"
     },
     "comments": null,
     "type": "union_territory"
@@ -2494,7 +2671,10 @@
       "uz": "Rojasthon",
       "mk": "Раџастан",
       "no": "Rajasthan",
-      "yo_BJ": "Rajasthan"
+      "yo_BJ": "Rajasthan",
+      "ha": "Rajasthan",
+      "ha_NE": "Rajasthan",
+      "jv": "Rajasthan"
     },
     "comments": null,
     "type": "state"
@@ -2589,7 +2769,11 @@
       "bs": "Sikkim",
       "mk": "Сиким",
       "no": "Sikkim",
-      "yo_BJ": "Sikkim"
+      "yo_BJ": "Sikkim",
+      "ha": "Sikkim",
+      "ha_NE": "Sikkim",
+      "sl": "Sikim",
+      "uz": "Sekkim"
     },
     "comments": null,
     "type": "state"
@@ -2668,7 +2852,12 @@
       "pa": "ਤੇਲੰਗਾਨਾ",
       "yue": "泰倫加納邦",
       "mk": "Телангана",
-      "no": "Telangana"
+      "no": "Telangana",
+      "eu": "Telangana",
+      "ha": "Telangana",
+      "ha_NE": "Telangana",
+      "hy": "Տելանգանա",
+      "sd": "تلنگانا"
     },
     "comments": null,
     "type": "state"
@@ -2763,7 +2952,12 @@
       "uz": "Tamilnad",
       "mk": "Тамил Наду",
       "no": "Tamil Nadu",
-      "yo_BJ": "Tamil Nadu"
+      "yo_BJ": "Tamil Nadu",
+      "ha": "Tamil Nadu",
+      "ha_NE": "Tamil Nadu",
+      "jv": "Tamil Nadu",
+      "ky": "Тамил Наду",
+      "sd": "تامل ناڊو"
     },
     "comments": null,
     "type": "state"
@@ -2856,7 +3050,9 @@
       "uz": "Tripura",
       "mk": "Трипура",
       "no": "Tripura",
-      "yo_BJ": "Tripura"
+      "yo_BJ": "Tripura",
+      "ha": "Tripura",
+      "ha_NE": "Tripura"
     },
     "comments": null,
     "type": "state"
@@ -2951,7 +3147,11 @@
       "uz": "Uttarpradesh",
       "mk": "Утар Прадеш",
       "no": "Uttar Pradesh",
-      "yo_BJ": "Uttar Pradesh"
+      "yo_BJ": "Uttar Pradesh",
+      "ha": "Uttar Pradesh",
+      "ha_NE": "Uttar Pradesh",
+      "jv": "Uttar Pradesh",
+      "sd": "اتر پرديش"
     },
     "comments": null,
     "type": "state"
@@ -3039,7 +3239,13 @@
       "yo": "Uttarakhand",
       "mk": "Утараканд",
       "no": "Uttarakhand",
-      "yo_BJ": "Uttarakhand"
+      "yo_BJ": "Uttarakhand",
+      "az": "Uttarakhand",
+      "gl": "Uttarakhand",
+      "ha": "Uttarakhand",
+      "ha_NE": "Uttarakhand",
+      "hy": "Ուտարկխանդ",
+      "sd": "اتراکنڊ"
     },
     "comments": null,
     "type": "state"
@@ -3137,7 +3343,11 @@
       "yo": "Ìwọòrùn Bẹ̀ngál",
       "uz": "Gʻarbiy bengaliya",
       "mk": "Западен Бенгал",
-      "no": "Vest-Bengal"
+      "no": "Vest-Bengal",
+      "az": "Qərbi Benqaliya",
+      "ha": "Bengal ta Yamma",
+      "ha_NE": "Bengal ta Yamma",
+      "ky": "Батыш Бенгалерт"
     },
     "comments": null,
     "type": "state"
