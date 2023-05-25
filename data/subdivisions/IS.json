@@ -13,7 +13,8 @@
     },
     "translations": {
       "en": "Reykjavík",
-      "ccp": "𑄢𑄨𑄠𑄎𑄞𑄨𑄇𑄴"
+      "ccp": "𑄢𑄨𑄠𑄎𑄞𑄨𑄇𑄴",
+      "ja": "レイキャヴィーク"
     },
     "comments": null,
     "type": "region"
@@ -631,6 +632,7 @@
       "id": "Akrahreppur",
       "is": "Akrahreppur",
       "it": "Akrahreppur",
+      "ja": "アークラフレップル",
       "ms": "Akrahreppur",
       "nl": "Akrahreppur",
       "pl": "Akrahreppur",
@@ -767,6 +769,7 @@
       "id": "Árneshreppur",
       "is": "Árneshreppur",
       "it": "Árnes",
+      "ja": "アゥルネースフレップル",
       "nl": "Árneshreppur",
       "pl": "Árneshreppur",
       "pt": "Árneshreppur",
@@ -791,6 +794,7 @@
       "id": "Ásahreppur",
       "is": "Ásahreppur",
       "it": "Ásahreppur",
+      "ja": "アゥサフレップル",
       "nl": "Ásahreppur",
       "pl": "Ásahreppur",
       "pt": "Ásahreppur",
@@ -818,6 +822,7 @@
       "id": "Bláskógabyggð",
       "is": "Bláskógabyggð",
       "it": "Bláskógabyggð",
+      "ja": "ブラゥスコゥガビッグズ",
       "lt": "Blaskogabigas",
       "nl": "Bláskógabyggð",
       "pl": "Bláskógabyggð",
@@ -936,6 +941,7 @@
       "id": "Dalabyggð",
       "is": "Dalabyggð",
       "it": "Dalabyggð",
+      "ja": "ダーラビッグズ",
       "nl": "Dalabyggð",
       "pl": "Dalabyggð",
       "pt": "Dalabyggð",
@@ -985,6 +991,7 @@
       "id": "Eyja- og Miklaholtshreppur",
       "is": "Eyja- og Miklaholtshreppur",
       "it": "Eyjar og Miklaholt",
+      "ja": "エイヤ＝ミクラホルスフレップル",
       "nl": "Eyja- og Miklaholtshreppur",
       "pl": "Eyja- og Miklaholtshreppur",
       "pt": "Eyja- og Miklaholtshreppur",
@@ -1008,6 +1015,7 @@
       "id": "Eyjafjarðarsveit",
       "is": "Eyjafjarðarsveit",
       "it": "Eyjafjarðarsveit",
+      "ja": "エイヤフィヤルザルスヴェイト",
       "nl": "Eyjafjarðarsveit",
       "pl": "Eyjafjarðarsveit",
       "pt": "Eyjafjarðarsveit",
@@ -1066,6 +1074,7 @@
       "id": "Fjallabyggð",
       "is": "Fjallabyggð",
       "it": "Fjallabyggð",
+      "ja": "フィヤトラビッグズ",
       "ka": "ფიალაბიგდი",
       "nl": "Fjallabyggð",
       "pl": "Fjallabyggð",
@@ -1089,6 +1098,7 @@
       "id": "Flóahreppur",
       "is": "Flóahreppur",
       "it": "Flói",
+      "ja": "フロゥアフレップル",
       "nl": "Flóahreppur",
       "pl": "Flóahreppur",
       "pt": "Flóahreppur",
@@ -1113,6 +1123,7 @@
       "id": "Fljótsdalshreppur",
       "is": "Fljótsdalshreppur",
       "it": "Fljótsdalur",
+      "ja": "フリョゥスダールスフレップル",
       "nl": "Fljótsdalshreppur",
       "pl": "Fljótsdalshreppur",
       "pt": "Fljótsdalshreppur",
@@ -1134,7 +1145,8 @@
   },
   "GOG": {
     "translations": {
-      "en": "Grímsnes- og Grafningshreppur"
+      "en": "Grímsnes- og Grafningshreppur",
+      "ja": "グリムスネース＝グラプニンフスフレップル"
     },
     "name": "Grímsnes- og Grafningshreppur",
     "code": "GOG",
@@ -1188,7 +1200,8 @@
   },
   "GRY": {
     "translations": {
-      "en": "Grýtubakkahreppur"
+      "en": "Grýtubakkahreppur",
+      "ja": "グリートゥバッカフレップル"
     },
     "name": "Grýtubakkahreppur",
     "code": "GRY",
@@ -1204,7 +1217,8 @@
   },
   "HEL": {
     "translations": {
-      "en": "Helgafellssveit"
+      "en": "Helgafellssveit",
+      "ja": "ヘルガフェルススヴェイト"
     },
     "name": "Helgafellssveit",
     "code": "HEL",
@@ -1220,7 +1234,8 @@
   },
   "HRU": {
     "translations": {
-      "en": "Hrunamannahreppur"
+      "en": "Hrunamannahreppur",
+      "ja": "フルーナマンナフレップル"
     },
     "name": "Hrunamannahreppur",
     "code": "HRU",
@@ -1228,7 +1243,8 @@
   },
   "HUT": {
     "translations": {
-      "en": "Húnavatnshreppur"
+      "en": "Húnavatnshreppur",
+      "ja": "フーナヴァスフレップル"
     },
     "name": "Húnavatnshreppur",
     "code": "HUT",
@@ -1247,6 +1263,7 @@
       "id": "Húnaþing vestra",
       "is": "Húnaþing vestra",
       "it": "Húnaþing vestra",
+      "ja": "フーナシンク・ヴェストラ",
       "ms": "Húnaþing vestra",
       "nl": "Húnaþing vestra",
       "pl": "Húnaþing vestra",
@@ -1261,7 +1278,8 @@
   },
   "HVA": {
     "translations": {
-      "en": "Hvalfjarðarsveit"
+      "en": "Hvalfjarðarsveit",
+      "ja": "クヴァールフィヤルザルスヴェイト"
     },
     "name": "Hvalfjarðarsveit",
     "code": "HVA",
@@ -1277,7 +1295,8 @@
   },
   "ISA": {
     "translations": {
-      "en": "Ísafjarðarbær"
+      "en": "Ísafjarðarbær",
+      "ja": "イーサフィヤルザルバイル"
     },
     "name": "Ísafjarðarbær",
     "code": "ISA",
@@ -1285,7 +1304,8 @@
   },
   "KAL": {
     "translations": {
-      "en": "Kaldrananeshreppur"
+      "en": "Kaldrananeshreppur",
+      "ja": "カルドゥラナネースフレップル"
     },
     "name": "Kaldrananeshreppur",
     "code": "KAL",
@@ -1293,7 +1313,8 @@
   },
   "KJO": {
     "translations": {
-      "en": "Kjósarhreppur"
+      "en": "Kjósarhreppur",
+      "ja": "キョゥサルフレップル"
     },
     "name": "Kjósarhreppur",
     "code": "KJO",
@@ -1309,7 +1330,8 @@
   },
   "LAN": {
     "translations": {
-      "en": "Langanesbyggð"
+      "en": "Langanesbyggð",
+      "ja": "ラゥンガネースビッグズ"
     },
     "name": "Langanesbyggð",
     "code": "LAN",
@@ -1317,7 +1339,8 @@
   },
   "MOS": {
     "translations": {
-      "en": "Mosfellsbær"
+      "en": "Mosfellsbær",
+      "ja": "モスフェルスバイル"
     },
     "name": "Mosfellsbær",
     "code": "MOS",
@@ -1343,7 +1366,8 @@
   },
   "MYR": {
     "translations": {
-      "en": "Mýrdalshreppur"
+      "en": "Mýrdalshreppur",
+      "ja": "ミールダルスフレップル"
     },
     "name": "Mýrdalshreppur",
     "code": "MYR",
@@ -1351,7 +1375,8 @@
   },
   "NOR": {
     "translations": {
-      "en": "Norðurþing"
+      "en": "Norðurþing",
+      "ja": "ノルズルシンク"
     },
     "name": "Norðurþing",
     "code": "NOR",
@@ -1359,7 +1384,8 @@
   },
   "RGE": {
     "translations": {
-      "en": "Rangárþing eystra"
+      "en": "Rangárþing eystra",
+      "ja": "ラゥングアゥルシンク・エイストラ"
     },
     "name": "Rangárþing eystra",
     "code": "RGE",
@@ -1367,7 +1393,8 @@
   },
   "RGY": {
     "translations": {
-      "en": "Rangárþing ytra"
+      "en": "Rangárþing ytra",
+      "ja": "ラゥングアゥルシンク・イートラ"
     },
     "name": "Rangárþing ytra",
     "code": "RGY",
@@ -1375,7 +1402,8 @@
   },
   "RHH": {
     "translations": {
-      "en": "Reykhólahreppur"
+      "en": "Reykhólahreppur",
+      "ja": "レイクホゥラフレップル"
     },
     "name": "Reykhólahreppur",
     "code": "RHH",
@@ -1383,7 +1411,8 @@
   },
   "RKN": {
     "translations": {
-      "en": "Reykjanesbær"
+      "en": "Reykjanesbær",
+      "ja": "レイキャネースバイル"
     },
     "name": "Reykjanesbær",
     "code": "RKN",
@@ -1399,7 +1428,8 @@
   },
   "SBH": {
     "translations": {
-      "en": "Svalbarðshreppur"
+      "en": "Svalbarðshreppur",
+      "ja": "スヴァルバルズスフレップル"
     },
     "name": "Svalbarðshreppur",
     "code": "SBH",
@@ -1407,7 +1437,8 @@
   },
   "SBT": {
     "translations": {
-      "en": "Svalbarðsstrandarhreppur"
+      "en": "Svalbarðsstrandarhreppur",
+      "ja": "スヴァルバルズスストラゥンダルフレップル"
     },
     "name": "Svalbarðsstrandarhreppur",
     "code": "SBT",
@@ -1433,6 +1464,7 @@
       "hu": "Súðavíkurhreppur",
       "id": "Súðavíkurhreppur",
       "is": "Súðavíkurhreppur",
+      "ja": "スーザヴィークルフレップル",
       "nl": "Súðavíkurhreppur",
       "pl": "Súðavíkurhreppur",
       "ru": "Судавикюрхреппюр",
@@ -1491,7 +1523,8 @@
   },
   "SKF": {
     "translations": {
-      "en": "Skaftárhreppur"
+      "en": "Skaftárhreppur",
+      "ja": "スカフタアゥルフレップル"
     },
     "name": "Skaftárhreppur",
     "code": "SKF",
@@ -1499,7 +1532,8 @@
   },
   "SKG": {
     "translations": {
-      "en": "Skagabyggð"
+      "en": "Skagabyggð",
+      "ja": "スカーガビッグズ"
     },
     "name": "Skagabyggð",
     "code": "SKG",
@@ -1507,7 +1541,8 @@
   },
   "SKO": {
     "translations": {
-      "en": "Skorradalshreppur"
+      "en": "Skorradalshreppur",
+      "ja": "スコッラダールスフレップル"
     },
     "name": "Skorradalshreppur",
     "code": "SKO",
@@ -1515,7 +1550,8 @@
   },
   "SKU": {
     "translations": {
-      "en": "Skútustaðahreppur"
+      "en": "Skútustaðahreppur",
+      "ja": "スクートゥスターザフレップル"
     },
     "name": "Skútustaðahreppur",
     "code": "SKU",
@@ -1523,7 +1559,8 @@
   },
   "SNF": {
     "translations": {
-      "en": "Snæfellsbær"
+      "en": "Snæfellsbær",
+      "ja": "スナイフェルスバイル"
     },
     "name": "Snæfellsbær",
     "code": "SNF",
@@ -1531,7 +1568,8 @@
   },
   "SOG": {
     "translations": {
-      "en": "Skeiða- og Gnúpverjahreppur"
+      "en": "Skeiða- og Gnúpverjahreppur",
+      "ja": "スキェイザ＝グヌープヴェーリャフレップル"
     },
     "name": "Skeiða- og Gnúpverjahreppur",
     "code": "SOG",
@@ -1593,7 +1631,8 @@
   },
   "STR": {
     "translations": {
-      "en": "Strandabyggð"
+      "en": "Strandabyggð",
+      "ja": "ストラゥンダビッグズ"
     },
     "name": "Strandabyggð",
     "code": "STR",
@@ -1617,7 +1656,8 @@
   },
   "TAL": {
     "translations": {
-      "en": "Tálknafjarðarhreppur"
+      "en": "Tálknafjarðarhreppur",
+      "ja": "タゥルクナフィヤルザルフレップル"
     },
     "name": "Tálknafjarðarhreppur",
     "code": "TAL",
@@ -1625,7 +1665,8 @@
   },
   "THG": {
     "translations": {
-      "en": "Þingeyjarsveit"
+      "en": "Þingeyjarsveit",
+      "ja": "シンクエイヤルスヴェイト"
     },
     "name": "Þingeyjarsveit",
     "code": "THG",
@@ -1633,7 +1674,8 @@
   },
   "TJO": {
     "translations": {
-      "en": "Tjörneshreppur"
+      "en": "Tjörneshreppur",
+      "ja": "チョールネースフレップル"
     },
     "name": "Tjörneshreppur",
     "code": "TJO",
@@ -1649,7 +1691,8 @@
   },
   "VER": {
     "translations": {
-      "en": "Vesturbyggð"
+      "en": "Vesturbyggð",
+      "ja": "ヴェストゥルビッグズ"
     },
     "name": "Vesturbyggð",
     "code": "VER",
@@ -1657,7 +1700,8 @@
   },
   "VOP": {
     "translations": {
-      "en": "Vopnafjarðarhreppur"
+      "en": "Vopnafjarðarhreppur",
+      "ja": "ヴォプナフィヤルザルフレップル"
     },
     "name": "Vopnafjarðarhreppur",
     "code": "VOP",
