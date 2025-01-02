@@ -9,8 +9,8 @@
     "distance_unit": "KM",
     "eea_member": true,
     "eu_member": true,
-    "g7_member": true,
     "g20_member": true,
+    "g7_member": true,
     "gec": "IT",
     "geo": {
       "latitude": 41.87194,
@@ -56,6 +56,7 @@
     "start_of_week": "monday",
     "subregion": "Southern Europe",
     "un_locode": "IT",
+    "un_member": true,
     "unofficial_names": [
       "Italy",
       "Italien",
@@ -72,6 +73,7 @@
       "super_reduced": 4,
       "parking": null
     },
+    "vehicle_registration_code": "I",
     "world_region": "EMEA"
   }
 }

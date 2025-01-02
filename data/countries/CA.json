@@ -7,8 +7,8 @@
     "country_code": "1",
     "currency_code": "CAD",
     "distance_unit": "KM",
-    "g7_member": true,
     "g20_member": true,
+    "g7_member": true,
     "gec": "CA",
     "geo": {
       "latitude": 56.130366,
@@ -55,12 +55,14 @@
     "start_of_week": "sunday",
     "subregion": "Northern America",
     "un_locode": "CA",
+    "un_member": true,
     "unofficial_names": [
       "Canada",
       "Kanada",
       "Canadá",
       "カナダ"
     ],
+    "vehicle_registration_code": "CDN",
     "world_region": "AMER"
   }
 }
