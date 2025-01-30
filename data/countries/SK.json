@@ -63,11 +63,13 @@
       "Slowakije"
     ],
     "vat_rates": {
-      "standard": 20,
+      "standard": 23,
       "reduced": [
-        10
+        19
       ],
-      "super_reduced": null,
+      "super_reduced": [
+        5
+      ],
       "parking": null
     },
     "vehicle_registration_code": "SK",
