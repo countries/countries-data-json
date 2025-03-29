@@ -2,7 +2,9 @@
   "01": {
     "name": "Pinar del Río",
     "code": "01",
-    "unofficial_names": "Pinar del Río",
+    "unofficial_names": [
+      "Pinar del Río"
+    ],
     "geo": {
       "latitude": 22.412222,
       "longitude": -83.671944,
@@ -64,13 +66,14 @@
       "no": "Pinar del Rio",
       "cy": "Talaith Pinar del Río"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
     "name": "La Habana",
     "code": "03",
-    "unofficial_names": "La Habana",
+    "unofficial_names": [
+      "La Habana"
+    ],
     "geo": {
       "latitude": 23.159167,
       "longitude": -82.271056,
@@ -99,13 +102,14 @@
       "hy": "Հավանա",
       "mr": "हवाना प्रांत"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "Matanzas",
     "code": "04",
-    "unofficial_names": "Matanzas",
+    "unofficial_names": [
+      "Matanzas"
+    ],
     "geo": {
       "latitude": 22.5767123,
       "longitude": -81.3399414,
@@ -170,13 +174,14 @@
       "cy": "Talaith Matanzas",
       "et": "Matanzase provints"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Villa Clara",
     "code": "05",
-    "unofficial_names": "Villa Clara",
+    "unofficial_names": [
+      "Villa Clara"
+    ],
     "geo": {
       "latitude": 22.4937204,
       "longitude": -79.9192702,
@@ -241,13 +246,14 @@
       "no": "Villa Clara Provinsen",
       "az": "Vilya-Klara əyaləti"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "Cienfuegos",
     "code": "06",
-    "unofficial_names": "Cienfuegos",
+    "unofficial_names": [
+      "Cienfuegos"
+    ],
     "geo": {
       "latitude": 22.2379783,
       "longitude": -80.365865,
@@ -310,13 +316,14 @@
       "cy": "Talaith Cienfuegos",
       "et": "Cienfuegose provints"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "Sancti Spíritus",
     "code": "07",
-    "unofficial_names": "Sancti Spíritus",
+    "unofficial_names": [
+      "Sancti Spíritus"
+    ],
     "geo": {
       "latitude": 21.9938214,
       "longitude": -79.4703885,
@@ -378,13 +385,14 @@
       "et": "Sancti Spírituse provints",
       "hy": "Սանկտի Սպիրիտուս"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "Ciego de Ávila",
     "code": "08",
-    "unofficial_names": "Ciego de Ávila",
+    "unofficial_names": [
+      "Ciego de Ávila"
+    ],
     "geo": {
       "latitude": 21.9329515,
       "longitude": -78.5660852,
@@ -446,13 +454,14 @@
       "cy": "Talaith Ciego de Ávila",
       "et": "Ciego de Ávila provints"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "Camagüey",
     "code": "09",
-    "unofficial_names": "Camagüey",
+    "unofficial_names": [
+      "Camagüey"
+    ],
     "geo": {
       "latitude": 21.3926035,
       "longitude": -77.9053182,
@@ -515,13 +524,14 @@
       "cy": "Talaith Camagüey",
       "et": "Camagüey provints"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
     "name": "Las Tunas",
     "code": "10",
-    "unofficial_names": "Las Tunas",
+    "unofficial_names": [
+      "Las Tunas"
+    ],
     "geo": {
       "latitude": 21.0605162,
       "longitude": -76.91820969999999,
@@ -583,13 +593,14 @@
       "cs": "Las Tunas",
       "cy": "Talaith Las Tunas"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
     "name": "Holguín",
     "code": "11",
-    "unofficial_names": "Holguín",
+    "unofficial_names": [
+      "Holguín"
+    ],
     "geo": {
       "latitude": 20.7837893,
       "longitude": -75.8069082,
@@ -654,13 +665,14 @@
       "no": "Holguín",
       "cy": "Talaith Holguín"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
     "name": "Granma",
     "code": "12",
-    "unofficial_names": "Granma",
+    "unofficial_names": [
+      "Granma"
+    ],
     "geo": {
       "latitude": 20.3844902,
       "longitude": -76.64127119999999,
@@ -725,13 +737,14 @@
       "cs": "Granma",
       "cy": "Talaith Granma"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "Santiago de Cuba",
     "code": "13",
-    "unofficial_names": "Santiago de Cuba",
+    "unofficial_names": [
+      "Santiago de Cuba"
+    ],
     "geo": {
       "latitude": 20.01693,
       "longitude": -75.8301537,
@@ -792,13 +805,14 @@
       "et": "Santiago de Cuba provints",
       "he": "סנטיאגו דה קובה"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
     "name": "Guantánamo",
     "code": "14",
-    "unofficial_names": "Guantánamo",
+    "unofficial_names": [
+      "Guantánamo"
+    ],
     "geo": {
       "latitude": 20.136667,
       "longitude": -75.213889,
@@ -849,13 +863,14 @@
       "fi": "Guantánamo (provinssi)",
       "th": "จังหวัดกวนตานาโม"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
     "name": "Artemisa",
     "code": "15",
-    "unofficial_names": "Artemisa",
+    "unofficial_names": [
+      "Artemisa"
+    ],
     "geo": {
       "latitude": 22.7522903,
       "longitude": -82.99316069999999,
@@ -916,13 +931,14 @@
       "cy": "Talaith Artemisa",
       "gl": "provincia de Artemisa"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
     "name": "Mayabeque",
     "code": "16",
-    "unofficial_names": "Mayabeque",
+    "unofficial_names": [
+      "Mayabeque"
+    ],
     "geo": {
       "latitude": 22.8926529,
       "longitude": -81.9534815,
@@ -982,13 +998,14 @@
       "cs": "Mayabeque",
       "cy": "Talaith Mayabeque"
     },
-    "comments": null,
     "type": "province"
   },
   "99": {
     "name": "Isla de la Juventud",
     "code": "99",
-    "unofficial_names": "Isla de la Juventud",
+    "unofficial_names": [
+      "Isla de la Juventud"
+    ],
     "geo": {
       "latitude": 21.6066405,
       "longitude": -82.82097399999999,
@@ -1054,7 +1071,6 @@
       "no": "Isla de la Juventud",
       "ga": "Isla de la Juventud"
     },
-    "comments": null,
     "type": "special_municipality"
   }
 }

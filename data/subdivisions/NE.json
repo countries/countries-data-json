@@ -2,7 +2,9 @@
   "1": {
     "name": "Agadez",
     "code": "1",
-    "unofficial_names": "Agadez",
+    "unofficial_names": [
+      "Agadez"
+    ],
     "geo": {
       "latitude": 16.966667,
       "longitude": 7.983333,
@@ -58,13 +60,14 @@
       "no": "Agadez (region)",
       "fa": "منطقه آگادز"
     },
-    "comments": null,
     "type": "region"
   },
   "2": {
     "name": "Diffa",
     "code": "2",
-    "unofficial_names": "Diffa",
+    "unofficial_names": [
+      "Diffa"
+    ],
     "geo": {
       "latitude": 13.316667,
       "longitude": 12.616667,
@@ -120,13 +123,14 @@
       "no": "Diffa",
       "fa": "ناحیه دیفا"
     },
-    "comments": null,
     "type": "region"
   },
   "3": {
     "name": "Dosso",
     "code": "3",
-    "unofficial_names": "Dosso",
+    "unofficial_names": [
+      "Dosso"
+    ],
     "geo": {
       "latitude": 13.05,
       "longitude": 3.2,
@@ -183,13 +187,14 @@
       "no": "Dosso",
       "fa": "ناحیه دوسو"
     },
-    "comments": null,
     "type": "region"
   },
   "4": {
     "name": "Maradi",
     "code": "4",
-    "unofficial_names": "Maradi",
+    "unofficial_names": [
+      "Maradi"
+    ],
     "geo": {
       "latitude": 13.483333,
       "longitude": 7.1,
@@ -245,13 +250,14 @@
       "no": "Maradi",
       "fa": "ناحیه مارادی"
     },
-    "comments": null,
     "type": "region"
   },
   "5": {
     "name": "Tahoua",
     "code": "5",
-    "unofficial_names": "Tahoua",
+    "unofficial_names": [
+      "Tahoua"
+    ],
     "geo": {
       "latitude": 14.883333,
       "longitude": 5.266667,
@@ -307,7 +313,6 @@
       "no": "Tahoua",
       "fa": "ناحیه تاهوآ"
     },
-    "comments": null,
     "type": "region"
   },
   "6": {
@@ -371,13 +376,14 @@
       "no": "Tillabéri",
       "fa": "ناحیه تیلابری"
     },
-    "comments": null,
     "type": "region"
   },
   "7": {
     "name": "Zinder",
     "code": "7",
-    "unofficial_names": "Zinder",
+    "unofficial_names": [
+      "Zinder"
+    ],
     "geo": {
       "latitude": 13.805278,
       "longitude": 8.988332999999999,
@@ -432,13 +438,14 @@
       "no": "Zinder",
       "ca": "Zinder"
     },
-    "comments": null,
     "type": "region"
   },
   "8": {
     "name": "Niamey",
     "code": "8",
-    "unofficial_names": "Niamey",
+    "unofficial_names": [
+      "Niamey"
+    ],
     "geo": {
       "latitude": 13.521389,
       "longitude": 2.105278,
@@ -530,7 +537,6 @@
       "ml": "നയാമെ",
       "ps": "نیامی"
     },
-    "comments": null,
     "type": "urban_community"
   }
 }

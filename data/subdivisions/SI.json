@@ -2,7 +2,9 @@
   "001": {
     "name": "Ajdovšcina",
     "code": "001",
-    "unofficial_names": "Ajdovšcina",
+    "unofficial_names": [
+      "Ajdovšcina"
+    ],
     "geo": {
       "latitude": 45.8869025,
       "longitude": 13.909914,
@@ -66,13 +68,14 @@
       "cy": "Bwrdeistref Ajdovščina",
       "ps": "آیدوشچینا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "002": {
     "name": "Beltinci",
     "code": "002",
-    "unofficial_names": "Beltinci",
+    "unofficial_names": [
+      "Beltinci"
+    ],
     "geo": {
       "latitude": 46.60791529999999,
       "longitude": 16.2365127,
@@ -131,13 +134,14 @@
       "fa": "شهرداری بلتینچی",
       "mk": "Општина Белтинци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "003": {
     "name": "Bled",
     "code": "003",
-    "unofficial_names": "Bled",
+    "unofficial_names": [
+      "Bled"
+    ],
     "geo": {
       "latitude": 46.3683266,
       "longitude": 14.1145798,
@@ -197,13 +201,14 @@
       "fa": "شهرداری بلد",
       "hu": "Bled község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "004": {
     "name": "Bohinj",
     "code": "004",
-    "unofficial_names": "Bohinj",
+    "unofficial_names": [
+      "Bohinj"
+    ],
     "geo": {
       "latitude": 46.30056520000001,
       "longitude": 13.9427195,
@@ -264,13 +269,14 @@
       "cy": "Bwrdeistref Bohinj",
       "fa": "شهرداری بوهینج"
     },
-    "comments": null,
     "type": "municipality"
   },
   "005": {
     "name": "Borovnica",
     "code": "005",
-    "unofficial_names": "Borovnica",
+    "unofficial_names": [
+      "Borovnica"
+    ],
     "geo": {
       "latitude": 45.9193034,
       "longitude": 14.3640682,
@@ -327,13 +333,14 @@
       "ca": "Municipi de Borovnica",
       "cy": "Bwrdeistref Borovnica"
     },
-    "comments": null,
     "type": "municipality"
   },
   "006": {
     "name": "Bovec",
     "code": "006",
-    "unofficial_names": "Bovec",
+    "unofficial_names": [
+      "Bovec"
+    ],
     "geo": {
       "latitude": 46.3376387,
       "longitude": 13.551683,
@@ -392,13 +399,14 @@
       "fa": "شهرداری بووک",
       "mk": "Општина Бовец"
     },
-    "comments": null,
     "type": "municipality"
   },
   "007": {
     "name": "Brda",
     "code": "007",
-    "unofficial_names": "Brda",
+    "unofficial_names": [
+      "Brda"
+    ],
     "geo": {
       "latitude": 46.4716586,
       "longitude": 15.1439794,
@@ -459,13 +467,14 @@
       "fa": "شهرداری بردا",
       "mk": "Општина Брда"
     },
-    "comments": null,
     "type": "municipality"
   },
   "008": {
     "name": "Brezovica",
     "code": "008",
-    "unofficial_names": "Brezovica",
+    "unofficial_names": [
+      "Brezovica"
+    ],
     "geo": {
       "latitude": 45.872713,
       "longitude": 15.2412372,
@@ -525,13 +534,14 @@
       "cy": "Bwrdeistref Brezovica",
       "fa": "شهرداری برزوویکا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "009": {
     "name": "Brežice",
     "code": "009",
-    "unofficial_names": "Brežice",
+    "unofficial_names": [
+      "Brežice"
+    ],
     "geo": {
       "latitude": 45.9088102,
       "longitude": 15.5964652,
@@ -590,13 +600,14 @@
       "cy": "Bwrdeistref Brežice",
       "mk": "Општина Брежице"
     },
-    "comments": null,
     "type": "municipality"
   },
   "010": {
     "name": "Tišina",
     "code": "010",
-    "unofficial_names": "Tišina",
+    "unofficial_names": [
+      "Tišina"
+    ],
     "geo": {
       "latitude": 46.6511382,
       "longitude": 16.0834627,
@@ -637,13 +648,14 @@
       "cy": "Bwrdeistref Tišina",
       "mk": "Општина Тишина"
     },
-    "comments": null,
     "type": "municipality"
   },
   "011": {
     "name": "Celje",
     "code": "011",
-    "unofficial_names": "Celje",
+    "unofficial_names": [
+      "Celje"
+    ],
     "geo": {
       "latitude": 46.23974949999999,
       "longitude": 15.2677063,
@@ -702,13 +714,14 @@
       "cy": "Bwrdeistref City of Celje",
       "fa": "شهرداری سیلجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "012": {
     "name": "Cerklje na Gorenjskem",
     "code": "012",
-    "unofficial_names": "Cerklje na Gorenjskem",
+    "unofficial_names": [
+      "Cerklje na Gorenjskem"
+    ],
     "geo": {
       "latitude": 46.2531292,
       "longitude": 14.4868829,
@@ -766,13 +779,14 @@
       "cy": "Bwrdeistref Cerklje na Gorenjskem",
       "mk": "Општина Церкље на Горењска"
     },
-    "comments": null,
     "type": "municipality"
   },
   "013": {
     "name": "Cerknica",
     "code": "013",
-    "unofficial_names": "Cerknica",
+    "unofficial_names": [
+      "Cerknica"
+    ],
     "geo": {
       "latitude": 45.7955099,
       "longitude": 14.3621843,
@@ -831,13 +845,14 @@
       "hu": "Cerknica község",
       "mk": "Општина Церкница"
     },
-    "comments": null,
     "type": "municipality"
   },
   "014": {
     "name": "Cerkno",
     "code": "014",
-    "unofficial_names": "Cerkno",
+    "unofficial_names": [
+      "Cerkno"
+    ],
     "geo": {
       "latitude": 46.128954,
       "longitude": 13.9891931,
@@ -896,13 +911,14 @@
       "fa": "شهرداری سرکنو",
       "mk": "Општина Церкно"
     },
-    "comments": null,
     "type": "municipality"
   },
   "015": {
     "name": "Crenšovci",
     "code": "015",
-    "unofficial_names": "Crenšovci",
+    "unofficial_names": [
+      "Crenšovci"
+    ],
     "geo": {
       "latitude": 46.5720029,
       "longitude": 16.2877346,
@@ -961,13 +977,14 @@
       "cy": "Bwrdeistref Črenšovci",
       "mk": "Општина Чреншовци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "016": {
     "name": "Crna na Koroškem",
     "code": "016",
-    "unofficial_names": "Crna na Koroškem",
+    "unofficial_names": [
+      "Crna na Koroškem"
+    ],
     "geo": {
       "latitude": 46.4703983,
       "longitude": 14.8498787,
@@ -1024,13 +1041,14 @@
       "cy": "Bwrdeistref Črna na Koroškem",
       "mk": "Општина Чрна на Корушка"
     },
-    "comments": null,
     "type": "municipality"
   },
   "017": {
     "name": "Crnomelj",
     "code": "017",
-    "unofficial_names": "Crnomelj",
+    "unofficial_names": [
+      "Crnomelj"
+    ],
     "geo": {
       "latitude": 45.57148369999999,
       "longitude": 15.1930773,
@@ -1088,13 +1106,14 @@
       "cy": "Bwrdeistref Črnomelj",
       "mk": "Општина Чрномељ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "018": {
     "name": "Destrnik",
     "code": "018",
-    "unofficial_names": "Destrnik",
+    "unofficial_names": [
+      "Destrnik"
+    ],
     "geo": {
       "latitude": 46.4922368,
       "longitude": 15.8777956,
@@ -1152,13 +1171,14 @@
       "cy": "Bwrdeistref Destrnik",
       "hu": "Destrnik község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "019": {
     "name": "Divaca",
     "code": "019",
-    "unofficial_names": "Divaca",
+    "unofficial_names": [
+      "Divaca"
+    ],
     "geo": {
       "latitude": 45.68291319999999,
       "longitude": 13.9697218,
@@ -1216,13 +1236,14 @@
       "cy": "Bwrdeistref Divača",
       "he": "דיוואצ׳ה"
     },
-    "comments": null,
     "type": "municipality"
   },
   "020": {
     "name": "Dobrepolje",
     "code": "020",
-    "unofficial_names": "Dobrepolje",
+    "unofficial_names": [
+      "Dobrepolje"
+    ],
     "geo": {
       "latitude": 45.8524951,
       "longitude": 14.7083109,
@@ -1282,13 +1303,14 @@
       "fa": "شهرداری دوبرپولجه",
       "hu": "Dobrepolje község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "021": {
     "name": "Dobrova-Polhov Gradec",
     "code": "021",
-    "unofficial_names": "Dobrova-Polhov Gradec",
+    "unofficial_names": [
+      "Dobrova-Polhov Gradec"
+    ],
     "geo": {
       "latitude": 46.0678183,
       "longitude": 14.2439619,
@@ -1344,13 +1366,14 @@
       "ca": "Municipi de Dobrova–Polhov Gradec",
       "cy": "Bwrdeistref Dobrova–Polhov Gradec"
     },
-    "comments": null,
     "type": "municipality"
   },
   "022": {
     "name": "Dol pri Ljubljani",
     "code": "022",
-    "unofficial_names": "Dol pri Ljubljani",
+    "unofficial_names": [
+      "Dol pri Ljubljani"
+    ],
     "geo": {
       "latitude": 46.0884386,
       "longitude": 14.6424792,
@@ -1407,13 +1430,14 @@
       "ca": "Municipi de Dol pri Ljubljani",
       "cy": "Bwrdeistref Dol pri Ljubljani"
     },
-    "comments": null,
     "type": "municipality"
   },
   "023": {
     "name": "Domžale",
     "code": "023",
-    "unofficial_names": "Domžale",
+    "unofficial_names": [
+      "Domžale"
+    ],
     "geo": {
       "latitude": 46.1419417,
       "longitude": 14.5944171,
@@ -1445,13 +1469,14 @@
       "de": "Gemeinde Domžale",
       "id": "Munisipalitas Domžale"
     },
-    "comments": null,
     "type": "municipality"
   },
   "024": {
     "name": "Dornava",
     "code": "024",
-    "unofficial_names": "Dornava",
+    "unofficial_names": [
+      "Dornava"
+    ],
     "geo": {
       "latitude": 46.4356499,
       "longitude": 15.952954,
@@ -1511,13 +1536,14 @@
       "fa": "شهرداری دورناوا",
       "hu": "Dornava község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "025": {
     "name": "Dravograd",
     "code": "025",
-    "unofficial_names": "Dravograd",
+    "unofficial_names": [
+      "Dravograd"
+    ],
     "geo": {
       "latitude": 46.589219,
       "longitude": 15.0246021,
@@ -1576,13 +1602,14 @@
       "fa": "شهرداری دراووگراد",
       "mk": "Општина Дравоград"
     },
-    "comments": null,
     "type": "municipality"
   },
   "026": {
     "name": "Duplek",
     "code": "026",
-    "unofficial_names": "Duplek",
+    "unofficial_names": [
+      "Duplek"
+    ],
     "geo": {
       "latitude": 46.5185203,
       "longitude": 15.7791896,
@@ -1643,13 +1670,14 @@
       "fa": "شهرداری دوپلک",
       "hu": "Duplek község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "027": {
     "name": "Gorenja vas-Poljane",
     "code": "027",
-    "unofficial_names": "Gorenja vas-Poljane",
+    "unofficial_names": [
+      "Gorenja vas-Poljane"
+    ],
     "geo": {
       "latitude": 46.1230068,
       "longitude": 14.1151746,
@@ -1707,13 +1735,14 @@
       "cy": "Bwrdeistref Gorenja Vas–Poljane",
       "mk": "Општина Горења Вас-Пољане"
     },
-    "comments": null,
     "type": "municipality"
   },
   "028": {
     "name": "Gorišnica",
     "code": "028",
-    "unofficial_names": "Gorišnica",
+    "unofficial_names": [
+      "Gorišnica"
+    ],
     "geo": {
       "latitude": 46.4120271,
       "longitude": 16.0133089,
@@ -1770,13 +1799,14 @@
       "ca": "Municipi de Gorišnica",
       "cy": "Bwrdeistref Gorišnica"
     },
-    "comments": null,
     "type": "municipality"
   },
   "029": {
     "name": "Gornja Radgona",
     "code": "029",
-    "unofficial_names": "Gornja Radgona",
+    "unofficial_names": [
+      "Gornja Radgona"
+    ],
     "geo": {
       "latitude": 46.6767099,
       "longitude": 15.9910846,
@@ -1809,13 +1839,14 @@
       "mk": "Општина Горња Радгона",
       "ru": "Горня Радгона"
     },
-    "comments": null,
     "type": "municipality"
   },
   "030": {
     "name": "Gornji Grad",
     "code": "030",
-    "unofficial_names": "Gornji Grad",
+    "unofficial_names": [
+      "Gornji Grad"
+    ],
     "geo": {
       "latitude": 46.2961712,
       "longitude": 14.8062347,
@@ -1872,13 +1903,14 @@
       "ca": "Municipi de Gornji Grad",
       "cy": "Bwrdeistref Gornji Grad"
     },
-    "comments": null,
     "type": "municipality"
   },
   "031": {
     "name": "Gornji Petrovci",
     "code": "031",
-    "unofficial_names": "Gornji Petrovci",
+    "unofficial_names": [
+      "Gornji Petrovci"
+    ],
     "geo": {
       "latitude": 46.8047535,
       "longitude": 16.2180722,
@@ -1936,13 +1968,14 @@
       "cy": "Bwrdeistref Gornji Petrovci",
       "mk": "Општина Горњи Петровци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "032": {
     "name": "Grosuplje",
     "code": "032",
-    "unofficial_names": "Grosuplje",
+    "unofficial_names": [
+      "Grosuplje"
+    ],
     "geo": {
       "latitude": 45.9557645,
       "longitude": 14.658899,
@@ -2001,13 +2034,14 @@
       "cy": "Bwrdeistref Grosuplje",
       "hu": "Grosuplje község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "033": {
     "name": "Šalovci",
     "code": "033",
-    "unofficial_names": "Šalovci",
+    "unofficial_names": [
+      "Šalovci"
+    ],
     "geo": {
       "latitude": 46.8235919,
       "longitude": 16.2881649,
@@ -2067,13 +2101,14 @@
       "cy": "Bwrdeistref Šalovci",
       "mk": "Општина Шаловци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "034": {
     "name": "Hrastnik",
     "code": "034",
-    "unofficial_names": "Hrastnik",
+    "unofficial_names": [
+      "Hrastnik"
+    ],
     "geo": {
       "latitude": 46.1417288,
       "longitude": 15.0844894,
@@ -2131,13 +2166,14 @@
       "fa": "شهرداری هرستنیک",
       "mk": "Општина Храстник"
     },
-    "comments": null,
     "type": "municipality"
   },
   "035": {
     "name": "Hrpelje-Kozina",
     "code": "035",
-    "unofficial_names": "Hrpelje-Kozina",
+    "unofficial_names": [
+      "Hrpelje-Kozina"
+    ],
     "geo": {
       "latitude": 45.5945539,
       "longitude": 14.0056771,
@@ -2195,13 +2231,14 @@
       "cy": "Bwrdeistref Hrpelje–Kozina",
       "mk": "Општина Хрпеље-Козина"
     },
-    "comments": null,
     "type": "municipality"
   },
   "036": {
     "name": "Idrija",
     "code": "036",
-    "unofficial_names": "Idrija",
+    "unofficial_names": [
+      "Idrija"
+    ],
     "geo": {
       "latitude": 46.00294539999999,
       "longitude": 14.0278459,
@@ -2235,13 +2272,14 @@
       "ru": "Идрия",
       "tr": "Idrija Belediyesi"
     },
-    "comments": null,
     "type": "municipality"
   },
   "037": {
     "name": "Ig",
     "code": "037",
-    "unofficial_names": "Ig",
+    "unofficial_names": [
+      "Ig"
+    ],
     "geo": {
       "latitude": 45.9588213,
       "longitude": 14.5282718,
@@ -2299,13 +2337,14 @@
       "cy": "Bwrdeistref Ig",
       "fa": "شهرداری ایگ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "038": {
     "name": "Ilirska Bistrica",
     "code": "038",
-    "unofficial_names": "Ilirska Bistrica",
+    "unofficial_names": [
+      "Ilirska Bistrica"
+    ],
     "geo": {
       "latitude": 45.570099,
       "longitude": 14.2418616,
@@ -2339,13 +2378,14 @@
       "pl": "Gmina Ilirska Bistrica",
       "ru": "Илирска Бистрица"
     },
-    "comments": null,
     "type": "municipality"
   },
   "039": {
     "name": "Ivancna Gorica",
     "code": "039",
-    "unofficial_names": "Ivancna Gorica",
+    "unofficial_names": [
+      "Ivancna Gorica"
+    ],
     "geo": {
       "latitude": 45.9395841,
       "longitude": 14.8047626,
@@ -2404,13 +2444,14 @@
       "hu": "Ivančna Gorica község",
       "mk": "Општина Иванчна Горица"
     },
-    "comments": null,
     "type": "municipality"
   },
   "040": {
     "name": "Izola/Isola",
     "code": "040",
-    "unofficial_names": "Izola/Isola",
+    "unofficial_names": [
+      "Izola/Isola"
+    ],
     "geo": {
       "latitude": 45.5374048,
       "longitude": 13.6600802,
@@ -2479,13 +2520,14 @@
       "et": "Izola",
       "sq": "Izola"
     },
-    "comments": null,
     "type": "municipality"
   },
   "041": {
     "name": "Jesenice",
     "code": "041",
-    "unofficial_names": "Jesenice",
+    "unofficial_names": [
+      "Jesenice"
+    ],
     "geo": {
       "latitude": 46.4367047,
       "longitude": 14.0526057,
@@ -2547,13 +2589,14 @@
       "ca": "Municipi de Jesenice",
       "cy": "Bwrdeistref Jesenice"
     },
-    "comments": null,
     "type": "municipality"
   },
   "042": {
     "name": "Juršinci",
     "code": "042",
-    "unofficial_names": "Juršinci",
+    "unofficial_names": [
+      "Juršinci"
+    ],
     "geo": {
       "latitude": 46.4850899,
       "longitude": 15.9714564,
@@ -2612,13 +2655,14 @@
       "fa": "شهرداری جورچینچی",
       "hu": "Juršinci község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "043": {
     "name": "Kamnik",
     "code": "043",
-    "unofficial_names": "Kamnik",
+    "unofficial_names": [
+      "Kamnik"
+    ],
     "geo": {
       "latitude": 46.2221964,
       "longitude": 14.6072968,
@@ -2676,13 +2720,14 @@
       "cy": "Bwrdeistref Kamnik",
       "fa": "شهرداری کامنیک"
     },
-    "comments": null,
     "type": "municipality"
   },
   "044": {
     "name": "Kanal",
     "code": "044",
-    "unofficial_names": "Kanal",
+    "unofficial_names": [
+      "Kanal"
+    ],
     "geo": {
       "latitude": 46.0853803,
       "longitude": 13.634308,
@@ -2740,13 +2785,14 @@
       "cy": "Bwrdeistref Kanal ob Soči",
       "mk": "Канал на Соча"
     },
-    "comments": null,
     "type": "municipality"
   },
   "045": {
     "name": "Kidricevo",
     "code": "045",
-    "unofficial_names": "Kidricevo",
+    "unofficial_names": [
+      "Kidricevo"
+    ],
     "geo": {
       "latitude": 46.4050135,
       "longitude": 15.7947234,
@@ -2805,13 +2851,14 @@
       "fa": "شهرداری کیدریچوو",
       "hu": "Kidričevo község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "046": {
     "name": "Kobarid",
     "code": "046",
-    "unofficial_names": "Kobarid",
+    "unofficial_names": [
+      "Kobarid"
+    ],
     "geo": {
       "latitude": 46.2476549,
       "longitude": 13.5791749,
@@ -2872,13 +2919,14 @@
       "fa": "شهرداری کوبارید",
       "mk": "Општина Кобарид"
     },
-    "comments": null,
     "type": "municipality"
   },
   "047": {
     "name": "Kobilje",
     "code": "047",
-    "unofficial_names": "Kobilje",
+    "unofficial_names": [
+      "Kobilje"
+    ],
     "geo": {
       "latitude": 46.68518,
       "longitude": 16.3936719,
@@ -2939,13 +2987,14 @@
       "fa": "شهرداری کوبیلجه",
       "mk": "Општина Кобиље"
     },
-    "comments": null,
     "type": "municipality"
   },
   "048": {
     "name": "Kocevje",
     "code": "048",
-    "unofficial_names": "Kocevje",
+    "unofficial_names": [
+      "Kocevje"
+    ],
     "geo": {
       "latitude": 45.6409009,
       "longitude": 14.8633128,
@@ -3007,13 +3056,14 @@
       "no": "Kocevje kommune",
       "cy": "Bwrdeistref Kočevje"
     },
-    "comments": null,
     "type": "municipality"
   },
   "049": {
     "name": "Komen",
     "code": "049",
-    "unofficial_names": "Komen",
+    "unofficial_names": [
+      "Komen"
+    ],
     "geo": {
       "latitude": 45.81752350000001,
       "longitude": 13.7482711,
@@ -3074,13 +3124,14 @@
       "hu": "Komen",
       "mk": "Општина Комен"
     },
-    "comments": null,
     "type": "municipality"
   },
   "050": {
     "name": "Koper/Capodistria",
     "code": "050",
-    "unofficial_names": "Koper/Capodistria",
+    "unofficial_names": [
+      "Koper/Capodistria"
+    ],
     "geo": {
       "latitude": 45.54805899999999,
       "longitude": 13.7301877,
@@ -3117,13 +3168,14 @@
       "ru": "Копер",
       "tr": "Koper Şehir Belediyesi"
     },
-    "comments": null,
     "type": "municipality"
   },
   "051": {
     "name": "Kozje",
     "code": "051",
-    "unofficial_names": "Kozje",
+    "unofficial_names": [
+      "Kozje"
+    ],
     "geo": {
       "latitude": 46.0733211,
       "longitude": 15.5596719,
@@ -3181,13 +3233,14 @@
       "cy": "Bwrdeistref Kozje",
       "fa": "شهرداری کوزجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "052": {
     "name": "Kranj",
     "code": "052",
-    "unofficial_names": "Kranj",
+    "unofficial_names": [
+      "Kranj"
+    ],
     "geo": {
       "latitude": 46.2428344,
       "longitude": 14.3555417,
@@ -3258,13 +3311,14 @@
       "ps": "کراني",
       "sq": "Kranj"
     },
-    "comments": null,
     "type": "municipality"
   },
   "053": {
     "name": "Kranjska Gora",
     "code": "053",
-    "unofficial_names": "Kranjska Gora",
+    "unofficial_names": [
+      "Kranjska Gora"
+    ],
     "geo": {
       "latitude": 46.4845293,
       "longitude": 13.7857145,
@@ -3326,13 +3380,14 @@
       "fa": "شهرداری کرانسکا گورا",
       "mk": "Општина Крањска Гора"
     },
-    "comments": null,
     "type": "municipality"
   },
   "054": {
     "name": "Krško",
     "code": "054",
-    "unofficial_names": "Krško",
+    "unofficial_names": [
+      "Krško"
+    ],
     "geo": {
       "latitude": 45.9592256,
       "longitude": 15.4950212,
@@ -3391,13 +3446,14 @@
       "fa": "شهرداری کریکو",
       "mk": "Општина Кршко"
     },
-    "comments": null,
     "type": "municipality"
   },
   "055": {
     "name": "Kungota",
     "code": "055",
-    "unofficial_names": "Kungota",
+    "unofficial_names": [
+      "Kungota"
+    ],
     "geo": {
       "latitude": 46.6418793,
       "longitude": 15.6036288,
@@ -3457,13 +3513,14 @@
       "fa": "شهرداری کونگوتا",
       "mk": "Општина Кунгота"
     },
-    "comments": null,
     "type": "municipality"
   },
   "056": {
     "name": "Kuzma",
     "code": "056",
-    "unofficial_names": "Kuzma",
+    "unofficial_names": [
+      "Kuzma"
+    ],
     "geo": {
       "latitude": 46.8351038,
       "longitude": 16.08071,
@@ -3523,13 +3580,14 @@
       "fa": "شهرداری کوزما",
       "mk": "Општина Кузма"
     },
-    "comments": null,
     "type": "municipality"
   },
   "057": {
     "name": "Laško",
     "code": "057",
-    "unofficial_names": "Laško",
+    "unofficial_names": [
+      "Laško"
+    ],
     "geo": {
       "latitude": 46.1542793,
       "longitude": 15.2359978,
@@ -3591,13 +3649,14 @@
       "cy": "Bwrdeistref Laško",
       "fa": "شهرداری لاسکو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "058": {
     "name": "Lenart",
     "code": "058",
-    "unofficial_names": "Lenart",
+    "unofficial_names": [
+      "Lenart"
+    ],
     "geo": {
       "latitude": 46.5954161,
       "longitude": 15.8637359,
@@ -3656,13 +3715,14 @@
       "cy": "Bwrdeistref Lenart",
       "fa": "شهرداری لنارت"
     },
-    "comments": null,
     "type": "municipality"
   },
   "059": {
     "name": "Lendava/Lendva",
     "code": "059",
-    "unofficial_names": "Lendava/Lendva",
+    "unofficial_names": [
+      "Lendava/Lendva"
+    ],
     "geo": {
       "latitude": 46.5644783,
       "longitude": 16.453063,
@@ -3729,13 +3789,14 @@
       "cy": "Bwrdeistref Lendava",
       "mk": "Општина Лендава"
     },
-    "comments": null,
     "type": "municipality"
   },
   "060": {
     "name": "Litija",
     "code": "060",
-    "unofficial_names": "Litija",
+    "unofficial_names": [
+      "Litija"
+    ],
     "geo": {
       "latitude": 46.05923050000001,
       "longitude": 14.8266015,
@@ -3794,13 +3855,14 @@
       "cy": "Bwrdeistref Litija",
       "mk": "Општина Литија"
     },
-    "comments": null,
     "type": "municipality"
   },
   "061": {
     "name": "Ljubljana",
     "code": "061",
-    "unofficial_names": "Ljubljana",
+    "unofficial_names": [
+      "Ljubljana"
+    ],
     "geo": {
       "latitude": 46.0569465,
       "longitude": 14.5057515,
@@ -3843,13 +3905,14 @@
       "mk": "Градска општина Љубљана",
       "th": "เทศบาลเมืองลูบลิยานา"
     },
-    "comments": null,
     "type": "municipality"
   },
   "062": {
     "name": "Ljubno",
     "code": "062",
-    "unofficial_names": "Ljubno",
+    "unofficial_names": [
+      "Ljubno"
+    ],
     "geo": {
       "latitude": 46.31358350000001,
       "longitude": 14.2458583,
@@ -3908,13 +3971,14 @@
       "cy": "Bwrdeistref Ljubno",
       "fa": "شهرداری لیوبنو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "063": {
     "name": "Ljutomer",
     "code": "063",
-    "unofficial_names": "Ljutomer",
+    "unofficial_names": [
+      "Ljutomer"
+    ],
     "geo": {
       "latitude": 46.5193583,
       "longitude": 16.197814,
@@ -3954,13 +4018,14 @@
       "mk": "Општина Љутомер",
       "ru": "Лютомер"
     },
-    "comments": null,
     "type": "municipality"
   },
   "064": {
     "name": "Logatec",
     "code": "064",
-    "unofficial_names": "Logatec",
+    "unofficial_names": [
+      "Logatec"
+    ],
     "geo": {
       "latitude": 45.91708190000001,
       "longitude": 14.2285582,
@@ -4021,13 +4086,14 @@
       "fa": "شهرداری لوگاتک",
       "hu": "Logatec község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "065": {
     "name": "Loška dolina",
     "code": "065",
-    "unofficial_names": "Loška dolina",
+    "unofficial_names": [
+      "Loška dolina"
+    ],
     "geo": {
       "latitude": 45.6477908,
       "longitude": 14.4973147,
@@ -4086,13 +4152,14 @@
       "fa": "شهرداری لوچکا دولینا",
       "mk": "Општина Лошка Долина"
     },
-    "comments": null,
     "type": "municipality"
   },
   "066": {
     "name": "Loški Potok",
     "code": "066",
-    "unofficial_names": "Loški Potok",
+    "unofficial_names": [
+      "Loški Potok"
+    ],
     "geo": {
       "latitude": 45.664967,
       "longitude": 14.6622265,
@@ -4151,13 +4218,14 @@
       "cy": "Bwrdeistref Loški Potok",
       "fa": "شهرداری لوچکی پوتوک"
     },
-    "comments": null,
     "type": "municipality"
   },
   "067": {
     "name": "Luce",
     "code": "067",
-    "unofficial_names": "Luce",
+    "unofficial_names": [
+      "Luce"
+    ],
     "geo": {
       "latitude": 46.35487209999999,
       "longitude": 14.7458015,
@@ -4215,13 +4283,14 @@
       "cy": "Bwrdeistref Luče",
       "fa": "شهرداری لوچه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "068": {
     "name": "Lukovica",
     "code": "068",
-    "unofficial_names": "Lukovica",
+    "unofficial_names": [
+      "Lukovica"
+    ],
     "geo": {
       "latitude": 46.1696293,
       "longitude": 14.6907259,
@@ -4280,13 +4349,14 @@
       "cy": "Bwrdeistref Lukovica",
       "fa": "شهرداری لوکوویچا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "069": {
     "name": "Majšperk",
     "code": "069",
-    "unofficial_names": "Majšperk",
+    "unofficial_names": [
+      "Majšperk"
+    ],
     "geo": {
       "latitude": 46.3503019,
       "longitude": 15.7340595,
@@ -4344,13 +4414,14 @@
       "cy": "Bwrdeistref Majšperk",
       "hu": "Majšperk község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "070": {
     "name": "Maribor",
     "code": "070",
-    "unofficial_names": "Maribor",
+    "unofficial_names": [
+      "Maribor"
+    ],
     "geo": {
       "latitude": 46.5546503,
       "longitude": 15.6458812,
@@ -4413,13 +4484,14 @@
       "hy": "Մարիբոր քաղաքային համայնք",
       "mk": "Градска општина Марибор"
     },
-    "comments": null,
     "type": "municipality"
   },
   "071": {
     "name": "Medvode",
     "code": "071",
-    "unofficial_names": "Medvode",
+    "unofficial_names": [
+      "Medvode"
+    ],
     "geo": {
       "latitude": 46.1413926,
       "longitude": 14.411347,
@@ -4479,13 +4551,14 @@
       "ca": "Municipi de Medvode",
       "cy": "Bwrdeistref Medvode"
     },
-    "comments": null,
     "type": "municipality"
   },
   "072": {
     "name": "Mengeš",
     "code": "072",
-    "unofficial_names": "Mengeš",
+    "unofficial_names": [
+      "Mengeš"
+    ],
     "geo": {
       "latitude": 46.16591220000001,
       "longitude": 14.5719694,
@@ -4544,13 +4617,14 @@
       "cy": "Bwrdeistref Mengeš",
       "mk": "Општина Менгеш"
     },
-    "comments": null,
     "type": "municipality"
   },
   "073": {
     "name": "Metlika",
     "code": "073",
-    "unofficial_names": "Metlika",
+    "unofficial_names": [
+      "Metlika"
+    ],
     "geo": {
       "latitude": 45.6473994,
       "longitude": 15.3176752,
@@ -4611,13 +4685,14 @@
       "no": "Metlika",
       "cy": "Bwrdeistref Metlika"
     },
-    "comments": null,
     "type": "municipality"
   },
   "074": {
     "name": "Mežica",
     "code": "074",
-    "unofficial_names": "Mežica",
+    "unofficial_names": [
+      "Mežica"
+    ],
     "geo": {
       "latitude": 46.5214145,
       "longitude": 14.8523952,
@@ -4649,13 +4724,14 @@
       "ru": "Межица",
       "zh": "梅日察區"
     },
-    "comments": null,
     "type": "municipality"
   },
   "075": {
     "name": "Miren-Kostanjevica",
     "code": "075",
-    "unofficial_names": "Miren-Kostanjevica",
+    "unofficial_names": [
+      "Miren-Kostanjevica"
+    ],
     "geo": {
       "latitude": 45.84360290000001,
       "longitude": 13.6276647,
@@ -4713,13 +4789,14 @@
       "cy": "Bwrdeistref Miren–Kostanjevica",
       "mk": "Општина Мирен-Костањевица"
     },
-    "comments": null,
     "type": "municipality"
   },
   "076": {
     "name": "Mislinja",
     "code": "076",
-    "unofficial_names": "Mislinja",
+    "unofficial_names": [
+      "Mislinja"
+    ],
     "geo": {
       "latitude": 46.4439734,
       "longitude": 15.1985947,
@@ -4776,13 +4853,14 @@
       "no": "Mislinja",
       "cy": "Bwrdeistref Mislinja"
     },
-    "comments": null,
     "type": "municipality"
   },
   "077": {
     "name": "Moravce",
     "code": "077",
-    "unofficial_names": "Moravce",
+    "unofficial_names": [
+      "Moravce"
+    ],
     "geo": {
       "latitude": 46.1357218,
       "longitude": 14.7444352,
@@ -4839,13 +4917,14 @@
       "ca": "Municipi de Moravče",
       "cy": "Bwrdeistref Moravče"
     },
-    "comments": null,
     "type": "municipality"
   },
   "078": {
     "name": "Moravske Toplice",
     "code": "078",
-    "unofficial_names": "Moravske Toplice",
+    "unofficial_names": [
+      "Moravske Toplice"
+    ],
     "geo": {
       "latitude": 46.6856932,
       "longitude": 16.2224582,
@@ -4904,13 +4983,14 @@
       "cy": "Bwrdeistref Moravske Toplice",
       "mk": "Општина Моравске Топлице"
     },
-    "comments": null,
     "type": "municipality"
   },
   "079": {
     "name": "Mozirje",
     "code": "079",
-    "unofficial_names": "Mozirje",
+    "unofficial_names": [
+      "Mozirje"
+    ],
     "geo": {
       "latitude": 46.3392772,
       "longitude": 14.9599807,
@@ -4968,13 +5048,14 @@
       "cy": "Bwrdeistref Mozirje",
       "fa": "شهرداری موزیرجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "080": {
     "name": "Murska Sobota",
     "code": "080",
-    "unofficial_names": "Murska Sobota",
+    "unofficial_names": [
+      "Murska Sobota"
+    ],
     "geo": {
       "latitude": 46.6581381,
       "longitude": 16.1610293,
@@ -5034,13 +5115,14 @@
       "fa": "شهرداری شهر مورسکا سوبوتا",
       "mk": "Градска општина Мурска Собота"
     },
-    "comments": null,
     "type": "municipality"
   },
   "081": {
     "name": "Muta",
     "code": "081",
-    "unofficial_names": "Muta",
+    "unofficial_names": [
+      "Muta"
+    ],
     "geo": {
       "latitude": 46.6097366,
       "longitude": 15.1629994,
@@ -5099,13 +5181,14 @@
       "fa": "شهرداری موتا",
       "mk": "Општина Мута"
     },
-    "comments": null,
     "type": "municipality"
   },
   "082": {
     "name": "Naklo",
     "code": "082",
-    "unofficial_names": "Naklo",
+    "unofficial_names": [
+      "Naklo"
+    ],
     "geo": {
       "latitude": 46.2718663,
       "longitude": 14.3156932,
@@ -5163,13 +5246,14 @@
       "cy": "Bwrdeistref Naklo",
       "fa": "شهرداری ناکلو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "083": {
     "name": "Nazarje",
     "code": "083",
-    "unofficial_names": "Nazarje",
+    "unofficial_names": [
+      "Nazarje"
+    ],
     "geo": {
       "latitude": 46.3179494,
       "longitude": 14.9470385,
@@ -5227,13 +5311,14 @@
       "cy": "Bwrdeistref Nazarje",
       "fa": "شهرداری نازارجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "084": {
     "name": "Nova Gorica",
     "code": "084",
-    "unofficial_names": "Nova Gorica",
+    "unofficial_names": [
+      "Nova Gorica"
+    ],
     "geo": {
       "latitude": 45.9549755,
       "longitude": 13.6493044,
@@ -5291,13 +5376,14 @@
       "no": "Nova Gorica",
       "cy": "Bwrdeistref Nova Gorica City"
     },
-    "comments": null,
     "type": "municipality"
   },
   "085": {
     "name": "Novo mesto",
     "code": "085",
-    "unofficial_names": "Novo mesto",
+    "unofficial_names": [
+      "Novo mesto"
+    ],
     "geo": {
       "latitude": 45.80108240000001,
       "longitude": 15.1710089,
@@ -5356,13 +5442,14 @@
       "fa": "شهرداری شهر نوو مستو",
       "hy": "Նովո Մեստո համայնք"
     },
-    "comments": null,
     "type": "municipality"
   },
   "086": {
     "name": "Odranci",
     "code": "086",
-    "unofficial_names": "Odranci",
+    "unofficial_names": [
+      "Odranci"
+    ],
     "geo": {
       "latitude": 46.5847279,
       "longitude": 16.2762351,
@@ -5423,13 +5510,14 @@
       "fa": "شهرداری اودرانچی",
       "mk": "Општина Одранци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "087": {
     "name": "Ormož",
     "code": "087",
-    "unofficial_names": "Ormož",
+    "unofficial_names": [
+      "Ormož"
+    ],
     "geo": {
       "latitude": 46.4086282,
       "longitude": 16.1508154,
@@ -5491,13 +5579,14 @@
       "no": "Ormoz",
       "cy": "Bwrdeistref Ormož"
     },
-    "comments": null,
     "type": "municipality"
   },
   "088": {
     "name": "Osilnica",
     "code": "088",
-    "unofficial_names": "Osilnica",
+    "unofficial_names": [
+      "Osilnica"
+    ],
     "geo": {
       "latitude": 45.5291637,
       "longitude": 14.6984205,
@@ -5535,13 +5624,14 @@
       "id": "Munisipalitas Osilnica",
       "ru": "Осилница"
     },
-    "comments": null,
     "type": "municipality"
   },
   "089": {
     "name": "Pesnica",
     "code": "089",
-    "unofficial_names": "Pesnica",
+    "unofficial_names": [
+      "Pesnica"
+    ],
     "geo": {
       "latitude": 46.6373877,
       "longitude": 15.5543464,
@@ -5600,13 +5690,14 @@
       "cy": "Bwrdeistref Pesnica",
       "fa": "شهرداری پسنیکا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "090": {
     "name": "Piran/Pirano",
     "code": "090",
-    "unofficial_names": "Piran/Pirano",
+    "unofficial_names": [
+      "Piran/Pirano"
+    ],
     "geo": {
       "latitude": 45.528319,
       "longitude": 13.5682895,
@@ -5680,13 +5771,14 @@
       "cy": "Bwrdeistref Piran",
       "sq": "Piran"
     },
-    "comments": null,
     "type": "municipality"
   },
   "091": {
     "name": "Pivka",
     "code": "091",
-    "unofficial_names": "Pivka",
+    "unofficial_names": [
+      "Pivka"
+    ],
     "geo": {
       "latitude": 45.6825301,
       "longitude": 14.1960582,
@@ -5745,13 +5837,14 @@
       "fa": "شهرداری پیوکا",
       "mk": "Општина Пивка"
     },
-    "comments": null,
     "type": "municipality"
   },
   "092": {
     "name": "Podcetrtek",
     "code": "092",
-    "unofficial_names": "Podcetrtek",
+    "unofficial_names": [
+      "Podcetrtek"
+    ],
     "geo": {
       "latitude": 46.1559752,
       "longitude": 15.5975783,
@@ -5808,13 +5901,14 @@
       "ca": "Municipi de Podčetrtek",
       "cy": "Bwrdeistref Podčetrtek"
     },
-    "comments": null,
     "type": "municipality"
   },
   "093": {
     "name": "Podvelka",
     "code": "093",
-    "unofficial_names": "Podvelka",
+    "unofficial_names": [
+      "Podvelka"
+    ],
     "geo": {
       "latitude": 46.5903517,
       "longitude": 15.3310343,
@@ -5873,13 +5967,14 @@
       "fa": "شهرداری پودولکا",
       "mk": "Општина Подвелка"
     },
-    "comments": null,
     "type": "municipality"
   },
   "094": {
     "name": "Postojna",
     "code": "094",
-    "unofficial_names": "Postojna",
+    "unofficial_names": [
+      "Postojna"
+    ],
     "geo": {
       "latitude": 45.7749704,
       "longitude": 14.2133245,
@@ -5937,13 +6032,14 @@
       "cy": "Bwrdeistref Postojna",
       "mk": "Општина Постојна"
     },
-    "comments": null,
     "type": "municipality"
   },
   "095": {
     "name": "Preddvor",
     "code": "095",
-    "unofficial_names": "Preddvor",
+    "unofficial_names": [
+      "Preddvor"
+    ],
     "geo": {
       "latitude": 46.3017155,
       "longitude": 14.4216753,
@@ -6002,13 +6098,14 @@
       "cy": "Bwrdeistref Preddvor",
       "mk": "Општина Преддвор"
     },
-    "comments": null,
     "type": "municipality"
   },
   "096": {
     "name": "Ptuj",
     "code": "096",
-    "unofficial_names": "Ptuj",
+    "unofficial_names": [
+      "Ptuj"
+    ],
     "geo": {
       "latitude": 46.4199535,
       "longitude": 15.8696884,
@@ -6078,13 +6175,14 @@
       "no": "Ptuj",
       "hy": "Պտույ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "097": {
     "name": "Puconci",
     "code": "097",
-    "unofficial_names": "Puconci",
+    "unofficial_names": [
+      "Puconci"
+    ],
     "geo": {
       "latitude": 46.7046395,
       "longitude": 16.1572755,
@@ -6117,13 +6215,14 @@
       "nl": "Puconci",
       "zh": "普聰齊區"
     },
-    "comments": null,
     "type": "municipality"
   },
   "098": {
     "name": "Race-Fram",
     "code": "098",
-    "unofficial_names": "Race-Fram",
+    "unofficial_names": [
+      "Race-Fram"
+    ],
     "geo": {
       "latitude": 46.4552612,
       "longitude": 15.6389275,
@@ -6182,13 +6281,14 @@
       "fa": "شهرداری راشه فرام",
       "hu": "Rače–Fram község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "099": {
     "name": "Radece",
     "code": "099",
-    "unofficial_names": "Radece",
+    "unofficial_names": [
+      "Radece"
+    ],
     "geo": {
       "latitude": 46.0655001,
       "longitude": 15.1821191,
@@ -6246,13 +6346,14 @@
       "cy": "Bwrdeistref Radeče",
       "mk": "Општина Радече"
     },
-    "comments": null,
     "type": "municipality"
   },
   "100": {
     "name": "Radenci",
     "code": "100",
-    "unofficial_names": "Radenci",
+    "unofficial_names": [
+      "Radenci"
+    ],
     "geo": {
       "latitude": 46.6439196,
       "longitude": 16.0402676,
@@ -6289,13 +6390,14 @@
       "mk": "Општина Раденци",
       "ru": "Раденци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "101": {
     "name": "Radlje ob Dravi",
     "code": "101",
-    "unofficial_names": "Radlje ob Dravi",
+    "unofficial_names": [
+      "Radlje ob Dravi"
+    ],
     "geo": {
       "latitude": 46.614358,
       "longitude": 15.2255472,
@@ -6353,13 +6455,14 @@
       "cy": "Bwrdeistref Radlje ob Dravi",
       "mk": "Општина Радље на Драва"
     },
-    "comments": null,
     "type": "municipality"
   },
   "102": {
     "name": "Radovljica",
     "code": "102",
-    "unofficial_names": "Radovljica",
+    "unofficial_names": [
+      "Radovljica"
+    ],
     "geo": {
       "latitude": 46.3437361,
       "longitude": 14.1740042,
@@ -6420,13 +6523,14 @@
       "cy": "Bwrdeistref Radovljica",
       "mk": "Општина Радовљица"
     },
-    "comments": null,
     "type": "municipality"
   },
   "103": {
     "name": "Ravne na Koroškem",
     "code": "103",
-    "unofficial_names": "Ravne na Koroškem",
+    "unofficial_names": [
+      "Ravne na Koroškem"
+    ],
     "geo": {
       "latitude": 46.5448323,
       "longitude": 14.9660445,
@@ -6488,13 +6592,14 @@
       "cy": "Bwrdeistref Ravne na Koroškem",
       "mk": "Општина Равне на Корушка"
     },
-    "comments": null,
     "type": "municipality"
   },
   "104": {
     "name": "Ribnica",
     "code": "104",
-    "unofficial_names": "Ribnica",
+    "unofficial_names": [
+      "Ribnica"
+    ],
     "geo": {
       "latitude": 45.7400303,
       "longitude": 14.7265782,
@@ -6555,13 +6660,14 @@
       "fa": "شهرداری ریبنیکا",
       "hu": "Ribnica község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "105": {
     "name": "Rogašovci",
     "code": "105",
-    "unofficial_names": "Rogašovci",
+    "unofficial_names": [
+      "Rogašovci"
+    ],
     "geo": {
       "latitude": 46.8055785,
       "longitude": 16.0345237,
@@ -6620,13 +6726,14 @@
       "cy": "Bwrdeistref Rogašovci",
       "mk": "Општина Рогашовци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "106": {
     "name": "Rogaška Slatina",
     "code": "106",
-    "unofficial_names": "Rogaška Slatina",
+    "unofficial_names": [
+      "Rogaška Slatina"
+    ],
     "geo": {
       "latitude": 46.2331941,
       "longitude": 15.6378802,
@@ -6688,13 +6795,14 @@
       "no": "Rogaska Slatina",
       "cy": "Bwrdeistref Rogaška Slatina"
     },
-    "comments": null,
     "type": "municipality"
   },
   "107": {
     "name": "Rogatec",
     "code": "107",
-    "unofficial_names": "Rogatec",
+    "unofficial_names": [
+      "Rogatec"
+    ],
     "geo": {
       "latitude": 46.2258891,
       "longitude": 15.7000313,
@@ -6752,13 +6860,14 @@
       "cy": "Bwrdeistref Rogatec",
       "fa": "شهرداری روگاتک"
     },
-    "comments": null,
     "type": "municipality"
   },
   "108": {
     "name": "Ruše",
     "code": "108",
-    "unofficial_names": "Ruše",
+    "unofficial_names": [
+      "Ruše"
+    ],
     "geo": {
       "latitude": 46.5399962,
       "longitude": 15.5073987,
@@ -6816,13 +6925,14 @@
       "hu": "Ruše község",
       "mk": "Општина Руше"
     },
-    "comments": null,
     "type": "municipality"
   },
   "109": {
     "name": "Semic",
     "code": "109",
-    "unofficial_names": "Semic",
+    "unofficial_names": [
+      "Semic"
+    ],
     "geo": {
       "latitude": 45.6520534,
       "longitude": 15.1820701,
@@ -6881,13 +6991,14 @@
       "fa": "شهرداری سمیچ",
       "hu": "Semič község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "110": {
     "name": "Sevnica",
     "code": "110",
-    "unofficial_names": "Sevnica",
+    "unofficial_names": [
+      "Sevnica"
+    ],
     "geo": {
       "latitude": 46.0129508,
       "longitude": 15.2979868,
@@ -6944,13 +7055,14 @@
       "cy": "Bwrdeistref Sevnica",
       "mk": "Општина Севница"
     },
-    "comments": null,
     "type": "municipality"
   },
   "111": {
     "name": "Sežana",
     "code": "111",
-    "unofficial_names": "Sežana",
+    "unofficial_names": [
+      "Sežana"
+    ],
     "geo": {
       "latitude": 45.7093519,
       "longitude": 13.8738185,
@@ -7009,13 +7121,14 @@
       "hy": "Սեժանա",
       "mk": "Општина Сежана"
     },
-    "comments": null,
     "type": "municipality"
   },
   "112": {
     "name": "Slovenj Gradec",
     "code": "112",
-    "unofficial_names": "Slovenj Gradec",
+    "unofficial_names": [
+      "Slovenj Gradec"
+    ],
     "geo": {
       "latitude": 46.5075851,
       "longitude": 15.0768162,
@@ -7071,13 +7184,14 @@
       "cy": "Bwrdeistref Slovenj Gradec City",
       "fa": "شهرداری شهر اسلوونی گرادچ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "113": {
     "name": "Slovenska Bistrica",
     "code": "113",
-    "unofficial_names": "Slovenska Bistrica",
+    "unofficial_names": [
+      "Slovenska Bistrica"
+    ],
     "geo": {
       "latitude": 46.3919813,
       "longitude": 15.5727868,
@@ -7141,13 +7255,14 @@
       "cy": "Bwrdeistref Slovenska Bistrica",
       "sq": "Slovenska Bistrica"
     },
-    "comments": null,
     "type": "municipality"
   },
   "114": {
     "name": "Slovenske Konjice",
     "code": "114",
-    "unofficial_names": "Slovenske Konjice",
+    "unofficial_names": [
+      "Slovenske Konjice"
+    ],
     "geo": {
       "latitude": 46.3369191,
       "longitude": 15.4214708,
@@ -7209,13 +7324,14 @@
       "cy": "Bwrdeistref Slovenske Konjice",
       "ko": "슬로벤스케코니체"
     },
-    "comments": null,
     "type": "municipality"
   },
   "115": {
     "name": "Starše",
     "code": "115",
-    "unofficial_names": "Starše",
+    "unofficial_names": [
+      "Starše"
+    ],
     "geo": {
       "latitude": 46.4674331,
       "longitude": 15.7640547,
@@ -7273,13 +7389,14 @@
       "cy": "Bwrdeistref Starše",
       "hu": "Starše község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "116": {
     "name": "Sveti Jurij",
     "code": "116",
-    "unofficial_names": "Sveti Jurij",
+    "unofficial_names": [
+      "Sveti Jurij"
+    ],
     "geo": {
       "latitude": 46.8016061,
       "longitude": 16.0368654,
@@ -7336,13 +7453,14 @@
       "cy": "Bwrdeistref Sveti Jurij ob Ščavnici",
       "mk": "Општина Свети Јуриј на Шчавница"
     },
-    "comments": null,
     "type": "municipality"
   },
   "117": {
     "name": "Šencur",
     "code": "117",
-    "unofficial_names": "Šencur",
+    "unofficial_names": [
+      "Šencur"
+    ],
     "geo": {
       "latitude": 46.2433699,
       "longitude": 14.4192223,
@@ -7400,13 +7518,14 @@
       "cy": "Bwrdeistref Šenčur",
       "fa": "شهرداری شنیور"
     },
-    "comments": null,
     "type": "municipality"
   },
   "118": {
     "name": "Šentilj",
     "code": "118",
-    "unofficial_names": "Šentilj",
+    "unofficial_names": [
+      "Šentilj"
+    ],
     "geo": {
       "latitude": 46.6862839,
       "longitude": 15.7103566,
@@ -7465,13 +7584,14 @@
       "cy": "Bwrdeistref Šentilj",
       "mk": "Општина Шентиљ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "119": {
     "name": "Šentjernej",
     "code": "119",
-    "unofficial_names": "Šentjernej",
+    "unofficial_names": [
+      "Šentjernej"
+    ],
     "geo": {
       "latitude": 45.843413,
       "longitude": 15.3378312,
@@ -7528,13 +7648,14 @@
       "ca": "Municipi de Šentjernej",
       "cy": "Bwrdeistref Šentjernej"
     },
-    "comments": null,
     "type": "municipality"
   },
   "120": {
     "name": "Šentjur pri Celju",
     "code": "120",
-    "unofficial_names": "Šentjur pri Celju",
+    "unofficial_names": [
+      "Šentjur pri Celju"
+    ],
     "geo": {
       "latitude": 46.1425286,
       "longitude": 15.4473443,
@@ -7592,13 +7713,14 @@
       "hu": "Šentjur község",
       "mk": "Општина Шентјур"
     },
-    "comments": null,
     "type": "municipality"
   },
   "121": {
     "name": "Škocjan",
     "code": "121",
-    "unofficial_names": "Škocjan",
+    "unofficial_names": [
+      "Škocjan"
+    ],
     "geo": {
       "latitude": 45.9072257,
       "longitude": 15.292258,
@@ -7655,13 +7777,14 @@
       "ca": "Municipi de Škocjan",
       "cy": "Bwrdeistref Škocjan"
     },
-    "comments": null,
     "type": "municipality"
   },
   "122": {
     "name": "Škofja Loka",
     "code": "122",
-    "unofficial_names": "Škofja Loka",
+    "unofficial_names": [
+      "Škofja Loka"
+    ],
     "geo": {
       "latitude": 46.1671294,
       "longitude": 14.3058337,
@@ -7719,13 +7842,14 @@
       "cy": "Bwrdeistref Škofja Loka",
       "mk": "Општина Шкофја Лока"
     },
-    "comments": null,
     "type": "municipality"
   },
   "123": {
     "name": "Škofljica",
     "code": "123",
-    "unofficial_names": "Škofljica",
+    "unofficial_names": [
+      "Škofljica"
+    ],
     "geo": {
       "latitude": 45.98596510000001,
       "longitude": 14.5721903,
@@ -7781,13 +7905,14 @@
       "no": "Skofljica kommune",
       "ca": "Municipi de Škofljica"
     },
-    "comments": null,
     "type": "municipality"
   },
   "124": {
     "name": "Šmarje pri Jelšah",
     "code": "124",
-    "unofficial_names": "Šmarje pri Jelšah",
+    "unofficial_names": [
+      "Šmarje pri Jelšah"
+    ],
     "geo": {
       "latitude": 46.2287025,
       "longitude": 15.5190353,
@@ -7845,13 +7970,14 @@
       "ca": "Municipi de Šmarje pri Jelšah",
       "cy": "Bwrdeistref Šmarje pri Jelšah"
     },
-    "comments": null,
     "type": "municipality"
   },
   "125": {
     "name": "Šmartno ob Paki",
     "code": "125",
-    "unofficial_names": "Šmartno ob Paki",
+    "unofficial_names": [
+      "Šmartno ob Paki"
+    ],
     "geo": {
       "latitude": 46.32903719999999,
       "longitude": 15.0333937,
@@ -7909,13 +8035,14 @@
       "cy": "Bwrdeistref Šmartno ob Paki",
       "hy": "Շմարտնո օբ Պակի համայնք"
     },
-    "comments": null,
     "type": "municipality"
   },
   "126": {
     "name": "Šoštanj",
     "code": "126",
-    "unofficial_names": "Šoštanj",
+    "unofficial_names": [
+      "Šoštanj"
+    ],
     "geo": {
       "latitude": 46.3782836,
       "longitude": 15.0461378,
@@ -7973,13 +8100,14 @@
       "ca": "Municipi de Šoštanj",
       "cy": "Bwrdeistref Šoštanj"
     },
-    "comments": null,
     "type": "municipality"
   },
   "127": {
     "name": "Štore",
     "code": "127",
-    "unofficial_names": "Štore",
+    "unofficial_names": [
+      "Štore"
+    ],
     "geo": {
       "latitude": 46.2205619,
       "longitude": 15.3154297,
@@ -8036,13 +8164,14 @@
       "no": "Store kommune",
       "cy": "Bwrdeistref Štore"
     },
-    "comments": null,
     "type": "municipality"
   },
   "128": {
     "name": "Tolmin",
     "code": "128",
-    "unofficial_names": "Tolmin",
+    "unofficial_names": [
+      "Tolmin"
+    ],
     "geo": {
       "latitude": 46.1857188,
       "longitude": 13.7319838,
@@ -8103,13 +8232,14 @@
       "fa": "شهرداری تولمین",
       "mk": "Општина Толмин"
     },
-    "comments": null,
     "type": "municipality"
   },
   "129": {
     "name": "Trbovlje",
     "code": "129",
-    "unofficial_names": "Trbovlje",
+    "unofficial_names": [
+      "Trbovlje"
+    ],
     "geo": {
       "latitude": 46.1503563,
       "longitude": 15.0453138,
@@ -8156,13 +8286,14 @@
       "cy": "Bwrdeistref Trbovlje",
       "hy": "Տրբովլե համայնք"
     },
-    "comments": null,
     "type": "municipality"
   },
   "130": {
     "name": "Trebnje",
     "code": "130",
-    "unofficial_names": "Trebnje",
+    "unofficial_names": [
+      "Trebnje"
+    ],
     "geo": {
       "latitude": 45.9081708,
       "longitude": 15.0125985,
@@ -8220,13 +8351,14 @@
       "fa": "شهرداری تربنجه",
       "hu": "Trebnje község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "131": {
     "name": "Tržic",
     "code": "131",
-    "unofficial_names": "Tržic",
+    "unofficial_names": [
+      "Tržic"
+    ],
     "geo": {
       "latitude": 46.36215170000001,
       "longitude": 14.3083372,
@@ -8286,13 +8418,14 @@
       "cy": "Bwrdeistref Tržič",
       "mk": "Општина Тржич"
     },
-    "comments": null,
     "type": "municipality"
   },
   "132": {
     "name": "Turnišce",
     "code": "132",
-    "unofficial_names": "Turnišce",
+    "unofficial_names": [
+      "Turnišce"
+    ],
     "geo": {
       "latitude": 46.625456,
       "longitude": 16.3144961,
@@ -8330,13 +8463,14 @@
       "mk": "Општина Турнишче",
       "ru": "Турнишче"
     },
-    "comments": null,
     "type": "municipality"
   },
   "133": {
     "name": "Velenje",
     "code": "133",
-    "unofficial_names": "Velenje",
+    "unofficial_names": [
+      "Velenje"
+    ],
     "geo": {
       "latitude": 46.3622743,
       "longitude": 15.1106582,
@@ -8368,13 +8502,14 @@
       "id": "Munisipalitas Velenje",
       "ja": "ベレニエ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "134": {
     "name": "Velike Lašce",
     "code": "134",
-    "unofficial_names": "Velike Lašce",
+    "unofficial_names": [
+      "Velike Lašce"
+    ],
     "geo": {
       "latitude": 45.8336591,
       "longitude": 14.6362363,
@@ -8432,13 +8567,14 @@
       "hr": "Općina Velike Lašče",
       "mk": "Општина Велике Лашче"
     },
-    "comments": null,
     "type": "municipality"
   },
   "135": {
     "name": "Videm",
     "code": "135",
-    "unofficial_names": "Videm",
+    "unofficial_names": [
+      "Videm"
+    ],
     "geo": {
       "latitude": 45.8490426,
       "longitude": 14.6947037,
@@ -8475,13 +8611,14 @@
       "hu": "Videm község",
       "id": "Munisipalitas Videm"
     },
-    "comments": null,
     "type": "municipality"
   },
   "136": {
     "name": "Vipava",
     "code": "136",
-    "unofficial_names": "Vipava",
+    "unofficial_names": [
+      "Vipava"
+    ],
     "geo": {
       "latitude": 45.8455744,
       "longitude": 13.9625431,
@@ -8541,13 +8678,14 @@
       "fa": "شهرداری ویپاوا",
       "mk": "Општина Випава"
     },
-    "comments": null,
     "type": "municipality"
   },
   "137": {
     "name": "Vitanje",
     "code": "137",
-    "unofficial_names": "Vitanje",
+    "unofficial_names": [
+      "Vitanje"
+    ],
     "geo": {
       "latitude": 46.3815074,
       "longitude": 15.2950333,
@@ -8606,13 +8744,14 @@
       "ca": "Municipi de Vitanje",
       "fa": "شهرداری ویتانجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "138": {
     "name": "Vodice",
     "code": "138",
-    "unofficial_names": "Vodice",
+    "unofficial_names": [
+      "Vodice"
+    ],
     "geo": {
       "latitude": 46.1896643,
       "longitude": 14.493854,
@@ -8671,13 +8810,14 @@
       "ca": "Municipi de Vodice",
       "cy": "Bwrdeistref Vodice"
     },
-    "comments": null,
     "type": "municipality"
   },
   "139": {
     "name": "Vojnik",
     "code": "139",
-    "unofficial_names": "Vojnik",
+    "unofficial_names": [
+      "Vojnik"
+    ],
     "geo": {
       "latitude": 46.2920581,
       "longitude": 15.302058,
@@ -8735,13 +8875,14 @@
       "cy": "Bwrdeistref Vojnik",
       "hu": "Vojnik község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "140": {
     "name": "Vrhnika",
     "code": "140",
-    "unofficial_names": "Vrhnika",
+    "unofficial_names": [
+      "Vrhnika"
+    ],
     "geo": {
       "latitude": 45.966583,
       "longitude": 14.2973873,
@@ -8802,13 +8943,14 @@
       "fa": "شهرداری ورنیکا",
       "hu": "Vrhnika község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "141": {
     "name": "Vuzenica",
     "code": "141",
-    "unofficial_names": "Vuzenica",
+    "unofficial_names": [
+      "Vuzenica"
+    ],
     "geo": {
       "latitude": 46.5980836,
       "longitude": 15.1657237,
@@ -8866,13 +9008,14 @@
       "cy": "Bwrdeistref Vuzenica",
       "fa": "ووزنیکا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "142": {
     "name": "Zagorje ob Savi",
     "code": "142",
-    "unofficial_names": "Zagorje ob Savi",
+    "unofficial_names": [
+      "Zagorje ob Savi"
+    ],
     "geo": {
       "latitude": 46.1345186,
       "longitude": 14.9945975,
@@ -8905,13 +9048,14 @@
       "pt": "Zagorje ob Savi",
       "sv": "Zagorje ob Savi"
     },
-    "comments": null,
     "type": "municipality"
   },
   "143": {
     "name": "Zavrc",
     "code": "143",
-    "unofficial_names": "Zavrc",
+    "unofficial_names": [
+      "Zavrc"
+    ],
     "geo": {
       "latitude": 46.3856393,
       "longitude": 16.0470768,
@@ -8968,13 +9112,14 @@
       "ca": "Municipi de Zavrč",
       "cy": "Bwrdeistref Zavrč"
     },
-    "comments": null,
     "type": "municipality"
   },
   "144": {
     "name": "Zrece",
     "code": "144",
-    "unofficial_names": "Zrece",
+    "unofficial_names": [
+      "Zrece"
+    ],
     "geo": {
       "latitude": 46.3696591,
       "longitude": 15.3918526,
@@ -9031,13 +9176,14 @@
       "cy": "Bwrdeistref Zreče",
       "hu": "Zreče község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "146": {
     "name": "Železniki",
     "code": "146",
-    "unofficial_names": "Železniki",
+    "unofficial_names": [
+      "Železniki"
+    ],
     "geo": {
       "latitude": 46.22544,
       "longitude": 14.1692478,
@@ -9095,13 +9241,14 @@
       "cy": "Bwrdeistref Železniki",
       "mk": "Општина Железники"
     },
-    "comments": null,
     "type": "municipality"
   },
   "147": {
     "name": "Žiri",
     "code": "147",
-    "unofficial_names": "Žiri",
+    "unofficial_names": [
+      "Žiri"
+    ],
     "geo": {
       "latitude": 46.0513094,
       "longitude": 14.111887,
@@ -9142,13 +9289,14 @@
       "id": "Munisipalitas Žiri",
       "mk": "Општина Жири"
     },
-    "comments": null,
     "type": "municipality"
   },
   "148": {
     "name": "Benedikt",
     "code": "148",
-    "unofficial_names": "Benedikt",
+    "unofficial_names": [
+      "Benedikt"
+    ],
     "geo": {
       "latitude": 46.6075732,
       "longitude": 15.8896942,
@@ -9216,13 +9364,14 @@
       "no": "Benedikt",
       "fa": "شهرداری بندیکت"
     },
-    "comments": null,
     "type": "municipality"
   },
   "149": {
     "name": "Bistrica ob Sotli",
     "code": "149",
-    "unofficial_names": "Bistrica ob Sotli",
+    "unofficial_names": [
+      "Bistrica ob Sotli"
+    ],
     "geo": {
       "latitude": 46.0565579,
       "longitude": 15.6625947,
@@ -9280,13 +9429,14 @@
       "cy": "Bwrdeistref Bistrica ob Sotli",
       "mk": "Општина Бистрица на Сутла"
     },
-    "comments": null,
     "type": "municipality"
   },
   "150": {
     "name": "Bloke",
     "code": "150",
-    "unofficial_names": "Bloke",
+    "unofficial_names": [
+      "Bloke"
+    ],
     "geo": {
       "latitude": 45.791555,
       "longitude": 14.5067013,
@@ -9347,13 +9497,14 @@
       "fa": "شهرداری بلوک",
       "mk": "Општина Блоке"
     },
-    "comments": null,
     "type": "municipality"
   },
   "151": {
     "name": "Braslovce",
     "code": "151",
-    "unofficial_names": "Braslovce",
+    "unofficial_names": [
+      "Braslovce"
+    ],
     "geo": {
       "latitude": 46.2880914,
       "longitude": 15.0397466,
@@ -9410,13 +9561,14 @@
       "ca": "Municipi de Braslovče",
       "cy": "Bwrdeistref Braslovče"
     },
-    "comments": null,
     "type": "municipality"
   },
   "152": {
     "name": "Cankova",
     "code": "152",
-    "unofficial_names": "Cankova",
+    "unofficial_names": [
+      "Cankova"
+    ],
     "geo": {
       "latitude": 46.71823699999999,
       "longitude": 16.0197222,
@@ -9476,13 +9628,14 @@
       "hu": "Vashidegkút község",
       "mk": "Општина Цанкова"
     },
-    "comments": null,
     "type": "municipality"
   },
   "153": {
     "name": "Cerkvenjak",
     "code": "153",
-    "unofficial_names": "Cerkvenjak",
+    "unofficial_names": [
+      "Cerkvenjak"
+    ],
     "geo": {
       "latitude": 46.5670711,
       "longitude": 15.9429753,
@@ -9539,13 +9692,14 @@
       "ca": "Municipi de Cerkvenjak",
       "cy": "Bwrdeistref Cerkvenjak"
     },
-    "comments": null,
     "type": "municipality"
   },
   "154": {
     "name": "Dobje",
     "code": "154",
-    "unofficial_names": "Dobje",
+    "unofficial_names": [
+      "Dobje"
+    ],
     "geo": {
       "latitude": 46.134898,
       "longitude": 15.3963025,
@@ -9605,13 +9759,14 @@
       "cy": "Bwrdeistref Dobje",
       "fa": "شهرداری دوبجه"
     },
-    "comments": null,
     "type": "municipality"
   },
   "155": {
     "name": "Dobrna",
     "code": "155",
-    "unofficial_names": "Dobrna",
+    "unofficial_names": [
+      "Dobrna"
+    ],
     "geo": {
       "latitude": 46.3356141,
       "longitude": 15.2259732,
@@ -9669,13 +9824,14 @@
       "cy": "Bwrdeistref Dobrna",
       "fa": "شهرداری دوبرنا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "156": {
     "name": "Dobrovnik/Dobronak",
     "code": "156",
-    "unofficial_names": "Dobrovnik/Dobronak",
+    "unofficial_names": [
+      "Dobrovnik/Dobronak"
+    ],
     "geo": {
       "latitude": 46.6516758,
       "longitude": 16.3429113,
@@ -9711,13 +9867,14 @@
       "mk": "Општина Добровник",
       "ru": "Добровник"
     },
-    "comments": null,
     "type": "municipality"
   },
   "157": {
     "name": "Dolenjske Toplice",
     "code": "157",
-    "unofficial_names": "Dolenjske Toplice",
+    "unofficial_names": [
+      "Dolenjske Toplice"
+    ],
     "geo": {
       "latitude": 45.7558584,
       "longitude": 15.0592333,
@@ -9774,13 +9931,14 @@
       "cy": "Bwrdeistref Dolenjske Toplice",
       "hu": "Dolenjske Toplice község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "158": {
     "name": "Grad",
     "code": "158",
-    "unofficial_names": "Grad",
+    "unofficial_names": [
+      "Grad"
+    ],
     "geo": {
       "latitude": 46.801689,
       "longitude": 16.0924382,
@@ -9841,13 +9999,14 @@
       "fa": "شهرداری گراد",
       "mk": "Општина Град"
     },
-    "comments": null,
     "type": "municipality"
   },
   "159": {
     "name": "Hajdina",
     "code": "159",
-    "unofficial_names": "Hajdina",
+    "unofficial_names": [
+      "Hajdina"
+    ],
     "geo": {
       "latitude": 46.4185014,
       "longitude": 15.8244722,
@@ -9907,13 +10066,14 @@
       "fa": "شهرداری هاجدینا",
       "hu": "Hajdina község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "160": {
     "name": "Hoce-Slivnica",
     "code": "160",
-    "unofficial_names": "Hoce-Slivnica",
+    "unofficial_names": [
+      "Hoce-Slivnica"
+    ],
     "geo": {
       "latitude": 46.477858,
       "longitude": 15.6476005,
@@ -9971,13 +10131,14 @@
       "cy": "Bwrdeistref Hoče–Slivnica",
       "hu": "Hoče - Slivnica község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "161": {
     "name": "Hodoš/Hodos",
     "code": "161",
-    "unofficial_names": "Hodoš/Hodos",
+    "unofficial_names": [
+      "Hodoš/Hodos"
+    ],
     "geo": {
       "latitude": 46.8314134,
       "longitude": 16.321068,
@@ -10037,13 +10198,14 @@
       "fa": "شهرداری هودوش",
       "mk": "Општина Ходош"
     },
-    "comments": null,
     "type": "municipality"
   },
   "162": {
     "name": "Horjul",
     "code": "162",
-    "unofficial_names": "Horjul",
+    "unofficial_names": [
+      "Horjul"
+    ],
     "geo": {
       "latitude": 46.02253779999999,
       "longitude": 14.2986269,
@@ -10103,13 +10265,14 @@
       "fa": "شهرداری هورجول",
       "hu": "Horjul község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "163": {
     "name": "Jezersko",
     "code": "163",
-    "unofficial_names": "Jezersko",
+    "unofficial_names": [
+      "Jezersko"
+    ],
     "geo": {
       "latitude": 46.3914249,
       "longitude": 14.4623209,
@@ -10169,13 +10332,14 @@
       "cy": "Bwrdeistref Jezersko",
       "mk": "Општина Језерско"
     },
-    "comments": null,
     "type": "municipality"
   },
   "164": {
     "name": "Komenda",
     "code": "164",
-    "unofficial_names": "Komenda",
+    "unofficial_names": [
+      "Komenda"
+    ],
     "geo": {
       "latitude": 46.2052815,
       "longitude": 14.5391653,
@@ -10233,13 +10397,14 @@
       "cy": "Bwrdeistref Komenda",
       "fa": "شهرداری کامندا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "165": {
     "name": "Kostel",
     "code": "165",
-    "unofficial_names": "Kostel",
+    "unofficial_names": [
+      "Kostel"
+    ],
     "geo": {
       "latitude": 45.5083472,
       "longitude": 14.9087946,
@@ -10299,13 +10464,14 @@
       "fa": "شهرداری کوستل",
       "hu": "Kostel község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "166": {
     "name": "Križevci",
     "code": "166",
-    "unofficial_names": "Križevci",
+    "unofficial_names": [
+      "Križevci"
+    ],
     "geo": {
       "latitude": 46.7923997,
       "longitude": 16.2348194,
@@ -10364,13 +10530,14 @@
       "cy": "Bwrdeistref Križevci",
       "mk": "Општина Крижевци"
     },
-    "comments": null,
     "type": "municipality"
   },
   "167": {
     "name": "Lovrenc na Pohorju",
     "code": "167",
-    "unofficial_names": "Lovrenc na Pohorju",
+    "unofficial_names": [
+      "Lovrenc na Pohorju"
+    ],
     "geo": {
       "latitude": 46.54027749999999,
       "longitude": 15.3884817,
@@ -10406,13 +10573,14 @@
       "id": "Munisipalitas Lovrenc na Pohorju",
       "ru": "Ловренс на Похорю"
     },
-    "comments": null,
     "type": "municipality"
   },
   "168": {
     "name": "Markovci",
     "code": "168",
-    "unofficial_names": "Markovci",
+    "unofficial_names": [
+      "Markovci"
+    ],
     "geo": {
       "latitude": 46.8428456,
       "longitude": 16.2349557,
@@ -10471,13 +10639,14 @@
       "fa": "شهرداری مارکوفچی",
       "hu": "Markovci község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "169": {
     "name": "Miklavž na Dravskem polju",
     "code": "169",
-    "unofficial_names": "Miklavž na Dravskem polju",
+    "unofficial_names": [
+      "Miklavž na Dravskem polju"
+    ],
     "geo": {
       "latitude": 46.5082628,
       "longitude": 15.6952065,
@@ -10513,13 +10682,14 @@
       "mk": "Општина Миклавж на Дравско Поле",
       "ru": "Миклавж на Дравскем полю"
     },
-    "comments": null,
     "type": "municipality"
   },
   "170": {
     "name": "Mirna Pec",
     "code": "170",
-    "unofficial_names": "Mirna Pec",
+    "unofficial_names": [
+      "Mirna Pec"
+    ],
     "geo": {
       "latitude": 45.8594478,
       "longitude": 15.0830457,
@@ -10576,13 +10746,14 @@
       "cy": "Bwrdeistref Mirna Peč",
       "hu": "Mirna Peč község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "171": {
     "name": "Oplotnica",
     "code": "171",
-    "unofficial_names": "Oplotnica",
+    "unofficial_names": [
+      "Oplotnica"
+    ],
     "geo": {
       "latitude": 46.387163,
       "longitude": 15.4458131,
@@ -10639,13 +10810,14 @@
       "fa": "شهرداری اوپلوتنیکا",
       "hu": "Oplotnica község"
     },
-    "comments": null,
     "type": "municipality"
   },
   "172": {
     "name": "Podlehnik",
     "code": "172",
-    "unofficial_names": "Podlehnik",
+    "unofficial_names": [
+      "Podlehnik"
+    ],
     "geo": {
       "latitude": 46.3358974,
       "longitude": 15.8787245,
@@ -10703,13 +10875,14 @@
       "cy": "Bwrdeistref Podlehnik",
       "fa": "شهرداری پودلنیک"
     },
-    "comments": null,
     "type": "municipality"
   },
   "173": {
     "name": "Polzela",
     "code": "173",
-    "unofficial_names": "Polzela",
+    "unofficial_names": [
+      "Polzela"
+    ],
     "geo": {
       "latitude": 46.280897,
       "longitude": 15.0737321,
@@ -10766,13 +10939,14 @@
       "ca": "Municipi de Polzela",
       "cy": "Bwrdeistref Polzela"
     },
-    "comments": null,
     "type": "municipality"
   },
   "174": {
     "name": "Prebold",
     "code": "174",
-    "unofficial_names": "Prebold",
+    "unofficial_names": [
+      "Prebold"
+    ],
     "geo": {
       "latitude": 46.2365972,
       "longitude": 15.091648,
@@ -10829,13 +11003,14 @@
       "no": "Prebold Kommune",
       "cy": "Bwrdeistref Prebold"
     },
-    "comments": null,
     "type": "municipality"
   },
   "175": {
     "name": "Prevalje",
     "code": "175",
-    "unofficial_names": "Prevalje",
+    "unofficial_names": [
+      "Prevalje"
+    ],
     "geo": {
       "latitude": 46.54687879999999,
       "longitude": 14.9197479,
@@ -10895,13 +11070,14 @@
       "cy": "Bwrdeistref Prevalje",
       "mk": "Општина Преваље"
     },
-    "comments": null,
     "type": "municipality"
   },
   "176": {
     "name": "Razkrižje",
     "code": "176",
-    "unofficial_names": "Razkrižje",
+    "unofficial_names": [
+      "Razkrižje"
+    ],
     "geo": {
       "latitude": 46.5246331,
       "longitude": 16.27627,
@@ -10960,13 +11136,14 @@
       "cy": "Bwrdeistref Razkrižje",
       "mk": "Општина Разкрижје"
     },
-    "comments": null,
     "type": "municipality"
   },
   "177": {
     "name": "Ribnica na Pohorju",
     "code": "177",
-    "unofficial_names": "Ribnica na Pohorju",
+    "unofficial_names": [
+      "Ribnica na Pohorju"
+    ],
     "geo": {
       "latitude": 46.5356403,
       "longitude": 15.2675136,
@@ -11024,13 +11201,14 @@
       "cy": "Bwrdeistref Ribnica na Pohorju",
       "mk": "Општина Рибница на Похорје"
     },
-    "comments": null,
     "type": "municipality"
   },
   "178": {
     "name": "Selnica ob Dravi",
     "code": "178",
-    "unofficial_names": "Selnica ob Dravi",
+    "unofficial_names": [
+      "Selnica ob Dravi"
+    ],
     "geo": {
       "latitude": 46.5513918,
       "longitude": 15.492941,
@@ -11088,13 +11266,14 @@
       "cy": "Bwrdeistref Selnica ob Dravi",
       "mk": "Општина Селница на Драва"
     },
-    "comments": null,
     "type": "municipality"
   },
   "179": {
     "name": "Sodražica",
     "code": "179",
-    "unofficial_names": "Sodražica",
+    "unofficial_names": [
+      "Sodražica"
+    ],
     "geo": {
       "latitude": 45.762125,
       "longitude": 14.6362158,
@@ -11152,13 +11331,14 @@
       "cy": "Bwrdeistref Sodražica",
       "fa": "شهرداری سودراچیکا"
     },
-    "comments": null,
     "type": "municipality"
   },
   "180": {
     "name": "Solcava",
     "code": "180",
-    "unofficial_names": "Solcava",
+    "unofficial_names": [
+      "Solcava"
+    ],
     "geo": {
       "latitude": 46.4200935,
       "longitude": 14.6917325,
@@ -11192,20 +11372,17 @@
       "ru": "Солчава",
       "zh": "索爾察瓦區"
     },
-    "comments": null,
     "type": "municipality"
   },
   "181": {
     "name": "Sveta Ana",
     "code": "181",
-    "unofficial_names": "Sveta Ana",
+    "unofficial_names": [
+      "Sveta Ana"
+    ],
     "geo": {
       "latitude": 46.65,
-      "longitude": 15.845278,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 15.845278
     },
     "translations": {
       "en": "Sveta Ana",
@@ -11255,13 +11432,14 @@
       "cy": "Bwrdeistref Sveta Ana",
       "ko": "스베타아나"
     },
-    "comments": null,
     "type": "municipality"
   },
   "182": {
     "name": "Sveti Andraž v Slovenskih goricah",
     "code": "182",
-    "unofficial_names": "Sveti Andraž v Slovenskih goricah",
+    "unofficial_names": [
+      "Sveti Andraž v Slovenskih goricah"
+    ],
     "geo": {
       "latitude": 46.5189747,
       "longitude": 15.9498262,
@@ -11320,13 +11498,14 @@
       "es": "Sveti Andraž v Slovenskih Goricah",
       "ko": "스베티안드라시우슬로벤스키흐고리차흐"
     },
-    "comments": null,
     "type": "municipality"
   },
   "183": {
     "name": "Šempeter-Vrtojba",
     "code": "183",
-    "unofficial_names": "Šempeter-Vrtojba",
+    "unofficial_names": [
+      "Šempeter-Vrtojba"
+    ],
     "geo": {
       "latitude": 45.9143357,
       "longitude": 13.6427256,
@@ -11386,13 +11565,14 @@
       "cy": "Bwrdeistref Šempeter–Vrtojba",
       "mk": "Општина Шемпетер-Вртојба"
     },
-    "comments": null,
     "type": "municipality"
   },
   "184": {
     "name": "Tabor",
     "code": "184",
-    "unofficial_names": "Tabor",
+    "unofficial_names": [
+      "Tabor"
+    ],
     "geo": {
       "latitude": 46.2346683,
       "longitude": 15.0167331,
@@ -11450,13 +11630,14 @@
       "ca": "Municipi de Tabor",
       "cy": "Bwrdeistref Tabor"
     },
-    "comments": null,
     "type": "municipality"
   },
   "185": {
     "name": "Trnovska vas",
     "code": "185",
-    "unofficial_names": "Trnovska vas",
+    "unofficial_names": [
+      "Trnovska vas"
+    ],
     "geo": {
       "latitude": 46.5201168,
       "longitude": 15.8866431,
@@ -11513,13 +11694,14 @@
       "cy": "Bwrdeistref Trnovska Vas",
       "zh": "特爾諾沃村區"
     },
-    "comments": null,
     "type": "municipality"
   },
   "186": {
     "name": "Trzin",
     "code": "186",
-    "unofficial_names": "Trzin",
+    "unofficial_names": [
+      "Trzin"
+    ],
     "geo": {
       "latitude": 46.1363399,
       "longitude": 14.5616878,
@@ -11579,13 +11761,14 @@
       "fa": "شهرداری ترزین",
       "mk": "Општина Трзин"
     },
-    "comments": null,
     "type": "municipality"
   },
   "187": {
     "name": "Velika Polana",
     "code": "187",
-    "unofficial_names": "Velika Polana",
+    "unofficial_names": [
+      "Velika Polana"
+    ],
     "geo": {
       "latitude": 46.5731715,
       "longitude": 16.3444126,
@@ -11645,13 +11828,14 @@
       "fa": "شهرداری ولیکا پولانا",
       "mk": "Општина Велика Полана"
     },
-    "comments": null,
     "type": "municipality"
   },
   "188": {
     "name": "Veržej",
     "code": "188",
-    "unofficial_names": "Veržej",
+    "unofficial_names": [
+      "Veržej"
+    ],
     "geo": {
       "latitude": 46.5832778,
       "longitude": 16.1640173,
@@ -11709,13 +11893,14 @@
       "cy": "Bwrdeistref Veržej",
       "mk": "Општина Вержеј"
     },
-    "comments": null,
     "type": "municipality"
   },
   "189": {
     "name": "Vransko",
     "code": "189",
-    "unofficial_names": "Vransko",
+    "unofficial_names": [
+      "Vransko"
+    ],
     "geo": {
       "latitude": 46.2444682,
       "longitude": 14.9511982,
@@ -11774,13 +11959,14 @@
       "cy": "Bwrdeistref Vransko",
       "fa": "شهرداری ورانسکو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "190": {
     "name": "Žalec",
     "code": "190",
-    "unofficial_names": "Žalec",
+    "unofficial_names": [
+      "Žalec"
+    ],
     "geo": {
       "latitude": 46.251984,
       "longitude": 15.1650282,
@@ -11841,13 +12027,14 @@
       "no": "Zalec kommune",
       "cy": "Bwrdeistref Žalec"
     },
-    "comments": null,
     "type": "municipality"
   },
   "191": {
     "name": "Žetale",
     "code": "191",
-    "unofficial_names": "Žetale",
+    "unofficial_names": [
+      "Žetale"
+    ],
     "geo": {
       "latitude": 46.2784002,
       "longitude": 15.8122225,
@@ -11904,13 +12091,14 @@
       "ca": "Municipi de Žetale",
       "cy": "Bwrdeistref Žetale"
     },
-    "comments": null,
     "type": "municipality"
   },
   "192": {
     "name": "Žirovnica",
     "code": "192",
-    "unofficial_names": "Žirovnica",
+    "unofficial_names": [
+      "Žirovnica"
+    ],
     "geo": {
       "latitude": 46.4044239,
       "longitude": 14.1375549,
@@ -11970,13 +12158,14 @@
       "fa": "شهرداری شیروونیکا",
       "mk": "Општина Жировница"
     },
-    "comments": null,
     "type": "municipality"
   },
   "193": {
     "name": "Žužemberk",
     "code": "193",
-    "unofficial_names": "Žužemberk",
+    "unofficial_names": [
+      "Žužemberk"
+    ],
     "geo": {
       "latitude": 45.830669,
       "longitude": 14.9298228,
@@ -12037,13 +12226,14 @@
       "cy": "Bwrdeistref Žužemberk",
       "et": "Žužemberki vald"
     },
-    "comments": null,
     "type": "municipality"
   },
   "194": {
     "name": "Šmartno pri Litiji",
     "code": "194",
-    "unofficial_names": "Šmartno pri Litiji",
+    "unofficial_names": [
+      "Šmartno pri Litiji"
+    ],
     "geo": {
       "latitude": 46.0457437,
       "longitude": 14.8410058,
@@ -12101,21 +12291,11 @@
       "ca": "Municipi de Šmartno pri Litiji",
       "cy": "Bwrdeistref Šmartno pri Litiji"
     },
-    "comments": null,
     "type": "municipality"
   },
   "195": {
     "name": "Občina Apače",
     "code": "195",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Apače",
       "en": "Apače",
@@ -12141,21 +12321,11 @@
       "it": "Comune di Apače",
       "mk": "Општина Апаче"
     },
-    "comments": null,
     "type": "municipality"
   },
   "196": {
     "name": "Občina Cirkulane",
     "code": "196",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Cirkulane",
       "en": "Cirkulane",
@@ -12177,21 +12347,11 @@
       "ru": "Циркулане",
       "tr": "Cirkulane Belediyesi"
     },
-    "comments": null,
     "type": "municipality"
   },
   "197": {
     "name": "Občina Kostanjevica na Krki",
     "code": "197",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Kostanjevica na Krki",
       "en": "Kostanjevica na Krki",
@@ -12215,21 +12375,11 @@
       "mk": "Општина Костањевица на Крка",
       "ru": "Костаньевица на Крки"
     },
-    "comments": null,
     "type": "municipality"
   },
   "198": {
     "name": "Občina Makole",
     "code": "198",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Makole",
       "de": "Makole",
@@ -12255,21 +12405,11 @@
       "id": "Munisipalitas Makole",
       "ru": "Маколе"
     },
-    "comments": null,
     "type": "municipality"
   },
   "199": {
     "name": "Občina Mokronog - Trebelno",
     "code": "199",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Mokronog-Trebelno",
       "de": "Mokronog-Trebelno",
@@ -12295,21 +12435,11 @@
       "es": "Mokronog-Trebelno",
       "id": "Munisipalitas Mokronog-Trebelno"
     },
-    "comments": null,
     "type": "municipality"
   },
   "200": {
     "name": "Občina Poljčane",
     "code": "200",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Poljčane",
       "de": "Poljčane",
@@ -12336,21 +12466,11 @@
       "id": "Munisipalitas Poljčane",
       "ru": "Поличане"
     },
-    "comments": null,
     "type": "municipality"
   },
   "201": {
     "name": "Občina Renče - Vogrsko",
     "code": "201",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Renče-Vogrsko",
       "de": "Renče-Vogrsko",
@@ -12378,21 +12498,11 @@
       "mk": "Општина Ренче-Вогрско",
       "ru": "Ренче Вогрско"
     },
-    "comments": null,
     "type": "municipality"
   },
   "202": {
     "name": "Občina Središče ob Dravi",
     "code": "202",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Središče ob Dravi",
       "de": "Središče ob Dravi",
@@ -12419,21 +12529,11 @@
       "id": "Munisipalitas Središče ob Dravi",
       "ru": "Шредище на Драви"
     },
-    "comments": null,
     "type": "municipality"
   },
   "203": {
     "name": "Občina Straža",
     "code": "203",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Straža",
       "de": "Straža",
@@ -12459,21 +12559,11 @@
       "hu": "Straža község",
       "id": "Munisipalitas Straža"
     },
-    "comments": null,
     "type": "municipality"
   },
   "204": {
     "name": "Občina Sveta Trojica v Slovenskih goricah",
     "code": "204",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Sveta Trojica v Slovenskih goricah",
       "de": "Sveta Trojica v Slovenskih goricah",
@@ -12499,21 +12589,11 @@
       "id": "Munisipalitas Sveta Trojica v Slovenskih Goricah",
       "ru": "Светы Троица в Словенких горицах"
     },
-    "comments": null,
     "type": "municipality"
   },
   "205": {
     "name": "Občina Sveti Tomaž",
     "code": "205",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Sveti Tomaž",
       "de": "Sveti Tomaž",
@@ -12538,21 +12618,11 @@
       "ko": "스베티토마시",
       "ru": "Свети Томаж"
     },
-    "comments": null,
     "type": "municipality"
   },
   "206": {
     "name": "Občina Šmarješke Toplice",
     "code": "206",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Šmarješke Toplice",
       "en": "Šmarješke Toplice",
@@ -12572,21 +12642,11 @@
       "pl": "Gmina Šmarješke Toplice",
       "ru": "Шмарьешке Топлице"
     },
-    "comments": null,
     "type": "municipality"
   },
   "207": {
     "name": "Občina Gorje",
     "code": "207",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Gorje",
       "de": "Gorje",
@@ -12614,21 +12674,11 @@
       "id": "Munisipalitas Gorje",
       "ru": "Горье"
     },
-    "comments": null,
     "type": "municipality"
   },
   "208": {
     "name": "Občina Log - Dragomer",
     "code": "208",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Log-Dragomer",
       "de": "Log-Dragomer",
@@ -12657,21 +12707,11 @@
       "id": "Munisipalitas Log-Dragomer",
       "ru": "Лог-Драгомер"
     },
-    "comments": null,
     "type": "municipality"
   },
   "209": {
     "name": "Občina Rečica ob Savinji",
     "code": "209",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Rečica ob Savinji",
       "de": "Rečica ob Savinji",
@@ -12697,21 +12737,11 @@
       "mk": "Општина Речица на Савиња",
       "ru": "Речица на Савиньи"
     },
-    "comments": null,
     "type": "municipality"
   },
   "210": {
     "name": "Občina Sveti Jurij v Slovenskih goricah",
     "code": "210",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Sveti Jurij v Slovenskih goricah",
       "de": "Sveti Jurij v Slovenskih goricah",
@@ -12739,21 +12769,11 @@
       "id": "Munisipalitas Sveti Jurij v Slovenskih Goricah",
       "ru": "Свети Юрий в Словенских горицах"
     },
-    "comments": null,
     "type": "municipality"
   },
   "211": {
     "name": "Občina Šentrupert",
     "code": "211",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Občina Šentrupert",
       "de": "Šentrupert",
@@ -12780,21 +12800,11 @@
       "id": "Munisipalitas Šentrupert",
       "ru": "Шентруперт"
     },
-    "comments": null,
     "type": "municipality"
   },
   "212": {
     "name": "Mirna",
     "code": "212",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Mirna",
       "en": "Mirna",
@@ -12817,21 +12827,11 @@
       "pl": "Gmina Mirna",
       "zh": "米爾納區"
     },
-    "comments": null,
     "type": "municipality"
   },
   "213": {
     "name": "Občina Ankaran",
     "code": "213",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Ankaran",
       "bg": "Анкаран",
@@ -12876,7 +12876,6 @@
       "fa": "شهرداری آنکاران",
       "mk": "Општина Анкаран"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

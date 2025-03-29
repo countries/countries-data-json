@@ -2,7 +2,9 @@
   "AW": {
     "name": "Awdal",
     "code": "AW",
-    "unofficial_names": "Awdal",
+    "unofficial_names": [
+      "Awdal"
+    ],
     "geo": {
       "latitude": 10.6334285,
       "longitude": 43.329466,
@@ -48,13 +50,14 @@
       "yue_Hans": "奥达勒",
       "zu": "Awdal"
     },
-    "comments": null,
     "type": "region"
   },
   "BK": {
     "name": "Bakool",
     "code": "BK",
-    "unofficial_names": "Bakool",
+    "unofficial_names": [
+      "Bakool"
+    ],
     "geo": {
       "latitude": 4.3657221,
       "longitude": 44.0960311,
@@ -112,13 +115,14 @@
       "yue": "巴科勒",
       "yue_Hans": "巴科勒"
     },
-    "comments": null,
     "type": "region"
   },
   "BN": {
     "name": "Banaadir",
     "code": "BN",
-    "unofficial_names": "Banaadir",
+    "unofficial_names": [
+      "Banaadir"
+    ],
     "geo": {
       "latitude": 2.1187375,
       "longitude": 45.3369459,
@@ -176,13 +180,14 @@
       "he": "בנאדיר",
       "sw": "Banaadir"
     },
-    "comments": null,
     "type": "region"
   },
   "BR": {
     "name": "Bari",
     "code": "BR",
-    "unofficial_names": "Bari",
+    "unofficial_names": [
+      "Bari"
+    ],
     "geo": {
       "latitude": 10.1203847,
       "longitude": 49.6911374,
@@ -241,13 +246,14 @@
       "yue": "巴里 (索馬里)",
       "yue_Hans": "巴里 (索马里)"
     },
-    "comments": null,
     "type": "region"
   },
   "BY": {
     "name": "Bay",
     "code": "BY",
-    "unofficial_names": "Bay",
+    "unofficial_names": [
+      "Bay"
+    ],
     "geo": {
       "latitude": 2.4825193,
       "longitude": 43.483738,
@@ -307,13 +313,14 @@
       "yue": "拜",
       "yue_Hans": "拜"
     },
-    "comments": null,
     "type": "region"
   },
   "GA": {
     "name": "Galguduud",
     "code": "GA",
-    "unofficial_names": "Galguduud",
+    "unofficial_names": [
+      "Galguduud"
+    ],
     "geo": {
       "latitude": 5.1850128,
       "longitude": 46.8252838,
@@ -372,13 +379,14 @@
       "yue": "加勒古杜德",
       "yue_Hans": "加勒古杜德"
     },
-    "comments": null,
     "type": "region"
   },
   "GE": {
     "name": "Gedo",
     "code": "GE",
-    "unofficial_names": "Gedo",
+    "unofficial_names": [
+      "Gedo"
+    ],
     "geo": {
       "latitude": 3.5039227,
       "longitude": 42.2362435,
@@ -437,13 +445,14 @@
       "yue": "蓋多",
       "yue_Hans": "盖多"
     },
-    "comments": null,
     "type": "region"
   },
   "HI": {
     "name": "Hiiraan",
     "code": "HI",
-    "unofficial_names": "Hiiraan",
+    "unofficial_names": [
+      "Hiiraan"
+    ],
     "geo": {
       "latitude": 4.321015,
       "longitude": 45.29938620000001,
@@ -501,13 +510,14 @@
       "yue": "希蘭",
       "yue_Hans": "希兰"
     },
-    "comments": null,
     "type": "region"
   },
   "JD": {
     "name": "Jubbada Dhexe",
     "code": "JD",
-    "unofficial_names": "Jubbada Dhexe",
+    "unofficial_names": [
+      "Jubbada Dhexe"
+    ],
     "geo": {
       "latitude": 2.0780488,
       "longitude": 41.6011814,
@@ -566,13 +576,14 @@
       "yue": "中朱巴",
       "yue_Hans": "中朱巴"
     },
-    "comments": null,
     "type": "region"
   },
   "JH": {
     "name": "Jubbada Hoose",
     "code": "JH",
-    "unofficial_names": "Jubbada Hoose",
+    "unofficial_names": [
+      "Jubbada Hoose"
+    ],
     "geo": {
       "latitude": 0.224021,
       "longitude": 41.6011814,
@@ -631,13 +642,14 @@
       "yue": "下朱巴",
       "yue_Hans": "下朱巴"
     },
-    "comments": null,
     "type": "region"
   },
   "MU": {
     "name": "Mudug",
     "code": "MU",
-    "unofficial_names": "Mudug",
+    "unofficial_names": [
+      "Mudug"
+    ],
     "geo": {
       "latitude": 6.5656726,
       "longitude": 47.7637565,
@@ -698,13 +710,14 @@
       "yue": "穆杜格",
       "yue_Hans": "穆杜格"
     },
-    "comments": null,
     "type": "region"
   },
   "NU": {
     "name": "Nugaal",
     "code": "NU",
-    "unofficial_names": "Nugaal",
+    "unofficial_names": [
+      "Nugaal"
+    ],
     "geo": {
       "latitude": 8.2173496,
       "longitude": 49.2030851,
@@ -762,13 +775,14 @@
       "yue": "努加爾",
       "yue_Hans": "努加尔"
     },
-    "comments": null,
     "type": "region"
   },
   "SA": {
     "name": "Sanaag",
     "code": "SA",
-    "unofficial_names": "Sanaag",
+    "unofficial_names": [
+      "Sanaag"
+    ],
     "geo": {
       "latitude": 10.3938218,
       "longitude": 47.7637565,
@@ -811,13 +825,14 @@
       "yue": "薩納格",
       "yue_Hans": "萨纳格"
     },
-    "comments": null,
     "type": "region"
   },
   "SD": {
     "name": "Shabeellaha Dhexe",
     "code": "SD",
-    "unofficial_names": "Shabeellaha Dhexe",
+    "unofficial_names": [
+      "Shabeellaha Dhexe"
+    ],
     "geo": {
       "latitude": 2.9250247,
       "longitude": 45.9039689,
@@ -876,13 +891,14 @@
       "yue": "中謝貝利",
       "yue_Hans": "中谢贝利"
     },
-    "comments": null,
     "type": "region"
   },
   "SH": {
     "name": "Shabeellaha Hoose",
     "code": "SH",
-    "unofficial_names": "Shabeellaha Hoose",
+    "unofficial_names": [
+      "Shabeellaha Hoose"
+    ],
     "geo": {
       "latitude": 1.8766458,
       "longitude": 44.2479015,
@@ -941,13 +957,14 @@
       "yue": "下謝貝利",
       "yue_Hans": "下谢贝利"
     },
-    "comments": null,
     "type": "region"
   },
   "SO": {
     "name": "Sool",
     "code": "SO",
-    "unofficial_names": "Sool",
+    "unofficial_names": [
+      "Sool"
+    ],
     "geo": {
       "latitude": 8.722155599999999,
       "longitude": 47.7637565,
@@ -992,13 +1009,14 @@
       "yue": "蘇爾 (索馬里)",
       "yue_Hans": "苏尔 (索马里)"
     },
-    "comments": null,
     "type": "region"
   },
   "TO": {
     "name": "Togdheer",
     "code": "TO",
-    "unofficial_names": "Togdheer",
+    "unofficial_names": [
+      "Togdheer"
+    ],
     "geo": {
       "latitude": 9.4460587,
       "longitude": 45.29938620000001,
@@ -1040,13 +1058,14 @@
       "yue": "托格代爾",
       "yue_Hans": "托格代尔"
     },
-    "comments": null,
     "type": "region"
   },
   "WO": {
     "name": "Woqooyi Galbeed",
     "code": "WO",
-    "unofficial_names": "Woqooyi Galbeed",
+    "unofficial_names": [
+      "Woqooyi Galbeed"
+    ],
     "geo": {
       "latitude": 9.542373999999999,
       "longitude": 44.0960311,
@@ -1089,7 +1108,6 @@
       "yue": "沃戈伊加勒貝德",
       "yue_Hans": "沃戈伊加勒贝德"
     },
-    "comments": null,
     "type": "region"
   }
 }

@@ -2,7 +2,6 @@
   "AC": {
     "name": "Aceh",
     "code": "AC",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.131231499999999,
       "longitude": 106.7329234
@@ -82,13 +81,11 @@
       "yo_BJ": "Aceh",
       "az": "Açeh"
     },
-    "comments": null,
     "type": "province"
   },
   "BA": {
     "name": "Bali",
     "code": "BA",
-    "unofficial_names": null,
     "geo": {
       "latitude": -8.4095178,
       "longitude": 115.188916,
@@ -154,13 +151,11 @@
       "ur": "بالی",
       "zh": "巴厘岛"
     },
-    "comments": null,
     "type": "province"
   },
   "BB": {
     "name": "Kepulauan Bangka Belitung",
     "code": "BB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -1.2392759,
       "longitude": 116.8727314
@@ -220,14 +215,11 @@
       "bg": "Бангка Белитунг",
       "no": "Bangka-Belitung"
     },
-    "comments": null,
     "type": "province"
   },
   "BE": {
     "name": "Bengkulu",
     "code": "BE",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Benkulu",
       "mr": "बेंकुलू",
@@ -286,13 +278,11 @@
       "az": "Benqkulu",
       "so": "Bengkulu"
     },
-    "comments": null,
     "type": "province"
   },
   "BT": {
     "name": "Banten",
     "code": "BT",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
       "longitude": 113.921327,
@@ -361,13 +351,11 @@
       "no": "Banten",
       "az": "Banten"
     },
-    "comments": null,
     "type": "province"
   },
   "GO": {
     "name": "Gorontalo",
     "code": "GO",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
       "longitude": 113.921327,
@@ -430,13 +418,11 @@
       "bg": "Горонтало",
       "no": "Gorontalo"
     },
-    "comments": null,
     "type": "province"
   },
   "JA": {
     "name": "Jambi",
     "code": "JA",
-    "unofficial_names": null,
     "geo": {
       "latitude": -1.4851831,
       "longitude": 102.4380581,
@@ -502,13 +488,11 @@
       "az": "Cambi",
       "mk": "Џамби (покраина)"
     },
-    "comments": null,
     "type": "province"
   },
   "JB": {
     "name": "Jawa Barat",
     "code": "JB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.446736199999999,
       "longitude": 109.2390841
@@ -573,13 +557,11 @@
       "mk": "Западна Јава",
       "so": "Jawa Barat,"
     },
-    "comments": null,
     "type": "province"
   },
   "JI": {
     "name": "Jawa Timur",
     "code": "JI",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.5360639,
       "longitude": 112.2384017,
@@ -652,13 +634,11 @@
       "mk": "Источна Јава",
       "my": "အရှေ့ ဂျာဗား"
     },
-    "comments": null,
     "type": "province"
   },
   "JK": {
     "name": "Daerah Khusus Ibukota Jakarta",
     "code": "JK",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.180495,
       "longitude": 106.8283415,
@@ -756,13 +736,11 @@
       "yo_BJ": "Jakarta",
       "sd": "جڪارتا"
     },
-    "comments": null,
     "type": "capital_region"
   },
   "JT": {
     "name": "Jawa Tengah",
     "code": "JT",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.150975,
       "longitude": 110.1402594,
@@ -842,14 +820,11 @@
       "mk": "Централна Јава",
       "so": "Jawa tengah,"
     },
-    "comments": null,
     "type": "province"
   },
   "JW": {
     "name": "Jawa",
     "code": "JW",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Java",
       "mr": "जावा",
@@ -933,13 +908,11 @@
       "no": "Java",
       "sq": "Ishulli Java"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "KA": {
     "name": "Kalimantan",
     "code": "KA",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.9790674,
       "longitude": 112.6358005
@@ -993,13 +966,11 @@
       "sr": "Калимантан",
       "sr_Latn": "Kalimantan"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "KB": {
     "name": "Kalimantan Barat",
     "code": "KB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.2787808,
       "longitude": 111.4752851,
@@ -1064,13 +1035,11 @@
       "mk": "Западен Калимантан",
       "so": "Kalimantan Barat,"
     },
-    "comments": null,
     "type": "province"
   },
   "KI": {
     "name": "Kalimantan Timur",
     "code": "KI",
-    "unofficial_names": null,
     "geo": {
       "latitude": 0.5386586,
       "longitude": 116.419389,
@@ -1136,13 +1105,11 @@
       "he": "מזרח קלימנטאן",
       "mk": "Источен Калимантан"
     },
-    "comments": null,
     "type": "province"
   },
   "KR": {
     "name": "Kepulauan Riau",
     "code": "KR",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.4429142,
       "longitude": 107.0115729
@@ -1203,13 +1170,11 @@
       "bg": "Острови Риау",
       "no": "Kepulauan Riau"
     },
-    "comments": null,
     "type": "province"
   },
   "KS": {
     "name": "Kalimantan Selatan",
     "code": "KS",
-    "unofficial_names": null,
     "geo": {
       "latitude": -3.0926415,
       "longitude": 115.2837585,
@@ -1272,13 +1237,11 @@
       "no": "Kalimantan Selatan",
       "he": "דרום קלימנטאן"
     },
-    "comments": null,
     "type": "province"
   },
   "KT": {
     "name": "Kalimantan Tengah",
     "code": "KT",
-    "unofficial_names": null,
     "geo": {
       "latitude": -1.6814878,
       "longitude": 113.3823545,
@@ -1345,13 +1308,11 @@
       "mk": "Централен Калимантан",
       "my": "အလယ်ပိုင်း ကာလီမန်တန်"
     },
-    "comments": null,
     "type": "province"
   },
   "KU": {
     "name": "Kalimantan Utara",
     "code": "KU",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.1718272,
       "longitude": 106.8440285
@@ -1400,13 +1361,11 @@
       "he": "צפון קלימנטאן",
       "ml": "വടക്കൻ കലിമന്താൻ"
     },
-    "comments": null,
     "type": "province"
   },
   "LA": {
     "name": "Lampung",
     "code": "LA",
-    "unofficial_names": null,
     "geo": {
       "latitude": -8.636759399999999,
       "longitude": 115.2067686
@@ -1470,13 +1429,11 @@
       "az": "Lampunq",
       "so": "Lampung,"
     },
-    "comments": null,
     "type": "province"
   },
   "MA": {
     "name": "Maluku",
     "code": "MA",
-    "unofficial_names": null,
     "geo": {
       "latitude": 42.4072107,
       "longitude": -71.3824374,
@@ -1542,13 +1499,11 @@
       "no": "Maluku Kommune",
       "hr": "Maluku"
     },
-    "comments": null,
     "type": "province"
   },
   "ML": {
     "name": "Kepulauan Maluku",
     "code": "ML",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
       "longitude": 113.921327,
@@ -1624,13 +1579,11 @@
       "sl": "Moluki",
       "sw": "Visiwa vya Maluku"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "MU": {
     "name": "Maluku Utara",
     "code": "MU",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.5709993,
       "longitude": 127.8087693,
@@ -1694,13 +1647,11 @@
       "bg": "Северно Молуку",
       "no": "Nord Maluku provins"
     },
-    "comments": null,
     "type": "province"
   },
   "NB": {
     "name": "Nusa Tenggara Barat",
     "code": "NB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.249008,
       "longitude": 106.776638
@@ -1762,13 +1713,11 @@
       "be": "Заходняя Нуса-Тэнгара",
       "he": "מערב נוסה טנגרה"
     },
-    "comments": null,
     "type": "province"
   },
   "NT": {
     "name": "Nusa Tenggara Timur",
     "code": "NT",
-    "unofficial_names": null,
     "geo": {
       "latitude": -8.657381899999999,
       "longitude": 121.0793705,
@@ -1835,14 +1784,11 @@
       "be": "Усходняя Нуса-Тэнгара",
       "ps": "ختیځ سوندای"
     },
-    "comments": null,
     "type": "province"
   },
   "NU": {
     "name": "Kepulauan Nusa Tenggara",
     "code": "NU",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Mazās Zunda salas",
       "cy": "Ynysoedd Swnda Lleiaf",
@@ -1907,13 +1853,11 @@
       "hy": "Փոքր Զոնդյան կղզիներ",
       "sl": "Mali Sundski otoki"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "PA": {
     "name": "Papua",
     "code": "PA",
-    "unofficial_names": null,
     "geo": {
       "latitude": 41.2033216,
       "longitude": -77.1945247,
@@ -1981,13 +1925,11 @@
       "bg": "Папуа",
       "et": "Paapua provints"
     },
-    "comments": null,
     "type": "province"
   },
   "PB": {
     "name": "Papua Barat",
     "code": "PB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.789275,
       "longitude": 113.921327,
@@ -2054,13 +1996,11 @@
       "hr": "Zapadna Papua (pokrajina)",
       "hy": "Արևմտյան Պապուա"
     },
-    "comments": null,
     "type": "province"
   },
   "PP": {
     "name": "Papua bagian barat",
     "code": "PP",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.9084233,
       "longitude": 109.136415
@@ -2122,13 +2062,11 @@
       "sw": "Guinea Mpya ya Kiholanzi",
       "uz": "Gʻarbiy Yangi Gvineya"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "RI": {
     "name": "Riau",
     "code": "RI",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.91266,
       "longitude": 107.642042
@@ -2189,13 +2127,11 @@
       "no": "Riau",
       "az": "Riau"
     },
-    "comments": null,
     "type": "province"
   },
   "SA": {
     "name": "Sulawesi Utara",
     "code": "SA",
-    "unofficial_names": null,
     "geo": {
       "latitude": -8.7199596,
       "longitude": 115.1752526
@@ -2255,13 +2191,11 @@
       "ca": "Cèlebes septentrional",
       "ga": "An tSulaivéis Thuaidh"
     },
-    "comments": null,
     "type": "province"
   },
   "SB": {
     "name": "Sumatera Barat",
     "code": "SB",
-    "unofficial_names": null,
     "geo": {
       "latitude": -0.7399397,
       "longitude": 100.8000051,
@@ -2327,14 +2261,11 @@
       "no": "Sumatera Barat",
       "az": "Qərbi Sumatra"
     },
-    "comments": null,
     "type": "province"
   },
   "SG": {
     "name": "Sulawesi Tenggara",
     "code": "SG",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Dienvidaustrumu Suvalesi",
       "mr": "आग्नेय सुलावेसी",
@@ -2391,14 +2322,11 @@
       "ml": "തെക്കുകിഴക്കൻ സുലവേസി",
       "so": "Sulawesi Tenggara,"
     },
-    "comments": null,
     "type": "province"
   },
   "SL": {
     "name": "Sulawesi",
     "code": "SL",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Sulavesi",
       "mr": "सुलावेसी",
@@ -2471,14 +2399,11 @@
       "no": "Sulawesi",
       "bn": "সুলাওসি"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "SM": {
     "name": "Sumatera",
     "code": "SM",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Sumatra",
       "mr": "सुमात्रा",
@@ -2556,13 +2481,11 @@
       "ha_NE": "Sumatra",
       "no": "Sumatra"
     },
-    "comments": null,
     "type": "geographical_unit"
   },
   "SN": {
     "name": "Sulawesi Selatan",
     "code": "SN",
-    "unofficial_names": null,
     "geo": {
       "latitude": -3.6687994,
       "longitude": 119.9740534,
@@ -2625,13 +2548,11 @@
       "no": "Sør Sulawesi",
       "ca": "Cèlebes Meridionals"
     },
-    "comments": null,
     "type": "province"
   },
   "SR": {
     "name": "Sulawesi Barat",
     "code": "SR",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.926822599999999,
       "longitude": 107.6068221
@@ -2690,14 +2611,11 @@
       "he": "מערב סולאווסי",
       "mk": "Западен Сулавеси"
     },
-    "comments": null,
     "type": "province"
   },
   "SS": {
     "name": "Sumatera Selatan",
     "code": "SS",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Dienvidsumatra",
       "mr": "दक्षिण सुमात्रा",
@@ -2756,14 +2674,11 @@
       "no": "Sumatera Selatan",
       "az": "Cənubi Sumatra"
     },
-    "comments": null,
     "type": "province"
   },
   "ST": {
     "name": "Sulawesi Tengah",
     "code": "ST",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "lv": "Centrālā Sulavesi",
       "mr": "मध्य सुलावेसी",
@@ -2818,13 +2733,11 @@
       "bg": "Централно Сулавеси",
       "no": "Sentral Sulaweisi provins"
     },
-    "comments": null,
     "type": "province"
   },
   "SU": {
     "name": "Sumatera Utara",
     "code": "SU",
-    "unofficial_names": null,
     "geo": {
       "latitude": 2.1153547,
       "longitude": 99.54509739999999,
@@ -2894,13 +2807,11 @@
       "hy": "Հյուսիսային Սումատրա",
       "mk": "Северна Суматра"
     },
-    "comments": null,
     "type": "province"
   },
   "YO": {
     "name": "Yogyakarta",
     "code": "YO",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.875384899999999,
       "longitude": 110.4262088,
@@ -2978,7 +2889,6 @@
       "hy": "Ջոկյակարտա հատուկ մարզ",
       "mk": "Јогјакарта (покраина)"
     },
-    "comments": null,
     "type": "special_region"
   }
 }

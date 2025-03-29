@@ -56,7 +56,6 @@
       "no": "Al Ahmadi Governorate",
       "he": "אל-אחמדי"
     },
-    "comments": null,
     "type": "governorate"
   },
   "FA": {
@@ -116,7 +115,6 @@
       "uk": "Меніципалітет Ель-Фарванія",
       "no": "Al Farwaniyah"
     },
-    "comments": null,
     "type": "governorate"
   },
   "HA": {
@@ -176,7 +174,6 @@
       "ccp": "𑄦𑄤𑄣𑄨",
       "no": "Hawalli"
     },
-    "comments": null,
     "type": "governorate"
   },
   "JA": {
@@ -224,7 +221,6 @@
       "ca": "Governació d’Al Jahra",
       "ta": "அல் ஜஹ்ரா ஆளுநரகம்"
     },
-    "comments": null,
     "type": "governorate"
   },
   "KU": {
@@ -277,13 +273,14 @@
       "de": "Gouvernement al-Asima",
       "ta": "தலைநகர ஆளுநரகம்"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MU": {
     "name": "Mubarak al-Kabir",
     "code": "MU",
-    "unofficial_names": "Mubarak al-Kabir",
+    "unofficial_names": [
+      "Mubarak al-Kabir"
+    ],
     "geo": {
       "latitude": 29.21224,
       "longitude": 48.0605108,
@@ -335,7 +332,6 @@
       "uk": "Муніципалітет Мубарак-аль-Кабір",
       "no": "Mubarak Al-Kabeer"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

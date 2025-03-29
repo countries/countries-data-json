@@ -2,7 +2,9 @@
   "BA": {
     "name": "Banghazi",
     "code": "BA",
-    "unofficial_names": "Banghazi",
+    "unofficial_names": [
+      "Banghazi"
+    ],
     "geo": {
       "latitude": 32.116667,
       "longitude": 20.066667,
@@ -85,13 +87,14 @@
       "sw": "Benghazi",
       "zu": "Benghazi"
     },
-    "comments": null,
     "type": "popularate"
   },
   "BU": {
     "name": "Al Butnan",
     "code": "BU",
-    "unofficial_names": "Al Butnan",
+    "unofficial_names": [
+      "Al Butnan"
+    ],
     "geo": {
       "latitude": 29.7579854,
       "longitude": 23.7632828,
@@ -149,13 +152,14 @@
       "be": "Эль-Бутнан",
       "no": "Al Butnan"
     },
-    "comments": null,
     "type": "popularate"
   },
   "DR": {
     "name": "Darnah",
     "code": "DR",
-    "unofficial_names": "Darnah",
+    "unofficial_names": [
+      "Darnah"
+    ],
     "geo": {
       "latitude": 32.766667,
       "longitude": 22.633333,
@@ -196,13 +200,14 @@
       "ccp": "𑄓𑄢𑄴𑄚",
       "no": "Darnah"
     },
-    "comments": null,
     "type": "popularate"
   },
   "GT": {
     "name": "Ghat",
     "code": "GT",
-    "unofficial_names": "Ghat",
+    "unofficial_names": [
+      "Ghat"
+    ],
     "geo": {
       "latitude": 24.9640371,
       "longitude": 10.1759285,
@@ -257,13 +262,14 @@
       "no": "Ghat",
       "ca": "Districte de Ghat"
     },
-    "comments": null,
     "type": "popularate"
   },
   "JA": {
     "name": "Al Jabal al Akhḑar",
     "code": "JA",
-    "unofficial_names": "Al Jabal al Akhḑar",
+    "unofficial_names": [
+      "Al Jabal al Akhḑar"
+    ],
     "geo": {
       "latitude": 32.4032332,
       "longitude": 21.6660725,
@@ -319,21 +325,14 @@
       "az": "Əl-Cəbəl əl-Əxdar",
       "fa": "الجبل الاخضر"
     },
-    "comments": null,
     "type": "popularate"
   },
   "JG": {
     "name": "Al Jabal al Gharbī",
     "code": "JG",
-    "unofficial_names": "Al Jabal al Gharbī",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Al Jabal al Gharbī"
+    ],
     "translations": {
       "en": "Jabal al Gharbi",
       "ar": "شعبية الجبل الغربي",
@@ -360,13 +359,14 @@
       "ccp": "𑄎𑄝𑄣𑄴 𑄃𑄣𑄴 𑄊𑄢𑄴𑄝𑄨",
       "pt": "Jabal Algarbi"
     },
-    "comments": null,
     "type": "popularate"
   },
   "JI": {
     "name": "Al Jifarah",
     "code": "JI",
-    "unofficial_names": "Al Jifarah",
+    "unofficial_names": [
+      "Al Jifarah"
+    ],
     "geo": {
       "latitude": 32.4525904,
       "longitude": 12.9435536,
@@ -422,7 +422,6 @@
       "no": "Al Jfara",
       "fa": "الجفاره"
     },
-    "comments": null,
     "type": "popularate"
   },
   "JU": {
@@ -488,7 +487,6 @@
       "ccp": "𑄎𑄪𑄜𑄳𑄢",
       "no": "Al Jufrah"
     },
-    "comments": null,
     "type": "popularate"
   },
   "KF": {
@@ -558,7 +556,6 @@
       "he": "מחוז כופרה",
       "ps": "کفره"
     },
-    "comments": null,
     "type": "popularate"
   },
   "MB": {
@@ -624,7 +621,6 @@
       "ccp": "𑄟𑄪𑄢𑄴𑄇𑄪𑄛𑄴",
       "no": "Al Murgub"
     },
-    "comments": null,
     "type": "popularate"
   },
   "MI": {
@@ -690,7 +686,6 @@
       "ccp": "𑄟𑄨𑄥𑄳𑄢𑄧𑄖",
       "no": "Misrata distrikt"
     },
-    "comments": null,
     "type": "popularate"
   },
   "MJ": {
@@ -755,13 +750,14 @@
       "ccp": "𑄟𑄢𑄴𑄎𑄴",
       "no": "Al Marj"
     },
-    "comments": null,
     "type": "popularate"
   },
   "MQ": {
     "name": "Murzuq",
     "code": "MQ",
-    "unofficial_names": "Murzuq",
+    "unofficial_names": [
+      "Murzuq"
+    ],
     "geo": {
       "latitude": 25.9182262,
       "longitude": 13.9260001,
@@ -818,13 +814,14 @@
       "hy": "Մարզուկ",
       "no": "Murzuq distrikt"
     },
-    "comments": null,
     "type": "popularate"
   },
   "NL": {
     "name": "Nālūt",
     "code": "NL",
-    "unofficial_names": "Nālūt",
+    "unofficial_names": [
+      "Nālūt"
+    ],
     "geo": {
       "latitude": 31.868333,
       "longitude": 10.9825,
@@ -864,7 +861,6 @@
       "ccp": "𑄚𑄣𑄪𑄖𑄴",
       "no": "Nalut"
     },
-    "comments": null,
     "type": "popularate"
   },
   "NQ": {
@@ -930,13 +926,14 @@
       "ccp": "𑄚𑄪𑄇𑄖𑄴 𑄃𑄣𑄴 𑄈𑄟𑄴𑄌𑄴",
       "no": "An Nuqat al Khams"
     },
-    "comments": null,
     "type": "popularate"
   },
   "SB": {
     "name": "Sabhā",
     "code": "SB",
-    "unofficial_names": "Sabhā",
+    "unofficial_names": [
+      "Sabhā"
+    ],
     "geo": {
       "latitude": 27.038889,
       "longitude": 14.426389,
@@ -991,7 +988,6 @@
       "ccp": "𑄥𑄞",
       "no": "Sabha"
     },
-    "comments": null,
     "type": "popularate"
   },
   "SR": {
@@ -1042,7 +1038,6 @@
       "no": "Surt",
       "eu": "Surt"
     },
-    "comments": null,
     "type": "popularate"
   },
   "TB": {
@@ -1090,7 +1085,6 @@
       "et": "Tripoli omavalitsus",
       "fa": "ناحیه طرابلس (لیبی)"
     },
-    "comments": null,
     "type": "popularate"
   },
   "WA": {
@@ -1143,13 +1137,14 @@
       "no": "Al Wahat",
       "he": "מחוז אל-ואחאת"
     },
-    "comments": null,
     "type": "popularate"
   },
   "WD": {
     "name": "Wādī al Ḩayāt",
     "code": "WD",
-    "unofficial_names": "Wādī al Ḩayāt",
+    "unofficial_names": [
+      "Wādī al Ḩayāt"
+    ],
     "geo": {
       "latitude": 29.5240753,
       "longitude": 31.2912463,
@@ -1204,21 +1199,14 @@
       "ccp": "𑄤𑄓𑄨 𑄃𑄣𑄴 𑄦𑄠",
       "no": "Wadi Al Hayaa"
     },
-    "comments": null,
     "type": "popularate"
   },
   "WS": {
     "name": "Wādī ash Shāţiʾ",
     "code": "WS",
-    "unofficial_names": "Wādī ash Shāţiʾ",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Wādī ash Shāţiʾ"
+    ],
     "translations": {
       "en": "Wadi al Shatii",
       "ar": "شعبية وادي الشاطئ",
@@ -1266,13 +1254,14 @@
       "no": "Wadi al Shatii distrikt",
       "fa": "استان وادیالشاطئ"
     },
-    "comments": null,
     "type": "popularate"
   },
   "ZA": {
     "name": "Az Zawiyah",
     "code": "ZA",
-    "unofficial_names": "Az Zawiyah",
+    "unofficial_names": [
+      "Az Zawiyah"
+    ],
     "geo": {
       "latitude": 32.5394906,
       "longitude": 12.5298028,
@@ -1327,7 +1316,6 @@
       "ccp": "𑄎𑄃𑄨𑄠",
       "no": "Az Zawiyah"
     },
-    "comments": null,
     "type": "popularate"
   }
 }

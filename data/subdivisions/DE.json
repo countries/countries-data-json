@@ -96,7 +96,6 @@
       "yo_BJ": "Brandenburg",
       "ml": "ബ്രാൻഡൻബർഗ്"
     },
-    "comments": null,
     "type": "state"
   },
   "BE": {
@@ -202,13 +201,14 @@
       "yo_BJ": "Berlin",
       "km": "ប៊ែរឡាំង"
     },
-    "comments": null,
     "type": "state"
   },
   "BW": {
     "name": "Baden-Württemberg",
     "code": "BW",
-    "unofficial_names": "Baden-Württemberg",
+    "unofficial_names": [
+      "Baden-Württemberg"
+    ],
     "geo": {
       "latitude": 48.6616037,
       "longitude": 9.3501336,
@@ -301,7 +301,6 @@
       "ml": "ബാഡൻ-വ്യൂർട്ടംബർഗ്",
       "ne": "बाडेन-वुर्टेम्बर्ग"
     },
-    "comments": null,
     "type": "state"
   },
   "BY": {
@@ -404,7 +403,6 @@
       "my": "ဘာဗေးရီးယားပြည်နယ်",
       "ps": "بایرن"
     },
-    "comments": null,
     "type": "state"
   },
   "HB": {
@@ -500,7 +498,6 @@
       "is": "Bremen (sambandsríki)",
       "sw": "Jimbo la Bremen"
     },
-    "comments": null,
     "type": "state"
   },
   "HE": {
@@ -600,7 +597,6 @@
       "yo_BJ": "Hesse",
       "ps": "هسن"
     },
-    "comments": null,
     "type": "state"
   },
   "HH": {
@@ -706,7 +702,6 @@
       "yo_BJ": "Hamburg",
       "ps": "هامبورگ"
     },
-    "comments": null,
     "type": "state"
   },
   "MV": {
@@ -802,7 +797,6 @@
       "yo_BJ": "Mecklenburg-Vorpommern",
       "ml": "മെക്ക്ലെൻബുർഗ്-ഫൊർപ്പോമേൻ"
     },
-    "comments": null,
     "type": "state"
   },
   "NI": {
@@ -899,7 +893,6 @@
       "ml": "ലോവർ സാക്സണി",
       "ps": "نیدرزاخسن"
     },
-    "comments": null,
     "type": "state"
   },
   "NW": {
@@ -997,7 +990,6 @@
       "yo_BJ": "Nordrhein-Westfalen",
       "ml": "നോർത്ത് റൈൻ-വെസ്റ്റ്ഫാലിയ"
     },
-    "comments": null,
     "type": "state"
   },
   "RP": {
@@ -1094,13 +1086,14 @@
       "yo_BJ": "Rhineland-Palatinate",
       "ml": "റൈൻലാൻഡ്-പലാറ്റിനേറ്റ്"
     },
-    "comments": null,
     "type": "state"
   },
   "SH": {
     "name": "Schleswig-Holstein",
     "code": "SH",
-    "unofficial_names": "Schleswig-Holstein",
+    "unofficial_names": [
+      "Schleswig-Holstein"
+    ],
     "geo": {
       "latitude": 54.21936720000001,
       "longitude": 9.696116700000001,
@@ -1189,13 +1182,14 @@
       "ky": "Шлесвик-Гөлштейн",
       "ml": "ഷ്ലെസ്വിഗ്-ഹോൾസ്റ്റൈൻ"
     },
-    "comments": null,
     "type": "state"
   },
   "SL": {
     "name": "Saarland",
     "code": "SL",
-    "unofficial_names": "Saarland",
+    "unofficial_names": [
+      "Saarland"
+    ],
     "geo": {
       "latitude": 49.3964234,
       "longitude": 7.0229607,
@@ -1286,7 +1280,6 @@
       "yo_BJ": "Saarland",
       "ml": "സാർലാൻഡ്"
     },
-    "comments": null,
     "type": "state"
   },
   "SN": {
@@ -1384,13 +1377,14 @@
       "ml": "സാക്സണി",
       "ps": "زاخسن"
     },
-    "comments": null,
     "type": "state"
   },
   "ST": {
     "name": "Sachsen-Anhalt",
     "code": "ST",
-    "unofficial_names": "Sachsen-Anhalt",
+    "unofficial_names": [
+      "Sachsen-Anhalt"
+    ],
     "geo": {
       "latitude": 51.9502649,
       "longitude": 11.6922735,
@@ -1477,7 +1471,6 @@
       "yo_BJ": "Saxony-Anhalt",
       "ml": "സാക്സണി-അൻഹാൾട്ട്"
     },
-    "comments": null,
     "type": "state"
   },
   "TH": {
@@ -1575,7 +1568,6 @@
       "ml": "തുറിഞ്ചിയ",
       "ps": "تورینګن"
     },
-    "comments": null,
     "type": "state"
   }
 }

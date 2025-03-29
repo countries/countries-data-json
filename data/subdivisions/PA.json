@@ -2,7 +2,9 @@
   "1": {
     "name": "Bocas del Toro",
     "code": "1",
-    "unofficial_names": "Bocas del Toro",
+    "unofficial_names": [
+      "Bocas del Toro"
+    ],
     "geo": {
       "latitude": 9.340556,
       "longitude": -82.240556,
@@ -61,21 +63,14 @@
       "cy": "Talaith Bocas del Toro",
       "gl": "Provincia de Bocas del Toro"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
     "name": "Panamá Oeste",
     "code": "10",
-    "unofficial_names": "Panamá Oeste",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Panamá Oeste"
+    ],
     "translations": {
       "cs": "Západní Panama",
       "de": "Provinz Panamá Oeste",
@@ -104,13 +99,14 @@
       "lt": "Vakarų Panamos provincija",
       "th": "จังหวัดปานามาโอเอสเต"
     },
-    "comments": null,
     "type": "province"
   },
   "2": {
     "name": "Coclé",
     "code": "2",
-    "unofficial_names": "Coclé",
+    "unofficial_names": [
+      "Coclé"
+    ],
     "geo": {
       "latitude": 8.400144899999999,
       "longitude": -80.42152460000001,
@@ -169,13 +165,14 @@
       "cy": "Talaith Coclé",
       "gl": "Provincia de Coclé"
     },
-    "comments": null,
     "type": "province"
   },
   "3": {
     "name": "Colón",
     "code": "3",
-    "unofficial_names": "Colón",
+    "unofficial_names": [
+      "Colón"
+    ],
     "geo": {
       "latitude": 9.333333,
       "longitude": -79.89999999999999,
@@ -236,13 +233,14 @@
       "fa": "استان کلون",
       "gl": "Provincia de Colón"
     },
-    "comments": null,
     "type": "province"
   },
   "4": {
     "name": "Chiriquí",
     "code": "4",
-    "unofficial_names": "Chiriquí",
+    "unofficial_names": [
+      "Chiriquí"
+    ],
     "geo": {
       "latitude": 8.3866964,
       "longitude": -82.2800546,
@@ -301,13 +299,14 @@
       "gl": "Provincia de Chiriquí",
       "hy": "Չիրիկի"
     },
-    "comments": null,
     "type": "province"
   },
   "5": {
     "name": "Darién",
     "code": "5",
-    "unofficial_names": "Darién",
+    "unofficial_names": [
+      "Darién"
+    ],
     "geo": {
       "latitude": 7.868171299999999,
       "longitude": -77.8367282,
@@ -367,13 +366,14 @@
       "cy": "Talaith Darién",
       "gl": "Provincia de Darién"
     },
-    "comments": null,
     "type": "province"
   },
   "6": {
     "name": "Herrera",
     "code": "6",
-    "unofficial_names": "Herrera",
+    "unofficial_names": [
+      "Herrera"
+    ],
     "geo": {
       "latitude": 7.7704282,
       "longitude": -80.7214417,
@@ -430,13 +430,14 @@
       "no": "Herrera Kommune",
       "cy": "Talaith Herrera"
     },
-    "comments": null,
     "type": "province"
   },
   "7": {
     "name": "Los Santos",
     "code": "7",
-    "unofficial_names": "Los Santos",
+    "unofficial_names": [
+      "Los Santos"
+    ],
     "geo": {
       "latitude": 7.5909302,
       "longitude": -80.365865,
@@ -493,13 +494,14 @@
       "no": "Los Santos Provins",
       "cy": "Talaith Los Santos"
     },
-    "comments": null,
     "type": "province"
   },
   "8": {
     "name": "Panamá",
     "code": "8",
-    "unofficial_names": "Panamá",
+    "unofficial_names": [
+      "Panamá"
+    ],
     "geo": {
       "latitude": 8.983333,
       "longitude": -79.516667,
@@ -547,20 +549,17 @@
       "ar": "محافظة بنما",
       "cy": "Talaith Panamá"
     },
-    "comments": null,
     "type": "province"
   },
   "9": {
     "name": "Veraguas",
     "code": "9",
-    "unofficial_names": "Veraguas",
+    "unofficial_names": [
+      "Veraguas"
+    ],
     "geo": {
       "latitude": 8.866667,
-      "longitude": -80.89999999999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -80.89999999999999
     },
     "translations": {
       "en": "Veraguas",
@@ -612,21 +611,14 @@
       "cy": "Talaith Veraguas",
       "gl": "Provincia de Veraguas"
     },
-    "comments": null,
     "type": "province"
   },
   "EM": {
     "name": "Emberá-Wounaan",
     "code": "EM",
-    "unofficial_names": "Emberá-Wounaan",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Emberá-Wounaan"
+    ],
     "translations": {
       "ar": "كوماركا امبيرا-وونان",
       "bg": "Ембера",
@@ -674,13 +666,14 @@
       "eu": "Emberá-Wounaan",
       "no": "Embera Wounaan Comarca"
     },
-    "comments": null,
     "type": "indigenous_region"
   },
   "KY": {
     "name": "Guna Yala",
     "code": "KY",
-    "unofficial_names": "Guna Yala",
+    "unofficial_names": [
+      "Guna Yala"
+    ],
     "geo": {
       "latitude": 8.537981,
       "longitude": -80.782127,
@@ -738,21 +731,14 @@
       "no": "Kuna Yala",
       "gl": "Comarca Guna Yala"
     },
-    "comments": null,
     "type": "indigenous_region"
   },
   "NB": {
     "name": "Ngäbe-Buglé",
     "code": "NB",
-    "unofficial_names": "Ngäbe-Buglé",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Ngäbe-Buglé"
+    ],
     "translations": {
       "ar": "نجوب-بولجي كوماركا",
       "bg": "Нгьобе-Бугле",
@@ -800,7 +786,6 @@
       "eu": "Ngäbe-Buglé",
       "no": "Ngobe-Bugle Comarca"
     },
-    "comments": null,
     "type": "indigenous_region"
   }
 }

@@ -2,7 +2,9 @@
   "A": {
     "name": "Alajuela",
     "code": "A",
-    "unofficial_names": "Alajuela",
+    "unofficial_names": [
+      "Alajuela"
+    ],
     "geo": {
       "latitude": 10.391583,
       "longitude": -84.4382721,
@@ -65,13 +67,14 @@
       "no": "Alajuela",
       "cy": "Talaith Alajuela"
     },
-    "comments": null,
     "type": "province"
   },
   "C": {
     "name": "Cartago",
     "code": "C",
-    "unofficial_names": "Cartago",
+    "unofficial_names": [
+      "Cartago"
+    ],
     "geo": {
       "latitude": 9.7539596,
       "longitude": -83.67739279999999,
@@ -122,13 +125,14 @@
       "no": "Cartago",
       "th": "จังหวัดการ์ตาโก"
     },
-    "comments": null,
     "type": "province"
   },
   "G": {
     "name": "Guanacaste",
     "code": "G",
-    "unofficial_names": "Guanacaste",
+    "unofficial_names": [
+      "Guanacaste"
+    ],
     "geo": {
       "latitude": 10.4957971,
       "longitude": -85.35496499999999,
@@ -190,13 +194,14 @@
       "cy": "Talaith Guanacaste",
       "eu": "Guanacaste probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "H": {
     "name": "Heredia",
     "code": "H",
-    "unofficial_names": "Heredia",
+    "unofficial_names": [
+      "Heredia"
+    ],
     "geo": {
       "latitude": 10.473523,
       "longitude": -84.01674229999999,
@@ -250,13 +255,14 @@
       "cy": "Talaith Heredia",
       "th": "จังหวัดเอเรเดีย"
     },
-    "comments": null,
     "type": "province"
   },
   "L": {
     "name": "Limón",
     "code": "L",
-    "unofficial_names": "Limón",
+    "unofficial_names": [
+      "Limón"
+    ],
     "geo": {
       "latitude": 9.983333,
       "longitude": -83.033333,
@@ -308,13 +314,14 @@
       "mr": "लिमोन प्रांत",
       "th": "จังหวัดลิมอน"
     },
-    "comments": null,
     "type": "province"
   },
   "P": {
     "name": "Puntarenas",
     "code": "P",
-    "unofficial_names": "Puntarenas",
+    "unofficial_names": [
+      "Puntarenas"
+    ],
     "geo": {
       "latitude": 9.9778439,
       "longitude": -84.82942109999999,
@@ -376,13 +383,14 @@
       "cy": "Talaith Puntarenas",
       "ml": "പുണ്ടാരെനാസ് പ്രവിശ്യ"
     },
-    "comments": null,
     "type": "province"
   },
   "SJ": {
     "name": "San José",
     "code": "SJ",
-    "unofficial_names": "San José",
+    "unofficial_names": [
+      "San José"
+    ],
     "geo": {
       "latitude": 9.9280694,
       "longitude": -84.0907246,
@@ -445,7 +453,6 @@
       "az": "San-Xose vilayəti",
       "cy": "Talaith San José"
     },
-    "comments": null,
     "type": "province"
   }
 }

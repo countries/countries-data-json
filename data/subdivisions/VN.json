@@ -2,7 +2,9 @@
   "01": {
     "name": "Lai Chau",
     "code": "01",
-    "unofficial_names": "Lai Chau",
+    "unofficial_names": [
+      "Lai Chau"
+    ],
     "geo": {
       "latitude": 22.3686613,
       "longitude": 103.3119085,
@@ -62,13 +64,14 @@
       "he": "לאי צ׳או",
       "my": "လိုင်ချောင်ပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "02": {
     "name": "Lao Cai",
     "code": "02",
-    "unofficial_names": "Lao Cai",
+    "unofficial_names": [
+      "Lao Cai"
+    ],
     "geo": {
       "latitude": 22.3380865,
       "longitude": 104.1487055,
@@ -128,13 +131,14 @@
       "km": "ខេត្តឡាវកាយ",
       "my": "လောင်ကိုင်ပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
     "name": "Ha Giang",
     "code": "03",
-    "unofficial_names": "Ha Giang",
+    "unofficial_names": [
+      "Ha Giang"
+    ],
     "geo": {
       "latitude": 22.7662056,
       "longitude": 104.9388853,
@@ -193,13 +197,14 @@
       "km": "ខេត្តហាយ៉ាង",
       "my": "ဟာကျန်ပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "Cao Bang",
     "code": "04",
-    "unofficial_names": "Cao Bang",
+    "unofficial_names": [
+      "Cao Bang"
+    ],
     "geo": {
       "latitude": 22.635689,
       "longitude": 106.2522143,
@@ -258,13 +263,14 @@
       "he": "קאו באנג",
       "km": "ខេត្តកាវបាង"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Son La",
     "code": "05",
-    "unofficial_names": "Son La",
+    "unofficial_names": [
+      "Son La"
+    ],
     "geo": {
       "latitude": 21.3270341,
       "longitude": 103.9141288,
@@ -324,13 +330,14 @@
       "ca": "Son La",
       "he": "סן לה"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "Yen Bai",
     "code": "06",
-    "unofficial_names": "Yen Bai",
+    "unofficial_names": [
+      "Yen Bai"
+    ],
     "geo": {
       "latitude": 21.6837923,
       "longitude": 104.4551361,
@@ -389,13 +396,14 @@
       "ca": "Yên Bái",
       "he": "יין באי"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "Tuyen Quang",
     "code": "07",
-    "unofficial_names": "Tuyen Quang",
+    "unofficial_names": [
+      "Tuyen Quang"
+    ],
     "geo": {
       "latitude": 22.1726708,
       "longitude": 105.3131185,
@@ -456,13 +464,14 @@
       "km": "ខេត្តទ្វៀនក្វាង",
       "my": "တူယန်ကွမ်းပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "Lang Son",
     "code": "09",
-    "unofficial_names": "Lang Son",
+    "unofficial_names": [
+      "Lang Son"
+    ],
     "geo": {
       "latitude": 21.8563705,
       "longitude": 106.6291304,
@@ -524,13 +533,14 @@
       "he": "לאנג סן",
       "km": "ខេត្តឡាំងសឹន"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "Quang Ninh",
     "code": "13",
-    "unofficial_names": "Quang Ninh",
+    "unofficial_names": [
+      "Quang Ninh"
+    ],
     "geo": {
       "latitude": 21.006382,
       "longitude": 107.2925144,
@@ -592,13 +602,14 @@
       "he": "קואנג נינג",
       "km": "ខេត្តក្វាងនិញ"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
     "name": "Hoa Binh",
     "code": "14",
-    "unofficial_names": "Hoa Binh",
+    "unofficial_names": [
+      "Hoa Binh"
+    ],
     "geo": {
       "latitude": 20.6861265,
       "longitude": 105.3131185,
@@ -656,13 +667,14 @@
       "ca": "Hòa Bình",
       "he": "קואנג בין"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
     "name": "Ninh Binh",
     "code": "18",
-    "unofficial_names": "Ninh Binh",
+    "unofficial_names": [
+      "Ninh Binh"
+    ],
     "geo": {
       "latitude": 20.2129969,
       "longitude": 105.92299,
@@ -724,13 +736,14 @@
       "no": "Ninh Bình",
       "ca": "Ninh Binh"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
     "name": "Thai Binh",
     "code": "20",
-    "unofficial_names": "Thai Binh",
+    "unofficial_names": [
+      "Thai Binh"
+    ],
     "geo": {
       "latitude": 20.4463471,
       "longitude": 106.3365828,
@@ -789,13 +802,14 @@
       "no": "Thái Bình",
       "he": "טאי בינה"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
     "name": "Thanh Hoa",
     "code": "21",
-    "unofficial_names": "Thanh Hoa",
+    "unofficial_names": [
+      "Thanh Hoa"
+    ],
     "geo": {
       "latitude": 20.1291279,
       "longitude": 105.3131185,
@@ -853,13 +867,14 @@
       "ca": "Thanh Hoa",
       "he": "טהאינג הואה"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
     "name": "Nghe An",
     "code": "22",
-    "unofficial_names": "Nghe An",
+    "unofficial_names": [
+      "Nghe An"
+    ],
     "geo": {
       "latitude": 19.2342489,
       "longitude": 104.9200365,
@@ -920,13 +935,14 @@
       "be": "Нгеан",
       "he": "נגה אן"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
     "name": "Ha Tinh",
     "code": "23",
-    "unofficial_names": "Ha Tinh",
+    "unofficial_names": [
+      "Ha Tinh"
+    ],
     "geo": {
       "latitude": 18.2943776,
       "longitude": 105.6745247,
@@ -985,13 +1001,14 @@
       "ca": "Provincia de Hà Tĩnh",
       "he": "הא טינג"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
     "name": "Quang Binh",
     "code": "24",
-    "unofficial_names": "Quang Binh",
+    "unofficial_names": [
+      "Quang Binh"
+    ],
     "geo": {
       "latitude": 17.6102715,
       "longitude": 106.3487474,
@@ -1067,13 +1084,14 @@
       "am": "ኳንግ ቢን ክፍላገር",
       "no": "Quang Binh"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Quang Tri",
     "code": "25",
-    "unofficial_names": "Quang Tri",
+    "unofficial_names": [
+      "Quang Tri"
+    ],
     "geo": {
       "latitude": 16.7943472,
       "longitude": 106.963409,
@@ -1132,13 +1150,14 @@
       "no": "Quang Tri",
       "he": "קואנג צ׳י"
     },
-    "comments": null,
     "type": "province"
   },
   "26": {
     "name": "Thua Thien-Hue",
     "code": "26",
-    "unofficial_names": "Thua Thien-Hue",
+    "unofficial_names": [
+      "Thua Thien-Hue"
+    ],
     "geo": {
       "latitude": 16.467397,
       "longitude": 107.5905326,
@@ -1196,13 +1215,14 @@
       "he": "טהיאה טהיין-הואה",
       "hu": "Thừa Thiên-Huế"
     },
-    "comments": null,
     "type": "province"
   },
   "27": {
     "name": "Quang Nam",
     "code": "27",
-    "unofficial_names": "Quang Nam",
+    "unofficial_names": [
+      "Quang Nam"
+    ],
     "geo": {
       "latitude": 15.5393538,
       "longitude": 108.019102,
@@ -1261,13 +1281,14 @@
       "no": "Quang Nam",
       "ca": "Quảng Nam"
     },
-    "comments": null,
     "type": "province"
   },
   "28": {
     "name": "Kon Tum",
     "code": "28",
-    "unofficial_names": "Kon Tum",
+    "unofficial_names": [
+      "Kon Tum"
+    ],
     "geo": {
       "latitude": 14.3497403,
       "longitude": 108.0004606,
@@ -1327,13 +1348,14 @@
       "ga": "Cúige Kon Tum",
       "he": "קון טום"
     },
-    "comments": null,
     "type": "province"
   },
   "29": {
     "name": "Quang Ngai",
     "code": "29",
-    "unofficial_names": "Quang Ngai",
+    "unofficial_names": [
+      "Quang Ngai"
+    ],
     "geo": {
       "latitude": 15.1213873,
       "longitude": 108.8044145,
@@ -1393,13 +1415,14 @@
       "no": "Quang Ngai",
       "he": "קואנג נגאי"
     },
-    "comments": null,
     "type": "province"
   },
   "30": {
     "name": "Gia Lai",
     "code": "30",
-    "unofficial_names": "Gia Lai",
+    "unofficial_names": [
+      "Gia Lai"
+    ],
     "geo": {
       "latitude": 13.8078943,
       "longitude": 108.109375,
@@ -1460,13 +1483,14 @@
       "he": "יה לאי",
       "km": "ចារ៉ាយ"
     },
-    "comments": null,
     "type": "province"
   },
   "31": {
     "name": "Binh Dinh",
     "code": "31",
-    "unofficial_names": "Binh Dinh",
+    "unofficial_names": [
+      "Binh Dinh"
+    ],
     "geo": {
       "latitude": 13.7829673,
       "longitude": 109.2196634,
@@ -1522,13 +1546,14 @@
       "no": "Binh Dinh",
       "he": "בין דינג"
     },
-    "comments": null,
     "type": "province"
   },
   "32": {
     "name": "Phu Yen",
     "code": "32",
-    "unofficial_names": "Phu Yen",
+    "unofficial_names": [
+      "Phu Yen"
+    ],
     "geo": {
       "latitude": 13.0881861,
       "longitude": 109.0928764,
@@ -1586,13 +1611,14 @@
       "no": "Phu Yen",
       "he": "פו יין"
     },
-    "comments": null,
     "type": "province"
   },
   "33": {
     "name": "Dac Lac",
     "code": "33",
-    "unofficial_names": "Dac Lac",
+    "unofficial_names": [
+      "Dac Lac"
+    ],
     "geo": {
       "latitude": 12.7100116,
       "longitude": 108.2377519,
@@ -1651,13 +1677,14 @@
       "ceb": "Tỉnh Đắk Lắk",
       "he": "דאקלאק"
     },
-    "comments": null,
     "type": "province"
   },
   "34": {
     "name": "Khanh Hoa",
     "code": "34",
-    "unofficial_names": "Khanh Hoa",
+    "unofficial_names": [
+      "Khanh Hoa"
+    ],
     "geo": {
       "latitude": 12.2585098,
       "longitude": 109.0526076,
@@ -1718,13 +1745,14 @@
       "he": "חאן הואה",
       "km": "កៅធរៈ"
     },
-    "comments": null,
     "type": "province"
   },
   "35": {
     "name": "Lam Dong",
     "code": "35",
-    "unofficial_names": "Lam Dong",
+    "unofficial_names": [
+      "Lam Dong"
+    ],
     "geo": {
       "latitude": 11.9404192,
       "longitude": 108.4583132,
@@ -1784,13 +1812,14 @@
       "ca": "Lam Dong",
       "he": "לם דאונגם"
     },
-    "comments": null,
     "type": "province"
   },
   "36": {
     "name": "Ninh Thuan",
     "code": "36",
-    "unofficial_names": "Ninh Thuan",
+    "unofficial_names": [
+      "Ninh Thuan"
+    ],
     "geo": {
       "latitude": 11.6738767,
       "longitude": 108.8629572,
@@ -1849,13 +1878,14 @@
       "be": "Ніньтхуан",
       "so": "Ninh Thuan"
     },
-    "comments": null,
     "type": "province"
   },
   "37": {
     "name": "Tay Ninh",
     "code": "37",
-    "unofficial_names": "Tay Ninh",
+    "unofficial_names": [
+      "Tay Ninh"
+    ],
     "geo": {
       "latitude": 11.3675415,
       "longitude": 106.1192802,
@@ -1914,13 +1944,14 @@
       "ca": "Tay-Ninh",
       "he": "טאי נין"
     },
-    "comments": null,
     "type": "province"
   },
   "39": {
     "name": "Dong Nai",
     "code": "39",
-    "unofficial_names": "Dong Nai",
+    "unofficial_names": [
+      "Dong Nai"
+    ],
     "geo": {
       "latitude": 11.0686305,
       "longitude": 107.1675976,
@@ -1967,13 +1998,14 @@
       "he": "דג׳ונג נאי",
       "tr": "Đồng Nai ili"
     },
-    "comments": null,
     "type": "province"
   },
   "40": {
     "name": "Binh Thuan",
     "code": "40",
-    "unofficial_names": "Binh Thuan",
+    "unofficial_names": [
+      "Binh Thuan"
+    ],
     "geo": {
       "latitude": 10.933333,
       "longitude": 108.1,
@@ -2028,13 +2060,14 @@
       "yue": "平順",
       "no": "Binh Thuan"
     },
-    "comments": null,
     "type": "province"
   },
   "41": {
     "name": "Long An",
     "code": "41",
-    "unofficial_names": "Long An",
+    "unofficial_names": [
+      "Long An"
+    ],
     "geo": {
       "latitude": 10.5330098,
       "longitude": 106.4052541,
@@ -2096,13 +2129,14 @@
       "ca": "Long An",
       "he": "לאונגם אנג"
     },
-    "comments": null,
     "type": "province"
   },
   "43": {
     "name": "Ba Ria - Vung Tau",
     "code": "43",
-    "unofficial_names": "Ba Ria - Vung Tau",
+    "unofficial_names": [
+      "Ba Ria - Vung Tau"
+    ],
     "geo": {
       "latitude": 10.5417397,
       "longitude": 107.2429976,
@@ -2161,13 +2195,14 @@
       "et": "Bà Rịa–Vũng Tàu provints",
       "km": "ខេត្តអូរកាប់"
     },
-    "comments": null,
     "type": "province"
   },
   "44": {
     "name": "An Giang",
     "code": "44",
-    "unofficial_names": "An Giang",
+    "unofficial_names": [
+      "An Giang"
+    ],
     "geo": {
       "latitude": 10.5215836,
       "longitude": 105.1258955,
@@ -2227,13 +2262,14 @@
       "ca": "An Giang",
       "he": "אנג יאנג"
     },
-    "comments": null,
     "type": "province"
   },
   "45": {
     "name": "Dong Thap",
     "code": "45",
-    "unofficial_names": "Dong Thap",
+    "unofficial_names": [
+      "Dong Thap"
+    ],
     "geo": {
       "latitude": 10.4937989,
       "longitude": 105.6881788,
@@ -2291,13 +2327,14 @@
       "ca": "Đồng Tháp",
       "he": "דאונגם טהאפ"
     },
-    "comments": null,
     "type": "province"
   },
   "46": {
     "name": "Tien Giang",
     "code": "46",
-    "unofficial_names": "Tien Giang",
+    "unofficial_names": [
+      "Tien Giang"
+    ],
     "geo": {
       "latitude": 10.4493324,
       "longitude": 106.3420504,
@@ -2356,13 +2393,14 @@
       "ca": "Tien Giang",
       "he": "טיין יאנג"
     },
-    "comments": null,
     "type": "province"
   },
   "47": {
     "name": "Kien Giang",
     "code": "47",
-    "unofficial_names": "Kien Giang",
+    "unofficial_names": [
+      "Kien Giang"
+    ],
     "geo": {
       "latitude": 9.8249587,
       "longitude": 105.1258955,
@@ -2421,13 +2459,14 @@
       "he": "קיינג יאנג",
       "so": "Kien Giang"
     },
-    "comments": null,
     "type": "province"
   },
   "49": {
     "name": "Vinh Long",
     "code": "49",
-    "unofficial_names": "Vinh Long",
+    "unofficial_names": [
+      "Vinh Long"
+    ],
     "geo": {
       "latitude": 10.2448442,
       "longitude": 105.958865,
@@ -2487,13 +2526,14 @@
       "no": "Ving Long",
       "be": "Віньлонг"
     },
-    "comments": null,
     "type": "province"
   },
   "50": {
     "name": "Ben Tre",
     "code": "50",
-    "unofficial_names": "Ben Tre",
+    "unofficial_names": [
+      "Ben Tre"
+    ],
     "geo": {
       "latitude": 10.1081553,
       "longitude": 106.4405872,
@@ -2554,13 +2594,14 @@
       "he": "בן צ׳ה",
       "km": "ខេត្តកំពង់ឫស្សី"
     },
-    "comments": null,
     "type": "province"
   },
   "51": {
     "name": "Tra Vinh",
     "code": "51",
-    "unofficial_names": "Tra Vinh",
+    "unofficial_names": [
+      "Tra Vinh"
+    ],
     "geo": {
       "latitude": 9.933333,
       "longitude": 106.35,
@@ -2619,13 +2660,14 @@
       "no": "Tra Vinh",
       "he": "טרווינה"
     },
-    "comments": null,
     "type": "province"
   },
   "52": {
     "name": "Soc Trang",
     "code": "52",
-    "unofficial_names": "Soc Trang",
+    "unofficial_names": [
+      "Soc Trang"
+    ],
     "geo": {
       "latitude": 9.6003688,
       "longitude": 105.9599539,
@@ -2687,13 +2729,14 @@
       "ca": "Província de Sóc Trăng",
       "he": "שאוקפ צ׳אנג"
     },
-    "comments": null,
     "type": "province"
   },
   "53": {
     "name": "Bac Can",
     "code": "53",
-    "unofficial_names": "Bac Can",
+    "unofficial_names": [
+      "Bac Can"
+    ],
     "geo": {
       "latitude": 22.1329032,
       "longitude": 105.8407722,
@@ -2739,13 +2782,14 @@
       "km": "ខេត្តបាកកាន",
       "tr": "Bắc Kạn (il)"
     },
-    "comments": null,
     "type": "province"
   },
   "54": {
     "name": "Bac Giang",
     "code": "54",
-    "unofficial_names": "Bac Giang",
+    "unofficial_names": [
+      "Bac Giang"
+    ],
     "geo": {
       "latitude": 21.3014947,
       "longitude": 106.6291304,
@@ -2804,13 +2848,14 @@
       "he": "באק זאנג",
       "km": "ខេត្តបាកយ៉ាង"
     },
-    "comments": null,
     "type": "province"
   },
   "55": {
     "name": "Bac Lieu",
     "code": "55",
-    "unofficial_names": "Bac Lieu",
+    "unofficial_names": [
+      "Bac Lieu"
+    ],
     "geo": {
       "latitude": 9.251555500000002,
       "longitude": 105.5136472,
@@ -2867,13 +2912,14 @@
       "no": "Bac Lieu",
       "he": "בק ליאו"
     },
-    "comments": null,
     "type": "province"
   },
   "56": {
     "name": "Bac Ninh",
     "code": "56",
-    "unofficial_names": "Bac Ninh",
+    "unofficial_names": [
+      "Bac Ninh"
+    ],
     "geo": {
       "latitude": 21.121444,
       "longitude": 106.1110501,
@@ -2933,13 +2979,14 @@
       "no": "Bac Ninh",
       "he": "באק נינג"
     },
-    "comments": null,
     "type": "province"
   },
   "57": {
     "name": "Binh Duong",
     "code": "57",
-    "unofficial_names": "Binh Duong",
+    "unofficial_names": [
+      "Binh Duong"
+    ],
     "geo": {
       "latitude": 11.3254024,
       "longitude": 106.477017,
@@ -2996,13 +3043,14 @@
       "be": "Біньзыонг",
       "he": "בין ייאנג"
     },
-    "comments": null,
     "type": "province"
   },
   "58": {
     "name": "Binh Phuoc",
     "code": "58",
-    "unofficial_names": "Binh Phuoc",
+    "unofficial_names": [
+      "Binh Phuoc"
+    ],
     "geo": {
       "latitude": 11.7511894,
       "longitude": 106.7234639,
@@ -3058,13 +3106,14 @@
       "no": "Binh Phuroc",
       "he": "בין פייק"
     },
-    "comments": null,
     "type": "province"
   },
   "59": {
     "name": "Ca Mau",
     "code": "59",
-    "unofficial_names": "Ca Mau",
+    "unofficial_names": [
+      "Ca Mau"
+    ],
     "geo": {
       "latitude": 8.962409899999999,
       "longitude": 105.1258955,
@@ -3125,13 +3174,14 @@
       "cy": "Cà Mau",
       "he": "קה מאו"
     },
-    "comments": null,
     "type": "province"
   },
   "61": {
     "name": "Hai Duong",
     "code": "61",
-    "unofficial_names": "Hai Duong",
+    "unofficial_names": [
+      "Hai Duong"
+    ],
     "geo": {
       "latitude": 20.9385958,
       "longitude": 106.3206861,
@@ -3188,13 +3238,14 @@
       "cs": "Hải Dương",
       "he": "האי זיינג"
     },
-    "comments": null,
     "type": "province"
   },
   "63": {
     "name": "Ha Nam",
     "code": "63",
-    "unofficial_names": "Ha Nam",
+    "unofficial_names": [
+      "Ha Nam"
+    ],
     "geo": {
       "latitude": 20.5835196,
       "longitude": 105.92299,
@@ -3251,13 +3302,14 @@
       "yue": "河南",
       "no": "Ha Nam"
     },
-    "comments": null,
     "type": "province"
   },
   "66": {
     "name": "Hung Yen",
     "code": "66",
-    "unofficial_names": "Hung Yen",
+    "unofficial_names": [
+      "Hung Yen"
+    ],
     "geo": {
       "latitude": 20.8525711,
       "longitude": 106.0169971,
@@ -3301,13 +3353,14 @@
       "he": "הונגם יין",
       "tr": "Hưng Yên (il)"
     },
-    "comments": null,
     "type": "province"
   },
   "67": {
     "name": "Nam Dinh",
     "code": "67",
-    "unofficial_names": "Nam Dinh",
+    "unofficial_names": [
+      "Nam Dinh"
+    ],
     "geo": {
       "latitude": 20.2791804,
       "longitude": 106.2051484,
@@ -3364,13 +3417,14 @@
       "yue": "南定",
       "no": "Nam Dinh"
     },
-    "comments": null,
     "type": "province"
   },
   "68": {
     "name": "Phu Tho",
     "code": "68",
-    "unofficial_names": "Phu Tho",
+    "unofficial_names": [
+      "Phu Tho"
+    ],
     "geo": {
       "latitude": 21.268443,
       "longitude": 105.2045573,
@@ -3430,7 +3484,6 @@
       "he": "פו טהו",
       "km": "ខេត្តហ៊្វូថោះ"
     },
-    "comments": null,
     "type": "province"
   },
   "69": {
@@ -3499,13 +3552,14 @@
       "he": "טהאי נגויאן",
       "km": "ខេត្តថាយង្វៀន"
     },
-    "comments": null,
     "type": "province"
   },
   "70": {
     "name": "Vinh Phuc",
     "code": "70",
-    "unofficial_names": "Vinh Phuc",
+    "unofficial_names": [
+      "Vinh Phuc"
+    ],
     "geo": {
       "latitude": 21.3608805,
       "longitude": 105.5474373,
@@ -3564,13 +3618,14 @@
       "ca": "Vinh Phu",
       "he": "מחוז וין פוק"
     },
-    "comments": null,
     "type": "province"
   },
   "71": {
     "name": "Dien Bien",
     "code": "71",
-    "unofficial_names": "Dien Bien",
+    "unofficial_names": [
+      "Dien Bien"
+    ],
     "geo": {
       "latitude": 21.8042309,
       "longitude": 103.1076525,
@@ -3627,13 +3682,14 @@
       "yue": "奠邊",
       "no": "Dien Bien"
     },
-    "comments": null,
     "type": "province"
   },
   "72": {
     "name": "Dak Nong",
     "code": "72",
-    "unofficial_names": "Dak Nong",
+    "unofficial_names": [
+      "Dak Nong"
+    ],
     "geo": {
       "latitude": 12.2646476,
       "longitude": 107.609806,
@@ -3689,13 +3745,14 @@
       "no": "Dak Nong",
       "he": "דאק נאונגם"
     },
-    "comments": null,
     "type": "province"
   },
   "73": {
     "name": "Hau Giang",
     "code": "73",
-    "unofficial_names": "Hau Giang",
+    "unofficial_names": [
+      "Hau Giang"
+    ],
     "geo": {
       "latitude": 9.757897999999999,
       "longitude": 105.6412527,
@@ -3751,13 +3808,14 @@
       "he": "הא זאנג²",
       "sk": "Hậu Giang"
     },
-    "comments": null,
     "type": "province"
   },
   "CT": {
     "name": "Can Tho",
     "code": "CT",
-    "unofficial_names": "Can Tho",
+    "unofficial_names": [
+      "Can Tho"
+    ],
     "geo": {
       "latitude": 10.0451618,
       "longitude": 105.7468535,
@@ -3827,13 +3885,14 @@
       "no": "Can Tho",
       "ga": "Cần Thơ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "DN": {
     "name": "Da Nang",
     "code": "DN",
-    "unofficial_names": "Da Nang, thanh pho",
+    "unofficial_names": [
+      "Da Nang, thanh pho"
+    ],
     "geo": {
       "latitude": 16.0544068,
       "longitude": 108.2021667,
@@ -3919,13 +3978,14 @@
       "km": "ដាណាំង",
       "ky": "Дананг"
     },
-    "comments": null,
     "type": "municipality"
   },
   "HN": {
     "name": "Ha Noi",
     "code": "HN",
-    "unofficial_names": "Ha Noi, thu do",
+    "unofficial_names": [
+      "Ha Noi, thu do"
+    ],
     "geo": {
       "latitude": 21.0277644,
       "longitude": 105.8341598,
@@ -4022,13 +4082,14 @@
       "yo_BJ": "Hanoi",
       "ps": "هانوی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "HP": {
     "name": "Hai Phong",
     "code": "HP",
-    "unofficial_names": "Hai Phong, thanh pho",
+    "unofficial_names": [
+      "Hai Phong, thanh pho"
+    ],
     "geo": {
       "latitude": 20.8449115,
       "longitude": 106.6880841,
@@ -4102,13 +4163,14 @@
       "ro": "Haiphong",
       "uz": "Xayfon"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SG": {
     "name": "Ho Chi Minh",
     "code": "SG",
-    "unofficial_names": "Sai Gon",
+    "unofficial_names": [
+      "Sai Gon"
+    ],
     "geo": {
       "latitude": 10.8230989,
       "longitude": 106.6296638,
@@ -4204,7 +4266,6 @@
       "lo": "ເມືອງໂຮ່ຈິມິນ",
       "pa": "ਹੋ ਚੀ ਮਿਨ ਸ਼ਹਿਰ"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

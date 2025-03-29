@@ -2,7 +2,9 @@
   "B": {
     "name": "Banjul",
     "code": "B",
-    "unofficial_names": "Banjul",
+    "unofficial_names": [
+      "Banjul"
+    ],
     "geo": {
       "latitude": 13.453056,
       "longitude": -16.5775,
@@ -93,7 +95,6 @@
       "yo_BJ": "Banjul",
       "ps": "بانجول"
     },
-    "comments": null,
     "type": "city"
   },
   "L": {
@@ -161,13 +162,14 @@
       "ca": "Lower River",
       "fa": "ناحیه پست رودخانه"
     },
-    "comments": null,
     "type": "division"
   },
   "M": {
     "name": "MacCarthy Island",
     "code": "M",
-    "unofficial_names": "MacCarthy Island",
+    "unofficial_names": [
+      "MacCarthy Island"
+    ],
     "geo": {
       "latitude": 13.5336211,
       "longitude": -14.7695962,
@@ -225,7 +227,6 @@
       "no": "Central River",
       "fa": "ناحیه مرکزی رودخانه"
     },
-    "comments": null,
     "type": "division"
   },
   "N": {
@@ -292,7 +293,6 @@
       "ca": "North Bank",
       "fa": "ناحیه بانک شمالی"
     },
-    "comments": null,
     "type": "division"
   },
   "U": {
@@ -359,7 +359,6 @@
       "ca": "Upper River",
       "fa": "ناحیه بالای رودخانه"
     },
-    "comments": null,
     "type": "division"
   },
   "W": {
@@ -426,7 +425,6 @@
       "ca": "West Coast",
       "fa": "ناحیه غربی (گامبیا)"
     },
-    "comments": null,
     "type": "division"
   }
 }

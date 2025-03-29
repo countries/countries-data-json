@@ -54,7 +54,6 @@
       "ta": "டமாஸ்கஸ் ஆளுநரகம்",
       "th": "เขตผู้ว่าการดามัสกัส"
     },
-    "comments": null,
     "type": "province"
   },
   "DR": {
@@ -119,7 +118,6 @@
       "yue": "德拉 (省)",
       "yue_Hans": "德拉 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "DY": {
@@ -193,7 +191,6 @@
       "yue": "代爾祖爾 (省)",
       "yue_Hans": "代尔祖尔 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "HA": {
@@ -268,7 +265,6 @@
       "yue": "哈塞克 (省)",
       "yue_Hans": "哈塞克 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "HI": {
@@ -280,11 +276,7 @@
     ],
     "geo": {
       "latitude": 33.7348116,
-      "longitude": -117.9947778,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -117.9947778
     },
     "translations": {
       "en": "Homs",
@@ -344,7 +336,6 @@
       "yue": "荷姆斯 (省)",
       "yue_Hans": "荷姆斯 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "HL": {
@@ -358,11 +349,7 @@
     ],
     "geo": {
       "latitude": 33.9166667,
-      "longitude": 38.3,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 38.3
     },
     "translations": {
       "en": "Aleppo",
@@ -414,7 +401,6 @@
       "yue": "阿勒頗 (省)",
       "yue_Hans": "阿勒颇 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "HM": {
@@ -426,11 +412,7 @@
     ],
     "geo": {
       "latitude": 32.8947222,
-      "longitude": 37.12527780000001,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.12527780000001
     },
     "translations": {
       "en": "Hama",
@@ -489,13 +471,14 @@
       "yue": "哈馬 (省)",
       "yue_Hans": "哈马 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "ID": {
     "name": "Idlib",
     "code": "ID",
-    "unofficial_names": "Idlib",
+    "unofficial_names": [
+      "Idlib"
+    ],
     "geo": {
       "latitude": 35.933333,
       "longitude": 36.633333,
@@ -560,7 +543,6 @@
       "yue": "伊德利卜 (省)",
       "yue_Hans": "伊德利卜 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "LA": {
@@ -628,7 +610,6 @@
       "yue": "拉塔基亞 (省)",
       "yue_Hans": "拉塔基亚 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "QU": {
@@ -701,7 +682,6 @@
       "yue": "古奈特拉 (省)",
       "yue_Hans": "古奈特拉 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "RA": {
@@ -766,7 +746,6 @@
       "yue": "拉卡 (省)",
       "yue_Hans": "拉卡 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "RD": {
@@ -842,7 +821,6 @@
       "yue": "大馬士革 (省)",
       "yue_Hans": "大马士革 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "SU": {
@@ -913,7 +891,6 @@
       "yue": "蘇韋達 (省)",
       "yue_Hans": "苏韦达 (省)"
     },
-    "comments": null,
     "type": "province"
   },
   "TA": {
@@ -987,7 +964,6 @@
       "yue": "他圖斯 (省)",
       "yue_Hans": "他图斯 (省)"
     },
-    "comments": null,
     "type": "province"
   }
 }

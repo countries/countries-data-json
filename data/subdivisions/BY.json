@@ -81,21 +81,11 @@
       "bs": "Brestska oblast",
       "no": "Brest"
     },
-    "comments": null,
     "type": "oblast"
   },
   "HM": {
     "name": "Мінск",
     "code": "HM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Minsk",
       "am": "ሚንስክ",
@@ -181,7 +171,6 @@
       "ha_NE": "Miniska",
       "ps": "مینسک"
     },
-    "comments": null,
     "type": "city"
   },
   "HO": {
@@ -266,7 +255,6 @@
       "mk": "Гомељска област",
       "no": "Homjel"
     },
-    "comments": null,
     "type": "oblast"
   },
   "HR": {
@@ -282,14 +270,6 @@
       "Hrodzenskaja Voblastsʿ",
       "Hrodzenskaya Voblastsʿ"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Hrodna",
       "ar": "أوبلاست جردونه",
@@ -350,7 +330,6 @@
       "mk": "Гродненска област",
       "no": "Hrodna"
     },
-    "comments": null,
     "type": "oblast"
   },
   "MA": {
@@ -371,14 +350,6 @@
       "Mogilëv",
       "Mogilʿov"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Magileu",
       "ar": "موغيليوف أوبلاست",
@@ -442,7 +413,6 @@
       "bs": "Mogiljovska oblast",
       "no": "Mahiljow"
     },
-    "comments": null,
     "type": "oblast"
   },
   "MI": {
@@ -525,7 +495,6 @@
       "no": "Minsk²",
       "ga": "Réigiún Mhionsc"
     },
-    "comments": null,
     "type": "oblast"
   },
   "VI": {
@@ -541,14 +510,6 @@
       "Vitebskaya Oblastʿ",
       "Vitsyebsk"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Vitebsk",
       "ar": "فيتسبك أوبلاست",
@@ -611,7 +572,6 @@
       "no": "Vitebsk",
       "sl": "Vitebska oblast"
     },
-    "comments": null,
     "type": "oblast"
   }
 }

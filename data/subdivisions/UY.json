@@ -2,7 +2,9 @@
   "AR": {
     "name": "Artigas",
     "code": "AR",
-    "unofficial_names": "Artigas",
+    "unofficial_names": [
+      "Artigas"
+    ],
     "geo": {
       "latitude": -30.4880891,
       "longitude": -57.10131879999999,
@@ -64,13 +66,14 @@
       "be": "дэпартамент Артыгас",
       "ro": "Departamentul Artigas"
     },
-    "comments": null,
     "type": "department"
   },
   "CA": {
     "name": "Canelones",
     "code": "CA",
-    "unofficial_names": "Canelones",
+    "unofficial_names": [
+      "Canelones"
+    ],
     "geo": {
       "latitude": -34.721,
       "longitude": -55.959,
@@ -131,13 +134,14 @@
       "no": "Canelones",
       "ro": "Departamentul Canelones"
     },
-    "comments": null,
     "type": "department"
   },
   "CL": {
     "name": "Cerro Lago",
     "code": "CL",
-    "unofficial_names": "Cerro Lago",
+    "unofficial_names": [
+      "Cerro Lago"
+    ],
     "geo": {
       "latitude": -32.3769,
       "longitude": -54.1654,
@@ -197,13 +201,14 @@
       "mk": "Серо Ларго",
       "no": "Cerro Largo"
     },
-    "comments": null,
     "type": "department"
   },
   "CO": {
     "name": "Colonia",
     "code": "CO",
-    "unofficial_names": "Colonia",
+    "unofficial_names": [
+      "Colonia"
+    ],
     "geo": {
       "latitude": -34.4607,
       "longitude": -57.8339,
@@ -265,13 +270,14 @@
       "he": "קולוניה (מחוז)",
       "ro": "Departmentul Colonia"
     },
-    "comments": null,
     "type": "department"
   },
   "DU": {
     "name": "Durazno",
     "code": "DU",
-    "unofficial_names": "Durazno",
+    "unofficial_names": [
+      "Durazno"
+    ],
     "geo": {
       "latitude": -33.3822982,
       "longitude": -56.5275506,
@@ -332,7 +338,6 @@
       "no": "Durazno",
       "ro": "Departamentul Durazno"
     },
-    "comments": null,
     "type": "department"
   },
   "FD": {
@@ -400,13 +405,14 @@
       "no": "Florida",
       "ro": "Departamentul Florida"
     },
-    "comments": null,
     "type": "department"
   },
   "FS": {
     "name": "Flores",
     "code": "FS",
-    "unofficial_names": "Flores",
+    "unofficial_names": [
+      "Flores"
+    ],
     "geo": {
       "latitude": -33.5629477,
       "longitude": -56.83111169999999,
@@ -466,13 +472,14 @@
       "no": "Flores",
       "ro": "Departamentul Flores"
     },
-    "comments": null,
     "type": "department"
   },
   "LA": {
     "name": "Lavalleja",
     "code": "LA",
-    "unofficial_names": "Lavalleja",
+    "unofficial_names": [
+      "Lavalleja"
+    ],
     "geo": {
       "latitude": -34.0040354,
       "longitude": -54.9611836,
@@ -532,13 +539,14 @@
       "no": "Lavalleja",
       "ro": "Departamentul Lavalleja"
     },
-    "comments": null,
     "type": "department"
   },
   "MA": {
     "name": "Maldonado",
     "code": "MA",
-    "unofficial_names": "Maldonado",
+    "unofficial_names": [
+      "Maldonado"
+    ],
     "geo": {
       "latitude": -34.6277617,
       "longitude": -54.9611836,
@@ -598,13 +606,14 @@
       "no": "Maldonado",
       "ro": "Departamentul Maldonado"
     },
-    "comments": null,
     "type": "department"
   },
   "MO": {
     "name": "Montevideo",
     "code": "MO",
-    "unofficial_names": "Montevideo",
+    "unofficial_names": [
+      "Montevideo"
+    ],
     "geo": {
       "latitude": -34.9011127,
       "longitude": -56.16453139999999,
@@ -697,13 +706,14 @@
       "yo_BJ": "Montevideo",
       "ps": "مونټي ویډو"
     },
-    "comments": null,
     "type": "department"
   },
   "PA": {
     "name": "Paysandú",
     "code": "PA",
-    "unofficial_names": "Paysandú",
+    "unofficial_names": [
+      "Paysandú"
+    ],
     "geo": {
       "latitude": -32.2216595,
       "longitude": -57.4627259,
@@ -763,13 +773,14 @@
       "be": "дэпартамент Пайсанду",
       "ro": "Departamentul Paysandú"
     },
-    "comments": null,
     "type": "department"
   },
   "RN": {
     "name": "Río Negro",
     "code": "RN",
-    "unofficial_names": "Río Negro",
+    "unofficial_names": [
+      "Río Negro"
+    ],
     "geo": {
       "latitude": -32.7625409,
       "longitude": -57.10131879999999,
@@ -830,13 +841,14 @@
       "he": "ריו נגרו",
       "ro": "Departamentul Río Negro"
     },
-    "comments": null,
     "type": "department"
   },
   "RO": {
     "name": "Rocha",
     "code": "RO",
-    "unofficial_names": "Rocha",
+    "unofficial_names": [
+      "Rocha"
+    ],
     "geo": {
       "latitude": -33.9674948,
       "longitude": -53.9106594,
@@ -895,13 +907,14 @@
       "no": "Rocha",
       "ro": "Departamentul Rocha"
     },
-    "comments": null,
     "type": "department"
   },
   "RV": {
     "name": "Rivera",
     "code": "RV",
-    "unofficial_names": "Rivera",
+    "unofficial_names": [
+      "Rivera"
+    ],
     "geo": {
       "latitude": -30.9025,
       "longitude": -55.550556,
@@ -961,13 +974,14 @@
       "he": "ריברה",
       "ro": "Departamentul Rivera"
     },
-    "comments": null,
     "type": "department"
   },
   "SA": {
     "name": "Salto",
     "code": "SA",
-    "unofficial_names": "Salto",
+    "unofficial_names": [
+      "Salto"
+    ],
     "geo": {
       "latitude": -31.4679335,
       "longitude": -57.10131879999999,
@@ -1029,13 +1043,14 @@
       "he": "סלטו",
       "ro": "Departamentul Salto"
     },
-    "comments": null,
     "type": "department"
   },
   "SJ": {
     "name": "San José",
     "code": "SJ",
-    "unofficial_names": "San José",
+    "unofficial_names": [
+      "San José"
+    ],
     "geo": {
       "latitude": -34.250223,
       "longitude": -56.741207,
@@ -1096,13 +1111,14 @@
       "cy": "San José",
       "ro": "Departamentul San José"
     },
-    "comments": null,
     "type": "department"
   },
   "SO": {
     "name": "Soriano",
     "code": "SO",
-    "unofficial_names": "Soriano",
+    "unofficial_names": [
+      "Soriano"
+    ],
     "geo": {
       "latitude": -33.5103372,
       "longitude": -57.7346113,
@@ -1161,13 +1177,14 @@
       "no": "Soriano",
       "ro": "Departamentul Soriano"
     },
-    "comments": null,
     "type": "department"
   },
   "TA": {
     "name": "Tacuarembó",
     "code": "TA",
-    "unofficial_names": "Tacuarembó",
+    "unofficial_names": [
+      "Tacuarembó"
+    ],
     "geo": {
       "latitude": -32.0106717,
       "longitude": -55.6689636,
@@ -1228,13 +1245,14 @@
       "no": "Tacuarembó",
       "ro": "Departamentul Tacuarembó"
     },
-    "comments": null,
     "type": "department"
   },
   "TT": {
     "name": "Treinta y Tres",
     "code": "TT",
-    "unofficial_names": "Treinta y Tres",
+    "unofficial_names": [
+      "Treinta y Tres"
+    ],
     "geo": {
       "latitude": -33.1476661,
       "longitude": -54.25931180000001,
@@ -1295,7 +1313,6 @@
       "be": "дэпартамент Трэйнта-і-Трэс",
       "ro": "Departamentul Treinta y Tres"
     },
-    "comments": null,
     "type": "department"
   }
 }

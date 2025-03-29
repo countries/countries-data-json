@@ -51,7 +51,6 @@
       "ta": "தலைநகர ஆளுநரகம்",
       "tr": "Başkent (il, Bahreyn)"
     },
-    "comments": null,
     "type": "governorate"
   },
   "14": {
@@ -108,20 +107,17 @@
       "he": "מחוז הדרום",
       "ta": "தெற்கு ஆளுநரகம்"
     },
-    "comments": null,
     "type": "governorate"
   },
   "15": {
     "name": "Al Muharraq",
     "code": "15",
-    "unofficial_names": "Al Muharraq",
+    "unofficial_names": [
+      "Al Muharraq"
+    ],
     "geo": {
       "latitude": 26.266941,
-      "longitude": 50.63839,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 50.63839
     },
     "translations": {
       "en": "Muharraq",
@@ -169,7 +165,6 @@
       "uk": "Муніципалітет Мухаррак",
       "no": "Muharraq guvernement"
     },
-    "comments": null,
     "type": "governorate"
   },
   "17": {
@@ -221,7 +216,6 @@
       "he": "מחוז הצפון",
       "ta": "வடக்கு ஆளுநரகம்"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

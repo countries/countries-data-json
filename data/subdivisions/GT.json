@@ -2,7 +2,9 @@
   "16": {
     "name": "Alta Verapaz",
     "code": "16",
-    "unofficial_names": "Alta Verapaz",
+    "unofficial_names": [
+      "Alta Verapaz"
+    ],
     "geo": {
       "latitude": 15.5942883,
       "longitude": -90.14949879999999,
@@ -61,13 +63,14 @@
       "bs": "Alta Verapaz",
       "no": "Alta Verapaz"
     },
-    "comments": null,
     "type": "department"
   },
   "15": {
     "name": "Baja Verapaz",
     "code": "15",
-    "unofficial_names": "Baja Verapaz",
+    "unofficial_names": [
+      "Baja Verapaz"
+    ],
     "geo": {
       "latitude": 15.0787498,
       "longitude": -90.4125181,
@@ -125,13 +128,14 @@
       "bs": "Baja Verapaz",
       "no": "Baja Verapaz"
     },
-    "comments": null,
     "type": "department"
   },
   "04": {
     "name": "Chimaltenango",
     "code": "04",
-    "unofficial_names": "Chimaltenango",
+    "unofficial_names": [
+      "Chimaltenango"
+    ],
     "geo": {
       "latitude": 14.662222,
       "longitude": -90.820833,
@@ -189,13 +193,14 @@
       "bs": "Chimaltenango",
       "no": "Chimaltenango"
     },
-    "comments": null,
     "type": "department"
   },
   "20": {
     "name": "Chiquimula",
     "code": "20",
-    "unofficial_names": "Chiquimula",
+    "unofficial_names": [
+      "Chiquimula"
+    ],
     "geo": {
       "latitude": 14.783333,
       "longitude": -89.533333,
@@ -251,13 +256,14 @@
       "bs": "Chiquimula",
       "no": "Chiquimula"
     },
-    "comments": null,
     "type": "department"
   },
   "05": {
     "name": "Escuintla",
     "code": "05",
-    "unofficial_names": "Escuintla",
+    "unofficial_names": [
+      "Escuintla"
+    ],
     "geo": {
       "latitude": 14.3009389,
       "longitude": -90.7882163,
@@ -314,13 +320,14 @@
       "bs": "Escuintla",
       "no": "Escuintla"
     },
-    "comments": null,
     "type": "department"
   },
   "01": {
     "name": "Guatemala",
     "code": "01",
-    "unofficial_names": "Guatemala",
+    "unofficial_names": [
+      "Guatemala"
+    ],
     "geo": {
       "latitude": 14.613333,
       "longitude": -90.53527799999999,
@@ -380,13 +387,14 @@
       "bs": "Guatemala",
       "no": "Guatemala"
     },
-    "comments": null,
     "type": "department"
   },
   "13": {
     "name": "Huehuetenango",
     "code": "13",
-    "unofficial_names": "Huehuetenango",
+    "unofficial_names": [
+      "Huehuetenango"
+    ],
     "geo": {
       "latitude": 15.314722,
       "longitude": -91.47611099999999,
@@ -443,13 +451,14 @@
       "bs": "Huehuetenango",
       "no": "Huehuetenango"
     },
-    "comments": null,
     "type": "department"
   },
   "18": {
     "name": "Izabal",
     "code": "18",
-    "unofficial_names": "Izabal",
+    "unofficial_names": [
+      "Izabal"
+    ],
     "geo": {
       "latitude": 15.4036847,
       "longitude": -89.1384441,
@@ -506,13 +515,14 @@
       "bs": "Izabal",
       "no": "Izabal"
     },
-    "comments": null,
     "type": "department"
   },
   "21": {
     "name": "Jalapa",
     "code": "21",
-    "unofficial_names": "Jalapa",
+    "unofficial_names": [
+      "Jalapa"
+    ],
     "geo": {
       "latitude": 14.5655154,
       "longitude": -89.9253233,
@@ -569,13 +579,14 @@
       "bs": "Jalapa",
       "no": "Jalapa"
     },
-    "comments": null,
     "type": "department"
   },
   "22": {
     "name": "Jutiapa",
     "code": "22",
-    "unofficial_names": "Jutiapa",
+    "unofficial_names": [
+      "Jutiapa"
+    ],
     "geo": {
       "latitude": 14.282778,
       "longitude": -89.8925,
@@ -633,13 +644,14 @@
       "bs": "Jutiapa",
       "no": "Jutiapa"
     },
-    "comments": null,
     "type": "department"
   },
   "17": {
     "name": "Petén",
     "code": "17",
-    "unofficial_names": "Petén",
+    "unofficial_names": [
+      "Petén"
+    ],
     "geo": {
       "latitude": 16.912033,
       "longitude": -90.2995785,
@@ -698,20 +710,17 @@
       "bs": "Petén",
       "no": "Petén"
     },
-    "comments": null,
     "type": "department"
   },
   "02": {
     "name": "El Progreso",
     "code": "02",
-    "unofficial_names": "El Progreso",
+    "unofficial_names": [
+      "El Progreso"
+    ],
     "geo": {
       "latitude": 14.86527,
-      "longitude": -90.02031699999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -90.02031699999999
     },
     "translations": {
       "en": "El Progreso",
@@ -761,13 +770,14 @@
       "bs": "El Progreso",
       "no": "El Progreso"
     },
-    "comments": null,
     "type": "department"
   },
   "14": {
     "name": "Quiché",
     "code": "14",
-    "unofficial_names": "Quiché",
+    "unofficial_names": [
+      "Quiché"
+    ],
     "geo": {
       "latitude": 15.4983808,
       "longitude": -90.9820668,
@@ -824,7 +834,6 @@
       "bs": "Quiché",
       "no": "Quiché"
     },
-    "comments": null,
     "type": "department"
   },
   "09": {
@@ -891,13 +900,14 @@
       "bs": "Quetzaltenango",
       "no": "Quetzaltenango"
     },
-    "comments": null,
     "type": "department"
   },
   "11": {
     "name": "Retalhuleu",
     "code": "11",
-    "unofficial_names": "Retalhuleu",
+    "unofficial_names": [
+      "Retalhuleu"
+    ],
     "geo": {
       "latitude": 14.533333,
       "longitude": -91.68333299999999,
@@ -955,13 +965,14 @@
       "bs": "Retalhuleu",
       "no": "Retalhuleu"
     },
-    "comments": null,
     "type": "department"
   },
   "03": {
     "name": "Sacatepéquez",
     "code": "03",
-    "unofficial_names": "Sacatepéquez",
+    "unofficial_names": [
+      "Sacatepéquez"
+    ],
     "geo": {
       "latitude": 14.6110576,
       "longitude": -90.7152749,
@@ -1020,13 +1031,14 @@
       "bs": "Sacatepéquez",
       "no": "Sacatepéquez"
     },
-    "comments": null,
     "type": "department"
   },
   "12": {
     "name": "San Marcos",
     "code": "12",
-    "unofficial_names": "San Marcos",
+    "unofficial_names": [
+      "San Marcos"
+    ],
     "geo": {
       "latitude": 14.9309569,
       "longitude": -91.9099238,
@@ -1083,13 +1095,14 @@
       "bs": "San Marcos",
       "no": "San Marcos (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "07": {
     "name": "Sololá",
     "code": "07",
-    "unofficial_names": "Sololá",
+    "unofficial_names": [
+      "Sololá"
+    ],
     "geo": {
       "latitude": 14.773889,
       "longitude": -91.1875,
@@ -1146,13 +1159,14 @@
       "bs": "Sololá",
       "no": "Sololá"
     },
-    "comments": null,
     "type": "department"
   },
   "06": {
     "name": "Santa Rosa",
     "code": "06",
-    "unofficial_names": "Santa Rosa",
+    "unofficial_names": [
+      "Santa Rosa"
+    ],
     "geo": {
       "latitude": 14.1928003,
       "longitude": -90.37483540000001,
@@ -1211,13 +1225,14 @@
       "bs": "Santa Rosa",
       "no": "Santa Rosa (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "10": {
     "name": "Suchitepéquez",
     "code": "10",
-    "unofficial_names": "Suchitepéquez",
+    "unofficial_names": [
+      "Suchitepéquez"
+    ],
     "geo": {
       "latitude": 14.4215982,
       "longitude": -91.4048249,
@@ -1274,13 +1289,14 @@
       "bs": "Suchitepéquez",
       "no": "Suchitepéquez"
     },
-    "comments": null,
     "type": "department"
   },
   "08": {
     "name": "Totonicapán",
     "code": "08",
-    "unofficial_names": "Totonicapán",
+    "unofficial_names": [
+      "Totonicapán"
+    ],
     "geo": {
       "latitude": 14.910833,
       "longitude": -91.360556,
@@ -1337,13 +1353,14 @@
       "bs": "Totonicapán",
       "no": "Totonicapán (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "19": {
     "name": "Zacapa",
     "code": "19",
-    "unofficial_names": "Zacapa",
+    "unofficial_names": [
+      "Zacapa"
+    ],
     "geo": {
       "latitude": 15.0784265,
       "longitude": -89.436391,
@@ -1400,7 +1417,6 @@
       "bs": "Zacapa",
       "no": "Zacapa"
     },
-    "comments": null,
     "type": "department"
   }
 }

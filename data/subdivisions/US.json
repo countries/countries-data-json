@@ -2,7 +2,9 @@
   "AK": {
     "name": "Alaska",
     "code": "AK",
-    "unofficial_names": "Alaska",
+    "unofficial_names": [
+      "Alaska"
+    ],
     "geo": {
       "latitude": 64.2008413,
       "longitude": -149.4936733,
@@ -99,13 +101,14 @@
       "no": "Alaska",
       "yo_BJ": "Alaska"
     },
-    "comments": null,
     "type": "state"
   },
   "AL": {
     "name": "Alabama",
     "code": "AL",
-    "unofficial_names": "Alabama",
+    "unofficial_names": [
+      "Alabama"
+    ],
     "geo": {
       "latitude": 32.3182314,
       "longitude": -86.902298,
@@ -201,13 +204,14 @@
       "no": "Alabama",
       "ps": "آلاباما"
     },
-    "comments": null,
     "type": "state"
   },
   "AR": {
     "name": "Arkansas",
     "code": "AR",
-    "unofficial_names": "Arkansas",
+    "unofficial_names": [
+      "Arkansas"
+    ],
     "geo": {
       "latitude": 35.20105,
       "longitude": -91.8318334,
@@ -302,20 +306,17 @@
       "no": "Arkansas",
       "yo_BJ": "Arkansas"
     },
-    "comments": null,
     "type": "state"
   },
   "AS": {
     "name": "American Samoa",
     "code": "AS",
-    "unofficial_names": "American Samoa",
+    "unofficial_names": [
+      "American Samoa"
+    ],
     "geo": {
       "latitude": 21.3239718,
-      "longitude": -157.876498,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -157.876498
     },
     "translations": {
       "en": "American Samoa",
@@ -328,7 +329,9 @@
   "AZ": {
     "name": "Arizona",
     "code": "AZ",
-    "unofficial_names": "Arizona",
+    "unofficial_names": [
+      "Arizona"
+    ],
     "geo": {
       "latitude": 34.0489281,
       "longitude": -111.0937311,
@@ -425,13 +428,14 @@
       "yo_BJ": "Arizona",
       "ky": "Аризона"
     },
-    "comments": null,
     "type": "state"
   },
   "CA": {
     "name": "California",
     "code": "CA",
-    "unofficial_names": "California",
+    "unofficial_names": [
+      "California"
+    ],
     "geo": {
       "latitude": 36.778261,
       "longitude": -119.4179324,
@@ -531,13 +535,14 @@
       "ha_NE": "California",
       "no": "California"
     },
-    "comments": null,
     "type": "state"
   },
   "CO": {
     "name": "Colorado",
     "code": "CO",
-    "unofficial_names": "Colorado",
+    "unofficial_names": [
+      "Colorado"
+    ],
     "geo": {
       "latitude": 39.5500507,
       "longitude": -105.7820674,
@@ -633,13 +638,14 @@
       "no": "Colorado",
       "yo_BJ": "Colorado"
     },
-    "comments": null,
     "type": "state"
   },
   "CT": {
     "name": "Connecticut",
     "code": "CT",
-    "unofficial_names": "Connecticut",
+    "unofficial_names": [
+      "Connecticut"
+    ],
     "geo": {
       "latitude": 41.6032207,
       "longitude": -73.087749,
@@ -735,13 +741,14 @@
       "my": "ကွန်နက်တီကတ်ပြည်နယ်",
       "sd": "ڪونيڪٽيڪٽ"
     },
-    "comments": null,
     "type": "state"
   },
   "DC": {
     "name": "District of Columbia",
     "code": "DC",
-    "unofficial_names": "District of Columbia",
+    "unofficial_names": [
+      "District of Columbia"
+    ],
     "geo": {
       "latitude": 38.9071923,
       "longitude": -77.0368707,
@@ -820,13 +827,14 @@
       "no": "Washington D.C.",
       "ja": "コロンビア特別区"
     },
-    "comments": null,
     "type": "district"
   },
   "DE": {
     "name": "Delaware",
     "code": "DE",
-    "unofficial_names": "Delaware",
+    "unofficial_names": [
+      "Delaware"
+    ],
     "geo": {
       "latitude": 38.9108325,
       "longitude": -75.52766989999999,
@@ -920,13 +928,14 @@
       "yo_BJ": "Delaware",
       "so": "Delaware"
     },
-    "comments": null,
     "type": "state"
   },
   "FL": {
     "name": "Florida",
     "code": "FL",
-    "unofficial_names": "Florida",
+    "unofficial_names": [
+      "Florida"
+    ],
     "geo": {
       "latitude": 27.6648274,
       "longitude": -81.5157535,
@@ -1023,13 +1032,14 @@
       "yo_BJ": "Florida",
       "ky": "Флорида"
     },
-    "comments": null,
     "type": "state"
   },
   "GA": {
     "name": "Georgia",
     "code": "GA",
-    "unofficial_names": "Georgia",
+    "unofficial_names": [
+      "Georgia"
+    ],
     "geo": {
       "latitude": 32.1656221,
       "longitude": -82.9000751,
@@ -1123,20 +1133,17 @@
       "ha": "Georgia (Tarayyar Amurka)",
       "ha_NE": "Georgia (Tarayyar Amurka)"
     },
-    "comments": null,
     "type": "state"
   },
   "GU": {
     "name": "Guam",
     "code": "GU",
-    "unofficial_names": "Guam",
+    "unofficial_names": [
+      "Guam"
+    ],
     "geo": {
       "latitude": 36.90194,
-      "longitude": -89.82361,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -89.82361
     },
     "translations": {
       "en": "Guam",
@@ -1149,7 +1156,9 @@
   "HI": {
     "name": "Hawaii",
     "code": "HI",
-    "unofficial_names": "Hawaii",
+    "unofficial_names": [
+      "Hawaii"
+    ],
     "geo": {
       "latitude": 19.8967662,
       "longitude": -155.5827818,
@@ -1247,13 +1256,14 @@
       "km": "ហាវ៉ៃ",
       "ps": "هاوایی"
     },
-    "comments": null,
     "type": "state"
   },
   "IA": {
     "name": "Iowa",
     "code": "IA",
-    "unofficial_names": "Iowa",
+    "unofficial_names": [
+      "Iowa"
+    ],
     "geo": {
       "latitude": 41.8780025,
       "longitude": -93.097702,
@@ -1348,13 +1358,14 @@
       "yo_BJ": "Iowa",
       "ps": "آیووا"
     },
-    "comments": null,
     "type": "state"
   },
   "ID": {
     "name": "Idaho",
     "code": "ID",
-    "unofficial_names": "Idaho",
+    "unofficial_names": [
+      "Idaho"
+    ],
     "geo": {
       "latitude": 44.0682019,
       "longitude": -114.7420408,
@@ -1448,13 +1459,14 @@
       "ha": "Idaho",
       "ha_NE": "Idaho"
     },
-    "comments": null,
     "type": "state"
   },
   "IL": {
     "name": "Illinois",
     "code": "IL",
-    "unofficial_names": "Illinois",
+    "unofficial_names": [
+      "Illinois"
+    ],
     "geo": {
       "latitude": 40.6331249,
       "longitude": -89.3985283,
@@ -1549,13 +1561,14 @@
       "ha": "Illinois",
       "ha_NE": "Illinois"
     },
-    "comments": null,
     "type": "state"
   },
   "IN": {
     "name": "Indiana",
     "code": "IN",
-    "unofficial_names": "Indiana",
+    "unofficial_names": [
+      "Indiana"
+    ],
     "geo": {
       "latitude": 40.2671941,
       "longitude": -86.1349019,
@@ -1649,13 +1662,14 @@
       "no": "Indiana",
       "yo_BJ": "Indiana"
     },
-    "comments": null,
     "type": "state"
   },
   "KS": {
     "name": "Kansas",
     "code": "KS",
-    "unofficial_names": "Kansas",
+    "unofficial_names": [
+      "Kansas"
+    ],
     "geo": {
       "latitude": 39.011902,
       "longitude": -98.4842465,
@@ -1749,13 +1763,14 @@
       "ha_NE": "Kansas",
       "ps": "کانزاس"
     },
-    "comments": null,
     "type": "state"
   },
   "KY": {
     "name": "Kentucky",
     "code": "KY",
-    "unofficial_names": "Kentucky",
+    "unofficial_names": [
+      "Kentucky"
+    ],
     "geo": {
       "latitude": 37.8393332,
       "longitude": -84.2700179,
@@ -1849,13 +1864,14 @@
       "ha_NE": "Kentucky",
       "ps": "کنتاکي"
     },
-    "comments": null,
     "type": "state"
   },
   "LA": {
     "name": "Louisiana",
     "code": "LA",
-    "unofficial_names": "Louisiana",
+    "unofficial_names": [
+      "Louisiana"
+    ],
     "geo": {
       "latitude": 30.9842977,
       "longitude": -91.96233269999999,
@@ -1949,13 +1965,14 @@
       "ha_NE": "Louisiana",
       "ps": "لویزیانا"
     },
-    "comments": null,
     "type": "state"
   },
   "MA": {
     "name": "Massachusetts",
     "code": "MA",
-    "unofficial_names": "Massachusetts",
+    "unofficial_names": [
+      "Massachusetts"
+    ],
     "geo": {
       "latitude": 42.4072107,
       "longitude": -71.3824374,
@@ -2053,13 +2070,14 @@
       "lo": "ລັດແມສຊາຊູເຊຕສ໌",
       "ps": "ماساچوست"
     },
-    "comments": null,
     "type": "state"
   },
   "MD": {
     "name": "Maryland",
     "code": "MD",
-    "unofficial_names": "Maryland",
+    "unofficial_names": [
+      "Maryland"
+    ],
     "geo": {
       "latitude": 39.0457549,
       "longitude": -76.64127119999999,
@@ -2154,13 +2172,14 @@
       "ha_NE": "Maryland",
       "ps": "مریلنډ"
     },
-    "comments": null,
     "type": "state"
   },
   "ME": {
     "name": "Maine",
     "code": "ME",
-    "unofficial_names": "Maine",
+    "unofficial_names": [
+      "Maine"
+    ],
     "geo": {
       "latitude": 45.253783,
       "longitude": -69.4454689,
@@ -2255,13 +2274,14 @@
       "ps": "مین",
       "so": "Maine"
     },
-    "comments": null,
     "type": "state"
   },
   "MI": {
     "name": "Michigan",
     "code": "MI",
-    "unofficial_names": "Michigan",
+    "unofficial_names": [
+      "Michigan"
+    ],
     "geo": {
       "latitude": 44.3148443,
       "longitude": -85.60236429999999,
@@ -2357,13 +2377,14 @@
       "ps": "میشیګان",
       "so": "Mishiigan"
     },
-    "comments": null,
     "type": "state"
   },
   "MN": {
     "name": "Minnesota",
     "code": "MN",
-    "unofficial_names": "Minnesota",
+    "unofficial_names": [
+      "Minnesota"
+    ],
     "geo": {
       "latitude": 46.729553,
       "longitude": -94.6858998,
@@ -2458,13 +2479,14 @@
       "ha_NE": "Minnesota",
       "ps": "مینه سوتا"
     },
-    "comments": null,
     "type": "state"
   },
   "MO": {
     "name": "Missouri",
     "code": "MO",
-    "unofficial_names": "Missouri",
+    "unofficial_names": [
+      "Missouri"
+    ],
     "geo": {
       "latitude": 37.9642529,
       "longitude": -91.8318334,
@@ -2558,20 +2580,17 @@
       "ha_NE": "Missouri (jiha)",
       "ps": "میسوري آیالات"
     },
-    "comments": null,
     "type": "state"
   },
   "MP": {
     "name": "Northern Mariana Islands",
     "code": "MP",
-    "unofficial_names": "Northern Mariana Islands",
+    "unofficial_names": [
+      "Northern Mariana Islands"
+    ],
     "geo": {
       "latitude": 15.1466435,
-      "longitude": 145.7023038,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 145.7023038
     },
     "translations": {
       "en": "Northern Mariana Islands",
@@ -2584,7 +2603,9 @@
   "MS": {
     "name": "Mississippi",
     "code": "MS",
-    "unofficial_names": "Mississippi",
+    "unofficial_names": [
+      "Mississippi"
+    ],
     "geo": {
       "latitude": 32.3546679,
       "longitude": -89.3985283,
@@ -2679,13 +2700,14 @@
       "ps": "میسیسیپی",
       "so": "Mississippi"
     },
-    "comments": null,
     "type": "state"
   },
   "MT": {
     "name": "Montana",
     "code": "MT",
-    "unofficial_names": "Montana",
+    "unofficial_names": [
+      "Montana"
+    ],
     "geo": {
       "latitude": 46.8796822,
       "longitude": -110.3625658,
@@ -2779,13 +2801,14 @@
       "yo_BJ": "Montana",
       "ps": "مونتانا"
     },
-    "comments": null,
     "type": "state"
   },
   "NC": {
     "name": "North Carolina",
     "code": "NC",
-    "unofficial_names": "North Carolina",
+    "unofficial_names": [
+      "North Carolina"
+    ],
     "geo": {
       "latitude": 35.7595731,
       "longitude": -79.01929969999999,
@@ -2878,13 +2901,14 @@
       "ha_NE": "North Carolina",
       "ps": "شمالي کارولینا"
     },
-    "comments": null,
     "type": "state"
   },
   "ND": {
     "name": "North Dakota",
     "code": "ND",
-    "unofficial_names": "North Dakota",
+    "unofficial_names": [
+      "North Dakota"
+    ],
     "geo": {
       "latitude": 47.5514926,
       "longitude": -101.0020119,
@@ -2979,13 +3003,14 @@
       "ps": "شمالي داکوتا",
       "so": "Waqooyi Dakota"
     },
-    "comments": null,
     "type": "state"
   },
   "NE": {
     "name": "Nebraska",
     "code": "NE",
-    "unofficial_names": "Nebraska",
+    "unofficial_names": [
+      "Nebraska"
+    ],
     "geo": {
       "latitude": 41.4925374,
       "longitude": -99.9018131,
@@ -3080,13 +3105,14 @@
       "ps": "نبراسکا",
       "so": "Nebraska"
     },
-    "comments": null,
     "type": "state"
   },
   "NH": {
     "name": "New Hampshire",
     "code": "NH",
-    "unofficial_names": "New Hampshire",
+    "unofficial_names": [
+      "New Hampshire"
+    ],
     "geo": {
       "latitude": 43.1938516,
       "longitude": -71.5723953,
@@ -3181,13 +3207,14 @@
       "ha_NE": "New Hampshire",
       "ps": "نیو همپشایر"
     },
-    "comments": null,
     "type": "state"
   },
   "NJ": {
     "name": "New Jersey",
     "code": "NJ",
-    "unofficial_names": "New Jersey",
+    "unofficial_names": [
+      "New Jersey"
+    ],
     "geo": {
       "latitude": 40.0583238,
       "longitude": -74.4056612,
@@ -3283,13 +3310,14 @@
       "mn": "Нью-Жерси",
       "ps": "نیو جرسي"
     },
-    "comments": null,
     "type": "state"
   },
   "NM": {
     "name": "New Mexico",
     "code": "NM",
-    "unofficial_names": "New Mexico",
+    "unofficial_names": [
+      "New Mexico"
+    ],
     "geo": {
       "latitude": 34.5199402,
       "longitude": -105.8700901,
@@ -3386,13 +3414,14 @@
       "sd": "نيو ميڪسيڪو",
       "so": "Meksiko Cusub"
     },
-    "comments": null,
     "type": "state"
   },
   "NV": {
     "name": "Nevada",
     "code": "NV",
-    "unofficial_names": "Nevada",
+    "unofficial_names": [
+      "Nevada"
+    ],
     "geo": {
       "latitude": 38.8026097,
       "longitude": -116.419389,
@@ -3487,13 +3516,14 @@
       "yo_BJ": "Nevada",
       "ps": "نوادا"
     },
-    "comments": null,
     "type": "state"
   },
   "NY": {
     "name": "New York",
     "code": "NY",
-    "unofficial_names": "New York",
+    "unofficial_names": [
+      "New York"
+    ],
     "geo": {
       "latitude": 43.2994285,
       "longitude": -74.21793260000001,
@@ -3593,13 +3623,14 @@
       "ha_NE": "New York (jiha)",
       "no": "New York"
     },
-    "comments": null,
     "type": "state"
   },
   "OH": {
     "name": "Ohio",
     "code": "OH",
-    "unofficial_names": "Ohio",
+    "unofficial_names": [
+      "Ohio"
+    ],
     "geo": {
       "latitude": 40.4172871,
       "longitude": -82.90712300000001,
@@ -3694,13 +3725,14 @@
       "ps": "اوهایو",
       "so": "Ohio"
     },
-    "comments": null,
     "type": "state"
   },
   "OK": {
     "name": "Oklahoma",
     "code": "OK",
-    "unofficial_names": "Oklahoma",
+    "unofficial_names": [
+      "Oklahoma"
+    ],
     "geo": {
       "latitude": 35.0077519,
       "longitude": -97.092877,
@@ -3796,13 +3828,14 @@
       "ps": "اوکلاهوما",
       "so": "Oklahoma"
     },
-    "comments": null,
     "type": "state"
   },
   "OR": {
     "name": "Oregon",
     "code": "OR",
-    "unofficial_names": "Oregon",
+    "unofficial_names": [
+      "Oregon"
+    ],
     "geo": {
       "latitude": 43.8041334,
       "longitude": -120.5542012,
@@ -3897,13 +3930,14 @@
       "ps": "اورګان",
       "so": "Oregon"
     },
-    "comments": null,
     "type": "state"
   },
   "PA": {
     "name": "Pennsylvania",
     "code": "PA",
-    "unofficial_names": "Pennsylvania",
+    "unofficial_names": [
+      "Pennsylvania"
+    ],
     "geo": {
       "latitude": 41.2033216,
       "longitude": -77.1945247,
@@ -4000,20 +4034,17 @@
       "km": "ផេនស៊ីលវ៉ានៀ",
       "ps": "پنسلوانیا"
     },
-    "comments": null,
     "type": "state"
   },
   "PR": {
     "name": "Puerto Rico",
     "code": "PR",
-    "unofficial_names": "Puerto Rico",
+    "unofficial_names": [
+      "Puerto Rico"
+    ],
     "geo": {
       "latitude": 32.7290818,
-      "longitude": -117.1517016,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -117.1517016
     },
     "translations": {
       "en": "Puerto Rico",
@@ -4026,7 +4057,9 @@
   "RI": {
     "name": "Rhode Island",
     "code": "RI",
-    "unofficial_names": "Rhode Island",
+    "unofficial_names": [
+      "Rhode Island"
+    ],
     "geo": {
       "latitude": 41.5800945,
       "longitude": -71.4774291,
@@ -4121,13 +4154,14 @@
       "ps": "روډ ایسلنډ",
       "so": "Gasiirada Rhode"
     },
-    "comments": null,
     "type": "state"
   },
   "SC": {
     "name": "South Carolina",
     "code": "SC",
-    "unofficial_names": "South Carolina",
+    "unofficial_names": [
+      "South Carolina"
+    ],
     "geo": {
       "latitude": 33.836081,
       "longitude": -81.1637245,
@@ -4221,13 +4255,14 @@
       "ps": "سویلي کارولینا",
       "so": "Koonfur Karolina"
     },
-    "comments": null,
     "type": "state"
   },
   "SD": {
     "name": "South Dakota",
     "code": "SD",
-    "unofficial_names": "South Dakota",
+    "unofficial_names": [
+      "South Dakota"
+    ],
     "geo": {
       "latitude": 43.9695148,
       "longitude": -99.9018131,
@@ -4322,13 +4357,14 @@
       "ps": "سویلي داکوتا",
       "so": "Koonfur Dakota"
     },
-    "comments": null,
     "type": "state"
   },
   "TN": {
     "name": "Tennessee",
     "code": "TN",
-    "unofficial_names": "Tennessee",
+    "unofficial_names": [
+      "Tennessee"
+    ],
     "geo": {
       "latitude": 35.5174913,
       "longitude": -86.5804473,
@@ -4424,13 +4460,14 @@
       "ps": "تینسي",
       "so": "Tennessee"
     },
-    "comments": null,
     "type": "state"
   },
   "TX": {
     "name": "Texas",
     "code": "TX",
-    "unofficial_names": "Texas",
+    "unofficial_names": [
+      "Texas"
+    ],
     "geo": {
       "latitude": 31.9685988,
       "longitude": -99.9018131,
@@ -4529,13 +4566,14 @@
       "ps": "تکزاس",
       "sd": "ٽيڪساس"
     },
-    "comments": null,
     "type": "state"
   },
   "UM": {
     "name": "United States Minor Outlying Islands",
     "code": "UM",
-    "unofficial_names": "United States Minor Outlying Islands",
+    "unofficial_names": [
+      "United States Minor Outlying Islands"
+    ],
     "geo": {
       "latitude": 28.2021222,
       "longitude": -177.3804525,
@@ -4555,7 +4593,9 @@
   "UT": {
     "name": "Utah",
     "code": "UT",
-    "unofficial_names": "Utah",
+    "unofficial_names": [
+      "Utah"
+    ],
     "geo": {
       "latitude": 39.3209801,
       "longitude": -111.0937311,
@@ -4651,13 +4691,14 @@
       "ps": "یوتا",
       "so": "Utah"
     },
-    "comments": null,
     "type": "state"
   },
   "VA": {
     "name": "Virginia",
     "code": "VA",
-    "unofficial_names": "Virginia",
+    "unofficial_names": [
+      "Virginia"
+    ],
     "geo": {
       "latitude": 37.4315734,
       "longitude": -78.6568942,
@@ -4753,20 +4794,17 @@
       "yo_BJ": "Firginia",
       "ps": "ویرجینیا"
     },
-    "comments": null,
     "type": "state"
   },
   "VI": {
     "name": "Virgin Islands, U.S.",
     "code": "VI",
-    "unofficial_names": "Virgin Islands, U.S.",
+    "unofficial_names": [
+      "Virgin Islands, U.S."
+    ],
     "geo": {
       "latitude": 33.8569878,
-      "longitude": -84.5904089,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -84.5904089
     },
     "translations": {
       "en": "U.S. Virgin Islands",
@@ -4779,7 +4817,9 @@
   "VT": {
     "name": "Vermont",
     "code": "VT",
-    "unofficial_names": "Vermont",
+    "unofficial_names": [
+      "Vermont"
+    ],
     "geo": {
       "latitude": 44.5588028,
       "longitude": -72.57784149999999,
@@ -4873,13 +4913,14 @@
       "no": "Vermont",
       "yo_BJ": "Fermont"
     },
-    "comments": null,
     "type": "state"
   },
   "WA": {
     "name": "Washington",
     "code": "WA",
-    "unofficial_names": "Washington",
+    "unofficial_names": [
+      "Washington"
+    ],
     "geo": {
       "latitude": 47.7510741,
       "longitude": -120.7401386,
@@ -4976,13 +5017,14 @@
       "ha": "Washington (jiha)",
       "ha_NE": "Washington (jiha)"
     },
-    "comments": null,
     "type": "state"
   },
   "WI": {
     "name": "Wisconsin",
     "code": "WI",
-    "unofficial_names": "Wisconsin",
+    "unofficial_names": [
+      "Wisconsin"
+    ],
     "geo": {
       "latitude": 43.7844397,
       "longitude": -88.7878678,
@@ -5078,13 +5120,14 @@
       "yo_BJ": "Wisconsin",
       "ps": "ویسکانسین"
     },
-    "comments": null,
     "type": "state"
   },
   "WV": {
     "name": "West Virginia",
     "code": "WV",
-    "unofficial_names": "West Virginia",
+    "unofficial_names": [
+      "West Virginia"
+    ],
     "geo": {
       "latitude": 38.5976262,
       "longitude": -80.4549026,
@@ -5178,13 +5221,14 @@
       "ha_NE": "West Virginia",
       "ps": "لویدیځه ویرجینیا"
     },
-    "comments": null,
     "type": "state"
   },
   "WY": {
     "name": "Wyoming",
     "code": "WY",
-    "unofficial_names": "Wyoming",
+    "unofficial_names": [
+      "Wyoming"
+    ],
     "geo": {
       "latitude": 43.0759678,
       "longitude": -107.2902839,
@@ -5281,7 +5325,6 @@
       "ps": "وایومینګ",
       "so": "Wyoming"
     },
-    "comments": null,
     "type": "state"
   }
 }

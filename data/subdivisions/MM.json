@@ -2,7 +2,9 @@
   "01": {
     "name": "Sagaing",
     "code": "01",
-    "unofficial_names": "Sagaing",
+    "unofficial_names": [
+      "Sagaing"
+    ],
     "geo": {
       "latitude": 21.9159702,
       "longitude": 95.9621106,
@@ -61,7 +63,6 @@
       "km": "តំបន់សាហ្គាំង",
       "ky": "Сикайн (оодан)"
     },
-    "comments": null,
     "type": "region"
   },
   "02": {
@@ -125,7 +126,6 @@
       "ka": "ბაგოს რეგიონი",
       "km": "តំបន់បាហ្គោ"
     },
-    "comments": null,
     "type": "region"
   },
   "03": {
@@ -190,13 +190,14 @@
       "ka": "მაგვაის რეგიონი",
       "ky": "Магуэ (оодан)"
     },
-    "comments": null,
     "type": "region"
   },
   "04": {
     "name": "Mandalay",
     "code": "04",
-    "unofficial_names": "Mandalay",
+    "unofficial_names": [
+      "Mandalay"
+    ],
     "geo": {
       "latitude": 21.975,
       "longitude": 96.083333,
@@ -257,7 +258,6 @@
       "ky": "Мандалай (оодан)",
       "ro": "Regiunea Mandalay"
     },
-    "comments": null,
     "type": "region"
   },
   "05": {
@@ -323,7 +323,6 @@
       "km": "តំបន់តានីនថារី",
       "ky": "Танинтайи"
     },
-    "comments": null,
     "type": "region"
   },
   "06": {
@@ -397,7 +396,6 @@
       "ka": "იანგონის რეგიონი",
       "km": "តំបន់យ៉ាំងហ្គូន"
     },
-    "comments": null,
     "type": "region"
   },
   "07": {
@@ -469,13 +467,14 @@
       "ka": "აიეიარვადის რეგიონი",
       "my": "ဧရာဝတီတိုင်း"
     },
-    "comments": null,
     "type": "region"
   },
   "11": {
     "name": "Kachin",
     "code": "11",
-    "unofficial_names": "Kachin",
+    "unofficial_names": [
+      "Kachin"
+    ],
     "geo": {
       "latitude": 25.850904,
       "longitude": 97.4381355,
@@ -542,13 +541,14 @@
       "km": "រដ្ឋកាឈីន",
       "ky": "Качин (штат)"
     },
-    "comments": null,
     "type": "state"
   },
   "12": {
     "name": "Kayah",
     "code": "12",
-    "unofficial_names": "Kayah",
+    "unofficial_names": [
+      "Kayah"
+    ],
     "geo": {
       "latitude": 19.2342061,
       "longitude": 97.26528580000002,
@@ -611,7 +611,6 @@
       "ky": "Кая (штат)",
       "ro": "Statul Kayah"
     },
-    "comments": null,
     "type": "state"
   },
   "13": {
@@ -680,13 +679,14 @@
       "ky": "Карен (штат)",
       "ro": "Statul Kayin"
     },
-    "comments": null,
     "type": "state"
   },
   "14": {
     "name": "Chin",
     "code": "14",
-    "unofficial_names": "Chin",
+    "unofficial_names": [
+      "Chin"
+    ],
     "geo": {
       "latitude": 22.3896751,
       "longitude": 93.5812692,
@@ -749,13 +749,14 @@
       "ky": "Чин (штат)",
       "my": "ချင်းပြည်နယ်"
     },
-    "comments": null,
     "type": "state"
   },
   "15": {
     "name": "Mon",
     "code": "15",
-    "unofficial_names": "Mon",
+    "unofficial_names": [
+      "Mon"
+    ],
     "geo": {
       "latitude": 17.0626039,
       "longitude": 97.35165579999999,
@@ -818,7 +819,6 @@
       "km": "រដ្ឋមន",
       "ky": "Мон (штат)"
     },
-    "comments": null,
     "type": "state"
   },
   "16": {
@@ -888,13 +888,14 @@
       "no": "Rakhine",
       "ky": "Ракхайн"
     },
-    "comments": null,
     "type": "state"
   },
   "17": {
     "name": "Shan",
     "code": "17",
-    "unofficial_names": "Shan",
+    "unofficial_names": [
+      "Shan"
+    ],
     "geo": {
       "latitude": 21.156717,
       "longitude": 97.57347829999999,
@@ -961,21 +962,11 @@
       "ky": "Шан (штат)",
       "pa": "ਸ਼ਾਨ ਰਾਜ"
     },
-    "comments": null,
     "type": "state"
   },
   "18": {
     "name": "နေပြည်တော် ပြည်ထောင်စုနယ်မြေ",
     "code": "18",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Unionsterritorium Naypyidaw",
       "en": "Naypyidaw",
@@ -1001,7 +992,6 @@
       "km": "ទឹកដីសហភាពណៃពិដោ",
       "mr": "नेप्यिडॉ केंद्रशासित प्रदेश"
     },
-    "comments": null,
     "type": "union_territory"
   }
 }

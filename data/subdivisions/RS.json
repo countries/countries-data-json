@@ -2,7 +2,9 @@
   "00": {
     "name": "Belgrade",
     "code": "00",
-    "unofficial_names": "Belgrade",
+    "unofficial_names": [
+      "Belgrade"
+    ],
     "geo": {
       "latitude": 44.786568,
       "longitude": 20.4489216,
@@ -92,13 +94,14 @@
       "no": "Beograd",
       "yo_BJ": "Belgrade"
     },
-    "comments": null,
     "type": "city"
   },
   "01": {
     "name": "Severna Backa",
     "code": "01",
-    "unofficial_names": "Severna Backa",
+    "unofficial_names": [
+      "Severna Backa"
+    ],
     "geo": {
       "latitude": 45.9803394,
       "longitude": 19.5907,
@@ -162,13 +165,14 @@
       "bs": "Sjevernobački upravni okrug",
       "fa": "ناحیه باچکای شمالی"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Srednji Banat",
     "code": "02",
-    "unofficial_names": "Srednji Banat",
+    "unofficial_names": [
+      "Srednji Banat"
+    ],
     "geo": {
       "latitude": 45.4788485,
       "longitude": 20.6082522,
@@ -231,13 +235,14 @@
       "bs": "Srednjobanatski upravni okrug",
       "fa": "ناحیه بانات مرکزی"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Severni Banat",
     "code": "03",
-    "unofficial_names": "Severni Banat",
+    "unofficial_names": [
+      "Severni Banat"
+    ],
     "geo": {
       "latitude": 45.906839,
       "longitude": 19.9993417,
@@ -301,13 +306,14 @@
       "bs": "Sjevernobanatski upravni okrug",
       "fa": "ناحیه بانات شمالی"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "Južni Banat",
     "code": "04",
-    "unofficial_names": "Južni Banat",
+    "unofficial_names": [
+      "Južni Banat"
+    ],
     "geo": {
       "latitude": 45.0027457,
       "longitude": 21.0542509,
@@ -372,13 +378,14 @@
       "no": "Sør Banat distrikt",
       "fa": "ناحیه بانات جنوبی"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Zapadna Backa",
     "code": "05",
-    "unofficial_names": "Zapadna Backa",
+    "unofficial_names": [
+      "Zapadna Backa"
+    ],
     "geo": {
       "latitude": 45.7355385,
       "longitude": 19.1897364,
@@ -440,13 +447,14 @@
       "no": "Vest Backa Distrikt",
       "fa": "ناحیه باچکای غربی"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Južna Backa",
     "code": "06",
-    "unofficial_names": "Južna Backa",
+    "unofficial_names": [
+      "Južna Backa"
+    ],
     "geo": {
       "latitude": 45.4890344,
       "longitude": 19.6976187,
@@ -511,13 +519,14 @@
       "fa": "ناحیه باچکای جنوبی",
       "hy": "Հարավային Բաչկայի շրջան"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
     "name": "Srem",
     "code": "07",
-    "unofficial_names": "Srem",
+    "unofficial_names": [
+      "Srem"
+    ],
     "geo": {
       "latitude": 45.0029171,
       "longitude": 19.8013773,
@@ -582,13 +591,14 @@
       "mk": "Сремски Округ",
       "mn": "Срем аймаг"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
     "name": "Macva",
     "code": "08",
-    "unofficial_names": "Macva",
+    "unofficial_names": [
+      "Macva"
+    ],
     "geo": {
       "latitude": 44.5925314,
       "longitude": 19.5082246,
@@ -652,13 +662,14 @@
       "mk": "Мачвански Округ",
       "mn": "Мачва аймаг"
     },
-    "comments": null,
     "type": "district"
   },
   "09": {
     "name": "Kolubara",
     "code": "09",
-    "unofficial_names": "Kolubara",
+    "unofficial_names": [
+      "Kolubara"
+    ],
     "geo": {
       "latitude": 44.2674361,
       "longitude": 19.8980841,
@@ -721,13 +732,14 @@
       "fa": "ناحیه کولوبارا",
       "mk": "Колубарски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
     "name": "Podunavlje",
     "code": "10",
-    "unofficial_names": "Podunavlje",
+    "unofficial_names": [
+      "Podunavlje"
+    ],
     "geo": {
       "latitude": 44.4729156,
       "longitude": 20.9901426,
@@ -788,13 +800,14 @@
       "cs": "Podunajský okruh",
       "fa": "ناحیه پودوناولیه"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
     "name": "Branicevo",
     "code": "11",
-    "unofficial_names": "Branicevo",
+    "unofficial_names": [
+      "Branicevo"
+    ],
     "geo": {
       "latitude": 44.705,
       "longitude": 21.538333,
@@ -858,13 +871,14 @@
       "hy": "Բռանիչևսկյան շրջան",
       "mk": "Браничевски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Šumadija",
     "code": "12",
-    "unofficial_names": "Šumadija",
+    "unofficial_names": [
+      "Šumadija"
+    ],
     "geo": {
       "latitude": 44.20506779999999,
       "longitude": 20.7856565,
@@ -927,13 +941,14 @@
       "fa": "ناحیه شومادئیا",
       "mk": "Шумадиски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
     "name": "Pomoravlje",
     "code": "13",
-    "unofficial_names": "Pomoravlje",
+    "unofficial_names": [
+      "Pomoravlje"
+    ],
     "geo": {
       "latitude": 43.95913789999999,
       "longitude": 21.271353,
@@ -995,13 +1010,14 @@
       "fa": "ناحیه پوموراولیه",
       "mk": "Поморавски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
     "name": "Bor",
     "code": "14",
-    "unofficial_names": "Bor",
+    "unofficial_names": [
+      "Bor"
+    ],
     "geo": {
       "latitude": 44.0698918,
       "longitude": 22.0985086,
@@ -1065,13 +1081,14 @@
       "mk": "УО Бор",
       "mn": "Бор аймаг"
     },
-    "comments": null,
     "type": "district"
   },
   "15": {
     "name": "Zajecar",
     "code": "15",
-    "unofficial_names": "Zajecar",
+    "unofficial_names": [
+      "Zajecar"
+    ],
     "geo": {
       "latitude": 43.9015048,
       "longitude": 22.2738011,
@@ -1135,20 +1152,17 @@
       "hy": "Զաեչարի օկրուգ",
       "mk": "Заечарски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "16": {
     "name": "Zlatibor",
     "code": "16",
-    "unofficial_names": "Zlatibor",
+    "unofficial_names": [
+      "Zlatibor"
+    ],
     "geo": {
       "latitude": 43.6554553,
-      "longitude": 19.6633226,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 19.6633226
     },
     "translations": {
       "en": "Zlatibor",
@@ -1206,13 +1220,14 @@
       "fa": "ناحیه زلاتیبور",
       "mk": "Златиборски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "17": {
     "name": "Moravica",
     "code": "17",
-    "unofficial_names": "Moravica",
+    "unofficial_names": [
+      "Moravica"
+    ],
     "geo": {
       "latitude": 43.5393662,
       "longitude": 21.7117215,
@@ -1276,13 +1291,14 @@
       "hy": "Մորավիցայի շրջան",
       "mk": "Моравички Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "18": {
     "name": "Raška",
     "code": "18",
-    "unofficial_names": "Raška",
+    "unofficial_names": [
+      "Raška"
+    ],
     "geo": {
       "latitude": 43.291944,
       "longitude": 20.615556,
@@ -1347,13 +1363,14 @@
       "hy": "Ռաշկայի շրջան",
       "mk": "Рашки Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "19": {
     "name": "Rasina",
     "code": "19",
-    "unofficial_names": "Rasina",
+    "unofficial_names": [
+      "Rasina"
+    ],
     "geo": {
       "latitude": 43.5789182,
       "longitude": 21.3484472,
@@ -1417,13 +1434,14 @@
       "hu": "Rasina körzet",
       "mk": "Расински Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "20": {
     "name": "Nišava",
     "code": "20",
-    "unofficial_names": "Nišava",
+    "unofficial_names": [
+      "Nišava"
+    ],
     "geo": {
       "latitude": 43.3738902,
       "longitude": 21.9322331,
@@ -1486,13 +1504,14 @@
       "fa": "ناحیه نیشاوا",
       "mk": "Нишавски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "21": {
     "name": "Toplica",
     "code": "21",
-    "unofficial_names": "Toplica",
+    "unofficial_names": [
+      "Toplica"
+    ],
     "geo": {
       "latitude": 43.1906592,
       "longitude": 21.3407762,
@@ -1554,13 +1573,14 @@
       "fa": "ناحیه توپلیکا",
       "mk": "Топлички Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "22": {
     "name": "Pirot",
     "code": "22",
-    "unofficial_names": "Pirot",
+    "unofficial_names": [
+      "Pirot"
+    ],
     "geo": {
       "latitude": 43.1557012,
       "longitude": 22.5856812,
@@ -1621,13 +1641,14 @@
       "fa": "ناحیه پیروت",
       "mk": "Пиротски Округ"
     },
-    "comments": null,
     "type": "district"
   },
   "23": {
     "name": "Jablanica",
     "code": "23",
-    "unofficial_names": "Jablanica",
+    "unofficial_names": [
+      "Jablanica"
+    ],
     "geo": {
       "latitude": 43.443889,
       "longitude": 21.271389,
@@ -1690,13 +1711,14 @@
       "no": "Jablanica distrikt",
       "bs": "Jablanički upravni okrug"
     },
-    "comments": null,
     "type": "district"
   },
   "24": {
     "name": "Pcinja",
     "code": "24",
-    "unofficial_names": "Pcinja",
+    "unofficial_names": [
+      "Pcinja"
+    ],
     "geo": {
       "latitude": 42.5836362,
       "longitude": 22.1430215,
@@ -1757,13 +1779,14 @@
       "cs": "Pčinja",
       "fa": "ناحیه پچینیا"
     },
-    "comments": null,
     "type": "district"
   },
   "25": {
     "name": "Kosovo",
     "code": "25",
-    "unofficial_names": "Kosovo",
+    "unofficial_names": [
+      "Kosovo"
+    ],
     "geo": {
       "latitude": 44.016521,
       "longitude": 21.005859,
@@ -1799,20 +1822,17 @@
       "fa": "ناحیه کوزوو",
       "id": "Distrik Kosovo"
     },
-    "comments": null,
     "type": "district"
   },
   "26": {
     "name": "Pec´",
     "code": "26",
-    "unofficial_names": "Pec´",
+    "unofficial_names": [
+      "Pec´"
+    ],
     "geo": {
       "latitude": 43.5725,
-      "longitude": 19.8797222,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 19.8797222
     },
     "translations": {
       "en": "Peć",
@@ -1834,20 +1854,17 @@
       "de": "Okrug Peć",
       "fa": "ناحیه پج"
     },
-    "comments": null,
     "type": "district"
   },
   "27": {
     "name": "Prizren",
     "code": "27",
-    "unofficial_names": "Prizren",
+    "unofficial_names": [
+      "Prizren"
+    ],
     "geo": {
       "latitude": 43.6930556,
-      "longitude": 19.28,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 19.28
     },
     "translations": {
       "en": "Prizren",
@@ -1869,13 +1886,14 @@
       "mn": "Призрен аймаг",
       "fa": "ناحیه پرازیرن صربستان"
     },
-    "comments": null,
     "type": "district"
   },
   "28": {
     "name": "Kosovska Mitrovica",
     "code": "28",
-    "unofficial_names": "Kosovska Mitrovica",
+    "unofficial_names": [
+      "Kosovska Mitrovica"
+    ],
     "geo": {
       "latitude": 44.9980615,
       "longitude": 19.8087171,
@@ -1900,21 +1918,14 @@
       "mn": "Косов-Митровиц аймаг",
       "fa": "ناحیه کوسووسکا میترویتسا صربستان"
     },
-    "comments": null,
     "type": "district"
   },
   "29": {
     "name": "Kosovo-Pomoravlje",
     "code": "29",
-    "unofficial_names": "Kosovo-Pomoravlje",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Kosovo-Pomoravlje"
+    ],
     "translations": {
       "en": "Kosovo-Pomoravlje",
       "ca": "Districte de Kosovo-Pomoravlje",
@@ -1937,21 +1948,11 @@
       "fa": "ناحیه کوزوو-پوموراولیه",
       "id": "Distrik Kosovo-Pomoravlje"
     },
-    "comments": null,
     "type": "district"
   },
   "KM": {
     "name": "Косово и Метохија",
     "code": "KM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Косава і Мятохія",
       "ca": "Província autònoma de Kosovo i Metòkhia",
@@ -1992,21 +1993,11 @@
       "sv": "Autonoma provinsen Kosovo och Metohija",
       "uz": "Kosovo va metoxiya"
     },
-    "comments": null,
     "type": "autonomous_province"
   },
   "VO": {
     "name": "Војводина",
     "code": "VO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Vojvodina",
       "ar": "فويفودينا",
@@ -2075,7 +2066,6 @@
       "yue": "禾獲甸拿",
       "yue_Hans": "禾获甸拿"
     },
-    "comments": null,
     "type": "autonomous_province"
   }
 }

@@ -65,7 +65,6 @@
       "ps": "کناخت",
       "ro": "Connacht"
     },
-    "comments": null,
     "type": "province"
   },
   "CE": {
@@ -144,7 +143,6 @@
       "hr": "Clare (okrug)",
       "hy": "Քլեր"
     },
-    "comments": null,
     "type": "county"
   },
   "CN": {
@@ -221,7 +219,6 @@
       "mk": "Каван",
       "no": "Cavan"
     },
-    "comments": null,
     "type": "county"
   },
   "CO": {
@@ -233,11 +230,7 @@
     ],
     "geo": {
       "latitude": 51.8985,
-      "longitude": 8.4756,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 8.4756
     },
     "translations": {
       "no": "Cork",
@@ -304,7 +297,6 @@
       "az": "Kork",
       "hr": "Cork (okrug)"
     },
-    "comments": null,
     "type": "county"
   },
   "CW": {
@@ -384,7 +376,6 @@
       "az": "Karlou qraflığı",
       "kk": "Карлоу (графтық)"
     },
-    "comments": null,
     "type": "county"
   },
   "D": {
@@ -451,7 +442,6 @@
       "kk": "Дублин (графтық)",
       "sw": "Wilaya ya Dublin"
     },
-    "comments": null,
     "type": "county"
   },
   "DL": {
@@ -462,11 +452,7 @@
     ],
     "geo": {
       "latitude": 54.6541972,
-      "longitude": -8.110546,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -8.110546
     },
     "translations": {
       "no": "Donegal",
@@ -531,7 +517,6 @@
       "is": "County Donegal",
       "sq": "Qarku i Donegal"
     },
-    "comments": null,
     "type": "county"
   },
   "G": {
@@ -610,7 +595,6 @@
       "et": "Galway krahvkond",
       "hy": "Գոլուեյ"
     },
-    "comments": null,
     "type": "county"
   },
   "KE": {
@@ -690,7 +674,6 @@
       "az": "Kilder qraflığı",
       "hy": "Քիլդեր կոմսություն"
     },
-    "comments": null,
     "type": "county"
   },
   "KK": {
@@ -769,7 +752,6 @@
       "zh": "基爾肯尼郡",
       "az": "Kilkenni qraflığı"
     },
-    "comments": null,
     "type": "county"
   },
   "KY": {
@@ -848,21 +830,11 @@
       "az": "Kerri",
       "hy": "Քերի կոմսություն"
     },
-    "comments": null,
     "type": "county"
   },
   "L": {
     "name": "Leinster",
     "code": "L",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "no": "Leinster",
       "ar": "لاينستر",
@@ -917,7 +889,6 @@
       "ps": "لینستر",
       "ro": "Leinster"
     },
-    "comments": null,
     "type": "province"
   },
   "LD": {
@@ -994,7 +965,6 @@
       "vi": "Hạt Longford",
       "zh": "朗福德郡"
     },
-    "comments": null,
     "type": "county"
   },
   "LH": {
@@ -1072,7 +1042,6 @@
       "vi": "Hạt Louth",
       "zh": "劳斯郡"
     },
-    "comments": null,
     "type": "county"
   },
   "LK": {
@@ -1149,7 +1118,6 @@
       "vi": "Hạt Limerick",
       "zh": "利默里克郡"
     },
-    "comments": null,
     "type": "county"
   },
   "LM": {
@@ -1160,11 +1128,7 @@
     ],
     "geo": {
       "latitude": 53.9926007,
-      "longitude": -8.0655852,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -8.0655852
     },
     "translations": {
       "no": "Leitrim",
@@ -1225,7 +1189,6 @@
       "zh": "利特里姆郡",
       "et": "Leitrimi krahvkond"
     },
-    "comments": null,
     "type": "county"
   },
   "LS": {
@@ -1301,20 +1264,14 @@
       "vi": "Hạt Laois",
       "zh": "萊伊什郡"
     },
-    "comments": null,
     "type": "county"
   },
   "M": {
     "name": "Munster",
     "code": "M",
-    "unofficial_names": null,
     "geo": {
       "latitude": 52.2218,
-      "longitude": 8.5567,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 8.5567
     },
     "translations": {
       "no": "Munster",
@@ -1370,7 +1327,6 @@
       "az": "Munster",
       "ps": "مونسټر (آیرلنډ)"
     },
-    "comments": null,
     "type": "province"
   },
   "MH": {
@@ -1448,7 +1404,6 @@
       "yue": "中土郡",
       "zh": "米斯郡"
     },
-    "comments": null,
     "type": "county"
   },
   "MN": {
@@ -1523,7 +1478,6 @@
       "vi": "Hạt Monaghan",
       "zh": "莫纳亨郡"
     },
-    "comments": null,
     "type": "county"
   },
   "MO": {
@@ -1602,7 +1556,6 @@
       "et": "Mayo krahvkond",
       "sl": "Grofija Mayo"
     },
-    "comments": null,
     "type": "county"
   },
   "OY": {
@@ -1682,7 +1635,6 @@
       "zh": "奧法利郡",
       "az": "Offali"
     },
-    "comments": null,
     "type": "county"
   },
   "RN": {
@@ -1760,7 +1712,6 @@
       "et": "Roscommoni krahvkond",
       "hu": "Roscommon megye"
     },
-    "comments": null,
     "type": "county"
   },
   "SO": {
@@ -1839,7 +1790,6 @@
       "zh": "斯萊戈郡",
       "et": "Sligo krahvkond"
     },
-    "comments": null,
     "type": "county"
   },
   "TA": {
@@ -1914,20 +1864,14 @@
       "zh": "蒂珀雷里郡",
       "hu": "Tipperary megye"
     },
-    "comments": null,
     "type": "county"
   },
   "U": {
     "name": "Ulster",
     "code": "U",
-    "unofficial_names": null,
     "geo": {
       "latitude": 54.7617,
-      "longitude": 6.9612,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.9612
     },
     "translations": {
       "no": "Ulster",
@@ -1988,7 +1932,6 @@
       "ps": "اولسټر",
       "sd": "اولسٽر"
     },
-    "comments": null,
     "type": "province"
   },
   "WD": {
@@ -2064,7 +2007,6 @@
       "vi": "Hạt Waterford",
       "zh": "沃特福德郡"
     },
-    "comments": null,
     "type": "county"
   },
   "WH": {
@@ -2139,7 +2081,6 @@
       "zh": "韋斯特米斯郡",
       "kk": "Уэстмит"
     },
-    "comments": null,
     "type": "county"
   },
   "WW": {
@@ -2217,7 +2158,6 @@
       "vi": "Hạt Wicklow",
       "zh": "威克洛郡"
     },
-    "comments": null,
     "type": "county"
   },
   "WX": {
@@ -2294,7 +2234,6 @@
       "et": "Wexfordi krahvkond",
       "hy": "Ուեքսֆորդ"
     },
-    "comments": null,
     "type": "county"
   }
 }

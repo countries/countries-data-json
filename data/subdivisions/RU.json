@@ -88,7 +88,6 @@
       "mk": "Адигеја",
       "no": "Adygia"
     },
-    "comments": null,
     "type": "republic"
   },
   "AL": {
@@ -101,11 +100,7 @@
     ],
     "geo": {
       "latitude": 55.7671943,
-      "longitude": 37.606158,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.606158
     },
     "translations": {
       "ru": "Республика Алтай",
@@ -181,7 +176,6 @@
       "sq": "Republika e Altait",
       "tk": "Altaý Respublikasy"
     },
-    "comments": null,
     "type": "republic"
   },
   "ALT": {
@@ -272,7 +266,6 @@
       "gl": "Krai de Altai",
       "is": "Altaífylki"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "AMU": {
@@ -361,7 +354,6 @@
       "ps": "آمور",
       "sd": "آمور اوبلاسٽ"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "ARK": {
@@ -451,7 +443,6 @@
       "no": "Arkhangelsk",
       "sd": "آرکينگيلسڪ آبلاسٽ"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "AST": {
@@ -541,7 +532,6 @@
       "mn": "Астрахань муж",
       "sd": "آستراخان اوبلاسٽ"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "BA": {
@@ -635,7 +625,6 @@
       "mk": "Башкортостан",
       "no": "Basjkortostan"
     },
-    "comments": null,
     "type": "republic"
   },
   "BEL": {
@@ -724,7 +713,6 @@
       "ps": "بلګورود",
       "sd": "بلگورود اوبلاست"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "BRY": {
@@ -814,7 +802,6 @@
       "ps": "بریانسک",
       "sd": "برائنسڪ آبلاسٽ"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "BU": {
@@ -826,11 +813,7 @@
     ],
     "geo": {
       "latitude": 55.7685161,
-      "longitude": 37.6425744,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.6425744
     },
     "translations": {
       "ru": "Бурятия",
@@ -905,7 +888,6 @@
       "no": "Burjatia",
       "cy": "Gweriniaeth Buryatia"
     },
-    "comments": null,
     "type": "republic"
   },
   "CE": {
@@ -922,11 +904,7 @@
     ],
     "geo": {
       "latitude": 55.7521689,
-      "longitude": 37.5886438,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.5886438
     },
     "translations": {
       "ru": "Чечня",
@@ -1007,7 +985,6 @@
       "kk": "Шешенстан",
       "ps": "چيچنيا"
     },
-    "comments": null,
     "type": "republic"
   },
   "CHE": {
@@ -1097,7 +1074,6 @@
       "is": "Tsjeljabinskfylki",
       "sd": "چيليابنسڪ آبلاسٽ"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "CHU": {
@@ -1187,7 +1163,6 @@
       "ky": "Чукча автономия округу",
       "mn": "Чукоткийн өөртөө засах тойрог"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "CU": {
@@ -1279,20 +1254,17 @@
       "no": "Tsjuvasjia",
       "ky": "Чувашстан"
     },
-    "comments": null,
     "type": "republic"
   },
   "DA": {
     "name": "Dagestan, Respublika",
     "code": "DA",
-    "unofficial_names": "Dagestan, Respublika",
+    "unofficial_names": [
+      "Dagestan, Respublika"
+    ],
     "geo": {
       "latitude": 55.7599606,
-      "longitude": 37.6504362,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.6504362
     },
     "translations": {
       "ru": "Дагестан",
@@ -1372,7 +1344,6 @@
       "cy": "Dagestan",
       "sd": "داغستان"
     },
-    "comments": null,
     "type": "republic"
   },
   "IN": {
@@ -1460,7 +1431,6 @@
       "sq": "Ingushetia",
       "th": "สาธารณรัฐอิงกูเชเตีย"
     },
-    "comments": null,
     "type": "republic"
   },
   "IRK": {
@@ -1547,7 +1517,6 @@
       "gl": "oblast de Irkutsk",
       "is": "Irkútskfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "IVA": {
@@ -1633,7 +1602,6 @@
       "no": "Ivanovo",
       "is": "Ívanovófylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KAM": {
@@ -1646,11 +1614,7 @@
     ],
     "geo": {
       "latitude": 55.743583,
-      "longitude": 37.5880195,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 37.5880195
     },
     "translations": {
       "en": "Kamchatka Krai",
@@ -1725,7 +1689,6 @@
       "gl": "Krai de Kamchatka",
       "hy": "Կամչատկայի երկրամաս"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "KB": {
@@ -1817,7 +1780,6 @@
       "no": "Kabardino-Balkaria",
       "sq": "Kabardino-Balkaria"
     },
-    "comments": null,
     "type": "republic"
   },
   "KC": {
@@ -1908,7 +1870,6 @@
       "no": "Karatsjajevo-Tsjerkessia",
       "sq": "Karaçaj-Çerkesia"
     },
-    "comments": null,
     "type": "republic"
   },
   "KDA": {
@@ -1996,7 +1957,6 @@
       "mk": "Краснодарски крај",
       "no": "Krasnodar"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "KEM": {
@@ -2082,7 +2042,6 @@
       "no": "Kemerovo",
       "is": "Kemeróvofylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KGD": {
@@ -2173,7 +2132,6 @@
       "yo_BJ": "Kaliningrad Oblast",
       "is": "Kaliníngradfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KGN": {
@@ -2260,7 +2218,6 @@
       "no": "Kurgan",
       "is": "Kúrganfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KHA": {
@@ -2349,7 +2306,6 @@
       "no": "Khabarovsk",
       "is": "Kabarovskfylki"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "KHM": {
@@ -2435,7 +2391,6 @@
       "no": "Khanty-Mansia",
       "mn": "Ханты-Мансийн өөртөө засах тойрог"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "KIR": {
@@ -2521,7 +2476,6 @@
       "no": "Kirov",
       "is": "Kírovfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KK": {
@@ -2610,7 +2564,6 @@
       "no": "Khakasia",
       "sq": "Hakasia"
     },
-    "comments": null,
     "type": "republic"
   },
   "KL": {
@@ -2703,7 +2656,6 @@
       "no": "Kalmykia",
       "sq": "Kalmikia"
     },
-    "comments": null,
     "type": "republic"
   },
   "KLU": {
@@ -2790,13 +2742,14 @@
       "is": "Kalúgafylki",
       "mn": "Калуга муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KO": {
     "name": "Komi, Respublika",
     "code": "KO",
-    "unofficial_names": "Komi, Respublika",
+    "unofficial_names": [
+      "Komi, Respublika"
+    ],
     "geo": {
       "latitude": 63.8630539,
       "longitude": 54.8312689,
@@ -2877,7 +2830,6 @@
       "no": "Komi",
       "sq": "Komiu"
     },
-    "comments": null,
     "type": "republic"
   },
   "KOS": {
@@ -2964,7 +2916,6 @@
       "is": "Kostrómafylki",
       "mn": "Кострома муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KR": {
@@ -3054,7 +3005,6 @@
       "mk": "Република Карелија",
       "no": "Karelia"
     },
-    "comments": null,
     "type": "republic"
   },
   "KRS": {
@@ -3140,7 +3090,6 @@
       "is": "Kúrskfylki",
       "mn": "Курск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KYA": {
@@ -3230,7 +3179,6 @@
       "gl": "Krai de Krasnoiarsk",
       "is": "Krasnojarskfylki"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "LEN": {
@@ -3318,7 +3266,6 @@
       "mk": "Ленинградска област",
       "no": "Leningrad"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "LIP": {
@@ -3408,7 +3355,6 @@
       "is": "Lípetskfylki",
       "mn": "Липецк муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "MAG": {
@@ -3494,7 +3440,6 @@
       "mk": "Магаданска област",
       "no": "Magadan"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "ME": {
@@ -3584,7 +3529,6 @@
       "no": "Mari El",
       "sq": "Mari El"
     },
-    "comments": null,
     "type": "republic"
   },
   "MO": {
@@ -3672,7 +3616,6 @@
       "mk": "Мордовија",
       "no": "Mordovia"
     },
-    "comments": null,
     "type": "republic"
   },
   "MOS": {
@@ -3759,7 +3702,6 @@
       "no": "Moskva",
       "is": "Moskvufylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "MOW": {
@@ -3869,7 +3811,6 @@
       "no": "Moskva²",
       "lo": "ມອດໂກ"
     },
-    "comments": null,
     "type": "autonomous_city"
   },
   "MUR": {
@@ -3956,7 +3897,6 @@
       "no": "Murmansk",
       "is": "Múrmanskfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "NEN": {
@@ -4041,7 +3981,6 @@
       "no": "Nenetsk",
       "mn": "Ненецийн өөртөө засах тойрог"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "NGR": {
@@ -4127,7 +4066,6 @@
       "is": "Novgorodfylki",
       "mn": "Новгород муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "NIZ": {
@@ -4218,7 +4156,6 @@
       "no": "Nizjnij Novgorod",
       "is": "Nisjníj-Novgorodfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "NVS": {
@@ -4305,7 +4242,6 @@
       "is": "Novosíbírskfylki",
       "mn": "Новосибирск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "OMS": {
@@ -4393,7 +4329,6 @@
       "is": "Omskfylki",
       "mn": "Омск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "ORE": {
@@ -4481,7 +4416,6 @@
       "no": "Orenburg",
       "is": "Orenbúrgfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "ORL": {
@@ -4568,7 +4502,6 @@
       "no": "Orjol",
       "is": "Orjolfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "PER": {
@@ -4653,7 +4586,6 @@
       "is": "Permfylki",
       "mn": "Пермийн хязгаар"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "PNZ": {
@@ -4739,7 +4671,6 @@
       "is": "Pensafylki",
       "mn": "Пенза муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "PRI": {
@@ -4829,7 +4760,6 @@
       "gl": "Krai de Primorie",
       "mn": "Приморийн хязгаар"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "PSK": {
@@ -4918,7 +4848,6 @@
       "ky": "Псков областы",
       "mn": "Псков муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "ROS": {
@@ -5006,7 +4935,6 @@
       "no": "Rostov",
       "is": "Rostovfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "RYA": {
@@ -5093,7 +5021,6 @@
       "no": "Rjazan",
       "is": "Rjasanfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "SA": {
@@ -5188,7 +5115,6 @@
       "mk": "Јакутија",
       "no": "Sakha"
     },
-    "comments": null,
     "type": "republic"
   },
   "SAK": {
@@ -5278,7 +5204,6 @@
       "no": "Sakhalin",
       "jv": "Oblast Sakhalin"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "SAM": {
@@ -5364,7 +5289,6 @@
       "is": "Samarafylki",
       "mn": "Самара муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "SAR": {
@@ -5450,7 +5374,6 @@
       "is": "Saratovfylki",
       "mn": "Саратов муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "SE": {
@@ -5544,7 +5467,6 @@
       "kk": "Солтүстік Осетия",
       "ky": "Түндүк Осетия"
     },
-    "comments": null,
     "type": "republic"
   },
   "SMO": {
@@ -5631,7 +5553,6 @@
       "kk": "Смоленск облысы",
       "mn": "Смоленск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "SPE": {
@@ -5738,7 +5659,6 @@
       "yo_BJ": "Saint Petersburg",
       "sd": "سينٽ پيٽرسبرگ"
     },
-    "comments": null,
     "type": "autonomous_city"
   },
   "STA": {
@@ -5824,7 +5744,6 @@
       "gu": "સ્ટાવ્રોપોલ ક્રાઇ",
       "is": "Stavrópolfylki"
     },
-    "comments": null,
     "type": "administrative_territory"
   },
   "SVE": {
@@ -5911,13 +5830,14 @@
       "is": "Sverdlovskfylki",
       "mn": "Свердловск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "TA": {
     "name": "Tatarstan, Respublika",
     "code": "TA",
-    "unofficial_names": "Tatarstan, Respublika",
+    "unofficial_names": [
+      "Tatarstan, Respublika"
+    ],
     "geo": {
       "latitude": 55.1802364,
       "longitude": 50.7263945,
@@ -6002,7 +5922,6 @@
       "no": "Tatarstan",
       "my": "တာ့တာစတန်"
     },
-    "comments": null,
     "type": "republic"
   },
   "TAM": {
@@ -6088,7 +6007,6 @@
       "is": "Tambovfylki",
       "mn": "Тамбов муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "TOM": {
@@ -6174,7 +6092,6 @@
       "is": "Tomskfylki",
       "mn": "Томск муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "TUL": {
@@ -6260,7 +6177,6 @@
       "no": "Tula",
       "is": "Túlafylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "TVE": {
@@ -6346,7 +6262,6 @@
       "no": "Tver",
       "is": "Tverfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "TY": {
@@ -6438,7 +6353,6 @@
       "cy": "Gweriniaeth Twfa",
       "tk": "Tuwa Respublikasy"
     },
-    "comments": null,
     "type": "republic"
   },
   "TYU": {
@@ -6527,7 +6441,6 @@
       "is": "Tjúmenfylki",
       "mn": "Тюмень муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "UD": {
@@ -6619,7 +6532,6 @@
       "kk": "Ұдмұртия",
       "sq": "Udmurtia"
     },
-    "comments": null,
     "type": "republic"
   },
   "ULY": {
@@ -6706,7 +6618,6 @@
       "no": "Uljanovsk",
       "is": "Úljanovskfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "VGG": {
@@ -6794,7 +6705,6 @@
       "is": "Volgógradfylki",
       "mn": "Волгоград муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "VLA": {
@@ -6881,7 +6791,6 @@
       "no": "Vladimir",
       "is": "Vladimírfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "VLG": {
@@ -6968,7 +6877,6 @@
       "no": "Vologda",
       "mn": "Вологда муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "VOR": {
@@ -7056,7 +6964,6 @@
       "no": "Voronezj",
       "is": "Voronesjfylki"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "YAN": {
@@ -7143,7 +7050,6 @@
       "no": "Jamalo-Nenetsk",
       "mn": "Ямало-Ненецийн өөртөө засах тойрог"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "YAR": {
@@ -7230,7 +7136,6 @@
       "is": "Yaroslavlfylki",
       "mn": "Ярославль муж"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "YEV": {
@@ -7323,7 +7228,6 @@
       "ml": "ജൂത സ്വയംഭരണ ഒബ്ലാസ്റ്റ്",
       "mn": "Еврейн өөртөө засах муж"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "ZAB": {
@@ -7410,7 +7314,6 @@
       "no": "Zabajkalskij",
       "is": "Tsabajkalfylki"
     },
-    "comments": null,
     "type": "administrative_territory"
   }
 }

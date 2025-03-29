@@ -2,7 +2,9 @@
   "AN": {
     "name": "Anseba",
     "code": "AN",
-    "unofficial_names": "Anseba",
+    "unofficial_names": [
+      "Anseba"
+    ],
     "geo": {
       "latitude": 16.4745531,
       "longitude": 37.8087693,
@@ -61,13 +63,14 @@
       "no": "Anseba",
       "zu": "Anseba Region"
     },
-    "comments": null,
     "type": "region"
   },
   "DK": {
     "name": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
     "code": "DK",
-    "unofficial_names": "Debubawi Keyih Bahri [Debub-Keih-Bahri]",
+    "unofficial_names": [
+      "Debubawi Keyih Bahri [Debub-Keih-Bahri]"
+    ],
     "geo": {
       "latitude": 13.5137103,
       "longitude": 41.7606472,
@@ -125,13 +128,14 @@
       "yue": "南紅海地區",
       "no": "Debubawi Keyih Bahri"
     },
-    "comments": null,
     "type": "region"
   },
   "DU": {
     "name": "Debub",
     "code": "DU",
-    "unofficial_names": "Debub",
+    "unofficial_names": [
+      "Debub"
+    ],
     "geo": {
       "latitude": 14.9478692,
       "longitude": 39.1543677,
@@ -190,13 +194,14 @@
       "no": "Debub",
       "he": "מחוז הדרום"
     },
-    "comments": null,
     "type": "region"
   },
   "GB": {
     "name": "Gash-Barka",
     "code": "GB",
-    "unofficial_names": "Gash-Barka",
+    "unofficial_names": [
+      "Gash-Barka"
+    ],
     "geo": {
       "latitude": 15.4068825,
       "longitude": 37.6386622,
@@ -253,13 +258,14 @@
       "yue": "加什-巴爾卡地區",
       "no": "Gash-Barka"
     },
-    "comments": null,
     "type": "region"
   },
   "MA": {
     "name": "Maakel [Maekel]",
     "code": "MA",
-    "unofficial_names": "Maakel [Maekel]",
+    "unofficial_names": [
+      "Maakel [Maekel]"
+    ],
     "geo": {
       "latitude": 15.3551409,
       "longitude": 38.8623683,
@@ -317,13 +323,14 @@
       "yue": "中部地區",
       "no": "Maekel"
     },
-    "comments": null,
     "type": "region"
   },
   "SK": {
     "name": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
     "code": "SK",
-    "unofficial_names": "Semenawi Keyih Bahri [Semien-Keih-Bahri]",
+    "unofficial_names": [
+      "Semenawi Keyih Bahri [Semien-Keih-Bahri]"
+    ],
     "geo": {
       "latitude": 16.2583997,
       "longitude": 38.8205454,
@@ -380,7 +387,6 @@
       "yue": "北紅海地區",
       "no": "Semenawi Keyih Bahri"
     },
-    "comments": null,
     "type": "region"
   }
 }

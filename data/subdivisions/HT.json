@@ -57,13 +57,14 @@
       "no": "Artibonite",
       "az": "Artibonit"
     },
-    "comments": null,
     "type": "department"
   },
   "CE": {
     "name": "Centre",
     "code": "CE",
-    "unofficial_names": "Centre",
+    "unofficial_names": [
+      "Centre"
+    ],
     "geo": {
       "latitude": 18.9582742,
       "longitude": -72.0468164,
@@ -117,7 +118,6 @@
       "no": "Centre",
       "az": "Haitinin Mərkəzi departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "GA": {
@@ -179,13 +179,14 @@
       "no": "Grand’Anse",
       "az": "Qrand-Ans"
     },
-    "comments": null,
     "type": "department"
   },
   "ND": {
     "name": "Nord",
     "code": "ND",
-    "unofficial_names": "Nord",
+    "unofficial_names": [
+      "Nord"
+    ],
     "geo": {
       "latitude": 19.5687715,
       "longitude": -72.189,
@@ -239,13 +240,14 @@
       "az": "Haitinin Şimal departamenti",
       "hy": "Նորդ"
     },
-    "comments": null,
     "type": "department"
   },
   "NE": {
     "name": "Nord-Est",
     "code": "NE",
-    "unofficial_names": "Nord-Est",
+    "unofficial_names": [
+      "Nord-Est"
+    ],
     "geo": {
       "latitude": 19.4889723,
       "longitude": -71.8571331,
@@ -298,21 +300,11 @@
       "no": "Nord-Est",
       "az": "Haitinin Şimal-Şərq departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "NI": {
     "name": "Nippes",
     "code": "NI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إدارة نيبيس",
       "bn": "নিপেস",
@@ -358,13 +350,14 @@
       "az": "Nip",
       "he": "ניפס"
     },
-    "comments": null,
     "type": "department"
   },
   "NO": {
     "name": "Nord-Ouest",
     "code": "NO",
-    "unofficial_names": "Nord-Ouest",
+    "unofficial_names": [
+      "Nord-Ouest"
+    ],
     "geo": {
       "latitude": 19.8374009,
       "longitude": -73.0405277,
@@ -417,13 +410,14 @@
       "no": "Nord-Ouest",
       "az": "Haitinin Şimal-Qərb departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "OU": {
     "name": "Ouest",
     "code": "OU",
-    "unofficial_names": "Ouest",
+    "unofficial_names": [
+      "Ouest"
+    ],
     "geo": {
       "latitude": 18.4957015,
       "longitude": -72.4731529,
@@ -478,13 +472,14 @@
       "az": "Haitinin Qərb departamenti",
       "hy": "Քուեսթ"
     },
-    "comments": null,
     "type": "department"
   },
   "SD": {
     "name": "Sud",
     "code": "SD",
-    "unofficial_names": "Sud",
+    "unofficial_names": [
+      "Sud"
+    ],
     "geo": {
       "latitude": 18.3320005,
       "longitude": -73.7007088,
@@ -538,13 +533,14 @@
       "az": "Haitinin Cənub departamenti",
       "be": "Паўднёвы дэпартамент"
     },
-    "comments": null,
     "type": "department"
   },
   "SE": {
     "name": "Sud-Est",
     "code": "SE",
-    "unofficial_names": "Sud-Est",
+    "unofficial_names": [
+      "Sud-Est"
+    ],
     "geo": {
       "latitude": 18.2783598,
       "longitude": -72.35479149999999,
@@ -597,7 +593,6 @@
       "no": "Sud-Est",
       "az": "Haitinin Cənub-Şərq departamenti"
     },
-    "comments": null,
     "type": "department"
   }
 }

@@ -2,15 +2,9 @@
   "AG": {
     "name": "Aragacotn",
     "code": "AG",
-    "unofficial_names": "Aragacotn",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Aragacotn"
+    ],
     "translations": {
       "en": "Aragatsotn",
       "ar": "محافظة آراغاتسوتن",
@@ -76,13 +70,14 @@
       "no": "Aragatsotn",
       "ml": "അരഗത്സോട്ൻ പ്രവിശ്യ"
     },
-    "comments": null,
     "type": "region"
   },
   "AR": {
     "name": "Ararat",
     "code": "AR",
-    "unofficial_names": "Ararat",
+    "unofficial_names": [
+      "Ararat"
+    ],
     "geo": {
       "latitude": 39.9753273,
       "longitude": 44.8338058,
@@ -155,13 +150,14 @@
       "yue": "亞拉拉特省",
       "yue_Hans": "亚拉拉特省"
     },
-    "comments": null,
     "type": "region"
   },
   "AV": {
     "name": "Armavir",
     "code": "AV",
-    "unofficial_names": "Armavir",
+    "unofficial_names": [
+      "Armavir"
+    ],
     "geo": {
       "latitude": 40.1315615,
       "longitude": 43.8325355,
@@ -235,13 +231,14 @@
       "yue": "亞馬維省",
       "yue_Hans": "亚马维省"
     },
-    "comments": null,
     "type": "region"
   },
   "ER": {
     "name": "Erevan",
     "code": "ER",
-    "unofficial_names": "Erevan",
+    "unofficial_names": [
+      "Erevan"
+    ],
     "geo": {
       "latitude": 40.183333,
       "longitude": 44.516667,
@@ -333,7 +330,6 @@
       "my": "ယေရေဗန်",
       "sd": "يريوان"
     },
-    "comments": null,
     "type": "city"
   },
   "GR": {
@@ -342,14 +338,6 @@
     "unofficial_names": [
       "Gegharkunick"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Gegharkunik",
       "ar": "محافظة غغاركونيك",
@@ -415,7 +403,6 @@
       "yue": "格加古力省",
       "yue_Hans": "格加古力省"
     },
-    "comments": null,
     "type": "region"
   },
   "KT": {
@@ -497,7 +484,6 @@
       "yue": "戈泰克省",
       "yue_Hans": "戈泰克省"
     },
-    "comments": null,
     "type": "region"
   },
   "LO": {
@@ -578,13 +564,14 @@
       "yue": "羅里省",
       "yue_Hans": "罗里省"
     },
-    "comments": null,
     "type": "region"
   },
   "SH": {
     "name": "Širak",
     "code": "SH",
-    "unofficial_names": "Širak",
+    "unofficial_names": [
+      "Širak"
+    ],
     "geo": {
       "latitude": 40.9630814,
       "longitude": 43.8102461,
@@ -657,13 +644,14 @@
       "yue": "斯拉克省",
       "yue_Hans": "斯拉克省"
     },
-    "comments": null,
     "type": "region"
   },
   "SU": {
     "name": "Syunik'",
     "code": "SU",
-    "unofficial_names": "Syunik'",
+    "unofficial_names": [
+      "Syunik'"
+    ],
     "geo": {
       "latitude": 39.3194392,
       "longitude": 46.14609189999999,
@@ -737,7 +725,6 @@
       "yue": "蕭力省",
       "yue_Hans": "萧力省"
     },
-    "comments": null,
     "type": "region"
   },
   "TV": {
@@ -818,13 +805,14 @@
       "yue": "塔武殊省",
       "yue_Hans": "塔武殊省"
     },
-    "comments": null,
     "type": "region"
   },
   "VD": {
     "name": "Vayoc Jor",
     "code": "VD",
-    "unofficial_names": "Vayoc Jor",
+    "unofficial_names": [
+      "Vayoc Jor"
+    ],
     "geo": {
       "latitude": 39.8107912,
       "longitude": 45.4967174,
@@ -898,7 +886,6 @@
       "yue": "華約茨佐省",
       "yue_Hans": "华约茨佐省"
     },
-    "comments": null,
     "type": "region"
   }
 }

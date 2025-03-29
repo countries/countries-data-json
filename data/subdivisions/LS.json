@@ -2,7 +2,9 @@
   "A": {
     "name": "Maseru",
     "code": "A",
-    "unofficial_names": "Maseru",
+    "unofficial_names": [
+      "Maseru"
+    ],
     "geo": {
       "latitude": -29.31,
       "longitude": 27.48,
@@ -59,13 +61,14 @@
       "hy": "Մասերու",
       "zu": "Maseru, Isifunda"
     },
-    "comments": null,
     "type": "district"
   },
   "B": {
     "name": "Butha-Buthe",
     "code": "B",
-    "unofficial_names": "Butha-Buthe",
+    "unofficial_names": [
+      "Butha-Buthe"
+    ],
     "geo": {
       "latitude": -28.801561,
       "longitude": 28.5331038,
@@ -121,13 +124,14 @@
       "ca": "Butha Buthe",
       "fa": "ناحیه بوتا-بوته"
     },
-    "comments": null,
     "type": "district"
   },
   "C": {
     "name": "Leribe",
     "code": "C",
-    "unofficial_names": "Leribe",
+    "unofficial_names": [
+      "Leribe"
+    ],
     "geo": {
       "latitude": -28.873361,
       "longitude": 28.041583,
@@ -182,13 +186,14 @@
       "no": "Leribe",
       "ml": "ലെരിബെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "D": {
     "name": "Berea",
     "code": "D",
-    "unofficial_names": "Berea",
+    "unofficial_names": [
+      "Berea"
+    ],
     "geo": {
       "latitude": -29.1746723,
       "longitude": 27.8311428,
@@ -245,13 +250,14 @@
       "ca": "Districte de Berea",
       "he": "בראה"
     },
-    "comments": null,
     "type": "district"
   },
   "E": {
     "name": "Mafeteng",
     "code": "E",
-    "unofficial_names": "Mafeteng",
+    "unofficial_names": [
+      "Mafeteng"
+    ],
     "geo": {
       "latitude": -29.8224312,
       "longitude": 27.2388161,
@@ -308,13 +314,14 @@
       "fa": "ناحیه مافتنگ",
       "he": "מפטנג"
     },
-    "comments": null,
     "type": "district"
   },
   "F": {
     "name": "Mohale's Hoek",
     "code": "F",
-    "unofficial_names": "Mohale's Hoek",
+    "unofficial_names": [
+      "Mohale's Hoek"
+    ],
     "geo": {
       "latitude": -30.15,
       "longitude": 27.466667,
@@ -368,13 +375,14 @@
       "ca": "Mohale’s Hoek",
       "hy": "Մոհալես Հուկ"
     },
-    "comments": null,
     "type": "district"
   },
   "G": {
     "name": "Quthing",
     "code": "G",
-    "unofficial_names": "Quthing",
+    "unofficial_names": [
+      "Quthing"
+    ],
     "geo": {
       "latitude": -30.400111,
       "longitude": 27.700194,
@@ -428,13 +436,14 @@
       "ca": "Quthing",
       "fa": "ناحیه قوتینگ"
     },
-    "comments": null,
     "type": "district"
   },
   "H": {
     "name": "Qacha's Nek",
     "code": "H",
-    "unofficial_names": "Qacha's Nek",
+    "unofficial_names": [
+      "Qacha's Nek"
+    ],
     "geo": {
       "latitude": -30.116667,
       "longitude": 28.68333299999999,
@@ -488,13 +497,14 @@
       "fa": "ناحیه نک قچا",
       "he": "קאצ׳ה׳ס נק"
     },
-    "comments": null,
     "type": "district"
   },
   "J": {
     "name": "Mokhotlong",
     "code": "J",
-    "unofficial_names": "Mokhotlong",
+    "unofficial_names": [
+      "Mokhotlong"
+    ],
     "geo": {
       "latitude": -29.288495,
       "longitude": 29.065568,
@@ -549,13 +559,14 @@
       "fa": "منطقه موکاتلانگ",
       "hy": "Մոկոտլոնգ"
     },
-    "comments": null,
     "type": "district"
   },
   "K": {
     "name": "Thaba-Tseka",
     "code": "K",
-    "unofficial_names": "Thaba-Tseka",
+    "unofficial_names": [
+      "Thaba-Tseka"
+    ],
     "geo": {
       "latitude": -29.5157527,
       "longitude": 28.5901895,
@@ -608,7 +619,6 @@
       "no": "Thaba-Tseka",
       "hy": "Թաբա-Ցեկա"
     },
-    "comments": null,
     "type": "district"
   }
 }

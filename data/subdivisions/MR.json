@@ -59,7 +59,6 @@
       "ca": "Hodh Oriental",
       "fa": "استان حوض شرقی"
     },
-    "comments": null,
     "type": "region"
   },
   "02": {
@@ -122,7 +121,6 @@
       "ca": "Hodh Occidental",
       "fa": "استان حوض غربی"
     },
-    "comments": null,
     "type": "region"
   },
   "03": {
@@ -185,7 +183,6 @@
       "ca": "Assaba",
       "fa": "استان عصابه"
     },
-    "comments": null,
     "type": "region"
   },
   "04": {
@@ -246,13 +243,14 @@
       "ca": "Gorgol",
       "fa": "استان گرگول"
     },
-    "comments": null,
     "type": "region"
   },
   "05": {
     "name": "Brakna",
     "code": "05",
-    "unofficial_names": "Brakna",
+    "unofficial_names": [
+      "Brakna"
+    ],
     "geo": {
       "latitude": 17.2317561,
       "longitude": -13.1740348,
@@ -306,13 +304,14 @@
       "no": "Brakna",
       "fa": "استان براکنه"
     },
-    "comments": null,
     "type": "region"
   },
   "06": {
     "name": "Trarza",
     "code": "06",
-    "unofficial_names": "Trarza",
+    "unofficial_names": [
+      "Trarza"
+    ],
     "geo": {
       "latitude": 17.8664964,
       "longitude": -14.6587821,
@@ -366,13 +365,14 @@
       "no": "Trarza",
       "fa": "استان ترارزه"
     },
-    "comments": null,
     "type": "region"
   },
   "07": {
     "name": "Adrar",
     "code": "07",
-    "unofficial_names": "Adrar",
+    "unofficial_names": [
+      "Adrar"
+    ],
     "geo": {
       "latitude": 19.8652176,
       "longitude": -12.8054753,
@@ -426,7 +426,6 @@
       "uk": "Адрар",
       "no": "Adrar"
     },
-    "comments": null,
     "type": "region"
   },
   "08": {
@@ -490,7 +489,6 @@
       "fa": "استان داخله نواذیبو",
       "he": "דחלט נואדיבו"
     },
-    "comments": null,
     "type": "region"
   },
   "09": {
@@ -551,7 +549,6 @@
       "no": "Tagant",
       "fa": "استان تگانت"
     },
-    "comments": null,
     "type": "region"
   },
   "10": {
@@ -612,7 +609,6 @@
       "no": "Guidimaka",
       "fa": "استان گیدی ماغا"
     },
-    "comments": null,
     "type": "region"
   },
   "11": {
@@ -675,7 +671,6 @@
       "ca": "Tiris Zemmour",
       "fa": "استان تیرس زمور"
     },
-    "comments": null,
     "type": "region"
   },
   "12": {
@@ -738,21 +733,11 @@
       "ca": "Inchiri",
       "fa": "استان اینشیری"
     },
-    "comments": null,
     "type": "region"
   },
   "13": {
     "name": "Nouakchott Ouest",
     "code": "13",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Nouakchott Ouest",
       "ja": "ヌアクショット西",
@@ -765,21 +750,11 @@
       "it": "Regione di Nouakchott-Ouest",
       "ru": "Западный Нуакшот"
     },
-    "comments": null,
     "type": "region"
   },
   "14": {
     "name": "نواكشوط الشمالية",
     "code": "14",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Nouakchott Nord",
       "ja": "ヌアクショット北",
@@ -794,21 +769,11 @@
       "it": "Regione di Nouakchott-Nord",
       "sv": "Nouakchott-Nord"
     },
-    "comments": null,
     "type": "region"
   },
   "15": {
     "name": "نواكشوط الجنوبية",
     "code": "15",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Nouakchott Sud",
       "ja": "ヌアクショット南",
@@ -821,7 +786,6 @@
       "fa": "استان نواکشوت جنوبی",
       "it": "Regione di Nouakchott-Sud"
     },
-    "comments": null,
     "type": "region"
   }
 }

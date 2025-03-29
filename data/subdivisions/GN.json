@@ -2,15 +2,6 @@
   "B": {
     "name": "Région de Boké",
     "code": "B",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم بوكيه",
       "be": "Рэгіён Баке",
@@ -58,13 +49,14 @@
       "fa": "ناحیه بوکه",
       "hy": "Բոկե"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "BE": {
     "name": "Beyla",
     "code": "BE",
-    "unofficial_names": "Beyla",
+    "unofficial_names": [
+      "Beyla"
+    ],
     "geo": {
       "latitude": 8.683333,
       "longitude": -8.633333,
@@ -116,13 +108,14 @@
       "ca": "Beyla",
       "fa": "استان بیلا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "BF": {
     "name": "Boffa",
     "code": "BF",
-    "unofficial_names": "Boffa",
+    "unofficial_names": [
+      "Boffa"
+    ],
     "geo": {
       "latitude": 10.1808254,
       "longitude": -14.0391615,
@@ -172,13 +165,14 @@
       "no": "Boffa",
       "fa": "استان بوفا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "BK": {
     "name": "Boké",
     "code": "BK",
-    "unofficial_names": "Boké",
+    "unofficial_names": [
+      "Boké"
+    ],
     "geo": {
       "latitude": 11.1864672,
       "longitude": -14.1001326,
@@ -208,13 +202,14 @@
       "no": "Boké²",
       "fa": "استان بوکه"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "C": {
     "name": "Conakry",
     "code": "C",
-    "unofficial_names": "Conakry",
+    "unofficial_names": [
+      "Conakry"
+    ],
     "geo": {
       "latitude": 9.509167,
       "longitude": -13.712222,
@@ -306,13 +301,14 @@
       "yo_BJ": "Conakry",
       "ps": "کوناکری"
     },
-    "comments": null,
     "type": "governorate"
   },
   "CO": {
     "name": "Coyah",
     "code": "CO",
-    "unofficial_names": "Coyah",
+    "unofficial_names": [
+      "Coyah"
+    ],
     "geo": {
       "latitude": 9.7,
       "longitude": -13.383333,
@@ -363,21 +359,11 @@
       "ca": "Coyah",
       "fa": "استان کویا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "D": {
     "name": "Région de Kindia",
     "code": "D",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم كينديا",
       "be": "Рэгіён Кіндыя",
@@ -426,13 +412,14 @@
       "he": "קינדייה",
       "hy": "Կինդիա"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "DB": {
     "name": "Dabola",
     "code": "DB",
-    "unofficial_names": "Dabola",
+    "unofficial_names": [
+      "Dabola"
+    ],
     "geo": {
       "latitude": 10.75,
       "longitude": -11.116667,
@@ -483,13 +470,14 @@
       "no": "Dabola",
       "fa": "استان دابولا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "DI": {
     "name": "Dinguiraye",
     "code": "DI",
-    "unofficial_names": "Dinguiraye",
+    "unofficial_names": [
+      "Dinguiraye"
+    ],
     "geo": {
       "latitude": 11.3,
       "longitude": -10.716667,
@@ -539,20 +527,17 @@
       "no": "Dinguiraye",
       "fa": "استان دوگینیرای"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "DL": {
     "name": "Dalaba",
     "code": "DL",
-    "unofficial_names": "Dalaba",
+    "unofficial_names": [
+      "Dalaba"
+    ],
     "geo": {
       "latitude": 10.166667,
-      "longitude": -9.383333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -9.383333
     },
     "translations": {
       "en": "Dalaba",
@@ -595,13 +580,14 @@
       "no": "Dalaba",
       "fa": "استان دالابا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "DU": {
     "name": "Dubréka",
     "code": "DU",
-    "unofficial_names": "Dubréka",
+    "unofficial_names": [
+      "Dubréka"
+    ],
     "geo": {
       "latitude": 9.783332999999999,
       "longitude": -13.516667,
@@ -651,21 +637,11 @@
       "no": "Dubréka",
       "fa": "استان دوبریکا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "F": {
     "name": "Région de Faranah",
     "code": "F",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Рэгіён Фарана",
       "bg": "Фарана",
@@ -698,13 +674,14 @@
       "id": "Region Faranah",
       "uk": "Фарана"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "FA": {
     "name": "Faranah",
     "code": "FA",
-    "unofficial_names": "Faranah",
+    "unofficial_names": [
+      "Faranah"
+    ],
     "geo": {
       "latitude": 10.033333,
       "longitude": -10.733333,
@@ -733,7 +710,6 @@
       "fa": "استان فرانه",
       "pt": "Faranah²"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "FO": {
@@ -770,13 +746,14 @@
       "ar": "محافظة فوريكاريا",
       "fa": "استان فورکاریا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "FR": {
     "name": "Fria",
     "code": "FR",
-    "unofficial_names": "Fria",
+    "unofficial_names": [
+      "Fria"
+    ],
     "geo": {
       "latitude": 10.3674543,
       "longitude": -13.5841871,
@@ -827,13 +804,14 @@
       "be": "прэфектура Фрыя",
       "fa": "استان فریا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "GA": {
     "name": "Gaoual",
     "code": "GA",
-    "unofficial_names": "Gaoual",
+    "unofficial_names": [
+      "Gaoual"
+    ],
     "geo": {
       "latitude": 11.75,
       "longitude": -13.2,
@@ -883,13 +861,14 @@
       "no": "Gaoual",
       "fa": "استان گائول"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "GU": {
     "name": "Guékédou",
     "code": "GU",
-    "unofficial_names": "Guékédou",
+    "unofficial_names": [
+      "Guékédou"
+    ],
     "geo": {
       "latitude": 8.566666999999999,
       "longitude": -10.133333,
@@ -940,21 +919,11 @@
       "no": "Guéckédou",
       "fa": "استان گوکدو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "K": {
     "name": "Région de Kankan",
     "code": "K",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم كانكان",
       "be": "Рэгіён Канкан",
@@ -1004,13 +973,14 @@
       "he": "קאנקאן (מחוז)",
       "hy": "Կանկան"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "KA": {
     "name": "Kankan",
     "code": "KA",
-    "unofficial_names": "Kankan",
+    "unofficial_names": [
+      "Kankan"
+    ],
     "geo": {
       "latitude": 10.120923,
       "longitude": -9.5450974,
@@ -1040,13 +1010,14 @@
       "fa": "استان کانکان",
       "he": "קאנקאן (נפה)"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KB": {
     "name": "Koubia",
     "code": "KB",
-    "unofficial_names": "Koubia",
+    "unofficial_names": [
+      "Koubia"
+    ],
     "geo": {
       "latitude": 11.583333,
       "longitude": -11.9,
@@ -1097,13 +1068,14 @@
       "ca": "Koubia",
       "fa": "استان کوبیا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KD": {
     "name": "Kindia",
     "code": "KD",
-    "unofficial_names": "Kindia",
+    "unofficial_names": [
+      "Kindia"
+    ],
     "geo": {
       "latitude": 10.066667,
       "longitude": -12.85,
@@ -1133,13 +1105,14 @@
       "fa": "استان کیندیا",
       "sv": "Kindia (prefektur)"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KE": {
     "name": "Kérouané",
     "code": "KE",
-    "unofficial_names": "Kérouané",
+    "unofficial_names": [
+      "Kérouané"
+    ],
     "geo": {
       "latitude": 9.266667,
       "longitude": -9.016667,
@@ -1190,13 +1163,14 @@
       "ca": "Kérouané",
       "fa": "استان کاروانه"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KN": {
     "name": "Koundara",
     "code": "KN",
-    "unofficial_names": "Koundara",
+    "unofficial_names": [
+      "Koundara"
+    ],
     "geo": {
       "latitude": 12.483333,
       "longitude": -13.3,
@@ -1248,13 +1222,14 @@
       "ca": "Koundara",
       "fa": "استان کوندره"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KO": {
     "name": "Kouroussa",
     "code": "KO",
-    "unofficial_names": "Kouroussa",
+    "unofficial_names": [
+      "Kouroussa"
+    ],
     "geo": {
       "latitude": 10.65,
       "longitude": -9.883333,
@@ -1305,13 +1280,14 @@
       "ca": "Kouroussa",
       "fa": "استان کوروسا"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KS": {
     "name": "Kissidougou",
     "code": "KS",
-    "unofficial_names": "Kissidougou",
+    "unofficial_names": [
+      "Kissidougou"
+    ],
     "geo": {
       "latitude": 9.183333,
       "longitude": -10.1,
@@ -1362,21 +1338,11 @@
       "no": "Kissidougou",
       "fa": "استان کیسیدوگو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "L": {
     "name": "Région de Labé",
     "code": "L",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Рэгіён Лабэ",
       "bg": "Лабе",
@@ -1409,13 +1375,14 @@
       "hy": "Լաբե",
       "id": "Region Labé"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "LA": {
     "name": "Labé",
     "code": "LA",
-    "unofficial_names": "Labé",
+    "unofficial_names": [
+      "Labé"
+    ],
     "geo": {
       "latitude": 11.641159,
       "longitude": -11.8891721,
@@ -1465,13 +1432,14 @@
       "no": "Labé²",
       "fa": "استان لابی"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "LE": {
     "name": "Lélouma",
     "code": "LE",
-    "unofficial_names": "Lélouma",
+    "unofficial_names": [
+      "Lélouma"
+    ],
     "geo": {
       "latitude": 11.4739967,
       "longitude": -12.6675575,
@@ -1520,13 +1488,14 @@
       "uk": "Префектура Лелоума",
       "no": "Lélouma"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "LO": {
     "name": "Lola",
     "code": "LO",
-    "unofficial_names": "Lola",
+    "unofficial_names": [
+      "Lola"
+    ],
     "geo": {
       "latitude": 7.8,
       "longitude": -8.533332999999999,
@@ -1576,21 +1545,11 @@
       "no": "Lola",
       "ca": "Lola"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "M": {
     "name": "Région de Mamou",
     "code": "M",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة مامو",
       "be": "Рэгіён Маму",
@@ -1637,13 +1596,14 @@
       "fa": "ناحیه مامو",
       "hy": "Մամու"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "MC": {
     "name": "Macenta",
     "code": "MC",
-    "unofficial_names": "Macenta",
+    "unofficial_names": [
+      "Macenta"
+    ],
     "geo": {
       "latitude": 8.549999999999999,
       "longitude": -9.466667,
@@ -1693,13 +1653,14 @@
       "no": "Macenta",
       "ca": "Macenta"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MD": {
     "name": "Mandiana",
     "code": "MD",
-    "unofficial_names": "Mandiana",
+    "unofficial_names": [
+      "Mandiana"
+    ],
     "geo": {
       "latitude": 10.6172827,
       "longitude": -8.6985716,
@@ -1748,13 +1709,14 @@
       "uk": "Префектура Мандіана",
       "no": "Mandiana"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "ML": {
     "name": "Mali",
     "code": "ML",
-    "unofficial_names": "Mali",
+    "unofficial_names": [
+      "Mali"
+    ],
     "geo": {
       "latitude": 12.083333,
       "longitude": -12.3,
@@ -1803,13 +1765,14 @@
       "uk": "Префектура Малі",
       "no": "Mali"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MM": {
     "name": "Mamou",
     "code": "MM",
-    "unofficial_names": "Mamou",
+    "unofficial_names": [
+      "Mamou"
+    ],
     "geo": {
       "latitude": 10.5736024,
       "longitude": -11.8891721,
@@ -1839,21 +1802,11 @@
       "no": "Mamou²",
       "ar": "محافظة مامو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "N": {
     "name": "Région de Nzérékoré",
     "code": "N",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم نزيريكوري",
       "be": "Рэгіён Нзерэкарэ",
@@ -1899,13 +1852,14 @@
       "no": "Nzérékoré",
       "hy": "Նզերեկորե"
     },
-    "comments": null,
     "type": "administrative_region"
   },
   "NZ": {
     "name": "Nzérékoré",
     "code": "NZ",
-    "unofficial_names": "Nzérékoré",
+    "unofficial_names": [
+      "Nzérékoré"
+    ],
     "geo": {
       "latitude": 7.75,
       "longitude": -8.816666999999999,
@@ -1933,13 +1887,14 @@
       "no": "Nzérékoré²",
       "ar": "محافظة نزريكوري"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "PI": {
     "name": "Pita",
     "code": "PI",
-    "unofficial_names": "Pita",
+    "unofficial_names": [
+      "Pita"
+    ],
     "geo": {
       "latitude": 11.059568,
       "longitude": -12.395582,
@@ -1989,13 +1944,14 @@
       "no": "Pita",
       "ca": "Pita"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "SI": {
     "name": "Siguiri",
     "code": "SI",
-    "unofficial_names": "Siguiri",
+    "unofficial_names": [
+      "Siguiri"
+    ],
     "geo": {
       "latitude": 11.416667,
       "longitude": -9.166667,
@@ -2045,13 +2001,14 @@
       "uk": "Префектура Сігірі",
       "no": "Siguiri"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "TE": {
     "name": "Télimélé",
     "code": "TE",
-    "unofficial_names": "Télimélé",
+    "unofficial_names": [
+      "Télimélé"
+    ],
     "geo": {
       "latitude": 10.9,
       "longitude": -13.033333,
@@ -2102,13 +2059,14 @@
       "no": "Télimélé",
       "ca": "Télimélé"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "TO": {
     "name": "Tougué",
     "code": "TO",
-    "unofficial_names": "Tougué",
+    "unofficial_names": [
+      "Tougué"
+    ],
     "geo": {
       "latitude": 11.4464221,
       "longitude": -11.6641388,
@@ -2158,13 +2116,14 @@
       "no": "Tougué",
       "ca": "Tougué"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "YO": {
     "name": "Yomou",
     "code": "YO",
-    "unofficial_names": "Yomou",
+    "unofficial_names": [
+      "Yomou"
+    ],
     "geo": {
       "latitude": 7.566000000000001,
       "longitude": -9.2533,
@@ -2213,7 +2172,6 @@
       "uk": "Префектура Йому",
       "no": "Yomou"
     },
-    "comments": null,
     "type": "prefecture"
   }
 }

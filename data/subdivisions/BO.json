@@ -2,7 +2,9 @@
   "B": {
     "name": "El Beni",
     "code": "B",
-    "unofficial_names": "El Beni",
+    "unofficial_names": [
+      "El Beni"
+    ],
     "geo": {
       "latitude": -14.3782747,
       "longitude": -65.0957792,
@@ -67,13 +69,14 @@
       "yue": "啤尼省",
       "yue_Hans": "啤尼省"
     },
-    "comments": null,
     "type": "department"
   },
   "C": {
     "name": "Cochabamba",
     "code": "C",
-    "unofficial_names": "Cochabamba",
+    "unofficial_names": [
+      "Cochabamba"
+    ],
     "geo": {
       "latitude": -17.383333,
       "longitude": -66.166667,
@@ -140,13 +143,14 @@
       "yue": "哥茶班巴省",
       "yue_Hans": "哥茶班巴省"
     },
-    "comments": null,
     "type": "department"
   },
   "H": {
     "name": "Chuquisaca",
     "code": "H",
-    "unofficial_names": "Chuquisaca",
+    "unofficial_names": [
+      "Chuquisaca"
+    ],
     "geo": {
       "latitude": -20.0249144,
       "longitude": -64.1478236,
@@ -211,13 +215,14 @@
       "yue": "朱基薩卡省",
       "yue_Hans": "朱基萨卡省"
     },
-    "comments": null,
     "type": "department"
   },
   "L": {
     "name": "La Paz",
     "code": "L",
-    "unofficial_names": "La Paz",
+    "unofficial_names": [
+      "La Paz"
+    ],
     "geo": {
       "latitude": -16.5,
       "longitude": -68.14999999999999,
@@ -283,13 +288,14 @@
       "yue": "拉巴士省 (玻利維亞)",
       "yue_Hans": "拉巴士省 (玻利维亚)"
     },
-    "comments": null,
     "type": "department"
   },
   "N": {
     "name": "Pando",
     "code": "N",
-    "unofficial_names": "Pando",
+    "unofficial_names": [
+      "Pando"
+    ],
     "geo": {
       "latitude": -10.7988901,
       "longitude": -66.9988011,
@@ -354,13 +360,14 @@
       "yue": "攀多省",
       "yue_Hans": "攀多省"
     },
-    "comments": null,
     "type": "department"
   },
   "O": {
     "name": "Oruro",
     "code": "O",
-    "unofficial_names": "Oruro",
+    "unofficial_names": [
+      "Oruro"
+    ],
     "geo": {
       "latitude": -17.966667,
       "longitude": -67.11666699999999,
@@ -427,13 +434,14 @@
       "yue": "柯魯羅省",
       "yue_Hans": "柯鲁罗省"
     },
-    "comments": null,
     "type": "department"
   },
   "P": {
     "name": "Potosí",
     "code": "P",
-    "unofficial_names": "Potosí",
+    "unofficial_names": [
+      "Potosí"
+    ],
     "geo": {
       "latitude": -19.5722805,
       "longitude": -65.7550063,
@@ -499,13 +507,14 @@
       "et": "Potosí departemang",
       "he": "מחוז פוטוסי"
     },
-    "comments": null,
     "type": "department"
   },
   "S": {
     "name": "Santa Cruz",
     "code": "S",
-    "unofficial_names": "Santa Cruz",
+    "unofficial_names": [
+      "Santa Cruz"
+    ],
     "geo": {
       "latitude": -17.866667,
       "longitude": -63,
@@ -574,13 +583,14 @@
       "he": "מחלקת סנטה קרוז",
       "hy": "Սանտա Կրուզ"
     },
-    "comments": null,
     "type": "department"
   },
   "T": {
     "name": "Tarija",
     "code": "T",
-    "unofficial_names": "Tarija",
+    "unofficial_names": [
+      "Tarija"
+    ],
     "geo": {
       "latitude": -21.533333,
       "longitude": -64.733333,
@@ -646,7 +656,6 @@
       "et": "Tarija departemang",
       "he": "מחוז טאריחה"
     },
-    "comments": null,
     "type": "department"
   }
 }

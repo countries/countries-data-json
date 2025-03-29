@@ -2,7 +2,9 @@
   "BA": {
     "name": "Balaka",
     "code": "BA",
-    "unofficial_names": "Balaka",
+    "unofficial_names": [
+      "Balaka"
+    ],
     "geo": {
       "latitude": -14.9876054,
       "longitude": 34.9561748,
@@ -61,13 +63,14 @@
       "sw": "Wilaya ya Balaka",
       "zu": "Balaka District"
     },
-    "comments": null,
     "type": "district"
   },
   "BL": {
     "name": "Blantyre",
     "code": "BL",
-    "unofficial_names": "Blantyre",
+    "unofficial_names": [
+      "Blantyre"
+    ],
     "geo": {
       "latitude": -15.786111,
       "longitude": 35.005833,
@@ -126,21 +129,11 @@
       "ca": "Blantyre",
       "sw": "Wilaya ya Blantyre"
     },
-    "comments": null,
     "type": "district"
   },
   "C": {
     "name": "Central",
     "code": "C",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "az": "Mərkəz bölgəsi",
       "bg": "Централен регион",
@@ -178,13 +171,14 @@
       "ar": "المنطقة الوسطى",
       "sw": "Kanda ya Kati, Malawi"
     },
-    "comments": null,
     "type": "region"
   },
   "CK": {
     "name": "Chikwawa",
     "code": "CK",
-    "unofficial_names": "Chikwawa",
+    "unofficial_names": [
+      "Chikwawa"
+    ],
     "geo": {
       "latitude": -16.035,
       "longitude": 34.801,
@@ -241,13 +235,14 @@
       "ca": "Chikwawa",
       "sw": "Wilaya ya Chikwawa"
     },
-    "comments": null,
     "type": "district"
   },
   "CR": {
     "name": "Chiradzulu",
     "code": "CR",
-    "unofficial_names": "Chiradzulu",
+    "unofficial_names": [
+      "Chiradzulu"
+    ],
     "geo": {
       "latitude": -15.6759485,
       "longitude": 35.1406293,
@@ -304,13 +299,14 @@
       "ca": "Chiradzulu",
       "sw": "Wilaya ya Chiradzulu"
     },
-    "comments": null,
     "type": "district"
   },
   "CT": {
     "name": "Chitipa",
     "code": "CT",
-    "unofficial_names": "Chitipa",
+    "unofficial_names": [
+      "Chitipa"
+    ],
     "geo": {
       "latitude": -9.7037655,
       "longitude": 33.2700253,
@@ -369,13 +365,14 @@
       "ca": "Chitipa",
       "sw": "Wilaya ya Chitipa"
     },
-    "comments": null,
     "type": "district"
   },
   "DE": {
     "name": "Dedza",
     "code": "DE",
-    "unofficial_names": "Dedza",
+    "unofficial_names": [
+      "Dedza"
+    ],
     "geo": {
       "latitude": -14.3816618,
       "longitude": 34.3254842,
@@ -432,13 +429,14 @@
       "no": "Dedza",
       "sw": "Wilaya ya Dedza"
     },
-    "comments": null,
     "type": "district"
   },
   "DO": {
     "name": "Dowa",
     "code": "DO",
-    "unofficial_names": "Dowa",
+    "unofficial_names": [
+      "Dowa"
+    ],
     "geo": {
       "latitude": -13.6514687,
       "longitude": 33.9359756,
@@ -495,13 +493,14 @@
       "ca": "Dowa",
       "sw": "Wilaya ya Dowa"
     },
-    "comments": null,
     "type": "district"
   },
   "KR": {
     "name": "Karonga",
     "code": "KR",
-    "unofficial_names": "Karonga",
+    "unofficial_names": [
+      "Karonga"
+    ],
     "geo": {
       "latitude": -9.933333,
       "longitude": 33.933333,
@@ -543,13 +542,14 @@
       "he": "מחוז קרונגה",
       "sw": "Wilaya ya Karonga"
     },
-    "comments": null,
     "type": "district"
   },
   "KS": {
     "name": "Kasungu",
     "code": "KS",
-    "unofficial_names": "Kasungu",
+    "unofficial_names": [
+      "Kasungu"
+    ],
     "geo": {
       "latitude": -13.033333,
       "longitude": 33.483333,
@@ -607,13 +607,14 @@
       "ml": "കസുങു ജില്ല",
       "sw": "Wilaya ya Kasungu"
     },
-    "comments": null,
     "type": "district"
   },
   "LI": {
     "name": "Lilongwe",
     "code": "LI",
-    "unofficial_names": "Lilongwe",
+    "unofficial_names": [
+      "Lilongwe"
+    ],
     "geo": {
       "latitude": -13.983333,
       "longitude": 33.783333,
@@ -672,13 +673,14 @@
       "he": "מחוז לילונגווה",
       "sw": "Wilaya ya Lilongwe"
     },
-    "comments": null,
     "type": "district"
   },
   "LK": {
     "name": "Likoma Island",
     "code": "LK",
-    "unofficial_names": "Likoma Island",
+    "unofficial_names": [
+      "Likoma Island"
+    ],
     "geo": {
       "latitude": -12.0584005,
       "longitude": 34.7354031,
@@ -736,13 +738,14 @@
       "no": "Likoma",
       "sw": "Wilaya ya Likoma"
     },
-    "comments": null,
     "type": "district"
   },
   "MC": {
     "name": "Mchinji",
     "code": "MC",
-    "unofficial_names": "Mchinji",
+    "unofficial_names": [
+      "Mchinji"
+    ],
     "geo": {
       "latitude": -13.8000058,
       "longitude": 32.8930441,
@@ -798,13 +801,14 @@
       "no": "Mchinji",
       "sw": "Wilaya ya Mchinji"
     },
-    "comments": null,
     "type": "district"
   },
   "MG": {
     "name": "Mangochi",
     "code": "MG",
-    "unofficial_names": "Mangochi",
+    "unofficial_names": [
+      "Mangochi"
+    ],
     "geo": {
       "latitude": -14.4861733,
       "longitude": 35.253304,
@@ -860,13 +864,14 @@
       "no": "Mangochi",
       "sw": "Wilaya ya Mangochi"
     },
-    "comments": null,
     "type": "district"
   },
   "MH": {
     "name": "Machinga",
     "code": "MH",
-    "unofficial_names": "Machinga",
+    "unofficial_names": [
+      "Machinga"
+    ],
     "geo": {
       "latitude": -15.1699934,
       "longitude": 35.2999779,
@@ -923,13 +928,14 @@
       "no": "Machinga",
       "sw": "Wilaya ya Machinga"
     },
-    "comments": null,
     "type": "district"
   },
   "MU": {
     "name": "Mulanje",
     "code": "MU",
-    "unofficial_names": "Mulanje",
+    "unofficial_names": [
+      "Mulanje"
+    ],
     "geo": {
       "latitude": -16.033333,
       "longitude": 35.5,
@@ -986,13 +992,14 @@
       "ca": "Mulanje",
       "sw": "Wilaya ya Mulanje"
     },
-    "comments": null,
     "type": "district"
   },
   "MW": {
     "name": "Mwanza",
     "code": "MW",
-    "unofficial_names": "Mwanza",
+    "unofficial_names": [
+      "Mwanza"
+    ],
     "geo": {
       "latitude": -15.609722,
       "longitude": 34.5225,
@@ -1049,13 +1056,14 @@
       "ca": "Mwanza",
       "sw": "Wilaya ya Mwanza, Malawi"
     },
-    "comments": null,
     "type": "district"
   },
   "MZ": {
     "name": "Mzimba",
     "code": "MZ",
-    "unofficial_names": "Mzimba",
+    "unofficial_names": [
+      "Mzimba"
+    ],
     "geo": {
       "latitude": -11.9,
       "longitude": 33.6,
@@ -1116,21 +1124,11 @@
       "he": "מזמבה",
       "sw": "Wilaya ya Mzimba"
     },
-    "comments": null,
     "type": "district"
   },
   "N": {
     "name": "Northern",
     "code": "N",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "az": "Şimal bölgəsi",
       "bg": "Северен регион",
@@ -1167,13 +1165,14 @@
       "he": "אזור הצפון",
       "sw": "Kanda ya Kaskazini, Malawi"
     },
-    "comments": null,
     "type": "region"
   },
   "NB": {
     "name": "Nkhata Bay",
     "code": "NB",
-    "unofficial_names": "Nkhata Bay",
+    "unofficial_names": [
+      "Nkhata Bay"
+    ],
     "geo": {
       "latitude": -11.6085556,
       "longitude": 34.2949409,
@@ -1231,21 +1230,11 @@
       "no": "Nkhata Bay",
       "sw": "Wilaya ya Nkhata Bay"
     },
-    "comments": null,
     "type": "district"
   },
   "NE": {
     "name": "Neno",
     "code": "NE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نينو",
       "az": "Neno",
@@ -1292,13 +1281,14 @@
       "no": "Neno",
       "sw": "Wilaya ya Neno"
     },
-    "comments": null,
     "type": "district"
   },
   "NI": {
     "name": "Ntchisi",
     "code": "NI",
-    "unofficial_names": "Ntchisi",
+    "unofficial_names": [
+      "Ntchisi"
+    ],
     "geo": {
       "latitude": -13.2841992,
       "longitude": 33.88577470000001,
@@ -1354,13 +1344,14 @@
       "no": "Ntchisi",
       "sw": "Wilaya ya Ntchisi"
     },
-    "comments": null,
     "type": "district"
   },
   "NK": {
     "name": "Nkhotakota",
     "code": "NK",
-    "unofficial_names": "Nkhotakota",
+    "unofficial_names": [
+      "Nkhotakota"
+    ],
     "geo": {
       "latitude": -12.9316863,
       "longitude": 34.2810541,
@@ -1418,13 +1409,14 @@
       "no": "Nkhotakota",
       "sw": "Wilaya ya Nkhotakota"
     },
-    "comments": null,
     "type": "district"
   },
   "NS": {
     "name": "Nsanje",
     "code": "NS",
-    "unofficial_names": "Nsanje",
+    "unofficial_names": [
+      "Nsanje"
+    ],
     "geo": {
       "latitude": -16.916667,
       "longitude": 35.266667,
@@ -1480,13 +1472,14 @@
       "no": "Nsanje",
       "sw": "Wilaya ya Nsanje"
     },
-    "comments": null,
     "type": "district"
   },
   "NU": {
     "name": "Ntcheu",
     "code": "NU",
-    "unofficial_names": "Ntcheu",
+    "unofficial_names": [
+      "Ntcheu"
+    ],
     "geo": {
       "latitude": -14.8219765,
       "longitude": 34.6358702,
@@ -1543,13 +1536,14 @@
       "ca": "Ncheu",
       "sw": "Wilaya ya Ntcheu"
     },
-    "comments": null,
     "type": "district"
   },
   "PH": {
     "name": "Phalombe",
     "code": "PH",
-    "unofficial_names": "Phalombe",
+    "unofficial_names": [
+      "Phalombe"
+    ],
     "geo": {
       "latitude": -15.7633303,
       "longitude": 35.6587503,
@@ -1606,13 +1600,14 @@
       "no": "Phalombe",
       "sw": "Wilaya ya Phalombe"
     },
-    "comments": null,
     "type": "district"
   },
   "RU": {
     "name": "Rumphi",
     "code": "RU",
-    "unofficial_names": "Rumphi",
+    "unofficial_names": [
+      "Rumphi"
+    ],
     "geo": {
       "latitude": -11.016667,
       "longitude": 33.866667,
@@ -1670,21 +1665,11 @@
       "no": "Rumphi",
       "sw": "Wilaya ya Rumphi"
     },
-    "comments": null,
     "type": "district"
   },
   "S": {
     "name": "Southern",
     "code": "S",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "az": "Cənub bölgəsi",
       "bg": "Южен регион",
@@ -1720,13 +1705,14 @@
       "no": "Southern",
       "sw": "Kanda ya Kusini, Malawi"
     },
-    "comments": null,
     "type": "region"
   },
   "SA": {
     "name": "Salima",
     "code": "SA",
-    "unofficial_names": "Salima",
+    "unofficial_names": [
+      "Salima"
+    ],
     "geo": {
       "latitude": -13.7795533,
       "longitude": 34.458641,
@@ -1782,13 +1768,14 @@
       "no": "Salima",
       "sw": "Wilaya ya Salima"
     },
-    "comments": null,
     "type": "district"
   },
   "TH": {
     "name": "Thyolo",
     "code": "TH",
-    "unofficial_names": "Thyolo",
+    "unofficial_names": [
+      "Thyolo"
+    ],
     "geo": {
       "latitude": -16.066667,
       "longitude": 35.133333,
@@ -1826,13 +1813,14 @@
       "be": "Тыёла",
       "sw": "Wilaya ya Thyolo"
     },
-    "comments": null,
     "type": "district"
   },
   "ZO": {
     "name": "Zomba",
     "code": "ZO",
-    "unofficial_names": "Zomba",
+    "unofficial_names": [
+      "Zomba"
+    ],
     "geo": {
       "latitude": -15.383333,
       "longitude": 35.333333,
@@ -1872,7 +1860,6 @@
       "ml": "സൊംബ ജില്ല",
       "sw": "Wilaya ya Zomba"
     },
-    "comments": null,
     "type": "district"
   }
 }

@@ -66,13 +66,14 @@
       "he": "מחוז אטופו",
       "ka": "ატაპეუს პროვინცია"
     },
-    "comments": null,
     "type": "province"
   },
   "BK": {
     "name": "Bokèo",
     "code": "BK",
-    "unofficial_names": "Bokèo",
+    "unofficial_names": [
+      "Bokèo"
+    ],
     "geo": {
       "latitude": 20.2872662,
       "longitude": 100.7097867,
@@ -128,7 +129,6 @@
       "cy": "Talaith Bokeo",
       "ka": "ბოკეოს პროვინცია"
     },
-    "comments": null,
     "type": "province"
   },
   "BL": {
@@ -194,7 +194,6 @@
       "cy": "Talaith Bolikhamsai",
       "he": "מחוז בוליקמסאי"
     },
-    "comments": null,
     "type": "province"
   },
   "CH": {
@@ -261,7 +260,6 @@
       "cy": "Talaith Champasak",
       "he": "מחוז צ׳אמפסאק"
     },
-    "comments": null,
     "type": "province"
   },
   "HO": {
@@ -328,13 +326,14 @@
       "he": "מחוז חואופן",
       "so": "Houaphanh Province"
     },
-    "comments": null,
     "type": "province"
   },
   "KH": {
     "name": "Khammouan",
     "code": "KH",
-    "unofficial_names": "Khammouan",
+    "unofficial_names": [
+      "Khammouan"
+    ],
     "geo": {
       "latitude": 17.6384066,
       "longitude": 105.2194808,
@@ -391,7 +390,6 @@
       "ca": "Khammouan",
       "cy": "Talaith Khammouane"
     },
-    "comments": null,
     "type": "province"
   },
   "LM": {
@@ -459,7 +457,6 @@
       "km": "ខេត្តហ្លួងណាំថា",
       "my": "လွမ်နမ်ထာပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "LP": {
@@ -530,7 +527,6 @@
       "yue": "龍帕邦省",
       "yue_Hans": "龙帕邦省"
     },
-    "comments": null,
     "type": "province"
   },
   "OU": {
@@ -596,7 +592,6 @@
       "no": "Udomxai",
       "he": "מחוז אודומשי"
     },
-    "comments": null,
     "type": "province"
   },
   "PH": {
@@ -660,7 +655,6 @@
       "ccp": "𑄛𑄧𑄁𑄥𑄣𑄨",
       "no": "Phongsali"
     },
-    "comments": null,
     "type": "province"
   },
   "SL": {
@@ -724,13 +718,14 @@
       "cy": "Talaith Salavan",
       "he": "מחוז סלבן"
     },
-    "comments": null,
     "type": "province"
   },
   "SV": {
     "name": "Savannakhét",
     "code": "SV",
-    "unofficial_names": "Savannakhét",
+    "unofficial_names": [
+      "Savannakhét"
+    ],
     "geo": {
       "latitude": 16.5722464,
       "longitude": 104.7705509,
@@ -789,7 +784,6 @@
       "cy": "Talaith Savannakhet",
       "km": "ខេត្តសួគ៌ខេត្ត"
     },
-    "comments": null,
     "type": "province"
   },
   "VI": {
@@ -844,7 +838,6 @@
       "so": "Vientiane Province",
       "tr": "Vientiane Bölgesi"
     },
-    "comments": null,
     "type": "province"
   },
   "VT": {
@@ -894,7 +887,6 @@
       "km": "រដ្ឋធានីវៀងចន្ទន៍",
       "tr": "Vientiane Özel Yönetim Bölgesi"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "XA": {
@@ -962,7 +954,6 @@
       "cy": "Talaith Sainyabuli",
       "he": "מחוז סאינבולי"
     },
-    "comments": null,
     "type": "province"
   },
   "XE": {
@@ -1027,7 +1018,6 @@
       "he": "מחוזסקונג",
       "km": "ខេត្តស្រែគង្គ"
     },
-    "comments": null,
     "type": "province"
   },
   "XI": {
@@ -1095,21 +1085,11 @@
       "cy": "Talaith Xiangkhouang",
       "he": "סיינקהואנג"
     },
-    "comments": null,
     "type": "province"
   },
   "XS": {
     "name": "ແຂວງໄຊສົມບູນ",
     "code": "XS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Provinz Saysomboun",
       "en": "Xaisomboun",
@@ -1130,7 +1110,6 @@
       "es": "Provincia de Xaisomboun",
       "km": "ខេត្តជ័យសម្បូរណ៍"
     },
-    "comments": null,
     "type": "province"
   }
 }

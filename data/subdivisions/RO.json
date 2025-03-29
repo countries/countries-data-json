@@ -2,7 +2,9 @@
   "AB": {
     "name": "Alba",
     "code": "AB",
-    "unofficial_names": "Alba",
+    "unofficial_names": [
+      "Alba"
+    ],
     "geo": {
       "latitude": 46.1558924,
       "longitude": 23.5556121,
@@ -72,7 +74,6 @@
       "no": "Alba",
       "az": "Alba (judets)"
     },
-    "comments": null,
     "type": "department"
   },
   "AG": {
@@ -151,13 +152,14 @@
       "eu": "Argeş konderria",
       "hy": "Արջեշ"
     },
-    "comments": null,
     "type": "department"
   },
   "AR": {
     "name": "Arad",
     "code": "AR",
-    "unofficial_names": "Arad",
+    "unofficial_names": [
+      "Arad"
+    ],
     "geo": {
       "latitude": 46.166667,
       "longitude": 21.316667,
@@ -228,7 +230,6 @@
       "bs": "Arad (okrug)",
       "cy": "Sir Arad"
     },
-    "comments": null,
     "type": "department"
   },
   "B": {
@@ -335,7 +336,6 @@
       "ha": "Bukarest",
       "ha_NE": "Bukarest"
     },
-    "comments": null,
     "type": "municipality"
   },
   "BC": {
@@ -408,13 +408,14 @@
       "lv": "Bakeu žudecs",
       "th": "เทศมณฑลบาเกิว"
     },
-    "comments": null,
     "type": "department"
   },
   "BH": {
     "name": "Bihor",
     "code": "BH",
-    "unofficial_names": "Bihor",
+    "unofficial_names": [
+      "Bihor"
+    ],
     "geo": {
       "latitude": 47.01575159999999,
       "longitude": 22.172266,
@@ -485,7 +486,6 @@
       "bs": "Bihor (okrug)",
       "cy": "Sir Bihor"
     },
-    "comments": null,
     "type": "department"
   },
   "BN": {
@@ -564,7 +564,6 @@
       "bs": "Bistrița-Năsăud (okrug)",
       "cy": "Sir Bistrița-Năsăud"
     },
-    "comments": null,
     "type": "department"
   },
   "BR": {
@@ -641,7 +640,6 @@
       "bs": "Brăila (okrug)",
       "eu": "Brăila konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "BT": {
@@ -722,7 +720,6 @@
       "cy": "Sir Botoșani",
       "eu": "Botoşani konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "BV": {
@@ -801,7 +798,6 @@
       "eu": "Braşov konderria",
       "he": "בראשוב"
     },
-    "comments": null,
     "type": "department"
   },
   "BZ": {
@@ -879,13 +875,14 @@
       "cy": "Sir Buzău",
       "ga": "Contae Buzău"
     },
-    "comments": null,
     "type": "department"
   },
   "CJ": {
     "name": "Cluj",
     "code": "CJ",
-    "unofficial_names": "Cluj",
+    "unofficial_names": [
+      "Cluj"
+    ],
     "geo": {
       "latitude": 46.766667,
       "longitude": 23.583333,
@@ -956,7 +953,6 @@
       "cy": "Sir Cluj",
       "hy": "Կլուժ"
     },
-    "comments": null,
     "type": "department"
   },
   "CL": {
@@ -1033,7 +1029,6 @@
       "cy": "Sir Călărași",
       "eu": "Călăraşi konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "CS": {
@@ -1110,7 +1105,6 @@
       "cy": "Sir Caraș-Severin",
       "eu": "Caraş-Severin konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "CT": {
@@ -1189,13 +1183,14 @@
       "eu": "Constanţa konderria",
       "he": "מחוז קונסטנצה"
     },
-    "comments": null,
     "type": "department"
   },
   "CV": {
     "name": "Covasna",
     "code": "CV",
-    "unofficial_names": "Covasna",
+    "unofficial_names": [
+      "Covasna"
+    ],
     "geo": {
       "latitude": 45.849167,
       "longitude": 26.185278,
@@ -1263,7 +1258,6 @@
       "eu": "Covasna konderria",
       "he": "קובאסנה (מחוז)"
     },
-    "comments": null,
     "type": "department"
   },
   "DB": {
@@ -1342,13 +1336,14 @@
       "cy": "Sir Dâmbovița",
       "eu": "Dâmboviţa konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "DJ": {
     "name": "Dolj",
     "code": "DJ",
-    "unofficial_names": "Dolj",
+    "unofficial_names": [
+      "Dolj"
+    ],
     "geo": {
       "latitude": 44.1623022,
       "longitude": 23.6325054,
@@ -1417,13 +1412,14 @@
       "cy": "Sir Dolj",
       "eu": "Dolj konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "GJ": {
     "name": "Gorj",
     "code": "GJ",
-    "unofficial_names": "Gorj",
+    "unofficial_names": [
+      "Gorj"
+    ],
     "geo": {
       "latitude": 44.94855949999999,
       "longitude": 23.2427079,
@@ -1492,7 +1488,6 @@
       "cy": "Sir Gorj",
       "eu": "Gorj konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "GL": {
@@ -1570,13 +1565,14 @@
       "cy": "Sir Galați",
       "eu": "Galaţi konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "GR": {
     "name": "Giurgiu",
     "code": "GR",
-    "unofficial_names": "Giurgiu",
+    "unofficial_names": [
+      "Giurgiu"
+    ],
     "geo": {
       "latitude": 43.900833,
       "longitude": 25.973889,
@@ -1645,13 +1641,14 @@
       "eu": "Giurgiu konderria",
       "mk": "Џурџу"
     },
-    "comments": null,
     "type": "department"
   },
   "HD": {
     "name": "Hunedoara",
     "code": "HD",
-    "unofficial_names": "Hunedoara",
+    "unofficial_names": [
+      "Hunedoara"
+    ],
     "geo": {
       "latitude": 45.76972199999999,
       "longitude": 22.920278,
@@ -1720,13 +1717,14 @@
       "eu": "Hunedoara konderria",
       "hy": "Հունեդոարա"
     },
-    "comments": null,
     "type": "department"
   },
   "HR": {
     "name": "Harghita",
     "code": "HR",
-    "unofficial_names": "Harghita",
+    "unofficial_names": [
+      "Harghita"
+    ],
     "geo": {
       "latitude": 46.4928507,
       "longitude": 25.6456696,
@@ -1794,7 +1792,6 @@
       "cy": "Sir Harghita",
       "eu": "Harghita konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "IF": {
@@ -1870,7 +1867,6 @@
       "eu": "Ilfov konderria",
       "he": "מחוז אילפוב"
     },
-    "comments": null,
     "type": "department"
   },
   "IL": {
@@ -1945,7 +1941,6 @@
       "cy": "Sir Ialomița",
       "eu": "Ialomiţa konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "IS": {
@@ -2027,7 +2022,6 @@
       "ga": "Contae Iași",
       "hy": "Յասի շրջան"
     },
-    "comments": null,
     "type": "department"
   },
   "MH": {
@@ -2103,7 +2097,6 @@
       "cy": "Sir Mehedinți",
       "eu": "Mehedinţi konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "MM": {
@@ -2174,7 +2167,6 @@
       "sl": "okrožje Maramureș",
       "th": "เทศมณฑลมารามูเรช"
     },
-    "comments": null,
     "type": "department"
   },
   "MS": {
@@ -2250,7 +2242,6 @@
       "eu": "Mureş konderria",
       "hy": "Մուրեշ"
     },
-    "comments": null,
     "type": "department"
   },
   "NT": {
@@ -2329,13 +2320,14 @@
       "hy": "Նյամց",
       "mk": "Њамц"
     },
-    "comments": null,
     "type": "department"
   },
   "OT": {
     "name": "Olt",
     "code": "OT",
-    "unofficial_names": "Olt",
+    "unofficial_names": [
+      "Olt"
+    ],
     "geo": {
       "latitude": 44.200797,
       "longitude": 24.5022981,
@@ -2402,13 +2394,14 @@
       "cy": "Sir Olt",
       "eu": "Olt konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "PH": {
     "name": "Prahova",
     "code": "PH",
-    "unofficial_names": "Prahova",
+    "unofficial_names": [
+      "Prahova"
+    ],
     "geo": {
       "latitude": 45.08919059999999,
       "longitude": 26.0829312,
@@ -2475,13 +2468,14 @@
       "cy": "Sir Prahova",
       "eu": "Prahova konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "SB": {
     "name": "Sibiu",
     "code": "SB",
-    "unofficial_names": "Sibiu",
+    "unofficial_names": [
+      "Sibiu"
+    ],
     "geo": {
       "latitude": 45.792784,
       "longitude": 24.152069,
@@ -2552,7 +2546,6 @@
       "cy": "Sir Sibiu",
       "hy": "Սիբիու"
     },
-    "comments": null,
     "type": "department"
   },
   "SJ": {
@@ -2628,13 +2621,14 @@
       "cy": "Sir Sălaj",
       "eu": "Sălaj konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "SM": {
     "name": "Satu Mare",
     "code": "SM",
-    "unofficial_names": "Satu Mare",
+    "unofficial_names": [
+      "Satu Mare"
+    ],
     "geo": {
       "latitude": 47.79,
       "longitude": 22.89,
@@ -2703,13 +2697,14 @@
       "cy": "Sir Satu Mare",
       "eu": "Satu Mare konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "SV": {
     "name": "Suceava",
     "code": "SV",
-    "unofficial_names": "Suceava",
+    "unofficial_names": [
+      "Suceava"
+    ],
     "geo": {
       "latitude": 47.65138899999999,
       "longitude": 26.255556,
@@ -2781,13 +2776,14 @@
       "hy": "Սուչավա",
       "sl": "Okrožje Suceava"
     },
-    "comments": null,
     "type": "department"
   },
   "TL": {
     "name": "Tulcea",
     "code": "TL",
-    "unofficial_names": "Tulcea",
+    "unofficial_names": [
+      "Tulcea"
+    ],
     "geo": {
       "latitude": 45.1716165,
       "longitude": 28.7914439,
@@ -2858,7 +2854,6 @@
       "hy": "Տուլչա",
       "sl": "okrožje Tulcea"
     },
-    "comments": null,
     "type": "department"
   },
   "TM": {
@@ -2937,13 +2932,14 @@
       "eu": "Timiş konderria",
       "hy": "Տիմիշ"
     },
-    "comments": null,
     "type": "department"
   },
   "TR": {
     "name": "Teleorman",
     "code": "TR",
-    "unofficial_names": "Teleorman",
+    "unofficial_names": [
+      "Teleorman"
+    ],
     "geo": {
       "latitude": 44.0160491,
       "longitude": 25.2986628,
@@ -3011,7 +3007,6 @@
       "cy": "Sir Teleorman",
       "eu": "Teleorman konderria"
     },
-    "comments": null,
     "type": "department"
   },
   "VL": {
@@ -3089,13 +3084,14 @@
       "eu": "Vâlcea konderria",
       "hy": "Վիլչա"
     },
-    "comments": null,
     "type": "department"
   },
   "VN": {
     "name": "Vrancea",
     "code": "VN",
-    "unofficial_names": "Vrancea",
+    "unofficial_names": [
+      "Vrancea"
+    ],
     "geo": {
       "latitude": 45.81348759999999,
       "longitude": 27.0657531,
@@ -3164,13 +3160,14 @@
       "cy": "Sir Vrancea",
       "he": "מחוז ורנצ׳אה"
     },
-    "comments": null,
     "type": "department"
   },
   "VS": {
     "name": "Vaslui",
     "code": "VS",
-    "unofficial_names": "Vaslui",
+    "unofficial_names": [
+      "Vaslui"
+    ],
     "geo": {
       "latitude": 46.638333,
       "longitude": 27.729167,
@@ -3240,7 +3237,6 @@
       "cy": "Sir Vaslui",
       "eu": "Vaslui konderria"
     },
-    "comments": null,
     "type": "department"
   }
 }

@@ -81,7 +81,6 @@
       "yue": "厄莫拉州",
       "yue_Hans": "厄莫拉州"
     },
-    "comments": null,
     "type": "region"
   },
   "AKT": {
@@ -164,7 +163,6 @@
       "yue": "厄托別州",
       "yue_Hans": "厄托别州"
     },
-    "comments": null,
     "type": "region"
   },
   "ALA": {
@@ -264,13 +262,14 @@
       "yo_BJ": "Almaty",
       "ps": "الماته"
     },
-    "comments": null,
     "type": "city"
   },
   "ALM": {
     "name": "Almaty oblysy",
     "code": "ALM",
-    "unofficial_names": "Almaty oblysy",
+    "unofficial_names": [
+      "Almaty oblysy"
+    ],
     "geo": {
       "latitude": 45.0119227,
       "longitude": 78.4229392,
@@ -343,13 +342,14 @@
       "yue": "阿拉木圖州",
       "yue_Hans": "阿拉木图州"
     },
-    "comments": null,
     "type": "region"
   },
   "AST": {
     "name": "Astana",
     "code": "AST",
-    "unofficial_names": "Astana",
+    "unofficial_names": [
+      "Astana"
+    ],
     "geo": {
       "latitude": 51.16052269999999,
       "longitude": 71.4703558,
@@ -446,7 +446,6 @@
       "my": "နျူ-ဆူလ်တန်မြို့",
       "sd": "نور سلطان"
     },
-    "comments": null,
     "type": "city"
   },
   "ATY": {
@@ -530,7 +529,6 @@
       "yue": "阿特勞州",
       "yue_Hans": "阿特劳州"
     },
-    "comments": null,
     "type": "region"
   },
   "KAR": {
@@ -614,7 +612,6 @@
       "yue": "卡拉干達州",
       "yue_Hans": "卡拉干达州"
     },
-    "comments": null,
     "type": "region"
   },
   "KUS": {
@@ -699,7 +696,6 @@
       "yue": "哥斯塔里州",
       "yue_Hans": "哥斯塔里州"
     },
-    "comments": null,
     "type": "region"
   },
   "KZY": {
@@ -784,7 +780,6 @@
       "yue": "基孜羅達州",
       "yue_Hans": "基孜罗达州"
     },
-    "comments": null,
     "type": "region"
   },
   "MAN": {
@@ -866,13 +861,14 @@
       "yue": "曼節斯套州",
       "yue_Hans": "曼节斯套州"
     },
-    "comments": null,
     "type": "region"
   },
   "PAV": {
     "name": "Pavlodar oblysy",
     "code": "PAV",
-    "unofficial_names": "Pavlodar oblysy",
+    "unofficial_names": [
+      "Pavlodar oblysy"
+    ],
     "geo": {
       "latitude": 52.65085440000001,
       "longitude": 76.7773224,
@@ -944,7 +940,6 @@
       "yue": "巴甫洛達州",
       "yue_Hans": "巴甫洛达州"
     },
-    "comments": null,
     "type": "region"
   },
   "SEV": {
@@ -1027,13 +1022,11 @@
       "yue": "北哈薩克州",
       "yue_Hans": "北哈萨克州"
     },
-    "comments": null,
     "type": "region"
   },
   "SHY": {
     "name": "Shymkent",
     "code": "SHY",
-    "unofficial_names": null,
     "geo": {
       "latitude": 48.019573,
       "longitude": 66.923684,
@@ -1107,7 +1100,6 @@
       "yue_Hans": "苫勤",
       "zh": "希姆肯特"
     },
-    "comments": null,
     "type": "city"
   },
   "VOS": {
@@ -1190,7 +1182,6 @@
       "yue": "東哈薩克州",
       "yue_Hans": "东哈萨克州"
     },
-    "comments": null,
     "type": "region"
   },
   "YUZ": {
@@ -1273,7 +1264,6 @@
       "yue": "突厥斯坦州",
       "yue_Hans": "突厥斯坦州"
     },
-    "comments": null,
     "type": "region"
   },
   "ZAP": {
@@ -1358,7 +1348,6 @@
       "yue": "西哈薩克州",
       "yue_Hans": "西哈萨克州"
     },
-    "comments": null,
     "type": "region"
   },
   "ZHA": {
@@ -1437,7 +1426,6 @@
       "yue": "江布州",
       "yue_Hans": "江布州"
     },
-    "comments": null,
     "type": "region"
   }
 }

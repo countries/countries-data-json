@@ -2,7 +2,9 @@
   "002": {
     "name": "Aimeliik",
     "code": "002",
-    "unofficial_names": "Aimeliik",
+    "unofficial_names": [
+      "Aimeliik"
+    ],
     "geo": {
       "latitude": 7.445585899999998,
       "longitude": 134.5030878,
@@ -57,13 +59,14 @@
       "cs": "Aimeliik",
       "fa": "ایملیک"
     },
-    "comments": null,
     "type": "state"
   },
   "004": {
     "name": "Airai",
     "code": "004",
-    "unofficial_names": "Airai",
+    "unofficial_names": [
+      "Airai"
+    ],
     "geo": {
       "latitude": 7.364184199999999,
       "longitude": 134.5360667,
@@ -120,13 +123,14 @@
       "cs": "Airai",
       "fa": "استان ایرایی"
     },
-    "comments": null,
     "type": "state"
   },
   "010": {
     "name": "Angaur",
     "code": "010",
-    "unofficial_names": "Angaur",
+    "unofficial_names": [
+      "Angaur"
+    ],
     "geo": {
       "latitude": 6.909223,
       "longitude": 134.1387934,
@@ -182,13 +186,14 @@
       "cs": "Angaur",
       "fa": "آنگور"
     },
-    "comments": null,
     "type": "state"
   },
   "050": {
     "name": "Hatobohei",
     "code": "050",
-    "unofficial_names": "Hatobohei",
+    "unofficial_names": [
+      "Hatobohei"
+    ],
     "geo": {
       "latitude": 3.0048867,
       "longitude": 131.1214186,
@@ -240,13 +245,14 @@
       "no": "Hatohobei",
       "ceb": "State of Hatohobei"
     },
-    "comments": null,
     "type": "state"
   },
   "100": {
     "name": "Kayangel",
     "code": "100",
-    "unofficial_names": "Kayangel",
+    "unofficial_names": [
+      "Kayangel"
+    ],
     "geo": {
       "latitude": 8.0889471,
       "longitude": 134.709999,
@@ -297,20 +303,17 @@
       "fa": "کایانگل",
       "mk": "Кајангел"
     },
-    "comments": null,
     "type": "state"
   },
   "150": {
     "name": "Koror",
     "code": "150",
-    "unofficial_names": "Koror",
+    "unofficial_names": [
+      "Koror"
+    ],
     "geo": {
       "latitude": 7.3419444,
-      "longitude": 134.4791667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 134.4791667
     },
     "translations": {
       "en": "Koror",
@@ -368,13 +371,14 @@
       "gl": "Koror",
       "ro": "Koror"
     },
-    "comments": null,
     "type": "state"
   },
   "212": {
     "name": "Melekeok",
     "code": "212",
-    "unofficial_names": "Melekeok",
+    "unofficial_names": [
+      "Melekeok"
+    ],
     "geo": {
       "latitude": 7.4951158,
       "longitude": 134.6336896,
@@ -431,13 +435,14 @@
       "no": "Melekeok",
       "fa": "ملکیک"
     },
-    "comments": null,
     "type": "state"
   },
   "214": {
     "name": "Ngaraard",
     "code": "214",
-    "unofficial_names": "Ngaraard",
+    "unofficial_names": [
+      "Ngaraard"
+    ],
     "geo": {
       "latitude": 7.607939999999999,
       "longitude": 134.6348645,
@@ -488,7 +493,6 @@
       "no": "Ngaraard",
       "fa": "نگارارد"
     },
-    "comments": null,
     "type": "state"
   },
   "218": {
@@ -546,13 +550,14 @@
       "no": "Ngarchelong",
       "fa": "نگارچلونگ"
     },
-    "comments": null,
     "type": "state"
   },
   "222": {
     "name": "Ngardmau",
     "code": "222",
-    "unofficial_names": "Ngardmau",
+    "unofficial_names": [
+      "Ngardmau"
+    ],
     "geo": {
       "latitude": 7.585048599999999,
       "longitude": 134.5596089,
@@ -602,13 +607,14 @@
       "no": "Ngardmau",
       "fa": "نگاردماو"
     },
-    "comments": null,
     "type": "state"
   },
   "224": {
     "name": "Ngatpang",
     "code": "224",
-    "unofficial_names": "Ngatpang",
+    "unofficial_names": [
+      "Ngatpang"
+    ],
     "geo": {
       "latitude": 7.4710994,
       "longitude": 134.5266466,
@@ -661,13 +667,14 @@
       "fa": "نگاتپانگ",
       "he": "נגטפנג"
     },
-    "comments": null,
     "type": "state"
   },
   "226": {
     "name": "Ngchesar",
     "code": "226",
-    "unofficial_names": "Ngchesar",
+    "unofficial_names": [
+      "Ngchesar"
+    ],
     "geo": {
       "latitude": 7.452328,
       "longitude": 134.5784342,
@@ -718,7 +725,6 @@
       "ca": "Ngchesar",
       "fa": "نگچسار"
     },
-    "comments": null,
     "type": "state"
   },
   "227": {
@@ -776,13 +782,14 @@
       "uk": "Нгеремленгі",
       "no": "Ngeremlengui"
     },
-    "comments": null,
     "type": "state"
   },
   "228": {
     "name": "Ngiwal",
     "code": "228",
-    "unofficial_names": "Ngiwal",
+    "unofficial_names": [
+      "Ngiwal"
+    ],
     "geo": {
       "latitude": 7.561476399999999,
       "longitude": 134.6160619,
@@ -832,13 +839,14 @@
       "no": "Ngiwal",
       "fa": "نگیوال"
     },
-    "comments": null,
     "type": "state"
   },
   "350": {
     "name": "Peleliu",
     "code": "350",
-    "unofficial_names": "Peleliu",
+    "unofficial_names": [
+      "Peleliu"
+    ],
     "geo": {
       "latitude": 7.002290599999999,
       "longitude": 134.2431628,
@@ -893,13 +901,14 @@
       "cs": "Peleliu",
       "fa": "پلیلیو"
     },
-    "comments": null,
     "type": "state"
   },
   "370": {
     "name": "Sonsorol",
     "code": "370",
-    "unofficial_names": "Sonsorol",
+    "unofficial_names": [
+      "Sonsorol"
+    ],
     "geo": {
       "latitude": 4.319971799999999,
       "longitude": 132.3126369,
@@ -952,7 +961,6 @@
       "no": "Sonsoral",
       "mk": "Сонсорол"
     },
-    "comments": null,
     "type": "state"
   }
 }

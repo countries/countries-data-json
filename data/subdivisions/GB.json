@@ -2,15 +2,6 @@
   "ABC": {
     "name": "Armagh City, Banbridge and Craigavon",
     "code": "ABC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Armagh, Banbridge and Craigavon",
       "en": "Armagh, Banbridge and Craigavon",
@@ -32,7 +23,6 @@
       "kn": "ಅರ್ಮಗ್ಹ್",
       "pt": "Armagh"
     },
-    "comments": null,
     "type": "district"
   },
   "ABD": {
@@ -99,7 +89,6 @@
       "yue": "鴨巴甸郡",
       "yue_Hans": "鸭巴甸郡"
     },
-    "comments": null,
     "type": "council_area"
   },
   "ABE": {
@@ -193,13 +182,14 @@
       "yo_BJ": "Aberdeen",
       "sd": "ايبرڊين"
     },
-    "comments": null,
     "type": "council_area"
   },
   "AGB": {
     "name": "Argyll and Bute",
     "code": "AGB",
-    "unofficial_names": "Argyll and Bute",
+    "unofficial_names": [
+      "Argyll and Bute"
+    ],
     "geo": {
       "latitude": 56.37004630000001,
       "longitude": -5.0318965,
@@ -251,7 +241,6 @@
       "no": "Argyll and Bute",
       "ar": "أرغيل وبوت"
     },
-    "comments": null,
     "type": "council_area"
   },
   "AGY": {
@@ -322,21 +311,11 @@
       "no": "Anglesey",
       "ur": "انگلسی"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "AND": {
     "name": "Ards and North Down",
     "code": "AND",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Ards and North Down",
       "en": "Ards and North Down",
@@ -359,21 +338,11 @@
       "pt": "Ards and North Down",
       "az": "Ards və Norf-Daun"
     },
-    "comments": null,
     "type": "district"
   },
   "ANN": {
     "name": "Antrim and Newtownabbey",
     "code": "ANN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Antrim and Newtownabbey",
       "en": "Antrim and Newtownabbey",
@@ -386,13 +355,14 @@
       "fa": "انتریم و نیوتاون‌ابی",
       "ccp": "𑄃𑄚𑄴𑄑𑄳𑄢𑄨𑄟𑄴 𑄃𑄳𑄃 𑄚𑄨𑄅𑄪𑄑𑄭𑄅𑄪𑄚𑄴𑄝𑄬"
     },
-    "comments": null,
     "type": "district"
   },
   "ANS": {
     "name": "Angus",
     "code": "ANS",
-    "unofficial_names": "Angus",
+    "unofficial_names": [
+      "Angus"
+    ],
     "geo": {
       "latitude": 56.7969965,
       "longitude": -2.9206818,
@@ -453,13 +423,14 @@
       "my": "အားအန်ဂက်စ်၊ စကော့တလန်",
       "sk": "Angus"
     },
-    "comments": null,
     "type": "council_area"
   },
   "BAS": {
     "name": "Bath and North East Somerset",
     "code": "BAS",
-    "unofficial_names": "Bath and North East Somerset",
+    "unofficial_names": [
+      "Bath and North East Somerset"
+    ],
     "geo": {
       "latitude": 51.36362930000001,
       "longitude": -2.4399987,
@@ -504,13 +475,14 @@
       "he": "באת׳ וצפון מזרח סומרסט",
       "hy": "Բաթ և Հյուսիս-արևելյան Սոմերսեթ"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BBD": {
     "name": "Blackburn with Darwen",
     "code": "BBD",
-    "unofficial_names": "Blackburn with Darwen",
+    "unofficial_names": [
+      "Blackburn with Darwen"
+    ],
     "geo": {
       "latitude": 53.68985960000001,
       "longitude": -2.4678625,
@@ -552,7 +524,6 @@
       "yue": "布力般-達溫",
       "yue_Hans": "布力般-达温"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BCP": {
@@ -580,7 +551,9 @@
   "BDF": {
     "name": "Bedfordshire",
     "code": "BDF",
-    "unofficial_names": "Bedfordshire",
+    "unofficial_names": [
+      "Bedfordshire"
+    ],
     "geo": {
       "latitude": 52.1359735,
       "longitude": -0.4666565,
@@ -613,13 +586,14 @@
       "cy": "Bwrdeistref Bedford",
       "ga": "Bedford"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BDG": {
     "name": "Barking and Dagenham",
     "code": "BDG",
-    "unofficial_names": "Barking and Dagenham",
+    "unofficial_names": [
+      "Barking and Dagenham"
+    ],
     "geo": {
       "latitude": 51.5464828,
       "longitude": 0.1293497,
@@ -676,13 +650,14 @@
       "no": "Barking and Dagenham",
       "et": "Barking and Dagenham"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "BEN": {
     "name": "Brent",
     "code": "BEN",
-    "unofficial_names": "Brent",
+    "unofficial_names": [
+      "Brent"
+    ],
     "geo": {
       "latitude": 51.5672808,
       "longitude": -0.2710568,
@@ -740,13 +715,14 @@
       "no": "Brent",
       "hy": "Բրենտ"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "BEX": {
     "name": "Bexley",
     "code": "BEX",
-    "unofficial_names": "Bexley",
+    "unofficial_names": [
+      "Bexley"
+    ],
     "geo": {
       "latitude": 51.439933,
       "longitude": 0.154327,
@@ -799,13 +775,14 @@
       "et": "Bexley linnaosa",
       "no": "Bexley"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "BFS": {
     "name": "Belfast",
     "code": "BFS",
-    "unofficial_names": "Belfast",
+    "unofficial_names": [
+      "Belfast"
+    ],
     "geo": {
       "latitude": 54.59728500000001,
       "longitude": -5.93012,
@@ -830,7 +807,6 @@
       "cy": "Ardal Belffast",
       "ga": "ceantar Bhéal Feirste"
     },
-    "comments": null,
     "type": "council_area"
   },
   "BGE": {
@@ -886,13 +862,14 @@
       "no": "Bridgend",
       "ps": "بریډ جند"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BGW": {
     "name": "Blaenau Gwent",
     "code": "BGW",
-    "unofficial_names": "Blaenau Gwent",
+    "unofficial_names": [
+      "Blaenau Gwent"
+    ],
     "geo": {
       "latitude": 51.7875779,
       "longitude": -3.2043931,
@@ -938,13 +915,14 @@
       "no": "Blaenau Gwent",
       "da": "Blaenau Gwent"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BIR": {
     "name": "Birmingham",
     "code": "BIR",
-    "unofficial_names": "Birmingham",
+    "unofficial_names": [
+      "Birmingham"
+    ],
     "geo": {
       "latitude": 52.48624299999999,
       "longitude": -1.890401,
@@ -1021,13 +999,14 @@
       "cy": "Dinas Birmingham",
       "ga": "Birmingham"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "BKM": {
     "name": "Buckinghamshire",
     "code": "BKM",
-    "unofficial_names": "Buckinghamshire",
+    "unofficial_names": [
+      "Buckinghamshire"
+    ],
     "geo": {
       "latitude": 51.8072204,
       "longitude": -0.8127664,
@@ -1099,13 +1078,14 @@
       "no": "Buckinghamshire",
       "az": "Bakingemşir"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "BNE": {
     "name": "Barnet",
     "code": "BNE",
-    "unofficial_names": "Barnet",
+    "unofficial_names": [
+      "Barnet"
+    ],
     "geo": {
       "latitude": 51.6569225,
       "longitude": -0.1949252,
@@ -1168,13 +1148,14 @@
       "mk": "Барнет",
       "no": "Barnet"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "BNH": {
     "name": "Brighton and Hove",
     "code": "BNH",
-    "unofficial_names": "Brighton and Hove",
+    "unofficial_names": [
+      "Brighton and Hove"
+    ],
     "geo": {
       "latitude": 50.83516050000001,
       "longitude": -0.1261028,
@@ -1235,13 +1216,14 @@
       "yue": "白禮頓-賀夫",
       "yue_Hans": "白礼顿-贺夫"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BNS": {
     "name": "Barnsley",
     "code": "BNS",
-    "unofficial_names": "Barnsley",
+    "unofficial_names": [
+      "Barnsley"
+    ],
     "geo": {
       "latitude": 53.55263,
       "longitude": -1.479726,
@@ -1276,13 +1258,14 @@
       "fi": "Barnsley",
       "ga": "Barnsley"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "BOL": {
     "name": "Bolton",
     "code": "BOL",
-    "unofficial_names": "Bolton",
+    "unofficial_names": [
+      "Bolton"
+    ],
     "geo": {
       "latitude": 53.57686469999999,
       "longitude": -2.4282192,
@@ -1319,13 +1302,14 @@
       "ga": "Bolton",
       "uk": "Болтон"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "BPL": {
     "name": "Blackpool",
     "code": "BPL",
-    "unofficial_names": "Blackpool",
+    "unofficial_names": [
+      "Blackpool"
+    ],
     "geo": {
       "latitude": 53.8175053,
       "longitude": -3.0356748,
@@ -1397,13 +1381,14 @@
       "mk": "Блекпул",
       "no": "Blackpool"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BRC": {
     "name": "Bracknell Forest",
     "code": "BRC",
-    "unofficial_names": "Bracknell Forest",
+    "unofficial_names": [
+      "Bracknell Forest"
+    ],
     "geo": {
       "latitude": 51.4076953,
       "longitude": -0.729976,
@@ -1445,13 +1430,14 @@
       "ga": "Bracknell Forest",
       "hy": "Բրեքնել Ֆորեսթ"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BRD": {
     "name": "Bradford",
     "code": "BRD",
-    "unofficial_names": "Bradford",
+    "unofficial_names": [
+      "Bradford"
+    ],
     "geo": {
       "latitude": 53.795984,
       "longitude": -1.759398,
@@ -1487,13 +1473,14 @@
       "cy": "Dinas Bradford",
       "ga": "Bradford"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "BRY": {
     "name": "Bromley",
     "code": "BRY",
-    "unofficial_names": "Bromley",
+    "unofficial_names": [
+      "Bromley"
+    ],
     "geo": {
       "latitude": 51.406025,
       "longitude": 0.013156,
@@ -1555,7 +1542,6 @@
       "mk": "Бромли",
       "no": "Bromley"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "BST": {
@@ -1650,13 +1636,14 @@
       "no": "Bristol",
       "yo_BJ": "Bristol"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "BUR": {
     "name": "Bury",
     "code": "BUR",
-    "unofficial_names": "Bury",
+    "unofficial_names": [
+      "Bury"
+    ],
     "geo": {
       "latitude": 53.5933498,
       "longitude": -2.2966054,
@@ -1691,13 +1678,14 @@
       "ga": "Bury",
       "hy": "Բյուրի"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "CAM": {
     "name": "Cambridgeshire",
     "code": "CAM",
-    "unofficial_names": "Cambridgeshire",
+    "unofficial_names": [
+      "Cambridgeshire"
+    ],
     "geo": {
       "latitude": 52.2052973,
       "longitude": 0.1218195,
@@ -1768,7 +1756,6 @@
       "no": "Cambridgeshire",
       "az": "Kembricşir"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "CAY": {
@@ -1817,21 +1804,11 @@
       "be": "Кайрфілі",
       "no": "Caerphilly"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CBF": {
     "name": "Central Bedfordshire",
     "code": "CBF",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "da": "Central Bedfordshire",
       "de": "Central Bedfordshire",
@@ -1864,21 +1841,11 @@
       "ca": "Central Bedfordshire",
       "cy": "Canol Swydd Bedford"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CCG": {
     "name": "Causeway Coast and Glens",
     "code": "CCG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Causeway Coast and Glens",
       "en": "Causeway Coast and Glens",
@@ -1900,20 +1867,17 @@
       "kn": "ಕಾಸ್ವೇ ಕೋಸ್ಟ್ ಮತ್ತು ಗ್ಲೆನ್ಸ್",
       "pt": "Causeway Coast and Glens"
     },
-    "comments": null,
     "type": "district"
   },
   "CGN": {
     "name": "Ceredigion [Sir Ceredigion]",
     "code": "CGN",
-    "unofficial_names": "Ceredigion [Sir Ceredigion]",
+    "unofficial_names": [
+      "Ceredigion [Sir Ceredigion]"
+    ],
     "geo": {
       "latitude": 52.40728799999999,
-      "longitude": -4.069603,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -4.069603
     },
     "translations": {
       "en": "Ceredigion",
@@ -1958,21 +1922,11 @@
       "da": "Ceredigion",
       "tr": "Ceredigion"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CHE": {
     "name": "Cheshire East",
     "code": "CHE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Усходні Чэшыр",
       "de": "Cheshire East",
@@ -2003,21 +1957,11 @@
       "cy": "Dwyrain Swydd Gaer",
       "ga": "Cheshire Thoir"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CHW": {
     "name": "Cheshire West and Chester",
     "code": "CHW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Cheshire West and Chester",
       "en": "Cheshire West and Chester",
@@ -2047,20 +1991,17 @@
       "fi": "Cheshire West ja Chester",
       "hy": "Չեստեր և Արևմտյան Չեշիր"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CLD": {
     "name": "Calderdale",
     "code": "CLD",
-    "unofficial_names": "Calderdale",
+    "unofficial_names": [
+      "Calderdale"
+    ],
     "geo": {
       "latitude": 53.716157,
-      "longitude": -1.85846,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -1.85846
     },
     "translations": {
       "en": "Calderdale",
@@ -2091,13 +2032,14 @@
       "ga": "Calderdale",
       "hy": "Կալդերդեյլ"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "CLK": {
     "name": "Clackmannanshire",
     "code": "CLK",
-    "unofficial_names": "Clackmannanshire",
+    "unofficial_names": [
+      "Clackmannanshire"
+    ],
     "geo": {
       "latitude": 56.1241394,
       "longitude": -3.758379,
@@ -2145,13 +2087,14 @@
       "no": "Clackmannanshire",
       "az": "Klakmannanşir"
     },
-    "comments": null,
     "type": "council_area"
   },
   "CMA": {
     "name": "Cumbria",
     "code": "CMA",
-    "unofficial_names": "Cumbria",
+    "unofficial_names": [
+      "Cumbria"
+    ],
     "geo": {
       "latitude": 54.5772323,
       "longitude": -2.7974835,
@@ -2223,13 +2166,14 @@
       "no": "Cumbria",
       "az": "Kambriya"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "CMD": {
     "name": "Camden",
     "code": "CMD",
-    "unofficial_names": "Camden",
+    "unofficial_names": [
+      "Camden"
+    ],
     "geo": {
       "latitude": 51.55170589999999,
       "longitude": -0.1588255,
@@ -2289,7 +2233,6 @@
       "ceb": "Camden",
       "th": "ลอนดอนโบโรออฟคามเดิน"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "CMN": {
@@ -2351,7 +2294,6 @@
       "no": "Carmarthenshire",
       "hy": "Կարմարթենշիր"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CON": {
@@ -2430,13 +2372,14 @@
       "az": "Kornuoll",
       "ga": "Corn na Breataine"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "COV": {
     "name": "Coventry",
     "code": "COV",
-    "unofficial_names": "Coventry",
+    "unofficial_names": [
+      "Coventry"
+    ],
     "geo": {
       "latitude": 52.406822,
       "longitude": -1.519693,
@@ -2509,7 +2452,6 @@
       "cy": "Dinas Coventry",
       "ga": "Coventry"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "CRF": {
@@ -2605,13 +2547,14 @@
       "mk": "Кардиф",
       "no": "Cardiff"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "CRY": {
     "name": "Croydon",
     "code": "CRY",
-    "unofficial_names": "Croydon",
+    "unofficial_names": [
+      "Croydon"
+    ],
     "geo": {
       "latitude": 51.376165,
       "longitude": -0.098234,
@@ -2662,7 +2605,6 @@
       "be": "бора Кройдан",
       "no": "Croydon"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "CWY": {
@@ -2713,13 +2655,14 @@
       "da": "Conwy County Borough",
       "pt": "Conwy County Borough"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "DAL": {
     "name": "Darlington",
     "code": "DAL",
-    "unofficial_names": "Darlington",
+    "unofficial_names": [
+      "Darlington"
+    ],
     "geo": {
       "latitude": 54.52361,
       "longitude": -1.559458,
@@ -2748,13 +2691,14 @@
       "no": "Darlington",
       "cy": "Bwrdeistref Darlington"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "DBY": {
     "name": "Derbyshire",
     "code": "DBY",
-    "unofficial_names": "Derbyshire",
+    "unofficial_names": [
+      "Derbyshire"
+    ],
     "geo": {
       "latitude": 53.122322,
       "longitude": -1.5136821,
@@ -2826,7 +2770,6 @@
       "az": "Derbişir",
       "my": "ဒါဘီရှိုင်းယား"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "DEN": {
@@ -2835,14 +2778,6 @@
     "unofficial_names": [
       "Sir Ddinbych"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Denbighshire",
       "be": "графства Дэнбішыр",
@@ -2889,13 +2824,14 @@
       "ar": "دنبيشير",
       "da": "Denbighshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "DER": {
     "name": "Derby",
     "code": "DER",
-    "unofficial_names": "Derby",
+    "unofficial_names": [
+      "Derby"
+    ],
     "geo": {
       "latitude": 52.9225301,
       "longitude": -1.4746186,
@@ -2971,13 +2907,14 @@
       "mk": "Дарби",
       "no": "Derby"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "DEV": {
     "name": "Devon",
     "code": "DEV",
-    "unofficial_names": "Devon",
+    "unofficial_names": [
+      "Devon"
+    ],
     "geo": {
       "latitude": 50.77721349999999,
       "longitude": -3.999461,
@@ -3051,13 +2988,14 @@
       "no": "Devon",
       "sq": "Devon (Angli)"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "DGY": {
     "name": "Dumfries and Galloway",
     "code": "DGY",
-    "unofficial_names": "Dumfries and Galloway",
+    "unofficial_names": [
+      "Dumfries and Galloway"
+    ],
     "geo": {
       "latitude": 54.988285,
       "longitude": -3.8577839,
@@ -3106,13 +3044,14 @@
       "no": "Dumfries and Galloway",
       "hy": "Դամֆրիս ընդ Գալոուեյ"
     },
-    "comments": null,
     "type": "council_area"
   },
   "DNC": {
     "name": "Doncaster",
     "code": "DNC",
-    "unofficial_names": "Doncaster",
+    "unofficial_names": [
+      "Doncaster"
+    ],
     "geo": {
       "latitude": 53.52282,
       "longitude": -1.128462,
@@ -3148,7 +3087,6 @@
       "fi": "Doncaster",
       "ga": "Doncaster"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "DND": {
@@ -3233,13 +3171,14 @@
       "mk": "Данди",
       "no": "Dundee"
     },
-    "comments": null,
     "type": "council_area"
   },
   "DOR": {
     "name": "Dorset",
     "code": "DOR",
-    "unofficial_names": "Dorset",
+    "unofficial_names": [
+      "Dorset"
+    ],
     "geo": {
       "latitude": 50.7390661,
       "longitude": -2.3382346,
@@ -3310,21 +3249,11 @@
       "mk": "Дорсет",
       "no": "Dorset"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "DRS": {
     "name": "Derry and Strabane",
     "code": "DRS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Derry and Strabane",
       "en": "Derry and Strabane",
@@ -3340,13 +3269,14 @@
       "es": "Distrito de Derry y Strabane",
       "ga": "Cathair Dhoire agus an Srath Bán"
     },
-    "comments": null,
     "type": "district"
   },
   "DUD": {
     "name": "Dudley",
     "code": "DUD",
-    "unofficial_names": "Dudley",
+    "unofficial_names": [
+      "Dudley"
+    ],
     "geo": {
       "latitude": 52.512255,
       "longitude": -2.081112,
@@ -3376,13 +3306,14 @@
       "cy": "Bwrdeistref Fetropolitan Dudley",
       "ga": "Dudley"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "DUR": {
     "name": "Durham",
     "code": "DUR",
-    "unofficial_names": "Durham",
+    "unofficial_names": [
+      "Durham"
+    ],
     "geo": {
       "latitude": 54.77525,
       "longitude": -1.584852,
@@ -3449,13 +3380,14 @@
       "el": "κομητεία Ντέραμ",
       "ga": "Contae Durham"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "EAL": {
     "name": "Ealing",
     "code": "EAL",
-    "unofficial_names": "Ealing",
+    "unofficial_names": [
+      "Ealing"
+    ],
     "geo": {
       "latitude": 51.5250257,
       "longitude": -0.3415002,
@@ -3508,13 +3440,14 @@
       "it": "Ealing",
       "th": "ลอนดอนโบโรออฟอีลิง"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "EAY": {
     "name": "East Ayrshire",
     "code": "EAY",
-    "unofficial_names": "East Ayrshire",
+    "unofficial_names": [
+      "East Ayrshire"
+    ],
     "geo": {
       "latitude": 55.45923149999999,
       "longitude": -4.3338032,
@@ -3567,7 +3500,6 @@
       "kk": "Ист-Эршир",
       "no": "East Ayrshire"
     },
-    "comments": null,
     "type": "council_area"
   },
   "EDH": {
@@ -3665,13 +3597,14 @@
       "jv": "Edinburgh",
       "ky": "Эдинбург"
     },
-    "comments": null,
     "type": "council_area"
   },
   "EDU": {
     "name": "East Dunbartonshire",
     "code": "EDU",
-    "unofficial_names": "East Dunbartonshire",
+    "unofficial_names": [
+      "East Dunbartonshire"
+    ],
     "geo": {
       "latitude": 55.9755216,
       "longitude": -4.2105149,
@@ -3720,13 +3653,14 @@
       "kn": "ಈಸ್ಟ್ ಡನ್ಬಾರ್ಟನ್ಶೈರ್",
       "no": "East Dunbartonshire"
     },
-    "comments": null,
     "type": "council_area"
   },
   "ELN": {
     "name": "East Lothian",
     "code": "ELN",
-    "unofficial_names": "East Lothian",
+    "unofficial_names": [
+      "East Lothian"
+    ],
     "geo": {
       "latitude": 55.9493383,
       "longitude": -2.7704464,
@@ -3779,7 +3713,6 @@
       "yue": "東洛錫安",
       "yue_Hans": "东洛锡安"
     },
-    "comments": null,
     "type": "council_area"
   },
   "ELS": {
@@ -3790,11 +3723,7 @@
     ],
     "geo": {
       "latitude": 57.76,
-      "longitude": -7.02,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -7.02
     },
     "translations": {
       "en": "Outer Hebrides",
@@ -3845,13 +3774,14 @@
       "he": "ההיברידים החיצוניים",
       "th": "เอาเตอร์เฮบริดีส"
     },
-    "comments": null,
     "type": "council_area"
   },
   "ENF": {
     "name": "Enfield",
     "code": "ENF",
-    "unofficial_names": "Enfield",
+    "unofficial_names": [
+      "Enfield"
+    ],
     "geo": {
       "latitude": 51.6522994,
       "longitude": -0.0807119,
@@ -3909,21 +3839,11 @@
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಎನ್ಫೀಲ್ಡ್",
       "no": "Enfield"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "ENG": {
     "name": "England",
     "code": "ENG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Engeland",
       "am": "እንግሊዝ",
@@ -4013,13 +3933,14 @@
       "yue": "英倫",
       "yue_Hans": "英伦"
     },
-    "comments": null,
     "type": "country"
   },
   "ERW": {
     "name": "East Renfrewshire",
     "code": "ERW",
-    "unofficial_names": "East Renfrewshire",
+    "unofficial_names": [
+      "East Renfrewshire"
+    ],
     "geo": {
       "latitude": 55.74765,
       "longitude": -4.351420399999999,
@@ -4060,7 +3981,6 @@
       "ga": "Comhairle Shiorrachd Rinn Friú an Ear",
       "no": "East Renfrewshire"
     },
-    "comments": null,
     "type": "council_area"
   },
   "ERY": {
@@ -4133,13 +4053,14 @@
       "mk": "Источен Рајдинг Јоркшир",
       "no": "East Riding of Yorkshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "ESS": {
     "name": "Essex",
     "code": "ESS",
-    "unofficial_names": "Essex",
+    "unofficial_names": [
+      "Essex"
+    ],
     "geo": {
       "latitude": 51.76683689999999,
       "longitude": 0.4757762,
@@ -4213,13 +4134,14 @@
       "hr": "Essex (grofovija)",
       "uz": "Essex"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "ESX": {
     "name": "East Sussex",
     "code": "ESX",
-    "unofficial_names": "East Sussex",
+    "unofficial_names": [
+      "East Sussex"
+    ],
     "geo": {
       "latitude": 50.9285982,
       "longitude": 0.2764899,
@@ -4293,13 +4215,14 @@
       "hr": "Istočni Sussex",
       "my": "အိစက်စက်"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "FAL": {
     "name": "Falkirk",
     "code": "FAL",
-    "unofficial_names": "Falkirk",
+    "unofficial_names": [
+      "Falkirk"
+    ],
     "geo": {
       "latitude": 56.00187750000001,
       "longitude": -3.7839131,
@@ -4347,13 +4270,14 @@
       "az": "Falkerk",
       "he": "פולקרק"
     },
-    "comments": null,
     "type": "council_area"
   },
   "FIF": {
     "name": "Fife",
     "code": "FIF",
-    "unofficial_names": "Fife",
+    "unofficial_names": [
+      "Fife"
+    ],
     "geo": {
       "latitude": 56.2082078,
       "longitude": -3.1495175,
@@ -4415,7 +4339,6 @@
       "az": "Fayf",
       "gl": "Fife, Escocia"
     },
-    "comments": null,
     "type": "council_area"
   },
   "FLN": {
@@ -4476,21 +4399,11 @@
       "az": "Flintşir",
       "da": "Flintshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "FMO": {
     "name": "Fermanagh and Omagh",
     "code": "FMO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Fermanagh and Omagh",
       "en": "Fermanagh and Omagh",
@@ -4503,13 +4416,14 @@
       "ccp": "𑄜𑄢𑄴𑄟𑄚𑄇𑄴 𑄃𑄳𑄃 𑄃𑄮𑄟𑄇𑄴",
       "ga": "Fhear Manach agus na hÓmaí"
     },
-    "comments": null,
     "type": "district"
   },
   "GAT": {
     "name": "Gateshead",
     "code": "GAT",
-    "unofficial_names": "Gateshead",
+    "unofficial_names": [
+      "Gateshead"
+    ],
     "geo": {
       "latitude": 54.95268,
       "longitude": -1.603411,
@@ -4543,7 +4457,6 @@
       "he": "גייטסהד",
       "uk": "Метропольне бюро в Гейтсхеді"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "GLG": {
@@ -4644,13 +4557,14 @@
       "ps": "ګلاسګو",
       "sd": "گلاسگو"
     },
-    "comments": null,
     "type": "council_area"
   },
   "GLS": {
     "name": "Gloucestershire",
     "code": "GLS",
-    "unofficial_names": "Gloucestershire",
+    "unofficial_names": [
+      "Gloucestershire"
+    ],
     "geo": {
       "latitude": 51.8642112,
       "longitude": -2.2380335,
@@ -4722,20 +4636,17 @@
       "mk": "Глостершир",
       "no": "Gloucestershire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "GRE": {
     "name": "Greenwich",
     "code": "GRE",
-    "unofficial_names": "Greenwich",
+    "unofficial_names": [
+      "Greenwich"
+    ],
     "geo": {
       "latitude": 51.48257659999999,
-      "longitude": -0.0076589,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -0.0076589
     },
     "translations": {
       "en": "Greenwich",
@@ -4783,13 +4694,14 @@
       "fi": "Royal Borough of Greenwich",
       "ga": "Buirg Ríoga Greenwich"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "GWN": {
     "name": "Gwynedd",
     "code": "GWN",
-    "unofficial_names": "Gwynedd",
+    "unofficial_names": [
+      "Gwynedd"
+    ],
     "geo": {
       "latitude": 52.8928932,
       "longitude": -3.9958464,
@@ -4852,13 +4764,14 @@
       "sr_Latn": "Gvinet",
       "tr": "Gwynedd"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "HAL": {
     "name": "Halton",
     "code": "HAL",
-    "unofficial_names": "Halton",
+    "unofficial_names": [
+      "Halton"
+    ],
     "geo": {
       "latitude": 53.34902719999999,
       "longitude": -2.7136913,
@@ -4901,13 +4814,14 @@
       "cy": "Bwrdeistref Halton",
       "ga": "Halton"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "HAM": {
     "name": "Hampshire",
     "code": "HAM",
-    "unofficial_names": "Hampshire",
+    "unofficial_names": [
+      "Hampshire"
+    ],
     "geo": {
       "latitude": 51.0895203,
       "longitude": -1.216844,
@@ -4980,13 +4894,14 @@
       "no": "Hampshire",
       "az": "Hempşir"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "HAV": {
     "name": "Havering",
     "code": "HAV",
-    "unofficial_names": "Havering",
+    "unofficial_names": [
+      "Havering"
+    ],
     "geo": {
       "latitude": 51.577924,
       "longitude": 0.2120829,
@@ -5041,20 +4956,17 @@
       "kn": "ಲಂಡನ್ ಬರೋ ಆಫ್ ಹಾವೆರಿಂಗ್",
       "no": "Havering"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HCK": {
     "name": "Hackney",
     "code": "HCK",
-    "unofficial_names": "Hackney",
+    "unofficial_names": [
+      "Hackney"
+    ],
     "geo": {
       "latitude": 53.1563141,
-      "longitude": -1.5750216,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -1.5750216
     },
     "translations": {
       "en": "Hackney",
@@ -5103,7 +5015,6 @@
       "mk": "Хакни",
       "no": "Hackney"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HEF": {
@@ -5182,13 +5093,14 @@
       "no": "Herefordshire",
       "az": "Herefordşir qraflığı"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "HIL": {
     "name": "Hillingdon",
     "code": "HIL",
-    "unofficial_names": "Hillingdon",
+    "unofficial_names": [
+      "Hillingdon"
+    ],
     "geo": {
       "latitude": 51.5351832,
       "longitude": -0.4481378,
@@ -5246,13 +5158,14 @@
       "mk": "Хилингдон",
       "no": "Hillingdon"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HLD": {
     "name": "Highland",
     "code": "HLD",
-    "unofficial_names": "Highland",
+    "unofficial_names": [
+      "Highland"
+    ],
     "geo": {
       "latitude": 57.3596139,
       "longitude": -5.0992763,
@@ -5306,13 +5219,14 @@
       "he": "היילנד",
       "hy": "Հայլենդ"
     },
-    "comments": null,
     "type": "council_area"
   },
   "HMF": {
     "name": "Hammersmith and Fulham",
     "code": "HMF",
-    "unofficial_names": "Hammersmith and Fulham",
+    "unofficial_names": [
+      "Hammersmith and Fulham"
+    ],
     "geo": {
       "latitude": 51.49901699999999,
       "longitude": -0.2291497,
@@ -5368,13 +5282,14 @@
       "mk": "Хамерсмит и Фулам",
       "no": "Hammersmith and Fulham"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HNS": {
     "name": "Hounslow",
     "code": "HNS",
-    "unofficial_names": "Hounslow",
+    "unofficial_names": [
+      "Hounslow"
+    ],
     "geo": {
       "latitude": 51.46092179999999,
       "longitude": -0.373149,
@@ -5423,13 +5338,14 @@
       "ga": "Buirg Londan Hounslow",
       "no": "Hounslow"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HPL": {
     "name": "Hartlepool",
     "code": "HPL",
-    "unofficial_names": "Hartlepool",
+    "unofficial_names": [
+      "Hartlepool"
+    ],
     "geo": {
       "latitude": 54.691745,
       "longitude": -1.212926,
@@ -5467,13 +5383,14 @@
       "cy": "Bwrdeistref Hartlepool",
       "hy": "Հարթլփուլ"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "HRT": {
     "name": "Hertfordshire",
     "code": "HRT",
-    "unofficial_names": "Hertfordshire",
+    "unofficial_names": [
+      "Hertfordshire"
+    ],
     "geo": {
       "latitude": 51.80978229999999,
       "longitude": -0.2376744,
@@ -5545,13 +5462,14 @@
       "mk": "Хартфордшир",
       "no": "Hertfordshire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "HRW": {
     "name": "Harrow",
     "code": "HRW",
-    "unofficial_names": "Harrow",
+    "unofficial_names": [
+      "Harrow"
+    ],
     "geo": {
       "latitude": 51.580559,
       "longitude": -0.341995,
@@ -5601,13 +5519,14 @@
       "ga": "Buirg Londan Harrow",
       "no": "Harrow"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "HRY": {
     "name": "Haringey",
     "code": "HRY",
-    "unofficial_names": "Haringey",
+    "unofficial_names": [
+      "Haringey"
+    ],
     "geo": {
       "latitude": 51.5906113,
       "longitude": -0.1109709,
@@ -5661,13 +5580,14 @@
       "yue": "夏靈基",
       "yue_Hans": "夏灵基"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "IOS": {
     "name": "Isles of Scilly",
     "code": "IOS",
-    "unofficial_names": "Isles of Scilly",
+    "unofficial_names": [
+      "Isles of Scilly"
+    ],
     "geo": {
       "latitude": 49.925002,
       "longitude": -6.298672000000001,
@@ -5736,13 +5656,14 @@
       "gl": "Illas Scilly",
       "lv": "Sili salas"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "IOW": {
     "name": "Isle of Wight",
     "code": "IOW",
-    "unofficial_names": "Isle of Wight",
+    "unofficial_names": [
+      "Isle of Wight"
+    ],
     "geo": {
       "latitude": 50.69271759999999,
       "longitude": -1.3167103,
@@ -5820,13 +5741,14 @@
       "hr": "Otok Wight",
       "my": "အယ်လော့ဝိုက်"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "ISL": {
     "name": "Islington",
     "code": "ISL",
-    "unofficial_names": "Islington",
+    "unofficial_names": [
+      "Islington"
+    ],
     "geo": {
       "latitude": 51.5465063,
       "longitude": -0.1058058,
@@ -5879,13 +5801,14 @@
       "no": "Islington",
       "bg": "Ислингтън"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "IVC": {
     "name": "Inverclyde",
     "code": "IVC",
-    "unofficial_names": "Inverclyde",
+    "unofficial_names": [
+      "Inverclyde"
+    ],
     "geo": {
       "latitude": 55.9118089,
       "longitude": -4.7359063,
@@ -5933,13 +5856,14 @@
       "kn": "ಇನ್ವರ್ಕ್ಲೈಡ್",
       "no": "Inverclyde"
     },
-    "comments": null,
     "type": "council_area"
   },
   "KEC": {
     "name": "Kensington and Chelsea",
     "code": "KEC",
-    "unofficial_names": "Kensington and Chelsea",
+    "unofficial_names": [
+      "Kensington and Chelsea"
+    ],
     "geo": {
       "latitude": 51.4990805,
       "longitude": -0.1938253,
@@ -6003,13 +5927,14 @@
       "el": "Βασιλικός Δήμος του Κένσινγκτον και Τσέλσι",
       "th": "รอยัลโบโรออฟเคนซิงทันแอนด์เชลซี"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "KEN": {
     "name": "Kent",
     "code": "KEN",
-    "unofficial_names": "Kent",
+    "unofficial_names": [
+      "Kent"
+    ],
     "geo": {
       "latitude": 51.2787075,
       "longitude": 0.5217254000000001,
@@ -6085,7 +6010,6 @@
       "hr": "Kent, grofovija",
       "ne": "केन्ट"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "KHL": {
@@ -6168,13 +6092,14 @@
       "no": "Kingston upon Hull",
       "ky": "Кингстон-Апон-Халл"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "KIR": {
     "name": "Kirklees",
     "code": "KIR",
-    "unofficial_names": "Kirklees",
+    "unofficial_names": [
+      "Kirklees"
+    ],
     "geo": {
       "latitude": 52.6020536,
       "longitude": 1.2803263,
@@ -6216,13 +6141,14 @@
       "fi": "Kirklees",
       "ga": "Kirklees"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "KTT": {
     "name": "Kingston upon Thames",
     "code": "KTT",
-    "unofficial_names": "Kingston upon Thames",
+    "unofficial_names": [
+      "Kingston upon Thames"
+    ],
     "geo": {
       "latitude": 51.41233,
       "longitude": -0.300689,
@@ -6272,13 +6198,14 @@
       "mk": "Кралски реон Кингстон на Темза",
       "no": "Kingston upon Thames"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "KWL": {
     "name": "Knowsley",
     "code": "KWL",
-    "unofficial_names": "Knowsley",
+    "unofficial_names": [
+      "Knowsley"
+    ],
     "geo": {
       "latitude": 53.454594,
       "longitude": -2.852907,
@@ -6322,13 +6249,14 @@
       "ga": "Knowsley",
       "hu": "Knowsley"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "LAN": {
     "name": "Lancashire",
     "code": "LAN",
-    "unofficial_names": "Lancashire",
+    "unofficial_names": [
+      "Lancashire"
+    ],
     "geo": {
       "latitude": 53.9690089,
       "longitude": -2.6276908,
@@ -6400,21 +6328,11 @@
       "mk": "Ланкашир",
       "no": "Lancashire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "LBC": {
     "name": "Lisburn and Castlereagh",
     "code": "LBC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Lisburn and Castlereagh",
       "en": "Lisburn and Castlereagh",
@@ -6427,13 +6345,14 @@
       "ccp": "𑄣𑄨𑄌𑄴𑄝𑄢𑄴𑄚𑄴 𑄃𑄳𑄃 𑄇𑄳𑄠𑄥𑄧𑄣𑄴𑄢𑄨𑄇𑄴",
       "ru": "Лисберн и Каслри"
     },
-    "comments": null,
     "type": "district"
   },
   "LBH": {
     "name": "Lambeth",
     "code": "LBH",
-    "unofficial_names": "Lambeth",
+    "unofficial_names": [
+      "Lambeth"
+    ],
     "geo": {
       "latitude": 51.4571477,
       "longitude": -0.1230681,
@@ -6491,13 +6410,14 @@
       "yue": "琳寶區",
       "yue_Hans": "琳宝区"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "LCE": {
     "name": "Leicester",
     "code": "LCE",
-    "unofficial_names": "Leicester",
+    "unofficial_names": [
+      "Leicester"
+    ],
     "geo": {
       "latitude": 52.6368778,
       "longitude": -1.1397592,
@@ -6570,13 +6490,14 @@
       "cy": "Dinas Caerlŷr",
       "ga": "Cathair Leicester"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "LDS": {
     "name": "Leeds",
     "code": "LDS",
-    "unofficial_names": "Leeds",
+    "unofficial_names": [
+      "Leeds"
+    ],
     "geo": {
       "latitude": 53.8007554,
       "longitude": -1.5490774,
@@ -6619,13 +6540,14 @@
       "ga": "Leeds",
       "hy": "Սիթի օֆ Լիդս"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "LEC": {
     "name": "Leicestershire",
     "code": "LEC",
-    "unofficial_names": "Leicestershire",
+    "unofficial_names": [
+      "Leicestershire"
+    ],
     "geo": {
       "latitude": 52.74012279999999,
       "longitude": -1.1405925,
@@ -6701,13 +6623,14 @@
       "no": "Leicestershire",
       "az": "Lesterşir"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "LEW": {
     "name": "Lewisham",
     "code": "LEW",
-    "unofficial_names": "Lewisham",
+    "unofficial_names": [
+      "Lewisham"
+    ],
     "geo": {
       "latitude": 51.4414579,
       "longitude": -0.0117006,
@@ -6759,13 +6682,14 @@
       "mk": "Луишам",
       "no": "Lewisham"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "LIN": {
     "name": "Lincolnshire",
     "code": "LIN",
-    "unofficial_names": "Lincolnshire",
+    "unofficial_names": [
+      "Lincolnshire"
+    ],
     "geo": {
       "latitude": 53.2178821,
       "longitude": -0.1999702,
@@ -6839,13 +6763,14 @@
       "mk": "Линколншир",
       "no": "Lincolnshire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "LIV": {
     "name": "Liverpool",
     "code": "LIV",
-    "unofficial_names": "Liverpool",
+    "unofficial_names": [
+      "Liverpool"
+    ],
     "geo": {
       "latitude": 53.4083714,
       "longitude": -2.9915726,
@@ -6922,13 +6847,14 @@
       "cy": "Dinas Lerpwl",
       "ga": "Learpholl"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "LND": {
     "name": "London, City of",
     "code": "LND",
-    "unofficial_names": "London, City of",
+    "unofficial_names": [
+      "London, City of"
+    ],
     "geo": {
       "latitude": 51.5073509,
       "longitude": -0.1277583,
@@ -7029,13 +6955,14 @@
       "ha_NE": "Landan",
       "no": "City of London"
     },
-    "comments": null,
     "type": "city_corporation"
   },
   "LUT": {
     "name": "Luton",
     "code": "LUT",
-    "unofficial_names": "Luton",
+    "unofficial_names": [
+      "Luton"
+    ],
     "geo": {
       "latitude": 51.8786707,
       "longitude": -0.4200255,
@@ -7100,13 +7027,14 @@
       "mk": "Лутон",
       "no": "Luton"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MAN": {
     "name": "Manchester",
     "code": "MAN",
-    "unofficial_names": "Manchester",
+    "unofficial_names": [
+      "Manchester"
+    ],
     "geo": {
       "latitude": 53.4807593,
       "longitude": -2.2426305,
@@ -7183,13 +7111,14 @@
       "cy": "Dinas Manceinion",
       "ga": "Manchain"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "MDB": {
     "name": "Middlesbrough",
     "code": "MDB",
-    "unofficial_names": "Middlesbrough",
+    "unofficial_names": [
+      "Middlesbrough"
+    ],
     "geo": {
       "latitude": 54.574227,
       "longitude": -1.234956,
@@ -7261,13 +7190,14 @@
       "bs": "Middlesbrough",
       "no": "Middlesbrough"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MDW": {
     "name": "Medway",
     "code": "MDW",
-    "unofficial_names": "Medway",
+    "unofficial_names": [
+      "Medway"
+    ],
     "geo": {
       "latitude": 51.4084923,
       "longitude": 0.5878457,
@@ -7316,21 +7246,11 @@
       "id": "Medway",
       "is": "Medway"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MEA": {
     "name": "Mid and East Antrim",
     "code": "MEA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Mid and East Antrim",
       "en": "Mid and East Antrim",
@@ -7352,13 +7272,14 @@
       "kn": "ಮಿಡ್ ಮತ್ತು ಈಸ್ಟ್ ಆಂಟ್ರಿಮ್",
       "pt": "Mid and East Antrim"
     },
-    "comments": null,
     "type": "district"
   },
   "MIK": {
     "name": "Milton Keynes",
     "code": "MIK",
-    "unofficial_names": "Milton Keynes",
+    "unofficial_names": [
+      "Milton Keynes"
+    ],
     "geo": {
       "latitude": 52.0406224,
       "longitude": -0.7594171,
@@ -7398,13 +7319,14 @@
       "fi": "Milton Keynes",
       "zh": "米尔顿凯恩斯区"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MLN": {
     "name": "Midlothian",
     "code": "MLN",
-    "unofficial_names": "Midlothian",
+    "unofficial_names": [
+      "Midlothian"
+    ],
     "geo": {
       "latitude": 55.8292247,
       "longitude": -3.1338428,
@@ -7457,7 +7379,6 @@
       "he": "מידלוטיאן",
       "tr": "Midlothian"
     },
-    "comments": null,
     "type": "council_area"
   },
   "MON": {
@@ -7521,20 +7442,17 @@
       "sq": "Monmouthshire",
       "tr": "Monmouthshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MRT": {
     "name": "Merton",
     "code": "MRT",
-    "unofficial_names": "Merton",
+    "unofficial_names": [
+      "Merton"
+    ],
     "geo": {
       "latitude": 50.891854,
-      "longitude": -4.095316,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -4.095316
     },
     "translations": {
       "en": "Merton",
@@ -7583,13 +7501,14 @@
       "be": "Мертан",
       "no": "Merton"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "MRY": {
     "name": "Moray",
     "code": "MRY",
-    "unofficial_names": "Moray",
+    "unofficial_names": [
+      "Moray"
+    ],
     "geo": {
       "latitude": 57.511548,
       "longitude": -3.2483773,
@@ -7639,7 +7558,6 @@
       "yue": "慕禮",
       "yue_Hans": "慕礼"
     },
-    "comments": null,
     "type": "council_area"
   },
   "MTY": {
@@ -7681,21 +7599,11 @@
       "pt": "Merthyr Tydfil County Borough",
       "de": "Merthyr Tydfil"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "MUL": {
     "name": "Mid Ulster",
     "code": "MUL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Mid Ulster",
       "en": "Mid Ulster",
@@ -7717,13 +7625,14 @@
       "kn": "ಮಿಡ್-ಅಲ್ಸ್ಟರ್",
       "pt": "Mid-Ulster"
     },
-    "comments": null,
     "type": "district"
   },
   "NAY": {
     "name": "North Ayrshire",
     "code": "NAY",
-    "unofficial_names": "North Ayrshire",
+    "unofficial_names": [
+      "North Ayrshire"
+    ],
     "geo": {
       "latitude": 55.7113902,
       "longitude": -4.729983400000001,
@@ -7775,13 +7684,14 @@
       "no": "North Ayrshire",
       "hy": "Նորթ Էրշիր"
     },
-    "comments": null,
     "type": "council_area"
   },
   "NBL": {
     "name": "Northumberland",
     "code": "NBL",
-    "unofficial_names": "Northumberland",
+    "unofficial_names": [
+      "Northumberland"
+    ],
     "geo": {
       "latitude": 55.2082542,
       "longitude": -2.0784138,
@@ -7854,13 +7764,14 @@
       "gl": "Northumberland",
       "sw": "Northumberland"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NEL": {
     "name": "North East Lincolnshire",
     "code": "NEL",
-    "unofficial_names": "North East Lincolnshire",
+    "unofficial_names": [
+      "North East Lincolnshire"
+    ],
     "geo": {
       "latitude": 53.5418558,
       "longitude": -0.1263736,
@@ -7899,13 +7810,14 @@
       "cy": "Bwrdeistref Gogledd-ddwyrain Swydd Lincoln",
       "eu": "North East Lincolnshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NET": {
     "name": "Newcastle upon Tyne",
     "code": "NET",
-    "unofficial_names": "Newcastle upon Tyne",
+    "unofficial_names": [
+      "Newcastle upon Tyne"
+    ],
     "geo": {
       "latitude": 54.978252,
       "longitude": -1.61778,
@@ -7979,13 +7891,14 @@
       "cy": "Dinas Newcastle upon Tyne",
       "ga": "Newcastle upon Tyne"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "NFK": {
     "name": "Norfolk",
     "code": "NFK",
-    "unofficial_names": "Norfolk",
+    "unofficial_names": [
+      "Norfolk"
+    ],
     "geo": {
       "latitude": 52.6139686,
       "longitude": 0.8864021,
@@ -8058,13 +7971,14 @@
       "mk": "Норфолк",
       "no": "Norfolk"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "NGM": {
     "name": "Nottingham",
     "code": "NGM",
-    "unofficial_names": "Nottingham",
+    "unofficial_names": [
+      "Nottingham"
+    ],
     "geo": {
       "latitude": 52.95478319999999,
       "longitude": -1.1581086,
@@ -8147,21 +8061,11 @@
       "ha_NE": "Nottingham",
       "no": "Nottingham"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NIR": {
     "name": "Northern Ireland",
     "code": "NIR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Noord-Ierland",
       "am": "ስሜን አየርላንድ",
@@ -8247,13 +8151,14 @@
       "sd": "اتر آئرلينڊ",
       "tk": "Demirgazyk Irlandiýa"
     },
-    "comments": null,
     "type": "province"
   },
   "NLK": {
     "name": "North Lanarkshire",
     "code": "NLK",
-    "unofficial_names": "North Lanarkshire",
+    "unofficial_names": [
+      "North Lanarkshire"
+    ],
     "geo": {
       "latitude": 55.8289139,
       "longitude": -3.9221958,
@@ -8304,13 +8209,14 @@
       "az": "Nort-Lanarkşir",
       "mk": "Северен Ланаркшир"
     },
-    "comments": null,
     "type": "council_area"
   },
   "NLN": {
     "name": "North Lincolnshire",
     "code": "NLN",
-    "unofficial_names": "North Lincolnshire",
+    "unofficial_names": [
+      "North Lincolnshire"
+    ],
     "geo": {
       "latitude": 53.60555919999999,
       "longitude": -0.5596582,
@@ -8352,21 +8258,11 @@
       "ga": "Lincolnshire Thuaidh",
       "hy": "Հյուսիսային Լինքոլնշիր"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NMD": {
     "name": "Newry, Mourne and Down",
     "code": "NMD",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Newry, Mourne and Down",
       "en": "Newry, Mourne and Down",
@@ -8389,13 +8285,14 @@
       "pt": "Newry",
       "ca": "Newry, Mourne and Down"
     },
-    "comments": null,
     "type": "district"
   },
   "NSM": {
     "name": "North Somerset",
     "code": "NSM",
-    "unofficial_names": "North Somerset",
+    "unofficial_names": [
+      "North Somerset"
+    ],
     "geo": {
       "latitude": 51.4409659,
       "longitude": -2.7426528,
@@ -8437,13 +8334,14 @@
       "be": "Паўночны Сомерсет",
       "no": "North Somerset"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NTH": {
     "name": "Northamptonshire",
     "code": "NTH",
-    "unofficial_names": "Northamptonshire",
+    "unofficial_names": [
+      "Northamptonshire"
+    ],
     "geo": {
       "latitude": 52.27299439999999,
       "longitude": -0.8755514999999999,
@@ -8517,7 +8415,6 @@
       "hr": "Northamptonshire (grofovija)",
       "ms": "Northamptonshire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "NTL": {
@@ -8577,13 +8474,14 @@
       "da": "Neath Port Talbot",
       "el": "Νιθ Ποτ Τόλμποτ"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NTT": {
     "name": "Nottinghamshire",
     "code": "NTT",
-    "unofficial_names": "Nottinghamshire",
+    "unofficial_names": [
+      "Nottinghamshire"
+    ],
     "geo": {
       "latitude": 53.1285044,
       "longitude": -0.9030999,
@@ -8657,20 +8555,17 @@
       "az": "Nottinqemşir",
       "gl": "Nottinghamshire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "NTY": {
     "name": "North Tyneside",
     "code": "NTY",
-    "unofficial_names": "North Tyneside",
+    "unofficial_names": [
+      "North Tyneside"
+    ],
     "geo": {
       "latitude": 55.008,
-      "longitude": -1.546,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -1.546
     },
     "translations": {
       "en": "North Tyneside",
@@ -8708,13 +8603,14 @@
       "ga": "Tyneside Thuaidh",
       "he": "צפון טיינסייד"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "NWM": {
     "name": "Newham",
     "code": "NWM",
-    "unofficial_names": "Newham",
+    "unofficial_names": [
+      "Newham"
+    ],
     "geo": {
       "latitude": 51.5255162,
       "longitude": 0.0352163,
@@ -8775,7 +8671,6 @@
       "be": "Ньюэм",
       "mk": "Њуам"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "NWP": {
@@ -8808,13 +8703,14 @@
       "ga": "Casnewydd",
       "ja": "シティ・オヴ・ニューポート"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "NYK": {
     "name": "North Yorkshire",
     "code": "NYK",
-    "unofficial_names": "North Yorkshire",
+    "unofficial_names": [
+      "North Yorkshire"
+    ],
     "geo": {
       "latitude": 54.25035949999999,
       "longitude": -1.4708553,
@@ -8883,13 +8779,14 @@
       "az": "Nort-Yorkşir",
       "sd": "نارٿ يارڪ شائر"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "OLD": {
     "name": "Oldham",
     "code": "OLD",
-    "unofficial_names": "Oldham",
+    "unofficial_names": [
+      "Oldham"
+    ],
     "geo": {
       "latitude": 53.5409298,
       "longitude": -2.1113659,
@@ -8924,13 +8821,14 @@
       "cy": "Bwrdeistref Fetropolitan Oldham",
       "ga": "Oldham"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "ORK": {
     "name": "Orkney Islands",
     "code": "ORK",
-    "unofficial_names": "Orkney Islands",
+    "unofficial_names": [
+      "Orkney Islands"
+    ],
     "geo": {
       "latitude": 59.04291250000001,
       "longitude": -3.1542155,
@@ -9003,13 +8901,14 @@
       "mk": "Оркниски Острови",
       "no": "Orknøyene"
     },
-    "comments": null,
     "type": "council_area"
   },
   "OXF": {
     "name": "Oxfordshire",
     "code": "OXF",
-    "unofficial_names": "Oxfordshire",
+    "unofficial_names": [
+      "Oxfordshire"
+    ],
     "geo": {
       "latitude": 51.7612056,
       "longitude": -1.2464674,
@@ -9097,7 +8996,6 @@
       "ml": "ഓക്സ്ഫോഡ്",
       "sd": "آڪسفورڊ"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "PEM": {
@@ -9165,13 +9063,14 @@
       "mk": "Пембрукшир",
       "tr": "Pembrokeshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "PKN": {
     "name": "Perth and Kinross",
     "code": "PKN",
-    "unofficial_names": "Perth and Kinross",
+    "unofficial_names": [
+      "Perth and Kinross"
+    ],
     "geo": {
       "latitude": 56.5917369,
       "longitude": -3.8557348,
@@ -9224,13 +9123,14 @@
       "mk": "Перт и Кинрос",
       "no": "Perth and Kinross"
     },
-    "comments": null,
     "type": "council_area"
   },
   "PLY": {
     "name": "Plymouth",
     "code": "PLY",
-    "unofficial_names": "Plymouth",
+    "unofficial_names": [
+      "Plymouth"
+    ],
     "geo": {
       "latitude": 50.3754565,
       "longitude": -4.1426565,
@@ -9302,13 +9202,14 @@
       "cy": "Dinas Plymouth",
       "ga": "Cathair Plymouth"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "POR": {
     "name": "Portsmouth",
     "code": "POR",
-    "unofficial_names": "Portsmouth",
+    "unofficial_names": [
+      "Portsmouth"
+    ],
     "geo": {
       "latitude": 50.816667,
       "longitude": -1.083333,
@@ -9389,13 +9290,14 @@
       "ha_NE": "Portsmouth",
       "no": "Portsmouth"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "POW": {
     "name": "Powys",
     "code": "POW",
-    "unofficial_names": "Powys",
+    "unofficial_names": [
+      "Powys"
+    ],
     "geo": {
       "latitude": 52.1430868,
       "longitude": -3.3736821,
@@ -9451,13 +9353,14 @@
       "gl": "Powys",
       "tr": "Powys"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "PTE": {
     "name": "Peterborough",
     "code": "PTE",
-    "unofficial_names": "Peterborough",
+    "unofficial_names": [
+      "Peterborough"
+    ],
     "geo": {
       "latitude": 52.56949849999999,
       "longitude": -0.2405299,
@@ -9524,13 +9427,14 @@
       "be": "Пітэрбара",
       "cy": "Dinas Peterborough"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "RCC": {
     "name": "Redcar and Cleveland",
     "code": "RCC",
-    "unofficial_names": "Redcar and Cleveland",
+    "unofficial_names": [
+      "Redcar and Cleveland"
+    ],
     "geo": {
       "latitude": 54.5393369,
       "longitude": -1.0310219,
@@ -9570,13 +9474,14 @@
       "fi": "Redcar ja Cleveland",
       "ga": "Redcar agus Cleveland"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "RCH": {
     "name": "Rochdale",
     "code": "RCH",
-    "unofficial_names": "Rochdale",
+    "unofficial_names": [
+      "Rochdale"
+    ],
     "geo": {
       "latitude": 53.6097136,
       "longitude": -2.1561,
@@ -9610,7 +9515,6 @@
       "cy": "Bwrdeistref Fetropolitan Rochdale",
       "ga": "Rochdale"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "RCT": {
@@ -9621,11 +9525,7 @@
     ],
     "geo": {
       "latitude": 51.6035773,
-      "longitude": -3.3411765,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -3.3411765
     },
     "translations": {
       "en": "Rhondda Cynon Taf",
@@ -9661,13 +9561,14 @@
       "cs": "Rhondda Cynon Taf",
       "no": "Rhondda Cynon Taf"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "RDB": {
     "name": "Redbridge",
     "code": "RDB",
-    "unofficial_names": "Redbridge",
+    "unofficial_names": [
+      "Redbridge"
+    ],
     "geo": {
       "latitude": 51.58861,
       "longitude": 0.0823976,
@@ -9723,13 +9624,14 @@
       "yue": "紅橋",
       "no": "Redbridge"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "RDG": {
     "name": "Reading",
     "code": "RDG",
-    "unofficial_names": "Reading",
+    "unofficial_names": [
+      "Reading"
+    ],
     "geo": {
       "latitude": 51.4542645,
       "longitude": -0.9781303,
@@ -9800,13 +9702,14 @@
       "mk": "Рединг",
       "no": "Reading"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "RFW": {
     "name": "Renfrewshire",
     "code": "RFW",
-    "unofficial_names": "Renfrewshire",
+    "unofficial_names": [
+      "Renfrewshire"
+    ],
     "geo": {
       "latitude": 55.8298581,
       "longitude": -4.5428385,
@@ -9859,13 +9762,14 @@
       "yue": "聯福郡",
       "yue_Hans": "联福郡"
     },
-    "comments": null,
     "type": "council_area"
   },
   "RIC": {
     "name": "Richmond upon Thames",
     "code": "RIC",
-    "unofficial_names": "Richmond upon Thames",
+    "unofficial_names": [
+      "Richmond upon Thames"
+    ],
     "geo": {
       "latitude": 51.46131099999999,
       "longitude": -0.303742,
@@ -9919,13 +9823,14 @@
       "no": "Richmond upon Thames",
       "az": "Riçmond-apon-Tems"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "ROT": {
     "name": "Rotherham",
     "code": "ROT",
-    "unofficial_names": "Rotherham",
+    "unofficial_names": [
+      "Rotherham"
+    ],
     "geo": {
       "latitude": 53.4326035,
       "longitude": -1.3635009,
@@ -9959,13 +9864,14 @@
       "fi": "Rotherham",
       "ga": "Rotherham"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "RUT": {
     "name": "Rutland",
     "code": "RUT",
-    "unofficial_names": "Rutland",
+    "unofficial_names": [
+      "Rutland"
+    ],
     "geo": {
       "latitude": 52.6583014,
       "longitude": -0.639643,
@@ -10032,13 +9938,14 @@
       "be": "Ратленд",
       "tr": "Rutland"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SAW": {
     "name": "Sandwell",
     "code": "SAW",
-    "unofficial_names": "Sandwell",
+    "unofficial_names": [
+      "Sandwell"
+    ],
     "geo": {
       "latitude": 52.5361674,
       "longitude": -2.010793,
@@ -10076,13 +9983,14 @@
       "ga": "Sandwell",
       "uk": "Сандвелл"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SAY": {
     "name": "South Ayrshire",
     "code": "SAY",
-    "unofficial_names": "South Ayrshire",
+    "unofficial_names": [
+      "South Ayrshire"
+    ],
     "geo": {
       "latitude": 55.2701113,
       "longitude": -4.6524183,
@@ -10132,7 +10040,6 @@
       "ga": "Comhairle Shiorrachd Áir a Deas",
       "he": "סאות׳ איירשייר"
     },
-    "comments": null,
     "type": "council_area"
   },
   "SCB": {
@@ -10193,21 +10100,11 @@
       "yue": "蘇格蘭邊區",
       "yue_Hans": "苏格兰边区"
     },
-    "comments": null,
     "type": "council_area"
   },
   "SCT": {
     "name": "Scotland",
     "code": "SCT",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Skotland",
       "am": "ስኮትላንድ",
@@ -10295,13 +10192,14 @@
       "yue": "蘇格蘭",
       "yue_Hans": "苏格兰"
     },
-    "comments": null,
     "type": "country"
   },
   "SFK": {
     "name": "Suffolk",
     "code": "SFK",
-    "unofficial_names": "Suffolk",
+    "unofficial_names": [
+      "Suffolk"
+    ],
     "geo": {
       "latitude": 52.1872472,
       "longitude": 0.9707800999999999,
@@ -10375,20 +10273,17 @@
       "az": "Saffolk qraflığı",
       "hy": "Սուֆոլք"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "SFT": {
     "name": "Sefton",
     "code": "SFT",
-    "unofficial_names": "Sefton",
+    "unofficial_names": [
+      "Sefton"
+    ],
     "geo": {
       "latitude": 53.503445,
-      "longitude": -2.970359,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -2.970359
     },
     "translations": {
       "en": "Sefton",
@@ -10420,13 +10315,14 @@
       "cy": "Bwrdeistref Fetropolitan Sefton",
       "ga": "Sefton"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SGC": {
     "name": "South Gloucestershire",
     "code": "SGC",
-    "unofficial_names": "South Gloucestershire",
+    "unofficial_names": [
+      "South Gloucestershire"
+    ],
     "geo": {
       "latitude": 51.531456,
       "longitude": -2.4547158,
@@ -10471,13 +10367,14 @@
       "el": "Σάουθ Γκλόστερσιρ",
       "ga": "Gloucestershire Theas"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SHF": {
     "name": "Sheffield",
     "code": "SHF",
-    "unofficial_names": "Sheffield",
+    "unofficial_names": [
+      "Sheffield"
+    ],
     "geo": {
       "latitude": 53.38112899999999,
       "longitude": -1.470085,
@@ -10551,13 +10448,14 @@
       "cy": "Dinas Sheffield",
       "ga": "Sheffield"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SHN": {
     "name": "St. Helens",
     "code": "SHN",
-    "unofficial_names": "St. Helens",
+    "unofficial_names": [
+      "St. Helens"
+    ],
     "geo": {
       "latitude": 53.456307,
       "longitude": -2.737095,
@@ -10592,13 +10490,14 @@
       "fi": "St Helens",
       "ga": "St Helens"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SHR": {
     "name": "Shropshire",
     "code": "SHR",
-    "unofficial_names": "Shropshire",
+    "unofficial_names": [
+      "Shropshire"
+    ],
     "geo": {
       "latitude": 52.5864845,
       "longitude": -2.7037501,
@@ -10665,13 +10564,14 @@
       "mk": "Шропшир",
       "no": "Shropshire"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SKP": {
     "name": "Stockport",
     "code": "SKP",
-    "unofficial_names": "Stockport",
+    "unofficial_names": [
+      "Stockport"
+    ],
     "geo": {
       "latitude": 53.41063159999999,
       "longitude": -2.1575332,
@@ -10705,13 +10605,14 @@
       "cy": "Bwrdeistref Fetropolitan Stockport",
       "ga": "Stockport"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SLF": {
     "name": "Salford",
     "code": "SLF",
-    "unofficial_names": "Salford",
+    "unofficial_names": [
+      "Salford"
+    ],
     "geo": {
       "latitude": 53.48752349999999,
       "longitude": -2.2901264,
@@ -10753,13 +10654,14 @@
       "ga": "Salford",
       "uk": "Солфорд"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SLG": {
     "name": "Slough",
     "code": "SLG",
-    "unofficial_names": "Slough",
+    "unofficial_names": [
+      "Slough"
+    ],
     "geo": {
       "latitude": 51.51053839999999,
       "longitude": -0.5950405999999999,
@@ -10809,13 +10711,14 @@
       "no": "Slough",
       "cy": "Bwrdeistref Slough"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SLK": {
     "name": "South Lanarkshire",
     "code": "SLK",
-    "unofficial_names": "South Lanarkshire",
+    "unofficial_names": [
+      "South Lanarkshire"
+    ],
     "geo": {
       "latitude": 55.5243038,
       "longitude": -3.7035077,
@@ -10870,13 +10773,14 @@
       "he": "דרום לאנארקשייר",
       "mk": "Јужен Ланаркшир"
     },
-    "comments": null,
     "type": "council_area"
   },
   "SND": {
     "name": "Sunderland",
     "code": "SND",
-    "unofficial_names": "Sunderland",
+    "unofficial_names": [
+      "Sunderland"
+    ],
     "geo": {
       "latitude": 54.906869,
       "longitude": -1.383801,
@@ -10911,13 +10815,14 @@
       "ga": "Sunderland",
       "he": "הסיטי של סנדרלנד"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SOL": {
     "name": "Solihull",
     "code": "SOL",
-    "unofficial_names": "Solihull",
+    "unofficial_names": [
+      "Solihull"
+    ],
     "geo": {
       "latitude": 52.411811,
       "longitude": -1.77761,
@@ -10949,13 +10854,14 @@
       "cy": "Bwrdeistref Fetropolitan Solihull",
       "ga": "Solihull"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SOM": {
     "name": "Somerset",
     "code": "SOM",
-    "unofficial_names": "Somerset",
+    "unofficial_names": [
+      "Somerset"
+    ],
     "geo": {
       "latitude": 51.0587013,
       "longitude": -2.9499066,
@@ -11030,13 +10936,14 @@
       "my": "ဆမ်းမားဆတ်",
       "pa": "ਸਮਰਸੈੱਟ"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "SOS": {
     "name": "Southend-on-Sea",
     "code": "SOS",
-    "unofficial_names": "Southend-on-Sea",
+    "unofficial_names": [
+      "Southend-on-Sea"
+    ],
     "geo": {
       "latitude": 51.5459269,
       "longitude": 0.7077123,
@@ -11095,13 +11002,14 @@
       "ca": "Southend-on-Sea",
       "no": "Southend-on-Sea"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SRY": {
     "name": "Surrey",
     "code": "SRY",
-    "unofficial_names": "Surrey",
+    "unofficial_names": [
+      "Surrey"
+    ],
     "geo": {
       "latitude": 51.31475930000001,
       "longitude": -0.5599501,
@@ -11178,13 +11086,14 @@
       "yo_BJ": "Surrey",
       "hr": "Surrey (grofovija)"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "STE": {
     "name": "Stoke-on-Trent",
     "code": "STE",
-    "unofficial_names": "Stoke-on-Trent",
+    "unofficial_names": [
+      "Stoke-on-Trent"
+    ],
     "geo": {
       "latitude": 53.002668,
       "longitude": -2.179404,
@@ -11252,13 +11161,14 @@
       "cy": "Dinas Stoke-on-Trent",
       "ga": "Stoke-on-Trent"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "STG": {
     "name": "Stirling",
     "code": "STG",
-    "unofficial_names": "Stirling",
+    "unofficial_names": [
+      "Stirling"
+    ],
     "geo": {
       "latitude": 56.1165227,
       "longitude": -3.9369029,
@@ -11303,13 +11213,14 @@
       "ca": "Stirling",
       "hu": "Stirling"
     },
-    "comments": null,
     "type": "council_area"
   },
   "STH": {
     "name": "Southampton",
     "code": "STH",
-    "unofficial_names": "Southampton",
+    "unofficial_names": [
+      "Southampton"
+    ],
     "geo": {
       "latitude": 50.90970040000001,
       "longitude": -1.4043509,
@@ -11391,13 +11302,14 @@
       "ha_NE": "Southampton",
       "no": "Southampton"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "STN": {
     "name": "Sutton",
     "code": "STN",
-    "unofficial_names": "Sutton",
+    "unofficial_names": [
+      "Sutton"
+    ],
     "geo": {
       "latitude": 51.3614279,
       "longitude": -0.193961,
@@ -11445,13 +11357,14 @@
       "ga": "Buirg Londan Sutton",
       "hy": "Սաթն"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "STS": {
     "name": "Staffordshire",
     "code": "STS",
-    "unofficial_names": "Staffordshire",
+    "unofficial_names": [
+      "Staffordshire"
+    ],
     "geo": {
       "latitude": 52.7697957,
       "longitude": -2.1045243,
@@ -11523,13 +11436,14 @@
       "az": "Staffordşir qraflığı",
       "ne": "स्टाफोर्डशायर"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "STT": {
     "name": "Stockton-on-Tees",
     "code": "STT",
-    "unofficial_names": "Stockton-on-Tees",
+    "unofficial_names": [
+      "Stockton-on-Tees"
+    ],
     "geo": {
       "latitude": 54.5704551,
       "longitude": -1.3289821,
@@ -11567,13 +11481,14 @@
       "no": "Stockton-on-Tees (distrikt)",
       "cy": "Bwrdeistref Stockton-on-Tees"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "STY": {
     "name": "South Tyneside",
     "code": "STY",
-    "unofficial_names": "South Tyneside",
+    "unofficial_names": [
+      "South Tyneside"
+    ],
     "geo": {
       "latitude": 54.9636693,
       "longitude": -1.4418634,
@@ -11609,7 +11524,6 @@
       "cy": "Cyngor De Tyneside",
       "ga": "Tyneside Theas"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "SWA": {
@@ -11692,13 +11606,14 @@
       "mk": "Свонзи",
       "no": "Swansea"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SWD": {
     "name": "Swindon",
     "code": "SWD",
-    "unofficial_names": "Swindon",
+    "unofficial_names": [
+      "Swindon"
+    ],
     "geo": {
       "latitude": 51.55577390000001,
       "longitude": -1.7797176,
@@ -11737,20 +11652,17 @@
       "no": "Swindon",
       "cy": "Bwrdeistref Swindon"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "SWK": {
     "name": "Southwark",
     "code": "SWK",
-    "unofficial_names": "Southwark",
+    "unofficial_names": [
+      "Southwark"
+    ],
     "geo": {
       "latitude": 51.502781,
-      "longitude": -0.087738,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -0.087738
     },
     "translations": {
       "en": "Southwark",
@@ -11797,13 +11709,14 @@
       "az": "Sautark",
       "bg": "Съдърк"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "TAM": {
     "name": "Tameside",
     "code": "TAM",
-    "unofficial_names": "Tameside",
+    "unofficial_names": [
+      "Tameside"
+    ],
     "geo": {
       "latitude": 53.4805828,
       "longitude": -2.0809891,
@@ -11837,13 +11750,14 @@
       "no": "Tameside",
       "ca": "Tameside"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "TFW": {
     "name": "Telford and Wrekin",
     "code": "TFW",
-    "unofficial_names": "Telford and Wrekin",
+    "unofficial_names": [
+      "Telford and Wrekin"
+    ],
     "geo": {
       "latitude": 52.7409916,
       "longitude": -2.4868586,
@@ -11883,13 +11797,14 @@
       "fi": "Telford ja Wrekin",
       "ga": "Telford agus Wrekin"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "THR": {
     "name": "Thurrock",
     "code": "THR",
-    "unofficial_names": "Thurrock",
+    "unofficial_names": [
+      "Thurrock"
+    ],
     "geo": {
       "latitude": 51.4934557,
       "longitude": 0.3529197,
@@ -11933,13 +11848,14 @@
       "el": "Θάροκ",
       "ga": "Thurrock"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "TOB": {
     "name": "Torbay",
     "code": "TOB",
-    "unofficial_names": "Torbay",
+    "unofficial_names": [
+      "Torbay"
+    ],
     "geo": {
       "latitude": 50.4619209,
       "longitude": -3.525315,
@@ -11986,7 +11902,6 @@
       "ga": "Torbay",
       "he": "טורביי"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "TOF": {
@@ -11997,11 +11912,7 @@
     ],
     "geo": {
       "latitude": 51.696,
-      "longitude": -3.063,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -3.063
     },
     "translations": {
       "en": "Torfaen",
@@ -12041,13 +11952,14 @@
       "no": "Torfaen",
       "hy": "Տորվայն"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "TRF": {
     "name": "Trafford",
     "code": "TRF",
-    "unofficial_names": "Trafford",
+    "unofficial_names": [
+      "Trafford"
+    ],
     "geo": {
       "latitude": 53.4215132,
       "longitude": -2.3517263,
@@ -12091,13 +12003,14 @@
       "he": "טראפורד",
       "hy": "Թրաֆորդ"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "TWH": {
     "name": "Tower Hamlets",
     "code": "TWH",
-    "unofficial_names": "Tower Hamlets",
+    "unofficial_names": [
+      "Tower Hamlets"
+    ],
     "geo": {
       "latitude": 51.52026069999999,
       "longitude": -0.0293396,
@@ -12155,7 +12068,6 @@
       "yue": "塔村區",
       "yue_Hans": "塔村区"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "VGL": {
@@ -12210,13 +12122,14 @@
       "be": "Вейл-оф-Гламарган",
       "da": "Vale of Glamorgan"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WAR": {
     "name": "Warwickshire",
     "code": "WAR",
-    "unofficial_names": "Warwickshire",
+    "unofficial_names": [
+      "Warwickshire"
+    ],
     "geo": {
       "latitude": 52.2671353,
       "longitude": -1.4675216,
@@ -12286,13 +12199,14 @@
       "mk": "Ворикшир",
       "no": "Warwickshire"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "WBK": {
     "name": "West Berkshire",
     "code": "WBK",
-    "unofficial_names": "West Berkshire",
+    "unofficial_names": [
+      "West Berkshire"
+    ],
     "geo": {
       "latitude": 51.4659863,
       "longitude": -1.2814014,
@@ -12337,13 +12251,14 @@
       "cy": "Gorllewin Berkshire",
       "ga": "Berkshire Thiar"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WDU": {
     "name": "West Dunbartonshire",
     "code": "WDU",
-    "unofficial_names": "West Dunbartonshire",
+    "unofficial_names": [
+      "West Dunbartonshire"
+    ],
     "geo": {
       "latitude": 55.9650641,
       "longitude": -4.5063596,
@@ -12391,13 +12306,14 @@
       "no": "West Dunbartonshire",
       "az": "Uest Danbartonşir"
     },
-    "comments": null,
     "type": "council_area"
   },
   "WFT": {
     "name": "Waltham Forest",
     "code": "WFT",
-    "unofficial_names": "Waltham Forest",
+    "unofficial_names": [
+      "Waltham Forest"
+    ],
     "geo": {
       "latitude": 51.5886383,
       "longitude": -0.0117625,
@@ -12451,13 +12367,14 @@
       "no": "Waltham Forest",
       "ar": "ناحية غابة والثام في لندن"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "WGN": {
     "name": "Wigan",
     "code": "WGN",
-    "unofficial_names": "Wigan",
+    "unofficial_names": [
+      "Wigan"
+    ],
     "geo": {
       "latitude": 53.5450645,
       "longitude": -2.6325074,
@@ -12492,13 +12409,14 @@
       "yue": "韋根都市自治市",
       "yue_Hans": "韦根都市自治市"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "WIL": {
     "name": "Wiltshire",
     "code": "WIL",
-    "unofficial_names": "Wiltshire",
+    "unofficial_names": [
+      "Wiltshire"
+    ],
     "geo": {
       "latitude": 51.2462714,
       "longitude": -1.9922127,
@@ -12570,13 +12488,14 @@
       "yue": "渭州郡",
       "yue_Hans": "渭州郡"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WKF": {
     "name": "Wakefield",
     "code": "WKF",
-    "unofficial_names": "Wakefield",
+    "unofficial_names": [
+      "Wakefield"
+    ],
     "geo": {
       "latitude": 53.683298,
       "longitude": -1.505924,
@@ -12618,13 +12537,14 @@
       "el": "Γουέικφιλντ",
       "ga": "Wakefield"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "WLL": {
     "name": "Walsall",
     "code": "WLL",
-    "unofficial_names": "Walsall",
+    "unofficial_names": [
+      "Walsall"
+    ],
     "geo": {
       "latitude": 52.586214,
       "longitude": -1.982919,
@@ -12665,13 +12585,14 @@
       "ga": "Walsall",
       "uk": "Волсолл"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "WLN": {
     "name": "West Lothian",
     "code": "WLN",
-    "unofficial_names": "West Lothian",
+    "unofficial_names": [
+      "West Lothian"
+    ],
     "geo": {
       "latitude": 55.9070198,
       "longitude": -3.5517167,
@@ -12724,21 +12645,11 @@
       "az": "Uest-Lotian",
       "hy": "Ուեսթ Լոտիան"
     },
-    "comments": null,
     "type": "council_area"
   },
   "WLS": {
     "name": "Wales",
     "code": "WLS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Wales",
       "am": "ዌልስ",
@@ -12826,13 +12737,14 @@
       "yue": "威爾斯",
       "yue_Hans": "威尔斯"
     },
-    "comments": null,
     "type": "country"
   },
   "WLV": {
     "name": "Wolverhampton",
     "code": "WLV",
-    "unofficial_names": "Wolverhampton",
+    "unofficial_names": [
+      "Wolverhampton"
+    ],
     "geo": {
       "latitude": 52.586973,
       "longitude": -2.12882,
@@ -12902,13 +12814,14 @@
       "cy": "Dinas Wolverhampton",
       "ga": "Wolverhampton"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "WND": {
     "name": "Wandsworth",
     "code": "WND",
-    "unofficial_names": "Wandsworth",
+    "unofficial_names": [
+      "Wandsworth"
+    ],
     "geo": {
       "latitude": 51.4570716,
       "longitude": -0.1817824,
@@ -12961,13 +12874,14 @@
       "be": "Уондсуэрт",
       "no": "Wandsworth"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "WNM": {
     "name": "Windsor and Maidenhead",
     "code": "WNM",
-    "unofficial_names": "Windsor and Maidenhead",
+    "unofficial_names": [
+      "Windsor and Maidenhead"
+    ],
     "geo": {
       "latitude": 51.4917059,
       "longitude": -0.7321755000000001,
@@ -13016,13 +12930,14 @@
       "fi": "Windsor ja Maidenhead",
       "ga": "Windsor agus Maidenhead"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WOK": {
     "name": "Wokingham",
     "code": "WOK",
-    "unofficial_names": "Wokingham",
+    "unofficial_names": [
+      "Wokingham"
+    ],
     "geo": {
       "latitude": 51.410457,
       "longitude": -0.833861,
@@ -13062,13 +12977,14 @@
       "no": "Wokingham",
       "cy": "Bwrdeistref Wokingham"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WOR": {
     "name": "Worcestershire",
     "code": "WOR",
-    "unofficial_names": "Worcestershire",
+    "unofficial_names": [
+      "Worcestershire"
+    ],
     "geo": {
       "latitude": 52.2545225,
       "longitude": -2.2668382,
@@ -13138,20 +13054,17 @@
       "az": "Vusterşir",
       "el": "Γούστερσιρ"
     },
-    "comments": null,
     "type": "council_area"
   },
   "WRL": {
     "name": "Wirral",
     "code": "WRL",
-    "unofficial_names": "Wirral",
+    "unofficial_names": [
+      "Wirral"
+    ],
     "geo": {
       "latitude": 53.3333333,
-      "longitude": -3.0833333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -3.0833333
     },
     "translations": {
       "en": "Wirral",
@@ -13185,13 +13098,14 @@
       "ga": "Wirral",
       "hy": "Ուիրրալ"
     },
-    "comments": null,
     "type": "metropolitan_district"
   },
   "WRT": {
     "name": "Warrington",
     "code": "WRT",
-    "unofficial_names": "Warrington",
+    "unofficial_names": [
+      "Warrington"
+    ],
     "geo": {
       "latitude": 53.3900441,
       "longitude": -2.5969501,
@@ -13241,7 +13155,6 @@
       "no": "Warrington",
       "cy": "Bwrdeistref Warrington"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WRX": {
@@ -13295,13 +13208,14 @@
       "ceb": "Wrexham",
       "ga": "Contaebhuirg Wrecsam"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "WSM": {
     "name": "Westminster",
     "code": "WSM",
-    "unofficial_names": "Westminster",
+    "unofficial_names": [
+      "Westminster"
+    ],
     "geo": {
       "latitude": 51.5001754,
       "longitude": -0.1332326,
@@ -13376,13 +13290,14 @@
       "sr": "Град Вестминстер",
       "sr_Latn": "Grad Vestminster"
     },
-    "comments": null,
     "type": "london_borough"
   },
   "WSX": {
     "name": "West Sussex",
     "code": "WSX",
-    "unofficial_names": "West Sussex",
+    "unofficial_names": [
+      "West Sussex"
+    ],
     "geo": {
       "latitude": 50.9280143,
       "longitude": -0.4617075,
@@ -13454,13 +13369,14 @@
       "bg": "Западен Съсекс",
       "no": "West Sussex"
     },
-    "comments": null,
     "type": "two-tier_county"
   },
   "YOR": {
     "name": "York",
     "code": "YOR",
-    "unofficial_names": "York",
+    "unofficial_names": [
+      "York"
+    ],
     "geo": {
       "latitude": 53.95996510000001,
       "longitude": -1.0872979,
@@ -13533,13 +13449,14 @@
       "cy": "Dinas Efrog",
       "ga": "Cathair Eabhrac"
     },
-    "comments": null,
     "type": "unitary_authority"
   },
   "ZET": {
     "name": "Shetland Islands",
     "code": "ZET",
-    "unofficial_names": "Shetland Islands",
+    "unofficial_names": [
+      "Shetland Islands"
+    ],
     "geo": {
       "latitude": 60.5296507,
       "longitude": -1.2659408,
@@ -13614,7 +13531,6 @@
       "ml": "ഷെറ്റ്ലാൻഡ്",
       "mr": "शेटलँड"
     },
-    "comments": null,
     "type": "council_area"
   }
 }

@@ -2,7 +2,9 @@
   "01": {
     "name": "Christ Church Nichola Town",
     "code": "01",
-    "unofficial_names": "Christ Church Nichola Town",
+    "unofficial_names": [
+      "Christ Church Nichola Town"
+    ],
     "geo": {
       "latitude": 17.3604812,
       "longitude": -62.7617837,
@@ -52,13 +54,14 @@
       "mk": "Крајст Чрч Никола Таун",
       "no": "Christ Church Nichola Town prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "02": {
     "name": "Saint Anne Sandy Point",
     "code": "02",
-    "unofficial_names": "Saint Anne Sandy Point",
+    "unofficial_names": [
+      "Saint Anne Sandy Point"
+    ],
     "geo": {
       "latitude": 17.3725333,
       "longitude": -62.8441133,
@@ -110,13 +113,14 @@
       "mk": "Сент Ен Сенди Поинт",
       "no": "Saint Anne Sandy Point prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "03": {
     "name": "Saint George Basseterre",
     "code": "03",
-    "unofficial_names": "Saint George Basseterre",
+    "unofficial_names": [
+      "Saint George Basseterre"
+    ],
     "geo": {
       "latitude": 17.2350612,
       "longitude": -62.6442284,
@@ -167,13 +171,14 @@
       "no": "Saint George Basseterre prestegjeld",
       "mk": "Сент Џорџ Бастер"
     },
-    "comments": null,
     "type": "parish"
   },
   "04": {
     "name": "Saint George Gingerland",
     "code": "04",
-    "unofficial_names": "Saint George Gingerland",
+    "unofficial_names": [
+      "Saint George Gingerland"
+    ],
     "geo": {
       "latitude": 17.1257759,
       "longitude": -62.5619811,
@@ -224,13 +229,14 @@
       "no": "Saint George Gingerland prestegjeld",
       "mk": "Сент Џорџ Џинџерланд"
     },
-    "comments": null,
     "type": "parish"
   },
   "05": {
     "name": "Saint James Windward",
     "code": "05",
-    "unofficial_names": "Saint James Windward",
+    "unofficial_names": [
+      "Saint James Windward"
+    ],
     "geo": {
       "latitude": 17.1769633,
       "longitude": -62.57960259999999,
@@ -280,13 +286,14 @@
       "uk": "Парафія Сент-Джеймс-Віндвард",
       "no": "Saint James Windward prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "06": {
     "name": "Saint John Capisterre",
     "code": "06",
-    "unofficial_names": "Saint John Capisterre",
+    "unofficial_names": [
+      "Saint John Capisterre"
+    ],
     "geo": {
       "latitude": 17.3810341,
       "longitude": -62.7911833,
@@ -337,13 +344,14 @@
       "no": "Saint John Capisterre prestegjeld",
       "mk": "Сент Џон Капистер"
     },
-    "comments": null,
     "type": "parish"
   },
   "07": {
     "name": "Saint John Figtree",
     "code": "07",
-    "unofficial_names": "Saint John Figtree",
+    "unofficial_names": [
+      "Saint John Figtree"
+    ],
     "geo": {
       "latitude": 17.1155748,
       "longitude": -62.6031004,
@@ -393,13 +401,14 @@
       "uk": "Парафія Сент-Джон-Фігтрі",
       "no": "Saint John Figtree prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "08": {
     "name": "Saint Mary Cayon",
     "code": "08",
-    "unofficial_names": "Saint Mary Cayon",
+    "unofficial_names": [
+      "Saint Mary Cayon"
+    ],
     "geo": {
       "latitude": 17.3462071,
       "longitude": -62.73826709999999,
@@ -449,13 +458,14 @@
       "uk": "Парафія Сент-Мері-Кайон",
       "no": "Saint Mary Cayon prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "09": {
     "name": "Saint Paul Capisterre",
     "code": "09",
-    "unofficial_names": "Saint Paul Capisterre",
+    "unofficial_names": [
+      "Saint Paul Capisterre"
+    ],
     "geo": {
       "latitude": 17.3924804,
       "longitude": -62.8323499,
@@ -505,13 +515,14 @@
       "uk": "Парафія Сент-Пол-Капістер",
       "no": "Saint Paul Capisterre prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "10": {
     "name": "Saint Paul Charlestown",
     "code": "10",
-    "unofficial_names": "Saint Paul Charlestown",
+    "unofficial_names": [
+      "Saint Paul Charlestown"
+    ],
     "geo": {
       "latitude": 17.1346297,
       "longitude": -62.6133816,
@@ -561,13 +572,14 @@
       "uk": "Парафія Сент-Пол-Чарльзтаун",
       "no": "Saint Paul Charlestown prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "11": {
     "name": "Saint Peter Basseterre",
     "code": "11",
-    "unofficial_names": "Saint Peter Basseterre",
+    "unofficial_names": [
+      "Saint Peter Basseterre"
+    ],
     "geo": {
       "latitude": 17.3102911,
       "longitude": -62.7147533,
@@ -617,13 +629,14 @@
       "uk": "Парафія Сент-Пітер-Бастер",
       "no": "Saint Peter Basseterre prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "12": {
     "name": "Saint Thomas Lowland",
     "code": "12",
-    "unofficial_names": "Saint Thomas Lowland",
+    "unofficial_names": [
+      "Saint Thomas Lowland"
+    ],
     "geo": {
       "latitude": 17.1650513,
       "longitude": -62.6089753,
@@ -673,13 +686,14 @@
       "uk": "Парафія Сент-Томас-Лоуленд",
       "no": "Saint Thomas Lowland prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "13": {
     "name": "Saint Thomas Middle Island",
     "code": "13",
-    "unofficial_names": "Saint Thomas Middle Island",
+    "unofficial_names": [
+      "Saint Thomas Middle Island"
+    ],
     "geo": {
       "latitude": 17.3348813,
       "longitude": -62.80882510000001,
@@ -728,13 +742,14 @@
       "uk": "Парафія Сент-Томас-Мідл-Айленд",
       "no": "Saint Thomas Middle Island prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "15": {
     "name": "Trinity Palmetto Point",
     "code": "15",
-    "unofficial_names": "Trinity Palmetto Point",
+    "unofficial_names": [
+      "Trinity Palmetto Point"
+    ],
     "geo": {
       "latitude": 17.3063519,
       "longitude": -62.7617837,
@@ -785,21 +800,11 @@
       "mk": "Тринити Палмето Поинт",
       "no": "Trinity Palmetto Point prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "K": {
     "name": "Saint Kitts",
     "code": "K",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سانت كيتس",
       "be": "Востраў Сент-Кітс",
@@ -848,21 +853,11 @@
       "hi": "सेंट किट्स",
       "id": "Saint Kitts"
     },
-    "comments": null,
     "type": "state"
   },
   "N": {
     "name": "Nevis",
     "code": "N",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "نيفيس",
       "be": "Востраў Невіс",
@@ -911,7 +906,6 @@
       "no": "Nevis",
       "id": "Nevis"
     },
-    "comments": null,
     "type": "state"
   }
 }

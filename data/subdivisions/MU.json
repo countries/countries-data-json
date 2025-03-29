@@ -2,7 +2,9 @@
   "AG": {
     "name": "Agalega Islands",
     "code": "AG",
-    "unofficial_names": "Agalega Islands",
+    "unofficial_names": [
+      "Agalega Islands"
+    ],
     "geo": {
       "latitude": -10.4681988,
       "longitude": 56.690672,
@@ -69,13 +71,14 @@
       "hy": "Ագալեգա",
       "ps": "آګالګا ټاپوګان"
     },
-    "comments": null,
     "type": "dependency"
   },
   "BL": {
     "name": "Black River",
     "code": "BL",
-    "unofficial_names": "Black River",
+    "unofficial_names": [
+      "Black River"
+    ],
     "geo": {
       "latitude": -20.34756,
       "longitude": 57.3651898,
@@ -134,20 +137,17 @@
       "af": "Rivière Noire-distrik",
       "fa": "ناحیه ریویر نوآیر"
     },
-    "comments": null,
     "type": "district"
   },
   "CC": {
     "name": "Cargados Carajos Shoals [Saint Brandon Islands]",
     "code": "CC",
-    "unofficial_names": "Cargados Carajos Shoals [Saint Brandon Islands]",
+    "unofficial_names": [
+      "Cargados Carajos Shoals [Saint Brandon Islands]"
+    ],
     "geo": {
       "latitude": -16.6333333,
-      "longitude": 59.6333333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 59.6333333
     },
     "translations": {
       "en": "Cargados Carajos",
@@ -203,13 +203,14 @@
       "ceb": "Cargados Carajos Shoals",
       "eu": "Cargados Carajos"
     },
-    "comments": null,
     "type": "dependency"
   },
   "FL": {
     "name": "Flacq",
     "code": "FL",
-    "unofficial_names": "Flacq",
+    "unofficial_names": [
+      "Flacq"
+    ],
     "geo": {
       "latitude": -20.2257836,
       "longitude": 57.7119274,
@@ -267,13 +268,14 @@
       "yue": "弗拉克區",
       "no": "Flacq"
     },
-    "comments": null,
     "type": "district"
   },
   "GP": {
     "name": "Grand Port",
     "code": "GP",
-    "unofficial_names": "Grand Port",
+    "unofficial_names": [
+      "Grand Port"
+    ],
     "geo": {
       "latitude": -20.3851546,
       "longitude": 57.6665742,
@@ -331,13 +333,14 @@
       "no": "Grand Port",
       "gl": "Grand Port"
     },
-    "comments": null,
     "type": "district"
   },
   "MO": {
     "name": "Moka",
     "code": "MO",
-    "unofficial_names": "Moka",
+    "unofficial_names": [
+      "Moka"
+    ],
     "geo": {
       "latitude": -20.219,
       "longitude": 57.496,
@@ -394,13 +397,14 @@
       "yue": "莫卡區",
       "no": "Moka"
     },
-    "comments": null,
     "type": "district"
   },
   "PA": {
     "name": "Pamplemousses",
     "code": "PA",
-    "unofficial_names": "Pamplemousses",
+    "unofficial_names": [
+      "Pamplemousses"
+    ],
     "geo": {
       "latitude": -20.116667,
       "longitude": 57.58333299999999,
@@ -457,13 +461,14 @@
       "no": "Pamplemousses",
       "af": "Pamplemousses-distrik"
     },
-    "comments": null,
     "type": "district"
   },
   "PL": {
     "name": "Port Louis City",
     "code": "PL",
-    "unofficial_names": "Port Louis City",
+    "unofficial_names": [
+      "Port Louis City"
+    ],
     "geo": {
       "latitude": -20.166667,
       "longitude": 57.516667,
@@ -504,13 +509,14 @@
       "az": "Port-Lui (rayon)",
       "ca": "Districte de Port Louis"
     },
-    "comments": null,
     "type": "district"
   },
   "PW": {
     "name": "Plaines Wilhems",
     "code": "PW",
-    "unofficial_names": "Plaines Wilhems",
+    "unofficial_names": [
+      "Plaines Wilhems"
+    ],
     "geo": {
       "latitude": -20.3054872,
       "longitude": 57.48535609999999,
@@ -567,13 +573,14 @@
       "eu": "Plaines Wilhems",
       "he": "מחוז פליינס וילהלמס"
     },
-    "comments": null,
     "type": "district"
   },
   "RO": {
     "name": "Rodrigues Island",
     "code": "RO",
-    "unofficial_names": "Rodrigues Island",
+    "unofficial_names": [
+      "Rodrigues Island"
+    ],
     "geo": {
       "latitude": -19.7245385,
       "longitude": 63.4272185,
@@ -644,13 +651,14 @@
       "ml": "റോഡ്രിഗസ്",
       "sk": "Rodrigues"
     },
-    "comments": null,
     "type": "dependency"
   },
   "RR": {
     "name": "Rivière du Rempart",
     "code": "RR",
-    "unofficial_names": "Rivière du Rempart",
+    "unofficial_names": [
+      "Rivière du Rempart"
+    ],
     "geo": {
       "latitude": -20.0905351,
       "longitude": 57.6949177,
@@ -706,13 +714,14 @@
       "af": "Rivière du Rempart-distrik",
       "he": "מחוז ריבייר דו רמפאר"
     },
-    "comments": null,
     "type": "district"
   },
   "SA": {
     "name": "Savanne",
     "code": "SA",
-    "unofficial_names": "Savanne",
+    "unofficial_names": [
+      "Savanne"
+    ],
     "geo": {
       "latitude": -20.473953,
       "longitude": 57.48535609999999,
@@ -768,7 +777,6 @@
       "no": "Savanne",
       "ml": "സവന്നെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   }
 }

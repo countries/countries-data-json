@@ -65,7 +65,6 @@
       "mn": "Израилын өмнөд дүүрэг",
       "ta": "தெற்கு மாவட்டம்"
     },
-    "comments": null,
     "type": "district"
   },
   "HA": {
@@ -146,7 +145,6 @@
       "no": "Haifa-distriktet",
       "mn": "Хайфа дүүрэг"
     },
-    "comments": null,
     "type": "district"
   },
   "JM": {
@@ -219,7 +217,6 @@
       "mn": "Иерусалим дүүрэг",
       "ta": "எருசலேம் மாவட்டம்"
     },
-    "comments": null,
     "type": "district"
   },
   "M": {
@@ -296,13 +293,14 @@
       "cy": "Ardal Canolog",
       "mn": "Израилын төв дүүрэг"
     },
-    "comments": null,
     "type": "district"
   },
   "TA": {
     "name": "Tel-Aviv",
     "code": "TA",
-    "unofficial_names": "Tel-Aviv",
+    "unofficial_names": [
+      "Tel-Aviv"
+    ],
     "geo": {
       "latitude": 32.0852999,
       "longitude": 34.78176759999999,
@@ -361,7 +359,6 @@
       "mn": "Тел-Авив дүүрэг",
       "ta": "டெல் அவீவ் மாவட்டம்"
     },
-    "comments": null,
     "type": "district"
   },
   "Z": {
@@ -437,7 +434,6 @@
       "no": "Norddistriktet",
       "mn": "Израилын умард дүүрэг"
     },
-    "comments": null,
     "type": "district"
   }
 }

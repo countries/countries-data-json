@@ -2,15 +2,6 @@
   "AL": {
     "name": "Alo",
     "code": "AL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Alo",
       "ar": "ألو",
@@ -69,21 +60,11 @@
       "uk": "Ало",
       "no": "Alo"
     },
-    "comments": null,
     "type": "administrative_precinct"
   },
   "SG": {
     "name": "Sigave",
     "code": "SG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Sigave",
       "ar": "مدينة سيغاف",
@@ -139,21 +120,11 @@
       "uk": "Сігаве",
       "no": "Sigave"
     },
-    "comments": null,
     "type": "administrative_precinct"
   },
   "UV": {
     "name": "Uvea",
     "code": "UV",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "أوفيا",
       "bn": "উভা",
@@ -208,7 +179,6 @@
       "cs": "Uvea",
       "no": "Uvea"
     },
-    "comments": null,
     "type": "administrative_precinct"
   }
 }

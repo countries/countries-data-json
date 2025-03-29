@@ -82,7 +82,6 @@
       "mk": "Адана",
       "no": "Adana"
     },
-    "comments": null,
     "type": "province"
   },
   "02": {
@@ -162,7 +161,6 @@
       "hr": "Adıyaman (pokrajina)",
       "ta": "அத்யமான் மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
@@ -245,7 +243,6 @@
       "no": "Afyonkarahisar",
       "hr": "Afyonkarahisar"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
@@ -328,13 +325,14 @@
       "no": "Ağrı",
       "hr": "Ağrı (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Amasya",
     "code": "05",
-    "unofficial_names": "Amasya",
+    "unofficial_names": [
+      "Amasya"
+    ],
     "geo": {
       "latitude": 40.64991,
       "longitude": 35.83532,
@@ -409,13 +407,14 @@
       "no": "Amasya",
       "hr": "Amasya (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "Ankara",
     "code": "06",
-    "unofficial_names": "Ankara",
+    "unofficial_names": [
+      "Ankara"
+    ],
     "geo": {
       "latitude": 39.92077,
       "longitude": 32.85411,
@@ -483,13 +482,14 @@
       "no": "Ankara",
       "ta": "அங்காரா மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "Antalya",
     "code": "07",
-    "unofficial_names": "Antalya",
+    "unofficial_names": [
+      "Antalya"
+    ],
     "geo": {
       "latitude": 36.88414,
       "longitude": 30.70563,
@@ -567,13 +567,14 @@
       "no": "Antalya",
       "ml": "അന്റാലിയ പ്രവിശ്യ"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "Artvin",
     "code": "08",
-    "unofficial_names": "Artvin",
+    "unofficial_names": [
+      "Artvin"
+    ],
     "geo": {
       "latitude": 41.18277,
       "longitude": 41.81829099999999,
@@ -650,7 +651,6 @@
       "no": "Artvin",
       "hr": "Artvin (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
@@ -737,7 +737,6 @@
       "mk": "Ајдин",
       "no": "Aydın"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
@@ -821,13 +820,14 @@
       "mk": "Балкесир",
       "no": "Balıkesir"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
     "name": "Bilecik",
     "code": "11",
-    "unofficial_names": "Bilecik",
+    "unofficial_names": [
+      "Bilecik"
+    ],
     "geo": {
       "latitude": 40.15013099999999,
       "longitude": 29.983061,
@@ -904,13 +904,14 @@
       "cy": "Talaith Bilecik",
       "sd": "بليسڪ صوبو"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
     "name": "Bingöl",
     "code": "12",
-    "unofficial_names": "Bingöl",
+    "unofficial_names": [
+      "Bingöl"
+    ],
     "geo": {
       "latitude": 38.885349,
       "longitude": 40.49829099999999,
@@ -985,13 +986,14 @@
       "af": "Bingöl",
       "hr": "Bingöl (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "Bitlis",
     "code": "13",
-    "unofficial_names": "Bitlis",
+    "unofficial_names": [
+      "Bitlis"
+    ],
     "geo": {
       "latitude": 38.393799,
       "longitude": 42.12318,
@@ -1064,13 +1066,14 @@
       "no": "Bitlis",
       "cy": "Talaith Bitlis"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
     "name": "Bolu",
     "code": "14",
-    "unofficial_names": "Bolu",
+    "unofficial_names": [
+      "Bolu"
+    ],
     "geo": {
       "latitude": 40.739479,
       "longitude": 31.611561,
@@ -1144,13 +1147,14 @@
       "mk": "Болу",
       "no": "Bolu"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
     "name": "Burdur",
     "code": "15",
-    "unofficial_names": "Burdur",
+    "unofficial_names": [
+      "Burdur"
+    ],
     "geo": {
       "latitude": 37.726909,
       "longitude": 30.288876,
@@ -1224,13 +1228,14 @@
       "no": "Burdur",
       "cy": "Talaith Burdur"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
     "name": "Bursa",
     "code": "16",
-    "unofficial_names": "Bursa",
+    "unofficial_names": [
+      "Bursa"
+    ],
     "geo": {
       "latitude": 40.266864,
       "longitude": 29.0634479,
@@ -1306,13 +1311,14 @@
       "no": "Bursa",
       "he": "מחוז בורסה"
     },
-    "comments": null,
     "type": "province"
   },
   "17": {
     "name": "Çanakkale",
     "code": "17",
-    "unofficial_names": "Çanakkale",
+    "unofficial_names": [
+      "Çanakkale"
+    ],
     "geo": {
       "latitude": 40.147778,
       "longitude": 26.405556,
@@ -1387,7 +1393,6 @@
       "mk": "Чанаккале",
       "no": "Çanakkale"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
@@ -1467,13 +1472,14 @@
       "cy": "Talaith Çankırı",
       "hy": "Չանքըրըի մարզ"
     },
-    "comments": null,
     "type": "province"
   },
   "19": {
     "name": "Çorum",
     "code": "19",
-    "unofficial_names": "Çorum",
+    "unofficial_names": [
+      "Çorum"
+    ],
     "geo": {
       "latitude": 40.554371,
       "longitude": 34.963718,
@@ -1538,13 +1544,14 @@
       "no": "Çorum",
       "ta": "கோரம் மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
     "name": "Denizli",
     "code": "20",
-    "unofficial_names": "Denizli",
+    "unofficial_names": [
+      "Denizli"
+    ],
     "geo": {
       "latitude": 37.77652,
       "longitude": 29.08639,
@@ -1617,7 +1624,6 @@
       "no": "Denizli",
       "cy": "Talaith Denizli"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
@@ -1699,13 +1705,14 @@
       "mk": "Дијарбекир",
       "no": "Diyarbakır"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
     "name": "Edirne",
     "code": "22",
-    "unofficial_names": "Edirne",
+    "unofficial_names": [
+      "Edirne"
+    ],
     "geo": {
       "latitude": 41.674444,
       "longitude": 26.560833,
@@ -1781,7 +1788,6 @@
       "no": "Edirne",
       "gl": "Provincia de Edirne"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
@@ -1862,13 +1868,14 @@
       "no": "Elazığ",
       "cy": "Talaith Elazığ"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
     "name": "Erzincan",
     "code": "24",
-    "unofficial_names": "Erzincan",
+    "unofficial_names": [
+      "Erzincan"
+    ],
     "geo": {
       "latitude": 39.7399289,
       "longitude": 39.504501,
@@ -1940,13 +1947,14 @@
       "no": "Erzincan",
       "hr": "Erzincan (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Erzurum",
     "code": "25",
-    "unofficial_names": "Erzurum",
+    "unofficial_names": [
+      "Erzurum"
+    ],
     "geo": {
       "latitude": 39.908611,
       "longitude": 41.276944,
@@ -2021,7 +2029,6 @@
       "mk": "Ерзурум",
       "no": "Erzurum"
     },
-    "comments": null,
     "type": "province"
   },
   "26": {
@@ -2100,13 +2107,14 @@
       "no": "Eskişehir",
       "cy": "Talaith Eskişehir"
     },
-    "comments": null,
     "type": "province"
   },
   "27": {
     "name": "Gaziantep",
     "code": "27",
-    "unofficial_names": "Gaziantep",
+    "unofficial_names": [
+      "Gaziantep"
+    ],
     "geo": {
       "latitude": 37.06622,
       "longitude": 37.38332,
@@ -2178,13 +2186,14 @@
       "no": "Gaziantep",
       "he": "גזיאנטפ"
     },
-    "comments": null,
     "type": "province"
   },
   "28": {
     "name": "Giresun",
     "code": "28",
-    "unofficial_names": "Giresun",
+    "unofficial_names": [
+      "Giresun"
+    ],
     "geo": {
       "latitude": 40.912811,
       "longitude": 38.38953,
@@ -2256,7 +2265,6 @@
       "mk": "Гиресун",
       "no": "Giresun"
     },
-    "comments": null,
     "type": "province"
   },
   "29": {
@@ -2327,13 +2335,14 @@
       "no": "Gümüşhane",
       "ta": "கோமஹேன் மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "30": {
     "name": "Hakkâri",
     "code": "30",
-    "unofficial_names": "Hakkâri",
+    "unofficial_names": [
+      "Hakkâri"
+    ],
     "geo": {
       "latitude": 37.576389,
       "longitude": 43.736667,
@@ -2405,13 +2414,14 @@
       "mk": "Хаќари",
       "no": "Hakkâri"
     },
-    "comments": null,
     "type": "province"
   },
   "31": {
     "name": "Hatay",
     "code": "31",
-    "unofficial_names": "Hatay",
+    "unofficial_names": [
+      "Hatay"
+    ],
     "geo": {
       "latitude": 36.2,
       "longitude": 36.166667,
@@ -2486,7 +2496,6 @@
       "mk": "Хатај",
       "no": "Hatay"
     },
-    "comments": null,
     "type": "province"
   },
   "32": {
@@ -2566,7 +2575,6 @@
       "no": "Isparta",
       "cy": "Talaith Isparta"
     },
-    "comments": null,
     "type": "province"
   },
   "33": {
@@ -2646,7 +2654,6 @@
       "he": "מחוז מרסין",
       "uz": "Mersin"
     },
-    "comments": null,
     "type": "province"
   },
   "34": {
@@ -2725,7 +2732,6 @@
       "hr": "Istanbul (pokrajina)",
       "ky": "Ыстанбул (ил)"
     },
-    "comments": null,
     "type": "province"
   },
   "35": {
@@ -2809,13 +2815,14 @@
       "he": "מחוז איזמיר",
       "ky": "Измир (ил)"
     },
-    "comments": null,
     "type": "province"
   },
   "36": {
     "name": "Kars",
     "code": "36",
-    "unofficial_names": "Kars",
+    "unofficial_names": [
+      "Kars"
+    ],
     "geo": {
       "latitude": 40.616667,
       "longitude": 43.1,
@@ -2881,13 +2888,14 @@
       "no": "Kars",
       "ta": "கார்ஸ் மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "37": {
     "name": "Kastamonu",
     "code": "37",
-    "unofficial_names": "Kastamonu",
+    "unofficial_names": [
+      "Kastamonu"
+    ],
     "geo": {
       "latitude": 41.38871,
       "longitude": 33.78273,
@@ -2959,13 +2967,14 @@
       "mk": "Кастамону",
       "no": "Kastamonu"
     },
-    "comments": null,
     "type": "province"
   },
   "38": {
     "name": "Kayseri",
     "code": "38",
-    "unofficial_names": "Kayseri",
+    "unofficial_names": [
+      "Kayseri"
+    ],
     "geo": {
       "latitude": 38.73122,
       "longitude": 35.478729,
@@ -3037,7 +3046,6 @@
       "no": "Kayseri",
       "cy": "Talaith Kayseri"
     },
-    "comments": null,
     "type": "province"
   },
   "39": {
@@ -3118,7 +3126,6 @@
       "cy": "Talaith Kırklareli",
       "uz": "Kırklareli"
     },
-    "comments": null,
     "type": "province"
   },
   "40": {
@@ -3197,13 +3204,14 @@
       "cy": "Talaith Kırşehir",
       "uz": "Kırşehir (viloyat)"
     },
-    "comments": null,
     "type": "province"
   },
   "41": {
     "name": "Kocaeli",
     "code": "41",
-    "unofficial_names": "Kocaeli",
+    "unofficial_names": [
+      "Kocaeli"
+    ],
     "geo": {
       "latitude": 40.8532704,
       "longitude": 29.8815203,
@@ -3277,13 +3285,14 @@
       "cy": "Talaith Kocaeli",
       "he": "קוג׳לי"
     },
-    "comments": null,
     "type": "province"
   },
   "42": {
     "name": "Konya",
     "code": "42",
-    "unofficial_names": "Konya",
+    "unofficial_names": [
+      "Konya"
+    ],
     "geo": {
       "latitude": 37.866667,
       "longitude": 32.483333,
@@ -3356,13 +3365,14 @@
       "no": "Konya",
       "cy": "Talaith Konya"
     },
-    "comments": null,
     "type": "province"
   },
   "43": {
     "name": "Kütahya",
     "code": "43",
-    "unofficial_names": "Kütahya",
+    "unofficial_names": [
+      "Kütahya"
+    ],
     "geo": {
       "latitude": 39.4167,
       "longitude": 29.9833,
@@ -3433,13 +3443,14 @@
       "no": "Kütahya",
       "cy": "Talaith Kütahya"
     },
-    "comments": null,
     "type": "province"
   },
   "44": {
     "name": "Malatya",
     "code": "44",
-    "unofficial_names": "Malatya",
+    "unofficial_names": [
+      "Malatya"
+    ],
     "geo": {
       "latitude": 38.35,
       "longitude": 38.3,
@@ -3509,13 +3520,14 @@
       "no": "Malatya",
       "uz": "Malatya (viloyat)"
     },
-    "comments": null,
     "type": "province"
   },
   "45": {
     "name": "Manisa",
     "code": "45",
-    "unofficial_names": "Manisa",
+    "unofficial_names": [
+      "Manisa"
+    ],
     "geo": {
       "latitude": 38.619099,
       "longitude": 27.428921,
@@ -3587,7 +3599,6 @@
       "cy": "Talaith Manisa",
       "uz": "Manisa"
     },
-    "comments": null,
     "type": "province"
   },
   "46": {
@@ -3667,13 +3678,14 @@
       "mk": "Кахраманмараш",
       "no": "Kahramanmaraş"
     },
-    "comments": null,
     "type": "province"
   },
   "47": {
     "name": "Mardin",
     "code": "47",
-    "unofficial_names": "Mardin",
+    "unofficial_names": [
+      "Mardin"
+    ],
     "geo": {
       "latitude": 37.3211634,
       "longitude": 40.7244774,
@@ -3745,7 +3757,6 @@
       "he": "נפת מרדין",
       "uz": "Mardin (viloyat)"
     },
-    "comments": null,
     "type": "province"
   },
   "48": {
@@ -3827,7 +3838,6 @@
       "no": "Muğla",
       "cy": "Talaith Muğla"
     },
-    "comments": null,
     "type": "province"
   },
   "49": {
@@ -3909,7 +3919,6 @@
       "no": "Muş",
       "cy": "Talaith Muş"
     },
-    "comments": null,
     "type": "province"
   },
   "50": {
@@ -3989,7 +3998,6 @@
       "no": "Nevşehir",
       "cy": "Talaith Nevşehir"
     },
-    "comments": null,
     "type": "province"
   },
   "51": {
@@ -4067,13 +4075,14 @@
       "no": "Niğde",
       "cy": "Talaith Niğde"
     },
-    "comments": null,
     "type": "province"
   },
   "52": {
     "name": "Ordu",
     "code": "52",
-    "unofficial_names": "Ordu",
+    "unofficial_names": [
+      "Ordu"
+    ],
     "geo": {
       "latitude": 40.98387899999999,
       "longitude": 37.876411,
@@ -4145,13 +4154,14 @@
       "mk": "Орду",
       "no": "Ordu"
     },
-    "comments": null,
     "type": "province"
   },
   "53": {
     "name": "Rize",
     "code": "53",
-    "unofficial_names": "Rize",
+    "unofficial_names": [
+      "Rize"
+    ],
     "geo": {
       "latitude": 41.02005,
       "longitude": 40.523449,
@@ -4222,13 +4232,14 @@
       "mk": "Ризе",
       "no": "Rize"
     },
-    "comments": null,
     "type": "province"
   },
   "54": {
     "name": "Sakarya",
     "code": "54",
-    "unofficial_names": "Sakarya",
+    "unofficial_names": [
+      "Sakarya"
+    ],
     "geo": {
       "latitude": 40.783333,
       "longitude": 30.4,
@@ -4301,13 +4312,14 @@
       "no": "Sakarya",
       "cy": "Talaith Sakarya"
     },
-    "comments": null,
     "type": "province"
   },
   "55": {
     "name": "Samsun",
     "code": "55",
-    "unofficial_names": "Samsun",
+    "unofficial_names": [
+      "Samsun"
+    ],
     "geo": {
       "latitude": 41.292782,
       "longitude": 36.33128,
@@ -4373,13 +4385,14 @@
       "ta": "சாம்சூன் மாகாணம்",
       "th": "จังหวัดซัมซุน"
     },
-    "comments": null,
     "type": "province"
   },
   "56": {
     "name": "Siirt",
     "code": "56",
-    "unofficial_names": "Siirt",
+    "unofficial_names": [
+      "Siirt"
+    ],
     "geo": {
       "latitude": 37.93554710000001,
       "longitude": 41.9368268,
@@ -4450,13 +4463,14 @@
       "no": "Siirt",
       "cy": "Talaith Siirt"
     },
-    "comments": null,
     "type": "province"
   },
   "57": {
     "name": "Sinop",
     "code": "57",
-    "unofficial_names": "Sinop",
+    "unofficial_names": [
+      "Sinop"
+    ],
     "geo": {
       "latitude": 42.02314,
       "longitude": 35.153069,
@@ -4525,13 +4539,14 @@
       "mk": "Синоп",
       "no": "Sinop"
     },
-    "comments": null,
     "type": "province"
   },
   "58": {
     "name": "Sivas",
     "code": "58",
-    "unofficial_names": "Sivas",
+    "unofficial_names": [
+      "Sivas"
+    ],
     "geo": {
       "latitude": 39.747662,
       "longitude": 37.017879,
@@ -4603,7 +4618,6 @@
       "mk": "Сивас",
       "no": "Sivas"
     },
-    "comments": null,
     "type": "province"
   },
   "59": {
@@ -4684,13 +4698,14 @@
       "no": "Tekirdağ",
       "cy": "Talaith Tekirdağ"
     },
-    "comments": null,
     "type": "province"
   },
   "60": {
     "name": "Tokat",
     "code": "60",
-    "unofficial_names": "Tokat",
+    "unofficial_names": [
+      "Tokat"
+    ],
     "geo": {
       "latitude": 40.313889,
       "longitude": 36.554167,
@@ -4763,13 +4778,14 @@
       "mk": "Токат",
       "no": "Tokat"
     },
-    "comments": null,
     "type": "province"
   },
   "61": {
     "name": "Trabzon",
     "code": "61",
-    "unofficial_names": "Trabzon",
+    "unofficial_names": [
+      "Trabzon"
+    ],
     "geo": {
       "latitude": 41.00145,
       "longitude": 39.7177999,
@@ -4844,13 +4860,14 @@
       "mk": "Трабзон",
       "no": "Trabzon"
     },
-    "comments": null,
     "type": "province"
   },
   "62": {
     "name": "Tunceli",
     "code": "62",
-    "unofficial_names": "Tunceli",
+    "unofficial_names": [
+      "Tunceli"
+    ],
     "geo": {
       "latitude": 39.1058251,
       "longitude": 39.5455166,
@@ -4923,7 +4940,6 @@
       "cy": "Talaith Tunceli",
       "he": "טונצלי"
     },
-    "comments": null,
     "type": "province"
   },
   "63": {
@@ -5004,7 +5020,6 @@
       "cy": "Talaith Şanlıurfa",
       "he": "נפת שנלאורפה"
     },
-    "comments": null,
     "type": "province"
   },
   "64": {
@@ -5084,13 +5099,14 @@
       "no": "Uşak",
       "cy": "Talaith Uşak"
     },
-    "comments": null,
     "type": "province"
   },
   "65": {
     "name": "Van",
     "code": "65",
-    "unofficial_names": "Van",
+    "unofficial_names": [
+      "Van"
+    ],
     "geo": {
       "latitude": 38.494167,
       "longitude": 43.38,
@@ -5164,13 +5180,14 @@
       "mk": "Ван",
       "no": "Van"
     },
-    "comments": null,
     "type": "province"
   },
   "66": {
     "name": "Yozgat",
     "code": "66",
-    "unofficial_names": "Yozgat",
+    "unofficial_names": [
+      "Yozgat"
+    ],
     "geo": {
       "latitude": 39.818081,
       "longitude": 34.81469,
@@ -5243,13 +5260,14 @@
       "no": "Yozgat",
       "cy": "Talaith Yozgat"
     },
-    "comments": null,
     "type": "province"
   },
   "67": {
     "name": "Zonguldak",
     "code": "67",
-    "unofficial_names": "Zonguldak",
+    "unofficial_names": [
+      "Zonguldak"
+    ],
     "geo": {
       "latitude": 41.456409,
       "longitude": 31.798731,
@@ -5322,13 +5340,14 @@
       "no": "Zonguldak",
       "hy": "Զոնգուլդաքի մարզ"
     },
-    "comments": null,
     "type": "province"
   },
   "68": {
     "name": "Aksaray",
     "code": "68",
-    "unofficial_names": "Aksaray",
+    "unofficial_names": [
+      "Aksaray"
+    ],
     "geo": {
       "latitude": 38.36869,
       "longitude": 34.03698,
@@ -5406,13 +5425,14 @@
       "yo": "Çetin",
       "yo_BJ": "Çetin"
     },
-    "comments": null,
     "type": "province"
   },
   "69": {
     "name": "Bayburt",
     "code": "69",
-    "unofficial_names": "Bayburt",
+    "unofficial_names": [
+      "Bayburt"
+    ],
     "geo": {
       "latitude": 40.255169,
       "longitude": 40.22488,
@@ -5485,13 +5505,14 @@
       "mk": "Бајбурт",
       "no": "Bayburt"
     },
-    "comments": null,
     "type": "province"
   },
   "70": {
     "name": "Karaman",
     "code": "70",
-    "unofficial_names": "Karaman",
+    "unofficial_names": [
+      "Karaman"
+    ],
     "geo": {
       "latitude": 37.17593,
       "longitude": 33.228748,
@@ -5563,7 +5584,6 @@
       "no": "Karaman",
       "cy": "Talaith Karaman"
     },
-    "comments": null,
     "type": "province"
   },
   "71": {
@@ -5643,13 +5663,14 @@
       "az": "Kırıkkale ili",
       "cy": "Talaith Kırıkkale"
     },
-    "comments": null,
     "type": "province"
   },
   "72": {
     "name": "Batman",
     "code": "72",
-    "unofficial_names": "Batman",
+    "unofficial_names": [
+      "Batman"
+    ],
     "geo": {
       "latitude": 37.881168,
       "longitude": 41.13509,
@@ -5724,7 +5745,6 @@
       "no": "Batman",
       "cy": "Talaith Batman"
     },
-    "comments": null,
     "type": "province"
   },
   "73": {
@@ -5804,7 +5824,6 @@
       "no": "Şırnak",
       "cy": "Talaith Şırnak"
     },
-    "comments": null,
     "type": "province"
   },
   "74": {
@@ -5885,13 +5904,14 @@
       "no": "Bartın",
       "cy": "Talaith Bartın"
     },
-    "comments": null,
     "type": "province"
   },
   "75": {
     "name": "Ardahan",
     "code": "75",
-    "unofficial_names": "Ardahan",
+    "unofficial_names": [
+      "Ardahan"
+    ],
     "geo": {
       "latitude": 41.110481,
       "longitude": 42.702171,
@@ -5968,7 +5988,6 @@
       "cy": "Talaith Ardahan",
       "hr": "Ardahan (pokrajina)"
     },
-    "comments": null,
     "type": "province"
   },
   "76": {
@@ -6043,13 +6062,14 @@
       "hi": "इग्दीर",
       "ta": "ஐடார் மாகாணம்"
     },
-    "comments": null,
     "type": "province"
   },
   "77": {
     "name": "Yalova",
     "code": "77",
-    "unofficial_names": "Yalova",
+    "unofficial_names": [
+      "Yalova"
+    ],
     "geo": {
       "latitude": 40.65,
       "longitude": 29.266667,
@@ -6125,13 +6145,14 @@
       "ha": "Lardin Yalova",
       "ha_NE": "Lardin Yalova"
     },
-    "comments": null,
     "type": "province"
   },
   "78": {
     "name": "Karabük",
     "code": "78",
-    "unofficial_names": "Karabük",
+    "unofficial_names": [
+      "Karabük"
+    ],
     "geo": {
       "latitude": 41.2061,
       "longitude": 32.62035,
@@ -6202,13 +6223,14 @@
       "mk": "Карабук",
       "no": "Karabük"
     },
-    "comments": null,
     "type": "province"
   },
   "79": {
     "name": "Kilis",
     "code": "79",
-    "unofficial_names": "Kilis",
+    "unofficial_names": [
+      "Kilis"
+    ],
     "geo": {
       "latitude": 36.718399,
       "longitude": 37.12122,
@@ -6280,13 +6302,14 @@
       "he": "קיליס",
       "uz": "Kilis (viloyat)"
     },
-    "comments": null,
     "type": "province"
   },
   "80": {
     "name": "Osmaniye",
     "code": "80",
-    "unofficial_names": "Osmaniye",
+    "unofficial_names": [
+      "Osmaniye"
+    ],
     "geo": {
       "latitude": 37.06805,
       "longitude": 36.261589,
@@ -6358,13 +6381,14 @@
       "mk": "Османие",
       "no": "Osmaniye"
     },
-    "comments": null,
     "type": "province"
   },
   "81": {
     "name": "Düzce",
     "code": "81",
-    "unofficial_names": "Düzce",
+    "unofficial_names": [
+      "Düzce"
+    ],
     "geo": {
       "latitude": 40.843849,
       "longitude": 31.15654,
@@ -6436,7 +6460,6 @@
       "mk": "Дузџе",
       "no": "Düzce"
     },
-    "comments": null,
     "type": "province"
   }
 }

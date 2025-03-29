@@ -2,7 +2,9 @@
   "AA": {
     "name": "Adis Abeba",
     "code": "AA",
-    "unofficial_names": "Adis Abeba",
+    "unofficial_names": [
+      "Adis Abeba"
+    ],
     "geo": {
       "latitude": 8.9806034,
       "longitude": 38.7577605,
@@ -98,7 +100,6 @@
       "ps": "آدیس آبابا",
       "zu": "Addis Ababa"
     },
-    "comments": null,
     "type": "administration"
   },
   "AF": {
@@ -172,13 +173,14 @@
       "hy": "Աֆար",
       "mk": "Афар"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "AM": {
     "name": "Amara",
     "code": "AM",
-    "unofficial_names": "Amara",
+    "unofficial_names": [
+      "Amara"
+    ],
     "geo": {
       "latitude": 11.3494247,
       "longitude": 37.9784585,
@@ -245,13 +247,14 @@
       "et": "Amhara osariik",
       "gl": "Rexión de Amhara"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "BE": {
     "name": "Binshangul Gumuz",
     "code": "BE",
-    "unofficial_names": "Binshangul Gumuz",
+    "unofficial_names": [
+      "Binshangul Gumuz"
+    ],
     "geo": {
       "latitude": 10.7802889,
       "longitude": 35.5657862,
@@ -315,13 +318,14 @@
       "fa": "منطقه بنیشانگول-گوموز",
       "gl": "Rexión de Benishangul-Gumuz"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "DD": {
     "name": "Dire Dawa",
     "code": "DD",
-    "unofficial_names": "Dire Dawa",
+    "unofficial_names": [
+      "Dire Dawa"
+    ],
     "geo": {
       "latitude": 9.6008747,
       "longitude": 41.850142,
@@ -395,7 +399,6 @@
       "gl": "Dire Dawa",
       "hy": "Դիրե Դաուա"
     },
-    "comments": null,
     "type": "administration"
   },
   "GA": {
@@ -467,13 +470,14 @@
       "gl": "Rexión de Gambela",
       "hy": "Գամբելայի մարզ"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "HA": {
     "name": "Hareri Hizb",
     "code": "HA",
-    "unofficial_names": "Hareri Hizb",
+    "unofficial_names": [
+      "Hareri Hizb"
+    ],
     "geo": {
       "latitude": 9.314866,
       "longitude": 42.1967716,
@@ -537,13 +541,14 @@
       "gl": "Rexión de Harari",
       "hy": "Հարարի"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "OR": {
     "name": "Oromiya",
     "code": "OR",
-    "unofficial_names": "Oromiya",
+    "unofficial_names": [
+      "Oromiya"
+    ],
     "geo": {
       "latitude": 7.546037699999999,
       "longitude": 40.6346851,
@@ -609,13 +614,14 @@
       "gl": "Rexión de Oromia",
       "hy": "Օրոմիա"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "SN": {
     "name": "YeDebub Biheroch Bihereseboch na Hizboch",
     "code": "SN",
-    "unofficial_names": "YeDebub Biheroch Bihereseboch na Hizboch",
+    "unofficial_names": [
+      "YeDebub Biheroch Bihereseboch na Hizboch"
+    ],
     "geo": {
       "latitude": 6.5156911,
       "longitude": 36.954107,
@@ -681,13 +687,14 @@
       "gl": "Rexión das Nacións, Nacionalidades e Pobos do Sur",
       "so": "Southern Nations, Nationalities, and Peoples’ Region"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "SO": {
     "name": "Sumale",
     "code": "SO",
-    "unofficial_names": "Sumale",
+    "unofficial_names": [
+      "Sumale"
+    ],
     "geo": {
       "latitude": 6.6612293,
       "longitude": 43.7908453,
@@ -752,13 +759,14 @@
       "no": "Somali",
       "gl": "Rexión de Somali"
     },
-    "comments": null,
     "type": "regional_state"
   },
   "TI": {
     "name": "Tigray",
     "code": "TI",
-    "unofficial_names": "Tigray",
+    "unofficial_names": [
+      "Tigray"
+    ],
     "geo": {
       "latitude": 14.0323336,
       "longitude": 38.3165725,
@@ -826,7 +834,6 @@
       "ky": "Тыграй",
       "ne": "टिग्रे क्षेत्र"
     },
-    "comments": null,
     "type": "regional_state"
   }
 }

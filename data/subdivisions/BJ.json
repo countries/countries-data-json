@@ -64,13 +64,14 @@
       "he": "אטאקורה",
       "sw": "Atakora"
     },
-    "comments": null,
     "type": "departments"
   },
   "AL": {
     "name": "Alibori",
     "code": "AL",
-    "unofficial_names": "Alibori",
+    "unofficial_names": [
+      "Alibori"
+    ],
     "geo": {
       "latitude": 10.9681093,
       "longitude": 2.7779813,
@@ -130,13 +131,14 @@
       "he": "אליבורי",
       "sw": "Alibori"
     },
-    "comments": null,
     "type": "departments"
   },
   "AQ": {
     "name": "Atlantique",
     "code": "AQ",
-    "unofficial_names": "Atlantique",
+    "unofficial_names": [
+      "Atlantique"
+    ],
     "geo": {
       "latitude": 6.6588391,
       "longitude": 2.2236667,
@@ -195,13 +197,14 @@
       "yo_BJ": "Apá Atlantique",
       "sw": "Atlantique (Benin)"
     },
-    "comments": null,
     "type": "departments"
   },
   "BO": {
     "name": "Borgou",
     "code": "BO",
-    "unofficial_names": "Borgou",
+    "unofficial_names": [
+      "Borgou"
+    ],
     "geo": {
       "latitude": 9.5340864,
       "longitude": 2.7779813,
@@ -260,13 +263,14 @@
       "yo_BJ": "Apá Borgou",
       "sw": "Borgou"
     },
-    "comments": null,
     "type": "departments"
   },
   "CO": {
     "name": "Collines",
     "code": "CO",
-    "unofficial_names": "Collines",
+    "unofficial_names": [
+      "Collines"
+    ],
     "geo": {
       "latitude": 8.3022297,
       "longitude": 2.302446,
@@ -325,13 +329,14 @@
       "yo_BJ": "Apá Collines",
       "sw": "Collines (Benin)"
     },
-    "comments": null,
     "type": "departments"
   },
   "DO": {
     "name": "Donga",
     "code": "DO",
-    "unofficial_names": "Donga",
+    "unofficial_names": [
+      "Donga"
+    ],
     "geo": {
       "latitude": 9.7191867,
       "longitude": 1.6760691,
@@ -390,7 +395,6 @@
       "yo_BJ": "Apá Donga",
       "sw": "Donga"
     },
-    "comments": null,
     "type": "departments"
   },
   "KO": {
@@ -457,13 +461,14 @@
       "eu": "Kouffo",
       "sw": "Couffo"
     },
-    "comments": null,
     "type": "departments"
   },
   "LI": {
     "name": "Littoral",
     "code": "LI",
-    "unofficial_names": "Littoral",
+    "unofficial_names": [
+      "Littoral"
+    ],
     "geo": {
       "latitude": 6.3806973,
       "longitude": 2.4406387,
@@ -522,13 +527,14 @@
       "eu": "Littoral",
       "sw": "Mkoa wa Pwani (Benin)"
     },
-    "comments": null,
     "type": "departments"
   },
   "MO": {
     "name": "Mono",
     "code": "MO",
-    "unofficial_names": "Mono",
+    "unofficial_names": [
+      "Mono"
+    ],
     "geo": {
       "latitude": 6.6607182,
       "longitude": 1.7538817,
@@ -588,13 +594,14 @@
       "he": "מחוז מונו",
       "sw": "Mono (Benin)"
     },
-    "comments": null,
     "type": "departments"
   },
   "OU": {
     "name": "Ouémé",
     "code": "OU",
-    "unofficial_names": "Ouémé",
+    "unofficial_names": [
+      "Ouémé"
+    ],
     "geo": {
       "latitude": 6.6148152,
       "longitude": 2.4999918,
@@ -653,13 +660,14 @@
       "eu": "Ouémé",
       "sw": "Ouémé"
     },
-    "comments": null,
     "type": "departments"
   },
   "PL": {
     "name": "Plateau",
     "code": "PL",
-    "unofficial_names": "Plateau",
+    "unofficial_names": [
+      "Plateau"
+    ],
     "geo": {
       "latitude": 7.3445141,
       "longitude": 2.539603,
@@ -718,13 +726,14 @@
       "eu": "Plateau",
       "sw": "Plateau (Benin)"
     },
-    "comments": null,
     "type": "departments"
   },
   "ZO": {
     "name": "Zou",
     "code": "ZO",
-    "unofficial_names": "Zou",
+    "unofficial_names": [
+      "Zou"
+    ],
     "geo": {
       "latitude": 7.346926799999999,
       "longitude": 2.0665197,
@@ -785,7 +794,6 @@
       "eu": "Zou",
       "sw": "Zou"
     },
-    "comments": null,
     "type": "departments"
   }
 }

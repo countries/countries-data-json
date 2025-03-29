@@ -2,7 +2,9 @@
   "01": {
     "name": "Saint Andrew",
     "code": "01",
-    "unofficial_names": "Saint Andrew",
+    "unofficial_names": [
+      "Saint Andrew"
+    ],
     "geo": {
       "latitude": 12.1230598,
       "longitude": -61.64211719999999,
@@ -54,13 +56,14 @@
       "no": "Saint Andrew prestegjeld",
       "fa": "پریش سنت اندرو (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "02": {
     "name": "Saint David",
     "code": "02",
-    "unofficial_names": "Saint David",
+    "unofficial_names": [
+      "Saint David"
+    ],
     "geo": {
       "latitude": 12.0456435,
       "longitude": -61.6888738,
@@ -112,13 +115,14 @@
       "ca": "Saint David",
       "fa": "پاریس سنت دیوید (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "03": {
     "name": "Saint George",
     "code": "03",
-    "unofficial_names": "Saint George",
+    "unofficial_names": [
+      "Saint George"
+    ],
     "geo": {
       "latitude": 12.0714317,
       "longitude": -61.73564330000001,
@@ -172,13 +176,14 @@
       "be": "Прыход Сент-Джордж",
       "fa": "پریش سنت جورج (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "04": {
     "name": "Saint John",
     "code": "04",
-    "unofficial_names": "Saint John",
+    "unofficial_names": [
+      "Saint John"
+    ],
     "geo": {
       "latitude": 12.130824,
       "longitude": -61.71225699999999,
@@ -229,13 +234,14 @@
       "no": "Saint John prestegjeld",
       "fa": "پریش سنت جان (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "05": {
     "name": "Saint Mark",
     "code": "05",
-    "unofficial_names": "Saint Mark",
+    "unofficial_names": [
+      "Saint Mark"
+    ],
     "geo": {
       "latitude": 12.19023,
       "longitude": -61.6888738,
@@ -286,13 +292,14 @@
       "no": "Saint Mark Parish",
       "fa": "پاریس سنت مارک (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "06": {
     "name": "Saint Patrick",
     "code": "06",
-    "unofficial_names": "Saint Patrick",
+    "unofficial_names": [
+      "Saint Patrick"
+    ],
     "geo": {
       "latitude": 12.2056921,
       "longitude": -61.64211719999999,
@@ -343,13 +350,14 @@
       "no": "Saint Patrick",
       "fa": "پریش سنت پاتریک (گرنادا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "10": {
     "name": "Southern Grenadine Islands",
     "code": "10",
-    "unofficial_names": "Southern Grenadine Islands",
+    "unofficial_names": [
+      "Southern Grenadine Islands"
+    ],
     "geo": {
       "latitude": 12.4785888,
       "longitude": -61.4493842,
@@ -400,7 +408,6 @@
       "no": "Carriacou og Petite Martinique",
       "ca": "Carriacou i Petita Martinica"
     },
-    "comments": null,
     "type": "dependency"
   }
 }

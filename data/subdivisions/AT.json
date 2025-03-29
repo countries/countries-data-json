@@ -2,7 +2,9 @@
   "1": {
     "name": "Burgenland",
     "code": "1",
-    "unofficial_names": "Burgenland",
+    "unofficial_names": [
+      "Burgenland"
+    ],
     "geo": {
       "latitude": 47.15371649999999,
       "longitude": 16.2688797,
@@ -84,7 +86,6 @@
       "sq": "Burgenland",
       "sw": "Burgenland"
     },
-    "comments": null,
     "type": "state"
   },
   "2": {
@@ -174,7 +175,6 @@
       "sd": "ڪرينٿيا",
       "sq": "Kärnten"
     },
-    "comments": null,
     "type": "state"
   },
   "3": {
@@ -264,7 +264,6 @@
       "sd": "لوئر آسٽريا",
       "sq": "Austria e Poshtme"
     },
-    "comments": null,
     "type": "state"
   },
   "4": {
@@ -353,7 +352,6 @@
       "sd": "اپر آسٽريا",
       "sq": "Austria e Epërme"
     },
-    "comments": null,
     "type": "state"
   },
   "5": {
@@ -441,7 +439,6 @@
       "sd": "سلزبرگ (رياست)",
       "sq": "Salzburgu (shteti federal)"
     },
-    "comments": null,
     "type": "state"
   },
   "6": {
@@ -530,7 +527,6 @@
       "sd": "اسٽيريا",
       "sq": "Stiria"
     },
-    "comments": null,
     "type": "state"
   },
   "7": {
@@ -619,13 +615,14 @@
       "sd": "ٽرول (رياست)",
       "sq": "Tiroli"
     },
-    "comments": null,
     "type": "state"
   },
   "8": {
     "name": "Vorarlberg",
     "code": "8",
-    "unofficial_names": "Vorarlberg",
+    "unofficial_names": [
+      "Vorarlberg"
+    ],
     "geo": {
       "latitude": 47.2497427,
       "longitude": 9.9797373,
@@ -706,7 +703,6 @@
       "az": "Forarlberq",
       "sd": "وورارلبرگ"
     },
-    "comments": null,
     "type": "state"
   },
   "9": {
@@ -812,7 +808,6 @@
       "yo_BJ": "Fienna",
       "sd": "ويانا"
     },
-    "comments": null,
     "type": "state"
   }
 }

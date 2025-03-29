@@ -2,7 +2,9 @@
   "BA": {
     "name": "Batha",
     "code": "BA",
-    "unofficial_names": "Batha",
+    "unofficial_names": [
+      "Batha"
+    ],
     "geo": {
       "latitude": 13.9371775,
       "longitude": 18.4276047,
@@ -59,21 +61,11 @@
       "ca": "Regió de Batha",
       "fa": "استان بطحه"
     },
-    "comments": null,
     "type": "province"
   },
   "BG": {
     "name": "بحر الغزال",
     "code": "BG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "بحر الغزال",
       "bg": "Бар ел Газел",
@@ -121,21 +113,11 @@
       "ca": "Bahr el Gazel",
       "fa": "بخش بحر غزل"
     },
-    "comments": null,
     "type": "province"
   },
   "BO": {
     "name": "منطقة بوركو",
     "code": "BO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "منطقة بوركو",
       "bn": "বুরকু অঞ্চল",
@@ -184,13 +166,14 @@
       "fa": "استان بورکو",
       "he": "בורקו"
     },
-    "comments": null,
     "type": "province"
   },
   "CB": {
     "name": "Chari-Baguirmi",
     "code": "CB",
-    "unofficial_names": "Chari-Baguirmi",
+    "unofficial_names": [
+      "Chari-Baguirmi"
+    ],
     "geo": {
       "latitude": 11.2564207,
       "longitude": 16.1580937,
@@ -247,21 +230,11 @@
       "uk": "Регіон Шарі-Багірмі",
       "no": "Chari-Baguirmi"
     },
-    "comments": null,
     "type": "province"
   },
   "EE": {
     "name": "إنيدي الشرقية",
     "code": "EE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Ennedi-Est",
       "fr": "Ennedi Est",
@@ -279,21 +252,11 @@
       "he": "אנדי-מזרח",
       "hi": "एन्नेदी पूर्व (प्रदेश)"
     },
-    "comments": null,
     "type": "province"
   },
   "EO": {
     "name": "إنيدي الغربية",
     "code": "EO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Ennedi-Ouest",
       "es": "Ennedi Ouest",
@@ -311,13 +274,14 @@
       "he": "אנדי-מערב",
       "hi": "एन्नेदी पश्चिम (प्रदेश)"
     },
-    "comments": null,
     "type": "province"
   },
   "GR": {
     "name": "Guéra",
     "code": "GR",
-    "unofficial_names": "Guéra",
+    "unofficial_names": [
+      "Guéra"
+    ],
     "geo": {
       "latitude": 11.1219015,
       "longitude": 18.4276047,
@@ -373,13 +337,14 @@
       "no": "Guéra",
       "ca": "Regió de Guéra"
     },
-    "comments": null,
     "type": "province"
   },
   "HL": {
     "name": "Hadjer Lamis",
     "code": "HL",
-    "unofficial_names": "Hadjer Lamis",
+    "unofficial_names": [
+      "Hadjer Lamis"
+    ],
     "geo": {
       "latitude": 12.4577273,
       "longitude": 16.7234639,
@@ -436,13 +401,14 @@
       "ca": "Regió d’Hadjer-Lamis",
       "fa": "بخش حجر لمیس"
     },
-    "comments": null,
     "type": "province"
   },
   "KA": {
     "name": "Kanem",
     "code": "KA",
-    "unofficial_names": "Kanem",
+    "unofficial_names": [
+      "Kanem"
+    ],
     "geo": {
       "latitude": 14.8781262,
       "longitude": 15.4068079,
@@ -498,13 +464,14 @@
       "no": "Kanem",
       "be": "Канем (рэгіён)"
     },
-    "comments": null,
     "type": "province"
   },
   "LC": {
     "name": "Lac",
     "code": "LC",
-    "unofficial_names": "Lac",
+    "unofficial_names": [
+      "Lac"
+    ],
     "geo": {
       "latitude": 13.6915377,
       "longitude": 14.1001326,
@@ -560,13 +527,14 @@
       "ca": "Regió de Lac",
       "fa": "بخش بحیره"
     },
-    "comments": null,
     "type": "province"
   },
   "LO": {
     "name": "Logone-Occidental",
     "code": "LO",
-    "unofficial_names": "Logone-Occidental",
+    "unofficial_names": [
+      "Logone-Occidental"
+    ],
     "geo": {
       "latitude": 8.759675999999999,
       "longitude": 15.876004,
@@ -621,13 +589,14 @@
       "ca": "Regió de Logone Occidental",
       "he": "לוגון מערב"
     },
-    "comments": null,
     "type": "province"
   },
   "LR": {
     "name": "Logone-Oriental",
     "code": "LR",
-    "unofficial_names": "Logone-Oriental",
+    "unofficial_names": [
+      "Logone-Oriental"
+    ],
     "geo": {
       "latitude": 8.3149949,
       "longitude": 16.3463791,
@@ -681,13 +650,14 @@
       "no": "Logone Oriental",
       "ca": "Regió de Logone Oriental"
     },
-    "comments": null,
     "type": "province"
   },
   "MA": {
     "name": "Mandoul",
     "code": "MA",
-    "unofficial_names": "Mandoul",
+    "unofficial_names": [
+      "Mandoul"
+    ],
     "geo": {
       "latitude": 8.603091,
       "longitude": 17.4795173,
@@ -743,13 +713,14 @@
       "ca": "Regió de Mandoul",
       "fa": "ناحیه ماندول"
     },
-    "comments": null,
     "type": "province"
   },
   "MC": {
     "name": "Moyen-Chari",
     "code": "MC",
-    "unofficial_names": "Moyen-Chari",
+    "unofficial_names": [
+      "Moyen-Chari"
+    ],
     "geo": {
       "latitude": 9.0639998,
       "longitude": 18.4276047,
@@ -807,13 +778,14 @@
       "ha": "Moyen-Chari (yanki)",
       "ha_NE": "Moyen-Chari (yanki)"
     },
-    "comments": null,
     "type": "province"
   },
   "ME": {
     "name": "Mayo-Kébbi-Est",
     "code": "ME",
-    "unofficial_names": "Mayo-Kébbi-Est",
+    "unofficial_names": [
+      "Mayo-Kébbi-Est"
+    ],
     "geo": {
       "latitude": 9.4046039,
       "longitude": 14.8454619,
@@ -868,13 +840,14 @@
       "no": "Mayo-Kebbi Est",
       "fa": "مایو کیبی شرقی"
     },
-    "comments": null,
     "type": "province"
   },
   "MO": {
     "name": "Mayo-Kébbi-Ouest",
     "code": "MO",
-    "unofficial_names": "Mayo-Kébbi-Ouest",
+    "unofficial_names": [
+      "Mayo-Kébbi-Ouest"
+    ],
     "geo": {
       "latitude": 10.4113014,
       "longitude": 15.5943388,
@@ -930,13 +903,14 @@
       "ca": "Regió de Mayo-Kebbi Oest",
       "fa": "ناحیه مایو-کبی اوست"
     },
-    "comments": null,
     "type": "province"
   },
   "ND": {
     "name": "Ndjamena",
     "code": "ND",
-    "unofficial_names": "Ndjamena",
+    "unofficial_names": [
+      "Ndjamena"
+    ],
     "geo": {
       "latitude": 12.113056,
       "longitude": 15.049167,
@@ -1029,13 +1003,14 @@
       "yo_BJ": "N’Djamena",
       "ps": "انجامنا"
     },
-    "comments": null,
     "type": "province"
   },
   "OD": {
     "name": "Ouaddaï",
     "code": "OD",
-    "unofficial_names": "Ouaddaï",
+    "unofficial_names": [
+      "Ouaddaï"
+    ],
     "geo": {
       "latitude": 13.748476,
       "longitude": 20.7122465,
@@ -1092,13 +1067,14 @@
       "ha": "Yankin Ouaddai",
       "ha_NE": "Yankin Ouaddai"
     },
-    "comments": null,
     "type": "province"
   },
   "SA": {
     "name": "Salamat",
     "code": "SA",
-    "unofficial_names": "Salamat",
+    "unofficial_names": [
+      "Salamat"
+    ],
     "geo": {
       "latitude": 10.9691601,
       "longitude": 20.7122465,
@@ -1155,21 +1131,11 @@
       "ca": "Regió de Salamat",
       "fa": "استان سلامات"
     },
-    "comments": null,
     "type": "province"
   },
   "SI": {
     "name": "منطقة سيلا",
     "code": "SI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "منطقة سيلا",
       "bg": "Сила",
@@ -1216,13 +1182,14 @@
       "fa": "ناحیه سیلا",
       "he": "סילה"
     },
-    "comments": null,
     "type": "province"
   },
   "TA": {
     "name": "Tandjilé",
     "code": "TA",
-    "unofficial_names": "Tandjilé",
+    "unofficial_names": [
+      "Tandjilé"
+    ],
     "geo": {
       "latitude": 9.6625729,
       "longitude": 16.7234639,
@@ -1276,21 +1243,11 @@
       "no": "Tandjilé",
       "ca": "Regió de Tandjilé"
     },
-    "comments": null,
     "type": "province"
   },
   "TI": {
     "name": "منطقة تبستي",
     "code": "TI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "منطقة تبستي",
       "bg": "Тибести",
@@ -1338,13 +1295,14 @@
       "fa": "تیبستی",
       "gl": "Rexión de Tibesti"
     },
-    "comments": null,
     "type": "province"
   },
   "WF": {
     "name": "Wadi Fira",
     "code": "WF",
-    "unofficial_names": "Wadi Fira",
+    "unofficial_names": [
+      "Wadi Fira"
+    ],
     "geo": {
       "latitude": 15.0892416,
       "longitude": 21.4752851,
@@ -1400,7 +1358,6 @@
       "cs": "Wadi Fira",
       "fa": "بخش وادی فیرا"
     },
-    "comments": null,
     "type": "province"
   }
 }

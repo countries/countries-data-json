@@ -2,7 +2,9 @@
   "ARI": {
     "name": "Arima",
     "code": "ARI",
-    "unofficial_names": "Arima",
+    "unofficial_names": [
+      "Arima"
+    ],
     "geo": {
       "latitude": 10.616667,
       "longitude": -61.26666699999999,
@@ -58,13 +60,14 @@
       "sr_Latn": "Arima",
       "zh": "阿里马"
     },
-    "comments": null,
     "type": "borough"
   },
   "CHA": {
     "name": "Chaguanas",
     "code": "CHA",
-    "unofficial_names": "Chaguanas",
+    "unofficial_names": [
+      "Chaguanas"
+    ],
     "geo": {
       "latitude": 10.5168387,
       "longitude": -61.4114482,
@@ -126,13 +129,14 @@
       "no": "Chaguanas",
       "he": "צ׳אגואנאס"
     },
-    "comments": null,
     "type": "borough"
   },
   "CTT": {
     "name": "Couva-Tabaquite-Talparo",
     "code": "CTT",
-    "unofficial_names": "Couva-Tabaquite-Talparo",
+    "unofficial_names": [
+      "Couva-Tabaquite-Talparo"
+    ],
     "geo": {
       "latitude": 10.4297145,
       "longitude": -61.373521,
@@ -181,13 +185,14 @@
       "uk": "Регіон Кува-Табакіте-Тальпаро",
       "no": "Couva Tabaquite Talparo"
     },
-    "comments": null,
     "type": "region"
   },
   "DMN": {
     "name": "Diego Martin",
     "code": "DMN",
-    "unofficial_names": "Diego Martin",
+    "unofficial_names": [
+      "Diego Martin"
+    ],
     "geo": {
       "latitude": 10.7137264,
       "longitude": -61.5836897,
@@ -236,21 +241,11 @@
       "uk": "Регіон Діего-Мартін",
       "no": "Diego Martin"
     },
-    "comments": null,
     "type": "region"
   },
   "MRC": {
     "name": "Mayaro-Rio Claro",
     "code": "MRC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ريو كلارو مايارو الإقليمية",
       "bn": "রিও ক্লারো-মায়ারো আঞ্চলিক কর্পোরেশন",
@@ -291,13 +286,14 @@
       "uk": "Майаро-Ріо-Кларо",
       "no": "Rio Claro-Mayaro"
     },
-    "comments": null,
     "type": "region"
   },
   "PED": {
     "name": "Penal-Debe",
     "code": "PED",
-    "unofficial_names": "Penal-Debe",
+    "unofficial_names": [
+      "Penal-Debe"
+    ],
     "geo": {
       "latitude": 10.1337402,
       "longitude": -61.44354740000001,
@@ -347,13 +343,14 @@
       "uk": "Регіон Пенал-Дебе",
       "no": "Penal Debe"
     },
-    "comments": null,
     "type": "region"
   },
   "POS": {
     "name": "Port of Spain",
     "code": "POS",
-    "unofficial_names": "Port of Spain",
+    "unofficial_names": [
+      "Port of Spain"
+    ],
     "geo": {
       "latitude": 10.666667,
       "longitude": -61.51666700000001,
@@ -441,13 +438,14 @@
       "ha_NE": "Port of Spain",
       "sw": "Port of Spain"
     },
-    "comments": null,
     "type": "city"
   },
   "PRT": {
     "name": "Princes Town",
     "code": "PRT",
-    "unofficial_names": "Princes Town",
+    "unofficial_names": [
+      "Princes Town"
+    ],
     "geo": {
       "latitude": 10.2659505,
       "longitude": -61.37643809999999,
@@ -497,13 +495,14 @@
       "uk": "Регіон Прінсес-Таун",
       "no": "Princes Tiwn Regional Corpoation"
     },
-    "comments": null,
     "type": "region"
   },
   "PTF": {
     "name": "Point Fortin",
     "code": "PTF",
-    "unofficial_names": "Point Fortin",
+    "unofficial_names": [
+      "Point Fortin"
+    ],
     "geo": {
       "latitude": 10.166667,
       "longitude": -61.666667,
@@ -558,13 +557,14 @@
       "ca": "Point Fortin",
       "hy": "Փոյնթ Ֆորթին"
     },
-    "comments": null,
     "type": "borough"
   },
   "SFO": {
     "name": "San Fernando",
     "code": "SFO",
-    "unofficial_names": "San Fernando",
+    "unofficial_names": [
+      "San Fernando"
+    ],
     "geo": {
       "latitude": 10.2804924,
       "longitude": -61.4493842,
@@ -624,13 +624,14 @@
       "sr": "Сан Фернандо (Тринидад и Тобаго)",
       "sr_Latn": "San Fernando (Trinidad i Tobago)"
     },
-    "comments": null,
     "type": "city"
   },
   "SGE": {
     "name": "Sangre Grande",
     "code": "SGE",
-    "unofficial_names": "Sangre Grande",
+    "unofficial_names": [
+      "Sangre Grande"
+    ],
     "geo": {
       "latitude": 10.5852939,
       "longitude": -61.1315813,
@@ -679,13 +680,14 @@
       "uk": "Регіон Сангре-Гранде",
       "no": "Sangre Grande regional"
     },
-    "comments": null,
     "type": "region"
   },
   "SIP": {
     "name": "Siparia",
     "code": "SIP",
-    "unofficial_names": "Siparia",
+    "unofficial_names": [
+      "Siparia"
+    ],
     "geo": {
       "latitude": 10.133333,
       "longitude": -61.50000000000001,
@@ -737,13 +739,14 @@
       "ca": "Siparia",
       "eu": "Siparia"
     },
-    "comments": null,
     "type": "region"
   },
   "SJL": {
     "name": "San Juan-Laventille",
     "code": "SJL",
-    "unofficial_names": "San Juan-Laventille",
+    "unofficial_names": [
+      "San Juan-Laventille"
+    ],
     "geo": {
       "latitude": 10.6908578,
       "longitude": -61.4552213,
@@ -793,21 +796,11 @@
       "no": "San Juan-Laventille region",
       "be": "Сан-Хуан-Лавентыль"
     },
-    "comments": null,
     "type": "region"
   },
   "TOB": {
     "name": "Tobago",
     "code": "TOB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "توباغو",
       "be": "Востраў Табага",
@@ -872,13 +865,14 @@
       "sw": "Tobago",
       "uz": "Tobago"
     },
-    "comments": null,
     "type": "ward"
   },
   "TUP": {
     "name": "Tunapuna-Piarco",
     "code": "TUP",
-    "unofficial_names": "Tunapuna-Piarco",
+    "unofficial_names": [
+      "Tunapuna-Piarco"
+    ],
     "geo": {
       "latitude": 10.6859096,
       "longitude": -61.30352480000001,
@@ -928,7 +922,6 @@
       "uk": "Регіон Тунапуна-Піарко",
       "no": "Tunapuna Piarco"
     },
-    "comments": null,
     "type": "region"
   }
 }

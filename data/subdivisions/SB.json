@@ -2,7 +2,9 @@
   "CE": {
     "name": "Central",
     "code": "CE",
-    "unofficial_names": "Central",
+    "unofficial_names": [
+      "Central"
+    ],
     "geo": {
       "latitude": -9.0516057,
       "longitude": 160.1693949,
@@ -59,7 +61,6 @@
       "no": "Sentral provins",
       "cs": "Centrální provincie"
     },
-    "comments": null,
     "type": "province"
   },
   "CH": {
@@ -122,13 +123,14 @@
       "no": "Chosieul provins",
       "cy": "Talaith Choiseul"
     },
-    "comments": null,
     "type": "province"
   },
   "CT": {
     "name": "Capital Territory (Honiara)",
     "code": "CT",
-    "unofficial_names": "Capital Territory (Honiara)",
+    "unofficial_names": [
+      "Capital Territory (Honiara)"
+    ],
     "geo": {
       "latitude": -9.4343868,
       "longitude": 159.9609892,
@@ -213,13 +215,14 @@
       "ml": "ഹോണിയറ",
       "ps": "هونیارا"
     },
-    "comments": null,
     "type": "capital_territory"
   },
   "GU": {
     "name": "Guadalcanal",
     "code": "GU",
-    "unofficial_names": "Guadalcanal",
+    "unofficial_names": [
+      "Guadalcanal"
+    ],
     "geo": {
       "latitude": -9.577328399999999,
       "longitude": 160.1455805,
@@ -273,13 +276,14 @@
       "no": "Guadalcanal provins",
       "ca": "província de Guadalcanal"
     },
-    "comments": null,
     "type": "province"
   },
   "IS": {
     "name": "Isabel",
     "code": "IS",
-    "unofficial_names": "Isabel",
+    "unofficial_names": [
+      "Isabel"
+    ],
     "geo": {
       "latitude": -8.0592353,
       "longitude": 159.1447081,
@@ -334,7 +338,6 @@
       "no": "Isabel provins",
       "cy": "Talaith Isabel"
     },
-    "comments": null,
     "type": "province"
   },
   "MK": {
@@ -376,7 +379,6 @@
       "ccp": "𑄟𑄇𑄨𑄢-𑄃𑄣𑄤",
       "uk": "Макіра-Улава"
     },
-    "comments": null,
     "type": "province"
   },
   "ML": {
@@ -439,13 +441,14 @@
       "ca": "Malaita",
       "cy": "Talaith Malaita"
     },
-    "comments": null,
     "type": "province"
   },
   "RB": {
     "name": "Rennell and Bellona",
     "code": "RB",
-    "unofficial_names": "Rennell and Bellona",
+    "unofficial_names": [
+      "Rennell and Bellona"
+    ],
     "geo": {
       "latitude": -11.6131435,
       "longitude": 160.1693949,
@@ -500,7 +503,6 @@
       "no": "Rennell and Bellona provins",
       "eu": "Rennell eta Bellonako probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "TE": {
@@ -563,13 +565,14 @@
       "cy": "Talaith Temotu",
       "he": "מחוז טמוטו"
     },
-    "comments": null,
     "type": "province"
   },
   "WE": {
     "name": "Western",
     "code": "WE",
-    "unofficial_names": "Western",
+    "unofficial_names": [
+      "Western"
+    ],
     "geo": {
       "latitude": -8.128037299999999,
       "longitude": 157.4278119,
@@ -624,7 +627,6 @@
       "ca": "Província Occidental",
       "no": "Vest provinsen"
     },
-    "comments": null,
     "type": "province"
   }
 }

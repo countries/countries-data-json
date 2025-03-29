@@ -2,7 +2,9 @@
   "AR": {
     "name": "Arta",
     "code": "AR",
-    "unofficial_names": "Arta",
+    "unofficial_names": [
+      "Arta"
+    ],
     "geo": {
       "latitude": 11.5255528,
       "longitude": 42.8479474,
@@ -63,7 +65,6 @@
       "so": "Gobolka Carta",
       "zu": "Arta Region"
     },
-    "comments": null,
     "type": "region"
   },
   "AS": {
@@ -131,7 +132,6 @@
       "eu": "Ali Sabieh eskualdea",
       "he": "עלי סביח"
     },
-    "comments": null,
     "type": "region"
   },
   "DI": {
@@ -199,7 +199,6 @@
       "bs": "Dikhil (regija)",
       "eu": "Dikhil eskualdea"
     },
-    "comments": null,
     "type": "region"
   },
   "DJ": {
@@ -298,7 +297,6 @@
       "no": "Djibouti",
       "yo_BJ": "Ìlú Djibouti"
     },
-    "comments": null,
     "type": "city"
   },
   "OB": {
@@ -368,7 +366,6 @@
       "eu": "Obock eskualdea",
       "he": "מחוז אובוק"
     },
-    "comments": null,
     "type": "region"
   },
   "TA": {
@@ -438,7 +435,6 @@
       "eu": "Tadjourah eskualdea",
       "he": "טאג׳ורה"
     },
-    "comments": null,
     "type": "region"
   }
 }

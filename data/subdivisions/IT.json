@@ -7,11 +7,7 @@
     ],
     "geo": {
       "latitude": 45.066667,
-      "longitude": 7.7,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 7.7
     },
     "translations": {
       "af": "Piëmont",
@@ -83,7 +79,6 @@
       "no": "Piemonte",
       "ky": "Пьемонт"
     },
-    "comments": null,
     "type": "region"
   },
   "23": {
@@ -97,11 +92,7 @@
     ],
     "geo": {
       "latitude": 45.746944,
-      "longitude": 7.439167,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 7.439167
     },
     "translations": {
       "ar": "وادي أوستا",
@@ -182,11 +173,7 @@
     ],
     "geo": {
       "latitude": 45.585556,
-      "longitude": 9.930278,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 9.930278
     },
     "translations": {
       "ar": "لومبارديا",
@@ -269,11 +256,7 @@
     ],
     "geo": {
       "latitude": 46.066667,
-      "longitude": 11.116667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 11.116667
     },
     "translations": {
       "af": "Trentino-Suid-Tirool",
@@ -343,7 +326,6 @@
       "ky": "Трентино — Альто Адидже",
       "ps": "ترنتینو التو ادیجه"
     },
-    "comments": null,
     "code": "32",
     "type": "autonomous_region"
   },
@@ -355,11 +337,7 @@
     ],
     "geo": {
       "latitude": 45.733333,
-      "longitude": 11.85,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 11.85
     },
     "translations": {
       "ar": "فينيتو",
@@ -440,11 +418,7 @@
     ],
     "geo": {
       "latitude": 45.636111,
-      "longitude": 13.804167,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 13.804167
     },
     "translations": {
       "ar": "فريولي فينيتسيا جوليا",
@@ -519,14 +493,9 @@
   },
   "42": {
     "name": "Liguria",
-    "unofficial_names": null,
     "geo": {
       "latitude": 44.45,
-      "longitude": 8.766667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 8.766667
     },
     "translations": {
       "af": "Ligurië",
@@ -597,21 +566,15 @@
       "no": "Liguria",
       "ky": "Лигурия"
     },
-    "comments": null,
     "code": "42",
     "type": "region"
   },
   "45": {
     "name": "Emilia-Romagna",
     "code": "45",
-    "unofficial_names": null,
     "geo": {
       "latitude": 44.510556,
-      "longitude": 10.956944,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 10.956944
     },
     "translations": {
       "af": "Emilia-Romagna",
@@ -681,20 +644,14 @@
       "mk": "Емилија-Ромања",
       "no": "Emilia-Romagna"
     },
-    "comments": null,
     "type": "region"
   },
   "52": {
     "name": "Toscana",
     "code": "52",
-    "unofficial_names": null,
     "geo": {
       "latitude": 43.771389,
-      "longitude": 11.254167,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 11.254167
     },
     "translations": {
       "af": "Toskane",
@@ -767,20 +724,14 @@
       "no": "Toscana",
       "ps": "توسکاني"
     },
-    "comments": null,
     "type": "region"
   },
   "55": {
     "name": "Umbria",
     "code": "55",
-    "unofficial_names": null,
     "geo": {
       "latitude": 43.1121,
-      "longitude": 12.3888,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 12.3888
     },
     "translations": {
       "af": "Umbrië",
@@ -857,11 +808,7 @@
     ],
     "geo": {
       "latitude": 43.616667,
-      "longitude": 13.516667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 13.516667
     },
     "translations": {
       "ar": "ماركي",
@@ -938,11 +885,7 @@
     ],
     "geo": {
       "latitude": 41.6552,
-      "longitude": 12.9896,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 12.9896
     },
     "translations": {
       "af": "Latium",
@@ -1014,7 +957,6 @@
       "bn": "লাৎসিও",
       "my": "လာဇီယို"
     },
-    "comments": null,
     "code": "62",
     "type": "region"
   },
@@ -1097,7 +1039,6 @@
       "no": "Abruzzo",
       "bn": "আবরুৎসো"
     },
-    "comments": null,
     "type": "region"
   },
   "67": {
@@ -1108,11 +1049,7 @@
     ],
     "geo": {
       "latitude": 41.6997,
-      "longitude": 14.6111,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 14.6111
     },
     "translations": {
       "ar": "موليزي",
@@ -1183,14 +1120,9 @@
   "72": {
     "name": "Campania",
     "code": "72",
-    "unofficial_names": null,
     "geo": {
       "latitude": 40.826111,
-      "longitude": 14.256389,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 14.256389
     },
     "translations": {
       "af": "Kampanië",
@@ -1272,11 +1204,7 @@
     ],
     "geo": {
       "latitude": 41.008611,
-      "longitude": 16.512778,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 16.512778
     },
     "translations": {
       "ar": "بوليا",
@@ -1347,21 +1275,15 @@
       "ha_NE": "Apulia",
       "ps": "پولیا"
     },
-    "comments": null,
     "code": "75",
     "type": "region"
   },
   "77": {
     "name": "Basilicata",
     "code": "77",
-    "unofficial_names": null,
     "geo": {
       "latitude": 40.6431,
-      "longitude": 15.97,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 15.97
     },
     "translations": {
       "ar": "بازيليكاتا",
@@ -1513,21 +1435,15 @@
       "ky": "Калабрия",
       "so": "Calabria"
     },
-    "comments": null,
     "code": "78",
     "type": "region"
   },
   "82": {
     "name": "Sicilia",
     "code": "82",
-    "unofficial_names": null,
     "geo": {
       "latitude": 37.6,
-      "longitude": 14.0154,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 14.0154
     },
     "translations": {
       "af": "Sisilië",
@@ -1608,7 +1524,6 @@
       "yo_BJ": "Sicily",
       "my": "စစ္စလီကျွန်း"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "88": {
@@ -1623,11 +1538,7 @@
     ],
     "geo": {
       "latitude": 40.1209,
-      "longitude": 9.0129,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 9.0129
     },
     "translations": {
       "af": "Sardinië",
@@ -1705,7 +1616,6 @@
       "ha_NE": "Sardiniya",
       "no": "Sardinia"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "AG": {
@@ -1784,7 +1694,6 @@
       "no": "Provinsen Agrigento",
       "ga": "Libero consorzio comunale Agrigento"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "AL": {
@@ -1864,7 +1773,6 @@
       "az": "Alessandriya əyaləti",
       "ga": "Cúige Alessandria"
     },
-    "comments": null,
     "type": "province"
   },
   "AN": {
@@ -1944,7 +1852,6 @@
       "cy": "Talaith Ancona",
       "ga": "Cúige Ancona"
     },
-    "comments": null,
     "type": "province"
   },
   "AP": {
@@ -2023,13 +1930,14 @@
       "az": "Askoli Piçeno əyaləti",
       "ga": "Cúige Ascoli Piceno"
     },
-    "comments": null,
     "type": "province"
   },
   "AQ": {
     "name": "L'Aquila",
     "code": "AQ",
-    "unofficial_names": "L'Aquila",
+    "unofficial_names": [
+      "L'Aquila"
+    ],
     "geo": {
       "latitude": 42.3498479,
       "longitude": 13.3995091,
@@ -2094,7 +2002,6 @@
       "yue": "拉圭拉省",
       "yue_Hans": "拉圭拉省"
     },
-    "comments": null,
     "type": "province"
   },
   "AR": {
@@ -2176,7 +2083,6 @@
       "cy": "Talaith Arezzo",
       "ga": "Cúige Arezzo"
     },
-    "comments": null,
     "type": "province"
   },
   "AT": {
@@ -2256,7 +2162,6 @@
       "az": "Asti əyaləti",
       "ga": "Cúige Asti"
     },
-    "comments": null,
     "type": "province"
   },
   "AV": {
@@ -2335,7 +2240,6 @@
       "az": "Avellino əyaləti",
       "ga": "Cúige Avellino"
     },
-    "comments": null,
     "type": "province"
   },
   "BA": {
@@ -2415,7 +2319,6 @@
       "no": "Provinsen Bari",
       "ga": "Ceannchathair Bari"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "BG": {
@@ -2496,7 +2399,6 @@
       "cy": "Talaith Bergamo",
       "ga": "Cúige Bergamo"
     },
-    "comments": null,
     "type": "province"
   },
   "BI": {
@@ -2574,7 +2476,6 @@
       "az": "Biella əyaləti",
       "ga": "Cúige Biella"
     },
-    "comments": null,
     "type": "province"
   },
   "BL": {
@@ -2654,7 +2555,6 @@
       "az": "Belluno əyaləti",
       "ga": "Cúige Belluno"
     },
-    "comments": null,
     "type": "province"
   },
   "BN": {
@@ -2734,7 +2634,6 @@
       "cy": "Talaith Benevento",
       "ga": "Cúige Benevento"
     },
-    "comments": null,
     "type": "province"
   },
   "BO": {
@@ -2815,7 +2714,6 @@
       "no": "Provinsen Bologna",
       "ga": "Ceannchathair Bologna"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "BR": {
@@ -2895,7 +2793,6 @@
       "yue": "布林迪西省",
       "yue_Hans": "布林迪西省"
     },
-    "comments": null,
     "type": "province"
   },
   "BS": {
@@ -2977,7 +2874,6 @@
       "az": "Breşiya əyaləti",
       "ga": "Cúige Brescia"
     },
-    "comments": null,
     "type": "province"
   },
   "BT": {
@@ -3057,7 +2953,6 @@
       "yue": "巴列他-安德里亞-特拉尼省",
       "yue_Hans": "巴列他-安德里亚-特拉尼省"
     },
-    "comments": null,
     "type": "province"
   },
   "BZ": {
@@ -3133,7 +3028,6 @@
       "ga": "An Tioróil Theas",
       "ky": "Болцан Өзэркин Провинциясы"
     },
-    "comments": null,
     "type": "autonomous_province"
   },
   "CA": {
@@ -3212,7 +3106,6 @@
       "ga": "Ceannchathair Cagliari",
       "sq": "Qyteti metropolitan i Kaljarit"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "CB": {
@@ -3291,7 +3184,6 @@
       "az": "Campobasso əyaləti",
       "ga": "Cúige Campobasso"
     },
-    "comments": null,
     "type": "province"
   },
   "CE": {
@@ -3370,7 +3262,6 @@
       "az": "Kazerta əyaləti",
       "ga": "Cúige Caserta"
     },
-    "comments": null,
     "type": "province"
   },
   "CH": {
@@ -3451,7 +3342,6 @@
       "yue": "基替省",
       "yue_Hans": "基替省"
     },
-    "comments": null,
     "type": "province"
   },
   "CL": {
@@ -3529,7 +3419,6 @@
       "no": "Provinsen Caltanissetta",
       "ga": "Libero consorzio comunale Caltanissetta"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "CN": {
@@ -3610,7 +3499,6 @@
       "ga": "Cúige Cuneo",
       "hy": "Կունեո"
     },
-    "comments": null,
     "type": "province"
   },
   "CO": {
@@ -3691,7 +3579,6 @@
       "az": "Komo əyaləti",
       "ga": "Cúige Como"
     },
-    "comments": null,
     "type": "province"
   },
   "CR": {
@@ -3771,7 +3658,6 @@
       "cy": "Talaith Cremona",
       "ga": "Cúige Cremona"
     },
-    "comments": null,
     "type": "province"
   },
   "CS": {
@@ -3851,7 +3737,6 @@
       "az": "Kosensa əyaləti",
       "ga": "Cúige Cosenza"
     },
-    "comments": null,
     "type": "province"
   },
   "CT": {
@@ -3933,7 +3818,6 @@
       "no": "Provinsen Catania",
       "ga": "Ceannchathair Catania"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "CZ": {
@@ -4004,7 +3888,6 @@
       "ga": "Cúige Catanzaro",
       "th": "จังหวัดคาตันซาโร"
     },
-    "comments": null,
     "type": "province"
   },
   "EN": {
@@ -4081,7 +3964,6 @@
       "no": "Provinsen Enna",
       "ga": "Libero consorzio comunale Enna"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "FC": {
@@ -4159,14 +4041,15 @@
       "max_latitude": 44.3307907,
       "max_longitude": 12.4574107
     },
-    "comments": null,
     "type": "province",
     "code": "FC"
   },
   "FE": {
     "name": "Ferrara",
     "code": "FE",
-    "unofficial_names": "Ferrara",
+    "unofficial_names": [
+      "Ferrara"
+    ],
     "geo": {
       "latitude": 44.8381237,
       "longitude": 11.619787,
@@ -4238,7 +4121,6 @@
       "cy": "Talaith Ferrara",
       "ga": "Cúige Ferrara"
     },
-    "comments": null,
     "type": "province"
   },
   "FG": {
@@ -4321,7 +4203,6 @@
       "yue": "霍治亞省",
       "yue_Hans": "霍治亚省"
     },
-    "comments": null,
     "type": "province"
   },
   "FI": {
@@ -4402,7 +4283,6 @@
       "no": "Firenze",
       "ga": "Ceannchathair Fhlórans"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "FM": {
@@ -4481,7 +4361,6 @@
       "az": "Fermo əyaləti",
       "ga": "Cúige Fermo"
     },
-    "comments": null,
     "type": "province"
   },
   "FR": {
@@ -4560,7 +4439,6 @@
       "az": "Frozinone əyaləti",
       "ga": "Cúige Frosinone"
     },
-    "comments": null,
     "type": "province"
   },
   "GE": {
@@ -4622,14 +4500,11 @@
       "bg": "Метрополен град Генуа",
       "ga": "Ceannchathair Genova"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "GO": {
     "name": "Gorizia",
     "code": "GO",
-    "unofficial_names": null,
-    "comments": null,
     "type": "decentralized_regional_entity",
     "translations": {
       "ar": "مقاطعة غوريتسيا",
@@ -4753,7 +4628,6 @@
       "sk": "Grosseto (provincia)",
       "th": "จังหวัดกรอสเซตโต"
     },
-    "comments": null,
     "type": "province"
   },
   "IM": {
@@ -4832,7 +4706,6 @@
       "az": "İmperiya əyaləti",
       "ga": "Cúige Imperia"
     },
-    "comments": null,
     "type": "province"
   },
   "IS": {
@@ -4909,7 +4782,6 @@
       "az": "İzerniya əyaləti",
       "ga": "Cúige Isernia"
     },
-    "comments": null,
     "type": "province"
   },
   "KR": {
@@ -4991,7 +4863,6 @@
       "no": "Provinsen Crotone",
       "ga": "Cúige Crotone"
     },
-    "comments": null,
     "type": "province"
   },
   "LC": {
@@ -5072,7 +4943,6 @@
       "az": "Lekko əyaləti",
       "ga": "Cúige Lecco"
     },
-    "comments": null,
     "type": "province"
   },
   "LE": {
@@ -5152,7 +5022,6 @@
       "yue": "壢車省",
       "yue_Hans": "坜车省"
     },
-    "comments": null,
     "type": "province"
   },
   "LI": {
@@ -5233,7 +5102,6 @@
       "ga": "Cúige Livorno",
       "sk": "Livorno (provincia)"
     },
-    "comments": null,
     "type": "province"
   },
   "LO": {
@@ -5313,7 +5181,6 @@
       "ga": "Cúige Lodi",
       "mk": "Лоди"
     },
-    "comments": null,
     "type": "province"
   },
   "LT": {
@@ -5392,7 +5259,6 @@
       "no": "Provinsen Latina",
       "ga": "Cúige Latina"
     },
-    "comments": null,
     "type": "province"
   },
   "LU": {
@@ -5471,7 +5337,6 @@
       "ga": "Cúige Lucca",
       "sk": "Lucca (provincia)"
     },
-    "comments": null,
     "type": "province"
   },
   "MB": {
@@ -5548,7 +5413,6 @@
       "ga": "Cúige Monza agus Brianza",
       "sk": "Monza e Brianza (provincia)"
     },
-    "comments": null,
     "type": "province"
   },
   "MC": {
@@ -5626,7 +5490,6 @@
       "az": "Maçerata əyaləti",
       "ga": "Cúige Macerata"
     },
-    "comments": null,
     "type": "province"
   },
   "ME": {
@@ -5712,13 +5575,14 @@
       "no": "Provinsen Messina",
       "ga": "Ceannchathair Messina"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "MI": {
     "name": "Milano",
     "code": "MI",
-    "unofficial_names": "Milano",
+    "unofficial_names": [
+      "Milano"
+    ],
     "geo": {
       "latitude": 45.4654219,
       "longitude": 9.1859243,
@@ -5792,7 +5656,6 @@
       "no": "Provinsen Milano",
       "ga": "Ceannchathair Milano"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "MN": {
@@ -5875,7 +5738,6 @@
       "yue": "曼圖亞省",
       "yue_Hans": "曼图亚省"
     },
-    "comments": null,
     "type": "province"
   },
   "MO": {
@@ -5953,7 +5815,6 @@
       "az": "Modena vilayəti",
       "ga": "Cúige Modena"
     },
-    "comments": null,
     "type": "province"
   },
   "MS": {
@@ -6032,7 +5893,6 @@
       "ga": "Cúige Massa-Carrara",
       "sk": "Massa-Carrara (provincia)"
     },
-    "comments": null,
     "type": "province"
   },
   "MT": {
@@ -6104,7 +5964,6 @@
       "ga": "Cúige Matera",
       "th": "จังหวัดมาเตรา"
     },
-    "comments": null,
     "type": "province"
   },
   "NA": {
@@ -6185,7 +6044,6 @@
       "no": "Provinsen Napoli",
       "ga": "Ceannchathair Napoli"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "NO": {
@@ -6266,7 +6124,6 @@
       "az": "Novara əyaləti",
       "ga": "Cúige Novara"
     },
-    "comments": null,
     "type": "province"
   },
   "NU": {
@@ -6346,7 +6203,6 @@
       "hr": "Nuoro (pokrajina)",
       "sq": "Provinca e Nuoros"
     },
-    "comments": null,
     "type": "province"
   },
   "OR": {
@@ -6426,7 +6282,6 @@
       "hr": "Oristano (pokrajina)",
       "sq": "Provinca e Oristanos"
     },
-    "comments": null,
     "type": "province"
   },
   "PA": {
@@ -6496,7 +6351,6 @@
       "no": "Provinsen Palermo",
       "ga": "Ceannchathair Palermo"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "PC": {
@@ -6565,7 +6419,6 @@
       "cy": "Talaith Piacenza",
       "ga": "Cúige Piacenza"
     },
-    "comments": null,
     "type": "province"
   },
   "PD": {
@@ -6646,7 +6499,6 @@
       "az": "Padova əyaləti",
       "cy": "Talaith Padova"
     },
-    "comments": null,
     "type": "province"
   },
   "PE": {
@@ -6726,7 +6578,6 @@
       "yue": "皮斯卡拉省",
       "yue_Hans": "皮斯卡拉省"
     },
-    "comments": null,
     "type": "province"
   },
   "PG": {
@@ -6807,7 +6658,6 @@
       "cy": "Talaith Perugia",
       "ga": "Cúige Perugia"
     },
-    "comments": null,
     "type": "province"
   },
   "PI": {
@@ -6886,14 +6736,11 @@
       "az": "Piza əyaləti",
       "ga": "Cúige Pisa"
     },
-    "comments": null,
     "type": "province"
   },
   "PN": {
     "name": "Pordenone",
     "code": "PN",
-    "unofficial_names": null,
-    "comments": null,
     "type": "decentralized_regional_entity",
     "translations": {
       "ar": "مقاطعة بوردينوني",
@@ -7032,7 +6879,6 @@
       "ga": "Cúige Prato",
       "sk": "Prato (provincia)"
     },
-    "comments": null,
     "type": "province"
   },
   "PR": {
@@ -7102,7 +6948,6 @@
       "ga": "Cúige Parma",
       "th": "จังหวัดปาร์มา"
     },
-    "comments": null,
     "type": "province"
   },
   "PT": {
@@ -7179,7 +7024,6 @@
       "ga": "Cúige Pistoia",
       "sk": "Pistoia (provincia)"
     },
-    "comments": null,
     "type": "province",
     "code": "PT"
   },
@@ -7258,7 +7102,6 @@
       "cy": "Talaith Pesaro ac Urbino",
       "ga": "Cúige Pesaro agus Urbino"
     },
-    "comments": null,
     "type": "province"
   },
   "PV": {
@@ -7337,7 +7180,6 @@
       "az": "Paviya əyaləti",
       "ga": "Cúige Pavia"
     },
-    "comments": null,
     "type": "province"
   },
   "PZ": {
@@ -7415,7 +7257,6 @@
       "az": "Potensa əyaləti",
       "ga": "Cúige Potenza"
     },
-    "comments": null,
     "type": "province"
   },
   "RA": {
@@ -7496,7 +7337,6 @@
       "cy": "Talaith Ravenna",
       "ga": "Cúige Ravenna"
     },
-    "comments": null,
     "type": "province"
   },
   "RC": {
@@ -7575,7 +7415,6 @@
       "no": "Provinsen Reggio Calabria",
       "ga": "Ceannchathair Reggio Calabria"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "RE": {
@@ -7653,7 +7492,6 @@
       "ga": "Cúige Reggio Emilia",
       "he": "רג׳ו-אמיליה"
     },
-    "comments": null,
     "type": "province"
   },
   "RG": {
@@ -7732,7 +7570,6 @@
       "no": "Provinsen Ragusa",
       "ga": "Libero consorzio comunale Ragusa"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "RI": {
@@ -7810,7 +7647,6 @@
       "az": "Rieti əyaləti",
       "ga": "Cúige Rieti"
     },
-    "comments": null,
     "type": "province"
   },
   "RM": {
@@ -7886,7 +7722,6 @@
       "no": "Provinsen Roma",
       "ga": "Ceannchathair na Róimhe"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "RN": {
@@ -7964,7 +7799,6 @@
       "ga": "Cúige Rimini",
       "he": "רימיני"
     },
-    "comments": null,
     "type": "province"
   },
   "RO": {
@@ -8044,7 +7878,6 @@
       "az": "Roviqo əyaləti",
       "ga": "Cúige Rovigo"
     },
-    "comments": null,
     "type": "province"
   },
   "SA": {
@@ -8123,7 +7956,6 @@
       "az": "Salerno əyaləti",
       "ga": "Cúige Salerno"
     },
-    "comments": null,
     "type": "province"
   },
   "SI": {
@@ -8204,7 +8036,6 @@
       "cy": "Talaith Siena",
       "ga": "Cúige Siena"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "SO": {
@@ -8284,7 +8115,6 @@
       "az": "Sondriyo əyaləti",
       "ga": "Cúige Sondrio"
     },
-    "comments": null,
     "type": "province"
   },
   "SP": {
@@ -8361,7 +8191,6 @@
       "no": "Provinsen La Spezia",
       "ga": "Cúige La Spezia"
     },
-    "comments": null,
     "type": "province"
   },
   "SR": {
@@ -8441,7 +8270,6 @@
       "no": "Provinsen Siracusa",
       "ga": "Libero consorzio comunale Siracusa"
     },
-    "comments": null,
     "type": "province"
   },
   "SS": {
@@ -8521,7 +8349,6 @@
       "hr": "Sassari (pokrajina)",
       "sq": "Provinca e Sasarit"
     },
-    "comments": null,
     "type": "province"
   },
   "SU": {
@@ -8530,7 +8357,6 @@
     "unofficial_names": [
       "Province of Sud Sardegna"
     ],
-    "comments": null,
     "type": "province",
     "translations": {
       "en": "Sud Sardegna",
@@ -8641,7 +8467,6 @@
       "az": "Savona əyaləti",
       "ga": "Cúige Savona"
     },
-    "comments": null,
     "type": "province"
   },
   "TA": {
@@ -8721,7 +8546,6 @@
       "yue": "塔蘭托省",
       "yue_Hans": "塔兰托省"
     },
-    "comments": null,
     "type": "province"
   },
   "TE": {
@@ -8801,7 +8625,6 @@
       "yue": "泰拉莫省",
       "yue_Hans": "泰拉莫省"
     },
-    "comments": null,
     "type": "province"
   },
   "TN": {
@@ -8875,7 +8698,6 @@
       "th": "จังหวัดเตรนตีโน",
       "ur": "ترینتینو"
     },
-    "comments": null,
     "type": "autonomous_province"
   },
   "TO": {
@@ -8957,7 +8779,6 @@
       "no": "Provinsen Torino",
       "ga": "Ceannchathair Torino"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "TP": {
@@ -9035,7 +8856,6 @@
       "no": "Provinsen Trapani",
       "ga": "Libero consorzio comunale Trapani"
     },
-    "comments": null,
     "type": "free_municipal_consortium"
   },
   "TR": {
@@ -9116,14 +8936,11 @@
       "cy": "Talaith Terni",
       "ga": "Cúige Terni"
     },
-    "comments": null,
     "type": "province"
   },
   "TS": {
     "name": "Trieste",
     "code": "TS",
-    "unofficial_names": null,
-    "comments": null,
     "type": "decentralized_regional_entity",
     "translations": {
       "ar": "مقاطعة ترييستي",
@@ -9265,14 +9082,11 @@
       "az": "Trevizo əyaləti",
       "ga": "Cúige Treviso"
     },
-    "comments": null,
     "type": "province"
   },
   "UD": {
     "name": "Udine",
     "code": "UD",
-    "unofficial_names": null,
-    "comments": null,
     "type": "decentralized_regional_entity",
     "translations": {
       "ar": "مقاطعة أوديني",
@@ -9413,7 +9227,6 @@
       "az": "Vareze əyaləti",
       "ga": "Cúige Varese"
     },
-    "comments": null,
     "type": "province"
   },
   "VB": {
@@ -9492,7 +9305,6 @@
       "ga": "Cúige Verbano-Cusio-Ossola",
       "he": "ורבנו-קוזיו-אוסולה"
     },
-    "comments": null,
     "type": "province"
   },
   "VC": {
@@ -9570,7 +9382,6 @@
       "az": "Verçelli əyaləti",
       "ga": "Cúige Vercelli"
     },
-    "comments": null,
     "type": "province"
   },
   "VE": {
@@ -9651,7 +9462,6 @@
       "ceb": "Kabenesyahan",
       "ga": "Ceannchathair na Veinéise"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "VI": {
@@ -9732,7 +9542,6 @@
       "cy": "Talaith Vicenza",
       "ga": "Cúige Vicenza"
     },
-    "comments": null,
     "type": "province"
   },
   "VR": {
@@ -9812,7 +9621,6 @@
       "az": "Verona əyaləti",
       "ga": "Cúige Verona"
     },
-    "comments": null,
     "type": "province"
   },
   "VT": {
@@ -9891,7 +9699,6 @@
       "az": "Viterbo əyaləti",
       "ga": "Cúige Viterbo"
     },
-    "comments": null,
     "type": "province"
   },
   "VV": {
@@ -9969,7 +9776,6 @@
       "az": "Vibo Valensiya əyaləti",
       "ga": "Cúige Vibo Valentia"
     },
-    "comments": null,
     "type": "province"
   }
 }

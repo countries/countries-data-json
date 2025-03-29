@@ -2,7 +2,9 @@
   "AN": {
     "name": "Andaman and Nicobar Islands",
     "code": "AN",
-    "unofficial_names": "Andaman and Nicobar Islands",
+    "unofficial_names": [
+      "Andaman and Nicobar Islands"
+    ],
     "geo": {
       "latitude": 11.7400867,
       "longitude": 92.6586401,
@@ -91,13 +93,14 @@
       "ha_NE": "Tsibiran Andaman da Nicobar",
       "ps": "اندامان او نیکوبار ټاپو"
     },
-    "comments": null,
     "type": "state"
   },
   "AP": {
     "name": "Andhra Pradesh",
     "code": "AP",
-    "unofficial_names": "Andhra Pradesh",
+    "unofficial_names": [
+      "Andhra Pradesh"
+    ],
     "geo": {
       "latitude": 15.9128998,
       "longitude": 79.7399875,
@@ -190,13 +193,14 @@
       "ha_NE": "Andhra Pradesh",
       "sd": "آنڌرا پرديش"
     },
-    "comments": null,
     "type": "state"
   },
   "AR": {
     "name": "Arunachal Pradesh",
     "code": "AR",
-    "unofficial_names": "Arunachal Pradesh",
+    "unofficial_names": [
+      "Arunachal Pradesh"
+    ],
     "geo": {
       "latitude": 28.2179994,
       "longitude": 94.7277528,
@@ -287,13 +291,14 @@
       "jv": "Arunachal Pradesh",
       "sd": "اروناچل پرديش"
     },
-    "comments": null,
     "type": "state"
   },
   "AS": {
     "name": "Assam",
     "code": "AS",
-    "unofficial_names": "Assam",
+    "unofficial_names": [
+      "Assam"
+    ],
     "geo": {
       "latitude": 26.2006043,
       "longitude": 92.9375739,
@@ -386,13 +391,14 @@
       "ha": "Assam",
       "ha_NE": "Assam"
     },
-    "comments": null,
     "type": "state"
   },
   "BR": {
     "name": "Bihar",
     "code": "BR",
-    "unofficial_names": "Bihar",
+    "unofficial_names": [
+      "Bihar"
+    ],
     "geo": {
       "latitude": 25.0960742,
       "longitude": 85.31311939999999,
@@ -483,13 +489,14 @@
       "sd": "بھار (رياست)",
       "sq": "Bihar"
     },
-    "comments": null,
     "type": "state"
   },
   "CH": {
     "name": "Chandigarh",
     "code": "CH",
-    "unofficial_names": "Chandigarh",
+    "unofficial_names": [
+      "Chandigarh"
+    ],
     "geo": {
       "latitude": 30.7333148,
       "longitude": 76.7794179,
@@ -571,13 +578,14 @@
       "as": "চণ্ডীগড়",
       "az": "Çandiqarh"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "CG": {
     "name": "Chhattisgarh",
     "code": "CG",
-    "unofficial_names": "Chhattisgarh",
+    "unofficial_names": [
+      "Chhattisgarh"
+    ],
     "geo": {
       "latitude": 21.2786567,
       "longitude": 81.8661442,
@@ -665,7 +673,6 @@
       "hy": "Չհատիսգարխ",
       "sd": "ڇتيس ڳڙھ"
     },
-    "comments": null,
     "type": "state"
   },
   "DH": {
@@ -708,7 +715,9 @@
   "DL": {
     "name": "Delhi",
     "code": "DL",
-    "unofficial_names": "Delhi",
+    "unofficial_names": [
+      "Delhi"
+    ],
     "geo": {
       "latitude": 28.6139391,
       "longitude": 77.2090212,
@@ -802,13 +811,14 @@
       "km": "ដេលី",
       "sq": "Delhi"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "GA": {
     "name": "Goa",
     "code": "GA",
-    "unofficial_names": "Goa",
+    "unofficial_names": [
+      "Goa"
+    ],
     "geo": {
       "latitude": 15.2993265,
       "longitude": 74.12399599999999,
@@ -901,13 +911,14 @@
       "ha_NE": "Goa",
       "sd": "گووا"
     },
-    "comments": null,
     "type": "state"
   },
   "GJ": {
     "name": "Gujarat",
     "code": "GJ",
-    "unofficial_names": "Gujarat",
+    "unofficial_names": [
+      "Gujarat"
+    ],
     "geo": {
       "latitude": 22.258652,
       "longitude": 71.1923805,
@@ -999,13 +1010,14 @@
       "ha_NE": "Gujarat",
       "my": "ဂုဇရာတ်"
     },
-    "comments": null,
     "type": "state"
   },
   "HP": {
     "name": "Himachal Pradesh",
     "code": "HP",
-    "unofficial_names": "Himachal Pradesh",
+    "unofficial_names": [
+      "Himachal Pradesh"
+    ],
     "geo": {
       "latitude": 31.1048294,
       "longitude": 77.17339009999999,
@@ -1094,13 +1106,14 @@
       "ha_NE": "Himachal Pradesh",
       "sd": "هماچل پرديش"
     },
-    "comments": null,
     "type": "state"
   },
   "HR": {
     "name": "Haryana",
     "code": "HR",
-    "unofficial_names": "Haryana",
+    "unofficial_names": [
+      "Haryana"
+    ],
     "geo": {
       "latitude": 29.0587757,
       "longitude": 76.085601,
@@ -1189,7 +1202,6 @@
       "sd": "هريانا",
       "sl": "Harjana"
     },
-    "comments": null,
     "type": "state"
   },
   "JH": {
@@ -1283,13 +1295,14 @@
       "hy": "Ջարկխանդ",
       "sd": "جھرکنڊ"
     },
-    "comments": null,
     "type": "state"
   },
   "JK": {
     "name": "Jammu and Kashmir",
     "code": "JK",
-    "unofficial_names": "Jammu and Kashmir",
+    "unofficial_names": [
+      "Jammu and Kashmir"
+    ],
     "geo": {
       "latitude": 34.1490875,
       "longitude": 76.8259652,
@@ -1376,7 +1389,6 @@
       "yo_BJ": "Jammu àti Kashmir",
       "sq": "Xhamu dhe Kashmiri (territori i bashkimit)"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "KA": {
@@ -1473,13 +1485,14 @@
       "my": "ကာနာတာကာပြည်နယ်",
       "sd": "ڪرناٽڪا"
     },
-    "comments": null,
     "type": "state"
   },
   "KL": {
     "name": "Kerala",
     "code": "KL",
-    "unofficial_names": "Kerala",
+    "unofficial_names": [
+      "Kerala"
+    ],
     "geo": {
       "latitude": 10.8505159,
       "longitude": 76.2710833,
@@ -1570,13 +1583,11 @@
       "ha_NE": "Kerala",
       "sd": "ڪيرالا"
     },
-    "comments": null,
     "type": "state"
   },
   "LA": {
     "name": "Ladakh",
     "code": "LA",
-    "unofficial_names": null,
     "geo": {
       "latitude": 34.0522342,
       "longitude": -118.2436849,
@@ -1640,7 +1651,6 @@
       "yue": "拉達克",
       "yue_Hans": "拉达克"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "LD": {
@@ -1728,13 +1738,14 @@
       "ha": "Lakshadweep",
       "ha_NE": "Lakshadweep"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "MH": {
     "name": "Maharashtra",
     "code": "MH",
-    "unofficial_names": "Maharashtra",
+    "unofficial_names": [
+      "Maharashtra"
+    ],
     "geo": {
       "latitude": 19.7514798,
       "longitude": 75.7138884,
@@ -1825,13 +1836,14 @@
       "ha_NE": "Maharashtra",
       "sd": "مھاراشٽر"
     },
-    "comments": null,
     "type": "state"
   },
   "ML": {
     "name": "Meghalaya",
     "code": "ML",
-    "unofficial_names": "Meghalaya",
+    "unofficial_names": [
+      "Meghalaya"
+    ],
     "geo": {
       "latitude": 25.4670308,
       "longitude": 91.366216,
@@ -1917,13 +1929,14 @@
       "ha_NE": "Meghalaya",
       "my": "မေဃာလယ"
     },
-    "comments": null,
     "type": "state"
   },
   "MN": {
     "name": "Manipur",
     "code": "MN",
-    "unofficial_names": "Manipur",
+    "unofficial_names": [
+      "Manipur"
+    ],
     "geo": {
       "latitude": 24.6637173,
       "longitude": 93.90626879999999,
@@ -2014,13 +2027,14 @@
       "ha_NE": "Manipur",
       "kk": "Манипур"
     },
-    "comments": null,
     "type": "state"
   },
   "MP": {
     "name": "Madhya Pradesh",
     "code": "MP",
-    "unofficial_names": "Madhya Pradesh",
+    "unofficial_names": [
+      "Madhya Pradesh"
+    ],
     "geo": {
       "latitude": 22.9734229,
       "longitude": 78.6568942,
@@ -2111,13 +2125,14 @@
       "ha": "Madhya Pradesh",
       "ha_NE": "Madhya Pradesh"
     },
-    "comments": null,
     "type": "state"
   },
   "MZ": {
     "name": "Mizoram",
     "code": "MZ",
-    "unofficial_names": "Mizoram",
+    "unofficial_names": [
+      "Mizoram"
+    ],
     "geo": {
       "latitude": 23.164543,
       "longitude": 92.9375739,
@@ -2204,13 +2219,14 @@
       "my": "မီဇိုရမ်ပြည်နယ်",
       "uz": "Mizoram"
     },
-    "comments": null,
     "type": "state"
   },
   "NL": {
     "name": "Nagaland",
     "code": "NL",
-    "unofficial_names": "Nagaland",
+    "unofficial_names": [
+      "Nagaland"
+    ],
     "geo": {
       "latitude": 26.1584354,
       "longitude": 94.5624426,
@@ -2300,13 +2316,14 @@
       "kk": "Нагаленд",
       "my": "နာဂလန်ပြည်နယ်"
     },
-    "comments": null,
     "type": "state"
   },
   "OD": {
     "name": "Odisha",
     "code": "OD",
-    "unofficial_names": "Orissa",
+    "unofficial_names": [
+      "Orissa"
+    ],
     "geo": {
       "latitude": 20.9516658,
       "longitude": 85.0985236,
@@ -2398,13 +2415,14 @@
       "ha_NE": "Odisha",
       "sd": "اوڙيسيا"
     },
-    "comments": null,
     "type": "state"
   },
   "PB": {
     "name": "Punjab",
     "code": "PB",
-    "unofficial_names": "Punjab",
+    "unofficial_names": [
+      "Punjab"
+    ],
     "geo": {
       "latitude": 31.1471305,
       "longitude": 75.34121789999999,
@@ -2491,13 +2509,14 @@
       "ha": "Punjab (Indiya)",
       "ha_NE": "Punjab (Indiya)"
     },
-    "comments": null,
     "type": "state"
   },
   "PY": {
     "name": "Pondicherry",
     "code": "PY",
-    "unofficial_names": "Pondicherry",
+    "unofficial_names": [
+      "Pondicherry"
+    ],
     "geo": {
       "latitude": 11.9138598,
       "longitude": 79.8144722,
@@ -2579,13 +2598,14 @@
       "ha_NE": "Puducherry (yanki)",
       "hy": "Պոնդիչերրի"
     },
-    "comments": null,
     "type": "union_territory"
   },
   "RJ": {
     "name": "Rajasthan",
     "code": "RJ",
-    "unofficial_names": "Rajasthan",
+    "unofficial_names": [
+      "Rajasthan"
+    ],
     "geo": {
       "latitude": 27.0238036,
       "longitude": 74.21793260000001,
@@ -2676,7 +2696,6 @@
       "ha_NE": "Rajasthan",
       "jv": "Rajasthan"
     },
-    "comments": null,
     "type": "state"
   },
   "SK": {
@@ -2775,21 +2794,11 @@
       "sl": "Sikim",
       "uz": "Sekkim"
     },
-    "comments": null,
     "type": "state"
   },
   "TS": {
     "name": "तेलंगाना",
     "code": "TS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "تيلانغانا",
       "as": "তেলেংগানা",
@@ -2859,13 +2868,14 @@
       "hy": "Տելանգանա",
       "sd": "تلنگانا"
     },
-    "comments": null,
     "type": "state"
   },
   "TN": {
     "name": "Tamil Nadu",
     "code": "TN",
-    "unofficial_names": "Tamil Nadu",
+    "unofficial_names": [
+      "Tamil Nadu"
+    ],
     "geo": {
       "latitude": 11.1271225,
       "longitude": 78.6568942,
@@ -2959,13 +2969,14 @@
       "ky": "Тамил Наду",
       "sd": "تامل ناڊو"
     },
-    "comments": null,
     "type": "state"
   },
   "TR": {
     "name": "Tripura",
     "code": "TR",
-    "unofficial_names": "Tripura",
+    "unofficial_names": [
+      "Tripura"
+    ],
     "geo": {
       "latitude": 23.9408482,
       "longitude": 91.9881527,
@@ -3054,13 +3065,14 @@
       "ha": "Tripura",
       "ha_NE": "Tripura"
     },
-    "comments": null,
     "type": "state"
   },
   "UP": {
     "name": "Uttar Pradesh",
     "code": "UP",
-    "unofficial_names": "Uttar Pradesh",
+    "unofficial_names": [
+      "Uttar Pradesh"
+    ],
     "geo": {
       "latitude": 27.5705886,
       "longitude": 80.0981869,
@@ -3153,21 +3165,11 @@
       "jv": "Uttar Pradesh",
       "sd": "اتر پرديش"
     },
-    "comments": null,
     "type": "state"
   },
   "UK": {
     "name": "उत्तराखण्ड",
     "code": "UK",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "أوتاراخند",
       "as": "উত্তৰাখণ্ড",
@@ -3247,7 +3249,6 @@
       "hy": "Ուտարկխանդ",
       "sd": "اتراکنڊ"
     },
-    "comments": null,
     "type": "state"
   },
   "WB": {
@@ -3349,7 +3350,6 @@
       "ha_NE": "Bengal ta Yamma",
       "ky": "Батыш Бенгалерт"
     },
-    "comments": null,
     "type": "state"
   }
 }

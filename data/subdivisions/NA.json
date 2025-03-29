@@ -2,7 +2,9 @@
   "CA": {
     "name": "Zambezi",
     "code": "CA",
-    "unofficial_names": "Zambezi",
+    "unofficial_names": [
+      "Zambezi"
+    ],
     "geo": {
       "latitude": -17.8193419,
       "longitude": 23.9536466,
@@ -64,13 +66,14 @@
       "mk": "Замбези (регион)",
       "zu": "Zambezi Region"
     },
-    "comments": null,
     "type": "region"
   },
   "ER": {
     "name": "Erongo",
     "code": "ER",
-    "unofficial_names": "Erongo",
+    "unofficial_names": [
+      "Erongo"
+    ],
     "geo": {
       "latitude": -22.2565682,
       "longitude": 15.4068079,
@@ -132,13 +135,14 @@
       "gl": "Erongo",
       "mk": "Еронго"
     },
-    "comments": null,
     "type": "region"
   },
   "HA": {
     "name": "Hardap",
     "code": "HA",
-    "unofficial_names": "Hardap",
+    "unofficial_names": [
+      "Hardap"
+    ],
     "geo": {
       "latitude": -24.2310134,
       "longitude": 17.668887,
@@ -198,13 +202,14 @@
       "hy": "Հարդափ",
       "mk": "Хардап"
     },
-    "comments": null,
     "type": "region"
   },
   "KA": {
     "name": "Karas",
     "code": "KA",
-    "unofficial_names": "Karas",
+    "unofficial_names": [
+      "Karas"
+    ],
     "geo": {
       "latitude": -26.8429645,
       "longitude": 17.2902839,
@@ -264,13 +269,14 @@
       "gl": "Karas",
       "hy": "Կարաս"
     },
-    "comments": null,
     "type": "region"
   },
   "KE": {
     "name": "Kavango East",
     "code": "KE",
-    "unofficial_names": "Kavango East",
+    "unofficial_names": [
+      "Kavango East"
+    ],
     "geo": {
       "latitude": -18.271048,
       "longitude": 18.4276047,
@@ -303,13 +309,14 @@
       "id": "Region Kavango East",
       "mk": "Источно Каванго"
     },
-    "comments": null,
     "type": "region"
   },
   "KH": {
     "name": "Khomas",
     "code": "KH",
-    "unofficial_names": "Khomas",
+    "unofficial_names": [
+      "Khomas"
+    ],
     "geo": {
       "latitude": -22.6377854,
       "longitude": 17.1011931,
@@ -368,13 +375,14 @@
       "gl": "Khomas",
       "mk": "Комас"
     },
-    "comments": null,
     "type": "region"
   },
   "KU": {
     "name": "Kunene",
     "code": "KU",
-    "unofficial_names": "Kunene",
+    "unofficial_names": [
+      "Kunene"
+    ],
     "geo": {
       "latitude": -19.4086317,
       "longitude": 13.914399,
@@ -433,13 +441,14 @@
       "no": "Kunene",
       "gl": "Kunene"
     },
-    "comments": null,
     "type": "region"
   },
   "KW": {
     "name": "Kavango West",
     "code": "KW",
-    "unofficial_names": "Kavango West",
+    "unofficial_names": [
+      "Kavango West"
+    ],
     "geo": {
       "latitude": -18.271048,
       "longitude": 18.4276047,
@@ -472,13 +481,14 @@
       "mk": "Западно Каванго",
       "zh": "西卡万戈区"
     },
-    "comments": null,
     "type": "region"
   },
   "OD": {
     "name": "Otjozondjupa",
     "code": "OD",
-    "unofficial_names": "Otjozondjupa",
+    "unofficial_names": [
+      "Otjozondjupa"
+    ],
     "geo": {
       "latitude": -20.5486916,
       "longitude": 17.668887,
@@ -537,13 +547,14 @@
       "ca": "Otjozondjupa",
       "mk": "Очозондјупа"
     },
-    "comments": null,
     "type": "region"
   },
   "OH": {
     "name": "Omaheke",
     "code": "OH",
-    "unofficial_names": "Omaheke",
+    "unofficial_names": [
+      "Omaheke"
+    ],
     "geo": {
       "latitude": -21.8466651,
       "longitude": 19.1880047,
@@ -589,13 +600,14 @@
       "id": "Region Omaheke",
       "mk": "Омахеке"
     },
-    "comments": null,
     "type": "region"
   },
   "ON": {
     "name": "Oshana",
     "code": "ON",
-    "unofficial_names": "Oshana",
+    "unofficial_names": [
+      "Oshana"
+    ],
     "geo": {
       "latitude": -18.4305064,
       "longitude": 15.6881788,
@@ -653,13 +665,14 @@
       "gl": "Oshana",
       "he": "אושנה"
     },
-    "comments": null,
     "type": "region"
   },
   "OS": {
     "name": "Omusati",
     "code": "OS",
-    "unofficial_names": "Omusati",
+    "unofficial_names": [
+      "Omusati"
+    ],
     "geo": {
       "latitude": -18.4070294,
       "longitude": 14.8454619,
@@ -719,7 +732,6 @@
       "no": "Omusati",
       "mk": "Омусати"
     },
-    "comments": null,
     "type": "region"
   },
   "OT": {
@@ -783,13 +795,14 @@
       "no": "Oshikoto",
       "et": "Oshikoto ringkond"
     },
-    "comments": null,
     "type": "region"
   },
   "OW": {
     "name": "Ohangwena",
     "code": "OW",
-    "unofficial_names": "Ohangwena",
+    "unofficial_names": [
+      "Ohangwena"
+    ],
     "geo": {
       "latitude": -17.5979291,
       "longitude": 16.8178377,
@@ -846,7 +859,6 @@
       "ccp": "𑄃𑄧𑄦𑄋𑄴𑄠𑄬𑄚",
       "no": "Ohangwena"
     },
-    "comments": null,
     "type": "region"
   }
 }

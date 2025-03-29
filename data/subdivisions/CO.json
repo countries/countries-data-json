@@ -2,7 +2,9 @@
   "AMA": {
     "name": "Amazonas",
     "code": "AMA",
-    "unofficial_names": "Amazonas",
+    "unofficial_names": [
+      "Amazonas"
+    ],
     "geo": {
       "latitude": -1.4429123,
       "longitude": -71.5723953,
@@ -70,13 +72,14 @@
       "yo_BJ": "Amazonas Department",
       "af": "Amazonas (Colombia)"
     },
-    "comments": null,
     "type": "department"
   },
   "ANT": {
     "name": "Antioquia",
     "code": "ANT",
-    "unofficial_names": "Antioquia",
+    "unofficial_names": [
+      "Antioquia"
+    ],
     "geo": {
       "latitude": 7.1986064,
       "longitude": -75.34121789999999,
@@ -150,13 +153,14 @@
       "sl": "Departma Antioquia",
       "uz": "Antyokiya"
     },
-    "comments": null,
     "type": "department"
   },
   "ARA": {
     "name": "Arauca",
     "code": "ARA",
-    "unofficial_names": "Arauca",
+    "unofficial_names": [
+      "Arauca"
+    ],
     "geo": {
       "latitude": 7.079371,
       "longitude": -70.758377,
@@ -222,13 +226,14 @@
       "yo_BJ": "Arauca Department",
       "af": "Arauca (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "ATL": {
     "name": "Atlántico",
     "code": "ATL",
-    "unofficial_names": "Atlántico",
+    "unofficial_names": [
+      "Atlántico"
+    ],
     "geo": {
       "latitude": 10.6966159,
       "longitude": -74.8741045,
@@ -296,13 +301,14 @@
       "af": "Atlántico",
       "hy": "Անտլանտիկո"
     },
-    "comments": null,
     "type": "department"
   },
   "BOL": {
     "name": "Bolívar",
     "code": "BOL",
-    "unofficial_names": "Bolívar",
+    "unofficial_names": [
+      "Bolívar"
+    ],
     "geo": {
       "latitude": 8.6704382,
       "longitude": -74.0300122,
@@ -367,13 +373,14 @@
       "yo_BJ": "Bolívar Department",
       "af": "Bolívar (Colombia)"
     },
-    "comments": null,
     "type": "department"
   },
   "BOY": {
     "name": "Boyacá",
     "code": "BOY",
-    "unofficial_names": "Boyacá",
+    "unofficial_names": [
+      "Boyacá"
+    ],
     "geo": {
       "latitude": 5.45,
       "longitude": -73.35,
@@ -440,13 +447,14 @@
       "sr": "Департман Бојака",
       "sr_Latn": "Departman Bojaka"
     },
-    "comments": null,
     "type": "department"
   },
   "CAL": {
     "name": "Caldas",
     "code": "CAL",
-    "unofficial_names": "Caldas",
+    "unofficial_names": [
+      "Caldas"
+    ],
     "geo": {
       "latitude": 5.4815477,
       "longitude": -75.21144079999999,
@@ -510,13 +518,14 @@
       "yo_BJ": "Caldas Department",
       "af": "Caldas"
     },
-    "comments": null,
     "type": "department"
   },
   "CAQ": {
     "name": "Caquetá",
     "code": "CAQ",
-    "unofficial_names": "Caquetá",
+    "unofficial_names": [
+      "Caquetá"
+    ],
     "geo": {
       "latitude": 0.869892,
       "longitude": -73.8419063,
@@ -582,13 +591,14 @@
       "be": "дэпартамент Какета",
       "mk": "Департман Какета"
     },
-    "comments": null,
     "type": "department"
   },
   "CAS": {
     "name": "Casanare",
     "code": "CAS",
-    "unofficial_names": "Casanare",
+    "unofficial_names": [
+      "Casanare"
+    ],
     "geo": {
       "latitude": 5.7589269,
       "longitude": -71.5723953,
@@ -651,13 +661,14 @@
       "af": "Casanare",
       "az": "Kasanare"
     },
-    "comments": null,
     "type": "department"
   },
   "CAU": {
     "name": "Cauca",
     "code": "CAU",
-    "unofficial_names": "Cauca",
+    "unofficial_names": [
+      "Cauca"
+    ],
     "geo": {
       "latitude": 2.5725523,
       "longitude": -76.7783748,
@@ -723,13 +734,14 @@
       "af": "Cauca",
       "az": "Kauka"
     },
-    "comments": null,
     "type": "department"
   },
   "CES": {
     "name": "Cesar",
     "code": "CES",
-    "unofficial_names": "Cesar",
+    "unofficial_names": [
+      "Cesar"
+    ],
     "geo": {
       "latitude": 9.3372948,
       "longitude": -73.65362089999999,
@@ -792,13 +804,14 @@
       "yo_BJ": "Cesar Department",
       "af": "Cesar (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "CHO": {
     "name": "Chocó",
     "code": "CHO",
-    "unofficial_names": "Chocó",
+    "unofficial_names": [
+      "Chocó"
+    ],
     "geo": {
       "latitude": 5.2528033,
       "longitude": -76.8259652,
@@ -864,13 +877,14 @@
       "af": "Chocó",
       "az": "Çoko departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "COR": {
     "name": "Córdoba",
     "code": "COR",
-    "unofficial_names": "Córdoba",
+    "unofficial_names": [
+      "Córdoba"
+    ],
     "geo": {
       "latitude": 8.4029253,
       "longitude": -75.89986739999999,
@@ -934,13 +948,14 @@
       "af": "Córdoba (departement, Colombia)",
       "az": "Kordova departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "CUN": {
     "name": "Cundinamarca",
     "code": "CUN",
-    "unofficial_names": "Cundinamarca",
+    "unofficial_names": [
+      "Cundinamarca"
+    ],
     "geo": {
       "latitude": 5.026002999999999,
       "longitude": -74.0300122,
@@ -1008,7 +1023,6 @@
       "mk": "Департман Кундинамарка",
       "sl": "Departma Cundinamarca"
     },
-    "comments": null,
     "type": "department"
   },
   "DC": {
@@ -1115,13 +1129,14 @@
       "ps": "بوګوتا",
       "sd": "بگوٽا"
     },
-    "comments": null,
     "type": "capital_district"
   },
   "GUA": {
     "name": "Guainía",
     "code": "GUA",
-    "unofficial_names": "Guainía",
+    "unofficial_names": [
+      "Guainía"
+    ],
     "geo": {
       "latitude": 2.585393,
       "longitude": -68.52471489999999,
@@ -1184,13 +1199,14 @@
       "az": "Quayniya",
       "mk": "Гвајнија"
     },
-    "comments": null,
     "type": "department"
   },
   "GUV": {
     "name": "Guaviare",
     "code": "GUV",
-    "unofficial_names": "Guaviare",
+    "unofficial_names": [
+      "Guaviare"
+    ],
     "geo": {
       "latitude": 1.0619181,
       "longitude": -73.2558952,
@@ -1252,13 +1268,14 @@
       "yo_BJ": "Guaviare Department",
       "af": "Guaviare (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "HUI": {
     "name": "Huila",
     "code": "HUI",
-    "unofficial_names": "Huila",
+    "unofficial_names": [
+      "Huila"
+    ],
     "geo": {
       "latitude": 2.5359349,
       "longitude": -75.52766989999999,
@@ -1321,13 +1338,14 @@
       "af": "Huila (departement)",
       "ga": "Huila"
     },
-    "comments": null,
     "type": "department"
   },
   "LAG": {
     "name": "La Guajira",
     "code": "LAG",
-    "unofficial_names": "La Guajira",
+    "unofficial_names": [
+      "La Guajira"
+    ],
     "geo": {
       "latitude": 11.3547743,
       "longitude": -72.5204827,
@@ -1388,13 +1406,14 @@
       "yo_BJ": "La Guajira Department",
       "af": "Guajira (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "MAG": {
     "name": "Magdalena",
     "code": "MAG",
-    "unofficial_names": "Magdalena",
+    "unofficial_names": [
+      "Magdalena"
+    ],
     "geo": {
       "latitude": 10.4113014,
       "longitude": -74.4056612,
@@ -1463,13 +1482,14 @@
       "af": "Magdalena (departement)",
       "sl": "Departma Magdalena"
     },
-    "comments": null,
     "type": "department"
   },
   "MET": {
     "name": "Meta",
     "code": "MET",
-    "unofficial_names": "Meta",
+    "unofficial_names": [
+      "Meta"
+    ],
     "geo": {
       "latitude": 3.2719904,
       "longitude": -73.087749,
@@ -1532,13 +1552,14 @@
       "af": "Meta (departement)",
       "cy": "Meta"
     },
-    "comments": null,
     "type": "department"
   },
   "NAR": {
     "name": "Nariño",
     "code": "NAR",
-    "unofficial_names": "Nariño",
+    "unofficial_names": [
+      "Nariño"
+    ],
     "geo": {
       "latitude": 1.289822,
       "longitude": -77.35861190000001,
@@ -1606,13 +1627,14 @@
       "cs": "Nariño",
       "hy": "Նարինյո"
     },
-    "comments": null,
     "type": "department"
   },
   "NSA": {
     "name": "Norte de Santander",
     "code": "NSA",
-    "unofficial_names": "Norte de Santander",
+    "unofficial_names": [
+      "Norte de Santander"
+    ],
     "geo": {
       "latitude": 7.9462831,
       "longitude": -72.8988069,
@@ -1675,13 +1697,14 @@
       "yo_BJ": "Norte de Santander Department",
       "af": "Norte de Santander"
     },
-    "comments": null,
     "type": "department"
   },
   "PUT": {
     "name": "Putumayo",
     "code": "PUT",
-    "unofficial_names": "Putumayo",
+    "unofficial_names": [
+      "Putumayo"
+    ],
     "geo": {
       "latitude": 0.4359506,
       "longitude": -75.52766989999999,
@@ -1745,13 +1768,14 @@
       "be": "Путумая",
       "cs": "Putumayo"
     },
-    "comments": null,
     "type": "department"
   },
   "QUI": {
     "name": "Quindío",
     "code": "QUI",
-    "unofficial_names": "Quindío",
+    "unofficial_names": [
+      "Quindío"
+    ],
     "geo": {
       "latitude": 4.4610191,
       "longitude": -75.667356,
@@ -1813,13 +1837,14 @@
       "yo_BJ": "Quindío Department",
       "af": "Quindío"
     },
-    "comments": null,
     "type": "department"
   },
   "RIS": {
     "name": "Risaralda",
     "code": "RIS",
-    "unofficial_names": "Risaralda",
+    "unofficial_names": [
+      "Risaralda"
+    ],
     "geo": {
       "latitude": 4.99243,
       "longitude": -76.01866,
@@ -1881,13 +1906,14 @@
       "yo_BJ": "Risaralda Department",
       "af": "Risaralda (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "SAN": {
     "name": "Santander",
     "code": "SAN",
-    "unofficial_names": "Santander",
+    "unofficial_names": [
+      "Santander"
+    ],
     "geo": {
       "latitude": 6.6437076,
       "longitude": -73.65362089999999,
@@ -1948,20 +1974,17 @@
       "yo_BJ": "Santander Department",
       "af": "Santander (departement, Kolombië)"
     },
-    "comments": null,
     "type": "department"
   },
   "SAP": {
     "name": "San Andrés, Providencia y Santa Catalina",
     "code": "SAP",
-    "unofficial_names": "San Andrés, Providencia y Santa Catalina",
+    "unofficial_names": [
+      "San Andrés, Providencia y Santa Catalina"
+    ],
     "geo": {
       "latitude": 13.35395,
-      "longitude": -81.37127,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -81.37127
     },
     "translations": {
       "en": "San Andrés & Providencia",
@@ -2020,13 +2043,14 @@
       "yo_BJ": "San Andrés, Providencia àti Santa Catalina",
       "af": "San Andrés en Providencia"
     },
-    "comments": null,
     "type": "department"
   },
   "SUC": {
     "name": "Sucre",
     "code": "SUC",
-    "unofficial_names": "Sucre",
+    "unofficial_names": [
+      "Sucre"
+    ],
     "geo": {
       "latitude": 8.813889999999999,
       "longitude": -74.72529999999999,
@@ -2087,13 +2111,14 @@
       "yo_BJ": "Sucre Department",
       "af": "Sucre (departement, Colombia)"
     },
-    "comments": null,
     "type": "department"
   },
   "TOL": {
     "name": "Tolima",
     "code": "TOL",
-    "unofficial_names": "Tolima",
+    "unofficial_names": [
+      "Tolima"
+    ],
     "geo": {
       "latitude": 4.092516799999999,
       "longitude": -75.1545381,
@@ -2155,13 +2180,14 @@
       "yo_BJ": "Tolima Department",
       "af": "Tolima (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "VAC": {
     "name": "Valle del Cauca",
     "code": "VAC",
-    "unofficial_names": "Valle del Cauca",
+    "unofficial_names": [
+      "Valle del Cauca"
+    ],
     "geo": {
       "latitude": 3.8008893,
       "longitude": -76.64127119999999,
@@ -2226,13 +2252,14 @@
       "hy": "Վալիե դել Կաուկա",
       "ro": "Valle del Cauca"
     },
-    "comments": null,
     "type": "department"
   },
   "VAU": {
     "name": "Vaupés",
     "code": "VAU",
-    "unofficial_names": "Vaupés",
+    "unofficial_names": [
+      "Vaupés"
+    ],
     "geo": {
       "latitude": 0.8553561,
       "longitude": -70.81199529999999,
@@ -2294,13 +2321,14 @@
       "yo_BJ": "Vaupés Department",
       "af": "Vaupés (departement)"
     },
-    "comments": null,
     "type": "department"
   },
   "VID": {
     "name": "Vichada",
     "code": "VID",
-    "unofficial_names": "Vichada",
+    "unofficial_names": [
+      "Vichada"
+    ],
     "geo": {
       "latitude": 4.4234452,
       "longitude": -69.2877535,
@@ -2363,7 +2391,6 @@
       "cs": "Vichada",
       "hy": "Վիչադա"
     },
-    "comments": null,
     "type": "department"
   }
 }

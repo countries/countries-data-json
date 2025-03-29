@@ -2,7 +2,9 @@
   "01": {
     "name": "Lefkosia",
     "code": "01",
-    "unofficial_names": "Lefkosia",
+    "unofficial_names": [
+      "Lefkosia"
+    ],
     "geo": {
       "latitude": 35.166667,
       "longitude": 33.366667,
@@ -58,13 +60,14 @@
       "id": "Distrik Nicosia",
       "lv": "Nikosijas eparhija"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Lemesos",
     "code": "02",
-    "unofficial_names": "Lemesos",
+    "unofficial_names": [
+      "Lemesos"
+    ],
     "geo": {
       "latitude": 34.7071301,
       "longitude": 33.0226174,
@@ -126,13 +129,14 @@
       "az": "Limasol rayonu",
       "eu": "Limasolgo barrutia"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Larnaka",
     "code": "03",
-    "unofficial_names": "Larnaka",
+    "unofficial_names": [
+      "Larnaka"
+    ],
     "geo": {
       "latitude": 34.8507206,
       "longitude": 33.4831906,
@@ -193,13 +197,14 @@
       "no": "Larnaka",
       "eu": "Larnakako barrutia"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "Ammochostos",
     "code": "04",
-    "unofficial_names": "Ammochostos",
+    "unofficial_names": [
+      "Ammochostos"
+    ],
     "geo": {
       "latitude": 35.1149116,
       "longitude": 33.919245,
@@ -252,13 +257,14 @@
       "eu": "Famagustako barrutia",
       "id": "Distrik Famagusta"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Pafos",
     "code": "05",
-    "unofficial_names": "Pafos",
+    "unofficial_names": [
+      "Pafos"
+    ],
     "geo": {
       "latitude": 34.7720133,
       "longitude": 32.4297369,
@@ -311,13 +317,14 @@
       "id": "Distrik Paphos",
       "lv": "Pafas eparhija"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Keryneia",
     "code": "06",
-    "unofficial_names": "Keryneia",
+    "unofficial_names": [
+      "Keryneia"
+    ],
     "geo": {
       "latitude": 35.0586943,
       "longitude": 33.9582783,
@@ -378,7 +385,6 @@
       "no": "Kyrenia",
       "eu": "Kireniako barrutia"
     },
-    "comments": null,
     "type": "district"
   }
 }

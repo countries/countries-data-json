@@ -68,13 +68,14 @@
       "yue": "艾森大區",
       "no": "Aisén"
     },
-    "comments": null,
     "type": "region"
   },
   "AN": {
     "name": "Antofagasta",
     "code": "AN",
-    "unofficial_names": "Antofagasta",
+    "unofficial_names": [
+      "Antofagasta"
+    ],
     "geo": {
       "latitude": -23.65,
       "longitude": -70.39999999999999,
@@ -141,13 +142,14 @@
       "yue": "安托法加斯塔大區",
       "yue_Hans": "安托法加斯塔大区"
     },
-    "comments": null,
     "type": "region"
   },
   "AP": {
     "name": "Arica y Parinacota",
     "code": "AP",
-    "unofficial_names": "Arica y Parinacota",
+    "unofficial_names": [
+      "Arica y Parinacota"
+    ],
     "geo": {
       "latitude": -18.5940485,
       "longitude": -69.4784541,
@@ -199,7 +201,6 @@
       "yue": "阿列卡同帕利拿哥達大區",
       "yue_Hans": "阿列卡同帕利拿哥达大区"
     },
-    "comments": null,
     "type": "region"
   },
   "AR": {
@@ -273,13 +274,14 @@
       "yue": "阿勞卡尼亞大區",
       "yue_Hans": "阿劳卡尼亚大区"
     },
-    "comments": null,
     "type": "region"
   },
   "AT": {
     "name": "Atacama",
     "code": "AT",
-    "unofficial_names": "Atacama",
+    "unofficial_names": [
+      "Atacama"
+    ],
     "geo": {
       "latitude": -27.5660558,
       "longitude": -70.050314,
@@ -342,7 +344,6 @@
       "yue": "阿塔卡馬大區",
       "yue_Hans": "阿塔卡马大区"
     },
-    "comments": null,
     "type": "region"
   },
   "BI": {
@@ -422,13 +423,14 @@
       "yue": "比奧比奧大區",
       "yue_Hans": "比奥比奥大区"
     },
-    "comments": null,
     "type": "region"
   },
   "CO": {
     "name": "Coquimbo",
     "code": "CO",
-    "unofficial_names": "Coquimbo",
+    "unofficial_names": [
+      "Coquimbo"
+    ],
     "geo": {
       "latitude": -29.9533,
       "longitude": -71.3436,
@@ -492,7 +494,6 @@
       "yue": "科金博大區",
       "yue_Hans": "科金博大区"
     },
-    "comments": null,
     "type": "region"
   },
   "LI": {
@@ -560,13 +561,14 @@
       "yue": "奧伊金斯將軍解放者大區",
       "yue_Hans": "奥伊金斯将军解放者大区"
     },
-    "comments": null,
     "type": "region"
   },
   "LL": {
     "name": "Los Lagos",
     "code": "LL",
-    "unofficial_names": "Los Lagos",
+    "unofficial_names": [
+      "Los Lagos"
+    ],
     "geo": {
       "latitude": -41.9197779,
       "longitude": -72.1416132,
@@ -632,13 +634,14 @@
       "yue": "湖大區",
       "yue_Hans": "湖大区"
     },
-    "comments": null,
     "type": "region"
   },
   "LR": {
     "name": "Los Ríos",
     "code": "LR",
-    "unofficial_names": "Los Ríos",
+    "unofficial_names": [
+      "Los Ríos"
+    ],
     "geo": {
       "latitude": -40.2310217,
       "longitude": -72.331113,
@@ -704,7 +707,6 @@
       "yue": "河大區",
       "yue_Hans": "河大区"
     },
-    "comments": null,
     "type": "region"
   },
   "MA": {
@@ -777,13 +779,14 @@
       "yue": "麥哲倫同智利南極大區",
       "yue_Hans": "麦哲伦同智利南极大区"
     },
-    "comments": null,
     "type": "region"
   },
   "ML": {
     "name": "Maule",
     "code": "ML",
-    "unofficial_names": "Maule",
+    "unofficial_names": [
+      "Maule"
+    ],
     "geo": {
       "latitude": -35.5163603,
       "longitude": -71.5723953,
@@ -848,7 +851,6 @@
       "yue": "馬烏萊大區",
       "yue_Hans": "马乌莱大区"
     },
-    "comments": null,
     "type": "region"
   },
   "NB": {
@@ -898,7 +900,6 @@
       "yue": "紐夫萊大區",
       "yue_Hans": "纽夫莱大区"
     },
-    "comments": null,
     "type": "region"
   },
   "RM": {
@@ -970,13 +971,14 @@
       "yue": "聖地亞哥都會大區",
       "yue_Hans": "圣地亚哥都会大区"
     },
-    "comments": null,
     "type": "region"
   },
   "TA": {
     "name": "Tarapacá",
     "code": "TA",
-    "unofficial_names": "Tarapacá",
+    "unofficial_names": [
+      "Tarapacá"
+    ],
     "geo": {
       "latitude": -20.2028799,
       "longitude": -69.2877535,
@@ -1044,13 +1046,14 @@
       "yue": "塔拉帕卡大區",
       "yue_Hans": "塔拉帕卡大区"
     },
-    "comments": null,
     "type": "region"
   },
   "VS": {
     "name": "Valparaíso",
     "code": "VS",
-    "unofficial_names": "Valparaíso",
+    "unofficial_names": [
+      "Valparaíso"
+    ],
     "geo": {
       "latitude": -33.045646,
       "longitude": -71.620361,
@@ -1112,7 +1115,6 @@
       "ccp": "𑄞𑄧𑄣𑄴𑄛𑄢𑄭𑄥𑄮",
       "no": "Valparaíso"
     },
-    "comments": null,
     "type": "region"
   }
 }

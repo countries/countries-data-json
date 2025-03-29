@@ -2,7 +2,9 @@
   "HH": {
     "name": "Hhohho",
     "code": "HH",
-    "unofficial_names": "Hhohho",
+    "unofficial_names": [
+      "Hhohho"
+    ],
     "geo": {
       "latitude": -26.1365662,
       "longitude": 31.3541631,
@@ -63,7 +65,6 @@
       "hy": "Հոհո",
       "zu": "IHhohho"
     },
-    "comments": null,
     "type": "region"
   },
   "LU": {
@@ -129,13 +130,14 @@
       "sr": "Лубомбо",
       "sr_Latn": "Lubombo"
     },
-    "comments": null,
     "type": "region"
   },
   "MA": {
     "name": "Manzini",
     "code": "MA",
-    "unofficial_names": "Manzini",
+    "unofficial_names": [
+      "Manzini"
+    ],
     "geo": {
       "latitude": -26.644588,
       "longitude": 31.3541631,
@@ -193,13 +195,14 @@
       "sr": "Манзини (покрајина)",
       "sr_Latn": "Manzini (pokrajina)"
     },
-    "comments": null,
     "type": "region"
   },
   "SH": {
     "name": "Shiselweni",
     "code": "SH",
-    "unofficial_names": "Shiselweni",
+    "unofficial_names": [
+      "Shiselweni"
+    ],
     "geo": {
       "latitude": -26.9827577,
       "longitude": 31.3541631,
@@ -257,7 +260,6 @@
       "sr": "Шиселвени",
       "sr_Latn": "Šiselveni"
     },
-    "comments": null,
     "type": "region"
   }
 }

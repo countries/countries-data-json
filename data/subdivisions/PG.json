@@ -64,7 +64,6 @@
       "ca": "Chimbu",
       "cy": "Talaith Chimbu"
     },
-    "comments": null,
     "type": "province"
   },
   "CPM": {
@@ -128,7 +127,6 @@
       "zh": "中央省",
       "no": "Central"
     },
-    "comments": null,
     "type": "province"
   },
   "EBR": {
@@ -193,7 +191,6 @@
       "no": "Øst Ny Britland",
       "ca": "East New Britain"
     },
-    "comments": null,
     "type": "province"
   },
   "EHG": {
@@ -257,13 +254,14 @@
       "no": "Øst høylands provins",
       "ca": "Eastern Highlands"
     },
-    "comments": null,
     "type": "province"
   },
   "EPW": {
     "name": "Enga",
     "code": "EPW",
-    "unofficial_names": "Enga",
+    "unofficial_names": [
+      "Enga"
+    ],
     "geo": {
       "latitude": -5.3005849,
       "longitude": 143.5635637,
@@ -321,7 +319,6 @@
       "ca": "Enga",
       "cy": "Talaith Enga"
     },
-    "comments": null,
     "type": "province"
   },
   "ESW": {
@@ -386,7 +383,6 @@
       "ca": "East Sepik",
       "cy": "Talaith Dwyrain Sepik"
     },
-    "comments": null,
     "type": "province"
   },
   "GPK": {
@@ -449,21 +445,11 @@
       "et": "Gulfi provints",
       "no": "Gulf"
     },
-    "comments": null,
     "type": "province"
   },
   "HLA": {
     "name": "Hela",
     "code": "HLA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Hela Province",
       "en": "Hela",
@@ -488,21 +474,11 @@
       "et": "Hela provints",
       "bs": "Hela"
     },
-    "comments": null,
     "type": "province"
   },
   "JWK": {
     "name": "Jiwaka",
     "code": "JWK",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Jiwaka Province",
       "en": "Jiwaka",
@@ -528,13 +504,14 @@
       "bs": "Jiwaka",
       "cy": "Talaith Jiwaka"
     },
-    "comments": null,
     "type": "province"
   },
   "MBA": {
     "name": "Milne Bay",
     "code": "MBA",
-    "unofficial_names": "Milne Bay",
+    "unofficial_names": [
+      "Milne Bay"
+    ],
     "geo": {
       "latitude": -10.4460842,
       "longitude": 150.7214362,
@@ -590,13 +567,14 @@
       "ca": "Milne Bay",
       "et": "Milne Bay provints"
     },
-    "comments": null,
     "type": "province"
   },
   "MPL": {
     "name": "Morobe",
     "code": "MPL",
-    "unofficial_names": "Morobe",
+    "unofficial_names": [
+      "Morobe"
+    ],
     "geo": {
       "latitude": -6.801373700000001,
       "longitude": 146.561647,
@@ -653,13 +631,14 @@
       "ca": "Morobe",
       "cy": "Talaith Morobe"
     },
-    "comments": null,
     "type": "province"
   },
   "MPM": {
     "name": "Madang",
     "code": "MPM",
-    "unofficial_names": "Madang",
+    "unofficial_names": [
+      "Madang"
+    ],
     "geo": {
       "latitude": -5.216667,
       "longitude": 145.8,
@@ -717,7 +696,6 @@
       "ca": "Madang",
       "cy": "Talaith Madang"
     },
-    "comments": null,
     "type": "province"
   },
   "MRL": {
@@ -784,13 +762,14 @@
       "cy": "Talaith Manus",
       "et": "Manusi provints"
     },
-    "comments": null,
     "type": "province"
   },
   "NCD": {
     "name": "National Capital District (Port Moresby)",
     "code": "NCD",
-    "unofficial_names": "National Capital District (Port Moresby)",
+    "unofficial_names": [
+      "National Capital District (Port Moresby)"
+    ],
     "geo": {
       "latitude": -9.443800399999999,
       "longitude": 147.1802671,
@@ -882,7 +861,6 @@
       "ps": "پورټ مورسب",
       "so": "Port Moresby"
     },
-    "comments": null,
     "type": "district"
   },
   "NIK": {
@@ -946,7 +924,6 @@
       "no": "Ny Irland provins",
       "ca": "Província de Nova Irlanda"
     },
-    "comments": null,
     "type": "province"
   },
   "NPP": {
@@ -1013,21 +990,11 @@
       "cy": "Talaith Oro",
       "he": "פרובינציית אורו"
     },
-    "comments": null,
     "type": "province"
   },
   "NSB": {
     "name": "Bougainville",
     "code": "NSB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بوغانفيل ذات الحكم الذاتي",
       "bg": "Автономен регион Бугенвил",
@@ -1085,7 +1052,6 @@
       "sr": "Аутономна покрајина Богенвил",
       "sr_Latn": "Autonomna pokrajina Bogenvil"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "SAN": {
@@ -1153,7 +1119,6 @@
       "ha": "Sandaun Province",
       "ha_NE": "Sandaun Province"
     },
-    "comments": null,
     "type": "province"
   },
   "SHM": {
@@ -1216,7 +1181,6 @@
       "no": "Sør høylands provins",
       "eu": "Hegoaldeko Lur Garaiak"
     },
-    "comments": null,
     "type": "province"
   },
   "WBK": {
@@ -1282,7 +1246,6 @@
       "ca": "West New Britain",
       "cs": "Západní Nová Británie"
     },
-    "comments": null,
     "type": "province"
   },
   "WHM": {
@@ -1346,7 +1309,6 @@
       "no": "Vest Høyland provins",
       "ca": "Western Highlands"
     },
-    "comments": null,
     "type": "province"
   },
   "WPD": {
@@ -1394,7 +1356,6 @@
       "fi": "Western Province",
       "ca": "Western"
     },
-    "comments": null,
     "type": "province"
   }
 }

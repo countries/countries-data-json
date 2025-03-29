@@ -2,7 +2,9 @@
   "C": {
     "name": "Centre",
     "code": "C",
-    "unofficial_names": "Centre",
+    "unofficial_names": [
+      "Centre"
+    ],
     "geo": {
       "latitude": 8.6586029,
       "longitude": 1.0586135,
@@ -57,13 +59,14 @@
       "he": "אזור המרכז",
       "sw": "Mkoa wa Kati, Togo"
     },
-    "comments": null,
     "type": "region"
   },
   "K": {
     "name": "Kara",
     "code": "K",
-    "unofficial_names": "Kara",
+    "unofficial_names": [
+      "Kara"
+    ],
     "geo": {
       "latitude": 9.548888999999999,
       "longitude": 1.190556,
@@ -119,13 +122,14 @@
       "he": "קארה (מחוז)",
       "sw": "Mkoa wa Kara, Togo"
     },
-    "comments": null,
     "type": "region"
   },
   "M": {
     "name": "Maritime (Région)",
     "code": "M",
-    "unofficial_names": "Maritime (Région)",
+    "unofficial_names": [
+      "Maritime (Région)"
+    ],
     "geo": {
       "latitude": 6.4913504,
       "longitude": 1.2891036,
@@ -182,13 +186,14 @@
       "he": "מאריטים",
       "sw": "Mkoa wa Maritime, Togo"
     },
-    "comments": null,
     "type": "region"
   },
   "P": {
     "name": "Plateaux",
     "code": "P",
-    "unofficial_names": "Plateaux",
+    "unofficial_names": [
+      "Plateaux"
+    ],
     "geo": {
       "latitude": 7.6101378,
       "longitude": 1.0586135,
@@ -242,13 +247,14 @@
       "he": "פלאטו (מחוז)",
       "sw": "Mkoa wa Plateaux, Togo"
     },
-    "comments": null,
     "type": "region"
   },
   "S": {
     "name": "Savannes",
     "code": "S",
-    "unofficial_names": "Savannes",
+    "unofficial_names": [
+      "Savannes"
+    ],
     "geo": {
       "latitude": 10.5291781,
       "longitude": 0.5257822999999999,
@@ -303,7 +309,6 @@
       "he": "סאבאנס",
       "sw": "Mkoa wa Savanes, Togo"
     },
-    "comments": null,
     "type": "region"
   }
 }

@@ -108,7 +108,6 @@
       "km": "ដូហា",
       "sd": "دوحہ"
     },
-    "comments": null,
     "type": "municipality"
   },
   "KH": {
@@ -172,7 +171,6 @@
       "no": "Al Khor",
       "ro": "Al Khor"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MS": {
@@ -233,7 +231,6 @@
       "ca": "Madinat ash Shamal",
       "ro": "Madinat ash Shamal"
     },
-    "comments": null,
     "type": "municipality"
   },
   "RA": {
@@ -301,14 +298,11 @@
       "cy": "Bwrdeistref Al Rayyan",
       "ro": "Al Rayyan"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SH": {
     "name": "الشحانية",
     "code": "SH",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "ar": "الشحانية",
       "fa": "شحانیه",
@@ -324,7 +318,6 @@
       "so": "Al-Shahaniya",
       "tr": "El Şahaniye"
     },
-    "comments": null,
     "type": "municipality"
   },
   "US": {
@@ -385,7 +378,6 @@
       "ro": "Umm Salal",
       "so": "Umm Salal"
     },
-    "comments": null,
     "type": "municipality"
   },
   "WA": {
@@ -451,21 +443,11 @@
       "cs": "Al Wakrah",
       "hu": "Al-Vakra"
     },
-    "comments": null,
     "type": "municipality"
   },
   "ZA": {
     "name": "بلدية الضعاين",
     "code": "ZA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "بلدية الضعاين",
       "bn": "আল দায়েন",
@@ -508,7 +490,6 @@
       "no": "Al Daayen",
       "ro": "Al Daayen"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

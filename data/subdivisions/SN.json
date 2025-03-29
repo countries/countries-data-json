@@ -2,7 +2,9 @@
   "DB": {
     "name": "Diourbel",
     "code": "DB",
-    "unofficial_names": "Diourbel",
+    "unofficial_names": [
+      "Diourbel"
+    ],
     "geo": {
       "latitude": 14.6561238,
       "longitude": -16.2345633,
@@ -62,13 +64,14 @@
       "ha_NE": "Yankin Diourbel",
       "sw": "Mkoa wa Diourbel"
     },
-    "comments": null,
     "type": "region"
   },
   "DK": {
     "name": "Dakar",
     "code": "DK",
-    "unofficial_names": "Dakar",
+    "unofficial_names": [
+      "Dakar"
+    ],
     "geo": {
       "latitude": 14.7645042,
       "longitude": -17.3660286,
@@ -127,13 +130,14 @@
       "hy": "Դակար",
       "sw": "Mkoa wa Dakar"
     },
-    "comments": null,
     "type": "region"
   },
   "FK": {
     "name": "Fatick",
     "code": "FK",
-    "unofficial_names": "Fatick",
+    "unofficial_names": [
+      "Fatick"
+    ],
     "geo": {
       "latitude": 14.333333,
       "longitude": -16.406944,
@@ -190,21 +194,11 @@
       "fa": "فتیک",
       "sw": "Mkoa wa Fatick"
     },
-    "comments": null,
     "type": "region"
   },
   "KA": {
     "name": "Kaffrine",
     "code": "KA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "اقليم كفرين",
       "bn": "ক্যাফ্রিন",
@@ -250,13 +244,14 @@
       "fa": "ناحیه کافرین",
       "sw": "Mkoa wa Kaffrine"
     },
-    "comments": null,
     "type": "region"
   },
   "KD": {
     "name": "Kolda",
     "code": "KD",
-    "unofficial_names": "Kolda",
+    "unofficial_names": [
+      "Kolda"
+    ],
     "geo": {
       "latitude": 12.883333,
       "longitude": -14.95,
@@ -315,21 +310,11 @@
       "he": "קולדה (מחוז בסנגל)",
       "sw": "Mkoa wa Kolda"
     },
-    "comments": null,
     "type": "region"
   },
   "KE": {
     "name": "Kédougou",
     "code": "KE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "كيدوغو",
       "bn": "কেদুগো",
@@ -375,13 +360,14 @@
       "fa": "کدوگو",
       "sw": "Mkoa wa Kedougou"
     },
-    "comments": null,
     "type": "region"
   },
   "KL": {
     "name": "Kaolack",
     "code": "KL",
-    "unofficial_names": "Kaolack",
+    "unofficial_names": [
+      "Kaolack"
+    ],
     "geo": {
       "latitude": 14.1652083,
       "longitude": -16.0757749,
@@ -436,13 +422,14 @@
       "fa": "ناحیه کائولاک",
       "sw": "Mkoa wa Kaolack"
     },
-    "comments": null,
     "type": "region"
   },
   "LG": {
     "name": "Louga",
     "code": "LG",
-    "unofficial_names": "Louga",
+    "unofficial_names": [
+      "Louga"
+    ],
     "geo": {
       "latitude": 15.616667,
       "longitude": -16.216667,
@@ -501,13 +488,14 @@
       "fa": "ناحیه لوگا",
       "sw": "Mkoa wa Louga"
     },
-    "comments": null,
     "type": "region"
   },
   "MT": {
     "name": "Matam",
     "code": "MT",
-    "unofficial_names": "Matam",
+    "unofficial_names": [
+      "Matam"
+    ],
     "geo": {
       "latitude": 15.6600225,
       "longitude": -13.2576906,
@@ -562,21 +550,11 @@
       "fa": "ناحیه متام",
       "sw": "Mkoa wa Matam"
     },
-    "comments": null,
     "type": "region"
   },
   "SE": {
     "name": "Sédhiou",
     "code": "SE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سيدهيو",
       "bn": "সেধিউ",
@@ -625,13 +603,14 @@
       "fa": "سدیو",
       "sw": "Mkoa wa Sedhiou"
     },
-    "comments": null,
     "type": "region"
   },
   "SL": {
     "name": "Saint-Louis",
     "code": "SL",
-    "unofficial_names": "Saint-Louis",
+    "unofficial_names": [
+      "Saint-Louis"
+    ],
     "geo": {
       "latitude": 16.0326307,
       "longitude": -16.4818167,
@@ -690,13 +669,14 @@
       "hy": "Սեն Լուի",
       "sw": "Mkoa wa Saint-Louis"
     },
-    "comments": null,
     "type": "region"
   },
   "TC": {
     "name": "Tambacounda",
     "code": "TC",
-    "unofficial_names": "Tambacounda",
+    "unofficial_names": [
+      "Tambacounda"
+    ],
     "geo": {
       "latitude": 13.768889,
       "longitude": -13.667222,
@@ -753,13 +733,14 @@
       "fa": "تامباوندا",
       "sw": "Mkoa wa Tambacounda"
     },
-    "comments": null,
     "type": "region"
   },
   "TH": {
     "name": "Thiès",
     "code": "TH",
-    "unofficial_names": "Thiès",
+    "unofficial_names": [
+      "Thiès"
+    ],
     "geo": {
       "latitude": 14.766667,
       "longitude": -16.9,
@@ -816,13 +797,14 @@
       "ca": "Thiès",
       "sw": "Mkoa wa Thies"
     },
-    "comments": null,
     "type": "region"
   },
   "ZG": {
     "name": "Ziguinchor",
     "code": "ZG",
-    "unofficial_names": "Ziguinchor",
+    "unofficial_names": [
+      "Ziguinchor"
+    ],
     "geo": {
       "latitude": 12.583333,
       "longitude": -16.266667,
@@ -878,7 +860,6 @@
       "no": "Ziguinchor",
       "sw": "Mkoa wa Ziguinchor"
     },
-    "comments": null,
     "type": "region"
   }
 }

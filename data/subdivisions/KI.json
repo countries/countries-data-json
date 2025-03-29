@@ -2,7 +2,9 @@
   "G": {
     "name": "Gilbert Islands",
     "code": "G",
-    "unofficial_names": "Gilbert Islands",
+    "unofficial_names": [
+      "Gilbert Islands"
+    ],
     "geo": {
       "latitude": -1.3611379,
       "longitude": 176.4521827,
@@ -67,20 +69,17 @@
       "hu": "Gilbert-szigetek",
       "sk": "Gilbertove ostrovy"
     },
-    "comments": null,
     "type": "group_of_islands"
   },
   "L": {
     "name": "Line Islands",
     "code": "L",
-    "unofficial_names": "Line Islands",
+    "unofficial_names": [
+      "Line Islands"
+    ],
     "geo": {
       "latitude": 0,
-      "longitude": -157,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -157
     },
     "translations": {
       "en": "Line Islands",
@@ -121,7 +120,6 @@
       "ccp": "𑄣𑄭𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴𑄥𑄴",
       "no": "Linjeøyene"
     },
-    "comments": null,
     "type": "group_of_islands"
   },
   "P": {
@@ -195,7 +193,6 @@
       "no": "Phoenixøyene",
       "hu": "Phoenix-szigetek"
     },
-    "comments": null,
     "type": "group_of_islands"
   }
 }

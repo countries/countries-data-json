@@ -2,7 +2,9 @@
   "A": {
     "name": "Niassa",
     "code": "A",
-    "unofficial_names": "Niassa",
+    "unofficial_names": [
+      "Niassa"
+    ],
     "geo": {
       "latitude": -12.7826202,
       "longitude": 36.6093926,
@@ -65,13 +67,14 @@
       "ps": "نیاسا",
       "zu": "Niassa (Isifundazwe)"
     },
-    "comments": null,
     "type": "province"
   },
   "B": {
     "name": "Manica",
     "code": "B",
-    "unofficial_names": "Manica",
+    "unofficial_names": [
+      "Manica"
+    ],
     "geo": {
       "latitude": -19.5059787,
       "longitude": 33.438353,
@@ -131,13 +134,14 @@
       "cy": "Talaith Manica",
       "he": "מניקה"
     },
-    "comments": null,
     "type": "province"
   },
   "G": {
     "name": "Gaza",
     "code": "G",
-    "unofficial_names": "Gaza",
+    "unofficial_names": [
+      "Gaza"
+    ],
     "geo": {
       "latitude": -23.0221928,
       "longitude": 32.7181375,
@@ -199,13 +203,14 @@
       "cy": "Talaith Gaza",
       "hy": "Գազա"
     },
-    "comments": null,
     "type": "province"
   },
   "I": {
     "name": "Inhambane",
     "code": "I",
-    "unofficial_names": "Inhambane",
+    "unofficial_names": [
+      "Inhambane"
+    ],
     "geo": {
       "latitude": -23.866667,
       "longitude": 35.383333,
@@ -264,13 +269,14 @@
       "no": "Inhambane",
       "cy": "Talaith Inhambane"
     },
-    "comments": null,
     "type": "province"
   },
   "L": {
     "name": "Maputo",
     "code": "L",
-    "unofficial_names": "Maputo",
+    "unofficial_names": [
+      "Maputo"
+    ],
     "geo": {
       "latitude": -25.966667,
       "longitude": 32.583333,
@@ -318,13 +324,14 @@
       "fa": "استان ماپوتو",
       "hy": "Մապուտո նահանգ"
     },
-    "comments": null,
     "type": "province"
   },
   "MPM": {
     "name": "Maputo City",
     "code": "MPM",
-    "unofficial_names": "Maputo City",
+    "unofficial_names": [
+      "Maputo City"
+    ],
     "geo": {
       "latitude": -25.966667,
       "longitude": 32.583333,
@@ -416,13 +423,14 @@
       "yo_BJ": "Maputo",
       "kk": "Мапуту"
     },
-    "comments": null,
     "type": "city"
   },
   "N": {
     "name": "Nampula",
     "code": "N",
-    "unofficial_names": "Nampula",
+    "unofficial_names": [
+      "Nampula"
+    ],
     "geo": {
       "latitude": -15.116667,
       "longitude": 39.266667,
@@ -481,13 +489,14 @@
       "cy": "Talaith Nampula",
       "he": "מחוז נמפולה"
     },
-    "comments": null,
     "type": "province"
   },
   "P": {
     "name": "Cabo Delgado",
     "code": "P",
-    "unofficial_names": "Cabo Delgado",
+    "unofficial_names": [
+      "Cabo Delgado"
+    ],
     "geo": {
       "latitude": -12.3335474,
       "longitude": 39.3206241,
@@ -551,13 +560,14 @@
       "hu": "Cabo Delgado",
       "ml": "ക്യാബോ ദെൽഗാഡോ പ്രവിശ്യ"
     },
-    "comments": null,
     "type": "province"
   },
   "Q": {
     "name": "Zambézia",
     "code": "Q",
-    "unofficial_names": "Zambézia",
+    "unofficial_names": [
+      "Zambézia"
+    ],
     "geo": {
       "latitude": -16.5638987,
       "longitude": 36.6093926,
@@ -615,13 +625,14 @@
       "no": "Zambezia",
       "cy": "Talaith Zambezia"
     },
-    "comments": null,
     "type": "province"
   },
   "S": {
     "name": "Sofala",
     "code": "S",
-    "unofficial_names": "Sofala",
+    "unofficial_names": [
+      "Sofala"
+    ],
     "geo": {
       "latitude": -19.2039073,
       "longitude": 34.8624166,
@@ -681,13 +692,14 @@
       "cy": "Talaith Sofala",
       "he": "מחוז סופאלה"
     },
-    "comments": null,
     "type": "province"
   },
   "T": {
     "name": "Tete",
     "code": "T",
-    "unofficial_names": "Tete",
+    "unofficial_names": [
+      "Tete"
+    ],
     "geo": {
       "latitude": -16.166667,
       "longitude": 33.6,
@@ -747,7 +759,6 @@
       "ccp": "𑄑𑄬𑄑𑄬",
       "no": "Tete"
     },
-    "comments": null,
     "type": "province"
   }
 }

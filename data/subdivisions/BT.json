@@ -66,7 +66,6 @@
       "ca": "Districte de Paro",
       "no": "Paro"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
@@ -137,7 +136,6 @@
       "no": "Chukha",
       "he": "צ׳וקה"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
@@ -204,7 +202,6 @@
       "ca": "Districte de Haa",
       "no": "Haa"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
@@ -272,7 +269,6 @@
       "no": "Samtse",
       "mk": "Самце (џонгхаг)"
     },
-    "comments": null,
     "type": "district"
   },
   "15": {
@@ -346,7 +342,6 @@
       "ccp": "𑄗𑄨𑄟𑄴𑄜𑄪",
       "no": "Thimphu distrikt"
     },
-    "comments": null,
     "type": "district"
   },
   "21": {
@@ -395,7 +390,6 @@
       "he": "מחוז טסירנג",
       "id": "Distrik Tsirang"
     },
-    "comments": null,
     "type": "district"
   },
   "22": {
@@ -445,13 +439,14 @@
       "bn": "দাগানা জেলা",
       "id": "Distrik Dagana"
     },
-    "comments": null,
     "type": "district"
   },
   "23": {
     "name": "Punakha",
     "code": "23",
-    "unofficial_names": "Punakha",
+    "unofficial_names": [
+      "Punakha"
+    ],
     "geo": {
       "latitude": 27.5920869,
       "longitude": 89.87974589999999,
@@ -511,7 +506,6 @@
       "fa": "ناحیه پوناخا",
       "he": "פונקה"
     },
-    "comments": null,
     "type": "district"
   },
   "24": {
@@ -581,7 +575,6 @@
       "no": "Wangdue Phodrang",
       "fa": "ناحیه وانگدودودرنگ"
     },
-    "comments": null,
     "type": "district"
   },
   "31": {
@@ -635,7 +628,6 @@
       "id": "Distrik Sarpang",
       "ml": "സർപംഗ് ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "32": {
@@ -700,13 +692,14 @@
       "ca": "Districte de Trongsa",
       "he": "טונגסה"
     },
-    "comments": null,
     "type": "district"
   },
   "33": {
     "name": "Bumthang",
     "code": "33",
-    "unofficial_names": "Bumthang",
+    "unofficial_names": [
+      "Bumthang"
+    ],
     "geo": {
       "latitude": 27.641839,
       "longitude": 90.6773046,
@@ -768,7 +761,6 @@
       "no": "Bumthang",
       "sl": "Okraj Bumtang"
     },
-    "comments": null,
     "type": "district"
   },
   "34": {
@@ -833,7 +825,6 @@
       "fa": "ناحیه ژهمگانگ",
       "ml": "ഴെംഗാങ്"
     },
-    "comments": null,
     "type": "district"
   },
   "41": {
@@ -899,7 +890,6 @@
       "he": "טשיגנג",
       "my": "တြာရှီဂန်ခရိုင်"
     },
-    "comments": null,
     "type": "district"
   },
   "42": {
@@ -963,7 +953,6 @@
       "ca": "Districte de Mongar",
       "no": "Mongar"
     },
-    "comments": null,
     "type": "district"
   },
   "43": {
@@ -1028,7 +1017,6 @@
       "no": "Pemagatshel",
       "ml": "പെമാഗാറ്റ്ഷെൽ"
     },
-    "comments": null,
     "type": "district"
   },
   "44": {
@@ -1094,7 +1082,6 @@
       "ca": "Districte de Lhuntse",
       "no": "Lhuntse"
     },
-    "comments": null,
     "type": "district"
   },
   "45": {
@@ -1160,7 +1147,6 @@
       "no": "Samdrup Jongkhar",
       "my": "ဆမ်ဒြပ်ဂျုံခါရ် ခရိုင်"
     },
-    "comments": null,
     "type": "district"
   },
   "GA": {
@@ -1224,7 +1210,6 @@
       "ca": "Districte de Gasa",
       "no": "Gasa"
     },
-    "comments": null,
     "type": "district"
   },
   "TY": {
@@ -1289,7 +1274,6 @@
       "ca": "Districte de Trashiyamgtse",
       "no": "Trashiyangtse"
     },
-    "comments": null,
     "type": "district"
   }
 }

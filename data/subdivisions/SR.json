@@ -2,7 +2,9 @@
   "BR": {
     "name": "Brokopondo",
     "code": "BR",
-    "unofficial_names": "Brokopondo",
+    "unofficial_names": [
+      "Brokopondo"
+    ],
     "geo": {
       "latitude": 4.7710247,
       "longitude": -55.0493375,
@@ -58,13 +60,14 @@
       "jv": "Dhistrik Brokopondo",
       "mk": "Брокопондо (округ)"
     },
-    "comments": null,
     "type": "district"
   },
   "CM": {
     "name": "Commewijne",
     "code": "CM",
-    "unofficial_names": "Commewijne",
+    "unofficial_names": [
+      "Commewijne"
+    ],
     "geo": {
       "latitude": 5.740211,
       "longitude": -54.8731219,
@@ -117,13 +120,14 @@
       "ccp": "𑄇𑄧𑄟𑄬𑄅𑄪𑄃𑄨𑄌𑄴𑄚𑄬",
       "no": "Commewijne"
     },
-    "comments": null,
     "type": "district"
   },
   "CR": {
     "name": "Coronie",
     "code": "CR",
-    "unofficial_names": "Coronie",
+    "unofficial_names": [
+      "Coronie"
+    ],
     "geo": {
       "latitude": 5.6943271,
       "longitude": -56.2929381,
@@ -177,13 +181,14 @@
       "ca": "Coronie",
       "cs": "Coronie"
     },
-    "comments": null,
     "type": "district"
   },
   "MA": {
     "name": "Marowijne",
     "code": "MA",
-    "unofficial_names": "Marowijne",
+    "unofficial_names": [
+      "Marowijne"
+    ],
     "geo": {
       "latitude": 5.6268128,
       "longitude": -54.25931180000001,
@@ -236,13 +241,14 @@
       "no": "Marowijne",
       "ca": "Marowijne"
     },
-    "comments": null,
     "type": "district"
   },
   "NI": {
     "name": "Nickerie",
     "code": "NI",
-    "unofficial_names": "Nickerie",
+    "unofficial_names": [
+      "Nickerie"
+    ],
     "geo": {
       "latitude": 5.5855469,
       "longitude": -56.83111169999999,
@@ -294,13 +300,14 @@
       "ccp": "𑄚𑄨𑄇𑄬𑄢𑄭",
       "no": "Nickerie"
     },
-    "comments": null,
     "type": "district"
   },
   "PM": {
     "name": "Paramaribo",
     "code": "PM",
-    "unofficial_names": "Paramaribo",
+    "unofficial_names": [
+      "Paramaribo"
+    ],
     "geo": {
       "latitude": 5.8520355,
       "longitude": -55.2038278,
@@ -343,13 +350,14 @@
       "lv": "Paramaribo apgabals",
       "mk": "Парамарибо (округ)"
     },
-    "comments": null,
     "type": "district"
   },
   "PR": {
     "name": "Para",
     "code": "PR",
-    "unofficial_names": "Para",
+    "unofficial_names": [
+      "Para"
+    ],
     "geo": {
       "latitude": 5.481731799999999,
       "longitude": -55.2259207,
@@ -404,13 +412,14 @@
       "jv": "Dhistrik Para",
       "mk": "Пара (округ)"
     },
-    "comments": null,
     "type": "district"
   },
   "SA": {
     "name": "Saramacca",
     "code": "SA",
-    "unofficial_names": "Saramacca",
+    "unofficial_names": [
+      "Saramacca"
+    ],
     "geo": {
       "latitude": 5.7240813,
       "longitude": -55.6689636,
@@ -464,13 +473,14 @@
       "ca": "Saramacca",
       "jv": "Dhistrik Saramacca"
     },
-    "comments": null,
     "type": "district"
   },
   "SI": {
     "name": "Sipaliwini",
     "code": "SI",
-    "unofficial_names": "Sipaliwini",
+    "unofficial_names": [
+      "Sipaliwini"
+    ],
     "geo": {
       "latitude": 2.0331027,
       "longitude": -56.1337552,
@@ -524,13 +534,14 @@
       "hy": "Սիպալիվինի",
       "jv": "Dhistrik Sipaliwini"
     },
-    "comments": null,
     "type": "district"
   },
   "WA": {
     "name": "Wanica",
     "code": "WA",
-    "unofficial_names": "Wanica",
+    "unofficial_names": [
+      "Wanica"
+    ],
     "geo": {
       "latitude": 5.7323762,
       "longitude": -55.2701235,
@@ -585,7 +596,6 @@
       "ca": "Wanica",
       "no": "Wanica"
     },
-    "comments": null,
     "type": "district"
   }
 }

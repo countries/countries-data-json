@@ -2,7 +2,9 @@
   "ALK": {
     "name": "Ailuk",
     "code": "ALK",
-    "unofficial_names": "Ailuk",
+    "unofficial_names": [
+      "Ailuk"
+    ],
     "geo": {
       "latitude": 10.304809,
       "longitude": 169.9416549,
@@ -38,7 +40,6 @@
       "id": "Atol Ailuk",
       "ur": "آئلوک جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "ALL": {
@@ -49,11 +50,7 @@
     ],
     "geo": {
       "latitude": 7.283333300000001,
-      "longitude": 168.7833333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 168.7833333
     },
     "translations": {
       "en": "Ailinglaplap Atoll",
@@ -86,20 +83,17 @@
       "id": "Atol Ailinglaplap",
       "ur": "آئلینگ لاپ لاپ جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "ARN": {
     "name": "Arno",
     "code": "ARN",
-    "unofficial_names": "Arno",
+    "unofficial_names": [
+      "Arno"
+    ],
     "geo": {
       "latitude": 7.063888899999999,
-      "longitude": 171.5583332,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 171.5583332
     },
     "translations": {
       "en": "Arno",
@@ -127,13 +121,14 @@
       "id": "Atol Arno",
       "ur": "آرنو جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "AUR": {
     "name": "Aur",
     "code": "AUR",
-    "unofficial_names": "Aur",
+    "unofficial_names": [
+      "Aur"
+    ],
     "geo": {
       "latitude": 8.2750905,
       "longitude": 171.0975397,
@@ -168,7 +163,6 @@
       "ca": "Aur",
       "ur": "آور جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "EBO": {
@@ -213,7 +207,6 @@
       "id": "Atol Ebon",
       "ur": "ایبون جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "ENI": {
@@ -268,7 +261,6 @@
       "eu": "Enewetak",
       "ur": "اینیویٹک جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "JAB": {
@@ -279,11 +271,7 @@
     ],
     "geo": {
       "latitude": 7.7517,
-      "longitude": 168.9767,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 168.9767
     },
     "translations": {
       "en": "Jabat Island",
@@ -310,7 +298,6 @@
       "id": "Pulau Jabat",
       "ur": "جزیرہ جابات"
     },
-    "comments": null,
     "type": "municipality"
   },
   "JAL": {
@@ -358,7 +345,6 @@
       "id": "Atol Jaluit",
       "ur": "جالویت جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "KIL": {
@@ -401,7 +387,6 @@
       "sv": "Kiliön",
       "ur": "جزیرہ کیکی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "KWA": {
@@ -459,21 +444,11 @@
       "id": "Atol Kwajalein",
       "ur": "کواجالئین جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "L": {
     "name": "Ralik Chain",
     "code": "L",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "راليك تشين",
       "bn": "রালিকচেইন",
@@ -520,13 +495,14 @@
       "mk": "Ралички Острови",
       "no": "Ralik-kjeden"
     },
-    "comments": null,
     "type": "chain_of_islands"
   },
   "LAE": {
     "name": "Lae",
     "code": "LAE",
-    "unofficial_names": "Lae",
+    "unofficial_names": [
+      "Lae"
+    ],
     "geo": {
       "latitude": 8.9411081,
       "longitude": 166.2363248,
@@ -561,7 +537,6 @@
       "id": "Atol Lae",
       "ur": "لاے جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "LIB": {
@@ -602,20 +577,17 @@
       "id": "Pulau Lib",
       "ur": "جزیرہ لب"
     },
-    "comments": null,
     "type": "municipality"
   },
   "LIK": {
     "name": "Likiep",
     "code": "LIK",
-    "unofficial_names": "Likiep",
+    "unofficial_names": [
+      "Likiep"
+    ],
     "geo": {
       "latitude": 9.816944399999999,
-      "longitude": 169.3052778,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 169.3052778
     },
     "translations": {
       "en": "Likiep Atoll",
@@ -643,7 +615,6 @@
       "pt": "Likiep",
       "ur": "لیکئپ جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MAJ": {
@@ -734,13 +705,14 @@
       "ml": "മാജുറോ",
       "ps": "ماجورو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MAL": {
     "name": "Maloelap",
     "code": "MAL",
-    "unofficial_names": "Maloelap",
+    "unofficial_names": [
+      "Maloelap"
+    ],
     "geo": {
       "latitude": 8.7735171,
       "longitude": 171.0312989,
@@ -778,7 +750,6 @@
       "uk": "Малоелап",
       "ur": "مالوئلاپ جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MEJ": {
@@ -819,13 +790,14 @@
       "id": "Pulau Mejit",
       "ur": "جزیرہ میجیت"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MIL": {
     "name": "Mili",
     "code": "MIL",
-    "unofficial_names": "Mili",
+    "unofficial_names": [
+      "Mili"
+    ],
     "geo": {
       "latitude": 6.1339492,
       "longitude": 171.909826,
@@ -860,13 +832,14 @@
       "id": "Atol Mili",
       "ur": "میلی جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "NMK": {
     "name": "Namorik",
     "code": "NMK",
-    "unofficial_names": "Namorik",
+    "unofficial_names": [
+      "Namorik"
+    ],
     "geo": {
       "latitude": 5.6172553,
       "longitude": 168.1293615,
@@ -901,7 +874,6 @@
       "id": "Atol Namorik",
       "ur": "نامدریک جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "NMU": {
@@ -945,13 +917,14 @@
       "id": "Atol Namu",
       "ur": "نامو جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "RON": {
     "name": "Rongelap",
     "code": "RON",
-    "unofficial_names": "Rongelap",
+    "unofficial_names": [
+      "Rongelap"
+    ],
     "geo": {
       "latitude": 11.3603915,
       "longitude": 166.7798172,
@@ -992,21 +965,11 @@
       "id": "Atol Rongelap",
       "ur": "رونگیلاپ جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "T": {
     "name": "Ratak Chain",
     "code": "T",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سلسلة راتاك",
       "bn": "রাতাক চেইন",
@@ -1054,13 +1017,14 @@
       "mk": "Ратачки Острови",
       "no": "Ratak Chain"
     },
-    "comments": null,
     "type": "chain_of_islands"
   },
   "UJA": {
     "name": "Ujae",
     "code": "UJA",
-    "unofficial_names": "Ujae",
+    "unofficial_names": [
+      "Ujae"
+    ],
     "geo": {
       "latitude": 9.0582174,
       "longitude": 165.6440842,
@@ -1094,25 +1058,21 @@
       "ca": "Ujae",
       "ur": "اوجئے جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "UJL": {
     "name": "Ujelang",
     "code": "UJL",
-    "unofficial_names": "Ujelang",
+    "unofficial_names": [
+      "Ujelang"
+    ],
     "geo": {
       "latitude": 9.77,
-      "longitude": 160.9752777,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 160.9752777
     },
     "translations": {
       "en": "Ujelang"
     },
-    "comments": null,
     "type": "municipality"
   },
   "UTI": {
@@ -1159,7 +1119,6 @@
       "id": "Atol Utirik",
       "ur": "اوتیریک جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "WTH": {
@@ -1200,20 +1159,17 @@
       "ca": "Wotho",
       "ur": "ووتھو جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   },
   "WTJ": {
     "name": "Wotje",
     "code": "WTJ",
-    "unofficial_names": "Wotje",
+    "unofficial_names": [
+      "Wotje"
+    ],
     "geo": {
       "latitude": 9.452366999999999,
-      "longitude": 170.237213,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 170.237213
     },
     "translations": {
       "en": "Wotje Atoll",
@@ -1240,7 +1196,6 @@
       "id": "Atol Wotje",
       "ur": "واتجے جزیرہ مرجانی"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

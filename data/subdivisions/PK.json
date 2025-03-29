@@ -2,7 +2,9 @@
   "BA": {
     "name": "Baluchistan (en)",
     "code": "BA",
-    "unofficial_names": "Baluchistan (en)",
+    "unofficial_names": [
+      "Baluchistan (en)"
+    ],
     "geo": {
       "latitude": 28.4907332,
       "longitude": 65.0957792,
@@ -79,21 +81,11 @@
       "ky": "Балучистан (Пакистан)",
       "sq": "Baloçistan, Pakistan"
     },
-    "comments": null,
     "type": "province"
   },
   "GB": {
     "name": "Gilgit-Baltistan",
     "code": "GB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "غلغت-بلتستان",
       "bg": "Северна провинция",
@@ -154,13 +146,14 @@
       "ky": "Гилгит-Балтистан",
       "sl": "Gilgit-Baltistan"
     },
-    "comments": null,
     "type": "pakistan_administered_area"
   },
   "IS": {
     "name": "Islamabad",
     "code": "IS",
-    "unofficial_names": "Islamabad",
+    "unofficial_names": [
+      "Islamabad"
+    ],
     "geo": {
       "latitude": 33.7293882,
       "longitude": 73.0931461,
@@ -208,13 +201,14 @@
       "sd": "اسلام آبادجو وفاقي گاديءَ وارو علائقو",
       "sv": "Huvudstadsregionen Islamabad"
     },
-    "comments": null,
     "type": "federal_capital_territory"
   },
   "JK": {
     "name": "Azad Kashmir",
     "code": "JK",
-    "unofficial_names": "Azad Kashmir",
+    "unofficial_names": [
+      "Azad Kashmir"
+    ],
     "geo": {
       "latitude": 33.8866588,
       "longitude": 73.93598209999999,
@@ -283,21 +277,11 @@
       "hr": "Azad Kašmir",
       "sl": "Azad Kašmir"
     },
-    "comments": null,
     "type": "pakistan_administered_area"
   },
   "KP": {
     "name": "Khyber Pakhtunkhwa",
     "code": "KP",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "خیبر بختونخوا",
       "bg": "Северозападна погранична провинция",
@@ -358,13 +342,14 @@
       "hy": "Խյբեր Փախթունխվա",
       "ro": "Khyber Pakhtunkhwa"
     },
-    "comments": null,
     "type": "province"
   },
   "PB": {
     "name": "Punjab",
     "code": "PB",
-    "unofficial_names": "Punjab",
+    "unofficial_names": [
+      "Punjab"
+    ],
     "geo": {
       "latitude": 31.1704063,
       "longitude": 72.7097161,
@@ -443,13 +428,14 @@
       "my": "ပန်ဂျပ်၊ ပါကစ္စတန်",
       "uz": "Panjob (viloyat)"
     },
-    "comments": null,
     "type": "province"
   },
   "SD": {
     "name": "Sind (en)",
     "code": "SD",
-    "unofficial_names": "Sind (en)",
+    "unofficial_names": [
+      "Sind (en)"
+    ],
     "geo": {
       "latitude": 25.8943018,
       "longitude": 68.52471489999999,
@@ -531,7 +517,6 @@
       "yo_BJ": "Sindh",
       "az": "Sind əyaləti"
     },
-    "comments": null,
     "type": "province"
   }
 }

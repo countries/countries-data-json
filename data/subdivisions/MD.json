@@ -2,15 +2,6 @@
   "AN": {
     "name": "Anenii Noi",
     "code": "AN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة أنيني نوي",
       "bg": "Новоаненски район",
@@ -61,13 +52,14 @@
       "az": "Novoannen rayonu",
       "mk": "Нови Анени (реон)"
     },
-    "comments": null,
     "type": "district"
   },
   "BA": {
     "name": "Balti",
     "code": "BA",
-    "unofficial_names": "Balti",
+    "unofficial_names": [
+      "Balti"
+    ],
     "geo": {
       "latitude": 47.7539947,
       "longitude": 27.9184148,
@@ -146,21 +138,11 @@
       "mk": "Белци",
       "no": "Bălți"
     },
-    "comments": null,
     "type": "city"
   },
   "BD": {
     "name": "Bender [Tighina]",
     "code": "BD",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Bender",
       "ar": "بيندر، مولدوفيا",
@@ -236,21 +218,11 @@
       "no": "Bender",
       "yo_BJ": "Bender"
     },
-    "comments": null,
     "type": "city"
   },
   "BR": {
     "name": "Briceni",
     "code": "BR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بريسيني",
       "bg": "Бриченски район",
@@ -303,21 +275,11 @@
       "fa": "ناحیه بریسنی",
       "mk": "Бричени (реон)"
     },
-    "comments": null,
     "type": "district"
   },
   "BS": {
     "name": "Basarabeasca",
     "code": "BS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة باسارابيسكا",
       "bg": "Бесарабски район",
@@ -368,13 +330,14 @@
       "no": "Basarabeasca",
       "mk": "Бесарабјаска (реон)"
     },
-    "comments": null,
     "type": "district"
   },
   "CA": {
     "name": "Cahul",
     "code": "CA",
-    "unofficial_names": "Cahul",
+    "unofficial_names": [
+      "Cahul"
+    ],
     "geo": {
       "latitude": 45.8939404,
       "longitude": 28.1890275,
@@ -431,21 +394,11 @@
       "ccp": "𑄇𑄦𑄪𑄣𑄴",
       "no": "Cahul"
     },
-    "comments": null,
     "type": "district"
   },
   "CL": {
     "name": "Călărași",
     "code": "CL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كالاراسي",
       "be": "Каларашскі раён",
@@ -496,21 +449,11 @@
       "no": "Călărași",
       "he": "קלראש (נפה)"
     },
-    "comments": null,
     "type": "district"
   },
   "CM": {
     "name": "Cimișlia",
     "code": "CM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة تشيميشليا",
       "bg": "Чимишлийски район",
@@ -558,21 +501,11 @@
       "ccp": "𑄥𑄨𑄟𑄨𑄌𑄴𑄣𑄨𑄠",
       "no": "Cimișlia"
     },
-    "comments": null,
     "type": "district"
   },
   "CR": {
     "name": "Criuleni",
     "code": "CR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كريوليني",
       "bg": "Криуленски район",
@@ -620,21 +553,11 @@
       "no": "Criuleni",
       "fa": "ناحیه کریولنی"
     },
-    "comments": null,
     "type": "district"
   },
   "CS": {
     "name": "Căușeni",
     "code": "CS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كوسيني",
       "bg": "Каушенски район",
@@ -684,21 +607,11 @@
       "az": "Kauşanski rayonu",
       "gl": "Distrito de Căușeni"
     },
-    "comments": null,
     "type": "district"
   },
   "CT": {
     "name": "Cantemir",
     "code": "CT",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كانتيمير",
       "bg": "Кантемирски район",
@@ -749,20 +662,17 @@
       "az": "Kantemir rayonu",
       "fa": "ناحیه کانتمیر"
     },
-    "comments": null,
     "type": "district"
   },
   "CU": {
     "name": "Chisinau",
     "code": "CU",
-    "unofficial_names": "Chisinau",
+    "unofficial_names": [
+      "Chisinau"
+    ],
     "geo": {
       "latitude": 47.0240102,
-      "longitude": 28.8313156,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 28.8313156
     },
     "translations": {
       "en": "Chișinău",
@@ -843,21 +753,11 @@
       "no": "Chișinău",
       "yo_BJ": "Chişinău"
     },
-    "comments": null,
     "type": "city"
   },
   "DO": {
     "name": "Dondușeni",
     "code": "DO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة دوندوسيني",
       "bg": "Дондушенски район",
@@ -905,21 +805,11 @@
       "no": "Dondușeni",
       "be": "Дандзюшанскі раён"
     },
-    "comments": null,
     "type": "district"
   },
   "DR": {
     "name": "Drochia",
     "code": "DR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة دروتشيا",
       "bg": "Дрокиевски район",
@@ -969,21 +859,11 @@
       "az": "Drokievsk rayonu",
       "fa": "ناحیه دروچیا"
     },
-    "comments": null,
     "type": "district"
   },
   "DU": {
     "name": "Dubăsari",
     "code": "DU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة دوباساري",
       "bg": "Дубосарски район",
@@ -1033,13 +913,14 @@
       "az": "Dubasari rayonu",
       "fa": "ناحیه دوبوساری"
     },
-    "comments": null,
     "type": "district"
   },
   "ED": {
     "name": "Edinet",
     "code": "ED",
-    "unofficial_names": "Edinet",
+    "unofficial_names": [
+      "Edinet"
+    ],
     "geo": {
       "latitude": 48.1678991,
       "longitude": 27.2936143,
@@ -1095,21 +976,11 @@
       "no": "Edineț",
       "be": "Едзінецкі раён"
     },
-    "comments": null,
     "type": "district"
   },
   "FA": {
     "name": "Fălești",
     "code": "FA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة فاليستي",
       "bg": "Фалещки район",
@@ -1158,21 +1029,11 @@
       "no": "Fălești",
       "az": "Faleşt rayonu"
     },
-    "comments": null,
     "type": "district"
   },
   "FL": {
     "name": "Florești",
     "code": "FL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة فلوريستي",
       "be": "Фларэшцкі раён",
@@ -1222,21 +1083,14 @@
       "no": "Florești",
       "fa": "ناحیه فلورشتی"
     },
-    "comments": null,
     "type": "district"
   },
   "GA": {
     "name": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
     "code": "GA",
-    "unofficial_names": "Gagauzia, Unitate Teritoriala Autonoma (UTAG)",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Gagauzia, Unitate Teritoriala Autonoma (UTAG)"
+    ],
     "translations": {
       "en": "Gagauzia",
       "af": "Gagausië",
@@ -1303,21 +1157,11 @@
       "tk": "Gagauzystan",
       "no": "Gagaus"
     },
-    "comments": null,
     "type": "autonomous_territorial_unit"
   },
   "GL": {
     "name": "Glodeni",
     "code": "GL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة غلوديني",
       "bg": "Голденски район",
@@ -1366,21 +1210,11 @@
       "no": "Glodeni",
       "fa": "ناحیه گلودنی"
     },
-    "comments": null,
     "type": "district"
   },
   "HI": {
     "name": "Hîncești",
     "code": "HI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة هينسيستي",
       "bg": "Хънчещки район",
@@ -1430,21 +1264,11 @@
       "az": "Hinçesti rayonu",
       "be": "Хынчэшцкі раён"
     },
-    "comments": null,
     "type": "district"
   },
   "IA": {
     "name": "Ialoveni",
     "code": "IA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة إيلوفيني",
       "bg": "Яловенски район",
@@ -1493,21 +1317,11 @@
       "no": "Ialoveni",
       "fa": "ناحیه ایالوونی"
     },
-    "comments": null,
     "type": "district"
   },
   "LE": {
     "name": "Leova",
     "code": "LE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ليوفا",
       "bg": "Леовски район",
@@ -1555,21 +1369,11 @@
       "ccp": "𑄣𑄨𑄃𑄮𑄞",
       "no": "Leova"
     },
-    "comments": null,
     "type": "district"
   },
   "NI": {
     "name": "Nisporeni",
     "code": "NI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نيسبوريني",
       "bg": "Ниспоренски район",
@@ -1617,21 +1421,11 @@
       "no": "Nisporeni",
       "fa": "ناحیه نیسپورنی"
     },
-    "comments": null,
     "type": "district"
   },
   "OC": {
     "name": "Ocnița",
     "code": "OC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة أونيتا",
       "bg": "Окницки район",
@@ -1680,13 +1474,14 @@
       "no": "Ocnița",
       "be": "Окніцкі раён"
     },
-    "comments": null,
     "type": "district"
   },
   "OR": {
     "name": "Orhei",
     "code": "OR",
-    "unofficial_names": "Orhei",
+    "unofficial_names": [
+      "Orhei"
+    ],
     "geo": {
       "latitude": 47.383333,
       "longitude": 28.816667,
@@ -1743,21 +1538,11 @@
       "no": "Orhei",
       "fa": "ناحیه اورهئی"
     },
-    "comments": null,
     "type": "district"
   },
   "RE": {
     "name": "Rezina",
     "code": "RE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ريزاينا",
       "bg": "Резински район",
@@ -1805,21 +1590,11 @@
       "no": "Rezina",
       "fa": "ناحیه رزینا"
     },
-    "comments": null,
     "type": "district"
   },
   "RI": {
     "name": "Rîșcani",
     "code": "RI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة روشكاني",
       "bg": "Ръшкански район",
@@ -1868,21 +1643,11 @@
       "no": "Rîșcani",
       "fa": "ناحیه ریچانی"
     },
-    "comments": null,
     "type": "district"
   },
   "SD": {
     "name": "Șoldănești",
     "code": "SD",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة شولدانيشتي",
       "bg": "Шолданещки район",
@@ -1932,21 +1697,11 @@
       "no": "Șoldănești",
       "hu": "Șoldănești járás"
     },
-    "comments": null,
     "type": "district"
   },
   "SI": {
     "name": "Sîngerei",
     "code": "SI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة سونجري",
       "bg": "Сънджерейски район",
@@ -1994,21 +1749,14 @@
       "no": "Sîngerei",
       "be": "Сынжарэйскі раён"
     },
-    "comments": null,
     "type": "district"
   },
   "SN": {
     "name": "Stînga Nistrului, unitatea teritoriala din",
     "code": "SN",
-    "unofficial_names": "Stînga Nistrului, unitatea teritoriala din",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Stînga Nistrului, unitatea teritoriala din"
+    ],
     "translations": {
       "en": "Transnistria",
       "be": "Аўтаномнае тэрытарыяльнае ўтварэнне з асаблівым прававым статусам Прыднястроўе",
@@ -2030,13 +1778,14 @@
       "et": "Dnestri vasakkalda autonoomne territoriaalüksus",
       "fa": "واحدهای اداری-سرزمینی کرانه چپ دنیستر"
     },
-    "comments": null,
     "type": "territorial_unit"
   },
   "SO": {
     "name": "Soroca",
     "code": "SO",
-    "unofficial_names": "Soroca",
+    "unofficial_names": [
+      "Soroca"
+    ],
     "geo": {
       "latitude": 48.166667,
       "longitude": 28.3,
@@ -2095,21 +1844,11 @@
       "fa": "ناحیه سوروکا",
       "mk": "Сорока (реон)"
     },
-    "comments": null,
     "type": "district"
   },
   "ST": {
     "name": "Strășeni",
     "code": "ST",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ستراسيني",
       "be": "Страшэнскі раён",
@@ -2157,21 +1896,11 @@
       "ccp": "𑄑𑄳𑄢𑄥𑄬𑄚𑄨",
       "no": "Strășeni"
     },
-    "comments": null,
     "type": "district"
   },
   "SV": {
     "name": "Ștefan Vodă",
     "code": "SV",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ستيفان فودا",
       "bg": "Щефанводски район",
@@ -2220,13 +1949,14 @@
       "no": "Ștefan Vodă",
       "mk": "Штефан Вода (реон)"
     },
-    "comments": null,
     "type": "district"
   },
   "TA": {
     "name": "Taraclia",
     "code": "TA",
-    "unofficial_names": "Taraclia",
+    "unofficial_names": [
+      "Taraclia"
+    ],
     "geo": {
       "latitude": 46.5703,
       "longitude": 29.11559999999999,
@@ -2284,21 +2014,11 @@
       "et": "Taraclia rajoon",
       "fa": "ناحیه تاراکلیا"
     },
-    "comments": null,
     "type": "district"
   },
   "TE": {
     "name": "Telenești",
     "code": "TE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة تيلينيشتي",
       "bg": "Телнещки район",
@@ -2346,13 +2066,14 @@
       "be": "Целянешцкі раён",
       "no": "Telenești"
     },
-    "comments": null,
     "type": "district"
   },
   "UN": {
     "name": "Ungheni",
     "code": "UN",
-    "unofficial_names": "Ungheni",
+    "unofficial_names": [
+      "Ungheni"
+    ],
     "geo": {
       "latitude": 47.216667,
       "longitude": 27.816667,
@@ -2409,7 +2130,6 @@
       "ccp": "𑄃𑄚𑄴𑄊𑄬𑄚𑄨",
       "no": "Ungheni"
     },
-    "comments": null,
     "type": "district"
   }
 }

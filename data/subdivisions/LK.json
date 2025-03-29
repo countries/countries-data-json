@@ -2,15 +2,6 @@
   "1": {
     "name": "බස්නාහිර පළාත, ශ් රී ලංකාව",
     "code": "1",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Западна провинция",
       "de": "Westprovinz",
@@ -47,7 +38,6 @@
       "pt": "Província Ocidental",
       "tr": "Batı Eyaleti"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
@@ -102,13 +92,14 @@
       "ml": "കൊളംബോ ജില്ല",
       "pl": "Kolombo (dystrykt)"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Gampaha",
     "code": "12",
-    "unofficial_names": "Gampaha",
+    "unofficial_names": [
+      "Gampaha"
+    ],
     "geo": {
       "latitude": 7.0873101,
       "longitude": 80.01436559999999,
@@ -160,13 +151,14 @@
       "no": "Gampaha distrikt",
       "ml": "ഗമ്പഹ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
     "name": "Kalutara",
     "code": "13",
-    "unofficial_names": "Kalutara",
+    "unofficial_names": [
+      "Kalutara"
+    ],
     "geo": {
       "latitude": 6.5894162,
       "longitude": 79.98081429999999,
@@ -218,21 +210,11 @@
       "no": "Kalutara",
       "ml": "കലുതാര ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "2": {
     "name": "මධ්‍යම පළාත, ශ්‍රී ලංකාව",
     "code": "2",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Централна провинция (Шри Ланка)",
       "ca": "Província Central",
@@ -267,7 +249,6 @@
       "id": "Provinsi Tengah, Sri Lanka",
       "bn": "মধ্যাঞ্চল প্রদেশ"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
@@ -314,13 +295,14 @@
       "ca": "Kandy",
       "ml": "കൗണ്ടി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "22": {
     "name": "Matale",
     "code": "22",
-    "unofficial_names": "Matale",
+    "unofficial_names": [
+      "Matale"
+    ],
     "geo": {
       "latitude": 7.467465,
       "longitude": 80.6234161,
@@ -374,13 +356,14 @@
       "ml": "മാതലെ ജില്ല",
       "sl": "Okrožje Matale"
     },
-    "comments": null,
     "type": "district"
   },
   "23": {
     "name": "Nuwara Eliya",
     "code": "23",
-    "unofficial_names": "Nuwara Eliya",
+    "unofficial_names": [
+      "Nuwara Eliya"
+    ],
     "geo": {
       "latitude": 6.9543992,
       "longitude": 80.7824012,
@@ -433,21 +416,11 @@
       "ca": "Nuwara Eliya",
       "ml": "നുവാര ഏലിയ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "3": {
     "name": "දකුණු පළාත",
     "code": "3",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Южна провинция",
       "de": "Südprovinz",
@@ -480,7 +453,6 @@
       "id": "Provinsi Selatan, Sri Lanka",
       "bn": "দক্ষিণাঞ্চল প্রদেশ"
     },
-    "comments": null,
     "type": "province"
   },
   "31": {
@@ -541,13 +513,14 @@
       "ca": "Galle",
       "ml": "ഗാലി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "32": {
     "name": "Matara",
     "code": "32",
-    "unofficial_names": "Matara",
+    "unofficial_names": [
+      "Matara"
+    ],
     "geo": {
       "latitude": 5.95492,
       "longitude": 80.5549561,
@@ -599,13 +572,14 @@
       "no": "Matara",
       "ml": "മാത്താര ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "33": {
     "name": "Hambantota",
     "code": "33",
-    "unofficial_names": "Hambantota",
+    "unofficial_names": [
+      "Hambantota"
+    ],
     "geo": {
       "latitude": 6.131742099999999,
       "longitude": 81.1085744,
@@ -658,21 +632,11 @@
       "ca": "Hambantota",
       "ml": "ഹംമ്പൻതോട്ട ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "4": {
     "name": "උතුරු පළාත",
     "code": "4",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Северна провинция",
       "de": "Nordprovinz",
@@ -708,7 +672,6 @@
       "ca": "Província del Nord",
       "he": "מחוז הצפון"
     },
-    "comments": null,
     "type": "province"
   },
   "41": {
@@ -757,13 +720,14 @@
       "ca": "Districte de Jaffna",
       "ml": "ജാഫ്ന ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "42": {
     "name": "Kilinochchi",
     "code": "42",
-    "unofficial_names": "Kilinochchi",
+    "unofficial_names": [
+      "Kilinochchi"
+    ],
     "geo": {
       "latitude": 9.3802886,
       "longitude": 80.3769999,
@@ -815,7 +779,6 @@
       "no": "Kilinochchi",
       "ml": "കില്ലിനോച്ചി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "43": {
@@ -877,7 +840,6 @@
       "no": "Mannar distrikt",
       "ml": "മന്നാർ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "44": {
@@ -923,7 +885,6 @@
       "id": "Distrik Vavuniya",
       "ml": "വാവുനിയ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "45": {
@@ -984,21 +945,11 @@
       "ca": "Mullaitivu",
       "ml": "മുല്ലൈടിവ് ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "5": {
     "name": "නැගෙනහිර පළාත, ශ් රී ලංකාව",
     "code": "5",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Източна провинция",
       "de": "Ostprovinz",
@@ -1033,7 +984,6 @@
       "he": "מחוז המזרח",
       "ro": "Provincia de Est"
     },
-    "comments": null,
     "type": "province"
   },
   "51": {
@@ -1081,7 +1031,6 @@
       "no": "Batticaloa (distrikt)",
       "ca": "Batticaloa"
     },
-    "comments": null,
     "type": "district"
   },
   "52": {
@@ -1142,7 +1091,6 @@
       "ca": "Amparai",
       "ml": "അമ്പാറ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "53": {
@@ -1190,21 +1138,11 @@
       "ca": "Trincomalee",
       "ml": "ട്രിങ്കോമാലി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "6": {
     "name": "වයඹ පළාත, ශ්‍රී ලංකාව",
     "code": "6",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Северозападна провинция",
       "de": "Nordwestprovinz",
@@ -1236,13 +1174,14 @@
       "id": "Provinsi Barat Laut, Sri Lanka",
       "bn": "উত্তর পশ্চিমাঞ্চল প্রদেশ"
     },
-    "comments": null,
     "type": "province"
   },
   "61": {
     "name": "Kurunegala",
     "code": "61",
-    "unofficial_names": "Kurunegala",
+    "unofficial_names": [
+      "Kurunegala"
+    ],
     "geo": {
       "latitude": 7.472981299999999,
       "longitude": 80.3547286,
@@ -1294,7 +1233,6 @@
       "no": "Kurunegala distrikt",
       "ml": "കുറുനേഗല ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "62": {
@@ -1354,21 +1292,11 @@
       "no": "Puttalam distrikt",
       "ml": "പുത്തലം ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "7": {
     "name": "උතුරු මැද පළාත",
     "code": "7",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Северна централна провинция",
       "de": "Nördliche Zentralprovinz",
@@ -1401,7 +1329,6 @@
       "bn": "উত্তর মধ্যাঞ্চল প্রদেশ",
       "id": "Provinsi Tengah Utara, Sri Lanka"
     },
-    "comments": null,
     "type": "province"
   },
   "71": {
@@ -1447,7 +1374,6 @@
       "ccp": "𑄃𑄚𑄪𑄢𑄙𑄛𑄪𑄢𑄴",
       "ca": "Anuradhapura"
     },
-    "comments": null,
     "type": "district"
   },
   "72": {
@@ -1510,21 +1436,11 @@
       "he": "נפת פולונארווה",
       "ml": "പോളൊന്നാരുവ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "8": {
     "name": "ඌව පළාත",
     "code": "8",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Ува",
       "ca": "Província de Uva",
@@ -1559,13 +1475,14 @@
       "cy": "Talaith Uva",
       "he": "מחוז אובה"
     },
-    "comments": null,
     "type": "province"
   },
   "81": {
     "name": "Badulla",
     "code": "81",
-    "unofficial_names": "Badulla",
+    "unofficial_names": [
+      "Badulla"
+    ],
     "geo": {
       "latitude": 6.993400899999999,
       "longitude": 81.0549815,
@@ -1618,7 +1535,6 @@
       "ca": "Badulla",
       "ml": "ബഡുല്ല ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "82": {
@@ -1665,21 +1581,11 @@
       "ml": "മോണരാഗല ജില്ല",
       "pl": "Monaragala (dystrykt)"
     },
-    "comments": null,
     "type": "district"
   },
   "9": {
     "name": "සබරගමුව පළාත",
     "code": "9",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Сабарагамува",
       "ca": "Província de Sabaragamuwa",
@@ -1714,7 +1620,6 @@
       "cy": "Talaith Sabaragamuwa",
       "he": "מחוז סבראגמובה"
     },
-    "comments": null,
     "type": "province"
   },
   "91": {
@@ -1775,7 +1680,6 @@
       "ca": "Ratnapura",
       "ml": "രത്നപുര ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "92": {
@@ -1835,7 +1739,6 @@
       "no": "Kegalle distrikt",
       "ml": "കെഗല്ലെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   }
 }

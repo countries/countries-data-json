@@ -2,7 +2,9 @@
   "B": {
     "name": "Batken",
     "code": "B",
-    "unofficial_names": "Batken",
+    "unofficial_names": [
+      "Batken"
+    ],
     "geo": {
       "latitude": 40.066667,
       "longitude": 70.833333,
@@ -68,7 +70,6 @@
       "sr": "Баткенска област",
       "sr_Latn": "Batkenska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "C": {
@@ -148,7 +149,6 @@
       "sr": "Чујска област",
       "sr_Latn": "Čujska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "GB": {
@@ -251,21 +251,11 @@
       "ha": "Bishkek",
       "ha_NE": "Bishkek"
     },
-    "comments": null,
     "type": "city"
   },
   "GO": {
     "name": "Ош",
     "code": "GO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "أوش",
       "az": "Oş",
@@ -334,13 +324,14 @@
       "no": "Osj",
       "ga": "Osh"
     },
-    "comments": null,
     "type": "city"
   },
   "J": {
     "name": "Jalal-Abad",
     "code": "J",
-    "unofficial_names": "Jalal-Abad",
+    "unofficial_names": [
+      "Jalal-Abad"
+    ],
     "geo": {
       "latitude": 40.933333,
       "longitude": 73,
@@ -409,7 +400,6 @@
       "sr": "Џалал-Абадска област",
       "sr_Latn": "Džalal-Abadska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "N": {
@@ -486,7 +476,6 @@
       "sr": "Наринска област",
       "sr_Latn": "Narinska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "O": {
@@ -565,13 +554,14 @@
       "ps": "اوش ولایت",
       "ro": "Regiunea Oș"
     },
-    "comments": null,
     "type": "region"
   },
   "T": {
     "name": "Talas",
     "code": "T",
-    "unofficial_names": "Talas",
+    "unofficial_names": [
+      "Talas"
+    ],
     "geo": {
       "latitude": 42.516667,
       "longitude": 72.23333300000002,
@@ -637,7 +627,6 @@
       "sr": "Таласка област",
       "sr_Latn": "Talaska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "Y": {
@@ -716,7 +705,6 @@
       "sr": "Исик-Кулска област",
       "sr_Latn": "Isik-Kulska oblast"
     },
-    "comments": null,
     "type": "region"
   }
 }

@@ -2,35 +2,16 @@
   "AW": {
     "name": "Aruba",
     "code": "AW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Aruba",
       "ccp": "𑄃𑄢𑄪𑄝",
       "ja": "アルバ"
     },
-    "comments": null,
     "type": "country"
   },
   "BQ1": {
     "name": "Bonaire",
     "code": "BQ1",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Bonaire",
       "ar": "بونير",
@@ -100,21 +81,11 @@
       "yo_BJ": "Bonaire",
       "uz": "Bonayre"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "BQ2": {
     "name": "Saba",
     "code": "BQ2",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Saba",
       "ar": "سابا",
@@ -175,21 +146,11 @@
       "ga": "Saba",
       "hi": "साबा"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "BQ3": {
     "name": "Sint Eustatius",
     "code": "BQ3",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Sint Eustatius",
       "ar": "سينت أوستاتيوس",
@@ -255,33 +216,24 @@
       "no": "Sint Eustatius",
       "sl": "Sveti Evstahij (otok)"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "CW": {
     "name": "Curaçao",
     "code": "CW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Curaçao",
       "ccp": "𑄇𑄨𑄅𑄪𑄢𑄇𑄃𑄮",
       "ja": "キュラソー島"
     },
-    "comments": null,
     "type": "country"
   },
   "DR": {
     "name": "Drenthe",
     "code": "DR",
-    "unofficial_names": "Drenthe",
+    "unofficial_names": [
+      "Drenthe"
+    ],
     "geo": {
       "latitude": 52.9476012,
       "longitude": 6.623058599999999,
@@ -360,13 +312,14 @@
       "ps": "درنته",
       "sl": "Drenthe"
     },
-    "comments": null,
     "type": "province"
   },
   "FL": {
     "name": "Flevoland",
     "code": "FL",
-    "unofficial_names": "Flevoland",
+    "unofficial_names": [
+      "Flevoland"
+    ],
     "geo": {
       "latitude": 52.5279781,
       "longitude": 5.595350799999999,
@@ -443,13 +396,14 @@
       "mk": "Флеволанд",
       "no": "Flevoland"
     },
-    "comments": null,
     "type": "province"
   },
   "FR": {
     "name": "Friesland",
     "code": "FR",
-    "unofficial_names": "Friesland",
+    "unofficial_names": [
+      "Friesland"
+    ],
     "geo": {
       "latitude": 53.1641642,
       "longitude": 5.7817542,
@@ -528,7 +482,6 @@
       "az": "Frislandiya",
       "sl": "Frizija"
     },
-    "comments": null,
     "type": "province"
   },
   "GE": {
@@ -617,7 +570,6 @@
       "ps": "خلدرلنډ",
       "sl": "Gelderland"
     },
-    "comments": null,
     "type": "province"
   },
   "GR": {
@@ -704,13 +656,14 @@
       "mk": "Гронинген",
       "no": "Groningen"
     },
-    "comments": null,
     "type": "province"
   },
   "LI": {
     "name": "Limburg",
     "code": "LI",
-    "unofficial_names": "Limburg",
+    "unofficial_names": [
+      "Limburg"
+    ],
     "geo": {
       "latitude": 51.4427238,
       "longitude": 6.0608726,
@@ -789,13 +742,14 @@
       "az": "Limburq",
       "sl": "Limburg (Nizozemska)"
     },
-    "comments": null,
     "type": "province"
   },
   "NB": {
     "name": "Noord-Brabant",
     "code": "NB",
-    "unofficial_names": "Noord-Brabant",
+    "unofficial_names": [
+      "Noord-Brabant"
+    ],
     "geo": {
       "latitude": 51.4826537,
       "longitude": 5.2321687,
@@ -875,13 +829,14 @@
       "no": "Noord-Brabant",
       "ps": "شمالي برابانټ"
     },
-    "comments": null,
     "type": "province"
   },
   "NH": {
     "name": "Noord-Holland",
     "code": "NH",
-    "unofficial_names": "Noord-Holland",
+    "unofficial_names": [
+      "Noord-Holland"
+    ],
     "geo": {
       "latitude": 52.5205869,
       "longitude": 4.788474,
@@ -962,13 +917,14 @@
       "no": "Noord-Holland",
       "ps": "شمالي هالنډ"
     },
-    "comments": null,
     "type": "province"
   },
   "OV": {
     "name": "Overijssel",
     "code": "OV",
-    "unofficial_names": "Overijssel",
+    "unofficial_names": [
+      "Overijssel"
+    ],
     "geo": {
       "latitude": 52.4387814,
       "longitude": 6.5016411,
@@ -1048,33 +1004,24 @@
       "ps": "افریسل",
       "sl": "Overijssel"
     },
-    "comments": null,
     "type": "province"
   },
   "SX": {
     "name": "Sint Maarten",
     "code": "SX",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Sint Maarten",
       "ccp": "𑄥𑄨𑄠𑄚𑄴𑄑𑄴 𑄟𑄢𑄴𑄑𑄬𑄚𑄴",
       "ja": "シント・マールテン"
     },
-    "comments": null,
     "type": "country"
   },
   "UT": {
     "name": "Utrecht",
     "code": "UT",
-    "unofficial_names": "Utrecht",
+    "unofficial_names": [
+      "Utrecht"
+    ],
     "geo": {
       "latitude": 52.09073739999999,
       "longitude": 5.1214201,
@@ -1153,13 +1100,14 @@
       "no": "Utrecht",
       "hy": "Ուտրեխտ"
     },
-    "comments": null,
     "type": "province"
   },
   "ZE": {
     "name": "Zeeland",
     "code": "ZE",
-    "unofficial_names": "Zeeland",
+    "unofficial_names": [
+      "Zeeland"
+    ],
     "geo": {
       "latitude": 51.4940309,
       "longitude": 3.8496815,
@@ -1237,13 +1185,14 @@
       "ps": "ځیلاند",
       "sl": "Zeeland"
     },
-    "comments": null,
     "type": "province"
   },
   "ZH": {
     "name": "Zuid-Holland",
     "code": "ZH",
-    "unofficial_names": "Zuid-Holland",
+    "unofficial_names": [
+      "Zuid-Holland"
+    ],
     "geo": {
       "latitude": 52.0207975,
       "longitude": 4.4937836,
@@ -1324,7 +1273,6 @@
       "no": "Zuid-Holland",
       "ps": "سویلي هالنډ"
     },
-    "comments": null,
     "type": "province"
   }
 }

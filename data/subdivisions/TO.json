@@ -52,13 +52,14 @@
       "lt": "Eva",
       "ccp": "𑄃𑄨𑄅𑄪𑄠"
     },
-    "comments": null,
     "type": "division"
   },
   "02": {
     "name": "Ha'apai",
     "code": "02",
-    "unofficial_names": "Ha'apai",
+    "unofficial_names": [
+      "Ha'apai"
+    ],
     "geo": {
       "latitude": -19.7506337,
       "longitude": -175.0545197,
@@ -110,13 +111,14 @@
       "ccp": "𑄦‘𑄃𑄬𑄛𑄭",
       "no": "Ha’apai"
     },
-    "comments": null,
     "type": "division"
   },
   "03": {
     "name": "Niuas",
     "code": "03",
-    "unofficial_names": "Niuas",
+    "unofficial_names": [
+      "Niuas"
+    ],
     "geo": {
       "latitude": -15.6097616,
       "longitude": -175.6332093,
@@ -169,13 +171,14 @@
       "no": "Niuas",
       "fa": "جزایر نیوآ"
     },
-    "comments": null,
     "type": "division"
   },
   "04": {
     "name": "Tongatapu",
     "code": "04",
-    "unofficial_names": "Tongatapu",
+    "unofficial_names": [
+      "Tongatapu"
+    ],
     "geo": {
       "latitude": -21.1465968,
       "longitude": -175.2515482,
@@ -230,13 +233,14 @@
       "ccp": "𑄑𑄧𑄁𑄉𑄑𑄛𑄪",
       "no": "Tongatapu"
     },
-    "comments": null,
     "type": "division"
   },
   "05": {
     "name": "Vava'u",
     "code": "05",
-    "unofficial_names": "Vava'u",
+    "unofficial_names": [
+      "Vava'u"
+    ],
     "geo": {
       "latitude": -18.5811962,
       "longitude": -173.985008,
@@ -289,7 +293,6 @@
       "ccp": "𑄞𑄞‘𑄅𑄪",
       "no": "Vava’u"
     },
-    "comments": null,
     "type": "division"
   }
 }

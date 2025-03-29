@@ -80,7 +80,6 @@
       "no": "Eastern Cape",
       "yo_BJ": "Eastern Cape"
     },
-    "comments": null,
     "type": "province"
   },
   "FS": {
@@ -168,13 +167,11 @@
       "yo_BJ": "Free State",
       "ga": "an Saorstát Oráisteach"
     },
-    "comments": null,
     "type": "province"
   },
   "GP": {
     "name": "Gauteng",
     "code": "GP",
-    "unofficial_names": null,
     "geo": {
       "latitude": -26.2707593,
       "longitude": 28.1122679,
@@ -252,13 +249,14 @@
       "yo_BJ": "Gauteng",
       "hu": "Gauteng"
     },
-    "comments": null,
     "type": "province"
   },
   "LP": {
     "name": "Limpopo",
     "code": "LP",
-    "unofficial_names": "Limpopo",
+    "unofficial_names": [
+      "Limpopo"
+    ],
     "geo": {
       "latitude": -23.4012946,
       "longitude": 29.4179324,
@@ -335,7 +333,6 @@
       "yo_BJ": "Limpopo",
       "hu": "Limpopo (tartomány)"
     },
-    "comments": null,
     "type": "province"
   },
   "MP": {
@@ -419,13 +416,14 @@
       "yo_BJ": "Mpumalanga",
       "hu": "Mpumalanga"
     },
-    "comments": null,
     "type": "province"
   },
   "NC": {
     "name": "Northern Cape",
     "code": "NC",
-    "unofficial_names": "Northern Cape",
+    "unofficial_names": [
+      "Northern Cape"
+    ],
     "geo": {
       "latitude": -29.0466808,
       "longitude": 21.8568586,
@@ -501,13 +499,14 @@
       "yo_BJ": "Northern Cape",
       "gl": "Cabo Setentrional"
     },
-    "comments": null,
     "type": "province"
   },
   "NW": {
     "name": "North-West",
     "code": "NW",
-    "unofficial_names": "North-West",
+    "unofficial_names": [
+      "North-West"
+    ],
     "geo": {
       "latitude": -26.6638599,
       "longitude": 25.2837585,
@@ -581,7 +580,6 @@
       "mk": "Северозапад",
       "no": "North West"
     },
-    "comments": null,
     "type": "province"
   },
   "WC": {
@@ -666,13 +664,11 @@
       "no": "Western Cape",
       "yo_BJ": "Western Cape"
     },
-    "comments": null,
     "type": "province"
   },
   "ZN": {
     "name": "KwaZulu-Natal",
     "code": "ZN",
-    "unofficial_names": null,
     "geo": {
       "latitude": -28.5305539,
       "longitude": 30.8958242,
@@ -750,7 +746,6 @@
       "no": "KwaZulu-Natal",
       "yo_BJ": "KwaZulu-Natal"
     },
-    "comments": null,
     "type": "province"
   }
 }

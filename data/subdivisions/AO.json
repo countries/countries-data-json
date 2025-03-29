@@ -2,7 +2,9 @@
   "BGO": {
     "name": "Bengo",
     "code": "BGO",
-    "unofficial_names": "Bengo",
+    "unofficial_names": [
+      "Bengo"
+    ],
     "geo": {
       "latitude": -9.104225699999999,
       "longitude": 13.7289167,
@@ -71,13 +73,14 @@
       "no": "Bengo",
       "cy": "Talaith Bengo"
     },
-    "comments": null,
     "type": "province"
   },
   "BGU": {
     "name": "Benguela",
     "code": "BGU",
-    "unofficial_names": "Benguela",
+    "unofficial_names": [
+      "Benguela"
+    ],
     "geo": {
       "latitude": -12.5905158,
       "longitude": 13.416501,
@@ -146,13 +149,14 @@
       "cy": "Talaith Benguela",
       "et": "Benguela provints"
     },
-    "comments": null,
     "type": "province"
   },
   "BIE": {
     "name": "Bié",
     "code": "BIE",
-    "unofficial_names": "Bié",
+    "unofficial_names": [
+      "Bié"
+    ],
     "geo": {
       "latitude": -12.5727907,
       "longitude": 17.668887,
@@ -219,7 +223,6 @@
       "cy": "Talaith Bié",
       "et": "Bié provints"
     },
-    "comments": null,
     "type": "province"
   },
   "CAB": {
@@ -300,7 +303,6 @@
       "no": "Cabinda",
       "ky": "Кабинда"
     },
-    "comments": null,
     "type": "province"
   },
   "CCU": {
@@ -374,13 +376,14 @@
       "no": "Cuando Cubango",
       "et": "Kuando Kubango provints"
     },
-    "comments": null,
     "type": "province"
   },
   "CNN": {
     "name": "Cunene",
     "code": "CNN",
-    "unofficial_names": "Cunene",
+    "unofficial_names": [
+      "Cunene"
+    ],
     "geo": {
       "latitude": -16.2802221,
       "longitude": 16.1580937,
@@ -446,7 +449,6 @@
       "et": "Cunene provints",
       "gl": "Provincia de Cunene"
     },
-    "comments": null,
     "type": "province"
   },
   "CNO": {
@@ -520,7 +522,6 @@
       "et": "Põhja-Kwanza provints",
       "gl": "Cuanza Norte"
     },
-    "comments": null,
     "type": "province"
   },
   "CUS": {
@@ -593,13 +594,14 @@
       "et": "Lõuna-Kwanza provints",
       "gl": "Cuanza Sul"
     },
-    "comments": null,
     "type": "province"
   },
   "HUA": {
     "name": "Huambo",
     "code": "HUA",
-    "unofficial_names": "Huambo",
+    "unofficial_names": [
+      "Huambo"
+    ],
     "geo": {
       "latitude": -12.766667,
       "longitude": 15.733333,
@@ -665,13 +667,14 @@
       "no": "Huambo",
       "cy": "Talaith Huambo"
     },
-    "comments": null,
     "type": "province"
   },
   "HUI": {
     "name": "Huíla",
     "code": "HUI",
-    "unofficial_names": "Huíla",
+    "unofficial_names": [
+      "Huíla"
+    ],
     "geo": {
       "latitude": -14.9280553,
       "longitude": 14.6587821,
@@ -736,13 +739,14 @@
       "cy": "Rhanbarth Huila",
       "et": "Huíla provints"
     },
-    "comments": null,
     "type": "province"
   },
   "LNO": {
     "name": "Lunda Norte",
     "code": "LNO",
-    "unofficial_names": "Lunda Norte",
+    "unofficial_names": [
+      "Lunda Norte"
+    ],
     "geo": {
       "latitude": -8.352502200000002,
       "longitude": 19.1880047,
@@ -807,13 +811,14 @@
       "cy": "Talaith Lunda Norte",
       "et": "Põhja-Lunda provints"
     },
-    "comments": null,
     "type": "province"
   },
   "LSU": {
     "name": "Lunda Sul",
     "code": "LSU",
-    "unofficial_names": "Lunda Sul",
+    "unofficial_names": [
+      "Lunda Sul"
+    ],
     "geo": {
       "latitude": -10.2866578,
       "longitude": 20.7122465,
@@ -878,13 +883,14 @@
       "cy": "Talaith Lunda Sul",
       "et": "Lõuna-Lunda provints"
     },
-    "comments": null,
     "type": "province"
   },
   "LUA": {
     "name": "Luanda",
     "code": "LUA",
-    "unofficial_names": "Luanda",
+    "unofficial_names": [
+      "Luanda"
+    ],
     "geo": {
       "latitude": -8.838333,
       "longitude": 13.234444,
@@ -952,7 +958,6 @@
       "et": "Luanda provints",
       "ml": "ലുവാണ്ട പ്രവശ്യ"
     },
-    "comments": null,
     "type": "province"
   },
   "MAL": {
@@ -1025,13 +1030,14 @@
       "cy": "Talaith Malanje",
       "et": "Malanje provints"
     },
-    "comments": null,
     "type": "province"
   },
   "MOX": {
     "name": "Moxico",
     "code": "MOX",
-    "unofficial_names": "Moxico",
+    "unofficial_names": [
+      "Moxico"
+    ],
     "geo": {
       "latitude": -13.4293579,
       "longitude": 20.3308814,
@@ -1098,13 +1104,14 @@
       "no": "Moxico",
       "cy": "Talaith Moxico"
     },
-    "comments": null,
     "type": "province"
   },
   "NAM": {
     "name": "Namibe",
     "code": "NAM",
-    "unofficial_names": "Namibe",
+    "unofficial_names": [
+      "Namibe"
+    ],
     "geo": {
       "latitude": -15.195278,
       "longitude": 12.150833,
@@ -1171,13 +1178,14 @@
       "cy": "Talaith Namibe",
       "et": "Namibe provints"
     },
-    "comments": null,
     "type": "province"
   },
   "UIG": {
     "name": "Uíge",
     "code": "UIG",
-    "unofficial_names": "Uíge",
+    "unofficial_names": [
+      "Uíge"
+    ],
     "geo": {
       "latitude": -7.616667,
       "longitude": 15.05,
@@ -1242,13 +1250,14 @@
       "cy": "Talaith Uíge",
       "et": "Uíge provints"
     },
-    "comments": null,
     "type": "province"
   },
   "ZAI": {
     "name": "Zaire",
     "code": "ZAI",
-    "unofficial_names": "Zaire",
+    "unofficial_names": [
+      "Zaire"
+    ],
     "geo": {
       "latitude": -6.573345799999999,
       "longitude": 13.1740348,
@@ -1313,7 +1322,6 @@
       "et": "Zaire provints",
       "gl": "Provincia de Zaire"
     },
-    "comments": null,
     "type": "province"
   }
 }

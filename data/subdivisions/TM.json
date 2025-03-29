@@ -70,13 +70,14 @@
       "no": "Ahal provins",
       "he": "מחוז אהאל"
     },
-    "comments": null,
     "type": "region"
   },
   "B": {
     "name": "Balkan",
     "code": "B",
-    "unofficial_names": "Balkan",
+    "unofficial_names": [
+      "Balkan"
+    ],
     "geo": {
       "latitude": 40.9468884,
       "longitude": 54.4952432,
@@ -145,7 +146,6 @@
       "no": "Belkan provins",
       "he": "מחוז בלקן"
     },
-    "comments": null,
     "type": "region"
   },
   "D": {
@@ -217,13 +217,14 @@
       "ta": "தகோகுஸ் மாகாணம்",
       "th": "จังหวัดดาโชกุซ"
     },
-    "comments": null,
     "type": "region"
   },
   "L": {
     "name": "Lebap",
     "code": "L",
-    "unofficial_names": "Lebap",
+    "unofficial_names": [
+      "Lebap"
+    ],
     "geo": {
       "latitude": 38.12724619999999,
       "longitude": 64.7162415,
@@ -278,7 +279,6 @@
       "ta": "லெபாப் மாகாணம்",
       "th": "จังหวัดเลบัป"
     },
-    "comments": null,
     "type": "region"
   },
   "M": {
@@ -353,21 +353,11 @@
       "no": "Mary provins",
       "he": "מחוז מרי"
     },
-    "comments": null,
     "type": "region"
   },
   "S": {
     "name": "Aşgabat",
     "code": "S",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Asjchabat",
       "am": "አሽጋባት",
@@ -450,7 +440,6 @@
       "ceb": "Aşgabat Şäheri",
       "my": "အက်ရှ်ဂါဘတ်မြို့"
     },
-    "comments": null,
     "type": "capital_city"
   }
 }

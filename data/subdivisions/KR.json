@@ -104,7 +104,6 @@
       "yo_BJ": "Seoul",
       "lo": "ໂຊລ"
     },
-    "comments": null,
     "type": "special_city"
   },
   "26": {
@@ -201,7 +200,6 @@
       "no": "Busan",
       "km": "ប៊ូសាន"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "27": {
@@ -288,7 +286,6 @@
       "ga": "Daegu",
       "km": "ដែហ្គូ"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "28": {
@@ -379,7 +376,6 @@
       "ga": "Incheon",
       "km": "អ៊ីនឆុន"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "29": {
@@ -466,7 +462,6 @@
       "km": "ក្វាងជូ",
       "uz": "Kvanju"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "30": {
@@ -555,13 +550,14 @@
       "ga": "Daejeon",
       "km": "ដែចន់"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "31": {
     "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
     "code": "31",
-    "unofficial_names": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
+    "unofficial_names": [
+      "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]"
+    ],
     "geo": {
       "latitude": 35.5383773,
       "longitude": 129.3113596,
@@ -634,13 +630,14 @@
       "hr": "Ulsan",
       "km": "អ៊ុលសាន"
     },
-    "comments": null,
     "type": "metropolitan_city"
   },
   "41": {
     "name": "Gyeonggido [Kyonggi-do]",
     "code": "41",
-    "unofficial_names": "Gyeonggido [Kyonggi-do]",
+    "unofficial_names": [
+      "Gyeonggido [Kyonggi-do]"
+    ],
     "geo": {
       "latitude": 37.41379999999999,
       "longitude": 127.5183,
@@ -708,7 +705,6 @@
       "no": "Gyeonggi",
       "az": "Köngido vilayəti"
     },
-    "comments": null,
     "type": "province"
   },
   "42": {
@@ -717,14 +713,6 @@
     "unofficial_names": [
       "Kangwon"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Gangwon",
       "ar": "مقاطعة غانغوون",
@@ -785,7 +773,6 @@
       "no": "Gangwon",
       "az": "Kanvondo"
     },
-    "comments": null,
     "type": "province"
   },
   "43": {
@@ -794,14 +781,6 @@
     "unofficial_names": [
       "North Chungchong"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "North Chungcheong",
       "ar": "تشنغتشونغ الشمالية",
@@ -860,7 +839,6 @@
       "no": "Nord-Chungcheong",
       "ro": "Chungcheong de Nord"
     },
-    "comments": null,
     "type": "province"
   },
   "44": {
@@ -934,7 +912,6 @@
       "no": "Sør-Chungcheong",
       "ro": "Chungcheong de Sud"
     },
-    "comments": null,
     "type": "province"
   },
   "45": {
@@ -944,14 +921,6 @@
       "Chollapuk",
       "North Cholla"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "North Jeolla",
       "ar": "مقاطعة جولا الشمالية",
@@ -1010,7 +979,6 @@
       "no": "Nord-Jeolla",
       "ro": "Jeolla de Nord"
     },
-    "comments": null,
     "type": "province"
   },
   "46": {
@@ -1019,14 +987,6 @@
     "unofficial_names": [
       "South Cholla"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "South Jeolla",
       "ar": "مقاطعة جولا الجنوبية",
@@ -1085,7 +1045,6 @@
       "no": "Sør-Jeolla",
       "ro": "Jeolla de Sud"
     },
-    "comments": null,
     "type": "province"
   },
   "47": {
@@ -1160,7 +1119,6 @@
       "no": "Nord-Gyeongsang",
       "az": "Könsan-Pukto"
     },
-    "comments": null,
     "type": "province"
   },
   "48": {
@@ -1235,7 +1193,6 @@
       "be": "Кёнсан-Намда",
       "ro": "Gyeongsang de Sud"
     },
-    "comments": null,
     "type": "province"
   },
   "49": {
@@ -1319,21 +1276,11 @@
       "ka": "ჩეჯუს პროვინცია",
       "ky": "Жежу (Корея)"
     },
-    "comments": null,
     "type": "special_self-governing_province"
   },
   "50": {
     "name": "세종특별자치시",
     "code": "50",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مدينة سيجونغ",
       "bn": "সেজং শহর",
@@ -1388,7 +1335,6 @@
       "ky": "Седжоң (шаар)",
       "ro": "Sejong-si"
     },
-    "comments": null,
     "type": "special_self-governing_city"
   }
 }

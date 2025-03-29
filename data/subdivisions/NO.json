@@ -2,7 +2,9 @@
   "03": {
     "name": "Oslo",
     "code": "03",
-    "unofficial_names": "Oslo",
+    "unofficial_names": [
+      "Oslo"
+    ],
     "geo": {
       "latitude": 59.9138688,
       "longitude": 10.7522454,
@@ -103,7 +105,9 @@
   "11": {
     "name": "Rogaland",
     "code": "11",
-    "unofficial_names": "Rogaland",
+    "unofficial_names": [
+      "Rogaland"
+    ],
     "geo": {
       "latitude": 59.1489544,
       "longitude": 6.0143431,
@@ -174,7 +178,9 @@
   "15": {
     "name": "Møre og Romsdal",
     "code": "15",
-    "unofficial_names": "Møre og Romsdal",
+    "unofficial_names": [
+      "Møre og Romsdal"
+    ],
     "geo": {
       "latitude": 62.9760369,
       "longitude": 8.018272399999999,
@@ -244,7 +250,9 @@
   "18": {
     "name": "Nordland",
     "code": "18",
-    "unofficial_names": "Nordland",
+    "unofficial_names": [
+      "Nordland"
+    ],
     "translations": {
       "af": "Nordland",
       "ar": "نورلان",
@@ -315,17 +323,15 @@
     },
     "geo": {
       "latitude": 67.69167019999999,
-      "longitude": 12.7019476,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 12.7019476
     },
     "type": "county"
   },
   "21": {
     "name": "Svalbard (Arctic Region)",
-    "unofficial_names": "Svalbard (Arctic Region)",
+    "unofficial_names": [
+      "Svalbard (Arctic Region)"
+    ],
     "translations": {
       "af": "Svalbard",
       "ar": "سفالبارد",
@@ -404,21 +410,15 @@
       "yue_Hans": "斯瓦尔巴群岛",
       "zh": "斯瓦尔巴群岛"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "comments": "See also country code SJ",
     "code": "21",
     "type": "arctic_region"
   },
   "22": {
     "name": "Jan Mayen (Arctic Region)",
-    "unofficial_names": "Jan Mayen (Arctic Region)",
+    "unofficial_names": [
+      "Jan Mayen (Arctic Region)"
+    ],
     "translations": {
       "af": "Jan Mayen",
       "ar": "جان ماين",
@@ -490,14 +490,6 @@
       "yue_Hans": "扬马延岛",
       "zh": "揚馬延島"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "comments": "See also country code SJ",
     "code": "22",
     "type": "arctic_region"
@@ -537,14 +529,6 @@
       "pt": "Viken (condado)",
       "ru": "Викен",
       "tr": "Viken"
-    },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
     },
     "code": "30",
     "type": "county"
@@ -786,14 +770,6 @@
       "ha_NE": "Innlandet",
       "yo_BJ": "Innlandet"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "34",
     "type": "county"
   },
@@ -831,14 +807,6 @@
       "ro": "Vestfold og Telemark",
       "ru": "Вестфолл-ог-Телемарк",
       "tr": "Vestfold og Telemark"
-    },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
     },
     "code": "38",
     "type": "county"
@@ -884,14 +852,6 @@
       "ro": "Agder",
       "tr": "Agder"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "42",
     "type": "county"
   },
@@ -926,14 +886,6 @@
       "ar": "فيستلاند (مقاطعة)",
       "el": "Βέστλαντ",
       "tr": "Vestland"
-    },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
     },
     "code": "46",
     "type": "county"
@@ -1001,14 +953,6 @@
       "zh-tw": "特倫德拉格",
       "id": "Trøndelag"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "50",
     "type": "county"
   },
@@ -1050,14 +994,6 @@
       "ca": "Troms og Finnmark",
       "fa": "ترومس اوگ فینمارک",
       "tr": "Troms og Finnmark"
-    },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
     },
     "code": "54",
     "type": "county"

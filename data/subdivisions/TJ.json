@@ -2,15 +2,6 @@
   "DU": {
     "name": "Dushanbe",
     "code": "DU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Doesjanbe",
       "am": "ዱሻንቤ",
@@ -95,7 +86,6 @@
       "my": "ဒူရှန်ဘဲမြို့",
       "sd": "دوشنبي"
     },
-    "comments": null,
     "type": "capital_territory"
   },
   "GB": {
@@ -171,7 +161,6 @@
       "mn": "Горно-Бадахшан",
       "ro": "Gorno-Badahșan"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "KT": {
@@ -242,21 +231,11 @@
       "eu": "Khatlon",
       "ro": "Hatlon"
     },
-    "comments": null,
     "type": "region"
   },
   "RA": {
     "name": "Nohiyahoi Tobei Jumhurí",
     "code": "RA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعات التبعية الجمهوري",
       "bg": "Райони на централно подчинение в Таджикистан",
@@ -307,7 +286,6 @@
       "ca": "Districtes de la Subordinació Republicana",
       "eu": "Errepublikarekiko mendekotasunpeko barrutiak"
     },
-    "comments": null,
     "type": "districts_under_republic_administration"
   },
   "SU": {
@@ -388,7 +366,6 @@
       "eu": "Sughd",
       "ky": "Согдий областы"
     },
-    "comments": null,
     "type": "region"
   }
 }

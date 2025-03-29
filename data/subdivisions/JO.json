@@ -63,7 +63,6 @@
       "ceb": "Ajloun (lalawigan sa Hordan)",
       "cy": "Ardal Lywodraethol Ajlwn"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AM": {
@@ -74,11 +73,7 @@
     ],
     "geo": {
       "latitude": 31.9565783,
-      "longitude": 35.9456951,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.9456951
     },
     "translations": {
       "en": "Amman",
@@ -129,7 +124,6 @@
       "cy": "Ardal Lywodraethol Amman",
       "sd": "امان گورنري"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AQ": {
@@ -143,11 +137,7 @@
     ],
     "geo": {
       "latitude": 29.5319199,
-      "longitude": 35.0060842,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.0060842
     },
     "translations": {
       "en": "Aqaba",
@@ -196,7 +186,6 @@
       "cy": "Ardal Lywodraethol Aqaba",
       "ga": "Gobharnóireacht Aqaba"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AT": {
@@ -209,11 +198,7 @@
     ],
     "geo": {
       "latitude": 30.83583299999999,
-      "longitude": 35.612222,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.612222
     },
     "translations": {
       "en": "Tafilah",
@@ -260,7 +245,6 @@
       "uk": "Муніципалітет Тафіла",
       "no": "Tafilah Governorate"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AZ": {
@@ -327,13 +311,14 @@
       "cy": "Ardal Lywodraethol Zarqa",
       "hy": "Զարքայի մարզ"
     },
-    "comments": null,
     "type": "governorate"
   },
   "BA": {
     "name": "Al Balqa'",
     "code": "BA",
-    "unofficial_names": "Al Balqa'",
+    "unofficial_names": [
+      "Al Balqa'"
+    ],
     "geo": {
       "latitude": 31.9676039,
       "longitude": 35.6095474,
@@ -388,7 +373,6 @@
       "uk": "Муніципалітет Ель-Балка",
       "no": "Balqa"
     },
-    "comments": null,
     "type": "governorate"
   },
   "IR": {
@@ -399,11 +383,7 @@
     ],
     "geo": {
       "latitude": 32.5454418,
-      "longitude": 35.8571532,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.8571532
     },
     "translations": {
       "en": "Irbid",
@@ -454,7 +434,6 @@
       "no": "Irbid",
       "cy": "Ardal Lywodraethol Irbid"
     },
-    "comments": null,
     "type": "governorate"
   },
   "JA": {
@@ -466,11 +445,7 @@
     ],
     "geo": {
       "latitude": 32.2769016,
-      "longitude": 35.9055502,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.9055502
     },
     "translations": {
       "en": "Jerash",
@@ -519,7 +494,6 @@
       "uk": "Муніципалітет Джараш",
       "no": "Jerash"
     },
-    "comments": null,
     "type": "governorate"
   },
   "KA": {
@@ -531,11 +505,7 @@
     ],
     "geo": {
       "latitude": 31.1648059,
-      "longitude": 35.7618824,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.7618824
     },
     "translations": {
       "en": "Karak",
@@ -585,7 +555,6 @@
       "cy": "Ardal Lywodraethol Karak",
       "hy": "Քարաքի մարզ"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MA": {
@@ -596,11 +565,7 @@
     ],
     "geo": {
       "latitude": 32.3616821,
-      "longitude": 36.2193362,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 36.2193362
     },
     "translations": {
       "en": "Mafraq",
@@ -650,7 +615,6 @@
       "no": "Magraq",
       "cs": "Mafrak (guvernorát)"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MD": {
@@ -663,11 +627,7 @@
     ],
     "geo": {
       "latitude": 31.71954,
-      "longitude": 35.794109,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.794109
     },
     "translations": {
       "en": "Madaba",
@@ -716,7 +676,6 @@
       "no": "Madaba Governorate",
       "cy": "Ardal Lywodraethol Madaba"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MN": {
@@ -728,11 +687,7 @@
     ],
     "geo": {
       "latitude": 30.1949577,
-      "longitude": 35.7342418,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 35.7342418
     },
     "translations": {
       "en": "Ma’an",
@@ -781,7 +736,6 @@
       "ca": "Governació de Maan",
       "cy": "Ardal Lywodraethol Ma’an"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

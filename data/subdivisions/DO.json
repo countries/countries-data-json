@@ -2,7 +2,9 @@
   "01": {
     "name": "Distrito Nacional (Santo Domingo)",
     "code": "01",
-    "unofficial_names": "Distrito Nacional (Santo Domingo)",
+    "unofficial_names": [
+      "Distrito Nacional (Santo Domingo)"
+    ],
     "geo": {
       "latitude": 18.466667,
       "longitude": -69.95,
@@ -34,13 +36,14 @@
       "he": "דיסטריטו נסיונאל",
       "th": "ดิสตริโตนาซิโอนัล"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Azua",
     "code": "02",
-    "unofficial_names": "Azua",
+    "unofficial_names": [
+      "Azua"
+    ],
     "geo": {
       "latitude": 18.46,
       "longitude": -70.74,
@@ -96,7 +99,6 @@
       "cy": "Talaith Azua",
       "eu": "Azua probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
@@ -159,13 +161,14 @@
       "cy": "Talaith Baoruco",
       "eu": "Bahoruco probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "Barahona",
     "code": "04",
-    "unofficial_names": "Barahona",
+    "unofficial_names": [
+      "Barahona"
+    ],
     "geo": {
       "latitude": 18.2120807,
       "longitude": -71.10240759999999,
@@ -219,13 +222,14 @@
       "cy": "Talaith Barahona",
       "eu": "Barahona probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Dajabón",
     "code": "05",
-    "unofficial_names": "Dajabón",
+    "unofficial_names": [
+      "Dajabón"
+    ],
     "geo": {
       "latitude": 19.5499241,
       "longitude": -71.7086514,
@@ -261,13 +265,14 @@
       "id": "Provinsi Dajabón",
       "th": "จังหวัดดาฮาบอน"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "Duarte",
     "code": "06",
-    "unofficial_names": "Duarte",
+    "unofficial_names": [
+      "Duarte"
+    ],
     "geo": {
       "latitude": 19.2535285,
       "longitude": -70.0979491,
@@ -321,13 +326,14 @@
       "cy": "Talaith Duarte",
       "eu": "Duarte probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "La Estrelleta [Elías Piña]",
     "code": "07",
-    "unofficial_names": "La Estrelleta [Elías Piña]",
+    "unofficial_names": [
+      "La Estrelleta [Elías Piña]"
+    ],
     "geo": {
       "latitude": 18.8766964,
       "longitude": -71.7044138,
@@ -381,13 +387,14 @@
       "ca": "Elías Piña",
       "cy": "Talaith Elías Piña"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "El Seybo [El Seibo]",
     "code": "08",
-    "unofficial_names": "El Seybo [El Seibo]",
+    "unofficial_names": [
+      "El Seybo [El Seibo]"
+    ],
     "geo": {
       "latitude": 18.763,
       "longitude": -69.042,
@@ -441,13 +448,14 @@
       "cy": "Talaith El Seibo",
       "eu": "El Seibo probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "Espaillat",
     "code": "09",
-    "unofficial_names": "Espaillat",
+    "unofficial_names": [
+      "Espaillat"
+    ],
     "geo": {
       "latitude": 19.5788064,
       "longitude": -70.3598758,
@@ -501,13 +509,14 @@
       "cy": "Talaith Espaillat",
       "eu": "Espaillat probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
     "name": "Independencia",
     "code": "10",
-    "unofficial_names": "Independencia",
+    "unofficial_names": [
+      "Independencia"
+    ],
     "geo": {
       "latitude": 18.4126807,
       "longitude": -71.6198686,
@@ -560,13 +569,14 @@
       "ca": "Independencia",
       "eu": "Independencia probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
     "name": "La Altagracia",
     "code": "11",
-    "unofficial_names": "La Altagracia",
+    "unofficial_names": [
+      "La Altagracia"
+    ],
     "geo": {
       "latitude": 18.5850236,
       "longitude": -68.62010719999999,
@@ -621,13 +631,14 @@
       "eu": "La Altagracia probintzia",
       "hy": "Լա Ալտագրասիա"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
     "name": "La Romana",
     "code": "12",
-    "unofficial_names": "La Romana",
+    "unofficial_names": [
+      "La Romana"
+    ],
     "geo": {
       "latitude": 18.43,
       "longitude": -68.97,
@@ -681,13 +692,14 @@
       "cy": "Talaith La Romana",
       "eu": "La Romana probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "La Vega",
     "code": "13",
-    "unofficial_names": "La Vega",
+    "unofficial_names": [
+      "La Vega"
+    ],
     "geo": {
       "latitude": 19.22,
       "longitude": -70.53,
@@ -742,13 +754,14 @@
       "cy": "Talaith La Vega",
       "eu": "La Vega probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
     "name": "María Trinidad Sánchez",
     "code": "14",
-    "unofficial_names": "María Trinidad Sánchez",
+    "unofficial_names": [
+      "María Trinidad Sánchez"
+    ],
     "geo": {
       "latitude": 19.4245445,
       "longitude": -70.0026756,
@@ -802,13 +815,14 @@
       "cy": "Talaith María Trinidad Sánchez",
       "eu": "María Trinidad Sánchez probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
     "name": "Monte Cristi",
     "code": "15",
-    "unofficial_names": "Monte Cristi",
+    "unofficial_names": [
+      "Monte Cristi"
+    ],
     "geo": {
       "latitude": 19.8473452,
       "longitude": -71.6406361,
@@ -862,13 +876,14 @@
       "cy": "Talaith Monte Cristi",
       "eu": "Monte Cristi probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
     "name": "Pedernales",
     "code": "16",
-    "unofficial_names": "Pedernales",
+    "unofficial_names": [
+      "Pedernales"
+    ],
     "geo": {
       "latitude": 18.033333,
       "longitude": -71.75,
@@ -922,13 +937,14 @@
       "cy": "Talaith Pedernales",
       "eu": "Pedernales probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "17": {
     "name": "Peravia",
     "code": "17",
-    "unofficial_names": "Peravia",
+    "unofficial_names": [
+      "Peravia"
+    ],
     "geo": {
       "latitude": 18.2855033,
       "longitude": -70.3836815,
@@ -982,13 +998,14 @@
       "cy": "Talaith Peravia",
       "eu": "Peravia probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
     "name": "Puerto Plata",
     "code": "18",
-    "unofficial_names": "Puerto Plata",
+    "unofficial_names": [
+      "Puerto Plata"
+    ],
     "geo": {
       "latitude": 19.7807686,
       "longitude": -70.6871091,
@@ -1042,13 +1059,14 @@
       "cy": "Talaith Puerto Plata",
       "eu": "Puerto Plata probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "19": {
     "name": "Salcedo",
     "code": "19",
-    "unofficial_names": "Salcedo",
+    "unofficial_names": [
+      "Salcedo"
+    ],
     "geo": {
       "latitude": 19.3966586,
       "longitude": -70.3598758,
@@ -1102,13 +1120,14 @@
       "cy": "Talaith Hermanas Mirabal",
       "eu": "Hermanas Mirabal probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
     "name": "Samaná",
     "code": "20",
-    "unofficial_names": "Samaná",
+    "unofficial_names": [
+      "Samaná"
+    ],
     "geo": {
       "latitude": 19.2080704,
       "longitude": -69.3324518,
@@ -1162,13 +1181,14 @@
       "cy": "Talaith Samaná",
       "eu": "Samaná probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
     "name": "San Cristóbal",
     "code": "21",
-    "unofficial_names": "San Cristóbal",
+    "unofficial_names": [
+      "San Cristóbal"
+    ],
     "geo": {
       "latitude": 18.4188797,
       "longitude": -70.1030668,
@@ -1222,13 +1242,14 @@
       "cy": "Talaith San Cristóbal",
       "eu": "San Cristóbal probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
     "name": "San Juan",
     "code": "22",
-    "unofficial_names": "San Juan",
+    "unofficial_names": [
+      "San Juan"
+    ],
     "geo": {
       "latitude": 18.8810919,
       "longitude": -71.2874209,
@@ -1283,13 +1304,14 @@
       "cy": "Talaith San Juan",
       "eu": "San Juan probintzia (Dominikar Errepublika)"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
     "name": "San Pedro de Macorís",
     "code": "23",
-    "unofficial_names": "San Pedro de Macorís",
+    "unofficial_names": [
+      "San Pedro de Macorís"
+    ],
     "geo": {
       "latitude": 18.45,
       "longitude": -69.3,
@@ -1342,13 +1364,14 @@
       "ca": "San Pedro de Macorís (província)",
       "eu": "San Pedro de Macorís probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
     "name": "Sánchez Ramírez",
     "code": "24",
-    "unofficial_names": "Sánchez Ramírez",
+    "unofficial_names": [
+      "Sánchez Ramírez"
+    ],
     "geo": {
       "latitude": 18.9808932,
       "longitude": -70.0979491,
@@ -1402,13 +1425,14 @@
       "cy": "Talaith Sánchez Ramírez",
       "eu": "Sánchez Ramírez probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Santiago",
     "code": "25",
-    "unofficial_names": "Santiago",
+    "unofficial_names": [
+      "Santiago"
+    ],
     "geo": {
       "latitude": 19.466667,
       "longitude": -70.7,
@@ -1463,13 +1487,14 @@
       "ca": "Santiago",
       "cy": "Talaith Santiago"
     },
-    "comments": null,
     "type": "province"
   },
   "26": {
     "name": "Santiago Rodríguez",
     "code": "26",
-    "unofficial_names": "Santiago Rodríguez",
+    "unofficial_names": [
+      "Santiago Rodríguez"
+    ],
     "geo": {
       "latitude": 19.4713181,
       "longitude": -71.33958009999999,
@@ -1523,13 +1548,14 @@
       "cy": "Talaith Santiago Rodríguez",
       "eu": "Santiago Rodríguez probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "27": {
     "name": "Valverde",
     "code": "27",
-    "unofficial_names": "Valverde",
+    "unofficial_names": [
+      "Valverde"
+    ],
     "geo": {
       "latitude": 19.6323442,
       "longitude": -71.0497768,
@@ -1583,13 +1609,14 @@
       "cy": "Talaith Valverde",
       "eu": "Valverde probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "28": {
     "name": "Monseñor Nouel",
     "code": "28",
-    "unofficial_names": "Monseñor Nouel",
+    "unofficial_names": [
+      "Monseñor Nouel"
+    ],
     "geo": {
       "latitude": 18.9215234,
       "longitude": -70.3836815,
@@ -1643,13 +1670,14 @@
       "cy": "Talaith Monseñor Nouel",
       "eu": "Monseñor Nouel probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "29": {
     "name": "Monte Plata",
     "code": "29",
-    "unofficial_names": "Monte Plata",
+    "unofficial_names": [
+      "Monte Plata"
+    ],
     "geo": {
       "latitude": 18.81,
       "longitude": -69.78999999999999,
@@ -1703,13 +1731,14 @@
       "cy": "Talaith Monte Plata",
       "eu": "Monte Plata probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "30": {
     "name": "Hato Mayor",
     "code": "30",
-    "unofficial_names": "Hato Mayor",
+    "unofficial_names": [
+      "Hato Mayor"
+    ],
     "geo": {
       "latitude": 18.766667,
       "longitude": -69.25,
@@ -1764,13 +1793,14 @@
       "cy": "Talaith Hato Mayor",
       "eu": "Hato Mayor probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "31": {
     "name": "San Jose de Ocoa",
     "code": "31",
-    "unofficial_names": "San Jose de Ocoa",
+    "unofficial_names": [
+      "San Jose de Ocoa"
+    ],
     "geo": {
       "latitude": 18.55,
       "longitude": -70.5,
@@ -1824,21 +1854,11 @@
       "cy": "Talaith San José de Ocoa",
       "eu": "San José de Ocoa probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "32": {
     "name": "Santo Domingo",
     "code": "32",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة سانتو دومينغو",
       "bn": "স্যান্টো ডোমিঙ্গ প্রদেশ",
@@ -1884,207 +1904,106 @@
       "cy": "Talaith Santo Domingo",
       "eu": "Santo Domingo probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "33": {
     "name": "Cibao Nordeste",
     "code": "33",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Cibao Nordeste",
       "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄴𑄓𑄬𑄌𑄴𑄑𑄬",
       "ja": "北東シバオ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "34": {
     "name": "Cibao Noroeste",
     "code": "34",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Cibao Noroeste",
       "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄧𑄠𑄬𑄌𑄴𑄑𑄬",
       "ja": "北西シバオ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "35": {
     "name": "Cibao Norte",
     "code": "35",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Cibao Norte",
       "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄚𑄧𑄢𑄴𑄑𑄬",
       "ja": "北シバオ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "36": {
     "name": "Cibao Sur",
     "code": "36",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Cibao Sur",
       "ccp": "𑄥𑄨𑄝𑄃𑄮 𑄥𑄢𑄴",
       "ja": "南シバオ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "37": {
     "name": "El Valle",
     "code": "37",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "El Valle",
       "ccp": "𑄃𑄬𑄣𑄴 𑄞𑄣𑄬",
       "ja": "エル・バジェ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "38": {
     "name": "Enriquillo",
     "code": "38",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Enriquillo",
       "ccp": "𑄃𑄬𑄚𑄴𑄢𑄨𑄇𑄪𑄃𑄨𑄣𑄮",
       "ja": "エンリキージョ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "39": {
     "name": "Higüamo",
     "code": "39",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Higüamo",
       "ccp": "𑄦𑄭𑄉𑄪𑄠𑄟𑄮",
       "ja": "イグアモ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "40": {
     "name": "Ozama",
     "code": "40",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Ozama",
       "ccp": "𑄃𑄧𑄎𑄟",
       "ja": "オサマ地域"
     },
-    "comments": null,
     "type": "region"
   },
   "41": {
     "name": "Valdesia",
     "code": "41",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Valdesia",
       "ccp": "𑄞𑄧𑄣𑄴𑄓𑄬𑄥𑄨𑄠",
       "ja": "バルデシア地域"
     },
-    "comments": null,
     "type": "region"
   },
   "42": {
     "name": "Yuma",
     "code": "42",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Yuma",
       "ccp": "𑄃𑄨𑄠𑄟",
       "ja": "ユマ地域"
     },
-    "comments": null,
     "type": "region"
   }
 }

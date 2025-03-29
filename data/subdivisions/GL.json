@@ -2,8 +2,6 @@
   "AV": {
     "name": "Avannaata Kommunia",
     "code": "AV",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Avannaata Kommunia",
       "ar": "أفناتا",
@@ -34,21 +32,11 @@
       "vi": "Avannaata",
       "zh": "阿万纳塔"
     },
-    "comments": null,
     "type": "municipality"
   },
   "KU": {
     "name": "Kujalleq",
     "code": "KU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "كوياليك",
       "be": "Куялек",
@@ -102,21 +90,11 @@
       "fa": "کوجالق",
       "he": "מחוז כויאשק"
     },
-    "comments": null,
     "type": "municipality"
   },
   "QE": {
     "name": "Qeqqata",
     "code": "QE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "كيكاتا",
       "bn": "কুয়েকাটা",
@@ -170,14 +148,11 @@
       "fa": "ققاتا",
       "he": "מחוז קקאטה"
     },
-    "comments": null,
     "type": "municipality"
   },
   "QT": {
     "name": "Kommune Qeqertalik",
     "code": "QT",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Kommune Qeqertalik",
       "ar": "ككرتليك",
@@ -204,21 +179,11 @@
       "uk": "Кекерталік",
       "ur": "قیقیرتالیک"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SM": {
     "name": "Sermersooq",
     "code": "SM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سيرمرسوك",
       "bn": "সার্মারসুক",
@@ -273,7 +238,6 @@
       "fa": "سرمرسوک",
       "he": "מחוז סרמרסוק"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

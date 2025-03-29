@@ -2,7 +2,9 @@
   "01": {
     "name": "Christ Church",
     "code": "01",
-    "unofficial_names": "Christ Church",
+    "unofficial_names": [
+      "Christ Church"
+    ],
     "geo": {
       "latitude": 13.083735,
       "longitude": -59.52967419999999,
@@ -55,13 +57,14 @@
       "ca": "Christ Church",
       "no": "Christ Church prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "02": {
     "name": "Saint Andrew",
     "code": "02",
-    "unofficial_names": "Saint Andrew",
+    "unofficial_names": [
+      "Saint Andrew"
+    ],
     "geo": {
       "latitude": 13.2540083,
       "longitude": -59.5757599,
@@ -115,13 +118,14 @@
       "ca": "Saint Andrew",
       "no": "Saint Andrew prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "03": {
     "name": "Saint George",
     "code": "03",
-    "unofficial_names": "Saint George",
+    "unofficial_names": [
+      "Saint George"
+    ],
     "geo": {
       "latitude": 13.148292,
       "longitude": -59.55271499999999,
@@ -175,13 +179,14 @@
       "mk": "Сент Џорџ",
       "no": "Saint George prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "04": {
     "name": "Saint James",
     "code": "04",
-    "unofficial_names": "Saint James",
+    "unofficial_names": [
+      "Saint James"
+    ],
     "geo": {
       "latitude": 13.1939911,
       "longitude": -59.6276259,
@@ -235,13 +240,14 @@
       "ca": "Saint James",
       "no": "Saint James prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "05": {
     "name": "Saint John",
     "code": "05",
-    "unofficial_names": "Saint John",
+    "unofficial_names": [
+      "Saint John"
+    ],
     "geo": {
       "latitude": 13.1833369,
       "longitude": -59.5066376,
@@ -295,13 +301,14 @@
       "mk": "Сент Џон",
       "no": "Saint John"
     },
-    "comments": null,
     "type": "parish"
   },
   "06": {
     "name": "Saint Joseph",
     "code": "06",
-    "unofficial_names": "Saint Joseph",
+    "unofficial_names": [
+      "Saint Joseph"
+    ],
     "geo": {
       "latitude": 13.2040088,
       "longitude": -59.54695439999999,
@@ -355,13 +362,14 @@
       "mk": "Сент Џозеф",
       "no": "Saint Joseph prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "07": {
     "name": "Saint Lucy",
     "code": "07",
-    "unofficial_names": "Saint Lucy",
+    "unofficial_names": [
+      "Saint Lucy"
+    ],
     "geo": {
       "latitude": 13.3011778,
       "longitude": -59.621862,
@@ -414,13 +422,14 @@
       "ca": "Saint Lucy",
       "no": "Saint Lucy prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "08": {
     "name": "Saint Michael",
     "code": "08",
-    "unofficial_names": "Saint Michael",
+    "unofficial_names": [
+      "Saint Michael"
+    ],
     "geo": {
       "latitude": 13.1132219,
       "longitude": -59.59880889999999,
@@ -482,13 +491,14 @@
       "bg": "Сейнт Майкъл",
       "hu": "Saint Michael"
     },
-    "comments": null,
     "type": "parish"
   },
   "09": {
     "name": "Saint Peter",
     "code": "09",
-    "unofficial_names": "Saint Peter",
+    "unofficial_names": [
+      "Saint Peter"
+    ],
     "geo": {
       "latitude": 13.2600459,
       "longitude": -59.621862,
@@ -542,13 +552,14 @@
       "be": "Сент-Пітэр",
       "no": "Saint Peter prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "10": {
     "name": "Saint Philip",
     "code": "10",
-    "unofficial_names": "Saint Philip",
+    "unofficial_names": [
+      "Saint Philip"
+    ],
     "geo": {
       "latitude": 13.1362782,
       "longitude": -59.4605768,
@@ -603,13 +614,14 @@
       "az": "Sent-Filip",
       "be": "Сент-Філіп"
     },
-    "comments": null,
     "type": "parish"
   },
   "11": {
     "name": "Saint Thomas",
     "code": "11",
-    "unofficial_names": "Saint Thomas",
+    "unofficial_names": [
+      "Saint Thomas"
+    ],
     "geo": {
       "latitude": 13.1748291,
       "longitude": -59.59880889999999,
@@ -663,7 +675,6 @@
       "mk": "Сент Томас",
       "no": "Saint Thomas prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   }
 }

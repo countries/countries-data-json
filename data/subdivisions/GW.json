@@ -2,7 +2,9 @@
   "BA": {
     "name": "Bafatá",
     "code": "BA",
-    "unofficial_names": "Bafatá",
+    "unofficial_names": [
+      "Bafatá"
+    ],
     "geo": {
       "latitude": 12.171944,
       "longitude": -14.6575,
@@ -56,13 +58,14 @@
       "no": "Bafatá",
       "fa": "ناحیه بافتا"
     },
-    "comments": null,
     "type": "region"
   },
   "BL": {
     "name": "Bolama",
     "code": "BL",
-    "unofficial_names": "Bolama",
+    "unofficial_names": [
+      "Bolama"
+    ],
     "geo": {
       "latitude": 11.5770712,
       "longitude": -15.4800382,
@@ -117,13 +120,14 @@
       "no": "Bolama",
       "fa": "ناحیه بولاما"
     },
-    "comments": null,
     "type": "region"
   },
   "BM": {
     "name": "Biombo",
     "code": "BM",
-    "unofficial_names": "Biombo",
+    "unofficial_names": [
+      "Biombo"
+    ],
     "geo": {
       "latitude": 11.8529061,
       "longitude": -15.7351171,
@@ -176,13 +180,14 @@
       "ccp": "𑄝𑄭𑄃𑄮𑄟𑄴𑄝𑄮",
       "no": "Biombo"
     },
-    "comments": null,
     "type": "region"
   },
   "BS": {
     "name": "Bissau",
     "code": "BS",
-    "unofficial_names": "Bissau",
+    "unofficial_names": [
+      "Bissau"
+    ],
     "geo": {
       "latitude": 11.8816553,
       "longitude": -15.6177942,
@@ -274,7 +279,6 @@
       "ha_NE": "Bisau",
       "ps": "بیساو"
     },
-    "comments": null,
     "type": "autonomous_sector"
   },
   "CA": {
@@ -335,13 +339,14 @@
       "uk": "Регіон Кашеу",
       "no": "Cacheu"
     },
-    "comments": null,
     "type": "region"
   },
   "GA": {
     "name": "Gabú",
     "code": "GA",
-    "unofficial_names": "Gabú",
+    "unofficial_names": [
+      "Gabú"
+    ],
     "geo": {
       "latitude": 11.8962488,
       "longitude": -14.1001326,
@@ -395,21 +400,11 @@
       "ceb": "Gabú (rehiyon)",
       "fa": "ناحیه گابو"
     },
-    "comments": null,
     "type": "region"
   },
   "L": {
     "name": "Leste",
     "code": "L",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Leste",
       "ccp": "𑄣𑄬𑄌𑄴𑄑𑄬",
@@ -420,21 +415,11 @@
       "pt": "Província Leste",
       "ru": "Восточная провинция"
     },
-    "comments": null,
     "type": "province"
   },
   "N": {
     "name": "Norte",
     "code": "N",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Norte",
       "ccp": "𑄚𑄧𑄢𑄴𑄑𑄬",
@@ -446,13 +431,14 @@
       "pt": "Província Norte",
       "ru": "Северная провинция"
     },
-    "comments": null,
     "type": "province"
   },
   "OI": {
     "name": "Oio",
     "code": "OI",
-    "unofficial_names": "Oio",
+    "unofficial_names": [
+      "Oio"
+    ],
     "geo": {
       "latitude": 12.2760709,
       "longitude": -15.3131185,
@@ -506,13 +492,14 @@
       "uk": "Ойо",
       "no": "Oio"
     },
-    "comments": null,
     "type": "region"
   },
   "QU": {
     "name": "Quinara",
     "code": "QU",
-    "unofficial_names": "Quinara",
+    "unofficial_names": [
+      "Quinara"
+    ],
     "geo": {
       "latitude": 11.795562,
       "longitude": -15.1726816,
@@ -567,21 +554,11 @@
       "no": "Quinara",
       "fa": "ناحیه کوینارا"
     },
-    "comments": null,
     "type": "region"
   },
   "S": {
     "name": "Sul",
     "code": "S",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Sul",
       "ccp": "𑄥𑄣𑄴",
@@ -591,20 +568,17 @@
       "pt": "Província Sul",
       "ru": "Южная провинция"
     },
-    "comments": null,
     "type": "province"
   },
   "TO": {
     "name": "Tombali",
     "code": "TO",
-    "unofficial_names": "Tombali",
+    "unofficial_names": [
+      "Tombali"
+    ],
     "geo": {
       "latitude": 11.300838,
-      "longitude": -15.409939,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -15.409939
     },
     "translations": {
       "en": "Tombali",
@@ -651,7 +625,6 @@
       "no": "Tombali",
       "fa": "ناحیه تومبالی"
     },
-    "comments": null,
     "type": "region"
   }
 }

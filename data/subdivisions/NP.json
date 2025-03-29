@@ -2,15 +2,6 @@
   "1": {
     "name": "मध्यमाञ्चल विकास क्षेत्र",
     "code": "1",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المنطقة التنموية الوسطى",
       "bg": "Мадхяманчал",
@@ -41,21 +32,11 @@
       "ccp": "𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴",
       "hy": "Կենտրոնական շրջան"
     },
-    "comments": null,
     "type": "development_region"
   },
   "2": {
     "name": "मध्य-पश्चिमाञ्चल विकास क्षेत्र",
     "code": "2",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المنطقة التنموية الغربية الوسطى",
       "bn": "মধ্য-পশ্চিমাঞ্চল বিকাস ক্ষেত্র, নেপাল",
@@ -83,21 +64,11 @@
       "ceb": "Madhya Pashchimanchal",
       "hy": "Միջին արևմտյան տարածաշրջան"
     },
-    "comments": null,
     "type": "development_region"
   },
   "3": {
     "name": "पश्चिमाञ्चल विकास क्षेत्र",
     "code": "3",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المنطقة التنموية الغربية",
       "be": "Заходні рэгіён",
@@ -128,21 +99,11 @@
       "hy": "Արևմտյան շրջան",
       "ca": "Regió Occidental"
     },
-    "comments": null,
     "type": "development_region"
   },
   "4": {
     "name": "पूर्वाञ्चल विकास क्षेत्र",
     "code": "4",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المنطقة التنموية الشرقية",
       "bn": "পূর্বাঞ্চল বিকাস ক্ষেত্র",
@@ -171,21 +132,11 @@
       "ccp": "𑄛𑄪𑄢𑄴𑄤𑄚𑄴𑄌𑄧𑄣𑄴",
       "ca": "Regió de Desenvolupament Est"
     },
-    "comments": null,
     "type": "development_region"
   },
   "5": {
     "name": "सुदूर-पश्चिमाञ्चल विकास क्षेत्र",
     "code": "5",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المنطقة التنموية الغربية البعيدة",
       "bn": "সুদূর পশ্চিমাঞ্চল বিকাস ক্ষেত্র, নেপাল",
@@ -212,13 +163,14 @@
       "ccp": "𑄥𑄪𑄘𑄪𑄢𑄴 𑄛𑄧𑄌𑄴𑄥𑄨𑄟𑄚𑄴𑄌𑄧𑄣𑄴",
       "ceb": "Sudur Pashchimanchal"
     },
-    "comments": null,
     "type": "development_region"
   },
   "BA": {
     "name": "Bagmati",
     "code": "BA",
-    "unofficial_names": "Bagmati",
+    "unofficial_names": [
+      "Bagmati"
+    ],
     "geo": {
       "latitude": 28.0367577,
       "longitude": 85.4375574,
@@ -272,13 +224,14 @@
       "uk": "Багматі",
       "no": "Bagmati Sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "BH": {
     "name": "Bheri",
     "code": "BH",
-    "unofficial_names": "Bheri",
+    "unofficial_names": [
+      "Bheri"
+    ],
     "geo": {
       "latitude": 28.517456,
       "longitude": 81.77870209999999,
@@ -332,13 +285,14 @@
       "no": "Bheri sone",
       "fa": "منطقه بری"
     },
-    "comments": null,
     "type": "zone"
   },
   "DH": {
     "name": "Dhawalagiri",
     "code": "DH",
-    "unofficial_names": "Dhawalagiri",
+    "unofficial_names": [
+      "Dhawalagiri"
+    ],
     "geo": {
       "latitude": 28.611176,
       "longitude": 83.5070203,
@@ -393,13 +347,14 @@
       "no": "Dhaulagiri sone",
       "hy": "Դհաուլագիրի"
     },
-    "comments": null,
     "type": "zone"
   },
   "GA": {
     "name": "Gandaki",
     "code": "GA",
-    "unofficial_names": "Gandaki",
+    "unofficial_names": [
+      "Gandaki"
+    ],
     "geo": {
       "latitude": 28.3732037,
       "longitude": 84.4382721,
@@ -454,13 +409,14 @@
       "ca": "zona de Gandaki",
       "no": "Gandaki sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "JA": {
     "name": "Janakpur",
     "code": "JA",
-    "unofficial_names": "Janakpur",
+    "unofficial_names": [
+      "Janakpur"
+    ],
     "geo": {
       "latitude": 26.728611,
       "longitude": 85.925,
@@ -514,13 +470,14 @@
       "uk": "Джанакпур",
       "no": "Janakpur sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "KA": {
     "name": "Karnali",
     "code": "KA",
-    "unofficial_names": "Karnali",
+    "unofficial_names": [
+      "Karnali"
+    ],
     "geo": {
       "latitude": 29.3862555,
       "longitude": 82.38857829999999,
@@ -573,13 +530,14 @@
       "uk": "Карналі",
       "no": "Karnali sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "KO": {
     "name": "Kosi [Koshi]",
     "code": "KO",
-    "unofficial_names": "Kosi [Koshi]",
+    "unofficial_names": [
+      "Kosi [Koshi]"
+    ],
     "geo": {
       "latitude": 26.5459247,
       "longitude": 86.93737159999999,
@@ -617,20 +575,17 @@
       "ccp": "𑄇𑄮𑄥𑄨",
       "uk": "Косі"
     },
-    "comments": null,
     "type": "zone"
   },
   "LU": {
     "name": "Lumbini",
     "code": "LU",
-    "unofficial_names": "Lumbini",
+    "unofficial_names": [
+      "Lumbini"
+    ],
     "geo": {
       "latitude": 27.45,
-      "longitude": 83.25,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 83.25
     },
     "translations": {
       "en": "Lumbini",
@@ -663,13 +618,14 @@
       "hy": "Լումբինի",
       "mk": "Лумбини"
     },
-    "comments": null,
     "type": "zone"
   },
   "MA": {
     "name": "Mahakali",
     "code": "MA",
-    "unofficial_names": "Mahakali",
+    "unofficial_names": [
+      "Mahakali"
+    ],
     "geo": {
       "latitude": 29.39,
       "longitude": 80.3,
@@ -722,13 +678,14 @@
       "uk": "Махакалі",
       "no": "Mahakali Sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "ME": {
     "name": "Mechi",
     "code": "ME",
-    "unofficial_names": "Mechi",
+    "unofficial_names": [
+      "Mechi"
+    ],
     "geo": {
       "latitude": 26.8760007,
       "longitude": 87.9334803,
@@ -781,13 +738,14 @@
       "uk": "Мечі",
       "no": "Mechi"
     },
-    "comments": null,
     "type": "zone"
   },
   "NA": {
     "name": "Narayani",
     "code": "NA",
-    "unofficial_names": "Narayani",
+    "unofficial_names": [
+      "Narayani"
+    ],
     "geo": {
       "latitude": 27.5863482,
       "longitude": 84.3226488,
@@ -840,7 +798,6 @@
       "uk": "Нараяні",
       "no": "Narayani Sone"
     },
-    "comments": null,
     "type": "zone"
   },
   "P1": {
@@ -861,7 +818,6 @@
       "en": "Koshi Province",
       "ne": "कोशी प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P2": {
@@ -882,7 +838,6 @@
       "en": "Madhesh Province",
       "ne": "मधेश प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P3": {
@@ -903,7 +858,6 @@
       "en": "Bagmati Province",
       "ne": "बागमती प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P4": {
@@ -924,7 +878,6 @@
       "en": "Gandaki Province",
       "ne": "गण्डकी प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P5": {
@@ -945,7 +898,6 @@
       "en": "Lumbini Province",
       "ne": "लुम्बिनी प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P6": {
@@ -966,7 +918,6 @@
       "en": "Karnali Province",
       "ne": "कर्णाली प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "P7": {
@@ -987,13 +938,14 @@
       "en": "Sudurpashchim Province",
       "ne": "सुदूरपश्चिम प्रदेश"
     },
-    "comments": null,
     "type": "province"
   },
   "RA": {
     "name": "Rapti",
     "code": "RA",
-    "unofficial_names": "Rapti",
+    "unofficial_names": [
+      "Rapti"
+    ],
     "geo": {
       "latitude": 28.274347,
       "longitude": 82.38857829999999,
@@ -1047,20 +999,17 @@
       "no": "Rapti sone",
       "hy": "Ռապտի"
     },
-    "comments": null,
     "type": "zone"
   },
   "SA": {
     "name": "Sagarmatha",
     "code": "SA",
-    "unofficial_names": "Sagarmatha",
+    "unofficial_names": [
+      "Sagarmatha"
+    ],
     "geo": {
       "latitude": 27.9878093,
-      "longitude": 86.9249842,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 86.9249842
     },
     "translations": {
       "en": "Sagarmatha",
@@ -1110,13 +1059,14 @@
       "sr": "зона Сагармата",
       "sr_Latn": "zona Sagarmata"
     },
-    "comments": null,
     "type": "zone"
   },
   "SE": {
     "name": "Seti",
     "code": "SE",
-    "unofficial_names": "Seti",
+    "unofficial_names": [
+      "Seti"
+    ],
     "geo": {
       "latitude": 29.6905427,
       "longitude": 81.3399414,
@@ -1169,7 +1119,6 @@
       "uk": "Сеті",
       "no": "Seti"
     },
-    "comments": null,
     "type": "zone"
   }
 }

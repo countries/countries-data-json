@@ -2,7 +2,9 @@
   "1": {
     "name": "Concepción",
     "code": "1",
-    "unofficial_names": "Concepción",
+    "unofficial_names": [
+      "Concepción"
+    ],
     "geo": {
       "latitude": -22.811926,
       "longitude": -57.10131879999999,
@@ -45,13 +47,14 @@
       "th": "จังหวัดกอนเซปซิออน",
       "tr": "Concepción ili, Paraguay"
     },
-    "comments": null,
     "type": "department"
   },
   "10": {
     "name": "Alto Paraná",
     "code": "10",
-    "unofficial_names": "Alto Paraná",
+    "unofficial_names": [
+      "Alto Paraná"
+    ],
     "geo": {
       "latitude": -25.6075546,
       "longitude": -54.9611836,
@@ -110,13 +113,14 @@
       "no": "Alto Parana",
       "be": "Альта-Парана"
     },
-    "comments": null,
     "type": "department"
   },
   "11": {
     "name": "Central",
     "code": "11",
-    "unofficial_names": "Central",
+    "unofficial_names": [
+      "Central"
+    ],
     "geo": {
       "latitude": -25.5628115,
       "longitude": -57.5079912,
@@ -175,7 +179,6 @@
       "mk": "Централен департман",
       "no": "Sentral"
     },
-    "comments": null,
     "type": "department"
   },
   "12": {
@@ -242,13 +245,14 @@
       "no": "Neembucu",
       "ro": "Departamentul Ñeembucú (Paraguay)"
     },
-    "comments": null,
     "type": "department"
   },
   "13": {
     "name": "Amambay",
     "code": "13",
-    "unofficial_names": "Amambay",
+    "unofficial_names": [
+      "Amambay"
+    ],
     "geo": {
       "latitude": -22.5590272,
       "longitude": -56.0249982,
@@ -308,7 +312,6 @@
       "no": "Amambay",
       "be": "Амамбай"
     },
-    "comments": null,
     "type": "department"
   },
   "14": {
@@ -376,13 +379,14 @@
       "no": "Canindeyu",
       "ro": "Departamentul Canindeyú (Paraguay)"
     },
-    "comments": null,
     "type": "department"
   },
   "15": {
     "name": "Presidente Hayes",
     "code": "15",
-    "unofficial_names": "Presidente Hayes",
+    "unofficial_names": [
+      "Presidente Hayes"
+    ],
     "geo": {
       "latitude": -23.3512605,
       "longitude": -58.73736339999999,
@@ -440,13 +444,14 @@
       "no": "Presidente Hayes",
       "fa": "بخش پرزیدنت هایز"
     },
-    "comments": null,
     "type": "department"
   },
   "16": {
     "name": "Alto Paraguay",
     "code": "16",
-    "unofficial_names": "Alto Paraguay",
+    "unofficial_names": [
+      "Alto Paraguay"
+    ],
     "geo": {
       "latitude": -20.0852508,
       "longitude": -59.4720904,
@@ -506,13 +511,14 @@
       "be": "Альта-Парагвай",
       "ro": "Departamentul Alto Paraguay (Paraguay)"
     },
-    "comments": null,
     "type": "department"
   },
   "19": {
     "name": "Boquerón",
     "code": "19",
-    "unofficial_names": "Boquerón",
+    "unofficial_names": [
+      "Boquerón"
+    ],
     "geo": {
       "latitude": -21.7449254,
       "longitude": -60.9540073,
@@ -572,13 +578,14 @@
       "no": "XVI Boqueron",
       "be": "Бакерон"
     },
-    "comments": null,
     "type": "department"
   },
   "2": {
     "name": "San Pedro",
     "code": "2",
-    "unofficial_names": "San Pedro",
+    "unofficial_names": [
+      "San Pedro"
+    ],
     "geo": {
       "latitude": -24.1948668,
       "longitude": -56.56164700000001,
@@ -635,13 +642,14 @@
       "mk": "Сан Педро",
       "no": "San Pedro"
     },
-    "comments": null,
     "type": "department"
   },
   "3": {
     "name": "Cordillera",
     "code": "3",
-    "unofficial_names": "Cordillera",
+    "unofficial_names": [
+      "Cordillera"
+    ],
     "geo": {
       "latitude": -25.2289491,
       "longitude": -57.0111681,
@@ -700,13 +708,14 @@
       "az": "Kordilyera",
       "fa": "بخش کوردیلرا"
     },
-    "comments": null,
     "type": "department"
   },
   "4": {
     "name": "Guairá",
     "code": "4",
-    "unofficial_names": "Guairá",
+    "unofficial_names": [
+      "Guairá"
+    ],
     "geo": {
       "latitude": -25.8810932,
       "longitude": -56.2929381,
@@ -766,13 +775,14 @@
       "be": "Гуайра (дэпартамент)",
       "fa": "بخش گوآیرا"
     },
-    "comments": null,
     "type": "department"
   },
   "5": {
     "name": "Caaguazú",
     "code": "5",
-    "unofficial_names": "Caaguazú",
+    "unofficial_names": [
+      "Caaguazú"
+    ],
     "geo": {
       "latitude": -25.46,
       "longitude": -56.02,
@@ -832,13 +842,14 @@
       "no": "Caaguazu",
       "hy": "Կաագուասու"
     },
-    "comments": null,
     "type": "department"
   },
   "6": {
     "name": "Caazapá",
     "code": "6",
-    "unofficial_names": "Caazapá",
+    "unofficial_names": [
+      "Caazapá"
+    ],
     "geo": {
       "latitude": -26.2260696,
       "longitude": -56.0249982,
@@ -897,13 +908,14 @@
       "be": "Каасапа (дэпартамент)",
       "he": "מחוז קאאספה"
     },
-    "comments": null,
     "type": "department"
   },
   "7": {
     "name": "Itapúa",
     "code": "7",
-    "unofficial_names": "Itapúa",
+    "unofficial_names": [
+      "Itapúa"
+    ],
     "geo": {
       "latitude": -26.7923623,
       "longitude": -55.6689636,
@@ -962,13 +974,14 @@
       "no": "Itapua",
       "be": "Ітапуа"
     },
-    "comments": null,
     "type": "department"
   },
   "8": {
     "name": "Misiones",
     "code": "8",
-    "unofficial_names": "Misiones",
+    "unofficial_names": [
+      "Misiones"
+    ],
     "geo": {
       "latitude": -26.8433512,
       "longitude": -57.10131879999999,
@@ -1027,13 +1040,14 @@
       "mk": "Мисионес",
       "no": "Misiones"
     },
-    "comments": null,
     "type": "department"
   },
   "9": {
     "name": "Paraguarí",
     "code": "9",
-    "unofficial_names": "Paraguarí",
+    "unofficial_names": [
+      "Paraguarí"
+    ],
     "geo": {
       "latitude": -25.633333,
       "longitude": -57.15,
@@ -1075,13 +1089,14 @@
       "th": "จังหวัดปารากัวรี",
       "tr": "Paraguarí (il)"
     },
-    "comments": null,
     "type": "department"
   },
   "ASU": {
     "name": "Asunción",
     "code": "ASU",
-    "unofficial_names": "Asunción",
+    "unofficial_names": [
+      "Asunción"
+    ],
     "geo": {
       "latitude": -25.282197,
       "longitude": -57.63509999999999,
@@ -1173,7 +1188,6 @@
       "no": "Asunción",
       "yo_BJ": "Asunción"
     },
-    "comments": null,
     "type": "capital_city"
   }
 }

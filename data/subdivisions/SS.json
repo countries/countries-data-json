@@ -2,15 +2,6 @@
   "BN": {
     "name": "شمال بحر الغزال",
     "code": "BN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "شمال بحر الغزال",
       "bg": "Северен Бахър ал Газал",
@@ -62,21 +53,11 @@
       "ro": "Statul Bahr al Ghazal de Nord",
       "zu": "Northern Bahr el Ghazal"
     },
-    "comments": null,
     "type": "state"
   },
   "BW": {
     "name": "غرب بحر الغزال",
     "code": "BW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "غرب بحر الغزال",
       "bg": "Западен Бахър ал Газал",
@@ -127,21 +108,11 @@
       "mk": "Западен Бахр ел-Газал",
       "no": "Western Bahr el Ghazal"
     },
-    "comments": null,
     "type": "state"
   },
   "EC": {
     "name": "وسط الاستوائية",
     "code": "EC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "وسط الاستوائية",
       "bg": "Централна Екватория",
@@ -195,21 +166,11 @@
       "mk": "Централна Екваторија",
       "no": "Central Equatoria"
     },
-    "comments": null,
     "type": "state"
   },
   "EE": {
     "name": "شرق الاستوائية",
     "code": "EE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "شرق الاستوائية",
       "bg": "Източна Екватория",
@@ -260,21 +221,11 @@
       "mk": "Источна Екваторија",
       "no": "Øst-Ekvatoria"
     },
-    "comments": null,
     "type": "state"
   },
   "EW": {
     "name": "غرب الاستوائية",
     "code": "EW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "غرب الاستوائية",
       "bg": "Западна Екватория",
@@ -324,21 +275,11 @@
       "mk": "Западна Екваторија",
       "no": "Western Equatoria"
     },
-    "comments": null,
     "type": "state"
   },
   "JG": {
     "name": "جونقلي",
     "code": "JG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جونقلي",
       "bg": "Джонглей",
@@ -391,21 +332,11 @@
       "no": "Jonglei",
       "hy": "Ջոնգլեյ"
     },
-    "comments": null,
     "type": "state"
   },
   "LK": {
     "name": "البحيرات",
     "code": "LK",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "البحيرات",
       "bg": "Езерна провинция",
@@ -457,21 +388,11 @@
       "mk": "Езера",
       "no": "Lakes"
     },
-    "comments": null,
     "type": "state"
   },
   "NU": {
     "name": "أعالي النيل",
     "code": "NU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "أعالي النيل",
       "be": "Штат Верхні Ніл",
@@ -525,21 +446,11 @@
       "no": "Upper Nile",
       "hr": "Gornji Nil"
     },
-    "comments": null,
     "type": "state"
   },
   "UY": {
     "name": "الوحدة",
     "code": "UY",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "الوحدة",
       "bg": "Единство",
@@ -590,21 +501,11 @@
       "mk": "Единство",
       "no": "Unity"
     },
-    "comments": null,
     "type": "state"
   },
   "WR": {
     "name": "واراب",
     "code": "WR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "واراب",
       "bg": "Уараб",
@@ -656,7 +557,6 @@
       "mk": "Варап",
       "no": "Warrap"
     },
-    "comments": null,
     "type": "state"
   }
 }

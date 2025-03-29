@@ -2,7 +2,9 @@
   "01": {
     "name": "Ain",
     "code": "01",
-    "unofficial_names": "Ain",
+    "unofficial_names": [
+      "Ain"
+    ],
     "geo": {
       "latitude": 46.2475706,
       "longitude": 5.1307681,
@@ -80,13 +82,14 @@
       "ga": "Ain",
       "mk": "Ен"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "02": {
     "name": "Aisne",
     "code": "02",
-    "unofficial_names": "Aisne",
+    "unofficial_names": [
+      "Aisne"
+    ],
     "geo": {
       "latitude": 49.4769199,
       "longitude": 3.4417368,
@@ -164,13 +167,14 @@
       "ga": "Aisne",
       "ml": "അൽസ്നെ"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "03": {
     "name": "Allier",
     "code": "03",
-    "unofficial_names": "Allier",
+    "unofficial_names": [
+      "Allier"
+    ],
     "geo": {
       "latitude": 46.3115552,
       "longitude": 3.4167655,
@@ -247,13 +251,14 @@
       "no": "Allier",
       "mk": "Алје"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "04": {
     "name": "Alpes-de-Haute-Provence",
     "code": "04",
-    "unofficial_names": "Alpes-de-Haute-Provence",
+    "unofficial_names": [
+      "Alpes-de-Haute-Provence"
+    ],
     "geo": {
       "latitude": 44.07787159999999,
       "longitude": 6.2375947,
@@ -328,13 +333,14 @@
       "mk": "Горнопровансалски Алпи",
       "no": "Alpes-de-Haute-Provence"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "05": {
     "name": "Hautes-Alpes",
     "code": "05",
-    "unofficial_names": "Hautes-Alpes",
+    "unofficial_names": [
+      "Hautes-Alpes"
+    ],
     "geo": {
       "latitude": 44.6008723,
       "longitude": 6.322607199999999,
@@ -409,13 +415,14 @@
       "no": "Hautes-Alpes",
       "mk": "Горни Алпи"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "06": {
     "name": "Alpes-Maritimes",
     "code": "06",
-    "unofficial_names": "Alpes-Maritimes",
+    "unofficial_names": [
+      "Alpes-Maritimes"
+    ],
     "geo": {
       "latitude": 43.9466791,
       "longitude": 7.179025999999999,
@@ -491,13 +498,14 @@
       "mk": "Приморски Алпи",
       "no": "Alpes-Maritimes"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "07": {
     "name": "Ardèche",
     "code": "07",
-    "unofficial_names": "Ardèche",
+    "unofficial_names": [
+      "Ardèche"
+    ],
     "geo": {
       "latitude": 44.759629,
       "longitude": 4.5624426,
@@ -572,13 +580,14 @@
       "mk": "Ардеш",
       "no": "Ardèche"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "08": {
     "name": "Ardennes",
     "code": "08",
-    "unofficial_names": "Ardennes",
+    "unofficial_names": [
+      "Ardennes"
+    ],
     "geo": {
       "latitude": 49.7624642,
       "longitude": 4.6285053,
@@ -654,13 +663,14 @@
       "mk": "Ардени",
       "no": "Ardennes"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "09": {
     "name": "Ariège",
     "code": "09",
-    "unofficial_names": "Ariège",
+    "unofficial_names": [
+      "Ariège"
+    ],
     "geo": {
       "latitude": 42.9326292,
       "longitude": 1.443469,
@@ -734,13 +744,14 @@
       "no": "Ariège",
       "mk": "Арјеж"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "10": {
     "name": "Aube",
     "code": "10",
-    "unofficial_names": "Aube",
+    "unofficial_names": [
+      "Aube"
+    ],
     "geo": {
       "latitude": 48.1563418,
       "longitude": 4.3732462,
@@ -816,13 +827,14 @@
       "mk": "Об",
       "no": "Aube"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "11": {
     "name": "Aude",
     "code": "11",
-    "unofficial_names": "Aude",
+    "unofficial_names": [
+      "Aude"
+    ],
     "geo": {
       "latitude": 43.0724667,
       "longitude": 2.3813621,
@@ -898,13 +910,14 @@
       "no": "Aude",
       "mk": "Од"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "12": {
     "name": "Aveyron",
     "code": "12",
-    "unofficial_names": "Aveyron",
+    "unofficial_names": [
+      "Aveyron"
+    ],
     "geo": {
       "latitude": 44.2179747,
       "longitude": 2.6189273,
@@ -979,13 +992,14 @@
       "mk": "Аверон",
       "no": "Aveyron"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "13": {
     "name": "Bouches-du-Rhône",
     "code": "13",
-    "unofficial_names": "Bouches-du-Rhône",
+    "unofficial_names": [
+      "Bouches-du-Rhône"
+    ],
     "geo": {
       "latitude": 43.59116789999999,
       "longitude": 5.3102505,
@@ -1060,13 +1074,14 @@
       "no": "Bouches-du-Rhône",
       "mk": "Устие на Рона"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "14": {
     "name": "Calvados",
     "code": "14",
-    "unofficial_names": "Calvados",
+    "unofficial_names": [
+      "Calvados"
+    ],
     "geo": {
       "latitude": 49.1213315,
       "longitude": -0.4330578,
@@ -1144,13 +1159,14 @@
       "mk": "Калвадос",
       "ml": "കാൽവഡോസ്"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "15": {
     "name": "Cantal",
     "code": "15",
-    "unofficial_names": "Cantal",
+    "unofficial_names": [
+      "Cantal"
+    ],
     "geo": {
       "latitude": 45.1191997,
       "longitude": 2.6326062,
@@ -1225,13 +1241,14 @@
       "no": "Cantal",
       "mk": "Кантал"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "16": {
     "name": "Charente",
     "code": "16",
-    "unofficial_names": "Charente",
+    "unofficial_names": [
+      "Charente"
+    ],
     "geo": {
       "latitude": 45.7519958,
       "longitude": 0.1534761,
@@ -1306,13 +1323,14 @@
       "no": "Charente",
       "mk": "Шаранта"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "17": {
     "name": "Charente-Maritime",
     "code": "17",
-    "unofficial_names": "Charente-Maritime",
+    "unofficial_names": [
+      "Charente-Maritime"
+    ],
     "geo": {
       "latitude": 45.74948999999999,
       "longitude": -0.7733188,
@@ -1387,13 +1405,14 @@
       "mk": "Приморска Шаранта",
       "no": "Charente-Maritime"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "18": {
     "name": "Cher",
     "code": "18",
-    "unofficial_names": "Cher",
+    "unofficial_names": [
+      "Cher"
+    ],
     "geo": {
       "latitude": 46.954005,
       "longitude": 2.4671908,
@@ -1469,13 +1488,14 @@
       "he": "שר (מחוז)",
       "mk": "Шер"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "19": {
     "name": "Corrèze",
     "code": "19",
-    "unofficial_names": "Corrèze",
+    "unofficial_names": [
+      "Corrèze"
+    ],
     "geo": {
       "latitude": 45.372114,
       "longitude": 1.873739,
@@ -1550,7 +1570,6 @@
       "no": "Corrèze",
       "mk": "Корез"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "20R": {
@@ -1636,14 +1655,9 @@
       "mn": "Корсика",
       "my": "ကော်စီကာ"
     },
-    "comments": null,
     "geo": {
       "latitude": 42.180721,
-      "longitude": 9.04704,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 9.04704
     },
     "code": "20R",
     "type": "metropolitan_collectivity_with_special_status"
@@ -1651,7 +1665,9 @@
   "21": {
     "name": "Côte-d'Or",
     "code": "21",
-    "unofficial_names": "Côte-d'Or",
+    "unofficial_names": [
+      "Côte-d'Or"
+    ],
     "geo": {
       "latitude": 47.5126795,
       "longitude": 4.635412,
@@ -1723,7 +1739,6 @@
       "mk": "Златен Брег",
       "no": "Côte-d’Or"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "22": {
@@ -1801,13 +1816,14 @@
       "no": "Côtes-d’Armor",
       "mk": "Арморски Брег"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "23": {
     "name": "Creuse",
     "code": "23",
-    "unofficial_names": "Creuse",
+    "unofficial_names": [
+      "Creuse"
+    ],
     "geo": {
       "latitude": 46.03776329999999,
       "longitude": 2.0627832,
@@ -1882,13 +1898,14 @@
       "no": "Creuse",
       "mk": "Крез"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "24": {
     "name": "Dordogne",
     "code": "24",
-    "unofficial_names": "Dordogne",
+    "unofficial_names": [
+      "Dordogne"
+    ],
     "geo": {
       "latitude": 45.14694859999999,
       "longitude": 0.7572205,
@@ -1965,13 +1982,14 @@
       "ga": "Dordogne",
       "ml": "ഡോർഡോഗ്നെ"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "25": {
     "name": "Doubs",
     "code": "25",
-    "unofficial_names": "Doubs",
+    "unofficial_names": [
+      "Doubs"
+    ],
     "geo": {
       "latitude": 46.92760000000001,
       "longitude": 6.349000999999999,
@@ -2047,13 +2065,14 @@
       "ga": "Doubs",
       "mk": "Ду"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "26": {
     "name": "Drôme",
     "code": "26",
-    "unofficial_names": "Drôme",
+    "unofficial_names": [
+      "Drôme"
+    ],
     "geo": {
       "latitude": 44.73118960000001,
       "longitude": 5.2266675,
@@ -2128,13 +2147,14 @@
       "no": "Drôme",
       "mk": "Дром"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "27": {
     "name": "Eure",
     "code": "27",
-    "unofficial_names": "Eure",
+    "unofficial_names": [
+      "Eure"
+    ],
     "geo": {
       "latitude": 49.11817629999999,
       "longitude": 0.9582113999999999,
@@ -2209,13 +2229,14 @@
       "no": "Eure",
       "ga": "Eure"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "28": {
     "name": "Eure-et-Loir",
     "code": "28",
-    "unofficial_names": "Eure-et-Loir",
+    "unofficial_names": [
+      "Eure-et-Loir"
+    ],
     "geo": {
       "latitude": 48.5525242,
       "longitude": 1.1989814,
@@ -2290,13 +2311,14 @@
       "mk": "Ер и Лоар",
       "no": "Eure-et-Loir"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "29": {
     "name": "Finistère",
     "code": "29",
-    "unofficial_names": "Finistère",
+    "unofficial_names": [
+      "Finistère"
+    ],
     "geo": {
       "latitude": 48.2520249,
       "longitude": -3.9300525,
@@ -2374,13 +2396,14 @@
       "no": "Finistère",
       "mn": "Финистер (департамент)"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "2A": {
     "name": "Corse-du-Sud",
     "code": "2A",
-    "unofficial_names": "Corse-du-Sud",
+    "unofficial_names": [
+      "Corse-du-Sud"
+    ],
     "geo": {
       "latitude": 41.8102633,
       "longitude": 8.9245343,
@@ -2457,13 +2480,14 @@
       "ga": "Corse-du-Sud",
       "mk": "Јужна Корзика"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "2B": {
     "name": "Haute-Corse",
     "code": "2B",
-    "unofficial_names": "Haute-Corse",
+    "unofficial_names": [
+      "Haute-Corse"
+    ],
     "geo": {
       "latitude": 42.4097877,
       "longitude": 9.2785583,
@@ -2540,13 +2564,14 @@
       "ga": "Haute-Corse",
       "mk": "Горна Корзика"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "30": {
     "name": "Gard",
     "code": "30",
-    "unofficial_names": "Gard",
+    "unofficial_names": [
+      "Gard"
+    ],
     "geo": {
       "latitude": 43.9446996,
       "longitude": 4.1513764,
@@ -2621,13 +2646,14 @@
       "no": "Gard",
       "mk": "Гар"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "31": {
     "name": "Haute-Garonne",
     "code": "31",
-    "unofficial_names": "Haute-Garonne",
+    "unofficial_names": [
+      "Haute-Garonne"
+    ],
     "geo": {
       "latitude": 43.4010462,
       "longitude": 1.135302,
@@ -2703,13 +2729,14 @@
       "ga": "Haute-Garonne",
       "mk": "Горна Гарона"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "32": {
     "name": "Gers",
     "code": "32",
-    "unofficial_names": "Gers",
+    "unofficial_names": [
+      "Gers"
+    ],
     "geo": {
       "latitude": 43.6366479,
       "longitude": 0.4502368,
@@ -2786,13 +2813,14 @@
       "ga": "Gers",
       "mk": "Жер"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "33": {
     "name": "Gironde",
     "code": "33",
-    "unofficial_names": "Gironde",
+    "unofficial_names": [
+      "Gironde"
+    ],
     "geo": {
       "latitude": 44.84966499999999,
       "longitude": -0.4502368,
@@ -2868,13 +2896,14 @@
       "mk": "Жиронда (департман)",
       "no": "Gironde"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "34": {
     "name": "Hérault",
     "code": "34",
-    "unofficial_names": "Hérault",
+    "unofficial_names": [
+      "Hérault"
+    ],
     "geo": {
       "latitude": 43.5912356,
       "longitude": 3.2583626,
@@ -2952,13 +2981,14 @@
       "az": "Ero (departament)",
       "ga": "Hérault"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "35": {
     "name": "Ille-et-Vilaine",
     "code": "35",
-    "unofficial_names": "Ille-et-Vilaine",
+    "unofficial_names": [
+      "Ille-et-Vilaine"
+    ],
     "geo": {
       "latitude": 48.2292016,
       "longitude": -1.5300695,
@@ -3035,13 +3065,14 @@
       "ga": "Ille-et-Vilaine",
       "mk": "Ил и Вилен"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "36": {
     "name": "Indre",
     "code": "36",
-    "unofficial_names": "Indre",
+    "unofficial_names": [
+      "Indre"
+    ],
     "geo": {
       "latitude": 46.6613966,
       "longitude": 1.4482662,
@@ -3117,13 +3148,14 @@
       "no": "Indre",
       "mk": "Ендр"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "37": {
     "name": "Indre-et-Loire",
     "code": "37",
-    "unofficial_names": "Indre-et-Loire",
+    "unofficial_names": [
+      "Indre-et-Loire"
+    ],
     "geo": {
       "latitude": 47.28949249999999,
       "longitude": 0.816097,
@@ -3199,13 +3231,14 @@
       "no": "Indre-et-Loire",
       "az": "Endr və Luara"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "38": {
     "name": "Isère",
     "code": "38",
-    "unofficial_names": "Isère",
+    "unofficial_names": [
+      "Isère"
+    ],
     "geo": {
       "latitude": 44.9957745,
       "longitude": 5.9293476,
@@ -3281,13 +3314,14 @@
       "hr": "Isère (departman)",
       "mk": "Изер"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "39": {
     "name": "Jura",
     "code": "39",
-    "unofficial_names": "Jura",
+    "unofficial_names": [
+      "Jura"
+    ],
     "geo": {
       "latitude": 46.76247499999999,
       "longitude": 5.6729159,
@@ -3362,13 +3396,14 @@
       "az": "Yura (departament)",
       "mk": "Јура"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "40": {
     "name": "Landes",
     "code": "40",
-    "unofficial_names": "Landes",
+    "unofficial_names": [
+      "Landes"
+    ],
     "geo": {
       "latitude": 43.9412045,
       "longitude": -0.7532808999999999,
@@ -3443,13 +3478,14 @@
       "no": "Landes",
       "mn": "Ланд аймаг"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "41": {
     "name": "Loir-et-Cher",
     "code": "41",
-    "unofficial_names": "Loir-et-Cher",
+    "unofficial_names": [
+      "Loir-et-Cher"
+    ],
     "geo": {
       "latitude": 47.6761905,
       "longitude": 1.4159072,
@@ -3525,13 +3561,14 @@
       "am": "ሏር-ኤ-ሼር",
       "az": "Luar və Şer"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "42": {
     "name": "Loire",
     "code": "42",
-    "unofficial_names": "Loire",
+    "unofficial_names": [
+      "Loire"
+    ],
     "geo": {
       "latitude": 45.9846475,
       "longitude": 4.052544999999999,
@@ -3607,13 +3644,14 @@
       "mk": "Лоара",
       "sq": "Loire"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "43": {
     "name": "Haute-Loire",
     "code": "43",
-    "unofficial_names": "Haute-Loire",
+    "unofficial_names": [
+      "Haute-Loire"
+    ],
     "geo": {
       "latitude": 45.0821226,
       "longitude": 3.9266366,
@@ -3689,13 +3727,14 @@
       "no": "Haute-Loire",
       "mk": "Горна Лоара"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "44": {
     "name": "Loire-Atlantique",
     "code": "44",
-    "unofficial_names": "Loire-Atlantique",
+    "unofficial_names": [
+      "Loire-Atlantique"
+    ],
     "geo": {
       "latitude": 47.27804680000001,
       "longitude": -1.8157647,
@@ -3771,13 +3810,14 @@
       "mk": "Атлантска Лоара",
       "mn": "Атлантын Луар (департамент)"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "45": {
     "name": "Loiret",
     "code": "45",
-    "unofficial_names": "Loiret",
+    "unofficial_names": [
+      "Loiret"
+    ],
     "geo": {
       "latitude": 47.900771,
       "longitude": 2.2018172,
@@ -3853,13 +3893,14 @@
       "no": "Loiret",
       "mk": "Лоаре"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "46": {
     "name": "Lot",
     "code": "46",
-    "unofficial_names": "Lot",
+    "unofficial_names": [
+      "Lot"
+    ],
     "geo": {
       "latitude": 44.5379358,
       "longitude": 1.6760691,
@@ -3933,13 +3974,14 @@
       "mk": "Лот",
       "no": "Lot"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "47": {
     "name": "Lot-et-Garonne",
     "code": "47",
-    "unofficial_names": "Lot-et-Garonne",
+    "unofficial_names": [
+      "Lot-et-Garonne"
+    ],
     "geo": {
       "latitude": 44.2470173,
       "longitude": 0.4502368,
@@ -4015,13 +4057,14 @@
       "mk": "Лот и Гарона",
       "mn": "Ло – Гаронна"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "48": {
     "name": "Lozère",
     "code": "48",
-    "unofficial_names": "Lozère",
+    "unofficial_names": [
+      "Lozère"
+    ],
     "geo": {
       "latitude": 44.494203,
       "longitude": 3.5812692,
@@ -4097,13 +4140,14 @@
       "mk": "Лозер",
       "mn": "Лозер"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "49": {
     "name": "Maine-et-Loire",
     "code": "49",
-    "unofficial_names": "Maine-et-Loire",
+    "unofficial_names": [
+      "Maine-et-Loire"
+    ],
     "geo": {
       "latitude": 47.2913545,
       "longitude": -0.4877852,
@@ -4179,13 +4223,14 @@
       "ga": "Maine-et-Loire",
       "mk": "Мен и Лоара"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "50": {
     "name": "Manche",
     "code": "50",
-    "unofficial_names": "Manche",
+    "unofficial_names": [
+      "Manche"
+    ],
     "geo": {
       "latitude": 49.114712,
       "longitude": -1.3115949,
@@ -4261,13 +4306,14 @@
       "ga": "Manche",
       "mk": "Манш"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "51": {
     "name": "Marne",
     "code": "51",
-    "unofficial_names": "Marne",
+    "unofficial_names": [
+      "Marne"
+    ],
     "geo": {
       "latitude": 49.128754,
       "longitude": 4.1475445,
@@ -4343,13 +4389,14 @@
       "no": "Marne",
       "mk": "Марна"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "52": {
     "name": "Haute-Marne",
     "code": "52",
-    "unofficial_names": "Haute-Marne",
+    "unofficial_names": [
+      "Haute-Marne"
+    ],
     "geo": {
       "latitude": 48.1260968,
       "longitude": 5.1071322,
@@ -4426,13 +4473,14 @@
       "ga": "Haute-Marne",
       "mk": "Горна Марна"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "53": {
     "name": "Mayenne",
     "code": "53",
-    "unofficial_names": "Mayenne",
+    "unofficial_names": [
+      "Mayenne"
+    ],
     "geo": {
       "latitude": 48.3061239,
       "longitude": -0.620935,
@@ -4507,13 +4555,14 @@
       "no": "Mayenne",
       "mk": "Мајен"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "54": {
     "name": "Meurthe-et-Moselle",
     "code": "54",
-    "unofficial_names": "Meurthe-et-Moselle",
+    "unofficial_names": [
+      "Meurthe-et-Moselle"
+    ],
     "geo": {
       "latitude": 48.7997007,
       "longitude": 6.094701400000001,
@@ -4589,13 +4638,14 @@
       "no": "Meurthe-et-Moselle",
       "ga": "Meurthe-et-Moselle"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "55": {
     "name": "Meuse",
     "code": "55",
-    "unofficial_names": "Meuse",
+    "unofficial_names": [
+      "Meuse"
+    ],
     "geo": {
       "latitude": 49.0824319,
       "longitude": 5.282399700000001,
@@ -4669,13 +4719,14 @@
       "mk": "Меза",
       "no": "Meuse"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "56": {
     "name": "Morbihan",
     "code": "56",
-    "unofficial_names": "Morbihan",
+    "unofficial_names": [
+      "Morbihan"
+    ],
     "geo": {
       "latitude": 47.8852929,
       "longitude": -2.9001865,
@@ -4751,13 +4802,14 @@
       "mk": "Морбијан",
       "no": "Morbihan"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "57": {
     "name": "Moselle",
     "code": "57",
-    "unofficial_names": "Moselle",
+    "unofficial_names": [
+      "Moselle"
+    ],
     "geo": {
       "latitude": 49.0983839,
       "longitude": 6.5527641,
@@ -4834,13 +4886,14 @@
       "no": "Moselle",
       "ga": "Moselle"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "58": {
     "name": "Nièvre",
     "code": "58",
-    "unofficial_names": "Nièvre",
+    "unofficial_names": [
+      "Nièvre"
+    ],
     "geo": {
       "latitude": 47.2381708,
       "longitude": 3.5294522,
@@ -4915,13 +4968,14 @@
       "ga": "Nièvre",
       "mk": "Њевр"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "59": {
     "name": "Nord",
     "code": "59",
-    "unofficial_names": "Nord",
+    "unofficial_names": [
+      "Nord"
+    ],
     "geo": {
       "latitude": 50.3851246,
       "longitude": 3.2642436,
@@ -4995,13 +5049,14 @@
       "mk": "Север",
       "no": "Nord"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "60": {
     "name": "Oise",
     "code": "60",
-    "unofficial_names": "Oise",
+    "unofficial_names": [
+      "Oise"
+    ],
     "geo": {
       "latitude": 49.42145679999999,
       "longitude": 2.4146396,
@@ -5077,13 +5132,14 @@
       "no": "Oise",
       "hr": "Oise"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "61": {
     "name": "Orne",
     "code": "61",
-    "unofficial_names": "Orne",
+    "unofficial_names": [
+      "Orne"
+    ],
     "geo": {
       "latitude": 48.6388567,
       "longitude": 0.0848201,
@@ -5160,13 +5216,14 @@
       "mk": "Орн",
       "ml": "ഓർനെ"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "62": {
     "name": "Pas-de-Calais",
     "code": "62",
-    "unofficial_names": "Pas-de-Calais",
+    "unofficial_names": [
+      "Pas-de-Calais"
+    ],
     "geo": {
       "latitude": 50.5732769,
       "longitude": 2.3244679,
@@ -5240,20 +5297,17 @@
       "mk": "Па де Кале",
       "no": "Pas-de-Calais"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "63": {
     "name": "Puy-de-Dôme",
     "code": "63",
-    "unofficial_names": "Puy-de-Dôme",
+    "unofficial_names": [
+      "Puy-de-Dôme"
+    ],
     "geo": {
       "latitude": 45.7725738,
-      "longitude": 2.9644431,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 2.9644431
     },
     "translations": {
       "no": "Puy-de-Dôme",
@@ -5321,13 +5375,14 @@
       "az": "Püi-de-Dom",
       "mk": "Пиј де Дом"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "64": {
     "name": "Pyrénées-Atlantiques",
     "code": "64",
-    "unofficial_names": "Pyrénées-Atlantiques",
+    "unofficial_names": [
+      "Pyrénées-Atlantiques"
+    ],
     "geo": {
       "latitude": 43.3269942,
       "longitude": -0.7532808999999999,
@@ -5404,13 +5459,14 @@
       "ga": "Pyrénées-Atlantiques",
       "mk": "Атлантски Пиринеи"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "65": {
     "name": "Hautes-Pyrénées",
     "code": "65",
-    "unofficial_names": "Hautes-Pyrénées",
+    "unofficial_names": [
+      "Hautes-Pyrénées"
+    ],
     "geo": {
       "latitude": 43.0193924,
       "longitude": 0.1494988,
@@ -5486,13 +5542,14 @@
       "no": "Hautes-Pyrénées",
       "ga": "Hautes-Pyrénées"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "66": {
     "name": "Pyrénées-Orientales",
     "code": "66",
-    "unofficial_names": "Pyrénées-Orientales",
+    "unofficial_names": [
+      "Pyrénées-Orientales"
+    ],
     "geo": {
       "latitude": 42.6012912,
       "longitude": 2.539603,
@@ -5568,13 +5625,14 @@
       "no": "Pyrénées-Orientales",
       "mk": "Источни Пиринеи"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "67": {
     "name": "Bas-Rhin",
     "code": "67",
-    "unofficial_names": "Bas-Rhin",
+    "unofficial_names": [
+      "Bas-Rhin"
+    ],
     "geo": {
       "latitude": 48.6343172,
       "longitude": 7.525293800000001,
@@ -5652,13 +5710,14 @@
       "ga": "Bas-Rhin",
       "ml": "ബാസ്-റിൻ"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "68": {
     "name": "Haut-Rhin",
     "code": "68",
-    "unofficial_names": "Haut-Rhin",
+    "unofficial_names": [
+      "Haut-Rhin"
+    ],
     "geo": {
       "latitude": 47.9315041,
       "longitude": 7.2441099,
@@ -5736,13 +5795,14 @@
       "no": "Haut-Rhin",
       "ga": "Haut-Rhin"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "69": {
     "name": "Rhône",
     "code": "69",
-    "unofficial_names": "Rhône",
+    "unofficial_names": [
+      "Rhône"
+    ],
     "geo": {
       "latitude": 45.7351456,
       "longitude": 4.6108043,
@@ -5817,13 +5877,14 @@
       "mk": "Рона",
       "no": "Rhône"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "69M": {
     "name": "Métropole de Lyon",
     "code": "69M",
-    "unofficial_names": "Métropole de Lyon",
+    "unofficial_names": [
+      "Métropole de Lyon"
+    ],
     "geo": {
       "latitude": 45.7351456,
       "longitude": 4.6108043,
@@ -5837,13 +5898,14 @@
       "en": "Lyon Metropolis",
       "ja": "メトロポール・ド・リヨン"
     },
-    "comments": null,
     "type": "metropolitan_collectivity_with_special_status"
   },
   "6AE": {
     "name": "Alsace",
     "code": "6AE",
-    "unofficial_names": "Alsace",
+    "unofficial_names": [
+      "Alsace"
+    ],
     "type": "european_collectivity",
     "translations": {
       "fr": "Alsace",
@@ -5863,7 +5925,9 @@
   "70": {
     "name": "Haute-Saône",
     "code": "70",
-    "unofficial_names": "Haute-Saône",
+    "unofficial_names": [
+      "Haute-Saône"
+    ],
     "geo": {
       "latitude": 47.7569806,
       "longitude": 6.1556282,
@@ -5939,13 +6003,14 @@
       "mk": "Горна Сона",
       "no": "Haute-Saône"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "71": {
     "name": "Saône-et-Loire",
     "code": "71",
-    "unofficial_names": "Saône-et-Loire",
+    "unofficial_names": [
+      "Saône-et-Loire"
+    ],
     "geo": {
       "latitude": 46.5827512,
       "longitude": 4.486670999999999,
@@ -6021,13 +6086,14 @@
       "ga": "Saône-et-Loire",
       "mk": "Сона и Лоара"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "72": {
     "name": "Sarthe",
     "code": "72",
-    "unofficial_names": "Sarthe",
+    "unofficial_names": [
+      "Sarthe"
+    ],
     "geo": {
       "latitude": 47.9217014,
       "longitude": 0.1655803,
@@ -6102,20 +6168,17 @@
       "no": "Sarthe",
       "mk": "Сарта"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "73": {
     "name": "Savoie",
     "code": "73",
-    "unofficial_names": "Savoie",
+    "unofficial_names": [
+      "Savoie"
+    ],
     "geo": {
       "latitude": 44.771079,
-      "longitude": 5.742806000000001,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 5.742806000000001
     },
     "translations": {
       "no": "Savoie",
@@ -6185,13 +6248,14 @@
       "zh": "萨瓦省",
       "ga": "Savoie"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "74": {
     "name": "Haute-Savoie",
     "code": "74",
-    "unofficial_names": "Haute-Savoie",
+    "unofficial_names": [
+      "Haute-Savoie"
+    ],
     "geo": {
       "latitude": 46.1756788,
       "longitude": 6.5389621,
@@ -6268,13 +6332,14 @@
       "yo_BJ": "Haute-Savoie",
       "mk": "Горна Савоја"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "75C": {
     "name": "Paris",
     "code": "75C",
-    "unofficial_names": "Paris",
+    "unofficial_names": [
+      "Paris"
+    ],
     "geo": {
       "latitude": 48.856614,
       "longitude": 2.3522219,
@@ -6375,13 +6440,14 @@
       "yo_BJ": "Parisi",
       "as": "পেৰিছ"
     },
-    "comments": null,
     "type": "metropolitan_collectivity_with_special_status"
   },
   "76": {
     "name": "Seine-Maritime",
     "code": "76",
-    "unofficial_names": "Seine-Maritime",
+    "unofficial_names": [
+      "Seine-Maritime"
+    ],
     "geo": {
       "latitude": 49.922992,
       "longitude": 1.077483,
@@ -6456,13 +6522,14 @@
       "no": "Seine-Maritime",
       "mk": "Приморска Сена"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "77": {
     "name": "Seine-et-Marne",
     "code": "77",
-    "unofficial_names": "Seine-et-Marne",
+    "unofficial_names": [
+      "Seine-et-Marne"
+    ],
     "geo": {
       "latitude": 48.841082,
       "longitude": 2.999366,
@@ -6538,13 +6605,14 @@
       "ga": "Seine-et-Marne",
       "mk": "Сена и Марна"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "78": {
     "name": "Yvelines",
     "code": "78",
-    "unofficial_names": "Yvelines",
+    "unofficial_names": [
+      "Yvelines"
+    ],
     "geo": {
       "latitude": 48.7850939,
       "longitude": 1.8256572,
@@ -6619,13 +6687,14 @@
       "mk": "Ивлин",
       "no": "Yvelines"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "79": {
     "name": "Deux-Sèvres",
     "code": "79",
-    "unofficial_names": "Deux-Sèvres",
+    "unofficial_names": [
+      "Deux-Sèvres"
+    ],
     "geo": {
       "latitude": 46.5926541,
       "longitude": -0.3962844,
@@ -6700,13 +6769,14 @@
       "no": "Deux-Sèvres",
       "mk": "Де Севр"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "80": {
     "name": "Somme",
     "code": "80",
-    "unofficial_names": "Somme",
+    "unofficial_names": [
+      "Somme"
+    ],
     "geo": {
       "latitude": 49.914518,
       "longitude": 2.2707095,
@@ -6782,13 +6852,14 @@
       "no": "Somme",
       "ga": "Somme"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "81": {
     "name": "Tarn",
     "code": "81",
-    "unofficial_names": "Tarn",
+    "unofficial_names": [
+      "Tarn"
+    ],
     "geo": {
       "latitude": 43.9264401,
       "longitude": 1.9881527,
@@ -6864,13 +6935,14 @@
       "no": "Tarn",
       "mk": "Тарн"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "82": {
     "name": "Tarn-et-Garonne",
     "code": "82",
-    "unofficial_names": "Tarn-et-Garonne",
+    "unofficial_names": [
+      "Tarn-et-Garonne"
+    ],
     "geo": {
       "latitude": 44.0126679,
       "longitude": 1.2891036,
@@ -6945,13 +7017,14 @@
       "no": "Tarn-et-Garonne",
       "mk": "Тарн и Гарона"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "83": {
     "name": "Var",
     "code": "83",
-    "unofficial_names": "Var",
+    "unofficial_names": [
+      "Var"
+    ],
     "geo": {
       "latitude": 43.46764599999999,
       "longitude": 6.2375947,
@@ -7026,13 +7099,14 @@
       "he": "ואר (מחוז)",
       "mk": "Вар"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "84": {
     "name": "Vaucluse",
     "code": "84",
-    "unofficial_names": "Vaucluse",
+    "unofficial_names": [
+      "Vaucluse"
+    ],
     "geo": {
       "latitude": 44.0565054,
       "longitude": 5.1432068,
@@ -7107,13 +7181,14 @@
       "no": "Vaucluse",
       "mk": "Воклиз"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "85": {
     "name": "Vendée",
     "code": "85",
-    "unofficial_names": "Vendée",
+    "unofficial_names": [
+      "Vendée"
+    ],
     "geo": {
       "latitude": 46.6613966,
       "longitude": -1.4482662,
@@ -7190,13 +7265,14 @@
       "mk": "Вандеја (департман)",
       "no": "Vendée"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "86": {
     "name": "Vienne",
     "code": "86",
-    "unofficial_names": "Vienne",
+    "unofficial_names": [
+      "Vienne"
+    ],
     "geo": {
       "latitude": 45.525587,
       "longitude": 4.874339,
@@ -7273,13 +7349,14 @@
       "no": "Vienne",
       "is": "Vienne"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "87": {
     "name": "Haute-Vienne",
     "code": "87",
-    "unofficial_names": "Haute-Vienne",
+    "unofficial_names": [
+      "Haute-Vienne"
+    ],
     "geo": {
       "latitude": 45.7435173,
       "longitude": 1.4025484,
@@ -7353,13 +7430,14 @@
       "mk": "Горна Вјена",
       "no": "Haute-Vienne"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "88": {
     "name": "Vosges",
     "code": "88",
-    "unofficial_names": "Vosges",
+    "unofficial_names": [
+      "Vosges"
+    ],
     "geo": {
       "latitude": 48.1446427,
       "longitude": 6.3355935,
@@ -7436,13 +7514,14 @@
       "ga": "Vosges",
       "ml": "വോസ്ഗെസ്"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "89": {
     "name": "Yonne",
     "code": "89",
-    "unofficial_names": "Yonne",
+    "unofficial_names": [
+      "Yonne"
+    ],
     "geo": {
       "latitude": 47.8652728,
       "longitude": 3.6079823,
@@ -7519,13 +7598,14 @@
       "mk": "Јона",
       "ml": "യോന്നെ"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "90": {
     "name": "Territoire de Belfort",
     "code": "90",
-    "unofficial_names": "Territoire de Belfort",
+    "unofficial_names": [
+      "Territoire de Belfort"
+    ],
     "geo": {
       "latitude": 47.59465729999999,
       "longitude": 6.920771599999999,
@@ -7601,13 +7681,14 @@
       "no": "Territoire de Belfort",
       "ga": "Territoire de Belfort"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "91": {
     "name": "Essonne",
     "code": "91",
-    "unofficial_names": "Essonne",
+    "unofficial_names": [
+      "Essonne"
+    ],
     "geo": {
       "latitude": 48.4585698,
       "longitude": 2.1569416,
@@ -7683,13 +7764,14 @@
       "mk": "Есона",
       "no": "Essonne"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "92": {
     "name": "Hauts-de-Seine",
     "code": "92",
-    "unofficial_names": "Hauts-de-Seine",
+    "unofficial_names": [
+      "Hauts-de-Seine"
+    ],
     "geo": {
       "latitude": 48.828508,
       "longitude": 2.2188068,
@@ -7765,13 +7847,14 @@
       "mk": "Сенски Висови",
       "no": "Hauts-de-Seine"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "93": {
     "name": "Seine-Saint-Denis",
     "code": "93",
-    "unofficial_names": "Seine-Saint-Denis",
+    "unofficial_names": [
+      "Seine-Saint-Denis"
+    ],
     "geo": {
       "latitude": 48.9137455,
       "longitude": 2.4845729,
@@ -7846,13 +7929,14 @@
       "mk": "Сена-Сен Дени",
       "no": "Seine-Saint-Denis"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "94": {
     "name": "Val-de-Marne",
     "code": "94",
-    "unofficial_names": "Val-de-Marne",
+    "unofficial_names": [
+      "Val-de-Marne"
+    ],
     "geo": {
       "latitude": 48.7931426,
       "longitude": 2.4740337,
@@ -7927,13 +8011,14 @@
       "no": "Val-de-Marne",
       "mk": "Долина на Марна"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "95": {
     "name": "Val-d'Oise",
     "code": "95",
-    "unofficial_names": "Val-d'Oise",
+    "unofficial_names": [
+      "Val-d'Oise"
+    ],
     "geo": {
       "latitude": 49.0615901,
       "longitude": 2.1581351,
@@ -8004,20 +8089,14 @@
       "zh": "瓦勒德瓦兹省",
       "mk": "Долина на Оаза"
     },
-    "comments": null,
     "type": "metropolitan_department"
   },
   "971": {
     "name": "Guadeloupe",
     "code": "971",
-    "unofficial_names": null,
     "geo": {
       "latitude": 16.1730949,
-      "longitude": -61.4054001,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -61.4054001
     },
     "translations": {
       "en": "Guadeloupe",
@@ -8097,27 +8176,16 @@
       "yue_Hans": "瓜德罗普",
       "zh": "瓜德羅普"
     },
-    "comments": null,
     "type": "overseas_departmental_collectivity"
   },
   "972": {
     "name": "Martinique",
     "code": "972",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Martinique",
       "ccp": "𑄟𑄢𑄴𑄑𑄨𑄚𑄨𑄇𑄴",
       "ja": "マルティニーク"
     },
-    "comments": null,
     "type": "overseas_unique_territorial_collectivity"
   },
   "973": {
@@ -8142,31 +8210,21 @@
     ],
     "geo": {
       "latitude": 48.8499,
-      "longitude": 2.637,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 2.637
     },
     "translations": {
       "en": "La Réunion",
       "ccp": "𑄣 𑄢𑄬𑄅𑄪𑄚𑄨𑄠𑄧𑄚𑄴",
       "ja": "レユニオン"
     },
-    "comments": null,
     "type": "overseas_departmental_collectivity"
   },
   "976": {
     "name": "Mayotte",
     "code": "976",
-    "unofficial_names": null,
     "geo": {
       "latitude": -12.809645,
-      "longitude": 45.130741,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 45.130741
     },
     "translations": {
       "en": "Mayotte",
@@ -8174,7 +8232,6 @@
       "ccp": "𑄟𑄠𑄮𑄖𑄳𑄠𑄬",
       "ja": "マヨット"
     },
-    "comments": null,
     "type": "overseas_departmental_collectivity"
   },
   "ARA": {
@@ -8187,11 +8244,7 @@
     ],
     "geo": {
       "latitude": 45.46035,
-      "longitude": 4.62416,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 4.62416
     },
     "translations": {
       "ar": "أوفرن-رون ألب",
@@ -8254,7 +8307,6 @@
       "mr": "ऑव्हेर्न्य-रोन-आल्प",
       "sl": "Auvergne-Rona-Alpe"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "BFC": {
@@ -8266,11 +8318,7 @@
     ],
     "geo": {
       "latitude": 47.278111,
-      "longitude": 4.99421,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 4.99421
     },
     "translations": {
       "no": "Bourgogne-Franche-Comté",
@@ -8327,7 +8375,6 @@
       "ro": "Burgundia-Franche-Comté",
       "tr": "Bourgogne-Franche-Comté"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "BL": {
@@ -8345,13 +8392,8 @@
     },
     "geo": {
       "latitude": 17.9139222,
-      "longitude": -62.8338521,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -62.8338521
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "BRE": {
@@ -8363,11 +8405,7 @@
     ],
     "geo": {
       "latitude": 47.002789,
-      "longitude": 1.68221,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 1.68221
     },
     "translations": {
       "af": "Bretagne",
@@ -8446,20 +8484,11 @@
     "unofficial_names": [
       "Clipperton Island"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Clipperton Island",
       "ccp": "𑄇𑄳𑄣𑄨𑄛𑄢𑄴𑄑𑄧𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴",
       "ja": "クリッパートン島"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "CVL": {
@@ -8536,11 +8565,7 @@
     },
     "geo": {
       "latitude": 47.64405,
-      "longitude": 1.59046,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 1.59046
     },
     "code": "CVL",
     "type": "metropolitan_region"
@@ -8553,11 +8578,7 @@
     ],
     "geo": {
       "latitude": 49.92086,
-      "longitude": 4.41123,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 4.41123
     },
     "translations": {
       "af": "Grand Est",
@@ -8620,7 +8641,6 @@
       "ro": "Grand Est",
       "sl": "Grand Est"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "HDF": {
@@ -8630,12 +8650,7 @@
       "Hauts-de-France"
     ],
     "geo": {
-      "latitude": null,
-      "longitude": 2.81877,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 2.81877
     },
     "translations": {
       "af": "Hauts-de-France",
@@ -8695,7 +8710,6 @@
       "mr": "ऑत-दा-फ्रान्स",
       "ro": "Hauts-de-France"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "IDF": {
@@ -8704,14 +8718,6 @@
       "Île-de-France",
       "Région Parisienne"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Île-de-France",
       "ar": "إيل دو فرانس",
@@ -8781,7 +8787,6 @@
       "mk": "Ил де Франс",
       "no": "Île-de-France"
     },
-    "comments": null,
     "code": "IDF",
     "type": "metropolitan_region"
   },
@@ -8798,15 +8803,6 @@
       "ccp": "𑄥𑄬𑄚𑄴 𑄟𑄢𑄴𑄑𑄨𑄚𑄴",
       "ja": "サン・マルタン"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "NAQ": {
@@ -8817,11 +8813,7 @@
     ],
     "geo": {
       "latitude": 45.7087,
-      "longitude": 0.6269,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 0.6269
     },
     "translations": {
       "af": "Nieu-Akwitanië",
@@ -8886,13 +8878,14 @@
       "ro": "Nouvelle-Aquitaine",
       "sl": "Nova Akvitanija"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "NC": {
     "name": "New Caledonia",
     "code": "NC",
-    "unofficial_names": "Nouvelle-Calédonie",
+    "unofficial_names": [
+      "Nouvelle-Calédonie"
+    ],
     "translations": {
       "en": "New Caledonia",
       "fr": "Nouvelle-Calédonie",
@@ -8907,7 +8900,6 @@
       "max_latitude": 36.5881568,
       "max_longitude": -75.4599515
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "NOR": {
@@ -8919,11 +8911,7 @@
     ],
     "geo": {
       "latitude": 48.8499,
-      "longitude": 2.637,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 2.637
     },
     "translations": {
       "af": "Normandië",
@@ -8990,11 +8978,7 @@
     ],
     "geo": {
       "latitude": 43.8927,
-      "longitude": 3.2828,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 3.2828
     },
     "translations": {
       "af": "Oksitanië",
@@ -9058,7 +9042,6 @@
       "ro": "Occitania",
       "sl": "Oksitanija"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "PAC": {
@@ -9136,11 +9119,7 @@
     },
     "geo": {
       "latitude": 43.9352,
-      "longitude": 6.0679,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.0679
     },
     "name": "Provence-Alpes-Côte d'Azur",
     "code": "PAC",
@@ -9153,14 +9132,6 @@
       "Pays de la Loire",
       "Broioù al Liger"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Pays-de-la-Loire",
       "af": "Pays de la Loire",
@@ -9229,7 +9200,6 @@
       "is": "Pays de la Loire",
       "mn": "Пеи де ла Луар"
     },
-    "comments": null,
     "type": "metropolitan_region"
   },
   "PF": {
@@ -9245,15 +9215,6 @@
       "ccp": "𑄜𑄳𑄢𑄬𑄚𑄴𑄌𑄴 𑄛𑄧𑄣𑄨𑄚𑄬𑄥𑄨𑄠",
       "ja": "フランス領ポリネシア"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "comments": null,
     "type": "overseas_collectivity"
   },
   "PM": {
@@ -9269,35 +9230,19 @@
       "ccp": "𑄥𑄬𑄚𑄴 𑄛𑄨𑄢𑄬 & 𑄟𑄨𑄇𑄭𑄪𑄣𑄧𑄚𑄴",
       "ja": "サンピエール島・ミクロン島"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "comments": null,
     "type": "overseas_collectivity"
   },
   "TF": {
     "name": "Terres Australes Françaises",
-    "unofficial_names": "Terres Australes Françaises",
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
+    "unofficial_names": [
+      "Terres Australes Françaises"
+    ],
     "translations": {
       "en": "French Southern Territories",
       "fr": "Terres australes et antarctiques françaises",
       "ccp": "𑄛𑄳𑄢𑄬𑄚𑄴𑄌𑄴 𑄘𑄧𑄊𑄨𑄚𑄴𑄟𑄬𑄇𑄴𑄈𑄬 𑄢𑄬𑄎𑄳𑄠𑄧𑄚𑄨",
       "ja": "フランス領南方・南極地域"
     },
-    "comments": null,
     "code": "TF",
     "type": "overseas_collectivity"
   },
@@ -9312,15 +9257,6 @@
       "ccp": "𑄤𑄣𑄳𑄦𑄨𑄌𑄴 & 𑄜𑄨𑄅𑄪𑄑𑄚",
       "ja": "ウォリス・フツナ"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
-    "comments": null,
     "code": "WF",
     "type": "overseas_collectivity"
   }

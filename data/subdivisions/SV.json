@@ -2,7 +2,9 @@
   "AH": {
     "name": "Ahuachapán",
     "code": "AH",
-    "unofficial_names": "Ahuachapán",
+    "unofficial_names": [
+      "Ahuachapán"
+    ],
     "geo": {
       "latitude": 13.9259486,
       "longitude": -89.84113819999999,
@@ -60,13 +62,14 @@
       "no": "Ahuachapán",
       "gl": "Departamento de Ahuachapán"
     },
-    "comments": null,
     "type": "departments"
   },
   "CA": {
     "name": "Cabañas",
     "code": "CA",
-    "unofficial_names": "Cabañas",
+    "unofficial_names": [
+      "Cabañas"
+    ],
     "geo": {
       "latitude": 13.8648288,
       "longitude": -88.7493998,
@@ -123,13 +126,14 @@
       "fa": "بخش کابیناس",
       "gl": "Cabañas"
     },
-    "comments": null,
     "type": "departments"
   },
   "CH": {
     "name": "Chalatenango",
     "code": "CH",
-    "unofficial_names": "Chalatenango",
+    "unofficial_names": [
+      "Chalatenango"
+    ],
     "geo": {
       "latitude": 14.033333,
       "longitude": -88.93333299999999,
@@ -168,13 +172,14 @@
       "eu": "Chalatenango departamendua",
       "uk": "Чалатенанго"
     },
-    "comments": null,
     "type": "departments"
   },
   "CU": {
     "name": "Cuscatlán",
     "code": "CU",
-    "unofficial_names": "Cuscatlán",
+    "unofficial_names": [
+      "Cuscatlán"
+    ],
     "geo": {
       "latitude": 13.8661957,
       "longitude": -89.0561532,
@@ -231,13 +236,14 @@
       "fa": "بخش کوسکاتلان",
       "gl": "Departamento de Cuscatlán"
     },
-    "comments": null,
     "type": "departments"
   },
   "LI": {
     "name": "La Libertad",
     "code": "LI",
-    "unofficial_names": "La Libertad",
+    "unofficial_names": [
+      "La Libertad"
+    ],
     "geo": {
       "latitude": 13.6817661,
       "longitude": -89.3606298,
@@ -296,13 +302,14 @@
       "no": "La Libertad department",
       "fa": "ناحیه لا لیبرتاد (السالوادور)"
     },
-    "comments": null,
     "type": "departments"
   },
   "MO": {
     "name": "Morazán",
     "code": "MO",
-    "unofficial_names": "Morazán",
+    "unofficial_names": [
+      "Morazán"
+    ],
     "geo": {
       "latitude": 13.7682,
       "longitude": -88.1291387,
@@ -360,13 +367,14 @@
       "gl": "Departamento de Morazán",
       "he": "מחוז מורסאן"
     },
-    "comments": null,
     "type": "departments"
   },
   "PA": {
     "name": "La Paz",
     "code": "PA",
-    "unofficial_names": "La Paz",
+    "unofficial_names": [
+      "La Paz"
+    ],
     "geo": {
       "latitude": 13.495364,
       "longitude": -88.9796776,
@@ -424,13 +432,14 @@
       "fa": "ناحیه لاپاز (السالوادور)",
       "gl": "Departamento de La Paz, O Salvador"
     },
-    "comments": null,
     "type": "departments"
   },
   "SA": {
     "name": "Santa Ana",
     "code": "SA",
-    "unofficial_names": "Santa Ana",
+    "unofficial_names": [
+      "Santa Ana"
+    ],
     "geo": {
       "latitude": 13.9778279,
       "longitude": -89.56391190000001,
@@ -487,13 +496,14 @@
       "fa": "ناحیه سانتا آنا",
       "hy": "Սանտա Անա"
     },
-    "comments": null,
     "type": "departments"
   },
   "SM": {
     "name": "San Miguel",
     "code": "SM",
-    "unofficial_names": "San Miguel",
+    "unofficial_names": [
+      "San Miguel"
+    ],
     "geo": {
       "latitude": 13.4451041,
       "longitude": -88.24611829999999,
@@ -550,13 +560,14 @@
       "no": "San Miguel department",
       "fa": "ناحیه سان میگوئل (السالوادور)"
     },
-    "comments": null,
     "type": "departments"
   },
   "SO": {
     "name": "Sonsonate",
     "code": "SO",
-    "unofficial_names": "Sonsonate",
+    "unofficial_names": [
+      "Sonsonate"
+    ],
     "geo": {
       "latitude": 13.682358,
       "longitude": -89.6628111,
@@ -613,13 +624,14 @@
       "no": "Sonsonate department",
       "fa": "بخش سونسوناتی"
     },
-    "comments": null,
     "type": "departments"
   },
   "SS": {
     "name": "San Salvador",
     "code": "SS",
-    "unofficial_names": "San Salvador",
+    "unofficial_names": [
+      "San Salvador"
+    ],
     "geo": {
       "latitude": 13.6929403,
       "longitude": -89.2181911,
@@ -679,13 +691,14 @@
       "be": "Сан-Сальвадор",
       "fa": "بخش سن سالوادور"
     },
-    "comments": null,
     "type": "departments"
   },
   "SV": {
     "name": "San Vicente",
     "code": "SV",
-    "unofficial_names": "San Vicente",
+    "unofficial_names": [
+      "San Vicente"
+    ],
     "geo": {
       "latitude": 13.5868561,
       "longitude": -88.7493998,
@@ -742,13 +755,14 @@
       "fa": "ناحیه سان ویسنته",
       "gl": "Departamento de San Vicente"
     },
-    "comments": null,
     "type": "departments"
   },
   "UN": {
     "name": "La Unión",
     "code": "UN",
-    "unofficial_names": "La Unión",
+    "unofficial_names": [
+      "La Unión"
+    ],
     "geo": {
       "latitude": 13.336944,
       "longitude": -87.84388899999999,
@@ -786,13 +800,14 @@
       "uk": "Ла-Уніон",
       "fa": "ناحیه لا یونیون"
     },
-    "comments": null,
     "type": "departments"
   },
   "US": {
     "name": "Usulután",
     "code": "US",
-    "unofficial_names": "Usulután",
+    "unofficial_names": [
+      "Usulután"
+    ],
     "geo": {
       "latitude": 13.35,
       "longitude": -88.45,
@@ -847,7 +862,6 @@
       "uk": "Регіон Усулутан",
       "no": "Usulutan department"
     },
-    "comments": null,
     "type": "departments"
   }
 }

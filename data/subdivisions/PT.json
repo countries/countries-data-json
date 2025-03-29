@@ -2,7 +2,9 @@
   "01": {
     "name": "Aveiro",
     "code": "01",
-    "unofficial_names": "Aveiro",
+    "unofficial_names": [
+      "Aveiro"
+    ],
     "geo": {
       "latitude": 40.6405055,
       "longitude": -8.6537539,
@@ -51,13 +53,14 @@
       "th": "เขตอาไวรู",
       "tr": "Aveiro (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Beja",
     "code": "02",
-    "unofficial_names": "Beja",
+    "unofficial_names": [
+      "Beja"
+    ],
     "geo": {
       "latitude": 38.0153039,
       "longitude": -7.8627308,
@@ -118,13 +121,14 @@
       "fa": "ناحیه بجا",
       "hy": "Բեժա"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Braga",
     "code": "03",
-    "unofficial_names": "Braga",
+    "unofficial_names": [
+      "Braga"
+    ],
     "geo": {
       "latitude": 41.5454486,
       "longitude": -8.426506999999999,
@@ -185,13 +189,14 @@
       "az": "Braqa",
       "fa": "منطقه براگا"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "Bragança",
     "code": "04",
-    "unofficial_names": "Bragança",
+    "unofficial_names": [
+      "Bragança"
+    ],
     "geo": {
       "latitude": 41.8061131,
       "longitude": -6.756737999999999,
@@ -236,13 +241,14 @@
       "no": "Bragança",
       "tr": "Bragança (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Castelo Branco",
     "code": "05",
-    "unofficial_names": "Castelo Branco",
+    "unofficial_names": [
+      "Castelo Branco"
+    ],
     "geo": {
       "latitude": 39.8197117,
       "longitude": -7.4964662,
@@ -301,13 +307,14 @@
       "no": "Castelo Branco",
       "fa": "منطقه کاستلو برانکو"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Coimbra",
     "code": "06",
-    "unofficial_names": "Coimbra",
+    "unofficial_names": [
+      "Coimbra"
+    ],
     "geo": {
       "latitude": 40.2033145,
       "longitude": -8.4102573,
@@ -366,13 +373,14 @@
       "no": "Coimbra",
       "fa": "منطقه کویمبرا"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
     "name": "Évora",
     "code": "07",
-    "unofficial_names": "Évora",
+    "unofficial_names": [
+      "Évora"
+    ],
     "geo": {
       "latitude": 38.571431,
       "longitude": -7.913501999999999,
@@ -431,13 +439,14 @@
       "no": "Évora",
       "fa": "ناحیه اوورا"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
     "name": "Faro",
     "code": "08",
-    "unofficial_names": "Faro",
+    "unofficial_names": [
+      "Faro"
+    ],
     "geo": {
       "latitude": 37.0193548,
       "longitude": -7.9304397,
@@ -498,13 +507,14 @@
       "az": "Faru",
       "he": "פארו (מחוז)"
     },
-    "comments": null,
     "type": "district"
   },
   "09": {
     "name": "Guarda",
     "code": "09",
-    "unofficial_names": "Guarda",
+    "unofficial_names": [
+      "Guarda"
+    ],
     "geo": {
       "latitude": 40.5383482,
       "longitude": -7.266131499999998,
@@ -552,13 +562,14 @@
       "kk": "Гуарда (округ)",
       "tr": "Guarda (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
     "name": "Leiria",
     "code": "10",
-    "unofficial_names": "Leiria",
+    "unofficial_names": [
+      "Leiria"
+    ],
     "geo": {
       "latitude": 39.74953310000001,
       "longitude": -8.807682999999999,
@@ -618,13 +629,14 @@
       "no": "Leiria",
       "ps": "لیریا ولایت"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
     "name": "Lisboa",
     "code": "11",
-    "unofficial_names": "Lisboa",
+    "unofficial_names": [
+      "Lisboa"
+    ],
     "geo": {
       "latitude": 38.7222524,
       "longitude": -9.1393366,
@@ -674,13 +686,14 @@
       "hy": "Լիսաբոն",
       "tr": "Lizbon (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Portalegre",
     "code": "12",
-    "unofficial_names": "Portalegre",
+    "unofficial_names": [
+      "Portalegre"
+    ],
     "geo": {
       "latitude": 39.2967086,
       "longitude": -7.4284755,
@@ -727,13 +740,14 @@
       "fa": "ناحیه پورتالگر",
       "tr": "Portalegre (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
     "name": "Porto",
     "code": "13",
-    "unofficial_names": "Porto",
+    "unofficial_names": [
+      "Porto"
+    ],
     "geo": {
       "latitude": 41.1579438,
       "longitude": -8.629105299999999,
@@ -781,13 +795,14 @@
       "fa": "منطقه پورتو",
       "tr": "Porto (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
     "name": "Santarém",
     "code": "14",
-    "unofficial_names": "Santarém",
+    "unofficial_names": [
+      "Santarém"
+    ],
     "geo": {
       "latitude": 39.2366618,
       "longitude": -8.686011900000002,
@@ -847,13 +862,14 @@
       "no": "Santarém",
       "he": "סנטרם"
     },
-    "comments": null,
     "type": "district"
   },
   "15": {
     "name": "Setúbal",
     "code": "15",
-    "unofficial_names": "Setúbal",
+    "unofficial_names": [
+      "Setúbal"
+    ],
     "geo": {
       "latitude": 38.5260437,
       "longitude": -8.8909328,
@@ -912,13 +928,14 @@
       "no": "Setúbal",
       "az": "Setubal"
     },
-    "comments": null,
     "type": "district"
   },
   "16": {
     "name": "Viana do Castelo",
     "code": "16",
-    "unofficial_names": "Viana do Castelo",
+    "unofficial_names": [
+      "Viana do Castelo"
+    ],
     "geo": {
       "latitude": 41.6918275,
       "longitude": -8.8344101,
@@ -977,13 +994,14 @@
       "no": "Viana do Castelo",
       "fa": "منطقه ویانا دو کاستلو"
     },
-    "comments": null,
     "type": "district"
   },
   "17": {
     "name": "Vila Real",
     "code": "17",
-    "unofficial_names": "Vila Real",
+    "unofficial_names": [
+      "Vila Real"
+    ],
     "geo": {
       "latitude": 41.3010351,
       "longitude": -7.7422354,
@@ -1028,13 +1046,14 @@
       "fa": "منطقه ویلا ریل",
       "tr": "Vila Real (ilçe)"
     },
-    "comments": null,
     "type": "district"
   },
   "18": {
     "name": "Viseu",
     "code": "18",
-    "unofficial_names": "Viseu",
+    "unofficial_names": [
+      "Viseu"
+    ],
     "geo": {
       "latitude": 40.6565861,
       "longitude": -7.9124712,
@@ -1093,13 +1112,14 @@
       "no": "Viseu",
       "fa": "منطقه ویسئو"
     },
-    "comments": null,
     "type": "district"
   },
   "20": {
     "name": "Açores",
     "code": "20",
-    "unofficial_names": "Açores",
+    "unofficial_names": [
+      "Açores"
+    ],
     "geo": {
       "latitude": 37.7412488,
       "longitude": -25.6755944,
@@ -1185,13 +1205,14 @@
       "mk": "Азорски Острови",
       "no": "Asorene"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "30": {
     "name": "Madeira",
     "code": "30",
-    "unofficial_names": "Madeira",
+    "unofficial_names": [
+      "Madeira"
+    ],
     "geo": {
       "latitude": 32.76070740000001,
       "longitude": -16.9594723,
@@ -1271,7 +1292,6 @@
       "no": "Madeira",
       "yo_BJ": "Madeira"
     },
-    "comments": null,
     "type": "autonomous_region"
   }
 }

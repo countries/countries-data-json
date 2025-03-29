@@ -2,7 +2,9 @@
   "AB": {
     "name": "Stockholms län",
     "code": "AB",
-    "unofficial_names": "Stockholms län",
+    "unofficial_names": [
+      "Stockholms län"
+    ],
     "geo": {
       "latitude": 59.60249579999999,
       "longitude": 18.1384383,
@@ -74,13 +76,14 @@
       "cy": "Sir Stockholm",
       "ga": "Contae Stócólm"
     },
-    "comments": null,
     "type": "county"
   },
   "AC": {
     "name": "Västerbottens län",
     "code": "AC",
-    "unofficial_names": "Västerbottens län",
+    "unofficial_names": [
+      "Västerbottens län"
+    ],
     "geo": {
       "latitude": 65.3337311,
       "longitude": 16.5161695,
@@ -148,13 +151,14 @@
       "cy": "Sir Västerbotten",
       "hy": "Վեստերբոտեն"
     },
-    "comments": null,
     "type": "county"
   },
   "BD": {
     "name": "Norrbottens län",
     "code": "BD",
-    "unofficial_names": "Norrbottens län",
+    "unofficial_names": [
+      "Norrbottens län"
+    ],
     "geo": {
       "latitude": 66.8309216,
       "longitude": 20.3991966,
@@ -223,13 +227,14 @@
       "no": "Norrbottens län",
       "cy": "Sir Norrbotten"
     },
-    "comments": null,
     "type": "county"
   },
   "C": {
     "name": "Uppsala län",
     "code": "C",
-    "unofficial_names": "Uppsala län",
+    "unofficial_names": [
+      "Uppsala län"
+    ],
     "geo": {
       "latitude": 60.00922619999999,
       "longitude": 17.2714589,
@@ -300,13 +305,14 @@
       "no": "Uppsala län",
       "az": "Uppsala dairəsi"
     },
-    "comments": null,
     "type": "county"
   },
   "D": {
     "name": "Södermanlands län",
     "code": "D",
-    "unofficial_names": "Södermanlands län",
+    "unofficial_names": [
+      "Södermanlands län"
+    ],
     "geo": {
       "latitude": 59.03363489999999,
       "longitude": 16.7518899,
@@ -377,13 +383,14 @@
       "cy": "Sir Södermanland",
       "ga": "Contae Södermanland"
     },
-    "comments": null,
     "type": "county"
   },
   "E": {
     "name": "Östergötlands län",
     "code": "E",
-    "unofficial_names": "Östergötlands län",
+    "unofficial_names": [
+      "Östergötlands län"
+    ],
     "geo": {
       "latitude": 58.3453635,
       "longitude": 15.5197843,
@@ -452,13 +459,14 @@
       "no": "Östergötlands län",
       "cy": "Sir Östergötland"
     },
-    "comments": null,
     "type": "county"
   },
   "F": {
     "name": "Jönköpings län",
     "code": "F",
-    "unofficial_names": "Jönköpings län",
+    "unofficial_names": [
+      "Jönköpings län"
+    ],
     "geo": {
       "latitude": 57.3708434,
       "longitude": 14.3439173,
@@ -528,13 +536,14 @@
       "cy": "Sir Jönköping",
       "hy": "Յոնչյոպինգ"
     },
-    "comments": null,
     "type": "county"
   },
   "G": {
     "name": "Kronobergs län",
     "code": "G",
-    "unofficial_names": "Kronobergs län",
+    "unofficial_names": [
+      "Kronobergs län"
+    ],
     "geo": {
       "latitude": 56.71834029999999,
       "longitude": 14.4114674,
@@ -602,7 +611,6 @@
       "cy": "Kronoberg",
       "hy": "Կրունուբերգ"
     },
-    "comments": null,
     "type": "county"
   },
   "H": {
@@ -678,13 +686,14 @@
       "cy": "Sir Kalmar",
       "hy": "Կալմար"
     },
-    "comments": null,
     "type": "county"
   },
   "I": {
     "name": "Gotlands län",
     "code": "I",
-    "unofficial_names": "Gotlands län",
+    "unofficial_names": [
+      "Gotlands län"
+    ],
     "geo": {
       "latitude": 57.46841209999999,
       "longitude": 18.4867447,
@@ -752,13 +761,14 @@
       "no": "Gotlands län",
       "hy": "Գոտլանդ"
     },
-    "comments": null,
     "type": "county"
   },
   "K": {
     "name": "Blekinge län",
     "code": "K",
-    "unofficial_names": "Blekinge län",
+    "unofficial_names": [
+      "Blekinge län"
+    ],
     "geo": {
       "latitude": 56.2783837,
       "longitude": 15.0180058,
@@ -827,7 +837,6 @@
       "az": "Blekinqe leni",
       "cy": "Sir Blekinge"
     },
-    "comments": null,
     "type": "county"
   },
   "M": {
@@ -906,13 +915,14 @@
       "cy": "Sir Skåne",
       "hy": "Սկոնե"
     },
-    "comments": null,
     "type": "county"
   },
   "N": {
     "name": "Hallands län",
     "code": "N",
-    "unofficial_names": "Hallands län",
+    "unofficial_names": [
+      "Hallands län"
+    ],
     "geo": {
       "latitude": 56.8966805,
       "longitude": 12.8033993,
@@ -984,13 +994,14 @@
       "sk": "Halland",
       "sl": "Halland"
     },
-    "comments": null,
     "type": "county"
   },
   "O": {
     "name": "Västra Götalands län",
     "code": "O",
-    "unofficial_names": "Västra Götalands län",
+    "unofficial_names": [
+      "Västra Götalands län"
+    ],
     "geo": {
       "latitude": 58.2527926,
       "longitude": 13.0596425,
@@ -1060,13 +1071,14 @@
       "no": "Västra Götalands län",
       "az": "Vestra-Qetaland"
     },
-    "comments": null,
     "type": "county"
   },
   "S": {
     "name": "Värmlands län",
     "code": "S",
-    "unofficial_names": "Värmlands län",
+    "unofficial_names": [
+      "Värmlands län"
+    ],
     "geo": {
       "latitude": 59.7294065,
       "longitude": 13.2354024,
@@ -1135,13 +1147,14 @@
       "cy": "Sir Värmland",
       "hy": "Վերմլանդ"
     },
-    "comments": null,
     "type": "county"
   },
   "T": {
     "name": "Örebro län",
     "code": "T",
-    "unofficial_names": "Örebro län",
+    "unofficial_names": [
+      "Örebro län"
+    ],
     "geo": {
       "latitude": 59.535036,
       "longitude": 15.0065731,
@@ -1211,13 +1224,14 @@
       "no": "Örebro län",
       "az": "Erebru"
     },
-    "comments": null,
     "type": "county"
   },
   "U": {
     "name": "Västmanlands län",
     "code": "U",
-    "unofficial_names": "Västmanlands län",
+    "unofficial_names": [
+      "Västmanlands län"
+    ],
     "geo": {
       "latitude": 59.6713879,
       "longitude": 16.2158954,
@@ -1285,7 +1299,6 @@
       "cy": "Sir Västmanland",
       "hy": "Վեսթմանլանդ"
     },
-    "comments": null,
     "type": "county"
   },
   "W": {
@@ -1364,13 +1377,14 @@
       "cy": "Sir Dalarna",
       "hy": "Դալարնա"
     },
-    "comments": null,
     "type": "county"
   },
   "X": {
     "name": "Gävleborgs län",
     "code": "X",
-    "unofficial_names": "Gävleborgs län",
+    "unofficial_names": [
+      "Gävleborgs län"
+    ],
     "geo": {
       "latitude": 61.30119930000001,
       "longitude": 16.1534215,
@@ -1438,13 +1452,14 @@
       "az": "Evleborq",
       "cy": "Sir Gävleborg"
     },
-    "comments": null,
     "type": "county"
   },
   "Y": {
     "name": "Västernorrlands län",
     "code": "Y",
-    "unofficial_names": "Västernorrlands län",
+    "unofficial_names": [
+      "Västernorrlands län"
+    ],
     "geo": {
       "latitude": 63.4276473,
       "longitude": 17.7292444,
@@ -1512,13 +1527,14 @@
       "cy": "Sir Västernorrland",
       "hy": "Վեսթերնորլանդ"
     },
-    "comments": null,
     "type": "county"
   },
   "Z": {
     "name": "Jämtlands län",
     "code": "Z",
-    "unofficial_names": "Jämtlands län",
+    "unofficial_names": [
+      "Jämtlands län"
+    ],
     "geo": {
       "latitude": 63.1711922,
       "longitude": 14.95918,
@@ -1586,7 +1602,6 @@
       "cy": "Sir Jämtland",
       "hy": "Եմտլանդ լեն"
     },
-    "comments": null,
     "type": "county"
   }
 }

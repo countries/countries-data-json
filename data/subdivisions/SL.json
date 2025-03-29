@@ -2,7 +2,9 @@
   "E": {
     "name": "Eastern",
     "code": "E",
-    "unofficial_names": "Eastern",
+    "unofficial_names": [
+      "Eastern"
+    ],
     "geo": {
       "latitude": 8.247377499999999,
       "longitude": -10.8903099,
@@ -57,13 +59,14 @@
       "no": "Eastern",
       "ca": "Província Oriental (Sierra Leone)"
     },
-    "comments": null,
     "type": "province"
   },
   "N": {
     "name": "Northern",
     "code": "N",
-    "unofficial_names": "Northern",
+    "unofficial_names": [
+      "Northern"
+    ],
     "geo": {
       "latitude": 9.3500888,
       "longitude": -11.7068294,
@@ -117,13 +120,11 @@
       "hr": "Sjeverna provincija",
       "no": "Northern"
     },
-    "comments": null,
     "type": "province"
   },
   "NW": {
     "name": "North Western",
     "code": "NW",
-    "unofficial_names": null,
     "geo": {
       "latitude": 8.460555,
       "longitude": -11.779889,
@@ -139,13 +140,14 @@
       "ja": "北西部州",
       "pt": "Província do Noroeste (Serra Leoa)"
     },
-    "comments": null,
     "type": "province"
   },
   "S": {
     "name": "Southern",
     "code": "S",
-    "unofficial_names": "Southern",
+    "unofficial_names": [
+      "Southern"
+    ],
     "geo": {
       "latitude": 7.790662499999999,
       "longitude": -11.8891721,
@@ -199,13 +201,14 @@
       "uk": "Південна провінція",
       "no": "Southern"
     },
-    "comments": null,
     "type": "province"
   },
   "W": {
     "name": "Western Area (Freetown)",
     "code": "W",
-    "unofficial_names": "Western Area (Freetown)",
+    "unofficial_names": [
+      "Western Area (Freetown)"
+    ],
     "geo": {
       "latitude": 8.484444,
       "longitude": -13.234444,
@@ -261,7 +264,6 @@
       "ca": "Western Area",
       "fa": "ناحیه غربی"
     },
-    "comments": null,
     "type": "area"
   }
 }

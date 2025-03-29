@@ -2,7 +2,9 @@
   "01": {
     "name": "Ville de Kigali",
     "code": "01",
-    "unofficial_names": "Ville de Kigali",
+    "unofficial_names": [
+      "Ville de Kigali"
+    ],
     "geo": {
       "latitude": -1.943889,
       "longitude": 30.059444,
@@ -93,13 +95,14 @@
       "ps": "کیګالی",
       "zu": "Kigali"
     },
-    "comments": null,
     "type": "city"
   },
   "02": {
     "name": "Est",
     "code": "02",
-    "unofficial_names": "Est",
+    "unofficial_names": [
+      "Est"
+    ],
     "geo": {
       "latitude": -1.9174872,
       "longitude": 30.4357631,
@@ -160,13 +163,14 @@
       "no": "Vest provins",
       "eu": "Ekialdeko probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
     "name": "Nord",
     "code": "03",
-    "unofficial_names": "Nord",
+    "unofficial_names": [
+      "Nord"
+    ],
     "geo": {
       "latitude": -1.656166,
       "longitude": 29.8815203,
@@ -226,13 +230,14 @@
       "no": "Nord provins",
       "eu": "Iparraldeko probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "Ouest",
     "code": "04",
-    "unofficial_names": "Ouest",
+    "unofficial_names": [
+      "Ouest"
+    ],
     "geo": {
       "latitude": -2.07649,
       "longitude": 29.3250347,
@@ -292,13 +297,14 @@
       "no": "Vestlig provins",
       "eu": "Mendebaldeko probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Sud",
     "code": "05",
-    "unofficial_names": "Sud",
+    "unofficial_names": [
+      "Sud"
+    ],
     "geo": {
       "latitude": -2.5546618,
       "longitude": 29.6035495,
@@ -360,7 +366,6 @@
       "eu": "Hegoaldeko probintzia",
       "he": "מחוז הדרום"
     },
-    "comments": null,
     "type": "province"
   }
 }

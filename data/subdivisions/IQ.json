@@ -70,7 +70,6 @@
       "yue": "安巴省",
       "yue_Hans": "安巴省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AR": {
@@ -146,7 +145,6 @@
       "yue": "艾比爾省",
       "yue_Hans": "艾比尔省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "BA": {
@@ -222,7 +220,6 @@
       "yue": "巴士拉省",
       "yue_Hans": "巴士拉省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "BB": {
@@ -294,7 +291,6 @@
       "yue": "巴比倫省",
       "yue_Hans": "巴比伦省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "BG": {
@@ -361,7 +357,6 @@
       "yue": "巴格達省",
       "yue_Hans": "巴格达省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "DA": {
@@ -435,7 +430,6 @@
       "yue": "杜酷省",
       "yue_Hans": "杜酷省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "DI": {
@@ -508,7 +502,6 @@
       "yue": "地亞拿省",
       "yue_Hans": "地亚拿省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "DQ": {
@@ -579,7 +572,6 @@
       "yue": "地加省",
       "yue_Hans": "地加省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "KA": {
@@ -650,21 +642,11 @@
       "yue": "卡巴拉省",
       "yue_Hans": "卡巴拉省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "KI": {
     "name": "كركوك",
     "code": "KI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "كركوك",
       "az": "Kərkük",
@@ -717,34 +699,25 @@
       "yue": "基卻省",
       "yue_Hans": "基却省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "KR": {
     "name": "إقليم كردستان",
     "code": "KR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم كردستان",
       "en": "Kurdistan",
       "ja": "クルディスタン地域",
       "ku": "ھەرێمی کوردستان"
     },
-    "comments": null,
     "type": "region"
   },
   "MA": {
     "name": "Maysan",
     "code": "MA",
-    "unofficial_names": "Maysan",
+    "unofficial_names": [
+      "Maysan"
+    ],
     "geo": {
       "latitude": 31.8734002,
       "longitude": 47.1362125,
@@ -807,7 +780,6 @@
       "yue": "美山省",
       "yue_Hans": "美山省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MU": {
@@ -876,7 +848,6 @@
       "yue": "穆薩拿省",
       "yue_Hans": "穆萨拿省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "NA": {
@@ -951,7 +922,6 @@
       "yue": "拿謝夫省",
       "yue_Hans": "拿谢夫省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "NI": {
@@ -1027,7 +997,6 @@
       "yue": "尼尼微省",
       "yue_Hans": "尼尼微省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "QA": {
@@ -1096,7 +1065,6 @@
       "yue": "卡迪西亞省",
       "yue_Hans": "卡迪西亚省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SD": {
@@ -1173,7 +1141,6 @@
       "yue": "薩拉甸省",
       "yue_Hans": "萨拉甸省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SU": {
@@ -1248,7 +1215,6 @@
       "yue": "蘇利曼尼亞省",
       "yue_Hans": "苏利曼尼亚省"
     },
-    "comments": null,
     "type": "governorate"
   },
   "WA": {
@@ -1321,7 +1287,6 @@
       "yue": "華薛省",
       "yue_Hans": "华薛省"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

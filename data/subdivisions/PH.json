@@ -66,21 +66,11 @@
       "jv": "Metro Manila",
       "ka": "ეროვნული დედაქალაქის რეგიონი"
     },
-    "comments": null,
     "type": "region"
   },
   "01": {
     "name": "Ilocos",
     "code": "01",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Regió d’Ilocos",
       "de": "Ilocos Region",
@@ -123,21 +113,11 @@
       "ms": "Daerah Ilocos",
       "my": "အီလိုကော့"
     },
-    "comments": null,
     "type": "region"
   },
   "02": {
     "name": "Cagayan Valley",
     "code": "02",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Vall de Cagayan",
       "de": "Cagayan Valley",
@@ -180,21 +160,11 @@
       "my": "ကာဂယံတောင်ကြားဒေသ",
       "pt": "Vale de Cagayan"
     },
-    "comments": null,
     "type": "region"
   },
   "03": {
     "name": "Central Luzon",
     "code": "03",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Luzon Central",
       "de": "Central Luzon",
@@ -236,21 +206,11 @@
       "my": "အလယ်လူဇွန်",
       "pt": "Luzon Central"
     },
-    "comments": null,
     "type": "region"
   },
   "05": {
     "name": "Bicol",
     "code": "05",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Regió de Bicol",
       "de": "Bicol Region",
@@ -291,21 +251,11 @@
       "ms": "Daerah Bicol",
       "pt": "Região de Bicol"
     },
-    "comments": null,
     "type": "region"
   },
   "06": {
     "name": "Western Visayas",
     "code": "06",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Visayas Occidentals",
       "de": "Western Visayas",
@@ -348,21 +298,11 @@
       "ms": "Bisayak Barat",
       "pt": "Visayas Ocidentais"
     },
-    "comments": null,
     "type": "region"
   },
   "07": {
     "name": "Central Visayas",
     "code": "07",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Visayas Centrals",
       "de": "Central Visayas",
@@ -402,21 +342,11 @@
       "jv": "Central Visayas",
       "ms": "Bisayak Tengah"
     },
-    "comments": null,
     "type": "region"
   },
   "08": {
     "name": "Eastern Visayas",
     "code": "08",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Усходнія Вісаі",
       "ca": "Visayas Orientals",
@@ -458,21 +388,11 @@
       "pt": "Visayas Orientais",
       "tr": "Doğu Visayas"
     },
-    "comments": null,
     "type": "region"
   },
   "09": {
     "name": "Zamboanga Peninsula",
     "code": "09",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Península de Zamboanga",
       "de": "Zamboanga Peninsula",
@@ -514,21 +434,11 @@
       "ka": "ზამბოანგის ნახევარკუნძული",
       "ms": "Semenanjung Zamboanga"
     },
-    "comments": null,
     "type": "region"
   },
   "10": {
     "name": "Northern Mindanao",
     "code": "10",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Mindanao Septentrional",
       "de": "Northern Mindanao",
@@ -567,21 +477,11 @@
       "my": "မြောက်မင်းဒနောင်",
       "pt": "Mindanao Setentrional"
     },
-    "comments": null,
     "type": "region"
   },
   "11": {
     "name": "Davao",
     "code": "11",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bn": "দাভাও অঞ্চল",
       "ca": "Regió de Davao",
@@ -619,21 +519,11 @@
       "ka": "დავაოს რეგიონი",
       "pt": "Região de Dávao"
     },
-    "comments": null,
     "type": "region"
   },
   "12": {
     "name": "Soccsksargen",
     "code": "12",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "SOCCSKSARGEN",
       "cs": "Soccsksargen",
@@ -667,21 +557,11 @@
       "ms": "Soccsksargen",
       "pt": "Soccsksargen"
     },
-    "comments": null,
     "type": "region"
   },
   "13": {
     "name": "Caraga",
     "code": "13",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Caraga",
       "de": "Caraga",
@@ -718,21 +598,11 @@
       "ms": "Caraga",
       "pt": "Caraga"
     },
-    "comments": null,
     "type": "region"
   },
   "14": {
     "name": "Muslim Mindanao",
     "code": "14",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "az": "Müsəlman Mindanao muxtar regionu",
       "be": "Аўтаномны рэгіён у Мусульманскім Мінданаа",
@@ -778,21 +648,11 @@
       "ar": "الحكم الذاتي الاقليمي لمسلمي مندناو",
       "ka": "ავტონომიური რეგიონი მუსლიმურ მინდანაოში"
     },
-    "comments": null,
     "type": "region"
   },
   "15": {
     "name": "Cordillera Administrative",
     "code": "15",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Regió Administrativa de la Cordillera",
       "de": "Cordillera Administrative Region",
@@ -830,21 +690,11 @@
       "ka": "კორდილიერის ადმინისტრაციული რეგიონი",
       "ms": "Daerah Pentadbiran Cordillera"
     },
-    "comments": null,
     "type": "region"
   },
   "40": {
     "name": "Calabarzon",
     "code": "40",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "CALABARZON",
       "de": "Calabarzon",
@@ -887,21 +737,11 @@
       "my": "ကလဘားဇွန်",
       "pt": "Calabarzon"
     },
-    "comments": null,
     "type": "region"
   },
   "41": {
     "name": "Mimaropa",
     "code": "41",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ميماروبا",
       "ca": "MIMAROPA",
@@ -941,13 +781,14 @@
       "ms": "Mimaropa",
       "pt": "Mimaropa"
     },
-    "comments": null,
     "type": "region"
   },
   "ABR": {
     "name": "Abra",
     "code": "ABR",
-    "unofficial_names": "Abra",
+    "unofficial_names": [
+      "Abra"
+    ],
     "geo": {
       "latitude": 17.5951122,
       "longitude": 120.7982528,
@@ -1002,13 +843,14 @@
       "jv": "Abra",
       "ka": "აბრა (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "AGN": {
     "name": "Agusan del Norte",
     "code": "AGN",
-    "unofficial_names": "Agusan del Norte",
+    "unofficial_names": [
+      "Agusan del Norte"
+    ],
     "geo": {
       "latitude": 8.9456259,
       "longitude": 125.5319234,
@@ -1062,13 +904,14 @@
       "jv": "Agusan del Norte",
       "ka": "ჩრდილოეთი აგუსანი"
     },
-    "comments": null,
     "type": "province"
   },
   "AGS": {
     "name": "Agusan del Sur",
     "code": "AGS",
-    "unofficial_names": "Agusan del Sur",
+    "unofficial_names": [
+      "Agusan del Sur"
+    ],
     "geo": {
       "latitude": 8.6051665,
       "longitude": 125.916739,
@@ -1121,13 +964,14 @@
       "jv": "Agusan del Sur",
       "ka": "სამხრეთი აგუსანი"
     },
-    "comments": null,
     "type": "province"
   },
   "AKL": {
     "name": "Aklan",
     "code": "AKL",
-    "unofficial_names": "Aklan",
+    "unofficial_names": [
+      "Aklan"
+    ],
     "geo": {
       "latitude": 11.8166109,
       "longitude": 122.0941541,
@@ -1183,13 +1027,14 @@
       "jv": "Aklan",
       "ka": "აკლანი"
     },
-    "comments": null,
     "type": "province"
   },
   "ALB": {
     "name": "Albay",
     "code": "ALB",
-    "unofficial_names": "Albay",
+    "unofficial_names": [
+      "Albay"
+    ],
     "geo": {
       "latitude": 13.1774827,
       "longitude": 123.5280072,
@@ -1245,13 +1090,14 @@
       "jv": "Albay",
       "ka": "ალბაი (ფილიპინები)"
     },
-    "comments": null,
     "type": "province"
   },
   "ANT": {
     "name": "Antique",
     "code": "ANT",
-    "unofficial_names": "Antique",
+    "unofficial_names": [
+      "Antique"
+    ],
     "geo": {
       "latitude": 11.380579,
       "longitude": 122.0635005,
@@ -1305,13 +1151,14 @@
       "jv": "Antique",
       "ka": "ანტიკე"
     },
-    "comments": null,
     "type": "province"
   },
   "APA": {
     "name": "Apayao",
     "code": "APA",
-    "unofficial_names": "Apayao",
+    "unofficial_names": [
+      "Apayao"
+    ],
     "geo": {
       "latitude": 18.0120304,
       "longitude": 121.1710389,
@@ -1365,13 +1212,14 @@
       "jv": "Apayao",
       "ka": "აპაიაო"
     },
-    "comments": null,
     "type": "province"
   },
   "AUR": {
     "name": "Aurora",
     "code": "AUR",
-    "unofficial_names": "Aurora",
+    "unofficial_names": [
+      "Aurora"
+    ],
     "geo": {
       "latitude": 16.991944,
       "longitude": 121.636944,
@@ -1427,13 +1275,14 @@
       "jv": "Aurora",
       "ka": "აურორა (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "BAN": {
     "name": "Bataan",
     "code": "BAN",
-    "unofficial_names": "Bataan",
+    "unofficial_names": [
+      "Bataan"
+    ],
     "geo": {
       "latitude": 14.6416842,
       "longitude": 120.4818446,
@@ -1490,13 +1339,14 @@
       "sr": "Батан",
       "sr_Latn": "Batan"
     },
-    "comments": null,
     "type": "province"
   },
   "BAS": {
     "name": "Basilan",
     "code": "BAS",
-    "unofficial_names": "Basilan",
+    "unofficial_names": [
+      "Basilan"
+    ],
     "geo": {
       "latitude": 6.4296349,
       "longitude": 121.9870165,
@@ -1552,13 +1402,14 @@
       "jv": "Basilan",
       "ka": "ბასილანი"
     },
-    "comments": null,
     "type": "province"
   },
   "BEN": {
     "name": "Benguet",
     "code": "BEN",
-    "unofficial_names": "Benguet",
+    "unofficial_names": [
+      "Benguet"
+    ],
     "geo": {
       "latitude": 16.5577257,
       "longitude": 120.8039474,
@@ -1613,13 +1464,14 @@
       "jv": "Benguet",
       "ka": "ბენგეტი"
     },
-    "comments": null,
     "type": "province"
   },
   "BIL": {
     "name": "Biliran",
     "code": "BIL",
-    "unofficial_names": "Biliran",
+    "unofficial_names": [
+      "Biliran"
+    ],
     "geo": {
       "latitude": 11.466667,
       "longitude": 124.483333,
@@ -1676,13 +1528,14 @@
       "jv": "Biliran",
       "ka": "ბილირანი"
     },
-    "comments": null,
     "type": "province"
   },
   "BOH": {
     "name": "Bohol",
     "code": "BOH",
-    "unofficial_names": "Bohol",
+    "unofficial_names": [
+      "Bohol"
+    ],
     "geo": {
       "latitude": 9.849991099999999,
       "longitude": 124.1435427,
@@ -1748,13 +1601,14 @@
       "is": "Bóhol",
       "ka": "ბოჰოლი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "BTG": {
     "name": "Batangas",
     "code": "BTG",
-    "unofficial_names": "Batangas",
+    "unofficial_names": [
+      "Batangas"
+    ],
     "geo": {
       "latitude": 13.7564651,
       "longitude": 121.0583076,
@@ -1809,13 +1663,14 @@
       "jv": "Batangas",
       "ka": "ბატანგასი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "BTN": {
     "name": "Batanes",
     "code": "BTN",
-    "unofficial_names": "Batanes",
+    "unofficial_names": [
+      "Batanes"
+    ],
     "geo": {
       "latitude": 20.4485074,
       "longitude": 121.9708129,
@@ -1873,13 +1728,14 @@
       "jv": "Batanes",
       "ka": "ბატანესი"
     },
-    "comments": null,
     "type": "province"
   },
   "BUK": {
     "name": "Bukidnon",
     "code": "BUK",
-    "unofficial_names": "Bukidnon",
+    "unofficial_names": [
+      "Bukidnon"
+    ],
     "geo": {
       "latitude": 8.0515054,
       "longitude": 124.9229946,
@@ -1934,13 +1790,14 @@
       "jv": "Bukidnon",
       "ka": "ბუკიდნონი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "BUL": {
     "name": "Bulacan",
     "code": "BUL",
-    "unofficial_names": "Bulacan",
+    "unofficial_names": [
+      "Bulacan"
+    ],
     "geo": {
       "latitude": 14.7942735,
       "longitude": 120.8799008,
@@ -1995,13 +1852,14 @@
       "jv": "Bulacan",
       "ka": "ბულაკანი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAG": {
     "name": "Cagayan",
     "code": "CAG",
-    "unofficial_names": "Cagayan",
+    "unofficial_names": [
+      "Cagayan"
+    ],
     "geo": {
       "latitude": 18.2489629,
       "longitude": 121.8787833,
@@ -2056,13 +1914,14 @@
       "jv": "Cagayan",
       "ka": "კაგაიანი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAM": {
     "name": "Camiguin",
     "code": "CAM",
-    "unofficial_names": "Camiguin",
+    "unofficial_names": [
+      "Camiguin"
+    ],
     "geo": {
       "latitude": 9.1732164,
       "longitude": 124.7298765,
@@ -2118,13 +1977,14 @@
       "jv": "Camiguin",
       "ka": "კამიგინი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAN": {
     "name": "Camarines Norte",
     "code": "CAN",
-    "unofficial_names": "Camarines Norte",
+    "unofficial_names": [
+      "Camarines Norte"
+    ],
     "geo": {
       "latitude": 14.1390265,
       "longitude": 122.7633036,
@@ -2178,13 +2038,14 @@
       "jv": "Camarines Norte",
       "ka": "ჩრდილოეთი კამარინესი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAP": {
     "name": "Capiz",
     "code": "CAP",
-    "unofficial_names": "Capiz",
+    "unofficial_names": [
+      "Capiz"
+    ],
     "geo": {
       "latitude": 11.3888799,
       "longitude": 122.6277455,
@@ -2238,13 +2099,14 @@
       "jv": "Capiz",
       "ka": "კაპისი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "CAS": {
     "name": "Camarines Sur",
     "code": "CAS",
-    "unofficial_names": "Camarines Sur",
+    "unofficial_names": [
+      "Camarines Sur"
+    ],
     "geo": {
       "latitude": 13.5250197,
       "longitude": 123.3486147,
@@ -2300,13 +2162,14 @@
       "jv": "Camarines Sur",
       "ka": "სამხრეთი კამარინესი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAT": {
     "name": "Catanduanes",
     "code": "CAT",
-    "unofficial_names": "Catanduanes",
+    "unofficial_names": [
+      "Catanduanes"
+    ],
     "geo": {
       "latitude": 13.7088684,
       "longitude": 124.2421597,
@@ -2364,13 +2227,14 @@
       "jv": "Catanduanes",
       "ka": "კატანდუანესი"
     },
-    "comments": null,
     "type": "province"
   },
   "CAV": {
     "name": "Cavite",
     "code": "CAV",
-    "unofficial_names": "Cavite",
+    "unofficial_names": [
+      "Cavite"
+    ],
     "geo": {
       "latitude": 14.4791297,
       "longitude": 120.8969634,
@@ -2425,13 +2289,14 @@
       "jv": "Cavite",
       "ka": "კავიტე"
     },
-    "comments": null,
     "type": "province"
   },
   "CEB": {
     "name": "Cebu",
     "code": "CEB",
-    "unofficial_names": "Cebu",
+    "unofficial_names": [
+      "Cebu"
+    ],
     "geo": {
       "latitude": 10.3156992,
       "longitude": 123.8854366,
@@ -2495,13 +2360,14 @@
       "jv": "Cebu",
       "ka": "სებუ (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "COM": {
     "name": "Compostela Valley",
     "code": "COM",
-    "unofficial_names": "Compostela Valley",
+    "unofficial_names": [
+      "Compostela Valley"
+    ],
     "geo": {
       "latitude": 7.512514999999999,
       "longitude": 126.1762615,
@@ -2554,13 +2420,14 @@
       "jv": "Davao de Oro",
       "ka": "დავაო-დე-ორო"
     },
-    "comments": null,
     "type": "province"
   },
   "DAO": {
     "name": "Davao Oriental",
     "code": "DAO",
-    "unofficial_names": "Davao Oriental",
+    "unofficial_names": [
+      "Davao Oriental"
+    ],
     "geo": {
       "latitude": 7.3171585,
       "longitude": 126.5419887,
@@ -2613,13 +2480,14 @@
       "jv": "Davao Oriental",
       "ka": "აღმოსავლეთი დავაო"
     },
-    "comments": null,
     "type": "province"
   },
   "DAS": {
     "name": "Davao del Sur",
     "code": "DAS",
-    "unofficial_names": "Davao del Sur",
+    "unofficial_names": [
+      "Davao del Sur"
+    ],
     "geo": {
       "latitude": 6.766268699999999,
       "longitude": 125.3284269,
@@ -2672,7 +2540,6 @@
       "jv": "Davao del Sur",
       "ka": "სამხრეთი დავაო"
     },
-    "comments": null,
     "type": "province"
   },
   "DAV": {
@@ -2733,13 +2600,14 @@
       "jv": "Davao del Norte",
       "ka": "ჩრდილოეთი დავაო"
     },
-    "comments": null,
     "type": "province"
   },
   "DIN": {
     "name": "Dinagat Islands",
     "code": "DIN",
-    "unofficial_names": "Dinagat Islands",
+    "unofficial_names": [
+      "Dinagat Islands"
+    ],
     "geo": {
       "latitude": 10.1281816,
       "longitude": 125.6095474,
@@ -2780,13 +2648,14 @@
       "ms": "Kepulauan Dinagat",
       "pt": "Ilhas de Dinagat"
     },
-    "comments": null,
     "type": "province"
   },
   "DVO": {
     "name": "Davao Occidental",
     "code": "DVO",
-    "unofficial_names": "Davao Occidental",
+    "unofficial_names": [
+      "Davao Occidental"
+    ],
     "geo": {
       "latitude": 12.879721,
       "longitude": 121.774017,
@@ -2821,13 +2690,14 @@
       "ms": "Davao Barat",
       "pt": "Davao Ocidental"
     },
-    "comments": null,
     "type": "province"
   },
   "EAS": {
     "name": "Eastern Samar",
     "code": "EAS",
-    "unofficial_names": "Eastern Samar",
+    "unofficial_names": [
+      "Eastern Samar"
+    ],
     "geo": {
       "latitude": 11.5000731,
       "longitude": 125.4999908,
@@ -2880,13 +2750,14 @@
       "no": "Eastern Samar",
       "jv": "Eastern Samar"
     },
-    "comments": null,
     "type": "province"
   },
   "GUI": {
     "name": "Guimaras",
     "code": "GUI",
-    "unofficial_names": "Guimaras",
+    "unofficial_names": [
+      "Guimaras"
+    ],
     "geo": {
       "latitude": 10.5928661,
       "longitude": 122.6325081,
@@ -2941,13 +2812,14 @@
       "jv": "Guimaras",
       "ka": "გიმარასი"
     },
-    "comments": null,
     "type": "province"
   },
   "IFU": {
     "name": "Ifugao",
     "code": "IFU",
-    "unofficial_names": "Ifugao",
+    "unofficial_names": [
+      "Ifugao"
+    ],
     "geo": {
       "latitude": 16.8330792,
       "longitude": 121.1710389,
@@ -3004,13 +2876,14 @@
       "ka": "იფუგაო",
       "ro": "Ifugao (provincie)"
     },
-    "comments": null,
     "type": "province"
   },
   "ILI": {
     "name": "Iloilo",
     "code": "ILI",
-    "unofficial_names": "Iloilo",
+    "unofficial_names": [
+      "Iloilo"
+    ],
     "geo": {
       "latitude": 10.7201501,
       "longitude": 122.5621063,
@@ -3065,13 +2938,14 @@
       "jv": "Iloilo",
       "ka": "ილოილო (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "ILN": {
     "name": "Ilocos Norte",
     "code": "ILN",
-    "unofficial_names": "Ilocos Norte",
+    "unofficial_names": [
+      "Ilocos Norte"
+    ],
     "geo": {
       "latitude": 18.1647281,
       "longitude": 120.7115592,
@@ -3126,13 +3000,14 @@
       "jv": "Ilocos Norte",
       "ka": "ჩრდილოეთი ილოკოსი"
     },
-    "comments": null,
     "type": "province"
   },
   "ILS": {
     "name": "Ilocos Sur",
     "code": "ILS",
-    "unofficial_names": "Ilocos Sur",
+    "unofficial_names": [
+      "Ilocos Sur"
+    ],
     "geo": {
       "latitude": 17.2278664,
       "longitude": 120.5739579,
@@ -3187,13 +3062,14 @@
       "jv": "Ilocos Sur",
       "ka": "სამხრეთი ილოკოსი"
     },
-    "comments": null,
     "type": "province"
   },
   "ISA": {
     "name": "Isabela",
     "code": "ISA",
-    "unofficial_names": "Isabela",
+    "unofficial_names": [
+      "Isabela"
+    ],
     "geo": {
       "latitude": 16.9753758,
       "longitude": 121.8107079,
@@ -3247,13 +3123,14 @@
       "jv": "Isabela",
       "ka": "ისაბელა (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "KAL": {
     "name": "Kalinga",
     "code": "KAL",
-    "unofficial_names": "Kalinga",
+    "unofficial_names": [
+      "Kalinga"
+    ],
     "geo": {
       "latitude": 17.4740422,
       "longitude": 121.3541631,
@@ -3308,13 +3185,14 @@
       "jv": "Kalinga",
       "ka": "კალინგა (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "LAG": {
     "name": "Laguna",
     "code": "LAG",
-    "unofficial_names": "Laguna",
+    "unofficial_names": [
+      "Laguna"
+    ],
     "geo": {
       "latitude": 14.2956294,
       "longitude": 121.4961581,
@@ -3370,13 +3248,14 @@
       "hy": "Լագունա",
       "jv": "Laguna"
     },
-    "comments": null,
     "type": "province"
   },
   "LAN": {
     "name": "Lanao del Norte",
     "code": "LAN",
-    "unofficial_names": "Lanao del Norte",
+    "unofficial_names": [
+      "Lanao del Norte"
+    ],
     "geo": {
       "latitude": 7.8721811,
       "longitude": 123.8857747,
@@ -3429,13 +3308,14 @@
       "jv": "Lanao del Norte",
       "ka": "ჩრდილოეთი ლანაო"
     },
-    "comments": null,
     "type": "province"
   },
   "LAS": {
     "name": "Lanao del Sur",
     "code": "LAS",
-    "unofficial_names": "Lanao del Sur",
+    "unofficial_names": [
+      "Lanao del Sur"
+    ],
     "geo": {
       "latitude": 7.823176,
       "longitude": 124.4198243,
@@ -3488,13 +3368,14 @@
       "jv": "Lanao del Sur",
       "ka": "სამხრეთი ლანაო"
     },
-    "comments": null,
     "type": "province"
   },
   "LEY": {
     "name": "Leyte",
     "code": "LEY",
-    "unofficial_names": "Leyte",
+    "unofficial_names": [
+      "Leyte"
+    ],
     "geo": {
       "latitude": 11.366667,
       "longitude": 124.483333,
@@ -3548,13 +3429,14 @@
       "jv": "Leyte",
       "ka": "ლეიტე (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "LUN": {
     "name": "La Union",
     "code": "LUN",
-    "unofficial_names": "La Union",
+    "unofficial_names": [
+      "La Union"
+    ],
     "geo": {
       "latitude": 16.6158906,
       "longitude": 120.3209373,
@@ -3609,13 +3491,14 @@
       "jv": "La Union",
       "ka": "ლა-უნიონი (ფილიპინები)"
     },
-    "comments": null,
     "type": "province"
   },
   "MAD": {
     "name": "Marinduque",
     "code": "MAD",
-    "unofficial_names": "Marinduque",
+    "unofficial_names": [
+      "Marinduque"
+    ],
     "geo": {
       "latitude": 13.4767171,
       "longitude": 121.9032192,
@@ -3675,13 +3558,14 @@
       "ka": "მარინდუკე",
       "sk": "Marinduque"
     },
-    "comments": null,
     "type": "province"
   },
   "MAG": {
     "name": "Maguindanao",
     "code": "MAG",
-    "unofficial_names": "Maguindanao",
+    "unofficial_names": [
+      "Maguindanao"
+    ],
     "geo": {
       "latitude": 6.9422581,
       "longitude": 124.4198243,
@@ -3736,13 +3620,14 @@
       "jv": "Maguindanao",
       "ka": "მაგინდანაო"
     },
-    "comments": null,
     "type": "province"
   },
   "MAS": {
     "name": "Masbate",
     "code": "MAS",
-    "unofficial_names": "Masbate",
+    "unofficial_names": [
+      "Masbate"
+    ],
     "geo": {
       "latitude": 12.366667,
       "longitude": 123.616667,
@@ -3801,13 +3686,14 @@
       "jv": "Masbate",
       "ka": "მასბატეს პროვინცია"
     },
-    "comments": null,
     "type": "province"
   },
   "MDC": {
     "name": "Mindoro Occidental",
     "code": "MDC",
-    "unofficial_names": "Mindoro Occidental",
+    "unofficial_names": [
+      "Mindoro Occidental"
+    ],
     "geo": {
       "latitude": 13.1024111,
       "longitude": 120.7651284,
@@ -3861,13 +3747,14 @@
       "jv": "Occidental Mindoro",
       "ka": "დასავლეთი მინდორო"
     },
-    "comments": null,
     "type": "province"
   },
   "MDR": {
     "name": "Mindoro Oriental",
     "code": "MDR",
-    "unofficial_names": "Mindoro Oriental",
+    "unofficial_names": [
+      "Mindoro Oriental"
+    ],
     "geo": {
       "latitude": 13.0564598,
       "longitude": 121.4069417,
@@ -3921,13 +3808,14 @@
       "jv": "Oriental Mindoro",
       "ka": "აღმოსავლეთი მინდორო"
     },
-    "comments": null,
     "type": "province"
   },
   "MOU": {
     "name": "Mountain Province",
     "code": "MOU",
-    "unofficial_names": "Mountain Province",
+    "unofficial_names": [
+      "Mountain Province"
+    ],
     "geo": {
       "latitude": 17.0663429,
       "longitude": 121.03351,
@@ -3981,13 +3869,14 @@
       "he": "נפת ההר",
       "jv": "Mountain Province"
     },
-    "comments": null,
     "type": "province"
   },
   "MSC": {
     "name": "Misamis Occidental",
     "code": "MSC",
-    "unofficial_names": "Misamis Occidental",
+    "unofficial_names": [
+      "Misamis Occidental"
+    ],
     "geo": {
       "latitude": 8.337490299999999,
       "longitude": 123.7070619,
@@ -4040,13 +3929,14 @@
       "no": "Misamis Occidental",
       "jv": "Misamis Occidental"
     },
-    "comments": null,
     "type": "province"
   },
   "MSR": {
     "name": "Misamis Oriental",
     "code": "MSR",
-    "unofficial_names": "Misamis Oriental",
+    "unofficial_names": [
+      "Misamis Oriental"
+    ],
     "geo": {
       "latitude": 8.5045558,
       "longitude": 124.6219592,
@@ -4100,7 +3990,6 @@
       "jv": "Misamis Oriental",
       "ka": "აღმოსავლეთი მისამისი"
     },
-    "comments": null,
     "type": "province"
   },
   "NCO": {
@@ -4162,13 +4051,14 @@
       "jv": "Cotabato",
       "ka": "კოტაბატო (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "NEC": {
     "name": "Negros Occidental",
     "code": "NEC",
-    "unofficial_names": "Negros Occidental",
+    "unofficial_names": [
+      "Negros Occidental"
+    ],
     "geo": {
       "latitude": 10.2925609,
       "longitude": 123.0246518,
@@ -4222,13 +4112,14 @@
       "jv": "Negros Occidental",
       "ka": "დასავლეთი ნეგროსი"
     },
-    "comments": null,
     "type": "province"
   },
   "NER": {
     "name": "Negros Oriental",
     "code": "NER",
-    "unofficial_names": "Negros Oriental",
+    "unofficial_names": [
+      "Negros Oriental"
+    ],
     "geo": {
       "latitude": 9.628208299999999,
       "longitude": 122.9888319,
@@ -4283,13 +4174,14 @@
       "jv": "Negros Oriental",
       "ka": "აღმოსავლეთი ნეგროსი"
     },
-    "comments": null,
     "type": "province"
   },
   "NSA": {
     "name": "Northern Samar",
     "code": "NSA",
-    "unofficial_names": "Northern Samar",
+    "unofficial_names": [
+      "Northern Samar"
+    ],
     "geo": {
       "latitude": 12.3613199,
       "longitude": 124.7740793,
@@ -4343,13 +4235,14 @@
       "jv": "Northern Samar",
       "ka": "ჩრდილოეთი სამარი"
     },
-    "comments": null,
     "type": "province"
   },
   "NUE": {
     "name": "Nueva Ecija",
     "code": "NUE",
-    "unofficial_names": "Nueva Ecija",
+    "unofficial_names": [
+      "Nueva Ecija"
+    ],
     "geo": {
       "latitude": 15.6906831,
       "longitude": 120.9876321,
@@ -4404,13 +4297,14 @@
       "jv": "Nueva Ecija",
       "ka": "ნუევა-ესიხა"
     },
-    "comments": null,
     "type": "province"
   },
   "NUV": {
     "name": "Nueva Vizcaya",
     "code": "NUV",
-    "unofficial_names": "Nueva Vizcaya",
+    "unofficial_names": [
+      "Nueva Vizcaya"
+    ],
     "geo": {
       "latitude": 16.3301107,
       "longitude": 121.1710389,
@@ -4465,13 +4359,14 @@
       "jv": "Nueva Vizcaya",
       "ka": "ნუევა-ვისკაია"
     },
-    "comments": null,
     "type": "province"
   },
   "PAM": {
     "name": "Pampanga",
     "code": "PAM",
-    "unofficial_names": "Pampanga",
+    "unofficial_names": [
+      "Pampanga"
+    ],
     "geo": {
       "latitude": 15.079409,
       "longitude": 120.6199895,
@@ -4526,13 +4421,14 @@
       "jv": "Pampanga",
       "ka": "პამპანგა"
     },
-    "comments": null,
     "type": "province"
   },
   "PAN": {
     "name": "Pangasinan",
     "code": "PAN",
-    "unofficial_names": "Pangasinan",
+    "unofficial_names": [
+      "Pangasinan"
+    ],
     "geo": {
       "latitude": 15.8949055,
       "longitude": 120.2863183,
@@ -4589,13 +4485,14 @@
       "ka": "პანგასინანი",
       "my": "ပန်ဂါဆီနန်"
     },
-    "comments": null,
     "type": "province"
   },
   "PLW": {
     "name": "Palawan",
     "code": "PLW",
-    "unofficial_names": "Palawan",
+    "unofficial_names": [
+      "Palawan"
+    ],
     "geo": {
       "latitude": 9.8349493,
       "longitude": 118.7383615,
@@ -4662,13 +4559,14 @@
       "jv": "Palawan",
       "ka": "პალავანი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "QUE": {
     "name": "Quezon",
     "code": "QUE",
-    "unofficial_names": "Quezon",
+    "unofficial_names": [
+      "Quezon"
+    ],
     "geo": {
       "latitude": 14.0313906,
       "longitude": 122.1130909,
@@ -4723,7 +4621,6 @@
       "jv": "Quezon",
       "ka": "კესონი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "QUI": {
@@ -4785,13 +4682,14 @@
       "jv": "Quirino",
       "ka": "კირინო"
     },
-    "comments": null,
     "type": "province"
   },
   "RIZ": {
     "name": "Rizal",
     "code": "RIZ",
-    "unofficial_names": "Rizal",
+    "unofficial_names": [
+      "Rizal"
+    ],
     "geo": {
       "latitude": 14.6037446,
       "longitude": 121.3084088,
@@ -4847,13 +4745,14 @@
       "jv": "Rizal",
       "ka": "რისალი"
     },
-    "comments": null,
     "type": "province"
   },
   "ROM": {
     "name": "Romblon",
     "code": "ROM",
-    "unofficial_names": "Romblon",
+    "unofficial_names": [
+      "Romblon"
+    ],
     "geo": {
       "latitude": 12.5778554,
       "longitude": 122.269129,
@@ -4908,13 +4807,14 @@
       "jv": "Romblon",
       "ka": "რომბლონი"
     },
-    "comments": null,
     "type": "province"
   },
   "SAR": {
     "name": "Sarangani",
     "code": "SAR",
-    "unofficial_names": "Sarangani",
+    "unofficial_names": [
+      "Sarangani"
+    ],
     "geo": {
       "latitude": 5.926717500000001,
       "longitude": 124.994751,
@@ -4968,13 +4868,14 @@
       "no": "Sarangani",
       "jv": "Sarangani"
     },
-    "comments": null,
     "type": "province"
   },
   "SCO": {
     "name": "South Cotabato",
     "code": "SCO",
-    "unofficial_names": "South Cotabato",
+    "unofficial_names": [
+      "South Cotabato"
+    ],
     "geo": {
       "latitude": 6.3357565,
       "longitude": 124.7740793,
@@ -5027,13 +4928,14 @@
       "jv": "South Cotabato",
       "ka": "სამხრეთი კოტაბატო"
     },
-    "comments": null,
     "type": "province"
   },
   "SIG": {
     "name": "Siquijor",
     "code": "SIG",
-    "unofficial_names": "Siquijor",
+    "unofficial_names": [
+      "Siquijor"
+    ],
     "geo": {
       "latitude": 9.213263099999999,
       "longitude": 123.5157032,
@@ -5088,13 +4990,14 @@
       "he": "סיקיהור",
       "jv": "Siquijor"
     },
-    "comments": null,
     "type": "province"
   },
   "SLE": {
     "name": "Southern Leyte",
     "code": "SLE",
-    "unofficial_names": "Southern Leyte",
+    "unofficial_names": [
+      "Southern Leyte"
+    ],
     "geo": {
       "latitude": 10.3346206,
       "longitude": 125.1708741,
@@ -5150,13 +5053,14 @@
       "jv": "Southern Leyte",
       "ka": "სამხრეთი ლეიტე"
     },
-    "comments": null,
     "type": "province"
   },
   "SLU": {
     "name": "Sulu",
     "code": "SLU",
-    "unofficial_names": "Sulu",
+    "unofficial_names": [
+      "Sulu"
+    ],
     "geo": {
       "latitude": 5.974901099999999,
       "longitude": 121.03351,
@@ -5211,13 +5115,14 @@
       "jv": "Sulu",
       "ka": "სულუ (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "SOR": {
     "name": "Sorsogon",
     "code": "SOR",
-    "unofficial_names": "Sorsogon",
+    "unofficial_names": [
+      "Sorsogon"
+    ],
     "geo": {
       "latitude": 12.9927095,
       "longitude": 124.0147464,
@@ -5273,13 +5178,14 @@
       "jv": "Sorsogon",
       "ka": "სორსოგონი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "SUK": {
     "name": "Sultan Kudarat",
     "code": "SUK",
-    "unofficial_names": "Sultan Kudarat",
+    "unofficial_names": [
+      "Sultan Kudarat"
+    ],
     "geo": {
       "latitude": 6.5069401,
       "longitude": 124.4198243,
@@ -5332,13 +5238,14 @@
       "no": "Sultan Kudarat",
       "jv": "Sultan Kudarat"
     },
-    "comments": null,
     "type": "province"
   },
   "SUN": {
     "name": "Surigao del Norte",
     "code": "SUN",
-    "unofficial_names": "Surigao del Norte",
+    "unofficial_names": [
+      "Surigao del Norte"
+    ],
     "geo": {
       "latitude": 9.514828,
       "longitude": 125.6969984,
@@ -5391,13 +5298,14 @@
       "jv": "Surigao del Norte",
       "ka": "ჩრდილოეთი სურიგაო"
     },
-    "comments": null,
     "type": "province"
   },
   "SUR": {
     "name": "Surigao del Sur",
     "code": "SUR",
-    "unofficial_names": "Surigao del Sur",
+    "unofficial_names": [
+      "Surigao del Sur"
+    ],
     "geo": {
       "latitude": 8.5404906,
       "longitude": 126.1144758,
@@ -5450,13 +5358,14 @@
       "jv": "Surigao del Sur",
       "ka": "სამხრეთი სურიგაო"
     },
-    "comments": null,
     "type": "province"
   },
   "TAR": {
     "name": "Tarlac",
     "code": "TAR",
-    "unofficial_names": "Tarlac",
+    "unofficial_names": [
+      "Tarlac"
+    ],
     "geo": {
       "latitude": 15.4754786,
       "longitude": 120.5963492,
@@ -5512,13 +5421,14 @@
       "jv": "Tarlac",
       "ka": "ტარლაკი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "TAW": {
     "name": "Tawi-Tawi",
     "code": "TAW",
-    "unofficial_names": "Tawi-Tawi",
+    "unofficial_names": [
+      "Tawi-Tawi"
+    ],
     "geo": {
       "latitude": 5.133811,
       "longitude": 119.950926,
@@ -5574,7 +5484,6 @@
       "jv": "Tawi-Tawi",
       "ka": "ტავი-ტავი"
     },
-    "comments": null,
     "type": "province"
   },
   "WSA": {
@@ -5638,13 +5547,14 @@
       "jv": "Samar",
       "ka": "სამარი (პროვინცია)"
     },
-    "comments": null,
     "type": "province"
   },
   "ZAN": {
     "name": "Zamboanga del Norte",
     "code": "ZAN",
-    "unofficial_names": "Zamboanga del Norte",
+    "unofficial_names": [
+      "Zamboanga del Norte"
+    ],
     "geo": {
       "latitude": 8.3886282,
       "longitude": 123.1688883,
@@ -5698,13 +5608,14 @@
       "jv": "Zamboanga del Norte",
       "ka": "ჩრდილოეთი ზამბოანგა"
     },
-    "comments": null,
     "type": "province"
   },
   "ZAS": {
     "name": "Zamboanga del Sur",
     "code": "ZAS",
-    "unofficial_names": "Zamboanga del Sur",
+    "unofficial_names": [
+      "Zamboanga del Sur"
+    ],
     "geo": {
       "latitude": 7.838305399999999,
       "longitude": 123.2966657,
@@ -5757,13 +5668,14 @@
       "jv": "Zamboanga del Sur",
       "ka": "სამხრეთი ზამბოანგა"
     },
-    "comments": null,
     "type": "province"
   },
   "ZMB": {
     "name": "Zambales",
     "code": "ZMB",
-    "unofficial_names": "Zambales",
+    "unofficial_names": [
+      "Zambales"
+    ],
     "geo": {
       "latitude": 15.5081766,
       "longitude": 119.9697808,
@@ -5819,20 +5731,17 @@
       "jv": "Zambales",
       "ka": "სამბალესი"
     },
-    "comments": null,
     "type": "province"
   },
   "ZSI": {
     "name": "Zamboanga Sibuguey [Zamboanga Sibugay]",
     "code": "ZSI",
-    "unofficial_names": "Zamboanga Sibuguey [Zamboanga Sibugay]",
+    "unofficial_names": [
+      "Zamboanga Sibuguey [Zamboanga Sibugay]"
+    ],
     "geo": {
       "latitude": 7.02427,
-      "longitude": 122.189,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 122.189
     },
     "translations": {
       "en": "Zamboanga Sibugay",
@@ -5881,7 +5790,6 @@
       "jv": "Zamboanga Sibugay",
       "ka": "ზამბოანგა-სიბუგაი"
     },
-    "comments": null,
     "type": "province"
   }
 }

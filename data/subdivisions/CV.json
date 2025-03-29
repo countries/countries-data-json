@@ -2,15 +2,6 @@
   "B": {
     "name": "Ilhas de Barlavento",
     "code": "B",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ca": "Illes de Barlavento",
       "cs": "Barlavento",
@@ -48,13 +39,14 @@
       "ru": "Острова Барловенто",
       "uk": "Барловенто (острови)"
     },
-    "comments": null,
     "type": "geographical_region"
   },
   "BR": {
     "name": "Brava",
     "code": "BR",
-    "unofficial_names": "Brava",
+    "unofficial_names": [
+      "Brava"
+    ],
     "geo": {
       "latitude": 14.8661257,
       "longitude": -24.7024179,
@@ -103,13 +95,14 @@
       "uk": "Брава",
       "no": "Brava"
     },
-    "comments": null,
     "type": "municipality"
   },
   "BV": {
     "name": "Boa Vista",
     "code": "BV",
-    "unofficial_names": "Boa Vista",
+    "unofficial_names": [
+      "Boa Vista"
+    ],
     "geo": {
       "latitude": 16.1372504,
       "longitude": -22.858217,
@@ -160,13 +153,14 @@
       "no": "Boa Vista",
       "ceb": "Concelho da Boa Vista"
     },
-    "comments": null,
     "type": "municipality"
   },
   "CA": {
     "name": "Santa Catarina",
     "code": "CA",
-    "unofficial_names": "Santa Catarina",
+    "unofficial_names": [
+      "Santa Catarina"
+    ],
     "geo": {
       "latitude": 15.0992532,
       "longitude": -23.6918783,
@@ -219,21 +213,11 @@
       "no": "Santa Catarina",
       "fa": "سانتا کاتارینا (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "CF": {
     "name": "Santa Catarina do Fogo",
     "code": "CF",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سانتا كاتارينا دو فوجو",
       "bn": "স্যান্টা ক্যাটারিনা দো ফোগো",
@@ -276,13 +260,14 @@
       "no": "Santa Catarina do Fogo",
       "fa": "سانتا کاتارینا دو فگو (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "CR": {
     "name": "Santa Cruz",
     "code": "CR",
-    "unofficial_names": "Santa Cruz",
+    "unofficial_names": [
+      "Santa Cruz"
+    ],
     "geo": {
       "latitude": 15.1027292,
       "longitude": -23.5609459,
@@ -335,13 +320,14 @@
       "no": "Santa Cruz",
       "fa": "سانتا کروز (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "CS": {
     "name": "Calheta de São Miguel",
     "code": "CS",
-    "unofficial_names": "Calheta de São Miguel",
+    "unofficial_names": [
+      "Calheta de São Miguel"
+    ],
     "geo": {
       "latitude": 15.1875,
       "longitude": -23.593,
@@ -354,13 +340,14 @@
       "en": "Calheta de São Miguel",
       "ja": "カリェタ・デ・サン・ミゲル"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MA": {
     "name": "Maio",
     "code": "MA",
-    "unofficial_names": "Maio",
+    "unofficial_names": [
+      "Maio"
+    ],
     "geo": {
       "latitude": 15.2003098,
       "longitude": -23.1679793,
@@ -388,13 +375,14 @@
       "cy": "Bwrdeistref Maio",
       "pl": "Maio (concelho)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MO": {
     "name": "Mosteiros",
     "code": "MO",
-    "unofficial_names": "Mosteiros",
+    "unofficial_names": [
+      "Mosteiros"
+    ],
     "geo": {
       "latitude": 15.034,
       "longitude": -24.325,
@@ -444,13 +432,14 @@
       "uk": "Моштейруш",
       "no": "Mosteiros"
     },
-    "comments": null,
     "type": "municipality"
   },
   "PA": {
     "name": "Paúl",
     "code": "PA",
-    "unofficial_names": "Paúl",
+    "unofficial_names": [
+      "Paúl"
+    ],
     "geo": {
       "latitude": 17.1005359,
       "longitude": -24.9872821,
@@ -504,13 +493,14 @@
       "ml": "പോൾ",
       "sw": "Paul, Cape Verde"
     },
-    "comments": null,
     "type": "municipality"
   },
   "PN": {
     "name": "Porto Novo",
     "code": "PN",
-    "unofficial_names": "Porto Novo",
+    "unofficial_names": [
+      "Porto Novo"
+    ],
     "geo": {
       "latitude": 16.9911107,
       "longitude": -25.2363408,
@@ -562,13 +552,14 @@
       "no": "Porto Novo",
       "fa": "پورتو نوو (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "PR": {
     "name": "Praia",
     "code": "PR",
-    "unofficial_names": "Praia",
+    "unofficial_names": [
+      "Praia"
+    ],
     "geo": {
       "latitude": 14.95,
       "longitude": -23.52,
@@ -621,21 +612,11 @@
       "be": "Прая",
       "no": "Praia"
     },
-    "comments": null,
     "type": "municipality"
   },
   "RB": {
     "name": "Ribeira Brava",
     "code": "RB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ريبيرا برافا",
       "bn": "রিবেইরা ব্রাভা",
@@ -678,7 +659,6 @@
       "uk": "Рібейра-Брава",
       "no": "Ribeira Brava"
     },
-    "comments": null,
     "type": "municipality"
   },
   "RG": {
@@ -737,21 +717,11 @@
       "uk": "Рібейра-Гранде",
       "no": "Ribeira Grande"
     },
-    "comments": null,
     "type": "municipality"
   },
   "RS": {
     "name": "Ribeira Grande de Santiago",
     "code": "RS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ريبيرا غراندي دي سانتياغو، الرأس الأخضر",
       "bg": "Рибейра Гранде де Сантяго",
@@ -795,21 +765,11 @@
       "no": "Ribeira Grande de Santiago",
       "fa": "ریبیرا گرانده د سانتیاگو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "S": {
     "name": "Ilhas de Sotavento",
     "code": "S",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزر سوتافينتو",
       "ca": "Illes de Sotavento",
@@ -843,13 +803,14 @@
       "ru": "острова Сотовенту",
       "uk": "Сотавенто (острови)"
     },
-    "comments": null,
     "type": "geographical_region"
   },
   "SD": {
     "name": "São Domingos",
     "code": "SD",
-    "unofficial_names": "São Domingos",
+    "unofficial_names": [
+      "São Domingos"
+    ],
     "geo": {
       "latitude": 15.025,
       "longitude": -23.5625,
@@ -901,13 +862,14 @@
       "no": "São Domingos",
       "fa": "سائو دومینگوس (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SF": {
     "name": "São Filipe",
     "code": "SF",
-    "unofficial_names": "São Filipe",
+    "unofficial_names": [
+      "São Filipe"
+    ],
     "geo": {
       "latitude": 14.895,
       "longitude": -24.498,
@@ -958,13 +920,14 @@
       "no": "São Filipe",
       "fa": "سائو فیلیپه (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SL": {
     "name": "Sal",
     "code": "SL",
-    "unofficial_names": "Sal",
+    "unofficial_names": [
+      "Sal"
+    ],
     "geo": {
       "latitude": 16.7266152,
       "longitude": -22.9297109,
@@ -1015,21 +978,11 @@
       "uk": "Сал",
       "no": "Sal"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SM": {
     "name": "São Miguel",
     "code": "SM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Сао Мигел",
       "ca": "São Miguel",
@@ -1054,13 +1007,14 @@
       "id": "São Miguel, Tanjung Verde",
       "uk": "Сан-Мігель (Кабо-Верде)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SN": {
     "name": "São Nicolau",
     "code": "SN",
-    "unofficial_names": "São Nicolau",
+    "unofficial_names": [
+      "São Nicolau"
+    ],
     "geo": {
       "latitude": 16.6048609,
       "longitude": -24.3103718,
@@ -1073,21 +1027,11 @@
       "en": "São Nicolau",
       "ja": "サン・ニコラウ島"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SO": {
     "name": "São Lourenço dos Órgãos",
     "code": "SO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ساو لورينسو دوس أورغاوس",
       "bn": "সেন্ট লরেন্স দোস অরগ্যাস",
@@ -1130,21 +1074,11 @@
       "no": "São Lourenço dos Órgãos",
       "fa": "سائو لورنچو دوس ارگیوس (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SS": {
     "name": "São Salvador do Mundo",
     "code": "SS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ساو سلفادور دو موندو",
       "bg": "Сао Салвадор до Мундо",
@@ -1188,13 +1122,14 @@
       "no": "São Salvador do Mundo",
       "fa": "سائو سالوادور دو موندو (دماغه سبز)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SV": {
     "name": "São Vicente",
     "code": "SV",
-    "unofficial_names": "São Vicente",
+    "unofficial_names": [
+      "São Vicente"
+    ],
     "geo": {
       "latitude": 16.8341271,
       "longitude": -24.9279547,
@@ -1245,13 +1180,14 @@
       "no": "São Vicente",
       "be": "Сан-Вісенты"
     },
-    "comments": null,
     "type": "municipality"
   },
   "TA": {
     "name": "Tarrafal",
     "code": "TA",
-    "unofficial_names": "Tarrafal",
+    "unofficial_names": [
+      "Tarrafal"
+    ],
     "geo": {
       "latitude": 15.278,
       "longitude": -23.752,
@@ -1303,21 +1239,11 @@
       "uk": "Таррафал",
       "no": "Tarrafal"
     },
-    "comments": null,
     "type": "municipality"
   },
   "TS": {
     "name": "Tarrafal de São Nicolau",
     "code": "TS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "تارفال دي ساو نيكولاو",
       "bn": "ত্ররাফাল দে সাও নিকোলাউ",
@@ -1359,7 +1285,6 @@
       "uk": "Таррафал-де-Сан-Ніколау",
       "no": "Tarrafal de São Nicolau"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

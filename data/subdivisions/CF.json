@@ -2,7 +2,9 @@
   "AC": {
     "name": "Ouham",
     "code": "AC",
-    "unofficial_names": "Ouham",
+    "unofficial_names": [
+      "Ouham"
+    ],
     "geo": {
       "latitude": 7.090910999999999,
       "longitude": 17.668887,
@@ -57,13 +59,14 @@
       "ccp": "𑄃𑄧𑄅𑄪𑄦𑄟𑄴",
       "no": "Ouham"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "BB": {
     "name": "Bamingui-Bangoran",
     "code": "BB",
-    "unofficial_names": "Bamingui-Bangoran",
+    "unofficial_names": [
+      "Bamingui-Bangoran"
+    ],
     "geo": {
       "latitude": 8.2733455,
       "longitude": 20.7122465,
@@ -120,13 +123,14 @@
       "he": "מחוז במינגי-במגוראן",
       "hy": "Բամինգի Բանգորան"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "BGF": {
     "name": "Bangui",
     "code": "BGF",
-    "unofficial_names": "Bangui",
+    "unofficial_names": [
+      "Bangui"
+    ],
     "geo": {
       "latitude": 4.366667,
       "longitude": 18.583333,
@@ -220,13 +224,14 @@
       "yo_BJ": "Bangui",
       "ps": "بانګویی"
     },
-    "comments": null,
     "type": "commune"
   },
   "BK": {
     "name": "Basse-Kotto",
     "code": "BK",
-    "unofficial_names": "Basse-Kotto",
+    "unofficial_names": [
+      "Basse-Kotto"
+    ],
     "geo": {
       "latitude": 4.8719319,
       "longitude": 21.2845025,
@@ -282,13 +287,14 @@
       "fa": "باس کوتو",
       "hy": "Ստորին Կոտտո"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "HK": {
     "name": "Haute-Kotto",
     "code": "HK",
-    "unofficial_names": "Haute-Kotto",
+    "unofficial_names": [
+      "Haute-Kotto"
+    ],
     "geo": {
       "latitude": 7.7964379,
       "longitude": 23.3823545,
@@ -343,7 +349,6 @@
       "ccp": "𑄦𑄅𑄪𑄑𑄬-𑄇𑄧𑄑𑄳𑄦𑄧",
       "no": "Haute-Kotto"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "HM": {
@@ -406,7 +411,6 @@
       "no": "Haut-Mbomou",
       "fa": "هاوت امبومو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "HS": {
@@ -469,7 +473,6 @@
       "ccp": "𑄟𑄟𑄴𑄝𑄬𑄢𑄬-𑄇𑄓𑄬𑄭",
       "no": "Mambéré-Kadéï"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "KB": {
@@ -532,7 +535,6 @@
       "no": "Nana-Grébizi",
       "fa": "نانا گریبیزی"
     },
-    "comments": null,
     "type": "economic_prefecture"
   },
   "KG": {
@@ -595,13 +597,14 @@
       "no": "Kémo",
       "fa": "کمو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "LB": {
     "name": "Lobaye",
     "code": "LB",
-    "unofficial_names": "Lobaye",
+    "unofficial_names": [
+      "Lobaye"
+    ],
     "geo": {
       "latitude": 4.3525981,
       "longitude": 17.4795173,
@@ -656,7 +659,6 @@
       "ccp": "𑄣𑄧𑄝𑄠𑄬",
       "no": "Lobaye"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MB": {
@@ -719,7 +721,6 @@
       "no": "Mbomou",
       "fa": "امبومو"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MP": {
@@ -782,13 +783,14 @@
       "ccp": "𑄃𑄧𑄟𑄴𑄝𑄬𑄣-𑄃𑄬𑄟‘𑄛𑄧𑄇𑄮",
       "no": "Ombella-M’Poko"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "NM": {
     "name": "Nana-Mambéré",
     "code": "NM",
-    "unofficial_names": "Nana-Mambéré",
+    "unofficial_names": [
+      "Nana-Mambéré"
+    ],
     "geo": {
       "latitude": 5.6932135,
       "longitude": 15.2194808,
@@ -843,13 +845,14 @@
       "ccp": "𑄚𑄚-𑄟𑄟𑄴𑄝𑄬𑄢𑄬",
       "no": "Nana-Mambéré"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "OP": {
     "name": "Ouham-Pendé",
     "code": "OP",
-    "unofficial_names": "Ouham-Pendé",
+    "unofficial_names": [
+      "Ouham-Pendé"
+    ],
     "geo": {
       "latitude": 6.4850984,
       "longitude": 16.1580937,
@@ -903,7 +906,6 @@
       "no": "Ouham-Pendé",
       "fa": "اوهام-پنده"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "SE": {
@@ -967,13 +969,14 @@
       "no": "Sangha-Mbaéré",
       "fa": "سنگا-مبائر"
     },
-    "comments": null,
     "type": "economic_prefecture"
   },
   "UK": {
     "name": "Ouaka",
     "code": "UK",
-    "unofficial_names": "Ouaka",
+    "unofficial_names": [
+      "Ouaka"
+    ],
     "geo": {
       "latitude": 6.3168216,
       "longitude": 20.7122465,
@@ -1029,13 +1032,14 @@
       "no": "Ouaka",
       "he": "מחוז אואקה"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "VK": {
     "name": "Vakaga",
     "code": "VK",
-    "unofficial_names": "Vakaga",
+    "unofficial_names": [
+      "Vakaga"
+    ],
     "geo": {
       "latitude": 9.5113296,
       "longitude": 22.2384017,
@@ -1091,7 +1095,6 @@
       "fa": "واکاگا",
       "he": "מחוז ווקגה"
     },
-    "comments": null,
     "type": "prefecture"
   }
 }

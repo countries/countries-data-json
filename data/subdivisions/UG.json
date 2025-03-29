@@ -2,7 +2,9 @@
   "101": {
     "name": "Kalangala",
     "code": "101",
-    "unofficial_names": "Kalangala",
+    "unofficial_names": [
+      "Kalangala"
+    ],
     "geo": {
       "latitude": -0.3208374,
       "longitude": 32.2937428,
@@ -60,13 +62,14 @@
       "ml": "കലങല ജില്ല",
       "zu": "Kalangala District"
     },
-    "comments": null,
     "type": "district"
   },
   "102": {
     "name": "Kampala",
     "code": "102",
-    "unofficial_names": "Kampala",
+    "unofficial_names": [
+      "Kampala"
+    ],
     "geo": {
       "latitude": 0.313611,
       "longitude": 32.581111,
@@ -120,13 +123,14 @@
       "no": "Kampala",
       "be": "акруга Кампала"
     },
-    "comments": null,
     "type": "city"
   },
   "103": {
     "name": "Kiboga",
     "code": "103",
-    "unofficial_names": "Kiboga",
+    "unofficial_names": [
+      "Kiboga"
+    ],
     "geo": {
       "latitude": 0.92,
       "longitude": 31.76,
@@ -181,13 +185,14 @@
       "he": "קיבוגה",
       "ml": "കിബൊഗ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "104": {
     "name": "Luwero",
     "code": "104",
-    "unofficial_names": "Luwero",
+    "unofficial_names": [
+      "Luwero"
+    ],
     "geo": {
       "latitude": 0.833056,
       "longitude": 32.499444,
@@ -242,13 +247,14 @@
       "he": "לוורו",
       "ml": "ലുവീരൊ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "105": {
     "name": "Masaka",
     "code": "105",
-    "unofficial_names": "Masaka",
+    "unofficial_names": [
+      "Masaka"
+    ],
     "geo": {
       "latitude": -0.34,
       "longitude": 31.74,
@@ -303,13 +309,14 @@
       "he": "מאסאקה",
       "ml": "മസക ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "106": {
     "name": "Mpigi",
     "code": "106",
-    "unofficial_names": "Mpigi",
+    "unofficial_names": [
+      "Mpigi"
+    ],
     "geo": {
       "latitude": 0.233333,
       "longitude": 32.333333,
@@ -363,13 +370,14 @@
       "he": "מפיגי",
       "ml": "മ്പിഗി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "107": {
     "name": "Mubende",
     "code": "107",
-    "unofficial_names": "Mubende",
+    "unofficial_names": [
+      "Mubende"
+    ],
     "geo": {
       "latitude": 0.5575,
       "longitude": 31.395,
@@ -424,13 +432,14 @@
       "he": "מובנדה",
       "ml": "മുബെൻഡെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "108": {
     "name": "Mukono",
     "code": "108",
-    "unofficial_names": "Mukono",
+    "unofficial_names": [
+      "Mukono"
+    ],
     "geo": {
       "latitude": 0.353333,
       "longitude": 32.755278,
@@ -486,13 +495,14 @@
       "fa": "ناحیه موکونو",
       "ml": "മുകുണൊ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "109": {
     "name": "Nakasongola",
     "code": "109",
-    "unofficial_names": "Nakasongola",
+    "unofficial_names": [
+      "Nakasongola"
+    ],
     "geo": {
       "latitude": 1.315,
       "longitude": 32.465,
@@ -545,20 +555,17 @@
       "no": "Nakasongola",
       "fa": "ناحیه ناکاسونگولا"
     },
-    "comments": null,
     "type": "district"
   },
   "110": {
     "name": "Rakai",
     "code": "110",
-    "unofficial_names": "Rakai",
+    "unofficial_names": [
+      "Rakai"
+    ],
     "geo": {
       "latitude": -0.70294,
-      "longitude": 31.40991,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 31.40991
     },
     "translations": {
       "en": "Rakai",
@@ -604,13 +611,14 @@
       "no": "Rakai",
       "fa": "ناحیه راکای"
     },
-    "comments": null,
     "type": "district"
   },
   "111": {
     "name": "Sembabule",
     "code": "111",
-    "unofficial_names": "Sembabule",
+    "unofficial_names": [
+      "Sembabule"
+    ],
     "geo": {
       "latitude": -0.08,
       "longitude": 31.46,
@@ -662,13 +670,14 @@
       "uk": "Район Сембабуле",
       "no": "Sembabule"
     },
-    "comments": null,
     "type": "district"
   },
   "112": {
     "name": "Kayunga",
     "code": "112",
-    "unofficial_names": "Kayunga",
+    "unofficial_names": [
+      "Kayunga"
+    ],
     "geo": {
       "latitude": 0.7013707,
       "longitude": 32.9029088,
@@ -723,13 +732,14 @@
       "fa": "ناحیه کایونگا",
       "ml": "കയുങ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "113": {
     "name": "Wakiso",
     "code": "113",
-    "unofficial_names": "Wakiso",
+    "unofficial_names": [
+      "Wakiso"
+    ],
     "geo": {
       "latitude": 0.398056,
       "longitude": 32.478056,
@@ -787,13 +797,14 @@
       "fa": "ناحیه واکیسو",
       "he": "מחוז ואקיסו"
     },
-    "comments": null,
     "type": "district"
   },
   "114": {
     "name": "Mityana",
     "code": "114",
-    "unofficial_names": "Mityana",
+    "unofficial_names": [
+      "Mityana"
+    ],
     "geo": {
       "latitude": 0.4016398,
       "longitude": 32.043969,
@@ -848,13 +859,14 @@
       "he": "ליאנטונדה",
       "ml": "ല്യൻടോൻഡെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "115": {
     "name": "Nakaseke",
     "code": "115",
-    "unofficial_names": "Nakaseke",
+    "unofficial_names": [
+      "Nakaseke"
+    ],
     "geo": {
       "latitude": 1.0922742,
       "longitude": 32.0837445,
@@ -909,13 +921,14 @@
       "he": "מיטיאנה",
       "ml": "മിട്യന ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "116": {
     "name": "Lyantonde",
     "code": "116",
-    "unofficial_names": "Lyantonde",
+    "unofficial_names": [
+      "Lyantonde"
+    ],
     "geo": {
       "latitude": -0.406944,
       "longitude": 31.1575,
@@ -968,21 +981,11 @@
       "no": "Lyantonde²",
       "fa": "ناحیه ناکاسکه"
     },
-    "comments": null,
     "type": "district"
   },
   "117": {
     "name": "Buikwe",
     "code": "117",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بويكوي",
       "bn": "বুইকওয়ে জেলা",
@@ -1026,21 +1029,11 @@
       "he": "בוויקווה",
       "sw": "Wilaya ya Buikwe"
     },
-    "comments": null,
     "type": "district"
   },
   "118": {
     "name": "Bukomansibi",
     "code": "118",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بوكومانسيمبي",
       "bn": "বুকোমান্সিম্বি জেলা",
@@ -1084,21 +1077,11 @@
       "he": "בוקומנסימבי",
       "sw": "Wilaya ya Bukomansimbi"
     },
-    "comments": null,
     "type": "district"
   },
   "119": {
     "name": "Butambala",
     "code": "119",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بوتمبالا",
       "bn": "বোতামবালা জেলা",
@@ -1144,21 +1127,11 @@
       "ml": "ബുടംബല",
       "sw": "Wilaya ya Butambala"
     },
-    "comments": null,
     "type": "district"
   },
   "120": {
     "name": "Buvuma",
     "code": "120",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بوفوما",
       "bn": "বুভুমা জেলা",
@@ -1204,21 +1177,11 @@
       "ml": "ബുവുമ ജില്ല",
       "sw": "Wilaya ya Buvuma"
     },
-    "comments": null,
     "type": "district"
   },
   "121": {
     "name": "Gomba",
     "code": "121",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة غومبا",
       "bn": "গোম্বা জেলা",
@@ -1264,21 +1227,11 @@
       "he": "גומבה",
       "sw": "Wilaya ya Gomba"
     },
-    "comments": null,
     "type": "district"
   },
   "122": {
     "name": "Kalungu",
     "code": "122",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كالونغو",
       "bn": "কালোঙ্গো জেলা",
@@ -1324,21 +1277,11 @@
       "ml": "കലുങു ജില്ല",
       "sw": "Wilaya ya Kalungu"
     },
-    "comments": null,
     "type": "district"
   },
   "123": {
     "name": "Kyankwanzi",
     "code": "123",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كيانكوانزي",
       "bn": "কিয়ানকাঊয়ানজি জেলা",
@@ -1384,21 +1327,11 @@
       "ml": "ക്യങ്ക്വൻശി ജില്ല",
       "sw": "Wilaya ya Kyankwanzi"
     },
-    "comments": null,
     "type": "district"
   },
   "124": {
     "name": "Lwengo",
     "code": "124",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة لوينغو",
       "bn": "লেঙ্গো জেলা",
@@ -1444,13 +1377,11 @@
       "ml": "ൽവെങൊ ജില്ല",
       "sw": "Wilaya ya Lwengo"
     },
-    "comments": null,
     "type": "district"
   },
   "125": {
     "name": "Kyotera",
     "code": "125",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -1468,13 +1399,11 @@
       "nl": "Kyotera",
       "sw": "Wilaya ya Kyotera"
     },
-    "comments": null,
     "type": "district"
   },
   "126": {
     "name": "Kasanda",
     "code": "126",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -1486,13 +1415,14 @@
     "translations": {
       "en": "Kasanda"
     },
-    "comments": null,
     "type": "district"
   },
   "201": {
     "name": "Bugiri",
     "code": "201",
-    "unofficial_names": "Bugiri",
+    "unofficial_names": [
+      "Bugiri"
+    ],
     "geo": {
       "latitude": 0.569444,
       "longitude": 33.748611,
@@ -1525,13 +1455,14 @@
       "id": "Distrik Bugiri",
       "ml": "ബുഗിരി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "202": {
     "name": "Busia",
     "code": "202",
-    "unofficial_names": "Busia",
+    "unofficial_names": [
+      "Busia"
+    ],
     "geo": {
       "latitude": 0.4706692,
       "longitude": 34.0919803,
@@ -1584,13 +1515,14 @@
       "no": "Busia",
       "fa": "ناحیه بوسیا"
     },
-    "comments": null,
     "type": "district"
   },
   "203": {
     "name": "Iganga",
     "code": "203",
-    "unofficial_names": "Iganga",
+    "unofficial_names": [
+      "Iganga"
+    ],
     "geo": {
       "latitude": 0.615,
       "longitude": 33.485,
@@ -1644,13 +1576,14 @@
       "no": "Iganga",
       "fa": "ناحیه ایگانگا"
     },
-    "comments": null,
     "type": "district"
   },
   "204": {
     "name": "Jinja",
     "code": "204",
-    "unofficial_names": "Jinja",
+    "unofficial_names": [
+      "Jinja"
+    ],
     "geo": {
       "latitude": 0.424444,
       "longitude": 33.204167,
@@ -1704,13 +1637,14 @@
       "no": "Jinja",
       "fa": "ناحیه جینجا"
     },
-    "comments": null,
     "type": "district"
   },
   "205": {
     "name": "Kamuli",
     "code": "205",
-    "unofficial_names": "Kamuli",
+    "unofficial_names": [
+      "Kamuli"
+    ],
     "geo": {
       "latitude": 0.9450000000000001,
       "longitude": 33.125,
@@ -1763,13 +1697,14 @@
       "no": "Kamuli",
       "fa": "ناحیه کامولی"
     },
-    "comments": null,
     "type": "district"
   },
   "206": {
     "name": "Kapchorwa",
     "code": "206",
-    "unofficial_names": "Kapchorwa",
+    "unofficial_names": [
+      "Kapchorwa"
+    ],
     "geo": {
       "latitude": 1.4,
       "longitude": 34.45,
@@ -1822,13 +1757,14 @@
       "no": "Kapchorwa",
       "he": "קפצ׳ורווה"
     },
-    "comments": null,
     "type": "district"
   },
   "207": {
     "name": "Katakwi",
     "code": "207",
-    "unofficial_names": "Katakwi",
+    "unofficial_names": [
+      "Katakwi"
+    ],
     "geo": {
       "latitude": 1.915,
       "longitude": 33.955,
@@ -1881,13 +1817,14 @@
       "no": "Katakwi",
       "fa": "ناحیه کاتاکوی"
     },
-    "comments": null,
     "type": "district"
   },
   "208": {
     "name": "Kumi",
     "code": "208",
-    "unofficial_names": "Kumi",
+    "unofficial_names": [
+      "Kumi"
+    ],
     "geo": {
       "latitude": 1.49,
       "longitude": 33.935,
@@ -1940,13 +1877,14 @@
       "no": "Kumi",
       "fa": "ناحیه کومی"
     },
-    "comments": null,
     "type": "district"
   },
   "209": {
     "name": "Mbale",
     "code": "209",
-    "unofficial_names": "Mbale",
+    "unofficial_names": [
+      "Mbale"
+    ],
     "geo": {
       "latitude": 1.080556,
       "longitude": 34.175,
@@ -1998,13 +1936,14 @@
       "uk": "Район Мбале",
       "no": "Mbale"
     },
-    "comments": null,
     "type": "district"
   },
   "210": {
     "name": "Pallisa",
     "code": "210",
-    "unofficial_names": "Pallisa",
+    "unofficial_names": [
+      "Pallisa"
+    ],
     "geo": {
       "latitude": 1.1675,
       "longitude": 33.71,
@@ -2057,13 +1996,14 @@
       "no": "Pallisa",
       "fa": "ناحیه پالیسا"
     },
-    "comments": null,
     "type": "district"
   },
   "211": {
     "name": "Soroti",
     "code": "211",
-    "unofficial_names": "Soroti",
+    "unofficial_names": [
+      "Soroti"
+    ],
     "geo": {
       "latitude": 1.715,
       "longitude": 33.611111,
@@ -2116,13 +2056,14 @@
       "no": "Soroti",
       "fa": "ناحیه سوروتی"
     },
-    "comments": null,
     "type": "district"
   },
   "212": {
     "name": "Tororo",
     "code": "212",
-    "unofficial_names": "Tororo",
+    "unofficial_names": [
+      "Tororo"
+    ],
     "geo": {
       "latitude": 0.692778,
       "longitude": 34.181111,
@@ -2177,13 +2118,14 @@
       "no": "Tororo",
       "fa": "ناحیه تورورو"
     },
-    "comments": null,
     "type": "district"
   },
   "213": {
     "name": "Kaberamaido",
     "code": "213",
-    "unofficial_names": "Kaberamaido",
+    "unofficial_names": [
+      "Kaberamaido"
+    ],
     "geo": {
       "latitude": 1.766667,
       "longitude": 33.152222,
@@ -2235,13 +2177,14 @@
       "uk": "Район Каберамайдо",
       "no": "Kaberamaido"
     },
-    "comments": null,
     "type": "district"
   },
   "214": {
     "name": "Mayuge",
     "code": "214",
-    "unofficial_names": "Mayuge",
+    "unofficial_names": [
+      "Mayuge"
+    ],
     "geo": {
       "latitude": 0.2532134,
       "longitude": 33.5508661,
@@ -2295,13 +2238,14 @@
       "fa": "ناحیه مایوژ",
       "ml": "മയുഗെ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "215": {
     "name": "Sironko",
     "code": "215",
-    "unofficial_names": "Sironko",
+    "unofficial_names": [
+      "Sironko"
+    ],
     "geo": {
       "latitude": 1.233333,
       "longitude": 34.25,
@@ -2354,13 +2298,14 @@
       "no": "Sironko",
       "fa": "ناحیه سیرونکو"
     },
-    "comments": null,
     "type": "district"
   },
   "216": {
     "name": "Amuria",
     "code": "216",
-    "unofficial_names": "Amuria",
+    "unofficial_names": [
+      "Amuria"
+    ],
     "geo": {
       "latitude": 2.03017,
       "longitude": 33.6427533,
@@ -2414,13 +2359,14 @@
       "uk": "Район Амурія",
       "no": "Amuria"
     },
-    "comments": null,
     "type": "district"
   },
   "217": {
     "name": "Budaka",
     "code": "217",
-    "unofficial_names": "Budaka",
+    "unofficial_names": [
+      "Budaka"
+    ],
     "geo": {
       "latitude": 1.016667,
       "longitude": 33.945,
@@ -2475,20 +2421,17 @@
       "no": "Budaka",
       "fa": "ناحیه بوداکا"
     },
-    "comments": null,
     "type": "district"
   },
   "218": {
     "name": "Bukwa",
     "code": "218",
-    "unofficial_names": "Bukwa",
+    "unofficial_names": [
+      "Bukwa"
+    ],
     "geo": {
       "latitude": 1.2938,
-      "longitude": 34.7396699,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 34.7396699
     },
     "translations": {
       "en": "Bududa",
@@ -2536,20 +2479,17 @@
       "no": "Bududa",
       "fa": "ناحیه بودا"
     },
-    "comments": null,
     "type": "district"
   },
   "219": {
     "name": "Butaleja",
     "code": "219",
-    "unofficial_names": "Butaleja",
+    "unofficial_names": [
+      "Butaleja"
+    ],
     "geo": {
       "latitude": 0.9252009999999999,
-      "longitude": 33.945702,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 33.945702
     },
     "translations": {
       "en": "Bukedea",
@@ -2595,13 +2535,14 @@
       "uk": "Район Букудеа",
       "no": "Butaleja"
     },
-    "comments": null,
     "type": "district"
   },
   "220": {
     "name": "Kaliro",
     "code": "220",
-    "unofficial_names": "Kaliro",
+    "unofficial_names": [
+      "Kaliro"
+    ],
     "geo": {
       "latitude": 0.8927499,
       "longitude": 33.5028005,
@@ -2655,13 +2596,14 @@
       "fa": "ناحیه بوکو",
       "ga": "Ceantar Bukwo"
     },
-    "comments": null,
     "type": "district"
   },
   "221": {
     "name": "Manafwa",
     "code": "221",
-    "unofficial_names": "Manafwa",
+    "unofficial_names": [
+      "Manafwa"
+    ],
     "geo": {
       "latitude": 0.9063599,
       "longitude": 34.28660910000001,
@@ -2714,13 +2656,14 @@
       "no": "Manafwa",
       "fa": "ناحیه بوتالجا"
     },
-    "comments": null,
     "type": "district"
   },
   "222": {
     "name": "Namutumba",
     "code": "222",
-    "unofficial_names": "Namutumba",
+    "unofficial_names": [
+      "Namutumba"
+    ],
     "geo": {
       "latitude": 0.8360898,
       "longitude": 33.6860965,
@@ -2774,13 +2717,14 @@
       "fa": "ناحیه کالیرو",
       "ml": "കലിരൊ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "223": {
     "name": "Bududa",
     "code": "223",
-    "unofficial_names": "Bududa",
+    "unofficial_names": [
+      "Bududa"
+    ],
     "geo": {
       "latitude": 1.0029693,
       "longitude": 34.3338123,
@@ -2833,13 +2777,14 @@
       "no": "Manafwa²",
       "fa": "ناحیه منافوا"
     },
-    "comments": null,
     "type": "district"
   },
   "224": {
     "name": "Bukedea",
     "code": "224",
-    "unofficial_names": "Bukedea",
+    "unofficial_names": [
+      "Bukedea"
+    ],
     "geo": {
       "latitude": 1.3475,
       "longitude": 34.044444,
@@ -2892,21 +2837,11 @@
       "no": "Bukedea",
       "fa": "ناحیه ناموتومبا"
     },
-    "comments": null,
     "type": "district"
   },
   "225": {
     "name": "Bulambuli",
     "code": "225",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بولامبولي",
       "bn": "বুলামবুলি জেলা",
@@ -2950,21 +2885,11 @@
       "fa": "ناحیه بولامبولی",
       "sw": "Wilaya ya Bulambuli"
     },
-    "comments": null,
     "type": "district"
   },
   "226": {
     "name": "Buyende",
     "code": "226",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بويندي",
       "bn": "বায়েন্ডি জেলা",
@@ -3007,21 +2932,11 @@
       "no": "Buyende",
       "sw": "Wilaya ya Buyende"
     },
-    "comments": null,
     "type": "district"
   },
   "227": {
     "name": "Kibuku",
     "code": "227",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كيبوكو",
       "bn": "কিবুকো জেলা",
@@ -3065,21 +2980,11 @@
       "fa": "ناحیه کیبوکو",
       "sw": "Wilaya ya Kibuku"
     },
-    "comments": null,
     "type": "district"
   },
   "228": {
     "name": "Kween",
     "code": "228",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كوين",
       "bn": "কিন জেলা",
@@ -3124,21 +3029,11 @@
       "he": "קווין",
       "sw": "Wilaya ya Kween"
     },
-    "comments": null,
     "type": "district"
   },
   "229": {
     "name": "Luuka",
     "code": "229",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ضاحية لوكا",
       "bn": "লুকা জেলা",
@@ -3183,21 +3078,11 @@
       "ml": "ലൂക ജില്ല",
       "sw": "Wilaya ya Luuka"
     },
-    "comments": null,
     "type": "district"
   },
   "230": {
     "name": "Namayingo",
     "code": "230",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نامايينغو",
       "bn": "নামাইংগো জেলা",
@@ -3240,21 +3125,11 @@
       "no": "Namayingo",
       "sw": "Wilaya ya Namayingo"
     },
-    "comments": null,
     "type": "district"
   },
   "231": {
     "name": "Ngora",
     "code": "231",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نغورا",
       "bn": "নাগোরা জেলা",
@@ -3298,21 +3173,11 @@
       "fa": "ناحیه نگورا",
       "sw": "Wilaya ya Ngora"
     },
-    "comments": null,
     "type": "district"
   },
   "232": {
     "name": "Serere",
     "code": "232",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة سيرير",
       "bn": "সেরে জেলা",
@@ -3356,13 +3221,11 @@
       "fa": "ناحیه سرره",
       "sw": "Wilaya ya Serere"
     },
-    "comments": null,
     "type": "district"
   },
   "233": {
     "name": "Butebo",
     "code": "233",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -3379,13 +3242,11 @@
       "nl": "Butebo (district)",
       "sw": "Wilaya ya Butebo"
     },
-    "comments": null,
     "type": "district"
   },
   "234": {
     "name": "Namisindwa",
     "code": "234",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -3401,13 +3262,11 @@
       "nl": "Namisindwa (district)",
       "sw": "Wilaya ya Namisindwa"
     },
-    "comments": null,
     "type": "district"
   },
   "235": {
     "name": "Bugweri",
     "code": "235",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -3420,13 +3279,11 @@
       "en": "Bugweri",
       "ja": "ブグウェリ県"
     },
-    "comments": null,
     "type": "district"
   },
   "236": {
     "name": "Kapelebyong",
     "code": "236",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -3439,7 +3296,6 @@
       "en": "Kapelebyong",
       "ja": "カペレビョン県"
     },
-    "comments": null,
     "type": "district"
   },
   "237": {
@@ -3456,7 +3312,9 @@
   "301": {
     "name": "Adjumani",
     "code": "301",
-    "unofficial_names": "Adjumani",
+    "unofficial_names": [
+      "Adjumani"
+    ],
     "geo": {
       "latitude": 3.384444,
       "longitude": 31.781944,
@@ -3508,13 +3366,14 @@
       "uk": "Район Аджумані",
       "no": "Adjumani"
     },
-    "comments": null,
     "type": "district"
   },
   "302": {
     "name": "Apac",
     "code": "302",
-    "unofficial_names": "Apac",
+    "unofficial_names": [
+      "Apac"
+    ],
     "geo": {
       "latitude": 1.983333,
       "longitude": 32.533333,
@@ -3566,13 +3425,14 @@
       "no": "Apac",
       "fa": "ناحیه آپاک"
     },
-    "comments": null,
     "type": "district"
   },
   "303": {
     "name": "Arua",
     "code": "303",
-    "unofficial_names": "Arua",
+    "unofficial_names": [
+      "Arua"
+    ],
     "geo": {
       "latitude": 3.038333,
       "longitude": 30.910833,
@@ -3624,13 +3484,14 @@
       "no": "Arua",
       "fa": "ناحیه آروا"
     },
-    "comments": null,
     "type": "district"
   },
   "304": {
     "name": "Gulu",
     "code": "304",
-    "unofficial_names": "Gulu",
+    "unofficial_names": [
+      "Gulu"
+    ],
     "geo": {
       "latitude": 2.78,
       "longitude": 32.3,
@@ -3682,13 +3543,14 @@
       "no": "Gulu",
       "fa": "ناحیه گولو"
     },
-    "comments": null,
     "type": "district"
   },
   "305": {
     "name": "Kitgum",
     "code": "305",
-    "unofficial_names": "Kitgum",
+    "unofficial_names": [
+      "Kitgum"
+    ],
     "geo": {
       "latitude": 3.2884847,
       "longitude": 32.8789499,
@@ -3740,13 +3602,14 @@
       "no": "Kitgum",
       "fa": "ناحیه کیتگوم"
     },
-    "comments": null,
     "type": "district"
   },
   "306": {
     "name": "Kotido",
     "code": "306",
-    "unofficial_names": "Kotido",
+    "unofficial_names": [
+      "Kotido"
+    ],
     "geo": {
       "latitude": 3.006111,
       "longitude": 34.1125,
@@ -3798,13 +3661,14 @@
       "no": "Kotido",
       "fa": "ناحیه کوتیدو"
     },
-    "comments": null,
     "type": "district"
   },
   "307": {
     "name": "Lira",
     "code": "307",
-    "unofficial_names": "Lira",
+    "unofficial_names": [
+      "Lira"
+    ],
     "geo": {
       "latitude": 2.247222,
       "longitude": 32.9,
@@ -3858,13 +3722,14 @@
       "be": "акруга Ліра",
       "fa": "ناحیه لیرا"
     },
-    "comments": null,
     "type": "district"
   },
   "308": {
     "name": "Moroto",
     "code": "308",
-    "unofficial_names": "Moroto",
+    "unofficial_names": [
+      "Moroto"
+    ],
     "geo": {
       "latitude": 2.53,
       "longitude": 34.67,
@@ -3918,13 +3783,14 @@
       "no": "Moroto",
       "fa": "ناحیه موروتو"
     },
-    "comments": null,
     "type": "district"
   },
   "309": {
     "name": "Moyo",
     "code": "309",
-    "unofficial_names": "Moyo",
+    "unofficial_names": [
+      "Moyo"
+    ],
     "geo": {
       "latitude": 3.655,
       "longitude": 31.72,
@@ -3977,13 +3843,14 @@
       "no": "Moyo",
       "fa": "ناحیه موویو"
     },
-    "comments": null,
     "type": "district"
   },
   "310": {
     "name": "Nebbi",
     "code": "310",
-    "unofficial_names": "Nebbi",
+    "unofficial_names": [
+      "Nebbi"
+    ],
     "geo": {
       "latitude": 2.479167,
       "longitude": 31.09,
@@ -4036,13 +3903,14 @@
       "no": "Nebbi",
       "fa": "ناحیه نبی"
     },
-    "comments": null,
     "type": "district"
   },
   "311": {
     "name": "Nakapiripirit",
     "code": "311",
-    "unofficial_names": "Nakapiripirit",
+    "unofficial_names": [
+      "Nakapiripirit"
+    ],
     "geo": {
       "latitude": 1.8502515,
       "longitude": 34.7215859,
@@ -4096,13 +3964,14 @@
       "no": "Nakapiripirit",
       "fa": "ناحیه ناکاپیریپیریت"
     },
-    "comments": null,
     "type": "district"
   },
   "312": {
     "name": "Pader",
     "code": "312",
-    "unofficial_names": "Pader",
+    "unofficial_names": [
+      "Pader"
+    ],
     "geo": {
       "latitude": 2.881111,
       "longitude": 33.086389,
@@ -4135,13 +4004,14 @@
       "id": "Distrik Pader",
       "ml": "പടെർ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "313": {
     "name": "Yumbe",
     "code": "313",
-    "unofficial_names": "Yumbe",
+    "unofficial_names": [
+      "Yumbe"
+    ],
     "geo": {
       "latitude": 3.466667,
       "longitude": 31.25,
@@ -4194,13 +4064,14 @@
       "no": "Yumbe",
       "fa": "ناحیه یومبه"
     },
-    "comments": null,
     "type": "district"
   },
   "314": {
     "name": "Amolatar",
     "code": "314",
-    "unofficial_names": "Amolatar",
+    "unofficial_names": [
+      "Amolatar"
+    ],
     "geo": {
       "latitude": 1.6329923,
       "longitude": 32.8183226,
@@ -4255,13 +4126,14 @@
       "uk": "Район Абім",
       "no": "Abim"
     },
-    "comments": null,
     "type": "district"
   },
   "315": {
     "name": "Kaabong",
     "code": "315",
-    "unofficial_names": "Kaabong",
+    "unofficial_names": [
+      "Kaabong"
+    ],
     "geo": {
       "latitude": 3.5124436,
       "longitude": 34.1337219,
@@ -4313,13 +4185,14 @@
       "uk": "Амолатар",
       "no": "Amolatar"
     },
-    "comments": null,
     "type": "district"
   },
   "316": {
     "name": "Koboko",
     "code": "316",
-    "unofficial_names": "Koboko",
+    "unofficial_names": [
+      "Koboko"
+    ],
     "geo": {
       "latitude": 3.41,
       "longitude": 30.95999999999999,
@@ -4372,13 +4245,14 @@
       "uk": "Район Амуру",
       "no": "Amuru"
     },
-    "comments": null,
     "type": "district"
   },
   "317": {
     "name": "Abim",
     "code": "317",
-    "unofficial_names": "Abim",
+    "unofficial_names": [
+      "Abim"
+    ],
     "geo": {
       "latitude": 2.706698,
       "longitude": 33.6595337,
@@ -4432,13 +4306,14 @@
       "uk": "Район Доколо",
       "no": "Abim²"
     },
-    "comments": null,
     "type": "district"
   },
   "318": {
     "name": "Dokolo",
     "code": "318",
-    "unofficial_names": "Dokolo",
+    "unofficial_names": [
+      "Dokolo"
+    ],
     "geo": {
       "latitude": 1.916667,
       "longitude": 33.166667,
@@ -4490,13 +4365,14 @@
       "no": "Dokolo",
       "fa": "ناحیه کابونگ"
     },
-    "comments": null,
     "type": "district"
   },
   "319": {
     "name": "Amuru",
     "code": "319",
-    "unofficial_names": "Amuru",
+    "unofficial_names": [
+      "Amuru"
+    ],
     "geo": {
       "latitude": 2.9667878,
       "longitude": 32.0837445,
@@ -4549,13 +4425,14 @@
       "uk": "Район Кобоко",
       "no": "Amuru²"
     },
-    "comments": null,
     "type": "district"
   },
   "320": {
     "name": "Maracha",
     "code": "320",
-    "unofficial_names": "Maracha",
+    "unofficial_names": [
+      "Maracha"
+    ],
     "geo": {
       "latitude": 3.2873127,
       "longitude": 30.9403023,
@@ -4604,13 +4481,14 @@
       "no": "Maracha",
       "fa": "ناحیه ماراچا"
     },
-    "comments": null,
     "type": "district"
   },
   "321": {
     "name": "Oyam",
     "code": "321",
-    "unofficial_names": "Oyam",
+    "unofficial_names": [
+      "Oyam"
+    ],
     "geo": {
       "latitude": 2.2776281,
       "longitude": 32.4467238,
@@ -4663,21 +4541,11 @@
       "no": "Oyam",
       "fa": "ناحیه اویام"
     },
-    "comments": null,
     "type": "district"
   },
   "322": {
     "name": "Agago",
     "code": "322",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة أغاجو",
       "bn": "আগাগো জেলা",
@@ -4720,21 +4588,11 @@
       "fa": "ناحیه آگاگو",
       "sw": "Wilaya ya Agago"
     },
-    "comments": null,
     "type": "district"
   },
   "323": {
     "name": "Alebtong",
     "code": "323",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ايبتونغ",
       "bn": "আলেবটং জেলা",
@@ -4777,21 +4635,11 @@
       "no": "Alebtong",
       "sw": "Wilaya ya Alebtong"
     },
-    "comments": null,
     "type": "district"
   },
   "324": {
     "name": "Amudat",
     "code": "324",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة أمودات",
       "bn": "আমুদাত জেলা",
@@ -4834,21 +4682,11 @@
       "no": "Amudat",
       "sw": "Wilaya ya Amudat"
     },
-    "comments": null,
     "type": "district"
   },
   "325": {
     "name": "Kole",
     "code": "325",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ضاحية كول",
       "bn": "কোলে জেলা",
@@ -4891,21 +4729,11 @@
       "fa": "استان کله",
       "sw": "Wilaya ya Kole"
     },
-    "comments": null,
     "type": "district"
   },
   "326": {
     "name": "Lamwo",
     "code": "326",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة لامو",
       "bn": "লামৌ জেলা",
@@ -4948,21 +4776,11 @@
       "fa": "ناحیه لامو",
       "sw": "Wilaya ya Lamwo"
     },
-    "comments": null,
     "type": "district"
   },
   "327": {
     "name": "Napak",
     "code": "327",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ناباك",
       "bn": "নাপাক জেলা",
@@ -5006,21 +4824,11 @@
       "fa": "ناحیه ناپاک",
       "sw": "Wilaya ya Napak"
     },
-    "comments": null,
     "type": "district"
   },
   "328": {
     "name": "Nwoya",
     "code": "328",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نويا",
       "bn": "নৌইয়া জেলা",
@@ -5064,21 +4872,11 @@
       "fa": "ناحیه نوویا",
       "sw": "Wilaya ya Nwoya"
     },
-    "comments": null,
     "type": "district"
   },
   "329": {
     "name": "Otuke",
     "code": "329",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة أوتوك",
       "bn": "ওতুকে জেলা",
@@ -5121,21 +4919,11 @@
       "no": "Otuke",
       "sw": "Wilaya ya Otuke"
     },
-    "comments": null,
     "type": "district"
   },
   "330": {
     "name": "Zombo²",
     "code": "330",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة زومبو",
       "bn": "জোম্বো জেলা",
@@ -5179,21 +4967,11 @@
       "fa": "ناحیه زومبو",
       "sw": "Wilaya ya Zombo"
     },
-    "comments": null,
     "type": "district"
   },
   "331": {
     "name": "Zombo",
     "code": "331",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Zombo",
       "ja": "オモロ県",
@@ -5203,13 +4981,11 @@
       "nl": "Omoro (district)",
       "sw": "Wilaya ya Omoro"
     },
-    "comments": null,
     "type": "district"
   },
   "332": {
     "name": "Pakwach",
     "code": "332",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -5226,13 +5002,11 @@
       "nl": "Pakwach (district)",
       "sw": "Wilaya ya Pakwach"
     },
-    "comments": null,
     "type": "district"
   },
   "333": {
     "name": "Kwania",
     "code": "333",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -5245,13 +5019,11 @@
       "en": "Kwania",
       "ja": "クワニア県"
     },
-    "comments": null,
     "type": "district"
   },
   "334": {
     "name": "Nabilatuk",
     "code": "334",
-    "unofficial_names": null,
     "geo": {
       "latitude": 0.3179766,
       "longitude": 32.574073
@@ -5260,7 +5032,6 @@
       "en": "Nabilatuk",
       "ja": "ナビラトゥク県"
     },
-    "comments": null,
     "type": "district"
   },
   "335": {
@@ -5300,7 +5071,9 @@
   "401": {
     "name": "Bundibugyo",
     "code": "401",
-    "unofficial_names": "Bundibugyo",
+    "unofficial_names": [
+      "Bundibugyo"
+    ],
     "geo": {
       "latitude": 0.7125,
       "longitude": 30.06,
@@ -5352,13 +5125,14 @@
       "uk": "Район Бундібугіо",
       "no": "Bundibugyo"
     },
-    "comments": null,
     "type": "district"
   },
   "402": {
     "name": "Bushenyi",
     "code": "402",
-    "unofficial_names": "Bushenyi",
+    "unofficial_names": [
+      "Bushenyi"
+    ],
     "geo": {
       "latitude": -0.541667,
       "longitude": 30.185,
@@ -5410,13 +5184,14 @@
       "no": "Bushenyi",
       "fa": "ناحیه بوشنی"
     },
-    "comments": null,
     "type": "district"
   },
   "403": {
     "name": "Hoima",
     "code": "403",
-    "unofficial_names": "Hoima",
+    "unofficial_names": [
+      "Hoima"
+    ],
     "geo": {
       "latitude": 1.431944,
       "longitude": 31.3525,
@@ -5468,13 +5243,14 @@
       "no": "Hoima",
       "fa": "ناحیه هویما"
     },
-    "comments": null,
     "type": "district"
   },
   "404": {
     "name": "Kabale",
     "code": "404",
-    "unofficial_names": "Kabale",
+    "unofficial_names": [
+      "Kabale"
+    ],
     "geo": {
       "latitude": -1.25,
       "longitude": 29.99,
@@ -5527,13 +5303,14 @@
       "az": "Kabale (rayon)",
       "fa": "ناحیه کاباله"
     },
-    "comments": null,
     "type": "district"
   },
   "405": {
     "name": "Kabarole",
     "code": "405",
-    "unofficial_names": "Kabarole",
+    "unofficial_names": [
+      "Kabarole"
+    ],
     "geo": {
       "latitude": 0.5896682,
       "longitude": 30.2548787,
@@ -5585,13 +5362,14 @@
       "no": "Kabarole",
       "fa": "ناحیه کاباروله"
     },
-    "comments": null,
     "type": "district"
   },
   "406": {
     "name": "Kasese",
     "code": "406",
-    "unofficial_names": "Kasese",
+    "unofficial_names": [
+      "Kasese"
+    ],
     "geo": {
       "latitude": 0.186667,
       "longitude": 30.08805599999999,
@@ -5643,13 +5421,14 @@
       "no": "Kasese",
       "fa": "ناحیه کاسهسی"
     },
-    "comments": null,
     "type": "district"
   },
   "407": {
     "name": "Kibaale",
     "code": "407",
-    "unofficial_names": "Kibaale",
+    "unofficial_names": [
+      "Kibaale"
+    ],
     "geo": {
       "latitude": 0.7682547,
       "longitude": 31.0776593,
@@ -5700,13 +5479,14 @@
       "uk": "Район Кібаале",
       "no": "Kibaale"
     },
-    "comments": null,
     "type": "district"
   },
   "408": {
     "name": "Kisoro",
     "code": "408",
-    "unofficial_names": "Kisoro",
+    "unofficial_names": [
+      "Kisoro"
+    ],
     "geo": {
       "latitude": -1.285,
       "longitude": 29.685,
@@ -5737,13 +5517,14 @@
       "fa": "ناحیه کیسورو",
       "id": "Distrik Kisoro"
     },
-    "comments": null,
     "type": "district"
   },
   "409": {
     "name": "Masindi",
     "code": "409",
-    "unofficial_names": "Masindi",
+    "unofficial_names": [
+      "Masindi"
+    ],
     "geo": {
       "latitude": 1.683333,
       "longitude": 31.733333,
@@ -5796,13 +5577,14 @@
       "no": "Masindi",
       "fa": "ناحیه ماسندی"
     },
-    "comments": null,
     "type": "district"
   },
   "410": {
     "name": "Mbarara",
     "code": "410",
-    "unofficial_names": "Mbarara",
+    "unofficial_names": [
+      "Mbarara"
+    ],
     "geo": {
       "latitude": -0.613333,
       "longitude": 30.658333,
@@ -5853,13 +5635,14 @@
       "uk": "Район Мбарара",
       "no": "Mbarara"
     },
-    "comments": null,
     "type": "district"
   },
   "411": {
     "name": "Ntungamo",
     "code": "411",
-    "unofficial_names": "Ntungamo",
+    "unofficial_names": [
+      "Ntungamo"
+    ],
     "geo": {
       "latitude": -0.881944,
       "longitude": 30.265278,
@@ -5911,13 +5694,14 @@
       "no": "Ntungamo",
       "fa": "ناحیه نتونگامو"
     },
-    "comments": null,
     "type": "district"
   },
   "412": {
     "name": "Rukungiri",
     "code": "412",
-    "unofficial_names": "Rukungiri",
+    "unofficial_names": [
+      "Rukungiri"
+    ],
     "geo": {
       "latitude": -0.7899999999999999,
       "longitude": 29.925,
@@ -5970,13 +5754,14 @@
       "az": "Rukunqiri (rayon)",
       "fa": "ناحیه روکونگیری"
     },
-    "comments": null,
     "type": "district"
   },
   "413": {
     "name": "Kamwenge",
     "code": "413",
-    "unofficial_names": "Kamwenge",
+    "unofficial_names": [
+      "Kamwenge"
+    ],
     "geo": {
       "latitude": 0.186066,
       "longitude": 30.4512086,
@@ -6027,13 +5812,14 @@
       "uk": "Район Камвенге",
       "no": "Kamwenge"
     },
-    "comments": null,
     "type": "district"
   },
   "414": {
     "name": "Kanungu",
     "code": "414",
-    "unofficial_names": "Kanungu",
+    "unofficial_names": [
+      "Kanungu"
+    ],
     "geo": {
       "latitude": -0.896944,
       "longitude": 29.775556,
@@ -6085,13 +5871,14 @@
       "no": "Kanungu",
       "fa": "ناحیه کانونگو"
     },
-    "comments": null,
     "type": "district"
   },
   "415": {
     "name": "Kyenjojo",
     "code": "415",
-    "unofficial_names": "Kyenjojo",
+    "unofficial_names": [
+      "Kyenjojo"
+    ],
     "geo": {
       "latitude": 0.61,
       "longitude": 30.644167,
@@ -6142,13 +5929,14 @@
       "uk": "Район Кьенжожо",
       "no": "Kyenjojo"
     },
-    "comments": null,
     "type": "district"
   },
   "416": {
     "name": "Ibanda",
     "code": "416",
-    "unofficial_names": "Ibanda",
+    "unofficial_names": [
+      "Ibanda"
+    ],
     "geo": {
       "latitude": -0.12,
       "longitude": 30.5,
@@ -6201,13 +5989,14 @@
       "no": "Ibanda",
       "fa": "ناحیه بولیسا"
     },
-    "comments": null,
     "type": "district"
   },
   "417": {
     "name": "Isingiro",
     "code": "417",
-    "unofficial_names": "Isingiro",
+    "unofficial_names": [
+      "Isingiro"
+    ],
     "geo": {
       "latitude": -0.7454997,
       "longitude": 30.75798339999999,
@@ -6259,20 +6048,17 @@
       "no": "Isingiro",
       "fa": "ناحیه ایباندا"
     },
-    "comments": null,
     "type": "district"
   },
   "418": {
     "name": "Kiruhura",
     "code": "418",
-    "unofficial_names": "Kiruhura",
+    "unofficial_names": [
+      "Kiruhura"
+    ],
     "geo": {
       "latitude": -0.196398,
-      "longitude": 30.84425,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 30.84425
     },
     "translations": {
       "en": "Isingiro",
@@ -6317,13 +6103,14 @@
       "no": "Isingiro²",
       "fa": "ناحیه ایسینگیرو"
     },
-    "comments": null,
     "type": "district"
   },
   "419": {
     "name": "Buliisa",
     "code": "419",
-    "unofficial_names": "Buliisa",
+    "unofficial_names": [
+      "Buliisa"
+    ],
     "geo": {
       "latitude": 2.0299607,
       "longitude": 31.5370003,
@@ -6373,21 +6160,11 @@
       "no": "Kiruhura",
       "fa": "ناحیه کیروهورا"
     },
-    "comments": null,
     "type": "district"
   },
   "420": {
     "name": "Buhweju",
     "code": "420",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بوهيويو",
       "bn": "বুওয়েজু জেলা",
@@ -6429,21 +6206,11 @@
       "no": "Buhweju",
       "sw": "Wilaya ya Buhweju"
     },
-    "comments": null,
     "type": "district"
   },
   "421": {
     "name": "Kiryandongo",
     "code": "421",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كيرياندونغو",
       "bn": "কিরিয়ান্দুং জেলা",
@@ -6485,21 +6252,11 @@
       "no": "Kiryandongo",
       "fa": "ناحیه کیریاندونگو"
     },
-    "comments": null,
     "type": "district"
   },
   "422": {
     "name": "Kyegegwa",
     "code": "422",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كيجيغوا",
       "bn": "কিজেগউয়া জেলা",
@@ -6542,21 +6299,11 @@
       "fa": "ناحیه کیگگوا",
       "sw": "Wilaya ya Kyegegwa"
     },
-    "comments": null,
     "type": "district"
   },
   "423": {
     "name": "Mitooma",
     "code": "423",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم ميتووما",
       "bn": "মিতোমা জেলা",
@@ -6599,21 +6346,11 @@
       "fa": "ناحیه میتوما",
       "sw": "Wilaya ya Mitooma"
     },
-    "comments": null,
     "type": "district"
   },
   "424": {
     "name": "Ntoroko",
     "code": "424",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة نتوروكو",
       "bn": "নুরোকু জেলা",
@@ -6656,21 +6393,11 @@
       "fa": "ناحیه نتوروکو",
       "sw": "Wilaya ya Ntoroko"
     },
-    "comments": null,
     "type": "district"
   },
   "425": {
     "name": "Rubirizi",
     "code": "425",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة روبيريزي",
       "bn": "রুবিরজি জেলা",
@@ -6713,21 +6440,11 @@
       "fa": "ناحیه روبیریزی",
       "sw": "Wilaya ya Rubirizi"
     },
-    "comments": null,
     "type": "district"
   },
   "426": {
     "name": "Sheema",
     "code": "426",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة شيما",
       "bn": "সিমা জেলা",
@@ -6769,13 +6486,11 @@
       "no": "Sheema",
       "sw": "Wilaya ya Sheema"
     },
-    "comments": null,
     "type": "district"
   },
   "427": {
     "name": "Kagadi",
     "code": "427",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6792,13 +6507,11 @@
       "nl": "Kagadi (district)",
       "sw": "Wilaya ya Kagadi"
     },
-    "comments": null,
     "type": "district"
   },
   "428": {
     "name": "Kakumiro",
     "code": "428",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6816,13 +6529,11 @@
       "sv": "Kakumiro",
       "sw": "Wilaya ya Kakumiro"
     },
-    "comments": null,
     "type": "district"
   },
   "429": {
     "name": "Rubanda",
     "code": "429",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6839,13 +6550,11 @@
       "nl": "Rubanda (district)",
       "sw": "Wilaya ya Rubanda"
     },
-    "comments": null,
     "type": "district"
   },
   "430": {
     "name": "Bunyangabu",
     "code": "430",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6863,13 +6572,11 @@
       "nl": "Bunyangabu",
       "sw": "Wilaya ya Bunyangabu"
     },
-    "comments": null,
     "type": "district"
   },
   "431": {
     "name": "Rukiga",
     "code": "431",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6886,13 +6593,11 @@
       "nl": "Rukiga (district)",
       "sw": "Wilaya ya Rukiga"
     },
-    "comments": null,
     "type": "district"
   },
   "432": {
     "name": "Kikuube",
     "code": "432",
-    "unofficial_names": null,
     "geo": {
       "latitude": 1.373333,
       "longitude": 32.290275,
@@ -6905,7 +6610,6 @@
       "en": "Kikuube",
       "ja": "キクベ県"
     },
-    "comments": null,
     "type": "district"
   },
   "433": {
@@ -6948,15 +6652,6 @@
   "C": {
     "name": "Central",
     "code": "C",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Zentraluganda",
       "el": "Κεντρική Ουγκάντα",
@@ -6990,21 +6685,11 @@
       "id": "Region Tengah, Uganda",
       "vi": "Trung Uganda"
     },
-    "comments": null,
     "type": "geographical_region"
   },
   "E": {
     "name": "Eastern",
     "code": "E",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "el": "Ανατολική Ουγκάντα",
       "en": "Eastern",
@@ -7036,21 +6721,11 @@
       "ml": "കിഴക്കൻ മേഖല, ഉഗാണ്ട",
       "vi": "Đông Uganda"
     },
-    "comments": null,
     "type": "geographical_region"
   },
   "N": {
     "name": "Northern",
     "code": "N",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "el": "Βόρεια Ουγκάντα",
       "en": "Northern",
@@ -7080,21 +6755,11 @@
       "id": "Region Utara, Uganda",
       "vi": "Bắc Uganda"
     },
-    "comments": null,
     "type": "geographical_region"
   },
   "W": {
     "name": "Western",
     "code": "W",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "el": "Δυτική Ουγκάντα",
       "en": "Western",
@@ -7124,7 +6789,6 @@
       "pl": "Region Zachodni",
       "vi": "Tây Uganda"
     },
-    "comments": null,
     "type": "geographical_region"
   }
 }

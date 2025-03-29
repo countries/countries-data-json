@@ -2,7 +2,9 @@
   "CE": {
     "name": "Central",
     "code": "CE",
-    "unofficial_names": "Central",
+    "unofficial_names": [
+      "Central"
+    ],
     "geo": {
       "latitude": -21.1672276,
       "longitude": 26.419389,
@@ -63,21 +65,11 @@
       "sw": "Wilaya ya Central (Botswana)",
       "zu": "Central District, Butswana"
     },
-    "comments": null,
     "type": "district"
   },
   "CH": {
     "name": "Chobe",
     "code": "CH",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Chobe District",
       "en": "Chobe",
@@ -97,21 +89,11 @@
       "pt": "Chobe",
       "ru": "Чобе"
     },
-    "comments": null,
     "type": "district"
   },
   "FR": {
     "name": "Francistown",
     "code": "FR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Francistown",
       "ar": "فرانسيس",
@@ -169,21 +151,11 @@
       "sr": "Франсистаун",
       "sr_Latn": "Fransistaun"
     },
-    "comments": null,
     "type": "city"
   },
   "GA": {
     "name": "Gaborone",
     "code": "GA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Gaborone",
       "am": "ጋበሮኔ",
@@ -269,7 +241,6 @@
       "my": "ဂါဘိုရိုနေမြို့",
       "ps": "ګابورون"
     },
-    "comments": null,
     "type": "city"
   },
   "GH": {
@@ -336,21 +307,11 @@
       "no": "Ghanzi",
       "fa": "منطقه قانزی"
     },
-    "comments": null,
     "type": "district"
   },
   "JW": {
     "name": "Jwaneng",
     "code": "JW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Jwaneng",
       "ar": "غوانينغ",
@@ -396,13 +357,14 @@
       "ca": "Jwaneng",
       "no": "Jwaneng"
     },
-    "comments": null,
     "type": "town"
   },
   "KG": {
     "name": "Kgalagadi",
     "code": "KG",
-    "unofficial_names": "Kgalagadi",
+    "unofficial_names": [
+      "Kgalagadi"
+    ],
     "geo": {
       "latitude": -24.7550285,
       "longitude": 21.8568586,
@@ -461,13 +423,14 @@
       "fa": "منطقه کگالاگادی",
       "hy": "Կգալագադի"
     },
-    "comments": null,
     "type": "district"
   },
   "KL": {
     "name": "Kgatleng",
     "code": "KL",
-    "unofficial_names": "Kgatleng",
+    "unofficial_names": [
+      "Kgatleng"
+    ],
     "geo": {
       "latitude": -24.1970445,
       "longitude": 26.2304616,
@@ -526,13 +489,14 @@
       "no": "Kgatleng",
       "hy": "Կգատլենգ"
     },
-    "comments": null,
     "type": "district"
   },
   "KW": {
     "name": "Kweneng",
     "code": "KW",
-    "unofficial_names": "Kweneng",
+    "unofficial_names": [
+      "Kweneng"
+    ],
     "geo": {
       "latitude": -23.8367249,
       "longitude": 25.2837585,
@@ -590,21 +554,11 @@
       "no": "Kweneng",
       "fa": "منطقه کوئننگ"
     },
-    "comments": null,
     "type": "district"
   },
   "LO": {
     "name": "Lobatse",
     "code": "LO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Lobatse",
       "ar": "لوباتس",
@@ -653,13 +607,14 @@
       "ca": "Lobatse",
       "no": "Lobatse"
     },
-    "comments": null,
     "type": "town"
   },
   "NE": {
     "name": "North-East",
     "code": "NE",
-    "unofficial_names": "North-East",
+    "unofficial_names": [
+      "North-East"
+    ],
     "geo": {
       "latitude": -20.9030555,
       "longitude": 27.4556388,
@@ -716,13 +671,14 @@
       "no": "North-East",
       "fa": "ناحیه شمال شرقی (بوتسوانا)"
     },
-    "comments": null,
     "type": "district"
   },
   "NW": {
     "name": "North-West",
     "code": "NW",
-    "unofficial_names": "North-West",
+    "unofficial_names": [
+      "North-West"
+    ],
     "geo": {
       "latitude": -19.1905321,
       "longitude": 23.0011989,
@@ -780,13 +736,14 @@
       "no": "North-West",
       "fa": "ناحیه شمال غربی (بوتسوانا)"
     },
-    "comments": null,
     "type": "district"
   },
   "SE": {
     "name": "South-East",
     "code": "SE",
-    "unofficial_names": "South-East",
+    "unofficial_names": [
+      "South-East"
+    ],
     "geo": {
       "latitude": -24.9366094,
       "longitude": 25.8048521,
@@ -844,13 +801,14 @@
       "mk": "Југоисточен округ",
       "no": "South-East"
     },
-    "comments": null,
     "type": "district"
   },
   "SO": {
     "name": "Southern",
     "code": "SO",
-    "unofficial_names": "Southern",
+    "unofficial_names": [
+      "Southern"
+    ],
     "geo": {
       "latitude": -24.823384,
       "longitude": 24.7142918,
@@ -909,21 +867,11 @@
       "no": "Southern",
       "fa": "بخش جنوبی (بوتسوانا)"
     },
-    "comments": null,
     "type": "district"
   },
   "SP": {
     "name": "Selibe Phikwe",
     "code": "SP",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Selebi-Phikwe",
       "ar": "سيليبي-فيكوي",
@@ -970,21 +918,11 @@
       "no": "Selebi-Phikwe",
       "eu": "Selebi-Phikwe"
     },
-    "comments": null,
     "type": "town"
   },
   "ST": {
     "name": "Sowa Town",
     "code": "ST",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Sowa, Botswana",
       "ar": "سوا، بوتسوانا",
@@ -1026,7 +964,6 @@
       "ca": "Sowa",
       "no": "Sowa"
     },
-    "comments": null,
     "type": "town"
   }
 }

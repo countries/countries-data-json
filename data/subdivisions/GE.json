@@ -82,7 +82,6 @@
       "no": "Abkhasia",
       "cy": "Gweriniaeth Ymreolaethol Abchasia"
     },
-    "comments": null,
     "type": "autonomous_republic"
   },
   "AJ": {
@@ -174,13 +173,14 @@
       "ha": "Adjara",
       "ha_NE": "Adjara"
     },
-    "comments": null,
     "type": "autonomous_republic"
   },
   "GU": {
     "name": "Guria",
     "code": "GU",
-    "unofficial_names": "Guria",
+    "unofficial_names": [
+      "Guria"
+    ],
     "geo": {
       "latitude": 41.9442736,
       "longitude": 42.0458091,
@@ -249,13 +249,14 @@
       "hr": "Gurija",
       "uz": "Guria"
     },
-    "comments": null,
     "type": "region"
   },
   "IM": {
     "name": "Imereti",
     "code": "IM",
-    "unofficial_names": "Imereti",
+    "unofficial_names": [
+      "Imereti"
+    ],
     "geo": {
       "latitude": 42.230108,
       "longitude": 42.9008665,
@@ -327,7 +328,6 @@
       "hr": "Imeretija",
       "ro": "Imeresia"
     },
-    "comments": null,
     "type": "region"
   },
   "KA": {
@@ -405,13 +405,14 @@
       "sl": "Kaheti",
       "uz": "Kaxeti"
     },
-    "comments": null,
     "type": "region"
   },
   "KK": {
     "name": "Kvemo Kartli",
     "code": "KK",
-    "unofficial_names": "Kvemo Kartli",
+    "unofficial_names": [
+      "Kvemo Kartli"
+    ],
     "geo": {
       "latitude": 41.4791833,
       "longitude": 44.65604510000001,
@@ -478,7 +479,6 @@
       "ml": "ക്വെമോ കാർട്ട്ലി",
       "ro": "Kartli Inferior"
     },
-    "comments": null,
     "type": "region"
   },
   "MM": {
@@ -554,7 +554,6 @@
       "ca": "Mtskheta-Mtianeti",
       "ro": "Mtskheta-Mtianeti"
     },
-    "comments": null,
     "type": "region"
   },
   "RL": {
@@ -629,7 +628,6 @@
       "ml": "റച്ച-ലെച്ച്കുമി ആൻഡ് ക്വെമൊ സ്വനെറ്റി",
       "ro": "Racia-Lecihumi și Svanesia Inferioară"
     },
-    "comments": null,
     "type": "region"
   },
   "SJ": {
@@ -703,7 +701,6 @@
       "no": "Samtskhe-Javakheti",
       "ro": "Samtskhe-Javakheti"
     },
-    "comments": null,
     "type": "region"
   },
   "SK": {
@@ -778,13 +775,14 @@
       "hr": "Unutarnji Kartli",
       "ro": "Kartli Interior"
     },
-    "comments": null,
     "type": "region"
   },
   "SZ": {
     "name": "Samegrelo-Zemo Svaneti",
     "code": "SZ",
-    "unofficial_names": "Samegrelo-Zemo Svaneti",
+    "unofficial_names": [
+      "Samegrelo-Zemo Svaneti"
+    ],
     "geo": {
       "latitude": 42.7352247,
       "longitude": 42.1689362,
@@ -850,7 +848,6 @@
       "et": "Samegrelo–Zemo Svanethi",
       "ro": "Megrelia-Svanesia Superioară"
     },
-    "comments": null,
     "type": "region"
   },
   "TB": {
@@ -951,7 +948,6 @@
       "yo_BJ": "Tbilisi",
       "ps": "تفلیس"
     },
-    "comments": null,
     "type": "city"
   }
 }

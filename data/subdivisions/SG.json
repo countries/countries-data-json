@@ -2,7 +2,9 @@
   "01": {
     "name": "Central Singapore",
     "code": "01",
-    "unofficial_names": "Central Singapore",
+    "unofficial_names": [
+      "Central Singapore"
+    ],
     "geo": {
       "latitude": 1.3418329,
       "longitude": 103.8608764,
@@ -24,13 +26,14 @@
       "fr": "Singapour central",
       "id": "Dewan Pengembangan Masyarakat Singapura Tengah"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "North East",
     "code": "02",
-    "unofficial_names": "North East",
+    "unofficial_names": [
+      "North East"
+    ],
     "geo": {
       "latitude": 1.352083,
       "longitude": 103.819836,
@@ -55,20 +58,17 @@
       "id": "Dewan Pengembangan Masyarakat Timur Laut",
       "ms": "Majlis Pembangunan Masyarakat Timur Laut"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "North West",
     "code": "03",
-    "unofficial_names": "North West",
+    "unofficial_names": [
+      "North West"
+    ],
     "geo": {
       "latitude": 1.3537604,
-      "longitude": 103.7107653,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 103.7107653
     },
     "translations": {
       "en": "North West",
@@ -83,13 +83,14 @@
       "de": "North West (Singapur)",
       "id": "Dewan Pengembangan Masyarakat Barat Laut"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "South East",
     "code": "04",
-    "unofficial_names": "South East",
+    "unofficial_names": [
+      "South East"
+    ],
     "geo": {
       "latitude": 1.352083,
       "longitude": 103.819836,
@@ -111,13 +112,14 @@
       "fr": "District du Sud-Est",
       "id": "Dewan Pengembangan Masyarakat Tenggara"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "South West",
     "code": "05",
-    "unofficial_names": "South West",
+    "unofficial_names": [
+      "South West"
+    ],
     "geo": {
       "latitude": 1.352083,
       "longitude": 103.819836,
@@ -139,7 +141,6 @@
       "fr": "District du Sud-Ouest",
       "id": "Dewan Pengembangan Masyarakat Barat Daya"
     },
-    "comments": null,
     "type": "district"
   }
 }

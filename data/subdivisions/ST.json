@@ -175,7 +175,9 @@
   "P": {
     "name": "Príncipe",
     "code": "P",
-    "unofficial_names": "Príncipe",
+    "unofficial_names": [
+      "Príncipe"
+    ],
     "geo": {
       "latitude": 1.6139381,
       "longitude": 7.4056928,
@@ -201,7 +203,6 @@
       "ceb": "Príncipe",
       "cy": "Talaith Príncipe"
     },
-    "comments": null,
     "type": "autonomous_region"
   }
 }

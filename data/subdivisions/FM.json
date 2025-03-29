@@ -64,7 +64,6 @@
       "no": "Kosrae",
       "eu": "Kosrae (estatua)"
     },
-    "comments": null,
     "type": "state"
   },
   "PNI": {
@@ -76,11 +75,7 @@
     ],
     "geo": {
       "latitude": 6.9257399,
-      "longitude": 158.1626343,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 158.1626343
     },
     "translations": {
       "en": "Pohnpei",
@@ -127,7 +122,6 @@
       "eu": "Pohnpei (estatua)",
       "hr": "Pohnpei"
     },
-    "comments": null,
     "type": "state"
   },
   "TRK": {
@@ -202,13 +196,14 @@
       "he": "צ׳ואוק",
       "hr": "Chuuk"
     },
-    "comments": null,
     "type": "state"
   },
   "YAP": {
     "name": "Yap",
     "code": "YAP",
-    "unofficial_names": "Yap",
+    "unofficial_names": [
+      "Yap"
+    ],
     "geo": {
       "latitude": 9.539137199999999,
       "longitude": 138.1258916,
@@ -242,7 +237,6 @@
       "it": "Yap",
       "tr": "Yap"
     },
-    "comments": null,
     "type": "state"
   }
 }

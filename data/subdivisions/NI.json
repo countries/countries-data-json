@@ -66,7 +66,6 @@
       "be": "Аўтаномны рэгіён паўночна-карыбскага ўзбярэжжа",
       "fa": "ناحیه خودمختار ساحل کارائیب شمالی"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "AS": {
@@ -137,13 +136,14 @@
       "be": "Аўтаномны рэгіён паўднёва-карыбскага ўзбярэжжа",
       "fa": "ناحیه خودمختار ساحل کارائیب جنوبی"
     },
-    "comments": null,
     "type": "autonomous_region"
   },
   "BO": {
     "name": "Boaco",
     "code": "BO",
-    "unofficial_names": "Boaco",
+    "unofficial_names": [
+      "Boaco"
+    ],
     "geo": {
       "latitude": 12.492724,
       "longitude": -85.52002399999999,
@@ -202,13 +202,14 @@
       "ccp": "𑄝𑄯𑄇𑄮",
       "no": "Boaco"
     },
-    "comments": null,
     "type": "department"
   },
   "CA": {
     "name": "Carazo",
     "code": "CA",
-    "unofficial_names": "Carazo",
+    "unofficial_names": [
+      "Carazo"
+    ],
     "geo": {
       "latitude": 11.7274729,
       "longitude": -86.21584969999999,
@@ -267,13 +268,14 @@
       "no": "Carazo",
       "fa": "بخش کارازو"
     },
-    "comments": null,
     "type": "department"
   },
   "CI": {
     "name": "Chinandega",
     "code": "CI",
-    "unofficial_names": "Chinandega",
+    "unofficial_names": [
+      "Chinandega"
+    ],
     "geo": {
       "latitude": 12.8820062,
       "longitude": -87.14228949999999,
@@ -332,13 +334,14 @@
       "no": "Chinandega",
       "fa": "دپارتمان چیناندگا"
     },
-    "comments": null,
     "type": "department"
   },
   "CO": {
     "name": "Chontales",
     "code": "CO",
-    "unofficial_names": "Chontales",
+    "unofficial_names": [
+      "Chontales"
+    ],
     "geo": {
       "latitude": 11.9394717,
       "longitude": -85.1894045,
@@ -397,13 +400,14 @@
       "no": "Chontales",
       "az": "Çontales departamenti"
     },
-    "comments": null,
     "type": "department"
   },
   "ES": {
     "name": "Estelí",
     "code": "ES",
-    "unofficial_names": "Estelí",
+    "unofficial_names": [
+      "Estelí"
+    ],
     "geo": {
       "latitude": 13.083333,
       "longitude": -86.35,
@@ -462,13 +466,14 @@
       "no": "Estelí",
       "fa": "ناحیه استلی"
     },
-    "comments": null,
     "type": "department"
   },
   "GR": {
     "name": "Granada",
     "code": "GR",
-    "unofficial_names": "Granada",
+    "unofficial_names": [
+      "Granada"
+    ],
     "geo": {
       "latitude": 11.933333,
       "longitude": -85.95,
@@ -514,13 +519,14 @@
       "fa": "بخش گرانادا",
       "th": "จังหวัดกรานาดา"
     },
-    "comments": null,
     "type": "department"
   },
   "JI": {
     "name": "Jinotega",
     "code": "JI",
-    "unofficial_names": "Jinotega",
+    "unofficial_names": [
+      "Jinotega"
+    ],
     "geo": {
       "latitude": 13.1,
       "longitude": -86,
@@ -579,13 +585,14 @@
       "no": "Jinotega",
       "fa": "بخش جینوتگا"
     },
-    "comments": null,
     "type": "department"
   },
   "LE": {
     "name": "León",
     "code": "LE",
-    "unofficial_names": "León",
+    "unofficial_names": [
+      "León"
+    ],
     "geo": {
       "latitude": 12.5092037,
       "longitude": -86.6611083,
@@ -635,13 +642,14 @@
       "th": "จังหวัดเลออน",
       "tr": "León (il)"
     },
-    "comments": null,
     "type": "department"
   },
   "MD": {
     "name": "Madriz",
     "code": "MD",
-    "unofficial_names": "Madriz",
+    "unofficial_names": [
+      "Madriz"
+    ],
     "geo": {
       "latitude": 13.4726005,
       "longitude": -86.4592091,
@@ -700,13 +708,14 @@
       "no": "Madriz",
       "fa": "بخش مدریز"
     },
-    "comments": null,
     "type": "department"
   },
   "MN": {
     "name": "Managua",
     "code": "MN",
-    "unofficial_names": "Managua",
+    "unofficial_names": [
+      "Managua"
+    ],
     "geo": {
       "latitude": 12.136389,
       "longitude": -86.251389,
@@ -766,13 +775,14 @@
       "no": "Managua",
       "fa": "بخش ماناگوا"
     },
-    "comments": null,
     "type": "department"
   },
   "MS": {
     "name": "Masaya",
     "code": "MS",
-    "unofficial_names": "Masaya",
+    "unofficial_names": [
+      "Masaya"
+    ],
     "geo": {
       "latitude": 11.966667,
       "longitude": -86.1,
@@ -831,13 +841,14 @@
       "no": "Masaya",
       "fa": "بخش ماسایا"
     },
-    "comments": null,
     "type": "department"
   },
   "MT": {
     "name": "Matagalpa",
     "code": "MT",
-    "unofficial_names": "Matagalpa",
+    "unofficial_names": [
+      "Matagalpa"
+    ],
     "geo": {
       "latitude": 12.916667,
       "longitude": -85.91666699999999,
@@ -896,13 +907,14 @@
       "ccp": "𑄟𑄑𑄉𑄣𑄴𑄛",
       "no": "Matagalpa"
     },
-    "comments": null,
     "type": "department"
   },
   "NS": {
     "name": "Nueva Segovia",
     "code": "NS",
-    "unofficial_names": "Nueva Segovia",
+    "unofficial_names": [
+      "Nueva Segovia"
+    ],
     "geo": {
       "latitude": 13.7894404,
       "longitude": -86.0121573,
@@ -961,13 +973,14 @@
       "no": "Nueva Segovia",
       "fa": "بخش نوئوا سگوویا"
     },
-    "comments": null,
     "type": "department"
   },
   "RI": {
     "name": "Rivas",
     "code": "RI",
-    "unofficial_names": "Rivas",
+    "unofficial_names": [
+      "Rivas"
+    ],
     "geo": {
       "latitude": 11.402349,
       "longitude": -85.684578,
@@ -1014,13 +1027,14 @@
       "th": "จังหวัดริบัส",
       "tr": "Rivas (il)"
     },
-    "comments": null,
     "type": "department"
   },
   "SJ": {
     "name": "Río San Juan",
     "code": "SJ",
-    "unofficial_names": "Río San Juan",
+    "unofficial_names": [
+      "Río San Juan"
+    ],
     "geo": {
       "latitude": 10.9324722,
       "longitude": -83.69159719999999,
@@ -1080,7 +1094,6 @@
       "fa": "بخش ریو سان خوان",
       "he": "ריו סן חואן"
     },
-    "comments": null,
     "type": "department"
   }
 }

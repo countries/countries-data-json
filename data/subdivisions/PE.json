@@ -2,7 +2,9 @@
   "AMA": {
     "name": "Amazonas",
     "code": "AMA",
-    "unofficial_names": "Amazonas",
+    "unofficial_names": [
+      "Amazonas"
+    ],
     "geo": {
       "latitude": -5.115146,
       "longitude": -78.11082789999999,
@@ -65,7 +67,6 @@
       "no": "Amazonas",
       "hy": "Ամազոնաս"
     },
-    "comments": null,
     "type": "region"
   },
   "ANC": {
@@ -135,13 +136,14 @@
       "mk": "Анкаш",
       "no": "Ancash"
     },
-    "comments": null,
     "type": "region"
   },
   "APU": {
     "name": "Apurímac",
     "code": "APU",
-    "unofficial_names": "Apurímac",
+    "unofficial_names": [
+      "Apurímac"
+    ],
     "geo": {
       "latitude": -14.0504533,
       "longitude": -73.087749,
@@ -202,7 +204,6 @@
       "mk": "Апуримак",
       "no": "Apurímac"
     },
-    "comments": null,
     "type": "region"
   },
   "ARE": {
@@ -274,7 +275,6 @@
       "he": "ארקיפה",
       "hy": "Արեկիպա"
     },
-    "comments": null,
     "type": "region"
   },
   "AYA": {
@@ -343,13 +343,14 @@
       "mk": "Ајакучо",
       "no": "Ayacucho"
     },
-    "comments": null,
     "type": "region"
   },
   "CAJ": {
     "name": "Cajamarca",
     "code": "CAJ",
-    "unofficial_names": "Cajamarca",
+    "unofficial_names": [
+      "Cajamarca"
+    ],
     "geo": {
       "latitude": -6.4549673,
       "longitude": -78.8382644,
@@ -408,13 +409,14 @@
       "no": "Cajamarca",
       "he": "קחמארקה"
     },
-    "comments": null,
     "type": "region"
   },
   "CAL": {
     "name": "El Callao",
     "code": "CAL",
-    "unofficial_names": "El Callao",
+    "unofficial_names": [
+      "El Callao"
+    ],
     "geo": {
       "latitude": -12.0508491,
       "longitude": -77.1259843,
@@ -452,7 +454,6 @@
       "hy": "Կալյաո",
       "th": "แคว้นกายาโอ"
     },
-    "comments": null,
     "type": "region"
   },
   "CUS": {
@@ -521,13 +522,14 @@
       "no": "Cusco",
       "he": "מחוז קוסקו"
     },
-    "comments": null,
     "type": "region"
   },
   "HUC": {
     "name": "Huánuco",
     "code": "HUC",
-    "unofficial_names": "Huánuco",
+    "unofficial_names": [
+      "Huánuco"
+    ],
     "geo": {
       "latitude": -9.9298454,
       "longitude": -76.24326529999999,
@@ -585,13 +587,14 @@
       "no": "Huánuco",
       "he": "וואנוקו"
     },
-    "comments": null,
     "type": "region"
   },
   "HUV": {
     "name": "Huancavelica",
     "code": "HUV",
-    "unofficial_names": "Huancavelica",
+    "unofficial_names": [
+      "Huancavelica"
+    ],
     "geo": {
       "latitude": -12.786389,
       "longitude": -74.975556,
@@ -650,13 +653,14 @@
       "mk": "Уанкавелика",
       "no": "Huancavelica"
     },
-    "comments": null,
     "type": "region"
   },
   "ICA": {
     "name": "Ica",
     "code": "ICA",
-    "unofficial_names": "Ica",
+    "unofficial_names": [
+      "Ica"
+    ],
     "geo": {
       "latitude": -13.9379378,
       "longitude": -75.8007093,
@@ -713,13 +717,14 @@
       "mk": "Ика",
       "no": "Ica"
     },
-    "comments": null,
     "type": "region"
   },
   "JUN": {
     "name": "Junín",
     "code": "JUN",
-    "unofficial_names": "Junín",
+    "unofficial_names": [
+      "Junín"
+    ],
     "geo": {
       "latitude": -11.335798,
       "longitude": -75.34121789999999,
@@ -777,13 +782,14 @@
       "mk": "Хунин",
       "no": "Junín"
     },
-    "comments": null,
     "type": "region"
   },
   "LAL": {
     "name": "La Libertad",
     "code": "LAL",
-    "unofficial_names": "La Libertad",
+    "unofficial_names": [
+      "La Libertad"
+    ],
     "geo": {
       "latitude": -8.143593300000001,
       "longitude": -78.4751945,
@@ -841,13 +847,14 @@
       "no": "La Libertad",
       "hy": "Լա Լիբերտադ"
     },
-    "comments": null,
     "type": "region"
   },
   "LAM": {
     "name": "Lambayeque",
     "code": "LAM",
-    "unofficial_names": "Lambayeque",
+    "unofficial_names": [
+      "Lambayeque"
+    ],
     "geo": {
       "latitude": -6.4776528,
       "longitude": -79.9192702,
@@ -904,13 +911,14 @@
       "mk": "Ламбајеке",
       "no": "Lambayeque"
     },
-    "comments": null,
     "type": "region"
   },
   "LIM": {
     "name": "Lima",
     "code": "LIM",
-    "unofficial_names": "Lima",
+    "unofficial_names": [
+      "Lima"
+    ],
     "geo": {
       "latitude": -12.046374,
       "longitude": -77.0427934,
@@ -972,13 +980,14 @@
       "he": "מחלקת לימה",
       "hy": "Լիմա"
     },
-    "comments": null,
     "type": "region"
   },
   "LMA": {
     "name": "Lima Metropolitana",
     "code": "LMA",
-    "unofficial_names": "Lima Metropolitana",
+    "unofficial_names": [
+      "Lima Metropolitana"
+    ],
     "geo": {
       "latitude": -12.046374,
       "longitude": -77.0427934,
@@ -1036,13 +1045,14 @@
       "hy": "Լիմա²",
       "jv": "Propinsi Lima"
     },
-    "comments": null,
     "type": "municipality"
   },
   "LOR": {
     "name": "Loreto",
     "code": "LOR",
-    "unofficial_names": "Loreto",
+    "unofficial_names": [
+      "Loreto"
+    ],
     "geo": {
       "latitude": -4.232472899999999,
       "longitude": -74.21793260000001,
@@ -1103,20 +1113,17 @@
       "no": "Loreto",
       "hy": "Լորետո"
     },
-    "comments": null,
     "type": "region"
   },
   "MDD": {
     "name": "Madre de Dios",
     "code": "MDD",
-    "unofficial_names": "Madre de Dios",
+    "unofficial_names": [
+      "Madre de Dios"
+    ],
     "geo": {
       "latitude": -12.5986,
-      "longitude": -70.09058399999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -70.09058399999999
     },
     "translations": {
       "en": "Madre de Dios",
@@ -1166,13 +1173,14 @@
       "mk": "Мадре де Диос",
       "no": "Madre de Dios"
     },
-    "comments": null,
     "type": "region"
   },
   "MOQ": {
     "name": "Moquegua",
     "code": "MOQ",
-    "unofficial_names": "Moquegua",
+    "unofficial_names": [
+      "Moquegua"
+    ],
     "geo": {
       "latitude": -17.1927361,
       "longitude": -70.93281379999999,
@@ -1231,13 +1239,14 @@
       "no": "Moquegua",
       "he": "מחוז מוקגואה"
     },
-    "comments": null,
     "type": "region"
   },
   "PAS": {
     "name": "Pasco",
     "code": "PAS",
-    "unofficial_names": "Pasco",
+    "unofficial_names": [
+      "Pasco"
+    ],
     "geo": {
       "latitude": -10.4475753,
       "longitude": -75.1545381,
@@ -1295,13 +1304,14 @@
       "mk": "Паско",
       "no": "Pasco"
     },
-    "comments": null,
     "type": "region"
   },
   "PIU": {
     "name": "Piura",
     "code": "PIU",
-    "unofficial_names": "Piura",
+    "unofficial_names": [
+      "Piura"
+    ],
     "geo": {
       "latitude": -5.2,
       "longitude": -80.633333,
@@ -1358,13 +1368,14 @@
       "mk": "Пиура",
       "no": "Piura"
     },
-    "comments": null,
     "type": "region"
   },
   "PUN": {
     "name": "Puno",
     "code": "PUN",
-    "unofficial_names": "Puno",
+    "unofficial_names": [
+      "Puno"
+    ],
     "geo": {
       "latitude": -15.234875,
       "longitude": -70.050314,
@@ -1413,13 +1424,14 @@
       "mk": "Пуно",
       "no": "Puno"
     },
-    "comments": null,
     "type": "region"
   },
   "SAM": {
     "name": "San Martín",
     "code": "SAM",
-    "unofficial_names": "San Martín",
+    "unofficial_names": [
+      "San Martín"
+    ],
     "geo": {
       "latitude": -7.244488100000001,
       "longitude": -76.8259652,
@@ -1478,13 +1490,14 @@
       "mk": "Сан Мартин",
       "no": "San Martín"
     },
-    "comments": null,
     "type": "region"
   },
   "TAC": {
     "name": "Tacna",
     "code": "TAC",
-    "unofficial_names": "Tacna",
+    "unofficial_names": [
+      "Tacna"
+    ],
     "geo": {
       "latitude": -18.0065679,
       "longitude": -70.2462741,
@@ -1543,13 +1556,14 @@
       "mk": "Такна",
       "no": "Tacna"
     },
-    "comments": null,
     "type": "region"
   },
   "TUM": {
     "name": "Tumbes",
     "code": "TUM",
-    "unofficial_names": "Tumbes",
+    "unofficial_names": [
+      "Tumbes"
+    ],
     "geo": {
       "latitude": -3.9338256,
       "longitude": -80.54384499999999,
@@ -1606,13 +1620,14 @@
       "mk": "Тумбес",
       "no": "Tumbes"
     },
-    "comments": null,
     "type": "region"
   },
   "UCA": {
     "name": "Ucayali",
     "code": "UCA",
-    "unofficial_names": "Ucayali",
+    "unofficial_names": [
+      "Ucayali"
+    ],
     "geo": {
       "latitude": -9.8251183,
       "longitude": -73.087749,
@@ -1672,7 +1687,6 @@
       "mk": "Укајали",
       "no": "Ucayali"
     },
-    "comments": null,
     "type": "region"
   }
 }

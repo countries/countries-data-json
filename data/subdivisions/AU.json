@@ -2,7 +2,9 @@
   "ACT": {
     "name": "Australian Capital Territory",
     "code": "ACT",
-    "unofficial_names": "Australian Capital Territory",
+    "unofficial_names": [
+      "Australian Capital Territory"
+    ],
     "geo": {
       "latitude": -35.4734679,
       "longitude": 149.0123679,
@@ -84,13 +86,14 @@
       "sd": "آسٽريليا راڄڌاني علائقو",
       "sq": "Territori i Kryeqytetit Australian"
     },
-    "comments": null,
     "type": "territory"
   },
   "NSW": {
     "name": "New South Wales",
     "code": "NSW",
-    "unofficial_names": "New South Wales",
+    "unofficial_names": [
+      "New South Wales"
+    ],
     "geo": {
       "latitude": -33.864174,
       "longitude": 151.2052868,
@@ -180,13 +183,14 @@
       "ps": "نیو ساوټ ولز",
       "sd": "نيو سائوٿ ويلز"
     },
-    "comments": null,
     "type": "state"
   },
   "NT": {
     "name": "Northern Territory",
     "code": "NT",
-    "unofficial_names": "Northern Territory",
+    "unofficial_names": [
+      "Northern Territory"
+    ],
     "geo": {
       "latitude": -19.4914108,
       "longitude": 132.5509603,
@@ -270,13 +274,14 @@
       "ps": "د اسټرالیا شمالي سیمه",
       "sd": "نادرن خطو"
     },
-    "comments": null,
     "type": "territory"
   },
   "QLD": {
     "name": "Queensland",
     "code": "QLD",
-    "unofficial_names": "Queensland",
+    "unofficial_names": [
+      "Queensland"
+    ],
     "geo": {
       "latitude": -20.9175738,
       "longitude": 142.7027956,
@@ -369,13 +374,14 @@
       "ps": "کوینزلنډ",
       "sd": "ڪوئينزلينڊ"
     },
-    "comments": null,
     "type": "state"
   },
   "SA": {
     "name": "South Australia",
     "code": "SA",
-    "unofficial_names": "South Australia",
+    "unofficial_names": [
+      "South Australia"
+    ],
     "geo": {
       "latitude": -30.0002315,
       "longitude": 136.2091547,
@@ -464,13 +470,14 @@
       "sd": "ڏکڻ آسٽريليا",
       "uz": "Janubiy avstraliya"
     },
-    "comments": null,
     "type": "state"
   },
   "TAS": {
     "name": "Tasmania",
     "code": "TAS",
-    "unofficial_names": "Tasmania",
+    "unofficial_names": [
+      "Tasmania"
+    ],
     "geo": {
       "latitude": -41.3650419,
       "longitude": 146.6284905,
@@ -562,13 +569,14 @@
       "ps": "تاسماني",
       "sd": "تسمانيا"
     },
-    "comments": null,
     "type": "state"
   },
   "VIC": {
     "name": "Victoria",
     "code": "VIC",
-    "unofficial_names": "Victoria",
+    "unofficial_names": [
+      "Victoria"
+    ],
     "geo": {
       "latitude": -37.4713077,
       "longitude": 144.7851531,
@@ -656,13 +664,14 @@
       "sq": "Viktoria",
       "uz": "Viktoriya (shtat)"
     },
-    "comments": null,
     "type": "state"
   },
   "WA": {
     "name": "Western Australia",
     "code": "WA",
-    "unofficial_names": "Western Australia",
+    "unofficial_names": [
+      "Western Australia"
+    ],
     "geo": {
       "latitude": -27.6728168,
       "longitude": 121.6283098,
@@ -750,7 +759,6 @@
       "sq": "Australia Perëndimore",
       "uz": "Gʻarbiy avstraliya"
     },
-    "comments": null,
     "type": "state"
   }
 }

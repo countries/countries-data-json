@@ -2,7 +2,9 @@
   "AC": {
     "name": "Ascension",
     "code": "AC",
-    "unofficial_names": "Ascension",
+    "unofficial_names": [
+      "Ascension"
+    ],
     "geo": {
       "latitude": -7.946716599999999,
       "longitude": -14.3559158,
@@ -87,21 +89,11 @@
       "pa": "ਅਸੈਂਸ਼ਨ",
       "sw": "Ascension"
     },
-    "comments": null,
     "type": "geographical_entity"
   },
   "HL": {
     "name": "Saint Helena",
     "code": "HL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Sint Helena",
       "am": "ሴይንት ህሊና ደሴት",
@@ -181,13 +173,14 @@
       "ky": "Ыйык Елена аралы",
       "ps": "سنت هلن"
     },
-    "comments": null,
     "type": "geographical_entity"
   },
   "TA": {
     "name": "Tristan da Cunha",
     "code": "TA",
-    "unofficial_names": "Tristan da Cunha",
+    "unofficial_names": [
+      "Tristan da Cunha"
+    ],
     "geo": {
       "latitude": -37.1052489,
       "longitude": -12.2776838,
@@ -201,7 +194,6 @@
       "ccp": "𑄑𑄳𑄢𑄨𑄌𑄴𑄑𑄚𑄴 𑄓 𑄇𑄪𑄚𑄴𑄦",
       "ja": "トリスタンダクーニャ"
     },
-    "comments": null,
     "type": "geographical_entity"
   }
 }

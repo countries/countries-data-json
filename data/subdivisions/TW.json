@@ -62,7 +62,6 @@
       "ca": "Changhua",
       "fa": "شهرستان جانگوآ"
     },
-    "comments": null,
     "type": "county"
   },
   "CYI": {
@@ -73,11 +72,7 @@
     ],
     "geo": {
       "latitude": 23.4871898,
-      "longitude": 120.4516708,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 120.4516708
     },
     "translations": {
       "en": "Chiayi County",
@@ -128,13 +123,14 @@
       "he": "ג׳יאיי²",
       "hu": "Csiaji²"
     },
-    "comments": null,
     "type": "city"
   },
   "CYQ": {
     "name": "Chiayi",
     "code": "CYQ",
-    "unofficial_names": "Chiayi",
+    "unofficial_names": [
+      "Chiayi"
+    ],
     "geo": {
       "latitude": 23.4518428,
       "longitude": 120.2554615,
@@ -193,13 +189,14 @@
       "ca": "Comarca de Txiayi",
       "cy": "Sir Chiayi²"
     },
-    "comments": null,
     "type": "county"
   },
   "HSQ": {
     "name": "Hsinchu",
     "code": "HSQ",
-    "unofficial_names": "Hsinchu",
+    "unofficial_names": [
+      "Hsinchu"
+    ],
     "geo": {
       "latitude": 24.8066493,
       "longitude": 120.9669257,
@@ -256,13 +253,14 @@
       "ca": "Comarca de Xintxu",
       "fa": "شهرستان هسینچو"
     },
-    "comments": null,
     "type": "county"
   },
   "HSZ": {
     "name": "Hsinchu Municipality",
     "code": "HSZ",
-    "unofficial_names": "Hsinchu Municipality",
+    "unofficial_names": [
+      "Hsinchu Municipality"
+    ],
     "geo": {
       "latitude": 24.9330791,
       "longitude": 121.0093188,
@@ -324,7 +322,6 @@
       "cy": "Hsinchu",
       "ga": "Hsinchu"
     },
-    "comments": null,
     "type": "city"
   },
   "HUA": {
@@ -390,13 +387,14 @@
       "ca": "comtat de Hualien",
       "ml": "ഹുവാലിയെൻ കൗണ്ടി"
     },
-    "comments": null,
     "type": "county"
   },
   "ILA": {
     "name": "Ilan",
     "code": "ILA",
-    "unofficial_names": "Ilan",
+    "unofficial_names": [
+      "Ilan"
+    ],
     "geo": {
       "latitude": 24.7021073,
       "longitude": 121.7377502,
@@ -452,7 +450,6 @@
       "yue": "宜蘭縣",
       "no": "Yilan Fylke"
     },
-    "comments": null,
     "type": "county"
   },
   "KEE": {
@@ -463,11 +460,7 @@
     ],
     "geo": {
       "latitude": 25.1313701,
-      "longitude": 121.7488675,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 121.7488675
     },
     "translations": {
       "en": "Keelung",
@@ -520,13 +513,14 @@
       "ca": "Keelung",
       "ga": "Keelung"
     },
-    "comments": null,
     "type": "city"
   },
   "KHH": {
     "name": "Kaohsiung Special Municipality",
     "code": "KHH",
-    "unofficial_names": "Kaohsiung Special Municipality",
+    "unofficial_names": [
+      "Kaohsiung Special Municipality"
+    ],
     "geo": {
       "latitude": 22.6272784,
       "longitude": 120.3014353,
@@ -604,21 +598,11 @@
       "ml": "കൗഷ്യിംഗ്",
       "so": "Kaohsiung"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "KIN": {
     "name": "金門縣",
     "code": "KIN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "كنمن",
       "az": "Szinmınsyundao",
@@ -673,21 +657,11 @@
       "no": "Kinmen",
       "yo_BJ": "Kinmen"
     },
-    "comments": null,
     "type": "county"
   },
   "LIE": {
     "name": "連江縣",
     "code": "LIE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "cs": "Okres Lien-ťiang",
       "en": "Lienchiang",
@@ -705,13 +679,14 @@
       "it": "contea di Lianjiang",
       "ru": "Ляньцзян"
     },
-    "comments": null,
     "type": "county"
   },
   "MIA": {
     "name": "Miaoli",
     "code": "MIA",
-    "unofficial_names": "Miaoli",
+    "unofficial_names": [
+      "Miaoli"
+    ],
     "geo": {
       "latitude": 24.560159,
       "longitude": 120.8214265,
@@ -768,13 +743,14 @@
       "no": "Miaoli Fylke",
       "ca": "comtat de Miaoli"
     },
-    "comments": null,
     "type": "county"
   },
   "NAN": {
     "name": "Nantou",
     "code": "NAN",
-    "unofficial_names": "Nantou",
+    "unofficial_names": [
+      "Nantou"
+    ],
     "geo": {
       "latitude": 23.9609981,
       "longitude": 120.9718638,
@@ -831,21 +807,11 @@
       "he": "מחוז נאנטו",
       "ml": "നാൻറ്റൗ കൗണ്ടി"
     },
-    "comments": null,
     "type": "county"
   },
   "NWT": {
     "name": "New Taipei",
     "code": "NWT",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "New Taipei",
       "ccp": "𑄚𑄨𑄅𑄪 𑄑𑄭𑄛𑄬",
@@ -902,13 +868,14 @@
       "yue": "新北市",
       "yue_Hans": "新北市"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "PEN": {
     "name": "Penghu",
     "code": "PEN",
-    "unofficial_names": "Penghu",
+    "unofficial_names": [
+      "Penghu"
+    ],
     "geo": {
       "latitude": 23.5711899,
       "longitude": 119.5793157,
@@ -954,13 +921,14 @@
       "he": "פנגחו",
       "ur": "پینگہو"
     },
-    "comments": null,
     "type": "county"
   },
   "PIF": {
     "name": "Pingtung",
     "code": "PIF",
-    "unofficial_names": "Pingtung",
+    "unofficial_names": [
+      "Pingtung"
+    ],
     "geo": {
       "latitude": 22.5519759,
       "longitude": 120.5487597,
@@ -1020,13 +988,14 @@
       "no": "Pingtung fylke",
       "he": "מחוז פינגטונג"
     },
-    "comments": null,
     "type": "county"
   },
   "TAO": {
     "name": "Taoyuan",
     "code": "TAO",
-    "unofficial_names": "Taoyuan",
+    "unofficial_names": [
+      "Taoyuan"
+    ],
     "geo": {
       "latitude": 24.9936281,
       "longitude": 121.3009798,
@@ -1088,20 +1057,17 @@
       "ha": "Taoyuan",
       "ha_NE": "Taoyuan"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "TNN": {
     "name": "Tainan Municipality",
     "code": "TNN",
-    "unofficial_names": "Tainan Municipality",
+    "unofficial_names": [
+      "Tainan Municipality"
+    ],
     "geo": {
       "latitude": 23.0038497,
-      "longitude": 120.212227,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 120.212227
     },
     "translations": {
       "en": "Tainan",
@@ -1164,13 +1130,14 @@
       "sk": "Tainan",
       "sl": "Tajnan"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "TPE": {
     "name": "Taipei Special Municipality",
     "code": "TPE",
-    "unofficial_names": "Taipei Special Municipality",
+    "unofficial_names": [
+      "Taipei Special Municipality"
+    ],
     "geo": {
       "latitude": 25.0329694,
       "longitude": 121.5654177,
@@ -1266,7 +1233,6 @@
       "yo_BJ": "Taipei",
       "ps": "تایپي"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "TTT": {
@@ -1331,20 +1297,17 @@
       "no": "Taitung Fylke",
       "he": "מחוז טייטונג"
     },
-    "comments": null,
     "type": "county"
   },
   "TXG": {
     "name": "Taichung Municipality",
     "code": "TXG",
-    "unofficial_names": "Taichung Municipality",
+    "unofficial_names": [
+      "Taichung Municipality"
+    ],
     "geo": {
       "latitude": 24.301983,
-      "longitude": 120.5854674,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 120.5854674
     },
     "translations": {
       "en": "Taichung",
@@ -1402,13 +1365,14 @@
       "ha_NE": "Taichung",
       "hr": "Taichung"
     },
-    "comments": null,
     "type": "special_municipality"
   },
   "YUN": {
     "name": "Yunlin",
     "code": "YUN",
-    "unofficial_names": "Yunlin",
+    "unofficial_names": [
+      "Yunlin"
+    ],
     "geo": {
       "latitude": 23.7092033,
       "longitude": 120.4313373,
@@ -1465,7 +1429,6 @@
       "no": "Yunlin County",
       "ca": "Comarca de Yunlin"
     },
-    "comments": null,
     "type": "county"
   }
 }

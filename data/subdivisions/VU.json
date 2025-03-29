@@ -66,7 +66,6 @@
       "no": "Malampa",
       "he": "מחוז מאלאמפה"
     },
-    "comments": null,
     "type": "province"
   },
   "PAM": {
@@ -134,7 +133,6 @@
       "no": "Penama",
       "cs": "Penama"
     },
-    "comments": null,
     "type": "province"
   },
   "SAM": {
@@ -199,7 +197,6 @@
       "mk": "Санма",
       "no": "Sanma"
     },
-    "comments": null,
     "type": "province"
   },
   "SEE": {
@@ -267,13 +264,14 @@
       "hy": "Շեֆա",
       "mk": "Шефа"
     },
-    "comments": null,
     "type": "province"
   },
   "TAE": {
     "name": "Taféa",
     "code": "TAE",
-    "unofficial_names": "Taféa",
+    "unofficial_names": [
+      "Taféa"
+    ],
     "geo": {
       "latitude": -18.7237827,
       "longitude": 169.0645056,
@@ -329,7 +327,6 @@
       "ca": "Taféa",
       "mk": "Тафеа"
     },
-    "comments": null,
     "type": "province"
   },
   "TOB": {
@@ -393,7 +390,6 @@
       "no": "Torba",
       "mk": "Торба (покраина)"
     },
-    "comments": null,
     "type": "province"
   }
 }

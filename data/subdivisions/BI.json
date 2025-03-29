@@ -2,7 +2,9 @@
   "BB": {
     "name": "Bubanza",
     "code": "BB",
-    "unofficial_names": "Bubanza",
+    "unofficial_names": [
+      "Bubanza"
+    ],
     "geo": {
       "latitude": -3.083333,
       "longitude": 29.4,
@@ -63,13 +65,14 @@
       "et": "Bubanza provints",
       "zu": "Bubanza Province"
     },
-    "comments": null,
     "type": "province"
   },
   "BJ": {
     "name": "Bujumbura",
     "code": "BJ",
-    "unofficial_names": "Bujumbura",
+    "unofficial_names": [
+      "Bujumbura"
+    ],
     "geo": {
       "latitude": -3.383333,
       "longitude": 29.366667,
@@ -82,21 +85,11 @@
       "en": "Bujumbura",
       "ja": "ブジュンブラ"
     },
-    "comments": null,
     "type": "province"
   },
   "BL": {
     "name": "province de Bujumbura rural",
     "code": "BL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بويمبورا الريفية",
       "bn": "বুজাম্বুরা রুরাল প্রদেশ",
@@ -145,21 +138,11 @@
       "ca": "Bujumbura",
       "fa": "استان بوجومبورا"
     },
-    "comments": null,
     "type": "province"
   },
   "BM": {
     "name": "province de Bujumbura Mairie",
     "code": "BM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بويومبورا مايري",
       "bn": "বুজুম্বুরা মাইরি প্রদেশ",
@@ -207,13 +190,14 @@
       "az": "Bujumbura-Meri vilayəti",
       "cy": "Talaith Bujumbura Mairie"
     },
-    "comments": null,
     "type": "province"
   },
   "BR": {
     "name": "Bururi",
     "code": "BR",
-    "unofficial_names": "Bururi",
+    "unofficial_names": [
+      "Bururi"
+    ],
     "geo": {
       "latitude": -3.95,
       "longitude": 29.616667,
@@ -271,13 +255,14 @@
       "cy": "Talaith Bururi",
       "et": "Bururi provints"
     },
-    "comments": null,
     "type": "province"
   },
   "CA": {
     "name": "Cankuzo",
     "code": "CA",
-    "unofficial_names": "Cankuzo",
+    "unofficial_names": [
+      "Cankuzo"
+    ],
     "geo": {
       "latitude": -3.2196819,
       "longitude": 30.5466187,
@@ -334,13 +319,14 @@
       "cy": "Talaith Cankuzo",
       "et": "Cankuzo provints"
     },
-    "comments": null,
     "type": "province"
   },
   "CI": {
     "name": "Cibitoke",
     "code": "CI",
-    "unofficial_names": "Cibitoke",
+    "unofficial_names": [
+      "Cibitoke"
+    ],
     "geo": {
       "latitude": -2.888611,
       "longitude": 29.11999999999999,
@@ -398,7 +384,6 @@
       "cy": "Talaith Cibitoke",
       "fa": "استان سیبیتوکه"
     },
-    "comments": null,
     "type": "province"
   },
   "GI": {
@@ -466,13 +451,14 @@
       "fa": "استان گیتگا",
       "hy": "Գիտեգա"
     },
-    "comments": null,
     "type": "province"
   },
   "KI": {
     "name": "Kirundo",
     "code": "KI",
-    "unofficial_names": "Kirundo",
+    "unofficial_names": [
+      "Kirundo"
+    ],
     "geo": {
       "latitude": -2.5848378,
       "longitude": 30.0961296,
@@ -530,7 +516,6 @@
       "no": "Kirundo",
       "cy": "Talaith Kirundo"
     },
-    "comments": null,
     "type": "province"
   },
   "KR": {
@@ -597,13 +582,14 @@
       "cy": "Talaith Karuzi",
       "et": "Karuzi provints"
     },
-    "comments": null,
     "type": "province"
   },
   "KY": {
     "name": "Kayanza",
     "code": "KY",
-    "unofficial_names": "Kayanza",
+    "unofficial_names": [
+      "Kayanza"
+    ],
     "geo": {
       "latitude": -2.9218531,
       "longitude": 29.6252858,
@@ -661,13 +647,14 @@
       "cy": "Talaith Kayanza",
       "et": "Kayanza provints"
     },
-    "comments": null,
     "type": "province"
   },
   "MA": {
     "name": "Makamba",
     "code": "MA",
-    "unofficial_names": "Makamba",
+    "unofficial_names": [
+      "Makamba"
+    ],
     "geo": {
       "latitude": -4.133332999999999,
       "longitude": 29.8,
@@ -724,7 +711,6 @@
       "cy": "Talaith Makamba",
       "et": "Makamba provints"
     },
-    "comments": null,
     "type": "province"
   },
   "MU": {
@@ -791,13 +777,14 @@
       "cy": "Talaith Muramvya",
       "et": "Muramvya provints"
     },
-    "comments": null,
     "type": "province"
   },
   "MW": {
     "name": "Mwaro",
     "code": "MW",
-    "unofficial_names": "Mwaro",
+    "unofficial_names": [
+      "Mwaro"
+    ],
     "geo": {
       "latitude": -3.511985,
       "longitude": 29.6991642,
@@ -854,7 +841,6 @@
       "et": "Mwaro provints",
       "fa": "استان موارو"
     },
-    "comments": null,
     "type": "province"
   },
   "MY": {
@@ -917,13 +903,14 @@
       "no": "Muyinga",
       "cy": "Talaith Muyinga"
     },
-    "comments": null,
     "type": "province"
   },
   "NG": {
     "name": "Ngozi",
     "code": "NG",
-    "unofficial_names": "Ngozi",
+    "unofficial_names": [
+      "Ngozi"
+    ],
     "geo": {
       "latitude": -2.9,
       "longitude": 29.833333,
@@ -982,21 +969,11 @@
       "cy": "Talaith Ngozi",
       "et": "Ngozi provints"
     },
-    "comments": null,
     "type": "province"
   },
   "RM": {
     "name": "Province de Rumonge",
     "code": "RM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Rumonge",
       "en": "Rumonge",
@@ -1019,13 +996,14 @@
       "sw": "Mkoa wa Rumonge",
       "vi": "Rumonge (tỉnh)"
     },
-    "comments": null,
     "type": "province"
   },
   "RT": {
     "name": "Rutana",
     "code": "RT",
-    "unofficial_names": "Rutana",
+    "unofficial_names": [
+      "Rutana"
+    ],
     "geo": {
       "latitude": -3.9257199,
       "longitude": 29.9899512,
@@ -1083,13 +1061,14 @@
       "cy": "Talaith Rutana",
       "et": "Rutana provints"
     },
-    "comments": null,
     "type": "province"
   },
   "RY": {
     "name": "Ruyigi",
     "code": "RY",
-    "unofficial_names": "Ruyigi",
+    "unofficial_names": [
+      "Ruyigi"
+    ],
     "geo": {
       "latitude": -3.4750027,
       "longitude": 30.2483881,
@@ -1147,7 +1126,6 @@
       "et": "Ruyigi provints",
       "fa": "استان روییگی"
     },
-    "comments": null,
     "type": "province"
   }
 }

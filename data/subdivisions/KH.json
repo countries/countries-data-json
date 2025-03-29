@@ -63,7 +63,6 @@
       "he": "באנטי מינצ׳י",
       "so": "Banteay Meanchey Province"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
@@ -131,7 +130,6 @@
       "fa": "استان کراتیه",
       "so": "Kratié Province"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
@@ -199,7 +197,6 @@
       "fa": "استان موندولکیری",
       "so": "Mondulkiri Province"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
@@ -305,7 +302,6 @@
       "ha_NE": "Phnom Penh",
       "ps": "پنوم پن"
     },
-    "comments": null,
     "type": "autonomous_municipality"
   },
   "13": {
@@ -370,7 +366,6 @@
       "cy": "Talaith Preah Vihear",
       "he": "מחוז פראה ויהאר"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
@@ -385,11 +380,7 @@
     ],
     "geo": {
       "latitude": 11.485114,
-      "longitude": 105.328098,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 105.328098
     },
     "translations": {
       "en": "Prey Veng",
@@ -439,7 +430,6 @@
       "fa": "استان شکار ونگ",
       "so": "Prey Veng Province"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
@@ -507,7 +497,6 @@
       "fa": "استان پورسات",
       "so": "Pursat Province"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
@@ -576,7 +565,6 @@
       "he": "רטנאקירי",
       "so": "Ratanakiri Province"
     },
-    "comments": null,
     "type": "province"
   },
   "17": {
@@ -590,11 +578,7 @@
     ],
     "geo": {
       "latitude": 13.3529103,
-      "longitude": 103.8594171,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 103.8594171
     },
     "translations": {
       "en": "Siem Reap",
@@ -646,7 +630,6 @@
       "fa": "استان سیم ریپ",
       "so": "Siem Reap Province"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
@@ -723,7 +706,6 @@
       "ca": "Sihanoukville",
       "cy": "Talaith Sihanoukville"
     },
-    "comments": null,
     "type": "province"
   },
   "19": {
@@ -789,7 +771,6 @@
       "cy": "Talaith Stung Treng",
       "fa": "استان استونگ ترنگ"
     },
-    "comments": null,
     "type": "province"
   },
   "2": {
@@ -801,14 +782,6 @@
       "bb",
       "b.b"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Battambang",
       "ar": "محافظة باتامبانغ",
@@ -859,7 +832,6 @@
       "hu": "Battambang tartomány",
       "so": "Battambang Province"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
@@ -928,7 +900,6 @@
       "fa": "استان سوای رینگ",
       "so": "Svay Rieng Province"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
@@ -996,7 +967,6 @@
       "fa": "استان تاکئو",
       "so": "Takéo Province"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
@@ -1066,7 +1036,6 @@
       "hy": "Օդդարմեանթեյ",
       "so": "Oddar Meanchey Province"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
@@ -1130,7 +1099,6 @@
       "fa": "استان کپ",
       "so": "Kep Province"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
@@ -1195,21 +1163,11 @@
       "no": "Pailin",
       "cy": "Pailin Province"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Tbong Khmum",
     "code": "25",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Tbong Khmum",
       "ccp": "𑄝𑄧𑄁 𑄟𑄟𑄴",
@@ -1234,7 +1192,6 @@
       "ur": "تبونگ خموم صوبہ",
       "vi": "Tbong Khmum"
     },
-    "comments": null,
     "type": "province"
   },
   "3": {
@@ -1305,7 +1262,6 @@
       "cy": "Talaith Kampong Cham",
       "he": "קמפונג צ׳אם"
     },
-    "comments": null,
     "type": "province"
   },
   "4": {
@@ -1372,7 +1328,6 @@
       "gl": "Kompung Chinang",
       "so": "Kampong Chhnang Province"
     },
-    "comments": null,
     "type": "province"
   },
   "5": {
@@ -1389,11 +1344,7 @@
     ],
     "geo": {
       "latitude": 11.45311,
-      "longitude": 104.5202599,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 104.5202599
     },
     "translations": {
       "en": "Kampong Speu",
@@ -1441,7 +1392,6 @@
       "fa": "استان کامپونگ اسپیو",
       "so": "Kampong Speu Province"
     },
-    "comments": null,
     "type": "province"
   },
   "6": {
@@ -1458,11 +1408,7 @@
     ],
     "geo": {
       "latitude": 12.71197,
-      "longitude": 104.888603,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 104.888603
     },
     "translations": {
       "en": "Kampong Thom",
@@ -1515,7 +1461,6 @@
       "ro": "Kampong Thom (provincie)",
       "so": "Kampong Thom Province"
     },
-    "comments": null,
     "type": "province"
   },
   "7": {
@@ -1582,7 +1527,6 @@
       "cy": "Talaith Kampot",
       "so": "Kampot Province"
     },
-    "comments": null,
     "type": "province"
   },
   "8": {
@@ -1650,7 +1594,6 @@
       "he": "קנדאל",
       "so": "Kandal Province"
     },
-    "comments": null,
     "type": "province"
   },
   "9": {
@@ -1717,7 +1660,6 @@
       "ga": "Cúige Koh Kong",
       "so": "Koh Kong Province"
     },
-    "comments": null,
     "type": "province"
   }
 }

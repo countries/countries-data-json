@@ -40,13 +40,14 @@
       "te": "బండార్బన్ జిల్లా",
       "ccp": "𑄝𑄚𑄴𑄘𑄧𑄢𑄴𑄝𑄚𑄴"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Barguna zila",
     "code": "02",
-    "unofficial_names": "Barguna zila",
+    "unofficial_names": [
+      "Barguna zila"
+    ],
     "geo": {
       "latitude": 22.0952915,
       "longitude": 90.11206960000001,
@@ -84,7 +85,6 @@
       "ko": "바르구나구",
       "ne": "बरगुना जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
@@ -130,7 +130,6 @@
       "de": "Bogura",
       "fi": "Bogra"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
@@ -174,7 +173,6 @@
       "as": "ব্ৰাহ্মণবাৰিয়া জিলা",
       "ne": "ब्राह्मणबाडिया उपजिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
@@ -222,7 +220,6 @@
       "de": "Bagerhat",
       "ko": "바게르하트구"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
@@ -285,7 +282,6 @@
       "no": "Barisal distrikt",
       "ne": "बरिशाल जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
@@ -330,7 +326,6 @@
       "ne": "भोला उपजिल्ला",
       "uk": "Бхола (округ)"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
@@ -375,7 +370,6 @@
       "ml": "കോമില ജില്ല",
       "ar": "ناحية كوميلا"
     },
-    "comments": null,
     "type": "district"
   },
   "09": {
@@ -387,11 +381,7 @@
     ],
     "geo": {
       "latitude": 23.2246765,
-      "longitude": 90.6562431,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 90.6562431
     },
     "translations": {
       "en": "Chandpur",
@@ -419,7 +409,6 @@
       "ar": "ناحية جانديفور",
       "fi": "Chāndpur"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
@@ -469,7 +458,6 @@
       "ko": "치타공구",
       "pa": "ਚਿਟਾਗਾਂਗ ਜ਼ਿਲ੍ਹਾ"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
@@ -481,11 +469,7 @@
     ],
     "geo": {
       "latitude": 21.4404015,
-      "longitude": 91.9743392,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 91.9743392
     },
     "translations": {
       "en": "Cox’s Bazar",
@@ -514,7 +498,6 @@
       "ar": "ناحية كوكس بازار",
       "ne": "कक्सबाजार जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
@@ -555,7 +538,6 @@
       "de": "Chuadanga (Distrikt)",
       "ne": "चुयाडाङ्गा जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
@@ -605,7 +587,6 @@
       "ne": "ढाका जिल्ला",
       "ro": "Districtul Dacca"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
@@ -616,11 +597,7 @@
     ],
     "geo": {
       "latitude": 25.6220932,
-      "longitude": 88.63703009999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 88.63703009999999
     },
     "translations": {
       "en": "Dinajpur",
@@ -652,7 +629,6 @@
       "ne": "दिनाजपुर जिल्ला",
       "de": "Dinajpur"
     },
-    "comments": null,
     "type": "district"
   },
   "15": {
@@ -696,7 +672,6 @@
       "he": "מחוז פרידפור",
       "ne": "फरिदपुर जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "16": {
@@ -738,7 +713,6 @@
       "ccp": "𑄜𑄬𑄚𑄨",
       "ml": "ഫെനി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "17": {
@@ -747,14 +721,6 @@
     "unofficial_names": [
       "Gopalganj"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Gopalganj",
       "bn": "গোপালগঞ্জ জেলা",
@@ -779,7 +745,6 @@
       "be": "Гапалгандж",
       "vi": "Gopalganj"
     },
-    "comments": null,
     "type": "district"
   },
   "18": {
@@ -821,7 +786,6 @@
       "ml": "ഗസിപ്പൂർ ജില്ല",
       "de": "Gazipur"
     },
-    "comments": null,
     "type": "district"
   },
   "19": {
@@ -868,7 +832,6 @@
       "ne": "गाईबान्धा जिल्ला",
       "de": "Gaibandha"
     },
-    "comments": null,
     "type": "district"
   },
   "20": {
@@ -915,7 +878,6 @@
       "ko": "하비간지구",
       "ne": "हबिगञ्ज जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "21": {
@@ -960,7 +922,6 @@
       "no": "Jamalpur",
       "ne": "जामालपुर जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "22": {
@@ -1006,7 +967,6 @@
       "ne": "जशोर जिल्ला",
       "kn": "ಜೆಸ್ಸೋರ್"
     },
-    "comments": null,
     "type": "district"
   },
   "23": {
@@ -1052,7 +1012,6 @@
       "ne": "झिनाइदह जिल्ला",
       "de": "Jhinaidah"
     },
-    "comments": null,
     "type": "district"
   },
   "24": {
@@ -1096,7 +1055,6 @@
       "de": "Jaipurhat",
       "ne": "जयपुरहाट जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "25": {
@@ -1138,7 +1096,6 @@
       "ml": "ജലലോക്കതി ജില്ല",
       "de": "Jhalokathi"
     },
-    "comments": null,
     "type": "district"
   },
   "26": {
@@ -1181,7 +1138,6 @@
       "ne": "किशोरगञ्ज जिल्ला",
       "sv": "Kishoregonj"
     },
-    "comments": null,
     "type": "district"
   },
   "27": {
@@ -1192,11 +1148,7 @@
     ],
     "geo": {
       "latitude": 22.8146371,
-      "longitude": 89.5705569,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 89.5705569
     },
     "translations": {
       "en": "Khulna",
@@ -1225,7 +1177,6 @@
       "de": "Khulna²",
       "ko": "쿨나구"
     },
-    "comments": null,
     "type": "district"
   },
   "28": {
@@ -1268,13 +1219,14 @@
       "ne": "कुडिग्राम जिल्ला",
       "de": "Kurigram"
     },
-    "comments": null,
     "type": "district"
   },
   "29": {
     "name": "Khagrachari zila",
     "code": "29",
-    "unofficial_names": "Khagrachari zila",
+    "unofficial_names": [
+      "Khagrachari zila"
+    ],
     "geo": {
       "latitude": 23.1321751,
       "longitude": 91.949021,
@@ -1311,7 +1263,6 @@
       "it": "distretto di Khagrachhari",
       "ml": "ഖഘ്രചാരി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "30": {
@@ -1359,7 +1310,6 @@
       "de": "Kushtia",
       "ko": "쿠슈티아구"
     },
-    "comments": null,
     "type": "district"
   },
   "31": {
@@ -1371,11 +1321,7 @@
     ],
     "geo": {
       "latitude": 22.9339332,
-      "longitude": 90.83216879999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 90.83216879999999
     },
     "translations": {
       "en": "Lakshmipur",
@@ -1404,7 +1350,6 @@
       "ccp": "𑄣𑄧𑄇𑄴𑄈𑄨𑄛𑄪𑄢𑄴",
       "ml": "ലക്ഷ്മിപൂർ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "32": {
@@ -1448,7 +1393,6 @@
       "ne": "लालमनिरहाट जिल्ला",
       "de": "Lalmonirhat"
     },
-    "comments": null,
     "type": "district"
   },
   "33": {
@@ -1491,7 +1435,6 @@
       "de": "Manikganj",
       "ne": "मानिकगञ्ज जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "34": {
@@ -1538,13 +1481,14 @@
       "ne": "मयमनसिङ्ह जिल्ला",
       "pa": "ਮੈਮਨਸਿੰਘ ਜ਼ਿਲ੍ਹਾ"
     },
-    "comments": null,
     "type": "district"
   },
   "35": {
     "name": "Munshiganj zila",
     "code": "35",
-    "unofficial_names": "Munshiganj zila",
+    "unofficial_names": [
+      "Munshiganj zila"
+    ],
     "geo": {
       "latitude": 23.5248687,
       "longitude": 90.3371889,
@@ -1584,7 +1528,6 @@
       "fi": "Munshiganj piirikunta",
       "ne": "मुन्सिगञ्ज जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "36": {
@@ -1628,7 +1571,6 @@
       "de": "Madaripur (Distrikt)",
       "ne": "मादारिपुर जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "37": {
@@ -1637,14 +1579,6 @@
     "unofficial_names": [
       "Magura"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Magura",
       "bn": "মাগুরা জেলা",
@@ -1672,7 +1606,6 @@
       "ne": "मागुरा जिल्ला",
       "de": "Magura"
     },
-    "comments": null,
     "type": "district"
   },
   "38": {
@@ -1719,13 +1652,14 @@
       "ml": "മൗൽവിബാസർ ജില്ല",
       "ne": "मौलभीबाजार जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "39": {
     "name": "Meherpur zila",
     "code": "39",
-    "unofficial_names": "Meherpur zila",
+    "unofficial_names": [
+      "Meherpur zila"
+    ],
     "geo": {
       "latitude": 23.8051991,
       "longitude": 88.6723578,
@@ -1761,7 +1695,6 @@
       "ne": "मेहेरपुर जिल्ला",
       "ar": "مهربور"
     },
-    "comments": null,
     "type": "district"
   },
   "40": {
@@ -1803,7 +1736,6 @@
       "ne": "नारायणगञ्ज जिल्ला",
       "ro": "Districtul Narayanganj"
     },
-    "comments": null,
     "type": "district"
   },
   "41": {
@@ -1815,11 +1747,7 @@
     ],
     "geo": {
       "latitude": 24.8834972,
-      "longitude": 90.7312453,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 90.7312453
     },
     "translations": {
       "en": "Netrokona",
@@ -1848,7 +1776,6 @@
       "de": "Netrakona",
       "ne": "नेत्रकोना जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "42": {
@@ -1891,7 +1818,6 @@
       "ne": "नरसिङ्दी जिल्ला",
       "sv": "Narsingdi"
     },
-    "comments": null,
     "type": "district"
   },
   "43": {
@@ -1935,7 +1861,6 @@
       "ml": "നാറെയിൽ ജില്ല",
       "ne": "नडाइल जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "44": {
@@ -1979,7 +1904,6 @@
       "ne": "नाटोर जिल्ला",
       "de": "Natore"
     },
-    "comments": null,
     "type": "district"
   },
   "45": {
@@ -1991,11 +1915,7 @@
     ],
     "geo": {
       "latitude": 29.9688,
-      "longitude": 77.5495,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 77.5495
     },
     "translations": {
       "en": "Nawabganj",
@@ -2024,7 +1944,6 @@
       "ne": "चाँपाइनबाबगञ्ज जिल्ला",
       "pa": "ਨਵਾਬਗੰਜ ਜ਼ਿਲ੍ਹਾ"
     },
-    "comments": null,
     "type": "district"
   },
   "46": {
@@ -2068,7 +1987,6 @@
       "ne": "नीलफामारी जिल्ला",
       "de": "Nilphamari"
     },
-    "comments": null,
     "type": "district"
   },
   "47": {
@@ -2115,7 +2033,6 @@
       "pa": "ਨੌਖਾਲੀ",
       "sv": "Noakhali"
     },
-    "comments": null,
     "type": "district"
   },
   "48": {
@@ -2159,7 +2076,6 @@
       "ne": "नउगाँ जिल्ला",
       "de": "Naogaon"
     },
-    "comments": null,
     "type": "district"
   },
   "49": {
@@ -2202,7 +2118,6 @@
       "ar": "مقاطعة بابنا",
       "de": "Pabna"
     },
-    "comments": null,
     "type": "district"
   },
   "50": {
@@ -2245,7 +2160,6 @@
       "ccp": "𑄛𑄨𑄢𑄮𑄌𑄴𑄛𑄪𑄢𑄴",
       "ml": "പിരോജ്പൂർ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "51": {
@@ -2286,13 +2200,14 @@
       "ccp": "𑄛𑄧𑄑𑄪𑄠𑄈𑄣𑄨",
       "ml": "പറ്റുഖലി ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "52": {
     "name": "Panchagarh zila",
     "code": "52",
-    "unofficial_names": "Panchagarh zila",
+    "unofficial_names": [
+      "Panchagarh zila"
+    ],
     "geo": {
       "latitude": 26.335376,
       "longitude": 88.551698,
@@ -2327,7 +2242,6 @@
       "ne": "पञ्चगढ जिल्ला",
       "de": "Panchagarh"
     },
-    "comments": null,
     "type": "district"
   },
   "53": {
@@ -2370,7 +2284,6 @@
       "ml": "രാജ്ബാഡി ജില്ല",
       "ne": "राजबाडी जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "54": {
@@ -2434,7 +2347,6 @@
       "no": "Rajshahi distrikt",
       "ne": "राजशाही जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "55": {
@@ -2499,7 +2411,6 @@
       "ne": "रङ्पुर जिल्ला",
       "ro": "Districtul Rangpur"
     },
-    "comments": null,
     "type": "district"
   },
   "56": {
@@ -2510,11 +2421,7 @@
     ],
     "geo": {
       "latitude": 25.158978,
-      "longitude": 91.685097,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 91.685097
     },
     "translations": {
       "en": "Rangamati Hill",
@@ -2542,7 +2449,6 @@
       "ccp": "𑄢𑄋𑄟𑄖𑄳𑄠𑄬 𑄦𑄨𑄣𑄴",
       "ml": "രംഗമതി ഹിൽ ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "57": {
@@ -2587,7 +2493,6 @@
       "de": "Sherpur",
       "ne": "शेरपुर जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "58": {
@@ -2632,7 +2537,6 @@
       "ne": "सातखीरा जिल्ला",
       "ar": "شات خيرا"
     },
-    "comments": null,
     "type": "district"
   },
   "59": {
@@ -2642,14 +2546,6 @@
       "Serajgonj",
       "Sirajganj"
     ],
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Sirajganj",
       "bn": "সিরাজগঞ্জ জেলা",
@@ -2674,7 +2570,6 @@
       "ko": "시라지간지구",
       "ne": "सिराजगञ्ज जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "60": {
@@ -2737,7 +2632,6 @@
       "no": "Sylhet distrikt",
       "ne": "सिलेट जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "61": {
@@ -2782,7 +2676,6 @@
       "de": "Sunamganj",
       "ne": "सुनामगञ्ज जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "62": {
@@ -2824,7 +2717,6 @@
       "de": "Shariatpur",
       "ne": "शरियतपुर जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "63": {
@@ -2871,7 +2763,6 @@
       "de": "Tangail",
       "ne": "टाङ्गाइल जिल्ला"
     },
-    "comments": null,
     "type": "district"
   },
   "64": {
@@ -2915,21 +2806,11 @@
       "de": "Thakurgaon",
       "ko": "타쿠르가온구"
     },
-    "comments": null,
     "type": "district"
   },
   "A": {
     "name": "বরিশাল বিভাগ",
     "code": "A",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة باريسال",
       "bg": "Барисал",
@@ -2973,21 +2854,11 @@
       "mr": "बारिसाल विभाग",
       "ne": "बरिशाल विभाग"
     },
-    "comments": null,
     "type": "division"
   },
   "B": {
     "name": "চট্টগ্রাম বিভাগ",
     "code": "B",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة تشيتاغونغ",
       "bg": "Читагонг",
@@ -3034,21 +2905,11 @@
       "yue": "吉大港專區",
       "yue_Hans": "吉大港专区"
     },
-    "comments": null,
     "type": "division"
   },
   "C": {
     "name": "ঢাকা বিভাগ",
     "code": "C",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة داكا",
       "bg": "Дака",
@@ -3103,21 +2964,11 @@
       "ne": "ढाका विभाग",
       "ro": "Divizia Dacca"
     },
-    "comments": null,
     "type": "division"
   },
   "D": {
     "name": "খুলনা বিভাগ",
     "code": "D",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "قسم خولنا",
       "bg": "Кхулна",
@@ -3167,21 +3018,11 @@
       "et": "Khulna jaotis",
       "ne": "खुलना विभाग"
     },
-    "comments": null,
     "type": "division"
   },
   "E": {
     "name": "রাজশাহী বিভাগ",
     "code": "E",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Раджшахи",
       "bn": "রাজশাহী বিভাগ",
@@ -3221,21 +3062,11 @@
       "mr": "राजशाही विभाग",
       "ne": "राजशाही विभाग"
     },
-    "comments": null,
     "type": "division"
   },
   "F": {
     "name": "রংপুর বিভাগ",
     "code": "F",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Рангпур²",
       "bg": "Рангпур",
@@ -3277,21 +3108,11 @@
       "ne": "रङ्पुर विभाग",
       "ro": "Divizia Rangpur"
     },
-    "comments": null,
     "type": "division"
   },
   "G": {
     "name": "সিলেট বিভাগ",
     "code": "G",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bg": "Силхет",
       "bn": "সিলেট বিভাগ",
@@ -3331,21 +3152,11 @@
       "mr": "सिलहट विभाग",
       "ne": "सिलेट विभाग"
     },
-    "comments": null,
     "type": "division"
   },
   "H": {
     "name": "ময়মনসিংহ বিভাগ",
     "code": "H",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "bn": "ময়মনসিংহ বিভাগ",
       "de": "Maimansingh²",
@@ -3375,7 +3186,6 @@
       "mr": "मयमनसिंह विभाग",
       "nl": "Mymensingh (divisie)"
     },
-    "comments": null,
     "type": "division"
   }
 }

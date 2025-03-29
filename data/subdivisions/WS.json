@@ -2,7 +2,9 @@
   "AA": {
     "name": "A'ana",
     "code": "AA",
-    "unofficial_names": "A'ana",
+    "unofficial_names": [
+      "A'ana"
+    ],
     "geo": {
       "latitude": -13.898418,
       "longitude": -171.9752995,
@@ -56,13 +58,14 @@
       "uk": "Аана",
       "no": "A’ana"
     },
-    "comments": null,
     "type": "district"
   },
   "AL": {
     "name": "Aiga-i-le-Tai",
     "code": "AL",
-    "unofficial_names": "Aiga-i-le-Tai",
+    "unofficial_names": [
+      "Aiga-i-le-Tai"
+    ],
     "geo": {
       "latitude": -13.8513791,
       "longitude": -172.0325401,
@@ -117,13 +120,14 @@
       "no": "Aiga-i-le-Tai",
       "mk": "Аига-и-ле-Таи"
     },
-    "comments": null,
     "type": "district"
   },
   "AT": {
     "name": "Atua",
     "code": "AT",
-    "unofficial_names": "Atua",
+    "unofficial_names": [
+      "Atua"
+    ],
     "geo": {
       "latitude": -13.9787053,
       "longitude": -171.6254283,
@@ -177,13 +181,14 @@
       "no": "Atua",
       "fa": "بخش آتوآ"
     },
-    "comments": null,
     "type": "district"
   },
   "FA": {
     "name": "Fa'asaleleaga",
     "code": "FA",
-    "unofficial_names": "Fa'asaleleaga",
+    "unofficial_names": [
+      "Fa'asaleleaga"
+    ],
     "geo": {
       "latitude": -13.6307638,
       "longitude": -172.2365981,
@@ -237,13 +242,14 @@
       "no": "Fa’asaleleaga",
       "mk": "Фасалелеага"
     },
-    "comments": null,
     "type": "district"
   },
   "GE": {
     "name": "Gaga'emauga",
     "code": "GE",
-    "unofficial_names": "Gaga'emauga",
+    "unofficial_names": [
+      "Gaga'emauga"
+    ],
     "geo": {
       "latitude": -13.5428666,
       "longitude": -172.366887,
@@ -299,13 +305,14 @@
       "he": "גגאמאוגה",
       "mk": "Гагаемауга"
     },
-    "comments": null,
     "type": "district"
   },
   "GI": {
     "name": "Gagaifomauga",
     "code": "GI",
-    "unofficial_names": "Gagaifomauga",
+    "unofficial_names": [
+      "Gagaifomauga"
+    ],
     "geo": {
       "latitude": -13.5468007,
       "longitude": -172.4969331,
@@ -361,13 +368,14 @@
       "he": "גגאיפומאוגה",
       "mk": "Гагаифомауга"
     },
-    "comments": null,
     "type": "district"
   },
   "PA": {
     "name": "Palauli",
     "code": "PA",
-    "unofficial_names": "Palauli",
+    "unofficial_names": [
+      "Palauli"
+    ],
     "geo": {
       "latitude": -13.7294579,
       "longitude": -172.4536115,
@@ -423,13 +431,14 @@
       "fa": "پالائولی",
       "mk": "Палаули"
     },
-    "comments": null,
     "type": "district"
   },
   "SA": {
     "name": "Satupa'itea",
     "code": "SA",
-    "unofficial_names": "Satupa'itea",
+    "unofficial_names": [
+      "Satupa'itea"
+    ],
     "geo": {
       "latitude": -13.7731169,
       "longitude": -172.3302677,
@@ -483,13 +492,14 @@
       "no": "Satupa’itea",
       "mk": "Сатупаитеја"
     },
-    "comments": null,
     "type": "district"
   },
   "TU": {
     "name": "Tuamasaga",
     "code": "TU",
-    "unofficial_names": "Tuamasaga",
+    "unofficial_names": [
+      "Tuamasaga"
+    ],
     "geo": {
       "latitude": -13.9163592,
       "longitude": -171.8224362,
@@ -546,13 +556,14 @@
       "hu": "Tuamasaga",
       "hy": "Տուամասագա"
     },
-    "comments": null,
     "type": "district"
   },
   "VF": {
     "name": "Va'a-o-Fonoti",
     "code": "VF",
-    "unofficial_names": "Va'a-o-Fonoti",
+    "unofficial_names": [
+      "Va'a-o-Fonoti"
+    ],
     "geo": {
       "latitude": -13.9470903,
       "longitude": -171.5431872,
@@ -605,13 +616,14 @@
       "no": "Va’a-o-Fonoti",
       "mk": "Ва-о-Фоноти"
     },
-    "comments": null,
     "type": "district"
   },
   "VS": {
     "name": "Vaisigano",
     "code": "VS",
-    "unofficial_names": "Vaisigano",
+    "unofficial_names": [
+      "Vaisigano"
+    ],
     "geo": {
       "latitude": -13.5413827,
       "longitude": -172.7023383,
@@ -667,7 +679,6 @@
       "fa": "وایسیگانو",
       "mk": "Ваисигано"
     },
-    "comments": null,
     "type": "district"
   }
 }

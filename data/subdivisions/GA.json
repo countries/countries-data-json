@@ -2,7 +2,9 @@
   "1": {
     "name": "Estuaire",
     "code": "1",
-    "unofficial_names": "Estuaire",
+    "unofficial_names": [
+      "Estuaire"
+    ],
     "geo": {
       "latitude": 0.4432864,
       "longitude": 10.0807298,
@@ -65,13 +67,14 @@
       "fa": "استان استیوایر",
       "zu": "Estuaire Province"
     },
-    "comments": null,
     "type": "province"
   },
   "2": {
     "name": "Haut-Ogooué",
     "code": "2",
-    "unofficial_names": "Haut-Ogooué",
+    "unofficial_names": [
+      "Haut-Ogooué"
+    ],
     "geo": {
       "latitude": -1.4762544,
       "longitude": 13.914399,
@@ -133,13 +136,14 @@
       "fa": "استان هاوت اوگوئه",
       "he": "אוט-אוגואה"
     },
-    "comments": null,
     "type": "province"
   },
   "3": {
     "name": "Moyen-Ogooué",
     "code": "3",
-    "unofficial_names": "Moyen-Ogooué",
+    "unofficial_names": [
+      "Moyen-Ogooué"
+    ],
     "geo": {
       "latitude": -0.442784,
       "longitude": 10.439656,
@@ -199,7 +203,6 @@
       "cy": "Talaith Moyen-Ogooué",
       "fa": "استان مویان-اوگوئه"
     },
-    "comments": null,
     "type": "province"
   },
   "4": {
@@ -267,13 +270,14 @@
       "cy": "Talaith Ngounié",
       "he": "מחוז נגוני"
     },
-    "comments": null,
     "type": "province"
   },
   "5": {
     "name": "Nyanga",
     "code": "5",
-    "unofficial_names": "Nyanga",
+    "unofficial_names": [
+      "Nyanga"
+    ],
     "geo": {
       "latitude": -2.8821033,
       "longitude": 11.1617356,
@@ -334,13 +338,14 @@
       "fa": "استان نیانگا",
       "he": "מחוז ניאנגה"
     },
-    "comments": null,
     "type": "province"
   },
   "6": {
     "name": "Ogooué-Ivindo",
     "code": "6",
-    "unofficial_names": "Ogooué-Ivindo",
+    "unofficial_names": [
+      "Ogooué-Ivindo"
+    ],
     "geo": {
       "latitude": 0.8818311,
       "longitude": 13.1740348,
@@ -401,13 +406,14 @@
       "fa": "استان اوگوئه-ایویندو",
       "he": "אוגואה-איווינדו"
     },
-    "comments": null,
     "type": "province"
   },
   "7": {
     "name": "Ogooué-Lolo",
     "code": "7",
-    "unofficial_names": "Ogooué-Lolo",
+    "unofficial_names": [
+      "Ogooué-Lolo"
+    ],
     "geo": {
       "latitude": -0.8844093,
       "longitude": 12.4380581,
@@ -469,13 +475,14 @@
       "he": "אוגואה-לולו",
       "hy": "Օգուվե-Լոլո"
     },
-    "comments": null,
     "type": "province"
   },
   "8": {
     "name": "Ogooué-Maritime",
     "code": "8",
-    "unofficial_names": "Ogooué-Maritime",
+    "unofficial_names": [
+      "Ogooué-Maritime"
+    ],
     "geo": {
       "latitude": -1.3465975,
       "longitude": 9.7232673,
@@ -536,7 +543,6 @@
       "cy": "Talaith Ogooué-Maritime",
       "fa": "استان اوگوئه-مارتینتایم"
     },
-    "comments": null,
     "type": "province"
   },
   "9": {
@@ -604,7 +610,6 @@
       "cy": "Talaith Woleu-Ntem",
       "he": "וולו-נטם"
     },
-    "comments": null,
     "type": "province"
   }
 }

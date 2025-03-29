@@ -2,14 +2,12 @@
   "BE": {
     "name": "Belait",
     "code": "BE",
-    "unofficial_names": "Belait",
+    "unofficial_names": [
+      "Belait"
+    ],
     "geo": {
       "latitude": 4.449758,
-      "longitude": 114.318703,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 114.318703
     },
     "translations": {
       "en": "Belait",
@@ -60,13 +58,14 @@
       "yue": "馬來奕縣",
       "yue_Hans": "马来奕县"
     },
-    "comments": null,
     "type": "district"
   },
   "BM": {
     "name": "Brunei-Muara",
     "code": "BM",
-    "unofficial_names": "Brunei-Muara",
+    "unofficial_names": [
+      "Brunei-Muara"
+    ],
     "geo": {
       "latitude": 4.9311206,
       "longitude": 114.9516869,
@@ -124,13 +123,14 @@
       "yue": "摩拉縣",
       "yue_Hans": "摩拉县"
     },
-    "comments": null,
     "type": "district"
   },
   "TE": {
     "name": "Temburong",
     "code": "TE",
-    "unofficial_names": "Temburong",
+    "unofficial_names": [
+      "Temburong"
+    ],
     "geo": {
       "latitude": 4.6204128,
       "longitude": 115.141484,
@@ -190,13 +190,14 @@
       "yue": "淡布隆縣",
       "yue_Hans": "淡布隆县"
     },
-    "comments": null,
     "type": "district"
   },
   "TU": {
     "name": "Tutong",
     "code": "TU",
-    "unofficial_names": "Tutong",
+    "unofficial_names": [
+      "Tutong"
+    ],
     "geo": {
       "latitude": 4.7140373,
       "longitude": 114.6667939,
@@ -254,7 +255,6 @@
       "yue": "都東縣",
       "yue_Hans": "都东县"
     },
-    "comments": null,
     "type": "district"
   }
 }

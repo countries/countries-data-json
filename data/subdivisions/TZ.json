@@ -2,7 +2,9 @@
   "01": {
     "name": "Arusha",
     "code": "01",
-    "unofficial_names": "Arusha",
+    "unofficial_names": [
+      "Arusha"
+    ],
     "geo": {
       "latitude": -3.372301,
       "longitude": 36.6944136,
@@ -67,7 +69,6 @@
       "yo_BJ": "Agbègbè Arusha",
       "zu": "Arusha Region"
     },
-    "comments": null,
     "type": "region"
   },
   "02": {
@@ -140,13 +141,14 @@
       "eu": "Dar es Salaam (eskualdea)",
       "ga": "Réigiún Dárasalám"
     },
-    "comments": null,
     "type": "region"
   },
   "03": {
     "name": "Dodoma",
     "code": "03",
-    "unofficial_names": "Dodoma",
+    "unofficial_names": [
+      "Dodoma"
+    ],
     "geo": {
       "latitude": -6.173056,
       "longitude": 35.741944,
@@ -200,13 +202,14 @@
       "id": "Region Dodoma",
       "ur": "دودوما علاقہ"
     },
-    "comments": null,
     "type": "region"
   },
   "04": {
     "name": "Iringa",
     "code": "04",
-    "unofficial_names": "Iringa",
+    "unofficial_names": [
+      "Iringa"
+    ],
     "geo": {
       "latitude": -7.77,
       "longitude": 35.69,
@@ -270,7 +273,6 @@
       "no": "Iringa",
       "yo_BJ": "Agbègbè Iringa"
     },
-    "comments": null,
     "type": "region"
   },
   "05": {
@@ -343,13 +345,14 @@
       "no": "Kagera",
       "yo_BJ": "Agbègbè Kagera"
     },
-    "comments": null,
     "type": "region"
   },
   "06": {
     "name": "Kaskazini Pemba",
     "code": "06",
-    "unofficial_names": "Kaskazini Pemba",
+    "unofficial_names": [
+      "Kaskazini Pemba"
+    ],
     "geo": {
       "latitude": -5.031935199999999,
       "longitude": 39.7755571,
@@ -412,7 +415,6 @@
       "no": "Pemba Kaskazini",
       "yo_BJ": "Agbègbè Pemba Àríwá"
     },
-    "comments": null,
     "type": "region"
   },
   "07": {
@@ -484,13 +486,14 @@
       "no": "Unguja Kaskazini",
       "yo_BJ": "Agbègbè Zanzibar Àríwá"
     },
-    "comments": null,
     "type": "region"
   },
   "08": {
     "name": "Kigoma",
     "code": "08",
-    "unofficial_names": "Kigoma",
+    "unofficial_names": [
+      "Kigoma"
+    ],
     "geo": {
       "latitude": -4.883332999999999,
       "longitude": 29.633333,
@@ -555,13 +558,14 @@
       "no": "Kigoma",
       "yo_BJ": "Agbègbè Kigoma"
     },
-    "comments": null,
     "type": "region"
   },
   "09": {
     "name": "Kilimanjaro",
     "code": "09",
-    "unofficial_names": "Kilimanjaro",
+    "unofficial_names": [
+      "Kilimanjaro"
+    ],
     "geo": {
       "latitude": -4.1336927,
       "longitude": 37.8087693,
@@ -626,13 +630,14 @@
       "yo_BJ": "Agbègbè Kilimanjaro",
       "hy": "Կիլիմանջարո շրջան"
     },
-    "comments": null,
     "type": "region"
   },
   "10": {
     "name": "Kusini Pemba",
     "code": "10",
-    "unofficial_names": "Kusini Pemba",
+    "unofficial_names": [
+      "Kusini Pemba"
+    ],
     "geo": {
       "latitude": -5.3146961,
       "longitude": 39.7549511,
@@ -695,13 +700,14 @@
       "no": "Pemba Kusini",
       "yo_BJ": "Agbègbè Pemba Gúúsù"
     },
-    "comments": null,
     "type": "region"
   },
   "11": {
     "name": "Kusini Unguja",
     "code": "11",
-    "unofficial_names": "Kusini Unguja",
+    "unofficial_names": [
+      "Kusini Unguja"
+    ],
     "geo": {
       "latitude": -6.2036563,
       "longitude": 39.3621196,
@@ -745,13 +751,14 @@
       "id": "Region Unguja Selatan",
       "ur": "انگوجا جنوبی علاقہ"
     },
-    "comments": null,
     "type": "region"
   },
   "12": {
     "name": "Lindi",
     "code": "12",
-    "unofficial_names": "Lindi",
+    "unofficial_names": [
+      "Lindi"
+    ],
     "geo": {
       "latitude": -9.996944,
       "longitude": 39.714444,
@@ -816,13 +823,14 @@
       "no": "Lindi",
       "yo_BJ": "Agbègbè Lindi"
     },
-    "comments": null,
     "type": "region"
   },
   "13": {
     "name": "Mara",
     "code": "13",
-    "unofficial_names": "Mara",
+    "unofficial_names": [
+      "Mara"
+    ],
     "geo": {
       "latitude": -1.7753538,
       "longitude": 34.1531947,
@@ -888,13 +896,14 @@
       "et": "Mara piirkond",
       "he": "מחוז מארה"
     },
-    "comments": null,
     "type": "region"
   },
   "14": {
     "name": "Mbeya",
     "code": "14",
-    "unofficial_names": "Mbeya",
+    "unofficial_names": [
+      "Mbeya"
+    ],
     "geo": {
       "latitude": -8.9,
       "longitude": 33.45,
@@ -959,13 +968,14 @@
       "yo_BJ": "Agbègbè Mbeya",
       "he": "מביה"
     },
-    "comments": null,
     "type": "region"
   },
   "15": {
     "name": "Mjini Magharibi",
     "code": "15",
-    "unofficial_names": "Mjini Magharibi",
+    "unofficial_names": [
+      "Mjini Magharibi"
+    ],
     "geo": {
       "latitude": -6.229813600000001,
       "longitude": 39.2583293,
@@ -1025,13 +1035,14 @@
       "no": "Unguja Mjini Magharibi",
       "hi": "जंजीबार शहरी/पश्चिमी क्षेत्र"
     },
-    "comments": null,
     "type": "region"
   },
   "16": {
     "name": "Morogoro",
     "code": "16",
-    "unofficial_names": "Morogoro",
+    "unofficial_names": [
+      "Morogoro"
+    ],
     "geo": {
       "latitude": -6.816667000000001,
       "longitude": 37.666667,
@@ -1097,7 +1108,6 @@
       "hy": "Մորոգորո",
       "ig": "Morogoro Region"
     },
-    "comments": null,
     "type": "region"
   },
   "17": {
@@ -1170,13 +1180,14 @@
       "yo_BJ": "Agbègbè Mtwara",
       "et": "Mtwara piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "18": {
     "name": "Mwanza",
     "code": "18",
-    "unofficial_names": "Mwanza",
+    "unofficial_names": [
+      "Mwanza"
+    ],
     "geo": {
       "latitude": -2.516667,
       "longitude": 32.9,
@@ -1241,7 +1252,6 @@
       "yo_BJ": "Agbègbè Mwanza",
       "he": "מוואנזה"
     },
-    "comments": null,
     "type": "region"
   },
   "19": {
@@ -1314,13 +1324,14 @@
       "yo_BJ": "Agbègbè Pwani",
       "et": "Pwani piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "20": {
     "name": "Rukwa",
     "code": "20",
-    "unofficial_names": "Rukwa",
+    "unofficial_names": [
+      "Rukwa"
+    ],
     "geo": {
       "latitude": -6.965368499999999,
       "longitude": 31.2626366,
@@ -1384,13 +1395,14 @@
       "yo_BJ": "Agbègbè Rukwa",
       "et": "Rukwa piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "21": {
     "name": "Ruvuma",
     "code": "21",
-    "unofficial_names": "Ruvuma",
+    "unofficial_names": [
+      "Ruvuma"
+    ],
     "geo": {
       "latitude": -10.6878717,
       "longitude": 36.2630846,
@@ -1455,13 +1467,14 @@
       "yo_BJ": "Agbègbè Ruvuma",
       "et": "Ruvuma piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "22": {
     "name": "Shinyanga",
     "code": "22",
-    "unofficial_names": "Shinyanga",
+    "unofficial_names": [
+      "Shinyanga"
+    ],
     "geo": {
       "latitude": -3.661944,
       "longitude": 33.423056,
@@ -1525,13 +1538,14 @@
       "yo_BJ": "Agbègbè Shinyanga",
       "et": "Shinyanga piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "23": {
     "name": "Singida",
     "code": "23",
-    "unofficial_names": "Singida",
+    "unofficial_names": [
+      "Singida"
+    ],
     "geo": {
       "latitude": -4.819999999999999,
       "longitude": 34.73999999999999,
@@ -1595,13 +1609,14 @@
       "yo_BJ": "Agbègbè Singida",
       "et": "Singida piirkond"
     },
-    "comments": null,
     "type": "region"
   },
   "24": {
     "name": "Tabora",
     "code": "24",
-    "unofficial_names": "Tabora",
+    "unofficial_names": [
+      "Tabora"
+    ],
     "geo": {
       "latitude": -5.016667,
       "longitude": 32.8,
@@ -1665,13 +1680,14 @@
       "no": "Tabora",
       "yo_BJ": "Agbègbè Tabora"
     },
-    "comments": null,
     "type": "region"
   },
   "25": {
     "name": "Tanga",
     "code": "25",
-    "unofficial_names": "Tanga",
+    "unofficial_names": [
+      "Tanga"
+    ],
     "geo": {
       "latitude": -5.0888751,
       "longitude": 39.1023228,
@@ -1739,13 +1755,14 @@
       "hu": "Tanga régió",
       "ig": "Tanga"
     },
-    "comments": null,
     "type": "region"
   },
   "26": {
     "name": "Manyara",
     "code": "26",
-    "unofficial_names": "Manyara",
+    "unofficial_names": [
+      "Manyara"
+    ],
     "geo": {
       "latitude": -4.3150058,
       "longitude": 36.954107,
@@ -1810,21 +1827,11 @@
       "yo_BJ": "Agbègbè Manyara",
       "he": "מניארה"
     },
-    "comments": null,
     "type": "region"
   },
   "27": {
     "name": "Mkoa wa Geita",
     "code": "27",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم جيتا",
       "bn": "গীতা অঞ্চল",
@@ -1874,21 +1881,11 @@
       "he": "גייטה",
       "zh": "盖塔区"
     },
-    "comments": null,
     "type": "region"
   },
   "28": {
     "name": "Mkoa wa Katavi",
     "code": "28",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم كاتافي",
       "bn": "কাটাভি অঞ্চল",
@@ -1937,21 +1934,11 @@
       "fa": "ناحیه کاتوی",
       "zh": "卡塔维区"
     },
-    "comments": null,
     "type": "region"
   },
   "29": {
     "name": "Mkoa wa Njombe",
     "code": "29",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إقليم نجومبي",
       "bn": "জম্বে অঞ্চল",
@@ -2000,21 +1987,11 @@
       "et": "Njombe piirkond",
       "fa": "استان انجومبه"
     },
-    "comments": null,
     "type": "region"
   },
   "30": {
     "name": "Mkoa wa Simiyu",
     "code": "30",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "اقليم سيميو",
       "bn": "সিমিয়ো অঞ্চল",
@@ -2064,13 +2041,11 @@
       "he": "סימיו (מחוז)",
       "zh": "锡米尤区"
     },
-    "comments": null,
     "type": "region"
   },
   "31": {
     "name": "Songwe",
     "code": "31",
-    "unofficial_names": null,
     "geo": {
       "latitude": -6.369028,
       "longitude": 34.888822,
@@ -2082,7 +2057,6 @@
     "translations": {
       "en": "Songwe"
     },
-    "comments": null,
     "type": "region"
   }
 }

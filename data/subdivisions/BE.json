@@ -97,7 +97,6 @@
       "no": "Brussel",
       "yo_BJ": "Brussels"
     },
-    "comments": null,
     "type": "region"
   },
   "VAN": {
@@ -180,7 +179,6 @@
       "he": "פרובינציית אנטוורפן",
       "sq": "Provinca Antwerp"
     },
-    "comments": null,
     "type": "province"
   },
   "VBR": {
@@ -264,21 +262,11 @@
       "ga": "Brabant Fhlóndras",
       "sq": "Brabanti Flamand"
     },
-    "comments": null,
     "type": "province"
   },
   "VLG": {
     "name": "Vlaams Gewest",
     "code": "VLG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "الإقليم الفلامندي",
       "be": "Фламандскі рэгіён",
@@ -347,7 +335,6 @@
       "sq": "Flandria",
       "uz": "Flamand regioni"
     },
-    "comments": null,
     "type": "region"
   },
   "VLI": {
@@ -428,7 +415,6 @@
       "ga": "Limburg",
       "sq": "Limburg (Belgjikë)"
     },
-    "comments": null,
     "type": "province"
   },
   "VOV": {
@@ -512,7 +498,6 @@
       "ga": "Flóndras Thoir",
       "sq": "Flandria Lindore"
     },
-    "comments": null,
     "type": "province"
   },
   "VWV": {
@@ -597,21 +582,11 @@
       "ga": "Flóndras Thiar",
       "sq": "Flandria Perëndimore"
     },
-    "comments": null,
     "type": "province"
   },
   "WAL": {
     "name": "Wallonië",
     "code": "WAL",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Wallonië",
       "ar": "والونيا",
@@ -678,7 +653,6 @@
       "ky": "Валлониа",
       "sq": "Valonia"
     },
-    "comments": null,
     "type": "region"
   },
   "WBR": {
@@ -762,7 +736,6 @@
       "mk": "Валонски Брабант",
       "sq": "Brabanti Valonas"
     },
-    "comments": null,
     "type": "province"
   },
   "WHT": {
@@ -844,7 +817,6 @@
       "ga": "Hainaut",
       "sq": "Provinca Hainaut"
     },
-    "comments": null,
     "type": "province"
   },
   "WLG": {
@@ -927,7 +899,6 @@
       "he": "לייז׳",
       "sq": "Provinca Liège"
     },
-    "comments": null,
     "type": "province"
   },
   "WLX": {
@@ -1008,7 +979,6 @@
       "ga": "Lucsamburg",
       "sq": "Luksemburg (Belgjikë)"
     },
-    "comments": null,
     "type": "province"
   },
   "WNA": {
@@ -1087,7 +1057,6 @@
       "mk": "Намир (покраина)",
       "sq": "Provinca Namur"
     },
-    "comments": null,
     "type": "province"
   }
 }

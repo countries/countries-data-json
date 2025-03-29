@@ -2,7 +2,9 @@
   "01": {
     "name": "Acquaviva",
     "code": "01",
-    "unofficial_names": "Acquaviva",
+    "unofficial_names": [
+      "Acquaviva"
+    ],
     "geo": {
       "latitude": 43.945153,
       "longitude": 12.4179988,
@@ -65,7 +67,6 @@
       "et": "Acquaviva",
       "ky": "Аккуавива"
     },
-    "comments": null,
     "type": "municipality"
   },
   "02": {
@@ -135,13 +136,14 @@
       "bg": "Киезануова (Сан Марино)",
       "et": "Chiesanuova (San Marino)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "03": {
     "name": "Domagnano",
     "code": "03",
-    "unofficial_names": "Domagnano",
+    "unofficial_names": [
+      "Domagnano"
+    ],
     "geo": {
       "latitude": 43.9501929,
       "longitude": 12.4681537,
@@ -205,13 +207,14 @@
       "et": "Domagnano",
       "ps": "دومانیانو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "04": {
     "name": "Faetano",
     "code": "04",
-    "unofficial_names": "Faetano",
+    "unofficial_names": [
+      "Faetano"
+    ],
     "geo": {
       "latitude": 43.9257086,
       "longitude": 12.4993728,
@@ -276,13 +279,14 @@
       "et": "Faetano",
       "ps": "فایتانو"
     },
-    "comments": null,
     "type": "municipality"
   },
   "05": {
     "name": "Fiorentino",
     "code": "05",
-    "unofficial_names": "Fiorentino",
+    "unofficial_names": [
+      "Fiorentino"
+    ],
     "geo": {
       "latitude": 43.9078337,
       "longitude": 12.4581209,
@@ -345,13 +349,14 @@
       "bg": "Фиорентино",
       "et": "Fiorentino"
     },
-    "comments": null,
     "type": "municipality"
   },
   "06": {
     "name": "Borgo Maggiore",
     "code": "06",
-    "unofficial_names": "Borgo Maggiore",
+    "unofficial_names": [
+      "Borgo Maggiore"
+    ],
     "geo": {
       "latitude": 43.9574882,
       "longitude": 12.4552546,
@@ -414,7 +419,6 @@
       "bg": "Борго Маджоре",
       "et": "Borgo Maggiore"
     },
-    "comments": null,
     "type": "municipality"
   },
   "07": {
@@ -508,13 +512,14 @@
       "no": "San Marino",
       "yo_BJ": "Ìlú San Màrínò"
     },
-    "comments": null,
     "type": "municipality"
   },
   "08": {
     "name": "Montegiardino",
     "code": "08",
-    "unofficial_names": "Montegiardino",
+    "unofficial_names": [
+      "Montegiardino"
+    ],
     "geo": {
       "latitude": 43.9097318,
       "longitude": 12.4863344,
@@ -577,13 +582,14 @@
       "bg": "Монтеджардино",
       "et": "Montegiardino"
     },
-    "comments": null,
     "type": "municipality"
   },
   "09": {
     "name": "Serravalle",
     "code": "09",
-    "unofficial_names": "Serravalle",
+    "unofficial_names": [
+      "Serravalle"
+    ],
     "geo": {
       "latitude": 43.9690367,
       "longitude": 12.4774099,
@@ -648,7 +654,6 @@
       "bg": "Серавале (Сан Марино)",
       "et": "Serravalle"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

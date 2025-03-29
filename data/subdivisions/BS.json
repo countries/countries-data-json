@@ -2,15 +2,6 @@
   "AK": {
     "name": "Acklins",
     "code": "AK",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "أكلينز",
       "bn": "এক্লিংস",
@@ -58,7 +49,6 @@
       "no": "Acklins",
       "az": "Aklins"
     },
-    "comments": null,
     "type": "district"
   },
   "BI": {
@@ -122,21 +112,11 @@
       "ca": "Birmini",
       "no": "Bimini"
     },
-    "comments": null,
     "type": "district"
   },
   "BP": {
     "name": "Black Point",
     "code": "BP",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "بلاك بوينت",
       "bn": "ব্ল্যাক পয়েন্ট",
@@ -179,21 +159,11 @@
       "ca": "Black Point",
       "no": "Black Point"
     },
-    "comments": null,
     "type": "district"
   },
   "BY": {
     "name": "Berry Islands",
     "code": "BY",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزر بيري",
       "bn": "বেরি দ্বীপপুঞ্জ",
@@ -239,21 +209,11 @@
       "no": "Berry Islands",
       "az": "Berri adaları"
     },
-    "comments": null,
     "type": "district"
   },
   "CE": {
     "name": "Central Eleuthera",
     "code": "CE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سينترال إليوثيرا",
       "bn": "সেন্ট্রাল এলিউথেরা",
@@ -296,13 +256,14 @@
       "ca": "Central Eleuthera",
       "no": "Central Eleuthera"
     },
-    "comments": null,
     "type": "district"
   },
   "CI": {
     "name": "Cat Island",
     "code": "CI",
-    "unofficial_names": "Cat Island",
+    "unofficial_names": [
+      "Cat Island"
+    ],
     "geo": {
       "latitude": 24.213309,
       "longitude": -75.36453689999999,
@@ -361,21 +322,11 @@
       "no": "Cat Island (Bahamas)",
       "az": "Ket-Aylend (Baham adaları)"
     },
-    "comments": null,
     "type": "district"
   },
   "CK": {
     "name": "Crooked Island",
     "code": "CK",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزيرة كروكد",
       "bn": "ক্রুকেড আইল্যান্ড",
@@ -421,21 +372,11 @@
       "az": "Kruked-Aylend (Baham adaları)",
       "fa": "جزیره کروکد (باهاما)"
     },
-    "comments": null,
     "type": "district"
   },
   "CO": {
     "name": "Central Abaco",
     "code": "CO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سنترال أباكو",
       "bn": "সেন্ট্রারাাল আবাকু",
@@ -480,21 +421,11 @@
       "no": "Central Abaco",
       "he": "מרכז אבאקו"
     },
-    "comments": null,
     "type": "district"
   },
   "CS": {
     "name": "Central Andros",
     "code": "CS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سنترال أندروس",
       "bn": "সেন্ট্রারাল এন্ড্রোস",
@@ -536,21 +467,11 @@
       "uk": "Центральний Андрос",
       "no": "Central Andros"
     },
-    "comments": null,
     "type": "district"
   },
   "EG": {
     "name": "East Grand Bahama",
     "code": "EG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "شرق غراند بهاما",
       "bn": "ইস্ট গ্র্যান্ড বাহামা",
@@ -594,20 +515,17 @@
       "no": "Øst Grand Bahama",
       "az": "Şərqi Böyük Bahama"
     },
-    "comments": null,
     "type": "district"
   },
   "EX": {
     "name": "Exuma",
     "code": "EX",
-    "unofficial_names": "Exuma",
+    "unofficial_names": [
+      "Exuma"
+    ],
     "geo": {
       "latitude": 23.5333333,
-      "longitude": -75.83333329999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -75.83333329999999
     },
     "translations": {
       "en": "Exuma",
@@ -655,13 +573,14 @@
       "no": "Exuma",
       "az": "Eksuma"
     },
-    "comments": null,
     "type": "district"
   },
   "FP": {
     "name": "Freeport",
     "code": "FP",
-    "unofficial_names": "Freeport",
+    "unofficial_names": [
+      "Freeport"
+    ],
     "geo": {
       "latitude": 26.528472,
       "longitude": -78.69658299999999,
@@ -718,21 +637,11 @@
       "ca": "Freeport",
       "no": "Freeport"
     },
-    "comments": null,
     "type": "district"
   },
   "GC": {
     "name": "Grand Cay",
     "code": "GC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جراند كاي",
       "bn": "গ্রান্ড কে",
@@ -776,13 +685,14 @@
       "no": "Grand Cay",
       "az": "Qrand-Ki adası"
     },
-    "comments": null,
     "type": "district"
   },
   "HI": {
     "name": "Harbour Island",
     "code": "HI",
-    "unofficial_names": "Harbour Island",
+    "unofficial_names": [
+      "Harbour Island"
+    ],
     "geo": {
       "latitude": 25.5282318,
       "longitude": -76.63585619999999,
@@ -836,21 +746,11 @@
       "no": "Harbour Island",
       "eu": "Harbour uhartea"
     },
-    "comments": null,
     "type": "district"
   },
   "HT": {
     "name": "Hope Town",
     "code": "HT",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "هوب تاون",
       "bn": "হোপ টাউন",
@@ -893,13 +793,14 @@
       "no": "Hope Town",
       "ceb": "Hope Town District"
     },
-    "comments": null,
     "type": "district"
   },
   "IN": {
     "name": "Inagua",
     "code": "IN",
-    "unofficial_names": "Inagua",
+    "unofficial_names": [
+      "Inagua"
+    ],
     "geo": {
       "latitude": 21.0656066,
       "longitude": -73.323708,
@@ -955,13 +856,14 @@
       "no": "Inagua",
       "az": "İnaqua"
     },
-    "comments": null,
     "type": "district"
   },
   "LI": {
     "name": "Long Island",
     "code": "LI",
-    "unofficial_names": "Long Island",
+    "unofficial_names": [
+      "Long Island"
+    ],
     "geo": {
       "latitude": 23.1764239,
       "longitude": -75.0961549,
@@ -1018,21 +920,11 @@
       "ceb": "Long Island (pulo sa Bahamas, Long Island)",
       "ro": "Long Island"
     },
-    "comments": null,
     "type": "district"
   },
   "MC": {
     "name": "Mangrove Cay",
     "code": "MC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مانغروف كاي",
       "bn": "ম্যানগ্রোভ কে",
@@ -1076,13 +968,14 @@
       "ca": "Illa de Mangrove",
       "no": "Mangrove Cay"
     },
-    "comments": null,
     "type": "district"
   },
   "MG": {
     "name": "Mayaguana",
     "code": "MG",
-    "unofficial_names": "Mayaguana",
+    "unofficial_names": [
+      "Mayaguana"
+    ],
     "geo": {
       "latitude": 22.4017714,
       "longitude": -73.06413959999999,
@@ -1130,21 +1023,11 @@
       "ccp": "𑄟𑄠𑄉𑄪𑄠𑄚",
       "no": "Mayaguana"
     },
-    "comments": null,
     "type": "district"
   },
   "MI": {
     "name": "Moore’s Island",
     "code": "MI",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزيرة مور",
       "da": "Moore’s Island",
@@ -1185,21 +1068,11 @@
       "ca": "Illa de Moore",
       "no": "Moores øya"
     },
-    "comments": null,
     "type": "district"
   },
   "NE": {
     "name": "North Eleuthera",
     "code": "NE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "إليوثيرا الشمالية",
       "bn": "নর্থ এলিউথেরা",
@@ -1242,21 +1115,11 @@
       "ca": "North Eleuthera",
       "no": "Nord Eleuthera"
     },
-    "comments": null,
     "type": "district"
   },
   "NO": {
     "name": "North Abaco",
     "code": "NO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "شمال أباكو",
       "bn": "উত্তর অ্যাবাকো",
@@ -1300,13 +1163,14 @@
       "ca": "North Abaco",
       "no": "Nord Abaco"
     },
-    "comments": null,
     "type": "district"
   },
   "NP": {
     "name": "New Providence",
     "code": "NP",
-    "unofficial_names": "New Providence",
+    "unofficial_names": [
+      "New Providence"
+    ],
     "geo": {
       "latitude": 25.0479835,
       "longitude": -77.355413,
@@ -1323,21 +1187,11 @@
       "nl": "New Providence District",
       "sv": "New Providence District"
     },
-    "comments": null,
     "type": "island"
   },
   "NS": {
     "name": "North Andros",
     "code": "NS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "شمال أندروس",
       "bn": "উত্তর আন্ড্রস",
@@ -1380,21 +1234,11 @@
       "ca": "North Andros",
       "no": "Nord Andros"
     },
-    "comments": null,
     "type": "district"
   },
   "RC": {
     "name": "Rum Cay",
     "code": "RC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "روم كاي",
       "bn": "রাম কে",
@@ -1439,13 +1283,14 @@
       "no": "Rum Cay",
       "az": "Ram-Ki"
     },
-    "comments": null,
     "type": "district"
   },
   "RI": {
     "name": "Ragged Island",
     "code": "RI",
-    "unofficial_names": "Ragged Island",
+    "unofficial_names": [
+      "Ragged Island"
+    ],
     "geo": {
       "latitude": 22.1908067,
       "longitude": -75.7342416,
@@ -1498,21 +1343,11 @@
       "no": "Ragged øy",
       "az": "Qreyt-Raqqed-Aylend"
     },
-    "comments": null,
     "type": "district"
   },
   "SA": {
     "name": "South Andros",
     "code": "SA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جنوب أندروس",
       "bn": "দক্ষিন আন্ড্রস",
@@ -1556,21 +1391,11 @@
       "ca": "South Andros",
       "no": "Sør Andros"
     },
-    "comments": null,
     "type": "district"
   },
   "SE": {
     "name": "South Eleuthera",
     "code": "SE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جنوب إليوثيرا",
       "bn": "সাউথ এলিয়টেরা",
@@ -1614,21 +1439,11 @@
       "ca": "South Eleuthera",
       "no": "Sør Eleuthera"
     },
-    "comments": null,
     "type": "district"
   },
   "SO": {
     "name": "South Abaco",
     "code": "SO",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جنوب أباكو",
       "bn": "দক্ষিন অ্যাবাকো",
@@ -1673,21 +1488,11 @@
       "no": "Sør Abaco",
       "az": "Cənubi Abako"
     },
-    "comments": null,
     "type": "district"
   },
   "SS": {
     "name": "San Salvador",
     "code": "SS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزيرة سان سلفادور",
       "be": "Востраў Сан-Сальвадор",
@@ -1737,21 +1542,11 @@
       "no": "San Salvador",
       "az": "San Salvador adası"
     },
-    "comments": null,
     "type": "district"
   },
   "SW": {
     "name": "Spanish Wells",
     "code": "SW",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "سبانش، ويلز",
       "bn": "স্প্যানিশ ওয়েলস",
@@ -1794,21 +1589,11 @@
       "ca": "Spanish Wells",
       "no": "Spansk wells"
     },
-    "comments": null,
     "type": "district"
   },
   "WG": {
     "name": "West Grand Bahama",
     "code": "WG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ويست غراند بهاما",
       "bn": "পশ্চিম গ্রান্ড বাহামা",
@@ -1851,7 +1636,6 @@
       "ca": "West Grand Bahama",
       "no": "West Grand Bahama"
     },
-    "comments": null,
     "type": "district"
   }
 }

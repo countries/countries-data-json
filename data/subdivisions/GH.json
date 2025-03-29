@@ -2,7 +2,9 @@
   "AA": {
     "name": "Greater Accra",
     "code": "AA",
-    "unofficial_names": "Greater Accra",
+    "unofficial_names": [
+      "Greater Accra"
+    ],
     "geo": {
       "latitude": 5.8142836,
       "longitude": 0.0746767,
@@ -62,13 +64,11 @@
       "hy": "Մեծ Աքրա",
       "sw": "Mkoa wa Greater Accra"
     },
-    "comments": null,
     "type": "region"
   },
   "AF": {
     "name": "Ahafo",
     "code": "AF",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -88,7 +88,6 @@
       "ru": "Ахафо",
       "sw": "Mkoa wa Ahafo"
     },
-    "comments": null,
     "type": "region"
   },
   "AH": {
@@ -159,13 +158,11 @@
       "he": "חבל אשנטי",
       "sw": "Mkoa wa Ashanti"
     },
-    "comments": null,
     "type": "region"
   },
   "BE": {
     "name": "Bono East",
     "code": "BE",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -186,13 +183,11 @@
       "ru": "Боно-Ист",
       "sw": "Mkoa wa Bono Mashariki"
     },
-    "comments": null,
     "type": "region"
   },
   "BO": {
     "name": "Bono",
     "code": "BO",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -215,13 +210,14 @@
       "ru": "Боно",
       "sw": "Mkoa wa Bono"
     },
-    "comments": null,
     "type": "region"
   },
   "CP": {
     "name": "Central",
     "code": "CP",
-    "unofficial_names": "Central",
+    "unofficial_names": [
+      "Central"
+    ],
     "geo": {
       "latitude": 5.5607846,
       "longitude": -1.0586135,
@@ -280,13 +276,14 @@
       "he": "מחוז המרכז",
       "sw": "Mkoa wa Kati, Ghana"
     },
-    "comments": null,
     "type": "region"
   },
   "EP": {
     "name": "Eastern",
     "code": "EP",
-    "unofficial_names": "Eastern",
+    "unofficial_names": [
+      "Eastern"
+    ],
     "geo": {
       "latitude": 6.237403599999999,
       "longitude": -0.4502368,
@@ -343,13 +340,11 @@
       "no": "Eastern",
       "sw": "Mkoa wa Mashariki, Ghana"
     },
-    "comments": null,
     "type": "region"
   },
   "NE": {
     "name": "North East",
     "code": "NE",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -368,13 +363,14 @@
       "pl": "Region Północno–Wschodni",
       "ru": "Северо-Восточная область"
     },
-    "comments": null,
     "type": "region"
   },
   "NP": {
     "name": "Northern",
     "code": "NP",
-    "unofficial_names": "Northern",
+    "unofficial_names": [
+      "Northern"
+    ],
     "geo": {
       "latitude": 9.543926899999999,
       "longitude": -0.9056623,
@@ -432,14 +428,11 @@
       "cs": "Northern Region (Ghana)",
       "sw": "Mkoa wa Kaskazini, Ghana"
     },
-    "comments": null,
     "type": "region"
   },
   "OT": {
     "name": "Oti",
     "code": "OT",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Oti",
       "de": "Oti Region",
@@ -451,13 +444,11 @@
       "ru": "Оти",
       "sw": "Mkoa wa Oti"
     },
-    "comments": null,
     "type": "region"
   },
   "SV": {
     "name": "Savannah",
     "code": "SV",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -480,13 +471,14 @@
       "ru": "Саванна",
       "sw": "Mkoa wa Savannah"
     },
-    "comments": null,
     "type": "region"
   },
   "TV": {
     "name": "Volta",
     "code": "TV",
-    "unofficial_names": "Volta",
+    "unofficial_names": [
+      "Volta"
+    ],
     "geo": {
       "latitude": 6.5781373,
       "longitude": 0.4502368,
@@ -544,13 +536,14 @@
       "no": "Volta",
       "sw": "Mkoa wa Volta"
     },
-    "comments": null,
     "type": "region"
   },
   "UE": {
     "name": "Upper East",
     "code": "UE",
-    "unofficial_names": "Upper East",
+    "unofficial_names": [
+      "Upper East"
+    ],
     "geo": {
       "latitude": 10.7082499,
       "longitude": -0.9820667999999999,
@@ -608,13 +601,14 @@
       "gl": "rexión Superior Oriental",
       "sw": "Mkoa wa Mashariki ya Juu"
     },
-    "comments": null,
     "type": "region"
   },
   "UW": {
     "name": "Upper West",
     "code": "UW",
-    "unofficial_names": "Upper West",
+    "unofficial_names": [
+      "Upper West"
+    ],
     "geo": {
       "latitude": 10.2529757,
       "longitude": -2.1450245,
@@ -671,13 +665,11 @@
       "no": "Upper West",
       "sw": "Mkoa wa Magharibi ya Juu"
     },
-    "comments": null,
     "type": "region"
   },
   "WN": {
     "name": "Western North",
     "code": "WN",
-    "unofficial_names": null,
     "geo": {
       "latitude": 7.946527,
       "longitude": -1.023194,
@@ -697,13 +689,14 @@
       "ru": "Северо-Западная область (Гана)",
       "sw": "Mkoa wa Kaskazini Magharibi"
     },
-    "comments": null,
     "type": "region"
   },
   "WP": {
     "name": "Western",
     "code": "WP",
-    "unofficial_names": "Western",
+    "unofficial_names": [
+      "Western"
+    ],
     "geo": {
       "latitude": 5.3901978,
       "longitude": -2.1450245,
@@ -761,7 +754,6 @@
       "he": "מחוז המערב",
       "sw": "Mkoa wa Magharibi, Ghana"
     },
-    "comments": null,
     "type": "region"
   }
 }

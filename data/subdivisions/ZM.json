@@ -2,7 +2,9 @@
   "01": {
     "name": "Western",
     "code": "01",
-    "unofficial_names": "Western",
+    "unofficial_names": [
+      "Western"
+    ],
     "geo": {
       "latitude": -15.9454906,
       "longitude": 23.3823545,
@@ -64,13 +66,14 @@
       "he": "מחוז המערב",
       "zu": "Western Province, Zambiya"
     },
-    "comments": null,
     "type": "province"
   },
   "02": {
     "name": "Central",
     "code": "02",
-    "unofficial_names": "Central",
+    "unofficial_names": [
+      "Central"
+    ],
     "geo": {
       "latitude": -14.3112263,
       "longitude": 28.299435,
@@ -130,13 +133,14 @@
       "no": "Central",
       "fa": "استان مرکزی، زامبیا"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
     "name": "Eastern",
     "code": "03",
-    "unofficial_names": "Eastern",
+    "unofficial_names": [
+      "Eastern"
+    ],
     "geo": {
       "latitude": -13.8056187,
       "longitude": 31.99280779999999,
@@ -195,13 +199,14 @@
       "fa": "استان شرقی (زامبیا)",
       "he": "האזור המזרחי"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "Luapula",
     "code": "04",
-    "unofficial_names": "Luapula",
+    "unofficial_names": [
+      "Luapula"
+    ],
     "geo": {
       "latitude": -11.564831,
       "longitude": 29.0459927,
@@ -261,13 +266,14 @@
       "fa": "استان لوآپولا",
       "hu": "Luapula"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "Northern",
     "code": "05",
-    "unofficial_names": "Northern",
+    "unofficial_names": [
+      "Northern"
+    ],
     "geo": {
       "latitude": -9.7670177,
       "longitude": 30.8958242,
@@ -324,13 +330,14 @@
       "fa": "استان شمالی (زامبیا)",
       "he": "אזור הצפון"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "North-Western",
     "code": "06",
-    "unofficial_names": "North-Western",
+    "unofficial_names": [
+      "North-Western"
+    ],
     "geo": {
       "latitude": -13.0050258,
       "longitude": 24.9042208,
@@ -390,13 +397,14 @@
       "ca": "Província del Nord-oest",
       "fa": "استان شمال غربی (زامبیا)"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "Southern",
     "code": "07",
-    "unofficial_names": "Southern",
+    "unofficial_names": [
+      "Southern"
+    ],
     "geo": {
       "latitude": -16.9620634,
       "longitude": 26.419389,
@@ -456,13 +464,14 @@
       "fa": "استان جنوبی (زامبیا)",
       "ga": "Cúige an Deiscirt"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "Copperbelt",
     "code": "08",
-    "unofficial_names": "Copperbelt",
+    "unofficial_names": [
+      "Copperbelt"
+    ],
     "geo": {
       "latitude": -13.0570073,
       "longitude": 27.5495846,
@@ -522,13 +531,14 @@
       "no": "Copperbelt",
       "he": "מחוז קופרבלט"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "Lusaka",
     "code": "09",
-    "unofficial_names": "Lusaka",
+    "unofficial_names": [
+      "Lusaka"
+    ],
     "geo": {
       "latitude": -15.416667,
       "longitude": 28.283333,
@@ -586,21 +596,11 @@
       "cy": "Talaith Lusaka",
       "fa": "استان لوساکا"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
     "name": "Muchinga",
     "code": "10",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة موتشينغا",
       "bn": "মোসিঙ্গা প্রদেশ",
@@ -644,7 +644,6 @@
       "cy": "Talaith Muchinga",
       "fa": "استان موچینگا"
     },
-    "comments": null,
     "type": "province"
   }
 }

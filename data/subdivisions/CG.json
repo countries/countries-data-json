@@ -58,13 +58,14 @@
       "ca": "Bouenza",
       "fa": "بخش بوئنزا"
     },
-    "comments": null,
     "type": "department"
   },
   "12": {
     "name": "Pool",
     "code": "12",
-    "unofficial_names": "Pool",
+    "unofficial_names": [
+      "Pool"
+    ],
     "geo": {
       "latitude": -2.420088,
       "longitude": 16.1816196,
@@ -118,13 +119,14 @@
       "no": "Pool",
       "fa": "بخش پول"
     },
-    "comments": null,
     "type": "department"
   },
   "13": {
     "name": "Sangha",
     "code": "13",
-    "unofficial_names": "Sangha",
+    "unofficial_names": [
+      "Sangha"
+    ],
     "geo": {
       "latitude": 1.4662328,
       "longitude": 15.4068079,
@@ -178,13 +180,14 @@
       "ca": "Sangha",
       "fa": "ناحیه سنگا (جمهوری کنگو)"
     },
-    "comments": null,
     "type": "department"
   },
   "14": {
     "name": "Plateaux",
     "code": "14",
-    "unofficial_names": "Plateaux",
+    "unofficial_names": [
+      "Plateaux"
+    ],
     "geo": {
       "latitude": -2.0680088,
       "longitude": 15.4068079,
@@ -239,7 +242,6 @@
       "no": "Plateaux",
       "fa": "ناحیه پلاتیوکس (جمهوری کنگو)"
     },
-    "comments": null,
     "type": "department"
   },
   "15": {
@@ -301,21 +303,11 @@
       "no": "Cuvette-Ouest",
       "fa": "بخش کووت اوست"
     },
-    "comments": null,
     "type": "department"
   },
   "16": {
     "name": "Pointe-Noire",
     "code": "16",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Pointe-Noire",
       "ceb": "Pointe-Noire (distrito)",
@@ -323,13 +315,14 @@
       "sv": "Pointe-Noire",
       "ccp": "𑄛𑄧𑄠𑄬𑄚𑄳𑄑𑄴-𑄚𑄧𑄠𑄨𑄢𑄴"
     },
-    "comments": null,
     "type": "department"
   },
   "2": {
     "name": "Lékoumou",
     "code": "2",
-    "unofficial_names": "Lékoumou",
+    "unofficial_names": [
+      "Lékoumou"
+    ],
     "geo": {
       "latitude": -3.170382,
       "longitude": 13.3587288,
@@ -385,13 +378,14 @@
       "fa": "بخش لکومو",
       "zu": "Lékoumou Department"
     },
-    "comments": null,
     "type": "department"
   },
   "5": {
     "name": "Kouilou",
     "code": "5",
-    "unofficial_names": "Kouilou",
+    "unofficial_names": [
+      "Kouilou"
+    ],
     "geo": {
       "latitude": -4.1428413,
       "longitude": 11.8891721,
@@ -444,13 +438,14 @@
       "no": "Kouilou",
       "fa": "بخش کویلو"
     },
-    "comments": null,
     "type": "department"
   },
   "7": {
     "name": "Likouala",
     "code": "7",
-    "unofficial_names": "Likouala",
+    "unofficial_names": [
+      "Likouala"
+    ],
     "geo": {
       "latitude": 2.043924000000001,
       "longitude": 17.668887,
@@ -504,13 +499,14 @@
       "no": "Likouala",
       "ca": "Likouala"
     },
-    "comments": null,
     "type": "department"
   },
   "8": {
     "name": "Cuvette",
     "code": "8",
-    "unofficial_names": "Cuvette",
+    "unofficial_names": [
+      "Cuvette"
+    ],
     "geo": {
       "latitude": -0.2877446,
       "longitude": 16.1580937,
@@ -567,13 +563,14 @@
       "ca": "Cuvette",
       "fa": "بخش کووت"
     },
-    "comments": null,
     "type": "department"
   },
   "9": {
     "name": "Niari",
     "code": "9",
-    "unofficial_names": "Niari",
+    "unofficial_names": [
+      "Niari"
+    ],
     "geo": {
       "latitude": -3.18427,
       "longitude": 12.2547919,
@@ -629,13 +626,14 @@
       "fa": "بخش نیاری",
       "sw": "Mkoa wa Niari"
     },
-    "comments": null,
     "type": "department"
   },
   "BZV": {
     "name": "Brazzaville",
     "code": "BZV",
-    "unofficial_names": "Brazzaville",
+    "unofficial_names": [
+      "Brazzaville"
+    ],
     "geo": {
       "latitude": -4.267778,
       "longitude": 15.291944,
@@ -728,7 +726,6 @@
       "yo_BJ": "Brazzaville",
       "ps": "برازاویل"
     },
-    "comments": null,
     "type": "department"
   }
 }

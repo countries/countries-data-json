@@ -2,15 +2,6 @@
   "01": {
     "name": "Anse la Raye",
     "code": "01",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "حي أنس لا راي",
       "bn": "আন্স লা রায়ে কোয়ার্টার",
@@ -54,21 +45,11 @@
       "mk": "Анс ла Реј",
       "no": "Anse la Raye Quarter"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Castries",
     "code": "02",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Castries",
       "en": "Castries",
@@ -93,21 +74,11 @@
       "id": "Kuarter Castries",
       "uk": "Кастрі"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Choiseul",
     "code": "03",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Choiseul",
       "en": "Choiseul",
@@ -130,21 +101,11 @@
       "ccp": "𑄇𑄰𑄱𑄥𑄨𑄅𑄪𑄣𑄴",
       "id": "Kuarter Choiseul"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Dennery",
     "code": "05",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "حي دينيري",
       "bn": "ডেনিরি কোয়ার্টার",
@@ -187,21 +148,11 @@
       "uk": "Денері",
       "no": "Dennery"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Gros Islet",
     "code": "06",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "حي غروس إسليت",
       "bn": "গ্রোস ইজলেট কোয়ার্টার",
@@ -245,21 +196,11 @@
       "no": "Gros-islet",
       "ca": "Gros Islet"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
     "name": "Laborie",
     "code": "07",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "حي لابوري",
       "bn": "লেবুরি কোয়ার্টার",
@@ -302,21 +243,11 @@
       "uk": "Лаборі",
       "no": "Laborie"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
     "name": "Micoud",
     "code": "08",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "حي ميكود",
       "bn": "মাইকড কোয়ার্টার",
@@ -358,21 +289,11 @@
       "uk": "Міку",
       "no": "Micoud Quarter"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
     "name": "Soufrière",
     "code": "10",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Soufrière",
       "en": "Soufrière",
@@ -397,21 +318,11 @@
       "mk": "Суфриер",
       "id": "Kuarter Soufrière"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
     "name": "Vieux Fort",
     "code": "11",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "فيو فورت",
       "bn": "ভিয়ক্স ফোর্ট কোয়ার্টার",
@@ -454,21 +365,11 @@
       "no": "Vieux Fort Quarter",
       "ga": "Vieux Fort"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Canaries",
     "code": "12",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جزر الكناري",
       "bn": "কানারাইসে",
@@ -510,7 +411,6 @@
       "uk": "Канаріс",
       "no": "Kanariene"
     },
-    "comments": null,
     "type": "district"
   }
 }

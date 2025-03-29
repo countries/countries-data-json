@@ -86,7 +86,6 @@
   },
   "A": {
     "name": "Anatolikí Makedonía kai Thráki",
-    "unofficial_names": null,
     "translations": {
       "ar": "مقدونيا الشرقية وتراقيا",
       "az": "Şərqi Makedoniya və Trakya",
@@ -148,20 +147,11 @@
       "mk": "Источна Македонија и Тракија",
       "no": "Øst-Makedonia og Thrakia"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "A",
     "type": "administrative_region"
   },
   "B": {
     "name": "Kentrikí Makedonía",
-    "unofficial_names": null,
     "translations": {
       "ar": "مقدونيا الوسطى",
       "az": "Orta Makedoniya",
@@ -224,20 +214,11 @@
       "no": "Sentral-Makedonia",
       "cy": "Macedonia Canolog"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "B",
     "type": "administrative_region"
   },
   "C": {
     "name": "Dytikí Makedonía",
-    "unofficial_names": null,
     "translations": {
       "ar": "مقدونيا الغربية",
       "az": "Qərbi Makedoniya",
@@ -300,20 +281,11 @@
       "hy": "Արևմտյան Մակեդոնիա",
       "ky": "Батыш Македония"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "C",
     "type": "administrative_region"
   },
   "D": {
     "name": "Ípeiros",
-    "unofficial_names": null,
     "translations": {
       "ar": "إبيروس",
       "be": "Эпір",
@@ -377,20 +349,11 @@
       "az": "Epir (periferiya)",
       "ceb": "Epirus"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "D",
     "type": "administrative_region"
   },
   "E": {
     "name": "Thessalía",
-    "unofficial_names": null,
     "translations": {
       "ar": "ثيساليا",
       "be": "Фесалія",
@@ -457,20 +420,11 @@
       "ceb": "Thessaly",
       "kk": "Фессалия"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "E",
     "type": "administrative_region"
   },
   "F": {
     "name": "Ionía Nísia",
-    "unofficial_names": null,
     "translations": {
       "ar": "الجزر الأيونية",
       "be": "Перыферыя Іанічныя астравы",
@@ -510,20 +464,11 @@
       "eu": "Joniako Uharteak (periferia)",
       "mk": "Јонски Острови"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "F",
     "type": "administrative_region"
   },
   "G": {
     "name": "Dytikí Elláda",
-    "unofficial_names": null,
     "translations": {
       "ar": "غرب اليونان",
       "be": "Заходняя Грэцыя",
@@ -584,20 +529,11 @@
       "az": "Qərbi Yunanıstan periferiyası",
       "eu": "Mendebaldeko Grezia"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "G",
     "type": "administrative_region"
   },
   "H": {
     "name": "Stereá Elláda",
-    "unofficial_names": null,
     "translations": {
       "ar": "وسط اليونان",
       "be": "Цэнтральная Грэцыя",
@@ -649,20 +585,11 @@
       "da": "Centralgrækenland",
       "ka": "ცენტრალური საბერძნეთი"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "H",
     "type": "administrative_region"
   },
   "I": {
     "name": "Attikí",
-    "unofficial_names": null,
     "translations": {
       "ar": "أتيكا",
       "be": "Атыка",
@@ -721,20 +648,11 @@
       "az": "Attika",
       "he": "מחוז אטיקה"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "I",
     "type": "administrative_region"
   },
   "J": {
     "name": "Pelopónnisos",
-    "unofficial_names": null,
     "translations": {
       "ar": "بيلوبونيز",
       "be": "Акруга Пелапанес",
@@ -795,20 +713,11 @@
       "cy": "Peloponnesos",
       "eu": "Peloponeso (periferia)"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "J",
     "type": "administrative_region"
   },
   "K": {
     "name": "Vóreio Aigaío",
-    "unofficial_names": null,
     "translations": {
       "ar": "شمال إيجة",
       "be": "Паўночныя Эгейскія астравы",
@@ -870,20 +779,11 @@
       "eu": "Ipar Egeo",
       "sq": "Egjeu Verior"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "K",
     "type": "administrative_region"
   },
   "L": {
     "name": "Nótio Aigaío",
-    "unofficial_names": null,
     "translations": {
       "ar": "جنوب إيجة",
       "be": "Паўднёвыя Эгейскія астравы",
@@ -945,20 +845,11 @@
       "eu": "Hego Egeo",
       "sq": "Egjeu Jugor"
     },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "code": "L",
     "type": "administrative_region"
   },
   "M": {
     "name": "Kríti",
-    "unofficial_names": null,
     "translations": {
       "be": "Акруга Крыт",
       "ca": "Regió de Creta",
@@ -985,14 +876,6 @@
       "hy": "Կրետեի շրջան",
       "sv": "Kreta",
       "uk": "Крит"
-    },
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
     },
     "code": "M",
     "type": "administrative_region"

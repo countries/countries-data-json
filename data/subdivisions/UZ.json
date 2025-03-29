@@ -75,7 +75,6 @@
       "sr": "Андижанска област",
       "sr_Latn": "Andižanska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "BU": {
@@ -157,7 +156,6 @@
       "sr": "Бухарска област",
       "sr_Latn": "Buharska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "FA": {
@@ -235,7 +233,6 @@
       "sr": "Ферганска област",
       "sr_Latn": "Ferganska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "JI": {
@@ -313,7 +310,6 @@
       "sr": "Џизакска област",
       "sr_Latn": "Džizakska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "NG": {
@@ -389,7 +385,6 @@
       "sr": "Наманганска област",
       "sr_Latn": "Namanganska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "NW": {
@@ -467,7 +462,6 @@
       "sr": "Навојска област",
       "sr_Latn": "Navojska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "QA": {
@@ -548,7 +542,6 @@
       "sr": "Кашкадаринска област",
       "sr_Latn": "Kaškadarinska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "QR": {
@@ -634,7 +627,6 @@
       "cy": "Karakalpakstan",
       "gl": "Karakalpaquistán"
     },
-    "comments": null,
     "type": "republic"
   },
   "SA": {
@@ -714,7 +706,6 @@
       "sr": "Самаркандска област",
       "sr_Latn": "Samarkandska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "SI": {
@@ -791,7 +782,6 @@
       "sr": "Сирдаринска област",
       "sr_Latn": "Sirdarinska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "SU": {
@@ -865,13 +855,14 @@
       "sr": "Сурхандаринска област",
       "sr_Latn": "Surhandarinska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "TK": {
     "name": "Toshkent City",
     "code": "TK",
-    "unofficial_names": "Toshkent City",
+    "unofficial_names": [
+      "Toshkent City"
+    ],
     "geo": {
       "latitude": 41.266667,
       "longitude": 69.216667,
@@ -963,7 +954,6 @@
       "my": "တာ့ရှ်ကန့်မြို့",
       "sd": "تاشڪند"
     },
-    "comments": null,
     "type": "capital_city"
   },
   "TO": {
@@ -1045,7 +1035,6 @@
       "sr": "Ташкентска област",
       "sr_Latn": "Taškentska oblast"
     },
-    "comments": null,
     "type": "region"
   },
   "XO": {
@@ -1120,7 +1109,6 @@
       "sr": "Хорезмска област",
       "sr_Latn": "Horezmska oblast"
     },
-    "comments": null,
     "type": "region"
   }
 }

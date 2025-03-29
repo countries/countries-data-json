@@ -54,7 +54,6 @@
       "hy": "Թունիս",
       "zu": "Tunis Governorate"
     },
-    "comments": null,
     "type": "governorate"
   },
   "12": {
@@ -113,7 +112,6 @@
       "he": "אריאנה",
       "th": "เขตผู้ว่าการอัรยานะฮ์"
     },
-    "comments": null,
     "type": "governorate"
   },
   "13": {
@@ -181,7 +179,6 @@
       "no": "Ben Arous",
       "he": "בן ערוס"
     },
-    "comments": null,
     "type": "governorate"
   },
   "14": {
@@ -245,7 +242,6 @@
       "az": "Manuba vilayəti",
       "no": "Manouba"
     },
-    "comments": null,
     "type": "governorate"
   },
   "21": {
@@ -310,7 +306,6 @@
       "az": "Nabul vilayəti",
       "no": "Nabeul"
     },
-    "comments": null,
     "type": "governorate"
   },
   "22": {
@@ -375,7 +370,6 @@
       "ccp": "𑄎𑄊𑄯𑄠𑄚𑄴",
       "no": "Zaghouan (guvernement)"
     },
-    "comments": null,
     "type": "governorate"
   },
   "23": {
@@ -445,7 +439,6 @@
       "no": "Bizerte",
       "he": "בנזרט (מחוז)"
     },
-    "comments": null,
     "type": "governorate"
   },
   "31": {
@@ -502,7 +495,6 @@
       "he": "בז׳ה (מחוז, תוניסיה)",
       "th": "เขตผู้ว่าการบาญะฮ์"
     },
-    "comments": null,
     "type": "governorate"
   },
   "32": {
@@ -568,7 +560,6 @@
       "no": "Jendouba",
       "he": "מחוז ג׳נדובה"
     },
-    "comments": null,
     "type": "governorate"
   },
   "33": {
@@ -634,7 +625,6 @@
       "no": "Kef",
       "he": "מחוז כף"
     },
-    "comments": null,
     "type": "governorate"
   },
   "34": {
@@ -698,7 +688,6 @@
       "ccp": "𑄥𑄨𑄣𑄨𑄠𑄚",
       "no": "Siliana"
     },
-    "comments": null,
     "type": "governorate"
   },
   "41": {
@@ -751,7 +740,6 @@
       "th": "เขตผู้ว่าการอัลก็อยเราะวาน",
       "uz": "Qayravon viloyati"
     },
-    "comments": null,
     "type": "governorate"
   },
   "42": {
@@ -817,7 +805,6 @@
       "no": "Kasserine",
       "he": "קסרין"
     },
-    "comments": null,
     "type": "governorate"
   },
   "43": {
@@ -883,7 +870,6 @@
       "no": "Sidi Bouzid",
       "he": "מחוז סידי בוזיד"
     },
-    "comments": null,
     "type": "governorate"
   },
   "51": {
@@ -948,7 +934,6 @@
       "ccp": "𑄥𑄯𑄌𑄴",
       "no": "Sousse"
     },
-    "comments": null,
     "type": "governorate"
   },
   "52": {
@@ -1016,7 +1001,6 @@
       "hr": "Monastir",
       "sq": "Monastir"
     },
-    "comments": null,
     "type": "governorate"
   },
   "53": {
@@ -1083,7 +1067,6 @@
       "no": "Mahdia",
       "he": "מהדיה"
     },
-    "comments": null,
     "type": "governorate"
   },
   "61": {
@@ -1150,13 +1133,14 @@
       "az": "Sfaqs vilayəti",
       "no": "Sfax"
     },
-    "comments": null,
     "type": "governorate"
   },
   "71": {
     "name": "Gafsa",
     "code": "71",
-    "unofficial_names": "Gafsa",
+    "unofficial_names": [
+      "Gafsa"
+    ],
     "geo": {
       "latitude": 34.416667,
       "longitude": 8.783332999999999,
@@ -1214,7 +1198,6 @@
       "no": "Gafsa",
       "he": "גפסה"
     },
-    "comments": null,
     "type": "governorate"
   },
   "72": {
@@ -1278,7 +1261,6 @@
       "no": "Tozeur",
       "he": "טוזור"
     },
-    "comments": null,
     "type": "governorate"
   },
   "73": {
@@ -1346,7 +1328,6 @@
       "no": "Kebili",
       "he": "קבילי"
     },
-    "comments": null,
     "type": "governorate"
   },
   "81": {
@@ -1413,7 +1394,6 @@
       "no": "Gabès",
       "he": "גאבס"
     },
-    "comments": null,
     "type": "governorate"
   },
   "82": {
@@ -1479,7 +1459,6 @@
       "no": "Medenine",
       "he": "מחוז מדנין"
     },
-    "comments": null,
     "type": "governorate"
   },
   "83": {
@@ -1543,7 +1522,6 @@
       "ccp": "𑄑𑄑𑄯𑄃𑄨𑄚𑄴",
       "no": "Tataouine"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

@@ -2,8 +2,6 @@
   "DC": {
     "name": "Wasaţ Dārfūr Zālinjay",
     "code": "DC",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "ar": "وسط دار فور",
       "en": "Central Darfur",
@@ -48,21 +46,11 @@
       "no": "Darfur senter",
       "zu": "Central Darfur"
     },
-    "comments": null,
     "type": "state"
   },
   "DE": {
     "name": "Sharq Dārfūr",
     "code": "DE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ولاية شرق دارفور",
       "en": "East Darfur",
@@ -107,13 +95,11 @@
       "ccp": "𑄛𑄪𑄇𑄴 𑄓𑄢𑄴𑄜𑄪𑄢𑄴",
       "no": "Vest Darfur"
     },
-    "comments": null,
     "type": "state"
   },
   "DN": {
     "name": "Shamāl Dārfūr",
     "code": "DN",
-    "unofficial_names": null,
     "geo": {
       "latitude": 15.7661969,
       "longitude": 24.9042208,
@@ -171,13 +157,11 @@
       "ccp": "𑄅𑄪𑄦𑄳𑄦𑄧𑄢𑄴 𑄓𑄢𑄴𑄜𑄪𑄢𑄴",
       "no": "Nord-Darfur"
     },
-    "comments": null,
     "type": "state"
   },
   "DS": {
     "name": "Janūb Dārfūr",
     "code": "DS",
-    "unofficial_names": null,
     "geo": {
       "latitude": 11.6488639,
       "longitude": 24.9042208,
@@ -235,13 +219,11 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄓𑄢𑄴𑄜𑄪𑄢𑄴",
       "no": "Sør Darfur"
     },
-    "comments": null,
     "type": "state"
   },
   "DW": {
     "name": "Gharb Dārfūr",
     "code": "DW",
-    "unofficial_names": null,
     "geo": {
       "latitude": 12.8463561,
       "longitude": 23.0011989,
@@ -299,13 +281,11 @@
       "no": "Vest Dafur",
       "he": "מערב סודאן"
     },
-    "comments": null,
     "type": "state"
   },
   "GD": {
     "name": "Al Qaḑārif",
     "code": "GD",
-    "unofficial_names": null,
     "geo": {
       "latitude": 14.024307,
       "longitude": 35.3685679,
@@ -362,14 +342,11 @@
       "kk": "Гедареф қаласы",
       "no": "Al-Qadarif"
     },
-    "comments": null,
     "type": "state"
   },
   "GK": {
     "name": "Gharb Kurdufān",
     "code": "GK",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "ar": "ولاية غرب كردفان",
       "en": "West Kurdufan",
@@ -395,13 +372,11 @@
       "bn": "পশ্চিম কুরদুফান",
       "ceb": "West Kordofan State"
     },
-    "comments": null,
     "type": "state"
   },
   "GZ": {
     "name": "Al Jazīrah",
     "code": "GZ",
-    "unofficial_names": null,
     "geo": {
       "latitude": 14.8859611,
       "longitude": 33.438353,
@@ -457,13 +432,11 @@
       "ccp": "𑄃𑄣𑄴 𑄎𑄢𑄨𑄢𑄦𑄴",
       "no": "Al Jazirah"
     },
-    "comments": null,
     "type": "state"
   },
   "KA": {
     "name": "Kassalā",
     "code": "KA",
-    "unofficial_names": null,
     "geo": {
       "latitude": 15.4581332,
       "longitude": 36.4039629,
@@ -518,13 +491,11 @@
       "ccp": "𑄇𑄥𑄣",
       "no": "Kassala"
     },
-    "comments": null,
     "type": "state"
   },
   "KH": {
     "name": "Al Kharţūm",
     "code": "KH",
-    "unofficial_names": null,
     "geo": {
       "latitude": 15.5006544,
       "longitude": 32.5598994,
@@ -584,14 +555,11 @@
       "et": "Hartumi provints",
       "hy": "Խարթում"
     },
-    "comments": null,
     "type": "state"
   },
   "KN": {
     "name": "Shiamāl Kurdufān",
     "code": "KN",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "ar": "ولاية شمال كردفان",
       "en": "North Kurdufan",
@@ -638,13 +606,11 @@
       "ccp": "𑄅𑄪𑄖𑄳𑄦𑄧𑄢𑄴 𑄇𑄪𑄢𑄴𑄓𑄪𑄜𑄚𑄴",
       "no": "Nord Kurdufan"
     },
-    "comments": null,
     "type": "state"
   },
   "KS": {
     "name": "Janūb Kurdufān",
     "code": "KS",
-    "unofficial_names": null,
     "geo": {
       "latitude": 11.1990192,
       "longitude": 29.4179324,
@@ -704,13 +670,11 @@
       "ccp": "𑄘𑄧𑄊𑄨𑄚𑄴 𑄇𑄪𑄢𑄴𑄓𑄪𑄜𑄚𑄴",
       "no": "Sør Kordofan"
     },
-    "comments": null,
     "type": "state"
   },
   "NB": {
     "name": "An Nīl al Azraq",
     "code": "NB",
-    "unofficial_names": null,
     "geo": {
       "latitude": 11.5860078,
       "longitude": 34.1531947,
@@ -768,13 +732,11 @@
       "no": "An-Nil al-Azraq",
       "cs": "Modrý Nil"
     },
-    "comments": null,
     "type": "state"
   },
   "NO": {
     "name": "Ash Shamālīyah",
     "code": "NO",
-    "unofficial_names": null,
     "geo": {
       "latitude": 18.4448963,
       "longitude": 30.1589303,
@@ -831,13 +793,11 @@
       "no": "Nord",
       "he": "א-שימאליה"
     },
-    "comments": null,
     "type": "state"
   },
   "NR": {
     "name": "Nahr an Nīl",
     "code": "NR",
-    "unofficial_names": null,
     "geo": {
       "latitude": 17.1142529,
       "longitude": 33.7964613,
@@ -894,13 +854,11 @@
       "be": "Ніл",
       "fa": "رود نیل (ایالت)"
     },
-    "comments": null,
     "type": "state"
   },
   "NW": {
     "name": "An Nīl al Abyaḑ",
     "code": "NW",
-    "unofficial_names": null,
     "geo": {
       "latitude": 13.2403881,
       "longitude": 32.5372741,
@@ -954,13 +912,11 @@
       "ccp": "𑄘𑄪𑄛𑄴 𑄚𑄭𑄣𑄴",
       "no": "Hvite nil"
     },
-    "comments": null,
     "type": "state"
   },
   "RS": {
     "name": "Al Baḩr al Aḩmar",
     "code": "RS",
-    "unofficial_names": null,
     "geo": {
       "latitude": 19.4556063,
       "longitude": 35.2148469,
@@ -1017,13 +973,11 @@
       "ccp": "𑄢𑄬𑄖𑄴 𑄥𑄨",
       "no": "Rød sjøen"
     },
-    "comments": null,
     "type": "state"
   },
   "SI": {
     "name": "Sinnār",
     "code": "SI",
-    "unofficial_names": null,
     "geo": {
       "latitude": 13.0317108,
       "longitude": 33.9750018,
@@ -1079,7 +1033,6 @@
       "ca": "Sennar",
       "sw": "Sennar (Jimbo)"
     },
-    "comments": null,
     "type": "state"
   }
 }

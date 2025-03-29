@@ -2,7 +2,9 @@
   "AJ": {
     "name": "'Ajmān",
     "code": "AJ",
-    "unofficial_names": "-إمارة عجمانّ - Ujman",
+    "unofficial_names": [
+      "-إمارة عجمانّ - Ujman"
+    ],
     "geo": {
       "latitude": 25.3995,
       "longitude": 55.4796,
@@ -77,7 +79,6 @@
       "yo_BJ": "Ajman",
       "bs": "Ajman (emirat)"
     },
-    "comments": null,
     "type": "emirate"
   },
   "AZ": {
@@ -169,7 +170,6 @@
       "ha": "Abu Dhabi (Masarauta)",
       "ha_NE": "Abu Dhabi (Masarauta)"
     },
-    "comments": null,
     "type": "emirate"
   },
   "DU": {
@@ -253,7 +253,6 @@
       "ha_NE": "Dubai",
       "ms": "Amiriah Dubai"
     },
-    "comments": null,
     "type": "emirate"
   },
   "FU": {
@@ -339,7 +338,6 @@
       "is": "Fúdsaíra",
       "ka": "ალ-ფუჯაირას საამირო"
     },
-    "comments": null,
     "type": "emirate"
   },
   "RK": {
@@ -425,7 +423,6 @@
       "gl": "Ras al-Jaimah",
       "is": "Ras al-Kaíma"
     },
-    "comments": null,
     "type": "emirate"
   },
   "SH": {
@@ -509,7 +506,6 @@
       "yo_BJ": "Sharjah",
       "bs": "Sharjah (emirat)"
     },
-    "comments": null,
     "type": "emirate"
   },
   "UQ": {
@@ -592,7 +588,6 @@
       "yo_BJ": "Um Al Quwain",
       "bs": "Umm al-Quwain (emirat)"
     },
-    "comments": null,
     "type": "emirate"
   }
 }

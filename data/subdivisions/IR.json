@@ -2,7 +2,9 @@
   "00": {
     "name": "Markazi",
     "code": "00",
-    "unofficial_names": "Markazi",
+    "unofficial_names": [
+      "Markazi"
+    ],
     "geo": {
       "latitude": 34.612305,
       "longitude": 49.8547266,
@@ -70,7 +72,6 @@
       "mk": "Маркази",
       "no": "Markazi"
     },
-    "comments": null,
     "type": "province"
   },
   "01": {
@@ -152,7 +153,6 @@
       "mk": "Гилан",
       "no": "Gilan"
     },
-    "comments": null,
     "type": "province"
   },
   "02": {
@@ -229,7 +229,6 @@
       "mk": "Мазендеран",
       "no": "Mazandaran"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
@@ -310,7 +309,6 @@
       "mk": "Источен Азербејџан",
       "no": "Øst-Aserbajdsjan"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
@@ -388,7 +386,6 @@
       "mk": "Западен Азербејџан",
       "no": "Vest-Aserbajdsjan"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
@@ -463,7 +460,6 @@
       "mk": "Керманшах",
       "no": "Kermanshah"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
@@ -541,13 +537,14 @@
       "mk": "Кузестан",
       "no": "Khuzestan"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "Fars",
     "code": "07",
-    "unofficial_names": "Fars",
+    "unofficial_names": [
+      "Fars"
+    ],
     "geo": {
       "latitude": 29.1043813,
       "longitude": 53.045893,
@@ -620,13 +617,14 @@
       "mk": "Фарс",
       "no": "Fars"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "Kerman",
     "code": "08",
-    "unofficial_names": "Kerman",
+    "unofficial_names": [
+      "Kerman"
+    ],
     "geo": {
       "latitude": 30.2839379,
       "longitude": 57.0833628,
@@ -692,13 +690,14 @@
       "mk": "Керман",
       "no": "Kermān"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "Khorasan-e Razavi",
     "code": "09",
-    "unofficial_names": "Khorasan-e Razavi",
+    "unofficial_names": [
+      "Khorasan-e Razavi"
+    ],
     "geo": {
       "latitude": 35.1020253,
       "longitude": 59.1041758,
@@ -766,7 +765,6 @@
       "mk": "Разави Корасан",
       "no": "Razavi-Khorasan"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
@@ -845,7 +843,6 @@
       "mk": "Исфахан",
       "no": "Isfahan (provins)"
     },
-    "comments": null,
     "type": "province"
   },
   "11": {
@@ -856,11 +853,7 @@
     ],
     "geo": {
       "latitude": 27.2001559,
-      "longitude": 60.6392527,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 60.6392527
     },
     "translations": {
       "en": "Sistan and Baluchestan",
@@ -922,7 +915,6 @@
       "mk": "Систан и Балуџистан",
       "no": "Sistan og Balutsjistan"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
@@ -1004,7 +996,6 @@
       "mk": "Курдистан",
       "no": "Kurdistan"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
@@ -1081,7 +1072,6 @@
       "mk": "Хамадан",
       "no": "Hamadan"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
@@ -1157,13 +1147,14 @@
       "mk": "Чахар Махал и Бахтијари",
       "no": "Chahar Mahaal og Bakhtiari"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
     "name": "Lorestan",
     "code": "15",
-    "unofficial_names": "Lorestan",
+    "unofficial_names": [
+      "Lorestan"
+    ],
     "geo": {
       "latitude": 33.5818394,
       "longitude": 48.3988186,
@@ -1231,7 +1222,6 @@
       "mk": "Лорестан",
       "no": "Luristan"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
@@ -1300,7 +1290,6 @@
       "mk": "Илам",
       "no": "Ilam"
     },
-    "comments": null,
     "type": "province"
   },
   "17": {
@@ -1374,13 +1363,14 @@
       "mk": "Кохкилуех и Бујер Ахмад",
       "no": "Kohkiluyeh og Buyer Ahmad"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
     "name": "Bushehr",
     "code": "18",
-    "unofficial_names": "Bushehr",
+    "unofficial_names": [
+      "Bushehr"
+    ],
     "geo": {
       "latitude": 28.97802549999999,
       "longitude": 50.8379918,
@@ -1444,13 +1434,14 @@
       "mk": "Бушер",
       "no": "Bushehr"
     },
-    "comments": null,
     "type": "province"
   },
   "19": {
     "name": "Zanjan",
     "code": "19",
-    "unofficial_names": "Zanjan",
+    "unofficial_names": [
+      "Zanjan"
+    ],
     "geo": {
       "latitude": 36.666667,
       "longitude": 48.48333299999999,
@@ -1513,13 +1504,14 @@
       "mk": "Занџан",
       "no": "Zanjan"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
     "name": "Semnan",
     "code": "20",
-    "unofficial_names": "Semnan",
+    "unofficial_names": [
+      "Semnan"
+    ],
     "geo": {
       "latitude": 35.572778,
       "longitude": 53.397222,
@@ -1580,13 +1572,14 @@
       "mk": "Семнан",
       "no": "Semnan"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
     "name": "Yazd",
     "code": "21",
-    "unofficial_names": "Yazd",
+    "unofficial_names": [
+      "Yazd"
+    ],
     "geo": {
       "latitude": 31.8974232,
       "longitude": 54.3568562,
@@ -1648,13 +1641,14 @@
       "mk": "Јазд",
       "no": "Yazd"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
     "name": "Hormozgan",
     "code": "22",
-    "unofficial_names": "Hormozgan",
+    "unofficial_names": [
+      "Hormozgan"
+    ],
     "geo": {
       "latitude": 27.1907825,
       "longitude": 56.2635988,
@@ -1716,7 +1710,6 @@
       "mk": "Хормозган",
       "no": "Hormozgan"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
@@ -1793,7 +1786,6 @@
       "mk": "Техеран",
       "no": "Teheran"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
@@ -1874,13 +1866,14 @@
       "mk": "Ардабил",
       "no": "Ardabil"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Qom",
     "code": "25",
-    "unofficial_names": "Qom",
+    "unofficial_names": [
+      "Qom"
+    ],
     "geo": {
       "latitude": 34.6399443,
       "longitude": 50.8759419,
@@ -1948,13 +1941,14 @@
       "mk": "Ком",
       "no": "Qom"
     },
-    "comments": null,
     "type": "province"
   },
   "26": {
     "name": "Qazvin",
     "code": "26",
-    "unofficial_names": "Qazvin",
+    "unofficial_names": [
+      "Qazvin"
+    ],
     "geo": {
       "latitude": 36.1840731,
       "longitude": 50.06737769999999,
@@ -2018,13 +2012,14 @@
       "mk": "Газвин",
       "no": "Qazvin (provins)"
     },
-    "comments": null,
     "type": "province"
   },
   "27": {
     "name": "Golestan",
     "code": "27",
-    "unofficial_names": "Golestan",
+    "unofficial_names": [
+      "Golestan"
+    ],
     "geo": {
       "latitude": 34.3137505,
       "longitude": 47.0536816,
@@ -2094,13 +2089,14 @@
       "mk": "Голестан",
       "no": "Golestan"
     },
-    "comments": null,
     "type": "province"
   },
   "28": {
     "name": "Khorasan-e Shemali",
     "code": "28",
-    "unofficial_names": "Khorasan-e Shemali",
+    "unofficial_names": [
+      "Khorasan-e Shemali"
+    ],
     "geo": {
       "latitude": 37.4710353,
       "longitude": 57.10131879999999,
@@ -2167,13 +2163,14 @@
       "mk": "Северен Корасан",
       "no": "Nord-Khorasan"
     },
-    "comments": null,
     "type": "province"
   },
   "29": {
     "name": "Khorasan-e Janubi",
     "code": "29",
-    "unofficial_names": "Khorasan-e Janubi",
+    "unofficial_names": [
+      "Khorasan-e Janubi"
+    ],
     "geo": {
       "latitude": 32.5175643,
       "longitude": 59.1041758,
@@ -2241,21 +2238,11 @@
       "mk": "Јужен Корасан",
       "no": "Sør-Khorasan"
     },
-    "comments": null,
     "type": "province"
   },
   "30": {
     "name": "استان البرز",
     "code": "30",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة ألبرز",
       "az": "Əlburz ostanı",
@@ -2317,7 +2304,6 @@
       "mk": "Алборз",
       "no": "Alborz Kommune"
     },
-    "comments": null,
     "type": "province"
   }
 }

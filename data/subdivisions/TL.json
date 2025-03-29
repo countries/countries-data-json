@@ -2,7 +2,9 @@
   "AL": {
     "name": "Aileu",
     "code": "AL",
-    "unofficial_names": "Aileu",
+    "unofficial_names": [
+      "Aileu"
+    ],
     "geo": {
       "latitude": -8.7043994,
       "longitude": 125.6095474,
@@ -56,13 +58,14 @@
       "no": "Aileu",
       "mk": "Ајлеу (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "AN": {
     "name": "Ainaro",
     "code": "AN",
-    "unofficial_names": "Ainaro",
+    "unofficial_names": [
+      "Ainaro"
+    ],
     "geo": {
       "latitude": -9.0113171,
       "longitude": 125.5220012,
@@ -117,7 +120,6 @@
       "cy": "Bwrdeistref Ainaro",
       "mk": "Ајнару (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "BA": {
@@ -182,13 +184,14 @@
       "fa": "شهرداری باوکو",
       "mk": "Баукау (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "BO": {
     "name": "Bobonaro",
     "code": "BO",
-    "unofficial_names": "Bobonaro",
+    "unofficial_names": [
+      "Bobonaro"
+    ],
     "geo": {
       "latitude": -9.031944,
       "longitude": 125.325,
@@ -243,7 +246,6 @@
       "fa": "شهرداری بوبونارو",
       "mk": "Бобонару (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "CO": {
@@ -306,13 +308,14 @@
       "fa": "شهرداری کووا لیما",
       "mk": "Кова Лима (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "DI": {
     "name": "Dili",
     "code": "DI",
-    "unofficial_names": "Dili",
+    "unofficial_names": [
+      "Dili"
+    ],
     "geo": {
       "latitude": -8.549999999999999,
       "longitude": 125.566667,
@@ -367,13 +370,14 @@
       "fa": "شهرداری دیلی",
       "mk": "Дили (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "ER": {
     "name": "Ermera",
     "code": "ER",
-    "unofficial_names": "Ermera",
+    "unofficial_names": [
+      "Ermera"
+    ],
     "geo": {
       "latitude": -8.752222,
       "longitude": 125.396944,
@@ -427,13 +431,14 @@
       "fa": "شهرداری ارمرا",
       "mk": "Ермера (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "LA": {
     "name": "Lautem",
     "code": "LA",
-    "unofficial_names": "Lautem",
+    "unofficial_names": [
+      "Lautem"
+    ],
     "geo": {
       "latitude": -8.363999999999999,
       "longitude": 126.904,
@@ -488,7 +493,6 @@
       "fa": "شهرداری لاوتم",
       "mk": "Лаутен"
     },
-    "comments": null,
     "type": "municipality"
   },
   "LI": {
@@ -551,13 +555,14 @@
       "fa": "شهرداری لیکیچا",
       "mk": "Ликиса (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MF": {
     "name": "Manufahi",
     "code": "MF",
-    "unofficial_names": "Manufahi",
+    "unofficial_names": [
+      "Manufahi"
+    ],
     "geo": {
       "latitude": -9.0145495,
       "longitude": 125.8279959,
@@ -613,13 +618,14 @@
       "fa": "شهرداری منوفهی",
       "mk": "Мануфахи (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "MT": {
     "name": "Manatuto",
     "code": "MT",
-    "unofficial_names": "Manatuto",
+    "unofficial_names": [
+      "Manatuto"
+    ],
     "geo": {
       "latitude": -8.7406923,
       "longitude": 125.958777,
@@ -673,7 +679,6 @@
       "fa": "شهرداری ماناتوتو",
       "mk": "Манатуту (општина)"
     },
-    "comments": null,
     "type": "municipality"
   },
   "OE": {
@@ -742,7 +747,6 @@
       "ro": "Oecusse",
       "sd": "اوئيڪس پرڳڻو"
     },
-    "comments": null,
     "type": "special_administrative_region"
   },
   "VI": {
@@ -806,7 +810,6 @@
       "fa": "شهرداری ویکیک",
       "mk": "Викеке (општина)"
     },
-    "comments": null,
     "type": "municipality"
   }
 }

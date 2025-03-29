@@ -2,7 +2,9 @@
   "AB": {
     "name": "Abyan",
     "code": "AB",
-    "unofficial_names": "Abyan",
+    "unofficial_names": [
+      "Abyan"
+    ],
     "geo": {
       "latitude": 13.6343413,
       "longitude": 46.0563212,
@@ -62,7 +64,6 @@
       "az": "Abya mühafazası",
       "no": "Abyan"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AD": {
@@ -117,13 +118,14 @@
       "ca": "Governació d’Adan",
       "th": "เขตผู้ว่าการเอเดน"
     },
-    "comments": null,
     "type": "governorate"
   },
   "AM": {
     "name": "'Amran",
     "code": "AM",
-    "unofficial_names": "'Amran",
+    "unofficial_names": [
+      "'Amran"
+    ],
     "geo": {
       "latitude": 16.2569214,
       "longitude": 43.9436788,
@@ -178,7 +180,6 @@
       "ccp": "𑄃𑄟𑄢𑄚𑄴",
       "az": "Amran mühafazası"
     },
-    "comments": null,
     "type": "governorate"
   },
   "BA": {
@@ -244,13 +245,14 @@
       "ca": "Governació d’Al Bayda",
       "no": "Al Bayda’"
     },
-    "comments": null,
     "type": "governorate"
   },
   "DA": {
     "name": "Ad¸ D¸ali'",
     "code": "DA",
-    "unofficial_names": "Ad¸ D¸ali'",
+    "unofficial_names": [
+      "Ad¸ D¸ali'"
+    ],
     "geo": {
       "latitude": 13.696667,
       "longitude": 44.730833,
@@ -309,7 +311,6 @@
       "no": "Ad Dali’",
       "kk": "Әз-Зали"
     },
-    "comments": null,
     "type": "governorate"
   },
   "DH": {
@@ -378,7 +379,6 @@
       "az": "Damar mühafazası",
       "no": "Dhamar"
     },
-    "comments": null,
     "type": "governorate"
   },
   "HD": {
@@ -446,13 +446,14 @@
       "az": "Hadramaut mühafəzəsi",
       "cs": "Guvernorát Hadramaut"
     },
-    "comments": null,
     "type": "governorate"
   },
   "HJ": {
     "name": "Hajjah",
     "code": "HJ",
-    "unofficial_names": "Hajjah",
+    "unofficial_names": [
+      "Hajjah"
+    ],
     "geo": {
       "latitude": 16.1180631,
       "longitude": 43.329466,
@@ -512,7 +513,6 @@
       "ca": "Governació d’Hajjah",
       "no": "Hajjah"
     },
-    "comments": null,
     "type": "governorate"
   },
   "HU": {
@@ -584,13 +584,14 @@
       "sr": "Ел Худаида",
       "no": "Al Huaydah"
     },
-    "comments": null,
     "type": "governorate"
   },
   "IB": {
     "name": "Ibb",
     "code": "IB",
-    "unofficial_names": "Ibb",
+    "unofficial_names": [
+      "Ibb"
+    ],
     "geo": {
       "latitude": 14.1415717,
       "longitude": 44.2479015,
@@ -650,13 +651,14 @@
       "ca": "Governació d’Ibb",
       "no": "Ibb"
     },
-    "comments": null,
     "type": "governorate"
   },
   "JA": {
     "name": "Al Jawf",
     "code": "JA",
-    "unofficial_names": "Al Jawf",
+    "unofficial_names": [
+      "Al Jawf"
+    ],
     "geo": {
       "latitude": 16.7901819,
       "longitude": 45.29938620000001,
@@ -717,7 +719,6 @@
       "be": "Эль-Джауф",
       "no": "Al Jawf"
     },
-    "comments": null,
     "type": "governorate"
   },
   "LA": {
@@ -729,11 +730,7 @@
     ],
     "geo": {
       "latitude": 16.4022222,
-      "longitude": 44.3238889,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 44.3238889
     },
     "translations": {
       "en": "Lahij",
@@ -772,7 +769,6 @@
       "az": "Lahc mühafəzəsi",
       "th": "เขตผู้ว่าการละฮิจญ์"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MA": {
@@ -839,13 +835,14 @@
       "ca": "Governació de Marib",
       "no": "Ma’rib"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MR": {
     "name": "Al Mahrah",
     "code": "MR",
-    "unofficial_names": "Al Mahrah",
+    "unofficial_names": [
+      "Al Mahrah"
+    ],
     "geo": {
       "latitude": 16.5238423,
       "longitude": 51.6834275,
@@ -906,13 +903,14 @@
       "az": "Əl-Məhra mühafəzəsi",
       "ml": "അൽ മഹ്രഹ് സംസ്ഥാനം"
     },
-    "comments": null,
     "type": "governorate"
   },
   "MW": {
     "name": "Al Mahwit",
     "code": "MW",
-    "unofficial_names": "Al Mahwit",
+    "unofficial_names": [
+      "Al Mahwit"
+    ],
     "geo": {
       "latitude": 15.3963229,
       "longitude": 43.5606946,
@@ -971,21 +969,11 @@
       "ca": "Governació d’Al Mahwit",
       "no": "Al Mahwit"
     },
-    "comments": null,
     "type": "governorate"
   },
   "RA": {
     "name": "محافظة ريمة",
     "code": "RA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة ريمة",
       "bg": "Райма",
@@ -1035,21 +1023,11 @@
       "ca": "Governació de Raimah",
       "no": "Raymah"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SA": {
     "name": "صنعاء",
     "code": "SA",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Sanaa",
       "am": "ሳና",
@@ -1131,7 +1109,6 @@
       "no": "Sanaá",
       "yo_BJ": "Sana’a"
     },
-    "comments": null,
     "type": "municipality"
   },
   "SD": {
@@ -1198,7 +1175,6 @@
       "ccp": "𑄥‘𑄓𑄦𑄴",
       "no": "Sa’dah"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SH": {
@@ -1268,7 +1244,6 @@
       "no": "Shabwah",
       "az": "Şəbva mühafəzəsi"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SN": {
@@ -1327,21 +1302,11 @@
       "az": "Səna mühafəzəsi",
       "th": "เขตผู้ว่าการซานา"
     },
-    "comments": null,
     "type": "governorate"
   },
   "SU": {
     "name": "محافظة أرخبيل سقطرى",
     "code": "SU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة أرخبيل سقطرى",
       "de": "Gouvernement Sokotra",
@@ -1360,7 +1325,6 @@
       "th": "เขตผู้ว่าการโซโคตรา",
       "uk": "Сокотра (мухафаза)"
     },
-    "comments": null,
     "type": "governorate"
   },
   "TA": {
@@ -1430,7 +1394,6 @@
       "eu": "Ta’izz Herrizaintza",
       "kk": "Тағиз"
     },
-    "comments": null,
     "type": "governorate"
   }
 }

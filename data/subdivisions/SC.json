@@ -2,7 +2,9 @@
   "01": {
     "name": "Anse aux Pins",
     "code": "01",
-    "unofficial_names": "Anse aux Pins",
+    "unofficial_names": [
+      "Anse aux Pins"
+    ],
     "geo": {
       "latitude": -4.6900443,
       "longitude": 55.5150289,
@@ -55,13 +57,14 @@
       "uk": "Анс-о-Пен",
       "no": "Anse aux Pins"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Anse Boileau",
     "code": "02",
-    "unofficial_names": "Anse Boileau",
+    "unofficial_names": [
+      "Anse Boileau"
+    ],
     "geo": {
       "latitude": -4.7047268,
       "longitude": 55.4859363,
@@ -115,13 +118,14 @@
       "no": "Anse Boileau",
       "fa": "آنسه بوئیلو"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Anse Étoile",
     "code": "03",
-    "unofficial_names": "Anse Étoile",
+    "unofficial_names": [
+      "Anse Étoile"
+    ],
     "geo": {
       "latitude": -4.5962834,
       "longitude": 55.4499303,
@@ -174,13 +178,14 @@
       "uk": "Анс-Етуаль",
       "no": "Anse Etoile"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "Anse Louis",
     "code": "04",
-    "unofficial_names": "Anse Louis",
+    "unofficial_names": [
+      "Anse Louis"
+    ],
     "geo": {
       "latitude": -4.7189825,
       "longitude": 55.4783184,
@@ -232,13 +237,14 @@
       "uk": "О-Кап",
       "no": "Au Cap"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Anse Royale",
     "code": "05",
-    "unofficial_names": "Anse Royale",
+    "unofficial_names": [
+      "Anse Royale"
+    ],
     "geo": {
       "latitude": -4.733333,
       "longitude": 55.51666700000001,
@@ -291,13 +297,14 @@
       "no": "Anse Royale",
       "fa": "آنس رویال"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Baie Lazare",
     "code": "06",
-    "unofficial_names": "Baie Lazare",
+    "unofficial_names": [
+      "Baie Lazare"
+    ],
     "geo": {
       "latitude": -4.7482525,
       "longitude": 55.4859363,
@@ -350,13 +357,14 @@
       "no": "Baie Lazare",
       "fa": "بای لازار"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
     "name": "Baie Sainte Anne",
     "code": "07",
-    "unofficial_names": "Baie Sainte Anne",
+    "unofficial_names": [
+      "Baie Sainte Anne"
+    ],
     "geo": {
       "latitude": -4.3193277,
       "longitude": 55.74116919999999,
@@ -410,13 +418,14 @@
       "bg": "Бе Сент Ан",
       "fa": "بای سنت آن"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
     "name": "Beau Vallon",
     "code": "08",
-    "unofficial_names": "Beau Vallon",
+    "unofficial_names": [
+      "Beau Vallon"
+    ],
     "geo": {
       "latitude": -4.6210967,
       "longitude": 55.4277802,
@@ -468,13 +477,14 @@
       "uk": "Бо-Валон",
       "no": "Beau Vallon"
     },
-    "comments": null,
     "type": "district"
   },
   "09": {
     "name": "Bel Air",
     "code": "09",
-    "unofficial_names": "Bel Air",
+    "unofficial_names": [
+      "Bel Air"
+    ],
     "geo": {
       "latitude": -4.6440325,
       "longitude": 55.4499303,
@@ -527,13 +537,14 @@
       "no": "Bel Air",
       "fa": "بل ایر (سیشل)"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
     "name": "Bel Ombre",
     "code": "10",
-    "unofficial_names": "Bel Ombre",
+    "unofficial_names": [
+      "Bel Ombre"
+    ],
     "geo": {
       "latitude": -4.6204838,
       "longitude": 55.4167072,
@@ -586,13 +597,14 @@
       "no": "Bel Ombre",
       "fa": "بل اومبر (سیشل)"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
     "name": "Cascade",
     "code": "11",
-    "unofficial_names": "Cascade",
+    "unofficial_names": [
+      "Cascade"
+    ],
     "geo": {
       "latitude": -4.670554099999999,
       "longitude": 55.49701810000001,
@@ -644,13 +656,14 @@
       "uk": "Каскад",
       "no": "Cascade"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Glacis",
     "code": "12",
-    "unofficial_names": "Glacis",
+    "unofficial_names": [
+      "Glacis"
+    ],
     "geo": {
       "latitude": -4.5719729,
       "longitude": 55.4416234,
@@ -703,13 +716,14 @@
       "be": "Гласіс",
       "no": "Glacis"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
     "name": "Grand' Anse (Mahé)",
     "code": "13",
-    "unofficial_names": "Grand' Anse (Mahé)",
+    "unofficial_names": [
+      "Grand' Anse (Mahé)"
+    ],
     "geo": {
       "latitude": -4.677392,
       "longitude": 55.463777,
@@ -741,13 +755,14 @@
       "ru": "Гранд-Анс (Маэ)",
       "ur": "گراں آنس ماہے"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
     "name": "Grand' Anse (Praslin)",
     "code": "14",
-    "unofficial_names": "Grand' Anse (Praslin)",
+    "unofficial_names": [
+      "Grand' Anse (Praslin)"
+    ],
     "geo": {
       "latitude": -4.3176219,
       "longitude": 55.7078363,
@@ -798,13 +813,14 @@
       "uk": "Гранд-Анс-Праслін",
       "no": "Grand Anse Praslin"
     },
-    "comments": null,
     "type": "district"
   },
   "15": {
     "name": "La Digue",
     "code": "15",
-    "unofficial_names": "La Digue",
+    "unofficial_names": [
+      "La Digue"
+    ],
     "geo": {
       "latitude": -4.3590972,
       "longitude": 55.8412424,
@@ -861,13 +877,14 @@
       "ur": "لا دیجوی اینڈ انر آئی لینڈ",
       "vi": "Quần đảo La Digue và Inner"
     },
-    "comments": null,
     "type": "district"
   },
   "16": {
     "name": "La Rivière Anglaise",
     "code": "16",
-    "unofficial_names": "La Rivière Anglaise",
+    "unofficial_names": [
+      "La Rivière Anglaise"
+    ],
     "geo": {
       "latitude": -4.6149553,
       "longitude": 55.4540841,
@@ -919,13 +936,14 @@
       "uk": "Ла-Рівьєр-Англез",
       "no": "English River"
     },
-    "comments": null,
     "type": "district"
   },
   "17": {
     "name": "Mont Buxton",
     "code": "17",
-    "unofficial_names": "Mont Buxton",
+    "unofficial_names": [
+      "Mont Buxton"
+    ],
     "geo": {
       "latitude": -4.6166667,
       "longitude": 55.4457768,
@@ -978,13 +996,14 @@
       "no": "Mont Buxton",
       "fa": "مونت بوکستون"
     },
-    "comments": null,
     "type": "district"
   },
   "18": {
     "name": "Mont Fleuri",
     "code": "18",
-    "unofficial_names": "Mont Fleuri",
+    "unofficial_names": [
+      "Mont Fleuri"
+    ],
     "geo": {
       "latitude": -4.6356543,
       "longitude": 55.4554688,
@@ -1037,13 +1056,14 @@
       "no": "Mont Fleuri",
       "fa": "مونت فلوری"
     },
-    "comments": null,
     "type": "district"
   },
   "19": {
     "name": "Plaisance",
     "code": "19",
-    "unofficial_names": "Plaisance",
+    "unofficial_names": [
+      "Plaisance"
+    ],
     "geo": {
       "latitude": -4.6489918,
       "longitude": 55.4610075,
@@ -1095,13 +1115,14 @@
       "uk": "Плезанс",
       "no": "Plaisance"
     },
-    "comments": null,
     "type": "district"
   },
   "20": {
     "name": "Pointe La Rue",
     "code": "20",
-    "unofficial_names": "Pointe La Rue",
+    "unofficial_names": [
+      "Pointe La Rue"
+    ],
     "geo": {
       "latitude": -4.680489,
       "longitude": 55.51918569999999,
@@ -1153,13 +1174,14 @@
       "uk": "Пуант-Ларю",
       "no": "Pointe La Rue"
     },
-    "comments": null,
     "type": "district"
   },
   "21": {
     "name": "Port Glaud",
     "code": "21",
-    "unofficial_names": "Port Glaud",
+    "unofficial_names": [
+      "Port Glaud"
+    ],
     "geo": {
       "latitude": -4.6488523,
       "longitude": 55.41947529999999,
@@ -1212,13 +1234,14 @@
       "no": "Port Glaud",
       "fa": "بندر گلود"
     },
-    "comments": null,
     "type": "district"
   },
   "22": {
     "name": "Saint Louis",
     "code": "22",
-    "unofficial_names": "Saint Louis",
+    "unofficial_names": [
+      "Saint Louis"
+    ],
     "geo": {
       "latitude": -4.625194899999999,
       "longitude": 55.4430078,
@@ -1274,13 +1297,14 @@
       "yue": "聖路易斯 (塞舌爾)",
       "yue_Hans": "圣路易斯 (塞舌尔)"
     },
-    "comments": null,
     "type": "district"
   },
   "23": {
     "name": "Takamaka",
     "code": "23",
-    "unofficial_names": "Takamaka",
+    "unofficial_names": [
+      "Takamaka"
+    ],
     "geo": {
       "latitude": -4.7843688,
       "longitude": 55.5081012,
@@ -1334,21 +1358,11 @@
       "fa": "تاکاماکا (سیشل)",
       "ml": "ടകമക ജില്ല"
     },
-    "comments": null,
     "type": "district"
   },
   "24": {
     "name": "Les Mamelles",
     "code": "24",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "لس ماميلس",
       "bn": "লেস মামেলস",
@@ -1393,21 +1407,11 @@
       "no": "Les Mamelles",
       "he": "לה ממל"
     },
-    "comments": null,
     "type": "district"
   },
   "25": {
     "name": "Roche Caïman",
     "code": "25",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "روتش كايمان",
       "bn": "রোচ কাইম্যান",
@@ -1452,7 +1456,6 @@
       "no": "Roche Caiman",
       "fa": "روشه کایمن"
     },
-    "comments": null,
     "type": "district"
   },
   "26": {

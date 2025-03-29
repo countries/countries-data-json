@@ -2,7 +2,9 @@
   "BC": {
     "name": "Banskobystrický kraj",
     "code": "BC",
-    "unofficial_names": "Banskobystrický kraj",
+    "unofficial_names": [
+      "Banskobystrický kraj"
+    ],
     "geo": {
       "latitude": 48.5312499,
       "longitude": 19.382874,
@@ -71,13 +73,14 @@
       "ps": "بانسکا بیستریتسا",
       "sl": "Banskobistriški okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "BL": {
     "name": "Bratislavský kraj",
     "code": "BL",
-    "unofficial_names": "Bratislavský kraj",
+    "unofficial_names": [
+      "Bratislavský kraj"
+    ],
     "geo": {
       "latitude": 48.3118304,
       "longitude": 17.1973299,
@@ -148,13 +151,14 @@
       "ps": "براتیسلاوا سیمه",
       "sl": "Bratislavski okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "KI": {
     "name": "Košický kraj",
     "code": "KI",
-    "unofficial_names": "Košický kraj",
+    "unofficial_names": [
+      "Košický kraj"
+    ],
     "geo": {
       "latitude": 48.6375737,
       "longitude": 21.0834225,
@@ -223,13 +227,14 @@
       "mk": "Кошички крај",
       "sl": "Regija Košice"
     },
-    "comments": null,
     "type": "region"
   },
   "NI": {
     "name": "Nitriansky kraj",
     "code": "NI",
-    "unofficial_names": "Nitriansky kraj",
+    "unofficial_names": [
+      "Nitriansky kraj"
+    ],
     "geo": {
       "latitude": 48.0143765,
       "longitude": 18.5416505,
@@ -297,13 +302,14 @@
       "ps": "نیترا سیمه",
       "sl": "Nitranski okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "PV": {
     "name": "Prešovský kraj",
     "code": "PV",
-    "unofficial_names": "Prešovský kraj",
+    "unofficial_names": [
+      "Prešovský kraj"
+    ],
     "geo": {
       "latitude": 49.1716773,
       "longitude": 21.3742001,
@@ -372,13 +378,14 @@
       "ps": "پرشوف سیمه",
       "sl": "Prešovski okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "TA": {
     "name": "Trnavský kraj",
     "code": "TA",
-    "unofficial_names": "Trnavský kraj",
+    "unofficial_names": [
+      "Trnavský kraj"
+    ],
     "geo": {
       "latitude": 48.3943898,
       "longitude": 17.7216205,
@@ -448,13 +455,14 @@
       "ps": "ترناوا ښار",
       "sl": "Trnavski okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "TC": {
     "name": "Trenciansky kraj",
     "code": "TC",
-    "unofficial_names": "Trenciansky kraj",
+    "unofficial_names": [
+      "Trenciansky kraj"
+    ],
     "geo": {
       "latitude": 48.8086758,
       "longitude": 18.2324027,
@@ -522,13 +530,14 @@
       "no": "Trenčín",
       "sl": "Trenčinski okraj"
     },
-    "comments": null,
     "type": "region"
   },
   "ZI": {
     "name": "Žilinský kraj",
     "code": "ZI",
-    "unofficial_names": "Žilinský kraj",
+    "unofficial_names": [
+      "Žilinský kraj"
+    ],
     "geo": {
       "latitude": 49.2031435,
       "longitude": 19.3645733,
@@ -598,7 +607,6 @@
       "ps": "جیلینا سیمه",
       "sl": "Žilinski okraj"
     },
-    "comments": null,
     "type": "region"
   }
 }

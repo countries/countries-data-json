@@ -2,14 +2,9 @@
   "CA": {
     "name": "Kapellen",
     "code": "CA",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.633333,
-      "longitude": 6,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6
     },
     "translations": {
       "ca": "Cantó de Capellen",
@@ -43,20 +38,14 @@
       "th": "อำเภอคาแพ็ลเลิน",
       "zh": "卡佩伦县"
     },
-    "comments": null,
     "type": "canton"
   },
   "CL": {
     "name": "Klierf",
     "code": "CL",
-    "unofficial_names": null,
     "geo": {
       "latitude": 50.066667,
-      "longitude": 6.033333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.033333
     },
     "translations": {
       "ca": "Cantó de Clervaux",
@@ -91,13 +80,11 @@
       "fa": "کلروو (کانتون)",
       "th": "อำเภอเคลียร์ฟ"
     },
-    "comments": null,
     "type": "canton"
   },
   "DI": {
     "name": "Diekrech",
     "code": "DI",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.8671784,
       "longitude": 6.159563299999999,
@@ -139,20 +126,14 @@
       "ja": "ディーキルヒ郡",
       "th": "อำเภอดิกเคริช"
     },
-    "comments": null,
     "type": "canton"
   },
   "EC": {
     "name": "Iechternach",
     "code": "EC",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.8,
-      "longitude": 6.4,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.4
     },
     "translations": {
       "ca": "Cantó d’Echternach",
@@ -186,20 +167,14 @@
       "fi": "Mullerthal",
       "th": "อำเภอเอียชเทอร์นัค"
     },
-    "comments": null,
     "type": "canton"
   },
   "ES": {
     "name": "Esch-Uelzecht",
     "code": "ES",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.5,
-      "longitude": 6,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6
     },
     "translations": {
       "ca": "Cantó d’Esch-sur-Alzette",
@@ -233,13 +208,11 @@
       "no": "Esch-sur-Alzette",
       "th": "อำเภอแอฌวลต์เซิชท์"
     },
-    "comments": null,
     "type": "canton"
   },
   "GR": {
     "name": "Gréivemaacher",
     "code": "GR",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.680841,
       "longitude": 6.440759300000001,
@@ -281,21 +254,11 @@
       "no": "Grevenmacher",
       "ja": "グレーヴェンマハ郡"
     },
-    "comments": null,
     "type": "canton"
   },
   "LU": {
     "name": "Lëtzebuerg",
     "code": "LU",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "be": "Люксембург",
       "ca": "Cantó de Luxemburg",
@@ -332,20 +295,14 @@
       "th": "อำเภอลักเซมเบิร์ก",
       "uk": "Люксембург (кантон)"
     },
-    "comments": null,
     "type": "canton"
   },
   "ME": {
     "name": "Miersch",
     "code": "ME",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.6,
-      "longitude": 6.1,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.1
     },
     "translations": {
       "be": "Мерш",
@@ -379,20 +336,14 @@
       "ja": "メルシュ郡",
       "th": "อำเภอเมียร์ช"
     },
-    "comments": null,
     "type": "canton"
   },
   "RD": {
     "name": "Réiden-Atert",
     "code": "RD",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.8,
-      "longitude": 5.8,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 5.8
     },
     "translations": {
       "be": "кантон Рэданж",
@@ -425,20 +376,14 @@
       "ja": "ルダンジュ郡",
       "th": "อำเภอเร็ยเดิน"
     },
-    "comments": null,
     "type": "canton"
   },
   "RM": {
     "name": "Réimech",
     "code": "RM",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.5,
-      "longitude": 6.3,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.3
     },
     "translations": {
       "be": "Кантон Рэміх",
@@ -473,20 +418,14 @@
       "ja": "レーミッヒ郡",
       "th": "อำเภอเร็ยเมิช"
     },
-    "comments": null,
     "type": "canton"
   },
   "VD": {
     "name": "Veianen",
     "code": "VD",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.933333,
-      "longitude": 6.166667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 6.166667
     },
     "translations": {
       "ca": "Cantó de Vianden",
@@ -519,20 +458,14 @@
       "ja": "ヴィアンデン郡",
       "th": "อำเภอไฟอาเนิน"
     },
-    "comments": null,
     "type": "canton"
   },
   "WI": {
     "name": "Wolz",
     "code": "WI",
-    "unofficial_names": null,
     "geo": {
       "latitude": 49.95,
-      "longitude": 5.933333,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 5.933333
     },
     "translations": {
       "ca": "Cantó de Wiltz",
@@ -565,7 +498,6 @@
       "ja": "ヴィルツ郡",
       "th": "อำเภอโวลตส์"
     },
-    "comments": null,
     "type": "canton"
   }
 }

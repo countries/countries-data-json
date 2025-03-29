@@ -64,13 +64,14 @@
       "eu": "Adamawa (Kamerungo probintzia)",
       "sw": "Mkoa wa Adamawa"
     },
-    "comments": null,
     "type": "region"
   },
   "CE": {
     "name": "Centre",
     "code": "CE",
-    "unofficial_names": "Centre",
+    "unofficial_names": [
+      "Centre"
+    ],
     "geo": {
       "latitude": 4.6298411,
       "longitude": 11.7068294,
@@ -131,13 +132,14 @@
       "eu": "Erdialdea (Kamerun)",
       "sw": "Mkoa wa Kati, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "EN": {
     "name": "Far North",
     "code": "EN",
-    "unofficial_names": "Far North",
+    "unofficial_names": [
+      "Far North"
+    ],
     "geo": {
       "latitude": 10.6315589,
       "longitude": 14.6587821,
@@ -196,13 +198,14 @@
       "eu": "Iparralde Urruna (Kamerun)",
       "sw": "Mkoa wa Kaskazini ya Mbali, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "ES": {
     "name": "East",
     "code": "ES",
-    "unofficial_names": "East",
+    "unofficial_names": [
+      "East"
+    ],
     "geo": {
       "latitude": 3.950512799999999,
       "longitude": 13.914399,
@@ -264,13 +267,14 @@
       "eu": "Ekialdea (Kamerun)",
       "sw": "Mkoa wa Mashariki, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "LT": {
     "name": "Littoral",
     "code": "LT",
-    "unofficial_names": "Littoral",
+    "unofficial_names": [
+      "Littoral"
+    ],
     "geo": {
       "latitude": 4.1682138,
       "longitude": 10.0807298,
@@ -330,7 +334,6 @@
       "eu": "Kostaldea (Kamerun)",
       "sw": "Mkoa wa Pwani, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "NO": {
@@ -399,13 +402,14 @@
       "eu": "Iparraldea (Kamerun)",
       "sw": "Mkoa wa Kaskazini, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "NW": {
     "name": "North-West",
     "code": "NW",
-    "unofficial_names": "North-West",
+    "unofficial_names": [
+      "North-West"
+    ],
     "geo": {
       "latitude": 6.470373899999999,
       "longitude": 10.439656,
@@ -464,13 +468,14 @@
       "eu": "Ipar-mendebaldea (Kamerun)",
       "sw": "Mkoa wa Kaskazini-Magharibi, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "OU": {
     "name": "West",
     "code": "OU",
-    "unofficial_names": "West",
+    "unofficial_names": [
+      "West"
+    ],
     "geo": {
       "latitude": 5.4638158,
       "longitude": 10.8000051,
@@ -531,13 +536,14 @@
       "eu": "Mendebaldea (Kamerun)",
       "sw": "Mkoa wa Magharibi, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "SU": {
     "name": "South",
     "code": "SU",
-    "unofficial_names": "South",
+    "unofficial_names": [
+      "South"
+    ],
     "geo": {
       "latitude": 2.7202832,
       "longitude": 11.7068294,
@@ -598,13 +604,14 @@
       "eu": "Hegoaldea (Kamerun)",
       "sw": "Mkoa wa Kusini, Kamerun"
     },
-    "comments": null,
     "type": "region"
   },
   "SW": {
     "name": "South-West",
     "code": "SW",
-    "unofficial_names": "South-West",
+    "unofficial_names": [
+      "South-West"
+    ],
     "geo": {
       "latitude": 5.1573493,
       "longitude": 9.367308399999999,
@@ -664,7 +671,6 @@
       "eu": "Hego-mendebaldea (Kamerun)",
       "sw": "Mkoa wa Kusini-Magharibi, Kamerun"
     },
-    "comments": null,
     "type": "region"
   }
 }

@@ -2,7 +2,9 @@
   "AN": {
     "name": "Annobón",
     "code": "AN",
-    "unofficial_names": "Annobón",
+    "unofficial_names": [
+      "Annobón"
+    ],
     "geo": {
       "latitude": -1.4221087,
       "longitude": 5.6195112,
@@ -63,13 +65,14 @@
       "zh": "安诺本省",
       "zu": "Annobón"
     },
-    "comments": null,
     "type": "province"
   },
   "BN": {
     "name": "Bioko Norte",
     "code": "BN",
-    "unofficial_names": "Bioko Norte",
+    "unofficial_names": [
+      "Bioko Norte"
+    ],
     "geo": {
       "latitude": 3.6595072,
       "longitude": 8.7921836,
@@ -128,13 +131,14 @@
       "fa": "بیوکو نورت",
       "gl": "Bioko Norte"
     },
-    "comments": null,
     "type": "province"
   },
   "BS": {
     "name": "Bioko Sur",
     "code": "BS",
-    "unofficial_names": "Bioko Sur",
+    "unofficial_names": [
+      "Bioko Sur"
+    ],
     "geo": {
       "latitude": 3.4209785,
       "longitude": 8.6160674,
@@ -192,13 +196,14 @@
       "cy": "Talaith Bioko Sur",
       "gl": "Bioko Sur"
     },
-    "comments": null,
     "type": "province"
   },
   "C": {
     "name": "Región Continental",
     "code": "C",
-    "unofficial_names": "Región Continental",
+    "unofficial_names": [
+      "Región Continental"
+    ],
     "geo": {
       "latitude": 51.2798759,
       "longitude": 8.8744572,
@@ -243,13 +248,14 @@
       "th": "ภูมิภาคริโอมูนิ",
       "ur": "ریو مونی"
     },
-    "comments": null,
     "type": "region"
   },
   "CS": {
     "name": "Centro Sur",
     "code": "CS",
-    "unofficial_names": "Centro Sur",
+    "unofficial_names": [
+      "Centro Sur"
+    ],
     "geo": {
       "latitude": 1.3436084,
       "longitude": 10.439656,
@@ -306,7 +312,6 @@
       "no": "Centro Sur",
       "cy": "Talaith Centro Sur"
     },
-    "comments": null,
     "type": "province"
   },
   "DJ": {
@@ -332,14 +337,12 @@
   "I": {
     "name": "Región Insular",
     "code": "I",
-    "unofficial_names": "Región Insular",
+    "unofficial_names": [
+      "Región Insular"
+    ],
     "geo": {
       "latitude": 49.662167,
-      "longitude": -125.746833,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -125.746833
     },
     "translations": {
       "en": "Insular",
@@ -360,13 +363,14 @@
       "th": "ภูมิภาคเกาะ",
       "ur": "جزیراتی علاقہ"
     },
-    "comments": null,
     "type": "region"
   },
   "KN": {
     "name": "Kie-Ntem",
     "code": "KN",
-    "unofficial_names": "Kie-Ntem",
+    "unofficial_names": [
+      "Kie-Ntem"
+    ],
     "geo": {
       "latitude": 2.028093,
       "longitude": 11.0711758,
@@ -423,13 +427,14 @@
       "cy": "Kié-Ntem",
       "fa": "کاینتم"
     },
-    "comments": null,
     "type": "province"
   },
   "LI": {
     "name": "Litoral",
     "code": "LI",
-    "unofficial_names": "Litoral",
+    "unofficial_names": [
+      "Litoral"
+    ],
     "geo": {
       "latitude": 1.5750244,
       "longitude": 9.8124935,
@@ -485,13 +490,14 @@
       "no": "Litoral",
       "cy": "Litoral"
     },
-    "comments": null,
     "type": "province"
   },
   "WN": {
     "name": "Wele-Nzás",
     "code": "WN",
-    "unofficial_names": "Wele-Nzás",
+    "unofficial_names": [
+      "Wele-Nzás"
+    ],
     "geo": {
       "latitude": 1.4166162,
       "longitude": 11.0711758,
@@ -548,7 +554,6 @@
       "fa": "وله نزا",
       "hy": "Վելե-Նզաս"
     },
-    "comments": null,
     "type": "province"
   }
 }

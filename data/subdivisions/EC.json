@@ -2,7 +2,9 @@
   "A": {
     "name": "Azuay",
     "code": "A",
-    "unofficial_names": "Azuay",
+    "unofficial_names": [
+      "Azuay"
+    ],
     "geo": {
       "latitude": -2.9633245,
       "longitude": -79.1096901,
@@ -64,13 +66,14 @@
       "gl": "Azuay",
       "ps": "ازوای ولایت"
     },
-    "comments": null,
     "type": "province"
   },
   "B": {
     "name": "Bolívar",
     "code": "B",
-    "unofficial_names": "Bolívar",
+    "unofficial_names": [
+      "Bolívar"
+    ],
     "geo": {
       "latitude": -1.5696244,
       "longitude": -79.1096901,
@@ -129,13 +132,14 @@
       "cy": "Talaith Bolívar",
       "eu": "Bolívar probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "C": {
     "name": "Carchi",
     "code": "C",
-    "unofficial_names": "Carchi",
+    "unofficial_names": [
+      "Carchi"
+    ],
     "geo": {
       "latitude": 0.6625532,
       "longitude": -78.0195387,
@@ -195,13 +199,14 @@
       "cy": "Talaith Carchi",
       "eu": "Carchi probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "D": {
     "name": "Orellana",
     "code": "D",
-    "unofficial_names": "Orellana",
+    "unofficial_names": [
+      "Orellana"
+    ],
     "geo": {
       "latitude": -0.7112664999999999,
       "longitude": -77.15426839999999,
@@ -259,13 +264,14 @@
       "cy": "Talaith Orellana",
       "eu": "Orellana probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "E": {
     "name": "Esmeraldas",
     "code": "E",
-    "unofficial_names": "Esmeraldas",
+    "unofficial_names": [
+      "Esmeraldas"
+    ],
     "geo": {
       "latitude": 0.9681789,
       "longitude": -79.6517202,
@@ -323,13 +329,14 @@
       "no": "Esmeraldas",
       "eu": "Esmeraldas probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "F": {
     "name": "Cañar",
     "code": "F",
-    "unofficial_names": "Cañar",
+    "unofficial_names": [
+      "Cañar"
+    ],
     "geo": {
       "latitude": -2.555695,
       "longitude": -78.9344814,
@@ -387,13 +394,14 @@
       "eu": "Cañar probintzia",
       "hy": "Կանյար"
     },
-    "comments": null,
     "type": "province"
   },
   "G": {
     "name": "Guayas",
     "code": "G",
-    "unofficial_names": "Guayas",
+    "unofficial_names": [
+      "Guayas"
+    ],
     "geo": {
       "latitude": -1.9574839,
       "longitude": -79.9192702,
@@ -455,20 +463,17 @@
       "he": "מחוז גואייס",
       "hy": "Գուայաս"
     },
-    "comments": null,
     "type": "province"
   },
   "H": {
     "name": "Chimborazo",
     "code": "H",
-    "unofficial_names": "Chimborazo",
+    "unofficial_names": [
+      "Chimborazo"
+    ],
     "geo": {
       "latitude": -1.4693018,
-      "longitude": -78.8169396,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -78.8169396
     },
     "translations": {
       "en": "Chimborazo",
@@ -522,13 +527,14 @@
       "eu": "Chimborazo probintzia",
       "he": "מחוז צ׳ימבורסו"
     },
-    "comments": null,
     "type": "province"
   },
   "I": {
     "name": "Imbabura",
     "code": "I",
-    "unofficial_names": "Imbabura",
+    "unofficial_names": [
+      "Imbabura"
+    ],
     "geo": {
       "latitude": 0.367159,
       "longitude": -78.3842227,
@@ -588,13 +594,14 @@
       "eu": "Imbabura probintzia",
       "sd": "امبابورا صوبو"
     },
-    "comments": null,
     "type": "province"
   },
   "L": {
     "name": "Loja",
     "code": "L",
-    "unofficial_names": "Loja",
+    "unofficial_names": [
+      "Loja"
+    ],
     "geo": {
       "latitude": -3.983333,
       "longitude": -79.2,
@@ -654,13 +661,14 @@
       "he": "מחוז לוחה",
       "hy": "Լոխա"
     },
-    "comments": null,
     "type": "province"
   },
   "M": {
     "name": "Manabí",
     "code": "M",
-    "unofficial_names": "Manabí",
+    "unofficial_names": [
+      "Manabí"
+    ],
     "geo": {
       "latitude": -0.7416532,
       "longitude": -79.9192702,
@@ -720,13 +728,14 @@
       "cy": "Talaith Manabí",
       "eu": "Manabí probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "N": {
     "name": "Napo",
     "code": "N",
-    "unofficial_names": "Napo",
+    "unofficial_names": [
+      "Napo"
+    ],
     "geo": {
       "latitude": -0.7371233,
       "longitude": -78.11082789999999,
@@ -787,13 +796,14 @@
       "gl": "Provincia de Napo",
       "hy": "Նապո"
     },
-    "comments": null,
     "type": "province"
   },
   "O": {
     "name": "El Oro",
     "code": "O",
-    "unofficial_names": "El Oro",
+    "unofficial_names": [
+      "El Oro"
+    ],
     "geo": {
       "latitude": -3.4454787,
       "longitude": -79.8296743,
@@ -852,13 +862,14 @@
       "eu": "El Oro probintzia",
       "he": "מחוז אל אורו"
     },
-    "comments": null,
     "type": "province"
   },
   "P": {
     "name": "Pichincha",
     "code": "P",
-    "unofficial_names": "Pichincha",
+    "unofficial_names": [
+      "Pichincha"
+    ],
     "geo": {
       "latitude": -0.1464847,
       "longitude": -78.4751945,
@@ -917,13 +928,14 @@
       "cy": "Talaith Pichincha",
       "eu": "Pichincha probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "R": {
     "name": "Los Ríos",
     "code": "R",
-    "unofficial_names": "Los Ríos",
+    "unofficial_names": [
+      "Los Ríos"
+    ],
     "geo": {
       "latitude": -1.4191719,
       "longitude": -79.4703885,
@@ -981,13 +993,14 @@
       "cy": "Talaith Los Ríos",
       "eu": "Los Ríos probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "S": {
     "name": "Morona-Santiago",
     "code": "S",
-    "unofficial_names": "Morona-Santiago",
+    "unofficial_names": [
+      "Morona-Santiago"
+    ],
     "geo": {
       "latitude": -2.5628216,
       "longitude": -78.11082789999999,
@@ -1045,13 +1058,14 @@
       "eu": "Morona Santiago probintzia",
       "he": "מחוז מורונה-סנטיאגו"
     },
-    "comments": null,
     "type": "province"
   },
   "SD": {
     "name": "Santo Domingo de los Tsachilas",
     "code": "SD",
-    "unofficial_names": "Santo Domingo de los Tsachilas",
+    "unofficial_names": [
+      "Santo Domingo de los Tsachilas"
+    ],
     "geo": {
       "latitude": -0.2205563,
       "longitude": -79.29021329999999,
@@ -1108,13 +1122,14 @@
       "eu": "Santo Domingo de los Tsáchilas probintzia",
       "fa": "استان سانتو دومینگو د لوس تساچیلاس"
     },
-    "comments": null,
     "type": "province"
   },
   "SE": {
     "name": "Santa Elena",
     "code": "SE",
-    "unofficial_names": "Santa Elena",
+    "unofficial_names": [
+      "Santa Elena"
+    ],
     "geo": {
       "latitude": -2.1934804,
       "longitude": -80.54384499999999,
@@ -1171,13 +1186,14 @@
       "cy": "Talaith Santa Elena",
       "eu": "Santa Elena probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "T": {
     "name": "Tungurahua",
     "code": "T",
-    "unofficial_names": "Tungurahua",
+    "unofficial_names": [
+      "Tungurahua"
+    ],
     "geo": {
       "latitude": -1.2635284,
       "longitude": -78.5660852,
@@ -1236,13 +1252,14 @@
       "he": "מחוז טונגוראווה",
       "jv": "Tungurahua"
     },
-    "comments": null,
     "type": "province"
   },
   "U": {
     "name": "Sucumbíos",
     "code": "U",
-    "unofficial_names": "Sucumbíos",
+    "unofficial_names": [
+      "Sucumbíos"
+    ],
     "geo": {
       "latitude": -0.1452276,
       "longitude": -76.2710833,
@@ -1301,13 +1318,14 @@
       "gl": "Provincia de Sucumbíos",
       "hy": "Սուկումբիոս"
     },
-    "comments": null,
     "type": "province"
   },
   "W": {
     "name": "Galápagos",
     "code": "W",
-    "unofficial_names": "Galápagos",
+    "unofficial_names": [
+      "Galápagos"
+    ],
     "geo": {
       "latitude": -0.8292784,
       "longitude": -90.9820668,
@@ -1364,13 +1382,14 @@
       "eu": "Galapagoak probintzia",
       "he": "מחוז גלאפגוס"
     },
-    "comments": null,
     "type": "province"
   },
   "X": {
     "name": "Cotopaxi",
     "code": "X",
-    "unofficial_names": "Cotopaxi",
+    "unofficial_names": [
+      "Cotopaxi"
+    ],
     "geo": {
       "latitude": -0.8139666999999999,
       "longitude": -78.9288242,
@@ -1428,13 +1447,14 @@
       "cy": "Talaith Cotopaxi",
       "eu": "Cotopaxi probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "Y": {
     "name": "Pastaza",
     "code": "Y",
-    "unofficial_names": "Pastaza",
+    "unofficial_names": [
+      "Pastaza"
+    ],
     "geo": {
       "latitude": -1.6332034,
       "longitude": -77.010385,
@@ -1492,13 +1512,14 @@
       "cy": "Talaith Pastaza",
       "eu": "Pastaza probintzia"
     },
-    "comments": null,
     "type": "province"
   },
   "Z": {
     "name": "Zamora-Chinchipe",
     "code": "Z",
-    "unofficial_names": "Zamora-Chinchipe",
+    "unofficial_names": [
+      "Zamora-Chinchipe"
+    ],
     "geo": {
       "latitude": -4.1535434,
       "longitude": -78.8382644,
@@ -1555,7 +1576,6 @@
       "eu": "Zamora Chinchipe probintzia",
       "hy": "Սամորա Չինչիպե"
     },
-    "comments": null,
     "type": "province"
   }
 }

@@ -106,13 +106,14 @@
       "yo_BJ": "Bangkok",
       "sd": "بينڪاڪ"
     },
-    "comments": null,
     "type": "metropolitan_administration"
   },
   "11": {
     "name": "Samut Prakan",
     "code": "11",
-    "unofficial_names": "Samut Prakan",
+    "unofficial_names": [
+      "Samut Prakan"
+    ],
     "geo": {
       "latitude": 13.5990961,
       "longitude": 100.5998319,
@@ -171,13 +172,14 @@
       "ka": "სამუტპრაკანის პროვინცია",
       "km": "ខេត្តសមុទ្រប្រាការ"
     },
-    "comments": null,
     "type": "province"
   },
   "12": {
     "name": "Nonthaburi",
     "code": "12",
-    "unofficial_names": "Nonthaburi",
+    "unofficial_names": [
+      "Nonthaburi"
+    ],
     "geo": {
       "latitude": 13.8621125,
       "longitude": 100.5143528,
@@ -242,13 +244,14 @@
       "km": "ខេត្តនន្ទបុរី",
       "my": "နွန်ထဘူရီပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "Pathum Thani",
     "code": "13",
-    "unofficial_names": "Pathum Thani",
+    "unofficial_names": [
+      "Pathum Thani"
+    ],
     "geo": {
       "latitude": 14.0208391,
       "longitude": 100.5250276,
@@ -306,13 +309,14 @@
       "be": "Патхумтхані (правінцыя)",
       "km": "ខេត្តបទុមធានី"
     },
-    "comments": null,
     "type": "province"
   },
   "14": {
     "name": "Phra Nakhon Si Ayutthaya",
     "code": "14",
-    "unofficial_names": "Phra Nakhon Si Ayutthaya",
+    "unofficial_names": [
+      "Phra Nakhon Si Ayutthaya"
+    ],
     "geo": {
       "latitude": 14.3532128,
       "longitude": 100.5689599,
@@ -374,13 +378,14 @@
       "km": "ខេត្តអយុធ្យា",
       "my": "ဘုရာ့နခွန်စီအယုဓယပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "15": {
     "name": "Ang Thong",
     "code": "15",
-    "unofficial_names": "Ang Thong",
+    "unofficial_names": [
+      "Ang Thong"
+    ],
     "geo": {
       "latitude": 14.5896054,
       "longitude": 100.455052,
@@ -440,13 +445,14 @@
       "ca": "Ang Thong",
       "km": "ខេត្តអាងថង"
     },
-    "comments": null,
     "type": "province"
   },
   "16": {
     "name": "Lop Buri",
     "code": "16",
-    "unofficial_names": "Lop Buri",
+    "unofficial_names": [
+      "Lop Buri"
+    ],
     "geo": {
       "latitude": 14.7995081,
       "longitude": 100.6533706,
@@ -507,13 +513,14 @@
       "ka": "ლოპბურის პროვინცია",
       "km": "ខេត្តលពបុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "17": {
     "name": "Sing Buri",
     "code": "17",
-    "unofficial_names": "Sing Buri",
+    "unofficial_names": [
+      "Sing Buri"
+    ],
     "geo": {
       "latitude": 14.8936253,
       "longitude": 100.3967314,
@@ -572,7 +579,6 @@
       "ka": "სინგბურის პროვინცია",
       "km": "ខេត្តសិង្ហបុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "18": {
@@ -641,13 +647,14 @@
       "ka": "ჩაინატის პროვინცია",
       "km": "ខេត្តជ័យនាថ"
     },
-    "comments": null,
     "type": "province"
   },
   "19": {
     "name": "Saraburi",
     "code": "19",
-    "unofficial_names": "Saraburi",
+    "unofficial_names": [
+      "Saraburi"
+    ],
     "geo": {
       "latitude": 14.5289154,
       "longitude": 100.9101421,
@@ -707,13 +714,14 @@
       "ka": "სარაბურის პროვინცია",
       "km": "ខេត្តស្រៈបុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "20": {
     "name": "Chon Buri",
     "code": "20",
-    "unofficial_names": "Chon Buri",
+    "unofficial_names": [
+      "Chon Buri"
+    ],
     "geo": {
       "latitude": 13.3611431,
       "longitude": 100.9846717,
@@ -775,13 +783,14 @@
       "cs": "Čonburi",
       "he": "מחוז צ׳ונבורי"
     },
-    "comments": null,
     "type": "province"
   },
   "21": {
     "name": "Rayong",
     "code": "21",
-    "unofficial_names": "Rayong",
+    "unofficial_names": [
+      "Rayong"
+    ],
     "geo": {
       "latitude": 12.707434,
       "longitude": 101.1473517,
@@ -855,13 +864,14 @@
       "no": "Rayong",
       "km": "ខេត្តរយ៉ង"
     },
-    "comments": null,
     "type": "province"
   },
   "22": {
     "name": "Chanthaburi",
     "code": "22",
-    "unofficial_names": "Chanthaburi",
+    "unofficial_names": [
+      "Chanthaburi"
+    ],
     "geo": {
       "latitude": 12.6112485,
       "longitude": 102.1037806,
@@ -922,13 +932,14 @@
       "be": "Чантхабуры (правінцыя)",
       "ca": "Chanthaburi"
     },
-    "comments": null,
     "type": "province"
   },
   "23": {
     "name": "Trat",
     "code": "23",
-    "unofficial_names": "Trat",
+    "unofficial_names": [
+      "Trat"
+    ],
     "geo": {
       "latitude": 12.2427563,
       "longitude": 102.5174734,
@@ -987,13 +998,14 @@
       "be": "Трат (правінцыя)",
       "km": "ខេត្តត្រាច"
     },
-    "comments": null,
     "type": "province"
   },
   "24": {
     "name": "Chachoengsao",
     "code": "24",
-    "unofficial_names": "Chachoengsao",
+    "unofficial_names": [
+      "Chachoengsao"
+    ],
     "geo": {
       "latitude": 13.6904194,
       "longitude": 101.0779596,
@@ -1052,13 +1064,14 @@
       "be": "Чачэнгсау (правінцыя)",
       "km": "ខេត្តស្ទឹងជ្រៅ"
     },
-    "comments": null,
     "type": "province"
   },
   "25": {
     "name": "Prachin Buri",
     "code": "25",
-    "unofficial_names": "Prachin Buri",
+    "unofficial_names": [
+      "Prachin Buri"
+    ],
     "geo": {
       "latitude": 14.0420699,
       "longitude": 101.6600874,
@@ -1117,13 +1130,14 @@
       "be": "Прачынбуры (правінцыя)",
       "km": "ខេត្តប្រាចិនបុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "26": {
     "name": "Nakhon Nayok",
     "code": "26",
-    "unofficial_names": "Nakhon Nayok",
+    "unofficial_names": [
+      "Nakhon Nayok"
+    ],
     "geo": {
       "latitude": 14.2038387,
       "longitude": 101.2268773,
@@ -1182,13 +1196,14 @@
       "be": "Накхонаёк (правінцыя)",
       "km": "ខេត្តនគរនាយក"
     },
-    "comments": null,
     "type": "province"
   },
   "27": {
     "name": "Sa Kaeo",
     "code": "27",
-    "unofficial_names": "Sa Kaeo",
+    "unofficial_names": [
+      "Sa Kaeo"
+    ],
     "geo": {
       "latitude": 13.8240407,
       "longitude": 102.0645821,
@@ -1247,13 +1262,14 @@
       "be": "Сакэу (правінцыя)",
       "km": "ខេត្តស្រះកែវ"
     },
-    "comments": null,
     "type": "province"
   },
   "30": {
     "name": "Nakhon Ratchasima",
     "code": "30",
-    "unofficial_names": "Nakhon Ratchasima",
+    "unofficial_names": [
+      "Nakhon Ratchasima"
+    ],
     "geo": {
       "latitude": 14.9798997,
       "longitude": 102.0977693,
@@ -1312,13 +1328,14 @@
       "ca": "Nakhon Ratchasima",
       "km": "ខេត្តនគររាជ"
     },
-    "comments": null,
     "type": "province"
   },
   "31": {
     "name": "Buri Ram",
     "code": "31",
-    "unofficial_names": "Buri Ram",
+    "unofficial_names": [
+      "Buri Ram"
+    ],
     "geo": {
       "latitude": 14.9930017,
       "longitude": 103.1029191,
@@ -1378,13 +1395,14 @@
       "he": "בוריראם",
       "ka": "ბურირამის პროვინცია"
     },
-    "comments": null,
     "type": "province"
   },
   "32": {
     "name": "Surin",
     "code": "32",
-    "unofficial_names": "Surin",
+    "unofficial_names": [
+      "Surin"
+    ],
     "geo": {
       "latitude": 14.882905,
       "longitude": 103.4937107,
@@ -1444,13 +1462,14 @@
       "km": "ខេត្តសុរិន្ទ្រ",
       "uz": "Surin provinsiyasi"
     },
-    "comments": null,
     "type": "province"
   },
   "33": {
     "name": "Si Sa Ket",
     "code": "33",
-    "unofficial_names": "Si Sa Ket",
+    "unofficial_names": [
+      "Si Sa Ket"
+    ],
     "geo": {
       "latitude": 15.1186009,
       "longitude": 104.3220095,
@@ -1509,13 +1528,14 @@
       "ka": "სისაკეტის პროვინცია",
       "km": "ខេត្តសិរីសាកេត"
     },
-    "comments": null,
     "type": "province"
   },
   "34": {
     "name": "Ubon Ratchathani",
     "code": "34",
-    "unofficial_names": "Ubon Ratchathani",
+    "unofficial_names": [
+      "Ubon Ratchathani"
+    ],
     "geo": {
       "latitude": 15.2286861,
       "longitude": 104.8564217,
@@ -1575,13 +1595,14 @@
       "be": "Убонратчатхані (правінцыя)",
       "ca": "Ubon Ratchathani"
     },
-    "comments": null,
     "type": "province"
   },
   "35": {
     "name": "Yasothon",
     "code": "35",
-    "unofficial_names": "Yasothon",
+    "unofficial_names": [
+      "Yasothon"
+    ],
     "geo": {
       "latitude": 15.792641,
       "longitude": 104.1452827,
@@ -1639,13 +1660,14 @@
       "be": "Ясатхон (правінцыя)",
       "km": "ខេត្តយសោធរ"
     },
-    "comments": null,
     "type": "province"
   },
   "36": {
     "name": "Chaiyaphum",
     "code": "36",
-    "unofficial_names": "Chaiyaphum",
+    "unofficial_names": [
+      "Chaiyaphum"
+    ],
     "geo": {
       "latitude": 15.8068173,
       "longitude": 102.0315027,
@@ -1704,13 +1726,14 @@
       "ka": "ჩაიიაფუმის პროვინცია",
       "km": "ខេត្តជ័យភូមិ"
     },
-    "comments": null,
     "type": "province"
   },
   "37": {
     "name": "Amnat Charoen",
     "code": "37",
-    "unofficial_names": "Amnat Charoen",
+    "unofficial_names": [
+      "Amnat Charoen"
+    ],
     "geo": {
       "latitude": 15.8656783,
       "longitude": 104.6257774,
@@ -1768,21 +1791,11 @@
       "be": "Амнатчарэн (правінцыя)",
       "km": "ខេត្តអំណាចច្រើន"
     },
-    "comments": null,
     "type": "province"
   },
   "38": {
     "name": "จังหวัดบึงกาฬ",
     "code": "38",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "بوينغ كان",
       "bn": "বুয়েং কান",
@@ -1832,13 +1845,14 @@
       "ka": "ბენგკანის პროვინცია",
       "km": "ខេត្តបឹងកាល"
     },
-    "comments": null,
     "type": "province"
   },
   "39": {
     "name": "Nong Bua Lam Phu",
     "code": "39",
-    "unofficial_names": "Nong Bua Lam Phu",
+    "unofficial_names": [
+      "Nong Bua Lam Phu"
+    ],
     "geo": {
       "latitude": 17.2218247,
       "longitude": 102.4260368,
@@ -1896,13 +1910,14 @@
       "ca": "Nongbua Lamphu",
       "km": "ខេត្តហ្នងបួលំភូ"
     },
-    "comments": null,
     "type": "province"
   },
   "40": {
     "name": "Khon Kaen",
     "code": "40",
-    "unofficial_names": "Khon Kaen",
+    "unofficial_names": [
+      "Khon Kaen"
+    ],
     "geo": {
       "latitude": 16.4419355,
       "longitude": 102.8359921,
@@ -1962,13 +1977,14 @@
       "km": "ខេត្តខនកែន",
       "ne": "खोन केन प्रान्त"
     },
-    "comments": null,
     "type": "province"
   },
   "41": {
     "name": "Udon Thani",
     "code": "41",
-    "unofficial_names": "Udon Thani",
+    "unofficial_names": [
+      "Udon Thani"
+    ],
     "geo": {
       "latitude": 17.4138413,
       "longitude": 102.7872325,
@@ -2029,13 +2045,14 @@
       "ka": "უდონთანის პროვინცია",
       "km": "ខេត្តឧត្តរធានី"
     },
-    "comments": null,
     "type": "province"
   },
   "42": {
     "name": "Loei",
     "code": "42",
-    "unofficial_names": "Loei",
+    "unofficial_names": [
+      "Loei"
+    ],
     "geo": {
       "latitude": 17.4860232,
       "longitude": 101.7223002,
@@ -2095,13 +2112,14 @@
       "ka": "ლეის პროვინცია",
       "km": "ខេត្តលើយ"
     },
-    "comments": null,
     "type": "province"
   },
   "43": {
     "name": "Nong Khai",
     "code": "43",
-    "unofficial_names": "Nong Khai",
+    "unofficial_names": [
+      "Nong Khai"
+    ],
     "geo": {
       "latitude": 17.8782803,
       "longitude": 102.7412638,
@@ -2161,13 +2179,14 @@
       "ka": "ნონგქაის პროვინცია",
       "km": "ខេត្តហ្នងគាយ"
     },
-    "comments": null,
     "type": "province"
   },
   "44": {
     "name": "Maha Sarakham",
     "code": "44",
-    "unofficial_names": "Maha Sarakham",
+    "unofficial_names": [
+      "Maha Sarakham"
+    ],
     "geo": {
       "latitude": 16.0132015,
       "longitude": 103.1615169,
@@ -2224,13 +2243,14 @@
       "yue": "嗎哈沙拉堪府",
       "no": "Maha Sarakham"
     },
-    "comments": null,
     "type": "province"
   },
   "45": {
     "name": "Roi Et",
     "code": "45",
-    "unofficial_names": "Roi Et",
+    "unofficial_names": [
+      "Roi Et"
+    ],
     "geo": {
       "latitude": 16.0538196,
       "longitude": 103.6520036,
@@ -2288,13 +2308,14 @@
       "km": "ខេត្តរយឯត",
       "ne": "रोइएत प्रान्त"
     },
-    "comments": null,
     "type": "province"
   },
   "46": {
     "name": "Kalasin",
     "code": "46",
-    "unofficial_names": "Kalasin",
+    "unofficial_names": [
+      "Kalasin"
+    ],
     "geo": {
       "latitude": 16.434167,
       "longitude": 103.509167,
@@ -2355,13 +2376,14 @@
       "ka": "კალასინის პროვინცია",
       "km": "ខេត្តកាលសិន្ធុ"
     },
-    "comments": null,
     "type": "province"
   },
   "47": {
     "name": "Sakon Nakhon",
     "code": "47",
-    "unofficial_names": "Sakon Nakhon",
+    "unofficial_names": [
+      "Sakon Nakhon"
+    ],
     "geo": {
       "latitude": 17.1545995,
       "longitude": 104.1348365,
@@ -2421,13 +2443,14 @@
       "ka": "საკონ-ნაქონის პროვინცია",
       "km": "ខេត្តសកលនគរ"
     },
-    "comments": null,
     "type": "province"
   },
   "48": {
     "name": "Nakhon Phanom",
     "code": "48",
-    "unofficial_names": "Nakhon Phanom",
+    "unofficial_names": [
+      "Nakhon Phanom"
+    ],
     "geo": {
       "latitude": 17.392039,
       "longitude": 104.7695508,
@@ -2484,13 +2507,14 @@
       "no": "Nakhon Phanom",
       "km": "ខេត្តនគរភ្នំ"
     },
-    "comments": null,
     "type": "province"
   },
   "49": {
     "name": "Mukdahan",
     "code": "49",
-    "unofficial_names": "Mukdahan",
+    "unofficial_names": [
+      "Mukdahan"
+    ],
     "geo": {
       "latitude": 16.5695723,
       "longitude": 104.5231213,
@@ -2550,7 +2574,6 @@
       "ka": "მუკდაჰანის პროვინცია",
       "km": "ខេត្តមុក្តាហារ"
     },
-    "comments": null,
     "type": "province"
   },
   "50": {
@@ -2625,13 +2648,14 @@
       "km": "ខេត្តឈៀងម៉ៃ",
       "mk": "Чијанг Мај (покраина)"
     },
-    "comments": null,
     "type": "province"
   },
   "51": {
     "name": "Lamphun",
     "code": "51",
-    "unofficial_names": "Lamphun",
+    "unofficial_names": [
+      "Lamphun"
+    ],
     "geo": {
       "latitude": 18.5744606,
       "longitude": 99.0087221,
@@ -2690,13 +2714,14 @@
       "no": "Lamphun",
       "km": "ខេត្តលំពូន"
     },
-    "comments": null,
     "type": "province"
   },
   "52": {
     "name": "Lampang",
     "code": "52",
-    "unofficial_names": "Lampang",
+    "unofficial_names": [
+      "Lampang"
+    ],
     "geo": {
       "latitude": 18.2888404,
       "longitude": 99.49087399999999,
@@ -2758,13 +2783,14 @@
       "km": "ខេត្តលំប៉ាង",
       "mk": "Лампанг (покраина)"
     },
-    "comments": null,
     "type": "province"
   },
   "53": {
     "name": "Uttaradit",
     "code": "53",
-    "unofficial_names": "Uttaradit",
+    "unofficial_names": [
+      "Uttaradit"
+    ],
     "geo": {
       "latitude": 17.6200886,
       "longitude": 100.0992942,
@@ -2823,13 +2849,14 @@
       "ca": "Uttaradit",
       "km": "ខេត្តឧត្តរឌិត្ថ"
     },
-    "comments": null,
     "type": "province"
   },
   "54": {
     "name": "Phrae",
     "code": "54",
-    "unofficial_names": "Phrae",
+    "unofficial_names": [
+      "Phrae"
+    ],
     "geo": {
       "latitude": 18.1445774,
       "longitude": 100.1402831,
@@ -2888,13 +2915,14 @@
       "be": "Пхрэ (правінцыя)",
       "km": "ខេត្តព្រែ"
     },
-    "comments": null,
     "type": "province"
   },
   "55": {
     "name": "Nan",
     "code": "55",
-    "unofficial_names": "Nan",
+    "unofficial_names": [
+      "Nan"
+    ],
     "geo": {
       "latitude": 18.7756318,
       "longitude": 100.7730417,
@@ -2956,13 +2984,14 @@
       "km": "ខេត្តណាន",
       "my": "နန်းပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "56": {
     "name": "Phayao",
     "code": "56",
-    "unofficial_names": "Phayao",
+    "unofficial_names": [
+      "Phayao"
+    ],
     "geo": {
       "latitude": 19.2154367,
       "longitude": 100.2023692,
@@ -3021,7 +3050,6 @@
       "ca": "Phayao",
       "km": "ខេត្តព្យៅ"
     },
-    "comments": null,
     "type": "province"
   },
   "57": {
@@ -3094,13 +3122,14 @@
       "ca": "Chiang Rai",
       "km": "ខេត្តឈៀងរ៉ាយ"
     },
-    "comments": null,
     "type": "province"
   },
   "58": {
     "name": "Mae Hong Son",
     "code": "58",
-    "unofficial_names": "Mae Hong Son",
+    "unofficial_names": [
+      "Mae Hong Son"
+    ],
     "geo": {
       "latitude": 19.3020296,
       "longitude": 97.96543679999999,
@@ -3159,13 +3188,14 @@
       "ca": "Mae Hong Son",
       "km": "ខេត្តម៉ែហងសន"
     },
-    "comments": null,
     "type": "province"
   },
   "60": {
     "name": "Nakhon Sawan",
     "code": "60",
-    "unofficial_names": "Nakhon Sawan",
+    "unofficial_names": [
+      "Nakhon Sawan"
+    ],
     "geo": {
       "latitude": 15.6930072,
       "longitude": 100.1225595,
@@ -3225,13 +3255,14 @@
       "ka": "ნაქონსავანის პროვინცია",
       "km": "ខេត្តនគរសួគ៌"
     },
-    "comments": null,
     "type": "province"
   },
   "61": {
     "name": "Uthai Thani",
     "code": "61",
-    "unofficial_names": "Uthai Thani",
+    "unofficial_names": [
+      "Uthai Thani"
+    ],
     "geo": {
       "latitude": 15.3835001,
       "longitude": 100.0245527,
@@ -3290,13 +3321,14 @@
       "km": "ខេត្តឧទ័យធានី",
       "my": "ဥဒယဌာနီပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "62": {
     "name": "Kamphaeng Phet",
     "code": "62",
-    "unofficial_names": "Kamphaeng Phet",
+    "unofficial_names": [
+      "Kamphaeng Phet"
+    ],
     "geo": {
       "latitude": 16.4827798,
       "longitude": 99.5226618,
@@ -3353,13 +3385,14 @@
       "no": "Kamphaeng Phet",
       "km": "ខេត្តកំពែងពេជ្រ"
     },
-    "comments": null,
     "type": "province"
   },
   "63": {
     "name": "Tak",
     "code": "63",
-    "unofficial_names": "Tak",
+    "unofficial_names": [
+      "Tak"
+    ],
     "geo": {
       "latitude": 16.8839901,
       "longitude": 99.1258498,
@@ -3423,7 +3456,6 @@
       "mk": "Так (покраина)",
       "my": "တာ့ခ်ခရိုင်"
     },
-    "comments": null,
     "type": "province"
   },
   "64": {
@@ -3489,13 +3521,14 @@
       "no": "Sukhothai",
       "ka": "სუქოტაის პროვინცია"
     },
-    "comments": null,
     "type": "province"
   },
   "65": {
     "name": "Phitsanulok",
     "code": "65",
-    "unofficial_names": "Phitsanulok",
+    "unofficial_names": [
+      "Phitsanulok"
+    ],
     "geo": {
       "latitude": 16.8211238,
       "longitude": 100.2658516,
@@ -3559,13 +3592,14 @@
       "ne": "फितसनुलोक प्रान्त",
       "sk": "Phitsanulok"
     },
-    "comments": null,
     "type": "province"
   },
   "66": {
     "name": "Phichit",
     "code": "66",
-    "unofficial_names": "Phichit",
+    "unofficial_names": [
+      "Phichit"
+    ],
     "geo": {
       "latitude": 16.2740876,
       "longitude": 100.3346991,
@@ -3624,13 +3658,14 @@
       "ca": "Phichit",
       "km": "ខេត្តពិចិត្រ"
     },
-    "comments": null,
     "type": "province"
   },
   "67": {
     "name": "Phetchabun",
     "code": "67",
-    "unofficial_names": "Phetchabun",
+    "unofficial_names": [
+      "Phetchabun"
+    ],
     "geo": {
       "latitude": 16.301669,
       "longitude": 101.1192804,
@@ -3689,13 +3724,14 @@
       "ka": "ფეტჩაბუნის პროვინცია",
       "km": "ខេត្តពេជ្របូរណ៍"
     },
-    "comments": null,
     "type": "province"
   },
   "70": {
     "name": "Ratchaburi",
     "code": "70",
-    "unofficial_names": "Ratchaburi",
+    "unofficial_names": [
+      "Ratchaburi"
+    ],
     "geo": {
       "latitude": 13.5282893,
       "longitude": 99.8134211,
@@ -3755,13 +3791,14 @@
       "ca": "Ratchaburi",
       "km": "ខេត្តរាជបុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "71": {
     "name": "Kanchanaburi",
     "code": "71",
-    "unofficial_names": "Kanchanaburi",
+    "unofficial_names": [
+      "Kanchanaburi"
+    ],
     "geo": {
       "latitude": 14.0227797,
       "longitude": 99.5328115,
@@ -3822,13 +3859,14 @@
       "km": "ខេត្តកញ្ចនបុរី",
       "my": "ကန်ချနဘူရီ ခရိုင်"
     },
-    "comments": null,
     "type": "province"
   },
   "72": {
     "name": "Suphan Buri",
     "code": "72",
-    "unofficial_names": "Suphan Buri",
+    "unofficial_names": [
+      "Suphan Buri"
+    ],
     "geo": {
       "latitude": 14.4744892,
       "longitude": 100.1177128,
@@ -3888,13 +3926,14 @@
       "he": "סופאן בורי",
       "km": "ខេត្តសុពណ៌បុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "73": {
     "name": "Nakhon Pathom",
     "code": "73",
-    "unofficial_names": "Nakhon Pathom",
+    "unofficial_names": [
+      "Nakhon Pathom"
+    ],
     "geo": {
       "latitude": 13.8199206,
       "longitude": 100.0621676,
@@ -3954,13 +3993,14 @@
       "ka": "ნაქონპათომის პროვინცია",
       "km": "ខេត្តនគរបឋម"
     },
-    "comments": null,
     "type": "province"
   },
   "74": {
     "name": "Samut Sakhon",
     "code": "74",
-    "unofficial_names": "Samut Sakhon",
+    "unofficial_names": [
+      "Samut Sakhon"
+    ],
     "geo": {
       "latitude": 13.5475216,
       "longitude": 100.2743956,
@@ -4020,13 +4060,14 @@
       "ka": "სამუტსაქონის პროვინცია",
       "km": "ខេត្តសមុទ្រសាគរ"
     },
-    "comments": null,
     "type": "province"
   },
   "75": {
     "name": "Samut Songkhram",
     "code": "75",
-    "unofficial_names": "Samut Songkhram",
+    "unofficial_names": [
+      "Samut Songkhram"
+    ],
     "geo": {
       "latitude": 13.4098217,
       "longitude": 100.0022645,
@@ -4087,13 +4128,14 @@
       "ca": "Samut Songkhram",
       "km": "ខេត្តសមុទ្រសង្គ្រាម"
     },
-    "comments": null,
     "type": "province"
   },
   "76": {
     "name": "Phetchaburi",
     "code": "76",
-    "unofficial_names": "Phetchaburi",
+    "unofficial_names": [
+      "Phetchaburi"
+    ],
     "geo": {
       "latitude": 12.9649215,
       "longitude": 99.6425883,
@@ -4154,13 +4196,14 @@
       "ca": "Phetchaburi",
       "km": "ខេត្តពេជ្របុរី"
     },
-    "comments": null,
     "type": "province"
   },
   "77": {
     "name": "Prachuap Khiri Khan",
     "code": "77",
-    "unofficial_names": "Prachuap Khiri Khan",
+    "unofficial_names": [
+      "Prachuap Khiri Khan"
+    ],
     "geo": {
       "latitude": 11.816667,
       "longitude": 99.8,
@@ -4222,13 +4265,14 @@
       "km": "ខេត្តប្រចួបគីរីខ័ន្ធ",
       "my": "ပရာချုပ်ဂီရီခဏ္ဍပြည်နယ်"
     },
-    "comments": null,
     "type": "province"
   },
   "80": {
     "name": "Nakhon Si Thammarat",
     "code": "80",
-    "unofficial_names": "Nakhon Si Thammarat",
+    "unofficial_names": [
+      "Nakhon Si Thammarat"
+    ],
     "geo": {
       "latitude": 8.4303975,
       "longitude": 99.96312189999999,
@@ -4287,13 +4331,14 @@
       "be": "Накхонсітхамарат (правінцыя)",
       "km": "ខេត្តនគរស្រីធម្មរាជ"
     },
-    "comments": null,
     "type": "province"
   },
   "81": {
     "name": "Krabi",
     "code": "81",
-    "unofficial_names": "Krabi",
+    "unofficial_names": [
+      "Krabi"
+    ],
     "geo": {
       "latitude": 8.0862997,
       "longitude": 98.9062835,
@@ -4356,13 +4401,14 @@
       "ka": "კრაბის პროვინცია",
       "km": "ខេត្តក្របី"
     },
-    "comments": null,
     "type": "province"
   },
   "82": {
     "name": "Phangnga",
     "code": "82",
-    "unofficial_names": "Phangnga",
+    "unofficial_names": [
+      "Phangnga"
+    ],
     "geo": {
       "latitude": 8.4501414,
       "longitude": 98.5255317,
@@ -4421,13 +4467,14 @@
       "be": "Пхангнга (правінцыя)",
       "cs": "Provincie Phang Nga"
     },
-    "comments": null,
     "type": "province"
   },
   "83": {
     "name": "Phuket",
     "code": "83",
-    "unofficial_names": "Phuket",
+    "unofficial_names": [
+      "Phuket"
+    ],
     "geo": {
       "latitude": 7.9519331,
       "longitude": 98.33808839999999,
@@ -4498,13 +4545,14 @@
       "km": "ខេត្តភូកេត",
       "uz": "Phuket province"
     },
-    "comments": null,
     "type": "province"
   },
   "84": {
     "name": "Surat Thani",
     "code": "84",
-    "unofficial_names": "Surat Thani",
+    "unofficial_names": [
+      "Surat Thani"
+    ],
     "geo": {
       "latitude": 9.1382389,
       "longitude": 99.3217483,
@@ -4568,13 +4616,14 @@
       "ka": "სურატ-თანის პროვინცია",
       "km": "ខេត្តសុរាស្ត្រធានី"
     },
-    "comments": null,
     "type": "province"
   },
   "85": {
     "name": "Ranong",
     "code": "85",
-    "unofficial_names": "Ranong",
+    "unofficial_names": [
+      "Ranong"
+    ],
     "geo": {
       "latitude": 9.9528702,
       "longitude": 98.60846409999999,
@@ -4634,13 +4683,14 @@
       "ca": "Ranong",
       "km": "ខេត្តរនង"
     },
-    "comments": null,
     "type": "province"
   },
   "86": {
     "name": "Chumphon",
     "code": "86",
-    "unofficial_names": "Chumphon",
+    "unofficial_names": [
+      "Chumphon"
+    ],
     "geo": {
       "latitude": 10.4930496,
       "longitude": 99.18001989999999,
@@ -4700,13 +4750,14 @@
       "ka": "ჩუმფონის პროვინცია",
       "km": "ខេត្តជុម្ពរ"
     },
-    "comments": null,
     "type": "province"
   },
   "90": {
     "name": "Songkhla",
     "code": "90",
-    "unofficial_names": "Songkhla",
+    "unofficial_names": [
+      "Songkhla"
+    ],
     "geo": {
       "latitude": 7.1756004,
       "longitude": 100.614347,
@@ -4766,13 +4817,14 @@
       "ka": "სონგქალის პროვინცია",
       "km": "ខេត្តសង្ខលា"
     },
-    "comments": null,
     "type": "province"
   },
   "91": {
     "name": "Satun",
     "code": "91",
-    "unofficial_names": "Satun",
+    "unofficial_names": [
+      "Satun"
+    ],
     "geo": {
       "latitude": 6.6238158,
       "longitude": 100.0673744,
@@ -4831,13 +4883,14 @@
       "ka": "სატუნის პრვინცია",
       "km": "ខេត្តស្តូល"
     },
-    "comments": null,
     "type": "province"
   },
   "92": {
     "name": "Trang",
     "code": "92",
-    "unofficial_names": "Trang",
+    "unofficial_names": [
+      "Trang"
+    ],
     "geo": {
       "latitude": 7.5593851,
       "longitude": 99.6110065,
@@ -4897,13 +4950,14 @@
       "ka": "ტრანგის პროვინცია",
       "km": "ខេត្តត្រាំង"
     },
-    "comments": null,
     "type": "province"
   },
   "93": {
     "name": "Phatthalung",
     "code": "93",
-    "unofficial_names": "Phatthalung",
+    "unofficial_names": [
+      "Phatthalung"
+    ],
     "geo": {
       "latitude": 7.6166823,
       "longitude": 100.0740231,
@@ -4962,13 +5016,14 @@
       "ca": "Phatthalung",
       "km": "ខេត្តព័ទ្ទលុង"
     },
-    "comments": null,
     "type": "province"
   },
   "94": {
     "name": "Pattani",
     "code": "94",
-    "unofficial_names": "Pattani",
+    "unofficial_names": [
+      "Pattani"
+    ],
     "geo": {
       "latitude": 6.761830799999999,
       "longitude": 101.3232549,
@@ -5028,13 +5083,14 @@
       "be": "Патані (правінцыя)",
       "km": "ខេត្តប៉ាត់តានី"
     },
-    "comments": null,
     "type": "province"
   },
   "95": {
     "name": "Yala",
     "code": "95",
-    "unofficial_names": "Yala",
+    "unofficial_names": [
+      "Yala"
+    ],
     "geo": {
       "latitude": 6.541147,
       "longitude": 101.2803947,
@@ -5093,13 +5149,14 @@
       "be": "Яла (правінцыя)",
       "km": "ខេត្តយលា"
     },
-    "comments": null,
     "type": "province"
   },
   "96": {
     "name": "Narathiwat",
     "code": "96",
-    "unofficial_names": "Narathiwat",
+    "unofficial_names": [
+      "Narathiwat"
+    ],
     "geo": {
       "latitude": 6.4254607,
       "longitude": 101.8253143,
@@ -5161,13 +5218,14 @@
       "ka": "ნარათივატის პროვინცია",
       "km": "ខេត្តនរាធិវាស"
     },
-    "comments": null,
     "type": "province"
   },
   "S": {
     "name": "Phatthaya",
     "code": "S",
-    "unofficial_names": "Phatthaya",
+    "unofficial_names": [
+      "Phatthaya"
+    ],
     "geo": {
       "latitude": 12.9276082,
       "longitude": 100.8770813,
@@ -5242,7 +5300,6 @@
       "my": "ပတ္တရားမြို့",
       "uz": "Pattaya"
     },
-    "comments": null,
     "type": "special_administrative_city"
   }
 }

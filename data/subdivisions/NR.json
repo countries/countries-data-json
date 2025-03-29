@@ -2,7 +2,9 @@
   "01": {
     "name": "Aiwo",
     "code": "01",
-    "unofficial_names": "Aiwo",
+    "unofficial_names": [
+      "Aiwo"
+    ],
     "geo": {
       "latitude": -0.5340012,
       "longitude": 166.9138873,
@@ -64,13 +66,14 @@
       "fa": "بخش آیوو",
       "hy": "Այվո"
     },
-    "comments": null,
     "type": "district"
   },
   "02": {
     "name": "Anabar",
     "code": "02",
-    "unofficial_names": "Anabar",
+    "unofficial_names": [
+      "Anabar"
+    ],
     "geo": {
       "latitude": -0.5133517,
       "longitude": 166.9484624,
@@ -130,13 +133,14 @@
       "no": "Anabar",
       "fa": "بخش آنابار"
     },
-    "comments": null,
     "type": "district"
   },
   "03": {
     "name": "Anetan",
     "code": "03",
-    "unofficial_names": "Anetan",
+    "unofficial_names": [
+      "Anetan"
+    ],
     "geo": {
       "latitude": -0.5064343,
       "longitude": 166.9427006,
@@ -193,13 +197,14 @@
       "no": "Anetan",
       "fa": "بخش آنتان"
     },
-    "comments": null,
     "type": "district"
   },
   "04": {
     "name": "Anibare",
     "code": "04",
-    "unofficial_names": "Anibare",
+    "unofficial_names": [
+      "Anibare"
+    ],
     "geo": {
       "latitude": -0.532915,
       "longitude": 166.944141,
@@ -256,13 +261,14 @@
       "no": "Anibare",
       "fa": "بخش انیبیر"
     },
-    "comments": null,
     "type": "district"
   },
   "05": {
     "name": "Baiti",
     "code": "05",
-    "unofficial_names": "Baiti",
+    "unofficial_names": [
+      "Baiti"
+    ],
     "geo": {
       "latitude": -0.5133158,
       "longitude": 166.9311761,
@@ -319,13 +325,14 @@
       "no": "Baiti",
       "fa": "بخش بایتسی"
     },
-    "comments": null,
     "type": "district"
   },
   "06": {
     "name": "Boe",
     "code": "06",
-    "unofficial_names": "Boe",
+    "unofficial_names": [
+      "Boe"
+    ],
     "geo": {
       "latitude": -0.5414945,
       "longitude": 166.9174893,
@@ -385,13 +392,14 @@
       "no": "Boe",
       "fa": "بخش بوئه"
     },
-    "comments": null,
     "type": "district"
   },
   "07": {
     "name": "Buada",
     "code": "07",
-    "unofficial_names": "Buada",
+    "unofficial_names": [
+      "Buada"
+    ],
     "geo": {
       "latitude": -0.5328777,
       "longitude": 166.9268541,
@@ -451,7 +459,6 @@
       "no": "Buada",
       "fa": "بخش بوادا"
     },
-    "comments": null,
     "type": "district"
   },
   "08": {
@@ -522,13 +529,14 @@
       "fa": "بخش دنیگومودو",
       "ps": "دنیګومودو"
     },
-    "comments": null,
     "type": "district"
   },
   "09": {
     "name": "Ewa",
     "code": "09",
-    "unofficial_names": "Ewa",
+    "unofficial_names": [
+      "Ewa"
+    ],
     "geo": {
       "latitude": -0.5087241,
       "longitude": 166.9369384,
@@ -584,13 +592,14 @@
       "no": "Ewa",
       "fa": "بخش اوا"
     },
-    "comments": null,
     "type": "district"
   },
   "10": {
     "name": "Ijuw",
     "code": "10",
-    "unofficial_names": "Ijuw",
+    "unofficial_names": [
+      "Ijuw"
+    ],
     "geo": {
       "latitude": -0.5202646000000001,
       "longitude": 166.9513432,
@@ -647,13 +656,14 @@
       "no": "Ijuw",
       "fa": "ناحیه ایجوو"
     },
-    "comments": null,
     "type": "district"
   },
   "11": {
     "name": "Meneng",
     "code": "11",
-    "unofficial_names": "Meneng",
+    "unofficial_names": [
+      "Meneng"
+    ],
     "geo": {
       "latitude": -0.546724,
       "longitude": 166.938379,
@@ -713,13 +723,14 @@
       "be": "Мененг",
       "fa": "بخش مننگ"
     },
-    "comments": null,
     "type": "district"
   },
   "12": {
     "name": "Nibok",
     "code": "12",
-    "unofficial_names": "Nibok",
+    "unofficial_names": [
+      "Nibok"
+    ],
     "geo": {
       "latitude": -0.5225124,
       "longitude": 166.9254134,
@@ -777,13 +788,14 @@
       "no": "Nibok",
       "fa": "بخش نیبوک"
     },
-    "comments": null,
     "type": "district"
   },
   "13": {
     "name": "Uaboe",
     "code": "13",
-    "unofficial_names": "Uaboe",
+    "unofficial_names": [
+      "Uaboe"
+    ],
     "geo": {
       "latitude": -0.5173398,
       "longitude": 166.9290151,
@@ -840,13 +852,14 @@
       "no": "Uaboe",
       "fa": "ناحیه اوابو"
     },
-    "comments": null,
     "type": "district"
   },
   "14": {
     "name": "Yaren",
     "code": "14",
-    "unofficial_names": "Yaren",
+    "unofficial_names": [
+      "Yaren"
+    ],
     "geo": {
       "latitude": -0.5466856999999999,
       "longitude": 166.9210913,
@@ -926,7 +939,6 @@
       "no": "Yaren",
       "is": "Jaren"
     },
-    "comments": null,
     "type": "district"
   }
 }

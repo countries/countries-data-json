@@ -85,13 +85,14 @@
       "ga": "cantún Aargau",
       "ps": "آرګاو"
     },
-    "comments": null,
     "type": "canton"
   },
   "AI": {
     "name": "Appenzell Innerrhoden (de)",
     "code": "AI",
-    "unofficial_names": "Appenzell Innerrhoden (de)",
+    "unofficial_names": [
+      "Appenzell Innerrhoden (de)"
+    ],
     "geo": {
       "latitude": 47.3161925,
       "longitude": 9.4316573,
@@ -169,7 +170,6 @@
       "hy": "Ապենցել Իներռոդեն",
       "ps": "آفنڅل یننر هودن"
     },
-    "comments": null,
     "type": "canton"
   },
   "AR": {
@@ -256,7 +256,6 @@
       "hy": "Ապենցել Աուսերռոդեն",
       "ps": "آفنڅل اوزر هودن"
     },
-    "comments": null,
     "type": "canton"
   },
   "BE": {
@@ -342,7 +341,6 @@
       "hr": "Bern (kanton)",
       "hy": "Բեռն"
     },
-    "comments": null,
     "type": "canton"
   },
   "BL": {
@@ -427,7 +425,6 @@
       "ga": "Basel-Landschaft",
       "ps": "بازل"
     },
-    "comments": null,
     "type": "canton"
   },
   "BS": {
@@ -516,7 +513,6 @@
       "ga": "Basel-Stadt",
       "hy": "Բազել Շտադտ"
     },
-    "comments": null,
     "type": "canton"
   },
   "FR": {
@@ -602,7 +598,6 @@
       "ga": "cantún Fribourg",
       "hy": "Ֆրիբուրգ"
     },
-    "comments": null,
     "type": "canton"
   },
   "GE": {
@@ -686,7 +681,6 @@
       "el": "καντόνι της Γενεύης",
       "ga": "cantún na Ginéive"
     },
-    "comments": null,
     "type": "canton"
   },
   "GL": {
@@ -771,7 +765,6 @@
       "no": "Glarus",
       "ga": "cantún Glarus"
     },
-    "comments": null,
     "type": "canton"
   },
   "GR": {
@@ -861,13 +854,14 @@
       "ga": "Graubünden",
       "ps": "ګراو بوندن"
     },
-    "comments": null,
     "type": "canton"
   },
   "JU": {
     "name": "Jura (fr)",
     "code": "JU",
-    "unofficial_names": "Jura (fr)",
+    "unofficial_names": [
+      "Jura (fr)"
+    ],
     "geo": {
       "latitude": 47.3444474,
       "longitude": 7.143060800000001,
@@ -944,7 +938,6 @@
       "ga": "cantún Jura",
       "hy": "Յուրա"
     },
-    "comments": null,
     "type": "canton"
   },
   "LU": {
@@ -1031,7 +1024,6 @@
       "ga": "cantún Lucerne",
       "hy": "Լյուցերն"
     },
-    "comments": null,
     "type": "canton"
   },
   "NE": {
@@ -1119,7 +1111,6 @@
       "hy": "Նևշատել",
       "ps": "نوین بورګ"
     },
-    "comments": null,
     "type": "canton"
   },
   "NW": {
@@ -1203,7 +1194,6 @@
       "ga": "Nidwalden",
       "ps": "نید والدن"
     },
-    "comments": null,
     "type": "canton"
   },
   "OW": {
@@ -1289,7 +1279,6 @@
       "hy": "Օբվալդեն",
       "ps": "اوب والدن"
     },
-    "comments": null,
     "type": "canton"
   },
   "SG": {
@@ -1378,7 +1367,6 @@
       "ga": "cantún St. Gallen",
       "hy": "Սուրբ Գալլենի կանտոն"
     },
-    "comments": null,
     "type": "canton"
   },
   "SH": {
@@ -1461,7 +1449,6 @@
       "ga": "cantún Schaffhausen",
       "hy": "Շաֆհաուզեն կանտոն"
     },
-    "comments": null,
     "type": "canton"
   },
   "SO": {
@@ -1546,13 +1533,14 @@
       "ga": "cantún Solothurn",
       "hy": "Զոլոտուրն"
     },
-    "comments": null,
     "type": "canton"
   },
   "SZ": {
     "name": "Schwyz (de)",
     "code": "SZ",
-    "unofficial_names": "Schwyz (de)",
+    "unofficial_names": [
+      "Schwyz (de)"
+    ],
     "geo": {
       "latitude": 47.0198346,
       "longitude": 8.647397699999999,
@@ -1631,7 +1619,6 @@
       "af": "Kanton Schwyz",
       "ga": "Schwyz"
     },
-    "comments": null,
     "type": "canton"
   },
   "TG": {
@@ -1719,7 +1706,6 @@
       "hy": "Տուրգաու",
       "ps": "تورګاو"
     },
-    "comments": null,
     "type": "canton"
   },
   "TI": {
@@ -1808,13 +1794,14 @@
       "af": "Kanton Ticino",
       "ga": "cantún Ticino"
     },
-    "comments": null,
     "type": "canton"
   },
   "UR": {
     "name": "Uri (de)",
     "code": "UR",
-    "unofficial_names": "Uri (de)",
+    "unofficial_names": [
+      "Uri (de)"
+    ],
     "geo": {
       "latitude": 46.7738629,
       "longitude": 8.602515300000002,
@@ -1893,7 +1880,6 @@
       "hy": "Ուրի",
       "ps": "اوري (کانتون)"
     },
-    "comments": null,
     "type": "canton"
   },
   "VD": {
@@ -1982,7 +1968,6 @@
       "ps": "وادت",
       "sl": "Vaud"
     },
-    "comments": null,
     "type": "canton"
   },
   "VS": {
@@ -2071,7 +2056,6 @@
       "hy": "Վալե",
       "ps": "والیز"
     },
-    "comments": null,
     "type": "canton"
   },
   "ZG": {
@@ -2157,7 +2141,6 @@
       "ga": "cantún Zug",
       "hy": "Ցուգի կանտոն"
     },
-    "comments": null,
     "type": "canton"
   },
   "ZH": {
@@ -2247,7 +2230,6 @@
       "az": "Sürix kantonu",
       "ga": "cantún Zürich"
     },
-    "comments": null,
     "type": "canton"
   }
 }

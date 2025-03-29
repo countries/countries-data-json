@@ -641,7 +641,9 @@
   "AGD": {
     "name": "Agadir*",
     "code": "AGD",
-    "unofficial_names": "Agadir*",
+    "unofficial_names": [
+      "Agadir*"
+    ],
     "geo": {
       "latitude": 30.4277547,
       "longitude": -9.5981072,
@@ -711,13 +713,14 @@
       "mk": "Агадир",
       "no": "Agadir"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "AOU": {
     "name": "Aousserd",
     "code": "AOU",
-    "unofficial_names": "Aousserd",
+    "unofficial_names": [
+      "Aousserd"
+    ],
     "geo": {
       "latitude": 30.3920338,
       "longitude": -9.564496499999999,
@@ -743,13 +746,14 @@
       "cy": "Talaith Aousserd",
       "pl": "Ausard (prowincja)"
     },
-    "comments": null,
     "type": "province"
   },
   "ASZ": {
     "name": "Assa-Zag",
     "code": "ASZ",
-    "unofficial_names": "Assa-Zag",
+    "unofficial_names": [
+      "Assa-Zag"
+    ],
     "geo": {
       "latitude": 28.1402395,
       "longitude": -9.7232673,
@@ -776,13 +780,14 @@
       "ccp": "𑄃𑄌𑄳𑄦𑄴-𑄎𑄇𑄴",
       "cy": "Talaith Assa-Zag"
     },
-    "comments": null,
     "type": "province"
   },
   "AZI": {
     "name": "Azilal",
     "code": "AZI",
-    "unofficial_names": "Azilal",
+    "unofficial_names": [
+      "Azilal"
+    ],
     "geo": {
       "latitude": 31.966944,
       "longitude": -6.569444,
@@ -809,13 +814,14 @@
       "cy": "Talaith Azilal",
       "da": "Azilal (provins)"
     },
-    "comments": null,
     "type": "province"
   },
   "BAH": {
     "name": "Aït Baha",
     "code": "BAH",
-    "unofficial_names": "Aït Baha",
+    "unofficial_names": [
+      "Aït Baha"
+    ],
     "geo": {
       "latitude": 30.0688758,
       "longitude": -9.152534,
@@ -828,13 +834,14 @@
       "en": "Aït Baha",
       "ja": "アイト・バハ州"
     },
-    "comments": null,
     "type": "province"
   },
   "BEM": {
     "name": "Beni Mellal",
     "code": "BEM",
-    "unofficial_names": "Beni Mellal",
+    "unofficial_names": [
+      "Beni Mellal"
+    ],
     "geo": {
       "latitude": 32.339444,
       "longitude": -6.360833,
@@ -861,13 +868,14 @@
       "cy": "Talaith Béni-Mellal",
       "da": "Béni-Mellal (provins)"
     },
-    "comments": null,
     "type": "province"
   },
   "BER": {
     "name": "Berkane",
     "code": "BER",
-    "unofficial_names": "Berkane",
+    "unofficial_names": [
+      "Berkane"
+    ],
     "geo": {
       "latitude": 34.916667,
       "longitude": -2.316667,
@@ -894,13 +902,14 @@
       "ccp": "𑄝𑄬𑄢𑄴𑄇𑄚𑄴",
       "cy": "Talaith Berkane"
     },
-    "comments": null,
     "type": "province"
   },
   "BES": {
     "name": "Ben Slimane",
     "code": "BES",
-    "unofficial_names": "Ben Slimane",
+    "unofficial_names": [
+      "Ben Slimane"
+    ],
     "geo": {
       "latitude": 33.616667,
       "longitude": -7.116667,
@@ -927,13 +936,14 @@
       "cy": "Talaith Ben Slimane",
       "pt": "Benslimane (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "BOD": {
     "name": "Boujdour (EH)",
     "code": "BOD",
-    "unofficial_names": "Boujdour (EH)",
+    "unofficial_names": [
+      "Boujdour (EH)"
+    ],
     "geo": {
       "latitude": 27.8521664,
       "longitude": -12.1632718,
@@ -959,13 +969,14 @@
       "cy": "Talaith Boujdour",
       "ru": "Буждур"
     },
-    "comments": null,
     "type": "province"
   },
   "BOM": {
     "name": "Boulemane",
     "code": "BOM",
-    "unofficial_names": "Boulemane",
+    "unofficial_names": [
+      "Boulemane"
+    ],
     "geo": {
       "latitude": 33.3625159,
       "longitude": -4.7303397,
@@ -991,14 +1002,11 @@
       "cy": "Talaith Boulemane",
       "fa": "استان بولمان"
     },
-    "comments": null,
     "type": "province"
   },
   "BRR": {
     "name": "Berrechid",
     "code": "BRR",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Berrechid",
       "ar": "إقليم برشيد",
@@ -1014,13 +1022,14 @@
       "pt": "Berrechid (província)",
       "ur": "برشید صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "CAS": {
     "name": "Casablanca [Dar el Beïda]",
     "code": "CAS",
-    "unofficial_names": "Casablanca [Dar el Beïda]",
+    "unofficial_names": [
+      "Casablanca [Dar el Beïda]"
+    ],
     "geo": {
       "latitude": 33.5731104,
       "longitude": -7.589843399999999,
@@ -1112,13 +1121,14 @@
       "ceb": "Casablanca",
       "ga": "Casablanca"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "CHE": {
     "name": "Chefchaouene",
     "code": "CHE",
-    "unofficial_names": "Chefchaouene",
+    "unofficial_names": [
+      "Chefchaouene"
+    ],
     "geo": {
       "latitude": 35.171389,
       "longitude": -5.269722000000001,
@@ -1146,13 +1156,14 @@
       "pt": "Xexuão (província)",
       "uk": "Шафшаван (провінція)"
     },
-    "comments": null,
     "type": "province"
   },
   "CHI": {
     "name": "Chichaoua",
     "code": "CHI",
-    "unofficial_names": "Chichaoua",
+    "unofficial_names": [
+      "Chichaoua"
+    ],
     "geo": {
       "latitude": 31.533333,
       "longitude": -8.766667,
@@ -1180,13 +1191,14 @@
       "ccp": "𑄌𑄨𑄌𑄯𑄤",
       "cy": "Talaith Chichaoua"
     },
-    "comments": null,
     "type": "province"
   },
   "CHT": {
     "name": "Chtouka-Ait Baha",
     "code": "CHT",
-    "unofficial_names": "Chtouka-Ait Baha",
+    "unofficial_names": [
+      "Chtouka-Ait Baha"
+    ],
     "geo": {
       "latitude": 30.0688758,
       "longitude": -9.152534,
@@ -1213,14 +1225,11 @@
       "ccp": "𑄑𑄮𑄇 𑄃𑄃𑄨𑄖𑄴 𑄝𑄦",
       "cy": "Talaith Shtouka Ait Baha"
     },
-    "comments": null,
     "type": "province"
   },
   "DRI": {
     "name": "Driouch",
     "code": "DRI",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Driouch",
       "ar": "إقليم الدريوش",
@@ -1235,13 +1244,14 @@
       "nl": "Driouch",
       "ur": "دریوش صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "ERR": {
     "name": "Errachidia",
     "code": "ERR",
-    "unofficial_names": "Errachidia",
+    "unofficial_names": [
+      "Errachidia"
+    ],
     "geo": {
       "latitude": 31.931944,
       "longitude": -4.424443999999999,
@@ -1268,13 +1278,14 @@
       "cy": "Talaith Errachidia",
       "ro": "Errachidia"
     },
-    "comments": null,
     "type": "province"
   },
   "ESI": {
     "name": "Essaouira",
     "code": "ESI",
-    "unofficial_names": "Essaouira",
+    "unofficial_names": [
+      "Essaouira"
+    ],
     "geo": {
       "latitude": 31.5084926,
       "longitude": -9.7595041,
@@ -1302,13 +1313,14 @@
       "ccp": "𑄃𑄨𑄥𑄯𑄃𑄨𑄢",
       "cy": "Talaith Essaouira"
     },
-    "comments": null,
     "type": "province"
   },
   "ESM": {
     "name": "Es Smara (EH)",
     "code": "ESM",
-    "unofficial_names": "Es Smara (EH)",
+    "unofficial_names": [
+      "Es Smara (EH)"
+    ],
     "geo": {
       "latitude": 28.7082053,
       "longitude": -9.5450974,
@@ -1334,13 +1346,14 @@
       "cy": "Talaith Es Semara",
       "ru": "Эс-Семара"
     },
-    "comments": null,
     "type": "province"
   },
   "FAH": {
     "name": "Fahs-Beni Makada",
     "code": "FAH",
-    "unofficial_names": "Fahs-Beni Makada",
+    "unofficial_names": [
+      "Fahs-Beni Makada"
+    ],
     "geo": {
       "latitude": 35.757668,
       "longitude": -5.8109107,
@@ -1369,13 +1382,14 @@
       "cy": "Talaith Fahs Anjra",
       "pt": "Fahs-Anjra"
     },
-    "comments": null,
     "type": "province"
   },
   "FES": {
     "name": "Fès",
     "code": "FES",
-    "unofficial_names": "Fès",
+    "unofficial_names": [
+      "Fès"
+    ],
     "geo": {
       "latitude": 34.033333,
       "longitude": -5,
@@ -1460,13 +1474,14 @@
       "yue": "非斯",
       "yue_Hans": "非斯"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "FIG": {
     "name": "Figuig",
     "code": "FIG",
-    "unofficial_names": "Figuig",
+    "unofficial_names": [
+      "Figuig"
+    ],
     "geo": {
       "latitude": 32.1092613,
       "longitude": -1.229806,
@@ -1494,13 +1509,11 @@
       "cy": "Talaith Figuig",
       "ru": "Фигиг"
     },
-    "comments": null,
     "type": "province"
   },
   "FQH": {
     "name": "Fquih Ben Salah",
     "code": "FQH",
-    "unofficial_names": null,
     "geo": {
       "latitude": 31.791702,
       "longitude": -7.092619999999999,
@@ -1520,13 +1533,14 @@
       "it": "Provincia di Fquih Ben Salah",
       "ja": "フキレ・ベンヌ・サラ州"
     },
-    "comments": null,
     "type": "province"
   },
   "GUE": {
     "name": "Guelmim",
     "code": "GUE",
-    "unofficial_names": "Guelmim",
+    "unofficial_names": [
+      "Guelmim"
+    ],
     "geo": {
       "latitude": 28.98333299999999,
       "longitude": -10.066667,
@@ -1577,13 +1591,11 @@
       "no": "Guelmim Kommune",
       "cy": "Talaith Guelmim"
     },
-    "comments": null,
     "type": "province"
   },
   "GUF": {
     "name": "Guercif",
     "code": "GUF",
-    "unofficial_names": null,
     "geo": {
       "latitude": 39.5059889,
       "longitude": 2.5307101,
@@ -1605,13 +1617,14 @@
       "nl": "Guercif",
       "ur": "جرسیف صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "HAJ": {
     "name": "El Hajeb",
     "code": "HAJ",
-    "unofficial_names": "El Hajeb",
+    "unofficial_names": [
+      "El Hajeb"
+    ],
     "geo": {
       "latitude": 33.692778,
       "longitude": -5.371111,
@@ -1635,13 +1648,14 @@
       "ccp": "𑄃𑄬𑄣𑄴 𑄝𑄎𑄨𑄛𑄴",
       "cy": "Talaith El Hajeb"
     },
-    "comments": null,
     "type": "province"
   },
   "HAO": {
     "name": "Al Haouz",
     "code": "HAO",
-    "unofficial_names": "Al Haouz",
+    "unofficial_names": [
+      "Al Haouz"
+    ],
     "geo": {
       "latitude": 31.2956729,
       "longitude": -7.872159999999999,
@@ -1672,13 +1686,14 @@
       "ru": "Эль-Хауз (провинция)",
       "uk": "Провінція Аль-Хауз"
     },
-    "comments": null,
     "type": "province"
   },
   "HOC": {
     "name": "Al Hoceïma",
     "code": "HOC",
-    "unofficial_names": "Al Hoceïma",
+    "unofficial_names": [
+      "Al Hoceïma"
+    ],
     "geo": {
       "latitude": 35.25,
       "longitude": -3.933333,
@@ -1707,13 +1722,14 @@
       "cy": "Talaith Al Hoceïma",
       "pt": "Al Hoceima (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "IFR": {
     "name": "Ifrane",
     "code": "IFR",
-    "unofficial_names": "Ifrane",
+    "unofficial_names": [
+      "Ifrane"
+    ],
     "geo": {
       "latitude": 33.5228062,
       "longitude": -5.1109552,
@@ -1740,21 +1756,11 @@
       "cy": "Talaith Ifrane",
       "uk": "Іфран (провінція)"
     },
-    "comments": null,
     "type": "province"
   },
   "INE": {
     "name": "عمالة إنزكان آيت ملول",
     "code": "INE",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "عمالة إنزكان آيت ملول",
       "ca": "Prefectura d’Inezgane-Aït Melloul",
@@ -1773,13 +1779,14 @@
       "ccp": "𑄃𑄨𑄚𑄬𑄌𑄴𑄉𑄚𑄴-𑄃𑄃𑄨𑄖𑄴 𑄟𑄣𑄃𑄯𑄣𑄴",
       "eu": "Inezgane-Ait Melloul prefektura"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "JDI": {
     "name": "El Jadida",
     "code": "JDI",
-    "unofficial_names": "El Jadida",
+    "unofficial_names": [
+      "El Jadida"
+    ],
     "geo": {
       "latitude": 33.233333,
       "longitude": -8.5,
@@ -1805,13 +1812,14 @@
       "cy": "Talaith El Jadida",
       "pt": "El Jadida (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "JRA": {
     "name": "Jerada",
     "code": "JRA",
-    "unofficial_names": "Jerada",
+    "unofficial_names": [
+      "Jerada"
+    ],
     "geo": {
       "latitude": 34.311667,
       "longitude": -2.163611,
@@ -1838,13 +1846,14 @@
       "ccp": "𑄎𑄬𑄢𑄓",
       "cy": "Talaith Jerada"
     },
-    "comments": null,
     "type": "province"
   },
   "KEN": {
     "name": "Kénitra",
     "code": "KEN",
-    "unofficial_names": "Kénitra",
+    "unofficial_names": [
+      "Kénitra"
+    ],
     "geo": {
       "latitude": 34.25,
       "longitude": -6.583333,
@@ -1873,13 +1882,14 @@
       "cy": "Talaith Kénitra",
       "pt": "Quenitra (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "KES": {
     "name": "Kelaat Sraghna",
     "code": "KES",
-    "unofficial_names": "Kelaat Sraghna",
+    "unofficial_names": [
+      "Kelaat Sraghna"
+    ],
     "geo": {
       "latitude": 32.048056,
       "longitude": -7.408333000000001,
@@ -1907,13 +1917,14 @@
       "ccp": "𑄇𑄬𑄣𑄖𑄴 𑄥𑄳𑄢𑄇𑄴𑄚",
       "cy": "Talaith Kelaat Sraghna"
     },
-    "comments": null,
     "type": "province"
   },
   "KHE": {
     "name": "Khemisset",
     "code": "KHE",
-    "unofficial_names": "Khemisset",
+    "unofficial_names": [
+      "Khemisset"
+    ],
     "geo": {
       "latitude": 33.816667,
       "longitude": -6.066667,
@@ -1939,13 +1950,14 @@
       "cy": "Talaith Khémisset",
       "pt": "Khémisset (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "KHN": {
     "name": "Khenifra",
     "code": "KHN",
-    "unofficial_names": "Khenifra",
+    "unofficial_names": [
+      "Khenifra"
+    ],
     "geo": {
       "latitude": 32.939444,
       "longitude": -5.6675,
@@ -1969,13 +1981,14 @@
       "ccp": "𑄈𑄬𑄚𑄨𑄜𑄳𑄢",
       "cy": "Talaith Khénifra"
     },
-    "comments": null,
     "type": "province"
   },
   "KHO": {
     "name": "Khouribga",
     "code": "KHO",
-    "unofficial_names": "Khouribga",
+    "unofficial_names": [
+      "Khouribga"
+    ],
     "geo": {
       "latitude": 32.886023,
       "longitude": -6.9208655,
@@ -2001,13 +2014,14 @@
       "cy": "Talaith Khouribga",
       "pt": "Khouribga (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "LAA": {
     "name": "Laâyoune* (EH)",
     "code": "LAA",
-    "unofficial_names": "Laâyoune* (EH)",
+    "unofficial_names": [
+      "Laâyoune* (EH)"
+    ],
     "geo": {
       "latitude": 27.1252867,
       "longitude": -13.1625005,
@@ -2032,13 +2046,14 @@
       "zh": "阿尤恩省",
       "ccp": "𑄣𑄬𑄃𑄯𑄚𑄴"
     },
-    "comments": null,
     "type": "province"
   },
   "LAR": {
     "name": "Larache",
     "code": "LAR",
-    "unofficial_names": "Larache",
+    "unofficial_names": [
+      "Larache"
+    ],
     "geo": {
       "latitude": 35.183333,
       "longitude": -6.15,
@@ -2068,13 +2083,14 @@
       "da": "Larache",
       "pt": "Larache (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "MAR": {
     "name": "Marrakech",
     "code": "MAR",
-    "unofficial_names": "Marrakech",
+    "unofficial_names": [
+      "Marrakech"
+    ],
     "geo": {
       "latitude": 31.63,
       "longitude": -8.008889,
@@ -2097,13 +2113,11 @@
       "pt": "Marraquexe (prefeitura)",
       "ru": "Марракеш"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MDF": {
     "name": "M’diq-Fnideq",
     "code": "MDF",
-    "unofficial_names": null,
     "geo": {
       "latitude": 33.5521196,
       "longitude": -7.4780258
@@ -2120,13 +2134,14 @@
       "nl": "M’diq-Fnideq",
       "pt": "M’diq-Fnideq"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MED": {
     "name": "Médiouna",
     "code": "MED",
-    "unofficial_names": "Médiouna",
+    "unofficial_names": [
+      "Médiouna"
+    ],
     "geo": {
       "latitude": 33.4525,
       "longitude": -7.514722,
@@ -2151,13 +2166,14 @@
       "cy": "Talaith Mediouna",
       "pt": "Médiouna (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "MEK": {
     "name": "Meknès*",
     "code": "MEK",
-    "unofficial_names": "Meknès*",
+    "unofficial_names": [
+      "Meknès*"
+    ],
     "geo": {
       "latitude": 33.895,
       "longitude": -5.554722,
@@ -2225,13 +2241,14 @@
       "mk": "Мекнес",
       "no": "Meknes"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MEL": {
     "name": "Aït Melloul",
     "code": "MEL",
-    "unofficial_names": "Aït Melloul",
+    "unofficial_names": [
+      "Aït Melloul"
+    ],
     "geo": {
       "latitude": 30.334167,
       "longitude": -9.497221999999999,
@@ -2243,13 +2260,11 @@
     "translations": {
       "en": "Aït Melloul"
     },
-    "comments": null,
     "type": "province"
   },
   "MID": {
     "name": "Midelt",
     "code": "MID",
-    "unofficial_names": null,
     "geo": {
       "latitude": 31.791702,
       "longitude": -7.092619999999999,
@@ -2269,21 +2284,11 @@
       "ja": "ミデルト州",
       "nl": "Midelt"
     },
-    "comments": null,
     "type": "province"
   },
   "MMD": {
     "name": "مراكش",
     "code": "MMD",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Marrakesj",
       "ar": "مراكش",
@@ -2345,21 +2350,11 @@
       "ccp": "𑄟𑄢𑄇𑄬𑄌𑄴-𑄟𑄬𑄓𑄨𑄚",
       "no": "Marrakech"
     },
-    "comments": null,
     "type": "province"
   },
   "MMN": {
     "name": "مراكش²",
     "code": "MMN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Marrakesj²",
       "ar": "مراكش²",
@@ -2421,21 +2416,11 @@
       "ccp": "𑄟𑄢𑄇𑄬𑄌𑄴-𑄟𑄬𑄚𑄢",
       "no": "Marrakech²"
     },
-    "comments": null,
     "type": "province"
   },
   "MOH": {
     "name": "المحمدية",
     "code": "MOH",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "المحمدية",
       "az": "Məhəmmədiyyə",
@@ -2486,13 +2471,14 @@
       "ga": "Mohammedia",
       "sw": "Mohammedia"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "MOU": {
     "name": "Moulay Yacoub",
     "code": "MOU",
-    "unofficial_names": "Moulay Yacoub",
+    "unofficial_names": [
+      "Moulay Yacoub"
+    ],
     "geo": {
       "latitude": 34.0878,
       "longitude": -5.1811,
@@ -2517,13 +2503,14 @@
       "ccp": "𑄟𑄯𑄣𑄬 𑄃𑄨𑄠𑄇𑄪𑄛𑄴",
       "cy": "Talaith Moulay Yacoub"
     },
-    "comments": null,
     "type": "province"
   },
   "NAD": {
     "name": "Nador",
     "code": "NAD",
-    "unofficial_names": "Nador",
+    "unofficial_names": [
+      "Nador"
+    ],
     "geo": {
       "latitude": 35.166667,
       "longitude": -2.933333,
@@ -2555,20 +2542,17 @@
       "ko": "나도르주",
       "pt": "Nador (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "NOU": {
     "name": "Nouaceur",
     "code": "NOU",
-    "unofficial_names": "Nouaceur",
+    "unofficial_names": [
+      "Nouaceur"
+    ],
     "geo": {
       "latitude": 33.3721834,
-      "longitude": -7.547006599999999,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -7.547006599999999
     },
     "translations": {
       "en": "Nouaceur",
@@ -2587,13 +2571,14 @@
       "cy": "Talaith Nouaceur",
       "pt": "Nouaceur (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "OUA": {
     "name": "Ouarzazate",
     "code": "OUA",
-    "unofficial_names": "Ouarzazate",
+    "unofficial_names": [
+      "Ouarzazate"
+    ],
     "geo": {
       "latitude": 30.9335436,
       "longitude": -6.937016,
@@ -2620,13 +2605,14 @@
       "ccp": "𑄇𑄯𑄢𑄴𑄎𑄎𑄖𑄴",
       "cy": "Talaith Ouarzazate"
     },
-    "comments": null,
     "type": "province"
   },
   "OUD": {
     "name": "Oued ed Dahab (EH)",
     "code": "OUD",
-    "unofficial_names": "Oued ed Dahab (EH)",
+    "unofficial_names": [
+      "Oued ed Dahab (EH)"
+    ],
     "geo": {
       "latitude": 21.369212,
       "longitude": -16.9570741,
@@ -2677,13 +2663,14 @@
       "no": "Oued ed-Dahab provins",
       "cy": "Talaith Oued Ed-Dahab"
     },
-    "comments": null,
     "type": "province"
   },
   "OUJ": {
     "name": "Oujda-Angad",
     "code": "OUJ",
-    "unofficial_names": "Oujda",
+    "unofficial_names": [
+      "Oujda"
+    ],
     "geo": {
       "latitude": 34.686667,
       "longitude": -1.911389,
@@ -2753,13 +2740,11 @@
       "hy": "Ուջա",
       "sw": "Oujda"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "OUZ": {
     "name": "Ouezzane",
     "code": "OUZ",
-    "unofficial_names": null,
     "geo": {
       "latitude": 31.791702,
       "longitude": -7.092619999999999,
@@ -2781,21 +2766,11 @@
       "pt": "Ouezzane (província)",
       "ur": "وزان صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "RAB": {
     "name": "الرباط",
     "code": "RAB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Rabat",
       "am": "ራባት",
@@ -2880,14 +2855,11 @@
       "no": "Rabat",
       "yo_BJ": "Rabat"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "REH": {
     "name": "Rehamna",
     "code": "REH",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Rehamna",
       "ar": "إقليم الرحامنة",
@@ -2902,13 +2874,14 @@
       "pt": "Rehamna (província)",
       "ur": "رحامنہ صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "SAF": {
     "name": "Safi",
     "code": "SAF",
-    "unofficial_names": "Safi",
+    "unofficial_names": [
+      "Safi"
+    ],
     "geo": {
       "latitude": 32.3008151,
       "longitude": -9.2272033,
@@ -2935,13 +2908,14 @@
       "cy": "Talaith Safi",
       "pt": "Safim (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "SAL": {
     "name": "Salé",
     "code": "SAL",
-    "unofficial_names": "Salé",
+    "unofficial_names": [
+      "Salé"
+    ],
     "geo": {
       "latitude": 34.0336969,
       "longitude": -6.770813800000001,
@@ -3009,13 +2983,14 @@
       "ha": "Salé",
       "ha_NE": "Salé"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "SEF": {
     "name": "Sefrou",
     "code": "SEF",
-    "unofficial_names": "Sefrou",
+    "unofficial_names": [
+      "Sefrou"
+    ],
     "geo": {
       "latitude": 33.8305244,
       "longitude": -4.835315400000001,
@@ -3040,13 +3015,14 @@
       "ccp": "𑄥𑄬𑄜𑄳𑄢𑄧𑄮",
       "cy": "Talaith Sefrou"
     },
-    "comments": null,
     "type": "province"
   },
   "SET": {
     "name": "Settat",
     "code": "SET",
-    "unofficial_names": "Settat",
+    "unofficial_names": [
+      "Settat"
+    ],
     "geo": {
       "latitude": 33,
       "longitude": -7.6167,
@@ -3072,14 +3048,11 @@
       "cy": "Talaith Settat",
       "pt": "Settat (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "SIB": {
     "name": "Sidi Bennour",
     "code": "SIB",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Sidi Bennour",
       "ar": "إقليم سيدي بنور",
@@ -3097,13 +3070,11 @@
       "sv": "Sidi Bennour (provins)",
       "ur": "صوبہ سیدی بنور"
     },
-    "comments": null,
     "type": "province"
   },
   "SIF": {
     "name": "Sidi Ifni",
     "code": "SIF",
-    "unofficial_names": null,
     "geo": {
       "latitude": 26.660768,
       "longitude": 49.8393179,
@@ -3126,13 +3097,14 @@
       "pt": "Sidi Ifni",
       "ru": "Сиди-Ифни"
     },
-    "comments": null,
     "type": "province"
   },
   "SIK": {
     "name": "Sidi Kacem",
     "code": "SIK",
-    "unofficial_names": "Sidi Kacem",
+    "unofficial_names": [
+      "Sidi Kacem"
+    ],
     "geo": {
       "latitude": 34.216667,
       "longitude": -5.7,
@@ -3160,13 +3132,11 @@
       "cy": "Talaith Sidi Kacem",
       "pt": "Sidi Kacem (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "SIL": {
     "name": "Sidi Slimane",
     "code": "SIL",
-    "unofficial_names": null,
     "geo": {
       "latitude": 37.147821,
       "longitude": -8.5584885
@@ -3184,13 +3154,14 @@
       "pt": "Sidi Slimane (província)",
       "ur": "سیدی سلیمان صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "SKH": {
     "name": "Skhirate-Témara",
     "code": "SKH",
-    "unofficial_names": "Skhirate-Témara",
+    "unofficial_names": [
+      "Skhirate-Témara"
+    ],
     "geo": {
       "latitude": 33.9278354,
       "longitude": -6.9051819,
@@ -3244,13 +3215,14 @@
       "eu": "Temara",
       "ga": "Temara"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "SYB": {
     "name": "Sidi Youssef Ben Ali",
     "code": "SYB",
-    "unofficial_names": "Sidi Youssef Ben Ali",
+    "unofficial_names": [
+      "Sidi Youssef Ben Ali"
+    ],
     "geo": {
       "latitude": 31.6084373,
       "longitude": -7.965306699999999,
@@ -3320,13 +3292,11 @@
       "ccp": "𑄥𑄨𑄓𑄨 𑄃𑄨𑄅𑄪𑄥𑄬𑄛𑄴 𑄝𑄬𑄚𑄴 𑄃𑄣𑄨",
       "no": "Marrakech³"
     },
-    "comments": null,
     "type": "province"
   },
   "TAF": {
     "name": "Tarfaya (EH-partial)",
     "code": "TAF",
-    "unofficial_names": null,
     "geo": {
       "latitude": 31.6360026,
       "longitude": -8.057429899999999,
@@ -3346,13 +3316,14 @@
       "it": "provincia di Tarfaya",
       "ja": "タルファヤ州"
     },
-    "comments": null,
     "type": "province"
   },
   "TAI": {
     "name": "Taourirt",
     "code": "TAI",
-    "unofficial_names": "Taourirt",
+    "unofficial_names": [
+      "Taourirt"
+    ],
     "geo": {
       "latitude": 34.3983716,
       "longitude": -2.8935028,
@@ -3379,13 +3350,14 @@
       "cy": "Talaith Taourirt",
       "ru": "Таурирт"
     },
-    "comments": null,
     "type": "province"
   },
   "TAO": {
     "name": "Taounate",
     "code": "TAO",
-    "unofficial_names": "Taounate",
+    "unofficial_names": [
+      "Taounate"
+    ],
     "geo": {
       "latitude": 34.535833,
       "longitude": -4.64,
@@ -3411,13 +3383,14 @@
       "cy": "Talaith Taounate",
       "pt": "Taounate (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "TAR": {
     "name": "Taroudannt",
     "code": "TAR",
-    "unofficial_names": "Taroudannt",
+    "unofficial_names": [
+      "Taroudannt"
+    ],
     "geo": {
       "latitude": 30.466944,
       "longitude": -8.879999999999999,
@@ -3444,13 +3417,14 @@
       "ccp": "𑄑𑄢𑄯𑄓𑄚𑄴𑄑𑄴",
       "cy": "Talaith Taroudant"
     },
-    "comments": null,
     "type": "province"
   },
   "TAT": {
     "name": "Tata",
     "code": "TAT",
-    "unofficial_names": "Tata",
+    "unofficial_names": [
+      "Tata"
+    ],
     "geo": {
       "latitude": 29.742778,
       "longitude": -7.972499999999998,
@@ -3475,13 +3449,14 @@
       "ccp": "𑄑𑄑",
       "cy": "Talaith Tata"
     },
-    "comments": null,
     "type": "province"
   },
   "TAZ": {
     "name": "Taza",
     "code": "TAZ",
-    "unofficial_names": "Taza",
+    "unofficial_names": [
+      "Taza"
+    ],
     "geo": {
       "latitude": 34.216667,
       "longitude": -4.016667,
@@ -3507,13 +3482,14 @@
       "cy": "Talaith Taza",
       "pt": "Taza (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "TET": {
     "name": "Tétouan*",
     "code": "TET",
-    "unofficial_names": "Tétouan*",
+    "unofficial_names": [
+      "Tétouan*"
+    ],
     "geo": {
       "latitude": 35.566667,
       "longitude": -5.366667,
@@ -3540,13 +3516,11 @@
       "cy": "Talaith Tétouan",
       "pt": "Tetuão (província)"
     },
-    "comments": null,
     "type": "province"
   },
   "TIN": {
     "name": "Tinghir",
     "code": "TIN",
-    "unofficial_names": null,
     "geo": {
       "latitude": 30.9263125,
       "longitude": -6.9072676
@@ -3564,13 +3538,14 @@
       "pt": "Tinghir (província)",
       "ur": "تنغیر صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "TIZ": {
     "name": "Tiznit",
     "code": "TIZ",
-    "unofficial_names": "Tiznit",
+    "unofficial_names": [
+      "Tiznit"
+    ],
     "geo": {
       "latitude": 29.693392,
       "longitude": -9.732156999999999,
@@ -3597,13 +3572,14 @@
       "ccp": "𑄑𑄨𑄌𑄴𑄚𑄨𑄖𑄴",
       "cy": "Talaith Tiznit"
     },
-    "comments": null,
     "type": "province"
   },
   "TNG": {
     "name": "Tanger-Assilah",
     "code": "TNG",
-    "unofficial_names": "Tanger",
+    "unofficial_names": [
+      "Tanger"
+    ],
     "geo": {
       "latitude": 35.7594651,
       "longitude": -5.833954299999999,
@@ -3685,13 +3661,14 @@
       "sw": "Tanger",
       "uz": "Tanjer"
     },
-    "comments": null,
     "type": "prefecture"
   },
   "TNT": {
     "name": "Tan-Tan",
     "code": "TNT",
-    "unofficial_names": "Tan-Tan",
+    "unofficial_names": [
+      "Tan-Tan"
+    ],
     "geo": {
       "latitude": 28.4380408,
       "longitude": -11.0987374,
@@ -3717,13 +3694,14 @@
       "ccp": "𑄑𑄚𑄴-𑄑𑄚𑄴",
       "cy": "Talaith Tan-Tan"
     },
-    "comments": null,
     "type": "province"
   },
   "X1~": {
     "name": "Laayoune-Boujdour-Sakia El Hamra",
     "code": "X1~",
-    "unofficial_names": "Laayoune-Boujdour-Sakia El Hamra",
+    "unofficial_names": [
+      "Laayoune-Boujdour-Sakia El Hamra"
+    ],
     "geo": {
       "latitude": 27.8521664,
       "longitude": -12.1632718,
@@ -3735,14 +3713,11 @@
     "translations": {
       "en": "Laayoune-Boujdour-Sakia El Hamra"
     },
-    "comments": null,
     "type": "province"
   },
   "YUS": {
     "name": "Youssoufia",
     "code": "YUS",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "en": "Youssoufia",
       "ar": "إقليم اليوسفية",
@@ -3755,13 +3730,14 @@
       "ja": "ユスーフィーア州",
       "ur": "یوسفیہ صوبہ"
     },
-    "comments": null,
     "type": "province"
   },
   "ZAG": {
     "name": "Zagora",
     "code": "ZAG",
-    "unofficial_names": "Zagora",
+    "unofficial_names": [
+      "Zagora"
+    ],
     "geo": {
       "latitude": 30.330556,
       "longitude": -5.838056,
@@ -3788,7 +3764,6 @@
       "fa": "استان زاکوره",
       "ru": "Загора"
     },
-    "comments": null,
     "type": "province"
   }
 }

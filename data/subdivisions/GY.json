@@ -2,7 +2,9 @@
   "BA": {
     "name": "Barima-Waini",
     "code": "BA",
-    "unofficial_names": "Barima-Waini",
+    "unofficial_names": [
+      "Barima-Waini"
+    ],
     "geo": {
       "latitude": 7.488241899999999,
       "longitude": -59.6564494,
@@ -58,13 +60,14 @@
       "ps": "باریما واینی",
       "ro": "Barima-Waini"
     },
-    "comments": null,
     "type": "region"
   },
   "CU": {
     "name": "Cuyuni-Mazaruni",
     "code": "CU",
-    "unofficial_names": "Cuyuni-Mazaruni",
+    "unofficial_names": [
+      "Cuyuni-Mazaruni"
+    ],
     "geo": {
       "latitude": 6.4642141,
       "longitude": -60.21107519999999,
@@ -118,13 +121,14 @@
       "kk": "Куюни-Мазаруни",
       "ro": "Cuyuni-Mazaruni"
     },
-    "comments": null,
     "type": "region"
   },
   "DE": {
     "name": "Demerara-Mahaica",
     "code": "DE",
-    "unofficial_names": "Demerara-Mahaica",
+    "unofficial_names": [
+      "Demerara-Mahaica"
+    ],
     "geo": {
       "latitude": 6.546425999999999,
       "longitude": -58.0982046,
@@ -179,13 +183,14 @@
       "kk": "Демерара-Махайка",
       "ro": "Demerara-Mahaica"
     },
-    "comments": null,
     "type": "region"
   },
   "EB": {
     "name": "East Berbice-Corentyne",
     "code": "EB",
-    "unofficial_names": "East Berbice-Corentyne",
+    "unofficial_names": [
+      "East Berbice-Corentyne"
+    ],
     "geo": {
       "latitude": 2.7477922,
       "longitude": -57.4627259,
@@ -239,13 +244,14 @@
       "kk": "Шығыс Бербис - Корентайн",
       "ro": "East Berbice-Corentyne"
     },
-    "comments": null,
     "type": "region"
   },
   "ES": {
     "name": "Essequibo Islands-West Demerara",
     "code": "ES",
-    "unofficial_names": "Essequibo Islands-West Demerara",
+    "unofficial_names": [
+      "Essequibo Islands-West Demerara"
+    ],
     "geo": {
       "latitude": 6.5720132,
       "longitude": -58.4629997,
@@ -299,13 +305,14 @@
       "kk": "Эссекибо аралдары - Батыс Демерара",
       "ro": "Essequibo Islands-West Demerara"
     },
-    "comments": null,
     "type": "region"
   },
   "MA": {
     "name": "Mahaica-Berbice",
     "code": "MA",
-    "unofficial_names": "Mahaica-Berbice",
+    "unofficial_names": [
+      "Mahaica-Berbice"
+    ],
     "geo": {
       "latitude": 6.238496,
       "longitude": -57.9162555,
@@ -342,13 +349,14 @@
       "kk": "Махайка-Бербис",
       "ro": "Mahaica-Berbice"
     },
-    "comments": null,
     "type": "region"
   },
   "PM": {
     "name": "Pomeroon-Supenaam",
     "code": "PM",
-    "unofficial_names": "Pomeroon-Supenaam",
+    "unofficial_names": [
+      "Pomeroon-Supenaam"
+    ],
     "geo": {
       "latitude": 7.1294166,
       "longitude": -58.9206295,
@@ -402,13 +410,14 @@
       "kk": "Померун-Супенаам",
       "ro": "Pomeroon-Supenaam"
     },
-    "comments": null,
     "type": "region"
   },
   "PT": {
     "name": "Potaro-Siparuni",
     "code": "PT",
-    "unofficial_names": "Potaro-Siparuni",
+    "unofficial_names": [
+      "Potaro-Siparuni"
+    ],
     "geo": {
       "latitude": 4.7855853,
       "longitude": -59.28799770000001,
@@ -462,13 +471,14 @@
       "kk": "Потаро-Сипаруни",
       "ro": "Potaro-Siparuni"
     },
-    "comments": null,
     "type": "region"
   },
   "UD": {
     "name": "Upper Demerara-Berbice",
     "code": "UD",
-    "unofficial_names": "Upper Demerara-Berbice",
+    "unofficial_names": [
+      "Upper Demerara-Berbice"
+    ],
     "geo": {
       "latitude": 5.3064879,
       "longitude": -58.18929209999999,
@@ -522,13 +532,14 @@
       "kk": "Жоғарғы Демерара-Бербис",
       "ro": "Upper Demerara-Berbice"
     },
-    "comments": null,
     "type": "region"
   },
   "UT": {
     "name": "Upper Takutu-Upper Essequibo",
     "code": "UT",
-    "unofficial_names": "Upper Takutu-Upper Essequibo",
+    "unofficial_names": [
+      "Upper Takutu-Upper Essequibo"
+    ],
     "geo": {
       "latitude": 2.9239595,
       "longitude": -58.73736339999999,
@@ -582,7 +593,6 @@
       "kk": "Жоғарғы Такуту-Жоғарғы Эссекибо",
       "ro": "Upper Takutu-Upper Essequibo"
     },
-    "comments": null,
     "type": "region"
   }
 }

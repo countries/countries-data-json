@@ -2,14 +2,12 @@
   "FUN": {
     "name": "Funafuti",
     "code": "FUN",
-    "unofficial_names": "Funafuti",
+    "unofficial_names": [
+      "Funafuti"
+    ],
     "geo": {
       "latitude": -8.516667,
-      "longitude": 179.216667,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 179.216667
     },
     "translations": {
       "en": "Funafuti",
@@ -80,13 +78,14 @@
       "ps": "فونافوتي",
       "sw": "Funafuti"
     },
-    "comments": null,
     "type": "town_council"
   },
   "NIT": {
     "name": "Niutao",
     "code": "NIT",
-    "unofficial_names": "Niutao",
+    "unofficial_names": [
+      "Niutao"
+    ],
     "geo": {
       "latitude": -6.106425799999999,
       "longitude": 177.3438429,
@@ -131,20 +130,17 @@
       "id": "Niutao",
       "tr": "Niutao"
     },
-    "comments": null,
     "type": "island_council"
   },
   "NKF": {
     "name": "Nukufetau",
     "code": "NKF",
-    "unofficial_names": "Nukufetau",
+    "unofficial_names": [
+      "Nukufetau"
+    ],
     "geo": {
       "latitude": -8,
-      "longitude": 178.5,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 178.5
     },
     "translations": {
       "en": "Nukufetau",
@@ -181,7 +177,6 @@
       "id": "Nukufetau",
       "tr": "Nukufetau"
     },
-    "comments": null,
     "type": "island_council"
   },
   "NKL": {
@@ -192,11 +187,7 @@
     ],
     "geo": {
       "latitude": -9.381110999999999,
-      "longitude": 179.852222,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": 179.852222
     },
     "translations": {
       "en": "Nukulaelae",
@@ -234,13 +225,14 @@
       "no": "Nukulaelae",
       "id": "Nukulaelae"
     },
-    "comments": null,
     "type": "island_council"
   },
   "NMA": {
     "name": "Nanumea",
     "code": "NMA",
-    "unofficial_names": "Nanumea",
+    "unofficial_names": [
+      "Nanumea"
+    ],
     "geo": {
       "latitude": -5.681538799999999,
       "longitude": 176.1281065,
@@ -289,7 +281,6 @@
       "id": "Nanumea",
       "th": "นานูเมอา"
     },
-    "comments": null,
     "type": "island_council"
   },
   "NMG": {
@@ -341,13 +332,11 @@
       "id": "Nanumanga",
       "tr": "Nanumanga"
     },
-    "comments": null,
     "type": "island_council"
   },
   "NUI": {
     "name": "Nui",
     "code": "NUI",
-    "unofficial_names": null,
     "geo": {
       "latitude": -7.2426288,
       "longitude": 177.1485716,
@@ -390,13 +379,14 @@
       "id": "Nui (atol)",
       "tr": "Nui"
     },
-    "comments": null,
     "type": "island_council"
   },
   "VAI": {
     "name": "Vaitupu",
     "code": "VAI",
-    "unofficial_names": "Vaitupu",
+    "unofficial_names": [
+      "Vaitupu"
+    ],
     "geo": {
       "latitude": -7.476732699999999,
       "longitude": 178.6747675,
@@ -441,7 +431,6 @@
       "id": "Vaitupu",
       "tr": "Vaitupu"
     },
-    "comments": null,
     "type": "island_council"
   }
 }

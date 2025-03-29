@@ -2,15 +2,6 @@
   "01": {
     "name": "평양직할시",
     "code": "01",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Pjongjang",
       "am": "ፕዮንግያንግ",
@@ -99,21 +90,11 @@
       "ha_NE": "Pyongyang",
       "sd": "پيانگ يانگ"
     },
-    "comments": null,
     "type": "capital_city"
   },
   "02": {
     "name": "평안남도",
     "code": "02",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة بيونغان الجنوبية",
       "bg": "Южен Пхьонан",
@@ -167,21 +148,11 @@
       "cy": "Talaith De Pyongan",
       "he": "דרום פויאנג"
     },
-    "comments": null,
     "type": "province"
   },
   "03": {
     "name": "평안북도",
     "code": "03",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "بيونغان الشمالية",
       "bg": "Северен Пхьонан",
@@ -236,21 +207,11 @@
       "cy": "Talaith Gogledd Pyongan",
       "he": "צפון פויאנג"
     },
-    "comments": null,
     "type": "province"
   },
   "04": {
     "name": "자강도",
     "code": "04",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "تشاغانغ",
       "bg": "Чаган",
@@ -306,21 +267,11 @@
       "sr": "Чаганг",
       "sr_Latn": "Čagang"
     },
-    "comments": null,
     "type": "province"
   },
   "05": {
     "name": "황해남도",
     "code": "05",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "جنوب مقاطعة هوانغاي",
       "bg": "Южен Хванхе",
@@ -375,21 +326,11 @@
       "sr": "Јужни Хвангхе",
       "sr_Latn": "Južni Hvanghe"
     },
-    "comments": null,
     "type": "province"
   },
   "06": {
     "name": "황해북도",
     "code": "06",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "هوانغهاي الشمالية",
       "bg": "Северен Хванхе",
@@ -444,21 +385,11 @@
       "sr": "Северни Хвангхе",
       "sr_Latn": "Severni Hvanghe"
     },
-    "comments": null,
     "type": "province"
   },
   "07": {
     "name": "강원도",
     "code": "07",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة كانغوون",
       "bg": "Кануън",
@@ -514,21 +445,11 @@
       "sr": "Кангвон",
       "sr_Latn": "Kangvon"
     },
-    "comments": null,
     "type": "province"
   },
   "08": {
     "name": "함경남도",
     "code": "08",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "محافظة هامغيونغ الجنوبية",
       "bg": "Южен Хамгьон",
@@ -583,21 +504,11 @@
       "sr": "Јужни Хамгјонг",
       "sr_Latn": "Južni Hamgjong"
     },
-    "comments": null,
     "type": "province"
   },
   "09": {
     "name": "함경북도",
     "code": "09",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "منطقة شمال هامغيونغ",
       "bg": "Северен Хамгьон",
@@ -645,21 +556,11 @@
       "sr_Latn": "Severni Hamgjong",
       "th": "จังหวัดฮัมกย็องเหนือ"
     },
-    "comments": null,
     "type": "province"
   },
   "10": {
     "name": "량강도",
     "code": "10",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة ريانغانغ",
       "bg": "Рянган",
@@ -713,21 +614,11 @@
       "be": "Янгандо",
       "hy": "Յանգանդո"
     },
-    "comments": null,
     "type": "province"
   },
   "13": {
     "name": "라선특별시",
     "code": "13",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "راسون",
       "bg": "Расън",
@@ -781,14 +672,11 @@
       "be": "Расон",
       "mn": "Расон"
     },
-    "comments": null,
     "type": "special_city"
   },
   "14": {
     "name": "남포특별시",
     "code": "14",
-    "unofficial_names": null,
-    "geo": null,
     "translations": {
       "ceb": "Namp’o",
       "ms": "Nampo",
@@ -836,7 +724,6 @@
       "id": "Nampo",
       "uz": "Nampxo"
     },
-    "comments": null,
     "type": "metropolitan_city"
   }
 }

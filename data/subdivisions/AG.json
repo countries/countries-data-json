@@ -2,7 +2,9 @@
   "03": {
     "name": "Saint George",
     "code": "03",
-    "unofficial_names": "Saint George",
+    "unofficial_names": [
+      "Saint George"
+    ],
     "geo": {
       "latitude": 17.1078489,
       "longitude": -61.7882743,
@@ -56,13 +58,14 @@
       "ca": "Parròquia de Saint George",
       "no": "Saint George prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "04": {
     "name": "Saint John’s",
     "code": "04",
-    "unofficial_names": "Saint John’s",
+    "unofficial_names": [
+      "Saint John’s"
+    ],
     "geo": {
       "latitude": 17.116667,
       "longitude": -61.84999999999999,
@@ -104,13 +107,14 @@
       "fi": "Saint John (Antigua ja Barbuda)",
       "ru": "Сент-Джон"
     },
-    "comments": null,
     "type": "parish"
   },
   "05": {
     "name": "Saint Mary",
     "code": "05",
-    "unofficial_names": "Saint Mary",
+    "unofficial_names": [
+      "Saint Mary"
+    ],
     "geo": {
       "latitude": 17.0512064,
       "longitude": -61.87602829999999,
@@ -165,13 +169,14 @@
       "ca": "Parròquia de Saint Mary",
       "no": "Saint Mary prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "06": {
     "name": "Saint Paul",
     "code": "06",
-    "unofficial_names": "Saint Paul",
+    "unofficial_names": [
+      "Saint Paul"
+    ],
     "geo": {
       "latitude": 17.0371588,
       "longitude": -61.7824256,
@@ -227,13 +232,14 @@
       "az": "Sent Pol səmti",
       "fa": "پاریس سنت پل (آنتیگوا و باربودا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "07": {
     "name": "Saint Peter",
     "code": "07",
-    "unofficial_names": "Saint Peter",
+    "unofficial_names": [
+      "Saint Peter"
+    ],
     "geo": {
       "latitude": 17.0980665,
       "longitude": -61.75903289999999,
@@ -288,13 +294,14 @@
       "no": "Saint Peter prestegjeld",
       "fa": "پریش سنت پیتر (آنتیگوا و باربودا)"
     },
-    "comments": null,
     "type": "parish"
   },
   "08": {
     "name": "Saint Philip",
     "code": "08",
-    "unofficial_names": "Saint Philip",
+    "unofficial_names": [
+      "Saint Philip"
+    ],
     "geo": {
       "latitude": 17.0480636,
       "longitude": -61.71225699999999,
@@ -348,13 +355,14 @@
       "ca": "Parròquia de Saint Philip",
       "no": "Saint Philip prestegjeld"
     },
-    "comments": null,
     "type": "parish"
   },
   "10": {
     "name": "Barbuda",
     "code": "10",
-    "unofficial_names": "Barbuda",
+    "unofficial_names": [
+      "Barbuda"
+    ],
     "geo": {
       "latitude": 17.626798,
       "longitude": -61.7707288,
@@ -427,21 +435,11 @@
       "ky": "Барбуда",
       "ps": "باربودا"
     },
-    "comments": null,
     "type": "dependency"
   },
   "11": {
     "name": "Redonda",
     "code": "11",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "ريدوندا",
       "be": "Востраў Рэдонда",
@@ -497,7 +495,6 @@
       "mk": "Редонда",
       "no": "Redonda"
     },
-    "comments": null,
     "type": "dependency"
   }
 }

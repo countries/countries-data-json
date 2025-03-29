@@ -2,7 +2,9 @@
   "0": {
     "name": "Reykjavík",
     "code": "0",
-    "unofficial_names": "Reykjavík",
+    "unofficial_names": [
+      "Reykjavík"
+    ],
     "geo": {
       "latitude": 64.133333,
       "longitude": -21.933333,
@@ -16,20 +18,17 @@
       "ccp": "𑄢𑄨𑄠𑄎𑄞𑄨𑄇𑄴",
       "ja": "レイキャヴィーク"
     },
-    "comments": null,
     "type": "region"
   },
   "1": {
     "name": "Höfuðborgarsvæði utan Reykjavíkur",
     "code": "1",
-    "unofficial_names": "Höfuðborgarsvæði utan Reykjavíkur",
+    "unofficial_names": [
+      "Höfuðborgarsvæði utan Reykjavíkur"
+    ],
     "geo": {
       "latitude": 64.1475182,
-      "longitude": -21.9428079,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
+      "longitude": -21.9428079
     },
     "translations": {
       "en": "Capital",
@@ -91,13 +90,14 @@
       "he": "רייקיאוויק",
       "ps": "آیسلنډ مرکزي سیمه"
     },
-    "comments": null,
     "type": "region"
   },
   "2": {
     "name": "Suðurnes",
     "code": "2",
-    "unofficial_names": "Suðurnes",
+    "unofficial_names": [
+      "Suðurnes"
+    ],
     "geo": {
       "latitude": 63.91548030000001,
       "longitude": -22.3649667,
@@ -166,13 +166,14 @@
       "hu": "Déli-félszigeti régió (Izland)",
       "ps": "سودورنس"
     },
-    "comments": null,
     "type": "region"
   },
   "3": {
     "name": "Vesturland",
     "code": "3",
-    "unofficial_names": "Vesturland",
+    "unofficial_names": [
+      "Vesturland"
+    ],
     "geo": {
       "latitude": 64.770434,
       "longitude": -21.5341294,
@@ -242,13 +243,14 @@
       "hu": "Nyugati régió (Izland)",
       "ps": "وستورلنډ"
     },
-    "comments": null,
     "type": "region"
   },
   "4": {
     "name": "Vestfirðir",
     "code": "4",
-    "unofficial_names": "Vestfirðir",
+    "unofficial_names": [
+      "Vestfirðir"
+    ],
     "geo": {
       "latitude": 65.91961500000001,
       "longitude": -21.8811763,
@@ -318,13 +320,14 @@
       "ceb": "Vestfirðir (rehiyon)",
       "ps": "وست فیردیر"
     },
-    "comments": null,
     "type": "region"
   },
   "5": {
     "name": "Norðurland vestra",
     "code": "5",
-    "unofficial_names": "Norðurland vestra",
+    "unofficial_names": [
+      "Norðurland vestra"
+    ],
     "geo": {
       "latitude": 65.19625049999999,
       "longitude": -19.2425804,
@@ -392,13 +395,14 @@
       "hu": "Északnyugati régió (Izland)",
       "ps": "نوردورلند وسترا"
     },
-    "comments": null,
     "type": "region"
   },
   "6": {
     "name": "Norðurland eystra",
     "code": "6",
-    "unofficial_names": "Norðurland eystra",
+    "unofficial_names": [
+      "Norðurland eystra"
+    ],
     "geo": {
       "latitude": 65.4713712,
       "longitude": -17.0280279,
@@ -466,13 +470,14 @@
       "hu": "Északkeleti régió (Izland)",
       "ps": "نوردورلند ایسترا"
     },
-    "comments": null,
     "type": "region"
   },
   "7": {
     "name": "Austurland",
     "code": "7",
-    "unofficial_names": "Austurland",
+    "unofficial_names": [
+      "Austurland"
+    ],
     "geo": {
       "latitude": 64.8329974,
       "longitude": -15.7433981,
@@ -540,13 +545,14 @@
       "hu": "Keleti régió (Izland)",
       "ps": "استورلند"
     },
-    "comments": null,
     "type": "region"
   },
   "8": {
     "name": "Suðurland",
     "code": "8",
-    "unofficial_names": "Suðurland",
+    "unofficial_names": [
+      "Suðurland"
+    ],
     "geo": {
       "latitude": 64.2661426,
       "longitude": -18.8158138,
@@ -615,7 +621,6 @@
       "hu": "Déli régió (Izland)",
       "ps": "سودورلند"
     },
-    "comments": null,
     "type": "region"
   },
   "AKH": {

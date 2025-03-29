@@ -2,7 +2,9 @@
   "BIH": {
     "name": "Federacija Bosna i Hercegovina",
     "code": "BIH",
-    "unofficial_names": "Federacija Bosna i Hercegovina",
+    "unofficial_names": [
+      "Federacija Bosna i Hercegovina"
+    ],
     "geo": {
       "latitude": 43.8874897,
       "longitude": 17.842793,
@@ -68,21 +70,11 @@
       "ky": "Босния жана Герцеговина Федерациясы",
       "lv": "Bosnijas un Hercegovinas Federācija"
     },
-    "comments": null,
     "type": "entity"
   },
   "BRC": {
     "name": "Brčko Distrikt",
     "code": "BRC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة برتشو",
       "be": "Акруга Брчко",
@@ -145,13 +137,14 @@
       "mk": "Брчко",
       "no": "Brčko-distriktet"
     },
-    "comments": null,
     "type": "district_with_special_status"
   },
   "SRP": {
     "name": "Republika Srpska",
     "code": "SRP",
-    "unofficial_names": "Republika Srpska",
+    "unofficial_names": [
+      "Republika Srpska"
+    ],
     "geo": {
       "latitude": 44.7280186,
       "longitude": 17.3148136,
@@ -224,7 +217,6 @@
       "af": "Serwiese Republiek",
       "my": "ဆာ့ပ်စ်ကာသမ္မတနိုင်ငံ"
     },
-    "comments": null,
     "type": "entity"
   }
 }

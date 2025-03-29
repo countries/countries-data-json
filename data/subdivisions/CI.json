@@ -2,15 +2,6 @@
   "AB": {
     "name": "Abidjan",
     "code": "AB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Abidjan",
       "ar": "أبيدجان",
@@ -96,21 +87,11 @@
       "ps": "ابیجان",
       "sd": "عابدجان"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "BS": {
     "name": "District du Bas-Sassandra",
     "code": "BS",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة باس-ساساندرا",
       "bn": "বাস সাসান্ড্রা জেলা",
@@ -153,21 +134,11 @@
       "sd": "باس ساسندرہ ضلعو",
       "sw": "Jimbo la Bas-Sassandra"
     },
-    "comments": null,
     "type": "district"
   },
   "CM": {
     "name": "District de la Comoé",
     "code": "CM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Comoé",
       "en": "Comoé",
@@ -188,21 +159,11 @@
       "sd": "ڪوموئي ضلعو",
       "sw": "Wilaya ya Comoé"
     },
-    "comments": null,
     "type": "district"
   },
   "DN": {
     "name": "Denguélé",
     "code": "DN",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة دينغويلي",
       "bn": "ডেনগোয়েলে জেলা",
@@ -246,21 +207,11 @@
       "fa": "ناحیه دنگوله",
       "sw": "Wilaya ya Denguélé"
     },
-    "comments": null,
     "type": "district"
   },
   "GD": {
     "name": "Gôh-Djiboua",
     "code": "GD",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Gôh-Djiboua",
       "en": "Gôh-Djiboua",
@@ -280,21 +231,11 @@
       "sw": "Wilaya ya Gôh-Djiboua",
       "ja": "ゴー＝ジブア地方"
     },
-    "comments": null,
     "type": "district"
   },
   "LC": {
     "name": "District des Lacs",
     "code": "LC",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Lacs",
       "en": "Lacs²",
@@ -313,21 +254,11 @@
       "pl": "Lacs (dystrykt)",
       "sw": "Wilaya ya Lacs"
     },
-    "comments": null,
     "type": "district"
   },
   "LG": {
     "name": "District des Lagunes",
     "code": "LG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Lagunes",
       "en": "Lagunes²",
@@ -345,21 +276,11 @@
       "pl": "Lagunes",
       "sw": "Wilaya ya Lagunes"
     },
-    "comments": null,
     "type": "district"
   },
   "MG": {
     "name": "District des Montagnes",
     "code": "MG",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Montagnes",
       "en": "Montagnes",
@@ -378,21 +299,11 @@
       "pl": "Montagnes",
       "sw": "Wilaya ya Montagnes"
     },
-    "comments": null,
     "type": "district"
   },
   "SM": {
     "name": "District du Sassandra-Marahoué",
     "code": "SM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Sassandra-Marahoué",
       "en": "Sassandra-Marahoué",
@@ -410,21 +321,11 @@
       "sw": "Jimbo la Sassandra-Marahoué",
       "ja": "サッサンドラ＝マラウェ地方"
     },
-    "comments": null,
     "type": "district"
   },
   "SV": {
     "name": "Savanes",
     "code": "SV",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة سافانس",
       "bn": "সাবানেস জেলা",
@@ -468,21 +369,11 @@
       "he": "מחוז סוואננס",
       "sw": "Jimbo la Savanes"
     },
-    "comments": null,
     "type": "district"
   },
   "VB": {
     "name": "Vallée du Bandama",
     "code": "VB",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "ar": "مقاطعة فالي دو باندما",
       "bn": "ভালি দো বান্দামা জেলা",
@@ -525,21 +416,11 @@
       "he": "מחוז ואלי דו בנדמה",
       "sw": "Jimbo la Vallée du Bandama"
     },
-    "comments": null,
     "type": "district"
   },
   "WR": {
     "name": "District du Woroba",
     "code": "WR",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "de": "Woroba",
       "en": "Woroba",
@@ -559,21 +440,11 @@
       "ru": "Вороба",
       "sw": "Jimbo la Woroba"
     },
-    "comments": null,
     "type": "district"
   },
   "YM": {
     "name": "Yamoussoukro",
     "code": "YM",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "af": "Yamoussoukro",
       "am": "ያሙሱክሮ",
@@ -660,21 +531,11 @@
       "ps": "یاموسوکرو",
       "sd": "يامسوڪرو"
     },
-    "comments": null,
     "type": "autonomous_district"
   },
   "ZZ": {
     "name": "Zanzan",
     "code": "ZZ",
-    "unofficial_names": null,
-    "geo": {
-      "latitude": null,
-      "longitude": null,
-      "min_latitude": null,
-      "min_longitude": null,
-      "max_latitude": null,
-      "max_longitude": null
-    },
     "translations": {
       "en": "Zanzan²",
       "uk": "Район Занзан",
@@ -726,7 +587,6 @@
       "fa": "ناحیه ززانز",
       "hy": "Զանզանի շրջան"
     },
-    "comments": null,
     "type": "district"
   }
 }

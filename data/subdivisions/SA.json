@@ -62,7 +62,6 @@
       "ta": "ரியாத் மாகாணம்",
       "uz": "Riyod viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "02": {
@@ -140,7 +139,6 @@
       "sq": "Provinca Meka",
       "uz": "Makka viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "03": {
@@ -212,7 +210,6 @@
       "mk": "Медина",
       "no": "Medina"
     },
-    "comments": null,
     "type": "region"
   },
   "04": {
@@ -284,7 +281,6 @@
       "hy": "Արևելյան նահանգ",
       "uz": "Sharqiy viloyati, Saudi Arabistoni"
     },
-    "comments": null,
     "type": "region"
   },
   "05": {
@@ -358,7 +354,6 @@
       "ka": "ელ-ქაზიმი",
       "uz": "Al-Qassim viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "06": {
@@ -430,7 +425,6 @@
       "no": "Ha’il",
       "uz": "Hail viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "07": {
@@ -499,7 +493,6 @@
       "no": "Tabuk (provins)",
       "uz": "Tabuk viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "08": {
@@ -558,7 +551,6 @@
       "he": "מחוז אל-חודוד א-שמאליה",
       "ta": "வடக்கு எல்லைகள் மாகாணம்"
     },
-    "comments": null,
     "type": "region"
   },
   "09": {
@@ -618,13 +610,14 @@
       "ta": "ஜாசான் மாகாணம்",
       "uz": "Jizan viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "10": {
     "name": "Najrān",
     "code": "10",
-    "unofficial_names": "Najran",
+    "unofficial_names": [
+      "Najran"
+    ],
     "geo": {
       "latitude": 17.491667,
       "longitude": 44.132222,
@@ -685,7 +678,6 @@
       "he": "מחוז נג׳ראן",
       "uz": "Najron viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "11": {
@@ -756,7 +748,6 @@
       "ne": "अल बाहा प्रान्त",
       "uz": "Al-Baha viloyati"
     },
-    "comments": null,
     "type": "region"
   },
   "12": {
@@ -827,7 +818,6 @@
       "he": "מחוז אל-ג׳וף",
       "hy": "Ալ Ջաուֆ"
     },
-    "comments": null,
     "type": "region"
   },
   "14": {
@@ -899,7 +889,6 @@
       "az": "Əsir bölgəsi",
       "gl": "Provincia de Asir"
     },
-    "comments": null,
     "type": "region"
   }
 }
