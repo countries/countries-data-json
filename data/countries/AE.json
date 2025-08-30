@@ -63,7 +63,10 @@
       "Verenigde Arabische Emiraten"
     ],
     "vat_rates": {
-      "standard": 5
+      "standard": 5,
+      "reduced": [],
+      "super_reduced": null,
+      "parking": null
     },
     "vehicle_registration_code": "UAE",
     "world_region": "EMEA"

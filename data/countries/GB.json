@@ -60,6 +60,7 @@
     "unofficial_names": [
       "United Kingdom",
       "The United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland",
       "England",
       "Großbritannien",
       "Vereinigtes Königreich",
@@ -79,7 +80,9 @@
       "standard": 20,
       "reduced": [
         5
-      ]
+      ],
+      "super_reduced": null,
+      "parking": null
     },
     "vehicle_registration_code": "UK",
     "world_region": "EMEA"

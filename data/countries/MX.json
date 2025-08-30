@@ -63,7 +63,10 @@
       "メキシコ"
     ],
     "vat_rates": {
-      "standard": 16
+      "standard": 16,
+      "reduced": [],
+      "super_reduced": null,
+      "parking": null
     },
     "vehicle_registration_code": "MEX",
     "world_region": "AMER"
