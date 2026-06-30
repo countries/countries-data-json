@@ -1,7 +1,7 @@
 Countries data - JSON
 =============
 
-![Auto Update Country Data](https://github.com/countries/countries-data-json/workflows/Auto%20Update%20Country%20Data/badge.svg?event=schedule)
+[![Auto Update Country Data](https://github.com/countries/countries-data-json/actions/workflows/main.yml/badge.svg?event=schedule)](https://github.com/countries/countries-data-json/actions/workflows/main.yml)
 
 This repository represents a collection of all sorts of useful information for every country in the ISO 3166 standard. It contains info for the following standards ISO3166-1 (countries), ISO3166-2 (states/subdivisions), ISO4217 (currency) and E.164 (phone numbers).
 
